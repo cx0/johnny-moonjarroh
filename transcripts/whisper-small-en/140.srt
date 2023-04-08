@@ -1,0 +1,5208 @@
+1
+00:00:00,000 --> 00:00:15,600
+Hey everyone, welcome to the Drive podcast. I'm your host, Peter Attia. This podcast,
+
+2
+00:00:15,600 --> 00:00:19,380
+my website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:19,380 --> 00:00:24,360
+longevity into something accessible for everyone. Our goal is to provide the best content in
+
+4
+00:00:24,360 --> 00:00:28,440
+health and wellness, full stop, and we've assembled a great team of analysts to make
+
+5
+00:00:28,440 --> 00:00:32,720
+this happen. If you enjoy this podcast, we've created a membership program that brings you
+
+6
+00:00:32,720 --> 00:00:36,880
+far more in-depth content if you want to take your knowledge of this space to the next level.
+
+7
+00:00:36,880 --> 00:00:41,560
+At the end of this episode, I'll explain what those benefits are, or if you want to learn more now,
+
+8
+00:00:41,560 --> 00:00:48,080
+head over to PeterAttiaMD.com forward slash subscribe. Now, without further delay, here's
+
+9
+00:00:48,080 --> 00:00:54,800
+today's episode. I guess this week is Dr. Gerald Schulman. Jerry's a professor of medicine and
+
+10
+00:00:54,800 --> 00:00:59,760
+cellular and molecular physiology at Yale. He's also the co-director of the Yale Diabetes
+
+11
+00:00:59,760 --> 00:01:05,720
+Research Center. In 2018, he received the Banting Medal for scientific achievement, arguably the
+
+12
+00:01:05,720 --> 00:01:11,960
+most prestigious award one can win in this field. He's pioneered the use of magnetic resonance
+
+13
+00:01:11,960 --> 00:01:18,040
+spectroscopy combined with mass spec to noninvasively examine cellular glucose and fat metabolism. Now,
+
+14
+00:01:18,040 --> 00:01:23,760
+you may ask, why does that matter? And we get to that right at the outset of this interview. If you
+
+15
+00:01:23,840 --> 00:01:29,720
+want to understand insulin resistance, if you want to understand hyperinsulinemia, type 2 diabetes,
+
+16
+00:01:29,720 --> 00:01:35,560
+non-alcoholic fatty liver disease, you have to understand the movement of glucose and fat.
+
+17
+00:01:35,560 --> 00:01:41,120
+A way to think about this is to think about it this way. If you go and get a blood test,
+
+18
+00:01:41,120 --> 00:01:47,560
+even the most fancy blood test imaginable, you're basically looking at a picture, a snapshot,
+
+19
+00:01:47,560 --> 00:01:53,920
+a moment in time. What these techniques that Jerry and his collaborators have developed over
+
+20
+00:01:53,920 --> 00:02:00,720
+many years are basically allowing you to watch videos. You can see the flux, you can see the
+
+21
+00:02:00,720 --> 00:02:06,640
+movement of glucose. Furthermore, they've been able to see those things as they happen inside
+
+22
+00:02:06,640 --> 00:02:13,960
+even human cells. So I'm going to, I guess, maybe make an apology at the outset of this and say
+
+23
+00:02:13,960 --> 00:02:19,120
+that this is about as technical an interview as I probably have done in a while. There are probably
+
+24
+00:02:19,120 --> 00:02:25,120
+only a few interviews that I've done on this podcast that get into more technical weeds than
+
+25
+00:02:25,120 --> 00:02:31,200
+this one. But unfortunately, that is the price one has to pay if they want to understand arguably
+
+26
+00:02:31,200 --> 00:02:37,960
+the most important pathologic condition in our species. And I get into what I mean by that in
+
+27
+00:02:37,960 --> 00:02:45,640
+the interview, so I won't elaborate on that further. We talk a lot about what it is to be
+
+28
+00:02:45,640 --> 00:02:51,800
+insulin resistant. This term gets thrown around with such ubiquity that you'd think everybody
+
+29
+00:02:51,800 --> 00:02:56,040
+knows what it means and yet to define it is very complicated. But I think by the end of this
+
+30
+00:02:56,040 --> 00:03:01,280
+interview, you will undoubtedly understand how to define insulin resistance. And I think you will
+
+31
+00:03:01,280 --> 00:03:06,560
+have a very good sense of where it begins and what it means in a subclinical versus a clinical
+
+32
+00:03:06,560 --> 00:03:12,360
+state and what the sequence of events are that lead to a condition in the muscle ultimately
+
+33
+00:03:12,360 --> 00:03:17,240
+affecting the liver, ultimately affecting the whole body. I'm not going to promise you that
+
+34
+00:03:17,240 --> 00:03:21,880
+you'll get that on the first listen. I think that might require more than one listen and it probably
+
+35
+00:03:21,880 --> 00:03:28,880
+requires going through the show notes, which will be littered with fantastic figures. In fact,
+
+36
+00:03:28,880 --> 00:03:36,160
+as Jerry and I did this interview over zoom for, I don't know, I would say maybe half to two thirds
+
+37
+00:03:36,160 --> 00:03:41,120
+of the interview, he was sharing slides as we were doing it. And keep in mind, I'm quite familiar
+
+38
+00:03:41,120 --> 00:03:44,960
+with these concepts. So for someone who's less familiar with these concepts, I think it will be
+
+39
+00:03:44,960 --> 00:03:49,920
+only that much more valuable. One really nice little bonus thing that came out of this is a
+
+40
+00:03:49,920 --> 00:03:55,520
+beautiful discussion at the end of metformin, where I actually learned something really profound that
+
+41
+00:03:55,520 --> 00:04:01,640
+was incredibly relevant to my understanding of metformin in my ongoing interest around the question
+
+42
+00:04:01,640 --> 00:04:07,880
+of metformin suitability as a longevity agent. I could say more about this, but I think it's just
+
+43
+00:04:07,880 --> 00:04:12,920
+one of those things where I asked you to sort of take a leap of faith with me that this is important,
+
+44
+00:04:12,920 --> 00:04:17,640
+even if it feels a little bit like drinking your cough syrup at times. But if you really want to
+
+45
+00:04:17,640 --> 00:04:23,080
+understand longevity, you're going to have to sort of figure out what insulin resistance means. So
+
+46
+00:04:23,080 --> 00:04:28,840
+without further delay, please enjoy my very in-depth conversation with Dr. Gerald Schulman.
+
+47
+00:04:32,440 --> 00:04:41,400
+Jerry, thank you so much for making time to sit down virtually with me today. As I said before we
+
+48
+00:04:41,400 --> 00:04:47,080
+hopped on, this is a topic that is near and dear to my heart. And frankly, all roads seem to point
+
+49
+00:04:47,080 --> 00:04:53,640
+to you. And that goes back to, I don't know, at least for me, probably 2011, when I became really
+
+50
+00:04:53,640 --> 00:05:00,520
+fascinated by this topic. And there aren't a lot of topics where I've personally experienced the
+
+51
+00:05:00,520 --> 00:05:06,760
+following problem, which is the more I think I understand it, the less I do. So now when someone
+
+52
+00:05:06,760 --> 00:05:12,280
+says to me, Peter, what's insulin resistance? You know, I can sort of give glib answers to that
+
+53
+00:05:12,280 --> 00:05:17,640
+question, but the reality of it is I don't think I fully understand what it is. And I don't know
+
+54
+00:05:17,640 --> 00:05:21,400
+that I can represent to the listener that by the end of this, they will fully understand what
+
+55
+00:05:21,400 --> 00:05:27,720
+insulin resistance is. But what I think they'll understand is how maybe we can think about it
+
+56
+00:05:27,720 --> 00:05:31,560
+through the lens of different tissues and what may or may not be going on. And in large part,
+
+57
+00:05:31,560 --> 00:05:37,000
+I think that's due to the incredible work you've done over your entire career. I guess I'd like to
+
+58
+00:05:37,000 --> 00:05:40,840
+kind of just start with a little bit of background. You did an MD and a PhD and you're trained as an
+
+59
+00:05:40,840 --> 00:05:46,440
+endocrinologist, correct? Yeah, that's correct. And then I did residency in medicine at Duke,
+
+60
+00:05:46,440 --> 00:05:51,320
+fellowship in endocrinology at the Mass General Harvard. And then I've always been interested in
+
+61
+00:05:51,400 --> 00:05:59,880
+metabolism, diabetes. I guess probably my father was a diabetologist, went to summer camp. He was
+
+62
+00:05:59,880 --> 00:06:06,920
+the doctor for type one diabetics at an early age, was exposed to problems type one diabetes in my
+
+63
+00:06:06,920 --> 00:06:13,240
+peers. I was just a camper and saw my peers getting hypoglycemic or getting into issues
+
+64
+00:06:13,240 --> 00:06:18,760
+with ketoacidosis. So I think I was exposed to metabolism at an early age. I'm sure it left an
+
+65
+00:06:18,760 --> 00:06:23,320
+impression on me. My father wanted me to become a radiologist because my physics background, but
+
+66
+00:06:23,320 --> 00:06:28,040
+I ended up staying in metabolism and doing endocrinology. I'm sure you would have done great
+
+67
+00:06:28,040 --> 00:06:32,680
+things in radiology, but I also think we're far better off for the contributions you've made in
+
+68
+00:06:32,680 --> 00:06:39,720
+this field. When did this particular question of understanding what insulin resistance meant
+
+69
+00:06:40,440 --> 00:06:47,000
+and actually starting to differentiate between some of these phenotypes of what is the fate of
+
+70
+00:06:47,080 --> 00:06:52,280
+glucose in a person with normal metabolism versus what is the fate of ingested glucose in someone
+
+71
+00:06:52,280 --> 00:06:57,080
+with type two diabetes? When did that question begin to obsess you? And specifically now that's
+
+72
+00:06:57,080 --> 00:07:00,600
+a sort of change from the patients that you grew up with with type one diabetes.
+
+73
+00:07:01,160 --> 00:07:05,800
+Studying as an undergraduate medical school, I was always interested in biochemistry, physiology.
+
+74
+00:07:05,800 --> 00:07:11,800
+I had an experience. I was visiting a medical student at Vanderbilt in the 70s and got interested
+
+75
+00:07:11,800 --> 00:07:18,520
+in in vivo metabolism, doing study metabolism in awake animals, looking specifically at glucose
+
+76
+00:07:18,520 --> 00:07:24,440
+and fatty acid turnover, using tracers to actually measure how fast things are being made,
+
+77
+00:07:24,440 --> 00:07:28,440
+glucose is made, how fast fatty acids are being made in the body and metabolized.
+
+78
+00:07:29,080 --> 00:07:32,760
+In medical training, you go back to medical school, you learn how to become a good doctor,
+
+79
+00:07:32,760 --> 00:07:36,280
+take care of patients. But then in your fellowship years, you're back in the lab.
+
+80
+00:07:37,000 --> 00:07:43,000
+And I really wanted to get back to understand metabolism by looking inside the cell. So
+
+81
+00:07:43,000 --> 00:07:47,640
+everything I had done prior to then, and most people studying biochemistry, physiology would,
+
+82
+00:07:48,280 --> 00:07:53,960
+to understand, so diabetes, metabolic disease, I was interested in this question. It's an important
+
+83
+00:07:53,960 --> 00:07:59,480
+disease, leading cause of blindness, end stage renal disease, leading cause of non-traumatic
+
+84
+00:07:59,480 --> 00:08:05,480
+loss of limb. The cost to U.S. society is a huge impact and now it's becoming a global problem
+
+85
+00:08:05,480 --> 00:08:11,720
+as they adapt to Westernized diets and things. And I wanted to look inside the cell, metabolism
+
+86
+00:08:11,720 --> 00:08:15,960
+inside the cell. And so that took me into the world of nuclear magnetic resonance spectroscopy.
+
+87
+00:08:15,960 --> 00:08:21,320
+It actually brought me down to New Haven, where they were just setting up methods, this technique,
+
+88
+00:08:21,320 --> 00:08:27,240
+to actually look inside living yeast cells. I said, gosh, this, we can adapt this to humans and look
+
+89
+00:08:27,240 --> 00:08:33,560
+inside metabolism in humans, in liver and muscle and other organs. To specifically get at your
+
+90
+00:08:33,560 --> 00:08:37,960
+question, I think it's such an important metabolic disease, the most common metabolic disease. And so
+
+91
+00:08:37,960 --> 00:08:43,000
+someone's who's interested in metabolism, it's a natural segue. I sometimes describe it to patients
+
+92
+00:08:43,000 --> 00:08:49,240
+as the foundation upon which the major three chronic diseases sit. So you described some ways
+
+93
+00:08:49,240 --> 00:08:54,520
+in which patients with type 2 diabetes die, specifically through amputations or complications
+
+94
+00:08:54,520 --> 00:08:59,240
+of amputations, such as infections and obviously through end stage renal disease. But I would
+
+95
+00:08:59,240 --> 00:09:03,880
+argue that the majority of the mortality through diabetes comes not so much through diabetes, but
+
+96
+00:09:03,880 --> 00:09:10,040
+through its amplification of atherosclerotic disease, cancer and dementia, all of which are
+
+97
+00:09:10,040 --> 00:09:15,800
+force multiplied in spades by type 2 diabetes. So the way I explain it to people, and I hope that
+
+98
+00:09:15,800 --> 00:09:20,680
+by the end of this, you'll help me refine this because it may not be accurate. But I describe
+
+99
+00:09:20,680 --> 00:09:26,280
+to patients that there is a continuum from hyperinsulinemia to impaired glucose disposal,
+
+100
+00:09:26,280 --> 00:09:33,160
+to naphyl D and NASH to type 2 diabetes. And that continuum makes up a plane upon which all
+
+101
+00:09:33,160 --> 00:09:38,120
+chronic disease get worse. If we're going to be serious about the business of delaying the onset
+
+102
+00:09:38,120 --> 00:09:42,600
+of death, we have to be serious about the business of delaying the onset of chronic disease. And if
+
+103
+00:09:42,600 --> 00:09:49,240
+we want to do that, we must fix our metabolisms. That's my thesis. Total agreement. You're spot
+
+104
+00:09:49,240 --> 00:09:56,600
+on. So insulin resistance is the main factor which leads to type 2 diabetes, but it also,
+
+105
+00:09:56,600 --> 00:10:03,320
+and again, this is give credit to Jerry Reven, who in his 1988 Banting lecture first got everyone's
+
+106
+00:10:03,320 --> 00:10:10,200
+interest in basically saying insulin resistance is not only leading to diabetes, but as you say,
+
+107
+00:10:10,200 --> 00:10:16,920
+atherosclerosis, basically hyperlipidemia associated with inflammation, higher acid,
+
+108
+00:10:16,920 --> 00:10:22,760
+polycystic ovarian disease. Now we can kind of add to that. Now we can talk about naphyl,
+
+109
+00:10:22,760 --> 00:10:28,200
+or I prefer the term metabolic associated fatty liver disease, MATHL-D. That's going to be the
+
+110
+00:10:28,200 --> 00:10:32,680
+most common cause of liver disease, liver inflammation, end stage liver disease, and
+
+111
+00:10:32,680 --> 00:10:39,320
+liver cancer. And finally, another arm for Jerry's circle of insulin resistance and all these arms
+
+112
+00:10:39,320 --> 00:10:44,680
+budding off of them, heart disease, as we talked about high uric acid, high triglycerides, and high
+
+113
+00:10:44,680 --> 00:10:52,040
+cholesterol is cancer. So we're now, as you know, seeing huge increases in many forms of cancers,
+
+114
+00:10:52,040 --> 00:10:57,240
+which are associated with obesity, breast cancer, colon cancer, pancreatic cancer, liver cancer.
+
+115
+00:10:57,800 --> 00:11:03,640
+And by the bed, it's insulin resistance that's driving the increase in all of these cancers.
+
+116
+00:11:03,640 --> 00:11:07,960
+Now it's not causing them necessarily, but it's promoting the growth. And again, we have very
+
+117
+00:11:07,960 --> 00:11:13,720
+strong preclinical evidence for this in animals. You can take animals, Rachel Perry, who was in my
+
+118
+00:11:13,720 --> 00:11:18,520
+group and now starting her own lab, has taken breast cancer models, human breast cancer models,
+
+119
+00:11:18,520 --> 00:11:24,840
+colon cancer, put them into mice and just giving them insulin, putting in insulin pumps, and that
+
+120
+00:11:24,840 --> 00:11:30,040
+the rate of tumor growth is accelerated and you treat them with an insulin sensitizing agents and
+
+121
+00:11:30,040 --> 00:11:36,600
+you can slow down tumor growth. So I think you're spot on, Peter. Insulin resistance is driving a lot
+
+122
+00:11:36,600 --> 00:11:41,720
+of disease. And you're also spot on in that that's what's killing our patients with type 2 diabetes.
+
+123
+00:11:41,720 --> 00:11:46,040
+It is heart disease. These other things are the chronic complications of hyperglycemia, the
+
+124
+00:11:46,040 --> 00:11:51,160
+blindness, the end stage renal disease and the small vessel disease leading to non-traumatic
+
+125
+00:11:51,160 --> 00:11:57,000
+loss of limb. Also hyperglycemia, but insulin resistance, which is very common. It's probably
+
+126
+00:11:57,000 --> 00:12:03,000
+one quarter of our population and one half of our population has it perfectly asymptomatic.
+
+127
+00:12:03,000 --> 00:12:07,720
+You don't know you have it. We can test for it using sophisticated tools that we can talk about,
+
+128
+00:12:07,720 --> 00:12:14,280
+but it's a very common phenomenon. So before we launch into what I think is an important
+
+129
+00:12:14,280 --> 00:12:20,600
+discussion around the fate of glucose under normal conditions, which is the backdrop against which I
+
+130
+00:12:20,600 --> 00:12:25,880
+think everything we are going to talk about has to be laid out. I'd like you to spend a moment doing
+
+131
+00:12:25,880 --> 00:12:31,160
+something you're probably not asked to do often, which is at least explain to some extent what the
+
+132
+00:12:31,800 --> 00:12:38,600
+NMR technique allows you to do because so much of what we're going to talk about today requires
+
+133
+00:12:39,240 --> 00:12:45,000
+either a leap of faith that you know what you're talking about or at least some sense of how a
+
+134
+00:12:45,000 --> 00:12:54,440
+scientist is able to actually look at substrates and substrate utilization and substrate movement
+
+135
+00:12:54,440 --> 00:12:59,240
+in the ways that we have to be able to talk about them at a molecular and cellular level to make
+
+136
+00:12:59,240 --> 00:13:05,000
+sense. So I know it's a bit complicated, but because it is such a cornerstone of your work,
+
+137
+00:13:05,000 --> 00:13:12,280
+can you explain what labeling means and how you can measure those labeled molecules in vivo?
+
+138
+00:13:12,840 --> 00:13:19,480
+In metabolism, the traditional methods, since going back to dates maybe 50 years ago, when you wanted
+
+139
+00:13:19,480 --> 00:13:25,240
+to measure more than just concentration of a metabolite, you go to your doc, you measure blood
+
+140
+00:13:25,240 --> 00:13:30,840
+sugar, cholesterol, and it's a static concentration. And what we know is what's much more important
+
+141
+00:13:30,840 --> 00:13:37,640
+than just measuring concentration is flux. And that's basically production versus uptake by a
+
+142
+00:13:37,640 --> 00:13:43,320
+tissue and know where something's being made, where it's going. And the traditional approach has been
+
+143
+00:13:43,320 --> 00:13:49,320
+to put a label on that, whatever you're interested in tracing, the glucose. And so you're used to
+
+144
+00:13:49,320 --> 00:13:55,560
+basically with the advent of cyclotrons. It really started in California, in Berkeley, they started,
+
+145
+00:13:55,560 --> 00:14:00,840
+you know, had cyclotrons, they're interested in nuclear theory. The side product is you can make
+
+146
+00:14:00,840 --> 00:14:07,240
+isotopes. So you can make carbon radio labeled, so it's an emitter, and put that carbon onto a glucose
+
+147
+00:14:07,240 --> 00:14:14,040
+molecule and then trace it. So for more than 50 years, we've been able to buy radio labeled isotopes
+
+148
+00:14:14,120 --> 00:14:20,680
+and put a carbon C14, which is radioactive, low dose radiation or tritium, which is a form of
+
+149
+00:14:20,680 --> 00:14:27,240
+hydrogen, and then give it to a person, an animal, and do blood sampling and actually measure then
+
+150
+00:14:27,240 --> 00:14:32,760
+turnover of that metabolite. So that's telling us very important information. Many, many important
+
+151
+00:14:32,760 --> 00:14:38,840
+studies have used this and to dates, we still use this to track production and clearance of whatever
+
+152
+00:14:38,840 --> 00:14:44,840
+we're labeling. What you can't get from that though, is really what's happening inside the cell,
+
+153
+00:14:44,840 --> 00:14:49,080
+which is really where I wanted to go. So we've been measuring turnover of metabolites. Again,
+
+154
+00:14:49,080 --> 00:14:54,040
+that's what I did many years ago, where I first started my interest in metabolism. To do that,
+
+155
+00:14:54,040 --> 00:14:58,760
+you need to get inside and look at the cell. So the approaches have been traditionally something
+
+156
+00:14:58,760 --> 00:15:04,280
+called positron emission tomography, which is now used clinically sometimes to track tumor growth,
+
+157
+00:15:04,280 --> 00:15:09,960
+because tumors take up glucose and you can give a pet emitter of glucose and then see if the tumor
+
+158
+00:15:09,960 --> 00:15:15,240
+is taking it up. That's radioactive. And again, I'm a clinical physiologist. I prefer not to give
+
+159
+00:15:15,240 --> 00:15:21,720
+radio labeled substrates, radioactive substrates to volunteers who volunteer for my study. The other
+
+160
+00:15:21,720 --> 00:15:28,200
+approach was nuclear magnetic resonance spectroscopy. There were two groups that were pioneering this
+
+161
+00:15:28,200 --> 00:15:33,480
+kind of work. There was one group in George Rada at Oxford, and this was phosphor centimar. And so
+
+162
+00:15:33,560 --> 00:15:41,320
+what George was doing, so NMR takes advantage of the fact that the nuclei of certain atoms have
+
+163
+00:15:41,320 --> 00:15:46,520
+spin properties. And I won't get into all the physics behind this, but they make them behave
+
+164
+00:15:46,520 --> 00:15:51,880
+like tiny bar magnets. And so when you put them in a strong magnetic field, they tend to line up or
+
+165
+00:15:51,880 --> 00:15:57,240
+against this magnetic field. And because they have spin properties, they will actually precess in this
+
+166
+00:15:57,240 --> 00:16:03,560
+magnetic field at a set frequency. If you pulse them at the frequency that they're precessing,
+
+167
+00:16:03,560 --> 00:16:08,440
+they tip out of this field. And then when they relax, they emit energy that you can pick up with
+
+168
+00:16:08,440 --> 00:16:15,160
+a little rate with an antenna and basically get chemical information about where that label is
+
+169
+00:16:15,160 --> 00:16:21,480
+within the molecule. So everything I just said, all you need to understand is you can use this
+
+170
+00:16:21,560 --> 00:16:27,960
+method to basically measure the amount of the metabolite, more importantly, which, for example,
+
+171
+00:16:27,960 --> 00:16:33,720
+carbon atom within that glucose molecule is labeled. It has something called chemical shift,
+
+172
+00:16:33,720 --> 00:16:39,400
+experiences a slightly different magnetic field depending where it is within that glucose molecule.
+
+173
+00:16:40,040 --> 00:16:45,400
+So for the listeners, all you need to understand is using this method, we're able to get
+
+174
+00:16:45,400 --> 00:16:51,400
+biochemical information of not only measuring a metabolite, but then using the power of
+
+175
+00:16:51,480 --> 00:16:57,880
+for example, C13 NMR track the label as it's being metabolized inside the cell. So that's
+
+176
+00:16:57,880 --> 00:17:05,560
+carbon NMR. So in our bodies, 99% of the carbon in our body is C12, which is NMR invisible, but 1%
+
+177
+00:17:06,520 --> 00:17:13,480
+is C13, which is NMR visible, has this precession properties. You can use a labeled, for example,
+
+178
+00:17:13,480 --> 00:17:20,600
+C1 labeled glucose and then track that C1 glucose as it gets into the say muscle cell or liver cell
+
+179
+00:17:20,600 --> 00:17:26,760
+and gets metabolized and finds its way into glycogen. And then you can measure flux. You can
+
+180
+00:17:26,760 --> 00:17:33,960
+actually, for the first time in humans non-invasively without any ionizing radiation, measure how much
+
+181
+00:17:33,960 --> 00:17:39,960
+is going in through measure intracellular pathway flux. Phosphorus NMR as getting back to George
+
+182
+00:17:39,960 --> 00:17:44,600
+Roddet, George pioneered Phosphorus NMR. There you don't have to give any isotopes. There
+
+183
+00:17:45,240 --> 00:17:52,120
+you actually see P31, Phosphorus 31 is 100% natural abundant. You see all the phosphorus
+
+184
+00:17:52,120 --> 00:17:57,480
+that's in solution in our bodies. So for example, when our volunteers go into side of the magnet
+
+185
+00:17:57,480 --> 00:18:04,120
+and we put a leg or arm into the magnet, we can see all the high energy phosphates in, for example,
+
+186
+00:18:04,120 --> 00:18:10,680
+ATP and the same triphosphate. There are three phosphates and you can actually see each one of
+
+187
+00:18:10,680 --> 00:18:16,040
+those phosphates. You can see phosphocreatin has a different chemical shift. You can see inorganic
+
+188
+00:18:16,040 --> 00:18:21,720
+phosphate and we developed methods. Doug Rothman and others at Yale who I worked with were able to
+
+189
+00:18:21,720 --> 00:18:26,280
+develop methods measure glucose six phosphate. So we can actually look at one a key intermediate
+
+190
+00:18:26,280 --> 00:18:31,240
+getting glucose from outside inside. Another method we developed was we can measure intracellular
+
+191
+00:18:31,240 --> 00:18:37,480
+glucose inside human muscle non-invasively. So by measuring these metabolites, measuring flux,
+
+192
+00:18:37,480 --> 00:18:43,160
+we can actually then ask the very simple questions, which this is how we started out
+
+193
+00:18:43,160 --> 00:18:49,000
+in humans. As you say, you know, again, diabetes is an abnormality of metabolism. Glucose is the
+
+194
+00:18:49,000 --> 00:18:54,600
+metabolite. And we were able to basically ask very simple questions when a person, a human,
+
+195
+00:18:54,600 --> 00:18:59,640
+which is my favorite model because it's the one most relevant to understanding diabetes and
+
+196
+00:18:59,640 --> 00:19:06,840
+metabolic disease. When we ingest carbohydrate, how much of that carbohydrate ends up in glycogen
+
+197
+00:19:06,840 --> 00:19:13,720
+versus oxidation into carbon dioxide or gets converted to lactate through glycolysis. And so
+
+198
+00:19:13,720 --> 00:19:19,480
+and then more importantly in the patient with or the volunteer with diabetes, how important is that
+
+199
+00:19:19,480 --> 00:19:24,840
+pathway glucose to glycogen accounting for their insulin resistance? This story is very short.
+
+200
+00:19:25,480 --> 00:19:31,880
+Before you go there, let's demonstrate clinically a difference between these two people. So let's
+
+201
+00:19:31,880 --> 00:19:39,240
+take the normal patient without type 2 diabetes, and then let's contrast them with a very similar
+
+202
+00:19:39,240 --> 00:19:46,200
+person of similar size who has type 2 diabetes. We will feed them both a high carbohydrate meal
+
+203
+00:19:46,200 --> 00:19:53,320
+in the evening. Let's just assume that that meal contains 100 to 200 grams of carbohydrate. They
+
+204
+00:19:53,320 --> 00:19:58,600
+will digest their food. We won't really have much insight into what's happening overnight, you will
+
+205
+00:19:58,600 --> 00:20:05,240
+tell us. But at the next morning, we do a fasting blood glucose level on them. This is now 12 hours
+
+206
+00:20:05,240 --> 00:20:12,120
+after their meal. The patient who does not have type 2 diabetes might arrive with a blood sugar of
+
+207
+00:20:12,120 --> 00:20:18,840
+100 milligrams per deciliter, which we will say is normal. His counterpart with type 2 diabetes
+
+208
+00:20:19,400 --> 00:20:25,240
+may actually at that time have a blood sugar of 200 milligrams per deciliter, which is obviously
+
+209
+00:20:25,240 --> 00:20:31,320
+abnormal and consistent with the diagnosis of type 2 diabetes. Now of course, that only represents
+
+210
+00:20:31,320 --> 00:20:37,480
+about an extra 5 grams of glucose in the circulation that is the difference between the 100 and the 200
+
+211
+00:20:37,480 --> 00:20:44,280
+milligrams per deciliter, which is a small fraction of the, call it 1 to 200 milligrams,
+
+212
+00:20:44,280 --> 00:20:49,160
+pardon me, grams rather, 5 gram difference. So it's a small fraction of what was ingested the
+
+213
+00:20:49,160 --> 00:20:56,200
+night before. What is the difference between those two people? Why does one of them have such a hard
+
+214
+00:20:56,200 --> 00:21:03,400
+time with that extra 5 grams of glucose? What was the fate of glucose in the healthy person to begin
+
+215
+00:21:03,400 --> 00:21:08,840
+with? How did the body treat it? The body when you take in, and again this is what we were able to
+
+216
+00:21:08,840 --> 00:21:14,440
+demonstrate by actually measuring glycogen flux in liver and muscle, that ingested in a healthy
+
+217
+00:21:14,440 --> 00:21:21,640
+individual ends up as mostly liver and muscle glycogen. It takes up muscle and depends on the
+
+218
+00:21:21,640 --> 00:21:27,880
+size of the meal and how it's being administered, the proportionality between liver and muscle. But
+
+219
+00:21:27,880 --> 00:21:36,360
+the bottom line, it's 80-90% is stored as glycogen. In the diabetic contrast is there's two processes
+
+220
+00:21:36,360 --> 00:21:45,640
+that have gone awry. One is that the liver is geared up to make more glucose than it should be
+
+221
+00:21:45,640 --> 00:21:50,920
+through a process called gluconeogenesis, the conversion of non-glucose precursors like
+
+222
+00:21:50,920 --> 00:21:58,200
+amino acids, alanine, lactate to glucose. And that process is accelerated, so the liver is making
+
+223
+00:21:58,200 --> 00:22:05,240
+twice the amount of glucose as it should. And then you have a block in the periphery where the glucose
+
+224
+00:22:05,240 --> 00:22:10,680
+same amount of insulin is not causing the glucose to be taken up by the muscle. Again, in terms of
+
+225
+00:22:10,680 --> 00:22:16,600
+flux, what I care most about, production is up and clearance or disappearance is down. And besides
+
+226
+00:22:16,600 --> 00:22:21,880
+this, also even in some diabetics, insulin is inappropriately low because we know if we give
+
+227
+00:22:21,880 --> 00:22:28,680
+more insulin, we can overcome these abnormalities. And so the beta cell has also become abnormal in
+
+228
+00:22:28,680 --> 00:22:33,160
+the established diabetic where it's not making enough insulin. That can be secondary to these
+
+229
+00:22:33,160 --> 00:22:38,360
+other issues, glucose toxicity and other factors that have caused this beta cell impairment. Because
+
+230
+00:22:38,360 --> 00:22:43,720
+we know most importantly when we reverse the insulin resistance, this is a very important study,
+
+231
+00:22:43,720 --> 00:22:48,920
+is we've taken these type 2 diabetics and short-term hypocaloric feeding, 1200 calories a day.
+
+232
+00:22:49,720 --> 00:22:55,800
+We basically can reverse all these abnormalities through reduction in the topic lipid, which we
+
+233
+00:22:55,800 --> 00:23:00,200
+can get into molecular mechanisms and reverse their diabetes. And this has now been shown
+
+234
+00:23:00,200 --> 00:23:05,080
+by many, many other investigators. And most recently, Roy Taylor, my colleague who trained
+
+235
+00:23:05,080 --> 00:23:11,160
+with us, is now doing this in the primary care clinic back in the UK. But usually you've asked
+
+236
+00:23:11,160 --> 00:23:17,320
+the question, usually when we talk about diabetes, actually it may be easier to understand when you
+
+237
+00:23:17,320 --> 00:23:24,440
+start in the young lean 20-year-old who already has insulin resistance. These are the young lean
+
+238
+00:23:24,440 --> 00:23:28,920
+college students that we study. It's actually easier, I think, for your listeners to understand
+
+239
+00:23:28,920 --> 00:23:33,880
+if we start with just pure insulin resistance, which we see is the most common thing, as I said,
+
+240
+00:23:33,880 --> 00:23:38,600
+probably half the people in the US actually have insulin resistance don't know it because they're
+
+241
+00:23:38,600 --> 00:23:45,160
+asymptomatic. And we even see this in young lean 20-year-olds, Yale undergraduates who volunteer for
+
+242
+00:23:45,160 --> 00:23:50,600
+our studies, profound insulin resistance in muscle, no problems in liver, and then take you through
+
+243
+00:23:50,600 --> 00:23:57,080
+the progression from how you just go from insulin resistance in muscle to fatty liver and insulin
+
+244
+00:23:57,080 --> 00:24:02,200
+resistance in the liver and then progress to type 2 diabetes. That's something we can actually go
+
+245
+00:24:02,200 --> 00:24:08,200
+through that would be of interest. It would because it actually kind of fits with the way I was going
+
+246
+00:24:08,200 --> 00:24:15,560
+to try to temporally split this, which would look as follows. When we take a patient who has normal
+
+247
+00:24:16,520 --> 00:24:22,760
+fasting glucose and normal fasting insulin, and we challenge them with an oral glycemic load,
+
+248
+00:24:22,760 --> 00:24:29,640
+and then measure insulin and glucose in 30-minute intervals, a lot of times we expose a problem
+
+249
+00:24:30,200 --> 00:24:36,360
+that seems most easily explained by the muscles inability to assimilate glycogen.
+
+250
+00:24:36,920 --> 00:24:42,040
+So a person shows up and they have a normal fasting insulin, say it's 5, and their fasting
+
+251
+00:24:42,040 --> 00:24:50,120
+glucose is, say, 90. You challenge them with 75 to 100 grams of glucose, but say 30 or 60 minutes
+
+252
+00:24:50,120 --> 00:24:57,800
+later their fasting glucose is 200, their insulin is 70. We call that insulin resistance, and we
+
+253
+00:24:57,800 --> 00:25:05,240
+impute from that that something has broken down in the pathway that prevents their muscle from taking
+
+254
+00:25:05,240 --> 00:25:12,360
+in glucose. Now you've done very elegant work to examine all of the possible places that failure
+
+255
+00:25:12,360 --> 00:25:17,480
+could have taken place. Did it take place at the Glute 4 transporter or one of the mechanisms which
+
+256
+00:25:17,480 --> 00:25:22,680
+we should discuss how the Glute 4 transporter gets across the cell membrane? Is it a problem
+
+257
+00:25:22,680 --> 00:25:29,480
+not of bringing glucose in, but really is the problem downstream at hexokinase or glycogen
+
+258
+00:25:29,480 --> 00:25:33,480
+synthase, things like that. So is that sort of what you're saying, which is can we start with
+
+259
+00:25:33,480 --> 00:25:39,000
+postprandial hyperglycemia? Yeah, I think we're not even hyperglycemia. This before any abnormal,
+
+260
+00:25:39,000 --> 00:25:44,200
+just insulin resistance. What I like about the question you asked and how you pointed out,
+
+261
+00:25:44,200 --> 00:25:50,440
+insulin resistance is the root cause for not only diabetes, but it's going to be the root cause for
+
+262
+00:25:50,440 --> 00:25:57,800
+all these other abnormalities, fatty liver disease, make us prone, makes a lot of cancers worse,
+
+263
+00:25:57,800 --> 00:26:03,080
+heart disease. And again, that's the number one killer in this country. It's insulin resistance
+
+264
+00:26:03,080 --> 00:26:07,640
+that's driving all these things. And not even talking about, even though I'm a diabetologist,
+
+265
+00:26:07,640 --> 00:26:13,320
+I of course care, I want to fix diabetes, but even before blood sugar goes up, which is how we define
+
+266
+00:26:13,320 --> 00:26:18,520
+diabetes. Let's understand insulin resistance cause if we can understand insulin resistance,
+
+267
+00:26:18,520 --> 00:26:23,320
+then that's going to be the best way to fix diabetes, type two diabetes, heart disease,
+
+268
+00:26:23,320 --> 00:26:28,040
+they're going to make a big impact there, fatty liver disease and slow down cancers.
+
+269
+00:26:28,040 --> 00:26:33,000
+So let's start with insulin resistance. Okay. What is insulin resistance? So we define it by
+
+270
+00:26:33,000 --> 00:26:38,760
+giving insulin and we know insulin normally does some effects, makes glucose being taken up by
+
+271
+00:26:38,760 --> 00:26:45,160
+liver and muscle. And when that same amount of insulin is not doing these things, we say
+
+272
+00:26:45,160 --> 00:26:50,680
+there's insulin resistance. So you need more insulin than to cause muscle to take up glucose or the
+
+273
+00:26:50,680 --> 00:26:56,920
+liver to turn off glucose production or take up glucose. And the same thing again, in the fat cell,
+
+274
+00:26:56,920 --> 00:27:01,480
+what insulin does in the fat cell is that puts the break on breakdown of fat and it's called
+
+275
+00:27:01,480 --> 00:27:08,200
+that lipolysis or take up glucose to esterify fatty acids into glucose. So these are the three
+
+276
+00:27:08,200 --> 00:27:14,680
+key insulin responsive organs. And when insulin is not doing that properly, we call that insulin
+
+277
+00:27:14,680 --> 00:27:20,920
+resistance. And again, keep emphasizing, I think for your listeners, this is probably every other
+
+278
+00:27:20,920 --> 00:27:26,600
+person in this country or in Western Europe are insulin resistant. Your doctor won't even know
+
+279
+00:27:26,600 --> 00:27:31,480
+this unless they do careful, maybe studies to assess insulin resistance. Cause you won't pick
+
+280
+00:27:31,480 --> 00:27:38,520
+this up as the simple plasma glucose test. So what causes resistance? Let's start with muscle.
+
+281
+00:27:38,520 --> 00:27:45,080
+And the reason I like to start with muscle is when we study our young volunteers, again,
+
+282
+00:27:45,080 --> 00:27:51,480
+I like them because they're perfectly healthy. They're 20 years of age, 19 to 20. They're lean
+
+283
+00:27:52,040 --> 00:27:55,720
+because we know everyone who's overweight or obese probably has insulin resistance.
+
+284
+00:27:55,800 --> 00:28:03,160
+There's so many confounding factors that happen in overweight obesity. These are lean 22, 23 BMI,
+
+285
+00:28:03,160 --> 00:28:09,560
+lean, non-smoking. So we screen out smoking, no medications, no drugs and sedentary. Because we
+
+286
+00:28:09,560 --> 00:28:15,320
+know people who exercise, we can reverse insulin resistance and we can talk about how that happens.
+
+287
+00:28:15,320 --> 00:28:20,360
+So you give these young 20 year olds, let's say you screen, we screen to this date, probably a
+
+288
+00:28:20,360 --> 00:28:25,960
+thousand, but you get a distribution, given a drink of glucose tolerance, 75 grams. You measure
+
+289
+00:28:25,960 --> 00:28:32,040
+insulin and you can calculate insulin sensitivity index. It's a crude index and it's kind of a bell
+
+290
+00:28:32,040 --> 00:28:39,320
+shaped curve. And you have people in the bottom quartile who are insulin resistant by definition,
+
+291
+00:28:39,320 --> 00:28:44,920
+the top quartile. Then you ask, why are those people in the bottom quartile insulin resistant?
+
+292
+00:28:44,920 --> 00:28:50,840
+And you measure glycogen synthesis using the methods we talked about briefly, carbon NMR,
+
+293
+00:28:50,840 --> 00:28:58,120
+give C1 glucose, measure flux into glycogen. And it's already down by 50% compared to the
+
+294
+00:28:58,120 --> 00:29:04,520
+sensitive ones under matched insulin and glucose concentrations. So they're resistant because they
+
+295
+00:29:04,520 --> 00:29:09,480
+can't get glucose and glycogen. That's the major pathway. It's not glucose to lactate, not glucose
+
+296
+00:29:09,480 --> 00:29:15,560
+oxidation. So that's your pathway. Then you want to know where the block in that pathway is. With
+
+297
+00:29:15,560 --> 00:29:21,640
+phosphorus NMR, we can measure glucose six phosphate inside the cell with a carbon NMR method. We can
+
+298
+00:29:21,640 --> 00:29:27,000
+measure glucose inside the muscle cell. The reason this is important is we can see where the
+
+299
+00:29:27,000 --> 00:29:32,600
+biochemical block is. So your listeners all just probably get into a car and they're on the road.
+
+300
+00:29:32,600 --> 00:29:38,040
+And if there's construction going on, we all know construction piles up after that, whatever that
+
+301
+00:29:38,120 --> 00:29:43,320
+roadblock is, where the construction is happening. Biochemistry is the same thing. You have a roadblock
+
+302
+00:29:44,200 --> 00:29:50,680
+and traffic builds up behind it. So we measure G6P to argue, you mentioned about three steps,
+
+303
+00:29:50,680 --> 00:29:57,640
+synthase, hexokinase and transport, glucose transport. They had all been implicated
+
+304
+00:29:57,640 --> 00:30:03,240
+to be the roadblock, the step response for the insulin resistance. And so we were able to sort
+
+305
+00:30:03,240 --> 00:30:09,480
+out which was rate controlling by measuring these intermediates. So if the block is at synthase,
+
+306
+00:30:09,480 --> 00:30:14,760
+glucose six phosphate should build up and glucose should build up. If the block is at hexokinase,
+
+307
+00:30:14,760 --> 00:30:20,680
+you should basically have lower G6P and a buildup of glucose. And if the block is at transport,
+
+308
+00:30:20,680 --> 00:30:25,720
+there should be reductions in both glucose six phosphate and glucose. To a series of studies,
+
+309
+00:30:25,720 --> 00:30:31,560
+we found in not only these young lean insulin resistant offspring, but obese insulin resistant
+
+310
+00:30:31,560 --> 00:30:37,720
+individuals as well as individuals with poorly controlled diabetes, G6P, glucose six phosphate
+
+311
+00:30:37,720 --> 00:30:44,680
+and glucose are both reduced in the muscle cell, in vivo, in humans, implicating transport. That's
+
+312
+00:30:44,680 --> 00:30:51,400
+where your biochemical block is. So the block is at transport. That's your target to fix if you
+
+313
+00:30:51,400 --> 00:30:57,160
+want to fix muscle insulin resistance. And the corollary is these other steps are not good
+
+314
+00:30:57,160 --> 00:31:03,000
+targets, drug targets to go after to fix insulin resistance in muscle. This is the first abnormality
+
+315
+00:31:03,000 --> 00:31:09,080
+we found in its transport and in these young healthy 20 year olds. And then the question is,
+
+316
+00:31:09,080 --> 00:31:15,160
+what's wrong with the transport mechanism that led us into the world of lipids? Again, it's been
+
+317
+00:31:15,160 --> 00:31:20,200
+known for decades that obesity associated with insulin resistance, that's why virtually every
+
+318
+00:31:20,280 --> 00:31:27,000
+obese adult or child have insulin resistance. There are rare exceptions. And then we basically
+
+319
+00:31:27,000 --> 00:31:32,600
+found we developed a method to measure fat inside the muscle cell. And that was the best predictor
+
+320
+00:31:32,600 --> 00:31:39,000
+for insulin resistance in muscle and this block and translocation. Let's give people a quick primer
+
+321
+00:31:39,000 --> 00:31:48,920
+on normal glucose disposal into a cell. So when the insulin molecule hits the insulin receptor
+
+322
+00:31:48,920 --> 00:31:57,080
+on the surface, I believe it auto phosphorylates itself, correct? That then signals to insulin
+
+323
+00:31:57,080 --> 00:32:03,400
+receptor substrate one IRS one inside the cell. So that sends a signal inside the cell, which also
+
+324
+00:32:03,400 --> 00:32:10,680
+leads to a phosphorylation, which then signals PI three kinase that upregulates PI three kinase.
+
+325
+00:32:10,680 --> 00:32:16,440
+And that basically leads to a glute four transporter, which you can think of as like a big
+
+326
+00:32:16,520 --> 00:32:23,400
+tube being shoved up to the surface of the cell across its membrane. And that basically
+
+327
+00:32:23,400 --> 00:32:28,680
+passively allows glucose in it is not an active transporter, correct? That's correct. Everything
+
+328
+00:32:28,680 --> 00:32:33,960
+you said is spot on. Basically up until now, we don't know where the breakdown is in that
+
+329
+00:32:33,960 --> 00:32:40,200
+whole process. All we know is that something is impaired in getting glucose in the cell. But
+
+330
+00:32:40,200 --> 00:32:45,400
+in terms of is it there's not enough insulin that hits insulin receptor? Is there something wrong
+
+331
+00:32:45,400 --> 00:32:49,720
+with IRS one with PI three K? Is there something blocking the transporter? We're going to have to
+
+332
+00:32:49,720 --> 00:32:56,040
+figure that out still. But you've already taken two thirds of this puzzle off the plate by saying
+
+333
+00:32:56,040 --> 00:33:02,040
+we know it's not downstream of that. That's correct. If you fix the transporter, that's where
+
+334
+00:33:02,040 --> 00:33:09,320
+the roadblock is. And that's the target. The next set of questions becomes why isn't insulin causing?
+
+335
+00:33:09,320 --> 00:33:16,440
+And as you point out, this translocation of the glute four transporter to the membrane to allow
+
+336
+00:33:16,440 --> 00:33:21,800
+glucose to come into the cell through facilitated transport down a gradient. So that's what we can
+
+337
+00:33:21,800 --> 00:33:27,080
+talk about next if you want to. That's perfect. Can I share my screen with you at this point?
+
+338
+00:33:27,080 --> 00:33:33,160
+You can. And what we will do, Jerry, is we are going to take everything that you are sharing with
+
+339
+00:33:33,160 --> 00:33:39,320
+me and we're going to turn these into show notes that will be time stamped to this part of the
+
+340
+00:33:39,320 --> 00:33:45,880
+discussion because while I guess people like you and I do tend to picture these things in our head
+
+341
+00:33:45,880 --> 00:33:51,640
+easily, I think for many people it is going to be incredibly helpful to be able to actually look at
+
+342
+00:33:51,640 --> 00:33:57,480
+some biochemical drawings. I benefit from this greatly. It's still not purely second nature to me.
+
+343
+00:33:57,480 --> 00:34:02,120
+I like to think in pictures too. So as much as we can help the audience out with graphics,
+
+344
+00:34:02,120 --> 00:34:07,240
+I think it will be beneficial. So here's a cartoon. I'll walk you through this and stop me.
+
+345
+00:34:07,240 --> 00:34:12,600
+If you have questions, this is a cartoon of a muscle cell. We went through how insulin normally
+
+346
+00:34:12,600 --> 00:34:17,320
+works. Insulin binds to the receptor and everything, as you said, we're going to actually show this in
+
+347
+00:34:17,320 --> 00:34:22,200
+this cartoon. It binds to the receptor. The receptor autophosphorylates, becomes a kinase.
+
+348
+00:34:22,840 --> 00:34:28,280
+The key substrate for this kinase, since receptor kinase in muscles, insulin receptor substrate one,
+
+349
+00:34:28,760 --> 00:34:34,360
+which undergoes tyrosine phosphorylation, allows it to bind and activate this other protein,
+
+350
+00:34:34,360 --> 00:34:41,480
+PI3 kinase, which Lou Cantley discovered. And that's a required step for translocation. So that's
+
+351
+00:34:41,480 --> 00:34:48,120
+all been worked out. And somehow this is not working. This is broken in the insulin resistant
+
+352
+00:34:48,120 --> 00:34:52,440
+individual. And again, these young 20 year olds, the patient with diabetes, the obese insulin
+
+353
+00:34:52,440 --> 00:34:57,880
+resistant individual. And the question is, what's wrong? So I'm going to share with you, at least my
+
+354
+00:34:57,880 --> 00:35:04,600
+view, which would explain insulin resistance in most situations of lipid induced insulin resistance,
+
+355
+00:35:04,600 --> 00:35:10,760
+which I think accounts for, I would say, the majority of these patients I see who have type
+
+356
+00:35:10,760 --> 00:35:17,000
+two diabetes or who obese insulin resistance, or even these young lean insulin resistant offspring.
+
+357
+00:35:17,000 --> 00:35:23,640
+And so this is the picture. So here, and it relates to fatty fat metabolism. Before I told you,
+
+358
+00:35:23,640 --> 00:35:29,720
+the other MR method that we developed is actually something called proton NMR. And this is actually,
+
+359
+00:35:29,720 --> 00:35:33,800
+most of your listeners are very familiar with you. Everyone knows about MRI, magnetic resonance
+
+360
+00:35:33,800 --> 00:35:39,240
+imaging. This is people go into a scanner and they get very pretty pictures of an organ brain
+
+361
+00:35:39,240 --> 00:35:45,480
+or some other organ for diagnostic reasons. And it's the same biophysical principles. You're
+
+362
+00:35:45,480 --> 00:35:53,560
+basically getting this NMR signal from protons and protons are the most abundant NMR visible
+
+363
+00:35:53,560 --> 00:35:58,840
+nucleus in the body. And it's mostly water we're looking at. So when you're basically getting the
+
+364
+00:35:58,840 --> 00:36:05,240
+same signal from protons and mostly protons are water and fat. And so an imager gives you this
+
+365
+00:36:05,240 --> 00:36:10,040
+three-dimensional reconstruction of proton density in water and fat. And that's what gives you the
+
+366
+00:36:10,040 --> 00:36:14,680
+images. And again, we're doing biochemistry. So we're getting, taking that same kind of information,
+
+367
+00:36:14,680 --> 00:36:21,800
+but actually looking at individual carbon atoms or phosphorus atoms, or in this case, protons lining
+
+368
+00:36:21,800 --> 00:36:28,040
+the carbons and triglyceride. It's fat. So what I said, using proton NMR to measure fat inside the
+
+369
+00:36:28,040 --> 00:36:34,040
+cell, this is different from fat outside the cell. So if you look at a steak and you see the marbling
+
+370
+00:36:34,040 --> 00:36:39,160
+of fat in a steak, that's fat outside the muscle cell, which you don't see if you look at a steak
+
+371
+00:36:39,160 --> 00:36:46,120
+is the fat inside the muscle cell. And using NMR, we can actually discern fat outside the cell
+
+372
+00:36:46,120 --> 00:36:51,640
+versus fat inside the cell. And we can do this in many organs and muscle started to muscle.
+
+373
+00:36:51,640 --> 00:36:57,240
+And using this approach, we found fat inside the muscle was the best predictor for this block and
+
+374
+00:36:57,240 --> 00:37:02,920
+transport in all of our volunteers, young people, old people, children, sedentary individuals,
+
+375
+00:37:03,640 --> 00:37:08,440
+sedentary individuals, fat inside the cells, the best predictor for insulin resistance. And so this
+
+376
+00:37:08,440 --> 00:37:15,080
+led us into the world of lipids. We're keen to understand then if finding the lipid intermediate
+
+377
+00:37:15,080 --> 00:37:21,560
+that might do this. And in studies where we took healthy individuals, perfectly normal
+
+378
+00:37:21,560 --> 00:37:28,760
+sensitivity, we gave them an inter lipid infusion, just raised plasma, fatty acids for three to four
+
+379
+00:37:28,760 --> 00:37:34,680
+hours and found that after three to four hours, we can make them as insulin resistant as anyone
+
+380
+00:37:34,680 --> 00:37:39,880
+with type two diabetes. And others had shown that in addition to us. I mean, this is, we weren't the
+
+381
+00:37:39,880 --> 00:37:44,760
+first to show this, but what we were the first to show is it's due to this block in glycogen
+
+382
+00:37:44,760 --> 00:37:51,400
+synthesis. And it's the same block, it's that block and transport. Just to be clear, when you deliver
+
+383
+00:37:51,960 --> 00:37:58,680
+intra lipid, that's intravenous lipid as a triacylglycerol or diacylglycerol? No, this is a
+
+384
+00:37:58,680 --> 00:38:04,760
+triglyceride. This is an emulsion, a triglyceride emulsion. It's often given to patients for
+
+385
+00:38:04,760 --> 00:38:10,760
+hyper elementation when they can't eat, you give us energy rich infusion. Just like TPN or something
+
+386
+00:38:10,760 --> 00:38:17,400
+like that. It's used in TPN often. But what we also do is just a little low dose of heparin to
+
+387
+00:38:17,400 --> 00:38:23,800
+activate lipoprotein lipase. So all of a sudden, then you can artificially raise fatty acids
+
+388
+00:38:23,800 --> 00:38:29,400
+twofold, something up to about one and a half millimolar and ask the question, what does this
+
+389
+00:38:29,400 --> 00:38:34,200
+do? What does this have to do with visit ultra metabolism? And it has profound effects.
+
+390
+00:38:34,200 --> 00:38:41,240
+So by increasing LPL expression, not expression activity, I did not know that heparin activated
+
+391
+00:38:41,240 --> 00:38:45,960
+LPL. So by activating LPL with heparin, cool trick to know, I'll keep that in mind,
+
+392
+00:38:46,520 --> 00:38:52,760
+you're going to get more of that lipid into the muscle cell. You will raise fatty. So what the
+
+393
+00:38:52,760 --> 00:38:59,320
+heparin does is it causes activation of lipoprotein lipase. And that will then break down the
+
+394
+00:38:59,320 --> 00:39:04,120
+triglycerides to raise fatty acids and more delivery of fatty acids to all cells in the body.
+
+395
+00:39:04,840 --> 00:39:12,440
+Okay. So this becomes basically a quick vehicle by which you can deliver lipid directly into the
+
+396
+00:39:12,440 --> 00:39:18,600
+muscle cell. Exactly. Where you can acutely change that. And again, you can't do this just by getting
+
+397
+00:39:18,600 --> 00:39:24,520
+fatty acids. Fatty acid turnover is so fast, you can't just infuse fatty acids to significantly
+
+398
+00:39:24,520 --> 00:39:29,640
+raise. So this is a way we're able to raise fatty acids specifically in vivo, in humans.
+
+399
+00:39:29,640 --> 00:39:35,400
+And we do this in animals and it's that, so it's a nice pharmacological way of asking the question,
+
+400
+00:39:35,400 --> 00:39:40,440
+what impact is just simply raising fatty acids for a few hours have on metabolism. And it's
+
+401
+00:39:40,440 --> 00:39:46,040
+profound. It takes three to four hours before you see this. And then boom, it's you get very
+
+402
+00:39:46,040 --> 00:39:51,400
+profound insulin resistance. And in our early studies, again, we showed using the same methods
+
+403
+00:39:51,400 --> 00:39:55,800
+I told you about measuring glucose, six phosphate, measuring intracellular glucose, measuring
+
+404
+00:39:55,800 --> 00:40:02,520
+glycogen synthesis. We found simply raising fatty acids for three to four hours, blocks glycogen
+
+405
+00:40:02,520 --> 00:40:08,120
+synthesis, profound insulin resistance, as they say, as anyone with obesity or type two diabetes.
+
+406
+00:40:08,120 --> 00:40:13,000
+And it's due to the same and acquired block and transport insulin activation, transport,
+
+407
+00:40:13,000 --> 00:40:19,800
+both G6P and glucose are down. So that to us was a very important lesson because it basically
+
+408
+00:40:19,800 --> 00:40:25,720
+changed the paradigm because prior to this people, workers, biochemists, you may know the name
+
+409
+00:40:25,720 --> 00:40:31,720
+Philip Randall, who did some pioneering studies in the sixties at University of Bristol and was
+
+410
+00:40:31,720 --> 00:40:37,640
+really the first to say, hey, fatty acids may be toxic, may be causing insulin resistance and did
+
+411
+00:40:37,640 --> 00:40:44,600
+studies in rat tissue, you know, cells, heart tissue, diaphragm muscles taken from rats in vitro,
+
+412
+00:40:44,600 --> 00:40:49,880
+incubated it with fatty acids and in vitro in the test tube, induced insulin resistance.
+
+413
+00:40:50,680 --> 00:40:57,800
+The mechanism that they postulated was that it was altering basically oxidation, the TCA cycle
+
+414
+00:40:57,800 --> 00:41:03,000
+citrate levels would build up and lead to inhibition of phosphofructokinase, which is
+
+415
+00:41:03,000 --> 00:41:10,200
+a key glycolytic enzyme. The prediction that Randall made was glucose six phosphate should increase,
+
+416
+00:41:10,920 --> 00:41:16,280
+leading to inhibition of hexokinase. We were interested in that because we said, oh, fat in
+
+417
+00:41:16,280 --> 00:41:21,720
+our hands is important. We're raising fatty acids and causing resistance. And we see this
+
+418
+00:41:21,720 --> 00:41:26,360
+really strong relationship between fat in the muscle cell and insulin resistance in all of our
+
+419
+00:41:26,360 --> 00:41:33,160
+subjects, obese, diabetic, young insulin resistant individuals. And so we wanted to see if his
+
+420
+00:41:33,160 --> 00:41:37,640
+mechanism, Randall's postulate mechanism translates to humans, because these were all
+
+421
+00:41:38,200 --> 00:41:43,800
+in vitro studies done in tissues taken from animals. So in a series of studies, we took,
+
+422
+00:41:43,800 --> 00:41:48,840
+again, the healthy individuals, raised fatty acids through this triglyceride and little dose
+
+423
+00:41:48,840 --> 00:41:55,000
+of heparin infusion and found just the opposite to what Randall predicted. They got insulin
+
+424
+00:41:55,000 --> 00:42:00,760
+resistance, which is what he would have said, but not through his mechanism. He said, G6P should go
+
+425
+00:42:00,760 --> 00:42:07,240
+up. We saw it go down and we saw glucose go down. So it wasn't through inhibition of glycolysis
+
+426
+00:42:07,240 --> 00:42:13,080
+as he said, it's somehow interfering with the insulin activation of transport. So and again,
+
+427
+00:42:13,080 --> 00:42:18,680
+same rate controlling step we saw in all of our diabetics and obese individuals and
+
+428
+00:42:18,680 --> 00:42:26,120
+predybetic individuals. But just to be clear, Jerry, it caused hypoglycemia. The intra lipid
+
+429
+00:42:26,120 --> 00:42:33,240
+dropped glucose? No. Raising the fatty acids caused insulin resistance, inability of insulin
+
+430
+00:42:33,240 --> 00:42:38,120
+to stimulate glucose transport. Okay. Okay. Yep. I may have misheard you, but okay.
+
+431
+00:42:38,120 --> 00:42:43,160
+I'm going to now fast forward. We then took these observations back to the bench. We were able to
+
+432
+00:42:43,160 --> 00:42:50,200
+replicate this and rodents, rats and mice. And the power, even though I'm most passionate about
+
+433
+00:42:50,200 --> 00:42:55,480
+our human studies, I'm a clinical physiologist and I care most about understanding what's happening
+
+434
+00:42:55,480 --> 00:43:01,800
+in humans. The animal models allow you to really interrogate biochemical process. There we can get
+
+435
+00:43:01,800 --> 00:43:07,400
+tissue out in humans. I like to be non-invasive with our MR methodology, but here sometimes you
+
+436
+00:43:07,400 --> 00:43:12,760
+need to get tissues to measure activities, phosphorylation events. And, and also you have
+
+437
+00:43:12,760 --> 00:43:18,680
+the power of mouse genetics. You can knock genes in and out of mice to really rigorously test
+
+438
+00:43:18,680 --> 00:43:23,480
+hypothesis. I should tell you one experiment before I moved to this cartoon that we did
+
+439
+00:43:24,040 --> 00:43:30,440
+in humans is we did biopsies in these humans when we raised fatty acids and found this block in
+
+440
+00:43:30,440 --> 00:43:38,040
+transport and asked the question, is a lipid intermediate fatty acid metabolite interfering
+
+441
+00:43:38,040 --> 00:43:44,120
+with insulin signaling cascade, which we just discussed receptor and somewhere to PI3 kinase.
+
+442
+00:43:44,120 --> 00:43:50,040
+And what we found was indeed in healthy individuals just give glucose and insulin.
+
+443
+00:43:50,040 --> 00:43:54,840
+You get activation of PI3 kinase. This is the step you mentioned. This is the required step
+
+444
+00:43:55,560 --> 00:44:02,120
+for translocation. And in the follow-up study, same individuals, we raised glucose and insulin
+
+445
+00:44:02,120 --> 00:44:09,000
+and also raised fatty acids. And then we totally abrogate insulin activation of PI3 kinase.
+
+446
+00:44:09,000 --> 00:44:14,760
+That study basically in humans in the model we care about is saying, yeah, somehow a fatty acid
+
+447
+00:44:14,760 --> 00:44:21,640
+metabolite is leading to this block in insulin action somewhere between PI3 kinase and the
+
+448
+00:44:21,640 --> 00:44:28,680
+receptor. So we've narrowed it down to that. I'll walk you through the steps that I think then are
+
+449
+00:44:28,680 --> 00:44:34,440
+the biochemical metabolite that's mediating this, the lipid fatty acid mediator that's leading to
+
+450
+00:44:34,440 --> 00:44:39,800
+this, and then the biochemical mechanism. Does that sound good? Yeah, that sounds fantastic.
+
+451
+00:44:40,520 --> 00:44:47,080
+Here we have a cartoon of a muscle cell. And my view, again, thinking about flux, it has to do with
+
+452
+00:44:47,800 --> 00:44:53,880
+relative imbalance. So basically doing focus lipidomics, we zeroed in on this metabolite,
+
+453
+00:44:53,880 --> 00:44:59,560
+fatty acid metabolite called diacylglycerol. And yeah, I heard you mentioned that before.
+
+454
+00:44:59,560 --> 00:45:05,480
+It's the precursor, it's the penultimate step in triglyceride synthesis, diacyl, two fatty acids
+
+455
+00:45:05,480 --> 00:45:11,720
+on a glycerol backbone. This is a bioactive metabolite. It's been known for years to activate
+
+456
+00:45:11,720 --> 00:45:19,080
+novel PKCs. This is what we found tracked in our animal models with lipid-induced insulin resistance.
+
+457
+00:45:19,080 --> 00:45:25,160
+Do high fat feeding in a mouse or rat, get muscle insulin resistance. And it was this metabolite
+
+458
+00:45:25,160 --> 00:45:31,080
+that tracked with insulin resistance. And then we did the lipid, same type of lipid infusion we did
+
+459
+00:45:31,080 --> 00:45:37,560
+in humans, simply raise plasma fatty acids by giving triglyceride and heparin. We saw acyl-CoA's
+
+460
+00:45:37,640 --> 00:45:46,440
+go up. We saw DAGs go up. Right when DAGs reached a peak, then we got activation of novel PKCs,
+
+461
+00:45:46,440 --> 00:45:52,920
+PKC theta and epsilon in the muscle. Then we linked to this block in insulin action,
+
+462
+00:45:52,920 --> 00:45:57,640
+which I'll show you in a second, at the level of the receptor and one step downstream of the
+
+463
+00:45:57,640 --> 00:46:05,560
+receptor. The concept that I'd like to impart on you is it's this imbalance between fluxes. So fatty
+
+464
+00:46:05,560 --> 00:46:12,440
+acids are continuously being delivered to muscle cells. And we're going to do the same thing if we
+
+465
+00:46:12,440 --> 00:46:16,040
+have time to talk about the liver, because that's the other key insulin-responsive organ. But we'll
+
+466
+00:46:16,040 --> 00:46:22,120
+start with muscle. Fatty acids are being delivered through fatty acids or even hydrolysis of
+
+467
+00:46:22,120 --> 00:46:27,240
+triglycerides through LPL, endothelial barrier, delivering more fatty acids to the muscle cell.
+
+468
+00:46:28,120 --> 00:46:36,520
+When it's the flux of fatty acids into the muscle cell that exceeds the ability of the mitochondria
+
+469
+00:46:37,080 --> 00:46:44,760
+to oxidize the fat or store this fatty acids acyl-CoA's as triglyceride, you get net
+
+470
+00:46:44,760 --> 00:46:52,120
+accumulation of diacylglycerol. This is a very important point. Triglycerides are neutral. So
+
+471
+00:46:52,200 --> 00:46:57,160
+I want to emphasize this. So even though triglycerides often track with insulin resistance,
+
+472
+00:46:57,160 --> 00:47:02,440
+we've dissociated it inside the muscle cell and liver cell from insulin resistance. It's a marker
+
+473
+00:47:03,000 --> 00:47:10,040
+for DAGs, typically tracks very well, but it's in a NERP storage form of lipid. So triglycerides
+
+474
+00:47:10,040 --> 00:47:15,240
+are not the culprit. We've dissociated in liver and muscle, but it's a pretty good marker if you
+
+475
+00:47:15,240 --> 00:47:20,040
+can't measure the DAGs with mass spec. Let's go back to that for a second. I want to make sure
+
+476
+00:47:20,040 --> 00:47:24,920
+people understand what we're saying here. So triacylglyceride or triglyceride, those two we
+
+477
+00:47:24,920 --> 00:47:31,240
+use interchangeably, has this three carbon glycerol backbone with three free fatty acids on it.
+
+478
+00:47:31,240 --> 00:47:36,920
+That's the way that we very, very efficiently store energy in the most energy dense hydrocarbon
+
+479
+00:47:36,920 --> 00:47:44,440
+in our body. The DAG by extension has only two of those free fatty acids. What typically sits on
+
+480
+00:47:44,440 --> 00:47:51,960
+that third carbon and what is it about that confirmation that renders the DAG, in this case
+
+481
+00:47:51,960 --> 00:47:59,320
+at least, seemingly much more of a problem than the TG or TAG? Basically it's a hydroxyl group,
+
+482
+00:47:59,320 --> 00:48:06,680
+a simple hydroxyl group. It's the two fatty acids of the DAG that sit into the bile layer,
+
+483
+00:48:06,680 --> 00:48:13,640
+membrane bile layer, and then the hydrophilic hydroxyl group sits in the cytoplasm. And that's
+
+484
+00:48:13,640 --> 00:48:20,440
+what then will pull the novel PKCs to the plasma membrane. So that's the troublemaker. That's the
+
+485
+00:48:20,440 --> 00:48:27,080
+troublemaker. Basically then when you get this imbalance between fatty acid uptake versus
+
+486
+00:48:27,080 --> 00:48:34,040
+oxidation in the mito versus storage as neutral lipid, you get activation of these two novel
+
+487
+00:48:34,040 --> 00:48:42,840
+PKCs in muscle, theta and epsilon. Theta blocks insulin action at the level somewhere between the
+
+488
+00:48:42,840 --> 00:48:49,640
+receptor and iris-1 tyrosine phosphorylation. And epsilon, and we'll get into this for the liver,
+
+489
+00:48:49,640 --> 00:48:56,440
+directly binds to the insulin receptor and then hits the receptor kinase. If we have a chance,
+
+490
+00:48:56,440 --> 00:49:01,240
+I'd love to share this with you and your listeners because this I think has important evolutionary
+
+491
+00:49:02,120 --> 00:49:05,720
+mechanisms behind it. Why does this exist? And it's going to be very important for
+
+492
+00:49:06,360 --> 00:49:14,280
+survival during starvation. But nevertheless, when both of these NPKCs in muscle are activated,
+
+493
+00:49:14,280 --> 00:49:20,120
+you have reduced insulin tyrosine phosphorylation of iris-1, less PI through kinase activation.
+
+494
+00:49:20,760 --> 00:49:26,040
+And as we talked about, then less boot fortranslocation. So to me, the real culprit,
+
+495
+00:49:26,040 --> 00:49:31,480
+and we've been able to just quickly really test this rigorously, gene knockout, we've been able to
+
+496
+00:49:31,480 --> 00:49:37,960
+inactivate isoforms, NPKC theta, you get protection. We've been able to block
+
+497
+00:49:37,960 --> 00:49:45,000
+mitoxidation and you make these animals prone to that buildup insulin resistance. We block
+
+498
+00:49:45,000 --> 00:49:52,280
+fat entry into the myocyte, inactivate F84, they're protected. You overexpress lipoprotein lipase
+
+499
+00:49:52,280 --> 00:49:57,080
+in the muscle, more fatty acid delivery muscle specific insulin resistance. And then finally,
+
+500
+00:49:57,080 --> 00:50:03,480
+if you rev up mitochondrial fat oxidation, let's say through uncoupling, overexpress UCP3
+
+501
+00:50:04,200 --> 00:50:07,960
+in the muscle, you get protection from insulin resistance and all these track with
+
+502
+00:50:07,960 --> 00:50:12,360
+DAGs going up or down with the insulin resistance or protection from insulin resistance.
+
+503
+00:50:13,160 --> 00:50:20,680
+Let's talk a little bit about how we think this is different in an active versus inactive person
+
+504
+00:50:20,680 --> 00:50:25,880
+because the outset you said, look, when we're trying to find this in the youngest cohort of
+
+505
+00:50:25,880 --> 00:50:31,400
+patients, these 20 year old basically undergrads at Yale that we're going to study, we screen on
+
+506
+00:50:31,400 --> 00:50:35,800
+many things, but an important thing we screen for is sedentary behavior. You mentioned that at the
+
+507
+00:50:35,800 --> 00:50:41,800
+very outset, which leads me to believe that if you did a sampling across the cross country team,
+
+508
+00:50:41,800 --> 00:50:49,560
+the crew team, you wouldn't find this phenomenon. So what is it about activity or the lack thereof
+
+509
+00:50:49,560 --> 00:50:56,600
+that presumably points to this elevation of intracellular DAGs that kicks off this cascade?
+
+510
+00:50:57,240 --> 00:51:02,920
+Let me just show you. So this is where we talked about Reven and his hypothesis of insulin
+
+511
+00:51:02,920 --> 00:51:08,120
+resistance and how what we wanted was to build on it. Because I'm going to answer your question
+
+512
+00:51:08,120 --> 00:51:13,320
+about exercise and I want to do two things that I want to show you how exercise reverses this
+
+513
+00:51:13,320 --> 00:51:19,960
+muscle insulin resistance. But I also want to show you and your listeners why exercise in muscle
+
+514
+00:51:19,960 --> 00:51:25,080
+actually will prevent fatty liver and liver insulin resistance. I think that this is a
+
+515
+00:51:25,080 --> 00:51:31,880
+useful segue. And so this is from Jerry Reven's Banting Lecture in 1988. And at that time,
+
+516
+00:51:31,880 --> 00:51:37,400
+people were still arguing whether insulin resistance was driving all these other things
+
+517
+00:51:37,400 --> 00:51:42,520
+we see around the circle, atherosclerosis, hypertension, type 2 diabetes, polycystic
+
+518
+00:51:42,520 --> 00:51:47,160
+ovarian disease, inflammation, or are these just common things clustering together?
+
+519
+00:51:47,800 --> 00:51:52,040
+So what we wanted to do was actually ask the question, what we see in these young 20 year
+
+520
+00:51:52,040 --> 00:51:56,760
+olds, these volunteers, is the first thing we see is muscle insulin resistance. And maybe
+
+521
+00:51:56,760 --> 00:52:03,720
+that's driving atherogenic dyslebigemia, who is going to lead to heart disease, high triglycerides,
+
+522
+00:52:03,720 --> 00:52:11,400
+low HDL, and non-alcoholic fatty liver disease by changing the fate of ingested carbohydrate
+
+523
+00:52:11,400 --> 00:52:17,560
+from glycogen to fat. So this is the distribution I was telling you about and healthy young,
+
+524
+00:52:17,560 --> 00:52:22,440
+sedentary individuals, we're going to get into exercise in a second. We simply take the bottom
+
+525
+00:52:22,440 --> 00:52:28,600
+quartile, one in four versus the top quartile, and we give them two high carbohydrate meals. And we
+
+526
+00:52:28,600 --> 00:52:33,240
+say, where's the energy going from that carbohydrate? How is it being stored? Getting at the very first
+
+527
+00:52:33,240 --> 00:52:40,520
+question you asked me, we can use our NMR to measure changes in fat storage and liver and muscle.
+
+528
+00:52:41,160 --> 00:52:48,600
+As well as glycogen in liver and muscle. And what we found then is you give them two high carbohydrate
+
+529
+00:52:48,600 --> 00:52:55,240
+milkshakes, and there's virtually no difference in the plasma glucose concentrations at this late
+
+530
+00:52:55,240 --> 00:53:00,440
+breakfast and lunchtime high carbohydrate shake. But you can see it's at the expense of severe
+
+531
+00:53:00,440 --> 00:53:06,040
+hyperinsulinemia is what we talked about. So the reason these young insulin resistant, as well as
+
+532
+00:53:06,040 --> 00:53:11,480
+every insulin resistant person is perfectly fine is the beta cells are pumping out two to three
+
+533
+00:53:11,480 --> 00:53:16,520
+times the amount of insulin just to maintain euglycemia. So these beta cells are just being whipped,
+
+534
+00:53:16,520 --> 00:53:20,440
+working really hard. And that's why no one's diabetic, you're insulin resistant. That's why
+
+535
+00:53:20,440 --> 00:53:26,600
+virtually every obese insulin resistant person is normal glycemia because the beta cells are working
+
+536
+00:53:26,600 --> 00:53:31,240
+so hard to maintain this. And you can see that here. The other thing I want to point out is
+
+537
+00:53:31,240 --> 00:53:37,800
+the insulin levels are given number, you know, so normal, maybe 100 at the peak and maybe 180
+
+538
+00:53:37,800 --> 00:53:43,480
+at the peak in the resistant individuals. But this is in plasma, the portal vein with the liver
+
+539
+00:53:43,480 --> 00:53:49,240
+seeds is three times the liver seen huge amounts of insulin in these insulin resistant individuals
+
+540
+00:53:49,240 --> 00:53:55,800
+just to maintain normal glycemia. We use carbon NMR to look at changes in muscle glycogen and
+
+541
+00:53:55,800 --> 00:54:01,640
+liver glycogen. You can see, again, young insulin resistant 20 year olds can't get glucose into
+
+542
+00:54:01,640 --> 00:54:07,080
+muscle glycogen due to a block in transport because they have increased ectopic fat in the
+
+543
+00:54:07,080 --> 00:54:15,480
+myocyte, the eggs are up, no problem in liver. And then you look at the changes in fat and this
+
+544
+00:54:15,480 --> 00:54:21,960
+carbohydrate, this is change in liver triglyceride, it's up two and a half, 2.3 fold. You put some
+
+545
+00:54:21,960 --> 00:54:27,880
+heavy water, stable, heavy water into the milkshake to track de novo lipogenesis. That's
+
+546
+00:54:27,880 --> 00:54:33,800
+the conversion of glucose to fat. And that's also up greater than two fold. Quick question there.
+
+547
+00:54:33,800 --> 00:54:38,680
+There was a very famous experiment. It's been so long since I've read it. I certainly know I spent
+
+548
+00:54:38,680 --> 00:54:46,520
+many hours on it. It was by Mark Hellerstein circa 94 ish. And he looked at this question of
+
+549
+00:54:46,600 --> 00:54:54,200
+how much carbohydrate could be converted to fat via de novo lipogenesis. And if I recall correctly,
+
+550
+00:54:54,200 --> 00:55:00,120
+the answer was, at least from that paper, was not that much. But also, I believe one of the criticisms
+
+551
+00:55:00,120 --> 00:55:04,920
+of that was that he was looking at an insulin sensitive population. Am I remembering that
+
+552
+00:55:04,920 --> 00:55:09,800
+correctly? Because what you're showing here would suggest the opposite, which suggests that an
+
+553
+00:55:09,800 --> 00:55:16,440
+insulin resistant person is capable of significant de novo lipogenesis. Everything you've said is
+
+554
+00:55:16,520 --> 00:55:22,360
+correct. When you're thinking about de novo lipogenesis, two things is you get what conditions
+
+555
+00:55:22,360 --> 00:55:27,640
+are you studying this? Is it after meal ingestion? Is it in the fasting state when a lot of people
+
+556
+00:55:27,640 --> 00:55:34,120
+have measured this in the past? It's minimal and it makes sense. It only gears up with substrate
+
+557
+00:55:34,120 --> 00:55:40,680
+is taking in. And then depending on the type of substrate, you can alter this quite a bit. So
+
+558
+00:55:40,680 --> 00:55:46,120
+it can be changed by simply putting more fructose, more glucose in the meal by increase
+
+559
+00:55:46,120 --> 00:55:51,080
+the meal size. Mark's done beautiful work in the past. It is what it is. Those studies are what
+
+560
+00:55:51,080 --> 00:55:56,360
+they are. But clearly what we're learning here is just as you say, you know, is significant. It's
+
+561
+00:55:56,360 --> 00:56:01,320
+not the majority of the fat. I think most investigators would agree the majority of fat
+
+562
+00:56:01,320 --> 00:56:07,000
+synthesis in liver is occurring through a stearification that is fatty acids coming to
+
+563
+00:56:07,000 --> 00:56:12,760
+the liver, getting corporate into triglyceride. But there is a significant importance for DNL.
+
+564
+00:56:13,400 --> 00:56:19,160
+And again, especially if you track it chronically in patients who are continuously high carb
+
+565
+00:56:19,160 --> 00:56:24,040
+feeding, especially high sucrose, high fructose corn syrup, we want to get into that, but
+
+566
+00:56:24,040 --> 00:56:29,960
+fructose basically gets funneled into the liver, into the DNL pathway. It's ubiquitous. You can
+
+567
+00:56:29,960 --> 00:56:36,360
+push DNL to be significant and it is a significant contributor to metabolic fatty liver disease.
+
+568
+00:56:36,360 --> 00:56:40,360
+And it's upregulated with peripheral sensitivity. I think this is the major
+
+569
+00:56:40,360 --> 00:56:45,560
+message I want to give here is when you have muscle insulin resistance, specifically,
+
+570
+00:56:45,560 --> 00:56:53,720
+it will drive the liver fat synthesis by DNL. When you have that, when your liver is making
+
+571
+00:56:53,720 --> 00:57:01,880
+more fat through DNL, it makes more BLDL exports. So plasma triglycerides go up and HDL goes down.
+
+572
+00:57:02,440 --> 00:57:07,720
+So what I find interesting about this before you go further, Jerry, is this is all from the 2007
+
+573
+00:57:07,720 --> 00:57:12,840
+PNAS paper by your wife, actually, right? Kit Peterson. Yeah, Kit Peterson. So what I find
+
+574
+00:57:12,840 --> 00:57:18,920
+interesting about these data is that these patients were euglycemic. I mean, that to me
+
+575
+00:57:18,920 --> 00:57:26,440
+is the staggering piece of this. These patients are still potentially a decade away from seeing
+
+576
+00:57:26,440 --> 00:57:33,880
+an interference in glucose homeostasis. They're a decade away from their doctor saying, hey,
+
+577
+00:57:33,880 --> 00:57:39,080
+your glucose is a little higher than it should be post-prandily, nevermind even at the fast.
+
+578
+00:57:39,720 --> 00:57:45,560
+And yet they're already seeing an 80% increase in triglyceride, which I just want to sort of
+
+579
+00:57:45,560 --> 00:57:51,240
+talk a little bit about this clinically. Most laboratory assays will say a triglyceride level
+
+580
+00:57:51,240 --> 00:57:57,640
+of 150 milligrams per deciliter is considered normal. Well, we don't say that in our practice.
+
+581
+00:57:57,640 --> 00:58:04,360
+We view anything over 100 as abnormal. That's a red flag. And if your trigs are more than 2x your
+
+582
+00:58:04,360 --> 00:58:10,360
+HDL cholesterol, that's a very big red flag. Although most people would accept triglycerides
+
+583
+00:58:10,360 --> 00:58:16,440
+of three or four, if not five times above HDL cholesterol before the sirens would go off.
+
+584
+00:58:16,440 --> 00:58:22,680
+And yet when you look at these patients, again, euglycemic, you see a difference of approximately
+
+585
+00:58:22,680 --> 00:58:30,200
+100 to 105 of the trigs in the insulin resistant to 60 in the insulin sensitive. So it's all kind
+
+586
+00:58:30,200 --> 00:58:36,200
+of right here in front of you, sort of in a way that unfortunately just doesn't get appreciated.
+
+587
+00:58:36,200 --> 00:58:41,160
+But it's the more intense stuff that's mind boggling to me, which is the two and three-fold
+
+588
+00:58:41,160 --> 00:58:47,800
+difference we see in de novo lipogenesis, hepatic synthesis of fat, impaired hepatic
+
+589
+00:58:47,800 --> 00:58:52,680
+glucose sensitivity. And I guess it speaks to the point you made earlier, Jerry, which is
+
+590
+00:58:52,680 --> 00:58:57,880
+when the portal vein amplification of insulin differences is as big as it is, it becomes
+
+591
+00:58:57,880 --> 00:59:03,640
+basically a magnifier of everything we're seeing in the periphery. Exactly. Yeah. And our normative
+
+592
+00:59:03,640 --> 00:59:09,240
+data, in my view, we need to reset what we consider normal is to me, this is when we look at our
+
+593
+00:59:09,240 --> 00:59:14,520
+insulin sensitive, that's what our normal should be and guiding us. You asked about exercise and
+
+594
+00:59:14,520 --> 00:59:19,160
+something we're quite passionate about. And I want to kind of tell you how that fits in here.
+
+595
+00:59:19,160 --> 00:59:25,240
+So again, conceptually, here we have a normal person ingesting carbohydrate. First question,
+
+596
+00:59:25,240 --> 00:59:30,600
+how is this distributed? It's in glycogen is where you want to store your ingested carbohydrate.
+
+597
+00:59:30,600 --> 00:59:36,200
+It gets stored in glycogen and liver and muscle. And again, this is one quarter of our young, lean,
+
+598
+00:59:36,200 --> 00:59:42,120
+healthy volunteers are insulin resistant. And again, if you're overweight or obese, you're there
+
+599
+00:59:42,120 --> 00:59:46,520
+already because these are lean individuals and that's still one quarter of the population.
+
+600
+00:59:46,520 --> 00:59:52,120
+You can't get that ingested glucose into glycogen due to this block in transport,
+
+601
+00:59:52,120 --> 00:59:58,840
+due to the block in DAG, PKC inhibition of insulin signaling. It's diverted to liver.
+
+602
+00:59:58,840 --> 01:00:03,320
+You have that insulin in the portal vein that's three times periphery, it's up to five,
+
+603
+01:00:03,320 --> 01:00:11,720
+600 micro units per mil. That turns on SRIBP1C, the master transcriptional regulator of triglyceride
+
+604
+01:00:11,720 --> 01:00:18,360
+synthesis gears up all the DNL enzymes. So you have increased DNL that leads to this increase.
+
+605
+01:00:18,360 --> 01:00:24,520
+We just reviewed plasma triglycerides, this reduction in HDL. This is going to set
+
+606
+01:00:24,520 --> 01:00:31,080
+these healthy individuals up to atherogenic dyslipidemia, heart disease in their 40s and 50s.
+
+607
+01:00:31,080 --> 01:00:36,200
+With time, it's metabolic associated fatty liver disease now. And again, most common
+
+608
+01:00:37,240 --> 01:00:43,960
+cause of liver disease now in the world. It's now leading cause of NASH, leading cause of liver
+
+609
+01:00:43,960 --> 01:00:50,680
+fibrosis, cirrhosis, end stage liver disease and going to be liver cancer. So it's all going to be
+
+610
+01:00:50,680 --> 01:00:58,280
+metabolic driven and from that hyperinsulinemia in my view. So exercise, can we do anything about this?
+
+611
+01:00:58,280 --> 01:01:03,400
+This hypothesis is right, we can test it. And so you asked about exercise. So this is a study we did
+
+612
+01:01:03,400 --> 01:01:07,880
+some years ago, published in the New England Journal, took these young insulin resistant
+
+613
+01:01:07,880 --> 01:01:13,640
+offspring. And this is with parents with type 2 diabetes. And the Jocelyn group did a really nice
+
+614
+01:01:13,640 --> 01:01:18,600
+study. They found that if you have two parents with type 2 diabetes, and if you're insulin
+
+615
+01:01:18,600 --> 01:01:23,000
+resistant, that single parameter is the best predictor whether or not you would go on to
+
+616
+01:01:23,000 --> 01:01:30,280
+develop type 2 diabetes. So we've tried to study these individuals with our methodology extensively.
+
+617
+01:01:30,280 --> 01:01:35,640
+And John Luca Persagian, who did this study when he was a fellow with me, took these and just studied
+
+618
+01:01:35,640 --> 01:01:40,040
+them in the basal state shown here that, you know, again, in the insulin resistant, again,
+
+619
+01:01:40,040 --> 01:01:47,640
+everyone's hears lean, not smoking, no medications, they're in their 20s and 30s, BMI 23, 24 to factor
+
+620
+01:01:47,640 --> 01:01:52,920
+out obesity, confounding of factors of obesity, medication, smoking, other things. So young, lean,
+
+621
+01:01:52,920 --> 01:01:57,960
+healthy individuals, but just parents with diabetes, insulin resistant. You study them,
+
+622
+01:01:57,960 --> 01:02:03,080
+and in the basal state, take up less than half the amount of glucose in muscle, and it's due to a
+
+623
+01:02:03,080 --> 01:02:08,520
+block in transport. So same thing as I've gone on and on before in the diabetics and the obese
+
+624
+01:02:08,520 --> 01:02:14,680
+individuals, this block in transport. And we asked the question, does exercise, can we bypass the
+
+625
+01:02:14,680 --> 01:02:20,680
+sound normality? And the answer is yes. So here you can see this was after six weeks of being on a
+
+626
+01:02:20,680 --> 01:02:27,800
+stair master, three 15 minute bouts at about 65% MBO2 max. And here we're normalizing insulin
+
+627
+01:02:27,800 --> 01:02:33,080
+stimulated muscle glycogen synthesis. And we usually measuring glucose 6-phosphate, we've opened
+
+628
+01:02:33,080 --> 01:02:39,800
+up that door of getting glucose into the myocyte. So, and I think molecular explanation for this is
+
+629
+01:02:39,800 --> 01:02:46,440
+this protein called ANPK, which we can talk about, gets activated with exercise. And that has been
+
+630
+01:02:46,440 --> 01:02:51,880
+shown to cause borotranslocation independent, independent of pediatric kinase. And so we're
+
+631
+01:02:51,880 --> 01:02:58,840
+kind of short circuiting that block with exercise. To test our overall hypothesis, does muscle
+
+632
+01:02:58,840 --> 01:03:05,800
+insulin resistance drive fatty liver and DNL and high triglycerides? We took these young insulin
+
+633
+01:03:05,800 --> 01:03:10,280
+resistant individuals and we showed, John Luca showed in that New England Journal study, even a
+
+634
+01:03:10,280 --> 01:03:17,000
+single bout, 45 minute bout was sufficient to open up the door to glucose, cause that glute four
+
+635
+01:03:17,000 --> 01:03:23,400
+translocations. And Rasmus Rabaul, when he was a clinical fellow with me, did one single bout
+
+636
+01:03:23,400 --> 01:03:27,080
+in these same individuals I showed you before, insulin resistance and muscle.
+
+637
+01:03:27,080 --> 01:03:33,720
+The ones had high triglycerides, low HDL and prone to increased DNL. With the single bout, we able to
+
+638
+01:03:33,720 --> 01:03:39,800
+show that that same ingested glucose would lead to more glucose deposition as muscle glycogen.
+
+639
+01:03:40,440 --> 01:03:46,200
+And we got significant reductions in de nova lipogenesis, significant reductions in liver
+
+640
+01:03:46,200 --> 01:03:50,680
+triglyceride. I just want to make sure I understand that. And it's relevant to another question I have
+
+641
+01:03:50,680 --> 01:03:56,040
+about the difference between insulin dependent and independent glucose uptake. So do we know if that
+
+642
+01:03:56,040 --> 01:04:05,480
+single bout of exercise, which particular piece of the pathway got released? Did it have some direct
+
+643
+01:04:05,480 --> 01:04:13,720
+effect on the root cause, the DAG or some of the kinases downstream? Was it even further downstream
+
+644
+01:04:13,720 --> 01:04:19,000
+at the very last step where the transporter gets released? Like where was the actual bottleneck
+
+645
+01:04:19,000 --> 01:04:24,600
+alleviated with that single bout of exercise? I can speculate in these were human studies.
+
+646
+01:04:24,600 --> 01:04:29,800
+I can tell you that we opened up the door. We measured glucose 6-phosphate in them and that
+
+647
+01:04:29,800 --> 01:04:36,200
+goes up. So we opened the door for that defect in insulin stimulating transport is now reversed. So
+
+648
+01:04:36,200 --> 01:04:41,720
+glucose transporters and the membrane glucose is coming in. What I can't tell you is whether or not
+
+649
+01:04:42,280 --> 01:04:47,560
+we've altered DAGs and we're getting improved insulin signaling at the level of the receptor
+
+650
+01:04:47,560 --> 01:04:55,400
+and IRS1. And or is it just AMPK causing this glute IV translocation? If I had to speculate,
+
+651
+01:04:55,400 --> 01:05:02,120
+I would think most of it is through the latter. We were simply with an acute bout causing AMPK
+
+652
+01:05:02,920 --> 01:05:07,800
+induced glute IV translocation, which we know happens independent of the kindness. That's
+
+653
+01:05:07,800 --> 01:05:13,080
+established. So we're short circuiting. We're just causing glute IV right at all the lower mechanisms
+
+654
+01:05:13,080 --> 01:05:18,200
+to get to the membrane. So we fixed the block in insulin action. I think though with chronic
+
+655
+01:05:18,200 --> 01:05:24,520
+exercise therapy, we're going to be doing both where we get melt away. The lipid and DAGs go down.
+
+656
+01:05:24,520 --> 01:05:29,000
+So we have improved insulin signaling as well as more AMPK induced glute IV translocation.
+
+657
+01:05:29,800 --> 01:05:33,400
+Yeah, I'll tell you just I think I've even discussed this on a previous podcast.
+
+658
+01:05:33,400 --> 01:05:38,200
+I've had a couple of patients with type 1 diabetes that I've taken care of, not many,
+
+659
+01:05:38,200 --> 01:05:43,560
+but in the phenotype of patients with type 1 diabetes where there is a significant amount of
+
+660
+01:05:43,560 --> 01:05:50,600
+exercise, specifically sort of modest intensity aerobic exercise. So a person who is, for example,
+
+661
+01:05:50,600 --> 01:05:56,760
+doing brisk walking, very brisk walking sort of to the tune of four miles an hour, an hour to two
+
+662
+01:05:56,760 --> 01:06:04,600
+hours a day. These patients with type 1 diabetes can be virtually free of insulin and maintain
+
+663
+01:06:04,600 --> 01:06:09,320
+reasonable glycemic control so they can walk around with a hemoglobin A1c of 6%
+
+664
+01:06:10,600 --> 01:06:16,360
+using maybe 12 units of insulin a day and obviously restricting carbohydrates. But again,
+
+665
+01:06:16,360 --> 01:06:22,200
+it suggests, I say this, having watched them change the intensity duration of the exercise,
+
+666
+01:06:22,200 --> 01:06:27,640
+that it seems that that exercise becomes a spigot to how much glucose they can dispose
+
+667
+01:06:27,640 --> 01:06:33,240
+in their muscle seemingly without insulin. It's almost like a total bypass of the system,
+
+668
+01:06:33,240 --> 01:06:38,200
+which again, I think to your point is chronic. I don't think this is something we see acutely.
+
+669
+01:06:38,200 --> 01:06:43,320
+I obviously can't comment on it. The first time I saw it, which was probably about six years ago,
+
+670
+01:06:43,320 --> 01:06:49,880
+it really sent a light bulb off, which is imagine now being able to maximize both insulin dependent
+
+671
+01:06:49,880 --> 01:06:56,360
+and insulin independent glucose uptake into a muscle that really becomes a powerful tool to
+
+672
+01:06:56,360 --> 01:07:01,880
+combat all of this sort of metabolic dysregulation. That's what AMPK does is insulin dependent glucose
+
+673
+01:07:01,880 --> 01:07:08,360
+uptake. And I can see in combination with reduced carbohydrate consumption, less coming into
+
+674
+01:07:08,360 --> 01:07:14,280
+the circulation and whatever little comes in is taken care of through AMPK, insulin independent
+
+675
+01:07:14,280 --> 01:07:20,440
+good for trans location. So that fits. Before we go to the liver, and I do want to actually
+
+676
+01:07:20,440 --> 01:07:25,640
+talk about how all of this works in the liver. I want to go back to one other thing that you
+
+677
+01:07:25,720 --> 01:07:31,960
+very briefly touched on, which is the evolutionary explanation for some of this.
+
+678
+01:07:32,600 --> 01:07:35,640
+That would be best done, if I might say with the liver.
+
+679
+01:07:35,640 --> 01:07:38,600
+Okay, great. Let's do it because I want to understand this. Yeah.
+
+680
+01:07:38,600 --> 01:07:44,360
+That's kind of fun. So let's now turn. So I kind of walked you through at least my thinking about
+
+681
+01:07:44,360 --> 01:07:50,040
+insulin resistance, why it's so important for not only diabetes, but so many diseases. I've shown
+
+682
+01:07:50,040 --> 01:07:55,480
+you the physiological cause for insulin resistance in muscle can't get glucose in the glycogen.
+
+683
+01:07:55,480 --> 01:08:00,680
+I've shown you that block is a transport and then I've given you a molecular understanding
+
+684
+01:08:00,680 --> 01:08:06,520
+of how that insulin resistance and muscle happens. My view is lipid disaglycerol is block leading to
+
+685
+01:08:06,520 --> 01:08:13,480
+activation of a novel protein kinase C, epsilon, theta blocking insulin signaling. Okay. So let's
+
+686
+01:08:13,480 --> 01:08:18,280
+now, and then I've shown you how muscle insulin resistance can lead to fat accumulation in liver,
+
+687
+01:08:18,920 --> 01:08:25,880
+atherogenic, dyslipidema, and fatty liver. Now we know fatty liver is what then leads to insulin
+
+688
+01:08:25,880 --> 01:08:30,600
+resistance in the liver. And so I want to take you through the molecular basis for how fat and liver
+
+689
+01:08:30,600 --> 01:08:35,080
+causes insulin resistance. And it's pretty much what's nice now that you understand muscle,
+
+690
+01:08:35,080 --> 01:08:40,600
+lipid induced muscle insulin resistance, it's pretty close to the same story in liver. So here's a
+
+691
+01:08:40,600 --> 01:08:46,360
+cartoon of the liver cell. But is the direction of causation, Jerry, in the order in which you're
+
+692
+01:08:46,360 --> 01:08:52,840
+telling the story, in other words, is the hyperinsulinemia as a result of muscle insulin
+
+693
+01:08:52,840 --> 01:09:00,520
+resistance? Let me clarify that muscle insulin resistance, which leads to peripheral hyperinsulinemia,
+
+694
+01:09:00,520 --> 01:09:06,600
+which is accompanied by portal vein hyperinsulinemia, which leads to what you're about to tell us. Is
+
+695
+01:09:06,600 --> 01:09:11,480
+that the order in which you think this occurs? I do. As I say, this is what we see in our
+
+696
+01:09:11,480 --> 01:09:17,800
+volunteers as we march through the progression in different stages. We don't see liver abnormalities
+
+697
+01:09:17,800 --> 01:09:22,120
+in these young 20 year olds. It's all muscle and maybe a little bit of the fat cell, which we'll
+
+698
+01:09:22,120 --> 01:09:28,120
+come to at the end, but it's the muscle. There's no alterations in the liver until they get fatty
+
+699
+01:09:28,120 --> 01:09:34,200
+liver. Once they get fatty liver, then we see both insulin resistance in liver and insulin resistance
+
+700
+01:09:34,200 --> 01:09:40,360
+in muscle. A very important distinction between humans and rodents. We've studied both models quite
+
+701
+01:09:40,360 --> 01:09:45,560
+extensively. Rodents develop insulin resistance in the reverse direction. They get liver fat first,
+
+702
+01:09:45,560 --> 01:09:51,560
+liver insulin resistance, and then muscle. Most of the studies done in rodents is a very important
+
+703
+01:09:51,560 --> 01:09:57,240
+distinction in terms of the progression and very different humans versus rodents. We can talk about
+
+704
+01:09:57,240 --> 01:10:02,360
+similarities and differences if you want, but we're going to focus mostly on humans for this talk.
+
+705
+01:10:02,840 --> 01:10:10,920
+And that makes total sense. So it is, again, its peripheral IR, hepatic IR, hepatic consequences,
+
+706
+01:10:10,920 --> 01:10:16,280
+which then basically amplify it. That's my belief, yeah. And again, leading to this beta cell
+
+707
+01:10:16,840 --> 01:10:21,720
+compensation, compensation, and then again, something when you get both muscle and liver
+
+708
+01:10:21,720 --> 01:10:26,680
+insulin resistance and it's increased glucose production by liver, then something happens to
+
+709
+01:10:26,680 --> 01:10:30,680
+the beta cell. And that's when things really start to spiral where you have very profound
+
+710
+01:10:30,680 --> 01:10:37,080
+hyperglycemia fasting the postprandial. Here's the cartoon of the liver cell. And again, glucose
+
+711
+01:10:37,080 --> 01:10:41,480
+transport is not rate controlling, as you know, in the liver cell. Glucose just diffuses in through
+
+712
+01:10:41,480 --> 01:10:47,960
+Glut2 transporters and the insulin, again, binds the receptor, same thing, autophosphorylation.
+
+713
+01:10:47,960 --> 01:10:54,520
+The key intermediate there in liver is IRS2 undergoes tyrosine phosphorylation, use cathekinase,
+
+714
+01:10:54,520 --> 01:11:02,760
+just as you did in muscle like AT2. And in liver, what happens is you have a few things. One,
+
+715
+01:11:02,760 --> 01:11:07,560
+not shown here is glucokinase translocation. And that we've recently shown is probably very
+
+716
+01:11:07,560 --> 01:11:12,760
+important for rate control, getting glucose into the hepatocyte. You also get activation of glycogen
+
+717
+01:11:12,760 --> 01:11:19,160
+synthase and more glycogen synthesis. And then you have this phosphorylation of FOXO,
+
+718
+01:11:19,880 --> 01:11:27,000
+which is a transcriptional regulator. And that then is excluded from the nucleus and then down
+
+719
+01:11:27,000 --> 01:11:31,080
+regulates then gluconeogenesis through a transcriptional mechanism. And if we have a
+
+720
+01:11:31,080 --> 01:11:36,440
+chance, I'd like to come back to this because we have some interesting data that speaks to really
+
+721
+01:11:36,440 --> 01:11:42,760
+how insulin is inhibiting this key process. So let's now just focus on how lipid causes insulin
+
+722
+01:11:42,760 --> 01:11:50,920
+resistance in liver. Same metabolite, it's the disaglystrols. They go to activate epsilon,
+
+723
+01:11:50,920 --> 01:11:58,520
+that's really the major isoform of PKC, novel PKCs in liver, and work by Varmin Samuel when
+
+724
+01:11:58,520 --> 01:12:05,000
+he was doing his PhD with me in a series of studies. Varmin showed that epsilon binds to
+
+725
+01:12:05,000 --> 01:12:10,920
+the insulin receptor and directly inhibits the receptor kinase itself. And that then leads to
+
+726
+01:12:11,000 --> 01:12:15,480
+downstream abnormalities. What I want to share with you now, which I think, and again,
+
+727
+01:12:15,480 --> 01:12:20,040
+gets into this evolutionary basis for insulin resistance, which I think your listeners might
+
+728
+01:12:20,040 --> 01:12:27,720
+find interesting is how is epsilon inhibiting the receptor kinase? We worked on this Jesse
+
+729
+01:12:27,720 --> 01:12:34,120
+Reinhardt and Max Peterson, he was an MD PhD student with me. We did untargeted phosphoproteomics.
+
+730
+01:12:34,120 --> 01:12:40,680
+And what I'm showing here is the catalytic domain of the insulin receptor. Yeah, I can just describe
+
+731
+01:12:40,760 --> 01:12:47,560
+it for the listeners. It's a loop. You can picture it as a door over the pocket for the catalytic
+
+732
+01:12:47,560 --> 01:12:54,200
+domain of the insulin receptor. And this door is closed. IRS1, IRS2 can't go into the pocket for
+
+733
+01:12:54,200 --> 01:13:01,720
+tyrosine phosphorylation. When insulin binds the receptor, these three tyrosines, the 1158,
+
+734
+01:13:01,720 --> 01:13:08,600
+the 1162, and the 1163 become phosphorylated, that opens the door, that loop flips out, and then
+
+735
+01:13:08,600 --> 01:13:13,560
+IRS1, IRS2 go into the pocket and undergo tyrosine phosphorylation to get the rest of the
+
+736
+01:13:13,560 --> 01:13:19,880
+cascade going. Using untargeted phosphoproteomics, we were able to show Jesse Reinhardt, who is our
+
+737
+01:13:19,880 --> 01:13:27,480
+collaborator and mass spec maven, identified using purified receptor, purified PKC epsilon,
+
+738
+01:13:27,480 --> 01:13:33,000
+that when you add activated epsilon to the receptor, you phosphorylate this threonine.
+
+739
+01:13:33,640 --> 01:13:39,640
+And that got us very excited because, golly, that's one amino acid away from these two tyrosines
+
+740
+01:13:39,640 --> 01:13:45,880
+that are required for activation receptors, maybe doing something important. And so the other thing
+
+741
+01:13:45,880 --> 01:13:53,000
+that got us excited about, and here's getting into evolution, is the sequence of the catalytic domain
+
+742
+01:13:53,000 --> 01:13:59,160
+for the receptor. And it's been conserved all the way from humans down to fruit flies,
+
+743
+01:13:59,160 --> 01:14:05,880
+those three tyrosines, same position, and that threonine that sits right between the two tyrosines,
+
+744
+01:14:05,880 --> 01:14:12,840
+1158, 1162, has been conserved all the way, again, from Homo sapiens down to Drosophila,
+
+745
+01:14:13,400 --> 01:14:17,640
+through evolution, if something's important, it usually hangs around. That's a long time.
+
+746
+01:14:18,360 --> 01:14:23,480
+So to prove this, we very simply, we did some genetics. Again, that's what you can do is you
+
+747
+01:14:23,480 --> 01:14:30,120
+can knock a glutamic acid, replace that threonine with glutamic acid, mimic a phosphorylation event,
+
+748
+01:14:30,120 --> 01:14:35,320
+and that kills the kinase activity. You can mutate the threonine to an alanine so it can't
+
+749
+01:14:35,320 --> 01:14:40,840
+get phosphorylated, and then you have protection in vitro from epsilon-induced reduction in IRC
+
+750
+01:14:40,840 --> 01:14:47,960
+activity. And then you can make the mouse. And so here in this paper, we made mice where we replaced
+
+751
+01:14:47,960 --> 01:14:52,920
+the threonine in that key position, the 11, this is the mouse homologue, the 1150 is the
+
+752
+01:14:52,920 --> 01:14:59,240
+homologue for the 1160 in humans. So all the threonines are instead alanines. And I won't
+
+753
+01:14:59,240 --> 01:15:03,480
+get into the data, other say the mice are perfectly normal, normal chow, normal insulin
+
+754
+01:15:03,480 --> 01:15:10,600
+sensitivity, nothing, you know, normal size, normal growth. But when Max fed these mice a high-fat diet,
+
+755
+01:15:10,600 --> 01:15:15,640
+the wild-type mice get profound hepatic insulin resistance. And this we see, and everyone else on
+
+756
+01:15:15,640 --> 01:15:22,200
+the planet sees, you feed mice high-fat diet, even for three days, they get fat accumulation,
+
+757
+01:15:22,200 --> 01:15:27,000
+DAG accumulation, hepatic insulin resistance. Does it have to have sucrose in it as well,
+
+758
+01:15:27,000 --> 01:15:32,120
+or just fat? Doesn't need to be. You can make it worse if you add a little sucrose. They like
+
+759
+01:15:32,120 --> 01:15:36,760
+that in the drinking water, and they have even more fatty liver to put sucrose in the drinking
+
+760
+01:15:36,760 --> 01:15:42,200
+water. But this is just with fat alone, but it's even more greater when you put sucrose or fructose
+
+761
+01:15:42,280 --> 01:15:48,680
+or whatever sugar you want in the drinking water. And here, then you can see when you simply mutate
+
+762
+01:15:48,680 --> 01:15:55,800
+that threonine, now you have perfectly normal hepatic insulin sensitivity as reflected by
+
+763
+01:15:55,800 --> 01:16:00,920
+insulin's ability to suppress hepatic glucose production. And this is despite the same amount
+
+764
+01:16:00,920 --> 01:16:07,640
+of liver fat, same amount of liver DAGs in the liver. This tells us that that single amino acid
+
+765
+01:16:07,640 --> 01:16:12,360
+is doing something very important in terms of mediating lipid-induced insulin resistance.
+
+766
+01:16:12,360 --> 01:16:17,320
+And this actually just came out this last week, this paper now, just to summarize, where we've
+
+767
+01:16:17,320 --> 01:16:23,800
+now shown that there's different isoforms. We didn't get into this, into the abdysyl glycerol,
+
+768
+01:16:24,360 --> 01:16:31,000
+and it really matters which isoform it is and what compartment it is. Just to summarize this
+
+769
+01:16:31,000 --> 01:16:36,360
+paper that just came out in cell metabolism, we were able to show by measuring the three different
+
+770
+01:16:36,360 --> 01:16:43,960
+stereoisomers of diisoglycerols. It's really the SN1,2 isoform and measuring these different
+
+771
+01:16:43,960 --> 01:16:49,320
+isoforms in five different intracellular compartments, the plasma membrane, the cytosol,
+
+772
+01:16:49,880 --> 01:16:56,760
+lipid droplet, ER, and the mitochondria. It's really specifically the SN1,2 isoform in the
+
+773
+01:16:56,760 --> 01:17:02,840
+plasma membrane that's important. If you just measure total DAGs, you may easily miss this.
+
+774
+01:17:02,840 --> 01:17:08,440
+We learned that this recent study, and that we showed both that PKC epsilon is both necessary
+
+775
+01:17:08,440 --> 01:17:14,280
+and sufficient for this process by doing a knock-in and over expression. But I just want to basically
+
+776
+01:17:14,280 --> 01:17:20,680
+touch on the question you asked me about. Why do we have insulin resistance? Why should it exist?
+
+777
+01:17:21,240 --> 01:17:28,280
+And the reason I think it exists is it's protective for us during starvation. When you starve,
+
+778
+01:17:28,280 --> 01:17:35,080
+this is true pretty much in all mammals, mice, rats, and humans. When we starve, we get fatty
+
+779
+01:17:35,080 --> 01:17:41,320
+liver. Here in this study, this is Rachel Perry's paper in cell from a couple years ago. Take rats,
+
+780
+01:17:41,320 --> 01:17:47,480
+just starve them for 48 hours. You have increased lipolysis, more fatty acids delivered to the
+
+781
+01:17:47,480 --> 01:17:56,840
+liver, hepatic fat accumulation. DAGs we show go up, SN1,2, PKC epsilon translocation, and insulin
+
+782
+01:17:56,840 --> 01:18:03,000
+resistance in liver. And the main thing that insulin does in the liver is it promotes glucose
+
+783
+01:18:03,000 --> 01:18:09,240
+uptake and storage as glycogen. When you think about it, that's what you want turned off during
+
+784
+01:18:09,240 --> 01:18:15,800
+starvation because during starvation, glucose is a very precious molecule, and you want to preserve
+
+785
+01:18:15,800 --> 01:18:23,000
+this in circulation for the CNS, which is critically in need. It's really the major source of energy
+
+786
+01:18:23,720 --> 01:18:31,320
+for the CNS. And so by promoting hepatic insulin resistance, we're promoting glucose in circulation
+
+787
+01:18:31,320 --> 01:18:37,880
+for basically the CNS to operate. And so that to me is why that threonine is preserved all the way
+
+788
+01:18:37,880 --> 01:18:45,000
+from humans to fruit flies. And I just wanted to show you this cover of nature, this Mexican cave
+
+789
+01:18:45,000 --> 01:18:51,320
+fish. It's a fun story because after our paper came out, this little fish made the cover of nature.
+
+790
+01:18:52,200 --> 01:18:56,680
+And what was so fascinating about it, so these little fish, they live inside caves.
+
+791
+01:18:57,240 --> 01:19:02,520
+They spend most of their life starving. The only time they are able to eat is when something smaller
+
+792
+01:19:02,520 --> 01:19:08,040
+than them swims in front of the cave, and then they can reach out and grab it and pull it back
+
+793
+01:19:08,040 --> 01:19:15,320
+into the cave and gobble it up. And these workers who studied this Mexican cave fish found this cave
+
+794
+01:19:15,320 --> 01:19:21,720
+fish had a mutation in the insulin receptor, had profound hepatic insulin resistance, and they also
+
+795
+01:19:21,720 --> 01:19:27,880
+went on to say this was important to allow them to survive. In my view, insulin resistance was a
+
+796
+01:19:27,880 --> 01:19:34,360
+protective mechanism throughout evolution that allowed us to survive all species during starvation,
+
+797
+01:19:34,360 --> 01:19:40,200
+which was probably the predominant environmental exposure we've had for the last many, many
+
+798
+01:19:40,200 --> 01:19:47,400
+millennia. And it's only in recent years, recent decades that now we're in this toxic environment
+
+799
+01:19:47,400 --> 01:19:53,560
+of over nutrition. And it's when these same pathways now are going the opposite direction,
+
+800
+01:19:53,560 --> 01:19:59,800
+promoting disease by doing what they were at one time was protective. And now they're actually
+
+801
+01:19:59,800 --> 01:20:05,320
+being told metabolic disease that we just discussed. So I want to make sure I can unpack this a little
+
+802
+01:20:05,320 --> 01:20:09,640
+bit. So I want to start in the muscle because I think it's easier. And again, we'll even talk
+
+803
+01:20:09,640 --> 01:20:14,520
+about it in humans, which means we can do it on a sort of different timescale, because obviously 48
+
+804
+01:20:14,520 --> 01:20:21,640
+hours of fasting in a mouse is a seismic fast, a near fatal fast. But let's say 48 to 72 hours
+
+805
+01:20:21,640 --> 01:20:28,200
+of fasting in a human, we still would expect to see significant muscle insulin resistance. And
+
+806
+01:20:28,200 --> 01:20:34,520
+there would be a great reason for that evolutionarily, because you would want to make sure that as much
+
+807
+01:20:34,520 --> 01:20:40,120
+glucose as possible in that circulation, which by this point is all coming through hepatic glucose
+
+808
+01:20:40,120 --> 01:20:48,520
+output is not being quote unquote wasted in muscle glycogen synthesis. To your point, every gram of
+
+809
+01:20:48,520 --> 01:20:53,000
+gluconeogenic substrate that's going through the liver and then coming out the liver should be
+
+810
+01:20:53,000 --> 01:20:58,680
+preserved for the brain. Because even Cahill's studies show that after 40 days of starvation,
+
+811
+01:20:59,320 --> 01:21:07,160
+humans were still getting about 40% of CNS energy from glucose, the remainder from ketones. So
+
+812
+01:21:07,160 --> 01:21:13,400
+glucose never went away as a substrate for the brain. So I think I have a handle on the muscle
+
+813
+01:21:13,400 --> 01:21:21,240
+side of things. I'm still struggling a little bit to understand the physiologic consequence of hepatic
+
+814
+01:21:21,320 --> 01:21:28,280
+insulin resistance, and how that feeds into what I think should be an environment that says,
+
+815
+01:21:28,920 --> 01:21:36,760
+figure out a way to make as much glucose for the CNS as possible. Why does more fat accumulation
+
+816
+01:21:36,760 --> 01:21:43,400
+in the liver make it better served to protect the brain? So first of all, let me step back. So both
+
+817
+01:21:43,400 --> 01:21:49,720
+organs during starvation, both liver, even though I focus here on liver, muscle will become insulin
+
+818
+01:21:49,720 --> 01:21:54,440
+resistant also through increased circulating fatty acids through the mechanisms we talked
+
+819
+01:21:54,440 --> 01:22:00,200
+about DAGS building up PKC theta. So insulin resistance in all organs are going to preserve
+
+820
+01:22:00,200 --> 01:22:07,400
+glucose for the CNS. I was just focusing on the threonine here in liver because that's where
+
+821
+01:22:07,400 --> 01:22:14,200
+Epsilon was taking us. To understand the liver, I want to just take you to another cartoon because
+
+822
+01:22:14,200 --> 01:22:20,840
+you're asking a very important question about processes, about regulation, how insulin works
+
+823
+01:22:21,480 --> 01:22:27,000
+in liver. And I think to do this, let me just step back. The conceptual view, again, this is a
+
+824
+01:22:27,000 --> 01:22:31,640
+cartoon I always like to show how does insulin work. This was from 20 years ago when I was first
+
+825
+01:22:31,640 --> 01:22:36,600
+studying it, maybe 30 years ago. Insulin binds to receptor magic happens, something happens,
+
+826
+01:22:36,600 --> 01:22:41,480
+and you have an effect. And so even though insulin has been since its discovery, we're still
+
+827
+01:22:41,480 --> 01:22:47,160
+trying to really understand what's happening in different tissues, how it works and getting
+
+828
+01:22:47,160 --> 01:22:53,320
+surprises. So this is the canonical view we just went through of how insulin works on liver, it
+
+829
+01:22:53,320 --> 01:22:59,960
+binds the receptor, it activates the cascade to promote glycogen synthesis and turn off gluconeogenesis.
+
+830
+01:23:00,600 --> 01:23:08,040
+And what we're finding is the simple view doesn't explain many things and I think needs modification,
+
+831
+01:23:08,040 --> 01:23:14,120
+especially in terms of insulin regulating gluconeogenesis, this process that is required
+
+832
+01:23:14,120 --> 01:23:18,680
+to keep us alive during starvation. Without gluconeogenesis, we're not going to wake up in
+
+833
+01:23:18,680 --> 01:23:23,400
+the morning because it's gluconeogenesis that supplies glucose for the CNS while we're sleeping.
+
+834
+01:23:23,400 --> 01:23:27,240
+And certainly during starvation, without this process, we're in trouble.
+
+835
+01:23:27,800 --> 01:23:31,240
+I don't think that can be overstated, by the way. Let's go back to what you just said.
+
+836
+01:23:31,800 --> 01:23:37,960
+We couldn't survive, by my calculation, Jerry, we'd have a hard time surviving 10 minutes without
+
+837
+01:23:37,960 --> 01:23:44,680
+gluconeogenesis as a species. Well, I'll modify that a little bit. As Pashy did, I'd love to hear
+
+838
+01:23:44,680 --> 01:23:50,840
+you state the importance of gluconeogenesis. No, we know clinically you can. And again,
+
+839
+01:23:50,840 --> 01:23:55,880
+from the lessons learned from Gene Knockout, unfortunately, there are patients with inherited
+
+840
+01:23:55,880 --> 01:24:00,680
+disease, Bongariki's disease. As you know, patients who don't have glucose 6-phosphatase,
+
+841
+01:24:00,680 --> 01:24:06,360
+the last key step getting glucose 6-phosphate out. We do know that can be compatible with life. We
+
+842
+01:24:06,360 --> 01:24:12,680
+have patients with glucose 6-phosphatase. And the way we keep them alive is just continuously to feed
+
+843
+01:24:12,680 --> 01:24:18,280
+them. Yeah, that's my point. Without continuous glucose feeding, your lifespan would be measured
+
+844
+01:24:18,280 --> 01:24:24,760
+in minutes to hours without gluconeogenesis to regulate glucosomastasis. It's critical for
+
+845
+01:24:24,760 --> 01:24:30,920
+life function. We're on the same page. So let's just talk about then how it's thought to operate
+
+846
+01:24:30,920 --> 01:24:36,680
+and regulate it. It's also important to be able to modulate it. So we eat a meal, and we have to
+
+847
+01:24:36,680 --> 01:24:42,600
+suppress gluconeogenesis. Otherwise, glucose would go up to 400 or 500 after eating a carbohydrate
+
+848
+01:24:42,600 --> 01:24:47,320
+meal. So it has to be a process that's turned on, turned off. And that turned on too much,
+
+849
+01:24:47,320 --> 01:24:50,680
+you know, in terms of diabetes, because that's what drives fast and hyperglycemia.
+
+850
+01:24:51,400 --> 01:24:55,880
+Traditionally, pretty much the major textbooks, physiology, biochemistry,
+
+851
+01:24:56,680 --> 01:25:02,040
+insulin is thought to be turned off gluconeogenesis through transcriptional
+
+852
+01:25:02,920 --> 01:25:09,400
+mechanisms. And again, this is this FoxO phosphorylation by AKT exclusion from the nucleus.
+
+853
+01:25:10,200 --> 01:25:16,280
+Then you get downregulation of Pepsi cakes, excuse me, and 6-phosphatase. FoxO is the transcription
+
+854
+01:25:16,280 --> 01:25:22,360
+regulator for these downregulation. The problem with this view, and again, there's some beautiful
+
+855
+01:25:22,360 --> 01:25:26,760
+molecular biology, and I'm not going to want to deny that this doesn't happen, but the problem
+
+856
+01:25:26,760 --> 01:25:34,840
+with this being the predominant regulating mechanism is threefold. One is you can knock out
+
+857
+01:25:34,840 --> 01:25:41,240
+AKT or FoxO and give insulin to the mouse, and you can still turn off gluconeogenesis in a fasted
+
+858
+01:25:41,240 --> 01:25:46,040
+mouse, which is totally dependent on gluconeogenesis. That speaks to the fact you don't need
+
+859
+01:25:46,040 --> 01:25:52,200
+these key insulin signaling pathways to regulate gluconeogenesis. The second thing in terms of its
+
+860
+01:25:52,280 --> 01:26:00,760
+role in mediating fast in hyperglycemia and diabetes is we got liver from patients with
+
+861
+01:26:00,760 --> 01:26:06,760
+poorly controlled diabetes. So when patients go in for a Roux-en-Y or bariatric surgery,
+
+862
+01:26:06,760 --> 01:26:11,160
+the surgeon can take a little piece of liver under direct visualization, so it's very safe,
+
+863
+01:26:11,720 --> 01:26:17,560
+and give us enough liver to we can do actually protein measurement and enzyme measurements of
+
+864
+01:26:17,560 --> 01:26:24,760
+Pepsi-K 6-phosphatase, not just message, but actually the proteins themselves. And to my surprise,
+
+865
+01:26:24,760 --> 01:26:30,600
+I thought all these enzymes from everything I was thinking about biochemistry and at least what I
+
+866
+01:26:30,600 --> 01:26:36,040
+learned when I was a luxury medical student is I expected Pepsi-K and 6-phosphatase and
+
+867
+01:26:36,040 --> 01:26:42,840
+fructose 1,6-biphosphatase all to be upregulated two to threefold in the poorly controlled diabetic
+
+868
+01:26:42,840 --> 01:26:49,160
+that was undergoing ruined bypass surgery compared to the non-diabetic. And we found
+
+869
+01:26:49,160 --> 01:26:54,440
+no relationship between protein expression of these enzymes, gluconeogenic enzymes,
+
+870
+01:26:54,440 --> 01:27:00,280
+and at least fasting glucose and insulin and history of diabetes. Finally, when you develop
+
+871
+01:27:00,280 --> 01:27:06,600
+methods, the flux methods we won't get into to actually quantify this flux of gluconeogenesis,
+
+872
+01:27:06,600 --> 01:27:11,320
+which has not been easy to measure, by the way, but we have methods now, they're very good to
+
+873
+01:27:11,320 --> 01:27:18,040
+measure this flux, we can turn off gluconeogenesis within five minutes. And that's much faster than
+
+874
+01:27:18,040 --> 01:27:23,880
+you'd expect in transcriptional translational mechanisms. Just to kind of talk about how
+
+875
+01:27:23,880 --> 01:27:29,640
+gluconeogenesis, this is the gluconeogenic pathway lactate to glucose, you can have transcriptional
+
+876
+01:27:29,640 --> 01:27:35,880
+regulation, you can have substrate regulation. So glycerol we've shown from lipolysis, there is
+
+877
+01:27:35,880 --> 01:27:41,400
+no rate control. The more glycerol that comes from fat breakdown in the fat cell that fluxes
+
+878
+01:27:41,400 --> 01:27:46,200
+the liver comes right out of glucose. There's no rate control, it's just all substrate driven.
+
+879
+01:27:46,920 --> 01:27:52,680
+Redox we've shown in the liver cell regulates gluconeogenesis. And this in a series of studies
+
+880
+01:27:52,680 --> 01:27:57,960
+that Anilla has done, that's how I think metformin works. And we can talk about that if you're
+
+881
+01:27:57,960 --> 01:28:04,280
+interested. But finally, I want to emphasize is this allosteric regulation of gluconeogenesis
+
+882
+01:28:04,280 --> 01:28:11,480
+by Acetyl-CoA. This had been known for decades to be a regulator of pyrovacinoxalase and had kind
+
+883
+01:28:11,480 --> 01:28:16,600
+of been forgotten because it was very hard to measure and no one looked at it in vivo, because
+
+884
+01:28:16,600 --> 01:28:22,360
+it's hard to measure in vivo or especially in the diabetic situation. We said, well, wait a minute,
+
+885
+01:28:22,360 --> 01:28:27,240
+let's go back and look at Acetyl-CoA. We developed the methods tandem mass spec methods, very
+
+886
+01:28:27,240 --> 01:28:32,680
+sensitive, very specific. To do this and freeze clamp tissues from animals with varying degrees
+
+887
+01:28:32,680 --> 01:28:40,280
+of diabetes, hyperglycemia. The bottom line is found a very robust relationship between Acetyl-CoA,
+
+888
+01:28:40,280 --> 01:28:45,480
+which is, as you know, the end product of beta-oxidation. Take fatty acids and break them down
+
+889
+01:28:45,480 --> 01:28:51,480
+to beta-oxidation, the end product as before it enters the TCA cycle. And there's this very
+
+890
+01:28:51,480 --> 01:28:57,400
+robust relationship, just all these different studies. But basically every study we do,
+
+891
+01:28:57,400 --> 01:29:02,520
+we give insulin, we get suppression of Acetyl-CoA. This explains how insulin acutely
+
+892
+01:29:02,520 --> 01:29:08,840
+suppresses gluconeogenesis. When diabetic models, when you have increased gluconeogenesis,
+
+893
+01:29:08,840 --> 01:29:14,680
+it's two-fold increases in Acetyl-CoA, but it perfectly follows rates of gluconeogenesis,
+
+894
+01:29:14,680 --> 01:29:21,240
+which we quantify track perfectly with concentrations of tatic Acetyl-CoA content.
+
+895
+01:29:21,240 --> 01:29:25,000
+I just want to take you how insulin normally works in the liver cell,
+
+896
+01:29:25,880 --> 01:29:30,280
+and then how it becomes dysregulated in diabetes. And this is going to answer your question about
+
+897
+01:29:31,080 --> 01:29:36,120
+how do we distinguish insulin promoting storage as glycogen, yet keeping gluconeogenesis
+
+898
+01:29:36,120 --> 01:29:41,400
+going for the brain. So this is very important to answer that question. So in my view,
+
+899
+01:29:42,680 --> 01:29:49,400
+insulin binds the receptor and it has direct effects through the receptor. That is mostly
+
+900
+01:29:49,400 --> 01:29:55,480
+to promote glucose uptake and storage as glycogen. The effects on gluconeogenesis,
+
+901
+01:29:55,480 --> 01:30:01,880
+the process that keeps us going during starvation, is really mostly regulated, not through the
+
+902
+01:30:01,880 --> 01:30:09,400
+receptor in liver, but it's through its effect on the fat cell in the periphery. In studies we've
+
+903
+01:30:09,400 --> 01:30:14,920
+done in awake rats, and we're translating this to humans, it's really insulin putting the brake on
+
+904
+01:30:15,640 --> 01:30:23,400
+peripheral lipolysis, less fatty acid delivery to liver, less generation of Acetyl-CoA. And we've
+
+905
+01:30:23,400 --> 01:30:30,040
+shown this, the more fatty acids that flux the liver track almost perfectly with Acetyl-CoA content,
+
+906
+01:30:30,040 --> 01:30:35,880
+less pyruvic carboxylase activity. And again, there's about 10-15% of this gluconeogenesis
+
+907
+01:30:35,880 --> 01:30:40,440
+is simply coming from less glycerol from lipolysis to liver through substrate push.
+
+908
+01:30:40,440 --> 01:30:45,960
+So you have two very different processes here. One is glycogen synthesis. That's what the
+
+909
+01:30:45,960 --> 01:30:52,440
+receptor is doing in liver. Gluconeogenesis is mostly 90%, I would say, maybe a little bit of
+
+910
+01:30:52,440 --> 01:30:57,800
+intrapadic lipolysis regulation, but mostly through its effect to put the brake on peripheral
+
+911
+01:30:57,800 --> 01:31:03,560
+lipolysis. And this model, by the way, will explain in my view the explanation for all the
+
+912
+01:31:03,560 --> 01:31:09,640
+controversies of insulin action that have been described through the last decades in mice, where
+
+913
+01:31:09,640 --> 01:31:16,120
+you knock out AKT in the mouse, insulin still works. You do things to the periphery, fat cell,
+
+914
+01:31:16,120 --> 01:31:22,440
+and you affect glucose metabolism, gluconeogenesis. All these studies that appear to be conflicting
+
+915
+01:31:22,440 --> 01:31:27,320
+can be explained if you use this model as a template to understand insulin action.
+
+916
+01:31:27,320 --> 01:31:32,680
+And again, I have short-term fast and long-term fast. This is important species differentiation.
+
+917
+01:31:33,320 --> 01:31:39,240
+Mice, and as you pointed this out, Peter, even after an overnight fast, boom, all the glycogen's
+
+918
+01:31:39,240 --> 01:31:45,800
+gone. Very different from humans. Humans hold on to their glycogen like dogs, probably for two days.
+
+919
+01:31:45,800 --> 01:31:50,280
+We've done these measurements with starvation in humans. We've shown that it takes about two days
+
+920
+01:31:50,280 --> 01:31:56,680
+to deplete liver glycogen. When you have glycogen in liver, it's really these direct effects of
+
+921
+01:31:56,680 --> 01:32:02,680
+insulin on liver will predominate. But as you move to the fasting state, so in a mouse after a 12-hour
+
+922
+01:32:02,680 --> 01:32:09,400
+fast or longer, and in a human probably have to go 24 or longer fast, then it's really insulin,
+
+923
+01:32:09,400 --> 01:32:15,800
+these indirect effects will predominate. And this will also explain all the controversies in dogs,
+
+924
+01:32:15,800 --> 01:32:21,320
+Sherrington, Bergman in terms of direct, indirect. They've each published a dozen papers on going
+
+925
+01:32:21,320 --> 01:32:26,520
+back and forth, which predominates. This mechanism would explain, I believe, all of those findings.
+
+926
+01:32:26,520 --> 01:32:31,880
+And then I just want to now show you how I view the dysregulation and diabetes. So now,
+
+927
+01:32:32,520 --> 01:32:37,880
+typically on the background of obesity, which is what happens in most of our diabetics,
+
+928
+01:32:37,880 --> 01:32:44,680
+so you have lean individuals who also have this, you have expanded fat stores in the periphery,
+
+929
+01:32:44,680 --> 01:32:50,120
+but now you have insulin resistance in the fat. So insulin can't put the brake on like
+
+930
+01:32:50,120 --> 01:32:54,760
+polycystin. We can talk about that mechanism, which we're now working on, but it's going to be very
+
+931
+01:32:54,760 --> 01:32:59,560
+similar in terms of liver and muscle. But you also have this component of inflammation.
+
+932
+01:32:59,640 --> 01:33:05,400
+This has been described by many, many individuals. You get crown-like structures, macrophages,
+
+933
+01:33:05,400 --> 01:33:12,440
+move in, they release TNF alpha IL-6. And what we were able to discern, a lot of people would argue,
+
+934
+01:33:12,440 --> 01:33:16,840
+it was inflammation. If you go back to the insulin resistance literature 10, 20 years ago,
+
+935
+01:33:16,840 --> 01:33:26,040
+everyone was discussing inflammation, circulating cytokines, TNF alpha IL-6 resistant, RVP circulating
+
+936
+01:33:26,040 --> 01:33:31,880
+factors that were released from inflammation driving insulin resistance. What we found is,
+
+937
+01:33:31,880 --> 01:33:35,800
+again, you can dissociate inflammation from insulin resistance. That's what I spent the
+
+938
+01:33:35,800 --> 01:33:41,560
+first three decades of my life doing, showing that just ectopic lipid dags would drive insulin
+
+939
+01:33:41,560 --> 01:33:47,400
+resistance, independent of inflammation. But the transition from just insulin resistance
+
+940
+01:33:47,400 --> 01:33:54,040
+in liver and muscle to fasting hyperglycemia depends on inflammation. And it's through this
+
+941
+01:33:54,040 --> 01:34:02,040
+mechanism where now you have localized inflammation in the fat cell. TNF alpha IL-6,
+
+942
+01:34:02,040 --> 01:34:07,240
+I'm sure there's other things, will promote increased lipolysis in the fat cell.
+
+943
+01:34:07,800 --> 01:34:16,600
+More lipolysis, more fatty acid, delivery to liver, dags go up, epsilon gets activated. You block
+
+944
+01:34:17,320 --> 01:34:22,280
+insulin action, so you have less glucose being taken up into glycogen. This is what happens in
+
+945
+01:34:22,280 --> 01:34:28,200
+virtually most patients with fatty liver disease. But again, what takes you to fasting
+
+946
+01:34:28,200 --> 01:34:36,040
+hyperglycemia is this, and that's where acetyl-CoA goes up. And again, now your rates of lipolysis,
+
+947
+01:34:36,040 --> 01:34:41,080
+when you measure turnover, not just fatty acid concentrations, but turnover, palmitate,
+
+948
+01:34:41,080 --> 01:34:47,720
+turnover production and glycerol turnover, it's up twofold. This increases acetyl-CoA concentrations
+
+949
+01:34:47,720 --> 01:34:55,080
+twofold. This activates pyruvicovoxalase activity and flux twofold. And then in addition,
+
+950
+01:34:55,080 --> 01:35:01,480
+your glycerol delivery to liver is up twofold. And now your rates of gluconeogenesis are increased
+
+951
+01:35:02,040 --> 01:35:07,720
+twofold. And this is now what's driving fasting hyperglycemia in every poorly controlled type
+
+952
+01:35:07,720 --> 01:35:13,320
+two diabetes. It's this gluconeogenic process that we've shown using many, many methods,
+
+953
+01:35:13,320 --> 01:35:20,440
+and others have shown this too. This is what now is driving hyperglycemia in type two diabetics.
+
+954
+01:35:20,440 --> 01:35:27,240
+Okay. I have several questions, Jerry. First, these adipocytes that are undergoing lipolysis,
+
+955
+01:35:27,240 --> 01:35:29,640
+these are peripheral adipocytes, is that correct?
+
+956
+01:35:30,200 --> 01:35:35,560
+Yes. You can have situations where even fat in the liver is probably contributing to this,
+
+957
+01:35:35,560 --> 01:35:41,000
+especially in the lipodistrophic individual, it has no peripheral fat cells. So under conditions,
+
+958
+01:35:41,080 --> 01:35:46,040
+the liver fat is playing a role, but most of it in most of, you know, I would say garden
+
+959
+01:35:46,040 --> 01:35:49,160
+bright when I see it, it's going to be peripheral lipolysis.
+
+960
+01:35:49,880 --> 01:35:58,360
+So when we think about an insulin resistant, obese person with metabolic syndrome, so this is
+
+961
+01:35:58,360 --> 01:36:04,760
+what, 20% of the US population, maybe even more. We've clearly established they are insulin resistant
+
+962
+01:36:04,760 --> 01:36:09,160
+in the muscle. We've established that they are insulin resistant in the hepatocyte.
+
+963
+01:36:09,800 --> 01:36:15,080
+They are obese. So would we still say they are insulin resistant at the fat cell or would we
+
+964
+01:36:15,080 --> 01:36:20,360
+say they are insulin sensitive at the fat cell because they are correctly undergoing
+
+965
+01:36:20,360 --> 01:36:25,960
+lipogenesis in the fat cell? They're at least taking up a esterified fat and they're presumably
+
+966
+01:36:25,960 --> 01:36:31,320
+impairing lipolysis, which is why they retain adipose cell mass. In other words, there's a,
+
+967
+01:36:31,320 --> 01:36:35,560
+the flux through the fat cell is negative. They're holding onto fat, correct?
+
+968
+01:36:36,200 --> 01:36:41,160
+Yeah. But I think, and this is a question, a very important question we're going to next.
+
+969
+01:36:41,160 --> 01:36:46,440
+I would still predict if you do careful studies of measuring rates of lipolysis,
+
+970
+01:36:47,320 --> 01:36:53,720
+by definition, they will have insulin resistance in the fat cell. And that's because the reason
+
+971
+01:36:53,720 --> 01:36:57,800
+they're doing everything you just said, they're holding onto fat, they're not happy about it,
+
+972
+01:36:57,800 --> 01:37:02,840
+the doctor's not happy about it, is because it's at hyperinsulinemia. So their insulin
+
+973
+01:37:02,840 --> 01:37:08,120
+concentrations are two to three fold. So again, their curve is right shifted. Insulin is doing
+
+974
+01:37:08,120 --> 01:37:13,160
+the thing, but if you brought them down to normal levels of insulin, then you might see more lipolysis,
+
+975
+01:37:13,160 --> 01:37:17,240
+not a thing. So I think if you were to do those studies and they've been done, there is peripheral
+
+976
+01:37:17,240 --> 01:37:23,800
+insulin resistance, but then you superimpose in addition, and I'll just say, I'll share with your
+
+977
+01:37:23,800 --> 01:37:29,400
+listeners, we're finding actually the same mechanism that we have in liver and muscle.
+
+978
+01:37:29,400 --> 01:37:34,280
+And we're seeing this in many other tissues too, in the fat cell, the diacylglycerol epsilon pathway
+
+979
+01:37:34,840 --> 01:37:40,920
+is also accounting for this defect in insulin action in the fat cell. So it's going to actually
+
+980
+01:37:40,920 --> 01:37:46,360
+be a common mediator. And again, most of the fat, of course, in the fat cells in the lipid droplet.
+
+981
+01:37:46,360 --> 01:37:52,680
+So again, the plasma membrane, diacylglycerols that lead to epsilon activation in the membrane
+
+982
+01:37:52,680 --> 01:37:58,200
+of the fat cells. And we're seeing the same thing. And we see those same mice that I showed you before,
+
+983
+01:37:58,200 --> 01:38:03,160
+the IRC nockemites are protected from lipid induced fat insulin resistance.
+
+984
+01:38:03,880 --> 01:38:10,120
+On the fat topic, we've talked a lot about the intra myocellular lipid. You've distinguished
+
+985
+01:38:10,120 --> 01:38:17,240
+it from say, marbling or fat between cells. One thing we haven't spoken about that clinically gets
+
+986
+01:38:17,240 --> 01:38:23,640
+a lot of attention is visceral fat. So you alluded to doing an MRI. So we do a T1 weighted image of
+
+987
+01:38:23,640 --> 01:38:28,600
+a person in an MRI gives us a beautiful resolution anatomically of what's happening.
+
+988
+01:38:28,600 --> 01:38:32,840
+And you can see the difference between a healthy person and an unhealthy person. And one of the
+
+989
+01:38:32,840 --> 01:38:40,280
+most glaring differences between people on that type of proton imaging is the amount of fat
+
+990
+01:38:40,840 --> 01:38:47,560
+that is inside the fascia. So you have subcutaneous fat that may not be aesthetically pleasing.
+
+991
+01:38:47,560 --> 01:38:52,920
+But more importantly, when you go inside the corset of fascia, you have some people that will
+
+992
+01:38:53,000 --> 01:38:57,880
+have a heavy ring of fat around their kidneys, their spleen, their liver. We call this visceral
+
+993
+01:38:57,880 --> 01:39:03,720
+fat and the association between this amount of visceral fat and poor health is very well
+
+994
+01:39:03,720 --> 01:39:08,680
+understood. Whereas there seems to be very little association between subcutaneous fat
+
+995
+01:39:08,680 --> 01:39:15,640
+and poor health. How does that visceral fat identification square with the intra lipid
+
+996
+01:39:15,640 --> 01:39:19,720
+myocellular component that you've described so elegantly at a cellular level?
+
+997
+01:39:20,360 --> 01:39:25,400
+In my view, and everything you said is correct, subq, if you're going to store fat somewhere,
+
+998
+01:39:25,400 --> 01:39:29,560
+that's the best place to store it. You certainly don't want to keep it inside
+
+999
+01:39:29,560 --> 01:39:35,240
+liver and muscle cells. In my view, and again, studies have been done to look at the visceral
+
+1000
+01:39:35,240 --> 01:39:40,600
+fat and it's very clear. It is again, a very apple shaped people have visceral fats, a very
+
+1001
+01:39:40,600 --> 01:39:47,640
+good predictor of insulin resistance. It's really more of a marker for intrapatic fat. So anytime
+
+1002
+01:39:47,640 --> 01:39:52,280
+when you're doing your imaging, if you just look at the liver too, they're going to correlate
+
+1003
+01:39:52,280 --> 01:39:58,760
+one to one 99 out of a hundred times. So what you're really doing there is a marker. Now it's
+
+1004
+01:39:58,760 --> 01:40:04,440
+the visceral fat will also pour fatty acids into the portal vein, presumably. And again,
+
+1005
+01:40:04,440 --> 01:40:10,200
+fatty acids, liver portal veins, probably going to lead to increase the acetyl CoA. Again, we'll
+
+1006
+01:40:10,200 --> 01:40:16,920
+contribute some degree to me. The major abnormality is really the fat inside the path. More poorly,
+
+1007
+01:40:16,920 --> 01:40:23,800
+the acetyl CoA within the hepatocyte. I want to give one example that makes this point clearly,
+
+1008
+01:40:23,800 --> 01:40:28,680
+at least to me, the lesson I learned and that's lipodystrophy. And as you know,
+
+1009
+01:40:28,680 --> 01:40:35,720
+that's a situation where there is no fat, no subq fat or visceral fat. These patients
+
+1010
+01:40:35,720 --> 01:40:42,120
+have no visceral fat, huge livers, hepatomegaly, chock full of fat and liver. And again, diabetes
+
+1011
+01:40:42,120 --> 01:40:47,320
+through these mechanisms, acetyl CoA driving gluconeogenesis. And that's independent of this
+
+1012
+01:40:47,320 --> 01:40:52,360
+real fat. So that shows you, you don't need the visceral fat at all to drive this. It's fat in
+
+1013
+01:40:52,360 --> 01:40:59,800
+the hepatocyte. If I depict two molecules that are driving metabolic disease, it's acetyl CoA
+
+1014
+01:41:00,520 --> 01:41:06,280
+driving pervert cobalys. And again, the diisoblisterols activating Epsilon. And again,
+
+1015
+01:41:06,280 --> 01:41:12,840
+it's the Epsilon that drives insulin resistance, no diabetes, no hyperglycemia. Then it's this
+
+1016
+01:41:12,840 --> 01:41:18,920
+accelerated gluconeogenesis through this mechanism that's taking you from just pure insulin resistance
+
+1017
+01:41:18,920 --> 01:41:24,200
+to fastened hyperglycemia and diabetes. So let's again pause there for a moment and unpack
+
+1018
+01:41:24,200 --> 01:41:32,440
+something very profound. If we've just established that the accumulation of liver fat is effectively
+
+1019
+01:41:32,440 --> 01:41:39,160
+the hallmark of death to come. And you just said, acetyl CoA and DAGs are two of the biggest
+
+1020
+01:41:39,160 --> 01:41:45,800
+culprits. Well, acetyl CoA of course, is abundance of nutrient on some level, which speaks to
+
+1021
+01:41:45,800 --> 01:41:51,720
+something you said earlier, you take a patient with type two diabetes, put them on 1200 calories
+
+1022
+01:41:51,720 --> 01:41:57,880
+a day. By definition, that has to lower acetyl CoA that immediately is going to improve things,
+
+1023
+01:41:57,880 --> 01:42:02,360
+which it does, whether that's sustainable indefinitely, we can discuss. And of course,
+
+1024
+01:42:02,360 --> 01:42:07,000
+we've already established where these DAGs are coming from. Again, I want to pause for a moment
+
+1025
+01:42:07,000 --> 01:42:11,560
+on that, because I think a listener of this right now is going to say, guys, you've lost me, okay,
+
+1026
+01:42:11,560 --> 01:42:17,880
+they don't know the difference between Pepsi K, GSK, three, AKT to PI three kinase. I don't think
+
+1027
+01:42:17,880 --> 01:42:23,720
+you have to know those things. I think what you have to understand is that abundance of nutrient
+
+1028
+01:42:23,720 --> 01:42:29,960
+is a relative term. It's not an absolute term. An athlete versus a sedentary person has a very
+
+1029
+01:42:29,960 --> 01:42:34,760
+different amount of what that abundance looks like. I think we've also discussed that not all
+
+1030
+01:42:34,760 --> 01:42:40,360
+nutrients are created equal. You've alluded to it already that sucrose and fructose disproportionately
+
+1031
+01:42:40,360 --> 01:42:45,720
+prime the liver for this. And then of course, we're dealing with carbohydrate metabolism.
+
+1032
+01:42:45,720 --> 01:42:52,840
+This is perhaps an interesting time to also start talking about both the modifications that we can
+
+1033
+01:42:52,840 --> 01:42:57,480
+make. Because again, when we start to think about, you've talked about Western diet and sedentary
+
+1034
+01:42:57,480 --> 01:43:03,560
+behavior a lot. So there's no doubt that there is an our environmental triggers contributing to these
+
+1035
+01:43:03,560 --> 01:43:09,480
+epidemics, which largely began here in the United States, but we have fabulously spread to the West
+
+1036
+01:43:09,480 --> 01:43:14,760
+of the world. And then of course, there's a whole pharmacologic side of this, I would like to revisit
+
+1037
+01:43:14,760 --> 01:43:19,400
+the metformin question. I think it's a very interesting question. Metformin works presumably
+
+1038
+01:43:19,400 --> 01:43:25,240
+by sort of weakly poisoning the mitochondria at complex one that would lead to a redox change
+
+1039
+01:43:25,240 --> 01:43:30,440
+of NAD and NADH, which goes back to something you talked about. But as of this time, at least we
+
+1040
+01:43:30,440 --> 01:43:36,200
+don't really have many exciting compounds in the pipeline for naphyl D, which as you also alluded
+
+1041
+01:43:36,200 --> 01:43:43,240
+to in about 10 years is going to through NASH and cirrhosis be the leading indication for liver
+
+1042
+01:43:43,240 --> 01:43:47,400
+transplant in the United States. Something that when I was in medical school accounted for less
+
+1043
+01:43:47,400 --> 01:43:54,040
+than 2% of liver transplants just 20 years ago in 30 years, admittedly with the advent of a cure
+
+1044
+01:43:54,040 --> 01:43:59,960
+for hep C, it's now leapfrogged into the lead candidate for liver transplant. And yet what are
+
+1045
+01:43:59,960 --> 01:44:04,600
+we doing for it? Not a lot. That's a lot I want to unpack. And as much as you still have time to
+
+1046
+01:44:04,600 --> 01:44:10,120
+discuss it, let's proceed in any order you see fit. To add on to that, I just did a Zoom conference for
+
+1047
+01:44:10,120 --> 01:44:14,840
+University of Pittsburgh and they're a big liver center. And one of their big problems with
+
+1048
+01:44:14,840 --> 01:44:21,160
+transplanting livers is living donors. They're limited by donors because they all have fatty
+
+1049
+01:44:21,160 --> 01:44:26,040
+liver, which they will not transplant because they don't do well. So not only is it the problem in
+
+1050
+01:44:26,040 --> 01:44:30,040
+treating it in terms of at least this most commonly, that's the most common thing that they do, but
+
+1051
+01:44:30,040 --> 01:44:36,360
+that's an aside. So what can we do about this? If we can get our patients to lose weight, this of
+
+1052
+01:44:36,360 --> 01:44:41,400
+course is the best diet and exercise, of course is the best thing. And that's the first thing
+
+1053
+01:44:41,960 --> 01:44:47,160
+I tell my patient. We really drill into them how we can really fix everything that's wrong with
+
+1054
+01:44:47,160 --> 01:44:51,960
+them through this process. And unfortunately, as you know, and I know it just doesn't work in the
+
+1055
+01:44:51,960 --> 01:44:58,360
+vast majority of our patients. So in terms of pharmacology, my view and here again, it's the
+
+1056
+01:44:58,360 --> 01:45:04,520
+liver. If I had to pick one organ to target, it's the liver. As important as muscle insulin resistance
+
+1057
+01:45:04,520 --> 01:45:09,160
+is at the very beginning, if we actually want to reverse the disease and make the biggest impact,
+
+1058
+01:45:09,160 --> 01:45:14,760
+if I had to pick one or it's the liver, if you're going to target probably the easiest organ to
+
+1059
+01:45:14,760 --> 01:45:22,440
+target. The way I think about the liver is in terms of thermodynamics. It's a thermodynamic
+
+1060
+01:45:22,440 --> 01:45:28,120
+problem. It goes back to my physics training and it's really energy in and energy out. The whole
+
+1061
+01:45:28,120 --> 01:45:34,920
+metabolic problem with the liver is this imbalance of energy. Too much energy in relative to the
+
+1062
+01:45:34,920 --> 01:45:42,280
+ability of the hepatocyte, the liver to oxidize the energy and convert it to CO2 or export it.
+
+1063
+01:45:42,280 --> 01:45:48,280
+The one thing the liver is also able to do is export energy as a form of the LDL triglyceride.
+
+1064
+01:45:48,280 --> 01:45:53,320
+If it's energy, how do we fix it? Well, one way, again, we said diet and exercise limit energy in,
+
+1065
+01:45:53,320 --> 01:45:57,880
+that works. And that we talked about, Kit Peterson did this 20 years ago and it's shown many,
+
+1066
+01:45:57,880 --> 01:46:03,560
+many times. To get the patient to stay on this is challenging. Bariatric surgery works, again,
+
+1067
+01:46:03,560 --> 01:46:08,520
+limiting energy in. We just saw a nice study in the New England Journal. There's no magic
+
+1068
+01:46:08,520 --> 01:46:13,720
+to ruin why. It's simply if you pair of feet, individuals lose same amount of weight, same
+
+1069
+01:46:13,720 --> 01:46:18,360
+effect. Everything the bariatric surgery is doing, at least ruin why, is really through
+
+1070
+01:46:18,360 --> 01:46:24,360
+reducing through the weight loss. How can we do this pharmacologically? Well, GLP-1 agonists are
+
+1071
+01:46:24,360 --> 01:46:30,840
+out there now. They're becoming very popular. Their major effect is energy intake. Our patients
+
+1072
+01:46:30,840 --> 01:46:37,240
+eat less because they eat less, they lose weight, induces nausea, mild nausea. Some people get into
+
+1073
+01:46:37,240 --> 01:46:42,280
+issues with vomiting, nausea, mommy have to cut back on the dose. But this is how the GLP-1 agonists,
+
+1074
+01:46:42,280 --> 01:46:47,640
+I believe, are having its major effect is weight loss. And they are what they are. They do accomplish
+
+1075
+01:46:47,640 --> 01:46:52,120
+reversal fatty liver to some degree. They don't normalize, but it does come down in the right
+
+1076
+01:46:52,120 --> 01:46:58,440
+direction. Why do you think the GLP-1 agonists lead to reduced appetite? I just think through
+
+1077
+01:46:58,440 --> 01:47:04,920
+working through a central mechanism, all these gut peptides lead to nausea, vomiting, glucagon,
+
+1078
+01:47:04,920 --> 01:47:09,800
+will do its amount of statin, will do all these things. If you give them a high enough concentrations,
+
+1079
+01:47:09,800 --> 01:47:16,440
+lead to some degree of nausea and vomiting. To me, it's part of the spectrum. And if you just get
+
+1080
+01:47:16,440 --> 01:47:21,480
+it right, you just get people less interested in food and they eat less. Metformin, that's the one
+
+1081
+01:47:21,480 --> 01:47:27,240
+agent we have that lowers gluconegist. I would just come back. It's not complex one. I want to
+
+1082
+01:47:27,240 --> 01:47:32,200
+challenge you on that. We can talk about that. But to me, it's complex one inhibition happens
+
+1083
+01:47:32,200 --> 01:47:37,160
+at millimolar concentrations, clinically not relevant. Our concentrations of metformin in
+
+1084
+01:47:37,720 --> 01:47:44,040
+humans, metformin are about 50 micromolar, 40 to 50 micromolar, not millimolar, which is what inhibits
+
+1085
+01:47:44,040 --> 01:47:49,080
+complex one. I think it's downstream. It does affect the mitochondria, does lead to the redox,
+
+1086
+01:47:49,080 --> 01:47:53,880
+but it's not through the complex one. It's probably indirectly inhibiting mitochondrial
+
+1087
+01:47:53,960 --> 01:47:58,440
+glycerophosphate, the hydrogenase. That's what leads to the redox. But we can come back to that
+
+1088
+01:47:58,440 --> 01:48:04,680
+if you want. I'd love to. That's very interesting. To focus then on other mechanisms, so GLP1,
+
+1089
+01:48:05,320 --> 01:48:12,680
+limit food intake, energy expenditure, SGLT2 inhibitors cause glucose loss in the urine,
+
+1090
+01:48:12,680 --> 01:48:18,120
+400 calories a day loss. So they lose weight. Unfortunately, it seems to plateau after
+
+1091
+01:48:18,120 --> 01:48:23,960
+several weeks and you get very mild reductions in liver fat. Unfortunately, not as much,
+
+1092
+01:48:23,960 --> 01:48:28,360
+but maybe in combination with other things that might be certainly helping the right direction.
+
+1093
+01:48:28,360 --> 01:48:33,880
+My favorite target is to promote mitochondrial inefficiency. And so one of the things we're
+
+1094
+01:48:33,880 --> 01:48:39,640
+working on now is to mitochondria is where you burn the fat. That's the organelle that
+
+1095
+01:48:39,640 --> 01:48:45,000
+burns the fat through oxidation. If you can promote, then the mitochondria be a little bit
+
+1096
+01:48:45,000 --> 01:48:51,240
+less efficient so they have to burn more fat to generate the same amount of ATP. This we've shown
+
+1097
+01:48:51,240 --> 01:48:57,160
+in various forms, preclinical models, mice rats with fatty liver and NASH liver fibrosis. It
+
+1098
+01:48:57,160 --> 01:49:03,000
+reverses fatty liver through these mechanisms, reverses NASH, reverses the insulin resistance
+
+1099
+01:49:03,000 --> 01:49:08,840
+through reductions in diaxis, acetyl-CoA, reverses diabetes and ZDF models. For the NASH world,
+
+1100
+01:49:08,840 --> 01:49:14,520
+it reverses the inflammation and will reverse liver fibrosis. And so I'm very excited about
+
+1101
+01:49:14,520 --> 01:49:19,800
+this because I think it can be done safely. More recently, we've done this in non-human primates
+
+1102
+01:49:19,800 --> 01:49:26,360
+and showed safety and efficacy of this approach in non-human primates. So based on the mechanisms
+
+1103
+01:49:26,360 --> 01:49:33,320
+I've described, I think it fits. And not only what I'm very gratified by is it actually reinforces
+
+1104
+01:49:33,320 --> 01:49:38,680
+the mechanisms I've described here by reversing diabetes, insulin resistance by Lauren Daggs and
+
+1105
+01:49:38,680 --> 01:49:43,640
+acetyl-CoA, but it's also going to be heart healthy. And I want to emphasize this point because
+
+1106
+01:49:44,360 --> 01:49:50,760
+many drugs we have now for naphthal and NASH reduce liver fat, maybe reverse the fibrosis or
+
+1107
+01:49:50,760 --> 01:49:56,120
+slow down the fibrosis, but they may lead to alterations of cholesterol in the wrong
+
+1108
+01:49:56,120 --> 01:50:01,240
+direction. Cholesterol goes up. And again, I have to come back to a nice point you made is
+
+1109
+01:50:01,240 --> 01:50:06,040
+it's heart disease that is killing not only our diabetic, but also fatty liver patients.
+
+1110
+01:50:06,040 --> 01:50:12,360
+It's the heart disease. So whatever we're doing to reverse fixed naphthal, NASH, liver fibrosis,
+
+1111
+01:50:12,360 --> 01:50:17,480
+it has to be heart healthy. And so when you burn fat in liver through this mechanism,
+
+1112
+01:50:17,480 --> 01:50:24,600
+you decrease VLDL export, you lower triglycerides, you raise HDL, and you actually have secondary
+
+1113
+01:50:24,600 --> 01:50:29,960
+beneficial effects on the periphery. So you actually will secondarily improve muscle fat,
+
+1114
+01:50:29,960 --> 01:50:35,800
+reduce muscle fat, muscle insulin resistance. So this again fits into my conceptual view of insulin
+
+1115
+01:50:35,880 --> 01:50:40,680
+resistance and would be I think a nice therapeutic approach that we're going after.
+
+1116
+01:50:40,680 --> 01:50:47,800
+Now does the uncoupling lead to excess Ross creation or anything else? Anytime I hear of
+
+1117
+01:50:47,800 --> 01:50:53,080
+uncoupling in the mitochondria, which is a deliberately induced form of inefficiency,
+
+1118
+01:50:53,080 --> 01:50:56,680
+you wonder, is this an unintended consequence potentially?
+
+1119
+01:50:56,680 --> 01:51:01,320
+So uncoupling by definition, the biophysics of uncoupling, the energy has to go somewhere.
+
+1120
+01:51:01,320 --> 01:51:06,520
+It's dissipated as heat. You're burning more fat, changes in the energy is going to lead to a
+
+1121
+01:51:06,520 --> 01:51:11,640
+little bit of heat production. You will get energy production in the form of heat,
+
+1122
+01:51:11,640 --> 01:51:16,120
+but because it's liver targeted has no effect on body temperature, will not affect whole body
+
+1123
+01:51:16,120 --> 01:51:20,680
+weight. It's interesting, I can just tell the story of uncouplers. Your listeners might be
+
+1124
+01:51:20,680 --> 01:51:27,320
+interested in this. So they were first discovered actually in the early 1900s in the munitions
+
+1125
+01:51:27,320 --> 01:51:33,480
+factories. Europe was getting ready. They knew a world war was coming. The munition factories
+
+1126
+01:51:33,480 --> 01:51:39,320
+were all getting geared up. Some of the workers in the munition factories were getting this dust,
+
+1127
+01:51:39,320 --> 01:51:45,400
+yellow dust on their hands and actually losing weight. They were just going home and despite
+
+1128
+01:51:45,400 --> 01:51:49,560
+eating the usual amount, they're finding their weight was going down and maybe they were sweating
+
+1129
+01:51:49,560 --> 01:51:54,360
+a little bit more, a little diaphoresis. And they went to their doctors and told them about the
+
+1130
+01:51:54,360 --> 01:51:59,240
+weight loss despite eating the same and it's a little bit more diaphoresis, more sweating.
+
+1131
+01:51:59,240 --> 01:52:03,880
+And the doctors just said, what is this yellow dust on your skin? And why don't you just wear
+
+1132
+01:52:03,880 --> 01:52:09,880
+gloves, wash your hands and wear gloves? And they got better. This was dinitrophenol. This was a
+
+1133
+01:52:09,880 --> 01:52:16,760
+substance that was used in the munition factories to make TNT. So dinitro TNT. A physician,
+
+1134
+01:52:16,760 --> 01:52:23,960
+tainter in the 1930s basically said, maybe this is good for weight loss. Actually introduced
+
+1135
+01:52:23,960 --> 01:52:31,080
+dinitrophenol as a weight loss drug. It was available over the counter. It wasn't a prescription.
+
+1136
+01:52:31,080 --> 01:52:37,560
+So anyone could go like buying vitamins, get some BNP for weight loss. It actually worked.
+
+1137
+01:52:37,560 --> 01:52:43,080
+So a lot of people, hundreds of thousands of people took dinitrophenol for weight loss.
+
+1138
+01:52:43,720 --> 01:52:47,960
+And it worked. The paper is published in very good journals. JAMA by tainter and others really
+
+1139
+01:52:47,960 --> 01:52:53,800
+describe its beneficial effects. Unfortunately, and a very big unfortunately is again, one of the
+
+1140
+01:52:54,520 --> 01:53:00,040
+on-target effects we just talked about when you uncouple, you promote heat generation. And this
+
+1141
+01:53:00,040 --> 01:53:05,640
+is in the whole body. DNP is going everywhere and promoting heat generation. Unfortunately,
+
+1142
+01:53:05,640 --> 01:53:10,440
+a handful of these people took too much. They got into problems with hypothermia, increased body
+
+1143
+01:53:10,440 --> 01:53:16,520
+temperature and got very sick from that. And some died with the very first thing, a newly created
+
+1144
+01:53:16,520 --> 01:53:24,920
+FDA 1937. The first act they did was actually to pull DNP from the counters as an over the counter
+
+1145
+01:53:24,920 --> 01:53:30,600
+kind of drug or medication. And the second act they had actually was thalidomide, which they
+
+1146
+01:53:30,600 --> 01:53:35,720
+pulled and now is actually back in the clinic. That was always the problem with DNP. Why again,
+
+1147
+01:53:35,720 --> 01:53:42,040
+we say this is not a good thing. This is a toxic drug and everything else. And as it is, it occurred
+
+1148
+01:53:42,040 --> 01:53:48,200
+to us that the reason it's generating the heat is you're on coupling all the organs in the body.
+
+1149
+01:53:48,200 --> 01:53:53,400
+And what if we just picked one organ, i.e. the liver where the fat is accumulating. This is where
+
+1150
+01:53:54,040 --> 01:53:59,720
+the organ that's driving lipidemia, hyperlipidemia and diabetes. And if we could just melt the fat
+
+1151
+01:53:59,720 --> 01:54:05,480
+away within a liver specific manner, maybe we can have that beneficial effect without the toxicity
+
+1152
+01:54:05,960 --> 01:54:12,520
+and so in a series of studies, we were able to show proof of concept that by simply uncoupling
+
+1153
+01:54:12,520 --> 01:54:18,520
+the liver, you could avoid hyperthermia and all the toxicities that have typically been associated
+
+1154
+01:54:19,240 --> 01:54:24,920
+with the parent compound, DNP, and increase the therapeutic window. Every drug has a therapeutic
+
+1155
+01:54:24,920 --> 01:54:30,200
+window, even aspirin and Tylenol by a hundred fold. Based on this thinking, I think it can be
+
+1156
+01:54:30,200 --> 01:54:35,560
+done very safely and be a treatment for very important metabolic diseases like naphthal and
+
+1157
+01:54:35,560 --> 01:54:41,960
+nash. So the IND has already been filed for this. Is it in phase one human yet? No, no, we're still
+
+1158
+01:54:41,960 --> 01:54:47,960
+exploring preclinical models, thinking potentially about first starting out where there are no
+
+1159
+01:54:47,960 --> 01:54:54,120
+indications for things like lipodystrophy where leptin is not working. So I think my thinking is
+
+1160
+01:54:54,120 --> 01:54:58,760
+I like to go slowly here, hopefully within the next year or two, we may be in humans. I think
+
+1161
+01:54:58,760 --> 01:55:04,440
+initially going after orphan diseases where there simply is no other treatment and that would be
+
+1162
+01:55:04,440 --> 01:55:10,520
+certain forms of lipodystrophy where they get very bad diabetes, naphthal, nash, and especially in
+
+1163
+01:55:10,520 --> 01:55:14,920
+conditions where leptin is not working. Jerry, this has been obviously, as I said, a pretty
+
+1164
+01:55:14,920 --> 01:55:20,760
+technical discussion even by the standards of our podcast. I think the show notes are going to be
+
+1165
+01:55:21,480 --> 01:55:26,040
+integral because your figures, I think frankly, are very helpful. As I said, I understand this
+
+1166
+01:55:26,040 --> 01:55:30,520
+content probably better than most and yet I still find it very helpful to be able to kind of go
+
+1167
+01:55:30,520 --> 01:55:36,360
+through schematics. So I'm going to encourage the listeners to do that. You also have some fantastic
+
+1168
+01:55:36,360 --> 01:55:41,480
+lectures online. I think for the people who really want to go deep into this stuff, I think frankly,
+
+1169
+01:55:41,480 --> 01:55:45,720
+some of your review articles and some of your recent publications are just a great place to go.
+
+1170
+01:55:46,360 --> 01:55:53,640
+As I said at the outset, I just think that this is the nexus from which all diseases stand and
+
+1171
+01:55:53,640 --> 01:56:00,760
+therefore we are really making a mistake if we want to treat chronic diseases in their silos and
+
+1172
+01:56:00,760 --> 01:56:05,160
+just think about atherosclerosis and just think about cancer and just think about Alzheimer's
+
+1173
+01:56:05,160 --> 01:56:11,640
+disease without understanding how these diseases are fed. And unfortunately, that means rolling up
+
+1174
+01:56:11,640 --> 01:56:16,680
+our sleeves and understanding insulin resistance. There's simply no getting around this. If this
+
+1175
+01:56:16,680 --> 01:56:22,120
+topic were easy, you would have presented it in an easier manner. It's not easy. If I were to just
+
+1176
+01:56:22,120 --> 01:56:26,280
+kind of leave you with sort of, we've talked about exercise, we've talked about nutrition,
+
+1177
+01:56:26,840 --> 01:56:34,600
+do you feel strongly about any form of dietary thinking? So for example, I have found clinically
+
+1178
+01:56:34,600 --> 01:56:41,320
+that carbohydrate restriction is a very effective way for patients with insulin resistance to lose
+
+1179
+01:56:41,320 --> 01:56:48,280
+weight, not uniformly, but it's quite effective. It also seems to be easier to adhere to than outright
+
+1180
+01:56:48,280 --> 01:56:55,000
+caloric restriction, though periodic fasting also seems to do a good job. But have you observed
+
+1181
+01:56:55,000 --> 01:57:01,320
+anything similarly from a clinical perspective that fructose restriction specifically or sugar
+
+1182
+01:57:01,320 --> 01:57:10,440
+restriction specifically as a vehicle to weight loss becomes a more effective tool to ultimately
+
+1183
+01:57:10,440 --> 01:57:16,200
+produce what's understood to be efficacious, just some reduction of weight, either as the cause or
+
+1184
+01:57:16,200 --> 01:57:21,880
+effect of the improvement? My thinking here is what I tell my patients is whatever works to everyone
+
+1185
+01:57:21,880 --> 01:57:27,800
+that's so different, different likes, different dislikes. I say look at the scale, whatever works
+
+1186
+01:57:27,800 --> 01:57:32,920
+for you to lose weight, because I know if you lose the weight, your diabetes is going to get better.
+
+1187
+01:57:32,920 --> 01:57:39,480
+So I say you find something, whatever works for you, stick with it. That's the challenge because
+
+1188
+01:57:39,480 --> 01:57:45,000
+we're very successful in the short term getting patients to lose weight. The unfortunate part is
+
+1189
+01:57:45,000 --> 01:57:49,400
+they're able to get the weight off and then three months later, six months later, they come back to
+
+1190
+01:57:49,400 --> 01:57:54,040
+the office and they're right back where they started. So it's a matter of I tell them you have
+
+1191
+01:57:54,040 --> 01:57:58,680
+to find something that works for you, get the weight off, but then you have to be able to stick to it.
+
+1192
+01:57:58,680 --> 01:58:02,760
+And that's where the challenge, a lot of diets, people are able to get on and get the weight off
+
+1193
+01:58:02,760 --> 01:58:08,120
+and they just can't adhere to it for the long term. And so it's a marathon. You have to find something
+
+1194
+01:58:08,120 --> 01:58:12,680
+you like, like it enough to be able to stick with that. That's the most important thing because
+
+1195
+01:58:12,680 --> 01:58:17,560
+we've all seen that where people lose the weight and then a few weeks, months later,
+
+1196
+01:58:17,560 --> 01:58:21,240
+right back to where they started. So everyone has to find what works for them.
+
+1197
+01:58:21,800 --> 01:58:27,080
+I guess I want to come back to the metformin thing because it's so interesting. So you mentioned that
+
+1198
+01:58:27,080 --> 01:58:36,920
+the inhibition of complex one actually is probably not taking place because you actually mentioned
+
+1199
+01:58:36,920 --> 01:58:41,640
+basically a thousand fold difference in concentration. Say a little bit more about that and
+
+1200
+01:58:41,640 --> 01:58:49,320
+why you're then imputing that it's the impact of metformin presumably on NAD and NADH, which
+
+1201
+01:58:49,320 --> 01:58:53,800
+you could also get out of an inhibition of complex one, but via some other mechanism, it sounds like.
+
+1202
+01:58:53,800 --> 01:58:59,320
+Studies that we've done and we're still working on this, clearly most the literature, if you read
+
+1203
+01:58:59,320 --> 01:59:06,280
+on metformin, let's talk about the big picture. So metformin lowers glucose in patients with poorly
+
+1204
+01:59:06,280 --> 01:59:12,040
+controlled diabetes, mostly through inhibition of gluconeogenesis. I think most clinical
+
+1205
+01:59:12,040 --> 01:59:17,560
+physiologists would agree with that. And so we've done studies quantifying gluconeogenesis, both by
+
+1206
+01:59:17,560 --> 01:59:23,320
+NMR, heavy water, multiple methods, same individuals. And that's its major effect,
+
+1207
+01:59:23,320 --> 01:59:28,280
+not through inhibition of glycogenolysis, not through gut biome, its gluconeogenesis.
+
+1208
+01:59:28,280 --> 01:59:34,200
+And the other thing clinically is the more poorly controlled diabetes, the greater the effect. You're
+
+1209
+01:59:34,200 --> 01:59:38,520
+not going to see much effect. There's very confusing studies that have been published in
+
+1210
+01:59:38,520 --> 01:59:42,200
+non-diabetic individuals that find all kinds of other things going on. I don't think that's
+
+1211
+01:59:42,200 --> 01:59:46,600
+clinically relevant. It's gluconeogenesis. So then how does it do gluconeogenesis? So
+
+1212
+01:59:47,160 --> 01:59:52,520
+most the literature, if you read it, virtually all the animals that study mechanism have implicated
+
+1213
+01:59:52,520 --> 01:59:59,640
+complex one. And we've known about guanide inhibition. Metformin is a guanide by guanide,
+
+1214
+01:59:59,640 --> 02:00:05,240
+even before metformin, we had fenformin and other guanides that have been studied. And they will
+
+1215
+02:00:05,240 --> 02:00:10,920
+inhibit complex one, no doubt about it. So, and most have focused on complex one inhibition,
+
+1216
+02:00:11,480 --> 02:00:19,320
+leading to either AMPK activation or buildup of a metabolite that inhibits gluconeogenesis,
+
+1217
+02:00:19,320 --> 02:00:24,840
+or something 99% of the mechanisms have talked about complex one inhibition.
+
+1218
+02:00:25,480 --> 02:00:32,200
+My issue with that is again, not very many studies have done careful measurements of this
+
+1219
+02:00:32,760 --> 02:00:38,760
+most commonly used drug on the planet. For your readership, guanides have been used for diabetes
+
+1220
+02:00:38,760 --> 02:00:45,000
+for hundreds of years. The French lilac extracts have been used 300 years ago, been description.
+
+1221
+02:00:45,000 --> 02:00:50,040
+They didn't know what diabetes was at that time. It wasn't defined, but patients with polyuria,
+
+1222
+02:00:50,040 --> 02:00:55,880
+polydipsia were overweight, treated with the extract, the French lilac, and their symptoms
+
+1223
+02:00:55,880 --> 02:01:00,280
+improved. Most studies, if you look at, were used at millimolar concentrations. And again,
+
+1224
+02:01:00,280 --> 02:01:06,680
+when they look at complex one inhibition, which has been implicated to then lower ATP, raise ADP,
+
+1225
+02:01:07,320 --> 02:01:12,920
+and activate AMPK, it requires millimolar concentrations. And so when you actually measure
+
+1226
+02:01:13,480 --> 02:01:19,320
+metformin in the patient who's taking one gram twice a day, which is your maximal dose, when
+
+1227
+02:01:19,320 --> 02:01:25,800
+pretty much the best efficacious dose, your levels in plasma are about 30 to 50 micromolar.
+
+1228
+02:01:25,800 --> 02:01:29,640
+So you could say even, you know, in portal vein, its pills are taken orally,
+
+1229
+02:01:29,640 --> 02:01:34,200
+give it two to three times that you're still talking about maybe a hundred micromolar,
+
+1230
+02:01:34,200 --> 02:01:39,480
+10 fold less than what all of these studies have been doing, even both the in vitro studies and the
+
+1231
+02:01:39,480 --> 02:01:45,560
+literature and well, the in vivo studies, giving levels that achieve millimolar concentrations.
+
+1232
+02:01:45,560 --> 02:01:50,440
+So yes, you see things, complex one's an important, it's an electron transporter,
+
+1233
+02:01:50,440 --> 02:01:55,080
+it's important for function and health. And you're going to see effects when you inhibit complex one
+
+1234
+02:01:55,080 --> 02:02:00,920
+at those high concentrations. In my view, they're not clinically relevant. So the effects that I do
+
+1235
+02:02:00,920 --> 02:02:07,720
+think are clinically relevant that we have observed at 50 and a hundred micromolar of metformin
+
+1236
+02:02:07,720 --> 02:02:13,320
+are really on the enzyme glycerol three phosphate dehydrogenase, the mitochondrial isiform
+
+1237
+02:02:13,960 --> 02:02:20,360
+that is required to move the protons from outside to inside the mitochondria. And when you inhibit
+
+1238
+02:02:20,360 --> 02:02:27,160
+this enzyme, NADH goes up, NAD goes down. When you have this increase in the cytosolic redox,
+
+1239
+02:02:27,720 --> 02:02:35,000
+you can't get lactate to pyruvate and you can't get glycerol to DHAP. So if I'm right,
+
+1240
+02:02:35,000 --> 02:02:40,520
+it's going to be substrate dependent inhibition of gluconeogenesis. Whereas if you inhibit complex
+
+1241
+02:02:40,520 --> 02:02:46,120
+one and AMPK or whatever mechanism downstream, it should be gluconeogenesis independent of
+
+1242
+02:02:46,120 --> 02:02:52,600
+substrate. And what we've shown both in vitro and in vivo, most importantly in vivo in two or three
+
+1243
+02:02:52,600 --> 02:02:59,560
+different models metformin at these clinically relevant doses and concentrations only inhibit
+
+1244
+02:02:59,560 --> 02:03:07,080
+gluconeogenesis from glycerol and lactate. It doesn't inhibit it from alanine or DHAP
+
+1245
+02:03:07,640 --> 02:03:14,360
+or anything that does not depend on the cytosolic redox state. This also explains why we rarely see
+
+1246
+02:03:14,920 --> 02:03:19,960
+clinically hypoglycemia on patients treated with metformin because there's these alternative
+
+1247
+02:03:20,520 --> 02:03:25,640
+gluconeogenic substrates that can come in alanine can keep coming out. So you never see rarely,
+
+1248
+02:03:25,640 --> 02:03:31,080
+unless they have another agent on top of metformin like insulin or SU, you rarely see it if ever.
+
+1249
+02:03:31,160 --> 02:03:37,800
+And that's why also you see the lactic acidosis, which is a fortunate toxicity of metformin where
+
+1250
+02:03:37,800 --> 02:03:41,880
+again, it's specifically getting that lactate to pyruvate conversion, which is dependent on
+
+1251
+02:03:41,880 --> 02:03:47,560
+the redox state. So that's the mechanism I believe is clinically relevant. And now the last step is
+
+1252
+02:03:47,560 --> 02:03:51,880
+how is it inhibiting this enzyme? And I believe it's actually through an indirect effect on this
+
+1253
+02:03:51,880 --> 02:03:58,280
+enzyme that we'll hopefully have ready for prime time in the year. And do you think that in a
+
+1254
+02:03:58,280 --> 02:04:04,600
+healthy individual who's eating well, is abnormal weight, is insulin sensitive and is exercising
+
+1255
+02:04:04,600 --> 02:04:13,400
+robustly, metformin could actually be counteractive to benefit? That's a profound question. I don't
+
+1256
+02:04:13,400 --> 02:04:18,040
+know the answer to that. And it gets into, I don't know if you're going to take me there in terms of
+
+1257
+02:04:18,040 --> 02:04:23,400
+the use of metformin for aging. Healthy people are taking it for aging now. I think that's why
+
+1258
+02:04:23,400 --> 02:04:28,600
+it's so important to understand this mechanism, then understand the implications of it. It is
+
+1259
+02:04:28,600 --> 02:04:34,360
+redox. Is that a good thing or not for longevity and health? That's a question that remains to be
+
+1260
+02:04:34,360 --> 02:04:40,360
+answered. I find myself very much on the fence with that question while in the insulin resistant
+
+1261
+02:04:40,360 --> 02:04:47,000
+patient, even without diabetes, feeling that this is a very net positive agent. But my personal views
+
+1262
+02:04:47,000 --> 02:04:52,760
+on it just based on clinical observation is that in the person I described earlier, the lean insulin
+
+1263
+02:04:52,760 --> 02:04:59,960
+sensitive, vigorously exercising individual, it may actually not provide benefit. But again,
+
+1264
+02:04:59,960 --> 02:05:04,440
+there are studies in the works that are going to hopefully be able to provide some fidelity to
+
+1265
+02:05:04,440 --> 02:05:08,600
+understanding that. It sounds like you're equally kind of undecided on that as well.
+
+1266
+02:05:08,600 --> 02:05:09,240
+Yes.
+
+1267
+02:05:09,240 --> 02:05:13,240
+Well, Jerry, I can't thank you enough. Again, I say this to many people I interview, but I really
+
+1268
+02:05:13,240 --> 02:05:16,760
+mean it here. It's not just for this discussion and the time you put into it, but obviously much
+
+1269
+02:05:16,760 --> 02:05:22,600
+more importantly for the career and for this incredible body of work that you've amassed
+
+1270
+02:05:22,600 --> 02:05:28,840
+through your pursuit and obviously remarkable collaborations with so many people. I've enjoyed
+
+1271
+02:05:28,840 --> 02:05:33,240
+this discussion immensely. It's actually one of the discussions I'm going to have to probably go
+
+1272
+02:05:33,240 --> 02:05:38,520
+back and listen to again. So I hope that a listener isn't hearing this and isn't discouraged by the
+
+1273
+02:05:38,520 --> 02:05:41,960
+fact that you're at this point in the discussion and you're thinking, oh my God, I might have only
+
+1274
+02:05:41,960 --> 02:05:47,000
+retained half of that. That's okay. I'm going to be listening to this one and I just finished
+
+1275
+02:05:47,000 --> 02:05:51,240
+listening to it now and I'm going to listen to it again. So thank you very much, Jerry, for that.
+
+1276
+02:05:51,240 --> 02:05:52,680
+Thank you, Peter. It's been a pleasure.
+
+1277
+02:05:53,240 --> 02:05:57,320
+Thank you for listening to this week's episode of The Drive. If you're interested in diving deeper
+
+1278
+02:05:57,320 --> 02:06:01,720
+into any topics we discuss, we've created a membership program that allows us to bring you
+
+1279
+02:06:01,720 --> 02:06:07,160
+more in-depth, exclusive content without relying on paid ads. It's our goal to ensure members get
+
+1280
+02:06:07,160 --> 02:06:12,440
+back much more than the price of the subscription. Now to that end, membership benefits include a
+
+1281
+02:06:12,440 --> 02:06:18,040
+bunch of things. One, totally kick ass comprehensive podcast show notes that detail every topic,
+
+1282
+02:06:18,040 --> 02:06:23,160
+paper, person, thing we discuss on each episode. The word on the street is nobody's show notes
+
+1283
+02:06:23,160 --> 02:06:28,520
+rival these. Monthly AMA episodes or Ask Me Anything episodes, hearing these episodes
+
+1284
+02:06:28,520 --> 02:06:34,280
+completely. Access to our private podcast feed that allows you to hear everything without having
+
+1285
+02:06:34,280 --> 02:06:39,560
+to listen to spiel's like this. The Qualies, which are a super short podcast that we release
+
+1286
+02:06:39,560 --> 02:06:44,040
+every Tuesday through Friday, highlighting the best questions, topics, and tactics discussed on
+
+1287
+02:06:44,040 --> 02:06:49,320
+previous episodes of The Drive. This is a great way to catch up on previous episodes without having
+
+1288
+02:06:49,320 --> 02:06:54,840
+to go back and necessarily listen to everyone. Steep discounts on products that I believe in,
+
+1289
+02:06:54,840 --> 02:06:59,480
+but for which I'm not getting paid to endorse, and a whole bunch of other benefits that we continue
+
+1290
+02:06:59,480 --> 02:07:04,120
+to trickle in as time goes on. If you want to learn more and access these member-only benefits,
+
+1291
+02:07:04,120 --> 02:07:10,360
+you can head over to PeterAttiaMD.com forward slash subscribe. You can find me on Twitter,
+
+1292
+02:07:10,360 --> 02:07:17,080
+Instagram, and Facebook, all with the ID PeterAttiaMD. You can also leave us a review on Apple Podcasts
+
+1293
+02:07:17,080 --> 02:07:23,000
+or whatever podcast player you listen on. This podcast is for general informational purposes only
+
+1294
+02:07:23,000 --> 02:07:28,040
+and does not constitute the practice of medicine, nursing, or other professional healthcare services,
+
+1295
+02:07:28,040 --> 02:07:33,880
+including the giving of medical advice. No doctor-patient relationship is formed. The use of this
+
+1296
+02:07:33,880 --> 02:07:39,560
+information and the materials linked to this podcast is at the user's own risk. The content
+
+1297
+02:07:39,560 --> 02:07:45,320
+on this podcast is not intended to be a substitute for professional medical advice, diagnosis, or
+
+1298
+02:07:45,320 --> 02:07:51,560
+treatment. Users should not disregard or delay in obtaining medical advice from any medical
+
+1299
+02:07:51,560 --> 02:07:56,120
+condition they have, and they should seek the assistance of their healthcare professionals
+
+1300
+02:07:56,120 --> 02:08:01,800
+for any such conditions. Finally, I take conflicts of interest very seriously. For all of my
+
+1301
+02:08:01,800 --> 02:08:09,080
+disclosures and the companies I invest in or advise, please visit PeterAttiaMD.com forward slash
+
+1302
+02:08:09,080 --> 02:08:17,720
+about where I keep an up-to-date and active list of such companies.
+

@@ -1,0 +1,4280 @@
+1
+00:00:00,000 --> 00:00:07,320
+Hey everyone, welcome to the Peter Attia drive.
+
+2
+00:00:07,320 --> 00:00:10,640
+I'm your host, Peter Attia.
+
+3
+00:00:10,640 --> 00:00:16,000
+The drive is a result of my hunger for optimizing performance, health, longevity, critical thinking,
+
+4
+00:00:16,000 --> 00:00:18,000
+along with a few other obsessions along the way.
+
+5
+00:00:18,000 --> 00:00:21,560
+I've spent the last several years working with some of the most successful top performing
+
+6
+00:00:21,560 --> 00:00:23,200
+individuals in the world.
+
+7
+00:00:23,200 --> 00:00:27,600
+And this podcast is my attempt to synthesize what I've learned along the way to help you
+
+8
+00:00:27,600 --> 00:00:29,880
+live a higher quality, more fulfilling life.
+
+9
+00:00:29,880 --> 00:00:34,460
+If you enjoy this podcast, you can find more information on today's episode and other topics
+
+10
+00:00:34,460 --> 00:00:42,040
+at PeterAttiaMD.com.
+
+11
+00:00:42,040 --> 00:00:45,920
+Welcome everybody to episode three of the week of day spring.
+
+12
+00:00:45,920 --> 00:00:49,880
+In this episode, we talk about reverse cholesterol transport.
+
+13
+00:00:49,880 --> 00:00:52,600
+We talk about lipid transportation.
+
+14
+00:00:52,600 --> 00:00:58,880
+We talk about apolipoproteins and we talk about CTEP inhibitors and HDL.
+
+15
+00:00:58,880 --> 00:01:02,800
+Of all the things we talk about here, the thing that I think is the most interesting
+
+16
+00:01:02,800 --> 00:01:09,280
+is the discussion on HDL, which I think most people today would agree is far from being
+
+17
+00:01:09,280 --> 00:01:14,880
+understood and is probably far more complicated than LDL biology.
+
+18
+00:01:14,880 --> 00:01:19,280
+I would say that of all of the things that Tom and I discussed over this seven hours,
+
+19
+00:01:19,280 --> 00:01:25,420
+I learned the most personally in our HDL discussion and our discussion of the CTEP inhibitors.
+
+20
+00:01:25,420 --> 00:01:30,380
+I was very familiar with all of the trials here, but Tom brought a level of nuance to
+
+21
+00:01:30,380 --> 00:01:35,820
+this that actually sharpened my understanding of this and for that I am of course eternally
+
+22
+00:01:35,820 --> 00:01:36,820
+grateful.
+
+23
+00:01:36,820 --> 00:01:41,880
+So welcome to episode three.
+
+24
+00:01:41,880 --> 00:01:44,700
+Let's define now direct versus indirect RCT.
+
+25
+00:01:44,700 --> 00:01:46,000
+All right.
+
+26
+00:01:46,000 --> 00:01:49,660
+So if we're talking about the cholesterol, it's in lipoproteins.
+
+27
+00:01:49,660 --> 00:01:53,140
+So at the end of the day, you have perfect cholesterol homeostasis.
+
+28
+00:01:53,700 --> 00:01:59,300
+For some reason, there's some cholesterol excess in your body.
+
+29
+00:01:59,300 --> 00:02:02,900
+It's going to wind up in your artery wall or if you're lucky, it's going to wind up
+
+30
+00:02:02,900 --> 00:02:04,980
+in your stool.
+
+31
+00:02:04,980 --> 00:02:06,420
+That would be the preference way.
+
+32
+00:02:06,420 --> 00:02:09,500
+So the body clearly had nose.
+
+33
+00:02:09,500 --> 00:02:11,940
+Beyond a certain point, we don't want cholesterol.
+
+34
+00:02:11,940 --> 00:02:14,620
+We've talked about that at a bit of length so far.
+
+35
+00:02:14,620 --> 00:02:20,180
+So now how can the body get rid of cholesterol that's already inside, is made by cells, the
+
+36
+00:02:20,180 --> 00:02:21,180
+motion of the joint.
+
+37
+00:02:21,180 --> 00:02:24,420
+And everybody thinks the liver makes most of the cholesterol.
+
+38
+00:02:24,420 --> 00:02:25,820
+We're not talking about the brain now.
+
+39
+00:02:25,820 --> 00:02:26,820
+That's separate.
+
+40
+00:02:26,820 --> 00:02:31,020
+Of your rest of your cholesterol in your body, the liver makes 20% of it.
+
+41
+00:02:31,020 --> 00:02:33,640
+The rest is made in your peripheral cells.
+
+42
+00:02:33,640 --> 00:02:37,380
+So the bulk of your cholesterol that's in your body, if your peripheral cells are making
+
+43
+00:02:37,380 --> 00:02:40,260
+too much, it's got to get out or that cell will die.
+
+44
+00:02:40,260 --> 00:02:46,740
+So the cells through even beyond ABCA1 efflux that we've talked about, they can free diffuse
+
+45
+00:02:46,740 --> 00:02:47,740
+out of there.
+
+46
+00:02:47,740 --> 00:02:53,740
+ABC transported a compound cholesterol out and it gets in a lipoprotein or it binds to
+
+47
+00:02:53,740 --> 00:02:58,120
+albumin or binds to a red blood cell and it can be taken elsewhere.
+
+48
+00:02:58,120 --> 00:03:06,700
+So classically we were taught that, aha, the HDL particles are definitely a substrate that
+
+49
+00:03:06,700 --> 00:03:14,620
+a cell can efflux cholesterol out into, especially an empty HDL, APOA1, the protein itself, that's
+
+50
+00:03:14,620 --> 00:03:20,460
+unlipidated or a real baby HDL particle, very small HDL particle, is a great cholesterol
+
+51
+00:03:20,460 --> 00:03:21,700
+acceptor.
+
+52
+00:03:21,700 --> 00:03:26,540
+And we have membrane transporters that can give them free cholesterol.
+
+53
+00:03:26,540 --> 00:03:27,860
+All right.
+
+54
+00:03:27,860 --> 00:03:30,500
+So now the HDL has cholesterol and what were we taught?
+
+55
+00:03:30,500 --> 00:03:35,260
+Well, of course, the HDL just brings it right back to the liver and the liver then will,
+
+56
+00:03:35,260 --> 00:03:39,940
+if it has a need for cholesterol, it'll use it up and then it'll put it in your bile.
+
+57
+00:03:39,940 --> 00:03:43,620
+It'll go down and go right out your rear end.
+
+58
+00:03:43,620 --> 00:03:49,260
+Or your liver can actually change it to a bile cell, which it sends down the bile and
+
+59
+00:03:49,260 --> 00:03:51,420
+your bile cell could be excreted in the stool.
+
+60
+00:03:51,420 --> 00:03:55,220
+So in fact, that's a way, it's a major way of getting rid of cholesterol, but our ilium
+
+61
+00:03:55,220 --> 00:03:56,220
+doesn't cooperate.
+
+62
+00:03:56,220 --> 00:04:01,740
+Our ilium typically reabsorbs about 90 to 95% of the bile salts and reuses them.
+
+63
+00:04:01,740 --> 00:04:03,500
+So it's not the best way.
+
+64
+00:04:03,500 --> 00:04:07,700
+Unless you can make sure that bile cell is being excreted and we have a drug, the bile
+
+65
+00:04:07,700 --> 00:04:13,140
+cell questions that make sure that happens, then you would deplete internal cholesterol.
+
+66
+00:04:13,140 --> 00:04:15,120
+So that's so simple.
+
+67
+00:04:15,120 --> 00:04:20,960
+So our VLDLs and LDLs and colomicrons bring cholesterol to the tissues.
+
+68
+00:04:20,960 --> 00:04:25,980
+And if for some reason there's too much cholesterol, the HDLs bring it back to the liver and it
+
+69
+00:04:25,980 --> 00:04:28,620
+goes bye-bye.
+
+70
+00:04:28,620 --> 00:04:35,140
+If you're talking to a second grader or physician at one point in our careers, that made great
+
+71
+00:04:35,140 --> 00:04:36,140
+sense.
+
+72
+00:04:36,140 --> 00:04:37,140
+That's plausible.
+
+73
+00:04:37,140 --> 00:04:38,140
+That's perfect.
+
+74
+00:04:38,140 --> 00:04:40,420
+That's why HDLs are not delivering cholesterol to the artery wall.
+
+75
+00:04:40,420 --> 00:04:44,940
+They're bringing it back to an organ that's going to get rid of it or use it properly.
+
+76
+00:04:44,940 --> 00:04:45,940
+Perfect.
+
+77
+00:04:45,940 --> 00:04:51,640
+And if the other, the VLDLs, kylos and LDLs are bringing cholesterol to the tissues,
+
+78
+00:04:51,640 --> 00:04:56,020
+they never colded that, but I would say, well, that's forward cholesterol transport.
+
+79
+00:04:56,020 --> 00:04:58,060
+And if the HDLs are bringing it back, that's reverse.
+
+80
+00:04:58,060 --> 00:04:59,060
+Perfect.
+
+81
+00:04:59,060 --> 00:05:03,020
+And if we have a great balance between forward and reverse cholesterol transport, that's
+
+82
+00:05:03,020 --> 00:05:05,060
+good cholesterol homeostasis.
+
+83
+00:05:05,060 --> 00:05:07,500
+You're not going to get in trouble.
+
+84
+00:05:07,500 --> 00:05:12,340
+And then we made the mistake of, aha, our metrics of these pathways are going to be
+
+85
+00:05:12,340 --> 00:05:16,940
+LDL cholesterol, maybe total cholesterol or HDL cholesterol.
+
+86
+00:05:16,940 --> 00:05:21,460
+And that's where the whole thing falls apart because those metrics have zero to do with
+
+87
+00:05:21,460 --> 00:05:27,260
+describing the complex flux and trafficking of all these pools of cholesterol or so.
+
+88
+00:05:27,260 --> 00:05:28,260
+Zero.
+
+89
+00:05:28,260 --> 00:05:33,860
+There is no cholesterol measurement in the plasma that tells you anything about that
+
+90
+00:05:33,860 --> 00:05:34,860
+movement.
+
+91
+00:05:34,860 --> 00:05:38,260
+Are you in, are yourselves building up too much cholesterol or are they not?
+
+92
+00:05:38,260 --> 00:05:41,540
+Or God, you have great reverse cholesterol transport.
+
+93
+00:05:41,540 --> 00:05:46,780
+So it made such perfect sense and we were all stupid in medical school.
+
+94
+00:05:46,780 --> 00:05:50,380
+We're never going to contradict a professor or even give it two seconds worth of thought
+
+95
+00:05:50,380 --> 00:05:57,020
+if somebody told us something that the higher your HDL cholesterol, you got great reverse
+
+96
+00:05:57,020 --> 00:06:01,700
+cholesterol transport because that HDL is going to take it to the liver.
+
+97
+00:06:01,700 --> 00:06:07,260
+At a certain point in my studying of lipid understanding this stuff, and I knew, God,
+
+98
+00:06:07,260 --> 00:06:11,060
+what is it about not everybody with high HDL cholesterol is protected.
+
+99
+00:06:11,060 --> 00:06:15,080
+There are people with low HDL cholesterol who don't get disease.
+
+100
+00:06:15,080 --> 00:06:20,780
+But if what HDLs do is reverse cholesterol transport and they're bringing cholesterol
+
+101
+00:06:20,780 --> 00:06:26,180
+back to the liver, shouldn't your HDL cholesterol go down?
+
+102
+00:06:26,180 --> 00:06:30,660
+Why would HDL cholesterol go up if it was bringing it back to the liver and being internalized
+
+103
+00:06:30,660 --> 00:06:31,660
+or delipidated?
+
+104
+00:06:31,660 --> 00:06:34,340
+That made no sense to me.
+
+105
+00:06:34,340 --> 00:06:36,180
+So I knew there was more to the study.
+
+106
+00:06:36,180 --> 00:06:41,900
+And of course, guys like Dan Rader, who I alluded to before, and Brian Brewer and John
+
+107
+00:06:41,900 --> 00:06:47,380
+Chapman, our HDL experts in this world have figured this out pretty much by now.
+
+108
+00:06:47,380 --> 00:06:55,020
+So I know it's a, this lipid transportation system is way more complex than an HDL bringing
+
+109
+00:06:55,020 --> 00:06:56,020
+it back.
+
+110
+00:06:56,020 --> 00:06:58,740
+And in those, we give that a different name now.
+
+111
+00:06:58,740 --> 00:07:04,820
+So HDLs indeed are capable of bringing cholesterol back to the liver itself.
+
+112
+00:07:04,820 --> 00:07:09,500
+There is a receptor that will delipidated cholesterol S there from an HDL.
+
+113
+00:07:09,500 --> 00:07:13,460
+That's called the scavenger receptor B1 and SRB1.
+
+114
+00:07:13,460 --> 00:07:20,060
+There is a holoparticle receptor that can internalize large HDL particles and bring them into the
+
+115
+00:07:20,060 --> 00:07:21,740
+liver.
+
+116
+00:07:21,740 --> 00:07:23,820
+But free diffusion can also occur.
+
+117
+00:07:23,820 --> 00:07:30,140
+A big HDL can abut against a hepatocyte and cholesterol just diffuses from the HDL membrane
+
+118
+00:07:30,140 --> 00:07:31,540
+into the liver.
+
+119
+00:07:31,540 --> 00:07:35,740
+So there are at least three pathways of cholesterol getting back to the liver.
+
+120
+00:07:35,740 --> 00:07:40,020
+Hey, that same thing we now know happens at the intestine also.
+
+121
+00:07:40,020 --> 00:07:42,300
+So HDLs don't even have to go anywhere near the liver.
+
+122
+00:07:42,300 --> 00:07:45,580
+They can go get rid of some cholesterol at the intestine.
+
+123
+00:07:45,580 --> 00:07:50,260
+Remember that TICE pathway, Transintestinal Cholesterol Leaf Lux?
+
+124
+00:07:50,260 --> 00:07:56,500
+Right now we are boggled our minds and there are great papers on this.
+
+125
+00:07:56,500 --> 00:08:00,260
+Red blood cells carry way more cholesterol than deliproproteins.
+
+126
+00:08:00,260 --> 00:08:01,940
+They're so much bigger.
+
+127
+00:08:01,940 --> 00:08:05,820
+Now granted, the cholesterol is all in their surface, but they have a ton of cell membrane
+
+128
+00:08:05,820 --> 00:08:06,820
+surface.
+
+129
+00:08:06,820 --> 00:08:09,180
+So there's free cholesterol.
+
+130
+00:08:09,180 --> 00:08:14,900
+Albumin at least per albumin molecule can attach to 17 molecules of cholesterol.
+
+131
+00:08:14,900 --> 00:08:21,580
+So we now know to variable degrees both red blood cells and albumin can just abut against
+
+132
+00:08:21,580 --> 00:08:25,740
+any cell in your body and accept free cholesterol by free diffusion.
+
+133
+00:08:25,740 --> 00:08:31,380
+And LDL particle can abut against the cell and accept cholesterol by free diffusion from
+
+134
+00:08:31,380 --> 00:08:32,700
+a cell.
+
+135
+00:08:32,700 --> 00:08:36,100
+So now LDLs have another way of acquiring cholesterol.
+
+136
+00:08:36,100 --> 00:08:37,100
+It's interesting.
+
+137
+00:08:37,100 --> 00:08:40,100
+This would be a great question for someone like Josh Knowles who's such an expert on
+
+138
+00:08:40,100 --> 00:08:41,100
+FH.
+
+139
+00:08:41,380 --> 00:08:46,900
+Has anybody looked at red blood cell cholesterol membrane concentration or even size in FH
+
+140
+00:08:46,900 --> 00:08:47,900
+patients?
+
+141
+00:08:47,900 --> 00:08:51,900
+Because one hypothesis would be they will, especially the FH patients who have FH as
+
+142
+00:08:51,900 --> 00:08:57,020
+a result of LDL receptor deficiencies in some sort, you'd think that there'd be more free
+
+143
+00:08:57,020 --> 00:09:01,660
+diffusion of cholesterol from their LDL into their red blood cell.
+
+144
+00:09:01,660 --> 00:09:02,660
+Yeah.
+
+145
+00:09:02,660 --> 00:09:04,060
+And whether anybody's ever looked at that.
+
+146
+00:09:04,060 --> 00:09:06,980
+I mean, it might not be the case at all, but that would be a question.
+
+147
+00:09:06,980 --> 00:09:11,260
+Theoretically, free diffusion can occur between any two membrane surfaces.
+
+148
+00:09:11,260 --> 00:09:17,020
+So do their red blood cells, I would imagine at a certain degree it would cause red blood
+
+149
+00:09:17,020 --> 00:09:18,020
+cell irregularities.
+
+150
+00:09:18,020 --> 00:09:22,940
+Well, yeah, there might be too much noise, but you'd look at the MCV or something like
+
+151
+00:09:22,940 --> 00:09:26,660
+that and you'd say, have you increased or decreased the mean corpuscular volume of these
+
+152
+00:09:26,660 --> 00:09:27,660
+things?
+
+153
+00:09:27,660 --> 00:09:28,660
+Is there anything happening?
+
+154
+00:09:28,660 --> 00:09:29,660
+I don't know.
+
+155
+00:09:29,660 --> 00:09:32,940
+You're changing certainly the membrane structure if that process is occurring in those people,
+
+156
+00:09:32,940 --> 00:09:35,820
+whether that would affect red blood cell functionality.
+
+157
+00:09:35,820 --> 00:09:41,260
+Remember when you start putting phytosterols into red blood cell membranes, you get hemolytic
+
+158
+00:09:41,260 --> 00:09:43,900
+anemias and stuff.
+
+159
+00:09:43,900 --> 00:09:47,900
+Cytostrolemia, phytosterolemia, that's part of their pathology because the red blood cells
+
+160
+00:09:47,900 --> 00:09:51,860
+looking for cholesterol to stay healthy, not phytosterols.
+
+161
+00:09:51,860 --> 00:09:54,700
+I didn't know that, so I didn't realize that that's one of the hallmarks.
+
+162
+00:09:54,700 --> 00:10:01,140
+It's part of the phenotypic picture of cytostrolemia, red blood cell hemolytic anemias, or crazy
+
+163
+00:10:01,140 --> 00:10:04,780
+red blood cell structure, spherocytes and things like that.
+
+164
+00:10:04,780 --> 00:10:10,180
+So it's one way that the early investigators will, this person has an only phytosol, what's
+
+165
+00:10:10,180 --> 00:10:13,980
+this red blood cell problem going on this person too?
+
+166
+00:10:13,980 --> 00:10:14,980
+So this is interesting.
+
+167
+00:10:14,980 --> 00:10:20,140
+The HDL story is one where the more time goes on, the less I know.
+
+168
+00:10:20,140 --> 00:10:25,300
+I mean, there are a few things in lipidology that humble me more than my complete and utter
+
+169
+00:10:25,300 --> 00:10:29,300
+buffoonery and ignorance when it comes to understanding high density lipoproteins.
+
+170
+00:10:29,300 --> 00:10:33,260
+It's true of all of us, and that's why I don't want you reading my 2002 lipid hall.
+
+171
+00:10:33,260 --> 00:10:34,260
+It's anonymous.
+
+172
+00:10:34,260 --> 00:10:35,260
+You're embarrassed.
+
+173
+00:10:35,260 --> 00:10:36,260
+Yeah, yeah.
+
+174
+00:10:36,260 --> 00:10:41,140
+Oh, God, I would criticize somebody with spout net stuff today.
+
+175
+00:10:41,140 --> 00:10:44,780
+So only if you read it with that in mind and you would see how things change.
+
+176
+00:10:44,780 --> 00:10:48,980
+Can we use a very specific example to explain this?
+
+177
+00:10:48,980 --> 00:10:55,700
+Let's talk about the first failed CTEP inhibitor trial, which was Pfizer's back in the mid-2000.
+
+178
+00:10:55,700 --> 00:10:59,340
+So let me give the background, and then I want you to explain why this may have failed.
+
+179
+00:11:00,020 --> 00:11:03,260
+Maybe I just want to explain a little more about the lipid transportation system.
+
+180
+00:11:03,260 --> 00:11:04,260
+Yeah, yeah, that's a good idea.
+
+181
+00:11:04,260 --> 00:11:06,340
+So you know what CTEP is.
+
+182
+00:11:06,340 --> 00:11:11,580
+So remember I talked about the early on view with forward cholesterol transport, even though
+
+183
+00:11:11,580 --> 00:11:12,580
+they didn't call it.
+
+184
+00:11:12,580 --> 00:11:16,300
+That's the ApoB family bringing cholesterol to tissues and the HDL family bringing it
+
+185
+00:11:16,300 --> 00:11:17,460
+back.
+
+186
+00:11:17,460 --> 00:11:21,020
+And here's why that's just such an absurd theory.
+
+187
+00:11:21,020 --> 00:11:26,060
+Because when the intestine pumps out colomicrons that have a lot of your absorbed cholesterol
+
+188
+00:11:26,060 --> 00:11:32,380
+in it and your liver, certainly when it manufactures a VLDL particle whose primary purpose,
+
+189
+00:11:32,380 --> 00:11:37,940
+and everybody please listen to this, the VLDL has two purposes, one of which is not to deliver
+
+190
+00:11:37,940 --> 00:11:39,740
+cholesterol anywhere.
+
+191
+00:11:39,740 --> 00:11:46,700
+The liver is to develop transport triglycerides energy to cells that either store or utilize
+
+192
+00:11:46,700 --> 00:11:51,300
+any fatty acids for energy and to transport phospholipids.
+
+193
+00:11:52,300 --> 00:11:56,820
+All right, so that's what your VLDLs and colomicrons do.
+
+194
+00:11:56,820 --> 00:12:00,820
+So they're part of the forward cholesterol transportation system.
+
+195
+00:12:00,820 --> 00:12:06,220
+So the liver or the intestine excretes them and then they're floating around.
+
+196
+00:12:06,220 --> 00:12:07,660
+So what do they do?
+
+197
+00:12:07,660 --> 00:12:14,260
+They go to adipocytes or they go to muscle cells, their triglycerides are extracted,
+
+198
+00:12:14,260 --> 00:12:18,720
+and then their phospholipids break off and are utilized by cells.
+
+199
+00:12:18,720 --> 00:12:26,240
+So what are you left with when a chylomicron loses surface phospholipids and core triglycerides?
+
+200
+00:12:26,240 --> 00:12:31,760
+You're left with a smaller VLDL or a smaller chylomicron.
+
+201
+00:12:31,760 --> 00:12:36,660
+Any lipoprotein that goes from a bigger size to a smaller size, but it's still within the
+
+202
+00:12:36,660 --> 00:12:40,280
+density of a VLDL or chylomicron is called a remnant.
+
+203
+00:12:40,280 --> 00:12:41,280
+It's a smaller.
+
+204
+00:12:41,280 --> 00:12:46,760
+Hey, if Peter just amputated my right arm now, I'd be a remnant of my former self because
+
+205
+00:12:46,760 --> 00:12:49,520
+I'd have one less arm.
+
+206
+00:12:49,520 --> 00:12:55,600
+So the VLDLs and colos have lost their core triglycerides and they've lost their core
+
+207
+00:12:55,600 --> 00:12:59,920
+phospholipids and a few proteins have broken off too.
+
+208
+00:12:59,920 --> 00:13:06,780
+So now what happens to those remnant VLDLs and colos?
+
+209
+00:13:06,780 --> 00:13:15,240
+They're virtually instantly cleared by receptors that exist in the liver primarily.
+
+210
+00:13:15,760 --> 00:13:22,200
+How do those receptors clear these VLDL particles and these chylomicron particles that have
+
+211
+00:13:22,200 --> 00:13:25,860
+accomplished their mission and delivered triglycerides?
+
+212
+00:13:25,860 --> 00:13:32,640
+They bind to either the Apo-B100 that's on the VLDL, but LDL receptors won't bind to
+
+213
+00:13:32,640 --> 00:13:36,680
+Apo-B48 and the chylomicron, but they bind to Apo-E.
+
+214
+00:13:36,680 --> 00:13:42,960
+And chylos and VLDLs typically, if you're lucky, have multiple copies of VLDLs.
+
+215
+00:13:42,960 --> 00:13:47,400
+So as soon as the chylos or VLDLs deliver your energy, deliver your phospholipids,
+
+216
+00:13:47,400 --> 00:13:52,840
+they are cleared, which is why the chylomicron half-life is minutes and the VLDL half-life
+
+217
+00:13:52,840 --> 00:13:54,800
+is a couple of hours.
+
+218
+00:13:54,800 --> 00:13:57,800
+Don't ever confuse half-life with plasma residence time.
+
+219
+00:13:57,800 --> 00:14:02,120
+That's a little bit longer, but that's only a few particles that are persisting beyond
+
+220
+00:14:02,120 --> 00:14:05,680
+those average half-life or so.
+
+221
+00:14:05,680 --> 00:14:12,340
+So now any of the VLDLs that are not totally cleared by the liver keep getting smaller.
+
+222
+00:14:12,340 --> 00:14:17,820
+They become smaller remnants, but then they change densities to a certain different degree
+
+223
+00:14:17,820 --> 00:14:18,820
+density range.
+
+224
+00:14:18,820 --> 00:14:21,660
+So you can't call it a VLDL anymore.
+
+225
+00:14:21,660 --> 00:14:25,020
+You call it an intermediate density lipoprotein.
+
+226
+00:14:25,020 --> 00:14:28,300
+The same thing, that's got a half-life of an hour.
+
+227
+00:14:28,300 --> 00:14:32,320
+That's also clear because IDLs have a lot of Apo-E on it.
+
+228
+00:14:32,320 --> 00:14:37,260
+But at the liver, as they're being cleared, there's another enzyme that transforms some
+
+229
+00:14:37,260 --> 00:14:40,760
+of your IDLs into a smaller.
+
+230
+00:14:40,760 --> 00:14:47,560
+It's an IDL remnant called, well, you'd be entering a new specific density boundary,
+
+231
+00:14:47,560 --> 00:14:50,680
+and it would be called the low-density lipoprotein.
+
+232
+00:14:50,680 --> 00:14:56,640
+So technically, you can say, yes, some VLDLs do become IDLs, do become LDLs, and in the
+
+233
+00:14:56,640 --> 00:15:03,680
+LDLs, we'll hang around forever until the LDL receptor clears in LDL by binding to Apo-B.
+
+234
+00:15:03,680 --> 00:15:10,720
+The reason Chylos, VLDLs, and IDLs get cleared so much more quickly than LDLs is the Apo-E
+
+235
+00:15:10,720 --> 00:15:15,920
+content, which is a mega ligand for the LDL receptor.
+
+236
+00:15:15,920 --> 00:15:20,880
+The LDL receptor is really an Apo-B, Apo-E receptor, and there are other Apo-E receptors,
+
+237
+00:15:20,880 --> 00:15:21,880
+too.
+
+238
+00:15:21,880 --> 00:15:23,240
+So that's why those particles don't last long.
+
+239
+00:15:23,240 --> 00:15:28,760
+And just to interrupt you for a sec, Apo-E greatly amplifies the efficacy of that ligand,
+
+240
+00:15:28,760 --> 00:15:30,280
+the Apo-B ligand?
+
+241
+00:15:30,280 --> 00:15:38,600
+It just is a preferred ligand for either an LDL receptor or other, they're called LDL
+
+242
+00:15:38,600 --> 00:15:40,420
+receptor-related receptors.
+
+243
+00:15:41,120 --> 00:15:44,540
+I'm sorry, I want to come right back to what you're saying, but I know I'll forget to ask,
+
+244
+00:15:44,540 --> 00:15:49,060
+what percentage of LDL particles also co-express Apo-E?
+
+245
+00:15:49,060 --> 00:15:55,060
+Yeah, so if you are lucky enough to have that genetic gift, and your LDL happens to contain
+
+246
+00:15:55,060 --> 00:15:57,820
+an A-B, it's half-life is pretty much the same as an IDL.
+
+247
+00:15:57,820 --> 00:15:58,900
+They're gone.
+
+248
+00:15:58,900 --> 00:16:01,820
+So if they're gone, guess where they came and wind up?
+
+249
+00:16:01,820 --> 00:16:06,180
+You have enhanced clearance, your Apo-B, your LDL particle level will be much lower, and
+
+250
+00:16:06,180 --> 00:16:07,780
+you don't get heart disease.
+
+251
+00:16:07,780 --> 00:16:11,940
+And in average population, it's about 3 to 4%.
+
+252
+00:16:11,940 --> 00:16:16,060
+But I guarantee you, depending on genes you've inherited, some people probably have a lot
+
+253
+00:16:16,060 --> 00:16:20,140
+of Apo-E on their LDLs, and of course I would bet if they were studying genetic drugs, they
+
+254
+00:16:20,140 --> 00:16:24,540
+don't get heart disease, you know, because it's being cleared, all those particles.
+
+255
+00:16:24,540 --> 00:16:29,060
+And we'll talk about it later, there are other Apo proteins that can retard clearance of
+
+256
+00:16:29,060 --> 00:16:32,460
+VLDLs, IDLs, and even LDLs.
+
+257
+00:16:32,460 --> 00:16:36,180
+I'll just mention its name now, it's Apo-Liproprotein C3.
+
+258
+00:16:36,180 --> 00:16:41,020
+You got that on your particles, you're going to have seriously increased plasma residence
+
+259
+00:16:41,020 --> 00:16:47,660
+time of all those things, and LDL with Apo-C3 on it is intensely more atherogenic than in
+
+260
+00:16:47,660 --> 00:16:50,820
+LDL that only has Apo-B100 on it.
+
+261
+00:16:50,820 --> 00:16:54,380
+You once told me, this was probably a couple months ago, we were just shooting the breeze
+
+262
+00:16:54,380 --> 00:16:59,980
+one day by phone, and I remember you saying that if you could add one clinical assay to
+
+263
+00:16:59,980 --> 00:17:06,580
+the arsenal of lipidologists, it would be an Apo-C3 assay, is that still true?
+
+264
+00:17:06,580 --> 00:17:10,460
+It would be, because I think that's going to be the way we really are going to smartly
+
+265
+00:17:10,460 --> 00:17:16,380
+identify remnant lipoproteins that are the VLDLs that are potentially causing trouble.
+
+266
+00:17:16,380 --> 00:17:22,820
+Most VLDLs are not troublemakers, they're cleared rapidly, or the LDLs that are number
+
+267
+00:17:22,820 --> 00:17:26,140
+one in a list as to what's going in your arterial wall.
+
+268
+00:17:26,460 --> 00:17:33,660
+Apo-C3, as you know, Peter, is over expressing insulin resistance situations.
+
+269
+00:17:33,660 --> 00:17:38,260
+I have no doubt that one day that would be a cool test, unless maybe we can just measure
+
+270
+00:17:38,260 --> 00:17:42,220
+your genetic, the genes that give you Apo-C3.
+
+271
+00:17:42,220 --> 00:17:46,580
+Except that insulin sensitivity and insulin resistance impact it, which would suggest that
+
+272
+00:17:46,580 --> 00:17:52,060
+if you took two people with the same lipid profile at the lipoprotein level, but one
+
+273
+00:17:52,060 --> 00:17:56,260
+had higher Apo-C3 than the other, that person's at higher risk.
+
+274
+00:17:56,260 --> 00:18:00,300
+And I think we got enough data now, it shows that, and to show you, pharma believes that
+
+275
+00:18:00,300 --> 00:18:06,660
+there's a major ongoing now with an Apo-C3 inhibitor that's coming, because it'll be
+
+276
+00:18:06,660 --> 00:18:09,580
+the way to get rid of these extremely epigenic problems.
+
+277
+00:18:09,580 --> 00:18:10,580
+Is this ISIS doing this?
+
+278
+00:18:10,580 --> 00:18:11,980
+Yeah, I believe so, yeah.
+
+279
+00:18:11,980 --> 00:18:13,580
+Oh, sorry, just for the listener.
+
+280
+00:18:13,580 --> 00:18:16,780
+ISIS, I'm not referring to, yeah, yeah, yeah.
+
+281
+00:18:16,780 --> 00:18:20,500
+This is ISIS, there's a pharma company, it's in San Diego, they're actually based out of
+
+282
+00:18:20,500 --> 00:18:23,780
+San Diego, because that's where Sam Tamekis is, but it is ISIS.
+
+283
+00:18:23,780 --> 00:18:26,100
+Yeah, it's one of these new...
+
+284
+00:18:26,100 --> 00:18:28,100
+Yeah, and they're looking at oligonucleotide...
+
+285
+00:18:28,100 --> 00:18:30,100
+Oligonucleotide, yeah, they're looking at oligosense.
+
+286
+00:18:30,100 --> 00:18:32,100
+...an anti-sense thing, so keep your fingers crossed.
+
+287
+00:18:32,100 --> 00:18:37,220
+So we should come back and talk about that, because the anti-C3 and the anti-sense oligonucleotide
+
+288
+00:18:37,220 --> 00:18:41,060
+against Apo-Lipoprotein little a, those are hugely interesting.
+
+289
+00:18:41,060 --> 00:18:45,460
+Yeah, they're going to probably be great therapeutic avenues for us if we need it.
+
+290
+00:18:45,460 --> 00:18:49,900
+So yeah, I think there will be utility for measuring this right now before a third party
+
+291
+00:18:49,900 --> 00:18:54,300
+payer is ever going to pay some lab for doing that, it's going to need a little more proof
+
+292
+00:18:54,300 --> 00:18:57,340
+than what we have so far and everything.
+
+293
+00:18:57,340 --> 00:19:03,500
+But back to our lipid transportation system, so please understand, and there are just too
+
+294
+00:19:03,500 --> 00:19:08,460
+many people out there who think every VLDL becomes an LDL, it's not even close.
+
+295
+00:19:08,460 --> 00:19:13,700
+And in fact, if you are not insulin resistant and you don't have a, however you define a
+
+296
+00:19:13,700 --> 00:19:19,860
+triglyceride issue, which I might define as a trig above 1.30 or so anyway, I think
+
+297
+00:19:19,980 --> 00:19:25,260
+40% of the ApoB particles coming out of your liver, they're not VLDLs, they're LDLs.
+
+298
+00:19:25,260 --> 00:19:29,860
+And the VLDLs that are coming out are not big, because they're not carrying extra triglycerides
+
+299
+00:19:29,860 --> 00:19:31,300
+because you don't have them.
+
+300
+00:19:31,300 --> 00:19:35,220
+They're just carrying some degree of cholesterol and a little bit of triglycerides to supply
+
+301
+00:19:35,220 --> 00:19:37,580
+the energy you really need.
+
+302
+00:19:37,580 --> 00:19:44,460
+And that's why if you are measuring some VLDL metric, big VLDLs occur only in triglyceride-rich
+
+303
+00:19:44,460 --> 00:19:49,580
+lipoprotein pathologies by far the most common of which is insulin resistance.
+
+304
+00:19:49,900 --> 00:19:55,180
+And clearly because that VLDL would come out, and I guarantee it's probably got ApoC3 on
+
+305
+00:19:55,180 --> 00:20:00,940
+it, it doesn't have a half-life of a few hours, its plasma residence time is much longer,
+
+306
+00:20:00,940 --> 00:20:07,900
+there is more conversion of that VLDL particle into LDL particles, which would be triglyceride-rich.
+
+307
+00:20:07,900 --> 00:20:13,220
+Through some transformation they become the small LDLs, which are even less rapidly cleared.
+
+308
+00:20:13,220 --> 00:20:19,860
+So your ApoB particle number, your LDL particle number goes through the roof.
+
+309
+00:20:19,860 --> 00:20:24,460
+Now yes, part of those ApoB are the remnants, but I've posted enough slides on Twitter right
+
+310
+00:20:24,460 --> 00:20:27,500
+now, I'm pretty sure it's in Peter's package here.
+
+311
+00:20:27,500 --> 00:20:32,540
+Even when you take these type 2 diabetics with severe insulin resistance, or insulin
+
+312
+00:20:32,540 --> 00:20:38,900
+resistance just proved by an insulin clamp study, their ApoB level, their particle levels
+
+313
+00:20:38,900 --> 00:20:44,540
+are going up, but the LDL particles go up astronomically, and the VLDL maybe doubles
+
+314
+00:20:44,540 --> 00:20:50,740
+or triples, it goes from 30 to 90, whereas the VLDL particles go from 1,000 to 3,000.
+
+315
+00:20:50,740 --> 00:20:51,820
+The LDL, yeah.
+
+316
+00:20:51,820 --> 00:20:52,820
+Yeah, yeah.
+
+317
+00:20:52,820 --> 00:20:53,820
+That's an important distinction.
+
+318
+00:20:53,820 --> 00:21:00,020
+So a lot of people will say when you're insulin resistant, all of that net difference is,
+
+319
+00:21:00,020 --> 00:21:02,940
+we see, because there's no disputing, the more insulin resistance you get, the more
+
+320
+00:21:02,940 --> 00:21:07,700
+discordant you get between your LDL-P and your LDL-C. And all things equal, the LDL-P
+
+321
+00:21:07,700 --> 00:21:10,620
+is just going up and up and up as you become more insulin resistant.
+
+322
+00:21:10,620 --> 00:21:13,180
+So people will say, it's all the VLDL.
+
+323
+00:21:13,180 --> 00:21:18,260
+Furthermore, they'll confuse a percentage increase that's relative with an absolute
+
+324
+00:21:18,260 --> 00:21:19,260
+increase.
+
+325
+00:21:19,260 --> 00:21:24,180
+So as you pointed out, if you're referring to the Garvey paper, I think, so in that paper,
+
+326
+00:21:24,180 --> 00:21:29,060
+you might see VLDL particle number, I'm making this up, so someone will see the numbers and
+
+327
+00:21:29,060 --> 00:21:31,380
+decide for themselves, but it might go from 30 to 60.
+
+328
+00:21:31,380 --> 00:21:32,380
+Yeah, or 150.
+
+329
+00:21:32,380 --> 00:21:33,380
+An animal per liter.
+
+330
+00:21:33,380 --> 00:21:34,380
+An animal per liter.
+
+331
+00:21:34,380 --> 00:21:37,940
+And you think, well, God, that's a much bigger relative increase.
+
+332
+00:21:37,940 --> 00:21:38,940
+And it is.
+
+333
+00:21:38,940 --> 00:21:45,140
+But if anybody's read our lengthy treaties on relative versus absolute risk, you cannot
+
+334
+00:21:45,140 --> 00:21:48,300
+evaluate a relative change without understanding its absolute change.
+
+335
+00:21:48,300 --> 00:21:52,900
+And so even though the relative change on the LDL-P is smaller, it's starting from such
+
+336
+00:21:52,900 --> 00:22:00,220
+a high base that it might add 300 to 400 nanomole per liter, which might only be a 30 or 40%
+
+337
+00:22:00,220 --> 00:22:04,580
+increase, but that absolutely dominates the lion's share of the increase, not the extra
+
+338
+00:22:04,580 --> 00:22:08,420
+30 to 50 nanomole per liter you might get on the VLDL.
+
+339
+00:22:08,420 --> 00:22:11,460
+This is a really important point if you want to be a lipid geek.
+
+340
+00:22:11,460 --> 00:22:12,460
+It is.
+
+341
+00:22:12,460 --> 00:22:19,820
+And this is one reason why non-HDL cholesterol has become in vogue, because remember, non-HDL
+
+342
+00:22:19,820 --> 00:22:25,460
+cholesterol, we told you, you calculated by subtracting HDL cholesterol from total cholesterol,
+
+343
+00:22:25,460 --> 00:22:32,540
+but you could really add directly measured LDL cholesterol to a VLDL cholesterol.
+
+344
+00:22:32,540 --> 00:22:38,940
+Your cholesterol is not in your HDL particles, theoretically, potentially, atherogenic cholesterol.
+
+345
+00:22:38,940 --> 00:22:41,800
+And hey, that's a free calculation, too.
+
+346
+00:22:41,800 --> 00:22:47,900
+So they use non-HDL cholesterol as a marker of remnants.
+
+347
+00:22:47,900 --> 00:22:49,460
+Okay.
+
+348
+00:22:49,460 --> 00:22:53,980
+And there's no doubt some of those VLDL particles would be remnants, but we'll get into this
+
+349
+00:22:53,980 --> 00:22:54,980
+later, I hope.
+
+350
+00:22:54,980 --> 00:22:58,580
+I'll make the case that a lot of those VLDL particles are not remnants and they're not
+
+351
+00:22:58,580 --> 00:22:59,580
+going into your heart.
+
+352
+00:22:59,580 --> 00:23:00,580
+Yeah, it's funny.
+
+353
+00:23:00,580 --> 00:23:04,660
+I used to always sit a patient down, and the very first time we reviewed a blood test,
+
+354
+00:23:04,660 --> 00:23:08,660
+I would say, look, there's four things we're going to talk about from a lipid standpoint.
+
+355
+00:23:08,660 --> 00:23:12,660
+We got to know your LP little A. We have to know your LDL P. I'd like to know how many
+
+356
+00:23:12,660 --> 00:23:16,260
+of those are small, because it's a proxy for some other stuff, and I want to know your
+
+357
+00:23:16,260 --> 00:23:17,260
+VLDL remnant.
+
+358
+00:23:17,260 --> 00:23:20,180
+Well, I can't measure that, so I'm going to approximate it with VLDLC.
+
+359
+00:23:20,180 --> 00:23:23,500
+Well, I don't say that anymore, because I've come to realize...
+
+360
+00:23:23,860 --> 00:23:28,380
+That's a very crude, crude estimation that's almost useless.
+
+361
+00:23:28,380 --> 00:23:29,900
+I wouldn't call it useless, because...
+
+362
+00:23:29,900 --> 00:23:32,060
+I use the word almost in front of it.
+
+363
+00:23:32,060 --> 00:23:33,060
+Yeah, okay, yeah.
+
+364
+00:23:33,060 --> 00:23:38,380
+And I'll get all my lipid colleagues real mad at me if I start saying that, because
+
+365
+00:23:38,380 --> 00:23:40,140
+I get into this in a lot of the papers.
+
+366
+00:23:40,140 --> 00:23:41,140
+And we still target.
+
+367
+00:23:41,140 --> 00:23:45,140
+I mean, I still say to patients, I want your VLDL cholesterol less than 15 milligrams per
+
+368
+00:23:45,140 --> 00:23:46,140
+deciliter.
+
+369
+00:23:46,140 --> 00:23:47,940
+And the odds are good in an insulin resistant patient.
+
+370
+00:23:47,940 --> 00:23:50,900
+You have other ways of knowing whose insulin resistance who's not.
+
+371
+00:23:50,900 --> 00:23:55,780
+If that marker is up, remnant lipoproteins are part of their pathology.
+
+372
+00:23:55,780 --> 00:23:59,780
+But the exact same therapy I'm going to give you to get rid of the real troublemaker, your
+
+373
+00:23:59,780 --> 00:24:02,300
+LDL particles, is going to get rid of the remnants too.
+
+374
+00:24:02,300 --> 00:24:08,180
+So at the end of the day, it's I got to normalize APOB, your LDL particle number, and there
+
+375
+00:24:08,180 --> 00:24:10,940
+is significant discordance.
+
+376
+00:24:10,940 --> 00:24:13,540
+Alan Snyderman has published it many times.
+
+377
+00:24:13,540 --> 00:24:19,780
+As good as non-HCl cholesterol, meaning better than LDL cholesterol, is a metric of APOB.
+
+378
+00:24:19,780 --> 00:24:25,020
+There's a lot of discordance between APOB, your LDL particle number, and non-HCl cholesterol.
+
+379
+00:24:25,020 --> 00:24:28,060
+So I understand it's a free calculation.
+
+380
+00:24:28,060 --> 00:24:32,180
+Please and people who you really are worried about or you think, Aris, you've got to use
+
+381
+00:24:32,180 --> 00:24:35,700
+particle numbers to make the proper clinical decisions.
+
+382
+00:24:35,700 --> 00:24:40,940
+This reminds me, I need an excuse to go to Montreal so I can interview Alan.
+
+383
+00:24:40,940 --> 00:24:44,860
+If you can get him on a podcast, I'll be your first listener.
+
+384
+00:24:44,860 --> 00:24:47,460
+Nothing comes out of his mouth that you don't want to write down.
+
+385
+00:24:48,220 --> 00:24:49,740
+If you don't make anything up.
+
+386
+00:24:49,740 --> 00:24:52,740
+Alan is sounds a special guy.
+
+387
+00:24:52,740 --> 00:24:56,420
+Alan is not afraid to call a spade a spade, so to speak.
+
+388
+00:24:56,420 --> 00:24:58,060
+He will just tell you.
+
+389
+00:24:58,060 --> 00:24:59,060
+And that's why I love him.
+
+390
+00:24:59,060 --> 00:25:01,340
+I don't mind Alan telling me I'm an idiot.
+
+391
+00:25:01,340 --> 00:25:02,340
+No time you're wrong.
+
+392
+00:25:02,340 --> 00:25:03,340
+I know here's the way it is.
+
+393
+00:25:03,340 --> 00:25:07,220
+Again, you learn some guys like that or not afraid to put you in your place.
+
+394
+00:25:07,220 --> 00:25:11,260
+Alan, if you're listening to this, why don't you come up with an excuse to come to New
+
+395
+00:25:11,260 --> 00:25:13,260
+York or San Diego?
+
+396
+00:25:13,260 --> 00:25:15,580
+And if I do have an excuse to come to Montreal, I will.
+
+397
+00:25:15,580 --> 00:25:18,220
+Let's get back to our lipid transportation system now.
+
+398
+00:25:18,220 --> 00:25:23,380
+So we have our theoretical forward delivering particles, the APOB particles, and I tell
+
+399
+00:25:23,380 --> 00:25:27,820
+you how they transform into one another, how they deliver their cholesterol.
+
+400
+00:25:27,820 --> 00:25:34,100
+By the way, no VLDL or IDL or Kylo is delivering cholesterol to your peripheral cells.
+
+401
+00:25:34,100 --> 00:25:35,100
+They don't need it.
+
+402
+00:25:35,100 --> 00:25:36,780
+They're making all they need.
+
+403
+00:25:36,780 --> 00:25:40,820
+So just restate that, please, for the courts transcript.
+
+404
+00:25:40,820 --> 00:25:45,540
+So tell me again what Kylo's are doing are not doing what you walked out of this.
+
+405
+00:25:45,540 --> 00:25:49,580
+I was in the room to do so when I was explaining what Kyle is in VLDL.
+
+406
+00:25:49,580 --> 00:25:50,940
+Tom just outed me.
+
+407
+00:25:50,940 --> 00:25:54,020
+I went to go take a leak a minute ago.
+
+408
+00:25:54,020 --> 00:25:59,620
+So I explicitly went over that the purpose, the functional purpose of Kylo microns in
+
+409
+00:25:59,620 --> 00:26:06,620
+VLDL is to deliver energy in a form of triglycerides, the adipocytes and myocytes and phospholipids
+
+410
+00:26:06,620 --> 00:26:11,420
+not to deliver cholesterol to any darn cell in your body.
+
+411
+00:26:11,420 --> 00:26:14,420
+So spend your time reading on it.
+
+412
+00:26:14,420 --> 00:26:15,620
+That's what they do.
+
+413
+00:26:15,620 --> 00:26:18,940
+You could even make the case that if they're not delivering cholesterol, why is cholesterol
+
+414
+00:26:18,940 --> 00:26:19,940
+even in their particles?
+
+415
+00:26:19,940 --> 00:26:22,620
+And it goes back to something what Peter said.
+
+416
+00:26:22,620 --> 00:26:24,760
+These particles have to be spherical.
+
+417
+00:26:24,760 --> 00:26:34,420
+So when a VLDL or an anthracite is starting to lipidate APOB48 or especially liver APOB100,
+
+418
+00:26:34,420 --> 00:26:40,820
+if you put cholesterol in that and we have proteins that do that, microsomal triglyceride
+
+419
+00:26:40,820 --> 00:26:46,180
+transfer and other cellular lipid transport proteins, by putting cholesterol on the APOB,
+
+420
+00:26:46,180 --> 00:26:48,340
+it becomes a spherical particle.
+
+421
+00:26:48,340 --> 00:26:56,220
+So all primordial VLDLs and Kylo microns are first just very cholesterol rich spherical
+
+422
+00:26:56,220 --> 00:26:57,220
+particles.
+
+423
+00:26:57,220 --> 00:26:58,820
+They don't have the triglycerides yet.
+
+424
+00:26:58,820 --> 00:27:04,100
+Then when they're spherical particle, they can really fill up with their triglycerides.
+
+425
+00:27:04,100 --> 00:27:11,060
+So the cholesterol is in there for a structural property to make them spherical particles
+
+426
+00:27:11,060 --> 00:27:13,500
+so that they can carry more triglycerides.
+
+427
+00:27:13,500 --> 00:27:18,020
+And that's why when they go out, they become smaller spherical particles that are triglyceride
+
+428
+00:27:18,020 --> 00:27:21,980
+depleted and they just bring their cholesterol back to the liver or the intestine and they
+
+429
+00:27:21,980 --> 00:27:24,220
+do whatever they do with it.
+
+430
+00:27:24,220 --> 00:27:26,380
+So that's why cholesterol is in there.
+
+431
+00:27:26,380 --> 00:27:31,620
+They're not bringing cholesterol to my nose or your kidney or any place else because those
+
+432
+00:27:31,620 --> 00:27:33,460
+cells need cholesterol.
+
+433
+00:27:33,460 --> 00:27:38,540
+Those cells will make it or they'll get it by some free diffusion if they really need
+
+434
+00:27:38,540 --> 00:27:44,140
+it or absolutely virtually any cell of it absolutely needed cholesterol because for
+
+435
+00:27:44,140 --> 00:27:47,000
+some reason the synthesis was broken.
+
+436
+00:27:47,000 --> 00:27:51,900
+Any cell could ultimately up regulate an LDL receptor, but most of them don't.
+
+437
+00:27:51,900 --> 00:27:55,260
+So because they have no need for the cholesterol that's in an LDL.
+
+438
+00:27:55,260 --> 00:27:59,780
+The liver up regulates most your LDL receptors because that's involved with clearance of
+
+439
+00:27:59,780 --> 00:28:00,980
+these particles.
+
+440
+00:28:00,980 --> 00:28:05,300
+That's where your LDL receptors are heavily expressed.
+
+441
+00:28:05,300 --> 00:28:09,940
+But now you do have these particles that have certain half-lives or plasma residence times,
+
+442
+00:28:09,940 --> 00:28:17,820
+VLDLs even for a few hours or LDLs for at least a day in some instances more, HDLs for
+
+443
+00:28:17,820 --> 00:28:19,500
+a few days.
+
+444
+00:28:19,500 --> 00:28:22,500
+So are they stagnant particles that never change?
+
+445
+00:28:22,500 --> 00:28:24,460
+No, guess what?
+
+446
+00:28:24,460 --> 00:28:26,540
+They're living, breathing particles.
+
+447
+00:28:26,540 --> 00:28:29,300
+So I used to have nice animated diagrams of this.
+
+448
+00:28:29,300 --> 00:28:35,140
+Every second of every minute of every day, your particles are having sex with one another.
+
+449
+00:28:35,140 --> 00:28:38,460
+They're transferring bodily fluids.
+
+450
+00:28:38,460 --> 00:28:41,440
+They exchange from their core.
+
+451
+00:28:41,440 --> 00:28:47,860
+Every lipoprotein in your body has some degree in its core of triglycerides and cholesterol
+
+452
+00:28:47,860 --> 00:28:49,620
+ester.
+
+453
+00:28:49,620 --> 00:28:54,740
+Every particle from an HDL to a cholomicron to a VLDL, IDL and LDL.
+
+454
+00:28:54,740 --> 00:28:58,900
+And we actually have a protein that's pretty much carried on HDLs.
+
+455
+00:28:58,900 --> 00:29:07,780
+It was originally called apoprotein or apolipoprotein D as in DORG, capital D. And in my dirty New
+
+456
+00:29:07,780 --> 00:29:13,620
+Jersey mind, think of an HDL particle which carries most of the APOD.
+
+457
+00:29:13,620 --> 00:29:17,460
+Men carry something between their legs that if it got erect, it's sticking up and it can
+
+458
+00:29:17,460 --> 00:29:19,620
+penetrate something else.
+
+459
+00:29:19,620 --> 00:29:25,940
+So if HDLs are carrying this APOD and it suddenly sticks up, it can penetrate another
+
+460
+00:29:25,940 --> 00:29:30,140
+particle, be it another HDL or an APOB particle.
+
+461
+00:29:30,140 --> 00:29:33,100
+And that's a phospholipid sort of tunnel.
+
+462
+00:29:33,100 --> 00:29:38,060
+It's like a little tunnel that can connect two circulating lipoproteins.
+
+463
+00:29:38,060 --> 00:29:41,260
+And therefore, the core lipids can exchange.
+
+464
+00:29:41,260 --> 00:29:43,780
+And this is HDL to HDL or can it be HDL to LDL?
+
+465
+00:29:43,780 --> 00:29:50,980
+The HDL to HDL, in which case it's called a homotypic transfer because it's like particles
+
+466
+00:29:50,980 --> 00:29:57,940
+exchange in their bodily fluids or a heterotypic where APOA particles exchange their core lipids
+
+467
+00:29:57,940 --> 00:29:59,860
+with APOB particles.
+
+468
+00:29:59,860 --> 00:30:04,460
+What is hardly known out there is two APOB particles can exchange their lipids.
+
+469
+00:30:04,460 --> 00:30:08,260
+A VLDL can exchange its core lipids with an LDL.
+
+470
+00:30:08,260 --> 00:30:11,940
+And I'm going to tell you, that's where remnants get a lot of their cholesterol.
+
+471
+00:30:11,940 --> 00:30:18,900
+So that would be homotypic exchange of cholesterol and triglycerides between two different APOB
+
+472
+00:30:18,900 --> 00:30:20,460
+containing particles.
+
+473
+00:30:20,460 --> 00:30:24,260
+So a lot of it is between HDLs and APOB particles.
+
+474
+00:30:24,260 --> 00:30:25,580
+And why?
+
+475
+00:30:25,580 --> 00:30:29,820
+Why would we even be given that lipid transfer protein?
+
+476
+00:30:29,820 --> 00:30:34,300
+Because HDL's job is to be a great cholesterol acceptor.
+
+477
+00:30:34,300 --> 00:30:40,280
+It is very important in delipidation, helping cells efflux the cholesterol they don't want.
+
+478
+00:30:40,280 --> 00:30:45,120
+So when an HDL acquires that free cholesterol from a cell, what does it do?
+
+479
+00:30:45,120 --> 00:30:50,360
+Well, HDL carries that ACAT enzyme I talk about it, except it's called LCAT because
+
+480
+00:30:50,360 --> 00:30:52,520
+it's an lipoprotein.
+
+481
+00:30:52,520 --> 00:30:56,680
+It starifies the cholesterol to cholesterol ester, goes to the core of the particle, the
+
+482
+00:30:56,680 --> 00:30:58,240
+HDL becomes bigger.
+
+483
+00:30:58,240 --> 00:31:05,120
+Then the HDL transfers its cholesterol ester to, let's say, an APOB particle, 95% of which
+
+484
+00:31:05,120 --> 00:31:07,060
+are LDL particles.
+
+485
+00:31:07,060 --> 00:31:08,720
+So here's where the joke comes in.
+
+486
+00:31:08,840 --> 00:31:11,800
+So I know you're all calling the cholesterol in an HDL.
+
+487
+00:31:11,800 --> 00:31:13,600
+That's good cholesterol.
+
+488
+00:31:13,600 --> 00:31:18,700
+But what do you call that cholesterol molecule the second an HDL transfers it to an LDL?
+
+489
+00:31:18,700 --> 00:31:20,320
+Does it instantly become bad?
+
+490
+00:31:20,320 --> 00:31:23,120
+Oh, it's bad now.
+
+491
+00:31:23,120 --> 00:31:27,520
+If I looked at it, it's still the same exact cholesterol molecule.
+
+492
+00:31:27,520 --> 00:31:33,760
+So if you want to use those darn adjectives with a patient, I guess what's going to determine
+
+493
+00:31:33,760 --> 00:31:38,680
+what's good or bad cholesterol is, what is that lipoprotein going to do with its cholesterol?
+
+494
+00:31:38,680 --> 00:31:40,320
+It's a cholesterol molecule.
+
+495
+00:31:40,320 --> 00:31:47,360
+If it's an HDL and it's an LDL and it's bringing it back to the liver or the intestine, well,
+
+496
+00:31:47,360 --> 00:31:48,360
+that's not bad.
+
+497
+00:31:48,360 --> 00:31:51,000
+I don't think, because those organs know how to get rid of cholesterol.
+
+498
+00:31:51,000 --> 00:31:56,120
+So I don't know, maybe that's a good cholesterol pathway, but I don't think you can apply that
+
+499
+00:31:56,120 --> 00:31:58,800
+to the cholesterol molecule itself.
+
+500
+00:31:58,800 --> 00:32:00,120
+But follow me here.
+
+501
+00:32:00,120 --> 00:32:03,720
+What if that HDL pulled cholesterol out of your cell because it was overproducing too
+
+502
+00:32:03,720 --> 00:32:07,120
+much and he gave it to an LDL and said, buddy, take off.
+
+503
+00:32:07,120 --> 00:32:08,720
+The liver's got that LDL receptor.
+
+504
+00:32:08,720 --> 00:32:10,080
+It's going to clear you.
+
+505
+00:32:10,080 --> 00:32:12,320
+And that LDL particle raced back to the liver.
+
+506
+00:32:12,320 --> 00:32:17,120
+And for some reason, there was no LDL receptors, so there weren't enough of them there.
+
+507
+00:32:17,120 --> 00:32:19,060
+Where's that LDL going?
+
+508
+00:32:19,060 --> 00:32:21,600
+He might wind his way back into circulation.
+
+509
+00:32:21,600 --> 00:32:23,640
+He will, because he's not going to be clear.
+
+510
+00:32:23,640 --> 00:32:26,760
+He might wind his way back to endothelium.
+
+511
+00:32:26,760 --> 00:32:31,160
+All of a sudden, your good cholesterol is in the macrophage in your arterial wall.
+
+512
+00:32:31,160 --> 00:32:32,800
+So spare me the nonsense.
+
+513
+00:32:32,800 --> 00:32:34,080
+Stop using its absurd term.
+
+514
+00:32:34,080 --> 00:32:35,800
+It has no meaning.
+
+515
+00:32:35,800 --> 00:32:40,080
+You're mis-educating patients, if you tell them it's good cholesterol, because they use
+
+516
+00:32:40,080 --> 00:32:44,240
+that because they're measuring HDL cholesterol and blood is a marker that I'm in good shape
+
+517
+00:32:44,240 --> 00:32:45,720
+or not.
+
+518
+00:32:45,720 --> 00:32:53,760
+And trust me, virtually all of the early trials that showed low HDL cholesterol was bad news,
+
+519
+00:32:53,760 --> 00:32:57,960
+were never ever adjusted for ApoB or LDL particle counts.
+
+520
+00:32:57,960 --> 00:32:59,920
+Because I'm going to tell you right now.
+
+521
+00:32:59,920 --> 00:33:02,160
+And that includes Framingham, which I alluded to earlier.
+
+522
+00:33:02,160 --> 00:33:03,160
+Yes.
+
+523
+00:33:03,240 --> 00:33:06,760
+A lot of people like to hang their hat on the fact that Framingham, because most people
+
+524
+00:33:06,760 --> 00:33:07,840
+forget what Framingham is.
+
+525
+00:33:07,840 --> 00:33:08,840
+They throw the term around.
+
+526
+00:33:08,840 --> 00:33:11,200
+So let me just spend one minute explaining this.
+
+527
+00:33:11,200 --> 00:33:18,720
+Framingham started out as a five geography, a five city or five region observational study,
+
+528
+00:33:18,720 --> 00:33:20,920
+purely observational, of which Framingham was one.
+
+529
+00:33:20,920 --> 00:33:21,920
+And I used to know them all.
+
+530
+00:33:21,920 --> 00:33:24,600
+No, Framingham is only Framingham, Massachusetts.
+
+531
+00:33:24,600 --> 00:33:29,720
+No, no, no, but the original cohort of that study from NIH was Framingham, Puerto Rico,
+
+532
+00:33:29,720 --> 00:33:31,560
+San Francisco, Hallelujah.
+
+533
+00:33:31,560 --> 00:33:33,560
+Where did Framingham evolve from?
+
+534
+00:33:33,560 --> 00:33:34,560
+That's right.
+
+535
+00:33:34,560 --> 00:33:37,320
+Then there was a five city group here.
+
+536
+00:33:37,320 --> 00:33:39,000
+And that's where they gathered the information.
+
+537
+00:33:39,000 --> 00:33:40,680
+That's where they made the observation.
+
+538
+00:33:40,680 --> 00:33:44,280
+So there was a purely retrospective assessment of five cities.
+
+539
+00:33:44,280 --> 00:33:48,400
+And I'm blanking on the fit, but I think one was Puerto Rico, Honolulu.
+
+540
+00:33:48,400 --> 00:33:50,640
+I'm pretty sure Stanford might have been one.
+
+541
+00:33:50,640 --> 00:33:55,640
+But anyway, the point, but the prospective work was then concentrated in Framingham, Massachusetts.
+
+542
+00:33:55,640 --> 00:34:00,200
+But the point is, a lot of people like to point out that LDL is irrelevant because the
+
+543
+00:34:00,200 --> 00:34:05,120
+LDL cholesterol, which by the way, was calculated, not measured directly.
+
+544
+00:34:05,120 --> 00:34:06,120
+So you've introduced a variability.
+
+545
+00:34:06,120 --> 00:34:08,320
+Years later, not in the first 20 years.
+
+546
+00:34:08,320 --> 00:34:09,320
+Correct.
+
+547
+00:34:09,320 --> 00:34:14,320
+It turned out to be less predictive than the ratio, not the ratio, I'm sorry, the absolute
+
+548
+00:34:14,320 --> 00:34:17,360
+level of HDLC and triglyceride.
+
+549
+00:34:17,360 --> 00:34:20,840
+And a lot of people like to stop at that and say, well, look, that means LDL doesn't matter.
+
+550
+00:34:20,840 --> 00:34:24,760
+What they don't realize is those are two enormous proxies for APOB.
+
+551
+00:34:24,760 --> 00:34:26,160
+That's all they are.
+
+552
+00:34:26,160 --> 00:34:30,800
+And virtually all of your insulin resistant patients are getting atherosclerotic disease.
+
+553
+00:34:30,800 --> 00:34:31,800
+It's APOB.
+
+554
+00:34:31,800 --> 00:34:36,960
+It's LDL particle mediated because everybody who's not on a drug or a serious diet who
+
+555
+00:34:36,960 --> 00:34:42,920
+had a triglyceride HDL cholesterol axis abnormality has astronomical APOB.
+
+556
+00:34:42,920 --> 00:34:49,000
+So if you go back for all this cited forever epidemiologic data, that low HDL cholesterol
+
+557
+00:34:49,000 --> 00:34:54,040
+is such an important risk factor, do me a favor, pal, adjust it for APOB or LDL-P, which
+
+558
+00:34:54,040 --> 00:34:58,680
+has never done and can't be done in those studies now, it would disappear as an independent
+
+559
+00:34:58,680 --> 00:35:00,800
+risk factor or low HDL cholesterol.
+
+560
+00:35:00,800 --> 00:35:02,200
+Well that's certainly the hypothesis.
+
+561
+00:35:02,200 --> 00:35:06,020
+I mean, I guess the question is, does Mesa still have enough blood kicking around to
+
+562
+00:35:06,020 --> 00:35:08,880
+measure that or Framingham offspring?
+
+563
+00:35:08,880 --> 00:35:09,880
+It does.
+
+564
+00:35:09,880 --> 00:35:14,760
+Mesa has certainly shown in the discordant people where there's the discordance with
+
+565
+00:35:14,760 --> 00:35:22,920
+APOB and LDL cholesterol or, and people have low HDL cholesterol, APOB, LDL particle is
+
+566
+00:35:22,920 --> 00:35:24,760
+your most important metric.
+
+567
+00:35:24,760 --> 00:35:25,760
+So Mesa has shown-
+
+568
+00:35:25,760 --> 00:35:29,280
+And Mesa, when we're saying this, by the way, folks, we're not talking Mesa, Arizona.
+
+569
+00:35:29,280 --> 00:35:33,660
+We're talking about the multi-ethnic study of atherosclerosis, which is abbreviated Mesa.
+
+570
+00:35:33,660 --> 00:35:38,380
+So we'll often, you'll often hear people refer to Mesa and Framingham and what they're referring
+
+571
+00:35:38,380 --> 00:35:43,920
+to are enormous studies of atherosclerosis that still have biobanks that are available
+
+572
+00:35:43,920 --> 00:35:48,640
+to do these retrospective analyses on prospectively collected samples.
+
+573
+00:35:48,640 --> 00:35:49,640
+Yeah.
+
+574
+00:35:49,640 --> 00:35:52,200
+And that is much more contemporary and multi-ethnic.
+
+575
+00:35:52,200 --> 00:35:53,200
+So it's-
+
+576
+00:35:53,200 --> 00:35:58,280
+Yeah, because I've got another criticism of Framingham is you've taught me a lot about
+
+577
+00:35:58,280 --> 00:35:59,280
+middle-class white people in-
+
+578
+00:35:59,280 --> 00:36:00,280
+Boston, right.
+
+579
+00:36:00,280 --> 00:36:01,280
+... the Northeast.
+
+580
+00:36:01,280 --> 00:36:05,080
+But what have you told me about African-American, Hispanic, et cetera?
+
+581
+00:36:05,080 --> 00:36:06,360
+All information is always good.
+
+582
+00:36:06,360 --> 00:36:11,280
+There's always weaknesses with all information or shortcomings or so, but we build stepwise
+
+583
+00:36:11,280 --> 00:36:12,320
+on it.
+
+584
+00:36:12,320 --> 00:36:20,680
+So before you declare, make any statements based on an HDL metric, please make sure you
+
+585
+00:36:20,680 --> 00:36:26,740
+have an LDL particle or APL B metric in front of you also, and pretty much base what you're
+
+586
+00:36:26,740 --> 00:36:30,360
+going to advise a patient on risk and assessment based on-
+
+587
+00:36:30,360 --> 00:36:34,240
+So one of the most amazing papers you've ever sent me, and this was actually kind of recent.
+
+588
+00:36:34,240 --> 00:36:39,320
+I feel like this was a year ago, maybe a year and a half ago, was a case study of a woman
+
+589
+00:36:39,320 --> 00:36:46,800
+who had an HDL cholesterol of about 130 to 140 milligrams per deciliter.
+
+590
+00:36:46,800 --> 00:36:51,820
+So for the listener, you just never see levels of HDL like that unless you work in the lipid
+
+591
+00:36:51,820 --> 00:36:56,000
+community or you're a lipidologist, which means I don't see them because I'm not a lipidologist.
+
+592
+00:36:56,000 --> 00:36:57,600
+I just pretend to be one.
+
+593
+00:36:57,600 --> 00:37:01,560
+But the average person, the average female might walk around with an HDL cholesterol
+
+594
+00:37:01,560 --> 00:37:03,360
+of 60 milligrams per deciliter.
+
+595
+00:37:03,360 --> 00:37:06,840
+So this woman is showing up at two and a half times normal.
+
+596
+00:37:06,840 --> 00:37:09,960
+And interestingly, I don't even know you remember this case study, Tom, but if not,
+
+597
+00:37:09,960 --> 00:37:14,420
+I think I remember enough of the details, she had very accelerated atherosclerosis.
+
+598
+00:37:14,420 --> 00:37:20,320
+She did not, by the way, to my recollection, have particularly elevated LDL cholesterol.
+
+599
+00:37:20,320 --> 00:37:26,080
+Her LDL cholesterol was probably about 110 milligrams per deciliter, slightly below her
+
+600
+00:37:26,080 --> 00:37:27,080
+HDL cholesterol.
+
+601
+00:37:27,080 --> 00:37:31,840
+And of course, the question was, why did this woman have elevated atherosclerosis when
+
+602
+00:37:31,840 --> 00:37:38,560
+she had normal amounts of quote unquote the bad cholesterol and two and a half to three
+
+603
+00:37:38,560 --> 00:37:40,640
+times normal good cholesterol?
+
+604
+00:37:40,640 --> 00:37:43,120
+Do you remember this case?
+
+605
+00:37:43,120 --> 00:37:47,320
+Not per se, but it's been well explained.
+
+606
+00:37:47,320 --> 00:37:52,800
+And this is a rare genetic thing where this cholesterol trafficking pattern is disrupted
+
+607
+00:37:52,800 --> 00:37:54,080
+in certain ways.
+
+608
+00:37:54,080 --> 00:37:57,680
+Something's wrong with that pathway because that HDL should be getting rid of its cholesterol
+
+609
+00:37:57,680 --> 00:37:59,600
+and it should be bringing blood back someplace.
+
+610
+00:37:59,600 --> 00:38:06,600
+So this person would have to have incredibly massive HDL particles that are carrying way
+
+611
+00:38:06,600 --> 00:38:11,800
+more cholesterol particles per HDL particle than it should be.
+
+612
+00:38:11,800 --> 00:38:15,160
+And it turns out, and they're not being cleared as much as they should.
+
+613
+00:38:15,160 --> 00:38:22,080
+So this is going to turn out to be cholesterol rich HDL particles that don't have a protein
+
+614
+00:38:22,080 --> 00:38:26,200
+that's very integral with clearing HDLs and say PoE again.
+
+615
+00:38:26,200 --> 00:38:30,960
+So if you don't have a PoE on your HDLs, they might become very cholesterol rich.
+
+616
+00:38:30,960 --> 00:38:32,720
+Your HDL cholesterol is through the roof.
+
+617
+00:38:32,720 --> 00:38:35,520
+Those are incredibly dysfunctional HDLs.
+
+618
+00:38:35,520 --> 00:38:39,800
+And part of their dysfunction is they're probably carrying the wrong type of phospholipids and
+
+619
+00:38:39,800 --> 00:38:44,120
+are not carrying the type of protective proteins that an HDL should be carrying.
+
+620
+00:38:44,120 --> 00:38:48,760
+Because when you have a surface area that's that big, the proteins that should be binding
+
+621
+00:38:48,760 --> 00:38:52,960
+to it no longer bind because it's not, they're looking for the molecules they're supposed
+
+622
+00:38:52,960 --> 00:38:56,120
+to covalently bind to and they can't find it or so.
+
+623
+00:38:56,120 --> 00:38:59,280
+So that's a circumstance of very dysfunctional HDL.
+
+624
+00:38:59,280 --> 00:39:03,280
+And now I remember the context, which was a really good friend of mine from med school
+
+625
+00:39:03,280 --> 00:39:08,960
+sent me a friend of a friend's blood and the numbers were like that.
+
+626
+00:39:08,960 --> 00:39:12,360
+And I remember reaching out to you saying, this is odd, Tom, what do you make of this?
+
+627
+00:39:12,360 --> 00:39:14,080
+You sent me the case study.
+
+628
+00:39:14,080 --> 00:39:17,120
+There's really nothing to do to treat these people except lower APOB, right?
+
+629
+00:39:17,120 --> 00:39:18,480
+You just have to chase.
+
+630
+00:39:18,480 --> 00:39:20,760
+It's sort of like, what do we do for LP little A nowadays?
+
+631
+00:39:20,760 --> 00:39:24,480
+You chase every other identifiable cardiovascular risk factor.
+
+632
+00:39:24,480 --> 00:39:31,240
+And I remember saying, nobody would do it to her, but there is a product that induces
+
+633
+00:39:31,240 --> 00:39:35,120
+a receptor in the liver that pulls cholesterol out of HDL particles.
+
+634
+00:39:35,120 --> 00:39:37,960
+It's a, was I called probucal.
+
+635
+00:39:37,960 --> 00:39:40,920
+I don't know if it's even still available by prescription.
+
+636
+00:39:40,920 --> 00:39:46,160
+It induces the scavenger receptor drastically lowers HDL, but it's a powerful antioxidant.
+
+637
+00:39:46,160 --> 00:39:50,320
+And there were some early arteriographic studies that suggested this is good.
+
+638
+00:39:50,320 --> 00:39:53,720
+Studies at least on an arterial imaging look better.
+
+639
+00:39:53,720 --> 00:39:55,600
+So say, saw or Milan.
+
+640
+00:39:55,600 --> 00:40:00,560
+I'm sorry, just to be clear, the reason why, I mean, again, there's a 217 ways to be fooled
+
+641
+00:40:00,560 --> 00:40:01,640
+by an angiogram.
+
+642
+00:40:01,640 --> 00:40:06,640
+It's about as crude a way to assess this process as anything that said, if you believe that
+
+643
+00:40:06,640 --> 00:40:12,160
+this is improving, you believe it's basically increasing the throughput of HDL to D lipidate.
+
+644
+00:40:12,160 --> 00:40:13,160
+Yeah.
+
+645
+00:40:13,160 --> 00:40:15,200
+So the theory would be, uh-huh.
+
+646
+00:40:15,200 --> 00:40:21,080
+This is the case where, hey, remember I espoused the theory before that if HDLs are really
+
+647
+00:40:21,080 --> 00:40:24,560
+delivering cholesterol back to the liver, shouldn't HDL cholesterol be going down?
+
+648
+00:40:24,560 --> 00:40:31,400
+Well, here's a drug that depletes HDL cholesterol and at least arteriographically people look
+
+649
+00:40:31,400 --> 00:40:32,400
+better.
+
+650
+00:40:32,400 --> 00:40:37,680
+We now have identified a gene that regulates the functioning of the scavenger receptor.
+
+651
+00:40:37,680 --> 00:40:43,280
+So if you have an inactivity of that scavenger receptor, you have very big HDL particles,
+
+652
+00:40:43,280 --> 00:40:46,560
+high HDL cholesterol and coronary atherosclerosis.
+
+653
+00:40:46,560 --> 00:40:48,320
+This is a nice transition.
+
+654
+00:40:48,320 --> 00:40:49,840
+So let's summarize that.
+
+655
+00:40:49,840 --> 00:40:51,880
+This is, again, overly simplistic.
+
+656
+00:40:51,880 --> 00:40:54,040
+This is a zeroth order analysis.
+
+657
+00:40:54,040 --> 00:40:57,960
+So we're just going to put our fourth grade hats on, which is acceptable for limited periods
+
+658
+00:40:57,960 --> 00:40:59,520
+of time.
+
+659
+00:40:59,520 --> 00:41:06,960
+If you have low HDLC, you cannot infer if it's low because you're failing to quote unquote
+
+660
+00:41:06,960 --> 00:41:10,400
+pick up cholesterol or because you're delivering it quickly.
+
+661
+00:41:10,400 --> 00:41:11,400
+You don't know.
+
+662
+00:41:11,400 --> 00:41:17,040
+Conversely, or similarly, I should say, if you have high HDLC, it is not clear if it
+
+663
+00:41:17,040 --> 00:41:22,840
+is high because you pick up a lot, which in theory would be quote unquote good, or because
+
+664
+00:41:22,840 --> 00:41:26,880
+you're deficient at dropping it off, which would be quote unquote bad.
+
+665
+00:41:26,880 --> 00:41:33,000
+And therein lies perhaps one of the most interesting or certainly top five interesting drug stories,
+
+666
+00:41:33,000 --> 00:41:34,000
+which are the CTEP inhibitors.
+
+667
+00:41:34,000 --> 00:41:35,000
+Right.
+
+668
+00:41:35,000 --> 00:41:37,840
+And again, I'm just going to do it because I just want to finish this whole.
+
+669
+00:41:37,840 --> 00:41:39,640
+So I told you HDL has this-
+
+670
+00:41:39,640 --> 00:41:40,640
+APOD.
+
+671
+00:41:40,880 --> 00:41:47,160
+But APOD is better known as cholesterol ester transfer protein.
+
+672
+00:41:47,160 --> 00:41:52,120
+It really ought to be called cholesterol ester triglyceride transfer protein.
+
+673
+00:41:52,120 --> 00:41:54,240
+C E T P.
+
+674
+00:41:54,240 --> 00:41:59,680
+So we're going to talk about a CTEP inhibitor in a moment because it's going to stop that
+
+675
+00:41:59,680 --> 00:42:00,680
+process.
+
+676
+00:42:00,680 --> 00:42:03,400
+The lipoproteins can't exchange the particles anymore.
+
+677
+00:42:03,400 --> 00:42:04,940
+Now wait a minute.
+
+678
+00:42:04,940 --> 00:42:09,560
+If you're following me so far, and HDL, which is pulling cholesterol out of cells, it's
+
+679
+00:42:09,560 --> 00:42:15,440
+really good at that, is then transferring a lot of that cholesterol to LDLs.
+
+680
+00:42:15,440 --> 00:42:17,340
+Here's something that's going to shock you.
+
+681
+00:42:17,340 --> 00:42:23,860
+In an average person, anywhere from 30 to 60% of the cholesterol in that LDL particle
+
+682
+00:42:23,860 --> 00:42:27,640
+arrived via an HDL particle.
+
+683
+00:42:27,640 --> 00:42:36,640
+So if that LDL particle will accept that cholesterol from an HDL and race it back to the liver,
+
+684
+00:42:36,640 --> 00:42:38,120
+thank you LDL.
+
+685
+00:42:38,140 --> 00:42:41,800
+It's like the HDL was a quarterback, it passed it to the tight end, we ran it across the
+
+686
+00:42:41,800 --> 00:42:42,800
+goal line.
+
+687
+00:42:42,800 --> 00:42:46,000
+Who gets the credit, the quarterback or the tight end or both of them?
+
+688
+00:42:46,000 --> 00:42:51,740
+So in the lipid transportation system, they work harmoniously together if everything works,
+
+689
+00:42:51,740 --> 00:42:55,100
+including the lipid transfer proteins.
+
+690
+00:42:55,100 --> 00:43:00,140
+We're not going to talk about it today, but God also gave us lipid inhibitory transfer
+
+691
+00:43:00,140 --> 00:43:03,760
+proteins, apolipoprotein, FAPO, C1.
+
+692
+00:43:03,760 --> 00:43:07,680
+So everything is tightly regulated in our homeostatic system.
+
+693
+00:43:07,720 --> 00:43:09,120
+But we'll leave that for another day.
+
+694
+00:43:09,120 --> 00:43:13,560
+Yeah, so if this is the master's class on lipid, that will be the whatever falls above
+
+695
+00:43:13,560 --> 00:43:14,560
+a master.
+
+696
+00:43:14,560 --> 00:43:16,640
+So it's always more complicated.
+
+697
+00:43:16,640 --> 00:43:21,560
+So now just to finish up the definitions of a reverse cholesterol transport, all day is
+
+698
+00:43:21,560 --> 00:43:22,940
+HDL back to the liver.
+
+699
+00:43:22,940 --> 00:43:29,800
+Nowadays it's HDL gets cholesterol from wherever.
+
+700
+00:43:29,800 --> 00:43:34,040
+If things go right, it could bring it back to either the liver or the small intestine
+
+701
+00:43:34,040 --> 00:43:38,960
+or an adrenal gland or an ovary or a testis.
+
+702
+00:43:38,960 --> 00:43:44,360
+So that's going to be called direct because the HDL is doing it.
+
+703
+00:43:44,360 --> 00:43:49,240
+And we're saying he's the primary factor here because he does pull cholesterol out of the
+
+704
+00:43:49,240 --> 00:43:50,400
+cells.
+
+705
+00:43:50,400 --> 00:43:58,040
+But we now also know that HDL can give its cholesterol to an LDL, to a VLDL, to a chylomicron,
+
+706
+00:43:58,040 --> 00:43:59,640
+to an IDL.
+
+707
+00:43:59,640 --> 00:44:01,040
+It's most of them are LDLs.
+
+708
+00:44:01,040 --> 00:44:03,400
+It's giving most of it to an LDL.
+
+709
+00:44:03,400 --> 00:44:05,160
+And they can bring that cholesterol.
+
+710
+00:44:05,160 --> 00:44:10,120
+They're going to be cleared at the liver if you have the proper number of LDL receptors.
+
+711
+00:44:10,120 --> 00:44:16,800
+Hey, so if an HDL gives its cholesterol to an APOB particle, it brings it back to the
+
+712
+00:44:16,800 --> 00:44:18,280
+liver.
+
+713
+00:44:18,280 --> 00:44:22,280
+That is called indirect reverse cholesterol transport.
+
+714
+00:44:22,280 --> 00:44:27,720
+We're still debating can an LDL bring it back to the small intestine also for a while.
+
+715
+00:44:27,720 --> 00:44:28,720
+That was yes.
+
+716
+00:44:28,720 --> 00:44:30,040
+That was probably not.
+
+717
+00:44:30,040 --> 00:44:33,160
+Now it's back to a probably yes again.
+
+718
+00:44:33,160 --> 00:44:39,920
+But if an LDL brings it back to the liver for sure and the intestine, then that's indirect
+
+719
+00:44:39,920 --> 00:44:45,160
+cholesterol, reverse cholesterol transport if you still need the reverse adjective put
+
+720
+00:44:45,160 --> 00:44:46,960
+in there or so.
+
+721
+00:44:46,960 --> 00:44:49,920
+But part of that pathway is it's not the liver.
+
+722
+00:44:49,920 --> 00:44:53,400
+It's the intestine, the trans-intestinal cholesterol efflux.
+
+723
+00:44:53,400 --> 00:44:57,520
+So if you want to talk about total reverse cholesterol transport, I would rather just
+
+724
+00:44:57,520 --> 00:44:59,440
+talk about lipid transport.
+
+725
+00:44:59,440 --> 00:45:03,000
+It's every particle is part of the system.
+
+726
+00:45:03,000 --> 00:45:08,840
+But if you want to stick with reverse cholesterol transport, total RCT is the sum of indirect
+
+727
+00:45:08,840 --> 00:45:10,720
+plus direct.
+
+728
+00:45:10,720 --> 00:45:15,360
+And both direct and indirect involve the liver and the intestine.
+
+729
+00:45:15,360 --> 00:45:20,720
+And a serum HDL cholesterol tells you nada about that process.
+
+730
+00:45:20,720 --> 00:45:24,960
+Yeah, we may or may not have time to get into this, but yesterday over dinner we talked
+
+731
+00:45:24,960 --> 00:45:30,320
+about the futility or the challenges maybe is a better way of saying it to be a little
+
+732
+00:45:30,320 --> 00:45:31,640
+more optimistic.
+
+733
+00:45:31,640 --> 00:45:36,680
+But the challenges in coming up with HDL functional assays because once you get deep enough into
+
+734
+00:45:36,680 --> 00:45:42,480
+this topic, as we're getting now, you very quickly start to realize that to measure HDL
+
+735
+00:45:42,480 --> 00:45:50,600
+cholesterol or even HDL particle number is so crude in terms of providing an insight
+
+736
+00:45:50,600 --> 00:45:53,440
+into its functional status.
+
+737
+00:45:53,440 --> 00:45:58,520
+The best we can do today is we measure HDL cholesterol, HDL particle number, and HDL
+
+738
+00:45:58,520 --> 00:45:59,720
+particle size.
+
+739
+00:45:59,720 --> 00:46:05,480
+And we try to triangulate just as we used to when we could look at LPa mass and LPa
+
+740
+00:46:05,480 --> 00:46:06,480
+cholesterol.
+
+741
+00:46:06,480 --> 00:46:09,620
+We could sort of triangulate if we were in the zone.
+
+742
+00:46:09,620 --> 00:46:10,840
+But that's still not the answer.
+
+743
+00:46:10,840 --> 00:46:13,320
+I mean, that just doesn't tell us how well these things function.
+
+744
+00:46:13,320 --> 00:46:18,440
+We just need more specific biomarkers nowadays to take it to the next level and the types
+
+745
+00:46:18,440 --> 00:46:20,000
+of therapies that are coming along.
+
+746
+00:46:20,000 --> 00:46:23,760
+And I think that's even important knowledge to know when you're going to prescribe a
+
+747
+00:46:23,760 --> 00:46:30,040
+specific nutritional therapy also that all these things come into play.
+
+748
+00:46:30,040 --> 00:46:34,240
+So very important to understand this stuff, but I hope you can see how this world has
+
+749
+00:46:34,240 --> 00:46:38,480
+changed and we ought to stop using even the term reverse cholesterol transport.
+
+750
+00:46:38,480 --> 00:46:39,480
+It's idiotic.
+
+751
+00:46:39,480 --> 00:46:40,520
+It's so immensely complex.
+
+752
+00:46:40,520 --> 00:46:45,640
+You don't know what you're talking about and you have no biomarker that you can evaluate
+
+753
+00:46:45,640 --> 00:46:47,680
+that on the given patient.
+
+754
+00:46:47,680 --> 00:46:52,160
+And the functionality of these particles, like do they really participate in these pathways
+
+755
+00:46:52,160 --> 00:46:57,360
+or not, are determined in large part by their phospholipid content in the proteins that
+
+756
+00:46:57,360 --> 00:47:01,960
+are on these surfaces apart from just the APOD we talked about.
+
+757
+00:47:01,960 --> 00:47:08,240
+And with HDLs, just briefly, I think there is probably hundreds of HDL subpopulations.
+
+758
+00:47:08,240 --> 00:47:14,240
+HDLs carry an immense number of proteins, way more than LDLs or VLDLs ever can.
+
+759
+00:47:14,240 --> 00:47:16,240
+But they all can carry one or two proteins.
+
+760
+00:47:16,240 --> 00:47:21,120
+They can't carry 200 proteins that have been identified as coming from HDLs.
+
+761
+00:47:21,120 --> 00:47:26,080
+So it's probably the protein signature of an HDL or even the phospholipid makeup, the
+
+762
+00:47:26,080 --> 00:47:28,400
+lipidome of an HDL.
+
+763
+00:47:28,400 --> 00:47:32,140
+We have just like, you know, I love fire departments.
+
+764
+00:47:32,140 --> 00:47:34,160
+Fire departments have hoke and ladder trucks.
+
+765
+00:47:34,160 --> 00:47:35,400
+They have pumper trucks.
+
+766
+00:47:35,400 --> 00:47:37,360
+They have hazmat trucks.
+
+767
+00:47:37,360 --> 00:47:40,040
+They got a variety of rescue vehicles nowadays.
+
+768
+00:47:40,040 --> 00:47:45,960
+They got ambulances, rescue trucks, and they don't all show up at every fire.
+
+769
+00:47:45,960 --> 00:47:50,280
+The dispatch sends the trucks that are needed to specific types of fires.
+
+770
+00:47:50,280 --> 00:47:55,400
+Well, your HDL subpopulations show up where they're needed and they know where they're
+
+771
+00:47:55,400 --> 00:48:00,440
+needed because the cells that need them recognize the proteins or the phospholipids that are
+
+772
+00:48:00,440 --> 00:48:02,000
+on their surface and pull them in.
+
+773
+00:48:02,000 --> 00:48:07,360
+So I don't know when it's going to come down to lipidomic or proteomic analysis of these
+
+774
+00:48:07,360 --> 00:48:08,360
+particles.
+
+775
+00:48:08,360 --> 00:48:12,440
+I think that maybe will take us to the next level and wouldn't hold your breath on that
+
+776
+00:48:12,440 --> 00:48:13,440
+anytime soon.
+
+777
+00:48:13,600 --> 00:48:14,100
+All right.
+
+778
+00:48:14,100 --> 00:48:17,800
+So let's go back to this idea of, because I want to start talking a little bit about
+
+779
+00:48:17,800 --> 00:48:24,100
+some drugs, but rather than start chronologically, which I want to do after we get to this question,
+
+780
+00:48:24,100 --> 00:48:30,200
+but just because while we're on HDL, there are really two drugs that have been discussed
+
+781
+00:48:30,200 --> 00:48:35,200
+as ways to quote unquote raise HDL, one being niacin, which we'll come to later on, but
+
+782
+00:48:35,200 --> 00:48:38,600
+the other being these CTEP inhibitors, which are relatively recent.
+
+783
+00:48:38,600 --> 00:48:46,800
+It was 2006 when the first CTEP trial, or at least when the first data became available,
+
+784
+00:48:46,800 --> 00:48:48,160
+and they weren't promising.
+
+785
+00:48:48,160 --> 00:48:53,280
+So first of all, why would inhibition of CTEP been thought to be an optimal strategy?
+
+786
+00:48:53,280 --> 00:48:56,880
+And two, why do you think it didn't turn out that way?
+
+787
+00:48:56,880 --> 00:49:01,560
+Because we don't know what we're doing with HDLs and especially using metrics to analyze
+
+788
+00:49:01,560 --> 00:49:02,560
+them.
+
+789
+00:49:02,560 --> 00:49:07,840
+And the story starts a lot longer than that in Italy, that little section up on Northeastern
+
+790
+00:49:07,840 --> 00:49:13,640
+Italy where ApoA1 Milano was discovered, and these were people who had HDL cholesterol
+
+791
+00:49:13,640 --> 00:49:18,240
+levels of five and 10, and yet had longevity.
+
+792
+00:49:18,240 --> 00:49:19,880
+And how could that possibly be?
+
+793
+00:49:19,880 --> 00:49:23,560
+Because Framingham has taught us low HDL cholesterol, you're out of here.
+
+794
+00:49:23,560 --> 00:49:25,360
+And yet here's where people with longevity.
+
+795
+00:49:25,360 --> 00:49:31,840
+And it turns out they had a very functional ApoA1 that really did the flux system very
+
+796
+00:49:31,840 --> 00:49:36,280
+quickly or had other properties that didn't matter how much cholesterol was in the HDL.
+
+797
+00:49:36,280 --> 00:49:38,600
+The HDL was unbelievably functional.
+
+798
+00:49:38,600 --> 00:49:40,840
+Do you know anything about their ApoBs?
+
+799
+00:49:40,840 --> 00:49:45,120
+I think even if they have high ApoB, they don't get, I don't know that, they're probably
+
+800
+00:49:45,120 --> 00:49:46,960
+out there, I can't answer that often.
+
+801
+00:49:46,960 --> 00:49:48,600
+Maybe we'll look that up if we can.
+
+802
+00:49:48,600 --> 00:49:51,920
+But their high functioning ApoA seems to protect them.
+
+803
+00:49:51,920 --> 00:49:56,600
+I doubt if ApoB matters because some of them probably would.
+
+804
+00:49:56,600 --> 00:50:00,480
+Although their role on that Mediterranean died and stuff, so maybe they don't have that
+
+805
+00:50:00,480 --> 00:50:01,480
+for a general part.
+
+806
+00:50:01,480 --> 00:50:02,880
+So I can't answer that.
+
+807
+00:50:02,880 --> 00:50:10,920
+So that led pharma to, hey, let's just invent either synthesized ApoA1 or a truncated ApoA1
+
+808
+00:50:10,920 --> 00:50:13,440
+and commercialize that.
+
+809
+00:50:13,440 --> 00:50:16,440
+At least for people who had acute coronary syndromes, we'll infuse that into them.
+
+810
+00:50:16,440 --> 00:50:18,960
+It'll de-lipidate their plaque and home free.
+
+811
+00:50:18,960 --> 00:50:23,000
+Every single trial failed, including a very recent trial.
+
+812
+00:50:23,000 --> 00:50:28,080
+So there's one where they got a specially protective type of HDL, but they couldn't
+
+813
+00:50:28,080 --> 00:50:30,280
+reproduce it, whatever it is.
+
+814
+00:50:30,280 --> 00:50:31,600
+So that failed.
+
+815
+00:50:31,640 --> 00:50:37,280
+So there were people in the past that Peter talked about, he gave a case where a woman
+
+816
+00:50:37,280 --> 00:50:41,120
+had very high HDL cholesterol but had coronary atherosclerosis.
+
+817
+00:50:41,120 --> 00:50:44,640
+But there is a bunch of people out there with very high HDL cholesterol who don't have
+
+818
+00:50:44,640 --> 00:50:48,880
+coronary, I'm going to theorize in retrospect, maybe ApoE's got something to do with that,
+
+819
+00:50:48,880 --> 00:50:52,480
+but I don't know that because that would enhance their clearing.
+
+820
+00:50:52,480 --> 00:50:57,320
+But what is one of the genetic conditions that would give you high HDL cholesterol?
+
+821
+00:50:57,320 --> 00:51:02,040
+Remember I just taught you what ApoD is, CETP, CETEP.
+
+822
+00:51:02,040 --> 00:51:06,120
+It takes the cholesterol out of your HDL and gives it to an ApoB particle.
+
+823
+00:51:06,120 --> 00:51:08,800
+So theoretically that would lower your HDL cholesterol.
+
+824
+00:51:08,800 --> 00:51:13,720
+But if I inhibited CETEP, your HDL would get the key ball, it's cholesterol.
+
+825
+00:51:13,720 --> 00:51:14,720
+What would go through the roof?
+
+826
+00:51:14,720 --> 00:51:15,720
+Your HDL cholesterol.
+
+827
+00:51:15,720 --> 00:51:21,840
+And the genetic model was at least some people with certain CETP variants had very high HDL
+
+828
+00:51:21,840 --> 00:51:25,240
+cholesterol and they didn't seem to get much heart disease.
+
+829
+00:51:25,240 --> 00:51:33,400
+Although what I'm confused by, Tom, is that in 2011-ish, didn't a Mendelian randomization
+
+830
+00:51:33,400 --> 00:51:34,960
+look at this and conclude?
+
+831
+00:51:34,960 --> 00:51:40,120
+Now this was long after these drugs were in the pipeline, but didn't the MR suggest that
+
+832
+00:51:40,120 --> 00:51:42,120
+those people were not better off?
+
+833
+00:51:42,120 --> 00:51:45,080
+It's a nature paper and we'll pull it.
+
+834
+00:51:45,080 --> 00:51:49,480
+CETP and the investigation of these drugs were long before the Mendelian randomization.
+
+835
+00:51:49,480 --> 00:51:50,800
+Absolutely, yeah, yeah, yeah.
+
+836
+00:51:50,800 --> 00:51:56,880
+So they didn't have that data that Mendelian randomization shows not necessarily so that
+
+837
+00:51:56,880 --> 00:52:00,960
+with high HDL cholesterol you're protected, whereas nowadays most of that data would show
+
+838
+00:52:00,960 --> 00:52:01,960
+it's not.
+
+839
+00:52:01,960 --> 00:52:02,960
+Yeah, yeah.
+
+840
+00:52:02,960 --> 00:52:09,080
+My recollection is that the MR came out in 2010-2011 and it basically validated what
+
+841
+00:52:09,080 --> 00:52:14,840
+had at the time been seen in two trials, which was, wow, inhibit CETEP, things don't get
+
+842
+00:52:14,840 --> 00:52:15,840
+better.
+
+843
+00:52:15,840 --> 00:52:16,840
+Well, yeah.
+
+844
+00:52:16,840 --> 00:52:19,840
+So I think Mendelian randomization, had they had that data first, they would have never
+
+845
+00:52:19,880 --> 00:52:24,960
+investigated these drugs, which is why they did chase PCSK9 inhibitors because the genetic
+
+846
+00:52:24,960 --> 00:52:28,680
+model told them this can't fail unless there's a downside to the drug that we don't know
+
+847
+00:52:28,680 --> 00:52:29,680
+about.
+
+848
+00:52:29,680 --> 00:52:32,680
+That's always a problem with a drug that's going to change a gene.
+
+849
+00:52:32,680 --> 00:52:37,240
+It may do good to a marker and do bad to some other marker you're not smart enough to know
+
+850
+00:52:37,240 --> 00:52:38,240
+about yet.
+
+851
+00:52:38,240 --> 00:52:40,600
+Oh, I can't wait until we're going to talk about PCSK9.
+
+852
+00:52:40,600 --> 00:52:46,520
+So let's inhibit CETP, the HDLs get to keep all their cholesterol, HDL cholesterol straight
+
+853
+00:52:46,520 --> 00:52:47,520
+on the roof.
+
+854
+00:52:47,520 --> 00:52:48,520
+That's good, epidemiologically, right?
+
+855
+00:52:48,520 --> 00:52:53,560
+Except on first principles, it doesn't even make sense in light of what you just told
+
+856
+00:52:53,560 --> 00:52:54,560
+us.
+
+857
+00:52:54,560 --> 00:52:55,560
+No, but they didn't know that then either.
+
+858
+00:52:55,560 --> 00:52:58,280
+Remember, this whole HDL story has evolved too.
+
+859
+00:52:58,280 --> 00:52:59,280
+Oh, wait.
+
+860
+00:52:59,280 --> 00:53:00,280
+So that's interesting.
+
+861
+00:53:00,280 --> 00:53:01,280
+I don't think I understood that.
+
+862
+00:53:01,280 --> 00:53:02,880
+And so I should give them more credit.
+
+863
+00:53:02,880 --> 00:53:05,320
+Are you saying that it absolutely was not known?
+
+864
+00:53:05,320 --> 00:53:06,920
+No, there was theories on it.
+
+865
+00:53:06,920 --> 00:53:11,160
+Guys like Dan Rader was always talking about it, but you don't know how much you're interrupting
+
+866
+00:53:11,160 --> 00:53:13,600
+the system with that and everything.
+
+867
+00:53:13,600 --> 00:53:20,280
+You know, they're so heavily focused on basic lipid biomarkers like LDL cholesterol and
+
+868
+00:53:20,280 --> 00:53:21,280
+HDL cholesterol.
+
+869
+00:53:21,280 --> 00:53:22,280
+And HDL, HDL, good.
+
+870
+00:53:22,280 --> 00:53:23,920
+And it's the same denisin story.
+
+871
+00:53:23,920 --> 00:53:24,920
+How could it not work?
+
+872
+00:53:24,920 --> 00:53:28,840
+It raises HDL cholesterol and turns out nisin doesn't work if you want to take legitimate
+
+873
+00:53:28,840 --> 00:53:31,320
+trials to show it works.
+
+874
+00:53:31,320 --> 00:53:36,320
+And is there a price for using niacin even if you don't believe the legitimate trials?
+
+875
+00:53:36,320 --> 00:53:38,640
+So that's another story which we'll probably get into.
+
+876
+00:53:38,640 --> 00:53:42,160
+We will definitely get into that because this is one area where your peers will argue with
+
+877
+00:53:42,160 --> 00:53:43,160
+you.
+
+878
+00:53:43,160 --> 00:53:44,400
+But many will not.
+
+879
+00:53:44,400 --> 00:53:46,840
+Other than all rights, I've tried everything else.
+
+880
+00:53:46,840 --> 00:53:47,840
+Nothing else has worked.
+
+881
+00:53:47,840 --> 00:53:51,280
+Let me, and look, I'm a guy who took niacin myself for a bunch of years.
+
+882
+00:53:51,280 --> 00:53:56,840
+So before I knew what I knew now, and it didn't unfortunately work for me anyway.
+
+883
+00:53:56,840 --> 00:54:01,560
+So this CETP, it's going to raise HDL cholesterol.
+
+884
+00:54:01,560 --> 00:54:06,040
+But how much it raises, it really depends on the potency of the CETP inhibitor.
+
+885
+00:54:06,040 --> 00:54:08,260
+And there are different degrees of CETP inhibition.
+
+886
+00:54:08,260 --> 00:54:11,520
+We have weak inhibitors and we have super strong inhibitors.
+
+887
+00:54:11,520 --> 00:54:16,520
+The first one that came out, Pfizer had developed a drug that inhibited, thought it was going
+
+888
+00:54:16,520 --> 00:54:21,000
+to be a multi-billion dollar drug because it raised HDL cholesterol.
+
+889
+00:54:21,000 --> 00:54:26,040
+Pfizer and many other companies already proved lowering APL, LDL cholesterol works.
+
+890
+00:54:26,040 --> 00:54:27,680
+It really works well.
+
+891
+00:54:27,680 --> 00:54:32,680
+Imagine if we can take those people with residual risk because their HDL cholesterol is still
+
+892
+00:54:32,680 --> 00:54:35,760
+low and we could raise their HDL cholesterol.
+
+893
+00:54:35,760 --> 00:54:40,000
+That niacin angiographic trial would really support doing that.
+
+894
+00:54:40,080 --> 00:54:41,220
+Okay.
+
+895
+00:54:41,220 --> 00:54:45,500
+So they said, let's inhibit CETP and raise HDL cholesterol.
+
+896
+00:54:45,500 --> 00:54:47,240
+So Pfizer went to market.
+
+897
+00:54:47,240 --> 00:54:51,860
+Many people were buying that stock in its infancy, thought they'd make a zillion dollars.
+
+898
+00:54:51,860 --> 00:54:57,340
+I remember where I was standing the moment those results were announced.
+
+899
+00:54:57,340 --> 00:55:01,240
+And it's interesting because I was not at all a lipid guy, but at the time I was working
+
+900
+00:55:01,240 --> 00:55:03,300
+at McKinsey, I was in San Francisco.
+
+901
+00:55:03,300 --> 00:55:09,100
+It was on a September day, a beautiful September day in San Francisco, 2006.
+
+902
+00:55:09,500 --> 00:55:15,300
+I took it as a fait accompli that this drug would work and Pfizer stock was going to skyrocket.
+
+903
+00:55:15,300 --> 00:55:20,380
+Look, we all knew the company of Sperion who developed that.
+
+904
+00:55:20,380 --> 00:55:21,380
+We knew their guys.
+
+905
+00:55:21,380 --> 00:55:22,540
+We had heard them lecture many times.
+
+906
+00:55:22,540 --> 00:55:23,540
+Many the top.
+
+907
+00:55:23,540 --> 00:55:24,860
+Everybody was banking on that.
+
+908
+00:55:24,860 --> 00:55:25,860
+Boy, this is real.
+
+909
+00:55:25,860 --> 00:55:29,740
+I mean, you never know in a clinical trial, but it looked like a slam dunk.
+
+910
+00:55:29,740 --> 00:55:31,100
+It really did.
+
+911
+00:55:31,100 --> 00:55:35,620
+And I remember whenever I found out, I forget the weather that day, but it was late at night.
+
+912
+00:55:35,620 --> 00:55:38,140
+And I think the internet was even.
+
+913
+00:55:38,140 --> 00:55:41,540
+And I saw a little thing and was like eleven thirty at night.
+
+914
+00:55:41,540 --> 00:55:42,860
+I don't even know why I saw it.
+
+915
+00:55:42,860 --> 00:55:45,700
+That Pfizer terminates Torcetropib trial.
+
+916
+00:55:45,700 --> 00:55:48,340
+Well, in fairness, you were actually seeing it in real time.
+
+917
+00:55:48,340 --> 00:55:49,980
+I saw it the next morning.
+
+918
+00:55:49,980 --> 00:55:50,980
+Right.
+
+919
+00:55:50,980 --> 00:55:55,740
+So and look, there was no Twitter and I could call up every lipidologist.
+
+920
+00:55:55,740 --> 00:55:58,180
+I know I emailed a few close buddies.
+
+921
+00:55:58,180 --> 00:56:00,420
+Look at what I just saw.
+
+922
+00:56:00,420 --> 00:56:06,240
+And so they stopped the trial, not because it was harming people.
+
+923
+00:56:06,240 --> 00:56:10,160
+And as it turns out, it looks like that drug had some other properties that screwed up
+
+924
+00:56:10,160 --> 00:56:16,780
+certain electrolytes and other hormonal levels that, OK, no wonder.
+
+925
+00:56:16,780 --> 00:56:22,980
+So we raising H.L. cholesterol, if it's going to bring a downside to the table, goodbye.
+
+926
+00:56:22,980 --> 00:56:25,260
+So Pfizer lost a lot of money in that.
+
+927
+00:56:25,260 --> 00:56:27,860
+But that didn't stop research on the drug.
+
+928
+00:56:27,860 --> 00:56:34,000
+As they developed these other toxicities that maybe were specifically related to that CTEP
+
+929
+00:56:34,000 --> 00:56:39,360
+inhibitor, let's develop better CTEPs inhibitors and go with them.
+
+930
+00:56:39,360 --> 00:56:40,360
+So they did.
+
+931
+00:56:40,360 --> 00:56:43,120
+They came up with a very weak one called Dalcetropib.
+
+932
+00:56:43,120 --> 00:56:44,120
+Who made that?
+
+933
+00:56:44,120 --> 00:56:46,200
+It wasn't Merck because Merck is the third one.
+
+934
+00:56:46,200 --> 00:56:47,200
+So there's someone in between.
+
+935
+00:56:47,200 --> 00:56:48,200
+I keep forgetting.
+
+936
+00:56:48,200 --> 00:56:49,200
+Yeah.
+
+937
+00:56:49,200 --> 00:56:50,200
+Anyway, OK, so we can figure that out.
+
+938
+00:56:50,200 --> 00:56:52,200
+I was confused all these things.
+
+939
+00:56:52,200 --> 00:56:57,360
+I was certainly a bit consulting with them back to and then two other companies.
+
+940
+00:56:57,360 --> 00:57:03,240
+Again, it was Merck and Lilly had super potent CTP inhibitors, but they did all the tests
+
+941
+00:57:03,240 --> 00:57:09,360
+and it didn't have this other toxicity with electrolytes and renin-angiotensin levels
+
+942
+00:57:09,360 --> 00:57:10,600
+and things like that.
+
+943
+00:57:10,600 --> 00:57:12,860
+So maybe this would work.
+
+944
+00:57:12,860 --> 00:57:18,760
+And of course, the stronger your CTEP inhibition, the more you would raise HDL cholesterol.
+
+945
+00:57:18,760 --> 00:57:27,440
+So Dalcetropib raised it 20 to 30 percent, whereas the stronger ones raised it 80, 100
+
+946
+00:57:27,440 --> 00:57:29,340
+percent HDL cholesterol.
+
+947
+00:57:29,340 --> 00:57:35,460
+So the Dalcetropib, they enrolled in acute coronary syndrome, a humongous population,
+
+948
+00:57:35,460 --> 00:57:37,540
+and were doing a randomized trial.
+
+949
+00:57:37,540 --> 00:57:41,580
+And after a few years, they didn't see any downside.
+
+950
+00:57:41,580 --> 00:57:43,900
+They weren't telling anybody or.
+
+951
+00:57:43,900 --> 00:57:46,060
+There was no superiority, no inferiority.
+
+952
+00:57:46,060 --> 00:57:48,300
+Those are very expensive trials.
+
+953
+00:57:48,300 --> 00:57:51,340
+So the bean counters said, it's a futile trial.
+
+954
+00:57:51,340 --> 00:57:52,540
+Forget about it.
+
+955
+00:57:52,540 --> 00:57:53,540
+So Dalcetropib.
+
+956
+00:57:54,420 --> 00:58:00,940
+I think that those trials combined with the MR have put an end to this approach to lipid
+
+957
+00:58:00,940 --> 00:58:01,940
+modulation.
+
+958
+00:58:01,940 --> 00:58:02,940
+They did.
+
+959
+00:58:02,940 --> 00:58:06,980
+And the two other companies, though, said, well, it's a weak CTEP inhibitor.
+
+960
+00:58:06,980 --> 00:58:07,980
+We're potent.
+
+961
+00:58:07,980 --> 00:58:08,980
+So we're going to continue.
+
+962
+00:58:08,980 --> 00:58:10,420
+Our trials are well on their way, too.
+
+963
+00:58:10,420 --> 00:58:16,580
+So with anacetropib and evacetropib, the remaining things, they did them.
+
+964
+00:58:16,580 --> 00:58:20,260
+And sooner or later, Lilly just bailed on their trial.
+
+965
+00:58:20,260 --> 00:58:21,260
+More futility.
+
+966
+00:58:21,260 --> 00:58:22,260
+They weren't going to take it up.
+
+967
+00:58:22,260 --> 00:58:23,780
+Merck continued their trial.
+
+968
+00:58:23,780 --> 00:58:30,980
+So Lilly, with a potent evacetropib, was seeing not only drastic raisings in HDL cholesterol
+
+969
+00:58:30,980 --> 00:58:33,340
+but LDL cholesterol.
+
+970
+00:58:33,340 --> 00:58:36,500
+But PCSK9 inhibitors are starting to appear.
+
+971
+00:58:36,500 --> 00:58:42,100
+But nobody's going to ever prescribe this drug based on what it does to LDL cholesterol.
+
+972
+00:58:42,100 --> 00:58:47,060
+And we're not so convinced that raising HDL cholesterol matters anymore.
+
+973
+00:58:47,060 --> 00:58:49,540
+And they're really thinking with some futility.
+
+974
+00:58:49,540 --> 00:58:51,580
+So they bailed on their trial, too.
+
+975
+00:58:51,580 --> 00:58:52,780
+People think they should have.
+
+976
+00:58:52,780 --> 00:58:55,420
+Some people wish they would have continued that trial.
+
+977
+00:58:55,420 --> 00:58:56,660
+But Merck did continue.
+
+978
+00:58:56,660 --> 00:58:58,260
+And Merck did hit its endpoint.
+
+979
+00:58:58,260 --> 00:59:00,660
+It did reduce coronary events.
+
+980
+00:59:00,660 --> 00:59:03,260
+It did drastically raise HDL cholesterol.
+
+981
+00:59:03,260 --> 00:59:06,160
+But it dramatically lowered APOB also.
+
+982
+00:59:06,160 --> 00:59:11,220
+So the theory came to be what a CTEP inhibitor does to the metric HDL cholesterol has nothing
+
+983
+00:59:11,220 --> 00:59:12,740
+to do with anything.
+
+984
+00:59:12,740 --> 00:59:15,900
+But if it can lower APOB, it works.
+
+985
+00:59:15,900 --> 00:59:18,460
+And the trial was, it worked.
+
+986
+00:59:18,460 --> 00:59:25,180
+But they're not going to bring it to market because it stays in the human body for years.
+
+987
+00:59:25,180 --> 00:59:26,620
+And they just are afraid of that.
+
+988
+00:59:26,620 --> 00:59:28,660
+They have no idea what might show up before.
+
+989
+00:59:28,660 --> 00:59:31,620
+Well, especially when there's no upside relative to what you can do anyway.
+
+990
+00:59:31,620 --> 00:59:34,860
+So we got other things that will give you that type of APOB lowering that seem to be
+
+991
+00:59:34,860 --> 00:59:36,900
+safe and been around.
+
+992
+00:59:36,900 --> 00:59:41,780
+So Merck is not going to commercialize that product, even though it has a successful trial.
+
+993
+00:59:41,780 --> 00:59:47,380
+So if you want to definitively say CTEP inhibition doesn't reduce atherosclerosis, well, it did.
+
+994
+00:59:47,380 --> 00:59:50,100
+But at what price and at what benefit?
+
+995
+00:59:50,100 --> 00:59:54,740
+And we just can do it with some other LDL lowering things coming to the market.
+
+996
+00:59:54,740 --> 00:59:57,460
+It still seems too crude, is the point.
+
+997
+00:59:57,460 --> 01:00:02,460
+It's not entirely clear why one of those drugs is working and why one is not.
+
+998
+01:00:02,460 --> 01:00:09,380
+Because the inhibition of CTEP is, it's interrupting a transfer, but it doesn't actually tell you
+
+999
+01:00:09,380 --> 01:00:11,180
+what happens after the transfer.
+
+1000
+01:00:11,180 --> 01:00:12,180
+And that becomes the problem.
+
+1001
+01:00:12,180 --> 01:00:13,660
+No, it doesn't tell you.
+
+1002
+01:00:13,660 --> 01:00:17,580
+I know some of the primitive HDL function studies they did on it didn't look like they
+
+1003
+01:00:17,580 --> 01:00:21,220
+were screwing up the HDL, but there's immense numbers of HDL function.
+
+1004
+01:00:21,220 --> 01:00:22,740
+You don't know what you're doing.
+
+1005
+01:00:22,740 --> 01:00:27,900
+And if that protein is going to stay in your body forever, what other consequences might
+
+1006
+01:00:27,900 --> 01:00:32,020
+there be long term screwing up of other biological systems or something?
+
+1007
+01:00:32,020 --> 01:00:33,860
+So it couldn't risk that.
+
+1008
+01:00:33,860 --> 01:00:34,860
+Yeah.
+
+1009
+01:00:34,860 --> 01:00:38,980
+Well, kudos to Merck because I think the FDA would have approved it, don't you?
+
+1010
+01:00:38,980 --> 01:00:40,540
+Not with the tissue residual.
+
+1011
+01:00:40,540 --> 01:00:43,300
+So you think the FDA would have denied it based on the...
+
+1012
+01:00:43,300 --> 01:00:44,740
+They had that fear.
+
+1013
+01:00:44,740 --> 01:00:49,180
+And even if they thought they could get it by, their lawyers probably told them...
+
+1014
+01:00:49,180 --> 01:00:52,900
+Well Merck, it's funny, a lot of people don't remember what happened to Merck with the Vioxx.
+
+1015
+01:00:52,900 --> 01:00:53,900
+Sure.
+
+1016
+01:00:53,900 --> 01:00:55,020
+The failure of the black box warning.
+
+1017
+01:00:55,020 --> 01:00:58,660
+And actually, I got to tell you that, that to me is one example of an overreaction too
+
+1018
+01:00:58,660 --> 01:01:02,100
+late versus an appropriate reaction sooner.
+
+1019
+01:01:02,100 --> 01:01:06,540
+So not that I'm a pharma guy and know much about pharma, but Vioxx was an amazing drug.
+
+1020
+01:01:06,540 --> 01:01:09,300
+I mean, 10 times better than the Celebrex ever was.
+
+1021
+01:01:09,300 --> 01:01:12,860
+For the listener who's wondering what we're talking about, Celebrex and Vioxx were the
+
+1022
+01:01:12,860 --> 01:01:17,900
+first two versions of these things called selective COX-2 inhibitors, which were potent
+
+1023
+01:01:17,900 --> 01:01:20,300
+and much more selective anti-inflammatory drugs.
+
+1024
+01:01:20,300 --> 01:01:25,780
+So for people with orthopedic issues, joint pains, things like that, but they don't have
+
+1025
+01:01:25,780 --> 01:01:31,100
+some of the drawbacks you have with using just non-selective inhibitors of cyclooxygenase
+
+1026
+01:01:31,100 --> 01:01:33,500
+such as Advil or Aleve or things like that.
+
+1027
+01:01:33,500 --> 01:01:38,740
+Anyway, to make a long story short, it was about 2001 when they saw a small subset of
+
+1028
+01:01:38,740 --> 01:01:42,940
+patients and turned out those, I think that were hypertensive were having a higher risk
+
+1029
+01:01:42,940 --> 01:01:44,340
+of MI taking Vioxx.
+
+1030
+01:01:44,340 --> 01:01:45,780
+The drug got immediately yanked.
+
+1031
+01:01:45,780 --> 01:01:50,180
+I think it was the best anti-inflammatory COX inhibitor ever out there.
+
+1032
+01:01:50,180 --> 01:01:55,180
+And in reality, I think what emerged after the fact was, hey, the guys at Merck sort
+
+1033
+01:01:55,180 --> 01:01:56,920
+of knew this earlier on.
+
+1034
+01:01:56,920 --> 01:02:01,420
+There was data that suggested there was something going on and instead they should have partitioned
+
+1035
+01:02:01,420 --> 01:02:04,940
+it and said, hey, maybe there's a subset of patients in whom we don't let this drug be
+
+1036
+01:02:04,940 --> 01:02:10,020
+taken because I think a lot of patients got deprived of an amazing drug on the basis of
+
+1037
+01:02:10,020 --> 01:02:11,020
+a few.
+
+1038
+01:02:11,020 --> 01:02:13,380
+So anyway, my guess is Merck's highly sensitive to that stuff.
+
+1039
+01:02:13,380 --> 01:02:14,380
+Sure.
+
+1040
+01:02:14,380 --> 01:02:19,980
+In today's medical legal world, that stuff comes back to haunt those companies.
+
+1041
+01:02:19,980 --> 01:02:26,180
+One person goes south and it's a zillion dollar lawsuit, so it is very, very tough.
+
+1042
+01:02:26,180 --> 01:02:31,060
+And look, it goes back to my young days where we couldn't do anything for MI but suppress
+
+1043
+01:02:31,060 --> 01:02:35,900
+ventricular arrhythmias with any number of grave and all we did was kill people.
+
+1044
+01:02:35,900 --> 01:02:38,260
+Yeah, those things were the most toxic drugs imaginable.
+
+1045
+01:02:38,260 --> 01:02:40,380
+But the VPCs disappeared.
+
+1046
+01:02:40,380 --> 01:02:47,180
+And so today, you got to be careful.
+
+1047
+01:02:47,180 --> 01:02:52,380
+You can find all of this information and more at PeterAttiaMD.com forward slash podcast.
+
+1048
+01:02:52,380 --> 01:02:55,980
+There you'll find the show notes, readings, and links related to this episode.
+
+1049
+01:02:55,980 --> 01:03:00,940
+You can also find my blog and the nerd safari at PeterAttiaMD.com.
+
+1050
+01:03:00,940 --> 01:03:02,660
+That's a nerd safari you ask.
+
+1051
+01:03:02,660 --> 01:03:05,380
+Just click on the link at the top of the site to learn more.
+
+1052
+01:03:05,380 --> 01:03:09,100
+Maybe the simplest thing to do is to sign up for my subjectively non-lame once a week
+
+1053
+01:03:09,100 --> 01:03:12,780
+email where I'll update you on what I've been up to, the most interesting papers I've
+
+1054
+01:03:12,780 --> 01:03:18,100
+read, and all things related to longevity, science, performance, sleep, etc.
+
+1055
+01:03:18,100 --> 01:03:23,500
+On social, you can find me on Twitter, Instagram, and Facebook, all with the ID PeterAttiaMD.
+
+1056
+01:03:23,500 --> 01:03:27,340
+But usually Twitter is the best way to reach me to share your questions and comments.
+
+1057
+01:03:27,340 --> 01:03:31,340
+Now for the obligatory disclaimer, this podcast is for general informational purposes only
+
+1058
+01:03:31,340 --> 01:03:35,780
+and does not constitute the practice of medicine, nursing, or other professional healthcare
+
+1059
+01:03:35,780 --> 01:03:38,580
+services, including the giving of medical advice.
+
+1060
+01:03:38,580 --> 01:03:41,700
+And note, no doctor-patient relationship is formed.
+
+1061
+01:03:41,700 --> 01:03:46,300
+The use of this information and the materials linked to the podcast is at the user's own
+
+1062
+01:03:46,300 --> 01:03:47,300
+risk.
+
+1063
+01:03:47,300 --> 01:03:50,860
+The content of this podcast is not intended to be a substitute for professional medical
+
+1064
+01:03:50,860 --> 01:03:53,500
+advice, diagnoses, or treatment.
+
+1065
+01:03:53,500 --> 01:03:57,300
+Patients should not disregard or delay in obtaining medical advice for any medical condition
+
+1066
+01:03:57,300 --> 01:04:01,380
+they have and should seek the assistance of their healthcare professionals for any such
+
+1067
+01:04:01,380 --> 01:04:02,380
+conditions.
+
+1068
+01:04:02,380 --> 01:04:07,060
+Lastly, and perhaps most importantly, I take conflicts of interest very seriously.
+
+1069
+01:04:07,060 --> 01:04:13,820
+For all of my disclosures, the companies I invest in and or advise, please visit PeterAttiaMD.com
+
+1070
+01:04:13,820 --> 01:04:15,340
+forward slash about.
+

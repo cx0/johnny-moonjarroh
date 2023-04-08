@@ -1,0 +1,5596 @@
+1
+00:00:00,000 --> 00:00:05,280
+Hey, everyone. Welcome to the Drive podcast. I'm your host, Peter Attia.
+
+2
+00:00:05,280 --> 00:00:14,680
+It is such a pleasure to be at least virtually sitting here with you today. As I was kind of
+
+3
+00:00:14,680 --> 00:00:19,120
+alluding to a moment ago, if I were to sort of look at all the people I've had on this podcast
+
+4
+00:00:19,120 --> 00:00:25,720
+so far and kind of ask the question, when was the first time I became familiar with their body of
+
+5
+00:00:25,720 --> 00:00:33,840
+work, you know, you would be pretty far up there in terms of duration. So, you know, growing up,
+
+6
+00:00:33,840 --> 00:00:39,880
+you know, endurance sports were always sort of something that meant the world to me. And once I
+
+7
+00:00:39,880 --> 00:00:43,920
+even made that decision to go to medical school, a big part of it at least was, you know, kind of
+
+8
+00:00:43,920 --> 00:00:50,920
+understanding physiology better. And so, you know, it's been 25 or 30 years that I've been reading
+
+9
+00:00:51,040 --> 00:00:57,280
+your studies. So, in some ways, it's a long time coming to finally be sitting down with you and I
+
+10
+00:00:57,280 --> 00:01:02,720
+hope to meet you in person one day. Peter, thanks much. And it's been great to be able to visit with
+
+11
+00:01:02,720 --> 00:01:06,800
+you today. Thank you for inviting me. And I'm glad somebody's been paying attention to what I've
+
+12
+00:01:06,800 --> 00:01:12,200
+been doing for the last 25 or 30 years. So, it's very validating. Thank you. So, let's talk a little
+
+13
+00:01:12,200 --> 00:01:17,240
+bit about your background. You're a physician by training. I believe you're an anesthesiologist,
+
+14
+00:01:17,240 --> 00:01:22,320
+correct? Correct. So, tell me a little bit about that. So, you know, you decided in medical school,
+
+15
+00:01:22,320 --> 00:01:27,200
+you wanted to do anesthesia. Right. But you've always had a lifelong interest in exercise and
+
+16
+00:01:27,200 --> 00:01:33,000
+exercise physiology. Did you just view anesthesia as the most logical conduit to better understand
+
+17
+00:01:33,000 --> 00:01:38,600
+human physiology? So, Peter, before I went to medical school, I actually volunteered to be a
+
+18
+00:01:38,600 --> 00:01:45,280
+subject in a study on the lactate threshold or anaerobic threshold when I was 19 at the University
+
+19
+00:01:45,280 --> 00:01:50,160
+of Arizona. And luckily there were excellent physiologists there, but a couple of younger
+
+20
+00:01:50,160 --> 00:01:55,360
+physicians came over from the med school and it became clear to me when I was 19 or 20 that if I
+
+21
+00:01:55,360 --> 00:02:00,920
+wanted to have a career as a research physiologist doing invasive studies, you know, there was
+
+22
+00:02:00,920 --> 00:02:05,800
+pretty catheters in people and humans, it might be wise to go to medical school. So, this was always
+
+23
+00:02:05,800 --> 00:02:11,200
+sort of my vision starting at about age 20 or 21. And then what happened is I was thinking of going
+
+24
+00:02:11,200 --> 00:02:18,800
+to cardiology or pulmonary medicine. I was working at the Tucson VA at one time doing a
+
+25
+00:02:18,800 --> 00:02:23,440
+surgery rotation and I saw what they did in anesthesia, which is a lot like an exercise
+
+26
+00:02:23,440 --> 00:02:27,120
+test. You're measuring people's breathing, you're measuring their blood pressure, their heart rate,
+
+27
+00:02:27,120 --> 00:02:31,360
+and you're giving them drugs that affect their autonomic nervous system. And I've certainly
+
+28
+00:02:31,360 --> 00:02:38,080
+done a lot of that. So, I saw it as the flip side of the same coin. And so, it just sort of happened
+
+29
+00:02:38,320 --> 00:02:43,840
+and it is strange though to have pursued this vision for over 40 years now.
+
+30
+00:02:45,280 --> 00:02:49,040
+Yeah, I remember having the same thoughts when I did my anesthesia rotation. I can't even remember
+
+31
+00:02:49,040 --> 00:02:55,520
+if anesthesia was a required rotation in med school. I don't think it was, but it was positioned
+
+32
+00:02:55,520 --> 00:03:00,320
+as sort of a very good thing to do and I agree with that. And I had a field that even though I
+
+33
+00:03:00,320 --> 00:03:07,680
+think by that point I knew I was going to go into surgery, but I absolutely loved it. I think as a
+
+34
+00:03:08,240 --> 00:03:15,040
+physiology geek, anesthesia and critical care for that matter are both two remarkable specialties
+
+35
+00:03:15,040 --> 00:03:22,320
+that are the tip of the spear of what physiology is. It's interesting too Peter, because
+
+36
+00:03:23,200 --> 00:03:28,080
+when you think about exercise or people climbing mountains or adapting to some unusual environment,
+
+37
+00:03:29,680 --> 00:03:34,000
+the brainstem back there has to do all sorts of incredible things to maintain what we call
+
+38
+00:03:34,080 --> 00:03:39,040
+homeostasis or the internal environment in a way that allows you to survive and thrive.
+
+39
+00:03:39,600 --> 00:03:45,600
+Well, in anesthesia and critical care, you turn those mechanisms off and the physicians and the
+
+40
+00:03:45,600 --> 00:03:50,400
+nurses really become the patient's brainstem as they regulate the breathing of the patient,
+
+41
+00:03:50,400 --> 00:03:55,360
+the blood pressure of the patient, the heart rate and so forth. So, again, it's the flip side of the
+
+42
+00:03:55,360 --> 00:04:02,000
+same coin. And as soon as I saw what the anesthesiologist did at the Tucson VA, it just sort of
+
+43
+00:04:02,080 --> 00:04:07,520
+clicked. So, where did you go on to do your residency in anesthesia? So, at the Mayo Clinic,
+
+44
+00:04:07,520 --> 00:04:12,880
+and so what happened is I got out of medical school in the spring or early summer of
+
+45
+00:04:13,680 --> 00:04:19,600
+87 and I moved here. I've been here ever since. So, 35 years in a couple of weeks. And so,
+
+46
+00:04:20,640 --> 00:04:26,160
+where did you grow up? Did you grow up in a warm climate? I grew up in Tucson. So, what, I mean,
+
+47
+00:04:26,160 --> 00:04:30,000
+obviously the Mayo Clinic's a great program, but presumably there were other great anesthesia
+
+48
+00:04:30,000 --> 00:04:33,920
+programs that were in the middle of a place like Rochester. No offense to those from Rochester.
+
+49
+00:04:33,920 --> 00:04:42,000
+So, what drew you to Mayo? Well, I'd read this paper, a review article about skeletal muscle
+
+50
+00:04:42,000 --> 00:04:45,680
+blood flow, the regulation of skeletal muscle blood flow. And there were a lot of new ideas
+
+51
+00:04:45,680 --> 00:04:50,640
+in the middle 80s about the regulation of skeletal muscle blood flow. And the world's leading expert
+
+52
+00:04:50,640 --> 00:04:55,920
+was a man named John Shepherd, who was a very senior member of the faculty here. And I wrote him a
+
+53
+00:04:55,920 --> 00:05:00,640
+letter and he, you know, it was before email and stuff. So, he was friends with the head of the
+
+54
+00:05:00,640 --> 00:05:05,200
+department of man named Alan Sessler and John took it over to him. And I wanted to be able to
+
+55
+00:05:05,200 --> 00:05:10,720
+both do my residency and spend time in the lab and I was able to work with Dr. Shepherd. And our
+
+56
+00:05:10,720 --> 00:05:16,320
+department and our residency program were very research friendly. So, that's really why I decided
+
+57
+00:05:16,320 --> 00:05:20,720
+to come to Rochester. But I thought I'd stay, you know, three or four years and go back to Tucson.
+
+58
+00:05:20,720 --> 00:05:27,840
+So, that obviously didn't happen. I don't see that happening. Yeah. So, let's talk about exercise,
+
+59
+00:05:27,840 --> 00:05:34,480
+you know. Right. People who listen to this podcast know that I'm really passionate about this idea of
+
+60
+00:05:34,480 --> 00:05:40,720
+longevity. Right. Think about longevity through the lens of five sort of modifiable behaviors.
+
+61
+00:05:40,720 --> 00:05:47,280
+Exercise, sleep, nutrition, emotional health and all the tools around distress tolerance
+
+62
+00:05:47,280 --> 00:05:52,320
+and then exogenous molecules. Those are the five things that as far as I can tell, mostly you can
+
+63
+00:05:52,320 --> 00:05:59,120
+manipulate. Correct. They can both impact your lifespan and your health span. Four of those are
+
+64
+00:05:59,120 --> 00:06:03,520
+kind of behavioral. Right. All right. The medications aren't really behavioral in the sense that,
+
+65
+00:06:03,520 --> 00:06:08,640
+you know, compliance is relatively straightforward. The other ones really require a shift in behavior
+
+66
+00:06:08,640 --> 00:06:15,040
+and in mindset. And of these, I just, again, maybe we all have our biases in our blind spots,
+
+67
+00:06:15,040 --> 00:06:20,640
+but I just think exercise is in a league of its own in terms of its potential. Both on the lifespan
+
+68
+00:06:20,640 --> 00:06:26,000
+axis. So, it, you know, its ability to extend life and reduce all cause mortality is well documented.
+
+69
+00:06:26,000 --> 00:06:31,600
+We'll talk about that. Right. But also on the health span side, it really has no rival. So,
+
+70
+00:06:31,600 --> 00:06:37,840
+it's for that reason, I think, that we spend a lot of time inside our practice focusing on exercise.
+
+71
+00:06:37,840 --> 00:06:44,480
+It is really the biggest pillar within what we do because it has the most impact and unfortunately,
+
+72
+00:06:44,480 --> 00:06:50,800
+or fortunately, it's also the most challenging one, I think, to get people to change their
+
+73
+00:06:51,840 --> 00:06:54,880
+existing behaviors around because the time commitment is significant.
+
+74
+00:06:55,760 --> 00:07:00,720
+So, let's start with some of the basics just for folks who maybe aren't completely up to speed.
+
+75
+00:07:01,840 --> 00:07:06,800
+What would you say if you're at a party and somebody came up to you and said, Mike, I understand
+
+76
+00:07:06,800 --> 00:07:12,080
+you're really into this exercise thing. Can you explain to me why it is that exercise helps you
+
+77
+00:07:12,080 --> 00:07:17,440
+live longer? I think there's a couple of things, Peter, and it's multifactorial. But the first
+
+78
+00:07:17,440 --> 00:07:23,280
+thing is that, you know, the risk factors that contribute to cardiovascular disease, all more
+
+79
+00:07:23,280 --> 00:07:28,800
+cause mortality are all influenced by exercise and physical activity. These would be blood pressure,
+
+80
+00:07:29,440 --> 00:07:34,800
+diabetes, to some extent, lipids and cholesterol, and also how you deal with stress. So, I think
+
+81
+00:07:34,800 --> 00:07:42,000
+you get the big three there. There are some other kind of new age or second wave risk factors like
+
+82
+00:07:42,000 --> 00:07:48,560
+endothelial function, the lining of the blood vessels in your body that improve with exercise,
+
+83
+00:07:48,560 --> 00:07:53,040
+the way what's called your autonomic nervous system, and people may have heard of vagal
+
+84
+00:07:53,040 --> 00:07:58,320
+tone or heart rate variability. That's also influenced positively by exercise. So, I think
+
+85
+00:07:58,320 --> 00:08:04,080
+there's five or six things, but what's interesting is when you add up each one, you know, the modest
+
+86
+00:08:04,080 --> 00:08:09,360
+increase in cholesterol, a modest reduction in blood pressure, those sorts of things,
+
+87
+00:08:09,360 --> 00:08:15,520
+when you add them up, you get X percent improvement in health, span, life expectancy,
+
+88
+00:08:15,520 --> 00:08:20,240
+any metric you want to use. But when you look at the epidemiology, people who do the sorts of
+
+89
+00:08:20,240 --> 00:08:26,720
+things you just mentioned have a much bigger benefit than just the simple sum of the other risk
+
+90
+00:08:26,720 --> 00:08:31,440
+factors. So, there does seem to be some sort of synergy or some sort of X factor that we don't
+
+91
+00:08:31,440 --> 00:08:39,040
+really understand yet. But again, yeah, go ahead. No, no, you go ahead. I was just going to say this
+
+92
+00:08:39,040 --> 00:08:46,080
+collection of lifestyle related factors, which are really critical. And again, the autonomic
+
+93
+00:08:46,080 --> 00:08:52,560
+nervous system, blood pressure, lipids, the lining of the blood vessels and diabetes would be the big
+
+94
+00:08:52,560 --> 00:08:58,480
+five. I want to dive into a couple of these in depth. One of the things I would say at the,
+
+95
+00:08:58,480 --> 00:09:03,200
+before we do so, is, you know, you've thought a lot and you've looked a lot at this literature and
+
+96
+00:09:04,080 --> 00:09:10,160
+one can say, look, the epidemiology is so overwhelming that it's, I mean, the hazard
+
+97
+00:09:10,160 --> 00:09:16,400
+ratios are sort of absurd. When we're used to looking at a field like nutrition and looking
+
+98
+00:09:16,400 --> 00:09:23,600
+at the hazard ratios in nutrition, they're very small. In fact, they're so small and also so
+
+99
+00:09:23,600 --> 00:09:32,880
+inconsistent that it becomes almost impossible to assign a mortality benefit or addition to almost
+
+100
+00:09:32,880 --> 00:09:40,720
+anything you can eat. I mean, literally jelly beans to bacon to kale. The hazard ratios are
+
+101
+00:09:40,720 --> 00:09:46,640
+trivial and they flip flop from month to month. Correct. Well, and yeah, let me tell you something.
+
+102
+00:09:46,640 --> 00:09:50,240
+It's really interesting. It's good you brought this up. So I'm working on a review article on
+
+103
+00:09:50,240 --> 00:09:55,840
+related topics. And one of the things I'm looking at is all of what you might describe as natural
+
+104
+00:09:55,840 --> 00:10:01,280
+experiments, where you have two groups of people that are otherwise similar exposed to different
+
+105
+00:10:01,280 --> 00:10:08,080
+things. And that's a long, long, long use tool in epidemiology. And people are now using it in
+
+106
+00:10:08,080 --> 00:10:13,120
+economics and behavioral sciences. And in fact, these natural experiments, the economists just
+
+107
+00:10:13,120 --> 00:10:18,800
+got a Nobel prize from a couple of years ago. But the classic one is the London bus driver bus
+
+108
+00:10:18,800 --> 00:10:24,880
+conductor story led by Jeremy Morris after World War II, where they showed the physically active
+
+109
+00:10:24,880 --> 00:10:30,800
+conductors who were walking up and down the buses all day, had much lower rates of cardiovascular
+
+110
+00:10:30,800 --> 00:10:37,200
+disease and the sedentary driver bus drivers. And it was about 50%. And they had similar things
+
+111
+00:10:37,200 --> 00:10:42,240
+with telephone operators versus people who were out walking around doing things. And what's
+
+112
+00:10:42,240 --> 00:10:50,240
+interesting is you look at that 50%. It's incredibly consistent, incredibly consistent.
+
+113
+00:10:50,960 --> 00:10:57,760
+Those studies, studies of longshoremen, studies of Harvard alumni, there's one in the last 10 or 15
+
+114
+00:10:57,760 --> 00:11:06,160
+years of 50,000 male and 25,000 female finishers of the Vasa Lopet 90 kilometer cross country ski
+
+115
+00:11:06,160 --> 00:11:12,560
+race in Sweden. And they compared them to match controls from the Swedish record system. And they
+
+116
+00:11:12,560 --> 00:11:18,480
+showed again, about a 50% reduction in cardiovascular and all cause mortality. There's data from the
+
+117
+00:11:18,480 --> 00:11:23,280
+National Cancer Institute showing the same sorts of things and showing, you know, four or five or
+
+118
+00:11:23,280 --> 00:11:30,880
+six year increase in life expectancy, you know, among the people who got a substantial amount of
+
+119
+00:11:30,880 --> 00:11:36,400
+physical activity or structured exercise, either one. Yeah. And I think the sort of take home
+
+120
+00:11:36,400 --> 00:11:45,040
+point for the listener is unlike nutritional epidemiology, where the risk increases and risk
+
+121
+00:11:45,040 --> 00:11:51,280
+reductions are very, very small and they're never consistent, right? I mean, there's some things
+
+122
+00:11:51,280 --> 00:11:58,320
+that are consistent and consistently small. For example, you know, vegetarians consistently have
+
+123
+00:11:58,320 --> 00:12:02,800
+a small reduction in mortality, which of course then gets to the next point, which is what are
+
+124
+00:12:02,800 --> 00:12:07,920
+the confounders? And this is where I want to kind of talk about it with exercise. And this is where
+
+125
+00:12:07,920 --> 00:12:12,080
+the natural experiments are much better on the exercise front than they are in the nutrition
+
+126
+00:12:12,080 --> 00:12:18,240
+front. You see, going back to the example you gave, which is a very famous one of the guys running up
+
+127
+00:12:18,240 --> 00:12:23,200
+and down the buses, the sort of conductor guys versus the drivers. That's a great natural
+
+128
+00:12:23,200 --> 00:12:32,720
+experiment because it's really not amenable to a choice. And you would be less likely to believe
+
+129
+00:12:32,720 --> 00:12:39,600
+that the bus driver who sits there is also making poor choices relative to the other guy when he's
+
+130
+00:12:39,600 --> 00:12:45,040
+not at work. In other words, we wouldn't really have a reason to believe that he's more likely to
+
+131
+00:12:45,040 --> 00:12:51,040
+be a smoker. He's more likely to eat, you know, make poor food choices, etc. Whereas when you look
+
+132
+00:12:51,040 --> 00:12:56,720
+at sort of the vegetarian to non-vegetarian dietary pattern in nutrition, it's pretty clear
+
+133
+00:12:56,720 --> 00:13:01,360
+that a vegetarian diet is very restrictive diet. And therefore, the person who's making that choice
+
+134
+00:13:01,360 --> 00:13:05,280
+is likely very health conscious in a number of other ways. Correct. Yeah, they have a suite of
+
+135
+00:13:05,280 --> 00:13:09,040
+behaviors. Yeah, exactly. Some of which are easy to measure and correct for like smoking,
+
+136
+00:13:09,040 --> 00:13:13,200
+but many of which are not. And that sort of makes the nutritional thing harder.
+
+137
+00:13:13,920 --> 00:13:18,320
+The exercise thing is pretty profound. So let's explain to people what it means
+
+138
+00:13:18,880 --> 00:13:26,800
+when you have a hazard ratio of 0.5, which means a 50% reduction in all-cause mortality. What's the
+
+139
+00:13:26,800 --> 00:13:31,840
+time frame that that's usually looking at and how does that translate to, you know, a five-year
+
+140
+00:13:31,840 --> 00:13:37,440
+increase in life expectancy? The way you would say it is that, you know, the relative risk of
+
+141
+00:13:37,440 --> 00:13:43,040
+dying of heart disease in any given period of time, whether it's year, five years, 10 years,
+
+142
+00:13:43,040 --> 00:13:48,560
+whatever the study is doing is 50% lower. But obviously not everybody dies of cardiovascular
+
+143
+00:13:48,560 --> 00:13:55,040
+disease. People die of other things. And so then you have to translate that into sort of years of
+
+144
+00:13:55,040 --> 00:14:02,320
+life gained. And typically the years of life gained are somewhere on the order, if you account
+
+145
+00:14:02,320 --> 00:14:09,200
+for smoking of three to five years, something like that. And then if you look at the concept
+
+146
+00:14:09,200 --> 00:14:14,320
+of health span, you know, you may get six or eight years of improved health span. So health
+
+147
+00:14:14,320 --> 00:14:21,600
+span, as you know, Peter, is how long you can, you know, how disability free you are. And so you
+
+148
+00:14:21,600 --> 00:14:25,760
+have, you know, four or five-year increase in life expectancy and a four or five-year additional
+
+149
+00:14:25,760 --> 00:14:30,800
+increase in health span. And the idea, you know, is to live a long time and then die quickly
+
+150
+00:14:31,360 --> 00:14:36,720
+with minimal disability. So kind of one of the ways we try to get around this idea of the sort
+
+151
+00:14:36,800 --> 00:14:43,040
+of vagueness of freedom from disease and disability is to make it very, very granular. And we do this
+
+152
+00:14:43,040 --> 00:14:49,680
+by creating this model we have called the centenarian decathlon, which says, if you go out to your
+
+153
+00:14:49,680 --> 00:14:54,000
+marginal decade, and we define the marginal decade as the last decade of your life. So again, we don't
+
+154
+00:14:54,000 --> 00:14:58,640
+know when that is, but let's just make the math easy and say, oh, that's going to be 79 to 89 or
+
+155
+00:14:58,640 --> 00:15:07,520
+81 to 91. You're in your marginal decade. What are sort of the athletic events and the activities
+
+156
+00:15:07,520 --> 00:15:14,000
+of daily living that you want to be able to do? But we do it by making people cross off things they
+
+157
+00:15:14,000 --> 00:15:21,440
+do not want to do. So we make this a you have to opt out of things. Right. And they're very
+
+158
+00:15:21,440 --> 00:15:28,320
+specific, right? So it's like walking three miles in one hour, you know, being able to climb
+
+159
+00:15:29,120 --> 00:15:35,680
+X number of stairs, you know, 60 stairs that are eight inches in one minute, being able to carry
+
+160
+00:15:35,680 --> 00:15:43,760
+20 pounds of groceries a certain distance, being able to get up off the floor with at most one hand
+
+161
+00:15:43,760 --> 00:15:51,040
+of support. So it's very specific stuff. And I think for most people, the initial reaction is
+
+162
+00:15:51,440 --> 00:15:55,120
+well, that's really easy. Like I can do most of these things today. But, you know, when you're a
+
+163
+00:15:55,120 --> 00:16:01,520
+45 year old reading that, I hope that's easy. I don't think they appreciate the precipitous decline
+
+164
+00:16:01,520 --> 00:16:06,720
+that will occur without deliberate training. And it's for that reason that I think exercise has
+
+165
+00:16:06,720 --> 00:16:13,360
+more potential to offset all of those things than anything else. Sleep, nutrition, certainly any
+
+166
+00:16:13,360 --> 00:16:19,280
+medication. And so that to me, that's really what health span comes down to. It's right. It's not
+
+167
+00:16:19,280 --> 00:16:24,720
+just I'm not disabled, but it's I'm really thriving. Yeah, I'm engaged. I can engage in what
+
+168
+00:16:24,720 --> 00:16:29,680
+I want to engage in. Yeah. And I think Peter, you've hit the nail on the head. And I think that
+
+169
+00:16:29,680 --> 00:16:37,120
+what we see in those decades, there's what's really instructive is if you look at the decline
+
+170
+00:16:37,120 --> 00:16:43,280
+in performance in age group, swimming, running, cycling, rowing, really any sport where there's
+
+171
+00:16:43,280 --> 00:16:50,000
+pretty good record keeping is people can start to decline at age 30 without training. You can push
+
+172
+00:16:50,000 --> 00:16:54,640
+that back to age 40 with training. In other words, if you work out every day intentionally and
+
+173
+00:16:54,640 --> 00:17:00,240
+relatively hard. But then something happens to people in their middle seventies where there seems
+
+174
+00:17:00,240 --> 00:17:07,520
+to be a, you know, kind of a more steeper rise. And what's interesting about that steeper rise is
+
+175
+00:17:07,520 --> 00:17:13,600
+it seems to shift from sort of a cardiopulmonary limitation to sort of a skeletal muscle strength
+
+176
+00:17:13,600 --> 00:17:19,520
+slash frailty situation. And what you described in terms of getting up off the floor, it makes
+
+177
+00:17:19,520 --> 00:17:24,960
+up like 70 year, 70 percent of 70 year olds can't get off the floor, not one hand, two hands just
+
+178
+00:17:24,960 --> 00:17:30,400
+can't get off the floor. And you start looking at, and we both know from, from being doctors,
+
+179
+00:17:30,400 --> 00:17:33,760
+if you look at what happens when a person in that age group falls, it's just no fun.
+
+180
+00:17:34,480 --> 00:17:40,560
+So, so if you look at it, what really takes people out, it's things like falls, it's inability to,
+
+181
+00:17:40,560 --> 00:17:47,840
+to, to, to do things. And so what happens is, is, is, you know, walking three miles in an hour
+
+182
+00:17:47,840 --> 00:17:55,280
+takes some cardiopulmonary capability, but not a ton, just some. But whereas being able to go,
+
+183
+00:17:55,280 --> 00:17:58,400
+you know, the stairs takes more being able to get off the floor takes more.
+
+184
+00:17:58,960 --> 00:18:03,440
+So I think one of the things that people have to think about, especially as they get into their
+
+185
+00:18:03,440 --> 00:18:09,440
+40s and 50s is, is adding strength or some sort of circuit training and agility training to their
+
+186
+00:18:09,440 --> 00:18:14,880
+program. And so I think you've hit the nail on the head. And one of the things I do is, is I'm 63,
+
+187
+00:18:14,880 --> 00:18:20,480
+I'm almost 64, is I have the jump rope my mother gave to me when I was 14. She gave me a beautiful
+
+188
+00:18:20,480 --> 00:18:25,920
+boxer's jump rope, leather with ball bearings in the works, you know, and I carry it with me when
+
+189
+00:18:25,920 --> 00:18:30,640
+I travel because you can always jump rope, even if it's out in the parking lot of a hotel, you can,
+
+190
+00:18:30,640 --> 00:18:36,480
+people think you're nuts, but it's a, you know, but it works. It's a terrific, terrific exercise.
+
+191
+00:18:37,200 --> 00:18:42,080
+It actually is for a number of reasons, including foot reactivity, which is also one of those things
+
+192
+00:18:42,080 --> 00:18:45,680
+that can control, you know, the lack of foot reactivity is something that can contribute to the
+
+193
+00:18:45,680 --> 00:18:51,040
+fall. So you're, you're getting the cardio benefit, the coordination benefit, and also this, this,
+
+194
+00:18:51,040 --> 00:18:54,720
+this gentle foot reactivity without, and it depends if you know how to skip like a boxer,
+
+195
+00:18:54,720 --> 00:18:58,720
+you don't have to really pound your knees as well. Correct. And the other thing is you do that with
+
+196
+00:18:58,720 --> 00:19:03,200
+some body weight, you know, some, some things as simple as pushups or, or planks, since there's a
+
+197
+00:19:03,200 --> 00:19:07,600
+place to do some pull ups, you're good to go. Yeah. There's so many things you said there,
+
+198
+00:19:07,600 --> 00:19:11,280
+Mike, that I want to go back on and just make sure people really capture, because it's so important.
+
+199
+00:19:13,040 --> 00:19:16,560
+There's, and I will probably find the study and I'll link to it, but there's an amazing study that
+
+200
+00:19:16,560 --> 00:19:24,000
+demonstrates like muscle mass changes, strength changes, activity changes in men and women as they
+
+201
+00:19:24,000 --> 00:19:29,520
+age. And it's one of those things where you don't actually need to understand the statistics to be
+
+202
+00:19:29,520 --> 00:19:37,040
+able to see the figure. And it's exactly as you describe it at the age of 75, there is a cliff
+
+203
+00:19:37,760 --> 00:19:45,920
+that is so violent, you can't believe what you're watching. And it's at that cliff where physical
+
+204
+00:19:45,920 --> 00:19:54,960
+activity level declines like this. It just goes boom. Muscle mass goes boom, strength, boom, same
+
+205
+00:19:54,960 --> 00:20:01,840
+thing. And, you know, of course it begs the age old question, right? Is the patient losing strength
+
+206
+00:20:01,840 --> 00:20:06,000
+because they are no longer active or are they no longer active because they have lost strength?
+
+207
+00:20:07,120 --> 00:20:13,440
+My view is it's both. I think these things feed off each other. Which one's the first insult?
+
+208
+00:20:13,440 --> 00:20:18,480
+I suspect it's probably the loss of strength that contributes to the loss of activity. But then I
+
+209
+00:20:18,480 --> 00:20:24,160
+think those feedback and accelerates this thing. You really get into a death spiral. And I think
+
+210
+00:20:24,800 --> 00:20:30,080
+that's why it becomes important to keep exercising relatively hard as you get over at least a few days
+
+211
+00:20:30,080 --> 00:20:36,320
+a week to slow this decline. And there are remarkable examples. There are some Swedish
+
+212
+00:20:36,320 --> 00:20:42,800
+cross-country skiers, men who were world and Olympic champions in the 40s and 50s.
+
+213
+00:20:43,440 --> 00:20:49,440
+Who remained active as many of them were woodsmen and lived in the countryside. Remained very active
+
+214
+00:20:49,440 --> 00:20:54,480
+skiing and so forth. They were studied in their 80s. Now you could argue that there was something
+
+215
+00:20:54,480 --> 00:21:00,800
+special about these guys to begin with or they would not have become champion athletes. But their
+
+216
+00:21:00,800 --> 00:21:08,960
+rates of decline were quite modest. And more importantly, their fitness levels were similar
+
+217
+00:21:08,960 --> 00:21:14,000
+to what you would see in people in very early middle age. The other interesting thing about
+
+218
+00:21:14,000 --> 00:21:21,360
+that is the classic studies from the 1960s. These fighter pilots, Navy and Marine and Air Force fighter
+
+219
+00:21:21,360 --> 00:21:26,640
+pilots were sitting in the outer space. These were incredibly fit guys. They'd go up for a week and
+
+220
+00:21:26,640 --> 00:21:32,880
+come back completely atrophy. Couldn't stand up. And really in bad shape. And in 66, NASA commissioned
+
+221
+00:21:33,760 --> 00:21:39,760
+folks at the University of Texas Southwestern Medical Center in Dallas to put five college-age
+
+222
+00:21:39,760 --> 00:21:46,160
+males, two athletes, at bedrest. And they had tremendous reductions in their fitness over just
+
+223
+00:21:46,160 --> 00:21:51,200
+three weeks of bedrest. And interestingly, Ben Levine and his group in Dallas, along with the
+
+224
+00:21:51,200 --> 00:21:57,680
+late Jerry Mitchell, brought these same men back 30 years later. So now they were early 50s. And
+
+225
+00:21:57,760 --> 00:22:05,440
+it's incredible, but three weeks of bedrest caused losses of physiological function associated with
+
+226
+00:22:05,440 --> 00:22:12,640
+30 years of aging. So it's an incredible study. And that's one of the things that is instructive.
+
+227
+00:22:13,840 --> 00:22:18,720
+Those sorts of small studies. And that's why it's so important to just avoid inactivity
+
+228
+00:22:19,280 --> 00:22:23,280
+of any type. And whether it's low grade physical activity, whether it's walking the dog,
+
+229
+00:22:23,280 --> 00:22:28,080
+whether it's gardening, whether it's taking a flight of stairs once in a while, or intentional
+
+230
+00:22:28,080 --> 00:22:34,800
+working out, it's really the way to go. And as you point out, really, in those lifestyle factors,
+
+231
+00:22:34,800 --> 00:22:39,600
+you mentioned really sort of overwhelms things. Over overwhelms almost everything else.
+
+232
+00:22:39,600 --> 00:22:46,880
+Yeah. You mentioned and alluded to the danger of a fall in later life. And this is something we've
+
+233
+00:22:46,880 --> 00:22:52,720
+been doing a lot of research on internally, given our concern around bone mineral density and the
+
+234
+00:22:52,960 --> 00:23:01,760
+population. The mortality, when you look at 65 year olds and up who suffer a fall that results
+
+235
+00:23:01,760 --> 00:23:08,800
+in the fracture of any part of the hip or femur at one year, depending on the study, it can be
+
+236
+00:23:09,360 --> 00:23:18,880
+as low as 25% as high as 60%. Yeah, the magic number is usually around 40, 50. Yeah. Again,
+
+237
+00:23:18,880 --> 00:23:25,600
+I want people to understand what we just said. You take all the 65 year olds and you look at
+
+238
+00:23:25,600 --> 00:23:32,240
+those who fall and the fall results in a broken hip or femur. And you ask the question, how many
+
+239
+00:23:32,240 --> 00:23:38,320
+of those people will be alive in 12 months? The answer is half of them. Correct. Correct. And the
+
+240
+00:23:38,320 --> 00:23:44,400
+other half, it's not like the other half are... Yeah, they're not back to themselves necessarily.
+
+241
+00:23:44,400 --> 00:23:49,440
+No, exactly. And that's exactly right. So you want to avoid a major health like that for sure.
+
+242
+00:23:50,160 --> 00:23:52,720
+The other thing, Peter, there's a couple other things that have really hit me
+
+243
+00:23:53,360 --> 00:23:59,760
+as we've talked. One is this man named Lester Breslow, who was this very famous epidemiologist
+
+244
+00:23:59,760 --> 00:24:07,200
+who died in his late 90s, was at UCLA for many years. And he studied people in Oakland in the
+
+245
+00:24:07,200 --> 00:24:13,920
+late 50s and early 60s who made it to 90. And the sorts of four or five things you talked about,
+
+246
+00:24:13,920 --> 00:24:18,160
+he identified the people in Oakland who made it to 90 and they were non-smokers. They weren't
+
+247
+00:24:18,160 --> 00:24:23,120
+obese. They remained physically active. They ate modestly. They stayed engaged in life. And there
+
+248
+00:24:23,120 --> 00:24:27,840
+were just five or six things that they did. And the same is true in the Honolulu Heart Project,
+
+249
+00:24:27,840 --> 00:24:32,960
+when they've looked at a huge number of Japanese American males, same exact stuff that you mentioned.
+
+250
+00:24:32,960 --> 00:24:38,720
+Not so they weren't as focused on the small molecules, but exactly what you've described.
+
+251
+00:24:38,720 --> 00:24:43,440
+And then I think about, we've talked about natural experiments. At the Cooper Clinic,
+
+252
+00:24:43,520 --> 00:24:48,960
+they've looked at people's fitness levels. Now that's not exactly the same as physical activity,
+
+253
+00:24:48,960 --> 00:24:54,560
+but in general, the fittest people are also the most active. And they divided people into three
+
+254
+00:24:54,560 --> 00:25:00,960
+or four groups of fitness and then had them look at a so-called healthy eating index. So, you know,
+
+255
+00:25:00,960 --> 00:25:07,040
+were you a junk food junkie to eat okay, or were you really conscious of your diet? And the healthy
+
+256
+00:25:07,040 --> 00:25:13,360
+eating index in people that weren't particularly fit did have something to do with all cosmortality.
+
+257
+00:25:13,600 --> 00:25:21,280
+But among the fittest people, there was very little impact of diet on the outcomes,
+
+258
+00:25:21,280 --> 00:25:25,600
+which is sort of interesting. And it always brings me back to the famous quote in a book about
+
+259
+00:25:25,600 --> 00:25:30,400
+distance running called Once a Runner, where somebody said, yeah, if the furnace is hot
+
+260
+00:25:30,400 --> 00:25:35,360
+enough, you can burn anything even big max. Now you have to take that with a grain of salt, but,
+
+261
+00:25:36,320 --> 00:25:40,480
+or I guess we're worried about diet, maybe not a grain of salt, but I think it does kind of give
+
+262
+00:25:40,480 --> 00:25:44,960
+you the take home message. But just about what a powerful thing exercise is.
+
+263
+00:25:44,960 --> 00:25:50,000
+I completely agree. And I know it's very, there's a very common mantra that says, oh,
+
+264
+00:25:50,000 --> 00:25:54,240
+you can't outrun a bad diet. And I would argue that's probably not true. I think you can outrun
+
+265
+00:25:54,240 --> 00:25:58,560
+a diet, but it's pretty hard to do. And most people don't understand the amount of running
+
+266
+00:25:58,560 --> 00:26:02,320
+that's needed to do it. That's great because, you know, again, I'm looking up these studies.
+
+267
+00:26:02,320 --> 00:26:08,160
+So I've looked at these classic studies like that. And so, so there's this incredible study
+
+268
+00:26:08,160 --> 00:26:15,760
+from the fifties of people who worked at a jute plant in India, and they categorize people on
+
+269
+00:26:15,760 --> 00:26:21,520
+incredibly physically active, you know, doing manual labor, hacking away on jute to make,
+
+270
+00:26:21,520 --> 00:26:26,560
+I think, linen or rope. They're going to make rope with this stuff all the way to office workers.
+
+271
+00:26:26,560 --> 00:26:32,880
+And as you got more and more physically active, people got lighter, you got more inactive,
+
+272
+00:26:32,880 --> 00:26:39,200
+they got heavier. But what was interesting is, is people that were in the middle, middle kind of
+
+273
+00:26:39,200 --> 00:26:46,080
+rung of occupational physical activity also had slightly lower caloric consumption remain very
+
+274
+00:26:46,080 --> 00:26:53,280
+trim. So certainly, you know, if people are physically active enough, if you read the old
+
+275
+00:26:53,280 --> 00:26:59,440
+papers about what lumberjacks were eating, you know, when they were chopping wood all day long,
+
+276
+00:26:59,440 --> 00:27:05,840
+I mean, it's five, six thousand calories a day. The old order Amish who walk around and do manual
+
+277
+00:27:05,840 --> 00:27:11,600
+labor all day long and don't have, you know, don't have tractors and stuff like that, they eat an
+
+278
+00:27:11,600 --> 00:27:18,080
+awfully lot and very few of them are obese. So, so I think you can't outrun a bad diet or can't
+
+279
+00:27:18,080 --> 00:27:25,680
+out exercise a bad diet in a modern high calorie, low physical activity world, I think is the caveat
+
+280
+00:27:25,680 --> 00:27:30,800
+that has to go to that one. Yeah. And yet when you look at athletes that are doing insane amounts
+
+281
+00:27:30,800 --> 00:27:36,400
+of exercise, most of them have a hard time keeping on weight. Well, there's, yeah, there's terrific
+
+282
+00:27:36,400 --> 00:27:40,400
+study about the Tour de France, you know, where they get done every day and they're just handing
+
+283
+00:27:40,400 --> 00:27:45,600
+them food. And, you know, these people are eating ad lib, except when they're on the bike and even
+
+284
+00:27:45,600 --> 00:27:50,080
+when they are on the bike and they have a hard time and they're eating 6,000 calories a day,
+
+285
+00:27:50,080 --> 00:27:55,200
+they weigh about 150 pounds. Yeah. And they have a hard time keeping their weight. Yeah.
+
+286
+00:27:55,280 --> 00:27:59,280
+They are catabolic throughout the Tour. Correct. They finish in pretty bad shape.
+
+287
+00:27:59,840 --> 00:28:06,400
+Correct. They look like, you know, you know, well, not, not death camp survivors, but people who
+
+288
+00:28:06,400 --> 00:28:11,200
+certainly haven't had a lot to eat for a few weeks. So let's go back to something you said at the
+
+289
+00:28:11,200 --> 00:28:17,440
+outset, which was the impact of exercise on the autonomic nervous system. Correct. Explain to folks
+
+290
+00:28:17,440 --> 00:28:22,080
+what the autonomic nervous system is, how it differs from the sympathetic nervous system
+
+291
+00:28:22,080 --> 00:28:26,560
+and why it plays such an important role in our health. And of course, how exercise impacts it.
+
+292
+00:28:27,280 --> 00:28:31,280
+When we think about the nervous system, normally we think about our brain, our eyes, our ears,
+
+293
+00:28:31,920 --> 00:28:36,320
+and in our senses, and also our ability to grab things, move our muscles, that sort of thing.
+
+294
+00:28:36,320 --> 00:28:42,320
+And, you know, feel pain or feel heat or cold or, or, or, or sense the environment. But your autonomic
+
+295
+00:28:42,320 --> 00:28:48,160
+nervous system is what controls your internal environment. And, and that's called the, you know,
+
+296
+00:28:48,160 --> 00:28:53,920
+the Malou internal or whatever is, is from the French a long, long time ago. And it's called
+
+297
+00:28:53,920 --> 00:29:00,480
+homeostasis. So, so, you know, we can increase our metabolism 10 or 20 fold with exercise,
+
+298
+00:29:00,480 --> 00:29:05,840
+but our, our body temperature only rises a degree or two. And so this happens due to the actions of
+
+299
+00:29:05,840 --> 00:29:10,560
+the autonomic nervous system. Now there are two branches of the autonomic nervous system. There's
+
+300
+00:29:10,560 --> 00:29:17,200
+this sympathetic nerves and the parasympathetic nerves. And these used to be kind of categorized
+
+301
+00:29:17,280 --> 00:29:24,480
+as fight or flight. And you would either, you know, activate, especially the sympathetic nerves,
+
+302
+00:29:24,480 --> 00:29:31,120
+if you needed to fight, fight or fly, run away. And whereas the parasympathetic nerves were seen
+
+303
+00:29:31,120 --> 00:29:36,480
+as what happened when you were asleep, when you're digesting your food, so on and so forth.
+
+304
+00:29:36,480 --> 00:29:40,640
+But it turns out there's kind of more of a balance in the yin and yang between the two that happen
+
+305
+00:29:40,640 --> 00:29:46,640
+all the time. But the parasympathetic nerves, and the most notable one is the vagus, they control
+
+306
+00:29:47,840 --> 00:29:52,400
+part of your heart rate, make your heart rate slower. They also tend to lower blood pressure
+
+307
+00:29:52,400 --> 00:29:59,360
+and they're critical to digest your food. And that's one side. The other side is the autonomic
+
+308
+00:29:59,360 --> 00:30:05,760
+nervous system nerves that increase your heart rate, stimulate your blood vessels to constrict,
+
+309
+00:30:07,200 --> 00:30:13,360
+help your muscles contract harder, and also do things like make you sweat. And so that's,
+
+310
+00:30:13,360 --> 00:30:19,520
+that's really the difference between the autonomic or the parasympathetic and sympathetic
+
+311
+00:30:19,520 --> 00:30:24,240
+branches of the autonomic nervous system. And the key thing to remember is that they help you
+
+312
+00:30:24,240 --> 00:30:29,520
+regulate the internal environment. And that exercise really keeps these things tuned up.
+
+313
+00:30:30,080 --> 00:30:34,880
+And by having your autonomic nervous system a bit better tuned up, it can do a better job
+
+314
+00:30:34,880 --> 00:30:39,920
+regulating your internal environment. The classic example being for example, your blood pressure.
+
+315
+00:30:40,800 --> 00:30:45,200
+Now, of course, what everybody knows, and we're going to talk in a moment about VO2 max testing
+
+316
+00:30:45,200 --> 00:30:49,440
+and how that's done, because I want to get into the weeds on that. But when we have our patients
+
+317
+00:30:49,440 --> 00:30:54,000
+tested, you know, we have a protocol, we look at their blood pressure before, and then we look at
+
+318
+00:30:54,000 --> 00:30:59,520
+their blood pressure throughout. And then we want to look where they are percentile wise,
+
+319
+00:30:59,520 --> 00:31:04,560
+at the max exertion, what's their blood pressure. And without exception, a person's blood pressure
+
+320
+00:31:04,560 --> 00:31:09,840
+goes up when we do a VO2 max test. So you take somebody whose blood pressure is 115 over 75,
+
+321
+00:31:10,000 --> 00:31:17,200
+at the outset, they'll easily be 160 over 95 or 100. And that's completely normal and healthy.
+
+322
+00:31:17,200 --> 00:31:19,920
+Even higher if you measured it while they're weightlifting.
+
+323
+00:31:19,920 --> 00:31:29,600
+Yeah, exactly. So explain to folks why it is that during exercise, nothing looks good, right? Blood
+
+324
+00:31:29,600 --> 00:31:35,760
+pressure is high, heart rate is high, heart rate variability is low. What is it about the recovery
+
+325
+00:31:35,760 --> 00:31:42,960
+phase from exercise that produces a net positive effect, even though in the moment exercise,
+
+326
+00:31:42,960 --> 00:31:47,920
+presumably is doing things that are not necessarily in our body's best interest in that moment?
+
+327
+00:31:47,920 --> 00:31:52,720
+I would say they are in their best interest because what happens Peter is the system
+
+328
+00:31:54,000 --> 00:31:57,920
+shifts a little bit to kind of meet the demands of the skeletal muscle.
+
+329
+00:31:57,920 --> 00:32:02,800
+You got to be able to contract the muscles to exercise. And again, that's sort of consistent
+
+330
+00:32:02,800 --> 00:32:05,760
+with the fight or flight thing. If you're going to run away or be in a fight, you want to be able
+
+331
+00:32:05,760 --> 00:32:12,800
+to contract your muscles. And so to do that, you need to send more blood flow to those muscles.
+
+332
+00:32:13,360 --> 00:32:17,280
+And one of the ways you do that is by increasing your blood pressure, more blood pressure equals
+
+333
+00:32:17,280 --> 00:32:21,760
+more flow. And the other thing you got to do is increase the pumping function of your heart.
+
+334
+00:32:21,760 --> 00:32:27,920
+At rest, people's heart is beating about five liters or a little over a gallon a minute.
+
+335
+00:32:28,800 --> 00:32:35,360
+During moderate exercise, it can be 10 liters a minute. During heavy exercise, 15 or 20.
+
+336
+00:32:35,360 --> 00:32:40,720
+And elite athletes who are very trained and have very large hearts, it can be 30 or 40 liters a
+
+337
+00:32:40,720 --> 00:32:45,760
+minute. So what happens is you're pumping all that blood out against these blood vessels. And so your
+
+338
+00:32:45,760 --> 00:32:53,040
+blood pressure rises. So it's a completely normal thing to think about and to generate that large
+
+339
+00:32:53,120 --> 00:32:58,400
+cardiac output. Cardiac output is heart rate times stroke volume. That's the amount with each
+
+340
+00:32:58,400 --> 00:33:02,160
+squeeze of the heart. And so naturally, you're going to want to increase your heart rate.
+
+341
+00:33:02,160 --> 00:33:07,520
+So that's what happens. But then when you stop, as you mentioned, heart rate falls, blood pressure
+
+342
+00:33:07,520 --> 00:33:12,880
+falls, and things look probably better than they did in somebody who is untrained and hasn't
+
+343
+00:33:12,880 --> 00:33:18,960
+exercised. What do we know about the rate of recovery? Like there's something called heart
+
+344
+00:33:19,040 --> 00:33:26,400
+rate recovery, HRR, that is a pretty interesting metric. Tell us what we know about HRR.
+
+345
+00:33:26,400 --> 00:33:32,320
+So people do a maximum exercise test and their heart rates 150, 160, 180, whatever their age is.
+
+346
+00:33:33,200 --> 00:33:38,560
+220 minus your age is an interesting number, but there's a lot of patient to patient or person to
+
+347
+00:33:38,560 --> 00:33:45,120
+person variability. So what happens is how fast does your heart rate go back down to some number?
+
+348
+00:33:45,760 --> 00:33:49,920
+How fast does it get to under 100? How fast it goes back to baseline? Whatever.
+
+349
+00:33:50,480 --> 00:33:55,760
+So the faster it goes down, the faster it goes down, the better the action of your
+
+350
+00:33:55,760 --> 00:34:01,840
+vagal nerve, the nerve that slows your heart rate. The vagus nerve is also responsible mostly for
+
+351
+00:34:01,840 --> 00:34:10,960
+your heart rate variability. And that means that, and this nerve also suppresses funny heartbeats
+
+352
+00:34:10,960 --> 00:34:18,000
+and is protective when it's in good shape against arrhythmias and ventricular tachycardia,
+
+353
+00:34:18,000 --> 00:34:24,320
+ventricular fibrillation, sudden death, all of those things. And so heart rate recovery,
+
+354
+00:34:24,320 --> 00:34:32,080
+heart rate variability, all of those things are indirect markers of what we call vagal tone or
+
+355
+00:34:32,080 --> 00:34:39,600
+vagal activity. And that's a good thing. Now heart rate variability can be quite genetic, right Mike?
+
+356
+00:34:39,600 --> 00:34:44,800
+The absolute number in milliseconds between any two individuals can be quite distinct. And it
+
+357
+00:34:44,800 --> 00:34:50,320
+seems to be not nearly as modifiable as some other factors. Have you found that to be the case?
+
+358
+00:34:50,320 --> 00:34:55,200
+You know, I would say, again, it depends on what sorts of training people have been doing,
+
+359
+00:34:55,200 --> 00:35:02,080
+what they've been exposed to. But in general, most people can get a nice training-braided
+
+360
+00:35:02,080 --> 00:35:09,760
+cardia, which again is vagal tone. And most people if they're trained can go from slow
+
+361
+00:35:09,760 --> 00:35:16,880
+heart rate recovery to faster heart rate recovery and also have more heart rate variability. So I
+
+362
+00:35:16,880 --> 00:35:21,760
+think worrying about the differences in the initial baseline period while interesting and
+
+363
+00:35:21,760 --> 00:35:26,480
+what they might be attributable to is probably less important than the fact that they're
+
+364
+00:35:26,480 --> 00:35:30,640
+modifiable as you mentioned very early, you know, as they say at the top of the show.
+
+365
+00:35:31,280 --> 00:35:35,920
+Yeah. So let's talk about this VO2 max test because we're going to talk about what it means
+
+366
+00:35:35,920 --> 00:35:43,360
+and, you know, how predictive it might be of an individual's mortality. So let's just start by
+
+367
+00:35:44,640 --> 00:35:49,280
+explaining to people what you do when a person comes into the lab.
+
+368
+00:35:50,000 --> 00:35:56,400
+Right. So what you do is you get them on a bike or a treadmill, you put some EKG electrodes on them
+
+369
+00:35:56,560 --> 00:36:02,000
+and they either run on the treadmill or ride a bike and they have a nose clip on if you're
+
+370
+00:36:02,000 --> 00:36:07,200
+going to measure it directly and either a face mask or a mouthpiece that they breathe.
+
+371
+00:36:07,200 --> 00:36:13,040
+And that allows us to measure how much oxygen they breathe in or air they breathe in,
+
+372
+00:36:13,040 --> 00:36:18,400
+how much air they breathe out. We know that the air has 21% oxygen coming in. If we measure the
+
+373
+00:36:18,400 --> 00:36:23,760
+amount of oxygen in the expired air, we can make an estimate of how much oxygen has been consumed.
+
+374
+00:36:24,480 --> 00:36:29,360
+And so what happens is when people start to exercise, they go from using about
+
+375
+00:36:30,080 --> 00:36:37,920
+three and a half mls per kg per minute. So think about, you know, or maybe 250 mls or 300 mls,
+
+376
+00:36:37,920 --> 00:36:45,280
+so like 10 or 12 ounces of oxygen per minute. Right. And an unfit, you know, person in their
+
+377
+00:36:45,280 --> 00:36:55,440
+30s or 40s can typically increase that about eight or tenfold to say, to say 30 or 35.
+
+378
+00:36:55,440 --> 00:36:59,760
+Yeah. To 30 or that would be, that would be 30 or 35 or about three liters a minute.
+
+379
+00:37:01,200 --> 00:37:06,240
+Right. And with training, most people can increase things at least 10 or 20%.
+
+380
+00:37:07,360 --> 00:37:12,080
+And if you have some ability and or you train very hard, some people can almost double it.
+
+381
+00:37:12,800 --> 00:37:20,480
+And so what happens is that once your VO2 max goes up again, just like physical activity,
+
+382
+00:37:20,480 --> 00:37:26,720
+it's a measure of physical fitness and it's also linked to all cause mortality. So people,
+
+383
+00:37:26,720 --> 00:37:32,560
+the fitter you are, the lower your chance of dying in the next year or two years, five years,
+
+384
+00:37:32,560 --> 00:37:38,320
+ten years. And it's it for many years, they thought that things sort of plateaued at what they call
+
+385
+00:37:38,320 --> 00:37:43,280
+about 10 or 12 met. So met mean you're resting metabolic rate. So you had to be able to get 10
+
+386
+00:37:44,000 --> 00:37:49,600
+10 mats and 10 mats is being able to run one mile in about 10 minutes, roughly for the average
+
+387
+00:37:49,600 --> 00:37:55,280
+person. And now people have shown a group in Henry Ford in Detroit have shown that that continues
+
+388
+00:37:55,280 --> 00:38:04,240
+to rise even up to 1516 met. So people that are quite fit continue to gain, you know, benefit in
+
+389
+00:38:04,240 --> 00:38:09,360
+terms of all cause mortality. I mentioned the cross country skiers earlier. And while they didn't
+
+390
+00:38:09,360 --> 00:38:14,960
+do VO2 max tests in those people, the people who had completed the most races and done the races
+
+391
+00:38:14,960 --> 00:38:19,840
+the fastest. So people who had both been active for the longest period of time and probably were
+
+392
+00:38:19,840 --> 00:38:25,280
+the fittest also had lower lower all cause mortality than people who had not not compared
+
+393
+00:38:25,280 --> 00:38:29,200
+to sedentary peers, but compared to people who've done a few races a little bit slower.
+
+394
+00:38:30,080 --> 00:38:35,280
+So yeah, peak fitness matters. Yeah, when we look at that, that there's a paper in JAMA that I think
+
+395
+00:38:35,280 --> 00:38:40,640
+is by far the most compelling description of this phenomenon. A couple things are noteworthy about
+
+396
+00:38:40,640 --> 00:38:44,800
+it. I've talked about this on a previous AMA, because it's it's really one of the I would
+
+397
+00:38:44,800 --> 00:38:51,920
+consider it one of the 10 most influential papers that I have read in terms of changing how I think
+
+398
+00:38:51,920 --> 00:39:00,320
+about, you know, health span and lifespan. As you said, the relationship is monotonic,
+
+399
+00:39:01,120 --> 00:39:07,680
+and it does not plateau. So it's that's that's an important thing to to appreciate, which is,
+
+400
+00:39:08,320 --> 00:39:14,960
+this is a more is better phenomenon. And very few things in physiology are more is better. Yeah,
+
+401
+00:39:14,960 --> 00:39:21,840
+usually physiology behaves in use and upside down use or maybe J's and things like that.
+
+402
+00:39:21,920 --> 00:39:27,360
+Or, or, or, you know, a shake or whatever. Correct. Exactly. Sigmoid curves. But this is not the
+
+403
+00:39:27,360 --> 00:39:33,360
+case here. This study that we're talking about put people into the bottom 25th percentile,
+
+404
+00:39:33,360 --> 00:39:39,280
+you know, 25th to 50th percentile, 50th to 75th. And then the last group, it basically divided into,
+
+405
+00:39:39,280 --> 00:39:44,160
+you know, 75th to 97 and a half. And then they had that little sliver of people that they called
+
+406
+00:39:44,160 --> 00:39:51,120
+elite that were at the top two and a half percentile. And all cause mortality just went lower and lower
+
+407
+00:39:51,600 --> 00:39:55,120
+and lower. Correct. And if you looked at the hazard ratio the other way, because we often think about
+
+408
+00:39:55,120 --> 00:39:59,760
+hazard ratios and risk reduction. But if you look about it in risk increase, when you compared
+
+409
+00:40:00,320 --> 00:40:07,200
+the people in the top two and a half percent of the VO two max to the bottom 25 percent,
+
+410
+00:40:07,200 --> 00:40:12,480
+the hazard ratio moving in that direction was five point zero four. My memory serves correctly.
+
+411
+00:40:12,480 --> 00:40:19,040
+That means there's a five fold increase in all cause mortality between the fittest two and a half
+
+412
+00:40:19,040 --> 00:40:25,520
+percent and the least correct 25 percent. And even when you took something less extreme, I believe
+
+413
+00:40:25,520 --> 00:40:33,040
+if you looked at the least fit 25 percent to the third quartile. So the 50th to the 75th percentile,
+
+414
+00:40:33,040 --> 00:40:38,720
+the hazard ratio was still about just just below three. I think it was two point seven five ish,
+
+415
+00:40:38,720 --> 00:40:45,760
+which was kind of right on par with the increase in mortality that you would see from having end
+
+416
+00:40:45,760 --> 00:40:50,720
+stage renal disease, which is by the way greater than the hazard ratio associated with smoking.
+
+417
+00:40:51,920 --> 00:40:58,960
+Yeah. No, no. Being unfit is an incredible risk factor. You know, and people like Frank Booth
+
+418
+00:40:58,960 --> 00:41:05,200
+have argued that it should be, you know, for lack of a better word, the risk factor. And Jill Barnes,
+
+419
+00:41:05,200 --> 00:41:08,720
+one of my fellows at the time, she's now at the University of Wisconsin, a faculty member, she and
+
+420
+00:41:08,720 --> 00:41:16,000
+I wrote a editorial for Mayo Clinic Proceedings that maybe five, ten years ago where we said,
+
+421
+00:41:16,000 --> 00:41:24,000
+look, if people had, you know, twelve, thirteen, fourteen met peak exercise capacity other than
+
+422
+00:41:24,000 --> 00:41:30,720
+doing cancer screening, you could probably just ignore everything else. You know, I mean, and
+
+423
+00:41:30,720 --> 00:41:35,040
+that's a little bit I don't think anybody's ready to go there. The sorts of people who do health
+
+424
+00:41:35,040 --> 00:41:39,440
+screening and that sort of thing. But if you screen people for physical fitness and again,
+
+425
+00:41:39,440 --> 00:41:43,840
+just did the routine kind of cancer screening and you can even argue that you could probably cut
+
+426
+00:41:43,840 --> 00:41:50,080
+back on the routine cancer screening for most things, except for skin cancers because fit people
+
+427
+00:41:50,080 --> 00:41:56,080
+tend to be outside of it more. You can make that argument. Yeah. Make it with a straight face and
+
+428
+00:41:56,080 --> 00:42:00,560
+the data is there to support it. And I would belt and suspenders it and say, but look, I'd still do
+
+429
+00:42:00,560 --> 00:42:04,720
+the cancer screening. I'd still consider aggressive lipid management and things like that. But
+
+430
+00:42:05,360 --> 00:42:09,360
+you're absolutely right. I mean, there's really no intervention that we have that's going to rival it.
+
+431
+00:42:09,360 --> 00:42:14,480
+Well, and I think, I think you mentioned limpets, Peter, and I think there's a couple of things
+
+432
+00:42:14,480 --> 00:42:19,040
+you got to remember. One, especially for people who pick it up late in life, you know, exercise
+
+433
+00:42:19,040 --> 00:42:24,320
+is not a vaccine. And one of the most incredible studies ever done, again, we're talking about
+
+434
+00:42:24,320 --> 00:42:29,120
+these sort of one in of one experiment of nature sorts of things is there was a man named Clarence
+
+435
+00:42:29,200 --> 00:42:35,680
+DeMar. He won the Boston marathon seven times. He was born, I think in 1888 or 1890. Also won
+
+436
+00:42:35,680 --> 00:42:40,880
+a medal in the 24 Olympics, got a bronze medal in the marathon. And he really is almost like master
+
+437
+00:42:40,880 --> 00:42:46,160
+athlete number one. So he kept training his whole life, ended up dying, I think, of stomach cancer
+
+438
+00:42:47,040 --> 00:42:52,480
+at about age 70. So he didn't live to be a gazillion. But remember, he was born in, in, in
+
+439
+00:42:52,480 --> 00:42:58,720
+1888 or 1890. Anyways, Paul Dudley White, a famous cardiologist, we know him from something
+
+440
+00:42:58,720 --> 00:43:03,360
+called the Wolf Parkinson White syndrome, a weird kind of funny heart people get. He did an
+
+441
+00:43:03,360 --> 00:43:10,560
+autopsy on DeMar. And he'd run really until very late in life. And he had some plaque or, you know,
+
+442
+00:43:10,560 --> 00:43:16,080
+fatty builds up and calcium buildup in his coronary arteries. But his coronary arteries were huge,
+
+443
+00:43:16,640 --> 00:43:23,600
+were just massive. And subsequent to that, a man named Bill Hasglout at Stanford in the middle 90s
+
+444
+00:43:24,240 --> 00:43:28,320
+studied a bunch of ultra people who've done ultra marathons and they did the same thing,
+
+445
+00:43:28,320 --> 00:43:33,840
+except this time they put catheters in injected drugs to make the blood vessels expand. And they
+
+446
+00:43:33,840 --> 00:43:38,720
+showed the blood vessels were bigger and they expanded more. So, so again, while you could still
+
+447
+00:43:38,720 --> 00:43:45,120
+have some blockages, even if you exercise, and there are people with horrible lipids who do,
+
+448
+00:43:45,120 --> 00:43:50,800
+in fact, get heart disease in spite of exercise. So it's not a complete, you know, complete vaccine,
+
+449
+00:43:51,520 --> 00:43:57,760
+but it's overall protective effect is quite large, both in terms of what it does to people's
+
+450
+00:43:57,760 --> 00:44:02,560
+lipids, but the fact that the blood vessels get so much bigger and the linings of the blood vessels
+
+451
+00:44:02,560 --> 00:44:11,120
+are healthier. Mike, one of the things that we've looked at a lot internally is the literature that
+
+452
+00:44:11,120 --> 00:44:15,680
+argues a different point, the literature that argues that in fact, there's a J curve here.
+
+453
+00:44:16,240 --> 00:44:22,400
+And we all agree that a person who doesn't do anything is at the highest risk. The
+
+454
+00:44:22,400 --> 00:44:28,400
+literature is so unambiguous there, it doesn't warrant any further discussion. But now let's
+
+455
+00:44:28,400 --> 00:44:33,280
+now look at the addition of work. Now you and I, I just want to make sure that the listener
+
+456
+00:44:33,280 --> 00:44:36,800
+understands the way we're going to talk about this. Let's talk about these in met hours per week.
+
+457
+00:44:36,800 --> 00:44:40,080
+So you've already done a great job explaining. A weird, a weird.
+
+458
+00:44:40,640 --> 00:44:46,800
+Oh, I've actually had to convert my own training into a met hour per week spreadsheet so that I
+
+459
+00:44:46,800 --> 00:44:51,200
+can interpret what I do in the context of all the literature. A weird metric for sure. Totally
+
+460
+00:44:51,200 --> 00:44:56,080
+weird. But let's explain to people what is. So you've told us what a met is. One met is the
+
+461
+00:44:56,080 --> 00:45:01,280
+metabolic expenditure of sitting at rest, which corresponds to about 3.5 milliliters per minute
+
+462
+00:45:01,280 --> 00:45:08,240
+per kilogram of minute ventilation. So, or actually VO2, so oxygen ventilation, not pulpit
+
+463
+00:45:08,800 --> 00:45:13,280
+Okay. So then let's talk about how that ramps up, right? So if you, if, how many
+
+464
+00:45:13,280 --> 00:45:18,480
+Mets is it, Mike, to walk three miles in an hour? That's, that's probably four, five, six,
+
+465
+00:45:18,480 --> 00:45:21,120
+something like that. I don't know. Okay. I would have guessed. It may, it may be,
+
+466
+00:45:21,120 --> 00:45:26,560
+because, because remember, remember a 10 minute mile is, is, is 10 Mets. Okay.
+
+467
+00:45:27,200 --> 00:45:32,000
+Seven mile, six miles in an hour. Yeah. And that's pretty nonlinear. So yeah, yeah,
+
+468
+00:45:32,000 --> 00:45:34,960
+yeah, you're right. It's probably about three or three to four Mets. I would guess would be
+
+469
+00:45:35,040 --> 00:45:42,880
+something like that. Yeah. Yeah. Okay. And then of course, as you noted to run a tent to run a six,
+
+470
+00:45:42,880 --> 00:45:48,080
+six miles in an hour would be 10 Mets. So let's say you did that. So you, you went out and ran,
+
+471
+00:45:49,600 --> 00:45:54,640
+you ran six miles in an hour for an energy expenditure of 10 Mets. So that would be 10
+
+472
+00:45:54,640 --> 00:46:00,400
+Met hours. You did 10 Mets times one hour. And if you did that four times a week,
+
+473
+00:46:00,480 --> 00:46:05,040
+and that was anything you did, you'd be at 40 Met hours per week. Correct. Of activity.
+
+474
+00:46:05,840 --> 00:46:10,560
+So I do this for my training. So I, I spend how much time am I on the bike at this many Watts,
+
+475
+00:46:10,560 --> 00:46:16,720
+at this many Watts and in the room and, you know, carrying my rucksack and, you know, I'm sort of in
+
+476
+00:46:16,720 --> 00:46:20,880
+the hundred met hours per week category. Correct. So if you look at the literature,
+
+477
+00:46:21,440 --> 00:46:28,400
+the epidemiology on this, it would say my mortality risk might be higher. That would be the headline
+
+478
+00:46:28,400 --> 00:46:34,000
+than someone who's doing 40 Met hours per week. In other words, it's a J curve. So it sort of starts
+
+479
+00:46:34,000 --> 00:46:40,240
+up here highest mortality at nothing mortality comes down sort of naders, depending on the study
+
+480
+00:46:40,240 --> 00:46:46,320
+between 50 and 75 met hours per week. And then the mortality tends to climb. Now, you know, I won't go
+
+481
+00:46:46,320 --> 00:46:51,200
+into this in great detail other than we've, we've looked at every one of these papers and we find
+
+482
+00:46:51,200 --> 00:46:56,000
+significant fault in each of them. What do you see? Not all of them, not all of them say that,
+
+483
+00:46:56,000 --> 00:47:03,360
+not all of them say that in the sense that some, yeah, the big NCI study was 650,000 patients
+
+484
+00:47:03,360 --> 00:47:09,280
+or subjects didn't say that. And again, you know, what I really like is that, that, that cross
+
+485
+00:47:09,280 --> 00:47:14,400
+country ski paper that I mentioned from Scandinavia and, and these, you know, if somebody's going to
+
+486
+00:47:14,400 --> 00:47:18,800
+ski 90 kilometers and if they're going to do it year after year and they're going to do it fast,
+
+487
+00:47:18,800 --> 00:47:21,520
+they're going to have to be trained a lot. You're going to have to be training a lot. You're going
+
+488
+00:47:21,520 --> 00:47:25,440
+to be training year around. You almost are certainly getting all sorts of met hours.
+
+489
+00:47:26,000 --> 00:47:31,360
+And, and, and training pretty hard. Now the one caveat in all this is, is that,
+
+490
+00:47:31,360 --> 00:47:35,600
+and I agree with you completely. I don't think the evidence for a J curve is particularly good.
+
+491
+00:47:36,800 --> 00:47:41,280
+The other thing is in many of these studies, the number of people that are way out there is very
+
+492
+00:47:41,280 --> 00:47:46,000
+small. So even one decimited gets hit by a car or something. It can make a difference. That's
+
+493
+00:47:46,000 --> 00:47:52,000
+certainly one of the problems with a study from Mike Copenhagen, as I recall, or Norway,
+
+494
+00:47:52,000 --> 00:47:57,920
+but one of the Scandinavian capitals. And, and again, so I really think that the dispositive
+
+495
+00:47:57,920 --> 00:48:05,120
+study here is the real world data from, from the Vaselopet story. Now the one thing that does happen
+
+496
+00:48:05,120 --> 00:48:11,120
+is, is that people do have at least an apparent increase in risk of atrial fibrillation.
+
+497
+00:48:12,000 --> 00:48:16,960
+And now there's two, there's two, a couple of caveats to that. The first thing is they do not
+
+498
+00:48:16,960 --> 00:48:23,680
+have any increased risk of fatal arrhythmias. I mean, atrial fib is no fun, but it, but it certainly
+
+499
+00:48:23,680 --> 00:48:29,280
+can, you know, lead to medical problems, but not typically to kill you. The sorts of things that
+
+500
+00:48:29,280 --> 00:48:37,120
+kill you ventricular arrhythmias, these are not seen in any, to any greater extent in these people
+
+501
+00:48:37,120 --> 00:48:42,720
+that are, you know, really heavy exercises for their entire life. So then the question becomes,
+
+502
+00:48:42,720 --> 00:48:46,960
+do these people actually have more atrial fibrillation or is it just that they're exercising
+
+503
+00:48:46,960 --> 00:48:52,720
+and notice it? And, and that's the controversy. I think, I think you would probably have to say
+
+504
+00:48:52,720 --> 00:48:59,600
+that people who, who train the way you're talking about for, for their entire life have some
+
+505
+00:48:59,600 --> 00:49:05,600
+increased risk of atrial fib compared to people that are just super healthy otherwise and, and
+
+506
+00:49:05,600 --> 00:49:09,840
+physically active at that 50 to 70 met hour per week thing you're talking about or level you're
+
+507
+00:49:09,840 --> 00:49:14,560
+talking about, but your risk of atrial fibrillation is still probably lower than people who are
+
+508
+00:49:14,560 --> 00:49:20,000
+sedentary, hypertensive, obese, diabetic, and so forth. And there are good treatments for atrial
+
+509
+00:49:20,000 --> 00:49:25,520
+fibrillation and you continue to be protected against fatally arrhythmias. So, so I think that,
+
+510
+00:49:26,720 --> 00:49:32,560
+that that's the one caveat. I think that where there, the evidence is, is, is better than marginal
+
+511
+00:49:32,560 --> 00:49:37,040
+this atrial fib story. And what do you think about sort of myocardial fibrosis? There's,
+
+512
+00:49:37,120 --> 00:49:42,160
+there's been some talk about that. Do we, do we, do we see compelling evidence to suggest?
+
+513
+00:49:42,160 --> 00:49:46,080
+No, I think in fact, you see, you see the opposite. If you look at people who've been,
+
+514
+00:49:47,040 --> 00:49:51,120
+if you look at, you get the data from a Ben Levine's group down in Dallas where they've
+
+515
+00:49:51,120 --> 00:49:55,920
+done a bunch of echoes and loaded the heart and done all kinds of things. And they show that,
+
+516
+00:49:55,920 --> 00:50:03,360
+that, that young fit, young people have very flexible, compliant heart muscles. And they
+
+517
+00:50:03,360 --> 00:50:07,680
+show that that declines with age, but, but doesn't decline nearly so fast in people that are either
+
+518
+00:50:07,680 --> 00:50:13,360
+habitual exercises or people who remain master athletes or remain highly competitive. So again,
+
+519
+00:50:13,360 --> 00:50:18,560
+I think that you can, you can talk yourself into these sorts of things through a case report here,
+
+520
+00:50:18,560 --> 00:50:22,640
+a case report there. But when you look at the sort of data that came from Ben's lab
+
+521
+00:50:23,280 --> 00:50:28,960
+and, and other things, you see that, that, that this sort of training keeps the ventricles
+
+522
+00:50:28,960 --> 00:50:35,440
+compliant, flexible, and, and able to handle the, the, the, you know, the increased demands and
+
+523
+00:50:35,440 --> 00:50:41,680
+pumping demands of exercise. So I think the fibrosis argument's a little spurious. I think
+
+524
+00:50:41,680 --> 00:50:47,360
+we've, we've talked a little bit earlier about the large coronary arteries in people that are
+
+525
+00:50:47,360 --> 00:50:53,760
+habitually physically active. We've talked that those arteries vasodilate better. They probably
+
+526
+00:50:53,840 --> 00:50:58,960
+are less likely to generate a clot. And then we've just simply said, and you're protected against
+
+527
+00:50:58,960 --> 00:51:04,080
+fatal arrhythmias. We've just simply said there may be a subtle increased risk in atrial fibrillation,
+
+528
+00:51:04,080 --> 00:51:10,000
+but again, good treatments for atrial fib. And so, so I think, I think you're in good shape. I think
+
+529
+00:51:10,640 --> 00:51:15,840
+in that regard, doing as much as you do Peter. And I think then the other thing to remember is that,
+
+530
+00:51:16,800 --> 00:51:23,600
+that, you know, it's not, it's not a, an absolute vaccine or an absolute, you know, you work out
+
+531
+00:51:23,600 --> 00:51:28,080
+an hour a day, you're never going to get, have heart disease, but, but I think your risk is going
+
+532
+00:51:28,080 --> 00:51:33,440
+to be dramatically reduced as, as we've discussed throughout the visit so far. The other thing I
+
+533
+00:51:33,440 --> 00:51:40,640
+think that argues in favor of, sorry, argues against the J curve is the VO2 max data that we
+
+534
+00:51:40,640 --> 00:51:45,680
+just discussed, which is an enormous cohort, probably the largest cohort after Copenhagen
+
+535
+00:51:45,920 --> 00:51:50,400
+cohort and far more balanced in terms of the number of people in each group. And has been
+
+536
+00:51:50,400 --> 00:51:55,600
+repeated in other populations. Yeah. And so, so there you have to ask the question, how is it
+
+537
+00:51:55,600 --> 00:52:03,600
+that people in the top 2.3% of the population for VO2 max have the lowest mortality by a wrong shot
+
+538
+00:52:04,240 --> 00:52:08,480
+if they're not training significantly? Correct. Because I, you know, I, if you, I look at,
+
+539
+00:52:08,480 --> 00:52:13,520
+I know those numbers very well. I mean, we, we, we put all of our patients up against that template
+
+540
+00:52:13,600 --> 00:52:18,080
+and we show them where they are and where we want them to be. And we actually hold them to an even
+
+541
+00:52:18,080 --> 00:52:23,920
+higher standard, Mike, we kind of want our patients to be at the elite level for a decade below where
+
+542
+00:52:23,920 --> 00:52:27,440
+they are actually are age wise. Correct. And I'll tell you in a moment why we do that. I want to see
+
+543
+00:52:27,440 --> 00:52:34,000
+if you agree with my logic, but I just, you know, having been training my whole life, I can tell you,
+
+544
+00:52:34,000 --> 00:52:39,680
+I don't see how you're going to get there doing 40 met hours per week. Like you can't achieve a VO2
+
+545
+00:52:39,680 --> 00:52:44,400
+max of that level, just doing a little bit of, you know, maintenance stuff here and there. I mean,
+
+546
+00:52:44,400 --> 00:52:48,240
+you have to be training. Yeah, you have to be training. You have to be doing some high intensity
+
+547
+00:52:48,240 --> 00:52:52,880
+training. So I agree with you. And, and the other thing is if you look at some classic studies by
+
+548
+00:52:52,880 --> 00:52:59,680
+people like Bob Hickson and more recently, Wisloff's group up in Norway, you know, people who do some
+
+549
+00:52:59,680 --> 00:53:05,760
+longer intervals three or four times a week can get a lot of bang for their buck in terms of VO2 max.
+
+550
+00:53:05,760 --> 00:53:08,320
+Well, I'm going to, I'm going to come back to that, Mike, because I want to talk very
+
+551
+00:53:08,320 --> 00:53:12,800
+specifically about the different modalities for training. Before I do, I want to see if you can
+
+552
+00:53:12,800 --> 00:53:18,480
+check my logic on this. Okay, sure. A big part of where we come up with the reason you want to have
+
+553
+00:53:18,480 --> 00:53:24,960
+a high VO2 max when you're young is we want to be able to prepare for the inevitability of decline.
+
+554
+00:53:24,960 --> 00:53:30,800
+So I want to start by just asking you, what is the most up to date understanding of how much
+
+555
+00:53:31,600 --> 00:53:38,080
+peak VO2 declines in, and let's do it in a non-training individual and a training individual.
+
+556
+00:53:38,480 --> 00:53:44,720
+So, so if you look at, if you look at it this way, so, so in general, people think VO2 max declines
+
+557
+00:53:44,720 --> 00:53:49,840
+about 10% per decade, starting in the fourth decade. So sometime in your thirties, you know,
+
+558
+00:53:49,840 --> 00:53:54,640
+some people say nine, some people say 12, some people say eight, but roughly 10%. All right.
+
+559
+00:53:54,640 --> 00:54:00,320
+A lot of that is driven by a age-related decline in heart rate, but in people that are not training,
+
+560
+00:54:01,040 --> 00:54:06,880
+it's driven just because their heart can't pump as much blood and their muscles can't use it.
+
+561
+00:54:06,880 --> 00:54:13,360
+So among people who are training, you start at a higher level. And then if people continue to
+
+562
+00:54:13,360 --> 00:54:19,440
+train, you probably don't see a big decline until your late thirties or early forties. And we see
+
+563
+00:54:19,440 --> 00:54:24,240
+that among athletes because there are world-class endurance athletes in the early forties. And then
+
+564
+00:54:24,240 --> 00:54:32,320
+you can reduce the rate of decline by about half up to certainly up to your seventies probably.
+
+565
+00:54:32,880 --> 00:54:40,880
+Now, not everybody keeps training hard. And if people stop training, their VO2 max falls
+
+566
+00:54:40,880 --> 00:54:46,400
+precipitously. Dr. Dave Costell, really one of the founders of exercise physiology in the United
+
+567
+00:54:46,400 --> 00:54:51,600
+States, studied a lot of elite athletes in the sixties and seventies. He brought them back to
+
+568
+00:54:51,600 --> 00:54:56,560
+his lab when these guys in the nineties, 1990s, when they were in their late forties and fifties.
+
+569
+00:54:57,120 --> 00:55:01,360
+And about a third of them had continued to train very hard and had minimal reductions in their VO2
+
+570
+00:55:01,440 --> 00:55:06,400
+max. A third had become sort of joggers, had some reduction. And there was a third that had just
+
+571
+00:55:06,400 --> 00:55:10,560
+stopped doing anything and they looked like regular sedentary people. So you do have to stay at it.
+
+572
+00:55:10,560 --> 00:55:16,240
+So I think that, and there's a group of master athletes in, out in the LA area were studied,
+
+573
+00:55:16,240 --> 00:55:22,320
+same sorts of things. People declined and their VO2 max declined. But among the people who, who
+
+574
+00:55:23,920 --> 00:55:29,520
+continued to train intensely. And in the case of the men do some strength training,
+
+575
+00:55:29,520 --> 00:55:36,240
+their VO2 max declined at a much lower rate. So, so, so you have a situation where it's 10%
+
+576
+00:55:36,240 --> 00:55:41,120
+if you do nothing, you know, somewhere in, and if you really work at it and stay,
+
+577
+00:55:42,240 --> 00:55:48,400
+stay with it at a really high level, it's, it's, you know, maybe five or 6% per decade.
+
+578
+00:55:48,400 --> 00:55:53,040
+But most people who've been super competitive can't quite keep doing that their entire life.
+
+579
+00:55:53,040 --> 00:55:58,240
+So they drop off a little bit. But even if they drop off 10% per decade, they started a much higher
+
+580
+00:55:58,240 --> 00:56:05,360
+baseline. So if your baseline is 60 versus 35 and you lose 10% per decade, you're still going to be
+
+581
+00:56:05,360 --> 00:56:11,920
+way, way, way ahead, way ahead. And at age 60 or 70, you're going to have a VO2 max value higher,
+
+582
+00:56:12,560 --> 00:56:21,520
+higher than, you know, 30 year old. So the reason we push so hard, Mike, for our patients to have
+
+583
+00:56:21,520 --> 00:56:27,840
+as high a VO2 max possible as possible when they're in their forties and fifties is based
+
+584
+00:56:27,840 --> 00:56:33,360
+on this inevitability of decline and with the hopes that we're extending life by a decade. So that,
+
+585
+00:56:33,360 --> 00:56:38,720
+hey, even though actuarially you might only be expected to live to 81, we're kind of hoping
+
+586
+00:56:38,720 --> 00:56:45,280
+you're going to get to 91. Correct. And if you say you want to be active, then we have to reverse
+
+587
+00:56:45,280 --> 00:56:56,000
+engineer what that means. So what do you think is the VO2 max above which you have absolutely no
+
+588
+00:56:56,000 --> 00:57:01,600
+limitation on any normal person's activities? In other words, if you said to me, hey, look,
+
+589
+00:57:01,600 --> 00:57:07,120
+when I'm in my eighties, I want to be able to do pretty much anything reasonable. I don't have to
+
+590
+00:57:07,120 --> 00:57:12,080
+run a five minute mile. But what I do want to be able to do is I want to go on a hard hike.
+
+591
+00:57:12,080 --> 00:57:19,120
+And if that means I got to climb 100 feet in half a mile, so be it. Well, Peter, that's a
+
+592
+00:57:19,120 --> 00:57:24,800
+great question. It goes back to one of your earlier comments about, you know, your scale versus the
+
+593
+00:57:24,800 --> 00:57:30,320
+traditional kind of anti frailty scale. And what do you want to not be able to do when you're 85 or
+
+594
+00:57:30,320 --> 00:57:37,760
+whatever the magic number is? So if you look at it, 14 Mets, which is which is 14, a VO2 of 14
+
+595
+00:57:38,480 --> 00:57:44,720
+mls per kg per minute or four Mets, four Mets is required from an oxygen consumption sort of
+
+596
+00:57:44,720 --> 00:57:50,160
+perspective for people to do their activities of daily living, which means an occasional somewhat
+
+597
+00:57:50,160 --> 00:57:55,200
+brisk walk for a few minutes and be able to kind of get around the house, go to the supermarket and
+
+598
+00:57:55,200 --> 00:58:01,440
+be quote, independent, whatever that means. And now if you want to be able to run, you know,
+
+599
+00:58:02,160 --> 00:58:10,240
+10 a mile in 10 minutes, that would be 35 VO2 max. Yeah. Yeah. 35 or 10 Mets. Now, so somewhere
+
+600
+00:58:10,240 --> 00:58:15,200
+between those two are the magic numbers. And so so I would say that, you know, if somebody in their
+
+601
+00:58:15,200 --> 00:58:22,000
+80s had a max in their in their 20s or or lower 30s, that'd be terrific. Well, that's so funny
+
+602
+00:58:22,000 --> 00:58:28,480
+what you say. We have arrived at 30 to 31 as the magic number. That would be a rough guess. And
+
+603
+00:58:28,560 --> 00:58:34,240
+what's interesting that you mentioned that is those Scandinavian elite skiers I mentioned,
+
+604
+00:58:35,040 --> 00:58:42,000
+had values in the very high 30s or low 40s in their 80s. Now, but remember, they would any
+
+605
+00:58:42,000 --> 00:58:50,800
+any sort of biological gifts or genetic gifts that those men had and or the fact that they started to
+
+606
+00:58:50,800 --> 00:58:57,200
+train, you know, probably be very physically active as youngsters and really were maximally
+
+607
+00:58:57,280 --> 00:59:02,160
+physically active from age, you know, 13, 14 to probably 30. Yeah, that would account for that.
+
+608
+00:59:02,160 --> 00:59:08,480
+Yeah. So so so I think I think 30 be a terrific goal. But I think the other thing too is is,
+
+609
+00:59:09,440 --> 00:59:13,600
+you know, how many push ups do you want to be able to do and how many sorts of body weight type of
+
+610
+00:59:13,600 --> 00:59:18,240
+things do you want to be able to do? You know, what sort of agility maneuvers do you want to
+
+611
+00:59:18,800 --> 00:59:24,160
+be able to do? And I think, you know, we have to kind of factor in factor in, you know,
+
+612
+00:59:24,160 --> 00:59:30,080
+orthopedic problems and that sort of thing. But but again, we have good treatment for those now.
+
+613
+00:59:30,080 --> 00:59:35,600
+And orthopedic surgeons can fix a lot of things that other otherwise would have made people very
+
+614
+00:59:36,480 --> 00:59:40,800
+difficult for them to walk and move around. Well, and we, yeah, we think a lot about those things.
+
+615
+00:59:40,800 --> 00:59:45,120
+And we think that strength and stability need to be trained in parallel and as hard as we're
+
+616
+00:59:45,120 --> 00:59:52,160
+training from a cardio standpoint. But I do think this idea that, hey, if you're trying to reverse
+
+617
+00:59:52,160 --> 01:00:01,120
+engineer ending your life with a VO two max in the mid 20s to high 30s, the good news is you are
+
+618
+01:00:01,120 --> 01:00:06,880
+never going to not be able to do something that you want to do. Correct. If you're in the airport
+
+619
+01:00:06,880 --> 01:00:12,400
+and the escalator isn't working. Yeah, I don't care. Which is which and I think the thing you have
+
+620
+01:00:12,400 --> 01:00:16,960
+to ask people and this really resonates is, you know, do you want to be able to play with your
+
+621
+01:00:16,960 --> 01:00:22,720
+grandchildren? That's one question for people. The escalator question, that's a terrific question.
+
+622
+01:00:23,440 --> 01:00:28,080
+A terrific question. Yeah, I was just in the airport last week, escalator down, you got to
+
+623
+01:00:28,080 --> 01:00:32,240
+be able to care and it's a long one of those really long ones. Yeah, right. You got your carry-on bag
+
+624
+01:00:32,240 --> 01:00:35,920
+plus your backpack and you got to get up the escalator. Now, I'm sure somewhere out there there
+
+625
+01:00:35,920 --> 01:00:42,000
+was an elevator. But the point is, do you want to be able to do this stuff? And if you do, then you
+
+626
+01:00:42,080 --> 01:00:47,360
+have to do the math. You have to work to agree. You got to do the math. And what's interesting
+
+627
+01:00:47,360 --> 01:00:54,560
+too is if you see a few people around here in rural Minnesota who, you know, grew up on
+
+628
+01:00:55,200 --> 01:01:00,000
+less than fully mechanized farms and remain, you know, active milking cows and doing these
+
+629
+01:01:00,000 --> 01:01:06,880
+sorts of things, doing a whole lot of chores. And it's remarkable the muscle mass that some of these
+
+630
+01:01:06,880 --> 01:01:14,800
+men and women have, you know, that some have. And I think that that is something to keep in mind
+
+631
+01:01:14,800 --> 01:01:22,160
+too, if you look at these people in these, well, if you look at in Japan, for example, in a couple
+
+632
+01:01:22,160 --> 01:01:26,720
+places, you know, the hilliest parts of Japan and some of the hilliest parts of Italy and Greece are
+
+633
+01:01:26,720 --> 01:01:31,040
+where the longevity is the highest. And people have argued it's because people have to walk up and down
+
+634
+01:01:31,760 --> 01:01:37,360
+the hills. And also, and so they keep their balance and keep their glute strength. They don't
+
+635
+01:01:37,360 --> 01:01:42,400
+fall, that sort of thing, Peter. And also that they're, you know, living a more rustic lifestyle
+
+636
+01:01:42,400 --> 01:01:48,400
+is probably getting them some de facto strength training on a daily basis. So yeah, so I agree with
+
+637
+01:01:48,400 --> 01:01:54,880
+you. Let's talk a little bit about VO2 max again in terms of like, what is actually driving it? So
+
+638
+01:01:54,880 --> 01:01:58,880
+let's go through all the variables, right? So you've got sort of gas exchange,
+
+639
+01:01:59,040 --> 01:02:04,240
+you've got sort of gas exchange in the lung. In the lung, correct. And then you've got gas
+
+640
+01:02:04,240 --> 01:02:10,320
+exchange in, or sorry, then you have pump efficiency, right? So we went through the mechanics
+
+641
+01:02:10,320 --> 01:02:13,920
+of that again, but just so people understand what we talk about, you've got stroke volume,
+
+642
+01:02:14,480 --> 01:02:19,680
+contractility, of course, afterload and preload and all those things that determine basically
+
+643
+01:02:19,680 --> 01:02:25,120
+the efficacy of the pump to move the medium to the capillary bed. And then you have capillary
+
+644
+01:02:25,120 --> 01:02:29,520
+exchange in the muscle bed. Right. So broadly speaking, let's just say those are three
+
+645
+01:02:29,520 --> 01:02:34,080
+variables, right? You've got the gas exchange at the source, you've got the pump, and then you've
+
+646
+01:02:34,080 --> 01:02:38,560
+got the gas exchange at the destination. Is that, I know that's overly simplistic. Yeah,
+
+647
+01:02:38,560 --> 01:02:42,800
+it's a way to look at it. So let's just think you got air to lung, lung to blood,
+
+648
+01:02:43,600 --> 01:02:52,080
+blood from the heart to the tissues and oxygen from the blood to the tissues, right? So there's
+
+649
+01:02:52,080 --> 01:03:00,320
+four or five steps like that and you enumerated the three big ones. And so in general, oxygen
+
+650
+01:03:00,320 --> 01:03:07,360
+uptake is cardiac output, how much blood you're pumping per minute times arterial venous oxygen
+
+651
+01:03:07,360 --> 01:03:11,760
+difference, how much blood you're extracting, or oxygen you're extracting out of the blood.
+
+652
+01:03:12,480 --> 01:03:17,200
+And it turns out that if you look at all the studies and all the people fit, unfit, trained,
+
+653
+01:03:17,200 --> 01:03:25,360
+untrained, in general, the biggest issue is how much blood can you pump? And so what is that heart
+
+654
+01:03:25,360 --> 01:03:30,640
+rate times stroke volume equation? Where does that leave us? Now, when you train, you get so you can
+
+655
+01:03:30,640 --> 01:03:35,040
+extract more. And if you're at high altitude or if you've got problems with your lungs, maybe the
+
+656
+01:03:35,040 --> 01:03:41,200
+lungs don't work as well. But in general, I like to tell people you cannot extract what has not been
+
+657
+01:03:41,200 --> 01:03:46,880
+delivered. So the key is delivery. And that's heart rate times stroke volume. And interestingly,
+
+658
+01:03:46,880 --> 01:03:51,440
+Peter, as you I'm sure you've seen, is some of your fittest people actually have slightly lower
+
+659
+01:03:51,440 --> 01:03:58,240
+peak heart rates. And one of the reasons is because their stroke volume is so high. One of the really
+
+660
+01:03:58,240 --> 01:04:03,600
+interesting again, experiment of nature patients is our subjects is a man called Eskeld Ebison,
+
+661
+01:04:03,600 --> 01:04:11,520
+who won gold medals in five Olympics and rowing for Denmark. And they have serial VO2 max date
+
+662
+01:04:11,520 --> 01:04:17,120
+on him from the time he was 18 or 19 till his early 40s. And his VO2 max stayed around, you know,
+
+663
+01:04:17,120 --> 01:04:22,800
+5.6 liters per minute, which is quite high. And he weighed about 70 kilos. I believe he was a
+
+664
+01:04:22,800 --> 01:04:30,960
+lightweight rower. And anyways, but his peak heart rate dropped from about 190 to 150 over that period
+
+665
+01:04:30,960 --> 01:04:36,240
+of time, which all that means is for he was able to pump the same amount of blood, but he had to do
+
+666
+01:04:36,240 --> 01:04:42,240
+more with each beat. And that's, that's sort of an interesting example. But that's an insane example,
+
+667
+01:04:42,240 --> 01:04:48,240
+actually. Yeah. Yeah. And again, these are the sorts of things you see. So, so that is really the
+
+668
+01:04:48,240 --> 01:04:53,920
+key. And so in other words, in the individual as they age, we think that the majority of the
+
+669
+01:04:53,920 --> 01:04:59,360
+reduction VO2 max is coming from cardiac output reduction. But right. And the majority is probably
+
+670
+01:04:59,360 --> 01:05:05,280
+coming from a reduction in peak heart rate, which can be buffered to some extent, if you have a nice
+
+671
+01:05:05,280 --> 01:05:12,320
+compliant ventricle, like we talked about. I mean, I'll tell you, I'm not quite yet 50. And I am just
+
+672
+01:05:12,320 --> 01:05:18,400
+saddened by the reduction in my peak heart rate. It is really breaking my heart. I mean, I was never
+
+673
+01:05:18,400 --> 01:05:22,560
+very high anyway, and I don't worry about it, you know, but I'm 63. So I stopped worrying about it.
+
+674
+01:05:22,560 --> 01:05:27,680
+I just I worry about what my workload is. Yeah, yeah, no, I just, but it is a may, I remember
+
+675
+01:05:27,680 --> 01:05:34,000
+thinking like, there will never be a day where I can't get my heart rate above X. But, but actually,
+
+676
+01:05:34,000 --> 01:05:41,280
+I'll tell you, for me, it fell quite precipitously in my 20s. So as a teenager, when I was training
+
+677
+01:05:41,280 --> 01:05:48,800
+obscenely hard, inappropriately hard, a heart rate of 200 was was an everyday occurrence. There was
+
+678
+01:05:48,800 --> 01:05:54,160
+never a day in high school that my heart rate didn't hit 200 to 205 beats per minute. Right.
+
+679
+01:05:56,160 --> 01:06:03,760
+And then by the time I was in medical school, so 24, 25 years old, all of a sudden it dropped
+
+680
+01:06:03,760 --> 01:06:08,640
+immediately to about 180. It became very difficult to get over 180, which by the way,
+
+681
+01:06:08,640 --> 01:06:15,920
+was far lower than the 220 minus your age prediction. So Peter, I was in a study, I was in
+
+682
+01:06:15,920 --> 01:06:20,720
+two famous studies as a subject. One is this lactate threshold study when I was 19. And then
+
+683
+01:06:20,720 --> 01:06:25,360
+a few years later, I went and worked one summer at Washington University in St. Louis, and I stopped
+
+684
+01:06:25,360 --> 01:06:30,720
+training. I just run, you know, finished my last year of track and field at the University of Arizona
+
+685
+01:06:30,720 --> 01:06:36,880
+and run 10,000 meters in 3048 and didn't double on the packed ends, which was fast. Well, I was
+
+686
+01:06:36,880 --> 01:06:40,800
+good enough to get labbed by the world record holders, like what is what I like to tell people.
+
+687
+01:06:40,800 --> 01:06:47,760
+But anyways, what happened is my peak heart rate was like 185 or 188. I can't remember. And over
+
+688
+01:06:47,760 --> 01:06:55,680
+the period of 12 weeks of detraining, it went up to about 10 beats a minute. Yeah. So which would
+
+689
+01:06:55,680 --> 01:07:00,800
+have been, you know, in the high one nineties, which would have been quote 220 minus by age,
+
+690
+01:07:00,800 --> 01:07:05,920
+at the time. But but again, and there are all sorts of examples, there's a bunch of data on
+
+691
+01:07:05,920 --> 01:07:11,680
+elite athletes showing that that some of them have peak heart rates similar to 220 minus their age,
+
+692
+01:07:12,400 --> 01:07:16,560
+but many are lower than that. And they're like Escald Ebesen, there are some people that have
+
+693
+01:07:16,560 --> 01:07:22,000
+been world record holders, Olympic champions that had peak heart rates in the 150s. Yeah, mine's if
+
+694
+01:07:22,400 --> 01:07:27,600
+I hit 170 today, it's a it's a great, yeah, that's a good, which is about 220 minus my age. But you
+
+695
+01:07:27,600 --> 01:07:35,360
+know, my my guess is I'd be hard, I'd press to get to 140. I was talking with Lance Armstrong on a
+
+696
+01:07:35,360 --> 01:07:40,400
+had him on the podcast, many actually, but maybe about a little less than a year ago, actually.
+
+697
+01:07:40,400 --> 01:07:44,880
+And we were talking about back in the in the heyday of his tours, they weren't really looking
+
+698
+01:07:44,880 --> 01:07:49,600
+at their power meters when they were competing. So they trained with the power meter. But when
+
+699
+01:07:49,600 --> 01:07:56,080
+it was when it was race day for the time trial, yeah, you just went off heart rate. And I was just
+
+700
+01:07:56,080 --> 01:08:03,920
+blown away. I mean, so you got to think Lance was winning the tours between 28 and 35. Right. He was
+
+701
+01:08:03,920 --> 01:08:12,320
+still holding 200 beats per minute for the entire time. Yeah, right. So so 45 minutes at 200 beats
+
+702
+01:08:12,320 --> 01:08:17,680
+per minute when you're 30 plus years old is and on the other example, there'll be a man named Bob
+
+703
+01:08:17,760 --> 01:08:24,400
+Schul, who is an American who won the 5000 in 1964, who did interval training all day and all night.
+
+704
+01:08:24,400 --> 01:08:30,960
+It was incredible how he trained in his peak area. I have the data someplace was like 154 156. It's
+
+705
+01:08:30,960 --> 01:08:36,240
+it's was not particularly Jim Ryan's was not the great miler was not particularly high in his 20s.
+
+706
+01:08:37,200 --> 01:08:43,680
+Yeah, so just incredible stroke volume. Correct. Correct, correct, correct. Big heart, big pumps.
+
+707
+01:08:43,680 --> 01:08:50,960
+All right. So let's talk a little bit about the training. So so let's let's start with something
+
+708
+01:08:50,960 --> 01:08:56,240
+that we haven't talked about, which, you know, when you look at the best, you know, high output
+
+709
+01:08:56,240 --> 01:09:01,440
+endurance athletes today, you know, it's one thing to talk about their peak engine performance,
+
+710
+01:09:01,440 --> 01:09:05,920
+but it's easy to overlook what they're doing at the low end. You know, I've had Inigo San
+
+711
+01:09:05,920 --> 01:09:13,280
+Milan on a podcast twice and we've talked at length about Tadeep Pagachar. And it's it's amazing
+
+712
+01:09:13,280 --> 01:09:17,760
+to talk about high hit how high his FTP is his functional threshold power. We can talk about his
+
+713
+01:09:17,760 --> 01:09:24,800
+VO two max, but equally amazing to that is how much power he can put out while keeping lactate
+
+714
+01:09:24,800 --> 01:09:30,080
+below two millimole. Right, right, right, right. And, you know, I think he's at four. He's over
+
+715
+01:09:30,080 --> 01:09:37,040
+four watts per kilo while keeping lactate before below two millimole. Right. And why that's amazing
+
+716
+01:09:37,040 --> 01:09:42,560
+for someone who doesn't ride a bike is you if you took an average fit person off the street and said
+
+717
+01:09:42,560 --> 01:09:48,080
+hold four watts per kilo, they could maybe do it for a minute. Most people can do it for a minute.
+
+718
+01:09:48,080 --> 01:09:56,080
+And this guy can do it for four hours. Correct. So so so that low end aerobic efficiency,
+
+719
+01:09:56,080 --> 01:10:00,880
+I always try to explain to my patients, if your VO two max represents the height or peak of your
+
+720
+01:10:00,880 --> 01:10:05,440
+pyramid, the wider your base, the higher your your peak. Do you agree with that sentiment?
+
+721
+01:10:05,440 --> 01:10:10,560
+So what I would simply say, Peter, you know, as we think about performance, you think about these
+
+722
+01:10:10,560 --> 01:10:14,800
+elites, we think obviously about their VO two max and you start thinking about, you know,
+
+723
+01:10:14,800 --> 01:10:19,120
+whether lactate threshold, which would be sort of the FTP and they're all sort of related anaerobic
+
+724
+01:10:19,120 --> 01:10:24,240
+threshold. There's a lot of terminology here. You can get arguments with people about the details.
+
+725
+01:10:24,240 --> 01:10:30,160
+But what fraction of your VO two max can you perform at for, you know, minutes to hours?
+
+726
+01:10:30,160 --> 01:10:36,160
+Yeah, exactly. Yeah. And so, you know, and typically, it's about 60 percent and untrained
+
+727
+01:10:36,160 --> 01:10:40,640
+kind of young to middle age people lower and people that are really untrained.
+
+728
+01:10:41,600 --> 01:10:48,400
+But just just sort of sedentary people that are very fit. It can be 75, 80, 85, even 90 percent of
+
+729
+01:10:48,400 --> 01:10:54,560
+the two max and some older athletes close to 100. So so that's exactly what you describe.
+
+730
+01:10:54,560 --> 01:11:00,560
+Somebody like that probably has a, you know, a peak work rate that they could sustain for 10
+
+731
+01:11:00,560 --> 01:11:05,760
+or 20 minutes of six, seven watts per kilo. So the fact that they can do four watts per
+
+732
+01:11:05,760 --> 01:11:10,720
+kilo forever shouldn't surprise anybody. And that's just like you look at somebody like Mr.
+
+733
+01:11:10,720 --> 01:11:17,680
+Kip Jogi, you know, he's running 440 miles at a pace that doesn't really probably cause much
+
+734
+01:11:17,680 --> 01:11:23,600
+of an increase in his blood, like the data levels at all. Did they ever reveal any of those metrics?
+
+735
+01:11:23,600 --> 01:11:27,440
+Yeah, that data is that data has been published. Tell me what was his lactate level at the
+
+736
+01:11:27,520 --> 01:11:32,080
+completion of the two hour of the just under two hour. Well, remember, remember at the end of the
+
+737
+01:11:32,080 --> 01:11:36,080
+race, you wouldn't have a lot of carbohydrate on board, but I would just simply say he can run
+
+738
+01:11:36,080 --> 01:11:43,600
+440 miles or over 12 miles an hour at at at, you know, at levels that barely nudges, lactic acid
+
+739
+01:11:43,600 --> 01:11:50,160
+levels barely nudged. But but remember, too, but his video. But what's interesting is is when I
+
+740
+01:11:50,160 --> 01:11:55,280
+first started thinking about this and making models of performance, I thought the the highest
+
+741
+01:11:55,280 --> 01:12:02,000
+number was 85 percent of max. And it's probably closer to 90 for somebody like him. But but but
+
+742
+01:12:02,000 --> 01:12:07,440
+the other interests. So the one you were talking about FDP for one minute. The other interesting
+
+743
+01:12:07,440 --> 01:12:14,000
+thing about that, Peter, is, you know, the Kip Jogi challenge, people have gone and, you know,
+
+744
+01:12:14,000 --> 01:12:19,120
+put treadmills at 12 and a half miles an hour to see how long somebody can last on the treadmill.
+
+745
+01:12:19,120 --> 01:12:23,920
+They're getting spit off in 30 seconds back. Yeah, less than that, you know, so. So yeah,
+
+746
+01:12:23,920 --> 01:12:28,720
+so same sort of thing. So so so I think that that sort of training, you know,
+
+747
+01:12:28,720 --> 01:12:34,400
+and these people are training two, three, four hours a day. If you look in terms of the runners,
+
+748
+01:12:35,680 --> 01:12:40,400
+running is limited to some extent because of the there's almost, you know, orthopedic
+
+749
+01:12:40,400 --> 01:12:46,400
+issues become becomes a problem impact, right. And so it's really difficult for people to run
+
+750
+01:12:46,400 --> 01:12:53,600
+more than about 120 or 130 miles a week and ever run do hard training for prolonged periods of time.
+
+751
+01:12:53,600 --> 01:12:57,760
+Now, there are a few people who can do it. And if you look at what Kip Jogi does, it's almost
+
+752
+01:12:57,760 --> 01:13:03,120
+identical, even day for day, what Bill Rogers and Frank Shorter did, does it at altitude. But but
+
+753
+01:13:03,120 --> 01:13:11,120
+there's a lot of medium eight and 10 and 12 miles of runs, a couple of hard interval sessions per week
+
+754
+01:13:11,840 --> 01:13:17,680
+and, you know, long run. And that's so, you know, that gets them to 120 miles a week, you know,
+
+755
+01:13:17,680 --> 01:13:23,360
+week in and week out. Now, the cyclists can do more because you don't have that issue. But
+
+756
+01:13:23,360 --> 01:13:29,360
+remember, though, with cycling, you know, you're going up and you're going down and you have always
+
+757
+01:13:29,360 --> 01:13:35,360
+a chance to take a break here and there. The swimmers do a ton as well, you know, and again,
+
+758
+01:13:35,360 --> 01:13:41,360
+because swimming is very forgiving in terms of not beating people up, provided your shoulders,
+
+759
+01:13:41,360 --> 01:13:46,480
+you know, don't get a bunch of tendonitis. So so but what's amazing is, is that if you look at what
+
+760
+01:13:46,720 --> 01:13:51,680
+the elite of the elite are doing, does not really change that much for 50 or 60 years.
+
+761
+01:13:53,520 --> 01:13:57,520
+You have better equipment, you have better races, you got better this, better that. But in terms of
+
+762
+01:13:57,520 --> 01:14:04,400
+if you look at the data on the elite of the elite from the late 60s and early 70s, it's not like
+
+763
+01:14:04,400 --> 01:14:12,640
+Kip Jogi's VO2 Max was 90. It was high 70s, just as what you'd anticipate and so forth. So so I
+
+764
+01:14:12,720 --> 01:14:18,960
+think a lot of what's happened in terms of at the very edge of things has been better races,
+
+765
+01:14:18,960 --> 01:14:22,640
+people that have longer careers, they don't stop when they're 25 or 26.
+
+766
+01:14:23,600 --> 01:14:28,240
+Sports medicine is better. So if they get injured, they can recover. We saw this in last night with
+
+767
+01:14:28,240 --> 01:14:33,760
+Clay Thompson. He had two injuries at 3040 years ago would have been, you know, basically career
+
+768
+01:14:33,760 --> 01:14:40,160
+engine, and he's come back from a combination of an ACL issue and Achilles, especially used to just
+
+769
+01:14:40,160 --> 01:14:45,280
+destroy people. He's playing very well. So I think those sorts of things, the races are much
+
+770
+01:14:45,280 --> 01:14:50,160
+better, you know, and they used to run the Boston Marathon at noon whenever so often you'd get a,
+
+771
+01:14:50,160 --> 01:14:54,960
+you know, a really hot day. So I think that's what's happened. So most of the improved performance
+
+772
+01:14:54,960 --> 01:15:01,200
+can be equipment, these sort of social factors. Unfortunately, in the case of Mr. Armstrong,
+
+773
+01:15:01,200 --> 01:15:05,040
+people, you know, bending the rules and so forth and so on. But yeah.
+
+774
+01:15:05,360 --> 01:15:10,640
+So let's talk about kind of the intensity levels that needs to be training at. So again, let's,
+
+775
+01:15:10,640 --> 01:15:17,600
+I mean, we could pick the most extreme example and talk about Kipchoge. So how many hours per week
+
+776
+01:15:17,600 --> 01:15:21,920
+is Kipchoge running? Because I know he also does a ton of other strength training and body weight
+
+777
+01:15:21,920 --> 01:15:30,160
+training. My guess is that the total amount of time he's running is somewhere between 14 and 18
+
+778
+01:15:31,120 --> 01:15:36,320
+or 20 hours a week. Okay. But remember, he can, you know, he's covering a much greater ground,
+
+779
+01:15:36,320 --> 01:15:42,480
+of course. Right. So he can do that. And my, again, you know, if you looked at it in terms
+
+780
+01:15:42,480 --> 01:15:49,040
+of the lactate threshold or the equivalent of critical power on the bike, probably 60, 70% of
+
+781
+01:15:49,040 --> 01:15:55,520
+that is, is, you know, fast, but not that fast. They typically start off their group run sort of
+
+782
+01:15:55,600 --> 01:16:00,800
+jogging and then they pick it up over time. Also remember that he's doing this at, you know,
+
+783
+01:16:00,800 --> 01:16:06,160
+seven, 8,000 feet. And then my understanding in reading his training program is that, you know,
+
+784
+01:16:07,200 --> 01:16:12,560
+a couple of days a week, he goes to a track and they run, you know, multiple 400 meters,
+
+785
+01:16:12,560 --> 01:16:18,640
+let's say 200 meter jog or multiple kilometers with a 200 or 400 meter jog,
+
+786
+01:16:18,640 --> 01:16:24,800
+like 10 times a kilometer very fast. So the total amount of time he's running faster than race pace
+
+787
+01:16:25,680 --> 01:16:31,280
+might just be 10 miles per week. So he's probably running about 60 or 70% of his stuff,
+
+788
+01:16:31,280 --> 01:16:35,520
+some of it quite slow, but most of it, you know, medium fast, but certainly not, you know, where
+
+789
+01:16:35,520 --> 01:16:41,200
+he's can't talk to you where he's short of breath. Then he's probably spending about 20% of his time
+
+790
+01:16:41,920 --> 01:16:45,600
+where, where, you know, he can still talk to you, but he's pushing it a little bit and probably 10%
+
+791
+01:16:45,600 --> 01:16:50,640
+of his time where he's pushing it a lot. Yeah. I mean, that's exactly my impression. And it's
+
+792
+01:16:50,640 --> 01:16:55,280
+the same impression I have of elite cyclists and elite swimmers. Yeah. No. And, and, and that
+
+793
+01:16:55,360 --> 01:16:59,120
+would be true for that, that, that, that those sorts of breakdowns, kind of the,
+
+794
+01:17:00,240 --> 01:17:08,480
+you know, 60, 70, 20, 30, 10 are pretty typical. Now what's interesting is that's really emerged,
+
+795
+01:17:08,480 --> 01:17:15,120
+the last say 20 years. If you look at people who've looked at the history of training and they have
+
+796
+01:17:15,120 --> 01:17:19,280
+gotten training logs from people. And I told you, we have lab data on people. That's quite good,
+
+797
+01:17:19,280 --> 01:17:23,440
+starting in the 19 some even in the 1930s, but certainly by the fifties and sixties,
+
+798
+01:17:23,440 --> 01:17:28,800
+we've got plenty of good data. And if you look at what these individuals who have tremendous
+
+799
+01:17:29,360 --> 01:17:35,040
+treadmill values, tremendous DO2 max values, ran very fast times on like dirt tracks and muddy
+
+800
+01:17:35,040 --> 01:17:39,360
+conditions, that sort of thing, or, or, you know, kind of what we'd describe as a kind of a
+
+801
+01:17:39,360 --> 01:17:44,080
+kludgy bike now, it's certainly no aero bars or, you know, look at the swimsuits people were
+
+802
+01:17:44,080 --> 01:17:48,160
+racing. So if you look at what those people were doing, they were doing all kinds of things.
+
+803
+01:17:48,160 --> 01:17:53,120
+There are people, uh, runners in the sixties, there were, there were people like, again,
+
+804
+01:17:53,120 --> 01:17:59,440
+like Bob Shule, a fancy, a fascinating man who's still alive, who his morning workout would be 40
+
+805
+01:17:59,440 --> 01:18:05,040
+times a hundred meters with a short jog in between. And his afternoon workout might be 20
+
+806
+01:18:05,040 --> 01:18:12,080
+times 400 meters. And he rarely ran continuously at all except in races, you know, and, and, and it
+
+807
+01:18:12,080 --> 01:18:18,080
+would be a fast interval slow. And there are other people who, who ran, you know, up to 200
+
+808
+01:18:18,080 --> 01:18:22,880
+miles a week and hardly ever ran fast again, except in races and some strides. And then, then
+
+809
+01:18:22,880 --> 01:18:27,840
+there were already people doing the sort of mixed training I described a minute ago. So what is
+
+810
+01:18:27,840 --> 01:18:34,640
+interesting is the extent to which things have sort of converged on this 60, 70, 20, 30, 10 sort of
+
+811
+01:18:34,640 --> 01:18:39,200
+model. Yeah. And it really, I mean, it, it makes sense if you've ever done it yourself, right? I can,
+
+812
+01:18:39,280 --> 01:18:43,920
+I can understand why there is a benefit to just the mitochondrial efficiency that comes from,
+
+813
+01:18:43,920 --> 01:18:45,600
+Yeah, right. You made more money. Sure.
+
+814
+01:18:45,600 --> 01:18:49,440
+That you'd miss out on if you were just doing the short bursts. And similarly,
+
+815
+01:18:49,440 --> 01:18:50,800
+Unless you do a whole lot of them.
+
+816
+01:18:52,000 --> 01:18:56,160
+Yeah. Well, it depends what short is. I mean, again, if you're moving to 400s into 800s,
+
+817
+01:18:57,120 --> 01:19:01,280
+And the recovery is a jog. Yeah. That's, that's, yeah. Because these guys aren't walking.
+
+818
+01:19:01,280 --> 01:19:07,840
+That's right. Yeah. Yeah. Um, so, so do you think there's a, a sort of training benefit? I know
+
+819
+01:19:07,920 --> 01:19:13,600
+there's a health benefit, but a training benefit in the lowest zone. So, so we kind of think about
+
+820
+01:19:13,600 --> 01:19:19,760
+zone two as where Kipchoge is probably spending 60 to 70% of his time. He can still talk.
+
+821
+01:19:19,760 --> 01:19:22,160
+Yeah. Probably right, right at the edge of two or three.
+
+822
+01:19:22,160 --> 01:19:28,320
+Yep. And then, um, and then obviously he's in zone three, four for, you know, kind of race pace.
+
+823
+01:19:28,320 --> 01:19:33,840
+Yeah. And then, and then he's like four, five, 10% of his mileage, which is really stretching himself.
+
+824
+01:19:33,840 --> 01:19:39,120
+Now is Kipchoge or other athletes deliberately putting time into zone one,
+
+825
+01:19:39,120 --> 01:19:44,000
+which is truly a recovery pace or. Yeah. They do that when they're recovering,
+
+826
+01:19:44,000 --> 01:19:49,600
+you know, between intervals. And, and you would be amazed at how, uh, I mean,
+
+827
+01:19:49,600 --> 01:19:54,400
+cause I did it many, many years ago, you know, getting started. So the first mile or two can be
+
+828
+01:19:54,400 --> 01:20:00,320
+very slow. I mean, it can be just almost a walk jog, and then they kind of drift into it. Uh,
+
+829
+01:20:00,400 --> 01:20:04,560
+and I think, but, but thinking about the listeners who are just trying to improve their health,
+
+830
+01:20:04,560 --> 01:20:09,040
+that where you, that's where you come back to physical activity versus intentional training.
+
+831
+01:20:09,040 --> 01:20:12,400
+So, you know, you start looking at the health benefits of just kind of, uh,
+
+832
+01:20:13,280 --> 01:20:19,120
+less than brisk walking, you know, purposeful, but not really brisk walking. They're substantial.
+
+833
+01:20:19,120 --> 01:20:24,400
+Yeah. So, so I think, you know, people at zone one, two, you know, you know, parking your car,
+
+834
+01:20:25,280 --> 01:20:30,400
+uh, farther out in the parking lot and strolling in, I think, you know, walking the dog.
+
+835
+01:20:31,360 --> 01:20:34,320
+And that can mean all sorts of things, depending on what kind of talk you have
+
+836
+01:20:34,880 --> 01:20:40,560
+and who's in the neighborhood, uh, you know, can, can help. I mean, the data on gardening,
+
+837
+01:20:41,520 --> 01:20:47,200
+uh, you know, and again, you could be out there, uh, hacking away weeds with a, with a machete or,
+
+838
+01:20:47,200 --> 01:20:52,000
+but most of us think about gardening as relatively light exercise. So the, the health benefits of,
+
+839
+01:20:52,000 --> 01:20:56,800
+of light physical activity, light exercise, I mean, are substantial. And remember,
+
+840
+01:20:57,520 --> 01:21:02,160
+you're, you're correct in the sense that it, that at least from our perspective, there is no J curve
+
+841
+01:21:02,160 --> 01:21:08,960
+and things, you know, things are, are go up, but it's not completely linear. And, and, you know,
+
+842
+01:21:08,960 --> 01:21:12,720
+the biggest benefit people get health wise is the first 10 or 15 minutes a day.
+
+843
+01:21:13,760 --> 01:21:14,880
+And why do you think that is?
+
+844
+01:21:16,320 --> 01:21:21,440
+Well, I think that if you, if you, if you look at what 10 or 15 minutes does, I mean,
+
+845
+01:21:21,440 --> 01:21:26,640
+I think it begins to do things in your scalable muscle that improve your insulin sensitivity and
+
+846
+01:21:26,640 --> 01:21:31,760
+help you fight against diabetes. I think just a tiny bit of additional physical activities,
+
+847
+01:21:31,760 --> 01:21:38,000
+at least some buffer against weight gain. I think that there's some, uh, improvement in your,
+
+848
+01:21:38,000 --> 01:21:42,720
+the lining of your blood vessels and, and probably some improvement in your autonomic function.
+
+849
+01:21:42,720 --> 01:21:47,840
+Is your, is your heart going to get bigger? Are you going to get a more efficient cardiac pump?
+
+850
+01:21:47,840 --> 01:21:54,240
+Probably not, but are you going to begin to do some of the things, uh, and the answer is yes.
+
+851
+01:21:55,360 --> 01:22:00,400
+So Mike, should those of us who really kind of care about this and care about using as many metrics
+
+852
+01:22:00,400 --> 01:22:04,800
+as we can to understand this and, you know, should we be looking at heart rate recovery and adding
+
+853
+01:22:04,800 --> 01:22:09,520
+that to our kind of repertoire of something we track in ourselves as we train?
+
+854
+01:22:09,520 --> 01:22:14,080
+So, you know, I think that, that, that, and you see it more among the cyclists and you do it again
+
+855
+01:22:14,080 --> 01:22:19,520
+among the runners. Uh, and, and, and is, is, I think that there are people that are, you know,
+
+856
+01:22:19,520 --> 01:22:25,440
+really into tech and monitoring and then they're sort of tech nudies. I'm a, I'm a tech nudie. And,
+
+857
+01:22:25,440 --> 01:22:28,800
+and part of the reason is, is, is there wasn't as much around him when I started.
+
+858
+01:22:29,520 --> 01:22:32,800
+And I mean, we just were getting digital watches and they weren't even stop watches.
+
+859
+01:22:33,440 --> 01:22:38,080
+And, and the other reason is, is that, that at the time, one of the big innovations was rating of
+
+860
+01:22:38,080 --> 01:22:43,440
+perceived exertion, uh, you know, the six to 20 scale or some people use a one to 10 scale
+
+861
+01:22:43,440 --> 01:22:47,200
+about how hard you're working. And I think that what's been shown is cause you know,
+
+862
+01:22:47,200 --> 01:22:51,840
+you can have a good day and a bad day in terms of the metrics. So I think what's been shown is,
+
+863
+01:22:51,840 --> 01:22:57,840
+is that, that they're all sort of parallel. And if you learn to read your own body via the,
+
+864
+01:22:57,840 --> 01:23:02,720
+via, you know, the rating of perceived exertion and, or, or metrics, you know, find one you like,
+
+865
+01:23:02,720 --> 01:23:08,560
+and then just focus on sort of big picture things. So I would not get too hung up on heart rate
+
+866
+01:23:08,560 --> 01:23:14,960
+recovery and too hung up on, on, um, on, uh, heart rate variability. I would just more say,
+
+867
+01:23:14,960 --> 01:23:20,080
+are you, how much are you doing? You know, uh, 30, 40, 60, a hundred, you know,
+
+868
+01:23:20,080 --> 01:23:26,240
+180 minutes a week. Are you also doing other forms or not a week a day? Are you also doing
+
+869
+01:23:26,240 --> 01:23:32,880
+other forms of, of activity, you know, like taking the stairs, as you mentioned, and what sort of
+
+870
+01:23:32,880 --> 01:23:37,360
+combination are you doing? How much time are you spending where you're really short of breath?
+
+871
+01:23:37,360 --> 01:23:41,680
+How much time are you spending where you're a little bit short of breath and how much time
+
+872
+01:23:41,680 --> 01:23:47,520
+is it, you know, kind of a pleasant sort of pace. So I think that that sort of information can get
+
+873
+01:23:47,520 --> 01:23:53,760
+you as, as much as you need. And I think the main thing then Peter is to make sure that, that, um,
+
+874
+01:23:54,960 --> 01:23:59,440
+you have some accountability, whether it's, you know, with a training partner,
+
+875
+01:23:59,440 --> 01:24:05,360
+maybe with a device or a diary, maybe, you know, with just how far did I run today?
+
+876
+01:24:06,240 --> 01:24:10,080
+That sort of thing. So, so what is your current exercise regimen? I mean,
+
+877
+01:24:10,080 --> 01:24:13,840
+you sort of downplayed it a minute, but 30 minutes and 40 seconds for a 10 K.
+
+878
+01:24:15,440 --> 01:24:20,320
+So here's what I do is, I don't think people understand how fast that is. I mean,
+
+879
+01:24:20,320 --> 01:24:25,120
+yeah, no, and I once ran a 225 marathon, but, but you know, the older I get the better I was,
+
+880
+01:24:25,120 --> 01:24:29,120
+right? So here's what I do. Here's what I do, Peter. And is, is it that
+
+881
+01:24:29,360 --> 01:24:35,440
+like, I'm a big believer in what's called hard easy, hard day, easy day. And, and I think that,
+
+882
+01:24:35,440 --> 01:24:40,480
+that, that, and so what, what I, what I'll do, uh, like tomorrow will be a hard day.
+
+883
+01:24:40,480 --> 01:24:47,200
+So I'll get on, on, uh, uh, you know, a stationary bike in my, in my, uh, workout room and, and,
+
+884
+01:24:47,200 --> 01:24:52,160
+and on the bike and the rowing machine, do some sort of warm up for 10 to 15 minutes.
+
+885
+01:24:52,720 --> 01:25:00,000
+Then I will do a circuit that starts with, um, uh, 15, uh, or really kind of 25 squat
+
+886
+01:25:00,000 --> 01:25:05,840
+thrust, a minute of jumping rope, static wall set to failure. And then some drop sets where you go
+
+887
+01:25:05,840 --> 01:25:12,240
+down, you know, where you, you go down the weight stack drop set, then, then, then drop sets with,
+
+888
+01:25:12,240 --> 01:25:19,360
+with, uh, incline flies, then drop sets with leg extensions and drop sets with a combination of,
+
+889
+01:25:19,680 --> 01:25:26,560
+of, uh, pull ups and lat pull downs and military press. Then some additional stuff for my legs.
+
+890
+01:25:26,560 --> 01:25:33,840
+Then some, uh, uh, pushups, bar dips in upright rows, followed by something else for my legs. So
+
+891
+01:25:33,840 --> 01:25:38,240
+I alternate arms and legs and I work my way through this with no rest drop sets on each
+
+892
+01:25:38,240 --> 01:25:43,440
+thing for all large major, major muscle masses. And that takes about 22 minutes. And it's, it's,
+
+893
+01:25:43,440 --> 01:25:48,400
+it's, it's, uh, 22 minutes for one circuit, one circuit. Then, then I'll do a,
+
+894
+01:25:48,640 --> 01:25:55,520
+then, then I get on the bike, right. And, and I'll do, uh, like eight times, uh,
+
+895
+01:25:57,120 --> 01:26:02,000
+three minutes of a ladder where you start, you know, unloaded, go up a notch, go up a notch,
+
+896
+01:26:02,000 --> 01:26:06,800
+go up a notch. And I get to maybe about 350 Watts for the last 30 seconds, come back down to about
+
+897
+01:26:06,800 --> 01:26:12,160
+a hundred Watts, 350 Watts, do that times eight. And sorry, how long do you take to ladder? Three
+
+898
+01:26:12,160 --> 01:26:17,360
+minutes, three minutes. So, so you go like a hundred Watts for something like a hundred
+
+899
+01:26:17,360 --> 01:26:26,400
+Watts for 30 seconds, 150 for 30, 200 for 200 for 30, 250 for 30, 300 for 30, 350 for 30,
+
+900
+01:26:26,400 --> 01:26:32,320
+come back down times eight. And that, you know, and that takes about an hour in between your
+
+901
+01:26:32,320 --> 01:26:36,800
+three minute sets. No, you just go up and come right back down. Okay. So you're right. So the
+
+902
+01:26:36,800 --> 01:26:41,760
+recovery is exactly. And, and that takes about, that takes about an hour and that'll fix your
+
+903
+01:26:41,760 --> 01:26:47,040
+wagon for a while. So you'll do, that'll be your hard day tomorrow. That'll be my hard day. And,
+
+904
+01:26:47,120 --> 01:26:52,480
+and I'll do that basically every other day or every third day. My easy days will be something
+
+905
+01:26:52,480 --> 01:26:57,760
+like, you know, like this morning, I, and I gotta, I want to go do 20 more minutes, not because I
+
+906
+01:26:57,760 --> 01:27:03,360
+need to do 20 minutes. I want to, because I wanted to watch the first bit of Obi-Wan Kenobi.
+
+907
+01:27:05,840 --> 01:27:13,920
+So my easy days are built around what, what documentary or, or, you know, how many times
+
+908
+01:27:13,920 --> 01:27:17,360
+can you watch the Mandalorian? How many Clint Eastwood movies can you watch that? And this
+
+909
+01:27:17,360 --> 01:27:23,600
+started during lockdown, right? So my easy days are 30 to 40 minutes of, of light cycling,
+
+910
+01:27:23,600 --> 01:27:29,360
+transitioning to rowing back and forth of around 30 to 40 minutes. Sometimes I do one, sometimes if
+
+911
+01:27:29,360 --> 01:27:35,280
+I come home from work and I do another one, but the goal there is, is, is an old concept called
+
+912
+01:27:35,280 --> 01:27:40,880
+active rest. So I'm not trying to get a real training effect. I'm trying to loosen up from
+
+913
+01:27:40,880 --> 01:27:44,400
+the day before it's worked out. Cause I'm sore that, you know, if you do what I describe,
+
+914
+01:27:45,520 --> 01:27:49,520
+you know, you warm up for 10 or 15 minutes, do, do 20 minutes of drop sets and,
+
+915
+01:27:49,520 --> 01:27:55,120
+and that type of intervals at the end, you will be sore, right? And so then, then what happens is,
+
+916
+01:27:55,120 --> 01:27:59,760
+is, is, you know, so you have to recover the next day. Now I'll do this for about six months and
+
+917
+01:27:59,760 --> 01:28:04,480
+then probably when it gets, starts getting dark again, I'll do what I did like last year, where,
+
+918
+01:28:04,480 --> 01:28:09,520
+where I start just doing kind of maintenance circuits in terms of the strength. So not,
+
+919
+01:28:09,520 --> 01:28:15,200
+not quite as, it may be only twice a week and I'll start doing longer rides. We have a Peloton and,
+
+920
+01:28:16,960 --> 01:28:20,960
+and I don't do any of the classes, but, but I started doing this hour of truth
+
+921
+01:28:21,840 --> 01:28:24,720
+to see how many Watts I could average for an hour.
+
+922
+01:28:24,720 --> 01:28:26,400
+Okay. What are you at?
+
+923
+01:28:26,400 --> 01:28:30,960
+It's who my best is. And I think, I think my best during lockdown last year was 360 average,
+
+924
+01:28:30,960 --> 01:28:32,880
+360 Watts for an hour.
+
+925
+01:28:32,880 --> 01:28:36,320
+Wow. Do you, do you think, do you, I mean, that's, that's obscenely high.
+
+926
+01:28:36,960 --> 01:28:42,320
+Well, and the things are calibrated pretty well. So, and I have, I have a Wattbike,
+
+927
+01:28:42,320 --> 01:28:45,520
+I got a lot of equipment. I got a Wattbike and I think they're pretty close. And if you,
+
+928
+01:28:45,520 --> 01:28:50,000
+if you look online, they claim they're close, right? And, and, and I know how, and I think
+
+929
+01:28:50,000 --> 01:28:54,640
+that, I think it's consistent with what I think my, I haven't measured my VO2 max in a while.
+
+930
+01:28:54,640 --> 01:28:57,200
+So I want to see if I get like 320 Watts next year.
+
+931
+01:28:57,760 --> 01:29:00,480
+What do you, what do you, what do you think your VO2 max is right now?
+
+932
+01:29:01,120 --> 01:29:05,360
+You know, well, I'll tell you, back when I was quite young, it was 5.4 liters a minute,
+
+933
+01:29:05,360 --> 01:29:11,600
+right? My guess is it's, my, my weight then was probably between 75, close to 80 kilos.
+
+934
+01:29:11,600 --> 01:29:12,080
+Okay.
+
+935
+01:29:12,080 --> 01:29:13,680
+So I was right at under 70.
+
+936
+01:29:14,720 --> 01:29:18,640
+I think my weight is now is probably about 95 kilos. Because I've actually made an effort
+
+937
+01:29:18,640 --> 01:29:25,040
+to gain some weight. And I think my max is probably 4.5 liters a minute would be my guess.
+
+938
+01:29:26,880 --> 01:29:27,680
+Something like that.
+
+939
+01:29:27,680 --> 01:29:32,480
+Yeah. I mean, that's still an amazing wattage under any circumstance.
+
+940
+01:29:32,480 --> 01:29:35,760
+Well, yeah, assuming the machine is okay. But I think it is because,
+
+941
+01:29:36,480 --> 01:29:39,680
+and remember when I'm doing those ladders that I was telling you about, those pyramids,
+
+942
+01:29:41,600 --> 01:29:45,680
+that's after I've done a heavy leg workout, you know, so my legs are pretty fatigued. I've done that.
+
+943
+01:29:47,920 --> 01:29:53,040
+But remember, I have some ability to because, you know, I'm a pretty good,
+
+944
+01:29:53,040 --> 01:29:56,320
+yeah, I became a pretty good, I didn't really start running until my senior high school.
+
+945
+01:29:56,320 --> 01:30:03,760
+So I started late. And I'm 6'4". And I tell people if, you know, if I come back in the
+
+946
+01:30:03,760 --> 01:30:07,440
+next life, I'll be a swimmer or rower because I used to show up with these tidy people.
+
+947
+01:30:07,440 --> 01:30:07,840
+Yeah.
+
+948
+01:30:07,840 --> 01:30:11,600
+So I was, I was, I'm the world's largest relatively good distance runner.
+
+949
+01:30:12,720 --> 01:30:17,440
+What's on your easy recovery day, Mike? Are you just paying attention to RPE?
+
+950
+01:30:17,440 --> 01:30:21,360
+Or are you looking at a split time on the rowing machine or as a low-rodded?
+
+951
+01:30:21,920 --> 01:30:27,600
+It's just all RPE. It's really just active rest, which is a lost concept.
+
+952
+01:30:28,480 --> 01:30:31,200
+Do you have a sense of what your heart rate is as a percentage of your max body?
+
+953
+01:30:31,200 --> 01:30:37,040
+No, I don't even measure it. No, I have no, and I get, I think it's probably based on the,
+
+954
+01:30:37,920 --> 01:30:43,760
+on the, you know, the hour of truth ride. And my wife got me a Peloton shirt that she had
+
+955
+01:30:43,760 --> 01:30:49,680
+printed hour of truth on it, which was kind of cool. But anyways, I think, I think Peter, my,
+
+956
+01:30:50,640 --> 01:30:57,360
+it's probably about 140 is my peak heart rate. That would be my guess. But, but again, I go with RPE,
+
+957
+01:30:57,360 --> 01:31:05,600
+I go to life suffer. And, and it's, but remember, it's unusual and, and, and, you know, it's unusual
+
+958
+01:31:05,600 --> 01:31:10,240
+to be able to do intervals on your own and really push it. Not everybody can do it. And that's why
+
+959
+01:31:10,240 --> 01:31:16,320
+you need a class or you need a coach or you need a group and so forth. But, but I'm lucky enough to
+
+960
+01:31:16,320 --> 01:31:23,200
+be able, able to do it in, in, yeah. So my training is really polarized. I mean, like really polarized.
+
+961
+01:31:24,320 --> 01:31:30,160
+So let's talk about folks who are listening to this who want to boost their VO2 max. Let's talk
+
+962
+01:31:30,160 --> 01:31:36,640
+about the different protocols that exist. I'll tell you what we typically tell patients to do,
+
+963
+01:31:36,640 --> 01:31:42,080
+which is kind of in my experience, one of the most efficient ways that you can do it,
+
+964
+01:31:42,160 --> 01:31:46,240
+but I'm curious as to what other ways. So we typically talk about a four by four, four on four.
+
+965
+01:31:46,240 --> 01:31:52,240
+Yeah, no, you're right there. So, so we'll tell people, and again, the easiest way that I
+
+966
+01:31:52,240 --> 01:31:57,520
+personally can do this is on a bike, on an incline. And it can't be a very steep incline. It's got to
+
+967
+01:31:57,520 --> 01:32:03,360
+be like 6% grade. I want to stay in the saddle and, but I never want the resistance to go away.
+
+968
+01:32:03,360 --> 01:32:10,240
+And I basically want to be in the saddle climbing against resistance for four minutes. And I use a
+
+969
+01:32:10,240 --> 01:32:15,440
+power meter and a heart rate. So I just want to keep the power as steady as I can. Invariably,
+
+970
+01:32:15,440 --> 01:32:20,800
+it dips in about the third minute, and then I can recover it in the fourth minute psychologically.
+
+971
+01:32:20,800 --> 01:32:25,760
+And then the recovery is four minutes of literally doing nothing, but rolling back to the starting
+
+972
+01:32:25,760 --> 01:32:30,800
+line. And then it's basically just repeat that. So, so, yeah, no, no, I'm with you. What I tell
+
+973
+01:32:30,800 --> 01:32:34,160
+people, for example, that have come and say, I want to run a faster marathon. I want to do this.
+
+974
+01:32:34,160 --> 01:32:37,920
+I want to do that, you know, and they're running a lot of miles. They need to get their VO2 max up.
+
+975
+01:32:37,920 --> 01:32:42,160
+And I tell them exactly what you've described. Sometimes I tell them five minutes and three
+
+976
+01:32:42,160 --> 01:32:46,160
+minutes rest, sometimes whatever. And people that are fitter sometimes only take, like I would only
+
+977
+01:32:46,160 --> 01:32:52,400
+take two minutes of rest. And that's just, but four times four is terrific. So you would do
+
+978
+01:32:52,400 --> 01:32:58,160
+something if you were thinking about running, I would tell people to do something that would be
+
+979
+01:32:58,160 --> 01:33:04,720
+right at their sort of 5k race pace, maybe a little faster, or, or you would do the first one
+
+980
+01:33:04,800 --> 01:33:09,360
+a little slower than your 5k race pace. The next one, you know, a little faster than that,
+
+981
+01:33:09,360 --> 01:33:13,760
+the next one, a little faster than the next one faster than your 5k race pace. And depending on
+
+982
+01:33:13,760 --> 01:33:18,320
+how fast you're running, if you're going pretty fast, then you would just jog in between. And if
+
+983
+01:33:18,320 --> 01:33:23,600
+you were, were not going so fast, you walked in between. So that would be the sort of thing that,
+
+984
+01:33:23,600 --> 01:33:30,800
+that I would describe to people. And the classic training, you know, among elite runners is,
+
+985
+01:33:30,880 --> 01:33:37,920
+is mile repeats, you know, people doing, you know, four or five times one mile. And then they
+
+986
+01:33:37,920 --> 01:33:43,280
+jog at a quarter mile or half mile in between. And I personally have seen really good runners.
+
+987
+01:33:44,240 --> 01:33:50,320
+I mean, it's, I've seen people's, you know, do, you know, four 30, four 25, four 20, four 15,
+
+988
+01:33:50,320 --> 01:33:54,880
+four 10, four Oh five, which is, but I mean, these were people getting ready for the Olympics, you
+
+989
+01:33:54,880 --> 01:34:00,640
+know? So, so, so, but, but those sorts of things, but sort of for the average person, right?
+
+990
+01:34:00,640 --> 01:34:05,520
+You know, the, the hard part that I think requires a little bit of coaching upfront is it's,
+
+991
+01:34:06,800 --> 01:34:11,280
+you know, you and I have done this our whole lives. So we sort of know what four minutes all
+
+992
+01:34:11,280 --> 01:34:16,400
+out feels like. Yeah, right. Exactly. And 30 seconds in, you shouldn't be hurting too much.
+
+993
+01:34:16,400 --> 01:34:22,960
+If you've gone out too hard. So it's, it takes a little bit of work to understand what, what
+
+994
+01:34:22,960 --> 01:34:28,320
+you're going for is a constant four minutes, but the, but the suffering is disproportionately in
+
+995
+01:34:28,320 --> 01:34:33,440
+the last 90 seconds. And Peter, you're, you're, you're exactly right. So I describe it as you,
+
+996
+01:34:33,440 --> 01:34:37,920
+when you're done, when you get done with the last one, the fourth one, you do not want to be bending
+
+997
+01:34:37,920 --> 01:34:42,720
+over you. If you'd gone a little bit of faster, you'd want to be bending over. So I call it the
+
+998
+01:34:42,720 --> 01:34:48,240
+no bend over rule. Interesting. And then what people have to recognize both for the four times
+
+999
+01:34:48,240 --> 01:34:53,760
+four minutes and within the four minutes is a good interval workout. And this sounds, you know,
+
+1000
+01:34:53,760 --> 01:35:00,880
+completely masochistic is like putting your hand in warm water and then slowly increasing the
+
+1001
+01:35:00,880 --> 01:35:05,840
+temperature in the water to where you can barely stand it anymore and then leave it in for a while.
+
+1002
+01:35:06,800 --> 01:35:13,840
+And then you turn it down and let your hand cool off and do it again. And that's really
+
+1003
+01:35:13,840 --> 01:35:19,680
+what you described. And, and, you know, one of the things I think we've learned from the
+
+1004
+01:35:19,680 --> 01:35:25,760
+Cyclist is a terrific phrase called manage your suffering. You know, you need to learn to manage
+
+1005
+01:35:25,760 --> 01:35:31,040
+your suffering. And, and, and, and I think that's the other interesting thing about this type of
+
+1006
+01:35:31,040 --> 01:35:37,440
+training in, in, is, is to the extent, you know, people can have these sort of religious experiences
+
+1007
+01:35:37,440 --> 01:35:43,680
+exercising, this sort of interval training is one way to get them. That's what I would tell you.
+
+1008
+01:35:43,680 --> 01:35:47,680
+No, I completely agree. I mean, obviously we're cut from the same cloth in this way, but, but I think
+
+1009
+01:35:47,680 --> 01:35:54,800
+that there really is something wonderful about experiencing your limits and understanding that
+
+1010
+01:35:54,800 --> 01:36:00,240
+level of discomfort. And if you're able to maintain your rhythm and tempo, Peter, while you do it,
+
+1011
+01:36:00,240 --> 01:36:06,640
+that's when you can have these sorts of experiences. And, and, you know, I mean, one of the most
+
+1012
+01:36:06,640 --> 01:36:10,960
+beautiful things ever, and it wasn't a total endurance athlete, you know, even it was a little
+
+1013
+01:36:10,960 --> 01:36:15,440
+bit shorter, a couple of minutes, but to watch Michael Phelps win the butterfly and watch his
+
+1014
+01:36:15,520 --> 01:36:19,920
+stroke. He was a tree. He was good at everything, but he was especially good at the butterfly.
+
+1015
+01:36:20,560 --> 01:36:24,480
+And to watch, you know, most people stroke has fallen apart and they end up taking more
+
+1016
+01:36:24,480 --> 01:36:30,560
+strokes the last 50 of a 200 meter butterfly. And, you know, his stroke count, the second,
+
+1017
+01:36:30,560 --> 01:36:35,680
+third, and fourth lap didn't change because he had that rhythm, that tempo. And if you listen
+
+1018
+01:36:35,680 --> 01:36:40,880
+to the old school coaches talk about interval training, they're constantly talking about tempo.
+
+1019
+01:36:41,440 --> 01:36:46,400
+What is your rhythm? What is your tempo? And, and why you're doing it, why you're suffering,
+
+1020
+01:36:46,400 --> 01:36:49,760
+Peter, why you're pushing it while, while, while it's hurting, while it's burning.
+
+1021
+01:36:50,400 --> 01:36:53,520
+The goal was to not lose your form and not lose your tempo.
+
+1022
+01:36:54,400 --> 01:36:59,120
+You know, it's funny, I used to, I used to watch Michael Phelps train because before he kind of
+
+1023
+01:36:59,120 --> 01:37:05,120
+broke out in the early 2000s, I lived in Baltimore because I did my residency at Hopkins and he used
+
+1024
+01:37:05,120 --> 01:37:11,600
+to train at a place called North Baltimore Aquatic. Yeah, right. So, so watching now,
+
+1025
+01:37:11,600 --> 01:37:16,480
+Michael, of course, within the swimming world was already an unbelievable prodigy because he,
+
+1026
+01:37:16,480 --> 01:37:22,000
+he had gone to the Olympics in Sydney, placed 15 or something, which is quite young for a man.
+
+1027
+01:37:22,000 --> 01:37:27,840
+That's right. He was actually the youngest, he became the youngest male to ever set a world
+
+1028
+01:37:27,840 --> 01:37:34,080
+record in a time sport in early 01. Correct. When he set the record for the 15. Yeah.
+
+1029
+01:37:34,160 --> 01:37:40,800
+Set the record for the 200 fly. So, so watching this 16 year old swimming at North Baltimore
+
+1030
+01:37:40,800 --> 01:37:47,600
+Aquatic and BAC, which his signature event of course was the 200 fly. Now it's 200 long course
+
+1031
+01:37:47,600 --> 01:37:54,960
+butterfly. I would put that up there with the 200 breast and the 400 IM as the three worst races in
+
+1032
+01:37:54,960 --> 01:38:00,080
+all of swimming. To me, it's like doing an 800 meteor intermediate hurdles on the track that
+
+1033
+01:38:00,080 --> 01:38:04,640
+event doesn't exist. Yeah. Yeah. Yeah. It's just, it's just, it's pure, it's insane suffer.
+
+1034
+01:38:05,360 --> 01:38:12,640
+But here's the thing, Mike, his training was almost never, you never once saw him do a 200
+
+1035
+01:38:14,000 --> 01:38:23,040
+fly. It was lots of 75s, lots of 75s. And his coach, Bob Bowman was really adamant about perfect
+
+1036
+01:38:23,040 --> 01:38:27,600
+form because if I were correct, Michael had an unusual rhythm, which is that he breathed on
+
+1037
+01:38:27,600 --> 01:38:32,480
+every stroke. And usually like when I swam butterfly, when most people swam butterfly,
+
+1038
+01:38:32,480 --> 01:38:36,800
+it was every other you would, you were head underwater for one stroke, head up for one,
+
+1039
+01:38:36,800 --> 01:38:42,800
+down for one. And, and Michael, I'm pretty sure he would breathe every stroke. But as you pointed out,
+
+1040
+01:38:42,800 --> 01:38:48,960
+no one's form could rival his. And that's why he, he was usually the last guy to hit the wall at the
+
+1041
+01:38:48,960 --> 01:38:54,880
+50 and, and, and yet would come back and just devour everybody. Well, and you see that with
+
+1042
+01:38:54,880 --> 01:38:59,840
+Edwin Moses, 13 steps between hurdles and the 400 hurdles in the late seventies with that innovation.
+
+1043
+01:39:00,640 --> 01:39:05,040
+And again, you see these people, you sell with Kim Chok, you're doing it for two hours,
+
+1044
+01:39:05,040 --> 01:39:10,960
+their ability to maintain this form and tempo. And as you watch it, as you watch it, Peter, you,
+
+1045
+01:39:10,960 --> 01:39:17,120
+you are awed by this sense of great effort and simultaneous relaxation. It's really,
+
+1046
+01:39:17,120 --> 01:39:22,400
+it's a real paradox. And, and, and when, and you, again, you see that, you see that in other sports
+
+1047
+01:39:22,480 --> 01:39:28,160
+too, you see it when the golfers get hot, how far they hit the ball, but it's, it's both violent and
+
+1048
+01:39:28,160 --> 01:39:33,280
+relaxed at the same time. You, you certainly, you know, you sit there and watch Steph Curry
+
+1049
+01:39:33,280 --> 01:39:39,120
+or Clay Thompson start launching balls. And, and, and, and it's just incredible, the tempo, the rhythm,
+
+1050
+01:39:39,120 --> 01:39:47,520
+the form, and, and, and, but, and the effort, but again, just how relaxed they are. It's just wild
+
+1051
+01:39:47,520 --> 01:39:53,200
+to think about even. Now, going back to our very, very recreational person who's never trained in
+
+1052
+01:39:53,200 --> 01:40:00,000
+their life. We, we don't even, we don't use lactate testing on people at that level. We basically do
+
+1053
+01:40:00,000 --> 01:40:06,080
+the whole thing off RPE and we try to get 80% of their time, which might start out at two to three
+
+1054
+01:40:06,080 --> 01:40:12,320
+hours per week as we want you to be able to talk, but not enjoy it. Right. I don't want you to be any,
+
+1055
+01:40:12,320 --> 01:40:17,440
+I don't want you to be any higher than that. Right. And then once we build up a bit of a reserve
+
+1056
+01:40:17,440 --> 01:40:21,920
+in that, after maybe six months of that kind of training, we're sort of ready to move them to that
+
+1057
+01:40:21,920 --> 01:40:32,080
+next phase of, Hey, once a week, I want you to do kind of four on four off four rounds. Do you think
+
+1058
+01:40:32,080 --> 01:40:38,480
+that once a week doing those four hard intervals is sufficient to boost VO two max? It will increase
+
+1059
+01:40:38,640 --> 01:40:42,880
+it for sure. Yeah. In that vast majority of people, especially if they're doing the other stuff you're
+
+1060
+01:40:42,880 --> 01:40:47,840
+talking about. And I think that, that what I really liked about what you describe and what people
+
+1061
+01:40:47,840 --> 01:40:52,800
+don't realize, especially when you're going to advocate relatively hard training for citizens,
+
+1062
+01:40:52,800 --> 01:40:56,880
+is that sometimes you have to train before you can really train. Yeah. That's right. You got to train
+
+1063
+01:40:56,880 --> 01:41:03,600
+to train. Yeah. Yeah. You got to get, and you certainly have seen that in some, some studies
+
+1064
+01:41:03,600 --> 01:41:08,320
+with older people that are really, you know, 60, 70 years old is that they almost have to do three
+
+1065
+01:41:08,320 --> 01:41:13,520
+or four or six months of sort of pre-training before they are fit enough to train hard. So I think
+
+1066
+01:41:13,520 --> 01:41:18,160
+you're spot on there. And I, my guess is after they they've been able to do it for, you know,
+
+1067
+01:41:18,160 --> 01:41:22,400
+once a week for a while, you build them up to two times per week. I think the one thing that
+
+1068
+01:41:22,400 --> 01:41:27,200
+people need to recognize, and this comes from a man named Stan James, who I think is still
+
+1069
+01:41:27,200 --> 01:41:31,440
+practicing medicine. He's in his nineties was a, one of the pioneers of sports medicine,
+
+1070
+01:41:31,440 --> 01:41:35,840
+orthopedic surgery, and he's not operating anymore, but he, the last I checked, he was alive
+
+1071
+01:41:35,840 --> 01:41:41,040
+and well out in Eugene, Oregon. And he, he worked with coach Bill Bowerman, you know, the, the
+
+1072
+01:41:41,600 --> 01:41:46,240
+great organ coach, found one of the founders of Nike, the waffle shoe guy, you know, and they got
+
+1073
+01:41:46,240 --> 01:41:52,160
+into this hard, easy thing, which is, is sort of what I do. And I, and, and, uh, you know, Dr.
+
+1074
+01:41:52,160 --> 01:41:56,960
+James would tell you that once people start doing more than about five or six hard, hard sessions
+
+1075
+01:41:56,960 --> 01:42:02,080
+every two weeks, you're beginning to ask for some sort of load management issue, whether it's
+
+1076
+01:42:02,080 --> 01:42:06,880
+orthopedics, whether it's just your fatigue, whether it's this, whether it's that. So I do think
+
+1077
+01:42:07,520 --> 01:42:13,680
+that, that, um, you know, you want to do something literally. I mean, I can't remember the last day
+
+1078
+01:42:13,680 --> 01:42:21,040
+I didn't do anything. It's probably been, you know, years, but, but, but my guess is the,
+
+1079
+01:42:21,120 --> 01:42:27,680
+the number of times I do something hard is, you know, 120, 130 times per year. And I, and my
+
+1080
+01:42:27,680 --> 01:42:34,480
+guess is I never go more than a week without doing something relatively intense. When you think about,
+
+1081
+01:42:34,480 --> 01:42:39,840
+about these sort of exceptional elite athletes, the Chokis of the world, do you believe they have
+
+1082
+01:42:39,840 --> 01:42:46,400
+a finite number of exceptional performances in them? You know, I, I think people used to sort
+
+1083
+01:42:46,400 --> 01:42:53,840
+of think that, but I think what's happened now is that, um, uh, you know, people used to drift into
+
+1084
+01:42:53,840 --> 01:42:58,960
+the, into the, into the world rankings and they'd last, you know, maybe, uh, two Olympics. So they'd
+
+1085
+01:42:58,960 --> 01:43:04,560
+last, uh, you know, uh, six, seven years. So they'd come in, kind of emerge right before one Olympiad,
+
+1086
+01:43:04,560 --> 01:43:09,760
+do well, do well on the next one and kind of fade. But I think there's, there's, there's, uh,
+
+1087
+01:43:11,040 --> 01:43:15,680
+two, two things that have really changed. The first is, is that, that again, sports medicine is better.
+
+1088
+01:43:16,640 --> 01:43:20,560
+So people do get injured. They can do things about it. I think the second thing is just,
+
+1089
+01:43:20,560 --> 01:43:25,600
+it's been, it's become so professionalized is, is people can, that are really, really good can
+
+1090
+01:43:25,600 --> 01:43:32,400
+now make enough money to make it worth their while to continue. And, and, you know, you see this in
+
+1091
+01:43:32,400 --> 01:43:38,320
+terms of the age of Olympians where, where, you know, you used to have, uh, you know, used to be
+
+1092
+01:43:38,320 --> 01:43:43,520
+very unusual to have women over age 20 and swimming. There was no college swimming. There was none of
+
+1093
+01:43:43,520 --> 01:43:47,680
+this. There was none of that. So it was a lot of teenagers. Now you see that drifting up and you
+
+1094
+01:43:47,680 --> 01:43:54,800
+see people like Katie O'Deckie having extended careers, you know, uh, Phelps going 2000, 2004,
+
+1095
+01:43:54,800 --> 01:44:01,120
+eight, 12, and going to five Olympics. Yeah. That would have been inconceivable previously for
+
+1096
+01:44:01,120 --> 01:44:07,280
+swimmers, you know, because people, you know, people hung around and, and maybe stayed for one
+
+1097
+01:44:07,280 --> 01:44:11,760
+additional Olympics. And when they got done after college, sometimes too, but, but eventually they,
+
+1098
+01:44:11,760 --> 01:44:16,960
+they had to go do get a job. But, but again, among the most elite who can now monetize this
+
+1099
+01:44:18,560 --> 01:44:23,440
+people can last longer. And you see it also in, in quote, the major unquote professional sports,
+
+1100
+01:44:24,000 --> 01:44:28,880
+you know, before orthopedic surgery was good and, and so forth. And, and every knee surgery was an
+
+1101
+01:44:28,880 --> 01:44:35,280
+adventure. You know, somebody like Tom Brady, Brady, his career would have been over in 2009
+
+1102
+01:44:35,840 --> 01:44:40,080
+and, and why keep, or, or it would have been attenuated. And, and the other thing, Peter,
+
+1103
+01:44:40,080 --> 01:44:43,920
+is why keep, you know, if you're making a hundred thousand dollars a year, why keep playing?
+
+1104
+01:44:45,200 --> 01:44:48,720
+If you're making, you know, 20, 30 million or whatever, 30, whatever the number is,
+
+1105
+01:44:50,160 --> 01:44:54,880
+you know, why not keep playing? And you look at, you look at, at, you know, again, uh,
+
+1106
+01:44:56,720 --> 01:45:00,480
+in, in sports like running, swimming, cycling, you know, there, there's less of a kind of a
+
+1107
+01:45:00,480 --> 01:45:05,120
+journeyman group. But if you look at, at, at, you know, the NBA, the NFL, major league baseball,
+
+1108
+01:45:05,920 --> 01:45:09,680
+the salary scales are pretty good. And if, if people can play another couple of years,
+
+1109
+01:45:09,680 --> 01:45:13,520
+you know, this can be millions of dollars, millions of dollars for them. So they're very
+
+1110
+01:45:13,520 --> 01:45:20,160
+motivated in, uh, uh, to do this, you know, so if you can be the eighth man on an NBA team and
+
+1111
+01:45:20,720 --> 01:45:25,120
+give people 15, 20 quality minutes a game, you know, you're going to have a job for a long time.
+
+1112
+01:45:25,680 --> 01:45:29,200
+And again, if you're LeBron, you know, who apparently spent some huge amount of money on
+
+1113
+01:45:29,200 --> 01:45:36,560
+training and, uh, cook and all that other stuff is, is, uh, is, you know, I mean, if you start
+
+1114
+01:45:36,560 --> 01:45:44,080
+thinking about spending X per year for a, you know, a 40 X paycheck, why not? Why stop?
+
+1115
+01:45:45,040 --> 01:45:52,240
+So where do you think we are today, Mike, in, um, performance enhancing drugs in sports? So,
+
+1116
+01:45:52,240 --> 01:45:57,680
+so cycling is probably the sport I would follow the closest of the major sports. I mean, I guess
+
+1117
+01:45:57,680 --> 01:46:04,720
+I follow swimming, uh, as well, though not nearly as much as I did for sort of 15 years prior. Um,
+
+1118
+01:46:04,720 --> 01:46:11,680
+but, but you know, I think when you go back and look at the cycling data, and I love the way Lance
+
+1119
+01:46:11,680 --> 01:46:16,240
+talks about this, right? You know, I think he's very open, right? To say, look, as long as there
+
+1120
+01:46:16,240 --> 01:46:21,440
+has been a tour de France, there has been a graying of the line, right? But there is a difference
+
+1121
+01:46:21,440 --> 01:46:27,040
+between the kind of high octane cheating that was done in Lance's era and sort of the low octane
+
+1122
+01:46:27,040 --> 01:46:32,240
+cheating that was done in Eddie Merck's era when they were, you know, using a little bit of upset.
+
+1123
+01:46:32,240 --> 01:46:37,840
+Here's what I would say about where we are with doping. So the testing has gotten better,
+
+1124
+01:46:37,840 --> 01:46:43,440
+both in terms of the frequency of testing and the, uh, you know, the actual chemistry of the
+
+1125
+01:46:43,440 --> 01:46:50,480
+testing of the machines, the analytics. Yeah. The ability to detect. Yeah. Yeah. Um, if you
+
+1126
+01:46:50,480 --> 01:46:54,960
+look at the way, what's called an abnormal test is called, it's not like what we call
+
+1127
+01:46:55,760 --> 01:47:01,520
+an abnormal test or an out of range test in clinical medicine. There, there are typically
+
+1128
+01:47:01,520 --> 01:47:06,720
+many standard deviations above average for these things. And they're typically designed. So there's
+
+1129
+01:47:06,720 --> 01:47:11,200
+not a lot of false, false positives. They don't want to have any false positives. So that gives
+
+1130
+01:47:11,200 --> 01:47:17,920
+people a room, some room to micro dose. And that's why you have relatively few positive tests,
+
+1131
+01:47:18,560 --> 01:47:23,680
+but occasionally they'll be people, you know, caught through investigations, judicial mechanisms,
+
+1132
+01:47:23,680 --> 01:47:29,680
+the police, and historically many of the biggest busts have been the police. So I think what I
+
+1133
+01:47:29,760 --> 01:47:35,200
+would simply say is that the era of industrial strength doping is over, you know, people,
+
+1134
+01:47:35,200 --> 01:47:39,520
+people doing like the East Germans did and androgenizing females to the extent that they
+
+1135
+01:47:39,520 --> 01:47:44,800
+really look like men. So I think that that is, is done. So I think there is still.
+
+1136
+01:47:44,800 --> 01:47:49,200
+But sorry, Mike, you say that even in light of what the Russians did as recently as less than
+
+1137
+01:47:49,200 --> 01:47:53,680
+a decade ago. And I think, I think what the Russians did was again, relatively low dose
+
+1138
+01:47:54,640 --> 01:48:01,040
+by comparison. So I think there's plenty of room for microdosing and plenty of room for the kinds
+
+1139
+01:48:01,040 --> 01:48:06,880
+of manipulation, systemic manipulation, if there's a motivated government to do it. And there's plenty
+
+1140
+01:48:06,880 --> 01:48:11,680
+of room, you know, for other forms of corruption. So, so, but I do think that the industrial strength
+
+1141
+01:48:11,680 --> 01:48:17,920
+doping has largely been quote, stop permitted. I think there are probably a bunch of novel compounds
+
+1142
+01:48:18,880 --> 01:48:24,080
+that are out there, you know, small peptides that cause this to be released or that to be released,
+
+1143
+01:48:24,080 --> 01:48:29,760
+which would be very, very difficult to detect. They'd have vanishingly short half-lives and so
+
+1144
+01:48:29,760 --> 01:48:34,960
+forth. And they would just boost your endogenous production of hormone X, Y or Z, you know,
+
+1145
+01:48:34,960 --> 01:48:40,000
+something like a growth hormone releasing factor or, or some sort of, you know, something that
+
+1146
+01:48:40,000 --> 01:48:46,720
+caused testosterone levels to go up or so forth. So, so I think that, that, that it's a cat and
+
+1147
+01:48:46,800 --> 01:48:53,040
+mouse game. And you're always going to, I think, I think for the kind of the big three amphetamines,
+
+1148
+01:48:53,040 --> 01:48:59,920
+EPO slash blood doping in anabolic steroids slash growth hormone, I think that, that the testing has
+
+1149
+01:48:59,920 --> 01:49:06,320
+gotten better and industrial strength doping is over. I think we, we don't know what we don't know
+
+1150
+01:49:06,320 --> 01:49:11,840
+about these novel compounds. And I think what we learned from the ball code situation is that
+
+1151
+01:49:11,840 --> 01:49:17,120
+there are all sorts of, you know, clever bathtub chemists who can make all sorts of things,
+
+1152
+01:49:17,840 --> 01:49:22,960
+you know, at home in the garage, wherever it is in, in, in, in a very unregulated environment.
+
+1153
+01:49:23,600 --> 01:49:28,080
+And the barrier to entry for that kind of a do it yourself sort of stuff is quite low.
+
+1154
+01:49:28,640 --> 01:49:31,920
+You can buy, you know, all sorts of laboratory equipment and reagents
+
+1155
+01:49:32,960 --> 01:49:36,000
+and all sorts of things. So you don't have to be, you know, a big pharma house to make,
+
+1156
+01:49:36,000 --> 01:49:39,920
+make interesting things. Like that's why I'd say we are with doping.
+
+1157
+01:49:39,920 --> 01:49:42,640
+How familiar are you with, with Balco and the, and the agency?
+
+1158
+01:49:42,640 --> 01:49:43,920
+Balco and Patrick Arnold.
+
+1159
+01:49:44,560 --> 01:49:45,680
+You know Patrick?
+
+1160
+01:49:45,680 --> 01:49:49,920
+I don't know Patrick, but I know who he is. And the tragedy of Patrick Arnold, this tremendous,
+
+1161
+01:49:50,800 --> 01:49:54,160
+you know, kind of a guy with a master's degree, I believe in organic chemistry,
+
+1162
+01:49:54,160 --> 01:49:59,040
+you know, tragic tragedy of Patrick Arnold, he wasn't working for, wasn't working for
+
+1163
+01:49:59,040 --> 01:50:04,880
+one of the big pharma companies making anti aging and isochromania compounds. That's the,
+
+1164
+01:50:05,680 --> 01:50:10,880
+you know, where he had, he had been, was making, you know, unusual,
+
+1165
+01:50:12,480 --> 01:50:14,720
+you know, chemical chemically modified androgens.
+
+1166
+01:50:15,680 --> 01:50:20,560
+Yeah. I actually, I've met Patrick a number of times, I've spent a lot of time speaking with him
+
+1167
+01:50:20,560 --> 01:50:28,400
+and in a very unemotional way and just a very frank way he can explain in great detail exactly
+
+1168
+01:50:28,400 --> 01:50:30,000
+how he modified these androgens.
+
+1169
+01:50:30,560 --> 01:50:35,840
+No. And the guy has encyclopedic knowledge, apparently, of everything that's ever been
+
+1170
+01:50:35,840 --> 01:50:41,120
+synthesized in the androgen field and what it does in terms of half-life and that metabolism
+
+1171
+01:50:41,120 --> 01:50:47,360
+and that sort of thing. And then I think if you think about Victor Conte Jr., you know, a refugee
+
+1172
+01:50:47,360 --> 01:50:54,320
+from the tower of power, junior college educated rock slash jazz musician, who's one of the great
+
+1173
+01:50:54,320 --> 01:51:02,000
+auto didex ever out there. And, you know, so I think with both of these individuals, step back
+
+1174
+01:51:02,720 --> 01:51:09,520
+from the legal ethical ramifications and say, what do they know? And try to be a little bit
+
+1175
+01:51:09,520 --> 01:51:15,200
+objective about that. And then, you know, with doping, you get into all sorts of other sort of
+
+1176
+01:51:15,200 --> 01:51:23,600
+areas, you know, you know, what was in the in the in the in the cultures those people were operating
+
+1177
+01:51:23,600 --> 01:51:30,640
+in, what was considered the cultural norm? I mean, you know, and Lance was not the only person doing
+
+1178
+01:51:30,640 --> 01:51:35,760
+industrial strength doping. Was he doing it better than other people if there were six ways to dope
+
+1179
+01:51:35,760 --> 01:51:41,200
+and and person X was doing two and you were doing three, was Lance doing all six, that sort of thing.
+
+1180
+01:51:41,920 --> 01:51:47,840
+And so I think that that the other thing people have to recognize about doping
+
+1181
+01:51:48,720 --> 01:51:55,120
+is that you're always going to in these incredibly competitive situations with these
+
+1182
+01:51:55,120 --> 01:52:01,360
+incredibly competitive people with competitive organizations or people that have, you know,
+
+1183
+01:52:01,360 --> 01:52:05,760
+foreign policy, you know, our country is better than yours because we want more medals,
+
+1184
+01:52:06,400 --> 01:52:11,280
+is that there's always going to be some sort of arms race mentality. And you see it with training,
+
+1185
+01:52:11,280 --> 01:52:14,560
+you know, if you're in there lifting an hour a day, I'm going to go lift an hour and 10 minutes a day.
+
+1186
+01:52:15,280 --> 01:52:20,080
+And so where does it stop? Do you still think that growth hormone, human growth hormone,
+
+1187
+01:52:20,080 --> 01:52:24,640
+which is, of course, not something that can readily be tested for, is still one of the more
+
+1188
+01:52:24,640 --> 01:52:30,320
+utilized agents, probably even today for performance enhancement? You know, I think there's
+
+1189
+01:52:30,560 --> 01:52:36,160
+probably some of it going on. You know, I think that my guess is people are probably have drifted
+
+1190
+01:52:36,160 --> 01:52:42,080
+back to more short acting androgens, low dose, short acting androgens and hope for the best.
+
+1191
+01:52:42,080 --> 01:52:51,280
+And that would be my guess. The same would be true with low dose EPO and or, and or, you know,
+
+1192
+01:52:51,280 --> 01:52:57,840
+sort of related compounds or other factors. You know, but again, when you when you when you learn
+
+1193
+01:52:57,840 --> 01:53:03,680
+about growth hormone is typically because person X says that they're sending FedEx package, you
+
+1194
+01:53:03,680 --> 01:53:11,280
+know, trainer X or source exit has been sending FedEx packages to athlete Y, you know, that kind
+
+1195
+01:53:11,280 --> 01:53:16,160
+of thing. Yeah. So as opposed to. Yeah. And I think that's that's really the bottom line is it's so
+
+1196
+01:53:16,160 --> 01:53:24,160
+much of this is is, you know, and again, again, like the Russian, so much of this has a judicial,
+
+1197
+01:53:24,880 --> 01:53:31,040
+judicial slash, you know, investigatory element to it when you when you get to the big scandals.
+
+1198
+01:53:32,160 --> 01:53:35,120
+Why do you think some sports seem more effective than others? So, for example,
+
+1199
+01:53:35,920 --> 01:53:42,800
+swimming as a general rule seems less impacted than than than, say, cycling or even running,
+
+1200
+01:53:42,800 --> 01:53:49,280
+even though the demands are still pretty high. Hard to know. And how cultures had one way or the
+
+1201
+01:53:49,280 --> 01:53:58,160
+next is is, you know, I lead, you know, is I feel like that's bones, Dr. Bones in Star Trek.
+
+1202
+01:53:58,160 --> 01:54:03,120
+I'm a doctor, not a, you know what I mean? I'm a doctor, not a sociologist, Peter. And I think,
+
+1203
+01:54:03,120 --> 01:54:08,560
+you know, in groups, out groups and the things that those folks, a sociologist and tribalism,
+
+1204
+01:54:08,560 --> 01:54:12,800
+the people who think about, you know, tribalistic behaviors, what's normal, what's not normal,
+
+1205
+01:54:13,600 --> 01:54:22,000
+and so forth. I think that that's really, really, really, really key to understanding that sort of
+
+1206
+01:54:22,000 --> 01:54:27,120
+thing. Key to understanding that sort of thing. So we started this discussion, Mike, by talking
+
+1207
+01:54:27,120 --> 01:54:32,560
+about the miracles of exercise. Correct. We went through all of these things that exercise is doing
+
+1208
+01:54:33,440 --> 01:54:40,480
+physiologically, and how the net impact of these things is so profound. Correct. On the length of
+
+1209
+01:54:40,480 --> 01:54:46,480
+your life and the quality of your life. There's no shortage of pharma companies out there that are
+
+1210
+01:54:46,480 --> 01:54:54,000
+trying to understand how can those benefits be put into a pill? Exercise pill, sure. Exactly.
+
+1211
+01:54:55,120 --> 01:55:02,960
+What is your level of optimism around the idea that some of the benefits of exercise could be
+
+1212
+01:55:04,880 --> 01:55:10,080
+basically captured by a pharmaceutical strategy? So there's a couple things there,
+
+1213
+01:55:10,080 --> 01:55:18,400
+Peter. One is the efforts for exercise mimetics so far have been primarily things that increase
+
+1214
+01:55:18,400 --> 01:55:26,400
+mitochondrial biosynthesis. And that appears like it at least works in animal models. And then you
+
+1215
+01:55:26,400 --> 01:55:30,800
+always, how do you translate it from one to the next? But as I pointed out, exercise, sure, it
+
+1216
+01:55:30,800 --> 01:55:36,080
+makes your mitochondria better or makes more of them. But making your mitochondria better isn't
+
+1217
+01:55:36,080 --> 01:55:40,000
+going to make your autonomic nervous system better, isn't going to make your blood pressure better.
+
+1218
+01:55:40,160 --> 01:55:44,960
+Isn't going to necessarily make the lining of your blood vessels better, so on and so forth. So it's
+
+1219
+01:55:44,960 --> 01:55:50,160
+not going to make your heart bigger, so on and so forth. So I think at least so far, at least so far,
+
+1220
+01:55:52,960 --> 01:55:59,440
+these have been sort of one trick ponies. And while you might be able to get some benefits
+
+1221
+01:55:59,440 --> 01:56:05,360
+for people that are wheelchair bound or whatever, although even those folks, I mean people that are
+
+1222
+01:56:05,360 --> 01:56:12,880
+quadriplegics, let's put it that way, wheelchair bound or can exercise for some of the reasons that
+
+1223
+01:56:12,880 --> 01:56:18,880
+may be helpful. I think the jury is really still out. And I think that I'm not particularly
+
+1224
+01:56:18,880 --> 01:56:23,920
+enthusiastic about it. I don't think you're ever going to get one that does any more than a little
+
+1225
+01:56:23,920 --> 01:56:29,360
+bit. I think more interestingly, I like to tell people at some level there's already an exercise
+
+1226
+01:56:29,440 --> 01:56:35,040
+medic out there. It's called the poly pill. If you look at the data on people who get
+
+1227
+01:56:35,680 --> 01:56:42,880
+a combination one pill a day of low dose statins, low dose blood pressure meds, and maybe one or two
+
+1228
+01:56:42,880 --> 01:56:49,200
+other other components, it causes pretty nice reductions in risk factors in most people.
+
+1229
+01:56:51,440 --> 01:56:58,640
+Because the doses are low, the side effects tend to be low and so forth. But again, none of this
+
+1230
+01:56:58,640 --> 01:57:06,000
+is patentable. There's no market for it. But if people don't want to exercise, can exercise,
+
+1231
+01:57:06,640 --> 01:57:13,760
+or whatever, I think a better choice than trying to find some mythical exercise of a medic is to
+
+1232
+01:57:13,760 --> 01:57:18,480
+use a poly pill, which would do the same thing. You give them a statin, their cholesterol goes
+
+1233
+01:57:18,480 --> 01:57:23,440
+down. And maybe their endothelial function gets better. You do a tiny bit of metformin,
+
+1234
+01:57:23,440 --> 01:57:28,480
+maybe their glucose tolerance gets better. You do a bit of beta blockers, their heart rate is lower.
+
+1235
+01:57:29,360 --> 01:57:36,320
+So again, I'm not advocating this. But there's all sorts of data out there that a poly pill
+
+1236
+01:57:37,520 --> 01:57:50,320
+is a legitimate, whatever that means, potential public health strategy for lifestyle diseases.
+
+1237
+01:57:50,320 --> 01:57:55,520
+I would encourage people to exercise and do the sorts of things you're talking about.
+
+1238
+01:57:55,600 --> 01:57:57,680
+But I think poly pills have been understudied.
+
+1239
+01:57:58,400 --> 01:58:05,120
+So, Mike, what is it you're most excited about right now? What is the question you're most
+
+1240
+01:58:05,120 --> 01:58:06,800
+interested in trying to answer?
+
+1241
+01:58:06,800 --> 01:58:10,240
+I'm excited about a lot of things. So we've got some interesting data with Sarah Baker
+
+1242
+01:58:10,800 --> 01:58:16,480
+on sex differences in blood pressure regulation. I'm quite interested in human performance.
+
+1243
+01:58:17,440 --> 01:58:20,960
+As you know, Peter, the first thing they teach in medical school is that a right shift in the
+
+1244
+01:58:20,960 --> 01:58:26,400
+oxygen hemoglobin dissociation curve is good for you at altitude. Well, all animals that are
+
+1245
+01:58:26,400 --> 01:58:32,560
+genetically adapted over centuries, millennia, to high altitude, llamas, the birds that fly
+
+1246
+01:58:32,560 --> 01:58:37,200
+over Mount Everest and so forth, are left shifted. We've been doing some really cool hypoxia studies
+
+1247
+01:58:37,200 --> 01:58:42,160
+and people with rare left shifted hemoglobin. I'm super interested in that just as sort of
+
+1248
+01:58:42,160 --> 01:58:43,520
+a physiological question.
+
+1249
+01:58:44,240 --> 01:58:47,760
+Can you explain to folks what the right and left shift looks like on the hemoglobin dissociation
+
+1250
+01:58:47,760 --> 01:58:48,320
+curve?
+
+1251
+01:58:48,320 --> 01:58:53,040
+A right shift, you know, think of a curvilinear situation or an S-shaped curve,
+
+1252
+01:58:54,800 --> 01:58:59,680
+kind of an italicized curve. And so the idea is that if you shift it to the right,
+
+1253
+01:59:00,640 --> 01:59:06,480
+the red stuff, the hemoglobin in your blood doesn't hold on to the oxygen. So it releases it and can
+
+1254
+01:59:06,480 --> 01:59:11,920
+give the oxygen to the tissue. And that's great if it's hypoxic. Now, the problem with that
+
+1255
+01:59:11,920 --> 01:59:15,280
+is it's harder for that kind of hemoglobin to get the oxygen out of the lung.
+
+1256
+01:59:16,240 --> 01:59:23,040
+And animals like llamas and like these incredible athletes called the bar-headed goose that fly
+
+1257
+01:59:23,040 --> 01:59:29,600
+over Mount Everest. Yeah. And without acclimation, they're living in the plains of Mongolia. One day
+
+1258
+01:59:29,600 --> 01:59:34,880
+they just fly over Mount Everest and go to India. They're left shifted because they prefer to make
+
+1259
+01:59:34,880 --> 01:59:39,360
+sure that they can pick up the oxygen out of the air in their lungs at very high altitude.
+
+1260
+01:59:39,920 --> 01:59:45,680
+So we have a family of people and some other subjects that we've studied that are left
+
+1261
+01:59:45,680 --> 01:59:52,880
+shifted. And it's very interesting. Meaning there is a family of people who genetically shift left
+
+1262
+01:59:52,880 --> 01:59:57,920
+instead of shift right. Right. Correct. And there's all sorts of rare hemoglobin variants.
+
+1263
+01:59:57,920 --> 02:00:01,680
+And these just are not, you know, they're not like sickle cell or anything like that.
+
+1264
+02:00:01,680 --> 02:00:05,920
+So what's interesting, it's very interesting Peter to be sitting in the lab, having somebody
+
+1265
+02:00:05,920 --> 02:00:12,800
+breathing 10% oxygen talking to you. These left shifted people do that. It's crazy. It's just wild.
+
+1266
+02:00:12,800 --> 02:00:16,560
+What is the FiO2 at the top of Everest, by the way, just for comparison.
+
+1267
+02:00:16,560 --> 02:00:23,360
+The FiO2 at the top of Everest is well, the barometric pressure is about 250. So the 21%
+
+1268
+02:00:23,360 --> 02:00:32,000
+of 250. So roughly about 50. So once you get into your lung, I think arterial is about in the 30s.
+
+1269
+02:00:32,960 --> 02:00:33,440
+Wow.
+
+1270
+02:00:33,440 --> 02:00:41,680
+Yeah. And so 10% would be, and certainly at 15%, which is 3000 meters, these people exercise like,
+
+1271
+02:00:42,720 --> 02:00:46,720
+like, no, you know, they do fine. So I'm very interested in that. And then as I mentioned,
+
+1272
+02:00:46,720 --> 02:00:55,040
+you know, before we went on is through a weird collection of events. When the pandemic struck
+
+1273
+02:00:55,040 --> 02:01:01,520
+in March and early April of 2020, I somehow became the principal investigator of the US
+
+1274
+02:01:01,520 --> 02:01:08,160
+convalescent plasma program, a program that was initially designed to facilitate in 5,000 patients
+
+1275
+02:01:08,160 --> 02:01:14,560
+compassionate use of convalescent plasma plasma from recovered antibody rich plasma from recovered
+
+1276
+02:01:14,560 --> 02:01:20,480
+COVID patients that we would give to give to people who had disease and hopefully the
+
+1277
+02:01:20,480 --> 02:01:24,400
+antibodies would help them. And they're through all sorts of twists and turns. We ended up doing
+
+1278
+02:01:24,400 --> 02:01:29,760
+over a hundred thousand people. We found evidence. If we gave people a whole lot of antibody early
+
+1279
+02:01:29,760 --> 02:01:34,400
+in the course of disease, we made them better. We also found some evidence that it was probably very
+
+1280
+02:01:34,400 --> 02:01:40,000
+helpful in people that were immune suppressed. And that has been the gift that keeps giving. So at age
+
+1281
+02:01:40,000 --> 02:01:47,440
+60, you know, one 62 63, I kept kind of a new career in immunology and infectious disease.
+
+1282
+02:01:47,440 --> 02:01:53,200
+And so we're pursuing that and we're especially interested in that Peter, because whenever
+
+1283
+02:01:53,280 --> 02:01:59,840
+COVID sort of finally winds down, about two to 3% of the population is what we call B cell
+
+1284
+02:01:59,840 --> 02:02:04,800
+deficient. So B cells are the cells in your body that make antibodies help you respond to fight
+
+1285
+02:02:04,800 --> 02:02:10,800
+the virus or respond to the vaccine. And about two or 3% of the people don't have any or don't have
+
+1286
+02:02:10,800 --> 02:02:16,640
+very many. And those people continue will continue to get COVID and other forms of infectious disease.
+
+1287
+02:02:16,640 --> 02:02:21,920
+And antibody therapy is essential to help those folks. And I was telling you,
+
+1288
+02:02:22,960 --> 02:02:26,160
+you know, I'm very happy that we've published papers in high profile journals. But
+
+1289
+02:02:26,880 --> 02:02:31,760
+we just learned yesterday from People magazine of all places that the actor Jeff Bridges,
+
+1290
+02:02:32,720 --> 02:02:38,720
+you know, the dude from the big Lebowski he, dude himself, the dude himself had gotten lymphoma,
+
+1291
+02:02:38,720 --> 02:02:44,240
+gotten drugs that that depleted his B cells, which is typical for lymphoma patients,
+
+1292
+02:02:44,800 --> 02:02:48,960
+got COVID, he could not clear the COVID and responded to convalescent plasma.
+
+1293
+02:02:50,000 --> 02:02:52,880
+What's the total volume of plasma you need to give a patient in that setting?
+
+1294
+02:02:52,880 --> 02:02:56,080
+If you get really high, tighter stuff, two to 400 mls.
+
+1295
+02:02:56,080 --> 02:02:57,760
+That's a one time treatment?
+
+1296
+02:02:57,760 --> 02:03:02,080
+Yeah, typically. Sometimes we give people more. And what's been helpful Peter is that
+
+1297
+02:03:02,880 --> 02:03:07,120
+we now have people that have been both vaccinated and they've had a breakthrough infection,
+
+1298
+02:03:07,120 --> 02:03:11,520
+or they've had an infection and been vaccinated, right? So they have hybrid immunity. And those
+
+1299
+02:03:11,600 --> 02:03:19,120
+people make, you know, really, really, their plasma has a whole, whole lot of antibodies in them.
+
+1300
+02:03:19,760 --> 02:03:25,600
+And they're broad spectrum. So they cover all the variants. And they almost anticipate future
+
+1301
+02:03:25,600 --> 02:03:32,240
+variants because of the way the immune system works. And as a sort of a sloppy replicator.
+
+1302
+02:03:32,800 --> 02:03:37,360
+And so they cover a lot of the variants that cover potential future variants and as monoclonal
+
+1303
+02:03:37,360 --> 02:03:43,360
+antibodies, which have been super helpful during the pandemic, as those get less effective due to
+
+1304
+02:03:43,360 --> 02:03:50,000
+escape variants, this very high, tighter plasma is still available. So, so we're back doing exercise
+
+1305
+02:03:50,000 --> 02:03:55,120
+studies. We're back writing papers about exercise and doing our regular physiology. But I think,
+
+1306
+02:03:56,480 --> 02:04:00,240
+yeah, this antibody therapy has really got, you know, took a bite out of me. And it's, it's,
+
+1307
+02:04:01,040 --> 02:04:04,800
+it's like what Jim Bowden said, the great pitcher, you know, you spend your life
+
+1308
+02:04:05,520 --> 02:04:09,360
+gripping the ball and thinking about your grip on the ball. And in reality,
+
+1309
+02:04:09,360 --> 02:04:12,960
+it was the other way around the ball had a grip on you. So, you know, I've been thinking a lot
+
+1310
+02:04:12,960 --> 02:04:16,800
+about antibodies and maybe antibodies have been thinking about me because it's really hard to
+
+1311
+02:04:16,800 --> 02:04:24,480
+stop thinking about it because it's so interesting. And, and we get reports back to us from, you know,
+
+1312
+02:04:24,480 --> 02:04:28,480
+not famous patients that are very similar to what we've heard of Mr. Bridges. So we're
+
+1313
+02:04:28,480 --> 02:04:34,640
+quite excited to pursue these solutions for our immune suppressed patients. And I'm especially,
+
+1314
+02:04:34,640 --> 02:04:39,600
+you know, when I started medical school in 1982, those sorts of patients, you know,
+
+1315
+02:04:39,600 --> 02:04:44,000
+their life expectancy was quite low. And now our patients with hemolygmacy, multiple myeloma,
+
+1316
+02:04:44,000 --> 02:04:48,160
+lymphoma, leukemias, a lot of those people live a long, long time.
+
+1317
+02:04:49,600 --> 02:04:54,560
+And so how long after a person is infected and recovers from infection,
+
+1318
+02:04:54,560 --> 02:04:58,320
+are they a suitable plasma donor? Within about two to three weeks.
+
+1319
+02:04:58,320 --> 02:05:01,760
+And how long? And then like, when does that window close?
+
+1320
+02:05:03,200 --> 02:05:08,240
+Certainly, it goes on for three or four months, you know, probably up to six months.
+
+1321
+02:05:08,240 --> 02:05:11,120
+And it would probably reopen if they got boosted, that sort of thing.
+
+1322
+02:05:12,560 --> 02:05:16,720
+But it only, you only get sufficient antibodies from people who have had the actual infection,
+
+1323
+02:05:16,720 --> 02:05:22,240
+not from people who just go get a booster. What's happened is, is that that's been initially
+
+1324
+02:05:22,240 --> 02:05:27,200
+because there were no vaccines, we only had people that had the normal normal infection.
+
+1325
+02:05:27,200 --> 02:05:33,120
+Since the vaccines have become widely available in the last almost 18 months now, or 15, 16 months,
+
+1326
+02:05:33,120 --> 02:05:36,640
+we've now been able to get people who've had both. And those people, the people that have had both
+
+1327
+02:05:36,640 --> 02:05:43,760
+are really the super donors, you know, and we can work with those people to come back in and get
+
+1328
+02:05:43,760 --> 02:05:48,320
+multiple units. We collect our own blood at Mayo. We have a terrific blood bank here locally, but
+
+1329
+02:05:48,800 --> 02:05:52,320
+but they're using it at Hopkins, they're using it at Harvard, using it at Einstein,
+
+1330
+02:05:52,320 --> 02:05:56,960
+a lot of other big places. We're working with the societies, the Food and Drug Administration,
+
+1331
+02:05:56,960 --> 02:06:03,360
+and others like the Lymphoma and Leukemia Lymphoma Society, the CLL Group, Infectious Disease,
+
+1332
+02:06:03,360 --> 02:06:08,560
+or excuse me, Immune Deficiency Foundation, to make sure that we have this available for their,
+
+1333
+02:06:08,560 --> 02:06:13,840
+for those sorts of patients. They're doing this at scale in France to about 50 patients a week,
+
+1334
+02:06:13,840 --> 02:06:20,560
+which would be about 300 a week in the US if you account for, you know, population differences.
+
+1335
+02:06:20,560 --> 02:06:24,640
+So that's one of the things we're quite interested in. This is something people can donate. It's a
+
+1336
+02:06:24,640 --> 02:06:29,360
+way for people to give back. Are you able to find sufficient donors? Are there enough donors?
+
+1337
+02:06:29,360 --> 02:06:33,600
+Yeah, yeah, there's sufficient there. Again, because there's so many people who've been
+
+1338
+02:06:33,600 --> 02:06:38,400
+both infected and broken through, there's a, you know, there's always logistical issues
+
+1339
+02:06:38,400 --> 02:06:41,840
+in terms of getting a person to the blood collecting center, getting it here, getting it
+
+1340
+02:06:41,920 --> 02:06:47,840
+there, but availability should be pretty high. So, and with plasma, do you still have to do a type
+
+1341
+02:06:47,840 --> 02:06:53,040
+and cross? Yeah, you still got, it's got to still be typed and crossed and people are subject to,
+
+1342
+02:06:53,040 --> 02:06:58,000
+they have to be eligible to otherwise donate blood. Yeah. Okay. But during that, during the
+
+1343
+02:06:58,000 --> 02:07:03,520
+peak of plasma use prior to the vaccines and prior to the monofamals, you know, 20, 30, 40,000 units
+
+1344
+02:07:03,520 --> 02:07:08,960
+a week were being used in the country. And in the weeks when more plasma was being used, the death
+
+1345
+02:07:08,960 --> 02:07:13,680
+rate two weeks later was lower. So there's a pretty nice correlation between that. So that's
+
+1346
+02:07:13,680 --> 02:07:18,080
+been, but, but again, I think, you know, we've talked about training, we've talked about, you
+
+1347
+02:07:18,080 --> 02:07:21,840
+know, a little bit about coaching, we've talked about, you know, participation in support and so
+
+1348
+02:07:21,840 --> 02:07:29,360
+forth. But I think one of the things that really helped me, you know, work with the government and
+
+1349
+02:07:29,360 --> 02:07:35,680
+work with our team to, to instead of do a 5,000 person demonstration project, do a, do a, really
+
+1350
+02:07:35,680 --> 02:07:40,880
+a treatment registry and over a hundred thousand or a hundred thousand patients was the organizational
+
+1351
+02:07:40,880 --> 02:07:47,360
+skills I learned from my coaches who, and I, and I used to joke with the, uh, higher ups in the food
+
+1352
+02:07:47,360 --> 02:07:50,800
+and drug administration. They'd say, well, how did you do that? I'd say I'm a recovering physical
+
+1353
+02:07:50,800 --> 02:07:55,920
+educator. And that was always, uh, always got, I was always good for a laughter and at least a few
+
+1354
+02:07:55,920 --> 02:08:04,720
+dark hours. Last, last question, Mike, given your long standing history in athletics, both personally
+
+1355
+02:08:04,720 --> 02:08:11,520
+and professionally, are you optimistic or pessimistic about the future of Americans based
+
+1356
+02:08:11,520 --> 02:08:19,920
+on the level of physical activity that we, we see? Uh, we need to do something. We need to do
+
+1357
+02:08:19,920 --> 02:08:25,440
+something. And I think it really reflects our society in general. I think that you have,
+
+1358
+02:08:26,320 --> 02:08:32,720
+you know, for lack of a better word, upper middle-class kids who have access to superb coaching,
+
+1359
+02:08:32,720 --> 02:08:39,920
+to superb facilities and to programmatic things. I think we've got a tremendous problem with play
+
+1360
+02:08:40,880 --> 02:08:46,720
+and unstructured play. And I think we've got a whole lot of people that are, are things that,
+
+1361
+02:08:46,720 --> 02:08:50,080
+when I was growing up in the sixties and seventies that were done through the park,
+
+1362
+02:08:50,080 --> 02:08:55,040
+park district and the school school district, I think a lot of those opportunities are, uh,
+
+1363
+02:08:56,400 --> 02:09:00,880
+are, uh, have followed by the wayside. I mean, we used to have, you know, the kids who were
+
+1364
+02:09:00,880 --> 02:09:07,040
+college athletes used to come back and have open gym all over Tucson when I was a kid. And there's
+
+1365
+02:09:07,040 --> 02:09:12,800
+no open gym at the high schools in Rochester, Minnesota, a rich community in the summer. And,
+
+1366
+02:09:12,800 --> 02:09:16,960
+and I mean, the, and the advantage of open gym was, Hey, you know, you got people off the street and
+
+1367
+02:09:16,960 --> 02:09:24,560
+they were doing things and, and, um, you got better athletes and, and, and, uh, and, and, you know,
+
+1368
+02:09:24,560 --> 02:09:31,120
+even the, and the police knew where we were, uh, which, which, which they're always very pleased
+
+1369
+02:09:31,120 --> 02:09:35,520
+about, you know, if they know that they, if they know that all the high energy boys are in one place,
+
+1370
+02:09:35,520 --> 02:09:41,040
+it makes their life a little easier as well. So, so I think, uh, yeah, I think it's a real problem.
+
+1371
+02:09:41,680 --> 02:09:46,080
+So, so I think we'll have these incredible performances by the kids who have access,
+
+1372
+02:09:46,800 --> 02:09:53,280
+but I think that, that what we're doing in the rest of the world is, is, is problematic. And,
+
+1373
+02:09:53,280 --> 02:09:59,760
+and, and, you know, if I could, I guess if I could do anything, uh, I'd start a national open gym
+
+1374
+02:09:59,760 --> 02:10:05,920
+movement, uh, you know, uh, winter, summer, whatever. Cause a lot of, we have a lot of
+
+1375
+02:10:05,920 --> 02:10:09,040
+nice facilities that are used just to, you know, a limited number of times per day.
+
+1376
+02:10:09,600 --> 02:10:13,920
+Yeah. Could you imagine if you were Czar and you could sort of do anything and you just said,
+
+1377
+02:10:13,920 --> 02:10:18,560
+no matter what it, no matter what your lot is in life, right? If you're a school child, if you're
+
+1378
+02:10:19,200 --> 02:10:22,320
+correct, a person who works in an office, if you're a person who works in,
+
+1379
+02:10:22,400 --> 02:10:28,880
+we somehow rearrange the day such that every person has a mandatory one hour activity.
+
+1380
+02:10:28,880 --> 02:10:33,520
+Right. You, you could make it exercise, right? You could make it, you, you, you can go to the gym for
+
+1381
+02:10:33,520 --> 02:10:38,080
+an hour, but, but it could also be, look at a minimum, you got to go out and walk.
+
+1382
+02:10:38,080 --> 02:10:41,600
+Well, you know, it's interesting you mentioned that because, uh, in our department, uh,
+
+1383
+02:10:42,720 --> 02:10:47,120
+with, with, uh, remote work and so forth, this has broken element, but we had a number of
+
+1384
+02:10:47,120 --> 02:10:51,600
+secretaries, uh, uh, terrific, you know, all of them, they were all women, middle aged women.
+
+1385
+02:10:52,160 --> 02:10:58,160
+And we have this huge sort of, uh, you know, deep bunker system with the bowels of the hospital
+
+1386
+02:10:58,160 --> 02:11:02,720
+with these huge hallways. And it's about a mile around the place. And, and these, uh, these,
+
+1387
+02:11:02,720 --> 02:11:06,560
+these folks would go down and walk at lunch and they're literally, you know, they'd bring,
+
+1388
+02:11:06,560 --> 02:11:10,320
+bring their tennis shoes to work and they, they would meet up with their pals and, uh,
+
+1389
+02:11:10,880 --> 02:11:16,880
+you know, they'd go do 30, 40 minutes a day of, of laps at lunchtime, uh, with the secretaries
+
+1390
+02:11:16,880 --> 02:11:22,560
+all over the hospital. And it was, uh, I think terrific for them. Uh, yeah, I think it was a
+
+1391
+02:11:22,560 --> 02:11:27,680
+social event for them. And, and I think that they solved a lot of problems too. And they actually
+
+1392
+02:11:27,680 --> 02:11:34,560
+made them way more productive. I believe it. Well, like, as I said at the outset, I've enjoyed reading
+
+1393
+02:11:34,560 --> 02:11:40,160
+the papers for, yeah, for more than two decades and I'll continue to do so. And it's
+
+1394
+02:11:40,880 --> 02:11:46,960
+it's been great to chat and hopefully we can meet in person at some point and do a workout together.
+
+1395
+02:11:46,960 --> 02:11:51,680
+What do you live now? Austin or someplace? Yeah, I live in Austin. Yeah. Now Eddie Coyle at the
+
+1396
+02:11:51,680 --> 02:11:56,080
+University of Texas is a good friend of mine. So yeah, I look forward to it. Yeah. Well, it's funny.
+
+1397
+02:11:56,080 --> 02:12:00,400
+I, I have been meaning to, to get ahold of him and I'd like to have him on the podcast as well.
+
+1398
+02:12:00,400 --> 02:12:05,840
+Because Eddie's quite a guy. Yep. Eddie's quite a guy. Yeah, exactly. All right, Peter. Thanks
+
+1399
+02:12:05,840 --> 02:12:18,080
+much. Yep. All right. Thanks. Bye-bye.
+

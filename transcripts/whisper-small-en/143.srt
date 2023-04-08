@@ -1,0 +1,4280 @@
+1
+00:00:00,000 --> 00:00:15,640
+Hey everyone, welcome to the Drive podcast. I'm your host, Peter Attia. This podcast, my
+
+2
+00:00:15,640 --> 00:00:19,400
+website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:19,400 --> 00:00:24,360
+longevity into something accessible for everyone. Our goal is to provide the best content in
+
+4
+00:00:24,360 --> 00:00:28,440
+health and wellness, full stop, and we've assembled a great team of analysts to make
+
+5
+00:00:28,440 --> 00:00:32,720
+this happen. If you enjoy this podcast, we've created a membership program that brings you
+
+6
+00:00:32,720 --> 00:00:36,920
+far more in-depth content. If you want to take your knowledge of this space to the next level
+
+7
+00:00:36,920 --> 00:00:41,560
+at the end of this episode, I'll explain what those benefits are. Or if you want to learn more now,
+
+8
+00:00:41,560 --> 00:00:48,080
+head over to PeterAttiaMD.com forward slash subscribe. Now, without further delay, here's
+
+9
+00:00:48,080 --> 00:00:56,280
+today's episode. I guess this week is John Ayanidis. John is by all estimates a polymath.
+
+10
+00:00:56,280 --> 00:01:02,240
+He's a physician scientist, a writer, and a Stanford University professor. He has extensive
+
+11
+00:01:02,240 --> 00:01:07,600
+training in mathematics, medicine, epidemiology. He's just generally one of the smartest people
+
+12
+00:01:07,600 --> 00:01:13,160
+I've ever met, and I've had the luxury of knowing John for probably about nine years. Anytime I get
+
+13
+00:01:13,160 --> 00:01:17,200
+to interact with him, whether it's over a meal or more formally through various research
+
+14
+00:01:17,200 --> 00:01:23,200
+collaborations, it's just always an incredible pleasure. John studies scientific research itself,
+
+15
+00:01:23,320 --> 00:01:28,400
+a process known as meta-research, primarily in clinical medicine, but also somewhat in the
+
+16
+00:01:28,400 --> 00:01:34,080
+social sciences. He's one of the world's foremost experts on the credibility of medical research.
+
+17
+00:01:34,080 --> 00:01:40,400
+He's the co-director of the Meta-Research Innovation Center at Stanford. In this episode,
+
+18
+00:01:40,400 --> 00:01:46,320
+we talk about a lot of things. We talk about his journey from Greece to the United States,
+
+19
+00:01:46,320 --> 00:01:51,400
+but we talk a lot about some of his seminal papers. You're going to see me reference a number
+
+20
+00:01:51,400 --> 00:01:55,800
+of papers beginning with, I think, one of the most famous papers. He's written, although by
+
+21
+00:01:55,800 --> 00:02:00,080
+citation it turns out to not be the most famous. There's actually papers that even exceed it,
+
+22
+00:02:00,080 --> 00:02:05,960
+which is an amazing paper where he describes through a mathematical model why most published
+
+23
+00:02:05,960 --> 00:02:11,400
+research in the biomedical field is incorrect, which is obviously out of the gate a staggering
+
+24
+00:02:11,400 --> 00:02:15,880
+statement. We go on to discuss a number of his other seminal papers and then really kind of
+
+25
+00:02:15,880 --> 00:02:20,800
+tackle some of the hard issues in medical research, including my favorite topic, nutritional,
+
+26
+00:02:20,880 --> 00:02:28,240
+epidemiology. As always, John is candid and full of insight. I'm just going to leave it at that and
+
+27
+00:02:28,240 --> 00:02:33,520
+hope that you trust me and make time to listen to this one. Please, without further delay,
+
+28
+00:02:33,520 --> 00:02:45,040
+enjoy my discussion with John Ayanese. John, this is really exciting for me to be as close to sitting
+
+29
+00:02:45,040 --> 00:02:50,000
+down with you as I can be during this time. I've been wanting to interview you for as long as I've
+
+30
+00:02:50,000 --> 00:02:54,960
+had a podcast and obviously we've known each other for probably close to 10 years now. Of course,
+
+31
+00:02:54,960 --> 00:03:01,520
+you first came on my radar in 2005 with a paper that we're going to spend a lot of time discussing
+
+32
+00:03:01,520 --> 00:03:07,680
+today. But before we get to that, how would you describe yourself to people because you have such
+
+33
+00:03:07,680 --> 00:03:14,400
+a unique background? I think that it's very difficult to know yourself and I've been struggling
+
+34
+00:03:14,960 --> 00:03:21,520
+on that front for a long time. So I'm trying to be a scientist. I think that this is not an easy
+
+35
+00:03:21,520 --> 00:03:28,800
+job. It means that you need to reinvent yourself all the time. You need to search for new frontiers,
+
+36
+00:03:28,800 --> 00:03:35,120
+for new questions, for new ways to correct errors and to correct your previous self
+
+37
+00:03:35,920 --> 00:03:44,400
+in some way. So under that denominator of scientists in the works, probably it would be
+
+38
+00:03:44,960 --> 00:03:50,880
+a good place to put my whereabouts. Now, your background is also in mathematics and I think
+
+39
+00:03:50,880 --> 00:03:56,400
+that's part of my appreciation for you is the rigor with which you bring mathematics to the
+
+40
+00:03:56,400 --> 00:04:00,800
+study of science. In particular, we're going to discuss some of your work and how you use
+
+41
+00:04:00,880 --> 00:04:06,800
+mathematical models as tools to create frameworks around this. Now, you were born in the U.S. but
+
+42
+00:04:06,800 --> 00:04:11,520
+grew up in Greece. Is that correct? Indeed. I was born in New York in New York City,
+
+43
+00:04:12,080 --> 00:04:17,440
+but I grew up in Athens and I always loved mathematics. I think that mathematics are the
+
+44
+00:04:17,440 --> 00:04:24,080
+foundation of so many things and they can really transform our approach to questions that
+
+45
+00:04:24,640 --> 00:04:28,240
+without mathematics, it would be very difficult to make much progress.
+
+46
+00:04:29,200 --> 00:04:34,560
+How did you navigate your studies? Because you were obviously very prolific in mathematics. If
+
+47
+00:04:34,560 --> 00:04:40,880
+I recall reading somewhere in one of your bios, you even won the highest honor that a graduating
+
+48
+00:04:40,880 --> 00:04:47,360
+college student could win in mathematics in Greece at the time. How did you decide to also pursue
+
+49
+00:04:47,360 --> 00:04:52,800
+something in the biological sciences in parallel as opposed to staying purely in the natural or
+
+50
+00:04:52,800 --> 00:04:58,480
+philosophical sciences of mathematics? Medicine had the attraction of being a profession where
+
+51
+00:04:58,480 --> 00:05:04,080
+you can save lives. I think that intellectual curiosity is very interesting, but the ability
+
+52
+00:05:04,080 --> 00:05:09,760
+to make a difference for human beings and to save lives, to improve their quality of life,
+
+53
+00:05:10,320 --> 00:05:15,920
+seemed to be, at least in my eyes, as a young person, something that was worthwhile pursuing.
+
+54
+00:05:16,560 --> 00:05:24,720
+I had a very hard time to choose what pieces of mathematics and science and medicine I could
+
+55
+00:05:24,720 --> 00:05:29,760
+combine in what I wanted to do. I think that I have tried my hands in very different things. I
+
+56
+00:05:29,760 --> 00:05:35,680
+have probably failed in all of them, but in some ways I saw that these were complementary. So I
+
+57
+00:05:35,680 --> 00:05:43,200
+believe that medicine is amazing in terms of its possibilities to help people. You need, however,
+
+58
+00:05:43,280 --> 00:05:47,520
+very rigorous science. You need very rigorous scientific method to be applied if you want to
+
+59
+00:05:47,520 --> 00:05:52,800
+get reliable evidence. Then you also need quantitative approaches. You need quantitative
+
+60
+00:05:52,800 --> 00:05:59,040
+tools to be able to do that. So I think that none of them is possible to dispense without really
+
+61
+00:05:59,040 --> 00:06:04,560
+losing the hole and losing the opportunity to do something that really matters eventually.
+
+62
+00:06:05,520 --> 00:06:07,920
+Your parents were physicians as well, is that correct?
+
+63
+00:06:08,480 --> 00:06:14,480
+Indeed. Both of them were physicians, actually physician scientists. So I did have an early
+
+64
+00:06:14,480 --> 00:06:22,160
+exposure to an environment where I could hear their stories of clinical exposure. At the same
+
+65
+00:06:22,160 --> 00:06:28,160
+time, I could see them working on their research. I remember these big tables with scientific papers
+
+66
+00:06:28,160 --> 00:06:36,000
+spread all over them and with what were the early versions of computerized research. I think that I
+
+67
+00:06:36,080 --> 00:06:41,920
+had the chance to be exposed to software and computers in an early phase because my father
+
+68
+00:06:41,920 --> 00:06:48,480
+and my parents were interested in doing research. So you finished medical school and your postgraduate
+
+69
+00:06:48,480 --> 00:06:52,960
+training also in Greece, or did you do part of that in the United States? I finished medical
+
+70
+00:06:52,960 --> 00:06:58,080
+school in Greece in Athens, in the National University of Athens. Then I went to Harvard
+
+71
+00:06:58,080 --> 00:07:04,000
+for residency training and then Tufts Union Medical Center for training in infectious diseases. At the
+
+72
+00:07:04,000 --> 00:07:12,000
+same time, I was also doing joint training in healthcare research. So it was very interesting
+
+73
+00:07:12,000 --> 00:07:18,720
+and fascinating years learning from great people. Who were some of the people that you think back
+
+74
+00:07:18,720 --> 00:07:25,440
+as having shaped your thinking during those years? In the medical school, I had some great teachers.
+
+75
+00:07:26,080 --> 00:07:30,640
+One of them was the professor of epidemiology, Dimitri Tricopoulos, who was also chair of
+
+76
+00:07:30,640 --> 00:07:38,240
+epidemiology at Harvard. He had some really great statisticians in his team. So from the first year
+
+77
+00:07:38,240 --> 00:07:44,560
+at medical school, I went to meet them and tried to use every textbook that they could give me
+
+78
+00:07:45,120 --> 00:07:51,680
+and every resource that I could play with. In my residency training, I was very fortunate to meet
+
+79
+00:07:52,480 --> 00:07:55,920
+great physician scientists, especially in infectious diseases. Actually,
+
+80
+00:07:56,800 --> 00:08:02,240
+Bob Mellering was the physician-in-chief and professor at Harvard, professor of medical
+
+81
+00:08:02,240 --> 00:08:10,000
+research as well. He was really an amazing personality in terms of his clinical acumen
+
+82
+00:08:10,000 --> 00:08:16,560
+and his approach to patients. Also, he's very temperate mode of dealing with very serious
+
+83
+00:08:16,560 --> 00:08:21,760
+problems and dissecting through the evidence in trying to make decisions. And of course,
+
+84
+00:08:21,760 --> 00:08:30,560
+start with making diagnosis. At the end of my residency training, I had the pleasure to meet
+
+85
+00:08:31,120 --> 00:08:38,080
+the late Tom Chalmers along with Joe Lau. They were at Tufts at that time and my meeting with
+
+86
+00:08:38,080 --> 00:08:44,320
+them was really a revelation because they were the ones who were advancing the frontiers of
+
+87
+00:08:44,320 --> 00:08:47,600
+evidence-based medicine. Evidence-based medicine had just been coined as a term
+
+88
+00:08:48,240 --> 00:08:55,680
+pretty much by the McMaster team, David Sackett and Gordon Gwyatt. Tom Chalmers was the first
+
+89
+00:08:55,680 --> 00:09:03,120
+person in the US to design a randomized trial. He was also one of the first to perform meta-analysis
+
+90
+00:09:03,120 --> 00:09:09,440
+that had a major impact in medical science. At the time that I met them, they had just published
+
+91
+00:09:09,440 --> 00:09:13,040
+an influential paper on cumulative meta-analysis in the New England Journal of Medicine.
+
+92
+00:09:13,760 --> 00:09:20,160
+And it was a revelation for me because somehow what they were proposing was mixing mathematics,
+
+93
+00:09:20,160 --> 00:09:29,040
+rigorous methods, evidence and medicine in one coherent whole, which seemed to be a forlorn
+
+94
+00:09:29,040 --> 00:09:35,200
+hope until then for me. I was just seeing lots of clinical exposures that there was very little
+
+95
+00:09:35,200 --> 00:09:41,520
+evidence to guide us. There was no data or very poor data and a lot of expert-based opinion guiding
+
+96
+00:09:41,520 --> 00:09:46,720
+everything that was being done. And so this is just temporally, I mean, Chalmers died in the
+
+97
+00:09:46,720 --> 00:09:53,200
+mid-90s. So this is what, the early 90s that you were fortunate enough to meet him? Yes, I met him
+
+98
+00:09:53,200 --> 00:10:00,160
+in 1992 and he died about five years later. I was grateful that I had the opportunity to work with
+
+99
+00:10:00,160 --> 00:10:06,720
+him and also with Joseph Lau, who was at that time at Tufts Union Medical Center, which I went
+
+100
+00:10:06,720 --> 00:10:12,320
+eventually to do my fellowship training. Because there are so many things I want to talk about,
+
+101
+00:10:12,320 --> 00:10:17,920
+John, and we don't have the luxury of spending 12 hours together, I'm going to fast forward about a
+
+102
+00:10:17,920 --> 00:10:25,040
+decade. I'm going to fast forward to 2005, to that paper that I alluded to at the outset, which was
+
+103
+00:10:25,040 --> 00:10:31,200
+the first time your work came onto my radar, which is not to say anything other than that's
+
+104
+00:10:31,200 --> 00:10:37,920
+just the first time I became aware of sort of the gravity of your thinking. Can you talk a little
+
+105
+00:10:37,920 --> 00:10:43,840
+bit about that? It was in PLOS ONE, was that paper correct? Yes, it was in PLOS MEDICINE.
+
+106
+00:10:43,840 --> 00:10:49,680
+PLOS MEDICINE, okay. So this is basically an open source journal that I think another Stanford
+
+107
+00:10:49,680 --> 00:10:54,480
+professor actually was one of the guys behind this journal, if I recall. Pat Brown was one of the
+
+108
+00:10:54,480 --> 00:11:01,280
+forces behind PLOS, correct? Well, it was a transformative move at that time, trying to
+
+109
+00:11:01,280 --> 00:11:07,040
+create a new standard for medical journals. I think that now this has become very widespread
+
+110
+00:11:07,040 --> 00:11:12,800
+in a way. But I think back then it was something new, something that was a new frontier in a sense.
+
+111
+00:11:13,680 --> 00:11:21,920
+So you wrote a paper that on the surface seems, I mean, highly provocative, right? The title of
+
+112
+00:11:21,920 --> 00:11:26,640
+the paper is something to the effect of why most published clinical research is untrue. I mean,
+
+113
+00:11:26,640 --> 00:11:32,560
+that's the gist of it. Can you walk people through the methodology of this? It's a theoretical paper,
+
+114
+00:11:32,560 --> 00:11:38,560
+but explain to people who maybe don't have the understanding of mathematics that you do,
+
+115
+00:11:39,280 --> 00:11:46,000
+how you were able to come to such a stark conclusion, which I want to point out one thing.
+
+116
+00:11:46,000 --> 00:11:51,840
+I'll give you why I had an easy time believing the results of your paper is my mentor had shared
+
+117
+00:11:51,920 --> 00:11:59,920
+with me a statistic when I was doing my postdoctoral training, which I found hard to believe, but when
+
+118
+00:11:59,920 --> 00:12:06,320
+I realized it was true, became the bookend to your claim. And that was at the time something to the
+
+119
+00:12:06,320 --> 00:12:12,960
+tune of 70% of published papers were never cited again outside of auto citation, meaning outside
+
+120
+00:12:12,960 --> 00:12:20,160
+of the author citing his or her own work. And if you think about that for a moment, if 70% of work
+
+121
+00:12:20,160 --> 00:12:27,280
+can't even be cited by one additional person down the line, that tells you it's either irrelevant
+
+122
+00:12:27,280 --> 00:12:33,120
+or wrong. So again, that's not the same thing that you said, but it at least primed me to kind of
+
+123
+00:12:33,120 --> 00:12:37,600
+listen to the message you were talking about. So talk a little bit about that paper.
+
+124
+00:12:37,600 --> 00:12:44,400
+That paper, as you say, it's a mathematical model that is trying to match empirical data that had
+
+125
+00:12:44,480 --> 00:12:49,840
+accumulated over time, both in my work and also in the work of many other scientists who were
+
+126
+00:12:49,840 --> 00:12:56,880
+interested to understand the validity of different pieces of research that was being produced.
+
+127
+00:12:56,880 --> 00:13:02,720
+I think that many of us had been disillusioned that when evidence-based medicine started,
+
+128
+00:13:02,720 --> 00:13:10,000
+we thought that now we have some tool to be able to get very reliable evidence for decision-making.
+
+129
+00:13:10,000 --> 00:13:16,160
+And very quickly we realized that biases and results that could not be replicated and results
+
+130
+00:13:16,160 --> 00:13:21,520
+that were overturned and results that were unreliable were the vast majority. It was not
+
+131
+00:13:21,520 --> 00:13:27,440
+something uncommon. It was the rule that we had either unreliable evidence or actually, perhaps
+
+132
+00:13:27,440 --> 00:13:34,400
+even more commonly, no evidence. So it's an effort, that paper, to put a mathematical construct
+
+133
+00:13:34,400 --> 00:13:42,080
+together that would try to explain what is going on and would also try to predict in some ways
+
+134
+00:13:42,080 --> 00:13:48,800
+what might happen if some of the circumstances would change in terms of how we do research.
+
+135
+00:13:48,800 --> 00:13:56,400
+So the model makes for a framework that is trying to calculate what is the chance that if you come
+
+136
+00:13:56,400 --> 00:14:01,920
+up with a eureka, a statistically significant result that you claim, I have found something,
+
+137
+00:14:01,920 --> 00:14:06,720
+I have found some effect that is not null. There is some treatment effect here, there's some
+
+138
+00:14:07,760 --> 00:14:14,480
+not zero that I'm talking about. What are the chances that this is indeed a non-null effect,
+
+139
+00:14:14,480 --> 00:14:21,200
+that we're not seeing just a red herring? And in order to calculate the chances that this is not
+
+140
+00:14:21,200 --> 00:14:28,080
+just a red herring, you need to take into account what is your prior chances that you might be
+
+141
+00:14:28,080 --> 00:14:33,520
+finding something in the field that you're working. There are some fields that probably have
+
+142
+00:14:33,520 --> 00:14:39,040
+a higher chance of making discoveries compared to others. If you're unlucky to work in a field that
+
+143
+00:14:39,040 --> 00:14:44,320
+there's nothing to be discovered, you may be wasting your time and publishing one million
+
+144
+00:14:44,320 --> 00:14:48,480
+papers, but there's nothing to be discovered. So it's going to be one million papers that end up
+
+145
+00:14:48,480 --> 00:14:55,440
+with nothing. Conversely, there may be other fields that may be more rich in discovery, both the field
+
+146
+00:14:55,440 --> 00:15:01,120
+and the tools, the methods, and the designs of the studies that we throw at trying to answer
+
+147
+00:15:01,120 --> 00:15:08,880
+these questions can be informative. The second component is in what environment of power are we
+
+148
+00:15:08,880 --> 00:15:17,040
+operating? Meaning, is the study large enough to be able to detect non-null effects of some size of
+
+149
+00:15:17,040 --> 00:15:24,160
+interest? Or maybe there are true effects out there, but our studies are very small and therefore
+
+150
+00:15:24,160 --> 00:15:29,840
+they're not able to detect these effects. In my experience, until that time, I had seen again and
+
+151
+00:15:29,840 --> 00:15:36,400
+again lots of very small studies floating around with results that were very questionable, that
+
+152
+00:15:36,400 --> 00:15:41,200
+could not be matched with other efforts, especially when we were doing larger studies, most of them
+
+153
+00:15:41,200 --> 00:15:49,440
+seemed to go away. Power is important not only because if you don't have enough power, you cannot
+
+154
+00:15:49,440 --> 00:15:55,440
+detect things that exist. What is equally bad or probably worse is that if you operate in an
+
+155
+00:15:55,440 --> 00:16:04,400
+environment of low power, when you do get something detected, it is likely to be false. And here comes
+
+156
+00:16:04,400 --> 00:16:14,240
+the other factor that is compounding the situation, bias, which means that you have some results that
+
+157
+00:16:14,240 --> 00:16:21,920
+for whatever reason bias makes them to seem statistically significant while they should not be.
+
+158
+00:16:22,480 --> 00:16:29,440
+And bias could take zillions of forms. I think that throughout my career I feel like I'm struggling
+
+159
+00:16:29,440 --> 00:16:37,040
+with bias, with my own biases and with biases that I see in the literature. But bias means that you
+
+160
+00:16:37,040 --> 00:16:43,280
+could have conscious, unconscious or subconscious reasons why a result that should have been null
+
+161
+00:16:43,280 --> 00:16:50,160
+somehow is transformed into a significant signal. It could be publication bias, it could be selective
+
+162
+00:16:50,160 --> 00:16:56,800
+reporting bias, it could be multiple types of confounding bias, it could be information bias,
+
+163
+00:16:56,800 --> 00:17:03,600
+it could be many many other things that turn null results into seemingly significant results while
+
+164
+00:17:03,600 --> 00:17:11,120
+they are not. Then you have to take into account the universe of the scientific workforce, where
+
+165
+00:17:11,120 --> 00:17:17,440
+we're not talking about a single scientist running all the studies, it's not just a single
+
+166
+00:17:17,440 --> 00:17:23,440
+scientist or a single team. We have currently about 35 million people who have co-authored at
+
+167
+00:17:23,440 --> 00:17:29,680
+least one scientific paper. We have many many scientists who might be trying to attack the
+
+168
+00:17:29,680 --> 00:17:36,000
+same scientific question and each one of them is contributing to that evidence. However,
+
+169
+00:17:36,560 --> 00:17:43,360
+there's an interplay of all these biases with all of these scientists. So if you take into account
+
+170
+00:17:43,360 --> 00:17:49,920
+that multi-scientist environment, multi-effort environment, you need to account for that in your
+
+171
+00:17:49,920 --> 00:17:56,320
+calculations. Because if you, for example, say what are the chances that at least one of these
+
+172
+00:17:56,320 --> 00:18:01,840
+scientists will find some significant signal, this is a very different situation compared to just
+
+173
+00:18:01,920 --> 00:18:08,240
+having one person taking a shot and just taking a single shot. So this is pretty much what the model
+
+174
+00:18:08,240 --> 00:18:15,120
+tried to take into account, putting these factors together and then trying to see what you get under
+
+175
+00:18:16,000 --> 00:18:22,720
+realistic circumstances for these factors. These factors would vary from one field to another. They
+
+176
+00:18:22,720 --> 00:18:29,600
+would be different, for example, if we're talking about exploratory research with observational data
+
+177
+00:18:29,600 --> 00:18:36,960
+versus small randomized trials versus very large phase three or even mega trials. It would be
+
+178
+00:18:36,960 --> 00:18:43,680
+different if we're talking about massive testing like what we do in genetics versus highly focused
+
+179
+00:18:43,680 --> 00:18:49,920
+testing of just one highly specified pre-registered hypothesis that is being attacked.
+
+180
+00:18:50,800 --> 00:18:58,720
+Running the calculations, the model shows that in most circumstances, we're both biomedical research,
+
+181
+00:18:58,720 --> 00:19:05,840
+but I would say most other fields of research are operating. If you get a nominally statistically
+
+182
+00:19:05,840 --> 00:19:14,000
+significant signal with a traditional p-value of slightly less than 0.05, then the chances that
+
+183
+00:19:14,000 --> 00:19:20,640
+you have a red herring, that this is not true, that it is a false positive, are higher than 50%.
+
+184
+00:19:21,680 --> 00:19:28,640
+There is a huge gradient and in some cases it may be much lower. The false positive rate may be
+
+185
+00:19:28,800 --> 00:19:34,240
+much, much lower and in others it would be much higher. In most circumstances,
+
+186
+00:19:34,960 --> 00:19:38,800
+the chances that you got it wrong are pretty high. They're very high.
+
+187
+00:19:39,680 --> 00:19:43,520
+That's actually a very elegant description of that paper. I want to go back and unpack a few
+
+188
+00:19:43,520 --> 00:19:50,000
+things for people who maybe don't have some of the acumen down. Let's go a bit deeper into what
+
+189
+00:19:50,000 --> 00:19:56,880
+a p-value is. Everybody hears about it and everybody hears the term statistically significant.
+
+190
+00:19:57,440 --> 00:20:05,280
+So maybe explain what a p-value is, explain statistical significance and explain why it's
+
+191
+00:20:05,280 --> 00:20:09,600
+not necessarily the same as clinical significance and why we shouldn't confuse them.
+
+192
+00:20:09,600 --> 00:20:14,800
+I think that there's major misconceptions around significance. What we care in medicine is clinical
+
+193
+00:20:14,800 --> 00:20:20,320
+significance, meaning if I do something or if I don't do something, would that make a difference
+
+194
+00:20:20,320 --> 00:20:26,000
+to my patient or it could be in public health, to the community, to cohorts of people, to healthy
+
+195
+00:20:26,080 --> 00:20:31,600
+people who want to have preventive measures and so forth. Do I make a difference? Does it matter?
+
+196
+00:20:31,600 --> 00:20:39,120
+Is it big enough that is worthwhile? The cost, the potential harms, the implementation effort,
+
+197
+00:20:39,680 --> 00:20:45,520
+perhaps other alternatives that I have, how does that compare to these alternatives? Maybe they're
+
+198
+00:20:45,520 --> 00:20:53,040
+better or cheaper or easier to implement or have fewer harms. So this is really what we want to
+
+199
+00:20:53,040 --> 00:21:00,640
+answer. But unfortunately, most of the time we are stuck with trying to answer very plain,
+
+200
+00:21:00,640 --> 00:21:06,080
+frequentist approach question, which boils down to statistical significance.
+
+201
+00:21:06,640 --> 00:21:14,000
+Typically, this boils down to a p-value threshold of 0.05 for most scientific fields. Over the years,
+
+202
+00:21:14,000 --> 00:21:18,800
+there's many scientific fields that have diversified and they have asked for more stringent
+
+203
+00:21:18,800 --> 00:21:23,360
+levels of statistical significance. A couple of years ago, along with many other people,
+
+204
+00:21:23,360 --> 00:21:29,840
+we suggested that fields that have not diversified and they do not adjust their levels of statistical
+
+205
+00:21:29,840 --> 00:21:35,360
+significance to more stringency, by default they should be using a more stringent threshold. For
+
+206
+00:21:35,360 --> 00:21:45,360
+example, use a threshold of 0.005 instead of 0.05. However, most scientists are trained with
+
+207
+00:21:45,360 --> 00:21:51,520
+statistics light to use some statistical test that gives you some statistic that eventually
+
+208
+00:21:51,520 --> 00:21:58,560
+translates to a p-value. And what that p-value means, it needs to be interpreted as what are
+
+209
+00:21:58,560 --> 00:22:06,000
+the chances that if I had an infinite number of studies like this one, I would get a result that
+
+210
+00:22:06,000 --> 00:22:14,240
+would be as extreme or more extreme. And even that is not a complete definition because it does not
+
+211
+00:22:14,240 --> 00:22:23,120
+take into account bias because maybe you would get a result that is as extreme, but it's largely
+
+212
+00:22:23,120 --> 00:22:29,840
+because of bias. For example, there's many, many fields that you can easily get p-values that are
+
+213
+00:22:29,840 --> 00:22:37,760
+astronomical. They're not just less than 0.005, but they may be 10 to the minus 100 with some of
+
+214
+00:22:37,760 --> 00:22:44,800
+the large databases that we have, we can easily get to astronomically small p-values. But this
+
+215
+00:22:44,800 --> 00:22:49,040
+doesn't mean much. It could just mean that you have bias and this is why you get all these
+
+216
+00:22:49,040 --> 00:22:55,360
+astronomically low p-values, but they don't really mean that the chance of getting such an extreme
+
+217
+00:22:55,360 --> 00:23:00,720
+result is extremely implausible and that there is something there. It just means that certainly
+
+218
+00:23:00,720 --> 00:23:07,200
+there's bias, no more than that. There has been what I call the statistics wars over the last
+
+219
+00:23:07,200 --> 00:23:12,800
+several decades. People have tried to diminish the emphasis on statistical significance. I think I
+
+220
+00:23:12,800 --> 00:23:18,560
+have been in the camp of those who have argued that we should diminish emphasis or at least try
+
+221
+00:23:18,560 --> 00:23:24,400
+to improve the understanding of what that means for people who use and interpret these p-values.
+
+222
+00:23:25,600 --> 00:23:30,880
+In the last few years, this has become probably more aggressive. Many great methodologies have
+
+223
+00:23:30,880 --> 00:23:36,400
+suggested that we should completely abandon statistical significance, that we should just ban
+
+224
+00:23:36,400 --> 00:23:43,840
+the term, never use it again, and just focus on effect sizes, focus on how much uncertainty we
+
+225
+00:23:43,840 --> 00:23:50,320
+have about effect sizes, focus on perhaps Bayesian interpretation of research. I have been a little
+
+226
+00:23:50,320 --> 00:23:58,560
+bit reluctant about adopting the ban statistical significance approach because I'm afraid that
+
+227
+00:23:59,440 --> 00:24:06,320
+we have all these millions of scientists who are probably not very properly trained to understand
+
+228
+00:24:06,320 --> 00:24:13,280
+statistical significance, but they're completely not trained at all to understand anything else
+
+229
+00:24:13,280 --> 00:24:20,560
+that would replace it. In some ways, for some types of designs also, I would argue that if you
+
+230
+00:24:20,560 --> 00:24:25,280
+pre-specify and if you are very careful in registering your hypotheses and you have a
+
+231
+00:24:25,280 --> 00:24:30,320
+protocol that you deposit, for example, what is happening or should be happening with randomized
+
+232
+00:24:30,320 --> 00:24:37,120
+trials, and you have worked through this that it makes sense that your hypothesis is clinically
+
+233
+00:24:37,120 --> 00:24:43,520
+important, that the effect size that you're trying to pick is clinically meaningful, it is clinically
+
+234
+00:24:43,520 --> 00:24:50,400
+significant, then I would argue that statistical significance and using a p-value threshold,
+
+235
+00:24:50,400 --> 00:24:56,080
+whatever that is, depending on how you design the study, makes perfect sense. It's actually a very
+
+236
+00:24:56,080 --> 00:25:03,600
+transparent way of having some rules of the game that then you try to see whether you manage to
+
+237
+00:25:03,600 --> 00:25:10,480
+succeed or not. So if you remove these rules of the game after the fact in these situations,
+
+238
+00:25:10,480 --> 00:25:15,360
+it may make things worse because you will have a situation where people will just get some results
+
+239
+00:25:15,360 --> 00:25:20,560
+and then they will be completely open to interpret them as they wish. And we see that they interpret
+
+240
+00:25:20,560 --> 00:25:26,320
+them as they wish even now without any rules in the game, or at least by removing those rules
+
+241
+00:25:26,880 --> 00:25:32,080
+post hoc, but if we could have some rules for some types of research, I think that this is useful.
+
+242
+00:25:32,640 --> 00:25:38,720
+For other types of research, I'm willing to promote better ways of interpreting results,
+
+243
+00:25:38,720 --> 00:25:44,000
+but this is not going to happen overnight. We have to take for granted that most scientists
+
+244
+00:25:44,000 --> 00:25:50,960
+are not really well trained in statistics and they will misuse and misinterpret and misapply
+
+245
+00:25:50,960 --> 00:25:58,240
+statistics, unfortunately. So we need to find ways that we will minimize the harm, we will minimize
+
+246
+00:25:58,240 --> 00:26:06,720
+the error, and maximize in medicine the clinically significant pieces, and in other sciences, the true
+
+247
+00:26:06,720 --> 00:26:14,800
+components of the research enterprise. Now, at the other side of that statistical field is power.
+
+248
+00:26:15,600 --> 00:26:21,360
+We go from alpha to beta. And you alluded to it earlier, I want to come back to it because you
+
+249
+00:26:21,360 --> 00:26:27,600
+actually said something very interesting. I think most people who dabble enough in the literature
+
+250
+00:26:27,600 --> 00:26:37,440
+understand that if you underpower a study, so if you have too few samples, too few subjects,
+
+251
+00:26:37,440 --> 00:26:44,480
+whatever the case might be, and you fail to reach statistical significance, it's not clear
+
+252
+00:26:45,200 --> 00:26:49,280
+that you failed to reach statistical significance because you should be rejecting the null
+
+253
+00:26:49,280 --> 00:26:54,640
+hypothesis or because you didn't have a large enough sample size. So that's always the fear,
+
+254
+00:26:54,640 --> 00:27:00,240
+right? The fear is that you get a false negative. But you said something else that I thought was
+
+255
+00:27:00,240 --> 00:27:05,840
+very interesting, if I heard you correctly, which was, no, you actually run the risk of a false
+
+256
+00:27:05,840 --> 00:27:12,800
+positive as well if you're underpowered. Can you say more about that? Indeed, in an underpowered
+
+257
+00:27:12,800 --> 00:27:20,320
+environment, you run the risk of having higher rates of false positives if you take the performance
+
+258
+00:27:20,320 --> 00:27:24,560
+of the field at large, if you take hundreds and thousands of studies that are done in an
+
+259
+00:27:24,560 --> 00:27:31,280
+underpowered environment, even if you manage to detect the real signals, signals that do exist,
+
+260
+00:27:32,000 --> 00:27:38,960
+if these signals are detected in an underpowered environment, their estimates will be exaggerated
+
+261
+00:27:38,960 --> 00:27:44,640
+compared to what the true magnitude is. And in many situations, both in medicine and in other
+
+262
+00:27:44,640 --> 00:27:51,520
+sciences, it's not important so much to find whether there's some signal at all, which is what
+
+263
+00:27:51,520 --> 00:27:58,240
+a null hypothesis is trying to work around. But how big is the signal? I mean, if a treatment has
+
+264
+00:27:58,240 --> 00:28:03,760
+a minuscule benefit, then I wouldn't care about it. I wouldn't use it because the cost and the
+
+265
+00:28:03,760 --> 00:28:10,880
+harms and everything on the other side of the balance is not making it worth it. So most
+
+266
+00:28:10,880 --> 00:28:16,080
+scientific fields have been operating in underpowered environments. And there's many reasons
+
+267
+00:28:16,080 --> 00:28:20,400
+for that. And it varies a little bit from one field to another, but there are some common
+
+268
+00:28:20,400 --> 00:28:26,800
+denominators. Number one, we have a very large number of scientists. Scientists are competitive.
+
+269
+00:28:26,800 --> 00:28:31,840
+There's very limited resources for science. It means that each one of us can get a very thin
+
+270
+00:28:31,840 --> 00:28:38,000
+slice of resources. We need to prove that we can get significant results so as to continue to be
+
+271
+00:28:38,000 --> 00:28:45,120
+funded and to be able to advance in our career. This means that we are stuck in a situation
+
+272
+00:28:45,680 --> 00:28:50,160
+where we need to promote seemingly statistically significant results, even if they're not.
+
+273
+00:28:50,160 --> 00:28:56,160
+We need to do very small studies with these limited resources and then do even more small
+
+274
+00:28:56,160 --> 00:29:01,280
+studies rather than aim to do a more definitive large study. There's even a disincentive
+
+275
+00:29:01,840 --> 00:29:07,520
+towards refuting results that are not correct because that means that you feel that you're back
+
+276
+00:29:07,520 --> 00:29:12,240
+to square zero. You cannot make a claim for continuing your funding. All the incentives,
+
+277
+00:29:12,240 --> 00:29:19,200
+at least until recently, have been aligned towards performing small studies in very selectively
+
+278
+00:29:19,200 --> 00:29:25,520
+reported circumstances and with flexibility in the way that results are analyzed and presented. And
+
+279
+00:29:25,520 --> 00:29:32,240
+I think that this leads to very high rates of results that are either completely false positives
+
+280
+00:29:32,240 --> 00:29:37,920
+or they may be pointing to some real signal, but the estimate of the magnitude of the signal
+
+281
+00:29:38,640 --> 00:29:45,760
+is grossly exaggerated. In recent years, we have started seeing the opposite phenomenon as well.
+
+282
+00:29:46,560 --> 00:29:53,040
+We start seeing some fields that have overpowered studies. Instead of just having very small
+
+283
+00:29:53,040 --> 00:29:59,840
+studies, in some fields we have big data, which means that you can access medical records from
+
+284
+00:29:59,840 --> 00:30:05,520
+electronic health records on millions of people or you may have genetic information
+
+285
+00:30:06,240 --> 00:30:12,640
+that is highly granular and gives you tons of information. And big data are creating an
+
+286
+00:30:12,640 --> 00:30:20,160
+opposite problem. It means that you're overpowered and you can get statistically significant results
+
+287
+00:30:20,160 --> 00:30:27,120
+that have no clinical meaning, that have no meaning really. And even with a tiny little bit of bias,
+
+288
+00:30:27,920 --> 00:30:32,960
+you may get all these signals just because bias is there. So, you're just measuring bias. You're
+
+289
+00:30:32,960 --> 00:30:39,680
+just getting a big scale assessment of the distribution of bias in your data sets.
+
+290
+00:30:40,640 --> 00:30:46,960
+That's becoming more of a problem in some specific fields. I think that the growth of this type of
+
+291
+00:30:46,960 --> 00:30:52,880
+problem will be faster compared to the growth of the problem of small underpowered studies.
+
+292
+00:30:52,880 --> 00:30:56,560
+I think in most fields, it's a more common problem though,
+
+293
+00:30:56,560 --> 00:31:00,640
+until now, that we have very small studies rather than very large studies.
+
+294
+00:31:01,440 --> 00:31:06,240
+Now, you've commented on GWAS studies. Do you want to talk a little bit about that here? It
+
+295
+00:31:06,240 --> 00:31:11,280
+sort of fits into this a little bit, doesn't it? Genetics was something that I was very interested
+
+296
+00:31:11,280 --> 00:31:19,040
+in from my early years of doing research because it was a new frontier for quantitative approaches.
+
+297
+00:31:19,040 --> 00:31:23,200
+Lots of very interesting methodology was being developed in genetics. Many of the questions of
+
+298
+00:31:23,760 --> 00:31:29,040
+evidence that had been stagnating in other biomedical fields, they had a new opportunity
+
+299
+00:31:29,600 --> 00:31:35,360
+to give us some new insights with much larger scale evidence in genetics compared to what we
+
+300
+00:31:35,360 --> 00:31:41,600
+had in the past when we were trying to measure things one at a time, especially genetics was
+
+301
+00:31:41,600 --> 00:31:47,520
+a fire hose of evidence in some way. So, I found it very exciting. And for many years,
+
+302
+00:31:47,520 --> 00:31:54,640
+I did a lot of genetic research. I still do some. And very early on, we realized through genetics
+
+303
+00:31:54,640 --> 00:32:00,960
+that the approach that we had been following in most traditional epidemiology, like looking at
+
+304
+00:32:00,960 --> 00:32:05,920
+one risk factor at a time and trying to see whether it is associated with some disease outcome,
+
+305
+00:32:06,640 --> 00:32:14,480
+was not getting very far. We could see in genetic epidemiology of candid genes that most of these
+
+306
+00:32:14,480 --> 00:32:19,440
+papers that were looking at one or a few genes at a time with association with some outcome, just
+
+307
+00:32:19,440 --> 00:32:23,760
+trying to cross the threshold of statistical significance and then claiming success,
+
+308
+00:32:23,760 --> 00:32:28,320
+they were just false positives. We saw that pretty early. It took some time for people to be
+
+309
+00:32:28,320 --> 00:32:34,640
+convinced. But then they were convinced and genetics took some steps to remedy this. They
+
+310
+00:32:34,640 --> 00:32:40,640
+decided to do very large studies to start with. They also decided to look at the entire genome,
+
+311
+00:32:40,640 --> 00:32:46,240
+look at all the factors rather than one at a time. And they also decided to join forces,
+
+312
+00:32:46,240 --> 00:32:52,640
+not have each scientist try to publish their results alone, but share everything, have a
+
+313
+00:32:52,640 --> 00:32:58,800
+common protocol, put all the data together to maximize power, to maximize standardization,
+
+314
+00:32:59,360 --> 00:33:06,560
+to maximize transparency also, and then report the cumulative results from the combined data from
+
+315
+00:33:06,560 --> 00:33:14,160
+all the teams that had contributed to these large meta-analysis of primary data. So this is a recipe
+
+316
+00:33:14,160 --> 00:33:19,520
+that I think should be followed by many other fields, especially fields that work with
+
+317
+00:33:19,520 --> 00:33:25,280
+observational data in epidemiology. And some fields have started moving in that direction as well,
+
+318
+00:33:25,280 --> 00:33:31,440
+but not necessarily as much as the revolution that happened in genetics and population genomics.
+
+319
+00:33:31,440 --> 00:33:35,440
+So I was going to actually ask you exactly that question. I was going to save it for a bit later,
+
+320
+00:33:35,440 --> 00:33:41,760
+but let's do it now. Why did the field of genetics basically have the ability to self-police and
+
+321
+00:33:41,760 --> 00:33:47,040
+undergo this cultural shift in a way that let's just put every card on the table here. Nutritional
+
+322
+00:33:47,040 --> 00:33:52,000
+epidemiology has not. I mean nutritional epidemiology, which we're going to spend a lot of time talking
+
+323
+00:33:52,000 --> 00:33:58,800
+about, is the antithesis of that. And it continues to propagate subpar information, which is probably
+
+324
+00:33:58,800 --> 00:34:04,800
+the kindest thing I could say about it. So what is it culturally about these two fields that has
+
+325
+00:34:04,800 --> 00:34:13,360
+produced such stark contrasts in the response to a crisis? There's multiple factors. One reason is
+
+326
+00:34:13,360 --> 00:34:19,360
+that genetics managed to have better tools for measurement compared to nutritional epidemiology.
+
+327
+00:34:20,080 --> 00:34:25,280
+We managed to decode the human genome. So we developed platforms that could measure
+
+328
+00:34:25,920 --> 00:34:32,000
+the entire variability more or less in the human genome with pretty high accuracy. If you have
+
+329
+00:34:32,080 --> 00:34:37,520
+genotypic platforms that have less than 0.01 percent error rate, this means that you have very
+
+330
+00:34:37,520 --> 00:34:44,160
+accurate measurement as opposed to nutrition where the traditional tools have been questionnaires or
+
+331
+00:34:44,160 --> 00:34:52,720
+survey tools that have very high biases, very high recall bias, very low accuracy. And they do not
+
+332
+00:34:52,720 --> 00:34:59,680
+really capture the diversity of nutritional factors with equal granularity as we can capture the
+
+333
+00:34:59,840 --> 00:35:06,880
+genetics in their totality of the human genome. The second reason was that I believe in genetics,
+
+334
+00:35:06,880 --> 00:35:13,200
+there were no strong priors, no strong beliefs, no strong opinions, no strong experts who would
+
+335
+00:35:13,200 --> 00:35:20,640
+fight with their lives for one gene variant versus another. We had some. I think that some of us
+
+336
+00:35:20,640 --> 00:35:27,040
+probably might have published about one gene and then we would fiercely defend it because obviously
+
+337
+00:35:27,600 --> 00:35:31,280
+if you publish a paper, you don't want to be proven wrong. I think it's very human.
+
+338
+00:35:31,840 --> 00:35:38,080
+But it was nothing compared to the scale that you see in nutrition research where you have a very
+
+339
+00:35:38,080 --> 00:35:45,600
+strong expert opinion base of people who have created careers and they feel very strongly that
+
+340
+00:35:45,600 --> 00:35:51,520
+this type of diet is saving lives and it should have policy implications. It should change the
+
+341
+00:35:51,520 --> 00:35:57,200
+world. It should change our guidelines. It should change everything. Many of these beliefs are
+
+342
+00:35:57,200 --> 00:36:05,360
+interspersed with religious or cultural or non-scientific beliefs in shaping what we think
+
+343
+00:36:05,360 --> 00:36:11,920
+is good diet. And as you realize, none of that really exists for genetics. Polymorphism,
+
+344
+00:36:11,920 --> 00:36:21,760
+RS 2492-14 is unlikely to be endorsed by any religious, cultural, political or dietary
+
+345
+00:36:21,760 --> 00:36:28,240
+proponents. It's a very different beast. And I think that you can be more neutral with genetics
+
+346
+00:36:28,240 --> 00:36:35,120
+research because of this objectivity as opposed to nutrition where there's a lot of heavy beliefs
+
+347
+00:36:35,200 --> 00:36:42,880
+interspersed. Methodologically also, genetics advanced faster. Nutrition has been stuck mostly
+
+348
+00:36:42,880 --> 00:36:50,800
+in the era of using p-values of 0.05 thresholds and using those thresholds in mostly post hoc
+
+349
+00:36:50,800 --> 00:36:57,760
+research, research that is not registered, that is selectively presented. People are trained in a way
+
+350
+00:36:58,320 --> 00:37:02,880
+that they need to play with the data. They need to torture the data. They need to try
+
+351
+00:37:03,520 --> 00:37:08,800
+to unearth interesting associations. And in some cases, of course, this becomes extreme,
+
+352
+00:37:09,520 --> 00:37:16,160
+like what we have seen in the Cornell case where it pretty much goes into the situation where you
+
+353
+00:37:16,160 --> 00:37:22,800
+have fraud. I mean, it's not just poorly done research. It's fraudulent research. But fraudulent
+
+354
+00:37:22,800 --> 00:37:28,000
+research aside, even research that is not fraudulent in nutrition has some standards of
+
+355
+00:37:28,080 --> 00:37:34,560
+methods that are pretty suboptimal compared to what genetics has adopted that they decided that
+
+356
+00:37:34,560 --> 00:37:38,960
+we have such a huge multiplicity that we need to account for that. So we're not going to claim
+
+357
+00:37:38,960 --> 00:37:44,480
+success for a p-value of 0.05. We will claim success for a p-value of 10 to the minus 8.
+
+358
+00:37:45,040 --> 00:37:50,800
+And if it's not that low, then forget it. That's not really a finding. We need to get more data
+
+359
+00:37:50,800 --> 00:37:56,240
+before we can say whether we have a finding or not. Or they decided that they will share data,
+
+360
+00:37:56,240 --> 00:38:00,320
+that they will create large coalitions of researchers who would all share their data.
+
+361
+00:38:00,320 --> 00:38:03,520
+They would standardize their data. They will standardize the analysis. They would
+
+362
+00:38:04,080 --> 00:38:10,800
+perform analysis in a very specific way. And they would also sometimes, actually, I think this is
+
+363
+00:38:10,800 --> 00:38:16,160
+becoming the norm, have two or three analyst teams analyze the same data and make sure that
+
+364
+00:38:16,160 --> 00:38:22,480
+they get the same results. These principles and these practices have started being used in fields
+
+365
+00:38:22,480 --> 00:38:27,920
+like nutrition, but to a much lesser extent. And I think that gradually we will see more of that,
+
+366
+00:38:28,560 --> 00:38:36,400
+but it's going to take some time. So there's multiple scientific and behavioral and cultural
+
+367
+00:38:36,400 --> 00:38:42,800
+and statistical and methodological reasons why these fields have not progressed at the same pace
+
+368
+00:38:43,360 --> 00:38:49,600
+of revolutionizing their research practices. Let's talk a little bit about Austin Bradford Hill.
+
+369
+00:38:49,600 --> 00:38:54,000
+I'm guessing you didn't have a chance to meet him. He died in 91. Would you have crossed paths
+
+370
+00:38:54,000 --> 00:39:00,480
+with him at all? No, I didn't have that fortune, unfortunately. Do you think he would be rolling
+
+371
+00:39:00,480 --> 00:39:07,600
+around in his grave right now if he saw what was being employed based on the criteria he set forth,
+
+372
+00:39:07,600 --> 00:39:11,760
+which I also want to talk about your thoughts around the revision of these. But even if you
+
+373
+00:39:11,760 --> 00:39:17,120
+just take his 10 criteria, which we'll go through for a moment as a bit of a background on epidemiology,
+
+374
+00:39:17,120 --> 00:39:20,720
+do you think that what he had in mind is what we're doing today?
+
+375
+00:39:21,600 --> 00:39:27,600
+I think that Austin Bradford Hill was very thoughtful. He was one of the fathers of
+
+376
+00:39:27,600 --> 00:39:34,560
+epidemiology. And of course, he didn't have the measurement tools and the capacity to run research
+
+377
+00:39:34,560 --> 00:39:41,520
+in such large scale as we do today. But he was spot on in coming up with good questions and asking
+
+378
+00:39:41,600 --> 00:39:47,120
+the right questions, asking the important questions. So his criteria, I don't think that
+
+379
+00:39:47,120 --> 00:39:54,000
+he thought of them as criteria. And I don't think that he ever believed that they should be applied
+
+380
+00:39:54,000 --> 00:40:00,640
+as a hard rule to arbitrate that we have found something that is causal versus something that
+
+381
+00:40:00,640 --> 00:40:07,520
+is not causal. If you read through the paper, it's a classic. It's very obvious that he has a very
+
+382
+00:40:07,520 --> 00:40:14,160
+temperate approach, has a very cautious approach. Basically, he says none of these items is really
+
+383
+00:40:14,160 --> 00:40:21,120
+bulletproof. I can always come up with an example where it doesn't work. And I think that this is
+
+384
+00:40:21,120 --> 00:40:26,880
+really telling what a great scientist he was, because indeed in science, there's hardly anything
+
+385
+00:40:26,880 --> 00:40:31,280
+that is bulletproof. I don't know, you know, the laws of gravity might be bulletproof. But even
+
+386
+00:40:31,280 --> 00:40:36,960
+those as you realize, they're just only down to atomic levels. Yeah, exactly. You know, in the
+
+387
+00:40:36,960 --> 00:40:43,280
+theory of relativity, they would start failing. So he was very cautious. I think that paper had
+
+388
+00:40:43,280 --> 00:40:49,440
+tremendous impact. I think that we have not been very cautious in moving forward with many of our
+
+389
+00:40:49,440 --> 00:40:55,360
+observational associations and the claims that we have made about them. I don't want to give any
+
+390
+00:40:55,360 --> 00:41:01,360
+holistic perspective. And I don't want to give, let's say, a very negative perspective of epidemiology,
+
+391
+00:41:01,360 --> 00:41:06,720
+because we run the risk of entering the other side where you will have some science denier saying,
+
+392
+00:41:07,200 --> 00:41:13,120
+so you're not certain. And therefore, we can have more air pollution, you know, we can have
+
+393
+00:41:13,120 --> 00:41:18,880
+more pesticides, we can have more. That's not clearly the case. I mean, we have very solid
+
+394
+00:41:18,880 --> 00:41:25,520
+evidence for many observational associations. There's not the slightest doubt that tobacco is
+
+395
+00:41:25,520 --> 00:41:30,240
+killing right and left. It's likely to kill one billion people over the last century.
+
+396
+00:41:30,320 --> 00:41:37,600
+Let's go through tobacco as the poster child for Bradford Hill's criteria. So I'm going to rattle
+
+397
+00:41:37,600 --> 00:41:44,000
+off the quote unquote criteria and just use tobacco as a way to explain it. So let's start
+
+398
+00:41:44,000 --> 00:41:53,200
+with strength. How does the association between tobacco and lung cancer fit in terms of causality
+
+399
+00:41:53,200 --> 00:41:59,680
+vis-a-vis this criteria of strength? It is huge. I mean, we do not see odds ratios of 10,
+
+400
+00:41:59,680 --> 00:42:06,720
+20 and 30 as we see with tobacco with many types of cancer and with other outcomes like cardiovascular
+
+401
+00:42:06,720 --> 00:42:13,760
+disease. And I think that that really stands out. And we see that again and again and again. We see
+
+402
+00:42:13,760 --> 00:42:21,280
+very strong signal. We see signals that are highly replicable. And that's the exception in most of
+
+403
+00:42:21,360 --> 00:42:28,800
+what we do nowadays in epidemiology. We don't see odds ratios of 20. If I see an odds ratio of 20 in
+
+404
+00:42:28,800 --> 00:42:34,640
+my calculations, I'm almost certain that I have something wrong. I always go back and check and
+
+405
+00:42:34,640 --> 00:42:40,320
+I find an error that I have done in some. Yeah. You're probably off by a log if you're getting a
+
+406
+00:42:40,320 --> 00:42:50,080
+20 nowadays. Probably two log. I think in genetics we are dealing actually with odds ratios of 1.01
+
+407
+00:42:50,080 --> 00:42:56,720
+at the time. So 1.01 may still be real. And of course, then the question is.
+
+408
+00:42:57,280 --> 00:43:00,640
+Is it clinically relevant? Yeah. It's unlikely to be clinically relevant,
+
+409
+00:43:00,640 --> 00:43:04,400
+but how much certainty can you get even for its presence?
+
+410
+00:43:04,400 --> 00:43:08,880
+So the strength is huge. You really essentially covered the next one, which is consistency.
+
+411
+00:43:08,880 --> 00:43:13,680
+If you look at all of the studies in the 1950s and the 1960s, they were all really moving in the
+
+412
+00:43:13,680 --> 00:43:18,000
+same direction. And that's whether you looked at physicians who were smokers, non-physicians who
+
+413
+00:43:18,080 --> 00:43:25,600
+were smokers, whichever series of data you looked at, you basically saw this 10x multiplier in
+
+414
+00:43:26,240 --> 00:43:33,440
+smoking. And I think on average it worked out to be about 14x. There was about a 14 times higher
+
+415
+00:43:33,440 --> 00:43:39,600
+chance. I mean, that's a staggering number. What about specificity? What does specificity refer to
+
+416
+00:43:39,600 --> 00:43:47,680
+here? I think that if you have such strength and such consistency, I would probably not
+
+417
+00:43:47,680 --> 00:43:55,200
+worry that much about the rest of the criteria. I think that criteria like specificity or
+
+418
+00:43:56,000 --> 00:44:04,480
+like analogy, they're far more soft in terms of what they would convey. And also, we just don't
+
+419
+00:44:04,480 --> 00:44:12,960
+know the nature of nature in how it operates. Many phenomena may be very specific, but it doesn't
+
+420
+00:44:12,960 --> 00:44:18,720
+have to be so. We should not take for granted that we should see perfect specificity or low
+
+421
+00:44:18,720 --> 00:44:25,520
+specificity. We see many situations where you have multidimensional situations of causality,
+
+422
+00:44:25,520 --> 00:44:32,000
+you have multiple factors affecting some outcome, or you have one factor affecting multiple outcomes.
+
+423
+00:44:32,560 --> 00:44:39,360
+The density of the webs of causality can be highly unpredictable. So I would not worry that
+
+424
+00:44:39,360 --> 00:44:48,960
+much about other criteria if you have some like strength and consistency being so impressive
+
+425
+00:44:48,960 --> 00:44:55,680
+in these cases. Now, in most cases, we don't have that, right? We'll get an odds ratio of 1.14,
+
+426
+00:44:55,680 --> 00:45:03,600
+which of course is a 14% relative increase as opposed to a 14x. So in those situations,
+
+427
+00:45:03,600 --> 00:45:08,560
+when strength and consistency are out the window, which is essentially true of everything in
+
+428
+00:45:08,560 --> 00:45:13,440
+nutritional epidemiology, I can't really think of examples in nutritional epi where you have
+
+429
+00:45:13,440 --> 00:45:19,680
+strength and consistency. Well, major deficiencies I think would belong to the category of very clear
+
+430
+00:45:19,680 --> 00:45:26,080
+signals, major nutritional deficiencies, if you have like- Yes, yeah, yeah. Very, very, for example.
+
+431
+00:45:26,080 --> 00:45:32,720
+Sure, sure, yeah. Thiamine deficiency where you're out to lunch, yeah. But do you then look at,
+
+432
+00:45:32,720 --> 00:45:38,000
+I mean, even biological gradient gets very difficult with the tools of nutritional epi.
+
+433
+00:45:38,000 --> 00:45:44,320
+Do you start to look at experiment? Plausibilities to me has always struck me as a very dangerous
+
+434
+00:45:44,320 --> 00:45:50,320
+one because I don't know. It just seems a bit of hand waving. I mean, where do you then look?
+
+435
+00:45:50,960 --> 00:45:58,000
+I think the first question is whether you can get experimental evidence. To me, that's the priority.
+
+436
+00:45:58,000 --> 00:46:03,280
+And I realize that in some circumstances when you know that you're dealing with highly likely
+
+437
+00:46:03,280 --> 00:46:11,040
+harmful factors, you cannot really have equipoise to do randomized trials. But for most situations
+
+438
+00:46:11,040 --> 00:46:16,160
+in nutrition, to take nutrition as the example that we have been discussing, you can do randomized
+
+439
+00:46:16,160 --> 00:46:20,160
+trials. And actually, we have done randomized trials. It's not that we're not doing randomized trials.
+
+440
+00:46:20,160 --> 00:46:25,200
+We have done many thousands of randomized trials. Most of them, unfortunately, are pretty small
+
+441
+00:46:25,840 --> 00:46:30,560
+and underpowered and they suffer from all the problems that we discussed earlier with
+
+442
+00:46:30,560 --> 00:46:35,280
+underpowered studies that are selectively reported with no preregistration and with
+
+443
+00:46:36,000 --> 00:46:40,160
+kind of haphazardly done analysis and reporting. I mean, they're not necessarily better
+
+444
+00:46:40,720 --> 00:46:47,200
+than observational data that suffer from the same problems. But we also have a substantial number of
+
+445
+00:46:47,760 --> 00:46:53,280
+very large randomized trials in nutrition. We have over 200 large randomized trials.
+
+446
+00:46:53,920 --> 00:47:01,680
+Most of those focus on specific nutrients or supplementations. Some are looking at diets like
+
+447
+00:47:01,680 --> 00:47:08,160
+Mediterranean diet. And with very few exceptions, they do not really show the benefits that were
+
+448
+00:47:08,160 --> 00:47:13,280
+suspected or were proposed in the observational data. There are exceptions, but there are not that
+
+449
+00:47:13,280 --> 00:47:19,760
+many. That, to me, suggests that most likely the interpretation that most of the observational
+
+450
+00:47:19,760 --> 00:47:25,680
+signals are false positives or substantially exaggerated is likely to be true. We shouldn't
+
+451
+00:47:25,680 --> 00:47:29,920
+be throwing out the baby with the bathwater. There may be some that are worth pursuing and
+
+452
+00:47:29,920 --> 00:47:34,800
+that may be true. And I think that this means that we need to do more trials. The counter argument
+
+453
+00:47:34,800 --> 00:47:39,600
+would be that, well, in a randomized trial, especially a large one, especially with long-term
+
+454
+00:47:39,600 --> 00:47:45,760
+follow-up, people will not adhere to what you tell them to do with their diet or nutrient intake or
+
+455
+00:47:45,760 --> 00:47:53,680
+supplementation. My response to this is that when it comes to getting evidence about what people
+
+456
+00:47:53,680 --> 00:48:00,640
+should eat, that lack of adherence is part of the game. It's part of real life. So if a specific
+
+457
+00:48:00,640 --> 00:48:06,720
+diet is in theory better than another, but people cannot adhere to that, it's not really better
+
+458
+00:48:06,720 --> 00:48:12,000
+because people cannot use it. So I get the answer to the question that I'm interested in, which is,
+
+459
+00:48:12,800 --> 00:48:17,920
+is that something that will make a difference? Of course, it does not prove that biochemically,
+
+460
+00:48:17,920 --> 00:48:25,680
+or in a perfect system, or in the perfect human who is eating like a robot, that would not be
+
+461
+00:48:25,680 --> 00:48:31,360
+helpful. But I don't care about treating robots. I care about managing and helping real people.
+
+462
+00:48:32,080 --> 00:48:37,600
+I agree with that completely, John. I would throw in one wrench to that, which is, in a world of so
+
+463
+00:48:37,600 --> 00:48:43,920
+much ambiguity and misinformation, I do think it's important to separate efficacy from effectiveness.
+
+464
+00:48:43,920 --> 00:48:49,440
+What you're, of course, saying is, in the real world, only effectiveness matters. So real world
+
+465
+00:48:49,440 --> 00:48:54,720
+scenarios with real world people. But I still think there is a time and a place for efficacy.
+
+466
+00:48:54,720 --> 00:49:01,840
+We do have to know what is the optimal treatment under perfect circumstances if we want to have
+
+467
+00:49:01,840 --> 00:49:08,640
+any chance at, for example, informing policy. I'll give you an example. Food stamps. Should food
+
+468
+00:49:08,640 --> 00:49:16,160
+stamps preferentially target the use of certain foods over others? Well, again, if you had really
+
+469
+00:49:16,160 --> 00:49:22,080
+efficacious data saying this type of food is worse than that type of food, you could steer people
+
+470
+00:49:22,080 --> 00:49:27,520
+towards healthier foods. It could impact the way we subsidize certain foods. In other words, it's
+
+471
+00:49:27,520 --> 00:49:34,080
+really all about changing the food environment. So it is very hard to follow, I think, any diet
+
+472
+00:49:34,080 --> 00:49:38,880
+that is not the standard American diet. So any time you opt out of the standard American diet,
+
+473
+00:49:38,880 --> 00:49:44,800
+whether it be into a Mediterranean diet or a vegetarian diet or a low carbohydrate diet or
+
+474
+00:49:44,800 --> 00:49:49,920
+basically anything that's not the crap that we're surrounded by requires an enormous effort.
+
+475
+00:49:50,560 --> 00:49:57,200
+And I think a big part of that is because there is still so much ambiguity around what the optimal
+
+476
+00:49:57,200 --> 00:50:01,920
+nutritional strategies are. We haven't answered the efficacy question because I think we keep
+
+477
+00:50:01,920 --> 00:50:07,520
+trying to answer the effectiveness question. I agree. And I think I would not abandon efforts
+
+478
+00:50:07,520 --> 00:50:13,520
+to get some insights on efficacy, but we're not really getting these insights the way that we have
+
+479
+00:50:13,520 --> 00:50:20,320
+been doing things. I think that if you want to get answers on efficacy, there are options. One is
+
+480
+00:50:20,320 --> 00:50:25,120
+through the experimental approach. So you can still run randomized trials, but you can do them
+
+481
+00:50:25,120 --> 00:50:32,480
+under very controlled supervised circumstances that people are in a physiology or metabolism
+
+482
+00:50:33,120 --> 00:50:37,440
+clinic, that they're being followed very stringently on what they eat and what happens to them.
+
+483
+00:50:37,440 --> 00:50:41,600
+And you can measure very carefully these biochemical and physiological responses.
+
+484
+00:50:42,240 --> 00:50:47,920
+I think that a second approach in the observational world or between the observational and the
+
+485
+00:50:47,920 --> 00:50:53,920
+randomized is Mendelian randomization studies with the advent of genetics. We have lots of genetic
+
+486
+00:50:53,920 --> 00:51:01,200
+instruments that may be used to create designs that are fairly equivalent to a randomized design.
+
+487
+00:51:01,200 --> 00:51:07,840
+So you can get some estimates that are not perfect because Mendelian randomization has its own
+
+488
+00:51:07,840 --> 00:51:12,400
+assumptions and sometimes these are violated. But at least I think that they go a step
+
+489
+00:51:13,200 --> 00:51:19,520
+forward in terms of the credibility of the signals that you get. And then you have the pure
+
+490
+00:51:19,520 --> 00:51:25,120
+observational evidence, which I don't want us to discard it completely. I think that these are data
+
+491
+00:51:25,120 --> 00:51:29,760
+which you need to use and we just need to interpret them very cautiously. If we use some of the
+
+492
+00:51:29,760 --> 00:51:36,720
+machinery that we have learned to deploy in other fields, for example, one approach is what I call
+
+493
+00:51:36,720 --> 00:51:41,920
+the environment-wide or exposure-wide association testing instead of testing and reporting on one
+
+494
+00:51:41,920 --> 00:51:47,040
+nutrient at a time. You just run an analysis of all the nutrients that you have collected information
+
+495
+00:51:47,040 --> 00:51:51,920
+on and you can also do it for all the outcomes that you have collected information on. So that
+
+496
+00:51:51,920 --> 00:51:58,400
+would be an exposure outcome-wide association study and then you report the results taking into
+
+497
+00:51:58,400 --> 00:52:03,440
+account the multiplicity and also the correlation structure between all these different exposures
+
+498
+00:52:03,440 --> 00:52:10,240
+and outcomes. You get a far more transparent and complete picture and if you get signals that seem
+
+499
+00:52:10,320 --> 00:52:17,680
+to be recurrent and replicable across multiple datasets, multiple cohorts that you run these
+
+500
+00:52:17,680 --> 00:52:26,160
+analysis, you start having higher chances of these signals to be reflecting some reality. Still,
+
+501
+00:52:26,160 --> 00:52:30,480
+it's not going to be perfect because of all the problems that we mentioned. But it is better
+
+502
+00:52:30,480 --> 00:52:37,440
+compared to what we do now where we just go after finding yet one more association one at a time and
+
+503
+00:52:37,440 --> 00:52:40,960
+coming up with yet another paper that is likely to be very low credibility.
+
+504
+00:52:41,760 --> 00:52:49,040
+John, if your 2005 paper on the frequency with which we were going to come across valid scientific
+
+505
+00:52:49,600 --> 00:52:54,080
+publications is arguably the one that's, is that your most cited paper?
+
+506
+00:52:55,120 --> 00:53:00,160
+No, it's not the most highly cited. It's received I think close to 10,000 citations but,
+
+507
+00:53:00,720 --> 00:53:05,360
+for example, the Prisma statement for meta-analysis has received far more.
+
+508
+00:53:05,840 --> 00:53:11,200
+Okay. Well, if that, I was going to assume that the 2005 paper was the most cited but I was going
+
+509
+00:53:11,200 --> 00:53:18,880
+to say the most entertaining is your 2012 paper which is the systematic cookbook review.
+
+510
+00:53:20,400 --> 00:53:25,920
+Again, this is just one of those things where I remember the moment this paper came out and just
+
+511
+00:53:25,920 --> 00:53:32,400
+the absolute belly laughing that I had reading this and frankly the sadness I had reading this
+
+512
+00:53:32,400 --> 00:53:40,480
+because it is a sarcastic commentary in a way on a problem that I think plagues this entire field.
+
+513
+00:53:41,520 --> 00:53:49,520
+In this paper, you basically, I don't know if it was randomly but you selected basically 50 common
+
+514
+00:53:49,520 --> 00:53:55,680
+ingredients from a cookbook. Was there any method behind how you did this or was it purely random?
+
+515
+00:53:56,320 --> 00:54:04,160
+Well, we use the Boston cookbook that has been published since the 19th century and we
+
+516
+00:54:05,280 --> 00:54:11,200
+randomly chose ingredients by selecting pages and then within those the recipes and the
+
+517
+00:54:11,200 --> 00:54:18,160
+ingredients that were in these recipes. So, yes, it is 50 ingredients, a random choice thereof,
+
+518
+00:54:18,160 --> 00:54:23,520
+and trying to map how many of those have had published studies in the scientific literature
+
+519
+00:54:23,520 --> 00:54:29,440
+in terms of their association with cancer risk. And not surprisingly, almost all of them had
+
+520
+00:54:30,160 --> 00:54:34,800
+some published studies associating them with cancer risk. Even the exceptions were probably
+
+521
+00:54:34,800 --> 00:54:39,280
+exceptions because of the way that we searched. For example, we didn't find any study on
+
+522
+00:54:39,280 --> 00:54:44,240
+on vanilla but there were studies on vanillin. So, if we had changed with a, if we had screened with
+
+523
+00:54:44,880 --> 00:54:50,320
+the names of the biochemical constituents of these ingredients probably, I guess all of them
+
+524
+00:54:50,320 --> 00:54:55,360
+might have had some studies associating them with cancer risk. How was this paper received
+
+525
+00:54:56,400 --> 00:55:01,280
+by the nutritional epidemiology community? I think it created lots of enemies and lots of friends
+
+526
+00:55:02,320 --> 00:55:09,120
+and I'm grateful for the enemies who some of them have pushed back with constructive comments. I
+
+527
+00:55:09,120 --> 00:55:15,840
+think that most people realize that we have a problem. I think that even people who disagree
+
+528
+00:55:15,840 --> 00:55:20,800
+with me on nutrition, I have great respect for them and I'm sure that they're well intentioned.
+
+529
+00:55:20,800 --> 00:55:25,600
+I think that at the bottom of their heart, it's not that they want to do harm. They want to save
+
+530
+00:55:25,600 --> 00:55:32,000
+lives. They want to improve nutrition. They want to improve our world. So, I think that it should
+
+531
+00:55:32,000 --> 00:55:37,680
+be feasible to reach some synthesis of these different approaches and these different trends.
+
+532
+00:55:38,240 --> 00:55:44,160
+And I do see that even people who have used traditional methods do start using some of
+
+533
+00:55:44,160 --> 00:55:50,240
+the methods that we have proposed. For example, these exposure-wide approaches or trying to come
+
+534
+00:55:50,240 --> 00:55:57,040
+up with large consortia and meta-analysis of multiple cohorts to strengthen the results and
+
+535
+00:55:57,040 --> 00:56:04,160
+the standardization of the results. I worry a little bit about some of the transparency of these
+
+536
+00:56:04,160 --> 00:56:13,680
+efforts. To give you one example, I have always argued that if you can have large-scale meta-analysis
+
+537
+00:56:13,680 --> 00:56:20,720
+of multiple teams, ideally all the teams joining forces and publishing a common analysis with common
+
+538
+00:56:20,720 --> 00:56:25,920
+standards and ideally these would be the best standards and the best statistical tools thrown
+
+539
+00:56:25,920 --> 00:56:32,880
+at the analysis, this is much better than having fragmented publications. So, in some questions of
+
+540
+00:56:32,880 --> 00:56:40,480
+nutrition, I have seen that happen, but here's what goes wrong. The invitation goes to other
+
+541
+00:56:40,480 --> 00:56:47,680
+investigators who have already found results that square with the beliefs of the inviting
+
+542
+00:56:47,680 --> 00:56:55,520
+investigator. So, there may be 3,000 teams out there and the invitation goes to the 100 teams
+
+543
+00:56:55,520 --> 00:57:01,920
+that have claimed and believe that there is that association. And then these data are cleaned,
+
+544
+00:57:01,920 --> 00:57:07,360
+combined, and analyzed in the way that has found the significant association already.
+
+545
+00:57:07,360 --> 00:57:13,040
+And you have a conclusion with an astronomically low p-value that here it is. We have concluded
+
+546
+00:57:13,040 --> 00:57:17,920
+that our claim for a significant association is indeed true and here's a large meta-analysis.
+
+547
+00:57:17,920 --> 00:57:25,280
+Now, this is equally misleading or even more misleading than the single studies because you
+
+548
+00:57:25,280 --> 00:57:32,240
+have cherry-picked studies based on what you already know to be the case. And putting them
+
+549
+00:57:32,240 --> 00:57:38,560
+together, you just magnify the cherry-picking. You just solidify the cherry-picking. So, one has
+
+550
+00:57:38,560 --> 00:57:46,800
+to be very cautious. Magnitude and amount of evidence alone does not make things better.
+
+551
+00:57:46,800 --> 00:57:53,280
+Actually, it can make things worse. You need to ask what is the foundational construct of how that
+
+552
+00:57:53,280 --> 00:58:00,960
+evidence has been generated and identified and synthesized. And in some cases, it may be worse
+
+553
+00:58:00,960 --> 00:58:06,400
+than the single small studies that are fragmented because some of them may not be affected by the
+
+554
+00:58:06,400 --> 00:58:12,720
+same biases. There also seem to be institutional issues around this. I mean, your alma mater
+
+555
+00:58:12,720 --> 00:58:18,240
+has a very strong point of view on nutritional epidemiology. I think this is unavoidable. There
+
+556
+00:58:18,240 --> 00:58:24,320
+are schools of thought in any scientific field and Harvard has an amazing team of nutritional
+
+557
+00:58:24,320 --> 00:58:30,080
+epidemiologists. I have great respect for them, even though probably we do not agree on many
+
+558
+00:58:30,080 --> 00:58:37,360
+issues. I think that we should look beyond, let's say, the personal differences or opinion
+
+559
+00:58:37,360 --> 00:58:46,320
+differences. I think that my opinion has less weight than anyone else's weight in that regard.
+
+560
+00:58:46,320 --> 00:58:52,320
+If I want to be true to my standards, I'm not trying to promote something because it is an
+
+561
+00:58:52,320 --> 00:58:58,320
+opinion. What I'm arguing is for better data, for better evidence, for better synthesis,
+
+562
+00:58:58,880 --> 00:59:05,840
+and more unbiased steps in generating the evidence, synthesizing the evidence, and interpreting it.
+
+563
+00:59:06,400 --> 00:59:13,840
+And I'm willing to see whatever result emerges by that process. I'm not committed to any particular
+
+564
+00:59:13,840 --> 00:59:21,120
+result. I would be extremely happy if we do these steps and we come up with a conclusion that
+
+565
+00:59:22,400 --> 00:59:27,840
+99% of the nutritional associations that were proposed were actually correct. I have absolutely
+
+566
+00:59:27,840 --> 00:59:35,200
+no problem with that if we do it the right way. What I'm worried is resistance to doing it the
+
+567
+00:59:35,200 --> 00:59:41,040
+right way. I think your point earlier though about the difference between, say, how the genetics
+
+568
+00:59:41,040 --> 00:59:46,640
+community and the nutrition community were able to approach this problem, I don't think you can
+
+569
+00:59:46,640 --> 00:59:53,920
+forget your second point, which is it's very difficult to overcome prior beliefs. When an
+
+570
+00:59:53,920 --> 01:00:00,880
+individual has made an entire career of a set of beliefs, I think it requires a very special
+
+571
+01:00:00,880 --> 01:00:07,520
+person to be able to say that may have been incorrect. And that is independent of what
+
+572
+01:00:07,520 --> 01:00:14,160
+that belief is, by the way. That can be a belief that may be correct or may be fundamentally
+
+573
+01:00:14,160 --> 01:00:21,040
+incorrect. It's funny. I recently saw this thing on Netflix. It was the documentary about this
+
+574
+01:00:21,040 --> 01:00:28,080
+D.B. Cooper case. Do you remember? Do you know this D.B. Cooper case? It's the only unsolved
+
+575
+01:00:28,080 --> 01:00:35,040
+act of US aviation crime that's never been solved. Did you know this case, John? The guy who
+
+576
+01:00:35,040 --> 01:00:38,240
+hijacked an airplane and then jumped out the back in 1971?
+
+577
+01:00:39,200 --> 01:00:42,480
+I may have heard of it somewhere, but yeah, I don't recall it very well.
+
+578
+01:00:43,040 --> 01:00:48,240
+Well, it's interesting in that this guy hijacks an airplane with a bomb and requests that the
+
+579
+01:00:48,240 --> 01:00:53,520
+plane be landed while they pick up $200,000 in four parachutes. He then gets the plane to take
+
+580
+01:00:53,520 --> 01:00:58,240
+back off and jumps out the back with the money. And he's never been found. Nine years later,
+
+581
+01:00:58,240 --> 01:01:04,080
+they found a little bit of the money. That's the only real clue. And this documentary focused on
+
+582
+01:01:04,080 --> 01:01:10,640
+four suspects, four of many suspects. And you basically hear the story of each of the four
+
+583
+01:01:10,640 --> 01:01:16,880
+suspects and each of the people who today are making the case for why it was their uncle or
+
+584
+01:01:16,880 --> 01:01:22,320
+their husband or whatever. And my wife and I are watching this and we're thinking it's interesting.
+
+585
+01:01:22,320 --> 01:01:25,760
+And at the end, I just said to her, I said, you know, this is a great
+
+586
+01:01:27,280 --> 01:01:34,320
+sort of example of human nature, which is I believe every one of those people truly believes
+
+587
+01:01:34,320 --> 01:01:40,960
+that it was their relative or friend or whomever who was D.B. Cooper. And yet I think all of them
+
+588
+01:01:40,960 --> 01:01:49,120
+are wrong. I think each of those four suspects is categorically not the person. And yet each of
+
+589
+01:01:49,120 --> 01:01:56,880
+them, I am convinced by their sincerity. And I think that's the problem is I don't think science
+
+590
+01:01:56,880 --> 01:02:02,800
+should be able to be that way. That's the problem I think I have with epidemiology is that I guess
+
+591
+01:02:02,800 --> 01:02:09,040
+I'm just not convinced it's a science in the way that we talk about science. Well, we have to be
+
+592
+01:02:09,040 --> 01:02:15,120
+cautious because we are human and scientists have beliefs. And I think that there's nothing wrong
+
+593
+01:02:15,120 --> 01:02:20,320
+with having beliefs. I think the issue is, can we map these beliefs? Can we be transparent?
+
+594
+01:02:21,040 --> 01:02:28,400
+Can we be as much restrained about how these beliefs are influencing the contact of our
+
+595
+01:02:28,400 --> 01:02:34,720
+research and the way that we interpret our findings? It will never be perfect. We're not perfect. And
+
+596
+01:02:34,800 --> 01:02:41,840
+I think that aiming to be perfect is not tenable. But at a minimum, we should try to impose as many
+
+597
+01:02:41,840 --> 01:02:46,720
+safeguards in the process as to minimize the chances that we will fool ourselves, not fool
+
+598
+01:02:46,720 --> 01:02:54,240
+others, but fool ourselves to start with as Feynman would say. This is not easy in fields that have a
+
+599
+01:02:54,240 --> 01:03:00,560
+very deeply entrenched belief system. And I think nutrition is one such. Again, there's no bad
+
+600
+01:03:00,560 --> 01:03:05,760
+intention here. People are well-intentioned. They want to do good. I will open a parenthesis. Of
+
+601
+01:03:05,760 --> 01:03:10,800
+course, there is some bad intentions. There's big food. There's industry who wants to promote
+
+602
+01:03:10,800 --> 01:03:17,840
+their products and sell whatever they produce. And that's a different story. And it is another,
+
+603
+01:03:17,840 --> 01:03:24,240
+a huge confounder both in nutrition and in other fields that we have very high penetrance of
+
+604
+01:03:24,240 --> 01:03:30,240
+financial conflicts. But I think that non-financial conflict can also be important. And
+
+605
+01:03:30,240 --> 01:03:36,720
+at a minimum, we should try to be transparent about them, try to communicate both to the external
+
+606
+01:03:36,720 --> 01:03:45,840
+world, but also to our own selves what might be our non-financial conflicts and beliefs in starting
+
+607
+01:03:45,840 --> 01:03:50,880
+to go down a specific path of investigation and a specific interpretation of results.
+
+608
+01:03:51,760 --> 01:03:56,800
+You referred to it very, very briefly earlier. What were the exact details of the case of Brian
+
+609
+01:03:56,800 --> 01:04:03,200
+Wonsick at Cornell? That was a lot to do. And it seemed that that went one step further. That
+
+610
+01:04:03,200 --> 01:04:08,160
+seemed like there was something quite deliberate going on. Well, in that case, it was revealed
+
+611
+01:04:08,160 --> 01:04:14,800
+based on the communication of that professor with his students that practically he was urging them
+
+612
+01:04:14,800 --> 01:04:21,360
+to cut corners and to torture the data until they would get some nice looking result. And
+
+613
+01:04:21,360 --> 01:04:27,280
+practically he was packaging nice looking results as soon as they would become available based on
+
+614
+01:04:27,280 --> 01:04:34,880
+that data torturing process. So the data torturing was the central force in generating these dozens
+
+615
+01:04:34,880 --> 01:04:41,680
+of papers that were creating a lot of interest and probably they were very influential, many of them
+
+616
+01:04:41,680 --> 01:04:49,200
+in terms of decision making. But if you create results and significance in that fashion,
+
+617
+01:04:49,200 --> 01:04:54,400
+obviously the chances that these would be reproducible results is very, very limited.
+
+618
+01:04:55,200 --> 01:05:01,440
+Yeah. And of course, he was a very prominent person in the field. It makes you wonder how often
+
+619
+01:05:01,440 --> 01:05:07,920
+is this going on with someone maybe less prominent where they're part of that 35 million people who
+
+620
+01:05:08,000 --> 01:05:14,320
+are out there authoring the, what are we about 100,000 papers a month make their way onto PubMed?
+
+621
+01:05:14,320 --> 01:05:21,040
+I mean, it's an avalanche, right? We have a huge production of scientific papers, as you say. And
+
+622
+01:05:21,040 --> 01:05:26,880
+if you look across all sciences, probably we're talking about easily 5 million papers added every
+
+623
+01:05:26,880 --> 01:05:33,440
+year. And the number is accelerating every single year. Of course, very few of them are both valid
+
+624
+01:05:33,440 --> 01:05:41,920
+and useful. And it's very difficult to sort through all that mountain of published information.
+
+625
+01:05:41,920 --> 01:05:47,280
+I think that research practices are substandard in most scientific fields for most of the research
+
+626
+01:05:47,280 --> 01:05:55,120
+being done. There's a number of surveys that have been conducted asking whether fraud is happening
+
+627
+01:05:55,120 --> 01:06:01,040
+and whether suboptimal research practices are being applied. The results are different depending
+
+628
+01:06:01,120 --> 01:06:07,280
+on whether you ask the person being interviewed on whether they are doing this or whether people
+
+629
+01:06:07,280 --> 01:06:12,800
+in their immediate environment are doing this. So fraud, I think is uncommon. I don't think that
+
+630
+01:06:12,800 --> 01:06:19,040
+fraud is a common thing in science. It does happen now and then, but I don't think that it is a major
+
+631
+01:06:19,040 --> 01:06:24,960
+threat in terms of the frequency. It is a threat in terms of the visibility that it gets and the
+
+632
+01:06:24,960 --> 01:06:32,000
+damage that it gets to the reputation of science as an enterprise. But it's not common. What is
+
+633
+01:06:32,000 --> 01:06:37,600
+extremely common is questionable research practices or harmful research practices, which means cutting
+
+634
+01:06:37,600 --> 01:06:43,040
+corners in different ways. And depending on how exactly you define that, the percentage of people
+
+635
+01:06:43,040 --> 01:06:48,000
+who might be cutting corners at some point is extremely high. It may be approaching even 100%
+
+636
+01:06:48,560 --> 01:06:54,320
+if you define it very broadly. And if you include situations where people are not really cognizant
+
+637
+01:06:54,320 --> 01:07:01,200
+about the damage that they do or the suboptimal character of the approach that they're taking and
+
+638
+01:07:01,200 --> 01:07:08,160
+how it subverts the results and or the conclusions of the study. Now, how do you deal with that? Do
+
+639
+01:07:08,160 --> 01:07:14,240
+you deal with that with putting people away to jail or making them lose their jobs or making them pay
+
+640
+01:07:14,240 --> 01:07:20,640
+$1 million fines? I don't think that that would work because you would probably need to fire the
+
+641
+01:07:20,720 --> 01:07:25,120
+vast majority of the scientific workforce. And all of these are good people. They're not there
+
+642
+01:07:25,120 --> 01:07:32,480
+because they're frauds. But you need to work through training, through sensitizing the community,
+
+643
+01:07:32,480 --> 01:07:39,520
+having a grassroots movement about realizing what the problems are, how you can avoid these traps,
+
+644
+01:07:39,520 --> 01:07:45,520
+and how you can use better methods, how you can use better inference tools, and how you can
+
+645
+01:07:46,480 --> 01:07:53,680
+enhance the credibility of your field at large. Not only your own research, but the whole field
+
+646
+01:07:53,680 --> 01:07:59,440
+needs to move to a higher level. And I think that no scientific field is perfect. There are different
+
+647
+01:07:59,440 --> 01:08:05,280
+stages of maturity, at different stages of engagement with better methods. And this is happening
+
+648
+01:08:05,920 --> 01:08:14,000
+in a continuous basis. It's an evolution process. So it's not at one time that we did one thing and
+
+649
+01:08:14,080 --> 01:08:19,360
+then science is going to be clean and perfect from now on. It is a continuous struggle. And
+
+650
+01:08:19,360 --> 01:08:21,760
+every day you can do things better or you can do things worse.
+
+651
+01:08:22,480 --> 01:08:30,000
+Of those 35 million people who are out there publishing science today, how many of them do
+
+652
+01:08:30,000 --> 01:08:35,600
+you think are really fit to be principal investigators and be the ones that are making
+
+653
+01:08:35,600 --> 01:08:41,040
+the decisions about where the resources go, what the questions are that should be asked,
+
+654
+01:08:41,040 --> 01:08:45,600
+and what the real and final interpretation is. I mean, that has to be a relatively small
+
+655
+01:08:45,600 --> 01:08:51,520
+fraction of that large number, right? Well, 35 million is the number of author IDs in Scopus.
+
+656
+01:08:51,520 --> 01:08:58,960
+And even that one is a biased estimate. Like any estimate, it could be that you have a much,
+
+657
+01:08:58,960 --> 01:09:04,320
+much smaller number of people who are what we call principal investigators. The vast majority
+
+658
+01:09:04,320 --> 01:09:09,440
+of people who have authored at least one scientific paper have just authored a single
+
+659
+01:09:09,440 --> 01:09:14,400
+scientific paper and they have just been co-authors. So they may be students or staff
+
+660
+01:09:14,400 --> 01:09:21,840
+or supporting staff in larger enterprises and they never assume their role of leading research
+
+661
+01:09:21,840 --> 01:09:29,280
+or designing research or being the key players in doing research. There's a much smaller core
+
+662
+01:09:29,280 --> 01:09:34,800
+of people who I would call principal investigators. We're talking probably at a global level, if you
+
+663
+01:09:34,800 --> 01:09:39,920
+take all sciences into account, probably there are less than 1 million. But still, this is a
+
+664
+01:09:39,920 --> 01:09:45,680
+huge number, of course. Their level of training, their level of how familiar they are with best
+
+665
+01:09:45,680 --> 01:09:54,800
+methods, their beliefs and priors and biases, it's very difficult to fathom. Some people argue that
+
+666
+01:09:54,800 --> 01:10:03,520
+we need less research that probably we should cut back and really be more demanding and asking
+
+667
+01:10:04,240 --> 01:10:09,760
+for credentials and for training and for methodological rigor for people to be able
+
+668
+01:10:09,760 --> 01:10:16,480
+to lead research teams. I'm a bit skeptical about any approach that is starting with a claim,
+
+669
+01:10:16,480 --> 01:10:22,640
+we need to cut back on research because I think that research and science eventually is the best
+
+670
+01:10:22,640 --> 01:10:26,320
+thing that has happened to humans. Science is the best thing that has happened to humans.
+
+671
+01:10:27,440 --> 01:10:31,840
+I think that if we say we need to cut back on research because research is suboptimal,
+
+672
+01:10:31,840 --> 01:10:35,360
+we may end up in a situation where you create an even worse environment,
+
+673
+01:10:35,920 --> 01:10:39,680
+where you have even more limited resources and you still have all these millions of people
+
+674
+01:10:39,680 --> 01:10:45,440
+struggling to get these even more limited resources, which means that they have even
+
+675
+01:10:45,440 --> 01:10:49,360
+more incentives to cut corners, they have even more incentives to come up with striking,
+
+676
+01:10:49,920 --> 01:10:54,960
+splashing results, and then you have an even more unreliable literature.
+
+677
+01:10:54,960 --> 01:11:03,680
+So, less is not necessarily the solution, actually it may be problematic. Improved standards,
+
+678
+01:11:03,680 --> 01:11:11,280
+improved circumstances of doing research, an improved environment of doing research is probably
+
+679
+01:11:11,280 --> 01:11:20,400
+what we should struggle for, creating the background where someone who's really a great scientist
+
+680
+01:11:20,400 --> 01:11:27,040
+and knows what he or she is doing will get support and will be allowed to thrive.
+
+681
+01:11:27,920 --> 01:11:35,120
+Also, allowed to look at things that have a high risk of failing. I think that if we continue
+
+682
+01:11:35,120 --> 01:11:41,520
+incentivizing people to get significant results, no matter how that is defined, we are incentivizing
+
+683
+01:11:41,520 --> 01:11:47,440
+people to do the wrong thing. We should incentivize them to try really interesting ideas and to have
+
+684
+01:11:47,440 --> 01:11:53,120
+a high chance of failing. This is perfectly fine. I think if you don't fail, you're not going to
+
+685
+01:11:53,120 --> 01:12:00,160
+succeed. So, we need to be very careful with interventions that happen at a science-wide
+
+686
+01:12:00,160 --> 01:12:05,920
+level or even discipline-wide level. We do not want to destroy science, we want to improve science,
+
+687
+01:12:05,920 --> 01:12:11,200
+and some of the solutions, they run the risk of doing harm sometimes.
+
+688
+01:12:11,920 --> 01:12:16,400
+Based on your comment about the risk appetite that belongs in science,
+
+689
+01:12:17,040 --> 01:12:23,600
+to me, it suggests an important role for philanthropy because industry obviously has
+
+690
+01:12:23,600 --> 01:12:29,600
+a very clear risk appetite that is going to be driven by a financial return. By definition,
+
+691
+01:12:29,600 --> 01:12:34,640
+everybody involved in that is a fiduciary, whether it be to a private or public shareholder,
+
+692
+01:12:35,200 --> 01:12:38,640
+and therefore, it's not the time to take risk for the sake of discovery.
+
+693
+01:12:39,600 --> 01:12:45,280
+Conversely, at the other end of that spectrum, it might seem like the government in the pure
+
+694
+01:12:45,280 --> 01:12:52,320
+public sector should be funding risk. But given the legislative process by which that
+
+695
+01:12:52,320 --> 01:12:59,840
+money is given out and the lack of scientific training that is in the people who are ultimately
+
+696
+01:12:59,840 --> 01:13:07,920
+decision-makers for that money, it also seems like a suboptimal place to generate risk. That
+
+697
+01:13:07,920 --> 01:13:13,840
+seems to be the place where you actually want to demonstrate a continued winning career, even if
+
+698
+01:13:13,840 --> 01:13:20,000
+you're not advancing knowledge in the most insightful way. What that leaves is an enormous
+
+699
+01:13:20,000 --> 01:13:25,840
+gap for risk, which I think has to be filled with philanthropic work. Do you agree with that?
+
+700
+01:13:27,040 --> 01:13:32,080
+I agree that philanthropy is very important. No strings attached to philanthropy can really be
+
+701
+01:13:32,080 --> 01:13:38,720
+catalytic in generating science that would be very difficult to fund otherwise. Of course,
+
+702
+01:13:38,720 --> 01:13:43,760
+public funding is also essential, and I think that we should make our best to make a convincing case
+
+703
+01:13:44,480 --> 01:13:49,200
+that public funding should increase and not decrease. As I said, decreasing public funding
+
+704
+01:13:49,200 --> 01:13:56,560
+makes things far, far worse for many reasons. I think that we need to realign some of our
+
+705
+01:13:56,560 --> 01:14:01,920
+priorities on what is being funded with each one of these mechanisms. Currently, a lot of public
+
+706
+01:14:01,920 --> 01:14:08,960
+funding is given to generate translational products that are then exploited immediately by
+
+707
+01:14:08,960 --> 01:14:16,960
+companies who make money out of them. Conversely, the testing of these products is paid by the
+
+708
+01:14:16,960 --> 01:14:24,720
+industry. I find that very problematic because the industry is financing and controlling the studies,
+
+709
+01:14:25,440 --> 01:14:31,680
+primarily randomized trials or other types of evaluation research that are judging whether
+
+710
+01:14:31,680 --> 01:14:37,200
+these products that they're making money of are going to be promoted, used, become
+
+711
+01:14:37,200 --> 01:14:44,560
+blockbusters and so forth, which inherently has a tremendous conflict. I would argue that the
+
+712
+01:14:44,560 --> 01:14:50,000
+industry should really pay more for the translational research, for developing products through the
+
+713
+01:14:50,000 --> 01:14:57,200
+early phases, and then public funding should go to testing whether these products are really worth
+
+714
+01:14:57,200 --> 01:15:02,080
+it, whether they are beneficial, whether they have benefits, whether they have no harms or very limited
+
+715
+01:15:02,080 --> 01:15:09,680
+harms. That research needs to be done with funding and unconflicted investigators, ideally through
+
+716
+01:15:10,320 --> 01:15:14,400
+public funds. Of course, philanthropy can also contribute to that. Philanthropy, I think, can
+
+717
+01:15:14,400 --> 01:15:21,280
+play a major role in allowing people to pursue high-risk ideas and things that probably
+
+718
+01:15:22,320 --> 01:15:27,840
+other funders would have a hard time to fund. I think that public funds should also go to high-risk
+
+719
+01:15:27,840 --> 01:15:34,400
+ideas. The public should be informed that science is a very high-risk enterprise. If you try to
+
+720
+01:15:34,400 --> 01:15:41,440
+create a narrative, and I think that this is the traditional narrative, that money from taxpayers
+
+721
+01:15:41,440 --> 01:15:48,960
+are used only for paying research grants, that each one of them is delivering some important
+
+722
+01:15:48,960 --> 01:15:54,640
+deliverables. I think this is a false narrative. Most grants, if they really look at interesting
+
+723
+01:15:54,640 --> 01:16:00,240
+questions, they will deliver nothing. Or at least they will deliver that, sorry, we tried,
+
+724
+01:16:00,960 --> 01:16:05,120
+we spent so much time, we spent so much effort, but we didn't really find something that is
+
+725
+01:16:05,120 --> 01:16:10,160
+interesting. We'll try again. We did our best. We had the best tools. We had the best scientists.
+
+726
+01:16:10,720 --> 01:16:17,840
+We applied the best methods. But we didn't find the new laws of physics. We didn't find a new drug.
+
+727
+01:16:17,840 --> 01:16:22,960
+We didn't find a new diagnostic test. We found nothing. That should be a very valid conclusion.
+
+728
+01:16:23,520 --> 01:16:27,760
+If you do it the right way, with the right tools, with the right methods, with the best scientists
+
+729
+01:16:27,760 --> 01:16:34,880
+being involved, putting down legitimate effort, we should be able to say we found nothing. But
+
+730
+01:16:34,880 --> 01:16:41,120
+out of 1,000 grants, we have five that found something. And that's what makes the difference.
+
+731
+01:16:41,120 --> 01:16:46,080
+It's not that each one of them made a huge contribution. It is these five out of 1,000
+
+732
+01:16:46,640 --> 01:16:51,840
+in some fields, and in other fields, obviously, maybe a higher yield that eventually transformed
+
+733
+01:16:51,840 --> 01:16:55,760
+the world. I mean, this seems like a bit of a communications problem, because that's clearly
+
+734
+01:16:55,760 --> 01:17:02,560
+the venture capital model that seems to work very well, which is on any given fund, your fund is
+
+735
+01:17:02,560 --> 01:17:09,760
+made back by one company or one bet. It's not an average. It's a very asymmetric bet. And similarly,
+
+736
+01:17:09,760 --> 01:17:16,480
+when you look at other landmark public high-risk funding things, the Manhattan Project, the Space
+
+737
+01:17:16,480 --> 01:17:23,040
+Project, these were upsettingly high-risk projects. And yet, I don't get the sense that the public
+
+738
+01:17:23,040 --> 01:17:28,400
+wasn't standing behind those. So it almost seems like there's a disconnect in the way scientists
+
+739
+01:17:28,400 --> 01:17:33,840
+communicate their work to the public versus the way NASA did. I mean, NASA was a PR machine.
+
+740
+01:17:34,480 --> 01:17:38,480
+And obviously, in the case of the Manhattan Project, I think you're in the duress of war.
+
+741
+01:17:39,440 --> 01:17:43,840
+But we can't lose sight of the fact that the scientific community was the one that stood up.
+
+742
+01:17:43,840 --> 01:17:49,040
+The physicists of the day are the ones that said to Roosevelt, like, this has to be done.
+
+743
+01:17:49,040 --> 01:17:55,360
+I mean, Einstein took a stand. So I don't know. I guess it all comes back to scientists need to
+
+744
+01:17:55,360 --> 01:17:59,200
+lead a bit and lead to be better communicators with the public, right?
+
+745
+01:17:59,760 --> 01:18:06,000
+Science communication is a very difficult business. And I think that especially in environments that
+
+746
+01:18:06,880 --> 01:18:11,600
+are polarized, that have lots of conflicts, inherent conflicts, lots of stakeholders in
+
+747
+01:18:12,320 --> 01:18:18,800
+in the community are trying to achieve the most for themselves and for their own benefits.
+
+748
+01:18:18,800 --> 01:18:24,960
+It can be very tricky. Scientists have a voice, but that voice is often drowned in the middle of
+
+749
+01:18:24,960 --> 01:18:32,000
+all the screams and Twitter and social media and media and agendas and lobbies and everything.
+
+750
+01:18:32,800 --> 01:18:38,880
+How do we strengthen that? I think that there's two paths here. One is to use the same tricks as
+
+751
+01:18:38,880 --> 01:18:44,880
+lobbies do. And the other is to stick to our guns and behave as scientists. We are scientists,
+
+752
+01:18:44,880 --> 01:18:50,880
+we should behave as scientists. I cannot prove that one is better than the other. I think that
+
+753
+01:18:50,880 --> 01:18:57,920
+both myself and many others feel very uneasy when we are told to really cross the borders
+
+754
+01:18:58,480 --> 01:19:05,200
+of science and try to become communicators that are lobbying even for science. It's not easy.
+
+755
+01:19:05,200 --> 01:19:11,040
+You want to avoid exaggeration. You want to say that I don't know. I'm doing research because I
+
+756
+01:19:11,040 --> 01:19:16,400
+don't know. I'm an expert, but I don't know. And this is why I believe that we need to know, because
+
+757
+01:19:17,120 --> 01:19:21,600
+these are questions that could make a difference for you. How do you tell people that most likely
+
+758
+01:19:21,600 --> 01:19:26,800
+I will fail, that most likely a hundred people like me will fail, but maybe one will succeed.
+
+759
+01:19:27,600 --> 01:19:34,800
+We need to keep our honesty. We need to make communication clear-cut. We need to also fight
+
+760
+01:19:34,800 --> 01:19:39,840
+against people who are not scientists and who are promising much more. And they would say that,
+
+761
+01:19:39,840 --> 01:19:45,120
+oh, you need to do this because it will be clearly a success. And they're not scientists, but they're
+
+762
+01:19:45,120 --> 01:19:50,480
+very good lobbies. It's very difficult. It's difficult times for science. It's difficult
+
+763
+01:19:50,480 --> 01:19:56,080
+times to defend science. I think that we need to defend our method. We need to defend our principles.
+
+764
+01:19:56,080 --> 01:20:02,640
+We need to defend the honesty of science in trying to communicate it rather than build
+
+765
+01:20:03,360 --> 01:20:11,440
+exaggerated promises or narratives that are not realistic. Then even if we do get the funds,
+
+766
+01:20:11,440 --> 01:20:16,240
+we have just told people lies. I completely agree. I don't think what you and I are saying
+
+767
+01:20:16,240 --> 01:20:22,400
+is mutually exclusive. I think that's the point. You said it a moment ago, Feynman's famous line
+
+768
+01:20:22,400 --> 01:20:27,680
+that the most important rule in science is not to fool anyone. And that starts with yourself.
+
+769
+01:20:27,760 --> 01:20:32,560
+You're the easiest person to fool. And once you fooled yourself, the game is over.
+
+770
+01:20:33,280 --> 01:20:38,160
+I think the humility that you talk about communicating with the public is the necessary
+
+771
+01:20:38,160 --> 01:20:46,880
+step. I guess for me, just having my daughter who's now just starting to understand or ask
+
+772
+01:20:46,880 --> 01:20:52,720
+questions about science is so much fun to be able to talk about this process of discovery and to
+
+773
+01:20:52,720 --> 01:20:58,480
+remind ourselves that it's not innate. This is not an innate skill. This is something. This
+
+774
+01:20:58,480 --> 01:21:07,920
+methodology didn't exist 500 years ago. So for all but 0.001% of our genetic lineage, we didn't
+
+775
+01:21:07,920 --> 01:21:15,280
+even have this concept. So that gives us a little bit of empathy for people who have no training,
+
+776
+01:21:15,280 --> 01:21:20,560
+because if you weren't trained in something, there's no chance you're going to understand
+
+777
+01:21:20,640 --> 01:21:26,160
+it without this explanation. But I feel strongly that there can't be a vacuum,
+
+778
+01:21:26,160 --> 01:21:30,160
+because the vacuum always gets filled. And if the scientists aren't the one speaking,
+
+779
+01:21:31,040 --> 01:21:35,600
+if the good scientists aren't the one speaking, then it's either going to be the bad ones and or the
+
+780
+01:21:35,600 --> 01:21:40,800
+charlatans who will. Before we leave EPI, there's one thing I want to go back to that I think is
+
+781
+01:21:40,800 --> 01:21:45,760
+another really interesting paper of yours. This is one from two years ago. This is the challenge
+
+782
+01:21:45,760 --> 01:21:52,320
+of reforming nutritional epidemiologic research. And this is the one where you looked at the
+
+783
+01:21:52,320 --> 01:22:00,960
+single foods and the claims that emerged in terms of epidemiology. Some of these things
+
+784
+01:22:00,960 --> 01:22:04,560
+were simply absurd. Do you remember this paper that I'm talking about, John? You've written
+
+785
+01:22:04,560 --> 01:22:11,280
+a couple along these lines. But this is the one where you found a publication that suggested
+
+786
+01:22:11,280 --> 01:22:18,720
+eating 12 hazelnuts per day extended life by 12 years, which was the same as drinking three
+
+787
+01:22:18,720 --> 01:22:25,280
+cups of coffee and eating one mandarin orange per day could extend lifespan by five years.
+
+788
+01:22:25,920 --> 01:22:32,800
+Whereas consuming one egg would shorten it by six years and two strips of bacon would shorten life
+
+789
+01:22:32,800 --> 01:22:38,960
+by a decade, which, by the way, was more than smoking. How do you explain these results? And
+
+790
+01:22:38,960 --> 01:22:45,840
+more importantly, what does it tell us again about this process? Well, these estimates obviously
+
+791
+01:22:45,840 --> 01:22:51,520
+are tongue in cheek. They're not real estimates. They're a very crude translation of what the
+
+792
+01:22:51,520 --> 01:22:55,760
+average person in the community would get if they see the numbers that are reported,
+
+793
+01:22:55,760 --> 01:23:02,160
+typically with relative risks in the communication of these findings. They're not epidemiologically
+
+794
+01:23:02,160 --> 01:23:08,800
+sound. The true translation to change in life expectancy would be much smaller. But even then,
+
+795
+01:23:09,280 --> 01:23:15,200
+they would probably be too big compared to what the real benefits might be or the real harms might
+
+796
+01:23:15,200 --> 01:23:21,120
+be with these nutrients. I think it just shows the magnitude of the problem that if you have a
+
+797
+01:23:21,120 --> 01:23:26,880
+system that is so complicated with so inaccurate measurements, with so convoluted and overtly
+
+798
+01:23:26,880 --> 01:23:35,200
+correlated variables with selective reporting and biases superimposed, you get a situation pretty much
+
+799
+01:23:36,000 --> 01:23:44,080
+like what we described in the nutrients and cancer risk where you get an implausible big picture,
+
+800
+01:23:44,080 --> 01:23:51,040
+where you're talking about huge effects that are unlikely to be true. So it goes back to what we
+
+801
+01:23:51,040 --> 01:23:56,400
+have been discussing about how you remedy that situation, how you bring better methods and better
+
+802
+01:23:56,400 --> 01:24:05,920
+training and better inferences to that land of irreproducible results. Now in, gosh, it might
+
+803
+01:24:05,920 --> 01:24:12,800
+have been 2013, 14, a very interesting study was published called Predemed, which we'll spend a
+
+804
+01:24:12,800 --> 01:24:19,760
+minute on. It was interesting in that it was a clinical trial. It had three arms and it relied
+
+805
+01:24:19,760 --> 01:24:25,680
+on hard outcomes. Hard outcomes meaning mortality or morbidity of some sort rather than just soft
+
+806
+01:24:25,760 --> 01:24:34,720
+outcomes like a biomarker. If you had told me before the results came out, this is the study,
+
+807
+01:24:34,720 --> 01:24:39,680
+you're going to have a low fat arm and two Mediterranean arms that are going to be split
+
+808
+01:24:39,680 --> 01:24:46,720
+this way and this way, and we're going to be looking at primary prevention. I would have said
+
+809
+01:24:46,720 --> 01:24:52,240
+the likelihood you'll see a difference in these three groups is quite low because it just didn't
+
+810
+01:24:52,240 --> 01:24:57,840
+strike me as a very robust design. But I guess to the author's credit, they had selected people
+
+811
+01:24:57,840 --> 01:25:03,600
+that were sick enough that within, I think they had planned to go as long as seven or so years,
+
+812
+01:25:03,600 --> 01:25:09,760
+but under five years they ended up stopping this study given that the two arms in the Mediterranean
+
+813
+01:25:09,760 --> 01:25:16,560
+arm, one that was randomized to receive olive oil, the other, I believe, received nuts, performed
+
+814
+01:25:16,560 --> 01:25:23,280
+significantly better than the low fat arm. And that's sort of how the story went until a couple
+
+815
+01:25:23,280 --> 01:25:31,520
+of years later. What happened then? So here you have a situation where I have to disclose my
+
+816
+01:25:31,520 --> 01:25:37,440
+own bias that I love the Mediterranean diet and I have been a believer that this should be a great
+
+817
+01:25:37,440 --> 01:25:43,200
+diet to use. I mean, I grew up in Athens and obviously it's something that I enjoy personally
+
+818
+01:25:43,200 --> 01:25:49,920
+a lot. And I would be very happy to see huge benefits with it. For many years I was touting
+
+819
+01:25:49,920 --> 01:25:55,040
+these results as here you go, you have a large trial that can show you big benefits on a clinical
+
+820
+01:25:55,040 --> 01:25:59,600
+outcome. And actually this is Mediterranean diet, which is the diet that I prefer personally,
+
+821
+01:25:59,600 --> 01:26:06,560
+even better. And just to make the point, it was both statistically and clinically very significant.
+
+822
+01:26:06,560 --> 01:26:12,160
+Indeed. Beautiful result, very nice looking, and I was very, very happy with that. I would use it
+
+823
+01:26:12,160 --> 01:26:19,680
+as an argument that here, here's how you can do it the right way. And so clinically relevant
+
+824
+01:26:19,680 --> 01:26:25,440
+results. But then it was realized that unfortunately this trial was not really a randomized trial.
+
+825
+01:26:26,080 --> 01:26:31,040
+The randomization had been subverted that a number of people had not actually been randomized because
+
+826
+01:26:31,040 --> 01:26:37,040
+of problems in the way that they were recruited. And therefore the data were problematic. You had
+
+827
+01:26:37,040 --> 01:26:41,760
+a design where some of the trial was randomized and some of the trial was actually observational.
+
+828
+01:26:42,480 --> 01:26:48,400
+So, the journal of medicine retracted and republished the study with lots of additional
+
+829
+01:26:48,400 --> 01:26:55,440
+analysis that tried to take care of that subversion of randomization in different ways, excluding these
+
+830
+01:26:55,440 --> 01:27:03,680
+people from the calculations and also using approaches to try to correct for the imposed
+
+831
+01:27:03,680 --> 01:27:10,240
+observational nature of some of the data. The results did not change much, but it creates,
+
+832
+01:27:10,240 --> 01:27:16,880
+of course, a very uneasy feeling that if really the Cram-de-La-Cram trial, the one that I adored
+
+833
+01:27:16,880 --> 01:27:26,640
+and I admired, had such a major problem, such a major basic, unbelievably simple problem in its very
+
+834
+01:27:26,640 --> 01:27:33,120
+fundamental structure of how it was run. How much trust can you put on other aspects of the trial
+
+835
+01:27:33,280 --> 01:27:40,240
+that require even more sophistication and even more care, for example, arbitration of outcomes
+
+836
+01:27:40,880 --> 01:27:45,840
+or how you count outcomes. As you say, this is a trial that originally was reported with limited
+
+837
+01:27:45,840 --> 01:27:50,320
+follow-up compared to the original intention. It was stopped at an interim analysis. The trial has
+
+838
+01:27:50,320 --> 01:27:56,000
+had lengthier follow-up. It has published a very large number of papers as secondary analysis,
+
+839
+01:27:56,640 --> 01:28:05,920
+but still we lack what I would like to see as a credible result. It's a tenuous, partly randomized
+
+840
+01:28:05,920 --> 01:28:11,840
+trial and unfortunately doesn't have the same credibility now compared to what I thought when
+
+841
+01:28:11,840 --> 01:28:18,080
+it was a truly randomized trial and there was one outcome that was reported and that seemed to be
+
+842
+01:28:18,080 --> 01:28:26,080
+very nice. Now it's a partly randomized, partly subverted trial with 200-300 publications
+
+843
+01:28:26,960 --> 01:28:32,880
+floating around with very different claims each time, most of them looking very nice but
+
+844
+01:28:32,880 --> 01:28:40,160
+fragmented into that space of secondary analysis. It doesn't mean that Mediterranean diet does not
+
+845
+01:28:40,160 --> 01:28:47,520
+work. I still like to eat things that fit to a Mediterranean diet and this is my bias.
+
+846
+01:28:48,320 --> 01:28:54,480
+It just gives one example of how things can go wrong even when you have good intentions. I think
+
+847
+01:28:54,480 --> 01:29:00,000
+that I can see that people really wanted to do it wrong but one has to be very cautious.
+
+848
+01:29:00,880 --> 01:29:06,320
+Yeah. I think for me, the takeaway, if I remember some of the details, which I might not, one of
+
+849
+01:29:06,320 --> 01:29:12,160
+the big issues was the randomization around the inner household subjects. You couldn't have people
+
+850
+01:29:12,160 --> 01:29:19,280
+in the same house eating the different diets, which is a totally reasonable thought. It just
+
+851
+01:29:19,280 --> 01:29:26,560
+strikes me as sloppiness that it wasn't done correctly in the first place. The cost and
+
+852
+01:29:26,560 --> 01:29:33,200
+duration of doing a study like that is so significant that it's just a shame that on
+
+853
+01:29:33,200 --> 01:29:41,520
+the first go, it's not nailed because it could be seven years at $100 million to do that again.
+
+854
+01:29:41,520 --> 01:29:46,960
+This is true but one has to take into account that in such an experiment, you have a very large
+
+855
+01:29:46,960 --> 01:29:52,400
+number of people who are involved and their level of methodological training and their ability to
+
+856
+01:29:52,400 --> 01:29:58,720
+understand what needs to be done may vary quite a bit. It's very difficult to secure that everyone
+
+857
+01:29:58,720 --> 01:30:04,720
+involved in all the sites involved in the trial would do the right thing. I think that this is an
+
+858
+01:30:04,720 --> 01:30:10,880
+issue also for other randomized trials that are multi-center. Very often now, we realize that
+
+859
+01:30:10,880 --> 01:30:15,520
+because of the funding structure, since as we said, there's very little funding from public
+
+860
+01:30:15,520 --> 01:30:22,080
+agencies, most of the multi-center trials are done by the industry. They try to impose some
+
+861
+01:30:22,080 --> 01:30:28,160
+rigor and some standards, but they also have to recruit patients from a very large number of sites,
+
+862
+01:30:28,160 --> 01:30:32,320
+sometimes from countries and from teams that have no expertise in clinical research.
+
+863
+01:30:33,600 --> 01:30:39,040
+Then you can have situations where a lot of the data may not necessarily be fraudulent,
+
+864
+01:30:39,040 --> 01:30:43,600
+but they're collected by people who are not trained, who have no expertise, who don't know
+
+865
+01:30:43,600 --> 01:30:49,440
+what they're doing. Sometimes depending on the study design, especially with unmasked trials or
+
+866
+01:30:49,440 --> 01:30:55,920
+trials that lack allocation concealment or both, you can have severe bias interfere even in studies
+
+867
+01:30:55,920 --> 01:31:02,160
+that seemingly appear to be like the creme de la creme of large-scale experimental research.
+
+868
+01:31:02,800 --> 01:31:10,400
+John, let's move on to one last topic, at least for now, which is the events of 2020.
+
+869
+01:31:11,200 --> 01:31:19,920
+In early April, I had this idea talking with someone on my team, which was,
+
+870
+01:31:20,960 --> 01:31:30,720
+boy, the seroprevalence of this thing might be far higher than the confirmed cases of this thing.
+
+871
+01:31:31,680 --> 01:31:38,160
+And if that were true, it would mean that the mortality from this virus is significantly
+
+872
+01:31:38,160 --> 01:31:43,680
+lower than what we believe. This was at a time when I think there was still a widespread belief
+
+873
+01:31:43,680 --> 01:31:51,600
+that five to 10% of people infected with this virus would be killed. And there were basically
+
+874
+01:31:51,600 --> 01:31:59,040
+a nonstop barrage of models suggesting two to three million Americans would die of this by the
+
+875
+01:31:59,040 --> 01:32:06,000
+end of the year. The first person I reached out to was David Allison. And I said, hey, David,
+
+876
+01:32:06,000 --> 01:32:13,760
+what do you think about doing an assessment of seropositivity in New York City? And he said,
+
+877
+01:32:13,760 --> 01:32:18,560
+let's call John Ayanetes. So we gave you a call that afternoon. It was a Saturday afternoon. We
+
+878
+01:32:18,560 --> 01:32:23,920
+all hopped on a Zoom and you said, well, guess what? I'm doing this right now in Santa Clara.
+
+879
+01:32:24,720 --> 01:32:28,640
+And I don't think it had been published yet, right? I mean, I think you had just basically
+
+880
+01:32:28,640 --> 01:32:34,160
+got the data, right? I believe there was about that time. Yes. Tell me a little bit about that
+
+881
+01:32:34,160 --> 01:32:38,160
+study and what did it show? Because it was certainly one of the first studies to suggest
+
+882
+01:32:38,960 --> 01:32:42,800
+that basically the seropositivity was much higher than the confirmed cases.
+
+883
+01:32:43,680 --> 01:32:48,560
+This is a pair of two studies, actually. One was done in Santa Clara and the other was done in LA
+
+884
+01:32:48,560 --> 01:32:54,560
+County. And both of them, the design aimed to collect a substantial number of participants
+
+885
+01:32:55,200 --> 01:33:00,560
+and try to see how many of them had antibodies to the virus, which means that they had been
+
+886
+01:33:01,280 --> 01:33:07,600
+infected perhaps at least a couple of weeks ago. And they were studies that Aaron Ben-David and
+
+887
+01:33:07,600 --> 01:33:13,440
+Jay Bhattacharya led. And also we had colleagues from the University of South California also
+
+888
+01:33:13,440 --> 01:33:20,080
+leading the study in LA County. They were studies that I thought were very important to do. I was
+
+889
+01:33:20,080 --> 01:33:25,280
+just one of many co-investigators, but I feel very proud to have worked with that team. They
+
+890
+01:33:25,280 --> 01:33:32,480
+were very devoted and they really put together in the field an amazing amount of effort and very
+
+891
+01:33:32,480 --> 01:33:38,160
+readily could get some results that would be very useful to tell us more about how widely spread the
+
+892
+01:33:38,160 --> 01:33:44,160
+viruses. The results, I'm not sure whether you would call them surprising, shocking, anticipated.
+
+893
+01:33:44,880 --> 01:33:49,920
+Depends on what your prior would be. Personally, I was open to the possibilities of any result.
+
+894
+01:33:50,160 --> 01:33:56,080
+I had no clue how widely spread the virus would be. And this is why I thought these studies were
+
+895
+01:33:56,080 --> 01:34:02,320
+so essential. I had already published more than a month ago that by that time that we just don't
+
+896
+01:34:02,320 --> 01:34:07,840
+know. We just don't know whether we're talking about a disease that is very widely spread or
+
+897
+01:34:07,840 --> 01:34:14,560
+very limited in its spread, which also translates in an inverse mode to its infection fatality rate.
+
+898
+01:34:14,560 --> 01:34:21,280
+If it's very widely spread, the infection fatality rate per person is much lower. If it is very
+
+899
+01:34:21,280 --> 01:34:26,160
+limited in its spread, it means that fewer people are affected, but the infection fatality rate would
+
+900
+01:34:26,160 --> 01:34:32,640
+be very high. So whatever the answer would be, it would be an interesting answer. And the result was
+
+901
+01:34:32,640 --> 01:34:40,160
+that the virus was very widely spread, far more common compared to what we thought based on the
+
+902
+01:34:40,160 --> 01:34:44,800
+number of tests that we were doing and the number of PCR documented cases at that time.
+
+903
+01:34:45,520 --> 01:34:50,240
+In the early months of the pandemic, we were doing actually very few tests. So it's not surprising at
+
+904
+01:34:50,240 --> 01:34:57,040
+all that the under ascertainment would be huge. I think that once we started doing more tests and or
+
+905
+01:34:57,040 --> 01:35:01,840
+in countries that did more testing, the under ascertainment was different compared to places
+
+906
+01:35:01,840 --> 01:35:08,400
+that were not doing much testing or were doing close to no testing at all. I think that the result
+
+907
+01:35:08,400 --> 01:35:15,920
+was amazing. I felt that that was a very unique moment seeing these results when I first saw that
+
+908
+01:35:15,920 --> 01:35:21,680
+that's what we got, that it was about 50 times more common than we thought based on the documented
+
+909
+01:35:21,680 --> 01:35:27,200
+cases. But obviously generated a lot of attention and a lot of animosity because people had very
+
+910
+01:35:27,200 --> 01:35:33,200
+strong priors. I think it was very unfortunate that all that happened in a situation of a highly
+
+911
+01:35:33,200 --> 01:35:39,840
+polarized, toxic political environment. Somehow people were aligned with different political
+
+912
+01:35:39,840 --> 01:35:48,160
+beliefs as if a political belief should also be aligned with a scientific fact. It was just
+
+913
+01:35:48,160 --> 01:35:55,040
+completely horrible. So it created massive social media and media attention, both good and bad.
+
+914
+01:35:55,680 --> 01:36:01,920
+And I think that we were bombarded with comments, both good and bad, and criticism. I'm really
+
+915
+01:36:01,920 --> 01:36:07,440
+grateful for the criticism because obviously these were very delicate results that we had to
+
+916
+01:36:07,440 --> 01:36:14,000
+be sure that we had the strongest documentation for what we were saying. And we went through a
+
+917
+01:36:14,000 --> 01:36:20,160
+number of iterations to try to address these criticisms in the best possible way. In the long
+
+918
+01:36:20,160 --> 01:36:27,520
+term, with several months down the road, inside we see that these results are practically completely
+
+919
+01:36:27,520 --> 01:36:32,320
+validated. We have now a very large number of seroprevalence studies that have been done
+
+920
+01:36:32,320 --> 01:36:37,360
+in very different places around the world. We see that those studies that were done in early days
+
+921
+01:36:37,360 --> 01:36:42,400
+had, as I said, the worst under-essertainment. We had tremendous under-essertainment in several
+
+922
+01:36:42,400 --> 01:36:47,680
+places around the world. Even in Santa Clara, there's another data set that was included in
+
+923
+01:36:47,680 --> 01:36:54,320
+the national survey of a study that was published in The Lancet about a month ago on hemodialysis
+
+924
+01:36:54,320 --> 01:37:00,240
+patients. And the infection rate, if you translated, that was a couple of months after
+
+925
+01:37:00,240 --> 01:37:04,640
+our study, if you translate it to an infection fatality rate, is exactly identical to what we
+
+926
+01:37:04,640 --> 01:37:12,240
+had observed in early April. So the study has been validated. It has proven that the virus is
+
+927
+01:37:13,120 --> 01:37:19,440
+very rapidly and very widely spreading virus. And you need to deal with it based on that profile.
+
+928
+01:37:19,440 --> 01:37:26,160
+It is a virus that can infect huge numbers of people. My estimate is as of early December,
+
+929
+01:37:26,160 --> 01:37:32,400
+probably we may have close to 1 billion people who have already been infected, more or less,
+
+930
+01:37:32,400 --> 01:37:38,960
+around the world. And there's a very steep risk gradient. There's lots of people who have
+
+931
+01:37:38,960 --> 01:37:45,920
+practically no risk or minimal risk of having a bad outcome. And there are some people who have
+
+932
+01:37:45,920 --> 01:37:52,320
+tremendous risk of being devastated. We have, for example, people in nursing homes who have
+
+933
+01:37:53,040 --> 01:37:58,000
+25% infection fatality rate. One out of four of these people, if they're infected,
+
+934
+01:37:58,000 --> 01:38:04,560
+they will die. So it was one of the most interesting experiences in my career,
+
+935
+01:38:04,560 --> 01:38:10,000
+both of the fascination about seeing these results and also the fascination
+
+936
+01:38:10,720 --> 01:38:20,800
+and some of the intimidation of some of the reaction to these results in a very toxic
+
+937
+01:38:20,800 --> 01:38:26,160
+environment, unfortunately. I don't necessarily mean by name, but what forces were the most
+
+938
+01:38:26,160 --> 01:38:32,800
+critical? Presumably these would be entities or individuals that wanted to continue to promote
+
+939
+01:38:32,800 --> 01:38:39,040
+the idea that the risk here warranted greater shutdown, slowdown, helped me understand a little
+
+940
+01:38:39,040 --> 01:38:46,240
+bit more where some of the vitriol came from. I think that there were many scientists who made
+
+941
+01:38:46,240 --> 01:38:51,040
+useful comments. And as I said, I'm very grateful for these comments because they helped improve the
+
+942
+01:38:51,040 --> 01:38:57,680
+paper. And then there were many people in social media that include some scientists who actually,
+
+943
+01:38:57,680 --> 01:39:02,480
+however, were not epidemiologists. Unfortunately, in the middle of this pandemic, we have seen lots
+
+944
+01:39:02,480 --> 01:39:08,080
+of scientists who have no relationship to epidemiology become kind of Twitter or Facebook
+
+945
+01:39:08,080 --> 01:39:13,120
+epidemiologists all of a sudden and have very vocal opinions about how things should be done.
+
+946
+01:39:13,120 --> 01:39:19,920
+I remember a scientist who was probably working in physics or not, who was sending emails every
+
+947
+01:39:19,920 --> 01:39:27,360
+two hours to the principal investigator and I was CC'd in them saying, you have not corrected the
+
+948
+01:39:27,360 --> 01:39:33,760
+paper yet. And every two hours, you have not corrected the paper yet. I mean, his comment was
+
+949
+01:39:33,760 --> 01:39:40,080
+wrong to start with. But as we were working on revisions, as you realize, we did that with
+
+950
+01:39:40,080 --> 01:39:46,640
+ultra speed responding within record time to create the revised version and to post it. But even
+
+951
+01:39:46,640 --> 01:39:52,880
+posting it takes five days, more or less. But what do you think was at the root of this
+
+952
+01:39:53,520 --> 01:39:58,320
+anger directed towards you and the team? Unfortunately, I think that the main reasons
+
+953
+01:39:58,320 --> 01:40:04,000
+were not scientific. I think that most of the animosity was related to the toxic political
+
+954
+01:40:04,000 --> 01:40:09,200
+environment at the moment. And personally, I feel that it is extremely important to
+
+955
+01:40:10,000 --> 01:40:17,520
+completely dissociate science from politics. Science should be free to say what has been found
+
+956
+01:40:17,520 --> 01:40:20,960
+with all the limitations and all the caveats, but be precise and accurate.
+
+957
+01:40:21,520 --> 01:40:28,560
+I would never want to think about what a politician is saying in a given time or given
+
+958
+01:40:28,560 --> 01:40:33,520
+circumstances and then modify my findings based on what one politician or another politician is
+
+959
+01:40:33,520 --> 01:40:40,480
+saying. So I think that one of the attacks that I received was that I have conservative ideology,
+
+960
+01:40:42,800 --> 01:40:49,600
+which is like the most stupendous claim that I can think of, you know, looking at my track record
+
+961
+01:40:49,600 --> 01:40:57,440
+and how much I have written about climate change and climate urgency and emergency and the problem
+
+962
+01:40:58,080 --> 01:41:03,280
+with gun sales and actually, you know, gun sales becoming worse in the environment of the pandemic
+
+963
+01:41:03,280 --> 01:41:08,880
+and the need to promote science and the need to diminish injustice and the need to provide
+
+964
+01:41:08,880 --> 01:41:15,600
+health, good health to all people and to decrease poverty. You know, claimingly that I'm a supporter
+
+965
+01:41:15,680 --> 01:41:23,040
+of conservative ideology, sick conservative ideology is completely weird. And then smearing
+
+966
+01:41:23,040 --> 01:41:30,160
+of all sorts that the owner of an airline company had given five thousand dollars to Stanford,
+
+967
+01:41:30,160 --> 01:41:34,640
+which I was not even aware of. The funding of the trial, which I was not even the PI,
+
+968
+01:41:35,280 --> 01:41:40,240
+was through a crowdsourcing mechanism going to the Stanford Development Office, which I'd never
+
+969
+01:41:40,240 --> 01:41:45,920
+heard of who were the people who had funded that. And of course, none of that money came to me or to
+
+970
+01:41:45,920 --> 01:41:50,800
+all the other investigators who completely volunteered our time. We have received zero
+
+971
+01:41:50,800 --> 01:41:58,400
+dollars for our research, but tons of smearing. Sorry, just to clarify, John, you're saying the
+
+972
+01:41:58,400 --> 01:42:05,200
+accusation was that because an airline had contributed five thousand dollars to Stanford,
+
+973
+01:42:05,200 --> 01:42:11,760
+for which you saw none of it, that your assessment was really a way to tell everybody
+
+974
+01:42:11,760 --> 01:42:17,040
+that the airlines should be back to flying. Yes. But, you know, I heard about it when
+
+975
+01:42:18,080 --> 01:42:22,800
+the bus did report. Yeah, of course. Yeah, of course. No, I get it. I get it.
+
+976
+01:42:22,800 --> 01:42:28,160
+So it's very weird. And, you know, because of all the attacks that we received, you know,
+
+977
+01:42:28,160 --> 01:42:34,800
+I received tons of emails that were hate mail and some of them threatening to me and my family.
+
+978
+01:42:35,440 --> 01:42:39,680
+My mother, she's 86 years old and there was a hoax circulated in social media
+
+979
+01:42:40,240 --> 01:42:47,280
+that she had died of coronavirus and her friends started calling at home to ask when the funeral
+
+980
+01:42:47,280 --> 01:42:54,320
+would be. And when she heard that from multiple friends, she had a life threatening, hypertensive
+
+981
+01:42:54,320 --> 01:43:01,520
+crisis. So these people really had a very toxic response that did a lot of damage to me and to
+
+982
+01:43:01,680 --> 01:43:09,920
+my family and to others as well. And I think that it was very unfortunate. I asked Stanford to try to
+
+983
+01:43:09,920 --> 01:43:15,680
+find out what was going on. And there was a fact finding process to try to realize, you know, why
+
+984
+01:43:15,680 --> 01:43:21,040
+is that happening? And of course, it concluded that there was absolutely no conflict of interest
+
+985
+01:43:21,040 --> 01:43:26,240
+and nothing that had gone wrong in terms of any potential conflict of interest. But this doesn't
+
+986
+01:43:26,240 --> 01:43:33,440
+really solve the more major problem. For me, the most major problem is how do we protect
+
+987
+01:43:33,440 --> 01:43:39,840
+scientists? It's not about me. It is about other scientists, some of them even more prominently
+
+988
+01:43:39,840 --> 01:43:45,680
+attacked. I think one example is Tony Fauci. He was my supervisor. I have tremendous respect for him.
+
+989
+01:43:45,680 --> 01:43:50,560
+He was my supervisor when I was at NIAID at NIH. He's a brilliant scientist and he has been
+
+990
+01:43:50,560 --> 01:43:56,320
+ferociously attacked. There's other scientists who are much younger. They're not, let's say,
+
+991
+01:43:56,320 --> 01:44:03,120
+as powerful. They would be very afraid to disseminate their scientific findings objectively
+
+992
+01:44:03,120 --> 01:44:09,280
+if they have to ponder what the environment is at the moment and what do different politicians say
+
+993
+01:44:09,280 --> 01:44:14,400
+and how will my results be seen. We need to protect those. We need to protect people who
+
+994
+01:44:14,480 --> 01:44:20,640
+would be very much afraid to talk and they would be silenced if we see examples that, you know,
+
+995
+01:44:20,640 --> 01:44:26,000
+can you see what happened to Johnny and Edie's or what happened to Tony Fauci? If I were to say
+
+996
+01:44:26,000 --> 01:44:34,400
+something, I would be completely devastated. So I think that we need to be tolerant. We need to
+
+997
+01:44:34,400 --> 01:44:43,680
+give science an opportunity to do its job, to find useful information, to correct mistakes,
+
+998
+01:44:43,680 --> 01:44:50,560
+or improve on methods. I mean, this is part of the scientific process, but not really throw all
+
+999
+01:44:50,560 --> 01:44:58,080
+that smearing and all that vicious vitriol to scientists. It's very dangerous. Regardless of
+
+1000
+01:44:58,080 --> 01:45:03,680
+whether it comes from people in one or another political party or one in another ideology,
+
+1001
+01:45:03,680 --> 01:45:09,600
+it ends up being the same. It ends up being populist attacks of the worst possible sort,
+
+1002
+01:45:09,600 --> 01:45:14,560
+regardless of whether they come from the left or right or middle or whatever part of the
+
+1003
+01:45:14,560 --> 01:45:19,520
+political spectrum. Well, I'm very sorry to hear that you had to go through that, especially at
+
+1004
+01:45:19,520 --> 01:45:24,560
+the level of your family. I was actually, I knew that you had been attacked a little bit. I was not
+
+1005
+01:45:24,560 --> 01:45:30,800
+aware that it had spread to the extent that you described it. What do we do going forward here? I
+
+1006
+01:45:30,800 --> 01:45:38,640
+mean, it still seems to be a largely partisan issue. There's a very clear left versus right
+
+1007
+01:45:38,640 --> 01:45:51,440
+approach to this that seems mostly science agnostic. I think it's viewed as unwise to have
+
+1008
+01:45:51,440 --> 01:45:57,120
+a changing opinion outside of science. I mean, in science, that's a hallmark of a great thinker.
+
+1009
+01:45:57,120 --> 01:46:03,760
+Someone who can change their mind in the presence of new information, that's a core competency of
+
+1010
+01:46:03,840 --> 01:46:09,120
+doing good science. In fact, much of what we've spoken about today is the toxicity of not being
+
+1011
+01:46:09,120 --> 01:46:14,720
+able to update your priors and change your mind in the face of new information. But yet somehow in
+
+1012
+01:46:14,720 --> 01:46:21,120
+politics, that is considered the biggest liability of all time. Somehow in politics, anytime you
+
+1013
+01:46:21,120 --> 01:46:28,320
+change your mind, it's wishy washy and you're weak and you don't know your ideology. There seems to
+
+1014
+01:46:28,320 --> 01:46:36,080
+be an incompatibility here. In a crisis moment like this, which is this was a crisis that seems
+
+1015
+01:46:36,080 --> 01:46:42,320
+to bring these things to the fore, right? It is true. I don't want to see that in a negative
+
+1016
+01:46:42,320 --> 01:46:48,720
+light necessarily because somehow the coronavirus crisis has brought science to the limelight in some
+
+1017
+01:46:48,720 --> 01:46:55,200
+positive ways as well. I think that people do discuss more about science. It has become a topic
+
+1018
+01:46:55,360 --> 01:46:59,680
+of great interest. People see that their lives depend on science. They feel that their world
+
+1019
+01:46:59,680 --> 01:47:04,720
+depends on science. What will happen in the immediate future and mid-range future depends
+
+1020
+01:47:04,720 --> 01:47:10,720
+on science and how we interpret science and how we use science. In a way, suddenly we have had
+
+1021
+01:47:11,680 --> 01:47:16,320
+hundreds of millions, if not billions of people become interested in science acutely.
+
+1022
+01:47:17,040 --> 01:47:22,560
+But obviously most of those, unfortunately, given our horrible science education, they have no
+
+1023
+01:47:22,560 --> 01:47:30,480
+science education and they use the tools of their traditional society discourse, which is
+
+1024
+01:47:30,480 --> 01:47:36,800
+largely political and sectorized, to try to deal with scientific questions. This is an explosive
+
+1025
+01:47:36,800 --> 01:47:44,000
+mix. I think it creates a great opportunity to communicate more science and better science.
+
+1026
+01:47:44,000 --> 01:47:50,960
+At the same time, it makes science a hostage of all these lobbying forces and all of this turmoil
+
+1027
+01:47:50,960 --> 01:47:55,440
+that is happening in the community. Well, John, what are you most optimistic about?
+
+1028
+01:47:56,880 --> 01:48:01,200
+You have lots of time left in your career. You're going to go on and do many more great things.
+
+1029
+01:48:01,200 --> 01:48:08,000
+You're going to be a provocateur. What are you most excited and optimistic about in terms of
+
+1030
+01:48:08,000 --> 01:48:12,480
+the future of science and the type of work that you're looking to advance?
+
+1031
+01:48:13,040 --> 01:48:18,960
+Well, I'm very excited to make sure that, and it does happen, that there's so many things that I
+
+1032
+01:48:18,960 --> 01:48:24,000
+don't know. And every day I realize that there's even more things that I don't know. I think that
+
+1033
+01:48:24,000 --> 01:48:30,400
+so far, if that continues happening and every day I can find out about more things that I don't know,
+
+1034
+01:48:30,400 --> 01:48:34,560
+things that I thought were so, but actually they were wrong and I need to correct them and find
+
+1035
+01:48:34,560 --> 01:48:40,560
+ways to correct them, then I really look forward to a good future for science and a good future for
+
+1036
+01:48:40,560 --> 01:48:46,240
+humans. I think that we're just at the beginning. We are just at the beginning of knowledge. And
+
+1037
+01:48:47,040 --> 01:48:53,760
+I feel like a little kid who just wants to learn a little bit more, a little bit more each time.
+
+1038
+01:48:54,480 --> 01:48:58,320
+Well, John, the last time we were together in person, we were in Palo Alto and we had a
+
+1039
+01:48:58,320 --> 01:49:04,400
+Mediterranean dinner. So I hope that sometime in 2021, that'll bring us another chance for another
+
+1040
+01:49:05,120 --> 01:49:10,800
+flaky white fish and some lemon potatoes and whatever other yummy things we had that evening.
+
+1041
+01:49:11,520 --> 01:49:15,360
+That would be wonderful. And I hope that it does increase life expectancy as well,
+
+1042
+01:49:15,360 --> 01:49:17,680
+although even if it doesn't, I think it's worth it.
+
+1043
+01:49:19,440 --> 01:49:21,280
+John, thanks so much for your time today.
+
+1044
+01:49:21,280 --> 01:49:21,920
+Thank you, Peter.
+
+1045
+01:49:22,480 --> 01:49:26,560
+Thank you for listening to this week's episode of The Drive. If you're interested in diving deeper
+
+1046
+01:49:26,560 --> 01:49:30,960
+into any topics we discuss, we've created a membership program that allows us to bring you
+
+1047
+01:49:30,960 --> 01:49:36,400
+more in-depth, exclusive content without relying on paid ads. It's our goal to ensure members get
+
+1048
+01:49:36,400 --> 01:49:41,600
+back much more than the price of the subscription. Now to that end, membership benefits include a
+
+1049
+01:49:41,680 --> 01:49:47,680
+bunch of things. One, totally kick-ass comprehensive podcast show notes that detail every topic, paper,
+
+1050
+01:49:47,680 --> 01:49:53,040
+person thing we discuss on each episode. The word on the street is nobody's show notes rival these.
+
+1051
+01:49:53,680 --> 01:49:58,240
+Monthly AMA episodes or ask me anything episodes, hearing these episodes completely.
+
+1052
+01:49:58,960 --> 01:50:03,840
+Access to our private podcast feed that allows you to hear everything without having to listen
+
+1053
+01:50:03,840 --> 01:50:09,040
+to spiel's like this. The Qualies, which are a super short podcast that we release every
+
+1054
+01:50:09,040 --> 01:50:13,200
+Tuesday through Friday, highlighting the best questions, topics, and tactics discussed on
+
+1055
+01:50:13,200 --> 01:50:18,560
+previous episodes of The Drive. This is a great way to catch up on previous episodes without having
+
+1056
+01:50:18,560 --> 01:50:24,080
+to go back and necessarily listen to everyone. Steep discounts on products that I believe in,
+
+1057
+01:50:24,080 --> 01:50:28,720
+but for which I'm not getting paid to endorse, and a whole bunch of other benefits that we continue
+
+1058
+01:50:28,720 --> 01:50:33,280
+to trickle in as time goes on. If you want to learn more and access these member-only benefits,
+
+1059
+01:50:33,280 --> 01:50:39,520
+you can head over to PeterAttiaMD.com forward slash subscribe. You can find me on Twitter,
+
+1060
+01:50:39,520 --> 01:50:46,320
+Instagram, and Facebook, all with the ID PeterAttiaMD. You can also leave us a review on Apple Podcasts
+
+1061
+01:50:46,320 --> 01:50:52,160
+or whatever podcast player you listen on. This podcast is for general informational purposes only
+
+1062
+01:50:52,160 --> 01:50:57,200
+and does not constitute the practice of medicine, nursing, or other professional healthcare services,
+
+1063
+01:50:57,200 --> 01:51:03,040
+including the giving of medical advice. No doctor-patient relationship is formed. The use of this
+
+1064
+01:51:03,040 --> 01:51:08,720
+information and the materials linked to this podcast is at the user's own risk. The content
+
+1065
+01:51:08,720 --> 01:51:14,480
+on this podcast is not intended to be a substitute for professional medical advice, diagnosis, or
+
+1066
+01:51:14,480 --> 01:51:20,720
+treatment. Users should not disregard or delay in obtaining medical advice from any medical
+
+1067
+01:51:20,720 --> 01:51:25,280
+condition they have, and they should seek the assistance of their healthcare professionals
+
+1068
+01:51:25,280 --> 01:51:30,960
+for any such conditions. Finally, I take conflicts of interest very seriously. For all of my
+
+1069
+01:51:30,960 --> 01:51:37,760
+disclosures and the companies I invest in or advise, please visit PeterAttiaMD.com forward
+
+1070
+01:51:37,760 --> 01:51:46,880
+slash about where I keep an up-to-date and active list of such companies.
+

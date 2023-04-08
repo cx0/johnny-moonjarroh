@@ -1,0 +1,1776 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hey, everyone. Welcome to the Drive podcast. I'm your host, Peter Attia.
+
+2
+00:00:07,000 --> 00:00:14,000
+Hey, Catherine. Great to have you back on the show here.
+
+3
+00:00:14,000 --> 00:00:16,000
+Awesome to be with you again.
+
+4
+00:00:16,000 --> 00:00:26,000
+It seems we're always discussing something controversial. And by the way, I already know what our third podcast will be about based on other controversial work you've done.
+
+5
+00:00:27,000 --> 00:00:30,000
+Yeah, you don't like to write about things that are simple.
+
+6
+00:00:30,000 --> 00:00:36,000
+No, I don't seem to. It is the fate of the investigative journalist.
+
+7
+00:00:36,000 --> 00:00:51,000
+Well, let's start with a broad question, which is what attracted you in particular to this story and why did you decide that you had something to offer, especially in a story where not to let too much out of the bag too soon.
+
+8
+00:00:51,000 --> 00:00:59,000
+But it seems that this is not something that can truly ever be known one way or the other. So it seems a bit of a frustrating exercise.
+
+9
+00:00:59,000 --> 00:01:18,000
+Yeah. Well, I've been covering the pandemic for a year for Vanity Fair. And, you know, as things have come a little bit more under control in the U.S., at least for the time being, my editor and I were like, what are the big unanswered questions of the pandemic?
+
+10
+00:01:18,000 --> 00:01:31,000
+And we decided that the biggest is what its origin was. Now, you know, one might say, well, that was settled a while ago or seemingly settled. Right.
+
+11
+00:01:31,000 --> 00:01:37,000
+It came from nature, but we don't know exactly how or where.
+
+12
+00:01:38,000 --> 00:01:49,000
+But it was interesting because the head of the World Health Organization himself said, we still don't know, you know, and all hypotheses remain on the table.
+
+13
+00:01:49,000 --> 00:02:05,000
+So it seemed that with Trump out of office, with the WHO head himself raising this as a question, it was a good time to begin to look into what was the sort of what's the debate?
+
+14
+00:02:05,000 --> 00:02:19,000
+What's the controversy? What are the questions? And what I uncovered was a lot more than I had really considered or bargained for when I started my reporting.
+
+15
+00:02:19,000 --> 00:02:29,000
+Maybe for folks, we should give a little bit of background on what a lab leak implies. Is there a precedent for such a thing in virology?
+
+16
+00:02:29,000 --> 00:02:41,000
+Because at the surface, it certainly sounds nefarious, right? It sounds like, well, that must be a deliberate thing. And it immediately falls into the realm of conspiracy theories.
+
+17
+00:02:41,000 --> 00:02:55,000
+But in fact, there's quite a precedent for viruses getting out of labs in the modern era. And I would define the modern era as the era of microbiology. Obviously, there weren't lab leaks that accounted for the Spanish flu.
+
+18
+00:02:55,000 --> 00:03:04,000
+But are there any that come to mind as you began your work here or that you had to learn about as a result of your investigation?
+
+19
+00:03:04,000 --> 00:03:13,000
+Yeah. So let me say first that lab leak, as it's understood, is not a unitary theory.
+
+20
+00:03:13,000 --> 00:03:37,000
+It ranges all the way from field researchers went into a bat cave, brought back natural samples into a laboratory, and that natural sample somehow leaked or a laboratory researcher got infected simply through aerosol transmission, which is what we're talking about.
+
+21
+00:03:37,000 --> 00:03:46,000
+This is not, I mean, the word leak implies like liquid gushing out of a pipe. That's not what we're talking about. We're talking about aerosol transmission.
+
+22
+00:03:46,000 --> 00:04:06,000
+But it could have been an infected lab worker. It could have been an infected field researcher bringing a sample back. But the phrase lab leak sort of runs all the way up to the possibility that someone in a laboratory was manipulating viruses potentially
+
+23
+00:04:06,000 --> 00:04:23,000
+in an experiment to make them more infectious, to see if they would become more infectious, and that that new strain, not a natural strain, per se, but one that was genetically modified, could have leaked from a laboratory.
+
+24
+00:04:23,000 --> 00:04:42,000
+So it really runs the gamut. It's not a single thing. And yes, you know, lab leak. This is not like, oh, how could that ever happen? In a way, it's like, how could it not happen? Because it's happened over and over and over again.
+
+25
+00:04:42,000 --> 00:05:04,000
+You know, you had very serious lab leak in the Soviet Union, which finally became exposed. It was an anthrax leak. You've had SARS leaks. You've had four SARS lab escapes since the SARS epidemic of 2002. So this actually is something that happens a lot.
+
+26
+00:05:04,000 --> 00:05:33,000
+And it seems that one of the most significant examples of this was this Russian flu in 1977, which was an H1N1 flu that had been around in the 40s and 50s. It was being studied in a lab. When it reemerged, it seemed to target disproportionately people that were younger than 25, which at the time maybe didn't make sense, although after it was clear that this was the same virus that was around.
+
+27
+00:05:33,000 --> 00:06:03,000
+So it made sense because obviously the people that were being afflicted were people that did not develop natural immunity. Again, there had been no, to my knowledge, of course, because you wouldn't have had the tools to have done so, there was no gain of function. Not that they could have genetically edited, but I don't believe there was evidence that it had been sort of selectively bred or anything like that. It was simply a question of this is a virus that's being studied in a lab. And then somehow that led to it getting out. And as you point out, at least four cases of the virus that was being
+
+28
+00:06:03,000 --> 00:06:11,000
+early SARS-1 virus escaping. And again, when you read the stories of these, which I've read at one point, all of them,
+
+29
+00:06:13,000 --> 00:06:25,000
+it's these are mistakes that people can make. These are perhaps viruses that are not being handled with as much care as they should be handled. Some shortcuts are being taken with respect to how they could be handled.
+
+30
+00:06:25,000 --> 00:06:48,000
+You know, I think it's important to point out that people talk about, you know, BSL-4 labs that are studying these incredibly dangerous pathogens. And so those are the most protective, highest containment labs where all the researchers are working in spacesuits with independent oxygen.
+
+31
+00:06:48,000 --> 00:07:09,000
+But the fact of the matter on the ground is that you have research with incredibly dangerous pathogens taking place in laboratories across the world that have much less protection, like BSL-2 labs, which are basically the safety standard of an American dentist's office.
+
+32
+00:07:10,000 --> 00:07:28,000
+You know, so you've had live SARS viruses being studied in overcrowded laboratories, you know, in China and elsewhere with very little protection, very few protections.
+
+33
+00:07:29,000 --> 00:07:42,000
+So there's at least a precedent that a virus that's being studied can make its way out of the lab. In fact, there's a great precedent for it. But of course, that alone doesn't explain what could have happened here.
+
+34
+00:07:42,000 --> 00:08:04,000
+It's probably worth also explaining for folks who haven't been so steeped in this story, or at least reminding people of the typical way in which a virus can be transmitted between animal hosts and what it means to have an intermediary host and how, for example, those were identified in the cases of SARS-1 and MERS.
+
+35
+00:08:05,000 --> 00:08:27,000
+So, you know, it was presumed early on that like other past viruses, SARS-CoV-2 had a zoonotic origin, meaning that it spread somehow from an animal and jumped to a human, or that there was an intermediary animal.
+
+36
+00:08:27,000 --> 00:08:53,000
+So possibly a pangolin, possibly a civet cat, and that it went from a bat reservoir to some intermediary animal to humans. So that is believed to be the case with SARS-CoV-1. That is believed to be the case with MERS, where there was a a dramadary as an intermediate host.
+
+37
+00:08:53,000 --> 00:08:58,000
+And with the initial animal being presumed to be some sort of bat reservoir. With Ebola, it's believed to have a zoonotic origin, either a bat or a chimp. It's not certain yet. But that is the, you know, that is the long history of these viruses, that it has some kind of natural origin and then evolves and mutates in such a way that it can be
+
+38
+00:09:23,000 --> 00:09:24,000
+infected by humans.
+
+39
+00:09:24,000 --> 00:09:40,000
+And I think one of the questions here in the case of SARS-1, it didn't take that long. I believe it was, you know, in the order of about six months to identify its intermediary, which is what's it called? Like a civet? Like it's sort of like a little, it's a little.
+
+40
+00:09:40,000 --> 00:09:41,000
+A civet cat. It's very cute.
+
+41
+00:09:41,000 --> 00:09:42,000
+Is it a civet cat? Yeah, yeah, yeah.
+
+42
+00:09:42,000 --> 00:09:44,000
+Yes, a very cute animal.
+
+43
+00:09:44,000 --> 00:10:13,000
+Yeah. And obviously in MERS, as you mentioned, a camel. What's relevant about this is that the virus can acquire additional tools in that intermediary host before making that final leap. And then so the question is, how much of the transmission occurs between, say, the cat and the human, or once that transmission occurs, is most of the transmission occurring human?
+
+44
+00:10:14,000 --> 00:10:30,000
+And so as of now, which is, you know, directionally, call it a year and nine months post the first infection, we don't yet have an identified intermediary host, which implies that it exists, but it hasn't yet been identified or there wasn't one.
+
+45
+00:10:30,000 --> 00:10:38,000
+And this might have traveled directly from bats to humans, for which there's clearly a precedent based on what happened in 2012, right?
+
+46
+00:10:39,000 --> 00:11:02,000
+Well, let me just say that we don't yet have a designated animal host and it's not for lack of trying to find one. So Chinese authorities have tested up to 80,000 animal samples to see if they could find a host animal and have not been able to do so.
+
+47
+00:11:03,000 --> 00:11:16,000
+So there has been, you know, you could think of it as an international bat hunt to find the host animal of this virus and none has presented itself yet.
+
+48
+00:11:17,000 --> 00:11:30,000
+Right. So we have we haven't identified the potential bat source of it. We haven't identified the intermediary of it. There is a close closest relative that has been identified, correct?
+
+49
+00:11:33,000 --> 00:11:59,000
+Yeah. So that is a sort of complicated question. But there is a strain, RATG13, which was found in an abandoned mine shaft in Yunnan Province in 2013, which is sort of the closest viral sample to the SARS-CoV-2 sequence.
+
+50
+00:11:59,000 --> 00:12:09,000
+So it's about 96.2 percent identical to SARS-CoV-2.
+
+51
+00:12:10,000 --> 00:12:26,000
+And what do we know about that? That I don't want to say accident, but that experience in 2013 where the miners were exposed to it. What do we know about their illness and what does that tell us about that virus?
+
+52
+00:12:27,000 --> 00:12:45,000
+So there's a couple of really interesting things about about what happened in 2012. First of all, that it happened, what happened, but also how it came, how it sort of broke into the public domain. What happened?
+
+53
+00:12:46,000 --> 00:13:06,000
+So just starting out in 2012, there were six miners who were given this very unpleasant assignment, which was to go to this abandoned mine shaft and dig, clean it out because it was thick with bat guano, which is bat feces, essentially.
+
+54
+00:13:07,000 --> 00:13:27,000
+So they go in there and they dig for days and weeks and they become gravely ill. So they become admitted to the hospital and in Kunming University Hospital, so they get admitted to the hospital.
+
+55
+00:13:28,000 --> 00:13:45,000
+The question is, is it a fungus? Is it a virus? They bring in an expert who analyzed this says it's a virus. They have pneumonia. It's a virus. Their symptoms were almost identical to COVID-19.
+
+56
+00:13:46,000 --> 00:14:00,000
+So he asked, what were they doing? They were digging up bat guano. What kind of bat? It's this Chinese rufous horseshoe bat, which is the same one that triggered SARS-CoV-1.
+
+57
+00:14:01,000 --> 00:14:15,000
+Three of the miners died. Three ultimately recovered. So this is a case that should have triggered worldwide alarm because it looked like the beginning of an outbreak again.
+
+58
+00:14:16,000 --> 00:14:36,000
+But the Chinese authorities never reported this to the World Health Organization. It sort of remained below the radar, except that this abandoned mine shaft became a destination for virologists in Asia who were going into this mine shaft and getting samples and bringing it back to their laboratories.
+
+59
+00:14:37,000 --> 00:15:00,000
+Probably the most active samplers from this mine shaft were members of the Wuhan Institute of Virology in Wuhan. They dug up many samples, brought it back to their laboratories, and they sequenced a sample, which they called at the time 4991.
+
+60
+00:15:00,000 --> 00:15:20,000
+And that was, as we would find out later, 96.2% identical to SARS-CoV-2. Except at the beginning of the outbreak, nobody knew about this mine shaft. Nobody knew that three miners had died, and no one knew about 4991.
+
+61
+00:15:21,000 --> 00:15:45,000
+The only way that we ultimately found out about it is because a very curious, unemployed science teacher in eastern India started digging into this database of Chinese master's thesis and pulled up an entire dissertation about this incident in the mine shaft.
+
+62
+00:15:45,000 --> 00:16:04,000
+Now, to be clear, it would not have been known based on the infection of those six mine shaft workers with basically a 50% mortality that there was any evidence that that virus could be transmitted human to human. Correct?
+
+63
+00:16:04,000 --> 00:16:19,000
+It could have been simply that they acquired it from the bats, which is the most likely scenario in the presence of an overwhelming exposure to the virus, but that the virus would not transmit human to human. Would that have been possible?
+
+64
+00:16:19,000 --> 00:16:31,000
+That's right. That's right. We have no information that they infected one another. They were all exposed to this bat guano. They went to the hospital.
+
+65
+00:16:31,000 --> 00:16:49,000
+It doesn't appear that the hospital workers got sick, so it doesn't appear that they spread it to other people, but they were desperately ill. And it's interesting to note, the oldest miner died first. He was the most gravely afflicted. He was in his 60s.
+
+66
+00:16:49,000 --> 00:17:07,000
+So if we look back at this incident in light of COVID-19, there are a number of aspects of this that do look like SARS-CoV-2 in 2012.
+
+67
+00:17:07,000 --> 00:17:25,000
+Though clearly it's a different virus given that, I mean, I think for a person listening, maybe not familiar with genetic distance, 96.2% sounds like, oh, that's a perfect match. But of course, that's not remotely a match.
+
+68
+00:17:25,000 --> 00:17:43,000
+I've spoken with virologists who have said, look, to try to take a virus from 96.2% to 100%, I mean, would take forever. I mean, that would be a very long period of genetic manipulation.
+
+69
+00:17:43,000 --> 00:17:59,000
+So the point being, it seems unlikely, at least if that's true, that that virus ultimately became SARS-CoV-2. What did your work uncover with respect to that specific concern?
+
+70
+00:17:59,000 --> 00:18:27,000
+Right. So the issue is, that is one sample that was taken from that mine shaft. But we don't know the whole universe of samples that came from that mine shaft. Now, that sample was taken to the Wuhan Institute of Virology, which just to point out, is about seven miles away from what was initially identified as the epicenter of the
+
+71
+00:18:27,000 --> 00:18:55,000
+COVID-19 outbreak in this Huanan seafood market. But the issue is, there were hundreds of samples that were taken to the Wuhan Institute of Virology. The database that housed these samples was taken offline weirdly a couple of months before the known start of the COVID-19 outbreak. So we're, you know, publicly, we're taking samples from the
+
+72
+00:18:55,000 --> 00:19:23,000
+whole universe of samples that emerged from that mine. Now, based on the fact that the Wuhan Institute of Virology collaborated with a number of US institutions, most notably, presumably the University of North Carolina, which I think we'll get to. Can we look at any of the grants or publications that came out of those jointly and surmise just how many samples were taken?
+
+73
+00:19:23,000 --> 00:19:31,000
+Can we surmise just how many samples of coronaviruses were extracted from 2013 until 2019?
+
+74
+00:19:31,000 --> 00:19:52,000
+Yeah, I mean, well, we know that there are hundreds, hundreds of samples that were extracted. And we presume that there was, you know, deep sequencing done on these samples. But again, we don't have access to all that information.
+
+75
+00:19:52,000 --> 00:20:05,000
+So, you know, we don't know if, if any of those other samples may have closed the gap from 96.2 to 100%, basically.
+
+76
+00:20:06,000 --> 00:20:29,000
+So again, just to ground everybody in the thought process here, if, if there's an argument to be made that that SARS-CoV-2 originated, in its final origination came from a lab, you basically have a couple of mechanisms that that could have happened.
+
+77
+00:20:29,000 --> 00:20:47,000
+One would be that the exact version of SARS-CoV-2 was identified in the wild, potentially in this mine, was brought to the lab where it was being studied, but not altered before it infected, presumably a lab worker that ultimately led to the outbreak.
+
+78
+00:20:47,000 --> 00:21:04,000
+Conversely, a very, very, very close cousin to SARS-CoV-2 was identified in the wild, again, potentially in this mine, where it was brought to the lab. And research was done on it, which we'll get to called gain-of-function research.
+
+79
+00:21:04,000 --> 00:21:19,000
+And that closed the genetic gap, so to speak, from where it started to where it currently is, and what ultimately led to the outbreak through presumably some contamination within the lab.
+
+80
+00:21:19,000 --> 00:21:24,000
+Is that sort of a safe summation of the plausible scenarios?
+
+81
+00:21:25,000 --> 00:21:46,000
+That is. And, you know, let me just add that the reason those scenarios exist as questions that remain unanswered is because there has been a fundamental lack of transparency that has essentially been enforced by the Chinese government.
+
+82
+00:21:46,000 --> 00:21:55,000
+And I mean there to distinguish between the motives of the scientists and the motives of the government.
+
+83
+00:21:55,000 --> 00:22:09,000
+We don't know whether the Chinese scientists would like a full accounting of everything that happened and are being prevented at giving one because the government is restricting it.
+
+84
+00:22:09,000 --> 00:22:18,000
+So, you know, we really, the questions can't be resolved because there hasn't been transparency around them.
+
+85
+00:22:18,000 --> 00:22:31,000
+So who would be the most preeminent scientist or scientists in China with respect to viruses? There's a pretty interesting character who leads the charge there, correct? She even has her own nickname.
+
+86
+00:22:32,000 --> 00:22:40,000
+She does. And, you know, it's one of these stories where as a journalist you feel like you can't even make this stuff up, right?
+
+87
+00:22:40,000 --> 00:22:56,000
+She Zhengli is the lead coronavirus researcher, the foremost coronavirus researcher in China. She is a sort of nationally revered, very well-known figure.
+
+88
+00:22:57,000 --> 00:23:06,000
+So she is the lead coronavirus researcher at the Wuhan Institute of Virology. And she has this nickname, Batwoman.
+
+89
+00:23:06,000 --> 00:23:25,000
+And that comes from her fearless exploration of these bat caves in southern China. So, you know, when you see her image, she's often shown wearing this spacesuit in the BSL-4 lab at the Wuhan Institute of Virology.
+
+90
+00:23:26,000 --> 00:23:37,000
+And she's, you know, she's like among these sort of sparkling firmament of internationally renowned scientists. She's nobody disputes that she's earned her place there.
+
+91
+00:23:38,000 --> 00:24:00,000
+And she's particularly well-known for a key discovery from the SARS-CoV-1 outbreak, which is she was the first researcher to figure out the mechanism by which humans were infected by that virus, which is through the ACE-2 receptors, human lung cells.
+
+92
+00:24:01,000 --> 00:24:05,000
+So she identified the mechanism for transmission.
+
+93
+00:24:05,000 --> 00:24:21,000
+Now, how long has the Institute been doing gain-of-function research? And maybe even before we answer that question, we could take a moment to explain what gain-of-function is. It's actually not perfectly...
+
+94
+00:24:23,000 --> 00:24:29,000
+There isn't an exceptional definition for it, but I think we can loosely describe it.
+
+95
+00:24:30,000 --> 00:24:50,000
+Sure. So, you know, first of all, there are some people who say that all of virology is gain-of-function research, which is basically when you study a virus, you are seeing sort of what functions it gains and what functions it loses.
+
+96
+00:24:51,000 --> 00:24:58,000
+How does it infect? Is it going to become more infectious? And by what mechanism is it going to become more infectious?
+
+97
+00:24:59,000 --> 00:25:19,000
+So gain-of-function research, put simply, is this idea that you are trying to test whether the pathogen can become more infectious. You're trying to give it attributes that it doesn't possess in nature as a way to gauge its own
+
+98
+00:25:20,000 --> 00:25:25,000
+effect, to gauge its infectiousness to humans. Yeah, sorry. Go ahead.
+
+99
+00:25:26,000 --> 00:25:49,000
+No, no. I was just going to say, look, at the surface, I think if you're listening to this and you don't dabble in this world, that sounds a bit absurd, right? We're going to take a virus that may have a certain level of either virulence or lethality or transmissibility, some feature that makes a virus undesirable, and we're going to enhance that.
+
+100
+00:25:50,000 --> 00:25:58,000
+So what's the argument for doing that? What's the argument for making a bad virus worse or making a good virus bad?
+
+101
+00:25:59,000 --> 00:26:19,000
+So, you know, first of all, let me say this is hugely controversial and has sort of divided the field of virology because there are people who say this is absolutely crazy. You know, as one source said to me, it's like it's like looking for a gas leak with a lighted match.
+
+102
+00:26:20,000 --> 00:26:41,000
+And there are other people who say this is absolutely essential. So the argument for why to do it is that in order to gauge the risk from viruses that exist in nature, you have to experiment with how they become infectious to humans.
+
+103
+00:26:41,000 --> 00:27:00,000
+And one of the ways to do that is essentially to soup up that virus. You know, you can through genetic editing, you can make it more infectious and see if it is, you know, one of these things that it's a determination of where we should put our resources.
+
+104
+00:27:00,000 --> 00:27:19,000
+You know, what do we need to protect against? There are other people who say, all right, we're going to these very remote areas where these viruses are tucked inside these caves. We're taking back samples to laboratories in crowded urban areas.
+
+105
+00:27:19,000 --> 00:27:31,000
+We are then altering these pathogens to make them more infectious. Right. That is, as one person said to me, the definition of insanity.
+
+106
+00:27:31,000 --> 00:27:49,000
+Is there any evidence that gain-of-function research has produced victories in the past? And we can even just keep, you know, SARS-CoV-2 off the list at the moment because I don't think there's any evidence it's benefited our fight against this virus.
+
+107
+00:27:49,000 --> 00:27:55,000
+But is there any evidence it has aided with the creation of flu vaccines or other vaccines?
+
+108
+00:27:55,000 --> 00:28:19,000
+Right. So the people who defend it say that you actually do need to do this kind of research in order to help with vaccine development, that this is the way that you figure out how to create resistance, is to look at, to experiment with how viruses might mutate.
+
+109
+00:28:19,000 --> 00:28:39,000
+So that, for example, if you wanted to, you know, kind of forecast what the variants of SARS-CoV-2 would be, like, as I'm sure the audience has heard of, you know, the fearsome Delta variant, which is so afflicting many countries in the world and now increasingly our own.
+
+110
+00:28:40,000 --> 00:29:05,000
+Part of, you know, part of what gain-of-function research can help do is forecast the mutations. But, you know, there are people who say that there is a lot of other ways to do this kind of research without running the risk of unleashing, you know, deadly pathogens that you can't control once they're out in the world.
+
+111
+00:29:06,000 --> 00:29:10,000
+Now, what's the U.S. government's position been on gain-of-function research?
+
+112
+00:29:11,000 --> 00:29:25,000
+Yeah. So this is, you know, when I started, let me just say, as a journalist and as an investigative journalist, I had been reporting on the pandemic for a year.
+
+113
+00:29:26,000 --> 00:29:39,000
+And once I got into this question that you just asked, I was like, wow, I can't believe how controversial and yet how under the radar this whole question has been.
+
+114
+00:29:40,000 --> 00:30:06,000
+So just to back up, in 2011, a scientist named Ron Fauchier did gain-of-function research with the H1N1 virus and created a pathogen that he said was the most dangerous and infectious the world has ever known through manipulations.
+
+115
+00:30:06,000 --> 00:30:19,000
+So that sparked this outcry in the scientific community. A group called the Cambridge Working Group was formed, which was basically stood in opposition to this kind of research.
+
+116
+00:30:19,000 --> 00:30:38,000
+And their expressions of concern led the U.S. government to impose a moratorium on any kind of funding of any kind of gain-of-function research of SARS and MERS pathogens.
+
+117
+00:30:39,000 --> 00:30:58,000
+So then began a period of review, task forces, reports, analysis. And interestingly, in the very beginning of the Trump administration in January of 2017, that moratorium was lifted.
+
+118
+00:30:58,000 --> 00:31:27,000
+But it was replaced with this framework, which had pretty much enough loopholes to drive a truck through. But it basically said any agency in the U.S. government that wants to fund this kind of research needs to have its own review process in place and needs to ensure that the entities that are getting U.S. taxpayer dollars are proceeding safely.
+
+119
+00:31:28,000 --> 00:31:42,000
+I know that one of the things that has allowed people to sort of lose faith in the government has been statements that both Francis Collins and Anthony Fauci have made with respect to this when asked.
+
+120
+00:31:42,000 --> 00:31:52,000
+Both of them have been asked if the United States government or specifically NIH has funded gain-of-function research. Both have emphatically denied it.
+
+121
+00:31:53,000 --> 00:32:08,000
+I believe the direct quote from Francis Collins, neither NIH nor NIAID have ever approved any grant that would have supported gain-of-function research on coronaviruses that would have increased their transmissibility or lethality for humans.
+
+122
+00:32:08,000 --> 00:32:26,000
+Also in May of 2021, Anthony Fauci told the Senate hearing that NIH and NIAID categorically have not funded gain-of-function research to be conducted at the Wuhan Institute of Virology. Can you evaluate the veracity of those statements?
+
+123
+00:32:26,000 --> 00:32:31,000
+So here is where we enter this true semantic marshland because the feeling of, and I'm not talking about sort of wing nuts who want to fire Fauci, credible people who have evaluated this say that there is some sort of rhetorical grant that is going to be
+
+124
+00:32:56,000 --> 00:33:20,000
+in the gray area here. First of all, while they haven't funded research, while the government hasn't funded research at the Wuhan Institute of Virology directly, they have funded basically an intermediary nonprofit called EcoHealth Alliance, which in turn has given subgrants to the Wuhan Institute of Virology.
+
+125
+00:33:20,000 --> 00:33:46,000
+Yeah, no direct funding, but yeah, indirect funding. Now, part of the obligation of EcoHealth Alliance was to report back to the NIH and say, you know, here's our progress reports. Here is, you know, what the Wuhan Institute of Virology was doing with some of your grant money, and we ensure that they've been doing this safely.
+
+126
+00:33:46,000 --> 00:33:51,000
+We don't know what's in those progress reports because NIH has not released them.
+
+127
+00:33:51,000 --> 00:33:54,000
+That smells like a FOA waiting to happen.
+
+128
+00:33:54,000 --> 00:34:06,000
+Oh, I'm the NIH now is like being buried up to their eyeballs in FOA's. Absolutely. You know, people want to know what did they know about this research.
+
+129
+00:34:07,000 --> 00:34:35,000
+You know, there are numerous investigations ongoing into that very question right now, including from the HHS Inspector General. So there's a lot of questions around this and not, you know, and let me just say part of the reporting effort for me was disentangling conspiracy theories and there's, you know, there wall to wall conspiracy theories out there.
+
+130
+00:34:35,000 --> 00:35:04,000
+You know, disentangling the ones that have no basis in reality and then trying to evaluate the credible questions. Right. So in my investigation, there are credible questions, you know, about that funding. I mean, why were we giving taxpayer, why were we allowing taxpayer dollars to, you know, a high level Chinese laboratory.
+
+131
+00:35:05,000 --> 00:35:31,000
+Where we now believe there was actually military scientists working in there. They're obviously an adversary as as one person said to me, hey, what's wrong with the Louis Pasteur Institute, you know, I mean, maybe we should make more of an effort to restrict our research dollars to the science laboratories of allies and not adversaries.
+
+132
+00:35:32,000 --> 00:35:40,000
+Tell me a little bit about eco health alliance. Why are they acting as an intermediary? What's their mission? What does this organization exist to do?
+
+133
+00:35:41,000 --> 00:36:05,000
+So Eco Health Alliance is a nonprofit which is run by a fellow zoologist named Peter Daschak and has a very laudable goal, which is basically to sort of map the viruses in the natural world and use that information in part to preserve wild spaces. Right.
+
+134
+00:36:05,000 --> 00:36:25,000
+If we continue on the path of habitat destruction and we end up sort of, you know, cheek by jowl close to these viruses like Ebola, it's, you know, we're both extinguishing the natural world and endangering our own health and safety on this planet.
+
+135
+00:36:25,000 --> 00:36:51,000
+So that is the goal of Eco Health Alliance. But the organization was pushing very, very hard for big funding dollars, not just to fund, you know, this research on a small scale, but had their eyes on something called the global viral project, which was basically a massive mapping of the world's viral strains.
+
+136
+00:36:51,000 --> 00:37:19,000
+And, you know, as one of my sources said, then it's not just looking for a gas leak with a lighted match, it's looking for a gas leak with a blowtorch. Right. If you going into all of these wild spaces and you're pulling back, bringing back all of these dangerous viruses, you know, and potentially unleashing pathogens, you know, the scientific question here is, do we need to know all the answers to this?
+
+137
+00:37:20,000 --> 00:37:29,000
+Or can we just kind of leave the caves to themselves and, you know, make sure that we closely regulate all of this activity.
+
+138
+00:37:29,000 --> 00:37:45,000
+So fast forward to the Trump administration in the middle of the COVID outbreak. Trump gets asked at a news conference by a journalist from a right wing media outlet called Newsmax.
+
+139
+00:37:46,000 --> 00:38:11,000
+Why is the U.S. government giving money to the Wuhan Institute of Virology, which was inaccurate. But Trump answered, we know about that and we're going to shut it down. About a week later, the NIH is forced by the White House to sever or to stop the grant to Eco Health Alliance.
+
+140
+00:38:11,000 --> 00:38:21,000
+You know, so at that moment, it looked very much like, wow, the Trump administration is really interfering with the science. This is critically important research in a time of COVID-19.
+
+141
+00:38:21,000 --> 00:38:37,000
+But as the story has evolved, you know, there are real questions about what was going on in the Wuhan Institute of Virology, what our taxpayer dollars was funding there.
+
+142
+00:38:37,000 --> 00:38:41,000
+And because of the lack of transparency, it's very hard to evaluate that.
+
+143
+00:38:41,000 --> 00:38:58,000
+So let's go back to sort of January 2020 when the virus was identified, sequenced. I think it still looked somewhat contained, at least contained to China. They had shut down Wuhan.
+
+144
+00:38:59,000 --> 00:39:17,000
+You mentioned that in September, I believe, of 2019, the database of all viruses extracted from the mine, presumably the database would have contained all viruses that they had been working on as well. That had been taken down.
+
+145
+00:39:18,000 --> 00:39:40,000
+That is right. And we don't know why. And it hasn't been put up since then. So so you know what was presumably this transparent hub of international science with She Zhengli doing these, you know, research experiments and collaborating with scientists around the world.
+
+146
+00:39:40,000 --> 00:39:58,000
+Suddenly, it was like the the, you know, steel doors in front of this, this institute just were, you know, shut, shut tight. And and nobody can see into what strains they had.
+
+147
+00:39:59,000 --> 00:40:16,000
+What I mean, there was a Lancet paper that came out in February of 2020 that very aggressively made the case that any suggestion that this didn't originate in nature was ridiculous.
+
+148
+00:40:17,000 --> 00:40:24,000
+That was that a peer reviewed paper? Was it it was it an editorial? What what was the nature of that paper? Was it an opinion piece?
+
+149
+00:40:25,000 --> 00:40:47,000
+Yeah, so, you know, it's important to note it was not a peer reviewed paper. It was a statement, which was published by 27 scientists who said basically anybody who is saying that this could have had a lab origin is siding with is trafficking in conspiracy theories.
+
+150
+00:40:48,000 --> 00:41:11,000
+And we stand with our fellow scientists in China to say that this had a natural origin. It was a big piece of branding, right, that suddenly raising the question of the lab leak was aiding and abetting Donald Trump's xenophobic agenda, aiding and abetting conspiracy theorists.
+
+151
+00:41:11,000 --> 00:41:21,000
+And as one of my sources said, it was like it was nailed to the church door. It became the orthodoxy and it really shut down debate.
+
+152
+00:41:22,000 --> 00:41:30,000
+But there was something more consequential that emerged from that Lancet statement. The scientists who signed it asserted that they had no conflicts of interest.
+
+153
+00:41:31,000 --> 00:41:41,000
+The problem was the person who had sort of designed and orchestrated the statement was Peter Daschak, who is the president of EcoHealth Alliance.
+
+154
+00:41:42,000 --> 00:41:48,000
+A number of the scientists who also signed were either employees of him or had received grant money.
+
+155
+00:41:49,000 --> 00:41:57,000
+And even though he's saying that he has no conflicts of interest, he was providing money to the Wuhan Institute of Virology.
+
+156
+00:41:58,000 --> 00:42:07,000
+So it was not a kind of neutral value free assertion, right? He has a stake in this. He definitely has a stake in this.
+
+157
+00:42:08,000 --> 00:42:23,000
+As somebody pointed out, you know, if it turns out to have been a lab leak, it could do to the field of virology what Chernobyl did to the world of nuclear science research, right?
+
+158
+00:42:24,000 --> 00:42:28,000
+Transform the whole thing, shutdowns, restrictions, moratoriums.
+
+159
+00:42:29,000 --> 00:42:45,000
+So Peter Daschak as the recipient of million, well, not personally, but EcoHealth Alliance as the recipient of millions of dollars in grant money definitely had, you know, a horse in this race.
+
+160
+00:42:46,000 --> 00:42:52,000
+Besides NIH, who else would be funding this type of research? Would the DOD be funding any of this research?
+
+161
+00:42:52,000 --> 00:43:18,000
+It has. DOD gave grants to EcoHealth Alliance, you know, and so as I spoke with investigators inside the U.S. government who were looking at COVID origins over the last year, what they found is that there is a big, they called it gain of function bureaucracy inside the federal government.
+
+162
+00:43:19,000 --> 00:43:34,000
+There are a lot of people who are invested in this kind of research, who are giving grant money for this kind of research. So they, you know, they have committed to this kind of very aggressive viral research.
+
+163
+00:43:35,000 --> 00:43:53,000
+And so they have, you know, an interest in the outcome of this question. And as these investigators told me, it had an enormous impact on their ability to just neutrally evaluate the question of origin.
+
+164
+00:43:54,000 --> 00:44:18,000
+This is more of a question of speculation, but do you think that had all of this taken place in a world where it had not been politicized? In other words, if politicians, including the President of the United States had never weighed in on this, if this were a discussion that were only going to take place in the scientific community, do you think the reaction would have been as polarizing?
+
+165
+00:44:19,000 --> 00:44:39,000
+It would have made a huge difference. I mean, partly this became so polarized because President Trump, at that point, lacking a lot of evidence in April 2020, announced it was a lab leak, that he was certain it was a lab leak.
+
+166
+00:44:40,000 --> 00:44:47,000
+Is there any evidence that he had intelligence to suggest that, or was this simply an off-the-cuff statement?
+
+167
+00:44:48,000 --> 00:45:07,000
+Right. So according to my sources, the most significant information that the U.S. government obtained came in the fall of 2020. You know, late summer or fall of 2020. So April of 2020, it was a lab leak.
+
+168
+00:45:08,000 --> 00:45:32,000
+April of 2020 really predates a lot of the significant information that the government collected. Couple that with the fact that on the same day that he declared he was certain it was a lab leak, hours earlier his own intelligence agencies put out a statement saying, we are certain that this was not genetically modified.
+
+169
+00:45:33,000 --> 00:45:52,000
+As it turns out, they didn't particularly have evidence for that either. But, you know, it's clear that elements of the U.S. government were sort of ping ponging off of these xenophobic declarations that President Trump was making.
+
+170
+00:45:53,000 --> 00:46:13,000
+You know, not necessarily as a good faith effort to get to the bottom of it, but more as a way to bludgeon China. You know, and as you know, he labeled the COVID-19 kung flu. He made a lot of very sort of negative assertions.
+
+171
+00:46:14,000 --> 00:46:28,000
+And it had this tremendous effect. It created, as one source told me, an antibody response within the federal government to the idea that it was a lab leak.
+
+172
+00:46:29,000 --> 00:46:55,000
+Was there censoring for these ideas or questions on social media? I wasn't particularly paying attention in the spring of 2020 to this, but was this the type of thing that if you had posted something about this on Facebook, where is it going to be taken down? I mean, what was the level of curiosity around this and how much was being explored?
+
+173
+00:46:55,000 --> 00:47:24,000
+Well, it's interesting because, you know, some social media sites, I believe, including Facebook, were labeling posts like this as conspiracy theories. And there has been some reversal since then. You know, also in the media where you have now sites like Vox that were, you know, posting disclaimers about conspiracy theories are now lifting those statements as the idea of a lab leak.
+
+174
+00:47:25,000 --> 00:47:28,000
+And that's why I think Facebook has gained in some credibility.
+
+175
+00:47:29,000 --> 00:47:46,000
+So let's let's march through the government a little bit more here in terms of the the efforts that were made to sort of try to get to the bottom of this, because really everything we're talking about is not really front and center. Right.
+
+176
+00:47:46,000 --> 00:47:48,720
+And so I think that's where the central point of the
+
+177
+00:47:48,720 --> 00:48:03,000
+business center is containing this virus vaccine development. I mean, there are real crises going on here. And presumably one could argue we'll look at this point. And by this point, I mean, say in the spring and early summer of 2020.
+
+178
+00:48:03,000 --> 00:48:22,000
+There's a lot going on in this country, right? And I think we've seen a lot of things, you know, we've seen a lot of these obstacles. And I think that's an interesting question.
+
+179
+00:48:22,000 --> 00:48:31,000
+And I think we've seen as much matter what the origin of this virus is, as, you know, what our response is going to be. And obviously, a year over a year ago, there was there was great uncertainty about that.
+
+180
+00:48:31,000 --> 00:48:32,000
+Is the window missed even by that point?
+
+181
+00:48:32,000 --> 00:48:45,000
+I mean, there's always like the most interesting thing you'd want to do is gather serum samples and understand the the seropositivity of people within that vicinity and try to get a signature that way.
+
+182
+00:48:45,000 --> 00:48:50,000
+Any efforts made by the WHO or others to do that or this or the CDC in China?
+
+183
+00:48:50,000 --> 00:49:01,000
+Well, you know, this is very interesting because I interviewed Dr. Robert Redfield for this story and he was the CDC. He was the head of the US CDC.
+
+184
+00:49:01,000 --> 00:49:25,000
+You know, he said to me that from minute one of of his learning of this virus, he began thinking about the Wuhan Institute of Virology because he knew of this risky gain of function research they were doing and wanted to rule them out as a potential source.
+
+185
+00:49:25,000 --> 00:49:37,000
+And he offered to send in a team of experts to do exactly what you're saying, you know, to do this widespread testing, to do antibody testing of all the researchers there.
+
+186
+00:49:37,000 --> 00:49:46,000
+As he said to me, you know, I could have, you know, had we sent in a team of experts, I would have been able to rule.
+
+187
+00:49:46,000 --> 00:50:06,000
+I could have presumably if the laboratory was not a source, I could have ruled it out in a couple of weeks. But China, you know, whether they were covering up a lab leak or because they were just reacting the way an authoritarian government does, they immediately circled the wagons.
+
+188
+00:50:06,000 --> 00:50:25,000
+They refused to let in a team of experts and they did start destroying records. You know, that is absolutely part of what they did. So, you know, there is no question that we have lost massive ground in our ability to understand the origin.
+
+189
+00:50:25,000 --> 00:50:39,000
+And has the Chinese government allowed anyone to go back to the caves in Wuhan where the original samples were identified, where RATG13 was found to continue bioprospecting?
+
+190
+00:50:39,000 --> 00:50:46,000
+Yeah. I mean, not only have they not allowed it, they have actively arrested journalists who have tried to go there.
+
+191
+00:50:47,000 --> 00:50:58,000
+The BBC sent a team of journalists there in December of 2020. They were tailed by Chinese police. They found a big truck blocking access to the mine shaft.
+
+192
+00:50:58,000 --> 00:51:10,000
+The Wall Street Journal sent a reporter in on a bicycle and he was detained by Chinese police and questioned for about five hours.
+
+193
+00:51:10,000 --> 00:51:19,000
+And, you know, his notes were confiscated. So the Chinese government has been blocking access to this mine shaft.
+
+194
+00:51:19,000 --> 00:51:31,000
+So let's talk about some of the lines of evidence both for and against this. I mean, I think what's what's clear here is one, there's a precedent for this happening. Right.
+
+195
+00:51:31,000 --> 00:51:51,000
+So it's an absolutely plausible scenario. Two, unfortunately, because of the nature of the Chinese government's behavior and by extension, the US government's behavior, there's ample reason to believe in a conspiracy.
+
+196
+00:51:51,000 --> 00:52:02,000
+But by no means is that necessary. In other words, this virus could have completely occurred in nature and the Chinese government would probably still behave the exact way it did.
+
+197
+00:52:02,000 --> 00:52:15,000
+And the US government would have behaved exactly the same way it did. So, you know, unfortunately, those things don't really, I think, move the thinking or the evidence one way or the other more than the other.
+
+198
+00:52:16,000 --> 00:52:31,000
+But now let's talk about some of the features of the virus, because I think this is where it gets very I mean, not that not that not that what we've said hasn't gotten interesting, but but the biology of this is also quite interesting. Right.
+
+199
+00:52:31,000 --> 00:52:55,000
+Yeah. So, you know, there has been a lot of let me first say that I don't think there there is no information that is in the public domain, either regarding the viral sequence and the sort of oddities of the viral sequence, you know, or regarding other
+
+200
+00:52:55,000 --> 00:53:13,000
+circumstantial evidence that can answer this question one way or another. You know, you when I started reporting this, there was, you know, there were plenty of articles that were like, well, maybe this and maybe that, you know, but the information that is in the public domain doesn't get you there.
+
+201
+00:53:14,000 --> 00:53:41,000
+Some attention or a lot of attention has been focused on what is called a furin cleavage site in the sequence. And that is, you know, part of the strain that one virologist told me is a sort of signature of genetic editing of the Wuhan Institute of Virology, that in a number of the strains they've worked on and manipulated and
+
+202
+00:53:41,000 --> 00:53:43,000
+published papers about, you see the insertion of a furin cleavage site in the in the viral sequence. And that is the spot on the sequence that makes it more infectious to humans. So Nick Wade, who's a former New York Times reporter, you know, he published a long piece sort of analyzing the question of the science and the
+
+203
+00:53:43,000 --> 00:53:51,000
+science and the science of the human body. And I think that's a very interesting question.
+
+204
+00:54:21,000 --> 00:54:35,000
+That was he told his wife, that was the smoking gun, you know, and then he knew it was genetically edited. Since Nick Wade's piece came out and got a lot of attention, David Baltimore sort of walked that back and said, well, not really.
+
+205
+00:54:35,000 --> 00:54:46,000
+And then other people have come out and said, well, you find furin cleavage sites and sequences in nature, and it doesn't necessarily have to be reflective of genetic editing.
+
+206
+00:54:47,000 --> 00:54:54,000
+That's been my find as well. I mean, I've spent far more time on this than I wanted to, because it's one of those.
+
+207
+00:54:54,000 --> 00:54:55,000
+Everybody does.
+
+208
+00:54:55,000 --> 00:55:04,000
+Yeah, it's one of those things you sort of think, well, look, I'm going to just read these three articles and then but then you have to read every single reference to those articles.
+
+209
+00:55:05,000 --> 00:55:13,000
+And I mean, truthfully, I'm going out of my mind at this point, and I don't want to read any more on this because it's too much.
+
+210
+00:55:13,000 --> 00:55:22,000
+But, you know, that's one of the rabbit holes I went incredibly far down. And there's just outright contradictory information there.
+
+211
+00:55:22,000 --> 00:55:34,000
+Now, I haven't spoken to Nicholas Wade, but in his piece, he says there is no evidence of furin cleavage sites in any beta coronaviruses that are SARS like.
+
+212
+00:55:34,000 --> 00:55:49,000
+And yet I actually found several references for papers that contradict that, including a paper published in 2018 that found a furin cleavage site in MERS, which is a SARS like beta coronavirus.
+
+213
+00:55:49,000 --> 00:56:00,000
+So to me, the presence of the furin cleavage site, which to your point makes this much more infectious than SARS one.
+
+214
+00:56:00,000 --> 00:56:09,000
+You had commented that that SARS one, you know, it transmits through the ACE, the ACE two receptor.
+
+215
+00:56:09,000 --> 00:56:20,000
+Well, this is on the order of like an order of magnitude more transmissible because that S1, S2 subunit is cleaved and now it has an enormous affinity for that ACE two receptor.
+
+216
+00:56:20,000 --> 00:56:32,000
+So a more interesting question to me is the nature of the codons that exist there. So the furin cleavage site is always a or not.
+
+217
+00:56:32,000 --> 00:56:47,000
+Actually, I believe it is. I believe it is exclusively a proline, arginine, arginine, alanine sequence. And not to bore people with too much biochemistry, but you have three nucleotides that make up each codon.
+
+218
+00:56:47,000 --> 00:56:57,000
+So you have redundancy in the system because there's only 20 amino acids, but you have 64 combinations with all of the nucleotides.
+
+219
+00:56:58,000 --> 00:57:13,000
+You have more than one way to get an amino acid. So what I think also got a lot of attention in Nick Wade's piece was the I think it's a CGG arginine.
+
+220
+00:57:13,000 --> 00:57:29,000
+And that is a very unusual arginine. It's only typically present in 5% of coronaviruses, meaning only 5% of the time when a coronavirus needs to make an arginine, does it use a I think it's CCG or CGG.
+
+221
+00:57:30,000 --> 00:57:44,000
+Okay. But when you go and look more deeply in the literature, it turns out that you saw that in other furin cleavage sites of other coronaviruses that also had very little of that.
+
+222
+00:57:44,000 --> 00:57:55,000
+In other words, there was another coronavirus that I saw that only had 3% of its arginines being either CCG or CGG, but it still showed up in its furin cleavage site.
+
+223
+00:57:55,000 --> 00:58:05,000
+And there's no ambiguity about whether that was naturally occurring or not. So does that mean it occurred in nature? Does that mean it was manipulated in a lab? It's still very hard to know.
+
+224
+00:58:05,000 --> 00:58:22,000
+So I don't think really in any dimension of this, there is no smoking gun per se. What there is is smoke coming out of a lot of windows.
+
+225
+00:58:22,000 --> 00:58:38,000
+You know, that's what I saw as I was reporting. There is enough smoke coming out of enough windows that we cannot take the lab leak hypothesis off the table.
+
+226
+00:58:38,000 --> 00:58:50,000
+And so for me, the most credible people on this, they're not saying it was a lab leak. What they're saying is, why can't we have a full investigation?
+
+227
+00:58:50,000 --> 00:59:06,000
+That's what we don't have. We have not had a forensic investigation. And so if we haven't had a forensic investigation, why are the scientists acting so unscientific by saying it wasn't a lab leak?
+
+228
+00:59:06,000 --> 00:59:16,000
+How do they know? They don't actually know. Just like we don't know that it was or it wasn't.
+
+229
+00:59:17,000 --> 00:59:26,000
+But there is enough of a suspicious fact pattern that it requires investigation.
+
+230
+00:59:26,000 --> 00:59:38,000
+Yeah. Of all the things that I have read, and I think at this point, I don't know what I haven't read. I feel like it's just so overwhelming. I think the most compelling.
+
+231
+00:59:38,000 --> 00:59:41,000
+Welcome to the club. Yes.
+
+232
+00:59:41,000 --> 01:00:01,000
+I think the most compelling mechanistic answer. So there's lots of circumstantial reasons, right? The Lockham's razor says, you know, in the middle of fall slash winter. So in Q4 of 2019, when there are no bats, they're all hibernating.
+
+233
+01:00:01,000 --> 01:00:25,000
+You have a breakout in a major population center that's doing research on it. So all of those things aside, from a purely biological mechanistic standpoint, I think the most convincing piece of evidence for a lab leak is that for about a year post this virus being in humans, it didn't change.
+
+234
+01:00:25,000 --> 01:00:51,000
+We're only now seeing variants of this virus, right? Like the Delta variant you mentioned earlier. That strikes me as interesting given that given the ubiquity of this virus, so how many people were infected, suggesting just how stable this thing was by the time it got into humans, meaning a lot of the tinkering got taken out of it sooner.
+
+235
+01:00:51,000 --> 01:01:07,000
+Now, so one argument would be if this were a virus that got manipulated and naturally selected through humanized mice, which is to say mice that have ACE2 receptors in their lungs, which are the exact mice you would use to do this type of research.
+
+236
+01:01:07,000 --> 01:01:25,000
+In fact, the mice, which we know were being used for this type of research. Yes. That makes sense to me that, you know, you could easily have a virus that has now reached its state of maturation. It gets out now into, you know, the wild.
+
+237
+01:01:25,000 --> 01:01:40,000
+And it takes quite a while to evolve into its new variant. What about you? Like, where does that stack up in terms of biological reasoning in favor of a lab leak versus not?
+
+238
+01:01:41,000 --> 01:02:09,000
+So, you know, there are one scientist, Alina Chan. She's at the Broad Institute. And she has really advanced that idea and had a preprint paper to that effect, which is the idea that this virus seemed immediately ready to infect humans and didn't appear to undergo the sort of all the early mutations
+
+239
+01:02:09,000 --> 01:02:30,000
+that you saw in SARS-CoV-1, right? So it seemed sort of primed for human transmission, which in her view argued for a lab leak. But then you have scientists on the other side of that who say, actually, if you look at this strain, this is not maximized for human infectivity.
+
+240
+01:02:30,000 --> 01:02:44,000
+If you were going to set out to create this in a laboratory to maximize human infectivity, this isn't it. So I think those are, again, two competing versions of this.
+
+241
+01:02:44,000 --> 01:02:56,000
+But they're saying very different things. Like, I don't think that Alisa, is it Alisa Chen is her name? Alina. Alina Chen. I don't think her argument is that it's maximized in its potential.
+
+242
+01:02:56,000 --> 01:03:15,000
+I think if I'm understanding her argument correctly, it's that it's reached a steady state. It's in an equilibrium. And I think that's a very different argument to the one that's being posed in the other direction, which is that, oh, well, if you were going to make this, you could make a much better job.
+
+243
+01:03:15,000 --> 01:03:26,000
+I think that maybe gives a little too much credit to scientists. Like, you know, it's sort of like saying, well, you know, when those bombs dropped on Hiroshima, I mean, they were good, but they weren't as good as they could have been.
+
+244
+01:03:26,000 --> 01:03:42,000
+I mean, come on, they could have been way more lethal. No, no, I mean, like, you know, I have to say that it is sort of a red herring argument because, OK, so let's say it's not like the perfect bio weapon to infect all of humanity overnight.
+
+245
+01:03:42,000 --> 01:03:56,000
+That wasn't its intended purpose. Right. The credible people who talk about a lab leak are not necessarily saying it was a bio weapon. It could be the accident of a sloppy, you know, a moment of momentary laughs.
+
+246
+01:03:56,000 --> 01:04:21,000
+Yeah. So again, I've always found that argument to be completely nonsensical because one, if we believe in the broad idea of gain of function research, it's not bio weaponry to even if you say, well, no, but if you're going to go to the trouble of doing gain of function research, you should try to make the most virulent, deadly strain imaginable.
+
+247
+01:04:21,000 --> 01:04:35,000
+OK, but are you going to make that in the first, you know, let's assume it takes 100 steps to make that. And what happened if we were at step 60 when this leak occurred? Right. Does that mean we weren't on a path to making it better?
+
+248
+01:04:35,000 --> 01:04:42,000
+So so again, to me, that argument is meaningless, actually. Right. There is a there's a lot there are a lot of red herrings in this debate.
+
+249
+01:04:43,000 --> 01:05:11,000
+So given all this sort of loose smoke that's sort of diffusing from the ground out of windows here and there, how would you think about trying to synthesize the arguments that most favor the consensus view that this virus occurred naturally versus the contrarian view, for lack of a better word, that this virus emerged from a lab?
+
+250
+01:05:11,000 --> 01:05:21,000
+What would you say are the most compelling features that favor the former? First, let me just say that I actually don't think there is a consensus view at this time.
+
+251
+01:05:21,000 --> 01:05:40,000
+I think the consensus has been shattered and the scientific community is really divided. That said, I think, you know, the strongest argument for a zoonotic origin is the precedent of precedent.
+
+252
+01:05:40,000 --> 01:05:59,000
+A precedent of previous of previous SARS outbreaks, you know, SARS-CoV-1 and MERS. And you look at those and yeah, those are SARS outbreaks that have a zoonotic origin that has been identified.
+
+253
+01:05:59,000 --> 01:06:09,000
+Right. So it would make perfect sense that this would this is the big one. You know, this has come on the heels of those outbreaks.
+
+254
+01:06:09,000 --> 01:06:29,000
+You know, and you add into that, you don't have any specific smoking gun evidence to contradict that. Right. Even though a host animal has not been found, an intermediate animal has not been found.
+
+255
+01:06:30,000 --> 01:06:37,000
+So I think those, you know, that in and of itself is sort of the most basic, the most basic argument for it.
+
+256
+01:06:38,000 --> 01:07:05,000
+And to build on that really, you know, SARS-1 traveled something like 900 to 1000 miles from its original site using two intermediary hosts. So to your point, the argument that, well, if this originated in a bat in a cave 1000 miles away, there's no way it could make it to this populated area. No, that's not true. It certainly happened in the past, right?
+
+257
+01:07:06,000 --> 01:07:25,000
+It certainly has happened in the past. But let me just say that is one of the that is added to the mystery here, because, you know, what people are saying is, well, if it started in southern China in Yunnan Province, why don't we see a trail of infections up to Wuhan? We don't.
+
+258
+01:07:26,000 --> 01:07:51,000
+So it looks like Wuhan in central China is the origin of this outbreak. Why? Right. So the original theory was there is a host animal and it could have been a sample at the seafood market in Wuhan. But no, you know, all of this testing has not turned that up.
+
+259
+01:07:52,000 --> 01:08:17,000
+So, you know, in order to account for a natural origin, you have to find a way to argue how in the dead of winter in central China, you know, in a market that didn't sell bats, didn't have bats at a time when most bats are hibernating, you know, how do you have how do you have this outbreak?
+
+260
+01:08:18,000 --> 01:08:37,000
+You know, and then you look at, you know, the Chinese scientists themselves were like, oh, we know where it came from. It came from these labs. Two Chinese scientists very early on in the outbreak posted a preprint paper saying, well, we surveyed the area around the seafood market.
+
+261
+01:08:37,000 --> 01:08:54,000
+And there are these two laboratories that have all these bat samples. So we think it came from them. And that preprint paper was immediately taken down. But, you know, you have this problem of how to account for how it started in Wuhan.
+
+262
+01:08:55,000 --> 01:09:07,000
+Now, again, to go back to evidence in favor of the zoonotic origin, it could be because I don't think anybody disputes that the bats weren't transmitting it to people in the fall or winter.
+
+263
+01:09:07,000 --> 01:09:22,000
+I think everybody agrees that by the time September, October, November rolled around, the bats themselves would have been in hibernation. So the probability that a bat directly transmitted it to a human in, say, November, December, exceedingly low.
+
+264
+01:09:23,000 --> 01:09:39,000
+Of course, the bats could have passed it on to intermediaries before then and or the bats could have transmitted it on to a person or persons before then who didn't really become that ill but somehow managed to make their way to Wuhan. Correct?
+
+265
+01:09:40,000 --> 01:09:54,000
+Yes, although there is a wild card in this, which is that the virus in many cases is asymptomatic. So there are people who are arguing for an even earlier origin than we knew.
+
+266
+01:09:54,000 --> 01:09:56,000
+Such as the summer of 2019.
+
+267
+01:09:56,000 --> 01:10:09,000
+Right. They're like Dr. Redfield is one of those people who has said that he thinks the origin is actually a lot earlier and that it's very hard to pinpoint a date because of the problem of asymptomatic transmission.
+
+268
+01:10:10,000 --> 01:10:36,000
+Right. And, you know, you got to take a step back and remember what it was like circa May of 2020 when the very first papers were coming out looking at zero positivity, suggesting that the case fatality rate was, you know, infinitely lower than it had been previously identified.
+
+269
+01:10:36,000 --> 01:10:46,000
+So, you know, when we were first thinking about this as, oh, my gosh, like two percent of people or eight percent of people who are getting this are dying.
+
+270
+01:10:46,000 --> 01:10:56,000
+And it's the realization was no, it's eight percent of people who are wildly symptomatic are dying or. Right. And then the more we begin to test people, the more that number began to fall.
+
+271
+01:10:56,000 --> 01:11:05,000
+But it wasn't until serology was being done on asymptomatic people. This was done in Santa Clara, a very controversial study by John Ioannidis.
+
+272
+01:11:05,000 --> 01:11:13,000
+It was done in New York. You basically began to see, look, this has got a lethality of about one in a thousand people infected.
+
+273
+01:11:13,000 --> 01:11:29,000
+So if you then extract, you know, that back to China, there's a scenario in which 500 people are infected, none of whom really get sick or think anything of it beyond, you know, it's just a it's a regular cold.
+
+274
+01:11:29,000 --> 01:11:40,000
+But, you know, someone threads that needle of getting up to Wuhan. So that there's at least a plausibility of bat to human to Wuhan in that timeframe. Correct.
+
+275
+01:11:40,000 --> 01:11:51,000
+Correct. That is right. Yes. If that were the case, it's would still be interesting to identify the bat of origin, but it sounds like that's not happening yet.
+
+276
+01:11:51,000 --> 01:11:58,000
+So let's chalk that up to first on our our wish list. Right. So we were creating a wish list of how one would get to the bottom of this.
+
+277
+01:11:58,000 --> 01:12:10,000
+It would be a full court press to identify, you know, to do basically an amazing prospecting exercise to look for the bat host potentially.
+
+278
+01:12:10,000 --> 01:12:20,000
+But but but just to say that in a way has been done. Right. That's potentially what's in the database that was taken out in 2009 in September of 2019.
+
+279
+01:12:20,000 --> 01:12:35,000
+But even since, you know, since the covid outbreak and and so that is post dating what was in the database, there has been a huge hunt and widespread testing of wildlife samples.
+
+280
+01:12:35,000 --> 01:12:41,000
+I mean, there has been a big, big hunt for the host animal, which has not been found.
+
+281
+01:12:41,000 --> 01:12:47,000
+And has that hunt been carried out mostly by Chinese scientists or has been a worldwide effort?
+
+282
+01:12:47,000 --> 01:13:08,000
+It's been a worldwide effort, but, you know, the Chinese authorities have tested. I mean, the the count and and the WHO report talks about this, something like 80,000 animal samples have been tested in search of a point of origin and has not been found.
+
+283
+01:13:08,000 --> 01:13:23,000
+OK, so then on the heels of that, another scenario is that a bat infected an intermediary, which either infected humans or another intermediary, which ultimately infected humans.
+
+284
+01:13:23,000 --> 01:13:30,000
+Several of those animals have been proposed and several of those animals could have existed at the Wuhan market in the winter.
+
+285
+01:13:30,000 --> 01:13:34,000
+It's been found that the animal was, you know, a very large animal.
+
+286
+01:13:34,000 --> 01:13:40,000
+And yet it's still alive, still alive, not necessarily kept in the most sanitary conditions.
+
+287
+01:13:40,000 --> 01:13:44,000
+That seems like a very viable scenario.
+
+288
+01:13:44,000 --> 01:13:54,000
+And the biggest challenge to that is that very few stones have been left unturned in the search for what those animals might be.
+
+289
+01:13:54,000 --> 01:14:03,000
+So, you know, that is a very logical scenario, except that there's no evidence for it. That's the problem.
+
+290
+01:14:03,000 --> 01:14:05,000
+Other than precedent.
+
+291
+01:14:05,000 --> 01:14:08,000
+Correct. Yeah.
+
+292
+01:14:08,000 --> 01:14:21,000
+So I just want to make sure I'm not missing a scenario. Is there any other scenario that involves this virus infecting people having not been to a lab first?
+
+293
+01:14:22,000 --> 01:14:42,000
+You know, one thing that has been talked about is the people who live around these bat caves, who have had exposure, who have tested positive and larger numbers previously for SARS antibodies.
+
+294
+01:14:43,000 --> 01:15:00,000
+You know, but you still have the same problem of if that is the or if that is a possible origin is a natural escape in location in southern China to villagers who live around those mines.
+
+295
+01:15:00,000 --> 01:15:10,000
+How does it get up to Wuhan without leaving a trail of infection that could be documented? Right. That's the that's the problem.
+
+296
+01:15:11,000 --> 01:15:37,000
+Right. So then on the other side, we have a scenario where researchers are identifying this virus by identifying its original host and themselves get infected through that, bring the bats or the virus itself into the lab.
+
+297
+01:15:37,000 --> 01:15:51,000
+And early in their tenure with these animals or with the virus rather, there's a contamination. I mean, I really think of these as two sides of the same coin, which is gain a function versus no gain a function research.
+
+298
+01:15:51,000 --> 01:15:59,000
+But nevertheless, the virus has been brought into the lab. I mean, that's basically the other side of this coin. That's right.
+
+299
+01:15:59,000 --> 01:16:28,000
+The most compelling argument for that appears to be at least to my reading, the contrapositive of what we just said, i.e., it's the absence of either the original bat or the intermediary host, coupled with the argument made earlier about the relative lack of genetic drift or mutation once the virus took hold.
+
+300
+01:16:29,000 --> 01:16:35,000
+In 2019, in late 2019, the stability of the virus, basically.
+
+301
+01:16:35,000 --> 01:16:54,000
+You know, I think here, first of all, there is there is a lot of precedent for a lab leak, as we've seen. I mean, there is a long there is a long history of this. There is a proximity argument, which is why Wuhan?
+
+302
+01:16:54,000 --> 01:17:12,000
+Well, here are these laboratories that have the largest collection of bat samples really in the world who were doing some of the most aggressive testing. So, you know, there's that smoke coming out of that window.
+
+303
+01:17:12,000 --> 01:17:28,000
+We know that they were doing aggressive gain of function research in which they were manipulating pathogens. And we also know that they were doing it not just in a BSL-4 setting, but in a BSL-2 setting.
+
+304
+01:17:28,000 --> 01:17:50,000
+And then you do have the Alina Chan argument that, you know, you do not see the sort of wide range of mutations initially in transmission that you did with SARS-CoV-1. So I think there's those arguments.
+
+305
+01:17:50,000 --> 01:18:05,000
+Yeah, and I guess you could almost break this down into two arguments, which is what's the likelihood that this virus was brought into or created in a lab versus what's the likelihood it escaped?
+
+306
+01:18:05,000 --> 01:18:21,000
+The second probab- so you could break this down into two probabilities, probability that this virus was brought into a lab and then really a third one, probability that this was manipulated in a lab and then probability that this thing escaped or could have escaped.
+
+307
+01:18:21,000 --> 01:18:48,000
+So if that's P1, P2, P3, P3 is like close to one. That could be taken as a foregone conclusion, meaning the probability that a virus in a lab can get out is very high. We know about the bad ones that have happened, but what we don't know is how many times has, you know, research been done on a virus in a lab that is of totally no consequence to humans and it gets out.
+
+308
+01:18:48,000 --> 01:19:02,000
+We wouldn't know about it, but that could happen all the time. So if you're supposed to be functioning at BSL-4- and by the way, I mean, I'm not saying this to sort of pick on the people doing it. BSL-4 is a miserable environment.
+
+309
+01:19:02,000 --> 01:19:29,000
+Like you couldn't pay me enough to be a viral researcher working in a BSL-4 environment. I would rather be painting roofs with tar in July than I would be working in a BSL-4 lab. So I can totally understand why there's a natural human inclination to take shortcuts with procedure there.
+
+310
+01:19:29,000 --> 01:19:40,000
+So I almost think of like that third step of could this have escaped the lab as of course it could have. So it's really just a question of what's the likelihood that this thing made its way into a lab and got tweaked.
+
+311
+01:19:40,000 --> 01:19:58,000
+And that's where you get into these other questions of, boy, the people who claim it didn't aren't doing themselves any favors in the way they're acting. You know, the EcoHealth Alliance, the Lancet paper doesn't look good in the way that they're acting.
+
+312
+01:19:58,000 --> 01:20:02,000
+It doesn't look good in the light of day.
+
+313
+01:20:02,000 --> 01:20:26,000
+No, it does not look good. You know, which is back to one of the groups that I talk about in my Vanity Fair article is this group that calls themselves drastic, which are these scientists who are independent researchers scattered around the globe who became, you know, curious about this, obsessed by this,
+
+314
+01:20:26,000 --> 01:20:35,000
+wanted to get to the bottom of it. But, you know, I interviewed a number of them. How many of them are anonymous versus identified, by the way?
+
+315
+01:20:35,000 --> 01:20:51,000
+There's a handful who are anonymous. And I did not write about any of those who were anonymous who I didn't speak with because you really cannot assess the agenda of someone who is anonymous and you're not interviewing.
+
+316
+01:20:51,000 --> 01:21:12,000
+I mean, you don't know whether it's, you know, Steve Bannon hiding behind a pseudonym. So but, you know, for example, the Indian researcher who calls himself the seeker on Twitter, he's a science teacher in eastern India who was the one who uncovered this Chinese master's thesis.
+
+317
+01:21:12,000 --> 01:21:22,000
+I was able to interview him. You know, a lot of those people I interviewed, they said the same thing to me.
+
+318
+01:21:22,000 --> 01:21:30,000
+I got into this because I wanted to know why the scientists were asking, acting so unscientific.
+
+319
+01:21:30,000 --> 01:21:46,000
+You know, why do you take a hypothesis off the table without evidence? Right. If you're having an investigation, don't you pursue all hypotheses in an equal fashion until you have real evidence.
+
+320
+01:21:46,000 --> 01:22:13,000
+And in fact, you know, the World Health Organization partnered with a group of experts who went to China and were basically sort of led on this, you know, highly restricted tour by the Chinese authorities and issued a report in which they said, oh, the lab leak hypothesis is highly unlikely.
+
+321
+01:22:13,000 --> 01:22:30,000
+I obtained a U.S. government analysis of that report, which said, you know, the report is essentially ridiculous. It concludes that on the basis of no evidence. And in fact, one of the lead researchers on that expedition was Peter Daschak of EcoHealth Alliance.
+
+322
+01:22:30,000 --> 01:22:40,000
+So, you know, there has not been a neutral. Wasn't Peter Daschak the only American brought in? Wasn't he the only American scientist brought in? Yes, he was.
+
+323
+01:22:40,000 --> 01:22:52,000
+So there has not been a neutral conflict free forensic evaluation of all possibilities of origin at this time.
+
+324
+01:22:52,000 --> 01:23:06,000
+Do you have confidence that such a thing will happen? The Biden administration recently requested such a report to be delivered within no less than 90 days, if I'm not mistaken.
+
+325
+01:23:06,000 --> 01:23:30,000
+Yeah. It is going to take a huge act of political will and really unity by many, many different countries to essentially force the Chinese to be more transparent.
+
+326
+01:23:30,000 --> 01:23:47,000
+It's not necessarily a fight that the Biden administration wants to have. It's really inconvenient. I think it would be a whole lot easier to say, well, it must be zoonotic and we can't find the animal host bummer.
+
+327
+01:23:47,000 --> 01:24:04,000
+So, you know, I don't know if we're going to be able to surmount all of the political hurdles and the evidentiary hurdles that lay in our way to have a real investigation into this.
+
+328
+01:24:04,000 --> 01:24:14,000
+And what would be required of full transparency? What would be asked for that would demonstrate conclusively one way or the other?
+
+329
+01:24:14,000 --> 01:24:34,000
+Well, you know, part of that is what probably will never happen. China says, you know what? We're changing our minds, full transparency. We're putting back the database. Here's a record of all the samples. Here are the lab notebooks.
+
+330
+01:24:34,000 --> 01:24:45,000
+Come to a tour. Here's the medical records of all the researchers who were in the laboratory. That is very, very unlikely to happen.
+
+331
+01:24:45,000 --> 01:24:56,000
+We, by the way, have no serology on the three people who worked in the lab who got sick in the late summer, early fall of 2019, correct?
+
+332
+01:24:56,000 --> 01:25:05,000
+My understanding is that we don't or if we do, if our intelligence agencies are more definitive, it's definitely not in the public domain.
+
+333
+01:25:05,000 --> 01:25:17,000
+So, you know, plan B, assuming that China is not going to be more forthcoming, is for the countries of the world to basically look in their own research files.
+
+334
+01:25:18,000 --> 01:25:31,000
+You know, that there is a lot of information that is potentially available to us if we are really to dig into our own filing cabinets. That is essentially what Joe Biden has called for.
+
+335
+01:25:31,000 --> 01:25:44,000
+He's told the intelligence agencies to go back to the drawing board, inventory what they have, and see if they can't come to some sort of closer conclusion.
+
+336
+01:25:45,000 --> 01:26:10,000
+You know, there was recently an important paper put forth by Jesse Bloom, who is an esteemed virologist, who said that there were sequences that were in an NIH database that were taken offline at the request of Chinese scientists that had some early sequences from Wuhan.
+
+337
+01:26:10,000 --> 01:26:22,000
+So potentially, you know, there is information that our own government, for whatever reason, has either buried or ignored or removed, which can be analyzed.
+
+338
+01:26:22,000 --> 01:26:38,000
+So given all the time you've spent on this so far, how has your own probability shifted from zoonotic versus lab origin over the past year?
+
+339
+01:26:39,000 --> 01:26:56,000
+Right. Well, you know, starting out when anybody mentioned the possibility of a lab leak, I was very dismissive because it sounded to me just like conspiracy theories. And there were a lot of conspiracy theories associated with that.
+
+340
+01:26:57,000 --> 01:27:17,000
+But I think what's happened is, as time has gone on, and no host animal has been found, and Trump has been removed, and so there is a sort of space to ask this question without necessarily aiding what's viewed as a racist agenda.
+
+341
+01:27:18,000 --> 01:27:26,000
+You know, and China has failed to be transparent, and conflicts of interest have been exposed.
+
+342
+01:27:28,000 --> 01:27:40,000
+You know, and from my own reporting now, I understand that a full investigation within the US government was essentially blocked or restricted.
+
+343
+01:27:41,000 --> 01:27:58,000
+You know, I kind of give it even odds at this point. I think it's a possibility. I don't have a definite conclusion. You know, if a host animal was found tomorrow, I would be like, okay.
+
+344
+01:27:59,000 --> 01:28:05,000
+But I think there are just too many questions to be ignored right now.
+
+345
+01:28:06,000 --> 01:28:19,000
+You know, one of the things about conspiracy theories is they require coverups. You know, they, you know, one of the one of the conspiracy theories that's always obsessed me is the Kennedy assassination ever since I was a kid.
+
+346
+01:28:20,000 --> 01:28:31,000
+And I don't know, probably by the time I was in my mid 30s, I'd seen enough read enough that I concluded there's simply no way it was anything other than Lee Harvey Oswald.
+
+347
+01:28:32,000 --> 01:28:39,000
+Like I really just decided, despite what Oliver Stone would have you believe, Lee Harvey Oswald acted alone.
+
+348
+01:28:40,000 --> 01:28:52,000
+And there are many reasons I could bore you with that include a more accurate looking at, you know, more accurate look at the forensics of the, you know, the, the, the ballistics and things like that.
+
+349
+01:28:53,000 --> 01:29:06,000
+But a big part of it is how hard would it be to keep everybody quiet if this were some CIA plot or some mob plot or, you know, one of the other crazy ideas that's put forth.
+
+350
+01:29:07,000 --> 01:29:20,000
+And I guess that's one of the things that kind of nags at me here a little bit with this one, which is if this in fact came from a lab, how many people have to know that? Right?
+
+351
+01:29:21,000 --> 01:29:33,000
+It's not the case, by the way, that that Peter Daschig would necessarily know that right? He wouldn't necessarily know that. I mean, he might have a huge incentive to hope that it's not happened, but he wouldn't necessarily know that.
+
+352
+01:29:34,000 --> 01:29:48,000
+But, but presumably more than one person would be covering this up. Right? And I guess that speaks to the bigger that number of people, the harder this thing becomes over time. If indeed that's the case.
+
+353
+01:29:49,000 --> 01:30:02,000
+So let me say a couple of things about this. You know, first of all, the question of COVID origin is the ultimate grassy knoll. Right? You know, this is one for the ages.
+
+354
+01:30:02,000 --> 01:30:31,000
+I think the question of a cover up, you know, it's very different to consider a cover up in the U.S. with a tradition of freedom of speech and protection of whistleblowers and to consider a cover up in China with an authoritarian government that has control over everybody's lives and can act absolutely wreak havoc, not just on a whistleblower, but on a whistleblower's family.
+
+355
+01:30:32,000 --> 01:30:52,000
+So, for example, the anthrax lab leak in the Soviet Union in the 70s only became disclosed after the fall of the Soviet Union. Right? Once this sort of authoritarian structure around it crumbled, then it could be disclosed.
+
+356
+01:30:52,000 --> 01:31:09,000
+But, you know, China has incredible control over its citizens and could even if, let's say, She Zhengli thinks it was a lab leak or knows it was a lab leak, is she free to say that?
+
+357
+01:31:09,000 --> 01:31:21,000
+Well, certainly not well in China and not well her family's. Right. Yeah. So, you know, that said, I'm always mindful of this expression we have in investigative journalism.
+
+358
+01:31:22,000 --> 01:31:40,000
+Never assume conspiracy when incompetence is an option. In other words, you know, it's easy to say conspiracy, but that's always a more unlikely possibility.
+
+359
+01:31:41,000 --> 01:31:58,000
+Yeah, conspiracy doesn't make a lot of sense here. And I think it detracts from an honest look at the facts. It should really be viewed as two competing hypotheses and one of them that got largely ignored because because it was politically inconvenient to consider.
+
+360
+01:31:58,000 --> 01:32:06,000
+Yes, that's that's right. That's I side with that analysis. 100 percent.
+
+361
+01:32:07,000 --> 01:32:22,000
+Are you optimistic that a year from now we're going to have much more insight? Because the reality of it is if you're if you look at what we know today versus what we knew six months ago, virtually nothing new. Right.
+
+362
+01:32:22,000 --> 01:32:35,000
+Very little new information. There's just been more attention paid to old information, which is always concerning when you're trying to think about this. Right. Because, you know, it's more interesting if, oh, my goodness, there's a lot of information.
+
+363
+01:32:35,000 --> 01:32:47,000
+There's a lot of information that is emerging here. We are learning more, but that's not really the case. We're learning more on the basis of old information. And at some point, we're going to saturate our knowledge based on that.
+
+364
+01:32:47,000 --> 01:32:57,000
+Are you optimistic that we're going to learn more in the next year or is this going to become simply more of a polarizing discussion?
+
+365
+01:32:57,000 --> 01:33:14,000
+Well, I have no doubt that it will be a polarizing discussion and continue to be one. I think the real question, the way I see it, is how much political capital does the Biden administration want to spend on this?
+
+366
+01:33:14,000 --> 01:33:26,000
+The Biden administration and the other powerful governments of the world. How far are they willing to push China to demand answers?
+
+367
+01:33:26,000 --> 01:33:42,000
+Well, of course, someone in China knows some answer, presumably like they know it was or wasn't a lab leak or they can guess that. How far are the governments of the world prepared to go to push for an answer for this?
+
+368
+01:33:42,000 --> 01:33:51,000
+You know, besides the United States, who? Yeah. Who? Besides the United States, which governments would have the most persuasion?
+
+369
+01:33:51,000 --> 01:34:15,000
+You know, a lot of this is going to be fought economically. So, for example, originally, the government of Australia, of Scott Morrison, was pushing to have the question of a lab leak as part of the sort of one of the facets of the World Health Organization inquiry into this.
+
+370
+01:34:15,000 --> 01:34:39,000
+They wanted to make sure that that possibility got on the agenda. China's retaliation was very swift and they were immediately blocked. I believe it was import of Australian goods into China. So there is a lot of economic retaliation that can occur in the push for answers.
+
+371
+01:34:39,000 --> 01:34:56,000
+And as we've already kind of identified, there's no scenario under which a lab leak occurred and the United States doesn't have blood on its hands as well through both direct contribution of funding and also collaboration from a research perspective, correct?
+
+372
+01:34:56,000 --> 01:35:15,000
+I mean, in other words, if there's a lab leak, you know, you can't just say, well, it's just the fault of the Wuhan Institute of Virology because it's just bad luck that it occurred there. The reality is this could have easily taken place at the University of North Carolina or the University of Galveston in Texas where similar research goes on.
+
+373
+01:35:15,000 --> 01:35:24,000
+The bigger issue is this was in some ways a joint effort between the United States and China, correct?
+
+374
+01:35:24,000 --> 01:35:41,000
+Well, let me just say there is one other laboratory that is right near the Huanan seafood market, which is the Chinese Centers for Disease Control and Prevention, which had moved right next to the seafood market shortly before the outbreak began.
+
+375
+01:35:41,000 --> 01:35:57,000
+They had a coronavirus researcher who was very gung-ho had collected a lot of viral samples. So I guess in theory, it is possible that this came from a laboratory that had nothing to do with U.S. funding.
+
+376
+01:35:57,000 --> 01:36:16,000
+But I would say, you know, regardless, I still take your point that the lab leak scenario raises a lot of thorny questions for the National Institutes of Health, for how scientific research is funded.
+
+377
+01:36:16,000 --> 01:36:27,000
+You know, it would be hell to pay in the field of virology if the effort to identify viruses ended up unleashing them.
+
+378
+01:36:27,000 --> 01:36:40,000
+Yeah, it's interesting to think how this will unfold over the coming decade, the economic damage, the loss of life, etc.
+
+379
+01:36:40,000 --> 01:36:49,000
+Do you get a sense of how this will impact gain-of-function research, at least in the United States?
+
+380
+01:36:49,000 --> 01:37:05,000
+It's interesting because this whole debate has spotlighted this kind of tucked away corner of scientific research that the public really didn't know anything about.
+
+381
+01:37:05,000 --> 01:37:16,000
+And so I certainly think that any agency now prepared to give a grant to this research is really going to think carefully about this.
+
+382
+01:37:16,000 --> 01:37:25,000
+You know, going to think about who are they giving grants to, who are the sub-grantees downstream, right?
+
+383
+01:37:25,000 --> 01:37:29,000
+You know, what are the hazards, the dangers of the kind of research they're doing?
+
+384
+01:37:29,000 --> 01:37:38,000
+So this really has been spotlighted, and I think it will, even, you know, without a definitive answer, I think it will have an impact on this kind of research.
+
+385
+01:37:38,000 --> 01:37:45,000
+Yeah, it's certainly clear that gain-of-function research didn't help here, even if this was of zoonotic origin.
+
+386
+01:37:45,000 --> 01:37:45,000
+
+
+387
+01:37:45,000 --> 01:37:52,000
+It's not like gain-of-function did anything to prevent it or more rapidly thwart it.
+
+388
+01:37:53,000 --> 01:38:14,000
+Well, let me just say this, which is, you know, EcoHealth Alliance's whole argument for existence is if we partner with these far-flung laboratories and we go out to these remote backcaves and we find these samples and we bring it in and we do this research, we are going to have a way to potentially prevent outbreaks.
+
+389
+01:38:15,000 --> 01:38:22,000
+Okay, we spent millions, you know, U.S. government spent millions of dollars on that argument.
+
+390
+01:38:22,000 --> 01:38:29,000
+What did we gain? Didn't prevent COVID-19, right? So where is the benefit? What's the upside?
+
+391
+01:38:29,000 --> 01:38:37,000
+What, you know, what's the argument for the continuation of this? That's a question that has not been answered.
+
+392
+01:38:38,000 --> 01:38:48,000
+Well, I wish I had a stronger point of view on this, but I think I'm in your camp, Catherine. I can talk myself into both of these scenarios.
+
+393
+01:38:48,000 --> 01:39:00,000
+And the only thing I find myself really hoping for is the open and honest evaluation of this, which unfortunately requires getting new information.
+
+394
+01:39:01,000 --> 01:39:09,000
+And I think the majority of that information probably lies outside of our borders and therefore is going to be limited.
+
+395
+01:39:09,000 --> 01:39:16,000
+So I'm not sure if we're going to be any further along in a year, but I think...
+
+396
+01:39:16,000 --> 01:39:18,000
+You know, I, yeah, sorry, go ahead.
+
+397
+01:39:18,000 --> 01:39:19,000
+No, go ahead.
+
+398
+01:39:19,000 --> 01:39:28,000
+I was just going to say, I do believe that eventually one day we will know. Is it going to be in our lifetime?
+
+399
+01:39:29,000 --> 01:39:30,000
+Not sure about that.
+
+400
+01:39:30,000 --> 01:39:47,000
+Well, it's funny, right? At some point, if no intermediary host and or species of origin is ever identified, like, is there some asymptote to that, you know, or tail where you say, well, gosh, if it hasn't been found in like 100 years, it really doesn't exist.
+
+401
+01:39:48,000 --> 01:40:01,000
+Or, you know, in theory, you would imagine, even if this was all done through gain of function research, you'd need to find something in nature that was 99.8% close to it.
+
+402
+01:40:01,000 --> 01:40:06,000
+And then you would say that that last 0.2% had to be done in the lab.
+
+403
+01:40:06,000 --> 01:40:16,000
+But then you could probably equally convince yourself that, no, that 0.2, that variation of 0.2% took place in the first few pieces of the lab.
+
+404
+01:40:16,000 --> 01:40:22,000
+But then you could say that this was the first few people that were never identified.
+
+405
+01:40:22,000 --> 01:40:27,000
+So, again, I just I go back and forth and I talk myself in and out of this.
+
+406
+01:40:27,000 --> 01:40:42,000
+And I'm I'm I'm frustrated that this is something that should be knowable and is not known, which is generally more frustrating to me that things that, you know, are unknown that maybe can't be knowable.
+
+407
+01:40:43,000 --> 01:40:52,000
+But I'm not as frustrated by that because that seems a lot harder to know. This seems like something that is knowable and I probably will never know it.
+
+408
+01:40:52,000 --> 01:41:06,000
+Well, let's put it this way. Regardless of whether there is life beyond Earth, the answer to that didn't force you to stay inside for a year and not see friends and family, you know.
+
+409
+01:41:06,000 --> 01:41:12,000
+So this one yet this one for all. Yes. But this one for all of us.
+
+410
+01:41:12,000 --> 01:41:17,000
+And I'm really struck by this feels so personal, of course, because it is.
+
+411
+01:41:17,000 --> 01:41:24,000
+And so the you know, people are people are obsessed with this question.
+
+412
+01:41:24,000 --> 01:41:34,000
+And once you start looking into it, as you've experienced and as I did reporting it, you just go down this rabbit hole in which like night is day and day is night.
+
+413
+01:41:34,000 --> 01:41:40,000
+And you cannot get to the bottom of it no matter how many rocks you turn over.
+
+414
+01:41:40,000 --> 01:41:53,000
+Well, Catherine, maybe the next time we get together, we can talk about the consultants that unleashed torture upon the U.S. government and the CIA and their efforts in Iraq.
+
+415
+01:41:53,000 --> 01:41:57,000
+Would that be a would that be a great follow up discussion? Sure. I'll do that one.
+
+416
+01:41:57,000 --> 01:42:07,000
+I mean, my goodness. Do you ever write about do you ever write about things that aren't upsetting? Do you ever write happy stories?
+
+417
+01:42:07,000 --> 01:42:15,000
+You can guess from my silence, I have to really think about that. Yeah, it's it's not a lot of unicorns and rainbows over here. No.
+
+418
+01:42:15,000 --> 01:42:22,000
+But, you know, I tend to gravitate towards the things that fascinate me.
+
+419
+01:42:22,000 --> 01:42:29,000
+And you're fascinated by the macabre. You really don't like good things, do you?
+
+420
+01:42:29,000 --> 01:42:40,000
+In my own life, I do. But I do, you know, I do set out to try to get to the bottom of things that do not have easy answers.
+
+421
+01:42:40,000 --> 01:42:45,000
+And sometimes those are can be quite dark.
+
+422
+01:42:45,000 --> 01:42:56,000
+Well, Catherine, if it wasn't bad enough to talk about generic drugs and the corruption that goes on there, you put a bow on it this time.
+
+423
+01:42:56,000 --> 01:43:09,000
+And again, I think the bow is less about whether or not this did or did not come from a lab, but more about the fact that there is there has been and likely will be forever an enormous obstruction to get to the truth about it.
+
+424
+01:43:09,000 --> 01:43:14,000
+Yes. Unfortunately, that is absolutely true. Yep.
+
+425
+01:43:14,000 --> 01:43:19,000
+Well, thank you very much for your work on this and for making time to chat about it today.
+
+426
+01:43:19,000 --> 01:43:23,000
+Thanks. Great to talk to you as always, Peter.
+
+427
+01:43:23,000 --> 01:43:35,000
+Thank you for listening to this week's episode of The Drive. If you're interested in diving deeper into any topics we discuss, we've created a membership program that allows us to bring you more in-depth exclusive content without relying on paid ads.
+
+428
+01:43:35,000 --> 01:43:40,000
+It's our goal to ensure members get back much more than the price of the subscription.
+
+429
+01:43:40,000 --> 01:43:50,000
+Membership benefits include a bunch of things. One, totally kick-ass comprehensive podcast show notes that detail every topic, paper, person, thing we discuss on each episode.
+
+430
+01:43:50,000 --> 01:43:58,000
+The word on the street is nobody's show notes rival these. Monthly AMA episodes or Ask Me Anything episodes, hearing these episodes completely.
+
+431
+01:43:58,000 --> 01:44:05,000
+Access to our private podcast feed that allows you to hear everything without having to listen to spiel like this.
+
+432
+01:44:05,000 --> 01:44:15,000
+The Qualies, which are a super short podcast that we release every Tuesday through Friday, highlighting the best questions, topics, and tactics discussed on previous episodes of The Drive.
+
+433
+01:44:15,000 --> 01:44:21,000
+This is a great way to catch up on previous episodes without having to go back and necessarily listen to everyone.
+
+434
+01:44:21,000 --> 01:44:26,000
+Steep discounts on products that I believe in, but for which I'm not getting paid to endorse.
+
+435
+01:44:26,000 --> 01:44:30,000
+And a whole bunch of other benefits that we continue to trickle in as time goes on.
+
+436
+01:44:30,000 --> 01:44:38,000
+If you want to learn more and access these member-only benefits, you can head over to PeterAttiaMD.com forward slash subscribe.
+
+437
+01:44:38,000 --> 01:44:44,000
+You can find me on Twitter, Instagram, and Facebook, all with the ID PeterAttiaMD.
+
+438
+01:44:44,000 --> 01:44:49,000
+You can also leave us a review on Apple Podcasts or whatever podcast player you listen on.
+
+439
+01:44:49,000 --> 01:45:00,000
+This podcast is for general informational purposes only, does not constitute the practice of medicine, nursing, or other professional healthcare services, including the giving of medical advice.
+
+440
+01:45:00,000 --> 01:45:08,000
+No doctor-patient relationship is formed. The use of this information and the materials linked to this podcast is at the user's own risk.
+
+441
+01:45:08,000 --> 01:45:15,000
+The content on this podcast is not intended to be a substitute for professional medical advice, diagnosis, or treatment.
+
+442
+01:45:15,000 --> 01:45:27,000
+Users should not disregard or delay in obtaining medical advice from any medical condition they have, and they should seek the assistance of their healthcare professionals for any such conditions.
+
+443
+01:45:27,000 --> 01:45:43,000
+Finally, I take conflicts of interest very seriously. For all of my disclosures and the companies I invest in or advise, please visit PeterAttiaMD.com forward slash about, where I keep an up-to-date and active list of such companies.
+
+444
+01:45:45,000 --> 01:45:46,000
+Thank you.
+

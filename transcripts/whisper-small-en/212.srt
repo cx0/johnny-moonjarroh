@@ -1,0 +1,6048 @@
+1
+00:00:00,000 --> 00:00:06,000
+Hey, everyone. Welcome to the Drive podcast. I'm your host, Peter Attia.
+
+2
+00:00:06,000 --> 00:00:12,060
+Hey, Stefan, thanks so much for making time. I've been looking forward to this for such
+
+3
+00:00:12,060 --> 00:00:16,920
+a long time, probably since I started a podcast, which has been now we're coming up on four
+
+4
+00:00:16,920 --> 00:00:22,760
+years. I always knew we'd have to sit down. So I'm glad we're finally doing this, albeit
+
+5
+00:00:22,760 --> 00:00:29,080
+not in person, but that's more an artifact of my laziness. So anyway, again, look, I
+
+6
+00:00:29,080 --> 00:00:32,840
+think a lot of people listening to this will be familiar with you and your work, but I
+
+7
+00:00:32,840 --> 00:00:38,080
+think a number of people won't be. So let's tell people a little bit about kind of your
+
+8
+00:00:38,080 --> 00:00:43,840
+path to where you are now, which is sort of being one of the most thoughtful people on
+
+9
+00:00:43,840 --> 00:00:48,760
+the nuances of obesity. What did you study in college? Were you a neuroscience major?
+
+10
+00:00:48,760 --> 00:00:55,480
+Biochem. Yeah. But I had a neuroscience in mind when I was doing biochem. My idea at
+
+11
+00:00:55,480 --> 00:01:01,560
+the time is that it would provide a foundation for going into neuroscience later, which
+
+12
+00:01:01,560 --> 00:01:07,600
+I'm not sure that reasoning really works out so well, but it worked out OK in the end.
+
+13
+00:01:07,600 --> 00:01:12,760
+And did you go straight from your undergrad to Mike Schwartz's lab or did you do your
+
+14
+00:01:12,760 --> 00:01:18,880
+PhD with Mike Schwartz or a postdoc? Postdoc. OK. Yeah. Where did you do your PhD? PhD was
+
+15
+00:01:18,880 --> 00:01:24,440
+with Alice Bada at the University of Washington studying neurodegenerative disease. Interesting.
+
+16
+00:01:24,440 --> 00:01:30,320
+So tell me about that. Was that a detour that was always part of the plan or at that
+
+17
+00:01:30,320 --> 00:01:37,080
+point were you not yet fully interested in obesity? Yeah, I think more the latter. So
+
+18
+00:01:37,080 --> 00:01:42,720
+I've always been fascinated by the brain, but I didn't know which area of neuroscience
+
+19
+00:01:42,720 --> 00:01:48,600
+I wanted to get into for a long time. And I became interested in neurodegenerative disease
+
+20
+00:01:48,600 --> 00:01:55,200
+for a few different reasons. One, they're just absolutely horrible diseases. And two,
+
+21
+00:01:55,200 --> 00:02:05,840
+my grandmother had Alzheimer's disease. And the but so in in grad school, I was studying
+
+22
+00:02:05,840 --> 00:02:11,440
+neurodegenerative disease, but I wasn't studying Alzheimer's disease. I was studying a class
+
+23
+00:02:11,440 --> 00:02:17,600
+of neurodegenerative diseases called triplet repeat diseases. That includes Huntington's
+
+24
+00:02:17,600 --> 00:02:24,480
+disease or polyglutamine repeat diseases would be another name for them. So Huntington's disease
+
+25
+00:02:24,480 --> 00:02:31,400
+is the most common. That's the most common heritable heritable neurodegenerative disease.
+
+26
+00:02:31,400 --> 00:02:37,400
+But as you said, it's an absolutely awful disease with I mean, almost 100 percent penetrance,
+
+27
+00:02:37,400 --> 00:02:42,880
+correct? I mean, it's a deterministic gene. Well, it's actually more complex and interesting
+
+28
+00:02:42,880 --> 00:02:48,760
+than that. It's actually the genetics of it are real interesting because they are non
+
+29
+00:02:48,760 --> 00:02:56,120
+Mendelian because the length of the CAG repeat actually changes intergenerationally. The
+
+30
+00:02:56,120 --> 00:03:03,200
+weird thing about it is there's there's these CAG repeats that code for polyglutamines,
+
+31
+00:03:03,200 --> 00:03:09,560
+polyglutamine stretches in the protein, they are unstable in replication. And so what you
+
+32
+00:03:09,560 --> 00:03:17,680
+tend to see is an enlargement of these polyglutamine repeats from one generation to the next. And
+
+33
+00:03:17,680 --> 00:03:25,120
+so yeah, so it has this really weird non Mendelian pattern. I think I think okay, you asked specifically
+
+34
+00:03:25,120 --> 00:03:29,600
+about penetrance. I think the penetrance actually is pretty high. So in other words, if you
+
+35
+00:03:29,600 --> 00:03:36,000
+have a polyglutamine repeat in the wrong protein of a certain length, yes, I think very high
+
+36
+00:03:36,000 --> 00:03:43,760
+likelihood you're gonna you're gonna develop the disease. But like anything, it is not, you know,
+
+37
+00:03:43,760 --> 00:03:50,960
+100% fixed. But I don't think we really understand what makes it not fixed. But I was I was studying
+
+38
+00:03:50,960 --> 00:03:59,680
+a one of the less common ones called SCA seven, Spinocerebellar ataxia type seven. And, you know,
+
+39
+00:03:59,680 --> 00:04:05,000
+it's an interesting disease. It's a neurodegenerative disease with some relevance to other more common
+
+40
+00:04:05,000 --> 00:04:11,640
+neurodegenerative disease. But I used to joke that there were probably more scientists studying it
+
+41
+00:04:11,640 --> 00:04:18,000
+than people with the actual disorder. I don't think that's actually true. But I think you get the
+
+42
+00:04:18,040 --> 00:04:28,720
+the point of the joke. And I just kind of wanted to study something with greater impact. And I also
+
+43
+00:04:28,720 --> 00:04:36,760
+I've always been interested in fitness and nutrition, kind of on a personal level. And so
+
+44
+00:04:36,800 --> 00:04:44,000
+when I started learning about the neuroscience of obesity, during my PhD work, I got really into it
+
+45
+00:04:44,000 --> 00:04:52,520
+because that was a way to kind of satisfy my criteria for something that's impactful. It's hard
+
+46
+00:04:52,520 --> 00:04:58,600
+to imagine much that's more impactful than that in the world we live in. It's very common.
+
+47
+00:04:59,520 --> 00:05:11,280
+It is it relates to my interest in fitness and health, and it has a strong relationship with
+
+48
+00:05:11,280 --> 00:05:16,240
+neuroscience. And so once once I figured that out, which I think to a lot of people is not obvious,
+
+49
+00:05:16,240 --> 00:05:21,280
+the relationship with neuroscience, I think that's a topic we'll get into. But once I figured that out,
+
+50
+00:05:21,280 --> 00:05:27,120
+I started realizing that not only was this really fascinating, but there was a ton of information in
+
+51
+00:05:27,120 --> 00:05:32,560
+the space that was incredibly enlightening that was not making it to the public.
+
+52
+00:05:33,440 --> 00:05:35,040
+What year did you finish your PhD?
+
+53
+00:05:36,160 --> 00:05:37,760
+2009, I think.
+
+54
+00:05:38,560 --> 00:05:43,040
+Okay. And did and Mike Schwartz was also at the University of Washington, correct?
+
+55
+00:05:43,040 --> 00:05:44,160
+Correct. Yeah.
+
+56
+00:05:44,160 --> 00:05:50,400
+So at what point as you were wrapping up your PhD, did you connect with Mike and or at least
+
+57
+00:05:50,400 --> 00:05:54,160
+become familiar enough with his work that you thought, you know, this is kind of my finishing
+
+58
+00:05:54,160 --> 00:06:05,200
+school? Yeah, I'm not sure. I don't remember exactly what all the options were that I was
+
+59
+00:06:05,200 --> 00:06:11,600
+considering, but I was particularly interested in obesity and staying at the same institution after
+
+60
+00:06:11,600 --> 00:06:19,360
+your PhD is atypical. It's something that I wanted to do in part for personal reasons.
+
+61
+00:06:20,160 --> 00:06:26,560
+I don't I'm not really a big fan of the typical academic thing of it's almost like a military
+
+62
+00:06:26,560 --> 00:06:32,240
+life. You know, you're moving around like five or more times before you you finally settle down.
+
+63
+00:06:33,600 --> 00:06:37,440
+So that was part of it. But Mike was also a really good fit. And there are other labs that could have
+
+64
+00:06:37,440 --> 00:06:43,200
+been a good fit in other places. But Mike's lab was a really good fit and he was willing. So I
+
+65
+00:06:43,760 --> 00:06:48,880
+I did that. And God, I think that I feel like the first time you and I met would have been
+
+66
+00:06:48,880 --> 00:06:56,240
+probably at a conference in 2012. And I'm guessing you had had you just finished by then?
+
+67
+00:06:56,240 --> 00:07:02,400
+Had you just finished your postdoc? Were you wrapping it up then? That would have been close
+
+68
+00:07:02,400 --> 00:07:11,760
+to the end of it. Yeah, I was I think I was a postdoc until 2013. So would have been approaching
+
+69
+00:07:11,760 --> 00:07:16,240
+the end of it. Wow, it's hard to believe that's 10 years ago. I still remember all that stuff
+
+70
+00:07:16,240 --> 00:07:21,200
+pretty well. So so let's let's tell people a little bit about the problem that you work on today.
+
+71
+00:07:22,720 --> 00:07:28,720
+I think everybody knows directionally that obesity is a significant issue. But you can probably
+
+72
+00:07:28,720 --> 00:07:35,120
+quantify this for people a little bit better and help people understand maybe even over a few
+
+73
+00:07:35,120 --> 00:07:41,120
+thousand years how things have changed in terms of the let's just talk about the phenotype. We're
+
+74
+00:07:41,120 --> 00:07:45,040
+going to obviously talk about the environment and the triggers. But let's just talk phenotypically.
+
+75
+00:07:45,040 --> 00:07:49,760
+How have we as a species who we've been around what, maybe six million years in our current
+
+76
+00:07:49,760 --> 00:07:55,040
+rendition? But what's changed over the last thousand thousand years in terms of our phenotype?
+
+77
+00:07:56,000 --> 00:08:04,800
+Yeah, so if we're talking if we're comparing the body shape of people in modern affluent
+
+78
+00:08:04,800 --> 00:08:09,680
+societies like the United States to what the typical human would have looked like a thousand
+
+79
+00:08:09,680 --> 00:08:15,200
+years ago, I think it's clear that we're much fatter today on average with a much higher
+
+80
+00:08:16,400 --> 00:08:22,640
+percentage of obesity. And a thousand years ago, there was obesity. I mean, we have evidence even
+
+81
+00:08:22,640 --> 00:08:30,160
+from Egyptian mummies that among the wealthy, there was obesity, not to say that it necessarily
+
+82
+00:08:30,160 --> 00:08:37,200
+was super common, but I don't think it was that uncommon. Among the wealthy, I think probably for
+
+83
+00:08:37,200 --> 00:08:44,960
+similar reasons that we have obesity today. But certainly the prevalence was much lower. And when
+
+84
+00:08:46,000 --> 00:08:52,960
+we start to get into the more modern historical period where we start to actually get data on this,
+
+85
+00:08:54,320 --> 00:09:00,240
+the first data that we can find on this in the United States, or at least that I have found that
+
+86
+00:09:00,240 --> 00:09:10,080
+is somewhat informative, are from Civil War veterans from 1890 and 1900. They did height and
+
+87
+00:09:10,080 --> 00:09:15,920
+weight measurements on middle-aged Civil War veterans. So these people were, I think almost
+
+88
+00:09:15,920 --> 00:09:24,560
+exclusively white men. However, if you compare to the same demographic, so middle-aged white men
+
+89
+00:09:24,560 --> 00:09:33,680
+today, you see that there was almost no obesity back then. And today the obesity rate is something
+
+90
+00:09:33,680 --> 00:09:41,520
+like probably 45% for that same demographic. And just to be clear, we're defining obesity
+
+91
+00:09:41,520 --> 00:09:46,960
+in the most traditional way, which is the use of body mass index. And we're defining it as a BMI
+
+92
+00:09:46,960 --> 00:09:54,000
+of more than 30, correct? Yeah, correct. And so, yeah, so the advantage of BMI is it's really easy
+
+93
+00:09:54,000 --> 00:10:00,480
+to measure and you can calculate it from these really simple measures that go back a long time.
+
+94
+00:10:00,480 --> 00:10:05,520
+Unfortunately, they didn't have decks of machines. Yeah, exactly. 1890, which would have been, of
+
+95
+00:10:05,520 --> 00:10:12,400
+course, a more informative way of looking at it. But yeah, using measures that we can compare over
+
+96
+00:10:12,400 --> 00:10:18,160
+long periods of time, like body mass index, I don't remember the exact numbers, but it was like
+
+97
+00:10:18,160 --> 00:10:26,160
+a few percent. It was like low single digits of people actually classified as BMI over 30
+
+98
+00:10:26,800 --> 00:10:39,120
+at that time, 120, 130 years ago. And then if we look toward more recent data, what we see is that
+
+99
+00:10:39,120 --> 00:10:45,200
+between... So the first really good data we have starts in the 1960s for the United States. That's
+
+100
+00:10:45,200 --> 00:10:55,280
+when the NHES surveys started, which later became NHANES. And in those surveys, what you see is by
+
+101
+00:10:55,280 --> 00:11:03,920
+the time they started measuring it, it had already gone up from that previous time in the late 1800s,
+
+102
+00:11:03,920 --> 00:11:10,720
+early 1900s. So you're saying, Stefan, that there really wasn't a lot of longitudinal data from 1900
+
+103
+00:11:10,800 --> 00:11:18,720
+to 1960 to check what that trend line was doing. It was this big effort in 1900, and then another
+
+104
+00:11:18,720 --> 00:11:24,880
+big effort didn't take place till about 1960? Yeah. I don't know that I'd call it a big effort,
+
+105
+00:11:24,880 --> 00:11:34,640
+but the biggest that I'm aware of in the one in the late 1800s, early 1900s. And then the true
+
+106
+00:11:34,640 --> 00:11:41,280
+representative national sampling started in the 1960s and then got better through the 70s. And
+
+107
+00:11:41,280 --> 00:11:48,240
+now we have this NHANES survey methodology that is the best source of evidence that we have.
+
+108
+00:11:48,960 --> 00:11:56,160
+And so it started getting good in the 60s. And what were those levels there, Stefan, in the 1960s?
+
+109
+00:11:56,160 --> 00:12:01,120
+Yeah, I think the earliest measures we have are something like, I don't remember the exact figure,
+
+110
+00:12:01,120 --> 00:12:08,720
+but it's like 12% of US adults had obesity at that time, something like that in the earliest
+
+111
+00:12:08,720 --> 00:12:14,400
+measures. And do you have a sense of, because I'm sure this is going to become more relevant today,
+
+112
+00:12:14,400 --> 00:12:20,800
+is looking at what is the term that's used if BMI is over 35? Isn't there an extreme category
+
+113
+00:12:20,800 --> 00:12:27,520
+of obesity? Yeah. Or morbid obesity? Is that defined as 35 or 40? Yeah, I think the terminology
+
+114
+00:12:27,520 --> 00:12:36,480
+has changed to try to avoid stigma. It has been extreme obesity or morbid obesity. I can't remember
+
+115
+00:12:36,480 --> 00:12:44,080
+what the current term is for it. But yeah, there's a category over 35 as well. And presumably,
+
+116
+00:12:44,880 --> 00:12:48,240
+there's been a change in that as well. And I wouldn't be surprised if- Oh, yeah, yeah, sorry.
+
+117
+00:12:48,240 --> 00:12:54,720
+There's a class system. So class one, class two, class three. So I think that corresponds to 30,
+
+118
+00:12:54,720 --> 00:13:03,040
+35, and 40, if I'm not mistaken. Anyway, you were saying? Yeah. So basically, this progression was
+
+119
+00:13:03,040 --> 00:13:10,560
+not just at the kind of median level, because I'm sure the median BMI was also moving, the mean BMI
+
+120
+00:13:10,560 --> 00:13:14,880
+was also moving, the fraction over 30, and presumably the fraction over whatever that
+
+121
+00:13:14,880 --> 00:13:22,160
+highest threshold is, be it 35 or 40. Yes. And actually, the most extreme changes happened in
+
+122
+00:13:22,160 --> 00:13:30,320
+more severe obesity. So you see very, very little, very, very few people had BMIs over 35 in the
+
+123
+00:13:30,320 --> 00:13:41,280
+earliest measures. And then now it's like, it's something like 9% or 10% today, so of adults.
+
+124
+00:13:42,080 --> 00:13:51,120
+So there has been more movement at the extreme end than at the mean. Yes. And
+
+125
+00:13:53,520 --> 00:13:59,120
+that's what happens when a distribution spreads out, which is what happened. If you look at the
+
+126
+00:13:59,120 --> 00:14:05,760
+distribution of BMIs, it used to be a lot tighter, and it just got less tight. So there are still
+
+127
+00:14:05,760 --> 00:14:12,800
+people who are lean. There are still people in every BMI category, just like there used to be,
+
+128
+00:14:12,800 --> 00:14:18,240
+but since it is spread out, you get a disproportionate increase at extreme values.
+
+129
+00:14:19,200 --> 00:14:24,720
+What about underweight? What was, if you happen to know, what was the fraction of underweight
+
+130
+00:14:24,720 --> 00:14:30,240
+in 1900, if we would define that to say BMI below, I don't know what underweight is, is it below 18
+
+131
+00:14:30,240 --> 00:14:37,920
+or below 20? And then how has that changed over time? Yeah, typically the cutoff is 18.5. And I
+
+132
+00:14:37,920 --> 00:14:43,600
+don't know the answer to your question. I think it was higher than it is today, but I'm not sure
+
+133
+00:14:43,600 --> 00:14:50,880
+about that. When did people first make the connection that there is an association between
+
+134
+00:14:50,880 --> 00:14:57,440
+obesity and adverse health outcomes? I mean, presumably back when you think back to a thousand
+
+135
+00:14:57,440 --> 00:15:05,120
+years ago, or back with the Egyptian aristocrats, obesity probably would have been a sign of
+
+136
+00:15:05,120 --> 00:15:11,280
+affluence. And I don't think anybody would have looked down upon it too negatively. Back in
+
+137
+00:15:11,280 --> 00:15:16,400
+medical school, I remember learning about gout and how gout emerged around this time. And it was
+
+138
+00:15:16,400 --> 00:15:23,040
+really this disease of excess, right? Alcohol excess, sugar excess protein would manifest itself in
+
+139
+00:15:23,040 --> 00:15:30,640
+gout. And this was the ultimate rich man's disease, basically a sign of affluence. So I can't
+
+140
+00:15:30,640 --> 00:15:37,600
+imagine people were too upset to be obese back then. And of course, today we take it for granted,
+
+141
+00:15:37,600 --> 00:15:44,000
+right? I mean, I think there's, despite some of the political pressure to understandably try to
+
+142
+00:15:44,000 --> 00:15:50,720
+destigmatize obesity and somehow now suggest that it's completely unhealthy, I think the reality of
+
+143
+00:15:50,720 --> 00:15:54,720
+it is it's pretty unambiguous that obesity is indeed associated with poor health outcomes.
+
+144
+00:15:54,720 --> 00:16:01,280
+When did that become clear? Yeah, that's a good question. So I'm not real knowledgeable about the
+
+145
+00:16:01,280 --> 00:16:08,000
+deep history of this. But I know I've heard that, you know, there were physicians in ancient Greece
+
+146
+00:16:08,000 --> 00:16:17,520
+and India who recognized that being very heavy was associated with health problems such as
+
+147
+00:16:18,400 --> 00:16:24,880
+having sweet tasting urine, for example, sign of type 2 diabetes or any kind of diabetes.
+
+148
+00:16:26,880 --> 00:16:34,640
+And but I think, yeah, and then there were these insurance life tables in the early 1900s that
+
+149
+00:16:34,640 --> 00:16:43,760
+suggested that people who had obesity had shortened lifespans and greater risk of certain diseases.
+
+150
+00:16:44,400 --> 00:16:51,520
+But it actually became pretty controversial with a series of studies that was published.
+
+151
+00:16:52,560 --> 00:17:00,720
+Catherine Flegel was intimately involved in this work, suggesting that there was actually not the
+
+152
+00:17:00,720 --> 00:17:06,160
+relationship people thought there was between body mass index and mortality. So these studies,
+
+153
+00:17:07,120 --> 00:17:14,160
+which were this was labeled as the obesity paradox, because what they found is that there
+
+154
+00:17:14,160 --> 00:17:19,360
+wasn't really much of an association between obesity and poor health outcomes. And often,
+
+155
+00:17:19,360 --> 00:17:27,040
+if you look at the relationship between BMI and mortality, if you just look at a graph of it,
+
+156
+00:17:27,840 --> 00:17:34,960
+the nadir, the lowest point on that graph was in the overweight range, or sometimes even on the
+
+157
+00:17:34,960 --> 00:17:40,080
+low end of the obese range, depending on what the study was. And they were finding this in
+
+158
+00:17:40,800 --> 00:17:44,800
+meta-analyses of millions and millions of people. And so suddenly people were saying, well,
+
+159
+00:17:45,360 --> 00:17:51,680
+maybe higher body fatness is not bad. Maybe it's actually protective. So there's been this big
+
+160
+00:17:51,680 --> 00:18:00,080
+debate about it. I think what has emerged in recent years, especially the last 10 or 15 years,
+
+161
+00:18:00,080 --> 00:18:04,560
+and by the way, let me take a step back. The reason this is called the paradox is because
+
+162
+00:18:05,200 --> 00:18:09,680
+there's all this evidence that excess body fat contributes to all kinds of diseases,
+
+163
+00:18:09,680 --> 00:18:14,560
+type 2 diabetes, cardiovascular disease, certain cancers. And so how could it be protective
+
+164
+00:18:15,440 --> 00:18:20,720
+for mortality when it's driving all these diseases that are the leading causes of mortality? So
+
+165
+00:18:20,720 --> 00:18:28,640
+that's why it's called a paradox. And I think the research that has come out since then is suggesting
+
+166
+00:18:28,720 --> 00:18:36,800
+that it's probably not a paradox as paradoxes often are not, and that it's an artifact of those
+
+167
+00:18:36,800 --> 00:18:44,400
+observational data. That essentially, there are probably a few different things going on, but
+
+168
+00:18:44,400 --> 00:18:53,760
+the biggest one is that people who are sick often lose weight. So there are many different health
+
+169
+00:18:53,760 --> 00:18:59,040
+conditions that can cause a person to lose weight. So type 2 diabetes, if it's not well
+
+170
+00:18:59,040 --> 00:19:05,200
+controlled, you can be losing weight. Certainly renal failure, COPD, things like that. Yeah,
+
+171
+00:19:05,200 --> 00:19:11,280
+those are great examples. Alzheimer's disease, cognitive decline, those things can cause a person
+
+172
+00:19:11,280 --> 00:19:17,600
+to lose weight. And so there are many health conditions that can cause a person to lose weight.
+
+173
+00:19:17,600 --> 00:19:27,120
+And essentially, the concern was that that makes leanness look worse than it really is,
+
+174
+00:19:27,120 --> 00:19:31,280
+because you're getting all these people in the lean category that are lean because they're sick.
+
+175
+00:19:31,920 --> 00:19:37,360
+They're not sick because they're lean. So some people have called that reverse causation.
+
+176
+00:19:37,360 --> 00:19:42,720
+David Allison corrected me, it's technically confounding.
+
+177
+00:19:42,720 --> 00:19:47,120
+That's right. Yeah, you and David and I had an Icy Mill exchange because we did discuss this.
+
+178
+00:19:47,680 --> 00:19:51,600
+I'll share with you a very glib example. I had shoulder surgery less than three weeks ago.
+
+179
+00:19:52,400 --> 00:19:59,760
+So in, I don't know, in the 18 days since I've had my shoulder operated on, I've lost nine pounds.
+
+180
+00:20:01,120 --> 00:20:09,920
+Now, I don't know what my BMI was before versus after. I probably went from BMI of 26 to BMI of
+
+181
+00:20:09,920 --> 00:20:16,800
+24. So on paper, that looks good. I would argue there is nothing about me today that is superior
+
+182
+00:20:16,800 --> 00:20:23,680
+in health to where I was 18 days ago. Right. Of those nine pounds I've lost, I'd be willing to bet
+
+183
+00:20:23,680 --> 00:20:30,080
+seven of it is lean body mass. So again, it's a silly example, but it illustrates that one can see
+
+184
+00:20:30,080 --> 00:20:36,960
+an improvement in BMI with probably a deterioration in body composition and an increase in morbidity.
+
+185
+00:20:38,080 --> 00:20:44,960
+Absolutely. BMI is a crude measure, you know, no doubt about it. It's useful. I mean, yeah,
+
+186
+00:20:44,960 --> 00:20:49,440
+you talked about this with David Allison in your episode, and I think you guys had a nice
+
+187
+00:20:49,440 --> 00:20:54,240
+conversation. But Cliff's notes is, you know, it's useful for a population level study as it can be
+
+188
+00:20:54,240 --> 00:21:02,560
+useful for screening, but it's a crude measure. Yeah, so, you know, how do you get around this
+
+189
+00:21:02,560 --> 00:21:09,200
+issue of confounding or reverse causality? There are some methods that have been developed
+
+190
+00:21:09,200 --> 00:21:17,760
+for this. One of them that I particularly like was developed by Andrew Stokes and his colleagues,
+
+191
+00:21:17,760 --> 00:21:26,080
+and that is the maximum attained weight method. So instead of using the exposure variable,
+
+192
+00:21:26,880 --> 00:21:32,480
+instead of looking for BMI right now and seeing that how that correlates with mortality risk
+
+193
+00:21:32,480 --> 00:21:38,800
+right now, you say, what's the heaviest you've ever been? And how does that correlate with your
+
+194
+00:21:38,800 --> 00:21:44,240
+health outcomes? And what you see when you do that, so essentially that's saying like, you know,
+
+195
+00:21:44,240 --> 00:21:49,360
+whatever health condition you've developed that might have caused you to lose weight,
+
+196
+00:21:50,080 --> 00:21:56,080
+we're kind of screening that out. We're looking before that. And when you look at it that way,
+
+197
+00:21:56,080 --> 00:22:01,840
+you get a sharpening of the association between BMI and mortality, and you find that the nadir,
+
+198
+00:22:01,840 --> 00:22:07,840
+the lowest point shifts to a lower BMI. So essentially, whereas before it looked like maybe
+
+199
+00:22:07,840 --> 00:22:15,200
+overweight was the best, now you see that in the lean range looks the best and there's a stronger
+
+200
+00:22:15,200 --> 00:22:21,360
+difference, a larger difference between being lean and having obesity in terms of mortality. So it
+
+201
+00:22:21,360 --> 00:22:27,200
+really sharpens things up. And the reason that happens is because when he looked into this,
+
+202
+00:22:27,200 --> 00:22:33,120
+you're excluding a bunch of people who were formerly in the obese or overweight category
+
+203
+00:22:33,120 --> 00:22:39,760
+and went into a lower category. And those people, if you look at their health outcomes,
+
+204
+00:22:39,760 --> 00:22:47,600
+they're terrible. So those people who used to have obesity, and now just are overweight or are lean,
+
+205
+00:22:48,160 --> 00:22:54,480
+those people have massively elevated rates of chronic disease and of mortality. And so they're
+
+206
+00:22:54,480 --> 00:23:01,200
+essentially bringing all this excess mortality into lower weight categories.
+
+207
+00:23:01,200 --> 00:23:06,000
+And why is that seven? Because that almost sounds like the worst news you could ever hear,
+
+208
+00:23:06,000 --> 00:23:12,720
+right? It suggests that if your BMI is 33, all hope is lost, that your fate was sealed the moment
+
+209
+00:23:12,720 --> 00:23:21,360
+you hit that BMI. You know what? Just dig in and eat more hagandas because if you bring that BMI
+
+210
+00:23:21,360 --> 00:23:28,800
+down to 26, you don't assume the health of the 26, you bring the health of the 33, which that
+
+211
+00:23:28,800 --> 00:23:33,360
+doesn't sound right either, right? No, it's not right. And this is another limitation of the
+
+212
+00:23:33,360 --> 00:23:41,040
+observational data because these people, so it's hard to lose weight, right? And so most of these
+
+213
+00:23:41,040 --> 00:23:46,480
+people, it's hard to lose a lot of weight. It's hard to change. And it's hard to keep it off.
+
+214
+00:23:47,040 --> 00:23:53,280
+Yeah, it's hard to go from 35 to 25 BMI. That's a lot of weight loss. Most people, frankly,
+
+215
+00:23:53,280 --> 00:23:58,720
+are not able to achieve that and maintain it. And so through voluntary means. And so these
+
+216
+00:23:58,720 --> 00:24:04,720
+people who are losing weight, it's predominantly unintentional weight loss. This is not people who
+
+217
+00:24:04,720 --> 00:24:11,280
+start a diet and lifestyle plan and lose a bunch of weight. This is predominantly people who are
+
+218
+00:24:11,280 --> 00:24:17,600
+losing weight unintentionally. And as a doctor, I'm sure you know this, when a person starts losing
+
+219
+00:24:17,600 --> 00:24:22,640
+a bunch of weight for no reason, that's probably not a good sign, right? Even if they start off
+
+220
+00:24:22,640 --> 00:24:26,960
+overweight and they're lean, maybe they even look good. That's probably going to start ringing
+
+221
+00:24:26,960 --> 00:24:37,040
+alarm bells. So if you look at studies that have measured the impact of intentional weight loss
+
+222
+00:24:37,920 --> 00:24:42,480
+on mortality, this has been done both for diet and lifestyle weight loss,
+
+223
+00:24:43,440 --> 00:24:49,440
+randomized controlled trials. So, you know, we're talking about good quality of evidence. And also
+
+224
+00:24:49,440 --> 00:24:53,680
+for bariatric surgery, you see a reduction in all cause mortality. That's what I was going to ask
+
+225
+00:24:53,680 --> 00:24:58,640
+you. I was going to say, how does bariatric surgery end pretty soon? I'm very, be very curious. How
+
+226
+00:24:58,640 --> 00:25:03,440
+does some of the gluteus effect this? It's too soon to say. But when we start to look at what I think
+
+227
+00:25:03,440 --> 00:25:08,720
+is the most impressive weight loss drug out there, and then of course, when you think about ruin Y
+
+228
+00:25:08,720 --> 00:25:14,000
+gastric bypass, which has been around for a while, it'll be interesting over time to see if that can
+
+229
+00:25:14,000 --> 00:25:20,080
+flip that paradigm. Well, we have data for type two diabetes for people with type two diabetes for
+
+230
+00:25:20,080 --> 00:25:26,800
+somaglotide, and it does reduce all cause mortality in meta-analyses of randomized controlled trials.
+
+231
+00:25:26,800 --> 00:25:31,760
+So it will be interesting to see whether that extends to people without type two diabetes.
+
+232
+00:25:31,760 --> 00:25:37,840
+Obviously, people with diabetes are probably going to benefit the most from that kind of drug class
+
+233
+00:25:37,840 --> 00:25:44,240
+in terms of the physiology of it. But I think there are promising signals
+
+234
+00:25:45,120 --> 00:25:47,200
+that at the very least is probably not going to kill you.
+
+235
+00:25:49,200 --> 00:25:56,160
+We go from the 60s to the 70s to the 80s. When does it really, from an epidemiologic standpoint,
+
+236
+00:25:56,160 --> 00:26:02,320
+just completely take off in terms of, you know, because even if I remember what you said a moment
+
+237
+00:26:02,320 --> 00:26:08,640
+ago back in the 60s, we might have been at 12 percent obese. And I mean, today it's hard to
+
+238
+00:26:08,640 --> 00:26:16,240
+imagine such a low figure given 40 to 45 percent today. Yeah, 43 is the latest.
+
+239
+00:26:16,240 --> 00:26:22,480
+That's simply unbelievable. Not that I don't believe it, it's just hard to fathom that nearly
+
+240
+00:26:22,480 --> 00:26:31,200
+half of the U.S. adult population could have a BMI above 30. When did it really hit its stride?
+
+241
+00:26:32,400 --> 00:26:38,480
+Yeah, so this is an interesting question. So probably a lot of people listening will have
+
+242
+00:26:38,480 --> 00:26:45,360
+seen graphs of NHANES data where it kind of spikes around 1980. But the interesting thing about that
+
+243
+00:26:45,360 --> 00:26:53,760
+is that point around 1980 is actually the average date of that survey. But it was actually a
+
+244
+00:26:53,760 --> 00:27:03,360
+multi-year survey. It was a survey that started, I believe, in 76 and ended in like 84, something
+
+245
+00:27:03,360 --> 00:27:08,720
+like that. I don't remember the exact years, but it was a range. That's how the NHANES used to be.
+
+246
+00:27:08,720 --> 00:27:14,480
+Today, the range is much narrower, but at the time it was a broader range. And so what we're
+
+247
+00:27:14,480 --> 00:27:19,440
+seeing is, you know, we can turn that into a point and put it on a graph, but really it represents a
+
+248
+00:27:19,440 --> 00:27:25,280
+range of years. So we don't know exactly when it happened, but if you look at the average value
+
+249
+00:27:25,920 --> 00:27:33,760
+for that, I think 1978 is the average value for that survey, the average year. But we don't know
+
+250
+00:27:33,760 --> 00:27:40,240
+exactly where in there it started to turn up. And we don't really know how sharp it was because we
+
+251
+00:27:40,240 --> 00:27:45,760
+don't have that resolution. It looks real sharp on the graph. Again, when you make it a single
+
+252
+00:27:45,760 --> 00:27:54,400
+point, it looks sharp, but we don't really know exactly how sharp it is. And so anyway, I'm kind
+
+253
+00:27:54,400 --> 00:27:59,680
+of putting a lot of nuance into this, but to answer your question. Well, it is actually an important
+
+254
+00:27:59,680 --> 00:28:05,360
+point because I know that many people, I've probably been guilty of this myself 10 years ago,
+
+255
+00:28:05,360 --> 00:28:10,240
+would also look at changes in macronutrient composition that occurred around the same time
+
+256
+00:28:10,240 --> 00:28:16,480
+and say, boy, it's hard to uncouple those. But in reality, if they occurred over a different
+
+257
+00:28:16,480 --> 00:28:23,920
+time scale, it might make that correlation a little less robust. I mean, I would say that we have more,
+
+258
+00:28:27,360 --> 00:28:33,520
+we have a sharper focus on the changes in dietary intake because we have annual data from
+
+259
+00:28:33,520 --> 00:28:41,200
+the Economic Research Service, USDA Economic Research Service. The data on BMI are less sharp.
+
+260
+00:28:41,200 --> 00:28:49,200
+So I would say that those two changes are absolutely compatible and just on a logic level,
+
+261
+00:28:49,200 --> 00:28:54,640
+I'm sure they're related. You see big changes happening around the same time in the diet.
+
+262
+00:28:55,200 --> 00:29:01,120
+So yeah, anyway, to give a kind of simpler, hopefully more satisfying answer, sometime
+
+263
+00:29:01,120 --> 00:29:07,840
+around between the late 70s and the early 80s, we see an uptick, an apparent uptick in the
+
+264
+00:29:08,400 --> 00:29:15,280
+obesity rate. So the rate starts to increase, goes up and up and up. And then there's a couple of
+
+265
+00:29:15,280 --> 00:29:21,520
+places where it slightly goes down for a year or two and then it keeps going up. Yeah, it's,
+
+266
+00:29:21,520 --> 00:29:26,160
+it looked like it was going to plateau or maybe start going back down. But really in recent years,
+
+267
+00:29:26,160 --> 00:29:34,800
+it's really just been skyrocketing. So yeah, so essentially from somewhere in the late 70s
+
+268
+00:29:34,800 --> 00:29:45,040
+to early 80s to now, we went from something like 15% of obesity to 43% of US adults. And I want to
+
+269
+00:29:45,040 --> 00:29:50,560
+point out something else too that I think is relevant. One way I like to think about this is
+
+270
+00:29:50,560 --> 00:29:55,920
+the lifetime risk. So that's just the population prevalence. That includes people who are 20 years
+
+271
+00:29:56,000 --> 00:30:02,480
+old. Yeah, that includes people who may be growing into it. Exactly. Yeah. If you look at the lifetime
+
+272
+00:30:02,480 --> 00:30:09,360
+risk, I don't know what the exact figure is, but I think it's well over 50%. So I think more than
+
+273
+00:30:09,360 --> 00:30:18,080
+half of US adults will be classified as actually having obesity at some point in their life if the
+
+274
+00:30:18,080 --> 00:30:24,080
+current context is maintained. And you see the same thing for type 2 diabetes that the prevalence
+
+275
+00:30:24,080 --> 00:30:29,840
+is like the prevalence of all diabetes is something like 10 or 12%. But if you look at
+
+276
+00:30:29,840 --> 00:30:35,360
+the lifetime risk, it's like double that. Or maybe even more. I can't remember what the exact figure
+
+277
+00:30:35,360 --> 00:30:39,680
+is, but it's like mind blowing. The number of people who will at some point in their life
+
+278
+00:30:39,680 --> 00:30:47,120
+develop type 2 diabetes in the US. Yeah. I mean, if you take a 50 year
+
+279
+00:30:47,600 --> 00:30:56,720
+look at the change in type 2 diabetes prevalence, so the snapshot, I believe it's a five fold
+
+280
+00:30:56,720 --> 00:31:02,160
+difference in risk over 50 years, the past 50 years. So you go back 50 years ago and look today,
+
+281
+00:31:02,160 --> 00:31:08,640
+just the prevalence delta is 5x. I can believe that. So you have to then look at what does that
+
+282
+00:31:08,640 --> 00:31:13,440
+rate of change tell you about lifetime prevalence? What does it tell you about a person who is only
+
+283
+00:31:13,440 --> 00:31:21,040
+five years old today or a person who's 15 years old today? Yeah, I haven't done the math, but I
+
+284
+00:31:21,040 --> 00:31:26,480
+would completely agree that their lifetime risk is probably at least one in five of having type 2
+
+285
+00:31:26,480 --> 00:31:32,880
+diabetes. Yeah, absolutely. And this has been quantified. I tweeted out a paper about this
+
+286
+00:31:32,880 --> 00:31:37,840
+a while back. And unfortunately, I don't remember the top line figure, but there are actual data on
+
+287
+00:31:37,840 --> 00:31:46,720
+this. So what about the rest of the world, Stefan? Where are they in relation to us? I mean, we
+
+288
+00:31:46,720 --> 00:31:53,760
+probably led the way along with a handful of other developed nations. But one of the things that
+
+289
+00:31:54,640 --> 00:32:02,000
+seems to have changed is this is no longer a condition of affluence, correct? Well, it
+
+290
+00:32:02,960 --> 00:32:09,760
+at the individual level. I think that. Yeah. Yeah. I mean, I think it really started to be
+
+291
+00:32:09,760 --> 00:32:16,880
+pedantic, but it really hinges on how we define the term affluent. Because if you go to the very
+
+292
+00:32:16,880 --> 00:32:21,920
+poorest people in the world, there still is not a lot of obesity in those places, places that are
+
+293
+00:32:21,920 --> 00:32:27,520
+really challenged with food security, where the diet is very limited, like subsistence farmers in
+
+294
+00:32:27,600 --> 00:32:32,640
+sub-Saharan Africa, you're still going to see that there's a low prevalence of obesity in that in
+
+295
+00:32:32,640 --> 00:32:37,440
+those places. Yeah. So I think what I meant was at the individual level. So if you look at the
+
+296
+00:32:37,440 --> 00:32:43,680
+United States from the bottom 10 percent of the population economically to the top 10 percent of
+
+297
+00:32:43,680 --> 00:32:50,480
+the population economically, is there a difference in obesity there? I think bottom 10 to top 10,
+
+298
+00:32:50,480 --> 00:32:56,640
+you would see a difference if you're looking in turtles. So just bottom third to top top third,
+
+299
+00:32:56,640 --> 00:33:02,880
+there's very little there's very little difference actually. If you start slicing and
+
+300
+00:33:02,880 --> 00:33:09,680
+dicing it by sex and race, then you will start to see larger differences emerge. For example,
+
+301
+00:33:11,440 --> 00:33:17,280
+women who are in the top turtle are leaner than women in the bottom turtle. But there's no
+
+302
+00:33:17,280 --> 00:33:23,840
+difference for men in terms of income. So you can start to find patterns when you slice and dice.
+
+303
+00:33:24,560 --> 00:33:32,720
+My overall feeling though is that there is no demographic in the United States that has not
+
+304
+00:33:32,720 --> 00:33:38,000
+gotten a lot fatter over the last few decades, even though I think if you look at certain
+
+305
+00:33:38,000 --> 00:33:46,160
+demographics, particularly with regard to education, you're going to see gradients emerge. But even
+
+306
+00:33:46,160 --> 00:33:52,320
+among highly educated people, you're going to see a higher prevalence today than there was 50 years ago.
+
+307
+00:33:53,120 --> 00:33:59,520
+So let's not bring this up to your work. What did you do when you got to Mike Schwartz's lab? How
+
+308
+00:33:59,520 --> 00:34:09,040
+did you begin your reeducation around neuroscience as it applies to everything that has to do with
+
+309
+00:34:09,040 --> 00:34:14,560
+obesity? Which let's just talk about this. There's an input side and an output side.
+
+310
+00:34:16,480 --> 00:34:19,360
+I think we should talk a little bit about, I mean, Rudy was on the podcast,
+
+311
+00:34:19,360 --> 00:34:25,040
+God's probably been two, three years ago. So maybe it's worth a refresher on the neurobiology
+
+312
+00:34:25,040 --> 00:34:32,560
+of how the different parts of, for example, the hypothalamus can regulate energy expenditure,
+
+313
+00:34:32,560 --> 00:34:38,880
+can regulate appetite, and what we can learn under very, very controlled experimental settings
+
+314
+00:34:38,880 --> 00:34:45,760
+with animals. And then how we can start to think about how that applies to humans with
+
+315
+00:34:45,760 --> 00:34:53,760
+a primitive brain in a modern world, so to speak. Yeah. So I want to take a little step back before
+
+316
+00:34:53,760 --> 00:35:01,760
+getting into that and say, answer the question of what does the brain have to do with obesity at all,
+
+317
+00:35:01,760 --> 00:35:06,880
+just to make sure we're bringing everybody along. Because I think it's not obvious to everyone what
+
+318
+00:35:06,880 --> 00:35:10,880
+the brain might have to do with obesity. But I think if you start to think about it,
+
+319
+00:35:11,600 --> 00:35:18,160
+it becomes pretty obvious that the answer is just about everything. And the reason is that,
+
+320
+00:35:19,440 --> 00:35:23,120
+you know, the most obvious reason is that the brain is the organ that generates behavior.
+
+321
+00:35:23,920 --> 00:35:32,320
+And so if you think that behavior of any kind relates to body fatness, what we eat, how much we
+
+322
+00:35:32,320 --> 00:35:38,480
+eat, how we use our bodies, how we sleep, whether we're stressed or not, if we think any of that
+
+323
+00:35:38,560 --> 00:35:44,160
+relates to body fatness, then we think the brain is playing a role. I think most people would agree
+
+324
+00:35:44,160 --> 00:35:52,240
+that food intake quantity and quality is pretty important there. And then the second reason is
+
+325
+00:35:52,240 --> 00:35:58,880
+that the brain actually contains a regulatory system for body fat, for body fatness, I should say,
+
+326
+00:35:58,880 --> 00:36:05,280
+body fat mass. And it's the only known system in the body that does that. And it's located
+
+327
+00:36:05,280 --> 00:36:11,200
+primarily in a part of the brain called the hypothalamus, which is like, forget who described
+
+328
+00:36:11,200 --> 00:36:16,560
+it this way. Maybe it was Herman Ponser. It's like a wad of bubblegum on the bottom of your brain near
+
+329
+00:36:16,560 --> 00:36:22,640
+where your optic nerves cross. So it's this little tiny part of the brain that specializes in
+
+330
+00:36:22,640 --> 00:36:28,640
+homeostasis, maintaining the stability of body systems. I was described as a walnut, but maybe
+
+331
+00:36:28,640 --> 00:36:34,800
+a walnut. Okay. Yeah. So just to give you an example, it's the part of the brain that
+
+332
+00:36:34,800 --> 00:36:42,560
+regulates body temperature. And there's a thermostat in there and effectively a thermostat
+
+333
+00:36:42,560 --> 00:36:46,880
+and thermometers. There are thermometers that measure your core temperature. There are
+
+334
+00:36:46,880 --> 00:36:52,000
+thermometers on your skin that measure future threats to your core temperature. Like if you
+
+335
+00:36:52,000 --> 00:36:58,400
+jump into a cold lake, your core temperature doesn't instantly drop, but your brain knows
+
+336
+00:36:58,400 --> 00:37:02,880
+that it will drop because of the temperature sensors in your skin. And so it can respond
+
+337
+00:37:02,880 --> 00:37:12,000
+adaptively. And then that system in the hypothalamus engages a behavioral, a suite of behavioral and
+
+338
+00:37:12,000 --> 00:37:18,320
+physiological responses to maintain temperature homeostasis. So you'll, on the physiology side,
+
+339
+00:37:18,320 --> 00:37:25,600
+you get vasoconstriction, you get non-shivering thermogenesis through brown fat, you get shivering.
+
+340
+00:37:26,160 --> 00:37:30,480
+And then through the behavioral side, you want to get out of the cold water. You want to put a
+
+341
+00:37:30,480 --> 00:37:37,920
+sweater on, you want to drink some hot tea, you want to adopt a heat conserving posture. And
+
+342
+00:37:37,920 --> 00:37:44,160
+through this coordinated physiology and behavior, you get incredible regulation of temperature,
+
+343
+00:37:44,160 --> 00:37:50,400
+of core temperature, I should say. And like plus or minus one degree Fahrenheit,
+
+344
+00:37:50,400 --> 00:37:59,360
+when the exterior temperature could be varying by 50 degrees. And so it's an incredible regulatory
+
+345
+00:37:59,360 --> 00:38:05,840
+system. And the body fat regulatory system, unfortunately, is not so precise. But I give that
+
+346
+00:38:05,840 --> 00:38:12,240
+as an analogy just to give you a sense of what the hypothalamus specializes in. There's also a
+
+347
+00:38:12,240 --> 00:38:19,440
+regulatory system for body fatness. And a nice name for that is the lipostat. So lipofat, stat,
+
+348
+00:38:19,440 --> 00:38:28,240
+the same. And really, we've known about it since 1840. Or we've known there was something going on
+
+349
+00:38:28,240 --> 00:38:35,120
+since 1840 when the Viennese physician Bernard Moore published a case study about a woman who
+
+350
+00:38:35,120 --> 00:38:41,200
+had extreme obesity, that rapid onset extreme obesity. He did an autopsy after her death,
+
+351
+00:38:41,200 --> 00:38:48,080
+and she had a tumor in her hypothalamus. And to this day, hypothalamic obesity is a thing that
+
+352
+00:38:48,080 --> 00:38:52,400
+we have to deal with, with people with tumors or other damage to the hypothalamus.
+
+353
+00:38:52,400 --> 00:38:57,600
+It often causes extreme obesity. And what's the nature of the obesity?
+
+354
+00:38:58,960 --> 00:39:05,680
+How much of it is due to hyperphasia, excess eating? How much of it is due to
+
+355
+00:39:06,480 --> 00:39:11,200
+loss of activity or even just a shutdown of metabolic rate?
+
+356
+00:39:12,480 --> 00:39:21,600
+Yeah, that's a great question. So if you look at probably the closest experimental analog
+
+357
+00:39:22,400 --> 00:39:29,760
+of hypothalamic obesity that sort of human-like hypothalamic obesity would be
+
+358
+00:39:31,280 --> 00:39:37,440
+the MH lesion. So this is something that's been done since I think the 20s. They go in with a
+
+359
+00:39:37,440 --> 00:39:44,240
+very precise instrument called the stereotaxic instrument in animals. And they lesion this part
+
+360
+00:39:44,240 --> 00:39:48,960
+of the hypothalamus called the ventromedial hypothalamus. So basically, they're replicating,
+
+361
+00:39:48,960 --> 00:39:54,880
+they're trying to replicate the damage of hypothalamic obesity. And as soon as the
+
+362
+00:39:54,880 --> 00:40:02,240
+anesthesia wears off, these animals are cramming food into their faces. And if there's no food in
+
+363
+00:40:02,240 --> 00:40:07,200
+their cage, they'll eat bedding, they'll eat the bedding, they will just like put anything
+
+364
+00:40:07,200 --> 00:40:14,880
+they can get a hold of into their bodies. And they will continue binging until they have rapidly
+
+365
+00:40:14,880 --> 00:40:20,720
+gained a large amount of weight and then it will start to plateau off. But they have extreme
+
+366
+00:40:20,720 --> 00:40:26,640
+hyperphagia. And if you restrict their calorie, the first experiments that were done on this
+
+367
+00:40:27,520 --> 00:40:33,600
+showed that if you restrict them to a normal level of calorie intake, so that of a non-lesioned
+
+368
+00:40:33,600 --> 00:40:40,320
+animal, it prevents the fat gain suggesting that the, or I should rephrase that, it prevents the
+
+369
+00:40:40,320 --> 00:40:46,080
+weight gain. So they were just weighing them at the time, suggesting that it's primarily a phenotype
+
+370
+00:40:46,080 --> 00:40:55,760
+of hyperphagia. However, later experiments that were more precise found that it doesn't completely
+
+371
+00:40:55,760 --> 00:41:02,640
+eliminate the weight gain. It only eliminates about 80% of it. And so there is a component
+
+372
+00:41:03,280 --> 00:41:11,200
+coming from energy expenditure. So primarily hyperphagia, but there's also an energy
+
+373
+00:41:11,200 --> 00:41:16,480
+expenditure component that's smaller. Yeah, it's funny. I just remember in medical school,
+
+374
+00:41:16,480 --> 00:41:23,520
+one of the neurobiology professors saying, if you were asked to give up a piece of your brain,
+
+375
+00:41:24,640 --> 00:41:29,360
+like the last one you want to give up is a piece of your hypothalamus. If you had to give up like
+
+376
+00:41:29,440 --> 00:41:34,640
+one cubic centimeter of brain tissue, you just fight like hell to make sure you preserve your
+
+377
+00:41:34,640 --> 00:41:41,120
+entire hypothalamus. I agree with that. I would say the brainstem and the hypothalamus probably
+
+378
+00:41:41,120 --> 00:41:48,960
+not places you want to lose. Let's go a little bit further in that. You referred to the lipostat. So
+
+379
+00:41:48,960 --> 00:41:56,320
+say a little bit more about what we've learned about this lipostat and what circulating factors
+
+380
+00:41:56,320 --> 00:42:01,840
+might play a role in governing this and what's been learned through some of the work that was
+
+381
+00:42:01,840 --> 00:42:09,520
+done using parabiosis. Yeah. So I'm going to give you the simple version. There is a more complex
+
+382
+00:42:09,520 --> 00:42:22,160
+version that is emerging, but I'll start with the simple version, which is that it is a negative
+
+383
+00:42:22,160 --> 00:42:26,720
+feedback system, similar to your home thermostat, similar to the thermostat in your brain in that
+
+384
+00:42:29,200 --> 00:42:38,400
+there is the hypothalamus measures levels of a circulating hormone called leptin that circulates
+
+385
+00:42:38,400 --> 00:42:43,200
+in proportion to your body fat mass. So the same way your home thermostat measures the temperature
+
+386
+00:42:43,200 --> 00:42:50,320
+in your home, your hypothalamus is measuring the level of leptin in your circulation. Still some
+
+387
+00:42:50,320 --> 00:42:54,480
+controversy about how exactly or where that measuring happens, but the signal gets to the
+
+388
+00:42:54,480 --> 00:43:03,120
+hypothalamus and it uses that to determine whether you essentially have the amount of fat that your
+
+389
+00:43:03,120 --> 00:43:07,840
+hypothalamus wants you to have. So the same way that your thermostat has a set point and
+
+390
+00:43:10,320 --> 00:43:17,520
+your internal thermostat in your body has a set point, your hypothalamus has a certain idea of how
+
+391
+00:43:17,520 --> 00:43:23,200
+much fat it wants you to have on your body. And if you deviate from that, it starts to engage a
+
+392
+00:43:23,200 --> 00:43:30,800
+coordinated series of physiological and behavioral responses to restore the previous level of body
+
+393
+00:43:30,800 --> 00:43:38,960
+fat. And this system works better at protecting against fat loss than it does against fat gain.
+
+394
+00:43:38,960 --> 00:43:44,560
+And certainly over long periods of time, we see that the average person in a country like the US
+
+395
+00:43:44,560 --> 00:43:50,640
+tends to gain fat. The lipostat is not stopping them or at least it's not preventing them.
+
+396
+00:43:51,200 --> 00:43:59,600
+It might be resisting, but it's not stopping the process of weight gain. But we see that it
+
+397
+00:43:59,600 --> 00:44:07,360
+actually is quite vigorous at defending against weight loss. And this is part of the cruelty of
+
+398
+00:44:08,080 --> 00:44:15,840
+or the unfairness of how obesity works is that your set point or your defended level of body
+
+399
+00:44:15,840 --> 00:44:22,640
+weight is a controversy about what to call that. But whatever it is, it goes up. And so a person
+
+400
+00:44:22,640 --> 00:44:30,480
+with obesity, their body defends against weight loss as if they were starving, just like a lean
+
+401
+00:44:30,480 --> 00:44:37,520
+person losing weight, their body and brain would defend against weight loss. And it's literally a
+
+402
+00:44:37,520 --> 00:44:42,480
+starvation response. It's the same behavioral and physiological process that ramps up your hunger,
+
+403
+00:44:43,040 --> 00:44:53,200
+that makes you more focused on food cues, greater cravings. It down regulates your energy expenditure.
+
+404
+00:44:53,600 --> 00:45:03,680
+And it does everything it can to try to bring the fat back. And so that is, I think,
+
+405
+00:45:04,640 --> 00:45:10,880
+a key reason and possibly the primary reason why weight loss is so difficult and so temporary.
+
+406
+00:45:10,880 --> 00:45:16,400
+There was no regulation happening. Weight loss would probably be pretty easy and weight
+
+407
+00:45:16,400 --> 00:45:21,360
+maintenance certainly would be very easy. But it's not. You see that people tend to regain
+
+408
+00:45:21,920 --> 00:45:28,480
+back to their former level unless they're being really well supported in that weight loss. And
+
+409
+00:45:28,480 --> 00:45:32,720
+even then there's usually some amount of weight gain, weight regain, I should say.
+
+410
+00:45:32,720 --> 00:45:40,000
+So let's go back to leptin for a moment. So leptin is a hormone. Is it made in the adipocyte?
+
+411
+00:45:40,960 --> 00:45:46,160
+It is. Yeah, it's made in the adipocyte and secreted in proportion to body fat mass.
+
+412
+00:45:46,960 --> 00:45:53,120
+So the more adipose tissue you have, the more leptin you have. Is it generally pretty static?
+
+413
+00:45:53,120 --> 00:45:56,080
+Does it change with meals or exercise or anything like that?
+
+414
+00:45:57,440 --> 00:46:09,760
+Yes, it does. So over the long run, the amount of leptin in the bloodstream is strongly correlated
+
+415
+00:46:09,760 --> 00:46:19,280
+with fat mass. However, it's also strongly impacted by short term energy balance. So if you
+
+416
+00:46:22,960 --> 00:46:29,760
+let's say cut your calories by 25 percent for a couple of days, you're going to see a drop in
+
+417
+00:46:29,760 --> 00:46:37,440
+leptin that is disproportionate to your amount of fat mass. And so where is the leptin receptor?
+
+418
+00:46:37,440 --> 00:46:39,840
+Is there a leptin receptor in the periphery or are they central?
+
+419
+00:46:40,880 --> 00:46:46,320
+There are leptin receptors in many parts of the body, but the ones that are relevant for
+
+420
+00:46:46,320 --> 00:46:50,560
+body weight regulation are in the brain. Are they in the hypothalamus?
+
+421
+00:46:51,440 --> 00:46:56,080
+There are there is a high concentration of leptin receptors in the hypothalamus. Yes.
+
+422
+00:46:57,920 --> 00:47:01,200
+There are leptin receptors in other parts of the brain, too.
+
+423
+00:47:01,200 --> 00:47:12,160
+However, it's not 100 percent clear where the important ones are for body weight regulation.
+
+424
+00:47:12,160 --> 00:47:16,080
+Probably somewhere in the hypothalamus, but there are a lot of different papers where they
+
+425
+00:47:16,080 --> 00:47:20,480
+take mouse models and they knock the leptin receptor out of different cells in the brain.
+
+426
+00:47:23,360 --> 00:47:28,960
+If you knock them out of GABAergic cells, you get a really big, basically you recapitulate
+
+427
+00:47:28,960 --> 00:47:32,720
+animals that don't have the leptin receptor at all in terms of their body weight.
+
+428
+00:47:34,960 --> 00:47:42,160
+GABAergic, that's a major one of the two big neurotransmitters. That's the main inhibitory
+
+429
+00:47:42,160 --> 00:47:46,880
+neurotransmitter in the brain. And then you can knock it out of certain subtypes, cell subtypes
+
+430
+00:47:46,880 --> 00:47:51,920
+in the hypothalamus and get big effects. There was a paper suggesting you can just knock it out of
+
+431
+00:47:51,920 --> 00:47:59,760
+AGRP neurons and get and recapitulate the obesity phenotype of animals that have no leptin receptor.
+
+432
+00:48:00,720 --> 00:48:08,800
+However, that is controversial. Not every paper has shown that. So I'm not sure what people who
+
+433
+00:48:08,800 --> 00:48:16,640
+are on the cutting edge of this field would say about where that evidence is. But certainly there
+
+434
+00:48:16,640 --> 00:48:21,760
+are cell populations and probably the most important ones are in the hypothalamus. There
+
+435
+00:48:21,760 --> 00:48:26,960
+are cells in the brain, probably mostly in the hypothalamus, that are receiving that signal and
+
+436
+00:48:26,960 --> 00:48:37,120
+conveying it to the key cell types that are kind of at the center of this lipostat, which are AGRP
+
+437
+00:48:37,120 --> 00:48:44,080
+neurons. I refer them in my book as MPY neurons just for story line simplicity, but more commonly
+
+438
+00:48:44,080 --> 00:48:53,280
+they're called AGRP neurons and POMC neurons. So the AGRP, those are the hunger neurons, the POMC
+
+439
+00:48:53,280 --> 00:48:59,840
+or the satiety neurons, or you could think of them as hunger slash body fat increasing neurons.
+
+440
+00:48:59,840 --> 00:49:08,400
+The POMC are the opposite essentially. And so what is leptin resistance and how does it manifest?
+
+441
+00:49:08,400 --> 00:49:18,720
+Why does it manifest and how frequent is it? Leptin resistance. So when leptin was discovered
+
+442
+00:49:18,720 --> 00:49:29,760
+first in 1994 by a team led by Jeff Friedman and Rudy Leibel, they found that this was the gene
+
+443
+00:49:29,760 --> 00:49:38,080
+that was missing in an obese mouse model called the OB-OB mouse. This animal was extremely obese
+
+444
+00:49:38,080 --> 00:49:46,160
+as a result of lacking a defect in the production of this protein. One single amino acid substitution
+
+445
+00:49:47,200 --> 00:49:55,280
+that destroyed this protein and caused, sorry, one single base pair that destroyed this protein
+
+446
+00:49:55,280 --> 00:50:03,200
+and caused the loss of function and this mass of obesity. And when this was discovered and also
+
+447
+00:50:03,200 --> 00:50:09,200
+discovered that humans have leptin, then it was like this scientific bonanza. It was like, well,
+
+448
+00:50:09,200 --> 00:50:13,920
+maybe we've discovered the cause of obesity. Maybe people with obesity don't have enough leptin.
+
+449
+00:50:14,480 --> 00:50:20,400
+And so their brains think they don't have enough body fat when really they do. The failure to
+
+450
+00:50:20,400 --> 00:50:31,120
+perceive the body fat, that's what causes obesity in these OB-OB mice. And so they started measuring
+
+451
+00:50:31,120 --> 00:50:36,240
+leptin levels and people with obesity and it turns out they were actually elevated. Yeah.
+
+452
+00:50:37,120 --> 00:50:41,040
+Because it's correlated. We now know it's correlated with fat mass. And so
+
+453
+00:50:43,120 --> 00:50:49,440
+what's the deal? If this is a hormone that regulates body fatness, why is it that people
+
+454
+00:50:49,440 --> 00:50:55,360
+with obesity have so much of it and it's not suppressing their excess body fat mass?
+
+455
+00:50:56,320 --> 00:51:05,440
+And the concept that has been invoked to explain this is leptin resistance. So in the same way
+
+456
+00:51:05,440 --> 00:51:10,080
+that people can develop insulin resistance where it takes more insulin to do the physiological
+
+457
+00:51:10,080 --> 00:51:21,040
+jobs in the body, people with obesity require more leptin for the hypothalamus to be satisfied.
+
+458
+00:51:21,040 --> 00:51:27,600
+So another way to say that they require more leptin to avert the starvation response
+
+459
+00:51:27,600 --> 00:51:34,560
+that the brain has where alarm bells start going off because it thinks you don't have enough body
+
+460
+00:51:34,560 --> 00:51:41,520
+fat. So they require more leptin to achieve that state. And so we call that leptin resistance,
+
+461
+00:51:41,520 --> 00:51:48,720
+but we don't really know how it works yet. So that's just a general term for requiring more
+
+462
+00:51:48,800 --> 00:51:54,880
+leptin to avert the starvation response. But we don't know whether that is something where
+
+463
+00:51:54,880 --> 00:52:00,000
+there's fewer leptin receptors on certain kinds of cell, whether there's a downstream signaling
+
+464
+00:52:00,000 --> 00:52:06,240
+impairment in, in serocellular signaling cascades, whether there is a change in cell to cell
+
+465
+00:52:06,240 --> 00:52:10,720
+communication. Maybe the cell that's receiving a leptin is getting the message just fine,
+
+466
+00:52:11,280 --> 00:52:16,240
+but there's some kind of downstream change in neural processing where the signal gets,
+
+467
+00:52:16,320 --> 00:52:20,640
+gets clouded or modified. We don't know the answer to that question.
+
+468
+00:52:20,640 --> 00:52:25,920
+It seems, it seems like the only thing we know is it's not too low an amount of circulating
+
+469
+00:52:25,920 --> 00:52:31,760
+leptin as evidenced by two things. One, the high circulating levels of leptin and the fact,
+
+470
+00:52:31,760 --> 00:52:36,160
+I think more importantly, that when you give exogenous leptin, it doesn't improve the condition
+
+471
+00:52:36,160 --> 00:52:42,800
+suggesting that that's not the defect. Yes. I mean, you can give high levels of leptin and it
+
+472
+00:52:42,800 --> 00:52:50,080
+will cause weight loss, but it doesn't do much. And if you look at leptin signaling,
+
+473
+00:52:50,080 --> 00:52:54,320
+there's, there were some early studies done in an animal model suggesting that
+
+474
+00:52:55,680 --> 00:53:00,880
+if you're just looking broad, if you mash up the hypothalamus and you look at what's going on in it
+
+475
+00:53:01,520 --> 00:53:08,240
+broadly, on average, you find that the amount of leptin response, the intracellular signaling
+
+476
+00:53:08,240 --> 00:53:14,480
+cascade that's activated by leptin is not really impaired in animals with obesity. It's like,
+
+477
+00:53:15,280 --> 00:53:19,360
+it's like they're getting the same leptin signal from a much higher level of leptin.
+
+478
+00:53:20,400 --> 00:53:23,520
+So that, that's kind of like some evidence that we have.
+
+479
+00:53:24,240 --> 00:53:30,880
+I looked at some twin concordant and discordant studies, identical twin, and I was surprised to
+
+480
+00:53:30,880 --> 00:53:35,760
+see, maybe I shouldn't have been surprised, but I was surprised at how heritable obesity was.
+
+481
+00:53:35,760 --> 00:53:42,800
+It was about 0.7. And that's, I mean, when you see heritability of 0.7, that tells you something
+
+482
+00:53:42,800 --> 00:53:51,600
+is very, very genetically predetermined. So even though a hundred years ago, virtually none of us
+
+483
+00:53:51,600 --> 00:53:58,960
+were obese and today, let's just call it your lifetime incidence of obesity is 50% tells you,
+
+484
+00:53:58,960 --> 00:54:05,600
+and our genes haven't changed in a hundred years. So clearly our susceptibility for obesity has been
+
+485
+00:54:05,600 --> 00:54:13,040
+with us for a great period of time and it is highly, highly preserved. It's just that in the last,
+
+486
+00:54:13,040 --> 00:54:20,240
+whatever 40, 50 years, we now have matched or mirrored our genes to an environment that is
+
+487
+00:54:20,240 --> 00:54:26,000
+allowing that trait to flourish. What do we know about the genes that regulate obesity
+
+488
+00:54:27,520 --> 00:54:30,320
+or fatness? Let's just talk about it through that lens, I suppose.
+
+489
+00:54:31,280 --> 00:54:34,720
+Yeah, the meta-analysis of twin studies that I like to
+
+490
+00:54:36,160 --> 00:54:41,040
+cite these days suggests an average heritability of 75%.
+
+491
+00:54:41,040 --> 00:54:43,040
+Wow, that's really stronger.
+
+492
+00:54:43,040 --> 00:54:46,160
+It's massive. And there's some debate about that.
+
+493
+00:54:47,600 --> 00:54:50,720
+But directionally, this is a really big deal.
+
+494
+00:54:50,720 --> 00:54:55,040
+It's very heritable. Yeah. And a lot of things are very heritable. I think that's one thing
+
+495
+00:54:55,120 --> 00:55:02,400
+we're learning. But yeah, so you have this very high heritability of body mass index.
+
+496
+00:55:03,040 --> 00:55:12,880
+So variation between individuals and body mass index, about 75% of those differences between
+
+497
+00:55:12,880 --> 00:55:21,760
+people is explained by their genetics. That's what that implies. And if we look at other methods that
+
+498
+00:55:21,760 --> 00:55:27,760
+have tried to figure out what are the genes that underlie this, what are the genetic differences,
+
+499
+00:55:28,320 --> 00:55:32,800
+these are the genome-wide association studies that I think are particularly informative in
+
+500
+00:55:32,800 --> 00:55:39,600
+this regard. They simply ask the question, if we look at the entire genome, and we look at these
+
+501
+00:55:40,320 --> 00:55:47,120
+representative genetic markers where different people have different genetic code called SNPs,
+
+502
+00:55:47,120 --> 00:55:53,440
+single nucleotide polymorphisms, where in the genome, what markers correlate with differences
+
+503
+00:55:53,440 --> 00:55:58,800
+in body mass index. Fortunately, body mass index is really easy to measure. So you can get really
+
+504
+00:55:58,800 --> 00:56:04,960
+big sample sizes in these studies, which you need to get statistically significant results, because
+
+505
+00:56:04,960 --> 00:56:10,000
+you're looking at, I think, like millions. I don't remember exactly how many, but you're looking at a
+
+506
+00:56:10,000 --> 00:56:16,880
+lot of genomic markers. So you need tremendous statistical power to detect anything with a high
+
+507
+00:56:16,880 --> 00:56:22,080
+level of confidence. So you have these studies, I think the latest is like 800,000 people.
+
+508
+00:56:24,000 --> 00:56:28,640
+The leader of the PAC is the height genome-wide association study. I think they have like
+
+509
+00:56:28,640 --> 00:56:33,120
+3 million. And now they've saturated the heritability. They've gotten all the information
+
+510
+00:56:33,120 --> 00:56:40,880
+they can with that sample size out of what the common genetic variants are that correlate with
+
+511
+00:56:40,880 --> 00:56:46,640
+differences in height. So I think with body mass index, we may, in the near future, we may saturate
+
+512
+00:56:46,720 --> 00:56:54,080
+it as well. We may know what are all the common genetic differences that correlate with differences
+
+513
+00:56:54,080 --> 00:57:04,560
+in body mass index. So essentially, so far, these studies have identified, I think, like 900 variants
+
+514
+00:57:05,120 --> 00:57:11,040
+that differ. So what this suggests is that differences in body mass index between individuals
+
+515
+00:57:11,760 --> 00:57:18,480
+are very complex, that genetically, very complex, are determined by a lot of different genes
+
+516
+00:57:19,360 --> 00:57:26,640
+with very small effect sizes. So you get this sorting of all these different genes, and whatever
+
+517
+00:57:27,280 --> 00:57:33,040
+combination you get, lucky or unlucky, determines whether you're, to a large degree, determines
+
+518
+00:57:33,040 --> 00:57:40,240
+whether you are susceptible or not susceptible to obesity in a fattening environment, is the way I
+
+519
+00:57:40,240 --> 00:57:48,240
+would put it. And so they have various ways of looking at what these genes are doing, because
+
+520
+00:57:50,320 --> 00:57:54,320
+that's one way you can use these genome-wide association studies. That's particularly
+
+521
+00:57:54,320 --> 00:57:59,040
+informative. You could say, what's the underlying biology that makes some people fatter and some
+
+522
+00:57:59,040 --> 00:58:05,280
+people slimmer? And I want to talk a little bit about why this is such an important approach.
+
+523
+00:58:05,680 --> 00:58:11,440
+One is that you're looking at people in their regular, everyday context. This is not an
+
+524
+00:58:11,440 --> 00:58:17,360
+artificial lab scenario. You're just looking at people living their lives and experiencing higher
+
+525
+00:58:17,360 --> 00:58:22,400
+or lower weight, and you're saying what genes correlate with that. So it's very naturalistic.
+
+526
+00:58:23,200 --> 00:58:30,480
+Second, it's very replicable. These studies are highly replicable. In other words, if you do
+
+527
+00:58:30,800 --> 00:58:38,880
+three studies of this nature, you're going to tend to get similar results. So the methodology,
+
+528
+00:58:38,880 --> 00:58:42,720
+it's one of the most rigorous, I would say, in the biological sciences that we have.
+
+529
+00:58:43,600 --> 00:58:47,200
+And I think that, sorry, I'll let you finish because I was going to add something to that,
+
+530
+00:58:47,200 --> 00:58:53,920
+but go ahead. And the third one is that it's unusually objective as well. It has a higher
+
+531
+00:58:54,000 --> 00:59:01,360
+level of built-in objectivity, resistance to bias compared to other types of investigation because
+
+532
+00:59:02,480 --> 00:59:07,360
+it's not hypothesis driven. You're just looking across the whole genome and seeing what pops up.
+
+533
+00:59:07,360 --> 00:59:12,160
+You're not saying, I'm going to focus on the connection between X biological process and Y
+
+534
+00:59:12,160 --> 00:59:16,720
+outcome. You're just saying, I'm interested in Y outcome, what correlates with it, and let's see
+
+535
+00:59:16,720 --> 00:59:22,720
+what biology pops up. Could be anything. We're just going to see. And so that really gives you
+
+536
+00:59:22,720 --> 00:59:30,560
+a chance to, I think, check your thinking on what the underlying biology is in various traits
+
+537
+00:59:30,560 --> 00:59:37,120
+and diseases. Yeah. And I think part of that comes from the strength of what ultimately makes
+
+538
+00:59:37,120 --> 00:59:43,520
+genetic analysis like Mendelian randomization so powerful is the genes are randomly distributed.
+
+539
+00:59:43,520 --> 00:59:50,320
+So that's what cleans out some of those biases is when you are looking at a million people
+
+540
+00:59:51,200 --> 00:59:59,040
+for whom the genes are randomly spread across them and you take an unbiased view of the sample
+
+541
+01:00:00,080 --> 01:00:04,400
+and then you get those results over and over and over again. I think it becomes very powerful. And
+
+542
+01:00:06,160 --> 01:00:09,280
+if people are listening to us saying, God, what are these guys talking about? I mean, I think it's
+
+543
+01:00:09,280 --> 01:00:15,440
+just important to understand the big picture here. The big picture here is a thousand years ago,
+
+544
+01:00:15,680 --> 01:00:22,160
+to all intents and purposes, none of us were obese. But that still means directionally,
+
+545
+01:00:22,160 --> 01:00:30,640
+50% of us at least had the genes that would allow us to become obese in an obeseogenic environment.
+
+546
+01:00:30,640 --> 01:00:35,360
+That's really all that's that's really what we're explaining here is that there are a highly,
+
+547
+01:00:35,360 --> 01:00:40,640
+highly heritable set of genes that will allow a subset of the population. And actually,
+
+548
+01:00:40,640 --> 01:00:46,640
+one of the things I'm just curious about your thoughts are teleologically, why is it 50%? Why
+
+549
+01:00:46,640 --> 01:00:55,760
+isn't it 100%? Right? Like, why is it that more people don't have that? Was this just a fluke of
+
+550
+01:00:55,760 --> 01:01:01,040
+evolution? Was this, you know, you would you would almost think that evolution would have wanted
+
+551
+01:01:01,040 --> 01:01:08,800
+everybody to have those genes. Yeah, absolutely. So I'm gonna I'm gonna finish up the thought we
+
+552
+01:01:08,880 --> 01:01:12,320
+were on previously, just to wrap that up. But I would like to get back to that.
+
+553
+01:01:14,480 --> 01:01:21,840
+So we have this incredible methodology for looking at, you know, and just to step since you
+
+554
+01:01:21,840 --> 01:01:26,400
+want to step back a little bit, I just want to also add, like, what we're talking about is why,
+
+555
+01:01:27,120 --> 01:01:32,560
+you know, some people can effortlessly stay thin, and other people have to really struggle to
+
+556
+01:01:32,560 --> 01:01:38,000
+maintain their weight and maybe are not able to. So that's kind of like the everyday thing that
+
+557
+01:01:38,000 --> 01:01:44,320
+we're trying to explain here that I think many people recognize intuitively, that that is, you
+
+558
+01:01:44,320 --> 01:01:50,880
+know, a thing that different people have different propensities for becoming obese, for developing
+
+559
+01:01:50,880 --> 01:01:58,000
+obesity or not. And yeah, so we can look at the underlying biology and that's been done. And there
+
+560
+01:01:58,000 --> 01:02:03,520
+are a couple of different ways you can do it. One is you can say, what are the genes that are that
+
+561
+01:02:03,520 --> 01:02:08,880
+seem to be associated with these genomic differences? And where are those expressed?
+
+562
+01:02:08,880 --> 01:02:14,320
+What tissues are those expressed in? And there was a paper where they looked at, I think 43
+
+563
+01:02:14,320 --> 01:02:22,800
+different traits of all kinds, diseases, personality traits, other stuff. And, and they
+
+564
+01:02:22,800 --> 01:02:31,280
+and they asked what, what does the tissue enrichment look like? And if you look at body mass index,
+
+565
+01:02:32,160 --> 01:02:40,400
+it looks like psychiatric diseases and educational attainment. So all of those are heavily enriched
+
+566
+01:02:40,400 --> 01:02:49,600
+for brain related genes to a similar degree. So conditions that we know are related to the brain,
+
+567
+01:02:49,600 --> 01:02:54,880
+like educational attainment, how you know how many years of education you've attained,
+
+568
+01:02:54,880 --> 01:03:00,880
+whether you are susceptible to schizophrenia, depression, Tourette's, like all these brain
+
+569
+01:03:00,880 --> 01:03:07,360
+related conditions. Obviously, the brain shows up in genome wide association studies for those
+
+570
+01:03:07,360 --> 01:03:13,440
+conditions. And you put those next to body mass index and you couldn't tell them apart. Like that's
+
+571
+01:03:13,440 --> 01:03:20,160
+how heavily enriched for brain related biology, body mass indexes. And those diseases, by the way,
+
+572
+01:03:20,160 --> 01:03:25,360
+that you just mentioned are some of the most heritable diseases we see in medicine. I mean,
+
+573
+01:03:25,360 --> 01:03:29,760
+when you look at autism, when you look at schizophrenia, these have heritability
+
+574
+01:03:29,760 --> 01:03:36,560
+indexes of point six to point seven. They're, they're, they're highly genetic conditions. So
+
+575
+01:03:36,560 --> 01:03:40,800
+there's two things going on, right, which is you have these parallel things that are highly,
+
+576
+01:03:40,800 --> 01:03:44,560
+highly genetic, and then they're disproportionately concentrated in the brain.
+
+577
+01:03:45,440 --> 01:03:52,320
+That's right. And so we know it's, you know, and I don't want to say that it's literally 100% about
+
+578
+01:03:52,320 --> 01:03:58,160
+the brain. I think that's unlikely to be true, but it's certainly the primary signal that emerges
+
+579
+01:03:58,160 --> 01:04:05,600
+across the literature. And, and so I think that really validates this idea of the brain
+
+580
+01:04:05,600 --> 01:04:12,720
+being important for body fatness. And if we look, you know, a little bit deeper at what is going on,
+
+581
+01:04:12,720 --> 01:04:17,840
+for a lot of it, we don't really know, we don't really know exactly how the brain is doing this,
+
+582
+01:04:18,560 --> 01:04:23,520
+what it is about these genes, but we can see that it correlates with certain types of
+
+583
+01:04:24,080 --> 01:04:30,640
+ways of interacting with food. So people that have obesity promoting genes tend to
+
+584
+01:04:32,560 --> 01:04:41,360
+have greater eating drive, they tend to have lower satiety. And, but this is an area that hasn't
+
+585
+01:04:41,360 --> 01:04:47,280
+really been very well explored yet. So there's a lot we don't know. However, if you look at the
+
+586
+01:04:48,160 --> 01:04:54,880
+monogenic obesity syndromes, so where there's one mutation that causes severe obesity,
+
+587
+01:04:54,880 --> 01:05:01,760
+those really revolve around the leptin brain signaling axis. So those mutations tend to be
+
+588
+01:05:01,760 --> 01:05:07,760
+in leptin, the leptin receptor, melanocortins, melanocortin receptor that are downstream of
+
+589
+01:05:07,760 --> 01:05:14,560
+leptin in the brain. And those types of signals also show up in the genome wide association
+
+590
+01:05:14,560 --> 01:05:20,400
+studies, but they're not dominant. A lot of this stuff is really general. It's like stuff that
+
+591
+01:05:20,400 --> 01:05:26,320
+affects general neuronal development and, you know, neurotransmitters that are involved in a lot of
+
+592
+01:05:26,320 --> 01:05:31,360
+stuff. So I think there's a long way to go before we really understand exactly how those genes are
+
+593
+01:05:31,360 --> 01:05:39,120
+affecting the brain in a way that impacts body fatness. But I do think we can say that differences
+
+594
+01:05:39,200 --> 01:05:45,280
+in body fatness between individuals are primarily determined by differences in how the brain
+
+595
+01:05:45,840 --> 01:05:52,720
+is constructed and how it operates. So, Stefan, let's now go back and try to put all of this
+
+596
+01:05:52,720 --> 01:05:56,400
+in the context we were just ready to get to a moment ago, which is
+
+597
+01:05:58,480 --> 01:06:03,040
+it's 250,000 years ago. For all intents and purposes, we're the same creatures we are now,
+
+598
+01:06:03,040 --> 01:06:12,160
+obviously, minus the environment that we live in. But food and energy are one of our top priorities.
+
+599
+01:06:12,880 --> 01:06:19,920
+Like most, I'm guessing, I'm not an anthropologist, but, you know, it would have to seem to me
+
+600
+01:06:20,640 --> 01:06:26,800
+that security from other tribes and animals and the environment, right, weather,
+
+601
+01:06:27,280 --> 01:06:34,080
+acquisition of energy and reproduction were kind of the only things that would have mattered,
+
+602
+01:06:34,080 --> 01:06:37,280
+right? There probably wasn't a lot of other stuff that mattered at the time.
+
+603
+01:06:38,800 --> 01:06:46,720
+And acquisition of energy was essential in that it could kill you very quickly if you failed to do
+
+604
+01:06:46,720 --> 01:06:52,960
+that. So acquiring energy, storing energy was like kind of the struggle that defined us,
+
+605
+01:06:53,840 --> 01:06:58,640
+probably in the short term, much more so than reproduction, which obviously is a huge other
+
+606
+01:06:58,640 --> 01:07:08,240
+contributor here. So we evolved over millions of years and everything you said about leptin now
+
+607
+01:07:08,240 --> 01:07:14,800
+starts to make sense in that environment, right? Leptin is a signal that says there's not enough
+
+608
+01:07:14,800 --> 01:07:20,400
+energy and that's what should really trigger the response. So in that sense, it's not surprising
+
+609
+01:07:21,280 --> 01:07:26,880
+that leptin isn't doing the opposite. It's not surprising that high leptin doesn't make you want
+
+610
+01:07:26,880 --> 01:07:33,280
+to stop eating. It's who cares? Nature wouldn't have cared about that, but it certainly would care
+
+611
+01:07:33,280 --> 01:07:38,480
+if leptin gets too low. That should be a screaming signal to go and eat, resist that sign.
+
+612
+01:07:39,920 --> 01:07:46,560
+What do we know about the genetics, the efficiency with which we store energy? I mean,
+
+613
+01:07:46,560 --> 01:07:50,560
+we haven't really talked about that, but this ability that we have to get fat is kind of a
+
+614
+01:07:50,560 --> 01:07:56,880
+remarkable thing, right? I mean, we don't really store carbohydrates, can't really store protein,
+
+615
+01:07:56,880 --> 01:08:02,000
+and we don't want to be breaking down muscle to get amino acids. So we do really have to rely on
+
+616
+01:08:02,000 --> 01:08:08,720
+this ability to store fatty acids and excess carbohydrates as fatty acids in a relatively
+
+617
+01:08:08,720 --> 01:08:15,440
+inert structure of white adipose tissue. Yeah. Yeah, absolutely. You know, I think Hermann
+
+618
+01:08:15,440 --> 01:08:20,640
+Ponser would be a great person to talk to about this. Yes, I definitely look, his book is on my
+
+619
+01:08:20,640 --> 01:08:26,720
+list to read and I definitely plan to have him on to get into this. Yeah, he has some good thoughts.
+
+620
+01:08:26,720 --> 01:08:31,520
+John Speakman has some good thoughts on this as well. Another person I should probably have on
+
+621
+01:08:31,520 --> 01:08:39,440
+the podcast. Yeah, so I think there are good reasons to have a certain amount of body fat,
+
+622
+01:08:39,440 --> 01:08:44,880
+and I think, you know, some of them, you know, the basic idea is pretty obvious. You want to have
+
+623
+01:08:45,680 --> 01:08:53,520
+a way to cover your energy needs between eating opportunities. And, you know, we have other
+
+624
+01:08:53,520 --> 01:08:57,840
+energy reserves, we have glycogen, but they're just far more limited. The thing that's awesome
+
+625
+01:08:57,840 --> 01:09:05,200
+about fat is, first of all, it's a very concentrated source of energy, right? Like dietary fat is
+
+626
+01:09:05,200 --> 01:09:10,240
+nine calories per gram, carbohydrate is four, protein is four. Yeah, it's anhydrous, there's
+
+627
+01:09:10,240 --> 01:09:16,480
+no water. It's exactly literally just pure energy. That was the second thing I was going to say is
+
+628
+01:09:16,480 --> 01:09:22,640
+that it's hydrophobic. And so you can store it without having to hydrate it like you do with
+
+629
+01:09:22,640 --> 01:09:30,000
+glycogen. Glycogen, the weight of glycogen, I think is mostly water. Three or four to one water. Okay,
+
+630
+01:09:30,000 --> 01:09:35,520
+there we go. And then the weight of adipose tissue, even if you include all the interstitial
+
+631
+01:09:35,520 --> 01:09:43,760
+stuff and all that, I think it's like 85, 90% pure fat. So the energy density is just off the charts,
+
+632
+01:09:43,760 --> 01:09:49,280
+depending on, you know, relative to any other storage method that the body has.
+
+633
+01:09:50,080 --> 01:09:53,600
+And so it makes sense that that's kind of our long term energy buffer.
+
+634
+01:09:54,240 --> 01:09:59,280
+By the way, just for people who think about EVs and stuff like there's no battery that can come
+
+635
+01:09:59,360 --> 01:10:04,880
+close to the energy density of our fat. Just to put that in perspective, right? Like,
+
+636
+01:10:04,880 --> 01:10:12,000
+or any hydrocarbon for that matter. Yeah. So, and so I think the importance of that is obvious to
+
+637
+01:10:12,000 --> 01:10:19,280
+have a way to cover times when you don't have as much energy coming in as you would like. And
+
+638
+01:10:19,280 --> 01:10:24,800
+in the evolutionary context, you know, the thing that comes to mind from our modern perspective is
+
+639
+01:10:24,800 --> 01:10:29,040
+whether they find food or not, but there's also the question of illness. And I think that's a
+
+640
+01:10:29,040 --> 01:10:37,440
+really important one. So if we look at the primary causes of mortality in children under five
+
+641
+01:10:37,440 --> 01:10:45,840
+in low income settings, what we see is that it's strongly related to their weight for height,
+
+642
+01:10:45,840 --> 01:10:53,360
+which is kind of a different way of measuring BMI. And, and it's also strongly related to disease
+
+643
+01:10:53,360 --> 01:10:59,840
+pressure, especially diseases like diarrhea that interfere with nutrition. And so if you look at
+
+644
+01:10:59,840 --> 01:11:06,480
+the correlation between weight for height and mortality, there's a massive correlation. So kids
+
+645
+01:11:06,480 --> 01:11:11,680
+who have malnutrition, moderate or severe malnutrition, that's what we call being under
+
+646
+01:11:11,680 --> 01:11:16,720
+weight to a certain degree, they have massively increased mortality. Because basically, if you
+
+647
+01:11:16,720 --> 01:11:24,320
+don't have those energy stores, you can't defend yourself against infections. And so it's not just
+
+648
+01:11:24,320 --> 01:11:28,880
+about energy, you know, there are other nutrients that are important vitamin A and some other things,
+
+649
+01:11:28,880 --> 01:11:36,640
+but energy is huge. And so there's this, because it's such a huge source of mortality, especially
+
+650
+01:11:36,640 --> 01:11:44,240
+in kids, there's this massive selective selective pressure to maintain a certain amount of energy
+
+651
+01:11:44,240 --> 01:11:50,800
+storage in the body. So that would be, you know, just an example of the selective pressure that
+
+652
+01:11:50,800 --> 01:11:56,720
+would select for a certain amount of body fat. And it is interesting in this regard that humans
+
+653
+01:11:56,720 --> 01:12:04,560
+have a lot more fat than our closest primate relatives. So chimps are like mid single digits
+
+654
+01:12:05,520 --> 01:12:12,240
+fat, and they don't develop obesity, they cannot physiologically develop human like obesity is my
+
+655
+01:12:12,240 --> 01:12:21,440
+understanding. So we're kind of special physiologically in our capacity for fat storage.
+
+656
+01:12:23,040 --> 01:12:32,480
+Has anyone ever looked at different ancestral populations for this might be just irrelevant to
+
+657
+01:12:32,480 --> 01:12:37,920
+do because we don't have enough data, where there were different amounts of food scarcity,
+
+658
+01:12:37,920 --> 01:12:43,280
+and seeing if there's an inverse relationship between the food scarcity that that population
+
+659
+01:12:43,280 --> 01:12:47,920
+emanated from whether it's this part of Africa versus that part of Europe, and how that translates
+
+660
+01:12:47,920 --> 01:12:54,960
+into the genetic predisposition to obesity in their modern ancestor in their modern kin today?
+
+661
+01:12:56,560 --> 01:13:01,440
+Yeah, I don't know the answer to that. But you understand the question I'm asking like, yeah,
+
+662
+01:13:01,440 --> 01:13:07,360
+yeah, basically, does the history with starvation select for more even greater obesity today?
+
+663
+01:13:07,840 --> 01:13:14,960
+Yeah, I know that john speakman has argued against this idea, he has pointed out that apparently
+
+664
+01:13:16,160 --> 01:13:22,480
+people with obesity do not survive famines better than lean people, which is kind of counter
+
+665
+01:13:22,480 --> 01:13:28,720
+intuitive. I'm not sure why that would be. I know that's a point that he's made. Yeah, so anyway,
+
+666
+01:13:28,720 --> 01:13:31,760
+that's about all I know about it. I don't really know the answer to that question.
+
+667
+01:13:32,640 --> 01:13:42,640
+Okay, so let's start to talk about the hedonic aspect of food. So we have five tastes, right,
+
+668
+01:13:42,640 --> 01:13:51,280
+we can taste sweet, sour, bitter, salty, and umami. Those are the things the five things we taste.
+
+669
+01:13:53,520 --> 01:13:56,160
+What's the best way to describe umami to somebody?
+
+670
+01:13:57,040 --> 01:14:04,000
+It's a meaty flavor that is present in cooked meat, bone broth, soy sauce.
+
+671
+01:14:04,560 --> 01:14:08,960
+Yeah, yeah. Okay, so I think people kind of get it. It's distinct from salt, I think is an important
+
+672
+01:14:08,960 --> 01:14:16,800
+point here. Yes. Although they often go together. Yeah. And I know different parts of our tongues
+
+673
+01:14:16,800 --> 01:14:21,760
+have different, you know, we sense for example, sweet on the very front of our tongue, I recall,
+
+674
+01:14:21,760 --> 01:14:25,920
+but that's, that's about the extent of my knowledge and recollection of where our tongue resides in
+
+675
+01:14:26,000 --> 01:14:33,360
+that. But what do those, what does the taste that we experience today, you and I, if we go out to a
+
+676
+01:14:33,360 --> 01:14:38,720
+restaurant, how does that compare to the range of tastes that our ancestors experienced?
+
+677
+01:14:40,240 --> 01:14:47,520
+Yeah, I think, I think this is, this brings up the topic that I like to, I like to talk about,
+
+678
+01:14:47,520 --> 01:14:54,720
+because I think most people, if you look at what hunter-gatherers actually eat, let's say we're
+
+679
+01:14:54,720 --> 01:15:00,480
+looking at contemporary and historical hunter-gatherers where data have been collected and
+
+680
+01:15:00,480 --> 01:15:05,520
+using that as a proxy for the types of food that our ancestors would have eaten.
+
+681
+01:15:06,480 --> 01:15:14,800
+It is radically different than what we eat today in many ways, but one of them is the hedonic
+
+682
+01:15:14,800 --> 01:15:21,360
+properties of it. Like if you look at what the Hadza eat, you know, if they go out and kill
+
+683
+01:15:21,440 --> 01:15:28,000
+an antelope, they just like cut off pieces of meat and throw it in the fire or put it next to the
+
+684
+01:15:28,000 --> 01:15:33,200
+fire in coals. They don't have sauces, they're not putting salt on it. And then they just like cut
+
+685
+01:15:33,200 --> 01:15:39,920
+off the charred parts and eat, and sometimes it's like half raw on the inside. They eat rotten meat,
+
+686
+01:15:39,920 --> 01:15:44,880
+meat that we would consider literally rotten. They will eat. I was just thinking about that the other
+
+687
+01:15:44,880 --> 01:15:50,800
+day, by the way, because I eat so much wild game that I killed, but I realized like I'm still a
+
+688
+01:15:50,800 --> 01:15:57,360
+baby because like, hey, I cook it, I don't eat it raw. But more importantly, to your point, I
+
+689
+01:15:57,360 --> 01:16:05,600
+season it, right? Like I use salt, I use pepper, I put lemon on it. And I'm sure it would taste
+
+690
+01:16:05,600 --> 01:16:09,600
+fine without those things. It would certainly be edible. I just don't do it, right?
+
+691
+01:16:10,800 --> 01:16:18,000
+Yeah, and that's right. And, you know, I'm sure like, yeah, I think if a person,
+
+692
+01:16:18,640 --> 01:16:24,400
+a typical person were to try to eat at a Hadza camp for like a week, I think it would be really
+
+693
+01:16:24,400 --> 01:16:30,960
+challenging for them. You know, like even that meat, even meat, as you said, cooked unseasoned,
+
+694
+01:16:32,000 --> 01:16:36,880
+it's not, doesn't taste bad, wouldn't taste as good. But now imagine like,
+
+695
+01:16:37,600 --> 01:16:43,200
+the outside is charred, the inside is half raw, you're brushing sand off of it. Like,
+
+696
+01:16:43,200 --> 01:16:47,760
+that's kind of the context. And then, you know, that's the meat, that's like one of the most
+
+697
+01:16:47,760 --> 01:16:54,080
+palatable things they eat. And then, you know, we have like, probably the most palatable thing,
+
+698
+01:16:54,720 --> 01:16:58,640
+yeah, probably the most palatable thing, certainly the thing that they really like is honey.
+
+699
+01:16:59,360 --> 01:17:03,520
+But they're not putting it on toast with butter on it, you know, they're literally
+
+700
+01:17:03,520 --> 01:17:09,200
+drinking straight. They're just taking the honeycomb, eating it and like drinking the honey.
+
+701
+01:17:09,920 --> 01:17:16,080
+So it's a bit of a different scenario even there. And then we have like, they eat a lot of baobab,
+
+702
+01:17:16,080 --> 01:17:23,120
+that is a very fibrous fruit that has sweetness to it, but it also has some off flavors. It's not a
+
+703
+01:17:23,120 --> 01:17:31,360
+very sweet fruit. It's not like an apple. It's got a lot of fiber. And then there's the tubers,
+
+704
+01:17:31,360 --> 01:17:37,200
+which is another major article of diet. And to be fair, this is their least preferred type of food.
+
+705
+01:17:37,280 --> 01:17:37,780
+Okay.
+
+706
+01:17:38,640 --> 01:17:46,880
+Yeah, it's, it's, they would rather eat things other than tubers. But they roast these things in
+
+707
+01:17:46,880 --> 01:17:52,400
+the fire, they dig them up. They're these like long stringy things that look like long sweet potatoes.
+
+708
+01:17:52,400 --> 01:17:58,080
+There are multiple species, but that's one of the common ones. And they're so fibrous
+
+709
+01:17:58,880 --> 01:18:04,240
+that they actually have to spit out a wad of fiber after they're done chewing it.
+
+710
+01:18:04,240 --> 01:18:08,320
+So it's like a sugar cane or something where you suck out the nutrient,
+
+711
+01:18:08,320 --> 01:18:11,920
+but you're spitting out the pure, unsoluble fiber.
+
+712
+01:18:12,560 --> 01:18:17,520
+Yeah. And so they're not sitting there or sauteing onions on the stove. They're not putting sauces.
+
+713
+01:18:17,520 --> 01:18:22,960
+They're not spicing. Like they're just taking food out of nature and cooking it and eating it.
+
+714
+01:18:23,520 --> 01:18:30,960
+And so I think it's, it's just a radically different type of diet than we're accustomed to.
+
+715
+01:18:31,840 --> 01:18:42,400
+And I think in this regard, it's interesting to consider how rewards circuits adapt to that.
+
+716
+01:18:42,400 --> 01:18:51,600
+Basically our brains are set up to not be satisfied with ordinary stuff. Once we have
+
+717
+01:18:51,600 --> 01:18:58,000
+gotten good stuff is a simple way to put it. And Michael Crashes did a really interesting
+
+718
+01:18:58,000 --> 01:19:04,640
+neuroscience study on this in mice. Mice normally they eat these unrefined food pellets.
+
+719
+01:19:04,640 --> 01:19:11,040
+That would be like the default diet, but they much prefer these calorie dense refined high fat
+
+720
+01:19:11,040 --> 01:19:17,760
+pellets. And if you give that to them, they will very much preferentially eat that over the healthier,
+
+721
+01:19:17,760 --> 01:19:27,360
+unrefined pellets. And what happens is they actually neurobiologically devalue. If you look
+
+722
+01:19:27,440 --> 01:19:33,280
+at the circuits, activity of the rewards circuits, they devalue. Once they've been exposed to the
+
+723
+01:19:33,280 --> 01:19:38,800
+preferred food, they devalue the less preferred food. So it no longer satisfies them, no longer
+
+724
+01:19:38,800 --> 01:19:46,080
+motivates them in the same way that it did before they were exposed to the highly preferred food.
+
+725
+01:19:46,080 --> 01:19:52,000
+And so, you know, to bring this back to our context, if you have somebody like you or I,
+
+726
+01:19:52,000 --> 01:19:59,680
+who's been raised in a context where we have tasty calorie dense, easy to eat food,
+
+727
+01:19:59,680 --> 01:20:06,480
+and that's how we were raised, then going back to eat food more like how our ancestors would eat is
+
+728
+01:20:06,480 --> 01:20:11,280
+really difficult. Like not twice you've mentioned the calorie density. So let's now talk about that
+
+729
+01:20:11,280 --> 01:20:17,840
+because that's kind of different from taste, right? So the taste thing is interesting to me.
+
+730
+01:20:18,640 --> 01:20:21,600
+This is something you and I actually remember speaking about probably one of the first times
+
+731
+01:20:21,600 --> 01:20:29,360
+we met this, like I said, 10 years ago, which was I actually think table sugar is disgusting.
+
+732
+01:20:29,360 --> 01:20:34,480
+Like I truly do. Like if you put a bowl of that white crap in front of me and said, dip your
+
+733
+01:20:34,480 --> 01:20:40,400
+finger in and eat it, like it maybe do it once, but that's about it, right? If you said, just mix
+
+734
+01:20:40,400 --> 01:20:47,040
+it into water and drink it, it's gross. It tastes fine in coffee and tea, but just by itself, it's
+
+735
+01:20:47,040 --> 01:20:53,680
+really disgusting. And similarly, if you just have me eat lard, it's really disgusting. Like I,
+
+736
+01:20:53,680 --> 01:20:58,080
+despite the fact that I was on a ketogenic diet for three years, I never developed a taste for
+
+737
+01:20:58,080 --> 01:21:07,760
+putting coffee and butter and things like that. But I freaking love ice cream, right? Like,
+
+738
+01:21:09,040 --> 01:21:15,520
+I think ice cream is about one of the most beautiful tastes in the world, everything about
+
+739
+01:21:15,520 --> 01:21:20,800
+it. So, and it really isn't that much more than sugar and fat, right? I mean, yes, there's some
+
+740
+01:21:20,800 --> 01:21:25,840
+flavors to it. And if you make it a coffee ice cream, I like it even more. But so, so I guess
+
+741
+01:21:25,840 --> 01:21:32,880
+my question is, can you walk me through what my brain is doing when it's tasting sugar, when it's
+
+742
+01:21:32,880 --> 01:21:39,440
+tasting butter, neither of which by itself, I find remotely enjoyable, but then when I'm tasting ice
+
+743
+01:21:39,520 --> 01:21:45,760
+cream and because the ice cream is not that much more caloric than the butter and the taste of
+
+744
+01:21:45,760 --> 01:21:49,200
+those two things, you know what I mean? Like there's something I'm trying to understand here,
+
+745
+01:21:49,200 --> 01:21:54,080
+which is taste and energy density. And how are those figuring out? Because I believe they are
+
+746
+01:21:54,080 --> 01:22:00,400
+instantly rewarding. So I'll give you one other analogy here. I remember when my daughter, who's
+
+747
+01:22:00,400 --> 01:22:07,520
+now 13, turned six months old and my wife and I were really fastidious about not feeding her any
+
+748
+01:22:07,520 --> 01:22:11,520
+junk, right? Like, you know, fortunately my wife was able to breastfeed so she didn't have all that
+
+749
+01:22:11,520 --> 01:22:18,320
+formula. And, you know, we just, we were like, you know, your typical idiot first parents, right? Like
+
+750
+01:22:18,320 --> 01:22:22,640
+we spent way too much time thinking about what she was eating, I'm sure. But on her six month
+
+751
+01:22:22,640 --> 01:22:27,840
+birthday, we got her ice cream. So you got it. So this is kind of an interesting experiment, right?
+
+752
+01:22:27,840 --> 01:22:33,280
+Like she's never experienced anything like this. So I take a little ice cream cone and I put it up
+
+753
+01:22:33,280 --> 01:22:36,880
+to her face and I still remember where we were sitting in Del Mar when I did this.
+
+754
+01:22:38,400 --> 01:22:48,000
+Stefan, it we're talking in milliseconds response from her milliseconds. Her eyes opened wider than
+
+755
+01:22:48,000 --> 01:22:55,600
+they've ever opened and she couldn't get into that thing fast enough. So to suggest that that isn't
+
+756
+01:22:55,600 --> 01:23:01,760
+her brain responding is crazy, right? Like there's there's nothing in her periphery in the moment
+
+757
+01:23:01,760 --> 01:23:07,520
+that governed that response. So whatever ice cream loving genes I have, she got them.
+
+758
+01:23:09,520 --> 01:23:14,080
+Yeah, absolutely. So I'm in a hard agree on ice cream. It's it's really for me,
+
+759
+01:23:14,080 --> 01:23:22,400
+like almost drug like the effect it has on my brain. So yeah, this brings up a couple of
+
+760
+01:23:22,400 --> 01:23:30,400
+interesting questions. So you're alluding to the fact that sugar and pure fat are very calorie
+
+761
+01:23:30,400 --> 01:23:38,160
+dense. So if our brains are wired for calories, why are those not very motivating, which is a
+
+762
+01:23:38,160 --> 01:23:44,960
+great question. So I'll start with that. And the reason is that this starts to get into the
+
+763
+01:23:44,960 --> 01:23:52,320
+the complexity of it is that there is an optimal concentration of these nutrients that is not 100%.
+
+764
+01:23:53,360 --> 01:23:56,960
+So you know, a great way to illustrate this would be with salt, right? Like
+
+765
+01:23:57,120 --> 01:24:02,720
+eating straight up salt is not something that most people would enjoy, like eating spoonfuls of salt.
+
+766
+01:24:02,720 --> 01:24:09,280
+It's horrible. But at the right concentration, it's excellent, right? It really enhances food.
+
+767
+01:24:09,280 --> 01:24:14,720
+And so that's actually generally true about all of these nutrients. It's true also about
+
+768
+01:24:14,720 --> 01:24:21,200
+carbohydrate and fat. So a term that's been used for that is the bliss point. So there is an optimal
+
+769
+01:24:22,160 --> 01:24:29,440
+concentration for enjoyment and presumably also for reinforcement, which is that dopamine release
+
+770
+01:24:30,080 --> 01:24:42,000
+that sets your motivational drive and helps you learn and form habits. And so ice cream, you know,
+
+771
+01:24:42,000 --> 01:24:47,920
+if you take out the sugar, probably wouldn't taste bad without the sugar, but not nearly as good,
+
+772
+01:24:48,640 --> 01:24:55,040
+if you take out the fat, fat free ice cream is not flying off the shelves, even though it does exist.
+
+773
+01:24:57,360 --> 01:25:03,040
+So it's really that combination of the two that really puts it over the top. And that's generally
+
+774
+01:25:03,040 --> 01:25:09,440
+true. When you look at the types of foods that are most commonly associated with strong cravings
+
+775
+01:25:09,440 --> 01:25:15,600
+and loss of control over eating, so like addictive like behavior, you see that generally the foods
+
+776
+01:25:15,600 --> 01:25:21,120
+that are cited are combinations of carbohydrate and fat. Usually there's other stuff involved.
+
+777
+01:25:21,120 --> 01:25:28,240
+There's flavorings, there's salt in the savory items like pizza or french fries.
+
+778
+01:25:30,560 --> 01:25:37,600
+So sweet or savory, generally they're combinations of carbohydrate and fat. And I think that, again,
+
+779
+01:25:37,600 --> 01:25:44,800
+it just relates to the fact that there is an optimal concentration of these nutrients in
+
+780
+01:25:44,800 --> 01:25:53,600
+terms of stimulating our reward centers. And so what you see in modern foods that have been
+
+781
+01:25:54,240 --> 01:26:03,440
+crafted to maximally stimulate our enjoyment and motivation, either they've been crafted by
+
+782
+01:26:04,640 --> 01:26:11,920
+food industry or by grandma, passed down through the generations of recipes. What you see is that
+
+783
+01:26:11,920 --> 01:26:19,280
+generally these items are hitting multiple bliss points at the same time. And that's just not really
+
+784
+01:26:19,280 --> 01:26:28,400
+a combination you see in nature. So I mean, you don't see foods that are as reinforcing. I mean,
+
+785
+01:26:28,400 --> 01:26:33,680
+I think the closest we would come is like maybe certain types of nuts would have some carbohydrate
+
+786
+01:26:33,680 --> 01:26:42,560
+and some fat together. But we really don't see anything that really hits the high points as much
+
+787
+01:26:42,560 --> 01:26:48,560
+as the foods that surround us today. Let's go back to our ancestors for a moment.
+
+788
+01:26:50,480 --> 01:26:57,360
+What apparatus was at their disposal subconsciously or consciously to help them understand and
+
+789
+01:26:57,360 --> 01:27:05,200
+prioritize calorically dense food? Because I got to believe that the three things that mattered most,
+
+790
+01:27:05,200 --> 01:27:14,000
+correct me if I'm wrong, would be total calories, protein, and sodium. I mean, it can't be an
+
+791
+01:27:14,000 --> 01:27:23,200
+accident that sodium is the only mineral we can taste, right? Yeah, correct. So, or I should say
+
+792
+01:27:23,200 --> 01:27:28,480
+by correct, I mean, that is how I think about it as well. And to break down the energy piece,
+
+793
+01:27:29,040 --> 01:27:34,880
+that would come for an animal with a digestive tract like a human, that would come primarily from
+
+794
+01:27:34,880 --> 01:27:43,520
+carbohydrate and fat. So we have carbohydrate, fat, protein, salt, and then sometimes I add
+
+795
+01:27:44,400 --> 01:27:51,120
+glutamate, umami to that list as well. And essentially- And this is subconscious, Stefan,
+
+796
+01:27:51,440 --> 01:27:58,720
+where we- Is this again just part of that stuff that was now so wired into us that- Yes.
+
+797
+01:27:59,520 --> 01:28:03,840
+We didn't want to eat grass. We knew that even though you could sort of get the gastric
+
+798
+01:28:03,840 --> 01:28:08,720
+distension from eating a lot of grass like a cow could, it was doing nothing for us. It didn't
+
+799
+01:28:08,720 --> 01:28:13,040
+taste good. And so in the short term, it wasn't pleasing. And in the long term, obviously,
+
+800
+01:28:13,040 --> 01:28:17,920
+it didn't satiate us. Yeah, that's right. And I think there's a couple of angles on this. One,
+
+801
+01:28:18,400 --> 01:28:23,200
+obviously humans have cultures, so we figured out what foods are good over long periods of time.
+
+802
+01:28:23,840 --> 01:28:30,800
+But a key aspect of this is dopamine mediated reinforcement. And essentially, our bodies are
+
+803
+01:28:30,800 --> 01:28:38,480
+set up to respond to certain types of nutrients, like the ones you mentioned, and create a
+
+804
+01:28:38,480 --> 01:28:46,480
+motivation and learning response that prioritizes and sets the motivational level on the seeking of
+
+805
+01:28:46,480 --> 01:28:57,120
+those types of foods. And so presumably, these are the kinds of nutrients that our ancestors
+
+806
+01:28:58,080 --> 01:29:03,600
+would have needed to prioritize to maximize the reproductive success, the currency of natural
+
+807
+01:29:03,600 --> 01:29:08,880
+selection. So essentially, we have these motivational systems that were selected to seek
+
+808
+01:29:08,880 --> 01:29:14,160
+certain types of nutrients in the environment. And if you look at the modeling that's been done on
+
+809
+01:29:14,160 --> 01:29:20,640
+foraging behavior in a wide variety of animals and in humans, you see that it revolves around
+
+810
+01:29:21,200 --> 01:29:27,280
+maximizing the energy return rate of foraging. This doesn't describe every species, but it does
+
+811
+01:29:27,280 --> 01:29:34,080
+describe many species. It's amazing to watch it in big cats, for example, where they'll be chasing
+
+812
+01:29:34,080 --> 01:29:40,400
+an antelope. And it's literally almost like they have a sensor inside that says, I'm going to stop
+
+813
+01:29:40,400 --> 01:29:46,400
+chasing now because my energy cost is not going to be met by my consumption over this period of
+
+814
+01:29:46,400 --> 01:29:52,720
+time. Absolutely. And these animals, you know, they don't know how to do math. They don't know
+
+815
+01:29:52,720 --> 01:29:58,000
+that they're actually implementing a mathematical equation in their head, but they are. It's just
+
+816
+01:29:58,000 --> 01:30:04,080
+wired into their brains the same way it's wired into us. You can predict hunter-gatherer foraging
+
+817
+01:30:04,080 --> 01:30:10,800
+behavior to a surprisingly to a surprising degree just by knowing the calorie return rate of
+
+818
+01:30:10,800 --> 01:30:16,000
+different foraging options. So our brains are very much wired, not just our brains, but our bodies
+
+819
+01:30:16,000 --> 01:30:21,440
+are very much wired around energy acquisition in terms of how our motivation and learning is set up
+
+820
+01:30:21,440 --> 01:30:30,240
+on a non-conscious level. And this is very much hardwired. So we have dedicated sensors in the
+
+821
+01:30:30,320 --> 01:30:38,880
+digestive tract. This is all pretty recent research since 2018. They discovered these cells that they
+
+822
+01:30:38,880 --> 01:30:46,480
+named neuropod cells in the small intestine primarily that have receptors for specific nutrients
+
+823
+01:30:47,040 --> 01:30:54,720
+that are directly, these cells are directly hooked up to vagal neurons. So when they detect glucose
+
+824
+01:30:54,720 --> 01:31:02,320
+or amino acids, fatty acids, so that would be carbohydrate, fat, protein, they get the
+
+825
+01:31:02,320 --> 01:31:06,960
+concentration and they start sending signals up your vagus nerve up to your brainstem. And from
+
+826
+01:31:06,960 --> 01:31:13,840
+there, it gets distributed to many parts of your brain, but particularly relevant part is the parts
+
+827
+01:31:13,840 --> 01:31:22,400
+of your brain that have to do with dopamine release onto your reward centers. And if the food that
+
+828
+01:31:22,400 --> 01:31:27,440
+you're eating contains a high concentration of these valuable nutrients, particularly in
+
+829
+01:31:27,440 --> 01:31:32,240
+combination with one another, you're going to get a higher level of dopamine release. The more
+
+830
+01:31:32,240 --> 01:31:38,400
+dopamine release you get, the more of a motivation you will develop toward that food.
+
+831
+01:31:40,080 --> 01:31:44,000
+Why is it there there are, and maybe this is just to me, I don't know what the literature would say,
+
+832
+01:31:44,000 --> 01:31:46,560
+so this could be incorrect, but in me,
+
+833
+01:31:46,560 --> 01:31:55,920
+like a ribeye is not something I seem to be able to eat into excess. And I feel like I should,
+
+834
+01:31:55,920 --> 01:32:03,920
+like shouldn't I be wired to eat ribeye until I can't stand? Like shouldn't I be wired to eat
+
+835
+01:32:03,920 --> 01:32:11,600
+ribeye until the point of vomiting, given how high it is in sodium, fat and protein and total calories?
+
+836
+01:32:11,680 --> 01:32:18,240
+The only thing it's missing is sugar and fiber and carbohydrates and things like that, but
+
+837
+01:32:19,440 --> 01:32:25,200
+it's easier for me to overeat baked potatoes than it is to overeat a ribeye.
+
+838
+01:32:27,360 --> 01:32:28,720
+And I'm not sure I understand why.
+
+839
+01:32:29,520 --> 01:32:34,720
+Let me just clarify, with the potato, is that with or without toppings?
+
+840
+01:32:34,720 --> 01:32:41,200
+With, let's say with. So yeah, let's put on butter, sour cream and salt.
+
+841
+01:32:41,520 --> 01:32:44,480
+So I'm clearly making it much more than the carb, of course.
+
+842
+01:32:44,480 --> 01:32:44,880
+Got it.
+
+843
+01:32:45,520 --> 01:32:48,960
+And it has to be crispy skin, too, like if I're going to do it right, you know,
+
+844
+01:32:48,960 --> 01:32:53,520
+I can't be like some lame ass buffet baked potato. It's got to be my style.
+
+845
+01:32:56,000 --> 01:32:56,880
+Yeah, that's.
+
+846
+01:32:56,880 --> 01:33:03,120
+But I don't know why I don't know why, like a fatty piece of meat is not something I have an amazing.
+
+847
+01:33:03,120 --> 01:33:08,400
+Is that is my experience typical or would most people be able to just eat ribeyes until they puke?
+
+848
+01:33:08,960 --> 01:33:14,160
+Oh, that's a good question. I really don't know. I will say that when you look at
+
+849
+01:33:15,760 --> 01:33:23,440
+the foods that people cite as the most typically associated with strong cravings and loss of
+
+850
+01:33:23,440 --> 01:33:29,760
+control over eating behavior, meat does not usually come up high on that list. And so.
+
+851
+01:33:29,760 --> 01:33:31,600
+Which seems like it should, right?
+
+852
+01:33:32,960 --> 01:33:37,680
+Yeah, I mean, I can only speculate about that. I'm not really sure why
+
+853
+01:33:39,120 --> 01:33:42,880
+I can understand where you're coming from. I don't know whether that's a kind of
+
+854
+01:33:42,880 --> 01:33:48,080
+generalizable phenomenon. I can only speculate about why that might be.
+
+855
+01:33:48,880 --> 01:33:55,920
+So there are a couple of things that come to mind for me. The first is that meat is about 75% water.
+
+856
+01:33:57,040 --> 01:34:03,120
+So the calorie density of is actually it's not low, but it's not especially high unless you're
+
+857
+01:34:03,120 --> 01:34:09,280
+eating a really fatty piece of meat. So that's one thing if we're comparing it to something like
+
+858
+01:34:09,920 --> 01:34:16,720
+brownie or something like pizza, which is more calorie dense than steak.
+
+859
+01:34:18,880 --> 01:34:23,120
+The second thing is it doesn't have any carbohydrates. So it doesn't have that
+
+860
+01:34:23,120 --> 01:34:30,880
+fat carbohydrate combination that is most closely associated with foods that people lose control
+
+861
+01:34:30,880 --> 01:34:38,480
+around. The third thing I would say is the high protein level. So even though we have
+
+862
+01:34:38,480 --> 01:34:43,920
+this strong protein specific appetite that's been demonstrated in many different species,
+
+863
+01:34:46,480 --> 01:34:53,280
+protein doesn't work the same as carbohydrate and fat. And I think we recognize that that's the
+
+864
+01:34:53,280 --> 01:34:58,080
+case. Protein seems to, it's something that our bodies really want to get enough of,
+
+865
+01:34:58,080 --> 01:35:04,160
+but don't want to get too much of. So there's really not only there's a drive to acquire it,
+
+866
+01:35:04,160 --> 01:35:09,520
+but there's a drive to keep it within a certain range and not eat too much. And we see that,
+
+867
+01:35:10,720 --> 01:35:16,400
+you know, if people go on high protein diets, their overall calorie intake will drop.
+
+868
+01:35:17,200 --> 01:35:20,400
+Yeah. I mean, I wanted to talk about the carnivore diet with you a little bit because I
+
+869
+01:35:20,400 --> 01:35:26,240
+know you guys did a review on a book. It's not a diet I've spent any time really thinking about.
+
+870
+01:35:26,240 --> 01:35:32,640
+So I've basically spoken to, I don't know, a dozen people who have gone on it. And without
+
+871
+01:35:32,640 --> 01:35:38,480
+exception, they all lose weight, which I think for some of them is their motivation for doing it.
+
+872
+01:35:40,000 --> 01:35:44,560
+And it must simply be that they just get tired of eating, right? They just don't,
+
+873
+01:35:45,120 --> 01:35:49,360
+they just can't take in the number of calories if they're doing it in that format.
+
+874
+01:35:50,080 --> 01:35:54,400
+I think there's probably, so I would say that, you know, we don't have any good
+
+875
+01:35:55,120 --> 01:36:03,760
+data on the impact of carnivore diet on, on weight. So, you know, there's no randomized control trials,
+
+876
+01:36:04,320 --> 01:36:09,680
+but you know, we have these anecdotes of people saying they lose a lot of weight. I certainly
+
+877
+01:36:09,680 --> 01:36:17,600
+don't dispute that. But I think if you came to me with this diet on paper and you asked me,
+
+878
+01:36:17,600 --> 01:36:22,880
+would this cause weight? I would say absolutely, because it has multiple properties that I would
+
+879
+01:36:22,880 --> 01:36:30,000
+expect to make it a particularly effective weight loss diet. One, this is something we could talk
+
+880
+01:36:30,000 --> 01:36:39,040
+about more if you want, but it has zero carbohydrate. So I think that anywhere, if you're on the extreme
+
+881
+01:36:39,040 --> 01:36:44,560
+of the fat to carbohydrate ratio in either direction, that's more slimming than being in
+
+882
+01:36:44,560 --> 01:36:51,200
+the middle. So the most fattening diets are rich in both carbohydrate and fat. So there's zero
+
+883
+01:36:51,200 --> 01:36:55,280
+carbohydrate. You're on the extreme or I shouldn't say zero, very, very little. Right. That's out of
+
+884
+01:36:55,280 --> 01:37:01,120
+the glycogen in the meat. Yeah. There's a little glycogen. So you're on the very extreme end of
+
+885
+01:37:02,720 --> 01:37:08,320
+the macronutrient distribution. It's high in protein. That's also known to contribute to
+
+886
+01:37:08,320 --> 01:37:14,400
+weight loss. You're eliminating almost every type of food. So your variety, the variety of your diet
+
+887
+01:37:14,560 --> 01:37:19,520
+goes very low. I mean, you can prepare your meat in different ways. You can eat chicken or fish or
+
+888
+01:37:19,520 --> 01:37:24,800
+beef or whatever, but the variety is greatly, greatly reduced. So that's, I think, part of it.
+
+889
+01:37:26,080 --> 01:37:32,800
+And you're cutting out all of these highly processed, calorie dense foods that are the foods that I
+
+890
+01:37:32,800 --> 01:37:41,200
+think, you know, we could debate about why, but I think everyone agrees that those are foods that
+
+891
+01:37:41,200 --> 01:37:48,400
+drive excess intake and elevated body fatness. So I think all these things together, it's just
+
+892
+01:37:48,400 --> 01:37:54,880
+even on paper, it's a diet that I would very much expect to cause weight loss more to greater degree
+
+893
+01:37:54,880 --> 01:38:02,800
+than your average diet. And while we're on the topic, what are you mean, tell me a little bit
+
+894
+01:38:02,800 --> 01:38:06,960
+about your review of this, because I know you've put some time into this. And for folks that are
+
+895
+01:38:06,960 --> 01:38:15,600
+wondering, you know, I don't really plan to do a podcast on the carnivore diet. It doesn't seem to
+
+896
+01:38:15,600 --> 01:38:19,920
+make a lot of sense to me, although I don't dispute that there are people who I think have had very
+
+897
+01:38:21,920 --> 01:38:26,880
+successful outcomes on it with respect to dealing with some of their physical ailments.
+
+898
+01:38:28,480 --> 01:38:36,160
+So maybe it has a role in sort of overcoming some acute illness. And maybe I'm just biased towards
+
+899
+01:38:36,240 --> 01:38:42,000
+thinking plants are valuable. But I guess it seems to me that one of the core tenets of the
+
+900
+01:38:43,040 --> 01:38:47,760
+diet is that plants are sort of low grade toxic, right? I mean, isn't that sort of part of the
+
+901
+01:38:47,760 --> 01:38:56,560
+thesis? Yeah, the thesis is basically everything is toxic except grass fed animal foods.
+
+902
+01:38:57,040 --> 01:39:08,880
+So like even tap water is considered not optimal. But yeah, so the book spends a lot of time like
+
+903
+01:39:09,680 --> 01:39:15,440
+going through the litany of all the potentially harmful compounds in plant foods. And actually,
+
+904
+01:39:15,440 --> 01:39:21,680
+you know what, I sympathize with some of this, I think there is a bias toward thinking, if it's in
+
+905
+01:39:21,680 --> 01:39:27,280
+a plant, it's healthy. And I don't think that's true. I think the book is right, that that's not
+
+906
+01:39:27,280 --> 01:39:32,960
+necessarily true. And I think there are some plant compounds that at least for some people are not so
+
+907
+01:39:32,960 --> 01:39:39,120
+good. And you know, there are well characterized examples of this, like if you eat a lot of spinach,
+
+908
+01:39:39,120 --> 01:39:47,600
+you can get kidney stones from all the oxalate. There are studies suggesting that the glucosinolates
+
+909
+01:39:47,600 --> 01:39:57,200
+in cabbage family plants might contribute to type two diabetes. You know, there's like kidney beans,
+
+910
+01:39:57,200 --> 01:40:02,640
+if you don't cook them enough, they can be really toxic because the lectins. So it's not like there
+
+911
+01:40:02,640 --> 01:40:10,080
+aren't examples of this. It's definitely true that to some degree, I think it just gets taken
+
+912
+01:40:10,080 --> 01:40:16,960
+far beyond where the evidence is. And you know, the way to think about how healthy a food is,
+
+913
+01:40:16,960 --> 01:40:23,840
+is not to say does it contain toxins, it's to say what's the cost benefit analysis on this food. And
+
+914
+01:40:24,480 --> 01:40:31,040
+most importantly, what are the empirical outcomes that we can see when it's impacts on health are
+
+915
+01:40:31,040 --> 01:40:36,480
+directly studied. So you know, like this is something that I've kind of focused on in my
+
+916
+01:40:37,440 --> 01:40:45,360
+evaluation of some of the ideas that are put forth in the public sphere, is that a lot of
+
+917
+01:40:46,000 --> 01:40:54,160
+people with, a lot of people who are coming out with, let's say unusual ideas in this sphere,
+
+918
+01:40:55,360 --> 01:41:03,360
+they really, they take a mechanism and they run with it. Like, you know, X toxin is really bad,
+
+919
+01:41:03,360 --> 01:41:09,760
+like lectins, for example, Gundry, lectins can do XYZ, lectins are in plants, therefore we shouldn't
+
+920
+01:41:09,760 --> 01:41:17,040
+eat these types of plants. And that's really like a bottom up approach, like extrapolating
+
+921
+01:41:17,760 --> 01:41:23,440
+empirical effects on health from mechanism when really, I think in a complex field like nutrition,
+
+922
+01:41:24,000 --> 01:41:30,320
+it's better to start with the empirical evidence like, oh, we have this study that suggests
+
+923
+01:41:31,040 --> 01:41:35,360
+that there's actually an effect on health. Let's see if we can understand the mechanism.
+
+924
+01:41:36,320 --> 01:41:42,160
+What are some of the biochemical changes that occur in people on a carnivore diet?
+
+925
+01:41:42,160 --> 01:41:44,720
+I mean, the obvious one must be the dyslipidemia, right?
+
+926
+01:41:46,240 --> 01:41:55,760
+Yes. So, you know, there's a shift toward a ketogenic metabolism because of the fact that
+
+927
+01:41:55,760 --> 01:42:01,520
+it's very low carbohydrate. That would be an obvious shift that occurs.
+
+928
+01:42:02,480 --> 01:42:07,680
+There, you know, I don't know if I'd use the term dyslipidemia, but one of the terms that,
+
+929
+01:42:07,680 --> 01:42:15,280
+one of the potential downsides I focused on in the review that is downplayed by many
+
+930
+01:42:15,280 --> 01:42:22,480
+carnivore diet advocates, including Paul Saladinho is the change in LDL cholesterol
+
+931
+01:42:22,480 --> 01:42:29,360
+and LDL particle count. So, and again, we don't have great evidence here. And this is kind of
+
+932
+01:42:30,240 --> 01:42:37,120
+the crux of our review of the book on red pen reviews is simply that there are a lot of claims
+
+933
+01:42:37,120 --> 01:42:45,840
+made that are not supported by any kind of convincing evidence. But we have some evidence.
+
+934
+01:42:45,840 --> 01:42:50,640
+So there's this survey study that was done on something like 2000 carnivore dieters.
+
+935
+01:42:52,080 --> 01:42:58,080
+I think David Ludwig was involved in that. And they just reached out to people in social media
+
+936
+01:42:58,080 --> 01:43:04,560
+groups, like their Facebook groups and things, and they administered this survey. And one of the
+
+937
+01:43:04,560 --> 01:43:14,080
+questions was, what was your various blood lipid values before and after this diet? And you see
+
+938
+01:43:14,080 --> 01:43:20,080
+that there are changes in positive and negative directions. Triglycerides go down as you would
+
+939
+01:43:20,080 --> 01:43:27,600
+expect. I don't remember what HDL did, but it probably went up. Yeah. And then there was a
+
+940
+01:43:27,600 --> 01:43:37,840
+large increase in LDL cholesterol. And so that's a concern, you know, as far as I'm concerned. And I
+
+941
+01:43:37,840 --> 01:43:42,880
+think you would agree. And Paul Saladinho himself, you know, I'm not trying to pick on him. I don't
+
+942
+01:43:42,880 --> 01:43:49,520
+want to make it personal, but he's, you know, been public about some of this stuff. So I think it's
+
+943
+01:43:49,680 --> 01:43:59,360
+fair to point out to just repeat what he himself has said. But his LDL cholesterol is 533 megs per
+
+944
+01:43:59,360 --> 01:44:11,280
+deciliter. And his LDL particle count is also absolutely through the roof. And so not everyone
+
+945
+01:44:11,280 --> 01:44:17,040
+responds like that. Like if you look at the survey data, I think there was a mean increase of like 30
+
+946
+01:44:17,040 --> 01:44:24,720
+megs per deciliter in LDL, 30 or 40, something like that. So I think it depends on the individual.
+
+947
+01:44:24,720 --> 01:44:31,840
+I think some people like Sean Baker's lipids are fine. He's another carnivore diet guy. Last time
+
+948
+01:44:31,840 --> 01:44:37,440
+I saw his lipids look just fine. So I think it depends on the individual. But some people
+
+949
+01:44:38,480 --> 01:44:44,480
+do experience a large increase in LDL cholesterol. And I mean, you know more about this than I do,
+
+950
+01:44:44,480 --> 01:44:50,560
+but that certainly raises red flag for me in terms of cardiovascular risk over the long run.
+
+951
+01:44:51,680 --> 01:44:57,120
+Yeah, the thing I've never understood is this is probably true of not just carnivore, but
+
+952
+01:44:57,120 --> 01:45:02,160
+ketogenic or anything that that does produce that hyperbeta lipoproteinemia.
+
+953
+01:45:05,440 --> 01:45:11,120
+It's it almost seems to be worn by some as a badge of honor, as opposed to saying, well,
+
+954
+01:45:11,120 --> 01:45:15,840
+maybe this diet is doing a lot of really good things for me. It's improving my insulin
+
+955
+01:45:15,840 --> 01:45:21,760
+sensitivity. I feel better. I have fewer energy swings. But this one thing isn't so good. But
+
+956
+01:45:21,760 --> 01:45:25,920
+here's the thing of all the things that could go wrong. That's about the most treatable one out
+
+957
+01:45:25,920 --> 01:45:36,880
+there. Very easy to treat elevated Apo B. And so that's the part. And this is what we do clinically,
+
+958
+01:45:36,880 --> 01:45:43,200
+right? This is how we treat patients, right? We have patients who only get better on very,
+
+959
+01:45:43,200 --> 01:45:50,320
+very carbohydrate restricted diets. But then, you know, if they develop that that pattern,
+
+960
+01:45:50,320 --> 01:45:56,000
+that elevated LDL pattern, we have a choice to make, which is we abandon the diet or we treat
+
+961
+01:45:56,000 --> 01:46:02,000
+the elevated Apo B. And that's not a failure. That's simply using modern medicine to help us
+
+962
+01:46:02,000 --> 01:46:10,640
+achieve the best of both worlds. So I think I've always struggled to understand why a person will
+
+963
+01:46:10,640 --> 01:46:18,560
+go on that diet, have, you know, an Apo B or LDL go from the 50th percentile to north of the 99th
+
+964
+01:46:18,560 --> 01:46:24,240
+percentile. And instead of being curious about what the implication is, sort of dig their heels
+
+965
+01:46:24,240 --> 01:46:30,480
+in and say, clearly, this is a good thing. And LDL does not cause heart disease. I absolutely agree.
+
+966
+01:46:30,480 --> 01:46:39,840
+I mean, it's a dietary ideology. It's an ideology that has emerged to defend a certain
+
+967
+01:46:39,840 --> 01:46:46,480
+type of dietary pattern. These kind of ideas emerged from the low carb community, essentially,
+
+968
+01:46:46,480 --> 01:46:52,880
+to defend against the idea that there might be some downsides to certain types of low carb diets.
+
+969
+01:46:52,880 --> 01:46:58,240
+And they've been taken to an extreme, I think, in the carnivore community, because that's a
+
+970
+01:46:58,240 --> 01:47:05,440
+particularly potent stimulus for increasing LDL. So people don't want to believe that there's a
+
+971
+01:47:05,440 --> 01:47:11,520
+downside to the thing they're doing. And, you know, like, I kind of get it. Like, people go on this
+
+972
+01:47:11,520 --> 01:47:16,160
+diet, they lose weight, they feel better. Some people, you know, they say their skin cleared up
+
+973
+01:47:16,160 --> 01:47:23,040
+or XYZ condition improved. Like, there's all these tangible things they can see that are getting
+
+974
+01:47:23,040 --> 01:47:28,960
+better. They don't want to believe that there's an intangible thing that's actually putting them at
+
+975
+01:47:28,960 --> 01:47:34,400
+severe risk. Because, I mean, as you know, like, I say severe risk, I just mean cardiovascular
+
+976
+01:47:34,400 --> 01:47:41,440
+disease is a big risk, generally. Like, as you know, this is the number one killer. Cardiovascular
+
+977
+01:47:41,440 --> 01:47:46,480
+disease is a huge big deal. Even if it doesn't kill you, it can do really bad things to you
+
+978
+01:47:46,480 --> 01:47:52,160
+physically and cognitively. So, like, it's not a risk you want to be ignoring. So I absolutely
+
+979
+01:47:52,160 --> 01:48:02,400
+agree. I think it's an irrational part of dietary tribal ideology that is holding people back from
+
+980
+01:48:02,400 --> 01:48:07,520
+experiencing their best health. And it's so treatable. I said that in the review, too. I was like,
+
+981
+01:48:08,800 --> 01:48:15,760
+you don't even have to stop the diet. You can just get it treated. Or you could modify the diet.
+
+982
+01:48:15,760 --> 01:48:22,320
+Yeah. And by the way, you see the same sort of equally stubborn ideology at the exact opposite
+
+983
+01:48:22,320 --> 01:48:28,560
+end of the spectrum where we see these patients that will go on these incredibly restrictive
+
+984
+01:48:28,560 --> 01:48:34,240
+plant-based diets. And it's usually some combination of micronutrient deficiency and or protein
+
+985
+01:48:34,240 --> 01:48:40,240
+deficiency that's going to be the death of them. But there's no deviating from it. There's no,
+
+986
+01:48:40,240 --> 01:48:44,560
+like, I'm going to supplement with protein shapes. I'm going to take B vitamins. I'm going to do
+
+987
+01:48:45,200 --> 01:48:49,120
+these. And again, it's the same sort of thing. It's like somehow if I acknowledge the fact that
+
+988
+01:48:49,120 --> 01:48:54,400
+I need to supplement with these other things to work around a diet that I otherwise like,
+
+989
+01:48:54,400 --> 01:48:58,960
+or that is congruent with a belief system I have around the treatment of animals, which I can
+
+990
+01:48:58,960 --> 01:49:03,600
+respect that. Right. If that's if that's your belief system, then by all means be true to it. But
+
+991
+01:49:05,680 --> 01:49:12,720
+but yes, I find it somewhat self-destructive. Yeah, absolutely. I think it's very analogous
+
+992
+01:49:12,720 --> 01:49:17,120
+to what we see in certain corners of the vegan diet community. They want it to be best for
+
+993
+01:49:17,120 --> 01:49:24,480
+everything. It's got to be best for the environment and for ethics and for health. And like, it's just
+
+994
+01:49:24,480 --> 01:49:29,120
+very hard to swallow that there might be some downsides. And for the carnivore diet, too,
+
+995
+01:49:29,120 --> 01:49:34,720
+you see, like, they try to justify the environmental aspects of it, too. Like,
+
+996
+01:49:35,440 --> 01:49:42,080
+in the carnivore code, he talks a lot about regenerative agriculture, which, you know,
+
+997
+01:49:42,080 --> 01:49:48,160
+is a concept that I think is interesting. And I think I support it, but
+
+998
+01:49:50,320 --> 01:49:56,640
+it's a certain, I would say, spin on it that makes it seem particularly favorable. And also, like,
+
+999
+01:49:56,640 --> 01:50:00,880
+there's an underlying assumption that the average carnivore is going to eat nothing but
+
+1000
+01:50:00,880 --> 01:50:05,920
+regenerative agriculture beef, which I think is not the case.
+
+1001
+01:50:06,960 --> 01:50:12,080
+Let's talk about one more big topic, Stefan, which you've you've written a lot about, God,
+
+1002
+01:50:12,080 --> 01:50:17,920
+you're I don't mean I don't know if you're sick of it or you're still enjoying it. But this idea of
+
+1003
+01:50:18,800 --> 01:50:26,800
+kind of energy balance, carbohydrates and insulin and unifying theories around adiposity.
+
+1004
+01:50:27,760 --> 01:50:32,960
+Now, very recently, I heard you and Kevin Hall on a podcast. I don't remember what the podcast
+
+1005
+01:50:32,960 --> 01:50:37,840
+was called, but it was a wonderful discussion because I know you well. I know Kevin well.
+
+1006
+01:50:38,800 --> 01:50:44,160
+And anytime I can listen to a podcast with people who I know a lot about and I know most of what
+
+1007
+01:50:44,160 --> 01:50:48,800
+they have to say, but yet I still pick something up in the discussion, it's fantastic. And that was
+
+1008
+01:50:48,880 --> 01:50:57,840
+that was an example. So in it, you guys did a pretty good job, I thought, of really explaining
+
+1009
+01:50:57,840 --> 01:51:04,560
+the history of these models, which I think you acknowledged are probably not perfectly named.
+
+1010
+01:51:04,560 --> 01:51:08,080
+So there's a little bit of historical baggage that goes into the nomenclature.
+
+1011
+01:51:09,600 --> 01:51:16,320
+And I think anybody who is able to sort of pay attention long enough will realize that there's
+
+1012
+01:51:16,320 --> 01:51:22,000
+a lot in common with these models, but there are some fundamental differences that are important
+
+1013
+01:51:22,000 --> 01:51:29,200
+to understand. So maybe we could sort of talk a little bit about that. And again, I think this
+
+1014
+01:51:29,200 --> 01:51:34,720
+is not a time to be overly simplistic. I think this is a time for nuance and it is a time for
+
+1015
+01:51:36,080 --> 01:51:40,560
+putting the finer point on the similarities and differences of these models. So maybe just start
+
+1016
+01:51:40,560 --> 01:51:45,600
+by explaining, well, pick the one you want to start with and let's kind of walk through them.
+
+1017
+01:51:46,480 --> 01:51:54,720
+Yeah, so the two models are the carbohydrate insulin model and the energy balance model.
+
+1018
+01:51:54,720 --> 01:52:00,960
+And the carbohydrate insulin model, I just want to get a little more specific with that because
+
+1019
+01:52:00,960 --> 01:52:10,400
+there are different versions of this. And so this is the one that has been promoted by David Ludwig,
+
+1020
+01:52:10,400 --> 01:52:17,040
+and particularly in a recent review paper that he published with along with some other researchers.
+
+1021
+01:52:17,920 --> 01:52:24,480
+And the energy balance model in this case is being represented by Kevin Hall, but I would say
+
+1022
+01:52:24,480 --> 01:52:30,880
+he's pretty close. It has very deep roots in models, similar models that go back decades.
+
+1023
+01:52:31,120 --> 01:52:39,040
+Carbohydrate insulin model in its most recent incarnation is a lot more complex than previous
+
+1024
+01:52:39,040 --> 01:52:45,120
+inclination. So I'm going to do my best to kind of summarize it and hit the key points.
+
+1025
+01:52:46,000 --> 01:52:53,440
+But essentially, it's the idea that there are things in the diet and in the environment that
+
+1026
+01:52:53,600 --> 01:53:01,440
+impact insulin signaling and insulin signaling impacts body fatness. And then that
+
+1027
+01:53:02,320 --> 01:53:10,480
+fatening process of insulin signaling on adiposity, then downstream leads to elevated
+
+1028
+01:53:10,480 --> 01:53:18,000
+calorie intake and elevated and possibly a decline in metabolic rate. So it proposes a
+
+1029
+01:53:18,800 --> 01:53:23,600
+reversal of the relationship. This is one of the key aspects I want to highlight,
+
+1030
+01:53:23,600 --> 01:53:31,840
+proposes a reversal of the relationship between energy balance and body fatness. Basically,
+
+1031
+01:53:31,840 --> 01:53:38,080
+the energy balance phenotype is downstream of that fatening process instead of being upstream.
+
+1032
+01:53:38,080 --> 01:53:44,000
+And that really, I think, is a key difference. When we go to the energy balance model,
+
+1033
+01:53:44,160 --> 01:53:49,600
+the energy balance is upstream of the fatening process. So basically, we have all these things
+
+1034
+01:53:49,600 --> 01:53:55,600
+happening in the environment and physiologically in our bodies. Those signals are impinging
+
+1035
+01:53:55,600 --> 01:54:06,960
+primarily on the brain. And then energy balance is a result of primarily that brain activity.
+
+1036
+01:54:06,960 --> 01:54:11,680
+And then that is feeding into adipose tissue. So in that context,
+
+1037
+01:54:12,400 --> 01:54:20,960
+adipose is body fatness is receiving the excess energy. It's not really the driver
+
+1038
+01:54:20,960 --> 01:54:29,920
+of this process, but when excess energy enters the body, it's what mops it up. So that's the
+
+1039
+01:54:29,920 --> 01:54:35,840
+difference between those two models. So let me say that again, just to make sure we've got this
+
+1040
+01:54:36,000 --> 01:54:41,440
+right. So in the former model, in the carbohydrate insulin model, the idea is that
+
+1041
+01:54:43,200 --> 01:54:52,240
+the primary cause is the adipose tissue increasing in its fatness. The adipose tissue
+
+1042
+01:54:52,240 --> 01:54:57,680
+wants more energy that's driven by the external factors, both carbohydrate and otherwise.
+
+1043
+01:54:58,560 --> 01:55:05,520
+So in a drive to increase the influx of fatty acid into adipose tissue, you see a reduction
+
+1044
+01:55:05,520 --> 01:55:13,840
+in circulating metabolic fuels, which drives an increase in appetite. So intake goes up to
+
+1045
+01:55:13,840 --> 01:55:19,840
+accommodate the reduction in circulating metabolic fuels, which is being caused by a drive towards
+
+1046
+01:55:20,160 --> 01:55:26,400
+fatness. The conventional model basically says that's happening in reverse. It's saying that
+
+1047
+01:55:26,960 --> 01:55:33,200
+the input of fuels into the system leads to an increase in circulating metabolic factors
+
+1048
+01:55:33,200 --> 01:55:42,320
+that is now driving energy balance into the fat cell. Is that safe overview? Yes. You said
+
+1049
+01:55:42,320 --> 01:55:47,760
+conventional model though. And I think, do you want to call that energy? Is that the energy
+
+1050
+01:55:47,760 --> 01:55:54,960
+balance? I have heard both terms. Yeah. Okay. So sorry. I think this is worth a moment to clarify.
+
+1051
+01:55:54,960 --> 01:56:02,560
+So if you look at David Ludwig's paper, he contrasts the carbohydrate insulin model against
+
+1052
+01:56:02,560 --> 01:56:09,200
+what he calls the energy balance model, which is basically calories in and calories out.
+
+1053
+01:56:09,200 --> 01:56:14,480
+So it's like, it's not really right. None of this is really regulated. It's just however many
+
+1054
+01:56:14,480 --> 01:56:22,080
+calories you happen to passively eat or how much you decide to exercise. And then your fat tissue
+
+1055
+01:56:22,080 --> 01:56:32,720
+is a result of that. So the energy balance model in contrast is acknowledging all of this brain
+
+1056
+01:56:32,720 --> 01:56:39,520
+regulation of body fat, brain regulation of appetite and saying actually body fat is a
+
+1057
+01:56:39,520 --> 01:56:48,560
+regulated process. However, it's body fatness, I should say is a regulated variable. However,
+
+1058
+01:56:50,000 --> 01:56:58,800
+it's regulated by the energy intake and expenditure via the brain. Got it. Okay. Yeah. So the
+
+1059
+01:56:59,200 --> 01:57:07,680
+conventional model, I will say is not a model that really any research, any obesity researchers
+
+1060
+01:57:07,680 --> 01:57:16,320
+currently ascribe to at least the obesity researchers who are actually studying the
+
+1061
+01:57:16,320 --> 01:57:22,640
+mechanisms of body fat regulation. Yeah. And one of the things that I think Kevin pointed out on
+
+1062
+01:57:22,640 --> 01:57:28,640
+this podcast to go further on that, down that thread is the energy balance model does not
+
+1063
+01:57:28,640 --> 01:57:34,480
+consider all calories identical. Yeah, it does not presuppose that they're all identical. That's
+
+1064
+01:57:34,480 --> 01:57:41,840
+right. And in terms of their impact on body fat. Correct. So not only do they potentially have
+
+1065
+01:57:41,840 --> 01:57:46,800
+different thermogenic effects, but they also might have different regulatory effects on
+
+1066
+01:57:47,360 --> 01:57:54,400
+compensatory appetite, right? That's right. And I think where we really see this emerging is in
+
+1067
+01:57:54,400 --> 01:58:01,360
+animal models. And I don't know how relevant this is for humans, but I'm just using it as a general
+
+1068
+01:58:01,360 --> 01:58:07,200
+proof of principle that it can happen. You can see in animal models where you can change their
+
+1069
+01:58:07,200 --> 01:58:12,880
+diet composition. David Ludwig has shown this for carbohydrate quality. It's been shown for
+
+1070
+01:58:13,520 --> 01:58:20,720
+dietary fat as well. And you can actually produce animals that will gain fat independent of calorie
+
+1071
+01:58:20,720 --> 01:58:26,560
+intake. So you can actually clamp them at their former calorie intake and they will nevertheless
+
+1072
+01:58:27,760 --> 01:58:36,720
+gain fat. So so they're at least in principle, those types of effects are possible. Yeah,
+
+1073
+01:58:36,720 --> 01:58:41,520
+I believe Rick Johnson described an experiment like that on my recent podcast with him, which
+
+1074
+01:58:41,520 --> 01:58:48,080
+was an isocaloric swap to a very high fructose diet where the animals didn't gain weight,
+
+1075
+01:58:48,080 --> 01:58:54,160
+but they fuel partition differently. They got fatter. This was over a long time. This was over
+
+1076
+01:58:55,120 --> 01:59:00,000
+nine months. So nine months for a mouse, right? As an eternity. Yeah, that's a very long time.
+
+1077
+01:59:00,560 --> 01:59:05,040
+Yeah, absolutely. That is a very long time. And I think that's a very long time.
+
+1078
+01:59:05,200 --> 01:59:10,880
+Yeah, absolutely. That has been shown in a number of contexts that that can happen in rodents. But
+
+1079
+01:59:10,880 --> 01:59:15,760
+they also I think it's worth pointing out that rodents have their energy expenditure is more
+
+1080
+01:59:15,760 --> 01:59:21,600
+plastic than ours. Yeah. By the way, I want to go back to that because this is something
+
+1081
+01:59:21,600 --> 01:59:27,520
+this will tie into what we're about to talk about. But you have a person who weighs
+
+1082
+01:59:28,160 --> 01:59:31,840
+200 pounds person who weighs 160 pounds of the same height.
+
+1083
+01:59:33,120 --> 01:59:39,520
+The 200 pound person loses 40 pounds. They're now 160 pounds. The other person's always been
+
+1084
+01:59:39,520 --> 01:59:46,000
+160 pounds. On the surface, they look identical. In fact, let's pretend they're siblings.
+
+1085
+01:59:47,280 --> 01:59:52,000
+But one was obese, and he's now post obese. The other was never obese.
+
+1086
+01:59:52,480 --> 01:59:58,560
+Let's pretend that that one that lost the 40 pounds has really kind of dialed it in.
+
+1087
+01:59:59,360 --> 02:00:06,880
+And doesn't yo yo, he manages to stay there. It's three years later. Are they the same person yet?
+
+1088
+02:00:08,560 --> 02:00:17,840
+No, probably not. They're so Rudy Leibel has done studies where I think they've had people
+
+1089
+02:00:18,800 --> 02:00:26,080
+out to a year, maybe two years where they have them weight reduced. And the starvation response,
+
+1090
+02:00:26,080 --> 02:00:32,880
+this left independent starvation response, he hasn't seen any sign that it goes away. So
+
+1091
+02:00:34,240 --> 02:00:39,520
+could it maybe be possible? Could it maybe be possible under some circumstances? Maybe. But
+
+1092
+02:00:40,240 --> 02:00:47,680
+the evidence that I've seen suggests that it is at least not typical.
+
+1093
+02:00:52,080 --> 02:01:01,200
+I want to specify that I think that the set point around which the lipostat regulates can change
+
+1094
+02:01:01,200 --> 02:01:09,440
+based on dietary and environmental variables. And so for example, just to give an example that
+
+1095
+02:01:09,440 --> 02:01:15,360
+you'll be familiar with and others probably listening will be familiar with. If you take
+
+1096
+02:01:15,360 --> 02:01:20,560
+someone on a typical diet and put them on a low carb diet, you don't have to tell them to reduce
+
+1097
+02:01:20,560 --> 02:01:29,200
+their calorie intake. That will occur spontaneously and they will lose fat and end up in the typical
+
+1098
+02:01:29,200 --> 02:01:34,800
+person comfortably being at a lower weight. They're not experiencing the starvation response.
+
+1099
+02:01:35,600 --> 02:01:41,840
+And you can see this on other diets as well. So I think there are things we can do to change the set
+
+1100
+02:01:41,840 --> 02:01:49,920
+point. However, that person, that doesn't mean that they are cured. So if they went back to their
+
+1101
+02:01:49,920 --> 02:01:53,920
+other diet, if they just went back to how they used to be eating, so they're not maintaining
+
+1102
+02:01:54,560 --> 02:02:01,200
+this attempt for weight reduction anymore, they generally will go back to where they were. So it's
+
+1103
+02:02:01,200 --> 02:02:06,560
+not that there's a durable resetting of the set point to like flipping a switch and resetting,
+
+1104
+02:02:07,200 --> 02:02:15,280
+like restarting your computer. It's more like the set point has been modified because it's in a
+
+1105
+02:02:15,280 --> 02:02:21,600
+different environment. And as long as you maintain that change, you can maintain the effect. But if
+
+1106
+02:02:21,680 --> 02:02:28,160
+the change goes away, then the effect goes away. Where do we think is the greatest window of
+
+1107
+02:02:28,160 --> 02:02:32,880
+vulnerability for someone? Just going back to these two hypothetical individuals who, and let's
+
+1108
+02:02:32,880 --> 02:02:37,440
+just now make it even more, let's take the genes out of it. Let's pretend they're identical twins.
+
+1109
+02:02:39,040 --> 02:02:47,040
+Born in the same household, clearly they both can, they both possess the genetic traits that would
+
+1110
+02:02:47,040 --> 02:02:54,640
+allow them in the right environment to become obese. But one of them, you know, let's just say
+
+1111
+02:02:54,640 --> 02:03:02,320
+had an injury in high school that kind of kept him home from playing sports. And he ended up
+
+1112
+02:03:02,320 --> 02:03:06,080
+playing more video games and kind of eating more. The other one was more active. So that explains
+
+1113
+02:03:06,080 --> 02:03:12,400
+why when they're now 40 years old, one's 40 pounds overweight, the other's not. Are there windows in
+
+1114
+02:03:12,960 --> 02:03:20,640
+a person's life when they are more susceptible to that resetting of a set point, a higher and
+
+1115
+02:03:20,640 --> 02:03:25,520
+higher set point, which it sounds to me like it never goes down. It's a monotonic crank, right?
+
+1116
+02:03:27,200 --> 02:03:34,000
+I don't really know. I honestly don't know. I mean, I think certainly there is a substantial
+
+1117
+02:03:34,000 --> 02:03:43,760
+potential for most people to gain weight at almost any point in life. So I'm not really sure.
+
+1118
+02:03:44,400 --> 02:03:50,240
+I think, I think one, and by the way, let me say that I think there are other people who could
+
+1119
+02:03:50,240 --> 02:03:56,240
+probably answer this question better than me. There are people who have studied the trajectory
+
+1120
+02:03:56,240 --> 02:04:02,800
+of weight gain over the life span. So part of the issue here is I'm just not that well
+
+1121
+02:04:02,800 --> 02:04:10,000
+first on this literature. But one thing I'll point out that is potentially interesting is
+
+1122
+02:04:10,720 --> 02:04:19,600
+there may be an influence of the intrauterine environment. So what's going on as you're
+
+1123
+02:04:19,600 --> 02:04:28,560
+developing inside the uterus. So there is evidence, I wouldn't call it strong, but there is evidence
+
+1124
+02:04:28,560 --> 02:04:36,160
+that women who undergo bariatric surgery for obesity and lose a lot of weight, their children
+
+1125
+02:04:36,160 --> 02:04:42,720
+are at a lower risk of developing obesity than women of similar weight who did not undergo
+
+1126
+02:04:42,720 --> 02:04:49,840
+bariatric surgery. And the effect size is large. Wait a second. Meaning two women of the same weight
+
+1127
+02:04:51,040 --> 02:04:57,120
+have children. One of them was, is that weight naturally. And the other one is weight reduced
+
+1128
+02:04:57,120 --> 02:05:05,920
+at that weight secondary to gastric bypass. No, no. So think about two women with severe obesity.
+
+1129
+02:05:05,920 --> 02:05:13,040
+Okay. Okay. Yeah. Yeah. One of them has gastric bypass. Yep. Okay. After that surgery, they both
+
+1130
+02:05:13,040 --> 02:05:17,680
+have children. But starting from different weights, obviously, because the gastric bypass one is weight
+
+1131
+02:05:17,680 --> 02:05:25,440
+reduced. Okay. Yes. And the children of the woman who had the surgery and had previously lost weight
+
+1132
+02:05:25,520 --> 02:05:31,600
+before getting pregnant will have a lower risk of obesity. And again, I wouldn't call the evidence
+
+1133
+02:05:31,600 --> 02:05:36,000
+strong. And what if, what if she achieved, what if she achieved that weight loss without gastric
+
+1134
+02:05:36,000 --> 02:05:40,560
+bypass? So what if you had two women who were overweight and one of them lost weight through
+
+1135
+02:05:40,560 --> 02:05:50,560
+diet and nutrition, and then they got pregnant? I don't know. I am not aware of data on that.
+
+1136
+02:05:51,040 --> 02:05:57,520
+I would if you know, if you wanted me to guess, I would say it would probably be similar. But is
+
+1137
+02:05:58,400 --> 02:06:05,760
+gastric bypass? Does that have you know, is that really the same physiologically as
+
+1138
+02:06:08,720 --> 02:06:13,600
+the physiological situation that you get from diet and weight loss, diet and lifestyle?
+
+1139
+02:06:14,320 --> 02:06:18,480
+See, I don't I don't think it is I think I think gastric bypass is a unique situation
+
+1140
+02:06:19,440 --> 02:06:28,080
+where provided a person doesn't take in liquid calories. It's it's it's quite durable. The
+
+1141
+02:06:28,080 --> 02:06:35,920
+the Roux and why obviously liquid calories can completely disrupt the feedback mechanism there.
+
+1142
+02:06:37,680 --> 02:06:41,520
+Kind of similar, by the way, to a GLP one agonist. This actually kind of gets back to
+
+1143
+02:06:42,400 --> 02:06:49,520
+I've seen patients who take semiglutide who don't lose weight. And the way you can cheat
+
+1144
+02:06:49,520 --> 02:06:54,720
+semiglutide is to drink your calories. If you if you drink massive amounts of calories. Again,
+
+1145
+02:06:54,720 --> 02:06:57,600
+this is anecdotal. I don't think I don't know that this has been studied. I'm just saying this based
+
+1146
+02:06:57,600 --> 02:07:03,520
+on observing a number of patients. But, you know, if you continue to drink a lot of alcohol,
+
+1147
+02:07:03,520 --> 02:07:11,360
+if you continue to drink juices and things like that, you're you can sort of bypass some of the
+
+1148
+02:07:12,080 --> 02:07:17,040
+the the GLP one effect on the brain. It would seem that that's my only explanation for why I see that.
+
+1149
+02:07:18,480 --> 02:07:23,600
+And we do see that definitely with with with gastric bypass. So who knows about about what
+
+1150
+02:07:23,600 --> 02:07:30,560
+that would look what that would look like. I mean, what what advice or what insight comes from this
+
+1151
+02:07:30,560 --> 02:07:34,720
+as it pertains to a person who's listening to this? And by definition, half the people listening
+
+1152
+02:07:34,720 --> 02:07:40,800
+to this are probably at a body weight above where they want to be. What's the takeaway? Right? Is in
+
+1153
+02:07:40,880 --> 02:07:46,880
+terms of pregnancy? No, no, just in terms of overall weight loss. Like how how do we get
+
+1154
+02:07:46,880 --> 02:07:54,000
+you know, we're sitting here in this environment that is, you know, almost deliberately trying to
+
+1155
+02:07:54,000 --> 02:07:58,800
+put weight on us. We're not going to get any help from our ancestors because the reality of it is
+
+1156
+02:07:58,800 --> 02:08:03,600
+our ancestors didn't care if we gained weight. Quite happy to have us gain weight, actually.
+
+1157
+02:08:03,600 --> 02:08:10,400
+They just want to make sure we don't starve. And so what can they do? And more importantly,
+
+1158
+02:08:10,400 --> 02:08:16,720
+how do they keep it off? Because as you said, most people can lose weight. But the keeping it
+
+1159
+02:08:16,720 --> 02:08:27,440
+off is really it poses a challenge. Yeah, so I think that I'm going to take this as a question
+
+1160
+02:08:27,440 --> 02:08:36,400
+about on the individual level, which I assume is what you meant. Yeah. So I think that there are
+
+1161
+02:08:36,480 --> 02:08:47,360
+a couple of different things to think about. I think that for people who have, for people who have
+
+1162
+02:08:47,360 --> 02:08:56,720
+obesity, bottom mass index 3035, I think it's worthwhile to consider medical treatment. So
+
+1163
+02:08:56,720 --> 02:09:04,080
+something like some aglotide, for example, the tools that we have now are just way better than
+
+1164
+02:09:04,400 --> 02:09:11,920
+what they used to be. That's a separate topic we could talk about. But some aglotide, as far as we
+
+1165
+02:09:11,920 --> 02:09:21,280
+can tell, it's a very safe drug. It causes something like 18% weight loss, which is much
+
+1166
+02:09:21,280 --> 02:09:29,920
+better than the typical effect you're going to see in diet and lifestyle strategies. But like diet
+
+1167
+02:09:29,920 --> 02:09:34,400
+and lifestyle is something you have to maintain. So I think at this point, now that the tools are
+
+1168
+02:09:34,400 --> 02:09:39,920
+getting better, particularly now that the tools are getting better, I would recommend seeing an
+
+1169
+02:09:39,920 --> 02:09:49,680
+obesity medicine specialist, I think, for people who are experiencing substantially impaired quality
+
+1170
+02:09:49,680 --> 02:09:57,920
+of life or are really concerned about the health impacts. If we switch the focus to people who
+
+1171
+02:09:57,920 --> 02:10:03,120
+might just want to lose a few pounds or who are overweight, where they're not in as, perhaps not
+
+1172
+02:10:03,120 --> 02:10:13,440
+as serious a situation, I think the brain, so your appetite and your body fatness are very much
+
+1173
+02:10:13,440 --> 02:10:20,480
+regulated by your brain based on inputs that your brain is receiving. And so, and a lot of that is
+
+1174
+02:10:20,480 --> 02:10:26,880
+non-conscious. And so the approach that I like to take is to try to give the non-conscious brain
+
+1175
+02:10:27,520 --> 02:10:32,960
+signals that are going to be more consistent with your goals, signals that are going to tell your
+
+1176
+02:10:32,960 --> 02:10:40,320
+brain to regulate things in a more slimming direction. And that way you're not relying on
+
+1177
+02:10:40,880 --> 02:10:46,720
+heavy exercise of willpower all the time, which I don't think is really sustainable or effective
+
+1178
+02:10:46,720 --> 02:10:53,600
+for most people. You are, instead of setting up a scenario where you have these non-conscious
+
+1179
+02:10:53,600 --> 02:10:58,960
+urges that you're having to fight with your conscious brain, you're addressing the non-conscious
+
+1180
+02:10:58,960 --> 02:11:08,320
+urges directly so there is no fight. That's what I prefer. And so I think controlling these signals
+
+1181
+02:11:08,320 --> 02:11:13,440
+that your brain is receiving is really important and there are different ways to do that. One of
+
+1182
+02:11:13,440 --> 02:11:18,960
+them is to control your food environment, so the sensory cues in your environment that your brain
+
+1183
+02:11:18,960 --> 02:11:24,720
+is exposed to, whether there is food in your immediate vicinity, how tempting that food is,
+
+1184
+02:11:26,080 --> 02:11:31,520
+how hard you have to work for it. So like if you can just grab it and put it in your mouth,
+
+1185
+02:11:31,520 --> 02:11:38,080
+that's not as good as if you have to walk into a room and then peel an orange before you can eat it.
+
+1186
+02:11:38,720 --> 02:11:47,760
+Just little effort barriers like that. And then with the types of food we're eating,
+
+1187
+02:11:49,520 --> 02:12:00,160
+there's a wide variation in the number of calories that it takes to feel satisfied at a meal
+
+1188
+02:12:00,160 --> 02:12:07,760
+depending on what foods you're eating. So typically a typical person sits down and eats food
+
+1189
+02:12:07,760 --> 02:12:15,520
+until they feel satisfied and then they stop eating. That is the intuitive, typical, natural,
+
+1190
+02:12:15,520 --> 02:12:20,800
+easy way of interacting with food, but depending on what's on your plate, that point can be reached
+
+1191
+02:12:20,800 --> 02:12:26,880
+with vastly different numbers of calories. So if you're eating... So is the proximate sign
+
+1192
+02:12:26,880 --> 02:12:32,960
+of satiation more a gastric distension function in that immediate cessation mode?
+
+1193
+02:12:33,280 --> 02:12:43,520
+Oh, that's a great question. So okay, that is important. I can say that it's important,
+
+1194
+02:12:43,520 --> 02:12:49,360
+but if I were to assign what percentage of the effect is attributable to that,
+
+1195
+02:12:49,360 --> 02:12:55,360
+I don't know what percentage I would put on it. Is that more than 50%?
+
+1196
+02:12:55,360 --> 02:13:01,840
+I think it's a very complex system. The brain is receiving a lot of signals. Some of them are stomach
+
+1197
+02:13:01,840 --> 02:13:07,520
+distension. Some of them are signals from the small intestine about what the nutrient composition is.
+
+1198
+02:13:07,520 --> 02:13:16,640
+Some of them are simply sensory or sensory detection of food properties and stimulating
+
+1199
+02:13:17,840 --> 02:13:23,920
+your brain knows based on those sensory properties what the nutritional composition is.
+
+1200
+02:13:24,320 --> 02:13:29,040
+What the nutritional composition of the food is based on prior experience that it has stored.
+
+1201
+02:13:29,040 --> 02:13:35,280
+So there's a lot of stuff going on that contributes to ultimately that sensation of
+
+1202
+02:13:36,960 --> 02:13:45,280
+satiety. Satiation would be the proper term for it and satisfaction that causes us to end a meal.
+
+1203
+02:13:45,920 --> 02:13:52,560
+Certainly stomach distension is a biggie. So anyway, so that relates to calorie
+
+1204
+02:13:52,560 --> 02:14:00,000
+density, which is an important determinant of the satiating and satiety promoting properties of
+
+1205
+02:14:00,000 --> 02:14:05,920
+food. So in other words, how many calories are there per gram or per volume of this food?
+
+1206
+02:14:06,480 --> 02:14:12,640
+If you have a food that has more volume per calories, fills up your stomach more, it stimulates
+
+1207
+02:14:12,640 --> 02:14:19,760
+those stretch receptors more, that goes up to your brainstem and that's a signal that opposes
+
+1208
+02:14:19,760 --> 02:14:27,440
+further food intake. And then protein, so more protein is more satiating per calorie.
+
+1209
+02:14:30,480 --> 02:14:35,040
+Palatability, the better something tastes, the less it fills you up per calorie.
+
+1210
+02:14:35,920 --> 02:14:38,560
+And I'm actually not sure how to disentangle that from
+
+1211
+02:14:40,400 --> 02:14:47,280
+calorie density. Not sure how much of like what's the independent variable there and what's the
+
+1212
+02:14:47,280 --> 02:14:52,320
+dependent variable or is it some of both? I don't know the answer to that, but they're both
+
+1213
+02:14:52,320 --> 02:14:58,800
+strongly correlated with lower satiety. And I've also seen these experiments where people are
+
+1214
+02:14:58,800 --> 02:15:04,480
+drinking from a bowl or a cup and it's being refilled constantly versus one where it just
+
+1215
+02:15:04,480 --> 02:15:09,600
+kind of runs out. I mean, what are the differences in how much people consume based on just, I mean,
+
+1216
+02:15:09,600 --> 02:15:14,960
+I noticed this in myself, like I'm eating, I put a little too much in the bowl, but I eat it anyway,
+
+1217
+02:15:14,960 --> 02:15:18,800
+because it's like, oh, I got to finish this thing. And if I had finished it 10 bites earlier,
+
+1218
+02:15:18,800 --> 02:15:23,040
+I would have been totally happy. Again, I don't know how much that matters, right? Does that
+
+1219
+02:15:24,000 --> 02:15:28,880
+type of behavior factor in the long tail here or is that just an acute thing that is sort of
+
+1220
+02:15:28,880 --> 02:15:35,280
+irrelevant in terms of optimal weight maintenance? I think it's very plausible, but the problem is
+
+1221
+02:15:35,280 --> 02:15:40,960
+that stuff comes from Brian Wonsink and so it pretty much got blown up. He was the guy at Cornell
+
+1222
+02:15:41,040 --> 02:15:46,160
+that kind of, did he falsify a bunch of data or something? I don't think there is clear evidence
+
+1223
+02:15:46,160 --> 02:15:52,080
+that he falsified. I think there are at least- He hacked a lot of it pretty badly. Oh yeah,
+
+1224
+02:15:52,080 --> 02:15:58,480
+really badly. And there are some data where it's not clear where they came from and they're very
+
+1225
+02:15:58,480 --> 02:16:06,400
+implausible. So I don't know how strong the evidence is that there was actual fabrication.
+
+1226
+02:16:06,400 --> 02:16:10,160
+I think there may have been some evidence of that. I don't know where that landed,
+
+1227
+02:16:10,160 --> 02:16:16,720
+but basically there were a bunch of problems and yeah, he got blown up. So I would say that
+
+1228
+02:16:16,720 --> 02:16:22,960
+anything that has his name on it at this point is pretty suspect. And the refilling soup bowls was
+
+1229
+02:16:22,960 --> 02:16:29,120
+one of his classic experiments. And I'm just going to disclose that I did cite one of his studies in
+
+1230
+02:16:29,120 --> 02:16:34,320
+my book. So I wasn't immune from getting taken in by some of this stuff.
+
+1231
+02:16:34,320 --> 02:16:41,680
+One of the things that going back to the sort of the energy balance model versus the carbohydrate
+
+1232
+02:16:41,680 --> 02:16:49,040
+insulin model, one of the arguments in favor of the carbohydrate insulin model is other examples
+
+1233
+02:16:49,040 --> 02:16:56,560
+of growth that are regulated from the hormones out to the intake of energy. And I was thinking
+
+1234
+02:16:56,560 --> 02:17:02,560
+about this the other day because I measure my kids, I have three kids and every three months,
+
+1235
+02:17:02,560 --> 02:17:09,280
+each of them gets a little tick on their closet door. And I don't know if you have kids or if
+
+1236
+02:17:09,280 --> 02:17:12,880
+you've done this, but any, I think anybody listening to this who measures their kids at regular
+
+1237
+02:17:12,880 --> 02:17:19,600
+intervals, I don't know why I picked three months, but four times a year, the non-linearity of this
+
+1238
+02:17:19,600 --> 02:17:26,720
+is unbelievable, right? They'll go little, little jump, jump, slow down, jump. Like it just,
+
+1239
+02:17:26,720 --> 02:17:32,560
+it's pretty intense. And that growth correlates with how much they seem to eat during that
+
+1240
+02:17:32,560 --> 02:17:39,520
+interval period. Like right now, my youngest who's not yet five, I think he eats more than the other
+
+1241
+02:17:39,520 --> 02:17:46,080
+two combined. And I'm probably not being facetious. He goes to a preschool or a pre-K where they give
+
+1242
+02:17:46,080 --> 02:17:51,840
+them breakfast there. He eats a breakfast at home, he eats two breakfasts at home. Then he goes there
+
+1243
+02:17:51,840 --> 02:17:55,520
+and still eats more than all the other kids. I mean, the kid's just an eating machine
+
+1244
+02:17:56,320 --> 02:18:03,360
+and he's growing commensurate with that. I think most people would agree he's not growing because
+
+1245
+02:18:03,360 --> 02:18:06,960
+of how much he's eating. He's eating that much because of how much he's growing.
+
+1246
+02:18:08,000 --> 02:18:10,640
+So he's responding to growth hormone and all these other things.
+
+1247
+02:18:12,880 --> 02:18:18,000
+And, and I think that's basically the central thrust of this carbohydrate insulin model, right?
+
+1248
+02:18:18,000 --> 02:18:25,120
+Which is whether it be sleep disturbances that increase, you know, or decrease insulin signaling
+
+1249
+02:18:25,120 --> 02:18:32,400
+or foods that stimulate insulin. They're driving that hormonal environment that is driving the
+
+1250
+02:18:32,400 --> 02:18:42,320
+increase in food intake. But I think experimentally, what can we say about the differences in these
+
+1251
+02:18:42,320 --> 02:18:47,760
+models? And I guess I think experimentally, you have to think about this in terms of animals and
+
+1252
+02:18:47,760 --> 02:18:54,560
+humans, right? It seems to me that the balance of experimental data would suggest the energy
+
+1253
+02:18:54,560 --> 02:19:00,560
+balance model is easier to explain. Would you agree with that? I think so. Although I do want
+
+1254
+02:19:00,560 --> 02:19:08,720
+to acknowledge the fact that they're not mutually exclusive. So I think it has not been ruled out
+
+1255
+02:19:08,720 --> 02:19:19,040
+that there could be a contribution from that type of a model. Why is this so important? Is it so
+
+1256
+02:19:19,040 --> 02:19:26,560
+important? Is it important to understand this? I suppose the implications have to come down to how
+
+1257
+02:19:26,560 --> 02:19:36,960
+we treat the condition, right? I think that it is important in the sense that if you understand the
+
+1258
+02:19:36,960 --> 02:19:44,720
+mechanism of something, it makes it easier to address. And, you know, if you look at the history
+
+1259
+02:19:44,800 --> 02:19:53,360
+of obesity drugs, weight loss drugs, I should say, most of them were discovered in entirely haphazard
+
+1260
+02:19:53,360 --> 02:20:02,960
+ways. Like dinitrophenol was a high explosive that was used in World War One. And somebody figured out
+
+1261
+02:20:02,960 --> 02:20:08,800
+if you take it, it makes you lose weight. And it does so by increasing your energy expenditure. So
+
+1262
+02:20:08,800 --> 02:20:16,400
+some people managed to cook themselves. And like literally from the inside out. And then you look
+
+1263
+02:20:16,400 --> 02:20:21,760
+at other drugs and most of them are psychiatric drugs. They're just repurposed psychiatric drugs
+
+1264
+02:20:22,480 --> 02:20:26,640
+that just happen to cause weight loss. Some psychiatric drugs cause weight gain,
+
+1265
+02:20:26,640 --> 02:20:30,720
+some cause weight loss. And the ones that cause weight loss, we just said, hey,
+
+1266
+02:20:30,720 --> 02:20:36,560
+can we repurpose these? Can we combine them to accentuate the effect? And that was kind of
+
+1267
+02:20:36,560 --> 02:20:44,080
+most of the history of weight loss drugs. And now for the first time, we have drugs
+
+1268
+02:20:45,120 --> 02:20:50,800
+that are safe and effective, FDA approved. I should say we have a drug,
+
+1269
+02:20:51,520 --> 02:20:58,640
+Wegavie, AKA, semaglutide, that is safe and effective and was developed for this purpose
+
+1270
+02:20:58,640 --> 02:21:04,320
+based on mechanism from the bottom up. So it wasn't just a haphazard discovery. So I think
+
+1271
+02:21:04,480 --> 02:21:13,360
+we are in a new era now where we are actually designing weight loss drugs based on mechanism.
+
+1272
+02:21:13,360 --> 02:21:19,920
+And so I think based on an understanding of the biological mechanisms of regulation. And so I
+
+1273
+02:21:19,920 --> 02:21:29,280
+think because we're out of the haphazard era and into a more targeted refined era, I think that's
+
+1274
+02:21:29,520 --> 02:21:33,680
+we're in a place where it becomes really important to understand mechanism. And in
+
+1275
+02:21:33,680 --> 02:21:40,640
+cardiovascular medicine, I'm sure you recognize this, there are incredible insights that have
+
+1276
+02:21:40,640 --> 02:21:46,320
+been coming out of the genetics that have resulted in therapies like the PCS skin inhibitors.
+
+1277
+02:21:46,320 --> 02:21:52,080
+Thank you. Thank you. I always mix the letters up. That's a great example of it where we first
+
+1278
+02:21:52,080 --> 02:21:57,360
+understood the biology and then we came out with the therapy and it works awesome. And so
+
+1279
+02:21:58,320 --> 02:22:04,160
+I think that's the era we are getting into now with obesity. So I think it actually is
+
+1280
+02:22:04,160 --> 02:22:10,240
+really important to understand the mechanism. I think my prediction is over time, these models
+
+1281
+02:22:10,240 --> 02:22:20,160
+will have more and more in common. I mean, one of the arguments against at least the way the
+
+1282
+02:22:20,160 --> 02:22:25,520
+carbohydrate insulin model is typically played out is actually given by semaglutide, which raises
+
+1283
+02:22:25,840 --> 02:22:33,120
+insulin in the short run. So one of the things we always see when we put patients on this drug is
+
+1284
+02:22:33,120 --> 02:22:37,360
+they're going to lose a ton of weight and their insulin levels go up slightly. Now, this tends to
+
+1285
+02:22:37,360 --> 02:22:41,600
+resolve over time. So we're long enough period of time we tend to see insulin come down. But in the
+
+1286
+02:22:41,600 --> 02:22:48,960
+short run for about three months, we see elevations in insulin. And we also know that it's
+
+1287
+02:22:48,960 --> 02:22:54,160
+increasing insulin sensitivity. So they're getting really the double effect. So we're
+
+1288
+02:22:54,240 --> 02:23:00,400
+going to see a double effect. But it's hard to reconcile that with a model that would state
+
+1289
+02:23:01,200 --> 02:23:08,640
+insulin must go down for weight to go down, for fat to go down. Yeah, I mean, I think that model
+
+1290
+02:23:08,640 --> 02:23:14,560
+is just not even plausible at this point. I think if you want to say, is it a factor? I think that's
+
+1291
+02:23:14,560 --> 02:23:18,560
+still in play. But to say like this is the determinant, I just don't even think that's
+
+1292
+02:23:18,560 --> 02:23:26,880
+plausible at this point. And yeah, I mean, this class of drugs was identified based on its ability
+
+1293
+02:23:26,880 --> 02:23:35,520
+to increase glucose stimulated insulin secretion. That is what GLP one does. It's an incretin hormone.
+
+1294
+02:23:36,240 --> 02:23:42,560
+And so that was the original purpose and why it was used in type two diabetes management, because
+
+1295
+02:23:42,560 --> 02:23:47,200
+it gives people more insulin around meals when they really need it. Because, you know, if you
+
+1296
+02:23:47,200 --> 02:23:53,760
+just inject insulin, that's a really kind of crude way to manage your blood glucose. It's not
+
+1297
+02:23:53,760 --> 02:24:00,160
+time specific. So GLP one gave it that much needed time specificity and also had some other
+
+1298
+02:24:00,160 --> 02:24:07,600
+beneficial effects. And it was only after that that they figured out that it has this big impact
+
+1299
+02:24:07,600 --> 02:24:14,960
+on food intake and body weight. So yeah, I mean, absolutely, I agree with that. And yeah, there's
+
+1300
+02:24:15,440 --> 02:24:24,640
+just a lot of other literature. I think, you know, I want to talk about, I want to like throw the
+
+1301
+02:24:24,640 --> 02:24:32,560
+hypothesis of bone though. I think that if you look, so if you look at genome wide association
+
+1302
+02:24:32,560 --> 02:24:39,120
+studies on body mass index, they're all about the brain, largely about the brain. If you look at
+
+1303
+02:24:39,120 --> 02:24:48,080
+genome wide association studies on body fat distribution, so you're getting rid of the BMI,
+
+1304
+02:24:48,080 --> 02:24:54,000
+you're controlling for BMI and you're saying, where is that fat on the body? Those have more
+
+1305
+02:24:54,000 --> 02:25:01,920
+of an insulin signal. So insulin pops up pretty prominently in those. And so I think there's still
+
+1306
+02:25:01,920 --> 02:25:09,680
+a world and you know, the distribution of fat on the body seems related to insulin signaling.
+
+1307
+02:25:09,680 --> 02:25:16,080
+The total amount of fat on the body seems more related to energy intake. If I remember what we
+
+1308
+02:25:16,080 --> 02:25:20,080
+talked about really at the beginning was it's not just regulated by the brain, but it's on the,
+
+1309
+02:25:20,080 --> 02:25:25,760
+it's more on the intake side of the equation. Yeah. And I would say, you know, even to add a
+
+1310
+02:25:25,760 --> 02:25:30,720
+little bit of extra nuance on top of that is we're really talking about body mass index.
+
+1311
+02:25:31,440 --> 02:25:40,160
+So, you know, if you consider this idea of energy partitioning, which the carbohydrate insulin model
+
+1312
+02:25:40,160 --> 02:25:47,120
+is all about, there could be some of that flying under the radar of body mass index. And so I don't
+
+1313
+02:25:47,120 --> 02:25:52,480
+think the door is closed to that. And the fact that it's showing up in body fat distribution,
+
+1314
+02:25:52,480 --> 02:25:59,920
+and now, you know, David Ludwig is publishing studies suggesting that there could be a
+
+1315
+02:26:00,000 --> 02:26:06,640
+correlations between baseline insulin secretion and how much, what proportion of fat loss is lost
+
+1316
+02:26:06,640 --> 02:26:14,160
+as fat versus lean tissue. I think, you know, there's a world in which there could be some
+
+1317
+02:26:14,880 --> 02:26:21,120
+energy partitioning effect. I just don't think it explains obesity, because obesity is not just
+
+1318
+02:26:21,120 --> 02:26:27,040
+energy partitioning. You have a bigger body, you're eating more energy, you're burning more energy,
+
+1319
+02:26:27,040 --> 02:26:32,400
+you have more lean mass, more fat. That phenotype is not explained by energy partitioning.
+
+1320
+02:26:33,440 --> 02:26:40,000
+But could there be some subtle energy partitioning phenotype that is operating also?
+
+1321
+02:26:41,440 --> 02:26:43,520
+Maybe. So that's kind of like my
+
+1322
+02:26:47,760 --> 02:26:52,880
+like view of how there could be a way that this has validity.
+
+1323
+02:26:52,880 --> 02:26:56,240
+Yeah, it's interesting. And you said something earlier about
+
+1324
+02:26:58,000 --> 02:27:02,080
+the more you restrict carbohydrate or the more you restrict fat, typically the more
+
+1325
+02:27:02,080 --> 02:27:06,800
+weight you're going to lose, the sweet spot, if you want to gain weight, is to have lots of both of
+
+1326
+02:27:06,800 --> 02:27:12,320
+them. Is that how much of that do you think comes down to the hedonic component of how good ice
+
+1327
+02:27:12,320 --> 02:27:19,040
+cream tastes, the ubiquity of food choices? Or do you think there's something very unique
+
+1328
+02:27:19,040 --> 02:27:25,040
+physiologically going on? You know, you've probably heard of the potato diet. I mean,
+
+1329
+02:27:25,040 --> 02:27:30,480
+all these diets just sound so stupid. But I mean, again, it's sort of one of these things. Like if
+
+1330
+02:27:30,480 --> 02:27:34,800
+you talk to somebody who just mainlines potatoes all day, they lose weight like crazy, right?
+
+1331
+02:27:36,480 --> 02:27:42,080
+Yep, absolutely. And and this has been shown really clearly in animal models, which have the
+
+1332
+02:27:42,080 --> 02:27:47,520
+advantage of you can get really tight control for a large portion of the animal's lifespan.
+
+1333
+02:27:49,040 --> 02:27:56,240
+John Speakman published a study that is the best one that's been done in animals where 29 different
+
+1334
+02:27:56,240 --> 02:28:01,840
+diets, I believe, and five different strains of mice, they systematically varied carbohydrate to
+
+1335
+02:28:01,840 --> 02:28:08,480
+fat ratio in the diet. And they said, how does that interact with body fatness? And what they saw was
+
+1336
+02:28:10,560 --> 02:28:16,960
+if you start with animals that are on a low fat, high carbohydrate diet, and you start replacing
+
+1337
+02:28:16,960 --> 02:28:22,800
+that carb fat, they get fatter and fatter and fatter and fatter and fatter until you hit about
+
+1338
+02:28:22,800 --> 02:28:30,000
+60%. And then you keep increasing the fat and decreasing carbohydrate, they get slimmer again.
+
+1339
+02:28:30,720 --> 02:28:36,080
+And there are studies published mice lose weight on a ketogenic diet, just like humans do you can
+
+1340
+02:28:36,080 --> 02:28:41,440
+put mice on the diet, you can put rats on the diet, they lose weight. So it's really in the middle
+
+1341
+02:28:42,400 --> 02:28:47,360
+that the problem is. And which is ironic, because that's where the standard American diet is,
+
+1342
+02:28:47,360 --> 02:28:52,960
+if you just walk into the grocery store and just eat without any filtering, you will eat that wrong
+
+1343
+02:28:52,960 --> 02:28:58,880
+combination of fat and carbohydrate. Exactly. And if you look anywhere in the world where people
+
+1344
+02:28:58,880 --> 02:29:04,320
+are rich enough and industrialized enough to eat whatever they want, that's generally what you're
+
+1345
+02:29:04,320 --> 02:29:10,960
+going to see. At least after a couple decades of, you know, cultural adaptation, you're going to see
+
+1346
+02:29:10,960 --> 02:29:14,800
+pretty equal proportions of fat and carbohydrate. That's what you see in most parts of the world.
+
+1347
+02:29:15,440 --> 02:29:24,640
+And so, so why is that? Well, I think there are some hypotheses that can be considered and,
+
+1348
+02:29:25,280 --> 02:29:29,280
+and let me just be clear here that this is speculative. So I don't want to present this
+
+1349
+02:29:29,280 --> 02:29:35,440
+as the answer. Because I don't think we really know. But I think this is primarily a
+
+1350
+02:29:36,000 --> 02:29:43,440
+empirical observation that we're trying to explain. But some explanations, you could say maybe it's a
+
+1351
+02:29:43,440 --> 02:29:51,040
+physiological effect. So if you're not eating much carbohydrate, your body has to work a little bit
+
+1352
+02:29:51,040 --> 02:29:57,280
+harder to synthesize glucose, for example. So there are some physiological ways in which you're
+
+1353
+02:29:57,280 --> 02:30:04,240
+kind of increasing the demands a little bit, metabolic demands. Same with very low
+
+1354
+02:30:06,080 --> 02:30:11,200
+fat diets. You're slightly increasing metabolic demands. You have to synthesize,
+
+1355
+02:30:11,200 --> 02:30:18,320
+you're going to synthesize more fatty acids. And, but I don't know, I don't think that's,
+
+1356
+02:30:18,320 --> 02:30:23,440
+I don't think that's a great explanation because those metabolic demands are very small.
+
+1357
+02:30:23,440 --> 02:30:30,000
+In Speakman's experiments, did these were all ad libitum, I assume? Yes. So were they just eating,
+
+1358
+02:30:30,000 --> 02:30:34,800
+were they also significantly eating less at the extremes in terms of total energy intake? And were
+
+1359
+02:30:34,800 --> 02:30:42,320
+they controlled for protein? Yes. Yes. I think the answer is yes to both of those, if I'm recalling
+
+1360
+02:30:42,320 --> 02:30:51,680
+correctly. And although, you know, I do want to put a little asterisk on that, that sometimes there
+
+1361
+02:30:51,760 --> 02:30:58,640
+is not a perfectly tight correlation in rodent studies between energy intake and fat gain. So you
+
+1362
+02:30:58,640 --> 02:31:04,960
+can get some results where it's not fully explained by that, or in some cases not explained at all.
+
+1363
+02:31:06,080 --> 02:31:13,520
+So yeah, where was I? What was I saying? Lost my train of thought there.
+
+1364
+02:31:13,760 --> 02:31:22,000
+Well, I think we're still trying to reconcile why at the extremes your, what's the count? Is it,
+
+1365
+02:31:22,000 --> 02:31:27,600
+is it all being driven by less intake or is there some increased metabolic cost of living at the
+
+1366
+02:31:27,600 --> 02:31:35,760
+extremes? Yeah. So the physiology would be one and then the other would be just the neurobiology
+
+1367
+02:31:35,760 --> 02:31:41,600
+and the food intake. And I think that's the most satisfying explanation we have right now is that
+
+1368
+02:31:41,600 --> 02:31:49,520
+it is simply more appealing to eat food, more motivating to eat food that has both carbohydrate
+
+1369
+02:31:49,520 --> 02:31:55,120
+and fat. I'm not saying I have strong evidence that that's the explanation, but that's kind of
+
+1370
+02:31:55,120 --> 02:32:02,080
+the only thing I can think of that explains it. I mean, why else? The metabolic cost of being at
+
+1371
+02:32:02,080 --> 02:32:07,920
+the extremes should be pretty modest. It can't explain effects of hundreds of calories a day,
+
+1372
+02:32:08,640 --> 02:32:14,160
+which are, which is what's observed. When you put people on a very low fat or a very low carb diet,
+
+1373
+02:32:14,720 --> 02:32:20,880
+their energy intake declines by hundreds of calories a day right away automatically. And so
+
+1374
+02:32:24,080 --> 02:32:33,040
+it's yeah, that's the only thing I can think of is that essentially the food has less implicit
+
+1375
+02:32:33,120 --> 02:32:41,040
+value to reward regions of the brain because of how our motivation is determined for certain
+
+1376
+02:32:41,040 --> 02:32:45,840
+types of food properties. The food is intrinsically less motivating and so we eat less of it.
+
+1377
+02:32:46,560 --> 02:32:52,560
+That's my best guess as to the main reason. And it's interesting. I mean, I think it's not very
+
+1378
+02:32:52,560 --> 02:32:59,600
+difficult to take your carbohydrate intake down to five to 7% like a ketogenic diet will do that.
+
+1379
+02:32:59,600 --> 02:33:04,880
+And it's a pretty easy diet to adhere to, especially today, harder 10 years ago when
+
+1380
+02:33:04,880 --> 02:33:09,920
+there were fewer sort of food choices geared towards it. But if I mean, I'm not necessarily
+
+1381
+02:33:09,920 --> 02:33:14,960
+saying it's an overly pleasant diet, but it's not difficult. You don't have to put a huge amount
+
+1382
+02:33:14,960 --> 02:33:19,360
+of effort to eat 5% of your calories and carbohydrates today. I don't even know how
+
+1383
+02:33:19,360 --> 02:33:25,360
+one would go about getting only 5% of their calories from fat. That is a much harder thing
+
+1384
+02:33:25,360 --> 02:33:31,840
+to do, is it not? Yeah, I think it would be very difficult to get that low. When you look at
+
+1385
+02:33:32,880 --> 02:33:41,040
+studies that test low fat diets, some of the lowest fat diets I've seen were in the kind of 10%
+
+1386
+02:33:41,920 --> 02:33:52,560
+fat range. I mean, even foods like whole wheat and corn have a fair amount of fat and not a
+
+1387
+02:33:52,560 --> 02:33:58,400
+lot of fat, but I don't remember exactly what it is, but not far off from 10% just from those
+
+1388
+02:33:58,400 --> 02:34:05,360
+foods that we would call starch foods. Yeah, so I think it is quite challenging to get that low
+
+1389
+02:34:06,080 --> 02:34:15,600
+in fat. You can do it with more refined diets like semi purified diets. It's not so hard to do that
+
+1390
+02:34:15,600 --> 02:34:22,000
+in rodent studies, but to design a diet that someone will actually eat as a human in a,
+
+1391
+02:34:22,320 --> 02:34:26,800
+randomized controlled trial or something at that level of fat intake, I think is pretty challenging.
+
+1392
+02:34:27,360 --> 02:34:35,280
+Yeah, I think 10% is, even 15% is not easy. I mean, you're really working hard to do it.
+
+1393
+02:34:36,480 --> 02:34:40,640
+I'm not convinced that there are great health benefits to that either. Probably better than
+
+1394
+02:34:40,640 --> 02:34:47,520
+being in the messy middle, but it's pretty hard to do. Last thing I wanted to ask you about was
+
+1395
+02:34:47,520 --> 02:34:51,680
+red pen reviews. Tell folks a little bit about how long you've been doing that and what's the
+
+1396
+02:34:51,680 --> 02:34:59,200
+frequency with which you guys put these reviews out. Yeah, so red pen reviews is a 501c3 nonprofit
+
+1397
+02:34:59,200 --> 02:35:06,400
+that publishes the most informative, consistent, and unbiased reviews of popular nutrition books
+
+1398
+02:35:06,400 --> 02:35:14,080
+available. The thing that really makes us unique is that we have developed this semi-quantitative
+
+1399
+02:35:15,040 --> 02:35:22,880
+review method, structured review method, that we apply to each book that yields numerical scores
+
+1400
+02:35:22,880 --> 02:35:30,640
+for scientific accuracy, reference accuracy, and healthfulness. Essentially what this does is,
+
+1401
+02:35:31,680 --> 02:35:37,040
+it allows us to apply the same rigorous method to all books such that you know
+
+1402
+02:35:38,720 --> 02:35:43,360
+where it's coming from, where the numbers are coming from, and you can compare and in
+
+1403
+02:35:43,360 --> 02:35:49,760
+apples to apples way between different books. You could say, I want to know the best book on
+
+1404
+02:35:49,760 --> 02:35:56,800
+topic X, and you can literally compare the scores of two books, apples to apples, and choose the one
+
+1405
+02:35:56,800 --> 02:36:04,400
+that has the highest, let's say, scientific accuracy. Go ahead. I was going to say, how often
+
+1406
+02:36:04,400 --> 02:36:08,400
+do you do... This is a pretty labor intensive process, so how many do you bang out in a year?
+
+1407
+02:36:08,400 --> 02:36:20,160
+It takes us about 40 to 100 hours per book, and we have been operating since 2019, and we have 14
+
+1408
+02:36:20,160 --> 02:36:28,880
+reviews. I will say that our pace was quite slow last year due to COVID-related time challenges,
+
+1409
+02:36:29,520 --> 02:36:36,480
+so we're on target to have probably six to eight reviews published this year.
+
+1410
+02:36:40,000 --> 02:36:45,280
+We have some things going on behind the scenes that could potentially greatly accelerate that pace
+
+1411
+02:36:45,840 --> 02:36:54,080
+we're seeking funding. How many folks do you have that review the books? We have a total of,
+
+1412
+02:36:54,160 --> 02:37:00,480
+I believe, eight reviewers right now. Each reviewer might do one a year on average.
+
+1413
+02:37:01,520 --> 02:37:05,920
+On average, yeah, but the way it turns out is that some people do the majority of reviews,
+
+1414
+02:37:05,920 --> 02:37:11,920
+and then other people only rarely do a review. How do you guys select books for review?
+
+1415
+02:37:13,360 --> 02:37:19,920
+We are trying to maximize our impact on public health knowledge and public health, so we really
+
+1416
+02:37:19,920 --> 02:37:25,360
+try to pick the books that are most impactful right now. We're looking for books that are
+
+1417
+02:37:25,360 --> 02:37:30,080
+selling the most. We're looking for books that are having the most social media engagement. We're
+
+1418
+02:37:30,080 --> 02:37:38,480
+looking for books from authors that are particularly influential, so we're really trying to give people
+
+1419
+02:37:38,480 --> 02:37:44,640
+information about the things that they are already interested in. What are some of the
+
+1420
+02:37:44,640 --> 02:37:48,080
+recent ones that you guys have published? Which books? Obviously, we talked about The Carnivore
+
+1421
+02:37:48,080 --> 02:37:53,600
+Code as one of them. Yeah, so that's one of the recent ones. Let's see, I'm just going to pull it
+
+1422
+02:37:53,600 --> 02:38:05,280
+up. Redpenreviews.org. The most recent one we did was The Volumetrics Diet, Ultimate Volumetrics
+
+1423
+02:38:05,280 --> 02:38:13,280
+Diet by Barbara Rolls. Before that, we did The Carnivore Code. I was the primary reviewer on that.
+
+1424
+02:38:13,360 --> 02:38:19,920
+We have a primary reviewer and a peer reviewer. Before that, Eat, Drink and Be Healthy by Walter
+
+1425
+02:38:19,920 --> 02:38:28,080
+Willett. Before that, Eat Fat Gets In by Mark Hyman. That's a taste of some of the ones that we've been
+
+1426
+02:38:28,080 --> 02:38:35,520
+doing. Given that you've been doing this for three years now, anything surprised you so far? Were
+
+1427
+02:38:35,520 --> 02:38:40,160
+there any that you went in thinking, yeah, this seems like it's going to be a pretty good book,
+
+1428
+02:38:40,160 --> 02:38:43,840
+and you came away thinking, no, they really didn't get this right, and vice versa, where you
+
+1429
+02:38:43,840 --> 02:38:47,200
+went into it thinking this is going to be nonsense, and you came out thinking, actually, they've
+
+1430
+02:38:47,200 --> 02:38:56,080
+changed my view on something? Yeah, absolutely. I think one of the things that has really come into
+
+1431
+02:38:56,080 --> 02:39:04,640
+focus through the course of this process is that credentials are not a reliable correlate of
+
+1432
+02:39:04,640 --> 02:39:14,720
+information quality. There are people that have MDs and, like David Perlmutter, he's a board
+
+1433
+02:39:14,720 --> 02:39:21,600
+certified neurologist, and his book Grain Brain got the lowest scientific accuracy score of any
+
+1434
+02:39:21,600 --> 02:39:27,040
+book we've reviewed. I'm not trying to pick on anybody in particular, but that's just an example
+
+1435
+02:39:27,040 --> 02:39:33,840
+of the credentials not lining up with the scientific accuracy. We've seen that in many cases.
+
+1436
+02:39:34,640 --> 02:39:41,040
+I would say probably there is some correlation there, so I think credentials, they're not
+
+1437
+02:39:41,040 --> 02:39:48,160
+completely meaningless, but once you get into people who are highly credentialed, it's just highly
+
+1438
+02:39:48,160 --> 02:39:53,680
+variable. Some of their books do really well, some of their books do really poorly. That's been
+
+1439
+02:39:54,400 --> 02:40:01,680
+somewhat of a surprise to me. I think most people who are educated in this sphere know that there's
+
+1440
+02:40:01,680 --> 02:40:09,680
+a lot of low quality information in the sphere, but I think you can't help but be shocked sometimes
+
+1441
+02:40:09,680 --> 02:40:17,920
+at just how bad the situation is. Even people, and we know in science there's a replicability
+
+1442
+02:40:17,920 --> 02:40:24,640
+crisis, so scientists are not infallible. There's problems like this even in this peer-reviewed
+
+1443
+02:40:24,640 --> 02:40:31,760
+literature, but once you get outside of the sphere where there's accountability and you're
+
+1444
+02:40:31,760 --> 02:40:35,760
+in the public sphere where there's very little accountability, it's like a free-for-all.
+
+1445
+02:40:38,080 --> 02:40:44,720
+Many people, even those who are well credentialed, share information that is very low quality and
+
+1446
+02:40:44,720 --> 02:40:51,520
+there's very, most people have very little ability to detect it. Even somebody like me who I consider
+
+1447
+02:40:51,520 --> 02:41:00,240
+myself knowledgeable, at least in some areas, I can get taken in too. Maybe I might read a book
+
+1448
+02:41:00,240 --> 02:41:04,320
+and it seems compelling. I'll tell you the carnivore code. It did worse than I expected.
+
+1449
+02:41:05,280 --> 02:41:10,960
+As I was reading it, there were parts where I was like, yeah, this is interesting. I'm going to
+
+1450
+02:41:10,960 --> 02:41:18,000
+look into this. This is kind of making sense to me. It wasn't until I started checking the citations
+
+1451
+02:41:18,000 --> 02:41:22,000
+and doing scientific literature searches where I was just like, no, this is really not
+
+1452
+02:41:24,720 --> 02:41:33,120
+the best interpretation that an unbiased person would come to looking at this body of evidence.
+
+1453
+02:41:37,280 --> 02:41:44,960
+I think there have been many surprises and most of them were updates in the direction of thinking
+
+1454
+02:41:44,960 --> 02:41:49,200
+that the state of popular nutrition books is actually even worse than I thought.
+
+1455
+02:41:51,200 --> 02:41:56,320
+Well, it's interesting. I'm in the process of trying to finish my book and one of the things
+
+1456
+02:41:56,320 --> 02:42:05,440
+that is so daunting is the fact-checking process. I don't know what an author relies on because
+
+1457
+02:42:06,400 --> 02:42:09,840
+I could certainly never rely on my publisher to fact-check my book.
+
+1458
+02:42:10,480 --> 02:42:19,040
+It's too technical. They don't have people with the knowledge to do the fact-check. I have to have
+
+1459
+02:42:20,240 --> 02:42:26,080
+analysts who work for me fact-check, but they have to be analysts who had no help in doing the
+
+1460
+02:42:26,080 --> 02:42:32,400
+research for the book because you have to get fresh eyes on it. I think that means my book will come
+
+1461
+02:42:32,400 --> 02:42:37,520
+out more accurate than it probably would otherwise. Yet that's very difficult. I mean,
+
+1462
+02:42:38,480 --> 02:42:44,960
+I just know there's going to be something we get wrong. We're going to either incorrectly cite
+
+1463
+02:42:44,960 --> 02:42:49,520
+something or we're going to have misinterpreted it or something like that. I feel like we're
+
+1464
+02:42:50,400 --> 02:42:57,760
+in as good a position as almost anybody can be given the size of our team. Yet it's still very
+
+1465
+02:42:57,760 --> 02:43:03,920
+daunting. There's something about a book that is daunting in the sense that, and you know this,
+
+1466
+02:43:04,000 --> 02:43:08,480
+you've written a book from the time you put your last, last, last edit into a book until it hits
+
+1467
+02:43:08,480 --> 02:43:13,200
+the shelves is about eight months. Something's going to change in those eight months. Even if
+
+1468
+02:43:13,200 --> 02:43:19,120
+it was perfect the day you finished it, which I think is impossible, eight months later it's not,
+
+1469
+02:43:19,840 --> 02:43:28,160
+let alone two years later. Yeah, absolutely. I agree with that. Every book's going to have
+
+1470
+02:43:28,160 --> 02:43:34,800
+mistakes. The process that you described is, I guarantee, far more rigorous than
+
+1471
+02:43:36,400 --> 02:43:45,120
+most books that are being published in the sphere. As you said, publishers do not impose a filter
+
+1472
+02:43:45,120 --> 02:43:51,760
+on the contents of these books. I mean, very little of one. They just simply do not view it as their
+
+1473
+02:43:51,760 --> 02:43:58,720
+job to police the claims of authors. If somebody comes in with an MD, for example, their position
+
+1474
+02:43:58,720 --> 02:44:02,960
+is, and this is literally what my publisher told me, they're like, you're the expert,
+
+1475
+02:44:02,960 --> 02:44:16,160
+we're not experts, we are not here to check your work. For me, my process was, I sent each chapter
+
+1476
+02:44:16,160 --> 02:44:22,160
+out to experts in the field and had them look at it. Does that mean my book has no mistakes?
+
+1477
+02:44:22,160 --> 02:44:30,160
+Absolutely not. I've been cataloging my mistakes on my mistakes page on my website, the ones that
+
+1478
+02:44:30,160 --> 02:44:36,560
+I know about. I think that's inevitable. I've accepted the fact that that's going to be the
+
+1479
+02:44:36,560 --> 02:44:42,800
+only way I'll sleep at night is just acknowledging 5% of this stuff is going to be wrong. Let's
+
+1480
+02:44:42,800 --> 02:44:47,520
+collectively figure out what it is and let's create a repository where we can put the updates.
+
+1481
+02:44:47,520 --> 02:44:52,000
+I think that's absolutely the best attitude because not only is that a truth seeking attitude,
+
+1482
+02:44:52,000 --> 02:45:00,240
+but you are putting yourself in a position where you're not presenting yourself as someone who has
+
+1483
+02:45:00,240 --> 02:45:06,000
+to be right to be rational. You're presenting yourself as someone who's trying to get towards
+
+1484
+02:45:06,000 --> 02:45:12,720
+the truth and your audience can help you and help all together to get closer to the truth.
+
+1485
+02:45:12,720 --> 02:45:22,720
+That's the attitude that I like to cultivate as well. One thing I want to mention in this context
+
+1486
+02:45:23,280 --> 02:45:30,960
+is that the method that we developed for Red Pen Reviews is available on our website for authors to
+
+1487
+02:45:30,960 --> 02:45:37,600
+see. Part of the reason why we do that is because we're trying to help authors
+
+1488
+02:45:37,600 --> 02:45:48,320
+write better books. We do random citation checks. That's one aspect of it. We have certain criteria
+
+1489
+02:45:48,320 --> 02:45:53,920
+for healthfulness. We have certain criteria for scientific accuracy and it can't be gained.
+
+1490
+02:45:55,120 --> 02:46:00,720
+I don't think our method can be gained. If you look at our criteria and you write a book
+
+1491
+02:46:01,520 --> 02:46:08,160
+that fulfills that you think would score well, that's going to be a good book from an evidence
+
+1492
+02:46:08,160 --> 02:46:15,040
+standpoint. I don't think it can be gained. When I think about me and my book, which came prior to
+
+1493
+02:46:15,040 --> 02:46:20,560
+the Red Pen Reviews, I would have loved to have this resource. I think if I had had it, I would
+
+1494
+02:46:20,560 --> 02:46:29,200
+have written a book with higher evidence quality. Knowing that there's accountability and having
+
+1495
+02:46:29,760 --> 02:46:36,800
+a method that helps you turn that into something concrete to improve what you're doing,
+
+1496
+02:46:37,360 --> 02:46:45,680
+I like to view our organization as not just being finger-wagging at people who make mistakes,
+
+1497
+02:46:45,680 --> 02:46:55,040
+but more also providing a resource to help the information quality be good from the beginning.
+
+1498
+02:46:55,120 --> 02:46:58,960
+Tell me, are the reviews available to everyone or only to donors?
+
+1499
+02:46:59,520 --> 02:47:06,640
+Yeah, absolutely. They are freely available to anyone. We love receiving donations, but
+
+1500
+02:47:08,400 --> 02:47:11,200
+access to our resources does not depend on that.
+
+1501
+02:47:12,000 --> 02:47:18,480
+Excellent. Well, Stefan, this has been super interesting. I always enjoy interacting with
+
+1502
+02:47:18,480 --> 02:47:26,240
+you and talking about all of these things. I think it is kind of amazing how much we still
+
+1503
+02:47:26,240 --> 02:47:33,840
+don't know about something that is so ubiquitous and so important. But I also get the sense we're
+
+1504
+02:47:33,840 --> 02:47:40,320
+kind of converging. I do think that these good faith debates that exist between people
+
+1505
+02:47:41,280 --> 02:47:49,120
+like you, Kevin, David Ludwig, I think they're really good for the field because I think it's
+
+1506
+02:47:49,120 --> 02:47:55,040
+forcing people to be sharper in their thinking. And ultimately, I think getting us closer to
+
+1507
+02:47:57,120 --> 02:48:01,920
+theories that are aligning better with experimental evidence. I know my thinking on this has changed
+
+1508
+02:48:01,920 --> 02:48:10,240
+quite a bit and I certainly find now the balance of the evidence more on the energy balance side
+
+1509
+02:48:10,240 --> 02:48:17,760
+of the equation. But I constantly enjoy just trying to understand both sides of this. And
+
+1510
+02:48:18,800 --> 02:48:23,680
+it's very complicated. Again, suggesting that there's more overlap than we probably appreciate.
+
+1511
+02:48:25,600 --> 02:48:29,440
+Yeah, well, I appreciate you having me on. It was fun to discuss all this stuff.
+
+1512
+02:48:29,440 --> 02:48:43,040
+Yeah, thanks, Stefan. Thank you.
+

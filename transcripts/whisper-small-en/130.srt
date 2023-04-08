@@ -1,0 +1,4276 @@
+1
+00:00:00,000 --> 00:00:15,600
+Hey everyone. Welcome to the Drive podcast. I'm your host, Peter Attia. This podcast,
+
+2
+00:00:15,600 --> 00:00:19,360
+my website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:19,360 --> 00:00:24,360
+longevity into something accessible for everyone. Our goal is to provide the best content in
+
+4
+00:00:24,360 --> 00:00:28,440
+health and wellness, full stop, and we've assembled a great team of analysts to make
+
+5
+00:00:28,440 --> 00:00:32,720
+this happen. If you enjoy this podcast, we've created a membership program that brings you
+
+6
+00:00:32,720 --> 00:00:36,920
+far more in-depth content if you want to take your knowledge of this space to the next level.
+
+7
+00:00:36,920 --> 00:00:41,560
+At the end of this episode, I'll explain what those benefits are, or if you want to learn more now,
+
+8
+00:00:41,560 --> 00:00:48,120
+head over to PeterAttiaMD.com forward slash subscribe. Now, without further delay, here's
+
+9
+00:00:48,120 --> 00:00:55,720
+today's episode. My guests this week are Carol Tavras and Elliot Aronson. Carol's name may sound
+
+10
+00:00:55,720 --> 00:01:01,160
+familiar to some of you because she was actually a guest on the podcast back in early 2017, along
+
+11
+00:01:01,160 --> 00:01:06,960
+with Avram Bluming when she and Avram were on to talk about hormone replacement therapy. In this
+
+12
+00:01:06,960 --> 00:01:11,840
+podcast with Elliot, we talk about something very different, which is a book that they coauthored
+
+13
+00:01:11,840 --> 00:01:19,680
+in 2007. Mistakes were made, but not by me, why we justify foolish beliefs, bad decisions, and
+
+14
+00:01:19,680 --> 00:01:25,320
+hurtful acts. Now, if you've listened to this podcast much, you've probably heard me talk about
+
+15
+00:01:25,560 --> 00:01:30,080
+this book at least once. It's certainly one of my favorite books and one of the books I recommend
+
+16
+00:01:30,080 --> 00:01:35,560
+most to other people. It's important to understand the background of Carol and Elliot to understand
+
+17
+00:01:35,560 --> 00:01:40,040
+how they came together to do this. So Carol received her PhD in social psychology from the
+
+18
+00:01:40,040 --> 00:01:45,400
+University of Michigan. She's a fellow of the Association for Psychological Sciences. She's
+
+19
+00:01:45,400 --> 00:01:50,880
+received numerous awards for her efforts to promote gender equality, science, and skepticism. That's
+
+20
+00:01:51,000 --> 00:01:57,800
+something that Carol and I bonded over early. Elliot received his PhD from Stanford in the
+
+21
+00:01:57,800 --> 00:02:04,720
+late 1950s. And it was during his time at Stanford in the 1950s that he trained with the great Leon
+
+22
+00:02:04,720 --> 00:02:09,920
+Festinger, the father of the theory of cognitive dissonance. He went on to teach at Harvard
+
+23
+00:02:09,920 --> 00:02:16,200
+University, the University of Minnesota, University of Texas, and UC Santa Cruz, and eventually back
+
+24
+00:02:16,200 --> 00:02:22,720
+at Stanford. Elliot is the only psychologist to have won the American Psychological Association's
+
+25
+00:02:22,720 --> 00:02:29,200
+highest awards in all three major academic categories for distinguished service in writing
+
+26
+00:02:29,200 --> 00:02:36,200
+in 1973, distinguished teaching in 1980, and distinguished research in 1999. And in 2002,
+
+27
+00:02:36,200 --> 00:02:42,960
+he was listed among the 100 most eminent psychologists of the 20th century. In this
+
+28
+00:02:42,960 --> 00:02:48,360
+episode, we talk about how Carol and Elliot began to work together on this project, what prompted
+
+29
+00:02:48,360 --> 00:02:52,880
+them to ultimately write the book. And we talk a little bit about how cognitive dissonance shows
+
+30
+00:02:52,880 --> 00:02:59,360
+up in many aspects of our lives, not just in science, but also in politics, in criminal justice,
+
+31
+00:02:59,360 --> 00:03:07,840
+how it is shown up historically, and perhaps most importantly, how we can train ourselves to not be
+
+32
+00:03:07,840 --> 00:03:14,760
+victims of some of the worst aspects of cognitive dissonance and dissonant behavior. And instead,
+
+33
+00:03:14,760 --> 00:03:22,120
+how we can use our understanding of why our minds naturally try to reduce the pain of cognitive
+
+34
+00:03:22,120 --> 00:03:27,400
+dissonance to actually hack it a little bit and try to instead be as intellectually honest as
+
+35
+00:03:27,400 --> 00:03:31,360
+possible. By the end of this episode, you'll understand that there's really no one who is
+
+36
+00:03:31,360 --> 00:03:37,400
+immune from this, whether you're a doctor, a lawyer, a DA, a mental health worker, a scientist. We all
+
+37
+00:03:37,520 --> 00:03:43,200
+suffer from the pain of cognitive dissonance. And really the question is, what do we do with
+
+38
+00:03:43,200 --> 00:03:48,480
+that discomfort? Are we able to sit in it or do we succumb to it? I found this to be a fascinating
+
+39
+00:03:48,480 --> 00:03:53,440
+discussion and I hope you do as well. So without further delay, please enjoy my conversation with
+
+40
+00:03:53,440 --> 00:04:05,600
+Carol Tavras and Elliot Arons. Carol and Elliot, thank you so much for making the time to do this.
+
+41
+00:04:05,600 --> 00:04:10,960
+And the backstory to this is pretty funny. So if you'll both bear with me, along with the listeners,
+
+42
+00:04:10,960 --> 00:04:18,840
+I want to explain it. I read, mistakes were made, but not by me for the first of many times circa
+
+43
+00:04:18,840 --> 00:04:27,400
+2012, maybe 2013. It was love at first sight. And the first thing I did was Google you guys. And
+
+44
+00:04:27,400 --> 00:04:33,520
+somehow I came across Carol's phone number, or maybe it was an email, but I think it was actually
+
+45
+00:04:33,600 --> 00:04:41,440
+a phone number. And I called and I actually got a hold of Carol. And I don't know if you thought I
+
+46
+00:04:41,440 --> 00:04:47,120
+was a psycho Carol, you probably did, but you were too kind. But I somehow cajoled you into coming
+
+47
+00:04:47,120 --> 00:04:54,320
+down to San Diego for dinner, which you did. And we had this amazing evening of talking about
+
+48
+00:04:54,320 --> 00:04:59,680
+cognitive dissonance. And it was the beginning of a beautiful friendship. And then two years ago,
+
+49
+00:04:59,760 --> 00:05:04,640
+when I started this podcast, you were one of the first people I reached out to. And I said, Carol,
+
+50
+00:05:04,640 --> 00:05:11,680
+can I please interview you? And you said, Peter, I'm sorry. I just can't talk about it anymore.
+
+51
+00:05:11,680 --> 00:05:19,200
+I've said all I can say about this subject matter. I did? You did. You just said, I just don't have
+
+52
+00:05:19,200 --> 00:05:28,000
+it in me to talk about this anymore. Oh no. Yeah. And you said, but please don't hold it against me.
+
+53
+00:05:28,000 --> 00:05:32,400
+I said, I would never hold it against you, Carol. If you ever change your mind, let me know. And so
+
+54
+00:05:32,400 --> 00:05:36,560
+here we are. And then the second point that's noteworthy is, Elliot, this is the first time you
+
+55
+00:05:36,560 --> 00:05:43,840
+and I have got to meet. So Carol has always said to me, you're the brains behind the science, behind
+
+56
+00:05:44,480 --> 00:05:49,680
+sort of the foundation upon which this field that we're going to dig into very deeply
+
+57
+00:05:50,240 --> 00:05:54,640
+has sort of informed the work you two have collaborated on. And so I think I want to kind
+
+58
+00:05:54,640 --> 00:05:59,280
+of start a little bit with your relationship, your collaborative relationship, which has been,
+
+59
+00:05:59,280 --> 00:06:04,560
+how many years have you guys been collaborating? Oh boy. Oh boy. Do we go back to psychology today
+
+60
+00:06:04,560 --> 00:06:13,120
+when I was a baby? I was a baby and you were a toddler. What? It's been close to 50 years,
+
+61
+00:06:13,840 --> 00:06:20,640
+right? Is that right? I guess. 1972 or something like that. I think we met at an
+
+62
+00:06:20,640 --> 00:06:29,200
+American Psychological Association convention. Carol was working as an editor of a magazine
+
+63
+00:06:29,200 --> 00:06:36,400
+called Psychology Today, which used to be a good magazine when she was on it. And I had just won
+
+64
+00:06:36,400 --> 00:06:44,800
+some prize for writing a book. The senior editor, they asked Carol to interview me in the hopes
+
+65
+00:06:44,800 --> 00:06:51,360
+that I could do an article for Psychology Today based on the book I wrote, which was called The
+
+66
+00:06:51,360 --> 00:07:00,320
+Social Animal. One of the great social psychology textbooks ever written and deservedly famous,
+
+67
+00:07:00,320 --> 00:07:07,040
+and you had gotten the APA's, I think, distinguished writing award. So I was dispatched to try to get
+
+68
+00:07:07,040 --> 00:07:15,600
+you to write an article for the magazine. And we both shared a love of, not just a love of social
+
+69
+00:07:15,600 --> 00:07:20,880
+psychology, but a love of communicating social psychology to the public in what can only be
+
+70
+00:07:20,880 --> 00:07:28,720
+called English as opposed to jargon. And we even made a movie together, a documentary film, and
+
+71
+00:07:28,720 --> 00:07:36,000
+we've been friends ever since. And this particular project came about partly because I was losing my
+
+72
+00:07:36,000 --> 00:07:44,640
+eyesight and Carol became my eyes, my ears, and my brain. And we collaborated on this very,
+
+73
+00:07:44,640 --> 00:07:50,880
+it was really great fun, great fun to write this book. It was an interesting harmony, I think,
+
+74
+00:07:50,880 --> 00:08:00,240
+for the two of us as well, because Elliot, as I'm sure we will discuss, took Leon Festinger's
+
+75
+00:08:00,240 --> 00:08:08,800
+theory of cognitive dissonance and made it into a focus on self-justification. And we were sitting
+
+76
+00:08:08,800 --> 00:08:15,920
+around talking about the Iraq War and how it came to be and why even though there were no weapons of
+
+77
+00:08:15,920 --> 00:08:22,640
+mass destruction, George Bush was holding on to his determination to believe that it was absolutely
+
+78
+00:08:22,640 --> 00:08:28,400
+the right thing to do. And Elliot said, you know, I think that George Bush was not lying to the
+
+79
+00:08:28,400 --> 00:08:36,080
+American people. I think he was doing what all of us do, which is make a decision and then justify
+
+80
+00:08:36,080 --> 00:08:41,280
+it by cherry picking the evidence to show that we were right in making that decision. And from that
+
+81
+00:08:41,280 --> 00:08:48,400
+conversation, we thought, you know, this is really an important message for people to hear how in so
+
+82
+00:08:48,400 --> 00:08:56,560
+many domains of our lives, the way we think can really get us stuck and hard to get out of the
+
+83
+00:08:56,560 --> 00:09:03,840
+mistakes we've made. One little correction, Carol, you said cherry picking, which is true, but that
+
+84
+00:09:03,840 --> 00:09:11,760
+implies consciously cherry picking. And the point that I was trying to make is that
+
+85
+00:09:13,680 --> 00:09:21,200
+the cognitive dissonance reduction is an unconscious process. People don't say,
+
+86
+00:09:21,200 --> 00:09:26,240
+hey, I think I'm going to reduce a little dissonance right now. They just do it. And
+
+87
+00:09:26,800 --> 00:09:36,560
+it flies just below the level of awareness. So that when George Bush was convinced there were
+
+88
+00:09:36,560 --> 00:09:45,680
+weapons of mass destruction, he convinced himself of that, even though the evidence was ambiguous.
+
+89
+00:09:45,680 --> 00:09:51,840
+There was some evidence that indicated that Saddam Hussein did have weapons of mass destruction,
+
+90
+00:09:51,840 --> 00:09:59,440
+and some evidence indicated that he didn't. And he simply was hell bent on invading Iraq so that
+
+91
+00:10:00,000 --> 00:10:07,520
+he downplayed the importance of the evidence that would have cautioned him not to invade.
+
+92
+00:10:08,160 --> 00:10:12,640
+And I think that is something we all do if we're not careful.
+
+93
+00:10:13,520 --> 00:10:20,960
+And there are certainly some fields in which I think the implications of I have done something
+
+94
+00:10:20,960 --> 00:10:26,320
+incorrectly and new information emerges that suggests I've done it incorrectly becomes
+
+95
+00:10:27,200 --> 00:10:32,160
+very hard to swallow, probably nowhere near as difficult to swallow as if you're the commander
+
+96
+00:10:32,160 --> 00:10:38,240
+in chief and you've been single-handedly responsible for what followed what I guess would have been
+
+97
+00:10:38,240 --> 00:10:44,480
+March 19th, 2002, I guess, or three would have been that invasion. But I think what gripped me
+
+98
+00:10:45,200 --> 00:10:50,880
+and what got to me so much, even from the first reading of your book, was as a doctor,
+
+99
+00:10:51,520 --> 00:10:57,600
+you think about how many times in medicine we do things. And then new evidence emerges that maybe
+
+100
+00:10:57,600 --> 00:11:03,040
+that wasn't the right thing to do. And sometimes it's not immediately obvious, right? But it's
+
+101
+00:11:03,040 --> 00:11:08,640
+subtle. It's like, well, we used to nutritionally tell people that this thing was the right thing to
+
+102
+00:11:08,640 --> 00:11:14,640
+eat, but more and more evidence seems to suggest it's not, but you've been telling everybody that
+
+103
+00:11:14,640 --> 00:11:20,480
+thing. So what is the implication? But before we get into these examples, maybe let's give people
+
+104
+00:11:20,480 --> 00:11:27,440
+some real explanations of dissonance. So I think you guys, either it was in your book or I've seen
+
+105
+00:11:27,440 --> 00:11:33,360
+this elsewhere, but there's a great example of the dissonance. It's like a person who knows that
+
+106
+00:11:33,360 --> 00:11:40,560
+smoking is bad for them, but still smokes. How does that person get through the day? How do you
+
+107
+00:11:40,560 --> 00:11:46,160
+describe that tension that must exist in that person? That's our most famous example. Eliot,
+
+108
+00:11:46,160 --> 00:11:55,360
+take it away. I have to say that Leon Festinger's example, and I was a student, I was very lucky,
+
+109
+00:11:55,360 --> 00:12:03,840
+I was a student of Leon Festinger just as he was inventing the theory of cognitive dissonance.
+
+110
+00:12:03,840 --> 00:12:14,240
+I was his graduate student and his major domo and became his protege and friend so that I kind of
+
+111
+00:12:14,240 --> 00:12:23,920
+inherited cognitive dissonance theory. And the example he uses is a person is smokes two packs
+
+112
+00:12:24,000 --> 00:12:30,160
+of cigarettes a day. And then the evidence starts becoming clearer and clearer that smoking
+
+113
+00:12:30,720 --> 00:12:38,960
+can cause cancer and other diseases. And what does he do with that? Well, those two cognitions,
+
+114
+00:12:39,680 --> 00:12:47,600
+I am a smart, sensible person. And I'm smoking cigarettes, even though I know it causes cancer.
+
+115
+00:12:48,400 --> 00:12:57,520
+Well, the simplest sounding thing to do is to give up smoking. It's a lot harder to do than
+
+116
+00:12:57,520 --> 00:13:05,120
+people might think, because it is addictive. If a person tries to give up smoking and can't,
+
+117
+00:13:05,920 --> 00:13:13,840
+then how does he reduce that dissonance? And dissonance is a negative drive state. It feels
+
+118
+00:13:13,840 --> 00:13:20,240
+terribly unpleasant, like being extremely hungry or extremely thirsty, but it takes place
+
+119
+00:13:20,880 --> 00:13:28,320
+in the mind. So it makes you very uncomfortable. And if you can't reduce the distance by giving
+
+120
+00:13:28,320 --> 00:13:34,960
+up smoking, then you work on the other cognition that smoking causes cancer. And you might try to
+
+121
+00:13:34,960 --> 00:13:41,280
+convince yourself that it's really mostly correlational evidence and therefore not really
+
+122
+00:13:41,280 --> 00:13:48,160
+definitive. No one has done a controlled experiment with hundreds of thousands of people
+
+123
+00:13:48,160 --> 00:13:54,480
+forcing some to smoke and forcing others not to smoke, which would would be of course, an
+
+124
+00:13:54,480 --> 00:14:00,960
+unethical experiment. But in the mind of the person, that experiment would need to be done
+
+125
+00:14:00,960 --> 00:14:08,880
+before I'd be convinced. Or you could convince yourself that obesity is a health risk. And by
+
+126
+00:14:08,880 --> 00:14:16,320
+smoking two packs a day, I'm keeping myself from eating all of those rich desserts, which would
+
+127
+00:14:16,320 --> 00:14:25,600
+have made me obese, and I probably would die of a heart attack. Or it's debonair to fly in the face
+
+128
+00:14:25,600 --> 00:14:34,080
+of danger and smoke a cigarette like Humphrey Bogart in the movies. As I'm a really exciting
+
+129
+00:14:34,080 --> 00:14:41,360
+person, I would rather live a shorter but more interesting life than one where I was forever
+
+130
+00:14:41,360 --> 00:14:47,760
+being cautious. All of these things, each one of them and all of them together can be used together
+
+131
+00:14:47,760 --> 00:14:55,520
+as a way of allowing me to smoke and still feel good about myself. It lets us sleep at night to
+
+132
+00:14:55,520 --> 00:15:02,320
+use your point, Peter as well. The ability to reduce dissonance is what allows us to say,
+
+133
+00:15:03,040 --> 00:15:08,800
+I'm doing something stupid, but look, here are all the reasons that I justify it. There was a study
+
+134
+00:15:08,800 --> 00:15:15,120
+not long ago of pregnant women smoking, and pregnant women have a double knowledge of smoking
+
+135
+00:15:15,120 --> 00:15:20,320
+being bad not only for their own health, but for the baby's health. And what did these women say
+
+136
+00:15:20,320 --> 00:15:26,240
+in explaining why they were going to keep smoking? Well, I've cut down. Now the amount of cigarettes
+
+137
+00:15:26,240 --> 00:15:31,680
+I smoke every day isn't really as hazardous as it would have been before I cut down. So this is
+
+138
+00:15:31,680 --> 00:15:39,760
+indeed how we sleep at night. And as Eliot has often said, that's the benefit of our ability to
+
+139
+00:15:39,760 --> 00:15:46,160
+reduce dissonance. But you know what? Sometimes some sleepless nights are called for. Especially
+
+140
+00:15:46,160 --> 00:15:54,800
+if you're the president of the United States making life and death decisions for millions of people.
+
+141
+00:15:55,760 --> 00:16:01,200
+Well, that's what's interesting, right? You've discussed this as an incredibly negatively
+
+142
+00:16:01,200 --> 00:16:07,200
+valence to motion, right? I mean, I love the way you compared it to the incredible discomfort of
+
+143
+00:16:07,200 --> 00:16:14,080
+starvation or thirst, but it's psychological discomfort of that variety. Because I know so
+
+144
+00:16:14,080 --> 00:16:19,760
+little about psychology, it's amazing to me to understand the timeline of these things. Now you
+
+145
+00:16:19,760 --> 00:16:26,080
+show up at Stanford in 1955 as a grad student, 55 is about when Leon got there. It's only two years
+
+146
+00:16:26,080 --> 00:16:33,040
+later that this theory is put forth. In the grand scheme of things, that seems relatively recent in
+
+147
+00:16:33,040 --> 00:16:39,040
+my mind. I'm not saying that to discredit that or the field, but what you're describing sounds so
+
+148
+00:16:39,040 --> 00:16:46,720
+fundamental to the way we as humans live, that it strikes me as such a major breakthrough.
+
+149
+00:16:46,720 --> 00:16:52,400
+Like why didn't this happen 100 years sooner? Was there some other critical piece of insight
+
+150
+00:16:52,400 --> 00:16:59,920
+that was necessary that preceded this amazing observation that took place barely 70 years ago?
+
+151
+00:16:59,920 --> 00:17:06,560
+I think psychologists for a long time had the notion of rationalization that people often
+
+152
+00:17:06,560 --> 00:17:15,360
+rationalize their own behavior, which is a kind of a pale version of cognitive dissonance theory.
+
+153
+00:17:15,360 --> 00:17:19,520
+And we all knew about that. And not with that, okay, people rationalize.
+
+154
+00:17:20,240 --> 00:17:28,640
+But the genius of Leon Festinger, first of all, the way he really invented the theory was because
+
+155
+00:17:28,640 --> 00:17:35,280
+he was studying rumor transmission. And in India, there was a major earthquake.
+
+156
+00:17:36,240 --> 00:17:45,680
+And a lot of people got killed. And what he learned was rumors spread at the epicenter of the
+
+157
+00:17:45,680 --> 00:17:52,800
+earthquake. And Leon was studying rumors. So he saw that these rumors were very reasonable rumors.
+
+158
+00:17:52,800 --> 00:17:58,560
+They spread, don't worry, help is on the way. People are coming. They're going to rescue us.
+
+159
+00:17:58,560 --> 00:18:04,160
+They're going to bring food. We're starving, but things are going to be okay. Those were the kinds
+
+160
+00:18:04,160 --> 00:18:11,600
+of rumors that made sense. They were comforting rumors. Meantime, there was a city about 15 or 20
+
+161
+00:18:11,600 --> 00:18:18,160
+miles away, where there wasn't a great deal of damage, but there was enough shaking and enough
+
+162
+00:18:18,160 --> 00:18:24,960
+damage. And enough people got mildly injured that they were really anxious and really scared.
+
+163
+00:18:25,680 --> 00:18:33,680
+And the rumors that spread in that area was that there was a typhoon coming, that there was going
+
+164
+00:18:33,680 --> 00:18:41,040
+to be a hurricane, that there was going to be huge flooding. And people were really worried about all
+
+165
+00:18:41,040 --> 00:18:46,960
+of that. And first thing that scratched his head and said, why in the world would people spread
+
+166
+00:18:46,960 --> 00:18:54,880
+rumors that would increase their anxiety? And what he arrived at as a strong possibility was
+
+167
+00:18:56,000 --> 00:19:05,520
+that the earthquake made them feel extremely anxious. But they had very little to be anxious
+
+168
+00:19:05,520 --> 00:19:13,280
+about, because hardly anyone got hurt, and hardly any destruction occurred. So they invented
+
+169
+00:19:14,000 --> 00:19:21,120
+future things that were going to happen and spread rumors about them in order to justify
+
+170
+00:19:21,120 --> 00:19:28,640
+their anxiety. And that was the beginning of cognitive dissonance theory. That's one part of
+
+171
+00:19:28,880 --> 00:19:38,400
+the second part of it was that Leon Festinger was a genius as an experimental psychologist,
+
+172
+00:19:38,400 --> 00:19:47,120
+so that he immediately thought up three or four really interesting experiments that went way beyond
+
+173
+00:19:47,120 --> 00:19:53,920
+what anyone ever conceived of, in terms of mere rationalization, showing that
+
+174
+00:19:54,560 --> 00:20:02,480
+cognitive dissonance reduction works in ways that are often counterintuitive. It isn't the obvious
+
+175
+00:20:02,480 --> 00:20:08,640
+thing that your grandmother thought about and would tell you about. It happens in ways that
+
+176
+00:20:09,440 --> 00:20:16,720
+are exciting and interesting when you understand the theory and seem completely off the wall if
+
+177
+00:20:16,720 --> 00:20:22,560
+you don't know the theory. I'd love to hear an example of one of those experiments or such.
+
+178
+00:20:22,880 --> 00:20:27,520
+I'll give you the best example that I can think of, which is one of the early experiments
+
+179
+00:20:28,480 --> 00:20:35,440
+by Leon Festinger and an undergraduate at Stanford, who eventually became my graduate
+
+180
+00:20:35,440 --> 00:20:43,040
+student when I became a professor, a guy named Merrill Carlsmith. And what they showed was,
+
+181
+00:20:44,000 --> 00:20:51,840
+if you pay someone $20 for telling a lie to another person,
+
+182
+00:20:54,480 --> 00:21:01,680
+he knows it's a lie. And if you ask like what he had to tell the other person who was about to go
+
+183
+00:21:01,680 --> 00:21:10,240
+into the experiment to do a tedious task, like the kind of task that you would be doing if you worked
+
+184
+00:21:10,320 --> 00:21:17,600
+on an assembly line, packing spools, turning a screw, half a turn to the right for a couple of
+
+185
+00:21:17,600 --> 00:21:26,000
+hours, which was really tedious. But he had just come out of the experiment doing that. And his
+
+186
+00:21:26,000 --> 00:21:34,400
+job was to tell the participant who was waiting to come in next that it was really an interesting
+
+187
+00:21:34,400 --> 00:21:44,960
+experiment. And Carlsmith gave him $20 to do that. In another condition, he gave him $1 for doing that.
+
+188
+00:21:46,160 --> 00:21:54,240
+And what happened was that the students who were given $1 for doing it actually came to believe
+
+189
+00:21:54,240 --> 00:22:00,160
+that the task was more interesting than the students who were paid $20 for doing it,
+
+190
+00:22:00,960 --> 00:22:08,240
+completely upside down from what would be predicted by the dominant theory of the time,
+
+191
+00:22:08,240 --> 00:22:15,040
+the behaviorist theory of reinforcement, that the more you paid for something, the more you like it.
+
+192
+00:22:16,000 --> 00:22:24,560
+What cognitive dissonance theory predicts is the less you're paid for it, the more you have to add
+
+193
+00:22:24,560 --> 00:22:32,560
+justifications of your own. So if you're paid $20 for telling a simple lie, you can say to yourself,
+
+194
+00:22:32,560 --> 00:22:41,440
+well, I sold my soul, but $20 is a pretty good price for my soul. But if you're paid only $1,
+
+195
+00:22:42,640 --> 00:22:49,360
+in effect, you're asking yourself, no, why did I do that for a lousy dollar? Well, you know,
+
+196
+00:22:49,360 --> 00:22:54,960
+it wasn't such a big lie because, you know, the task on the surface, it looks like a boring task,
+
+197
+00:22:54,960 --> 00:23:01,040
+but it's really a lot more interesting and more intricate than it really looks on the surface.
+
+198
+00:23:01,040 --> 00:23:06,800
+And they convinced themselves not that the task was exciting, but it wasn't so bad.
+
+199
+00:23:07,680 --> 00:23:12,720
+So here's the relevant thing about this, Peter, when you were saying about the origins of cognitive
+
+200
+00:23:12,720 --> 00:23:19,680
+dissonance, psychological science, when I was a graduate student, was almost an oxymoron.
+
+201
+00:23:19,680 --> 00:23:22,960
+Everybody joked about it. Psychology, what are you talking about? It's not a science.
+
+202
+00:23:24,320 --> 00:23:30,240
+It's an oxymoron. It's not research-based. It's not empirically-based. When Eliot was first doing
+
+203
+00:23:30,240 --> 00:23:38,400
+his work, the dominant paradigms in psychology were psychoanalytic or behaviorist. Those were
+
+204
+00:23:38,400 --> 00:23:45,440
+the two big schools that were devoted to explaining how human beings operate and how they
+
+205
+00:23:45,440 --> 00:23:51,760
+think and what motivates them. And both of them were past their prime by the middle of the last
+
+206
+00:23:51,760 --> 00:23:59,520
+century. What Eliot was doing in terms of cognitive dissonance was, first of all, looking into the
+
+207
+00:23:59,520 --> 00:24:05,520
+black box of the mind, which behaviorists were ignoring completely. We just have to observe
+
+208
+00:24:05,520 --> 00:24:10,560
+behavior. It's all a matter of rewards and punishments. And saying, no, there's something
+
+209
+00:24:10,560 --> 00:24:18,480
+happening in there that affects our behavior most profoundly. And it was also a time of questioning
+
+210
+00:24:18,480 --> 00:24:26,800
+the qualitative observation, the non-scientific observations of the psychoanalytic approach to
+
+211
+00:24:26,800 --> 00:24:37,280
+understanding behavior, which were lively and popular and wrong. So comes cognitive dissonance
+
+212
+00:24:37,280 --> 00:24:43,440
+and the cognitive revolution and the world of psychology changed. The world of psychological
+
+213
+00:24:43,440 --> 00:24:50,640
+science changed. Oh, that's so good. I have to come in because I got an example of the psychoanalytic
+
+214
+00:24:50,640 --> 00:25:00,880
+thing. I came to Stanford in 1956. And I got my PhD in 59. And then I went to teach at Harvard.
+
+215
+00:25:02,160 --> 00:25:08,720
+When I arrived at Harvard, there was a guy named Michael Kahn doing an experiment for his PhD
+
+216
+00:25:08,720 --> 00:25:16,880
+dissertation. He was a really good Freudian psychologist. And he wanted to do a test on
+
+217
+00:25:16,880 --> 00:25:23,760
+one of Freud's notions called catharsis. Catharsis says that when you feel angry at someone,
+
+218
+00:25:24,400 --> 00:25:31,200
+you need to get it out of your system by punching a punching bag or even punching the person who
+
+219
+00:25:31,200 --> 00:25:37,360
+made you angry in the nose, assuming it's someone who's a little smaller than you are, I guess.
+
+220
+00:25:38,080 --> 00:25:45,200
+So he did an experiment like that, trying to demonstrate Freud's theory of catharsis,
+
+221
+00:25:45,200 --> 00:25:51,440
+that acting out on your aggressive feeling is going to make you feel better and less aggressive.
+
+222
+00:25:52,240 --> 00:26:01,280
+And what he found was just the reverse. When a person expressed his anger by getting his
+
+223
+00:26:01,280 --> 00:26:08,000
+tormentor into trouble, so that his tormentor actually lost his job as a result of it,
+
+224
+00:26:08,000 --> 00:26:15,440
+this was all in an experiment, that was the scenario that the participant actually believed
+
+225
+00:26:15,440 --> 00:26:24,880
+he was costing the person his job. It actually increased his negative feelings about that guy.
+
+226
+00:26:25,760 --> 00:26:34,080
+And Michael Kahn was really confused and said, how can this be? It not only didn't my experiment
+
+227
+00:26:34,160 --> 00:26:40,160
+prove that catharsis worked, just the opposite happened. How could that possibly be? And somebody
+
+228
+00:26:40,160 --> 00:26:46,240
+around and said, oh, we got this new guy just came as an assistant professor, Aronson, I think he
+
+229
+00:26:46,240 --> 00:26:53,360
+might have an answer. And it's exactly the answer is cognitive dissonance. If you make me angry,
+
+230
+00:26:54,160 --> 00:27:03,040
+and I retaliate in a way that causes you an extreme thing, like more than the simple act
+
+231
+00:27:03,040 --> 00:27:10,480
+that made me angry, I have to justify it somehow. So the fact that I cost you your job
+
+232
+00:27:11,760 --> 00:27:19,040
+makes me feel dissonant. My God, I really hurt that guy. Well, he must have really deserved it.
+
+233
+00:27:19,040 --> 00:27:26,240
+He's a terrible person. Anyway, look at the awful thing he did to me. And that needed to be punished.
+
+234
+00:27:26,240 --> 00:27:32,080
+And he'll probably find another job anyway. But he's a jerk. And he would have done the same thing
+
+235
+00:27:32,080 --> 00:27:40,720
+to me if I did that I did to him, etc. And that really explains the phenomenon of blaming the
+
+236
+00:27:40,720 --> 00:27:48,080
+victim, that if a person gets hurt, and we can't account for it, we try to figure out maybe he did
+
+237
+00:27:48,080 --> 00:27:56,320
+something that brought that on. What it allows us to do is say, I am a good kind, compassionate,
+
+238
+00:27:56,320 --> 00:28:02,320
+smart person. And if you're telling me I did something that wasn't good, kind, compassionate,
+
+239
+00:28:02,320 --> 00:28:09,360
+or smart, I could accept your evidence, or I could, I could say that to hell with your evidence,
+
+240
+00:28:09,360 --> 00:28:15,760
+in a way that allows me to continue thinking of myself as a good kind, smart person. That's what
+
+241
+00:28:15,760 --> 00:28:21,920
+Elliott brought to this as the fundamental heart of the reason that we so often reduce dissonance
+
+242
+00:28:21,920 --> 00:28:29,600
+in a way to preserve our self-concept, how we see ourselves. Obviously the seeds of this are sown,
+
+243
+00:28:29,600 --> 00:28:35,920
+like I said, 60 years ago. But I've seen lectures where people talk about the impact on the actual
+
+244
+00:28:35,920 --> 00:28:42,720
+brain itself structurally and functionally. So if you look at fMRI in a person who's placed in a
+
+245
+00:28:42,720 --> 00:28:49,120
+dissonant situation, how you actually see a change functionally, do either of you care to comment on
+
+246
+00:28:49,120 --> 00:28:54,640
+how that looks? I have to preface this by saying one of my favorite studies in all the world show
+
+247
+00:28:54,640 --> 00:29:00,080
+that if you give a lecture and you wave around some fMRIs and you give the exact same lecture
+
+248
+00:29:00,080 --> 00:29:06,720
+without the fMRIs, everybody thinks this first version was really scientific. We just love those
+
+249
+00:29:06,720 --> 00:29:12,640
+brain studies. We do. Well, yes, you are describing studies by Drew Weston, which basically brought
+
+250
+00:29:12,640 --> 00:29:17,200
+people to the laboratory and showed what was going on in their brains when they were confronted with
+
+251
+00:29:17,200 --> 00:29:24,560
+dissonant information about someone from their own political party. If someone from your opposing
+
+252
+00:29:24,560 --> 00:29:29,680
+political party behaves like a corrupt idiot or jerk, that's perfectly consonant for you. People
+
+253
+00:29:29,680 --> 00:29:35,520
+from that party always behave that way. If someone from your own party behaves exactly the same way,
+
+254
+00:29:35,520 --> 00:29:41,600
+well, you know, it's no big deal. All politicians do this and so forth. So he brings people into the
+
+255
+00:29:41,600 --> 00:29:48,480
+laboratory, wires up their brains, and basically finds that in a state of dissonance, these brains
+
+256
+00:29:48,480 --> 00:29:56,480
+were not happy. They were just not happy. But give them a chance to restore consonants and it settles
+
+257
+00:29:56,480 --> 00:30:03,760
+down. Now, I want to say about this, that I think this kind of research certainly does explain, it's
+
+258
+00:30:03,760 --> 00:30:12,480
+certainly very helpful in understanding what efforts our brains go through so that we can live in a
+
+259
+00:30:12,480 --> 00:30:19,920
+state of consonance between what we believe and how we behave every day. It's to our evolutionary
+
+260
+00:30:19,920 --> 00:30:27,040
+benefit to hold beliefs that make us feel part of our tribe, our community, our religion, our group,
+
+261
+00:30:27,040 --> 00:30:34,880
+and so forth. And so there really is a benefit, an evolutionary benefit, to being able to get rid of
+
+262
+00:30:34,880 --> 00:30:43,200
+dissonance when it occurs. But that said, there are enormous psychological and cultural differences
+
+263
+00:30:43,200 --> 00:30:51,360
+in what causes people to feel dissonance. So it's not like everybody always will feel dissonance.
+
+264
+00:30:51,360 --> 00:30:55,920
+If, for example, you're a scientist and you get information that your study didn't turn out the
+
+265
+00:30:56,000 --> 00:31:01,520
+way you might have liked, well, you might feel a pain, but the scientific approach would be to say,
+
+266
+00:31:01,520 --> 00:31:06,800
+well, I've learned something, what can we do next? Likewise, there have been very interesting studies
+
+267
+00:31:06,800 --> 00:31:13,920
+comparing what causes dissonance in Japan or the United States. In the United States, we feel a
+
+268
+00:31:13,920 --> 00:31:20,960
+state of dissonance if we ourselves personally are ashamed or embarrassed or humiliated by something
+
+269
+00:31:20,960 --> 00:31:26,640
+that we've done. In Japan, people are more likely to feel the need to reduce dissonance if they
+
+270
+00:31:26,640 --> 00:31:32,560
+behaved in a way to harm, hurt, or embarrass other people in their group because they are
+
+271
+00:31:32,560 --> 00:31:39,440
+typically a more other oriented culture. So while we can appreciate what is universal about dissonance,
+
+272
+00:31:40,400 --> 00:31:46,800
+let's not make the corresponding error that we all automatically and forever behave exactly the same
+
+273
+00:31:47,360 --> 00:31:51,280
+way. Let's unpack that a bit. So from a natural selection standpoint, when you go back
+
+274
+00:31:51,920 --> 00:31:58,240
+even just several hundred years, let's call it a thousand years, or even go back further to the
+
+275
+00:31:58,240 --> 00:32:04,560
+point where we were mostly functioning in tribes of relatively small numbers, say even going back
+
+276
+00:32:04,560 --> 00:32:10,800
+to hunter-gatherers, assuming for a moment that we could find sufficient food and shelter and take
+
+277
+00:32:10,800 --> 00:32:16,080
+care of the most fundamental of our needs, what would have been instances in which we would have
+
+278
+00:32:16,080 --> 00:32:23,280
+experienced dissonance. And therefore, why would this have been a conserved feature of our evolution
+
+279
+00:32:23,280 --> 00:32:30,720
+to not stay up at night worrying about things that were tormenting us, that were creating
+
+280
+00:32:30,720 --> 00:32:36,960
+this sort of dissonant or dialectical difference, and instead allowing us to basically placate our
+
+281
+00:32:36,960 --> 00:32:40,880
+little brains, which weren't little by that point, of course, they were basically the same size as
+
+282
+00:32:40,880 --> 00:32:46,560
+they are today, and move forward. I find this fascinating because it strikes me as sort of a
+
+283
+00:32:46,560 --> 00:32:51,520
+very modern problem, like something that only in the last few thousands of years could this have
+
+284
+00:32:51,520 --> 00:32:57,040
+even been relevant. But of course, I'm just not thinking of the right examples, perhaps.
+
+285
+00:32:57,840 --> 00:33:06,240
+It's our position that cognitive dissonance is hardwired. And the way that happens in terms of
+
+286
+00:33:06,880 --> 00:33:18,000
+evolution is that it has more survival value in the sense that if you are a hunter back 10,000
+
+287
+00:33:18,000 --> 00:33:26,720
+years ago or 20, 30, 40,000 years ago, and you experience dissonance because you've done something
+
+288
+00:33:27,680 --> 00:33:34,800
+that hurt one of your tribesmen or in a way that you're concerned that he might take
+
+289
+00:33:35,280 --> 00:33:42,560
+retaliation, and you would lay awake all night worrying about it. And then the next morning,
+
+290
+00:33:42,560 --> 00:33:49,520
+you get up bright and early to go hunting. And you get pounced on by a tiger because you didn't
+
+291
+00:33:49,520 --> 00:33:55,120
+sleep at night because you were so busy worrying about this thing. You're not as vigilant as you
+
+292
+00:33:55,120 --> 00:34:04,160
+normally would have been, then chances are your genes are less likely to get into the gene pool.
+
+293
+00:34:04,160 --> 00:34:10,720
+So those who are good at reducing dissonance, those who are good at saying, Ah, wasn't such a
+
+294
+00:34:10,720 --> 00:34:16,800
+bad thing I did. He'll forgive me, I'm sure. And then you sleep soundly, you get up and you do your
+
+295
+00:34:16,800 --> 00:34:22,560
+hunting, and everything is fine. I think that that that cognitive dissonance reduction,
+
+296
+00:34:23,200 --> 00:34:29,760
+the ability to reduce dissonance is hardwired precisely because it has survival value in that
+
+297
+00:34:29,760 --> 00:34:38,560
+thing. Exactly. And as human beings evolved and created new technologies, as agriculture emerged,
+
+298
+00:34:38,560 --> 00:34:45,600
+as economies grew and flourished, people had more beliefs to defend as being the right ones.
+
+299
+00:34:46,240 --> 00:34:52,400
+If you're living in a little band where you have your creation myth of how your people came to be,
+
+300
+00:34:52,400 --> 00:34:58,560
+and you never meet anybody from another band with a different point of view, the day that you do,
+
+301
+00:34:58,560 --> 00:35:03,440
+the day that the next tribe arrives and says, No, no, your God isn't the right God. Our God is the
+
+302
+00:35:03,440 --> 00:35:08,720
+right God. Well, now what are you going to do with that information? What are you going to do with
+
+303
+00:35:08,720 --> 00:35:13,840
+information that your way of planting crops is the wrong way and our way is a better way.
+
+304
+00:35:13,840 --> 00:35:22,800
+So to the extent this, this to me is one of the most interesting things about dissonance.
+
+305
+00:35:23,360 --> 00:35:30,960
+It's to the extent that a belief is really deeply important to us. That's when we become
+
+306
+00:35:32,320 --> 00:35:40,240
+most tenacious in holding on to it. It's why, for example, it's not just dumb people who feel the
+
+307
+00:35:40,320 --> 00:35:46,400
+need to reduce dissonance. The greatest danger comes from smart people who refuse to accept the
+
+308
+00:35:46,400 --> 00:35:51,120
+evidence that they have done something foolish or stupid or that they were holding on to a belief
+
+309
+00:35:51,120 --> 00:35:58,320
+or a medical practice long past its shelf life. And now you're saying, I, a smart, competent,
+
+310
+00:35:58,320 --> 00:36:01,760
+professional person who knows more about the subject than anyone in the world and you're
+
+311
+00:36:01,760 --> 00:36:08,080
+telling me I'm wrong, the hell with you. Well, that's the scary part, right? That's,
+
+312
+00:36:08,640 --> 00:36:13,520
+that to me is the part that is, look, just on a personal level, that's what gripped me with
+
+313
+00:36:13,520 --> 00:36:17,920
+reading about this was, wait a minute, how many times am I doing this? Because by definition,
+
+314
+00:36:17,920 --> 00:36:23,280
+the person doing it is generally blind to it. I mean, this is effectively a form of confirmation
+
+315
+00:36:23,280 --> 00:36:28,800
+bias. That's the cherry picking that you were alluding to that Elliott, you pointed out is it's
+
+316
+00:36:28,800 --> 00:36:34,480
+a subconscious type of cherry picking and confirmation bias. We can talk about it all
+
+317
+00:36:34,480 --> 00:36:41,280
+day long and any science student worth their salt can define it up and down, but it's how often are
+
+318
+00:36:41,280 --> 00:36:47,840
+we doing it? And the more and more entrenched we get in our fields, the more and more quote,
+
+319
+00:36:47,840 --> 00:36:55,200
+knowledgeable we become, the more difficult it becomes to walk back from something that you once
+
+320
+00:36:55,280 --> 00:37:05,360
+held dear. And Peter, my favorite example of this is the prosecuting attorney who worked hard on a
+
+321
+00:37:05,360 --> 00:37:13,040
+case. Let's say it's a murder case. And he sends the person to prison, he gets a conviction,
+
+322
+00:37:13,040 --> 00:37:21,920
+the person goes to prison and is in prison for 25 years. And then some DNA evidence shows up
+
+323
+00:37:22,880 --> 00:37:31,440
+that proves beyond a shadow of a doubt in anyone else's mind, that the convicted person was actually
+
+324
+00:37:31,440 --> 00:37:39,600
+innocent of that crime. What happens to the typical prosecuting attorney in that situation is
+
+325
+00:37:41,120 --> 00:37:51,600
+he would feel so bad, so incompetent, so awful, learning that he sent a person away for 25 years
+
+326
+00:37:52,560 --> 00:38:01,360
+when he's really innocent. And then he says to himself, that can't be true. The DNA evidence has
+
+327
+00:38:01,360 --> 00:38:10,800
+to be wrong. And so he keeps him in prison for another 25 years. And he does that not because
+
+328
+00:38:10,800 --> 00:38:19,520
+he's an evil guy, but because he thinks of himself as a good guy, and a competent guy,
+
+329
+00:38:19,520 --> 00:38:24,320
+as someone who would never make a terrible mistake like that.
+
+330
+00:38:24,320 --> 00:38:29,040
+Yeah, it's funny you mentioned that, Elliot. One of the things I was thinking about when I read the
+
+331
+00:38:29,040 --> 00:38:34,480
+book, and I made a note to bring it up, because I went back and re skimmed it for the 57th time,
+
+332
+00:38:34,480 --> 00:38:40,480
+was the Amanda Knox case. Do you remember this American girl? I think she was from the northwest,
+
+333
+00:38:40,480 --> 00:38:45,680
+and she was studying abroad in Italy, had a roommate that it was this tragic thing where
+
+334
+00:38:45,680 --> 00:38:49,600
+the roommate, and I think the roommate's boyfriend, were murdered. And it was pretty
+
+335
+00:38:49,600 --> 00:38:55,280
+clear on first pass that Amanda had nothing to do with this, and yet this prosecutor in Italy had a
+
+336
+00:38:55,280 --> 00:39:02,320
+real bee in his bonnet that she was hands down the perpetrator. And then of course the DNA evidence
+
+337
+00:39:02,320 --> 00:39:06,560
+emerges, because the killer actually went to the bathroom while he was in the house, was my rec
+
+338
+00:39:06,560 --> 00:39:12,720
+collection. They basically get his DNA out of the toilet. Nope, it's this other guy who they find.
+
+339
+00:39:13,280 --> 00:39:18,160
+The prosecutor keeps moving the goal post. Well, maybe she didn't actually kill him,
+
+340
+00:39:18,160 --> 00:39:22,240
+but she was in cahoots with this guy, though there's no evidence she's ever met this guy before
+
+341
+00:39:22,240 --> 00:39:26,480
+at any motive. I mean, the whole thing got more and more and more ridiculous. Now, in her case,
+
+342
+00:39:26,480 --> 00:39:31,680
+she's lucky. Despite the multiple times she was actually convicted in an Italian court,
+
+343
+00:39:31,680 --> 00:39:37,440
+ultimately it was overturned. But you watch that story unfold. Another example, which I've heard
+
+344
+00:39:37,440 --> 00:39:43,760
+you lecture on, Carol, is the Duke Lacrosse, one from God, it's probably 15 years ago now, right?
+
+345
+00:39:44,400 --> 00:39:47,680
+Well, in that case, so many issues played into this.
+
+346
+00:39:47,680 --> 00:39:51,600
+Walk us through that story and how that's another great example of a case study in cognitive
+
+347
+00:39:51,600 --> 00:39:57,600
+dissonance. The examples in all of these cases are what happens when a district attorney,
+
+348
+00:39:57,600 --> 00:40:04,240
+for political reasons, personal advancement reasons, decides that he or she knows who the
+
+349
+00:40:04,240 --> 00:40:12,080
+guilty person is and then just narrows the focus on getting that person convicted and ignoring
+
+350
+00:40:12,080 --> 00:40:18,400
+any disconfirming, dissonant evidence that would throw that assumption into question.
+
+351
+00:40:19,040 --> 00:40:26,480
+The lacrosse case was the guys from the lacrosse team who had a stripper to a party at their, I
+
+352
+00:40:26,480 --> 00:40:31,200
+guess, their fraternity house, right? And she later claimed that she had been raped. Well,
+
+353
+00:40:31,200 --> 00:40:41,200
+this story fit every story that just touches so many buttons of race and women and fraternities
+
+354
+00:40:41,200 --> 00:40:46,400
+and how terrible fraternity guys are. And they're all racist anyway and so forth.
+
+355
+00:40:47,760 --> 00:40:54,080
+I don't know, something like 80 faculty members at Duke took out a ad in the school paper about
+
+356
+00:40:54,080 --> 00:40:59,440
+the toxic masculinity of the lacrosse team in particular and men and fraternities in general
+
+357
+00:40:59,440 --> 00:41:04,880
+and so forth. And so they were all backing themselves into a corner until it turned out
+
+358
+00:41:04,880 --> 00:41:11,120
+that the district attorney was not giving the exculpatory evidence to the defense. The district
+
+359
+00:41:11,120 --> 00:41:18,240
+attorney was eventually disbarred. It was a scandalous case, but he saw in this story of race
+
+360
+00:41:18,240 --> 00:41:22,880
+and gender and rape and fraternity brothers, a way to really make name and fame for himself.
+
+361
+00:41:23,520 --> 00:41:29,360
+That's a particularly egregious example, but it's not uncommon. No, these cases are not
+
+362
+00:41:29,360 --> 00:41:36,480
+rare at all. And my favorite example, of course, is the is the Central Park Jogger case,
+
+363
+00:41:37,200 --> 00:41:45,440
+where these black kids, they actually confessed to the crime and were sent to prison. A fellow
+
+364
+00:41:45,440 --> 00:41:53,200
+named Donald Trump took out full page ads in all of the New York newspapers saying they should be
+
+365
+00:41:53,200 --> 00:42:00,400
+executed, even though some of them were underage. And then it turned out that the DNA evidence never
+
+366
+00:42:00,400 --> 00:42:07,760
+matched on the kids and the semen that was found on the woman. And then some other person who was
+
+367
+00:42:07,760 --> 00:42:14,240
+in prison for a similar crime confessed to it and sure enough, his DNA evidence did match.
+
+368
+00:42:15,040 --> 00:42:24,000
+And the prosecuting attorney, Linda Feirstein, insists to this day that she was right.
+
+369
+00:42:25,040 --> 00:42:31,360
+And she would refuse to overturn the evidence that had to be overturned by the district attorney,
+
+370
+00:42:32,080 --> 00:42:38,480
+who oversaw the case and totally vacated the evidence. And the city of New York
+
+371
+00:42:38,480 --> 00:42:45,520
+paid a huge compensation amount of money to those kids who were who spent several years in prison.
+
+372
+00:42:45,520 --> 00:42:52,000
+Feirstein said the just the typical thing that prosecutors say, we always knew there was a sixth
+
+373
+00:42:52,000 --> 00:43:02,720
+man. Exactly. We always knew there was a sixth man. That's what they say. Okay, so at the time
+
+374
+00:43:02,720 --> 00:43:06,960
+of the trial, we're only prosecuting this one guy because we know that he was the rapist and the
+
+375
+00:43:06,960 --> 00:43:12,800
+murderer. Oh, well, it wasn't his semen. Oh, well, then there was another guy there and our guy was
+
+376
+00:43:12,800 --> 00:43:18,800
+just holding the woman down while the other guy actually raped her. The Innocence Project guys
+
+377
+00:43:18,800 --> 00:43:25,840
+call this the unindicted co-ejaculator theory. It's just, you know, after the fact, we can come
+
+378
+00:43:25,840 --> 00:43:31,520
+up with any explanation of why we are still right, even though we're wrong. Now, there's a delicate
+
+379
+00:43:31,520 --> 00:43:36,160
+balance here. And I think the great story that I know you've talked about, because it's hard for
+
+380
+00:43:36,240 --> 00:43:41,040
+you, Carol, you talk about it being one of the times it really challenged you was the
+
+381
+00:43:41,040 --> 00:43:46,800
+McMartin nursery scandal back in the early 80s. And there's a great quote, I think you said about
+
+382
+00:43:46,800 --> 00:43:53,200
+Elliot, something to the effect of we sacrificed our skepticism at the altar of outrage. I love
+
+383
+00:43:53,200 --> 00:43:58,480
+that. And I want to come back to that. But again, let's tell that story, because that's another
+
+384
+00:43:58,480 --> 00:44:05,600
+great example. But what I want to do is tell this story through the lens of how do we think about
+
+385
+00:44:05,600 --> 00:44:12,000
+this in the current era, where accusations are coming greater and greater. And some of these
+
+386
+00:44:12,000 --> 00:44:18,000
+accusations are going to be true. And some of them are not going to be true. And how there's two ends
+
+387
+00:44:18,000 --> 00:44:22,320
+of that you can be at polar extremes of either of these, which are probably incorrect, but there
+
+388
+00:44:22,320 --> 00:44:28,240
+has to be a rational way to do it. So maybe thinking about that, that, that McMartin preschool
+
+389
+00:44:28,240 --> 00:44:32,640
+story, which in retrospect, you know, I don't remember it. I wasn't really old enough. I went
+
+390
+00:44:32,640 --> 00:44:38,240
+back and read about it. And I got to be honest with you on the one hand, it sounds completely
+
+391
+00:44:38,240 --> 00:44:44,880
+idiotic now. But then at the time I can say, but if you were a parent whose kid was going there,
+
+392
+00:44:44,880 --> 00:44:49,840
+you could easily see yourself getting sort of spiraled out of control too. So there's a part
+
+393
+00:44:49,840 --> 00:44:55,040
+of me that actually has quite a amount of empathy for everybody involved. And it just overall seems
+
+394
+00:44:55,040 --> 00:45:01,760
+like a really tragic story. Tell us about that story, specifically your own struggle within it.
+
+395
+00:45:02,480 --> 00:45:08,880
+First of all, this is a very, very important question, because here's what happens. The minute
+
+396
+00:45:08,880 --> 00:45:15,600
+there is a sensational story in the news, somebody is accused of something, for example,
+
+397
+00:45:16,240 --> 00:45:22,720
+what does the public generally do? We jump to a conclusion. Just as I thought that son of a
+
+398
+00:45:22,720 --> 00:45:29,520
+bitch really is a bastard and he did it, and then how horrible and the okay. Or we say, no, the
+
+399
+00:45:29,520 --> 00:45:34,240
+accuser is lying. The accuser has a checkered history. I don't want to believe what the accuser
+
+400
+00:45:34,240 --> 00:45:42,560
+says and so on. But we jumped to a conclusion. Now, what dissonance theory would predict is the minute
+
+401
+00:45:43,280 --> 00:45:50,800
+we make a decision, believe this person or believe the other person, we will now make our belief
+
+402
+00:45:50,800 --> 00:45:59,280
+conform to the evidence we're prepared to hear as things go forward. So this is the danger
+
+403
+00:45:59,280 --> 00:46:07,920
+of the early jumping to a decision, because then as time goes on, that choice, that belief that we
+
+404
+00:46:07,920 --> 00:46:13,920
+have will harden rather than become more open to disconfirming evidence. We will start looking for
+
+405
+00:46:13,920 --> 00:46:18,880
+all the reasons we were right to believe the accuser or to not believe the accuser, and we
+
+406
+00:46:18,880 --> 00:46:23,920
+will ignore and minimize or trivialize any information suggesting that we were wrong.
+
+407
+00:46:24,800 --> 00:46:33,840
+That is why that first decision is such a crucial one. Because again, the more we put into supporting
+
+408
+00:46:33,840 --> 00:46:38,720
+that initial decision, the harder it will be to change our mind. People say this is the slippery
+
+409
+00:46:38,720 --> 00:46:43,440
+slope, but the thing that dissonance theory teaches us is that there's nothing slippery about it.
+
+410
+00:46:44,000 --> 00:46:52,000
+It's our active self-justifications for the beliefs we have that take us down sometimes what
+
+411
+00:46:52,000 --> 00:46:57,200
+turns out to be a wrong path. We mentioned in the update to our book, there's a wonderful YouTube
+
+412
+00:46:57,200 --> 00:47:04,960
+that Sarah Silverman did that shows the pain of dissonance right there on the YouTube screen,
+
+413
+00:47:05,520 --> 00:47:11,680
+where she talks about her feelings about Louis C.K. when he was first admitted to have been
+
+414
+00:47:11,680 --> 00:47:18,960
+behaving in these inappropriate ways with women sexually. Fine. What she says in this video is a
+
+415
+00:47:18,960 --> 00:47:26,400
+perfect demonstration of dissonance. She says, he's my dear, good, wonderful friend. I love him.
+
+416
+00:47:27,040 --> 00:47:34,960
+I think he's a wonderful father. I adore this man. And what he did is reprehensible. And what he did
+
+417
+00:47:34,960 --> 00:47:40,480
+was a terrible thing to women. And I want to side with the women whom he offended so deeply.
+
+418
+00:47:41,440 --> 00:47:49,280
+She doesn't answer it, but she lives with this dissonance of this uncertainty.
+
+419
+00:47:50,400 --> 00:48:00,720
+My case with McMartin was something else. I was in Los Angeles at the time when the mother and her
+
+420
+00:48:00,720 --> 00:48:08,000
+two children who were working at this daycare center were suddenly accused of what turned out
+
+421
+00:48:08,080 --> 00:48:13,920
+to be utterly preposterous assaults on the children in their care, in spite of the fact that for many,
+
+422
+00:48:13,920 --> 00:48:18,480
+many years they had run this daycare center, nobody noticed anything amiss. Parents were walking in
+
+423
+00:48:18,480 --> 00:48:24,800
+and out of the place all the time. But sanity and common sense generally goes out the door
+
+424
+00:48:24,800 --> 00:48:31,760
+when you have a sentence with the words children and sex in the same sentence. Just as you said,
+
+425
+00:48:31,760 --> 00:48:37,200
+somebody comes and tells you a police officer turns up at your door, as the police did in this case,
+
+426
+00:48:37,200 --> 00:48:44,640
+and says, Peter, there have been some allegations of child molestation going on at your child's
+
+427
+00:48:44,640 --> 00:48:50,640
+daycare. You have any information about this? What are you going to say? What are you going to say?
+
+428
+00:48:50,640 --> 00:48:56,640
+Oh, this is likely to be a sex panic. I don't think you will. And I remember it was such big
+
+429
+00:48:56,640 --> 00:49:02,000
+news here in Los Angeles. It was hysterical news. I knew the prosecutor at the time. She was convinced
+
+430
+00:49:02,000 --> 00:49:10,480
+that this was really happening. And there were no researchers at the time doing psychological
+
+431
+00:49:10,480 --> 00:49:15,360
+research on how to interview children or on how children respond to repeated questions.
+
+432
+00:49:16,240 --> 00:49:21,840
+Nobody knew very much about anything. And at the time, there was a developmental psychologist who
+
+433
+00:49:21,840 --> 00:49:29,520
+argued that if you don't ask children leading questions, did the doctor touch you here on your
+
+434
+00:49:29,520 --> 00:49:35,200
+private parts? Did this person do this to you? If you don't ask leading questions, the child won't
+
+435
+00:49:35,200 --> 00:49:41,600
+tell you, for example, that she's been in a medical exam with a doctor who touched her. Well, that
+
+436
+00:49:41,600 --> 00:49:47,120
+seemed to justify the tactics that the social workers and police were doing with these little kids.
+
+437
+00:49:48,080 --> 00:49:59,120
+And I wrote an op-ed for the Los Angeles Times called Do Children Lie? Not about this.
+
+438
+00:50:00,480 --> 00:50:01,120
+Your title?
+
+439
+00:50:03,440 --> 00:50:10,160
+No, but I've had to live with that. In fact, that was the message of the op-ed. The op-ed was about
+
+440
+00:50:10,160 --> 00:50:18,960
+how you really have to ask children leading questions. So, of course, I can say that op-ed
+
+441
+00:50:18,960 --> 00:50:26,160
+was the psychological science as we knew it at that point. But am I embarrassed by it? Oh, you
+
+442
+00:50:26,160 --> 00:50:32,080
+bet I am, especially finding myself at a conference a couple of years later when Stephen Cece, who
+
+443
+00:50:32,080 --> 00:50:39,760
+became one of the great heroes of the research on this question, reminded everybody, do children lie?
+
+444
+00:50:39,760 --> 00:50:44,880
+Are you kidding? The idea that children never lie could only be said by someone who never was
+
+445
+00:50:44,880 --> 00:50:52,880
+a child or knew a child, for crying out loud. Anyway, Steve used a screenshot of my op-ed
+
+446
+00:50:53,680 --> 00:51:01,200
+as an example of how cordialist, foolish, and stupid even our good social psychologists are.
+
+447
+00:51:01,200 --> 00:51:02,240
+Oh, my God, I said that.
+
+448
+00:51:02,240 --> 00:51:05,280
+I don't even know if he used the word good social psychologist.
+
+449
+00:51:05,280 --> 00:51:10,160
+No, well, it was very embarrassing. Okay, so Peter, to your question, how did I feel?
+
+450
+00:51:10,160 --> 00:51:12,960
+Embarrassed, that's how I felt. That is how I felt.
+
+451
+00:51:12,960 --> 00:51:15,440
+And I was much smarter than you, Carol, on that.
+
+452
+00:51:15,440 --> 00:51:18,080
+Yes, you were, as usual. As usual.
+
+453
+00:51:21,280 --> 00:51:27,760
+I'm only kidding because I felt the same way that you did. I was far away at the time,
+
+454
+00:51:28,320 --> 00:51:33,840
+so I wasn't getting bombarded with the news. But I remember picking up a copy of Newsweek
+
+455
+00:51:33,840 --> 00:51:43,200
+magazine and seeing a picture of Mrs. MacMartin sticking her tongue out. And I thought, oh, my
+
+456
+00:51:43,200 --> 00:51:51,600
+God, this molester is mocking the seriousness of this situation. But since I didn't know much
+
+457
+00:51:51,600 --> 00:51:58,160
+about it, I kept out of it. But of course, she was sticking her tongue out. Some photographer was
+
+458
+00:51:58,160 --> 00:52:03,280
+harassing her, and she stuck her tongue out at the photographer, and that got published in Newsweek.
+
+459
+00:52:04,160 --> 00:52:12,800
+And that's an example of what happens. A person does a normal thing, gets angry at a photographer
+
+460
+00:52:12,800 --> 00:52:20,960
+for harassing her when she's being falsely accused in the press and in court of having
+
+461
+00:52:20,960 --> 00:52:27,680
+done a heinous crime, which she is innocent of. But if we believe that she's guilty,
+
+462
+00:52:28,480 --> 00:52:37,680
+everything she does begins to look like bizarre, dreadful behavior. Because once we have the
+
+463
+00:52:37,680 --> 00:52:46,960
+rubric of she is guilty of child molestation, then we can't see her as an innocent person
+
+464
+00:52:46,960 --> 00:52:52,400
+being angry at a harassing photographer. Exactly. I want to just highlight that with
+
+465
+00:52:52,400 --> 00:52:59,360
+a thought experiment, Elliot, which is you pick a person, whether it be someone who's accused of
+
+466
+00:52:59,360 --> 00:53:06,240
+a crime or a political figure or something, who you just hold in absolute contempt and imagine
+
+467
+00:53:06,240 --> 00:53:12,560
+them in 10 different positions, smiling this way, frowning that way, sticking their tongue out,
+
+468
+00:53:12,560 --> 00:53:18,400
+giving you the finger. There is not one of those 10 in which you can't come up with a negative
+
+469
+00:53:18,400 --> 00:53:24,720
+narrative. You look at someone that you deem grotesque, no matter how they present themselves.
+
+470
+00:53:24,720 --> 00:53:30,640
+Even if they're standing there with the slightest smile, you would view it as disgusting. How can
+
+471
+00:53:30,640 --> 00:53:37,600
+they not show more remorse? The slightest smile becomes a smurf. Yes. A frown becomes an admission
+
+472
+00:53:37,600 --> 00:53:46,240
+of guilt. We are so able to color this lens. It's amazing, isn't it? I'd like to add what I think is
+
+473
+00:53:46,240 --> 00:53:53,360
+the important take home on the MacMartin case. MacMartin was the first of a wave of hysterical
+
+474
+00:53:53,360 --> 00:54:01,600
+cases across the country in which daycare workers from here to Boston, hundreds of them were accused
+
+475
+00:54:01,600 --> 00:54:07,040
+of these kind of ritual sexual molestation of children in their care. Hundreds of daycare
+
+476
+00:54:07,040 --> 00:54:15,360
+workers went to prison. Some of them are still in prison. The lesson of MacMartin is not simply
+
+477
+00:54:16,000 --> 00:54:21,280
+that I was wrong or that others were wrong. It's this, and this is what's harder.
+
+478
+00:54:22,560 --> 00:54:29,360
+The first reaction that anybody had to MacMartin, we didn't know anything. The public had no way of
+
+479
+00:54:29,360 --> 00:54:35,040
+knowing that the first allegation was made by a woman who was so psychotic, so crazy, known to
+
+480
+00:54:35,040 --> 00:54:41,440
+the police that they stopped even listening to her after a while. Nobody knew that the police had
+
+481
+00:54:41,440 --> 00:54:48,000
+gone to every parent's home leading them into a panicky reaction as your child been sexually
+
+482
+00:54:48,000 --> 00:54:55,120
+molested. Nobody understood how the children were actually being interviewed by social workers
+
+483
+00:54:55,120 --> 00:55:01,840
+who were bringing in those anatomically detailed dolls with prominent genitals and testifying that
+
+484
+00:55:01,840 --> 00:55:06,240
+they knew if a child had been molested based on how the kid was playing with the doll.
+
+485
+00:55:06,800 --> 00:55:13,360
+Well, as you would have said before, those genitals are pretty interesting. No little kid
+
+486
+00:55:13,360 --> 00:55:18,640
+is going to ignore the genitals, but if they did ignore the genitals, they've been sexually abused
+
+487
+00:55:18,640 --> 00:55:22,320
+and traumatized, and if they play with the genitals, it's because they've been sexually
+
+488
+00:55:22,320 --> 00:55:30,000
+abused and traumatized. It took psychological scientists to do a controlled experiment and
+
+489
+00:55:30,000 --> 00:55:36,320
+ask children known to have been sexually molested and children known not to have been
+
+490
+00:55:36,320 --> 00:55:42,320
+sexually molested. Give them these dolls, see how the kids play with them, and as you can imagine,
+
+491
+00:55:42,320 --> 00:55:48,000
+there was no difference between these two groups. So the kinds of therapists who were marching into
+
+492
+00:55:48,000 --> 00:55:54,240
+court with no psychological scientific training at all, just their own observations, their hunches,
+
+493
+00:55:54,240 --> 00:55:59,280
+and their biases could testify with assurance that they knew that this kid had been molested.
+
+494
+00:55:59,840 --> 00:56:07,920
+So this is the kind of research that was done in the aftermath of these daycare cases that came to
+
+495
+00:56:07,920 --> 00:56:14,320
+transform how we understand children's testimony so that we can help the children who have been
+
+496
+00:56:14,320 --> 00:56:24,960
+molested but not destroy the lives of innocent adults either. So the task for us, embarrassed
+
+497
+00:56:24,960 --> 00:56:31,360
+as I was, dissonant that I felt for my own participation in what I wrote about MacMartin,
+
+498
+00:56:32,320 --> 00:56:38,800
+I really began atoning for this by writing about what was happening in the other daycare cases
+
+499
+00:56:38,800 --> 00:56:43,600
+across the country, such as the Emerald case in Boston, which was almost a mirror image of MacMartin.
+
+500
+00:56:44,160 --> 00:56:51,360
+There's a very subtle difference between always believe the victim versus always be skeptical
+
+501
+00:56:51,360 --> 00:56:58,640
+and take the accusation seriously. Those are not the same thing, but they're similar. They can
+
+502
+00:56:58,640 --> 00:57:04,880
+look similar at the outset, but this is a layer of nuance that seems to be missing from a lot of the
+
+503
+00:57:04,880 --> 00:57:12,880
+discussion today, isn't it? Absolutely. And in science, whenever ideology interferes,
+
+504
+00:57:13,520 --> 00:57:20,400
+it can distort the science and it certainly can distort public opinion. So the ideology now
+
+505
+00:57:20,960 --> 00:57:28,320
+because, and it's understandable because women, for example, have been ignored for a very long
+
+506
+00:57:28,320 --> 00:57:36,880
+time. So when they talk about sexual harassment now in this climate, the idea is always believe
+
+507
+00:57:36,880 --> 00:57:43,280
+them, always believe them because why would a woman come forward if she wasn't telling the truth?
+
+508
+00:57:44,240 --> 00:57:51,840
+But that's an ideological conclusion. I would substitute for that is always pay attention,
+
+509
+00:57:52,400 --> 00:58:01,680
+always listen, but keep an open mind and realize that there are probably at least two sides
+
+510
+00:58:01,680 --> 00:58:11,280
+to every story. So be respectful, listen, but keep some skepticism in mind. Now, some of the
+
+511
+00:58:11,360 --> 00:58:20,000
+radical feminists are saying, so it doesn't matter. So what if some guy is falsely accused and
+
+512
+00:58:20,000 --> 00:58:29,760
+falsely loses his job? It's almost as if it serves the people of that gender right because of all the
+
+513
+00:58:29,760 --> 00:58:37,840
+abuses our gender took in the past. And that's never a reasonable position. It's a very, very
+
+514
+00:58:37,840 --> 00:58:44,880
+old one, of course, in the era of recovered memory therapy, Peter, which you've written about
+
+515
+00:58:44,880 --> 00:58:49,440
+at length. This has got you, this has won you a lot of friends, Carol. A lot of friends,
+
+516
+00:58:49,440 --> 00:58:53,920
+really a lot, a lot of friends. One of my favorite descriptions you ever gave was
+
+517
+00:58:53,920 --> 00:58:58,720
+after you wrote your first lengthy tome on that someone, you said you got a lot of,
+
+518
+00:58:59,280 --> 00:59:05,840
+how did you describe it? A lot of lovely requests to go and passionately make love to yourself or
+
+519
+00:59:05,840 --> 00:59:13,440
+something like that. May you go forth into the world and multiply by yourself, yes. Yeah.
+
+520
+00:59:14,880 --> 00:59:22,640
+Oh yeah. Well, you see, any exhortation to believe, just to believe, I mean, I remember a cover of Ms.
+
+521
+00:59:22,640 --> 00:59:29,200
+Magazine many years ago about the alleged satanic ritual abuse cults, which were supposedly a foot
+
+522
+00:59:29,200 --> 00:59:34,800
+all over the country and people were believing that there were satanic ritual abuse cults that
+
+523
+00:59:34,800 --> 00:59:39,200
+were trapping children and women and so forth. And the cover of Ms. Magazine had one of these
+
+524
+00:59:39,200 --> 00:59:45,920
+satanic images with the cover line, believe it, believe it, really, I'm supposed to believe it.
+
+525
+00:59:45,920 --> 00:59:51,600
+So the idea that as women were going into psychotherapy and coming out believing that
+
+526
+00:59:51,600 --> 00:59:58,400
+they had multiple personalities, not just three or five, but 10, 100, 500, there was
+
+527
+00:59:59,120 --> 01:00:03,360
+an escalation of the belief in multiple personality disorder, which was another
+
+528
+01:00:04,000 --> 01:00:09,680
+hysterical epidemic in our country, lamented by many psychoanalysts and psychiatrists and social
+
+529
+01:00:09,680 --> 01:00:19,200
+workers until malpractice suits brought that bubble right down. But to say, I understand that
+
+530
+01:00:19,200 --> 01:00:24,720
+a person in therapy may be having trouble and may be suffering, but I get to question the explanation
+
+531
+01:00:24,720 --> 01:00:30,080
+that the therapist is giving them. It's not a matter of disrespect. It's a matter of understanding
+
+532
+01:00:30,080 --> 01:00:35,680
+and bringing our best science to bear on understanding. So I have always been skeptical
+
+533
+01:00:35,680 --> 01:00:42,240
+of the believe X group, whatever X group is uncritically, what's the evidence? What's the
+
+534
+01:00:42,240 --> 01:00:49,040
+best explanation for it? So one of the more interesting to me, ways of understanding many
+
+535
+01:00:49,040 --> 01:00:56,000
+of these very difficult, he said, she said, disagreements and debates, which are so painful
+
+536
+01:00:56,000 --> 01:01:05,600
+and so difficult. And we do understand how many, many thousands of women have been sexually abused
+
+537
+01:01:06,880 --> 01:01:14,480
+in so many ways. But, but here's the but if you are bringing up an allegation that occurred
+
+538
+01:01:14,480 --> 01:01:23,840
+six months ago, six years ago, 35 years ago, we're entitled to talk about what we understand about
+
+539
+01:01:23,840 --> 01:01:30,320
+memory, what we understand about the way in which information since the original event changes our
+
+540
+01:01:30,320 --> 01:01:37,280
+memory, or changes our interpretation of the event. Events that happened to us 25 years ago, that at
+
+541
+01:01:37,280 --> 01:01:43,440
+the time we thought were benign, we can come to see as being malevolent and traumatic and oppressive.
+
+542
+01:01:44,320 --> 01:01:50,800
+That's all part of how the psychological process works. And what social psychologists like Deborah
+
+543
+01:01:50,800 --> 01:02:00,160
+Davis have shown is that a person doesn't have to be lying to be wrong in making an allegation.
+
+544
+01:02:00,960 --> 01:02:08,080
+And a man doesn't have to be lying, he can be self justifying in responding to an allegation.
+
+545
+01:02:08,640 --> 01:02:16,160
+This is a different level of understanding that I think is important, especially when charges involve
+
+546
+01:02:16,160 --> 01:02:23,920
+the possibility of ruining someone's life. It doesn't fall into the category of there's always
+
+547
+01:02:23,920 --> 01:02:30,000
+a simple answer and there's always a right or wrong way to see a particular allegation.
+
+548
+01:02:30,000 --> 01:02:37,280
+This point also about memory, probably about six years ago I read, or five years ago, it was after
+
+549
+01:02:37,280 --> 01:02:41,920
+I had read your book for the first time, but I read the book by Catherine Schultz, Being Wrong.
+
+550
+01:02:42,560 --> 01:02:50,960
+And I also was very, moved is probably the wrong word, but I was struck by how feeble my memory
+
+551
+01:02:50,960 --> 01:02:56,720
+was. Because I've always, I think up until reading that book, I had never questioned that the way I
+
+552
+01:02:56,720 --> 01:03:01,600
+remembered something was correct. Because I have a very good memory for random stupid things.
+
+553
+01:03:01,600 --> 01:03:10,240
+You know, like I can tell you that on, you know, Monday, June 27th, 1988, I did this and it happened
+
+554
+01:03:10,240 --> 01:03:13,840
+this way and that way and this way and that way. And I can be right on some of those things,
+
+555
+01:03:13,840 --> 01:03:20,320
+but I can be surprisingly wrong on other things. And I think reading that book helped me appreciate
+
+556
+01:03:20,320 --> 01:03:27,920
+how much I could be wrong about. And that became really scary to me because it really made me
+
+557
+01:03:27,920 --> 01:03:36,640
+realize that I'm quite fallible to my own BS. I thought I was somehow, I levitated above that.
+
+558
+01:03:36,640 --> 01:03:41,840
+Like I just thought whatever was in Peter's memory vault had happened. And now to know that
+
+559
+01:03:41,840 --> 01:03:46,720
+that's not true is a little scary, but to your point, it's probably not true for anyone.
+
+560
+01:03:47,600 --> 01:03:54,560
+The common idea is that we have a little tape recorder inside our brain and all we have to do
+
+561
+01:03:54,560 --> 01:04:01,760
+is press the button and it'll all come out is wrong because it's not all in there. A lot of it
+
+562
+01:04:01,760 --> 01:04:08,480
+gets confabulated and things get mixed together that don't belong together. So it doesn't have
+
+563
+01:04:08,480 --> 01:04:15,920
+to be any matter of self justification or any kind of distance reduction. It can be just wrong,
+
+564
+01:04:15,920 --> 01:04:24,400
+just randomly wrong and misremembered in some sort of harmless way, as in Carol's famous memory
+
+565
+01:04:24,960 --> 01:04:27,920
+of that book that she sure her father read to her.
+
+566
+01:04:31,760 --> 01:04:32,880
+Handing you the ball.
+
+567
+01:04:33,520 --> 01:04:40,240
+Oh, is that the ball? Oh, how did I miss the ball landing right here in my lap? Oh, well, yes,
+
+568
+01:04:40,240 --> 01:04:48,000
+when we were writing our book, I had a vivid, vivid memory of my father reading me James Thurber's
+
+569
+01:04:48,000 --> 01:04:55,280
+The Wonderful O. It's a, by the way, a wonderful book about pirates who remove the letter O from
+
+570
+01:04:55,280 --> 01:05:00,880
+the alphabet, from speech and from every object. You may keep geese, but not a goose and so forth.
+
+571
+01:05:00,880 --> 01:05:05,040
+Anyways, a wonderful, wonderful book. And I remember him reading it to me and are laughing
+
+572
+01:05:05,040 --> 01:05:11,280
+about what names would be like without their O's, Ophelia, Oliver, and so forth. And then, because
+
+573
+01:05:11,280 --> 01:05:16,240
+I like to read that book every so often just to cheer myself up, I go and I see its publication
+
+574
+01:05:16,240 --> 01:05:25,440
+date, which was one year after my father died. It just hit me in the, how could, what, how could
+
+575
+01:05:25,440 --> 01:05:31,040
+that be? And of course, then that starts you on another trail. Well, who did read it to me? And
+
+576
+01:05:31,040 --> 01:05:36,880
+wait a minute, I was a teenager. Who's reading me a book when I'm a teenager? What, you know,
+
+577
+01:05:36,880 --> 01:05:41,680
+all the things that I had made up around that and they were wrong, which is why I like to think of
+
+578
+01:05:42,800 --> 01:05:51,520
+dissonance theory as an incredibly helpful mechanism of understanding that is a form of
+
+579
+01:05:51,520 --> 01:06:00,160
+arrogance control and certainty control. And if we can learn to have passionate beliefs
+
+580
+01:06:00,720 --> 01:06:08,880
+that give our lives color and meaning that we live by, but to hold them lightly enough so that
+
+581
+01:06:08,880 --> 01:06:17,200
+if the evidence comes along that our favorite diet is wrong, we can finally have to say,
+
+582
+01:06:17,200 --> 01:06:21,920
+you know what, I was wrong on that one. Yeah, this idea of doubt versus arrogance
+
+583
+01:06:21,920 --> 01:06:28,480
+is amazing, but society doesn't really reward doubt as much as it rewards arrogance, right?
+
+584
+01:06:28,480 --> 01:06:35,120
+I mean, isn't that part of the challenge where we're, I think culturally a little bit more likely
+
+585
+01:06:35,120 --> 01:06:42,160
+to find somebody believable. Doesn't a patient want a doctor? Maybe arrogant is too strong a word,
+
+586
+01:06:42,160 --> 01:06:46,320
+but doesn't a patient want a doctor that is, yeah, exactly. Much more certain. Confident.
+
+587
+01:06:46,720 --> 01:06:55,360
+Much more confident. We want certainty. Yeah. And certainty can easily morph into arrogance.
+
+588
+01:06:56,080 --> 01:07:03,120
+I remember once when I was serving as an expert witness in a murder case, I was presenting some
+
+589
+01:07:03,120 --> 01:07:12,400
+psychological data that favored the accused person. I said, all of the things being equal
+
+590
+01:07:13,200 --> 01:07:19,840
+and the prosecuting attorney leaped on that saying, oh, sure, all of the things, but in the
+
+591
+01:07:19,840 --> 01:07:26,960
+real world, professor, all other things are hardly ever equal. And of course, as you know,
+
+592
+01:07:26,960 --> 01:07:35,120
+court trials are somewhat theatrical because they're playing to the jury. And I finally had to
+
+593
+01:07:35,120 --> 01:07:41,200
+turn to the judge and said, that requires an explanation. And the judge was very sympathetic
+
+594
+01:07:41,200 --> 01:07:48,320
+to me. And I finally had to say that all other things being equal is simply the cradle of
+
+595
+01:07:48,320 --> 01:07:58,720
+experimental science. It means that you control extraneous variables that could distort the data,
+
+596
+01:07:58,720 --> 01:08:06,960
+not that it proves your case, it's simply random error that can distort the data so that it's a
+
+597
+01:08:06,960 --> 01:08:15,040
+good thing to hold all other things equal, not a bad thing about science. That's the kind of thing
+
+598
+01:08:15,040 --> 01:08:21,520
+that we're talking about that I'm not sure why I started that story.
+
+599
+01:08:21,520 --> 01:08:28,960
+Well, no, because see, this is another interesting thing. It's why many people prefer the pseudosciences
+
+600
+01:08:28,960 --> 01:08:35,840
+where somebody gives you a certain answer. I know that if you eat this thing, this following
+
+601
+01:08:35,840 --> 01:08:42,000
+health benefit will occur. Whereas scientists have the irritating habit of talking in probabilities.
+
+602
+01:08:42,000 --> 01:08:47,760
+It is likely that it is probable that in fact, every scientist knows that the people who speak
+
+603
+01:08:47,760 --> 01:08:52,400
+uncertainties are not speaking scientifically. That's just not how scientists think. And that's
+
+604
+01:08:52,400 --> 01:08:59,520
+not how they would present their findings. But certainty is what most people want to hear.
+
+605
+01:09:00,480 --> 01:09:07,280
+But of course, if someone really is certain about something, they have almost certainly frozen their
+
+606
+01:09:07,280 --> 01:09:12,160
+ability to change their minds when they need to. I want to talk about something that you guys have
+
+607
+01:09:12,160 --> 01:09:17,280
+written about as you have your pyramid diagram. I talk about it as sort of a path dependency is
+
+608
+01:09:17,280 --> 01:09:24,720
+the way I kind of describe it to people. And I find this to be, I think, one of the most
+
+609
+01:09:25,280 --> 01:09:32,480
+remarkable explanations that you provide for how two people can start out with a very similar set
+
+610
+01:09:32,480 --> 01:09:39,680
+of beliefs and yet come to these very pivotal moments where a decision is made that sets them
+
+611
+01:09:39,680 --> 01:09:46,720
+on a path. And that path becomes reinforcing and reinforcing and reinforcing. And after a long
+
+612
+01:09:46,720 --> 01:09:52,800
+enough period of time, those people are so divergent in their beliefs and in their behaviors,
+
+613
+01:09:52,800 --> 01:09:58,080
+and including their view of each other, that they seem unrecognizable as though they came from the
+
+614
+01:09:58,080 --> 01:10:04,320
+same species, let alone that they once stood next to each other. Let's go with two examples. Let's
+
+615
+01:10:04,320 --> 01:10:12,400
+talk about the two college freshmen who have never before cheated on a test that are now both in the
+
+616
+01:10:12,400 --> 01:10:18,880
+final exam room. And they are both coming to the same question that they don't know the answer to
+
+617
+01:10:18,880 --> 01:10:24,960
+confronted with an opportunity to cheat. So Carol, walk us through how one could cheat, one could not,
+
+618
+01:10:24,960 --> 01:10:29,760
+and the implication of this, what these two people, how these people go through the world 10 years later
+
+619
+01:10:29,760 --> 01:10:35,840
+as a result of that decision. Right. This example was actually based on an experiment that had been
+
+620
+01:10:35,840 --> 01:10:40,720
+done many years ago with children. And it's really quite simple. The two students have pretty much
+
+621
+01:10:40,720 --> 01:10:45,920
+the same attitude about cheating. It's not a desirable thing to do. We know it's not a good
+
+622
+01:10:45,920 --> 01:10:52,320
+thing to do, but you know, it's not the worst sin in the world. And now here they are in their exam
+
+623
+01:10:52,320 --> 01:10:57,120
+and they draw blank on this crucial question. And the crucial question will determine their grade on
+
+624
+01:10:57,120 --> 01:11:03,520
+the exam and in the manner of students, not only on the exam, but in this course and in life. And
+
+625
+01:11:03,520 --> 01:11:08,400
+everything will go south if I don't get an A on this exam. And so forth in the way that students
+
+626
+01:11:08,400 --> 01:11:14,240
+often panic. And suddenly they are given the opportunity to cheat as the student next to them,
+
+627
+01:11:14,240 --> 01:11:20,640
+the one with the beautiful handwriting makes her answers available to them. Now they have
+
+628
+01:11:20,640 --> 01:11:29,280
+a second to decide, cheat or not cheat. One cheats, one doesn't cheat. One gives up integrity
+
+629
+01:11:29,280 --> 01:11:33,360
+for the grade. The other says no integrity is too important. I'm not going to look.
+
+630
+01:11:34,720 --> 01:11:40,320
+The minute they make that decision, as I was using this in a way earlier, the minute they make that
+
+631
+01:11:40,320 --> 01:11:47,680
+decision, they now have to put their behavior and their attitude toward cheating into consonants.
+
+632
+01:11:48,800 --> 01:11:56,800
+So their attitude about cheating will now change to be consonant with the behavior of what they did.
+
+633
+01:11:57,360 --> 01:12:02,960
+So the one who cheated will not modify that view to say cheating isn't such a bad thing. Please,
+
+634
+01:12:02,960 --> 01:12:09,920
+everybody cheats. It's just a victimless crime. Who cares? But the one who resisted cheating
+
+635
+01:12:10,480 --> 01:12:16,560
+will now feel even more strongly that cheating is wrong and unfair. And it's not a victimless crime.
+
+636
+01:12:16,560 --> 01:12:22,560
+What about all the people who don't cheat and work hard and learn the material? Over time,
+
+637
+01:12:23,200 --> 01:12:31,360
+as they move along, their attitudes about cheating and their self-justifications for their own
+
+638
+01:12:31,360 --> 01:12:37,920
+behavior will keep reinforcing. And we use the metaphor of the pyramid because they start out
+
+639
+01:12:37,920 --> 01:12:44,960
+at the top side by side, but by the time they have finished justifying one step at a time,
+
+640
+01:12:45,760 --> 01:12:50,560
+their own behavior, they stand at the bottom of the pyramid very far apart from each other.
+
+641
+01:12:51,200 --> 01:12:59,360
+And for me, what I find most illuminating in this metaphor is that it demonstrates how hard it is to
+
+642
+01:12:59,360 --> 01:13:04,320
+go back up. Because now here you are at the bottom and you've spent all this time and energy
+
+643
+01:13:04,320 --> 01:13:09,200
+justifying your decision to cheat or not cheat. How are you going to now go back and say, you know,
+
+644
+01:13:09,200 --> 01:13:15,600
+that first step I took off the pyramid was really the wrong one? So that is the
+
+645
+01:13:16,400 --> 01:13:22,160
+metaphor we use in explaining why people get themselves locked into a belief or a practice.
+
+646
+01:13:22,800 --> 01:13:30,000
+And what that metaphor really illustrates beautifully is that every time a person has
+
+647
+01:13:30,000 --> 01:13:36,720
+to make an important decision, and it's a difficult decision, like the cheating example,
+
+648
+01:13:37,680 --> 01:13:45,040
+he or she is doomed to experience cognitive dissonance. For the students who cheat,
+
+649
+01:13:46,080 --> 01:13:54,720
+the dissonance is, I see myself as a basically honest person, and yet I'm committing a dishonest
+
+650
+01:13:54,720 --> 01:14:01,200
+act. Therefore, to reduce dissonance, that act isn't so very important because everybody would
+
+651
+01:14:01,200 --> 01:14:08,160
+do it, I'd be a fool not to do it. For the person who resists the temptation to cheat,
+
+652
+01:14:08,160 --> 01:14:13,040
+the cognitive dissonance is, I could have gotten a really good grade in this course,
+
+653
+01:14:13,040 --> 01:14:20,000
+and that would have allowed me to go to medical school, and I chose not to do it. Therefore,
+
+654
+01:14:20,000 --> 01:14:26,320
+it would have been a horrible crime if I had cheated, so that you cannot escape
+
+655
+01:14:26,960 --> 01:14:32,720
+cognitive dissonance no matter which way you choose, and the cognitive dissonance
+
+656
+01:14:32,720 --> 01:14:38,160
+is followed by self-justification, which changes the attitude enormously.
+
+657
+01:14:38,160 --> 01:14:43,120
+— Elliot, to borrow your phrase from a moment ago, all things equal if I took 200 students
+
+658
+01:14:43,120 --> 01:14:48,400
+and looked at a hundred of them who elected one path or the other, so just pick whichever path
+
+659
+01:14:48,480 --> 01:14:56,800
+you want to discuss. How much variability is there in the dissonant response amongst that group?
+
+660
+01:14:56,800 --> 01:15:01,680
+So if you take, for example, say the group that decided to cheat and now has to spend the rest
+
+661
+01:15:01,680 --> 01:15:07,520
+of their life justifying, this was not victimless, this has allowed me to get to graduate school,
+
+662
+01:15:07,520 --> 01:15:10,960
+I'm going to have a greater impact on the world, blah, blah, blah, blah, blah, blah, blah. How
+
+663
+01:15:10,960 --> 01:15:16,960
+variable are those students in their responses, and what is the extent to which that is
+
+664
+01:15:16,960 --> 01:15:19,680
+subconscious versus conscious and how it plays out?
+
+665
+01:15:19,680 --> 01:15:26,480
+— There's no real answer to that question without doing the experiment, but in the experiment that
+
+666
+01:15:26,480 --> 01:15:34,400
+was done by one of my fellow graduate students at Stanford, a guy named Judson Mills, there was
+
+667
+01:15:34,400 --> 01:15:41,600
+almost no overlap between the final feelings between the kids who cheated and the kids who
+
+668
+01:15:41,600 --> 01:15:49,600
+didn't cheat. Each one deviated from their feelings about cheating a day before they were put
+
+669
+01:15:49,600 --> 01:15:57,200
+in that situation. So there was a little overlap, but it had a major impact on their attitudes about
+
+670
+01:15:57,200 --> 01:16:04,080
+cheating. — If I may, it happens that we have an example here in our very own book from the high
+
+671
+01:16:04,080 --> 01:16:11,120
+achieving high pressure Stuyvesant High School in New York City. 71 students were caught exchanging
+
+672
+01:16:11,600 --> 01:16:19,040
+exam answers, and they gave the New York Times reporter a litany of perfect self-justifications,
+
+673
+01:16:19,040 --> 01:16:25,760
+which allowed themselves to keep seeing themselves as smart students of integrity. One said,
+
+674
+01:16:25,760 --> 01:16:31,520
+it's like, I'll keep my integrity and fail this test? No, no one wants to fail a test. You could
+
+675
+01:16:31,520 --> 01:16:37,360
+study for two hours and get an 80, or you could take a risk and get a 90. He redefined cheating
+
+676
+01:16:37,360 --> 01:16:44,240
+as taking a risk. For others, cheating was a necessary evil. For many, it was helping
+
+677
+01:16:44,240 --> 01:16:50,240
+classmates in need. When one girl finally realized her classmates had been relying on her to write
+
+678
+01:16:50,240 --> 01:16:56,560
+their papers for them, she said, I respect them and think they have integrity, but sometimes the
+
+679
+01:16:56,560 --> 01:17:05,040
+only way you could have gotten there is to kind of botch your ethics. Kind of botch your ethics,
+
+680
+01:17:05,360 --> 01:17:10,880
+there you go. How do they define integrity in this, that's right. Exactly. So there's another
+
+681
+01:17:10,880 --> 01:17:17,120
+example that's even more distressing though, and I think this was in your book, but if not, Carol,
+
+682
+01:17:17,120 --> 01:17:21,920
+I know we've discussed it, which is- Well, put it in the next edition. Well, but I think it is actually
+
+683
+01:17:21,920 --> 01:17:28,560
+in there, which is to the point where the cop is just planting evidence on people who are clearly
+
+684
+01:17:28,560 --> 01:17:33,040
+innocent. Do you remember, was this in the book? Oh yeah, test aligning, there's a term for it.
+
+685
+01:17:33,040 --> 01:17:38,720
+I think the way you walk down this is, look, maybe the first time it happens is they break
+
+686
+01:17:38,720 --> 01:17:43,840
+into the crack house. You know this house is full of crack. There's no dispute. As soon as
+
+687
+01:17:43,840 --> 01:17:48,480
+the battering ram goes through the door, you can see the plume of smoke. You see this one guy
+
+688
+01:17:48,480 --> 01:17:55,200
+running into the bathroom, slamming the door, locking it, and you hear him literally shoveling
+
+689
+01:17:55,200 --> 01:18:01,600
+drugs into the toilet as he flushes it. And just as you get the door open, you see the last swirl
+
+690
+01:18:01,600 --> 01:18:10,000
+of water taking that last gram of cocaine down the toilet, and you are out of luck. And in that
+
+691
+01:18:10,000 --> 01:18:15,920
+situation, when you know as sure as God made little green apples that these guys are filthy,
+
+692
+01:18:15,920 --> 01:18:21,680
+you plant that cocaine right on that guy, and you make your arrest, and you finally have your bad
+
+693
+01:18:21,680 --> 01:18:28,160
+guy. And there's another cop there who would refuse to do it even in that situation. Now again,
+
+694
+01:18:28,160 --> 01:18:33,360
+those guys are at the top of the pyramid. What can those guys look like 10 years later? That
+
+695
+01:18:33,360 --> 01:18:39,600
+guy who planted that drug in that situation, which seems quite justifiable, right? What is that guy
+
+696
+01:18:39,600 --> 01:18:45,840
+doing 10 years later? Is that Mark Furman? You remember this bozo in the OJ Simpson trial? I mean,
+
+697
+01:18:45,840 --> 01:18:51,360
+I guess to me one of the points of these stories is you probably aren't starting out with the most
+
+698
+01:18:51,360 --> 01:18:56,640
+egregious examples of behaviors that people think about, right? You probably got there stepwise.
+
+699
+01:18:57,120 --> 01:19:01,120
+Well, that's just it. We look at people very often who are at the bottom of the pyramid,
+
+700
+01:19:01,120 --> 01:19:05,760
+and we don't realize that they started at the top. They made decisions, very, very small,
+
+701
+01:19:05,760 --> 01:19:10,960
+tiny decisions. Jeb Stuart Magruder in our book and how he got enmeshed in the Watergate scandal,
+
+702
+01:19:10,960 --> 01:19:17,040
+it was one step at a time starting with the smallest, smallest compromises until he could
+
+703
+01:19:17,040 --> 01:19:22,080
+not get unenmeshed, right? And so it's true. Very often we look at the behavior of people without
+
+704
+01:19:22,080 --> 01:19:29,040
+realizing all the time, effort, and money that they put into justifying their behavior
+
+705
+01:19:29,680 --> 01:19:36,640
+as they got further and further along. So behavior that seems really puzzling to us at a distance
+
+706
+01:19:37,360 --> 01:19:43,680
+makes far more sense when we see it in terms of this one step at a time, which is one of
+
+707
+01:19:43,680 --> 01:19:49,760
+Eliot's great experiments, Eliot, the initiation experiment. I remember that. Remember that one?
+
+708
+01:19:50,720 --> 01:19:53,280
+Terrific demonstration of this. You want to tell it?
+
+709
+01:19:54,240 --> 01:19:55,840
+No, why don't you tell it, Kelly?
+
+710
+01:19:55,840 --> 01:19:58,560
+No, I'm not. We don't even know if Peter wants you to tell it.
+
+711
+01:19:58,560 --> 01:20:00,640
+I would love for one of you to tell it.
+
+712
+01:20:05,680 --> 01:20:09,760
+No, this is the critical point, right? The initiation, this is what I describe as sort
+
+713
+01:20:09,760 --> 01:20:14,160
+of the path dependency, right? It's the switch on the train. And as you said,
+
+714
+01:20:14,960 --> 01:20:19,600
+if you're faced with a hard decision, I think most of us don't appreciate
+
+715
+01:20:20,320 --> 01:20:24,800
+what the consequences of that can be if we take it with the wrong mindset.
+
+716
+01:20:25,520 --> 01:20:30,640
+And this is something I wanted to come to later, which is identity versus behavior,
+
+717
+01:20:30,640 --> 01:20:37,520
+right? So it's sort of like you can say in this moment with these facts, I'm going to make this
+
+718
+01:20:37,600 --> 01:20:44,320
+decision. But I think when you can do that without pinging your identity to that decision,
+
+719
+01:20:44,320 --> 01:20:51,280
+and instead just ping your behavior to it, I think it becomes a lot easier to move off that path
+
+720
+01:20:52,000 --> 01:20:54,080
+when you're encountering new information.
+
+721
+01:20:54,640 --> 01:20:56,640
+But sometimes it's too easy.
+
+722
+01:20:56,640 --> 01:20:58,880
+Let's talk through some of these. Let's talk through this experiment.
+
+723
+01:20:58,880 --> 01:20:59,360
+Yeah.
+
+724
+01:20:59,360 --> 01:21:06,160
+Let's take the example you just gave of the cop who knows they're guilty. He can see the smoke.
+
+725
+01:21:06,640 --> 01:21:11,200
+He hears the toilet flush and sees all of the evidence going down the toilet.
+
+726
+01:21:11,760 --> 01:21:18,320
+Now you said you can see how that could be that is justified that he plants the cocaine because he
+
+727
+01:21:18,320 --> 01:21:26,400
+saw he knows they're guilty. And I would suggest that it's never justified. That it's never
+
+728
+01:21:26,400 --> 01:21:36,000
+justified. It's understandable that he might plant the cocaine. But because of what I know about
+
+729
+01:21:36,080 --> 01:21:43,760
+how the human mind works, I also know that once he takes that step of planting cocaine,
+
+730
+01:21:44,720 --> 01:21:52,320
+that he didn't actually find there, it makes the next step and the step after that a lot easier.
+
+731
+01:21:52,880 --> 01:21:59,280
+And the next thing you know, there's a totally innocent person who has been framed for a crime
+
+732
+01:21:59,280 --> 01:22:00,080
+he didn't commit.
+
+733
+01:22:01,120 --> 01:22:08,640
+And notice, by the way, the dissonance a police officer will feel for another cop in the room
+
+734
+01:22:09,280 --> 01:22:14,400
+to say, no, no, no, no, this is wrong. And don't do this. I mean, we see this as one of the problems
+
+735
+01:22:14,400 --> 01:22:19,760
+and sort of reef in our discussions of police departments. The presence of somebody who is
+
+736
+01:22:20,640 --> 01:22:25,280
+behaving ethically is dissonant to someone who is not behaving ethically.
+
+737
+01:22:26,000 --> 01:22:30,960
+I don't like you. You're reminding me. You're reminding me that I'm doing something that I
+
+738
+01:22:30,960 --> 01:22:37,360
+shouldn't be doing if I were an ethical person. And these guys get ostracized by the culture
+
+739
+01:22:37,360 --> 01:22:43,120
+of most police departments, which is you have to go along. You have to play along.
+
+740
+01:22:43,760 --> 01:22:49,440
+How much do you think this figures into police racism, police brutality? Do you feel that this
+
+741
+01:22:49,440 --> 01:22:57,040
+is a similar starting point as well? Or do you think that racism has far deeper roots that go
+
+742
+01:22:57,040 --> 01:23:04,160
+far outside of conscious choices that are made? I think racism in police departments is a very
+
+743
+01:23:04,160 --> 01:23:12,320
+complex issue, but it begins with, I think, a false and illusory correlation. Since most street
+
+744
+01:23:12,400 --> 01:23:20,400
+crimes happen in poor neighborhoods and since a lot of poor neighborhoods consist of ethnic
+
+745
+01:23:20,400 --> 01:23:28,400
+minorities, black and brown people, I think have learned that those dangerous neighborhoods with
+
+746
+01:23:28,400 --> 01:23:36,800
+a lot of street crimes are often caused by black people. Then they become suspicious of all black
+
+747
+01:23:36,800 --> 01:23:43,600
+people and become quite brutal of it about them in their behavior toward them. And again, it's
+
+748
+01:23:43,600 --> 01:23:51,760
+understandable, but not justified that they behave that way the way they did. And in the George Floyd
+
+749
+01:23:51,760 --> 01:24:02,640
+case, it's again, one step at a time with two of the other cops acting almost as bystanders who are
+
+750
+01:24:02,640 --> 01:24:10,480
+allowing it to happen because the culture is such that they don't want to interfere with the most
+
+751
+01:24:10,480 --> 01:24:17,840
+brutal cop because he seems to know what he's doing and they're afraid of being ostracized
+
+752
+01:24:17,840 --> 01:24:25,920
+by their fellow cops if they interfere with it. And that's that one step at a time, which is
+
+753
+01:24:26,640 --> 01:24:34,880
+exactly how we define how cognitive dissonance can get us into trouble because each step you take
+
+754
+01:24:35,600 --> 01:24:41,840
+down that pyramid, you justify it until by the time you reach the bottom,
+
+755
+01:24:43,200 --> 01:24:51,440
+you don't recognize yourself anymore. That's why Jeb Stuart Magruder is a perfect example because
+
+756
+01:24:51,440 --> 01:25:02,720
+he was a guy with good high morals and he saw himself in retrospect being corrupted in the
+
+757
+01:25:02,720 --> 01:25:08,880
+Nixon administration until he ended up doing things that a year earlier he never would have dreamed of
+
+758
+01:25:08,880 --> 01:25:16,080
+doing. But one step at a time justifying each one along the way, when he finally woke up as he was
+
+759
+01:25:16,080 --> 01:25:24,480
+being sentenced to prison, it was like waking up from a bad dream. This is actually one of the most
+
+760
+01:25:24,480 --> 01:25:30,720
+powerful experiences for me and working with Elliot on this book was finding the stories of people who
+
+761
+01:25:30,720 --> 01:25:38,240
+were able to break out of the cocoon of self-justification that they had spun to protect
+
+762
+01:25:38,240 --> 01:25:44,160
+themselves and were suddenly able to see themselves and the consequences of their behavior in a
+
+763
+01:25:44,160 --> 01:25:49,600
+clearer light. You see sometimes that light is obscured for us. I mean, for example, when we talk
+
+764
+01:25:49,600 --> 01:25:54,880
+about systemic racism, systemic racism, which is very hard for most people to understand and
+
+765
+01:25:54,880 --> 01:25:59,600
+experience because by definition we experience things as individuals, but there was an important
+
+766
+01:25:59,600 --> 01:26:08,560
+study in Seattle some years ago of the way that the police and the city government were defining
+
+767
+01:26:08,560 --> 01:26:15,360
+what a drug crime was. What kind of drugs do we want to go after? Whom do we want to arrest for
+
+768
+01:26:15,360 --> 01:26:20,960
+what kind of drugs? So the kind of drug, you know, white kids using cocaine, well that's okay,
+
+769
+01:26:20,960 --> 01:26:25,200
+that's not a problem. We're not going to have drug busts on white kids using cocaine, but black kids
+
+770
+01:26:25,200 --> 01:26:30,640
+using crack? Oh, let's go for that. So the very definition of what the problem is and whom we want
+
+771
+01:26:30,640 --> 01:26:38,880
+to arrest set up a pattern of the over arrests of African Americans compared to whites. That's an
+
+772
+01:26:38,880 --> 01:26:44,800
+example of a decision that occurs at the top and that can have very powerful racist consequences,
+
+773
+01:26:44,800 --> 01:26:49,840
+whereas each individual officer is saying by arresting this guy for crack, I'm not a racist,
+
+774
+01:26:50,720 --> 01:26:56,640
+I'm not personally a racist, yeah? And I would say that one other element in our police departments
+
+775
+01:26:56,640 --> 01:27:04,400
+as we are now learning is that the culture of brutality is larger than the specifics.
+
+776
+01:27:05,200 --> 01:27:09,840
+Something like 20 to 25 percent of the police officers in the United States have come from the
+
+777
+01:27:09,840 --> 01:27:15,120
+military. That's their training. Many of them are excused from having to go to a police academy if
+
+778
+01:27:15,120 --> 01:27:22,400
+they've had military training. So look how that would shape your point of view about how to control
+
+779
+01:27:22,400 --> 01:27:29,680
+crowds and who the enemy is and so forth. So we have every individual is embedded in a social
+
+780
+01:27:29,680 --> 01:27:34,800
+network, taking their cues from that network and justifying their behavior in order to remain a
+
+781
+01:27:34,800 --> 01:27:42,560
+part of that network. Perhaps the most optimistic part of, I think your work is the description of
+
+782
+01:27:42,560 --> 01:27:49,040
+people who are able to halt the slide down the pyramid, right? So I want to talk both about some
+
+783
+01:27:49,040 --> 01:27:56,400
+of those stories, but also what are the traits or things that we can do, insertions of cognitive
+
+784
+01:27:56,400 --> 01:28:02,240
+tools that we can use to kind of guard against it. Because I hope nobody comes away from this
+
+785
+01:28:02,240 --> 01:28:07,920
+thinking that this is a condemnation of an individual who's subject to cognitive
+
+786
+01:28:08,800 --> 01:28:14,800
+biases and confirmation biases as they struggle to ameliorate the suffering of cognitive dissonance.
+
+787
+01:28:14,880 --> 01:28:20,400
+I think the point is just the opposite. We're all doing it all the time. And the more we talk about
+
+788
+01:28:20,400 --> 01:28:29,200
+it and the more we think about it, the better shot we have at getting to better answers as opposed to
+
+789
+01:28:29,200 --> 01:28:35,840
+just reiterating bad behaviors because they fit with preconceived notions. So what are some of your
+
+790
+01:28:35,840 --> 01:28:41,360
+both of your favorite success stories on people who were heading down the path, down the pyramid,
+
+791
+01:28:42,000 --> 01:28:46,160
+and then managed to sort of realize that they were on the wrong side of the pyramid?
+
+792
+01:28:46,800 --> 01:28:47,200
+Me.
+
+793
+01:28:49,840 --> 01:28:53,200
+McMartin, look, I got out of that mess. Okay, Elliot, you're on.
+
+794
+01:28:54,640 --> 01:29:03,840
+My favorite person in our book, I think, is Wayne Hale, the guy who made the gold decision
+
+795
+01:29:04,640 --> 01:29:16,240
+on the Columbia disaster in NASA. The Columbia ship exploded. And Wayne Hale was the operations
+
+796
+01:29:16,240 --> 01:29:24,000
+officer at the time. He knew these guys, he knew their families, and they all got killed
+
+797
+01:29:24,560 --> 01:29:33,840
+because of his decision. And he wrestled with that one for a while. His first response was,
+
+798
+01:29:33,840 --> 01:29:40,240
+look, no launch is perfect. There are always little problems, and you have to learn which
+
+799
+01:29:40,240 --> 01:29:49,760
+ones to ignore. And he literally stopped himself in mid sentence and said, but you know, when I
+
+800
+01:29:49,760 --> 01:29:59,920
+look at it, I have to say, at this point, I wish I had been more cautious. The weight of the evidence
+
+801
+01:29:59,920 --> 01:30:10,560
+was to abort the launch just before it started. But I made the wrong decision. And I'm dreadfully,
+
+802
+01:30:11,520 --> 01:30:22,960
+sorry. And I when I weigh all of the evidence and all of the the reasons why he could have doubled
+
+803
+01:30:22,960 --> 01:30:31,840
+down. I say, my God, what a courageous guy that is. To take the blame, which he deserved,
+
+804
+01:30:32,640 --> 01:30:37,520
+for the death of all those wonderful people. That was a tough one.
+
+805
+01:30:37,520 --> 01:30:42,880
+Yeah, it is. It's immensely powerful. It's in finding these stories, you see
+
+806
+01:30:43,840 --> 01:30:53,440
+truly the courage it takes, the honesty to face up to it and fess up. And generally speaking,
+
+807
+01:30:53,440 --> 01:30:59,680
+the reaction of those around you is not going to be critical. It's going to be grateful.
+
+808
+01:31:00,560 --> 01:31:06,320
+Wayne Hale did not suffer for his ability to send this email to everybody at NASA saying,
+
+809
+01:31:06,320 --> 01:31:12,560
+look no further for the person responsible for this disaster. I'm the one. And I should say,
+
+810
+01:31:12,560 --> 01:31:17,360
+thank you, Peter, for this question, because I too feel that the more people understand
+
+811
+01:31:18,240 --> 01:31:24,160
+about how cognitive dissonance operates, and how we are all susceptible to it, the more
+
+812
+01:31:26,160 --> 01:31:31,680
+helpful it is in understanding our own behavior. So to know that the minute we make a decision,
+
+813
+01:31:31,680 --> 01:31:37,280
+whether it's about a car or a partner or a house or how to live with COVID,
+
+814
+01:31:37,920 --> 01:31:43,520
+any time we make a decision, we're going to be motivated to throw support for that decision and
+
+815
+01:31:43,520 --> 01:31:48,560
+ignore evidence that we're wrong. The moment we understand that, that gives us a whole new toolbox
+
+816
+01:31:49,360 --> 01:31:56,400
+of ways of dealing with our own beliefs and attitudes. And one of the primary tools in that
+
+817
+01:31:56,400 --> 01:32:07,520
+toolbox is the ability to say, I did a stupid thing, I made a stupid mistake. I did something
+
+818
+01:32:07,520 --> 01:32:15,840
+that caused harm. But just because I did something stupid or immoral, does not necessarily make me a
+
+819
+01:32:15,840 --> 01:32:23,360
+stupid person or an immoral person. And to be able to say that thoughtfully and meaningfully
+
+820
+01:32:24,080 --> 01:32:31,600
+is a very important thing to do. We have to be able to say, making mistakes is difficult to deal
+
+821
+01:32:31,600 --> 01:32:41,120
+with. But one can do it. If we don't ipso facto embrace that as meaning I did something stupid,
+
+822
+01:32:41,120 --> 01:32:46,800
+if I'm a stupid person, we have to be able to say, I made a stupid mistake.
+
+823
+01:32:46,800 --> 01:32:55,360
+But I'm not a stupid person. What can I learn from having made that mistake? How can I make
+
+824
+01:32:55,360 --> 01:33:02,160
+sure that I don't make a similar mistake like that again? And if that mistake caused harm,
+
+825
+01:33:02,160 --> 01:33:08,560
+how can I make amends? And that's how a person lives a meaningful life.
+
+826
+01:33:09,200 --> 01:33:16,400
+Exactly. We love the story of Shimon Peres, the former Israeli prime minister,
+
+827
+01:33:16,400 --> 01:33:22,560
+who was thrown into cognitive dissonance when his good friend Ronald Reagan accepted an invitation
+
+828
+01:33:22,560 --> 01:33:30,720
+to lay a wreath at the Bitburg cemetery in Germany in some national event. It turned out that 47
+
+829
+01:33:30,720 --> 01:33:36,320
+Nazi officers had been buried at this cemetery. And of course, the world was furious at Reagan for
+
+830
+01:33:36,320 --> 01:33:42,480
+accepting this invitation to lay a wreath there. Holocaust survivors and so many others were just
+
+831
+01:33:42,480 --> 01:33:48,240
+outraged as was Peres. So a reporter said to Peres, so what do you think about your friend Ronald
+
+832
+01:33:48,240 --> 01:33:56,560
+Reagan accepting this invitation to speak at the cemetery? And Peres said, when a friend makes a
+
+833
+01:33:56,720 --> 01:34:06,880
+mistake, the friend remains a friend and the mistake remains a mistake. In this way, he separated the
+
+834
+01:34:06,880 --> 01:34:13,680
+two dissonant cognitions, just as Sarah Silverman was trying to do about her friend Louis C.K.
+
+835
+01:34:14,480 --> 01:34:19,680
+My friend made a mistake. He did something wrong. He remains my friend and what he did remains wrong.
+
+836
+01:34:20,480 --> 01:34:28,160
+When I do something wrong, what I did remains wrong and I still remain a good, kind person.
+
+837
+01:34:28,160 --> 01:34:33,840
+You separate the dissonant cognitions and treat them separately because the usual impulse would
+
+838
+01:34:33,840 --> 01:34:39,680
+be to jump to a decision. I'm done with that friendship or I have to minimize the thing that
+
+839
+01:34:39,680 --> 01:34:46,480
+my friend did. And by being able to separate the two dissonant cognitions more closely and evaluate
+
+840
+01:34:46,480 --> 01:34:53,600
+them, sometimes it requires us to live with the discomfort that we love this person and this person
+
+841
+01:34:54,160 --> 01:35:00,560
+did this awful thing. And it requires self-reflection. What kind of a person am I
+
+842
+01:35:01,360 --> 01:35:08,960
+who have done this particular thing? And serious self-reflection is a lot more difficult
+
+843
+01:35:09,760 --> 01:35:16,960
+than self-justification. The easy route is to leap directly into self-justification,
+
+844
+01:35:17,520 --> 01:35:26,080
+but as we've seen, one step at a time, that can lead us down the primrose path. But self-reflection,
+
+845
+01:35:27,200 --> 01:35:32,880
+I did a stupid thing. Why did I do that? How could I learn something from that?
+
+846
+01:35:33,840 --> 01:35:36,560
+That's our recommendation for the way to go.
+
+847
+01:35:37,360 --> 01:35:44,640
+In Eliot's absolutely wonderful memoir, not by chance alone, he uses this observation about what
+
+848
+01:35:44,640 --> 01:35:51,280
+drew him to the field of social psychology and I agree with it too. He said, clinical psychology,
+
+849
+01:35:51,280 --> 01:36:00,240
+therapy is about repair. Social psychology is about change. And I think that is really a guiding
+
+850
+01:36:00,240 --> 01:36:08,000
+principle of why we wrote this book because it's an examination and indictment of so many
+
+851
+01:36:08,000 --> 01:36:16,560
+institutions here, the therapy world, the criminal justice world, family relationships, so many domains
+
+852
+01:36:17,200 --> 01:36:20,400
+in which by understanding we do have the power to change.
+
+853
+01:36:21,200 --> 01:36:24,640
+So what year did the first edition came out? Was it about 06?
+
+854
+01:36:25,520 --> 01:36:32,240
+Seven. So the world's changed a lot in 13 years. Obviously, you've shared that a big part of your
+
+855
+01:36:32,240 --> 01:36:40,080
+motivation for this was sort of the frustration you had with the Bush-Cheney administration's
+
+856
+01:36:40,880 --> 01:36:48,320
+continued justification for the war on Iraq long after it became quite clear that the reasons that
+
+857
+01:36:48,320 --> 01:36:54,000
+were given to go to war didn't exist. And I also think it's safe to say that even within that
+
+858
+01:36:54,000 --> 01:36:59,760
+administration, there were many different flavors of dissonance, but I think I've read maybe two or
+
+859
+01:36:59,760 --> 01:37:05,360
+three biographies, including the autobiography of George Bush. I find presidential biographies very
+
+860
+01:37:05,360 --> 01:37:11,680
+interesting. And I would agree with your take. I don't think for a moment Bush felt he was pulling
+
+861
+01:37:11,680 --> 01:37:17,440
+the wool over anybody's eyes. I really think he believed this to the essence of his core.
+
+862
+01:37:18,240 --> 01:37:23,520
+But here we are 13 years later and Iraq and Afghanistan and most of the Middle East,
+
+863
+01:37:23,520 --> 01:37:28,080
+quite frankly, is largely forgotten at this point and not just with what's going on in terms of
+
+864
+01:37:28,080 --> 01:37:33,120
+coronavirus, but I think more broadly speaking, what's going on in terms of populism, what's going
+
+865
+01:37:33,120 --> 01:37:40,080
+on in terms of racism, a greater polarization within our political system. I mean, I think
+
+866
+01:37:40,080 --> 01:37:45,200
+almost anybody would give their left arm to go back to 2007 politically, frankly, like when you
+
+867
+01:37:45,200 --> 01:37:49,840
+had two somewhat reasonable parties that kind of behave like it seems a heck of a lot better when
+
+868
+01:37:49,840 --> 01:37:55,120
+you first wrote the book. Are you more or less optimistic today? And how much do you think
+
+869
+01:37:55,120 --> 01:38:01,840
+cognitive dissonance is factoring into what really looks upsetting and ugly and just very
+
+870
+01:38:01,840 --> 01:38:07,200
+unpleasant with respect to the way we are governed and with the way we govern? How much time you got?
+
+871
+01:38:09,280 --> 01:38:17,120
+The problem, I think, is the hard polarization of the parties. In our introduction to the revision,
+
+872
+01:38:17,840 --> 01:38:23,840
+quote Bob Dole saying, you know, Bill Clinton is my opponent, not my enemy. I mean, how far we have
+
+873
+01:38:23,840 --> 01:38:30,480
+come from the idea of seeing the other party as an opponent and not an enemy, which is quite an
+
+874
+01:38:30,480 --> 01:38:38,640
+explicit tactic. So it's back to your question about identity in a way. One of the curious things
+
+875
+01:38:38,640 --> 01:38:44,800
+that have happened in our country is that political identity has come to have a primary
+
+876
+01:38:44,800 --> 01:38:50,800
+importance for people in ways that it did not at one time. That is, you know, it used to be you'd
+
+877
+01:38:50,800 --> 01:38:55,920
+say, well, would you want your child to marry a fill in the blank, a person of another religion,
+
+878
+01:38:55,920 --> 01:39:01,360
+a person from another city, a person from another ethnicity, a person from a different religion and
+
+879
+01:39:01,360 --> 01:39:06,960
+so forth. Now the thing that you most don't want your kid to marry is somebody from the
+
+880
+01:39:06,960 --> 01:39:15,840
+other political party. It's that the hostility of that attitude is a sign of the problem of
+
+881
+01:39:15,840 --> 01:39:22,160
+polarization. And what that means is if political parties have become the central part of people's
+
+882
+01:39:22,160 --> 01:39:29,600
+identities, then by definition it makes it very hard to accept any evidence that somebody from
+
+883
+01:39:29,600 --> 01:39:35,040
+the other party might have a good idea, might be doing the right thing, might be somebody I can
+
+884
+01:39:35,120 --> 01:39:41,760
+listen to. Although the current political scene is worrisome and we can all be pessimistic about it,
+
+885
+01:39:41,760 --> 01:39:47,920
+one of the things that has been most heartening for both of us in writing this book has come from
+
+886
+01:39:47,920 --> 01:39:53,120
+the hundreds upon hundreds of letters from people telling us what they have learned from the book
+
+887
+01:39:53,120 --> 01:39:57,280
+and how it has affected them. Now, you know, authors get these have changed my life kind of
+
+888
+01:39:57,280 --> 01:40:03,280
+things, but we get stories. We get stories from people who have explained how they have taken
+
+889
+01:40:03,280 --> 01:40:09,440
+an understanding of cognitive dissonance into their own lives with often very interesting
+
+890
+01:40:09,440 --> 01:40:15,440
+results. So for example, once I heard from a man who told the following story, he said, I've
+
+891
+01:40:16,160 --> 01:40:23,440
+got five siblings and we've been at war over the legacy of our family inheritance. We've
+
+892
+01:40:23,440 --> 01:40:29,280
+formed two factions, we've been fighting with each other and mediation hasn't helped and nothing has
+
+893
+01:40:29,360 --> 01:40:33,680
+helped and we're estranged from each other and so forth. And then he said, I read your book
+
+894
+01:40:34,800 --> 01:40:40,400
+and I gave it to our mediator and I said here, I said, give this book to my brothers and they
+
+895
+01:40:40,400 --> 01:40:45,120
+will immediately understand what they're doing wrong. I mean, he didn't quite say it that way.
+
+896
+01:40:45,120 --> 01:40:50,320
+He gave it to the mediator here, have my brothers read this book. He said, I got no reply. He said,
+
+897
+01:40:50,320 --> 01:40:55,680
+and then a couple of years later, he said, I picked up your book again and I read it. And I
+
+898
+01:40:56,480 --> 01:41:03,520
+said, Oh, he said, Oh, he said, incredibly the words on the page had transformed themselves.
+
+899
+01:41:03,520 --> 01:41:08,240
+And I wrote to the mediator and I said, tell my brothers that I now understand
+
+900
+01:41:08,880 --> 01:41:16,560
+what I have been doing wrong in our discussions. I have been greedy. I have been selfish.
+
+901
+01:41:16,560 --> 01:41:21,680
+I haven't thought enough about how you guys have seen the situation. I'd like to apologize.
+
+902
+01:41:22,480 --> 01:41:32,000
+Can we talk? And I love that story. And it's a perfect example of what a lot of people discover
+
+903
+01:41:32,880 --> 01:41:41,440
+on reading the book. We all have blind spots. And perhaps the ultimate blind spot is the belief
+
+904
+01:41:42,320 --> 01:41:50,720
+that I don't have a blind spot. And if only people would see it my way, then they could arrive at
+
+905
+01:41:51,280 --> 01:41:59,040
+the reasonable solution to any problem. But the fact is what people often discover is that the
+
+906
+01:41:59,040 --> 01:42:05,200
+blind spot is in me. I think you're absolutely right, Carol. I think this all comes back to this
+
+907
+01:42:05,200 --> 01:42:12,160
+idea of I did versus I am. I don't know if either of you had ever met Marsha Lenhan.
+
+908
+01:42:12,160 --> 01:42:14,880
+I do. I haven't seen her in a long time, but yes, her work on
+
+909
+01:42:15,760 --> 01:42:19,680
+DBT. Well, her work on dialectical behavioral therapy, which I've become
+
+910
+01:42:20,560 --> 01:42:28,800
+such a fan and such a student because I think that what Marsha and that school of DBT have taught
+
+911
+01:42:28,800 --> 01:42:34,480
+is effectively the exact way you're describing this, which is the more we can distance our
+
+912
+01:42:34,480 --> 01:42:42,320
+identities from these actions, the easier it is to hold and sit in the discomfort of these two
+
+913
+01:42:42,320 --> 01:42:48,720
+things. Again, I think the Silverman-Louis C.K. example is a great one. I do it as a practice
+
+914
+01:42:48,720 --> 01:42:53,200
+every day, by the way. So I do this thing because one of the things I've struggled with historically
+
+915
+01:42:53,200 --> 01:43:00,880
+is I tend to peg my achievement to my identity. So even with something that's as seemingly stupid
+
+916
+01:43:00,880 --> 01:43:06,480
+as shooting my bow and arrow, which I do very often. So I'll go in the back and I'll shoot my
+
+917
+01:43:06,560 --> 01:43:12,160
+bow and arrow. And if I have a good day shooting, I'm going to have a good day period. And if I
+
+918
+01:43:12,160 --> 01:43:17,040
+shoot poorly, I'm going to have a bad day. And of course, the only way that can be true is if you're
+
+919
+01:43:17,040 --> 01:43:26,320
+so silly as to assign worth to yourself as a result of how you perform. So now every single day,
+
+920
+01:43:26,320 --> 01:43:32,560
+when I do whatever it is, that's my recreation activity, I dictate into my phone for no more
+
+921
+01:43:32,560 --> 01:43:39,440
+than two minutes, three at the most, a lovely discussion to myself separating my performance
+
+922
+01:43:39,440 --> 01:43:46,080
+from my worth. It can go something like this. Hey, Peter, great job today shooting. I mean,
+
+923
+01:43:46,080 --> 01:43:51,840
+it was really amazing. You got up there and you went, you know, you shot a 296, 32X, that was
+
+924
+01:43:51,840 --> 01:43:56,720
+really good. And you went and did, meaning all of these are very good. But I just want to remind you
+
+925
+01:43:56,720 --> 01:44:02,160
+that doesn't actually make you any better today. You know, you're no better a father, you're no
+
+926
+01:44:02,240 --> 01:44:07,360
+better a husband, you're no better a friend, you're no better a doctor than you were yesterday when
+
+927
+01:44:07,360 --> 01:44:14,400
+you shot very poorly. And this exercise by doing it out loud and actually sending it to my therapist
+
+928
+01:44:14,400 --> 01:44:21,600
+every single day and knowing she listens to it has been such a powerful tool for me to uncouple
+
+929
+01:44:22,320 --> 01:44:28,640
+what I do from who I am. Now that's a silly and small example, but listening to our discussion
+
+930
+01:44:28,640 --> 01:44:34,320
+today, I want to think of bigger and better ways to do that because I do think that in as much as
+
+931
+01:44:34,320 --> 01:44:40,880
+our political identities become our personal identities, we're really hosed. I do fear that
+
+932
+01:44:40,880 --> 01:44:46,960
+as sort of a population, it's going to be very difficult when, as you said, like, when whatever
+
+933
+01:44:46,960 --> 01:44:51,840
+the other person says is wrong, no matter what, when no matter the countenance on the other person's
+
+934
+01:44:51,840 --> 01:44:59,680
+face, anything from crying, smiling, laughing will always be colored in the wrong thing. I don't
+
+935
+01:44:59,680 --> 01:45:05,280
+know how you can make progress in thought. If a society can't make progress, right, in some form
+
+936
+01:45:05,280 --> 01:45:10,400
+of manner, whether it be knowledge or insight or thought, I don't know. Does this represent the end
+
+937
+01:45:10,400 --> 01:45:17,840
+of progress? Oh, as soon as you start the end of the end of days. Well, I don't mean that in a
+
+938
+01:45:17,840 --> 01:45:22,720
+doomsday scenario, but I mean, like at some point, right, there, I mean, when you think about what,
+
+939
+01:45:22,720 --> 01:45:30,080
+what it was that enabled radical transformation of society in the past, I don't know, 400 or 500
+
+940
+01:45:30,080 --> 01:45:38,080
+years, a lot of it had to do with remarkable progress in thinking, the standardization of
+
+941
+01:45:40,080 --> 01:45:44,800
+formal logic, scientific methodologies. I mean, everything that you've spoken about today,
+
+942
+01:45:44,800 --> 01:45:50,320
+Eliot, on some level is grounded in the ability to do an experiment. Carol, you and I have spoken
+
+943
+01:45:50,320 --> 01:45:56,560
+for hours about our hero, Richard Feynman, and his very famous Caltech. Actually, it might have even
+
+944
+01:45:56,560 --> 01:45:59,760
+been a Cornell, I can't remember if it was at Cornell or Caltech when he gave this lecture that
+
+945
+01:45:59,760 --> 01:46:05,280
+is very easily searched on YouTube. It's beautiful, where he basically explains what an experiment
+
+946
+01:46:05,280 --> 01:46:11,600
+means and, you know, how you know of an idea. And the beauty of rooting for the null hypothesis,
+
+947
+01:46:11,600 --> 01:46:17,680
+which is really hard to do. But it's what we have to do. The age of enlightenment
+
+948
+01:46:18,400 --> 01:46:26,160
+was around the 16th century when, when people began to do experiments and think scientifically, and
+
+949
+01:46:26,960 --> 01:46:36,400
+every society has to bring its population into the age of enlightenment. And I think our educational
+
+950
+01:46:36,480 --> 01:46:43,520
+system, our public educational system has failed us. When you see some of the sort of people on the
+
+951
+01:46:43,520 --> 01:46:51,920
+street being interviewed, I am appalled by how illogical they are in their thinking, many of them,
+
+952
+01:46:52,560 --> 01:46:59,520
+and how irrational they are, and how one thought does not proceed from the previous thought.
+
+953
+01:47:00,240 --> 01:47:07,360
+It's appalling. And it seems to me that critical thinking has to be taught in junior high school
+
+954
+01:47:07,360 --> 01:47:14,320
+and high school in this country. People have to learn how to separate bullshit from fact,
+
+955
+01:47:14,320 --> 01:47:23,200
+people have to learn how to trust science, rather than off the wall exclamations of fact that aren't
+
+956
+01:47:23,280 --> 01:47:30,000
+really factual. And that's all part of our educational system. The democracy, a democracy
+
+957
+01:47:30,000 --> 01:47:37,360
+is not going to work with an uneducated population. And a distrust of the institutions that are
+
+958
+01:47:37,920 --> 01:47:46,880
+the bedrock of that democracy, science, government, the law. So that's basically my point, which is my
+
+959
+01:47:46,880 --> 01:47:52,400
+fear is we are further in the wrong direction today than where we were at the time you wrote
+
+960
+01:47:52,400 --> 01:48:01,040
+this book. And so my call to you is if you could transmit to that generation that is so critical,
+
+961
+01:48:01,040 --> 01:48:07,520
+right? Those kids that are 10, 11, 12, 13, 15 years old, where they're still in these formative years
+
+962
+01:48:08,160 --> 01:48:14,080
+and we want to impress upon them. For me personally, because one of my kids is in that age group,
+
+963
+01:48:14,800 --> 01:48:22,320
+I think nonstop about how to excite her about science and how to look at the world
+
+964
+01:48:22,320 --> 01:48:27,200
+and question everything. Like, why does that thing float in the pool, but that thing sinks? And
+
+965
+01:48:27,200 --> 01:48:33,680
+why is it that the vinegar and the oil separate? Like every single thing you see, you should be
+
+966
+01:48:33,680 --> 01:48:41,040
+starting to think, why is that happening? What is it from your work that I could impart to my daughter,
+
+967
+01:48:41,040 --> 01:48:49,520
+who is 11 years old, to give her the best shot at having a tool of being the kind of person
+
+968
+01:48:50,160 --> 01:48:59,440
+that is comfortable sitting in discomfort, making these hard decisions and being able to change her
+
+969
+01:48:59,440 --> 01:49:06,880
+mind when the facts call for it? I think the first thing that I would suggest is something that I
+
+970
+01:49:06,880 --> 01:49:15,520
+learned the hard way as a parent and a grandparent, and now I'm learning as a great grandparent,
+
+971
+01:49:16,400 --> 01:49:24,880
+is the importance of modeling. In the home, you behave in a way that you want your child to behave
+
+972
+01:49:24,880 --> 01:49:32,880
+when your child is your age, and there are no exceptions to that. You just do it. You do it the
+
+973
+01:49:32,880 --> 01:49:39,840
+way you want your child to learn to do it. I think that modeling is a very, very powerful tool.
+
+974
+01:49:40,320 --> 01:49:45,120
+You want to tell your story about when you were first married to Vera and the anger,
+
+975
+01:49:45,120 --> 01:49:49,680
+my father would have angry. Yeah. You know, that was a big change in you.
+
+976
+01:49:50,400 --> 01:49:56,240
+It really was. I grew up with a father who, my mother and father frequently quarreled.
+
+977
+01:49:56,800 --> 01:50:04,000
+And I remember sitting at the dinner table, and we could see it happening because the only time
+
+978
+01:50:04,960 --> 01:50:11,200
+my mother had a chance to get at my father and give him a litany of her complaints
+
+979
+01:50:12,080 --> 01:50:18,560
+was at dinner time. So we'd be sitting at the dinner table. I remember I was maybe 10 or 11
+
+980
+01:50:18,560 --> 01:50:24,640
+years old, and my mother would be complaining, and my father would regard that as nagging,
+
+981
+01:50:25,200 --> 01:50:31,840
+and we could see my father beginning to seethe inside. And my older brother looked at me
+
+982
+01:50:31,840 --> 01:50:40,880
+and winked. And what that meant was, we'll give him about 20 seconds before he explodes,
+
+983
+01:50:40,880 --> 01:50:47,200
+and he exploded. And he would slam his knife down, knife and fork down on the table, say,
+
+984
+01:50:47,200 --> 01:50:52,640
+God damn it, can't a guy have a peaceful meal around here? And he'd grab his coat and leave
+
+985
+01:50:52,640 --> 01:50:57,520
+the house and not come back until after my brother and I were asleep. And we hardly ever
+
+986
+01:50:57,520 --> 01:51:04,800
+got to see my father because it would happen often. And that was my model growing up. Soon
+
+987
+01:51:04,800 --> 01:51:10,960
+after I was married, I got married when I was 22 years old to a remarkable woman, and we're
+
+988
+01:51:10,960 --> 01:51:18,400
+still married now 65 years and counting. But early in the marriage, we had an argument about
+
+989
+01:51:18,400 --> 01:51:25,600
+something. And I remember getting really angry, raising my voice, and then walking out the door,
+
+990
+01:51:25,600 --> 01:51:31,600
+slamming the door, going down the steps. I got halfway down the steps. And I suddenly said to
+
+991
+01:51:31,600 --> 01:51:40,000
+myself, where the hell are you going? What are you doing? And I realized at that moment,
+
+992
+01:51:40,880 --> 01:51:49,840
+that I was modeling my father's behavior, which I detested. And I slowly walked back up the stairs
+
+993
+01:51:50,400 --> 01:52:00,160
+and apologized. And we talked rationally about the issue that had brought on that explosion.
+
+994
+01:52:01,040 --> 01:52:11,120
+And I gradually taught myself that getting angry, raising my voice was not the best way to deal with
+
+995
+01:52:12,080 --> 01:52:20,400
+it. I was married to a very gentle, I am married to a very gentle, wonderful person who was not
+
+996
+01:52:20,400 --> 01:52:28,000
+accustomed to that kind of thing, and therefore would not tolerate it. And it helped me let go of
+
+997
+01:52:28,000 --> 01:52:37,200
+it. And to use reasonable rational discussion, stating of feelings, the positive ones, the
+
+998
+01:52:37,200 --> 01:52:46,160
+negative ones, whenever they become apparent. And that became a model for our kids. Because the way
+
+999
+01:52:46,720 --> 01:52:53,920
+we relate to each other is now pretty standard in our family. I don't take great credit for that. I
+
+1000
+01:52:54,800 --> 01:53:02,480
+really learned it the hard way that I learned it. And taught it in the encounter group world and so
+
+1001
+01:53:02,480 --> 01:53:09,040
+forth, the ability to identify a feeling, instead of just roaring, no catharsis in that respect.
+
+1002
+01:53:09,680 --> 01:53:13,360
+Those are skills to be learned. And Peter, when you said, what can you do to make
+
+1003
+01:53:14,400 --> 01:53:21,120
+science itself interesting to your daughter? Remember that as human beings, we think in stories,
+
+1004
+01:53:21,120 --> 01:53:26,400
+storytelling is our way of understanding the world, explaining the world and making the
+
+1005
+01:53:26,400 --> 01:53:31,440
+world interesting. What science does is tell us which stories are better than other stories.
+
+1006
+01:53:32,080 --> 01:53:38,480
+And that's its charm. And that's its magic, if you will. And that's its appeal. When science is
+
+1007
+01:53:38,480 --> 01:53:44,000
+presented as a series of finding, finding, finding, finding, here's this thing and this thing and this
+
+1008
+01:53:44,000 --> 01:53:50,480
+thing and another thing, it loses its interest and it's zip. But when it's told as a story in which
+
+1009
+01:53:50,480 --> 01:53:55,120
+the discovery is something that changed us, the story we tell at the beginning of our book of
+
+1010
+01:53:55,120 --> 01:54:03,280
+Semilweis and his observations about why the women in his hospital were dying of child bed fever,
+
+1011
+01:54:03,280 --> 01:54:08,000
+and that maybe it was because his students were coming from the morgue to the bedside of these
+
+1012
+01:54:08,000 --> 01:54:13,200
+women in delivery with the having just done autopsies on the women who had done died the
+
+1013
+01:54:13,200 --> 01:54:17,680
+day before and thinking, oh, he's carrying something on his hands. That was a story.
+
+1014
+01:54:17,680 --> 01:54:23,040
+The Semilweis story was something that my junior high school teacher told our little
+
+1015
+01:54:23,040 --> 01:54:31,600
+science seminar group. And I remember I was fascinated by the story. But I guess I was a
+
+1016
+01:54:31,600 --> 01:54:36,000
+budding social psychologist, because what was fascinating to me was not just that Semilweis
+
+1017
+01:54:36,000 --> 01:54:40,240
+had found the reason that the women were dying. They didn't know about germs yet,
+
+1018
+01:54:40,240 --> 01:54:45,280
+but he found the reason just wash your damn hands and these women will stop dying.
+
+1019
+01:54:45,280 --> 01:54:50,320
+He had the solution before he knew the problem. And that's very interesting.
+
+1020
+01:54:50,320 --> 01:54:57,200
+Absolutely. But see, in the story that Mr. Crane told us, what interested me was,
+
+1021
+01:54:57,200 --> 01:55:04,560
+why didn't Semilweis' fellow doctors say, hey, Ignac, great explanation. Thank you for
+
+1022
+01:55:04,560 --> 01:55:10,320
+explaining why my patients are dying. I can change my practice immediately. This is terrific
+
+1023
+01:55:10,320 --> 01:55:15,200
+information. What did they say? They said, oh, piss off you Hungarian nitwit. I mean,
+
+1024
+01:55:15,200 --> 01:55:20,160
+the equivalent of it in 1847. They hadn't read the theory of cognitive dissonance yet.
+
+1025
+01:55:20,160 --> 01:55:21,680
+No, they certainly hadn't.
+
+1026
+01:55:21,680 --> 01:55:26,880
+I don't think he was ever vindicated in his life. I mean, he died basically in an insane asylum,
+
+1027
+01:55:27,440 --> 01:55:32,480
+still believing that no one had effectively come to acknowledge this theory.
+
+1028
+01:55:33,040 --> 01:55:38,480
+Absolutely. But you see, it's an amazing story. And all of the elements are in it,
+
+1029
+01:55:38,480 --> 01:55:42,400
+the psychological story of his fellow scientist who didn't want to believe him,
+
+1030
+01:55:42,400 --> 01:55:46,400
+which is the story of history, throughout history. Oh, thanks Galileo.
+
+1031
+01:55:47,360 --> 01:55:54,000
+I'm really grateful for your new theory here, right? It presents both the excitement of
+
+1032
+01:55:54,000 --> 01:55:57,440
+scientific discovery and the challenges. And the challenges.
+
+1033
+01:55:58,320 --> 01:56:02,960
+Well, guys, I want to really thank you for this discussion today. I know it's probably
+
+1034
+01:56:02,960 --> 01:56:07,600
+longer than most discussions you guys have on this topic. But as I said at the outset,
+
+1035
+01:56:08,240 --> 01:56:13,360
+it's a book that I love. But more importantly, I think it's just a topic that I think everybody
+
+1036
+01:56:13,360 --> 01:56:19,760
+needs to spend some time paying attention to. It is a part of everyone's life, whether they are
+
+1037
+01:56:19,760 --> 01:56:27,040
+aware of it or not. That's the importance of it, right? In the spirit of what water is to a fish,
+
+1038
+01:56:27,040 --> 01:56:32,000
+as David Foster Wallace spoke about in his commencement speech, whether you are conscious
+
+1039
+01:56:32,000 --> 01:56:37,040
+or unconscious of this thing, it is with you. So we are probably better off being conscious of it
+
+1040
+01:56:37,040 --> 01:56:42,800
+and having some measure of control and thought around it than we are ignoring it.
+
+1041
+01:56:43,360 --> 01:56:49,280
+Peter, it was a pleasure to talk to you and the discussion, if anything, was not long enough.
+
+1042
+01:56:50,720 --> 01:56:52,320
+Thank you very much, Peter. Thanks so much, guys.
+
+1043
+01:56:52,320 --> 01:56:57,280
+Thanks a million for inviting us. Thank you for listening to this week's episode of The Drive.
+
+1044
+01:56:57,280 --> 01:57:01,680
+If you're interested in diving deeper into any topics we discuss, we've created a membership
+
+1045
+01:57:01,680 --> 01:57:06,960
+program that allows us to bring you more in-depth, exclusive content without relying on paid ads.
+
+1046
+01:57:06,960 --> 01:57:11,440
+It's our goal to ensure members get back much more than the price of the subscription.
+
+1047
+01:57:11,520 --> 01:57:16,240
+Now to that end, membership benefits include a bunch of things. One, totally kick-ass,
+
+1048
+01:57:16,240 --> 01:57:20,640
+comprehensive podcast show notes that detail every topic, paper, person,
+
+1049
+01:57:20,640 --> 01:57:25,280
+thing we discuss on each episode. The word on the street is, nobody's show notes rival these.
+
+1050
+01:57:26,000 --> 01:57:30,480
+Monthly AMA episodes or Ask Me Anything episodes, hearing these episodes completely.
+
+1051
+01:57:31,280 --> 01:57:36,160
+Access to our private podcast feed that allows you to hear everything without having to listen
+
+1052
+01:57:36,240 --> 01:57:41,360
+to spiels like this. The Qualies, which are a super short podcast that we release every
+
+1053
+01:57:41,360 --> 01:57:45,520
+Tuesday through Friday, highlighting the best questions, topics, and tactics discussed on
+
+1054
+01:57:45,520 --> 01:57:50,640
+previous episodes of The Drive. This is a great way to catch up on previous episodes without
+
+1055
+01:57:50,640 --> 01:57:55,920
+having to go back and necessarily listen to everyone. Steep discounts on products that I
+
+1056
+01:57:55,920 --> 01:58:00,480
+believe in, but for which I'm not getting paid to endorse, and a whole bunch of other benefits that
+
+1057
+01:58:00,480 --> 01:58:05,120
+we continue to trickle in as time goes on. If you want to learn more and access these member-only
+
+1058
+01:58:05,120 --> 01:58:11,360
+benefits, you can head over to PeterAttiaMD.com forward slash subscribe. You can find me on
+
+1059
+01:58:11,360 --> 01:58:17,600
+Twitter, Instagram, and Facebook, all with the ID PeterAttiaMD. You can also leave us a review on
+
+1060
+01:58:17,600 --> 01:58:23,600
+Apple Podcasts or whatever podcast player you listen on. This podcast is for general informational
+
+1061
+01:58:23,600 --> 01:58:28,000
+purposes only, and does not constitute the practice of medicine, nursing, or other professional
+
+1062
+01:58:28,000 --> 01:58:33,920
+healthcare services, including the giving of medical advice. No doctor-patient relationship
+
+1063
+01:58:33,920 --> 01:58:39,440
+is formed. The use of this information and the materials linked to this podcast is at the user's
+
+1064
+01:58:39,440 --> 01:58:44,560
+own risk. The content on this podcast is not intended to be a substitute for professional
+
+1065
+01:58:44,560 --> 01:58:51,440
+medical advice, diagnosis, or treatment. Users should not disregard or delay in obtaining medical
+
+1066
+01:58:51,440 --> 01:58:56,080
+advice from any medical condition they have, and they should seek the assistance of their
+
+1067
+01:58:56,080 --> 01:59:01,920
+healthcare professionals for any such conditions. Finally, I take conflicts of interest very
+
+1068
+01:59:01,920 --> 01:59:07,520
+seriously. For all of my disclosures and the companies I invest in or advise, please visit
+
+1069
+01:59:07,520 --> 01:59:14,800
+PeterAttiaMD.com forward slash about where I keep an up-to-date and active list of such companies.
+

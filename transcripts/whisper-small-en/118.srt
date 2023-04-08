@@ -1,0 +1,5632 @@
+1
+00:00:00,000 --> 00:00:15,600
+Hey everyone. Welcome to the Drive podcast. I'm your host, Peter Attia. This podcast,
+
+2
+00:00:15,600 --> 00:00:19,380
+my website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:19,380 --> 00:00:24,360
+longevity into something accessible for everyone. Our goal is to provide the best content in
+
+4
+00:00:24,360 --> 00:00:28,440
+health and wellness, full stop, and we've assembled a great team of analysts to make
+
+5
+00:00:28,440 --> 00:00:32,720
+this happen. If you enjoy this podcast, we've created a membership program that brings you
+
+6
+00:00:32,720 --> 00:00:36,920
+far more in-depth content if you want to take your knowledge of this space to the next level.
+
+7
+00:00:36,920 --> 00:00:41,560
+At the end of this episode, I'll explain what those benefits are, or if you want to learn more now,
+
+8
+00:00:41,560 --> 00:00:48,080
+head over to PeterAttiaMD.com forward slash subscribe. Now, without further delay, here's
+
+9
+00:00:48,080 --> 00:00:54,520
+today's episode. I guess this week is Lloyd Klikstein. Lloyd's the chief scientific officer
+
+10
+00:00:54,520 --> 00:01:04,040
+at Restore Bio. So that's little R-E-S, big T-O-R, little B-I-O. Get it? Tor, T-O-R. Restore Bio is a
+
+11
+00:01:04,040 --> 00:01:10,640
+clinical stage bio farm company that develops meds that are primarily aimed at targeting Tor,
+
+12
+00:01:10,640 --> 00:01:14,480
+targeted rapamycin. We'll talk a lot about that throughout this episode. So prior to joining
+
+13
+00:01:14,480 --> 00:01:19,720
+Restore Bio, Lloyd was the global head of translational medicine for the new indication
+
+14
+00:01:19,720 --> 00:01:26,000
+discovery unit at Novartis. Prior to that, he was an academic physician at the Brigham and
+
+15
+00:01:26,000 --> 00:01:30,280
+Women's Hospital, which is one of the flagship programs at Harvard. Lloyd received his bachelor's
+
+16
+00:01:30,280 --> 00:01:34,840
+from Tufts and an MD, PhD from Harvard. He's got more accolades than you could shake a stick at.
+
+17
+00:01:34,840 --> 00:01:40,320
+So accolades aside, the reason I wanted to speak with Lloyd was because he is really one of the
+
+18
+00:01:40,320 --> 00:01:46,880
+few people on this planet that has a really nuanced understanding of the clinical application
+
+19
+00:01:46,880 --> 00:01:51,920
+of rapamycin and rapologs. And we talk a lot about one of them in particular called
+
+20
+00:01:51,920 --> 00:01:58,200
+Evrolimus. Lloyd was the senior author on a paper that I have spoken about many times on this
+
+21
+00:01:58,200 --> 00:02:03,880
+podcast, which we'll go into in great detail here. December 2014 paper, Joan Manik was the
+
+22
+00:02:03,880 --> 00:02:08,280
+lead author on that paper. And that was the study that was basically the turning point in my personal
+
+23
+00:02:08,280 --> 00:02:14,720
+evolution or thinking when it came to the use of rapamycin for the purpose of longevity. Prior to
+
+24
+00:02:14,720 --> 00:02:19,960
+that, there had been a lot of studies that had certainly suggested in animal models that rapamycin
+
+25
+00:02:19,960 --> 00:02:26,880
+could be a true longevity agent, but it was the Manik-Klickstein paper of December 2014 that was
+
+26
+00:02:26,880 --> 00:02:31,800
+the real turning point in my thinking. And that's really where we're going in this discussion along
+
+27
+00:02:31,800 --> 00:02:36,000
+with talking about all that's been done since then. It is important before we start this interview
+
+28
+00:02:36,000 --> 00:02:40,800
+that I mentioned, of course, that Lloyd is an employee of RestoreBio. RestoreBio is a for-profit
+
+29
+00:02:40,800 --> 00:02:45,680
+company that is working on mTOR inhibition. So please caveat everything that we discuss
+
+30
+00:02:45,680 --> 00:02:50,720
+through that lens. Before this podcast begins, I want to note that we recorded this interview in
+
+31
+00:02:50,720 --> 00:02:56,560
+September 2019. Now in the interview, we discussed an upcoming phase three trial from RestoreBio.
+
+32
+00:02:56,560 --> 00:03:02,760
+Since that time, the results have been published and the study did not meet its primary endpoint.
+
+33
+00:03:02,760 --> 00:03:08,120
+Now I frankly left the option to Lloyd as to whether or not he wanted to still have the
+
+34
+00:03:08,120 --> 00:03:13,280
+podcast air and he felt that that would be fine to do. And so we're going to go ahead with it. And
+
+35
+00:03:13,280 --> 00:03:19,800
+eventually I'm going to be interviewing his colleague, Joan Manik, along with Nir Barzal.
+
+36
+00:03:19,800 --> 00:03:22,920
+I'm going to have the two of them back on an episode where we're going to discuss a whole
+
+37
+00:03:22,920 --> 00:03:27,480
+bunch of things that'll be quite interesting. And this gets more complicated because I think
+
+38
+00:03:27,480 --> 00:03:32,080
+I have a pretty clear understanding of why that study failed and what it does and doesn't say
+
+39
+00:03:32,080 --> 00:03:38,000
+about selective inhibition of agents like it. Nevertheless, I think the most logical thing
+
+40
+00:03:38,120 --> 00:03:43,240
+to do is to go ahead and proceed with this interview, which is one of my favorite interviews
+
+41
+00:03:43,240 --> 00:03:48,720
+on this subject matter, and just know that there are going to be a number of things that are left
+
+42
+00:03:48,720 --> 00:03:54,320
+as open-ended questions from this discussion. We're going to pick back up with Joan Manik when
+
+43
+00:03:54,320 --> 00:03:59,840
+we do that interview, which I'm scheduled to do a few weeks from now. And hopefully we'll try to
+
+44
+00:03:59,840 --> 00:04:04,200
+get that one out at a much quicker turnaround. There are a number of issues that delayed the
+
+45
+00:04:04,200 --> 00:04:08,360
+release of this, not the least of which being some of the COVID stuff, but I can promise you
+
+46
+00:04:08,360 --> 00:04:12,960
+that there will be a shorter gap between when you are hearing this and you will hear the follow-up
+
+47
+00:04:12,960 --> 00:04:17,320
+to this than there was between the recording of this and when you're hearing it. And without
+
+48
+00:04:17,320 --> 00:04:20,280
+further delay, please enjoy my conversation with Lloyd Klikstein.
+
+49
+00:04:20,280 --> 00:04:29,600
+Lloyd, thank you so much for making the trip up to San Francisco today. I know you didn't
+
+50
+00:04:29,600 --> 00:04:33,560
+come here specifically to see me, but I appreciate you carving out a little extra time to meet today.
+
+51
+00:04:33,800 --> 00:04:36,240
+I'm happy to be here and looking forward to our talk.
+
+52
+00:04:36,240 --> 00:04:38,520
+I hope the view is enticing enough here.
+
+53
+00:04:38,520 --> 00:04:39,240
+It's lovely.
+
+54
+00:04:39,240 --> 00:04:44,080
+When the weather is nice in San Francisco, there are a few things that compare to it. And when it's
+
+55
+00:04:44,080 --> 00:04:49,160
+not, it's like Mark Twain said, right? The worst winter he ever had was a summer in San Francisco
+
+56
+00:04:49,160 --> 00:04:53,280
+or something of that effect. And hear from Boston, so you laugh at that.
+
+57
+00:04:53,280 --> 00:04:56,440
+Right now, this is the weather we all wish we had in Boston.
+
+58
+00:04:56,440 --> 00:05:03,040
+Yeah. So Tim Wright, one of your colleagues, offered to make this introduction over dinner
+
+59
+00:05:03,160 --> 00:05:09,400
+one night. And there's probably never been in the history of an introduction from the moment the
+
+60
+00:05:09,400 --> 00:05:13,320
+intro was offered until I was sitting down talking to someone on a podcast that was quicker than this
+
+61
+00:05:13,320 --> 00:05:16,080
+one. In other words, I'm sorry to hear that actually.
+
+62
+00:05:16,320 --> 00:05:21,320
+Well, it was just a meaning I was so excited when we sat there and it was so I was with Tim and with
+
+63
+00:05:21,320 --> 00:05:25,480
+DA Wallach, who some folks listening will know because I've interviewed DA on the podcast as
+
+64
+00:05:25,480 --> 00:05:29,560
+well. And we were having this dinner. And as is always the case when I'm talking with dorky
+
+65
+00:05:29,560 --> 00:05:36,080
+science friends, Rapa Mice comes up and one thing led to another. And then I'm embarrassed to say
+
+66
+00:05:36,080 --> 00:05:41,680
+this, but the 2014 paper that I talk about constantly, I always refer to it as the manic
+
+67
+00:05:41,680 --> 00:05:46,080
+paper because she's, of course, the first author. But you're sort of the lead author. You're the
+
+68
+00:05:46,080 --> 00:05:49,680
+final author. You're the senior author on that paper. And so I was embarrassed to say this. I
+
+69
+00:05:49,680 --> 00:05:53,520
+didn't even when they mentioned your name, I didn't put two and two together. And I didn't know you
+
+70
+00:05:53,520 --> 00:05:58,920
+were at Restore Bio at the time either. So anyway, they connected us. We communicated over email. The
+
+71
+00:05:58,920 --> 00:06:03,320
+rest is history. We're sitting here today and I am beyond excited. And then this is a topic that I
+
+72
+00:06:03,320 --> 00:06:08,640
+just know listeners are dying to hear about because it's been over a year since I've had a
+
+73
+00:06:08,640 --> 00:06:13,800
+podcast on this topic. So very early in this podcast, which is about a year and a half ago,
+
+74
+00:06:14,160 --> 00:06:19,080
+we had discussions with David Sabatini and with Matt Kaberlin, who are both amazing folks and
+
+75
+00:06:19,160 --> 00:06:24,720
+legends in this area as well. So I'm going to discipline myself for a moment before getting
+
+76
+00:06:24,760 --> 00:06:28,840
+right into the Rapa stuff to give a little bit of background. You've got a pretty interesting
+
+77
+00:06:28,840 --> 00:06:32,960
+background. I want to hear a little bit about it. When did you realize this is what you wanted to
+
+78
+00:06:32,960 --> 00:06:37,920
+do, which was be basically physician, scientist, and then ultimately now move into industry?
+
+79
+00:06:38,360 --> 00:06:46,680
+Well, I guess I can begin by stating that science and medicine is the family business. So it wasn't
+
+80
+00:06:46,680 --> 00:06:54,120
+much of a stretch for me to be here doing what I'm doing now doing what I've done before on both
+
+81
+00:06:54,120 --> 00:07:01,080
+sides of my family, both sides of my kids family. All of my kids are scientists, doctors are both.
+
+82
+00:07:01,320 --> 00:07:04,240
+So did you do a combined MD PhD or did you do them separately?
+
+83
+00:07:04,480 --> 00:07:10,000
+I did the combined one. My wife did them separately, actually, the long and expensive way.
+
+84
+00:07:10,400 --> 00:07:13,200
+Yeah, exactly. At least when you do them together, they pay for each other.
+
+85
+00:07:13,320 --> 00:07:13,720
+Yeah.
+
+86
+00:07:13,960 --> 00:07:18,680
+When did you decide you want to focus on immunology, rheumatology? I mean, there's no shortage of
+
+87
+00:07:18,680 --> 00:07:20,000
+things one can specialize in.
+
+88
+00:07:20,480 --> 00:07:25,760
+One of at least my challenges and I know the challenge of many physicians and many scientists
+
+89
+00:07:25,760 --> 00:07:32,120
+is that so many things are interesting. How do you focus? And like many things in life, it was about
+
+90
+00:07:32,240 --> 00:07:38,680
+the people, not the science that led me into immunology, rheumatology and where I am. When I
+
+91
+00:07:38,680 --> 00:07:44,360
+had left college, and wasn't sure where I was going to go next, I spent a couple of years working in a
+
+92
+00:07:44,360 --> 00:07:50,360
+laboratory at Brigham and Women's Hospital. I had such an incredible time and met such wonderful
+
+93
+00:07:50,360 --> 00:07:55,800
+people that ultimately my decision was to stay there and work with them, learn from them. What
+
+94
+00:07:55,800 --> 00:08:03,880
+years were you at the Brigham? I worked in a technical capacity from 79 to 81, started medical
+
+95
+00:08:03,880 --> 00:08:12,560
+school in 81 and finished both degrees by 1989 and then stayed there through all of my training and
+
+96
+00:08:12,560 --> 00:08:18,880
+then left in 2006 to join actually Tim Wright's department at Novartis Institutes.
+
+97
+00:08:20,320 --> 00:08:23,920
+What prompted that decision? And is that a one way street for most people?
+
+98
+00:08:24,480 --> 00:08:29,840
+There are people who go back and forth, but I think we have to be realistic that it's more
+
+99
+00:08:29,840 --> 00:08:36,920
+challenging to go back to academia if you don't have extant grants and external funding. It has to
+
+100
+00:08:36,920 --> 00:08:42,920
+come from somewhere in most places. In terms of what drove the decision, I'm a physician-scientist.
+
+101
+00:08:43,040 --> 00:08:49,520
+For me, it's important to do both, science and medicine. And it's harder and harder and harder to
+
+102
+00:08:49,520 --> 00:08:54,760
+do that now in an academic environment. At least I'll get in trouble for saying this, but at least
+
+103
+00:08:54,760 --> 00:09:01,200
+a primitive academic environment like Harvard, where you eat what you kill and you have to, at the
+
+104
+00:09:01,200 --> 00:09:08,160
+same time, see patients be at the top of not just your game, but the world's game in seeing patients
+
+105
+00:09:08,160 --> 00:09:11,120
+and administrative and teaching responsibilities and so forth.
+
+106
+00:09:11,920 --> 00:09:15,920
+Well, I mean, let Harvard get upset at you for saying that, but I mean, there's no denying what
+
+107
+00:09:15,920 --> 00:09:22,400
+you're saying is the case. I interview so many people who are straddling that and I'm constantly
+
+108
+00:09:22,400 --> 00:09:27,600
+amazed. In fact, I was interviewing someone recently, a very remarkable scientist and academic,
+
+109
+00:09:28,080 --> 00:09:34,240
+and I couldn't believe how much clinical obligation he had and yet how prolific he was. It's sort of
+
+110
+00:09:34,240 --> 00:09:38,480
+amazing to me that some folks can actually straddle that. It's certainly not optimal, I guess,
+
+111
+00:09:38,480 --> 00:09:44,320
+is the point. No, and it was much more challenging than I had seen it in the late 70s and early 80s.
+
+112
+00:09:44,960 --> 00:09:49,520
+What changed? Is the reduction in grant? The competitiveness of the grant environment or?
+
+113
+00:09:49,520 --> 00:09:54,720
+No, it wasn't so much the grant environment. It was more the regulation and the paperwork
+
+114
+00:09:54,720 --> 00:10:00,160
+that was imposed mostly on the clinical side. I need to be fair and say I was both running from
+
+115
+00:10:00,160 --> 00:10:06,640
+something and running to something. As a physician scientist, the goal is to have each of them
+
+116
+00:10:06,640 --> 00:10:13,760
+contribute to the other and translational medicine, which was a new concept around the turn of the
+
+117
+00:10:13,760 --> 00:10:20,480
+millennium, was growing and was perfect for somebody like me. The Vardis Institutes was
+
+118
+00:10:20,480 --> 00:10:28,000
+created by Mark Fishman in the early 2000s as a new concept and a new approach to drug development,
+
+119
+00:10:28,000 --> 00:10:34,480
+thinking about pathway biology. They were building translational medicine departments and Tim
+
+120
+00:10:34,480 --> 00:10:40,640
+recruited me to lead the musculoskeletal one. Maybe explain to folks the difference between
+
+121
+00:10:40,640 --> 00:10:45,280
+basic science, clinical science or clinical research and translational research, which,
+
+122
+00:10:45,280 --> 00:10:49,600
+as you said, the latter there being a relatively recent phenomenon.
+
+123
+00:10:50,480 --> 00:10:57,920
+Lots of examples of basic science. One that's pretty exciting and has led to Nobel Prizes
+
+124
+00:10:57,920 --> 00:11:06,000
+is the study of restriction enzymes. Who thought that studying obscure bacteria and how they limit
+
+125
+00:11:06,720 --> 00:11:14,080
+their infection by viruses might have led to the concept of restriction enzymes, which was required
+
+126
+00:11:14,080 --> 00:11:20,160
+for the development of modern molecular biology. Another one of basic science. You've probably
+
+127
+00:11:20,160 --> 00:11:25,280
+talked about CRISPR technology here. We have a dedicated podcast to it and I'd love to get
+
+128
+00:11:25,280 --> 00:11:30,080
+Jennifer on to do so, but please continue. Yeah, that's a great example. I'll give you a one-minute
+
+129
+00:11:30,080 --> 00:11:39,760
+summary. It is another critical element of the bacterial immune system. It's simple, it's elegant,
+
+130
+00:11:39,760 --> 00:11:47,520
+it's powerful and there were scientists in Europe studying fermentation for yogurt and cheese.
+
+131
+00:11:48,640 --> 00:11:56,480
+And they discovered CRISPR, Jennifer Doudna and colleagues here, MIT and the Broad Institute. And
+
+132
+00:11:56,480 --> 00:12:02,560
+they were studying basic science. They were studying bacterial biology and it became so exciting
+
+133
+00:12:03,120 --> 00:12:09,520
+when somebody translated the biochemistry, if you will, in the bacteria to see what it
+
+134
+00:12:09,520 --> 00:12:16,400
+worked in humans. Who would have thought that would work? Bacterial chromatin, the DNA is so
+
+135
+00:12:16,400 --> 00:12:23,120
+different, it's supercoiled in a bacterial cell whereas human DNA is organized into chromatin
+
+136
+00:12:23,760 --> 00:12:33,200
+and methylated, but it did. So the point here is basic science isn't necessarily in pursuit of
+
+137
+00:12:33,200 --> 00:12:40,880
+anything beyond knowledge, but it doesn't come with the caveat of this needs to have a clinical
+
+138
+00:12:40,880 --> 00:12:45,440
+application with respect to the species of interest. Exactly right. Clinical medicine,
+
+139
+00:12:45,440 --> 00:12:52,160
+I think everybody knows, it's getting your flu shot in the fall, it's being told the diet and
+
+140
+00:12:52,240 --> 00:12:59,600
+exercise and take your antihypertenses if they've been prescribed. Right, does taking this medication
+
+141
+00:12:59,600 --> 00:13:07,360
+lower your risk of a stroke? Does taking this vaccine lower your risk of getting the flu?
+
+142
+00:13:07,360 --> 00:13:12,800
+Exactly. And translational medicine... There's a big gap between those two, isn't there? Yes,
+
+143
+00:13:13,680 --> 00:13:19,440
+and that's what translational medicine does. People had been doing this for a long time,
+
+144
+00:13:19,520 --> 00:13:25,760
+but never in an organized and conceptually holistic way, if I could say that. It's,
+
+145
+00:13:26,560 --> 00:13:32,480
+how do you take a basic science observation and make something useful for human health out of it
+
+146
+00:13:32,480 --> 00:13:40,720
+and prove it, which is surprisingly challenging. So you're saying that basically up until roughly
+
+147
+00:13:40,720 --> 00:13:48,240
+20 years ago, this hasn't been particularly well organized, and now pharma companies, among others,
+
+148
+00:13:48,240 --> 00:13:53,760
+are saying we'd like to own some of this risk. I think everybody has bought into the concept of
+
+149
+00:13:53,760 --> 00:14:00,320
+translational medicine now. Probably all big pharma companies and many small ones do it.
+
+150
+00:14:00,960 --> 00:14:07,680
+Many academic institutions have organizations to do translational medicine. It's in part our
+
+151
+00:14:07,680 --> 00:14:12,720
+responsibility, it's in part a way to do it more efficiently by providing appropriate training and
+
+152
+00:14:12,720 --> 00:14:18,960
+experience to younger scientists. We always have to think back to who's funding our basic science,
+
+153
+00:14:18,960 --> 00:14:24,960
+especially in academia. Ultimately, it's the people. Most heavily taxpayer funded. Yes,
+
+154
+00:14:24,960 --> 00:14:32,000
+it's most heavily taxpayer funded, and the reason they're doing it is to make their lives better,
+
+155
+00:14:32,000 --> 00:14:36,880
+or the lives of their family and friends better, and we need to be better at that, and I think
+
+156
+00:14:36,880 --> 00:14:41,760
+this is taking a step in that direction. So what was the first translational problem then you
+
+157
+00:14:41,760 --> 00:14:46,560
+began to work on when you joined Novartis in the, what would have been I guess the 90s, right?
+
+158
+00:14:46,560 --> 00:14:53,920
+It was in the early 2000s, so I joined a musculoskeletal program at the time Novartis was working on,
+
+159
+00:14:54,720 --> 00:15:01,040
+it was a regenerative medicine concept in musculoskeletal biology to increase bone density and
+
+160
+00:15:01,040 --> 00:15:07,920
+increase muscle strength, and so we had to put together some programs that would translate some
+
+161
+00:15:07,920 --> 00:15:15,280
+basic biology observations from human genetics. Remember translation can go both ways, and in fact
+
+162
+00:15:15,280 --> 00:15:21,200
+to skip ahead a little bit, we actually did that from that 2014 paper. We took what we learned there
+
+163
+00:15:21,200 --> 00:15:28,640
+and went back into the mouse, and there were a few projects. The one that has been successful
+
+164
+00:15:28,640 --> 00:15:36,160
+is a drug called zolidronic acid to increase bone density. And what was the state of assets that you
+
+165
+00:15:36,160 --> 00:15:42,560
+came into? Did Novartis already have a basic program that had shown some new insight with
+
+166
+00:15:42,560 --> 00:15:49,280
+respect to biology that could then be extrapolated into a compound? Did they already have the compound?
+
+167
+00:15:49,280 --> 00:15:57,200
+What was the actual program you were creating? At that time Novartis worked very much like most
+
+168
+00:15:57,200 --> 00:16:02,720
+other pharmaceutical companies did. There was a basic science department led by PhD scientists,
+
+169
+00:16:03,360 --> 00:16:08,880
+there was a clinical development organization led by clinical developers including MDs,
+
+170
+00:16:09,840 --> 00:16:14,720
+and there was a throw it over the wall mentality. The scientists make something that they like,
+
+171
+00:16:14,720 --> 00:16:18,240
+then they throw it over to the clinical scientists and they have to figure out what to do with it.
+
+172
+00:16:18,800 --> 00:16:24,640
+This is pre-IND? Yes. Okay, we should explain what an IND is I suppose. Yeah, do you want to tell
+
+173
+00:16:24,640 --> 00:16:31,520
+folks about that? Sure. So an IND stands for investigational new drug, and this is the
+
+174
+00:16:31,600 --> 00:16:38,240
+application that sponsors make to the FDA to get permission to begin clinical trials.
+
+175
+00:16:38,800 --> 00:16:48,480
+And there are a whole raft of requirements that are necessary in terms of quality manufacturing,
+
+176
+00:16:48,480 --> 00:16:54,480
+clinical plans, risks and benefits, experiments and so forth, so that we can make it as safe as
+
+177
+00:16:54,480 --> 00:16:59,520
+possible to test something new in people. But in any event that's the way Novartis worked is they
+
+178
+00:16:59,520 --> 00:17:03,680
+separated research from clinical development. Other companies did it a little differently. They
+
+179
+00:17:03,680 --> 00:17:09,440
+had the initial testing in healthy volunteers or the initial testing in patients depending on the
+
+180
+00:17:09,440 --> 00:17:14,480
+risk-benefit argument as part of the research organization. But in principle it's the same
+
+181
+00:17:14,480 --> 00:17:20,640
+thing. You had scientists making medicines and then clinicians testing them. The goal of
+
+182
+00:17:20,640 --> 00:17:24,880
+translational medicine is to provide clinical input right at the very beginning of the process,
+
+183
+00:17:24,880 --> 00:17:31,920
+even when you're thinking about what to do. And it really helps to focus the drug development
+
+184
+00:17:31,920 --> 00:17:38,560
+process on the patients and the clinical need right from the beginning so that ultimately the
+
+185
+00:17:38,560 --> 00:17:43,120
+drug that's made is the drug that's needed. Not let's make something and figure out what we can
+
+186
+00:17:43,120 --> 00:17:49,040
+do with it. Let's figure out what we need and then make it. Is there evidence by the way this is a bit
+
+187
+00:17:49,040 --> 00:17:56,880
+of a tangent but that that transition has rendered pharma more efficient at yielding capital?
+
+188
+00:17:57,840 --> 00:18:03,920
+This is studied in an anonymized fashion by an industry organization. It varies by company.
+
+189
+00:18:03,920 --> 00:18:10,720
+I see. So let's fast forward a little bit to the first time you became involved in
+
+190
+00:18:11,760 --> 00:18:17,280
+a molecule that would be involved in a nutrient sensing pathway. What was your foray into that?
+
+191
+00:18:18,160 --> 00:18:23,200
+There's a step before that and that is how did I get from musculoskeletal disease
+
+192
+00:18:23,920 --> 00:18:28,560
+to something new. We have to credit again Mark Fishman who was the founder of the Novartis
+
+193
+00:18:28,560 --> 00:18:35,120
+Institutes for this because he challenged me and a few others to put together an organization within
+
+194
+00:18:35,120 --> 00:18:42,080
+the company and answer the question what aren't we doing that we should be doing and then start
+
+195
+00:18:42,080 --> 00:18:48,960
+some projects. And again it's all about medical need and of course scientific tractability.
+
+196
+00:18:48,960 --> 00:18:53,840
+So we started that project. We called it the new indication discovery unit. What year is this
+
+197
+00:18:53,840 --> 00:19:03,840
+roughly? Mid-2000? This would have been about 2008 or 2009. We basically applied those principles,
+
+198
+00:19:03,840 --> 00:19:11,040
+a real medical need, a problem that's scientifically tractable and that Novartis wasn't working on an
+
+199
+00:19:11,040 --> 00:19:17,600
+ideally that nobody was working on. And we ended up with a few very interesting areas.
+
+200
+00:19:18,160 --> 00:19:24,880
+Joan Manick who was the first author on that 2014 paper brought the idea forward. Well maybe
+
+201
+00:19:24,880 --> 00:19:30,160
+the biology of aging is tractable but how do we actually make a medicine and develop it?
+
+202
+00:19:30,160 --> 00:19:35,040
+That was Joan at Novartis at this time? Yeah she joined our group in part to do this.
+
+203
+00:19:35,760 --> 00:19:41,600
+Her real innovation beyond just the ideas that she figured out a way to
+
+204
+00:19:42,640 --> 00:19:49,440
+test a medicine that could alter the biology of aging in humans and find an endpoint that's
+
+205
+00:19:49,440 --> 00:19:56,880
+measurable and modifiable in a reasonable time frame. Which really is the Achilles heel of aging
+
+206
+00:19:56,880 --> 00:20:03,200
+research which is the ultimate outcome is virtually unmeasurable in the species of interest.
+
+207
+00:20:03,200 --> 00:20:09,520
+Yes so our approach is not necessarily what you might read in the popular press about making
+
+208
+00:20:09,520 --> 00:20:19,600
+medicines for aging. Our approach is to address serious aging associated diseases and if we're
+
+209
+00:20:19,600 --> 00:20:26,400
+successful the side effect will be longevity. Yeah so keep going then. Now Joan floats this idea
+
+210
+00:20:26,400 --> 00:20:33,920
+which is here's a really good proxy for aging that can be measured out in a time course that's
+
+211
+00:20:33,920 --> 00:20:40,320
+clinically tractable and also frankly amenable to the type of research that we can do in humans.
+
+212
+00:20:41,040 --> 00:20:46,240
+And so what was your aha moment? This is interesting. This is interesting to Lloyd.
+
+213
+00:20:47,040 --> 00:20:52,720
+I needed and beyond interesting to Lloyd we then as a team had to persuade the rest of the
+
+214
+00:20:52,720 --> 00:20:57,760
+organization hey let's try this idea and again we always come back to the medical need,
+
+215
+00:20:58,560 --> 00:21:04,560
+scientific tractability and in proposing a project what's the evidence that it's going to be successful
+
+216
+00:21:05,120 --> 00:21:13,520
+and you know as well as anybody there's substantial scientific data that mTOR inhibition will
+
+217
+00:21:14,240 --> 00:21:19,200
+extend health span in many preclinical species certainly all the ones that have been tested.
+
+218
+00:21:19,760 --> 00:21:26,400
+Now that was not obvious in 2008. I mean 2009 people had been speculating and of course there
+
+219
+00:21:26,400 --> 00:21:31,520
+was a major publication that came out in 2009. I have to correct the time frame. We started our
+
+220
+00:21:31,520 --> 00:21:37,680
+new indication discovery unit in 2008 or 9. I think Joan started the project in 2010. Got it.
+
+221
+00:21:37,680 --> 00:21:43,440
+So you already had a very important study behind you as a catalyst for that. Let's take a step
+
+222
+00:21:43,440 --> 00:21:47,600
+back now and explain because it's been a while and there's going to be people listening who
+
+223
+00:21:48,160 --> 00:21:52,880
+don't recall all the details of our discussion with David Sabatini and with Matt Kaberlin.
+
+224
+00:21:52,880 --> 00:21:59,920
+Let's talk about what is mTOR. Sure well I can't add anything to David Sabatini about what mTOR is.
+
+225
+00:21:59,920 --> 00:22:05,760
+Nobody can but let's assume people have not heard what David has to say. Sure. In a nutshell,
+
+226
+00:22:06,400 --> 00:22:13,680
+mTOR is the master integrator of external availability of nutrients and growth factors
+
+227
+00:22:14,640 --> 00:22:20,240
+and then is the master regulator of the outputs of that integration deciding whether
+
+228
+00:22:20,960 --> 00:22:28,560
+cells are going to make proteins, make lipids, make nucleic acids grow or are we going to circle the
+
+229
+00:22:28,560 --> 00:22:36,080
+wagons, conserve resources, recycle and wait during times of little for hopefully future times of
+
+230
+00:22:36,080 --> 00:22:43,360
+plenty. So that's the role of mTOR. So it takes a bunch of signals which are external to the cell
+
+231
+00:22:43,840 --> 00:22:48,960
+ultimately become internal to the cell because mTOR is in the cell not out of the cell. It
+
+232
+00:22:48,960 --> 00:22:55,760
+assimilates and integrates across that signal and makes decisions that lead to, as you said,
+
+233
+00:22:56,320 --> 00:23:02,800
+at the risk of oversimplifying grow or don't grow. Yes I think that's exactly right. The signals it
+
+234
+00:23:02,800 --> 00:23:11,600
+takes are amino acids, glucose, cellular energy, growth factors from other parts of the organism
+
+235
+00:23:11,680 --> 00:23:16,720
+as probably the major ones and then decides are there sufficient resources that the cell
+
+236
+00:23:16,720 --> 00:23:20,960
+should grow or not. And between, this is just a little history lesson for the listener, sort of
+
+237
+00:23:20,960 --> 00:23:27,920
+between 1991 when Hall first identified what was not called at the time TOR but what would go on
+
+238
+00:23:27,920 --> 00:23:38,160
+to become TOR in yeast and 94 when Sabatini identifies it in mammals, you basically had
+
+239
+00:23:38,160 --> 00:23:44,400
+some of the just the heaviest hitters in biology all sort of converging on this idea which is
+
+240
+00:23:45,040 --> 00:23:51,280
+this is a really ubiquitous thing that has been preserved across about a billion years of
+
+241
+00:23:51,280 --> 00:23:57,360
+evolution with very little change. You don't see that every day in biology. Why is that relevant?
+
+242
+00:23:58,160 --> 00:24:03,360
+The simplest argument is that things that have been conserved from single-cell organisms to
+
+243
+00:24:03,360 --> 00:24:10,320
+us are probably important. There's some interesting comparative zoology that's relevant to mTOR here.
+
+244
+00:24:10,960 --> 00:24:16,880
+If you think about where in the cell mTOR lives, it's active on something called a lysosome
+
+245
+00:24:17,600 --> 00:24:24,800
+and that is a structure in the cells that's responsible for breaking down either cellular
+
+246
+00:24:24,800 --> 00:24:30,960
+material or material that's been acquired from outside the cell into its component elements
+
+247
+00:24:30,960 --> 00:24:38,240
+that then could be recycled like amino acids and sugars and so forth. Very early in development,
+
+248
+00:24:39,120 --> 00:24:44,800
+well in evolutionary biology when there were single-celled organisms and then the early
+
+249
+00:24:44,800 --> 00:24:53,360
+multiple cellular organisms, the way that the organism ate was by creating a vacuole
+
+250
+00:24:53,360 --> 00:24:59,520
+from whatever was on the outside and then creating a lysosome. So we can sort of picture this
+
+251
+00:24:59,520 --> 00:25:05,120
+endocytotic process as the cell membrane or wall depending on what if it's eukaryotic or
+
+252
+00:25:05,120 --> 00:25:11,680
+prokaryotic, sort of sucks in a little bit which creates basically a space and then the outer parts
+
+253
+00:25:11,680 --> 00:25:17,760
+of that wall reach up, reach around it and can actually seal and now you've created like a vacuole
+
+254
+00:25:17,760 --> 00:25:23,520
+that you pull into the cell. Yes and in the early multicellular organisms there were specialized
+
+255
+00:25:23,520 --> 00:25:29,440
+cells for doing this and they were called phagocytes for eating cells. Later on it was
+
+256
+00:25:29,440 --> 00:25:34,000
+learned that phagocytes could also serve an immunologic role, in other words that they could
+
+257
+00:25:34,000 --> 00:25:41,680
+eat pathogens as well as nutrients. This happened in the late 1800s when higher quality microscopes
+
+258
+00:25:41,680 --> 00:25:47,760
+were available. A Russian scientist named Ilya Mechnikov did a lot of the pioneering work on this.
+
+259
+00:25:47,840 --> 00:25:55,200
+He was working in Paris and he described, he was an embryologist and comparative zoologist,
+
+260
+00:25:55,200 --> 00:26:00,800
+and he described by looking at small animals that were completely transparent so he could see all
+
+261
+00:26:00,800 --> 00:26:06,080
+the cells inside and what they were doing. He actually imaged them while they were alive and
+
+262
+00:26:06,080 --> 00:26:13,440
+he could watch them eat and he could watch them fight bacterial infections and he was the major
+
+263
+00:26:13,440 --> 00:26:19,600
+champion of something called cellular immunity. At the same time some German scientists, notably
+
+264
+00:26:19,600 --> 00:26:26,160
+Paul Ehrlich, were working on what we now understand as antibodies and they said no it's
+
+265
+00:26:26,720 --> 00:26:31,920
+humoral immunity or soluble immunity in your blood and they had the cellular immunologists
+
+266
+00:26:31,920 --> 00:26:38,080
+in Paris and we had the humoral immunologists in Germany. Eventually they figured out they were
+
+267
+00:26:38,080 --> 00:26:46,160
+both right and they both got the Nobel Prize in 1908. But this is why mTOR is probably on
+
+268
+00:26:46,160 --> 00:26:54,080
+a lysosomal vacuole because in the context of evolutionary development it was on these vacuoles
+
+269
+00:26:54,640 --> 00:27:02,000
+that very simplest organisms use to ingest food and nutrients. And so you want to have it close to,
+
+270
+00:27:02,720 --> 00:27:07,360
+because it's there to sense those things, you want to have it very close to where they enter the cell.
+
+271
+00:27:07,360 --> 00:27:14,560
+Yes, exactly. So if we take a given eukaryotic cell today, take one of our cells, how many mTOR
+
+272
+00:27:14,560 --> 00:27:20,480
+complexes would exist in a cell? What order of magnitude? I'd turf that question to David
+
+273
+00:27:20,480 --> 00:27:24,560
+Sabatini. I don't think I've ever asked David that question. I don't know. I would guess it
+
+274
+00:27:24,560 --> 00:27:33,440
+would be on the order of thousands, not millions, not tens. So one of the other things that David's
+
+275
+00:27:34,000 --> 00:27:40,720
+done is not just recognizing this in mammals but also recognizing that mTOR, which again,
+
+276
+00:27:40,720 --> 00:27:43,920
+it's one of those things that's funny when you start to explain it to people,
+
+277
+00:27:43,920 --> 00:27:48,080
+because you can't explain what mTOR is without somewhere explaining what rapamycin is,
+
+278
+00:27:48,080 --> 00:27:56,000
+given the name. mTOR stands for mechanistic target of rapamycin. But David also played the
+
+279
+00:27:56,000 --> 00:28:01,200
+fundamental role in elucidating that mTOR can be organized in a couple of different ways and
+
+280
+00:28:01,200 --> 00:28:06,320
+sort of two main different ways it can be organized known as complex one and complex two.
+
+281
+00:28:07,040 --> 00:28:10,960
+Explain a little bit about what those two mean. How do they organize differently? And
+
+282
+00:28:10,960 --> 00:28:13,760
+perhaps more importantly, is there a functional difference between those?
+
+283
+00:28:14,480 --> 00:28:21,600
+Sure. So in yeast, there are two separate TOR proteins, one and two. And in, I think,
+
+284
+00:28:21,600 --> 00:28:27,120
+all other species, there's just one mTOR protein and it can be assembled into two different
+
+285
+00:28:27,120 --> 00:28:34,320
+complexes. One of them, or called TORC1, for target of rapamycin complex one,
+
+286
+00:28:34,960 --> 00:28:42,080
+regulates many of the things we've been talking about. So protein synthesis, lipid biosynthesis,
+
+287
+00:28:42,720 --> 00:28:50,240
+protein translation, and so forth. The other complex, TORC2, regulates cytoskeletal,
+
+288
+00:28:50,240 --> 00:28:56,720
+so in other words, the skeleton of the cells organization, and growth decisions. So different.
+
+289
+00:28:57,360 --> 00:29:05,120
+Now this is sort of interesting. So let's talk about rapamycin now. How does rapamycin interact
+
+290
+00:29:05,120 --> 00:29:10,400
+with TOR, its target? That's an excellent question because you think about TOR being
+
+291
+00:29:10,400 --> 00:29:17,360
+the target of rapamycin. It's not exactly. The target of rapamycin is an immunofilin
+
+292
+00:29:18,080 --> 00:29:24,880
+called FK binding proteins or FKBP. And there's several of these. There's three different classes
+
+293
+00:29:24,960 --> 00:29:33,840
+of immunofilins. The complex of rapamycin bound to FKBP then binds to the TORC1 complex
+
+294
+00:29:34,800 --> 00:29:43,520
+and inhibits it. And it inhibits it in different ways for different downstream targets. The one
+
+295
+00:29:43,520 --> 00:29:50,560
+that's most commonly measured is something called phospho-S6 kinase, which name's not important,
+
+296
+00:29:50,560 --> 00:29:56,720
+it's just this is the protein translation pathway. And it's very efficient in inhibiting that.
+
+297
+00:29:56,720 --> 00:30:05,840
+A little less so for another target called 4-EBP1, and even less so for a target called ULK1,
+
+298
+00:30:05,840 --> 00:30:11,040
+which is involved in activating the cell's recycling machinery called autophagy.
+
+299
+00:30:11,600 --> 00:30:17,600
+In other words, let's go through that again. So rapamycin binds, and how tightly does it bind,
+
+300
+00:30:18,560 --> 00:30:24,560
+pretty tightly? So it binds pretty tightly to this binding protein. This binding protein then
+
+301
+00:30:25,520 --> 00:30:32,080
+moves towards TOR. And in the case of, did we explain Raptor and Richter yet? We haven't
+
+302
+00:30:32,080 --> 00:30:35,600
+explained those cases. Do you want to spend maybe just a minute so that they can see the difference
+
+303
+00:30:35,600 --> 00:30:42,000
+between complex 1 and complex 2? So mTOR is present in both TORC1 and TORC2 complex,
+
+304
+00:30:42,560 --> 00:30:47,360
+but there are proteins that are unique to each complex. So as you were saying, the yeast have
+
+305
+00:30:47,360 --> 00:30:53,680
+two different TOR. Everything else has the same TOR, but it's another binding protein. It's another
+
+306
+00:30:53,680 --> 00:30:58,240
+protein bound to it that creates the distinction between complex 1 and 2, correct? Exactly. And we
+
+307
+00:30:58,240 --> 00:31:03,840
+should qualify every organism we looked at as only one mTOR. I'm sure we haven't looked at all of them.
+
+308
+00:31:04,640 --> 00:31:12,480
+So Raptor and Richter, again discovered in David Sabatini's group, Raptor is unique to TORC1 complex,
+
+309
+00:31:12,480 --> 00:31:18,640
+and Richter is unique to the TORC2 complex. And they're covalently bound to TOR? I don't think
+
+310
+00:31:18,640 --> 00:31:24,400
+it's covalent. Okay. So it's some sort of conformational configuration, but not necessarily?
+
+311
+00:31:24,400 --> 00:31:30,560
+Well, it's a multi-subunit complex, but I think they bind on the basis of having a fairly large
+
+312
+00:31:30,560 --> 00:31:39,280
+surface of interaction, not covalent. And then the complex, to get back to the FKBP of FKBP plus
+
+313
+00:31:40,000 --> 00:31:49,360
+Rapamycin, then binds to the TORC1 complex and inhibits it. But again, it inhibits it very well
+
+314
+00:31:49,360 --> 00:31:54,160
+for some of the downstream pathways and not so well for some of the others. And let's review,
+
+315
+00:31:54,160 --> 00:31:58,800
+again, those three. So the first one that binds really well, the serine phosphate, is which one?
+
+316
+00:31:59,440 --> 00:32:07,360
+There's the binding interaction of the Rapamycin FKBP to TORC1. Yes. And then that alters the TORC1
+
+317
+00:32:07,360 --> 00:32:13,360
+downstream activity. It inhibits quite effectively phosphorylation of S6 kinase.
+
+318
+00:32:14,160 --> 00:32:21,920
+S6 is a critical protein in the ribosome required for protein translation. It works a little less
+
+319
+00:32:21,920 --> 00:32:29,120
+well for a protein called 4-EBP1, which is an inhibitor of protein translation. So you inhibit
+
+320
+00:32:29,120 --> 00:32:37,280
+the inhibitor and you activate protein translation. And it's less effective at phosphorylating ULK
+
+321
+00:32:37,280 --> 00:32:44,160
+1, which is an early step in the activation of the cell recycling machinery called autophagy.
+
+322
+00:32:44,960 --> 00:32:53,200
+The interpretation of that is as following. Rapamycin is a strong inhibitor of making new
+
+323
+00:32:53,200 --> 00:33:00,000
+protein and a modest activator of autophagy. Exactly. Is that a fair statement? Yeah,
+
+324
+00:33:00,000 --> 00:33:05,440
+I think that's a fair statement. We're talking about these pathways as specific examples.
+
+325
+00:33:05,440 --> 00:33:11,520
+Remember, TORC1 does other things too, particularly in terms of regulation of lipid synthesis,
+
+326
+00:33:12,160 --> 00:33:21,360
+pyrimidine synthesis. Pyrimidines are part of DNA. What about mTORC2? So how does RAPA and FKBP
+
+327
+00:33:21,360 --> 00:33:28,160
+bind to mTORC2? I don't think it does directly because there's no immediate effect of the
+
+328
+00:33:28,160 --> 00:33:33,360
+complex on TORC2 activity. If you look at the downstream targets, they're not affected in the
+
+329
+00:33:33,360 --> 00:33:40,320
+short term. There's a longer term feedback inhibition of TORC2. And is that more due to
+
+330
+00:33:40,320 --> 00:33:46,960
+the failure to resynthesize enough TOR? Is there a shortfall of TOR because so much of the TOR is
+
+331
+00:33:46,960 --> 00:33:54,480
+bound to the RAPA FKBP complex that you now run out of enough TOR to make mTOR complex too?
+
+332
+00:33:54,480 --> 00:33:58,560
+You could imagine that is one possibility, but I don't think that's the case. I think it's more
+
+333
+00:33:58,560 --> 00:34:04,400
+there's a feedback signaling pathway that down regulates TORC2. What you said is very important,
+
+334
+00:34:04,400 --> 00:34:08,320
+and we're going to come back to it in great detail, but there's something temporal about this,
+
+335
+00:34:08,320 --> 00:34:18,240
+isn't there? Yes. Do we know how much exposure to rapamycin or a rapalog is necessary,
+
+336
+00:34:18,240 --> 00:34:24,160
+constitutive exposure, before you start to see this dual prong of inhibition? Are we talking about
+
+337
+00:34:24,720 --> 00:34:32,000
+a day, two days, three days, a month? I know you had David Sinclair on recently. Yeah. And I listened
+
+338
+00:34:32,000 --> 00:34:37,520
+to your talk with him. He talks about mouse experiments. My bias is to talk about people
+
+339
+00:34:37,520 --> 00:34:45,280
+experiments, given my role. In humans, after a week to a month, you can start to see consequences
+
+340
+00:34:45,280 --> 00:34:53,680
+of TORC2 inhibition with a rapalog alone, and it's reflected in hyperglycemia and hyperdruglyceridemia.
+
+341
+00:34:53,680 --> 00:35:00,720
+So biomarkers in the peripheral blood, you can measure. Why is it that inhibition of mTORC2
+
+342
+00:35:00,720 --> 00:35:06,400
+leads to that phenotype you just described? I don't think we know exactly. Is it confirmed
+
+343
+00:35:06,400 --> 00:35:12,000
+that that phenotype exists in healthy volunteers? In other words, we see this for sure in patients
+
+344
+00:35:12,000 --> 00:35:20,240
+who take rapamycin or its analogs in the context of organ transplantation, but if we took
+
+345
+00:35:20,320 --> 00:35:25,600
+non-diabetic, non-immunocompromised, quote unquote, as normal as possible subjects,
+
+346
+00:35:26,400 --> 00:35:32,880
+do we have evidence that those things happen? We do. MTOR inhibitors, well, rapalog specifically,
+
+347
+00:35:33,440 --> 00:35:41,040
+have been tested in non-transplant, non-malignant disease patients. Some specific examples include
+
+348
+00:35:41,040 --> 00:35:47,040
+the rapalog RAD001 was tested in patients with polycystic kidney disease. These people are
+
+349
+00:35:47,040 --> 00:35:54,240
+basically well, except for that renal disease. And even in those patients, there were a substantial
+
+350
+00:35:54,240 --> 00:35:59,600
+fraction who saw these biochemical changes in their blood. Now, not everybody gets it. We don't
+
+351
+00:35:59,600 --> 00:36:08,160
+understand that either. Do we know what the dose equivalence was of RAD001 versus rapamycin? In
+
+352
+00:36:08,160 --> 00:36:12,960
+other words, they were getting it daily. Do you recall at what dose did you start to see this
+
+353
+00:36:12,960 --> 00:36:20,320
+consequence? That was a phase three study. It's published so you could look it up. If I recall,
+
+354
+00:36:20,320 --> 00:36:27,120
+the dose was 10 milligrams a day and I think they had an opportunity to decrease the dose to 5
+
+355
+00:36:27,120 --> 00:36:34,160
+milligrams if it wasn't tolerated. Is RAD001 identical to rapamycin in dosing? What's the
+
+356
+00:36:34,160 --> 00:36:40,320
+dose equivalence? Again, it's hard to do an exact dose equivalence because the biochemistry of how
+
+357
+00:36:40,320 --> 00:36:46,480
+exactly the complex works with the mTORC complex is a little different. But if your rapamycin dose
+
+358
+00:36:46,480 --> 00:36:54,400
+is somewhere between 2 and 8 milligrams a day, roughly, at the immunosuppression level of dosing,
+
+359
+00:36:54,400 --> 00:37:00,640
+which is what we're talking about, that's comparable to 5 to 10 milligrams of RAD001.
+
+360
+00:37:01,360 --> 00:37:07,680
+Got it. So they're pretty similar, but not identical. Yes. So let's put a bow on this
+
+361
+00:37:07,680 --> 00:37:14,400
+particular question and then take a step backwards. Is it safe to say that most of the
+
+362
+00:37:14,400 --> 00:37:20,080
+inhibition of mTORC complex 2 seems to produce things that are not really desirable at all,
+
+363
+00:37:21,040 --> 00:37:30,800
+whereas the output of an mTORC complex 1 inhibition pathway seems quite desirable at least some time?
+
+364
+00:37:31,360 --> 00:37:36,080
+Yes. And in fact, most genetic experiments have supported that conclusion.
+
+365
+00:37:36,720 --> 00:37:40,400
+Let's talk a little bit about those experiments. So if you genetically knock out
+
+366
+00:37:40,400 --> 00:37:45,840
+raptor so that you no longer have complex 1, but you still have mTORC and rictor, so therefore
+
+367
+00:37:45,840 --> 00:37:51,280
+you have complex 2, what does that animal look like? Depends on how you do it. If you imagine
+
+368
+00:37:52,080 --> 00:37:56,320
+making a mouse that doesn't have raptor 1, which means it doesn't have
+
+369
+00:37:56,960 --> 00:38:02,400
+torque complex 1 from conception. I assume it has muscular dystrophy or something like that?
+
+370
+00:38:02,480 --> 00:38:08,160
+They're embryonic lethal. Yeah. Okay. You need torque 1 for development. So if you just turn it
+
+371
+00:38:08,160 --> 00:38:15,440
+down by some amount, 50% reduction. Not much of a phenotype of that, but the way the experiments
+
+372
+00:38:15,440 --> 00:38:20,800
+have been done is you can conditionally knock out a target in a mouse experiment. So you can
+
+373
+00:38:21,840 --> 00:38:30,240
+create an experiment where the mouse is normal and is born and develops normally. And then when the
+
+374
+00:38:30,240 --> 00:38:37,680
+mouse is a young adult, you can knock out raptor or knock out torque 1. So once they're out of the
+
+375
+00:38:37,680 --> 00:38:43,280
+development window, then they've reached adult size, then it's better tolerated. Yeah. And again,
+
+376
+00:38:43,280 --> 00:38:48,960
+David Sabatini has done a lot of these experiments. His group published a nice paper not that long
+
+377
+00:38:48,960 --> 00:38:55,280
+ago where they knocked out several components of the torque 1 complex. Inhibition of torque 1
+
+378
+00:38:55,280 --> 00:39:01,840
+extends lifespan and health span and rodents. If you do that to torque 2, it accelerates death.
+
+379
+00:39:02,640 --> 00:39:09,280
+Such an interesting concept. I mean, because what it basically suggests is at least with the tool
+
+380
+00:39:09,280 --> 00:39:16,240
+that we currently have to block tor, which is like rapamycin or rapilogue, giving intermittent dosing
+
+381
+00:39:16,800 --> 00:39:22,720
+may be beneficial. Giving constant dosing may cancel out the benefit. It's hard to know because
+
+382
+00:39:23,520 --> 00:39:28,080
+when you give it constantly, you're getting the quote unquote good inhibition and the bad inhibition.
+
+383
+00:39:28,080 --> 00:39:32,000
+You don't know what the net effect is, right? If you're using a rapilogue with continuous
+
+384
+00:39:32,000 --> 00:39:37,440
+administration, yes, you'll eventually down regulate torque 2 as well. And as far as we know,
+
+385
+00:39:37,440 --> 00:39:46,000
+that's not favorable. There are some other ways to do this. And Joan Mannock's second paper from 2018
+
+386
+00:39:46,640 --> 00:39:51,520
+was the first time we've explored that in humans. I want to come back to the 2018 paper, but I want
+
+387
+00:39:51,520 --> 00:39:58,400
+to build up to the 2014 paper. In 2009, this mouse study comes out. It was the first of what
+
+388
+00:39:58,400 --> 00:40:06,080
+would become a series of very interesting, highly reproduced ITPs funded by NIH that sort of did
+
+389
+00:40:06,080 --> 00:40:11,680
+something we didn't typically see, which is consistently across multiple labs and across
+
+390
+00:40:11,680 --> 00:40:17,200
+different strains show the same result. A lot of times in biology, you just don't get that. You get
+
+391
+00:40:17,280 --> 00:40:23,120
+the one hit wonder and it doesn't work in any other model or in any other lab. And that's not
+
+392
+00:40:23,120 --> 00:40:29,760
+because people were nefarious. It's just there's some very, very particular niche sort of circumstances
+
+393
+00:40:29,760 --> 00:40:33,920
+that are being exploited that we don't even understand. That didn't seem to be the case in
+
+394
+00:40:33,920 --> 00:40:41,920
+rapamycin. On a personal level, by 2009, I am now very interested in this compound, but I don't know
+
+395
+00:40:41,920 --> 00:40:49,440
+what to make of it because I remember being a resident at the hospital giving lots of serolimus,
+
+396
+00:40:50,080 --> 00:40:56,640
+a rapamune, to transplant patients along with their prednisone and their other immunosuppressive
+
+397
+00:40:56,640 --> 00:41:02,880
+drugs. And there didn't seem to be anything about that that seemed to be longevity producing. It
+
+398
+00:41:02,880 --> 00:41:10,080
+didn't make sense that you could suppress the immune system and somehow reduce death. It seemed
+
+399
+00:41:10,080 --> 00:41:14,640
+counterintuitive. I mean, in the transplant patient, it made sense because of course their
+
+400
+00:41:14,640 --> 00:41:21,200
+greatest risk is by far organ rejection, but these animal studies were not replicating that.
+
+401
+00:41:21,840 --> 00:41:28,080
+So I remember being incredibly confused for about the next five years. How did you guys
+
+402
+00:41:28,080 --> 00:41:30,720
+start thinking about that problem inside Novartis?
+
+403
+00:41:31,600 --> 00:41:37,040
+Joan proposed the idea, and again, the real innovation was being able to recognize
+
+404
+00:41:37,600 --> 00:41:43,920
+that I'm doing air quotes for the listeners age of the immune system is something that's
+
+405
+00:41:43,920 --> 00:41:49,760
+measurable and potentially modifiable in a reasonable timeframe. And we had that
+
+406
+00:41:49,760 --> 00:41:58,480
+paper from Chen in Science Cell Signaling that showed a short course of a rapologue
+
+407
+00:41:59,040 --> 00:42:01,680
+could alter the biology of lymphocytes.
+
+408
+00:42:02,480 --> 00:42:05,440
+And you're saying that in a favorable way, not a disfavorable way.
+
+409
+00:42:05,760 --> 00:42:06,320
+Yes.
+
+410
+00:42:06,320 --> 00:42:13,040
+Because the earliest observations of Serensegal were that lymphocytes being highly proliferative
+
+411
+00:42:13,040 --> 00:42:18,000
+were heavily targeted by rapamycin.
+
+412
+00:42:18,000 --> 00:42:19,520
+It's all about the dose.
+
+413
+00:42:19,520 --> 00:42:25,840
+Yeah. So let's talk about those doses. As you alluded to earlier, a transplant patient
+
+414
+00:42:26,640 --> 00:42:32,720
+might be taking five milligrams a day of rapamycin, day in and day out.
+
+415
+00:42:33,520 --> 00:42:38,960
+What types of doses were you seeing that were producing this counterintuitive phenotype?
+
+416
+00:42:39,760 --> 00:42:42,240
+Well, if we get back to the mouse paper.
+
+417
+00:42:42,240 --> 00:42:45,840
+Yeah, yeah, exactly. Like lower or higher, I guess is what I'm saying relative to that.
+
+418
+00:42:46,480 --> 00:42:52,560
+It's hard to compare is you have to look at exposures. So the doses on a weight basis
+
+419
+00:42:52,560 --> 00:42:58,560
+or a body surface are much higher in a rodent experiment, but the exposures can be comparable.
+
+420
+00:42:59,120 --> 00:43:04,160
+They were actually fairly high in his paper. They were at least equal to what we use in
+
+421
+00:43:04,160 --> 00:43:09,440
+transplant. Obviously, we couldn't do that in healthy volunteers, especially healthy
+
+422
+00:43:09,440 --> 00:43:15,920
+elderly volunteers. There was some additional information that gave us some confidence we
+
+423
+00:43:15,920 --> 00:43:22,480
+could use much lower doses than what was used in transplant patients, yielding much lower exposures.
+
+424
+00:43:22,480 --> 00:43:27,600
+And for the listeners, exposures means how much of the drug is actually in your body over time.
+
+425
+00:43:28,240 --> 00:43:32,720
+So let's use Cialis as an example of this. I don't know why, but it's just I was talking to
+
+426
+00:43:32,720 --> 00:43:38,000
+a patient about this the other day. Cialis is typically given as either five milligrams or 20
+
+427
+00:43:38,000 --> 00:43:45,280
+milligrams. And patients typically have a choice if they want to take 20 milligrams, quote unquote,
+
+428
+00:43:45,280 --> 00:43:52,880
+on demand. So you're heading into the weekend, you're going away with your wife. It's Friday,
+
+429
+00:43:52,880 --> 00:44:01,120
+you take the 20 milligrams of Cialis and erectile dysfunction is ameliorated Friday through Sunday.
+
+430
+00:44:01,680 --> 00:44:07,680
+Conversely, another way to take Cialis is to take five milligrams every single day, whether or not
+
+431
+00:44:07,680 --> 00:44:13,520
+you're going to be sexually active or not. But now all of a sudden, any time you want to be sexually
+
+432
+00:44:13,520 --> 00:44:20,800
+active, you're functionally like that person who just took 20. Use the lingo of exposure to explain
+
+433
+00:44:20,800 --> 00:44:25,280
+how those two things are comparable. I don't know why this is somehow the first example that
+
+434
+00:44:25,280 --> 00:44:28,400
+came to my mind, but probably just because it was a discussion I had two days ago.
+
+435
+00:44:28,960 --> 00:44:35,360
+It's actually a good example because when you take the medicine, doesn't always reflect if the
+
+436
+00:44:35,360 --> 00:44:40,400
+medicine is in your body or not. And medicines that work have to be in your body to work.
+
+437
+00:44:40,400 --> 00:44:49,440
+So the five milligram dose of Cialis taken once might be in your body for a day. A 20 milligram
+
+438
+00:44:49,440 --> 00:44:56,240
+dose of Cialis taken once is in your body for two to three days. So it's why the higher dose
+
+439
+00:44:56,240 --> 00:45:03,840
+taken once can last over the even long weekend perhaps, because it's still there. This we call
+
+440
+00:45:03,840 --> 00:45:09,760
+in drug development a half-life of the drug. So the half-life of Cialis is long enough that it can
+
+441
+00:45:09,760 --> 00:45:15,120
+do that. But there's not the case for Viagra, for example. That's right. Now there's another
+
+442
+00:45:15,120 --> 00:45:20,720
+interesting thing here, which will also be another, will have a parallel to the Rapa story, which is
+
+443
+00:45:21,600 --> 00:45:28,160
+generally patients will tolerate five milligrams daily of Cialis more than 20 milligrams on demand
+
+444
+00:45:28,160 --> 00:45:33,440
+because of the side effects. You have fewer side effects because you don't have the same peak levels.
+
+445
+00:45:34,000 --> 00:45:41,840
+So five milligrams daily will produce a very consistent and narrow gap between peak and trough,
+
+446
+00:45:41,840 --> 00:45:48,640
+which is therapeutic, whereas 20 will overshoot. You'll get a very high peak level, which may
+
+447
+00:45:48,640 --> 00:45:54,400
+increase the side effects, lightheadedness, changes in vision, things like that. And then you have a
+
+448
+00:45:54,400 --> 00:46:00,160
+long enough way down before you hit trough. And it's during that entire window that you have
+
+449
+00:46:00,160 --> 00:46:05,440
+the availability of the effect of the drug. Now that's true for the class of drugs. The
+
+450
+00:46:05,440 --> 00:46:12,320
+phosphodiesterase inhibitors. Yeah, B5 inhibitors. It's not true for other drugs. Two specific
+
+451
+00:46:12,320 --> 00:46:18,480
+examples, Rapamycin, where if you remember when you were treating your transplant patients,
+
+452
+00:46:18,480 --> 00:46:22,560
+you measured trough levels. We measured, yeah, daily. I mean, we were constantly doing this.
+
+453
+00:46:22,560 --> 00:46:26,160
+But you measured the trough levels, not the peak levels. That's right. Because the side effects are
+
+454
+00:46:26,160 --> 00:46:30,240
+driven by the trough levels as well as the efficacy. And I think that's also true with
+
+455
+00:46:30,240 --> 00:46:35,840
+gentamycin and a lot of the antibiotics that have the same toxicities on the trough, right?
+
+456
+00:46:35,840 --> 00:46:42,880
+Yes. So gentamycin, years ago, we used to dose three times a day. And modern times we dose it
+
+457
+00:46:42,880 --> 00:46:50,000
+once a day and we get better efficacy and far fewer side effects. So why is that the case? That
+
+458
+00:46:50,000 --> 00:46:56,240
+a drug like gentamycin or Rapamycin is producing toxicity by its nadir, not its peak.
+
+459
+00:46:57,200 --> 00:47:02,720
+Every drug is different and it depends on the specific mechanism for gentamycin
+
+460
+00:47:03,760 --> 00:47:11,440
+and immunoglycosides in general. Remember these work on the bacterial ribosome and there's some
+
+461
+00:47:12,240 --> 00:47:19,280
+congruency between mitochondrial ribosomes and bacterial ribosomes. And with sustained inhibition
+
+462
+00:47:19,280 --> 00:47:25,920
+that can cause toxicity, particularly in the kidney and the tubular epithelial cells, also in
+
+463
+00:47:26,000 --> 00:47:31,840
+interior hair cells and some other places. So having some drug-free time seems to allow the
+
+464
+00:47:31,840 --> 00:47:36,400
+organelles to recover. At least that's the hypothesis I heard in medical school. We all
+
+465
+00:47:36,400 --> 00:47:40,320
+know that half of what we learned in medical school is wrong and they just weren't sure which half.
+
+466
+00:47:40,320 --> 00:47:44,560
+You had a better medical school than me. I think 90% of what I learned in medical school is wrong.
+
+467
+00:47:44,560 --> 00:47:48,320
+But you went to Harvard. I only went to Stanford. So I think that's the West Coast, East Coast
+
+468
+00:47:48,320 --> 00:47:53,520
+difference. No, I think that's, I mean, to me, that is the most logical argument, which is
+
+469
+00:47:54,480 --> 00:47:59,840
+drugs that have trough toxicity are drugs where you must have a break from the drug.
+
+470
+00:48:00,400 --> 00:48:06,160
+And the higher the trough, the lower the probability of a break. Peak drugs aren't
+
+471
+00:48:06,160 --> 00:48:11,360
+about time away. It's literally too much of this thing eventually hits a trigger.
+
+472
+00:48:11,360 --> 00:48:15,360
+That's probably an oversimplification, but it's a useful conceptual framework.
+
+473
+00:48:15,360 --> 00:48:21,200
+So let's now taking that model back, the first glimmer of hope that this drug had
+
+474
+00:48:22,000 --> 00:48:30,080
+wasn't uniformly immune suppressing was, yeah, what if we dose this lower, basically? And not
+
+475
+00:48:30,080 --> 00:48:34,960
+from the standpoint of side effects, because that's a common reason you'd go lower, but actually
+
+476
+00:48:34,960 --> 00:48:41,760
+change the profile of inhibition. Was it known at the time that that's what they were trying to do?
+
+477
+00:48:41,760 --> 00:48:49,200
+Like, did they have enough insight into how rapamycin bound to the two different complexes to
+
+478
+00:48:49,200 --> 00:48:55,040
+test this hypothesis proactively? Or was this more empirical an observation that after the fact,
+
+479
+00:48:55,040 --> 00:49:00,960
+the mechanism became elucidated? We had some information up front. One bit of information
+
+480
+00:49:00,960 --> 00:49:07,280
+that the mechanism could be favorable for immune function, not solely immunosuppressive,
+
+481
+00:49:07,920 --> 00:49:13,200
+was looking again in your transplant patients at those who were on a calcium ion inhibitor versus
+
+482
+00:49:13,200 --> 00:49:20,720
+those who were on a rapilogue. And there was a significant trend that those on rapilogues had
+
+483
+00:49:20,720 --> 00:49:26,000
+fewer cytomegalovirus infections than those on calcium ion inhibitors, all of the things being
+
+484
+00:49:26,000 --> 00:49:31,920
+equal. An observational study, not as well controlled as ideally we would like, but
+
+485
+00:49:33,120 --> 00:49:37,120
+it was intriguing. Do you remember the order of magnitude on that difference? So you're
+
+486
+00:49:37,120 --> 00:49:45,280
+basically talking about FK 506 versus? Cyclosporine. Yeah. Well, it was rapamycin versus
+
+487
+00:49:45,280 --> 00:49:52,480
+cyclosporine or FK. Maybe I don't remember. We'd have to go back and look. So that was item one.
+
+488
+00:49:52,480 --> 00:50:03,040
+Item two is we had done exposure response experiments in cellular systems, looking at
+
+489
+00:50:03,040 --> 00:50:09,040
+how much drug is required to inhibit the downstream targets of torque one. And it was
+
+490
+00:50:09,840 --> 00:50:18,000
+much, much lower than the exposures that are observed in the usual dosing framework of
+
+491
+00:50:18,000 --> 00:50:23,040
+rapamycin, at least for transplant and immunosuppression. If we were going to be treating
+
+492
+00:50:23,040 --> 00:50:29,760
+healthy people with a rapilogue and test whether their immune function was better, we couldn't be
+
+493
+00:50:29,760 --> 00:50:35,040
+giving them a typical rapilogue side effect. And this is again, a critical element of the
+
+494
+00:50:35,040 --> 00:50:43,760
+translational medicine that Joan did in order to make this proposal is what doses and what schedule
+
+495
+00:50:43,760 --> 00:50:49,440
+would be required to keep the trough levels actually less than assay, which would be as
+
+496
+00:50:49,440 --> 00:50:58,720
+safe as we could get it, plus nonetheless achieve adequate exposures to at least partially or
+
+497
+00:50:58,720 --> 00:51:02,640
+temporarily fully inhibit torque one. That would let us ask the question.
+
+498
+00:51:03,520 --> 00:51:06,960
+Let's now pause for a moment to explain we've switched back and forth between the term
+
+499
+00:51:06,960 --> 00:51:13,760
+rapamycin and rapilogue. So again, a little bit of a history lesson, but rapamycin
+
+500
+00:51:14,640 --> 00:51:21,280
+is the name given by Seren Segal to the compound identified on Easter Island. That
+
+501
+00:51:22,240 --> 00:51:27,120
+went through two companies before being eventually absorbed by Pfizer through Wyeth.
+
+502
+00:51:27,680 --> 00:51:36,240
+And that was a drug named rapamune or cerolamis. And that was FDA approved in 1999
+
+503
+00:51:36,240 --> 00:51:41,280
+for transplantation. What was the first rapilogue to come along?
+
+504
+00:51:42,320 --> 00:51:46,240
+Arguably, it's rapamycin. The next drug...
+
+505
+00:51:46,240 --> 00:51:53,280
+Yeah, sorry, semantics aside. After rapamune, rapamycin, cerolamis, we're talking about the
+
+506
+00:51:53,280 --> 00:51:57,360
+experiment that we're about to discuss in detail is using a different molecule.
+
+507
+00:51:57,360 --> 00:52:02,400
+It's using a different molecule. We called it RAD001 in the paper. The generic name is
+
+508
+00:52:02,400 --> 00:52:06,240
+everolamis. It was the second one. Temcerolamis is another one.
+
+509
+00:52:06,880 --> 00:52:11,040
+How does it differ from rapamune or cerolamis?
+
+510
+00:52:11,040 --> 00:52:12,800
+There's small structural changes.
+
+511
+00:52:13,440 --> 00:52:18,960
+And it was synthesized to be different versus discovered in nature or was it deliberately
+
+512
+00:52:18,960 --> 00:52:20,000
+modified, presumably?
+
+513
+00:52:20,480 --> 00:52:24,720
+Yes. Again, to improve the properties of the compound.
+
+514
+00:52:24,720 --> 00:52:29,200
+Has that borne out? I mean, obviously there's an IP reason one would do that, obviously. But
+
+515
+00:52:29,200 --> 00:52:32,000
+in terms of clinical efficacy, are there differences?
+
+516
+00:52:32,720 --> 00:52:38,720
+I'm not aware of any comparative studies. In vitro, potency seems to be a little greater.
+
+517
+00:52:38,720 --> 00:52:42,560
+I can tell you from firsthand experience looking at the cost of these drugs,
+
+518
+00:52:42,560 --> 00:52:46,400
+there certainly is a difference. Good Lord!
+
+519
+00:52:46,400 --> 00:52:50,800
+Yes, it's generic versus brand, I think, at this point still.
+
+520
+00:52:50,800 --> 00:52:53,760
+But even rapamune branded compared to...
+
+521
+00:52:53,760 --> 00:52:54,480
+But anyway.
+
+522
+00:52:54,480 --> 00:52:56,640
+I am not somebody who can talk about drug costs.
+
+523
+00:52:56,640 --> 00:53:00,800
+Yeah, yeah. No, well, it's one of the most comical things I've ever seen, actually.
+
+524
+00:53:01,600 --> 00:53:05,680
+So let's now talk about this experiment. I'll tell you from my vantage point the day I'll
+
+525
+00:53:05,680 --> 00:53:14,160
+never forget, which is I remember getting an embargoed copy on the day before Christmas.
+
+526
+00:53:14,160 --> 00:53:18,800
+So it's Wednesday, December 24th. It's probably noon.
+
+527
+00:53:19,440 --> 00:53:24,400
+It's funny, I was in my office, which is dumb. Why was I in my office at noon on Wednesday,
+
+528
+00:53:24,400 --> 00:53:28,320
+the day before Christmas? I certainly shouldn't have been, but I remember being in my office
+
+529
+00:53:28,320 --> 00:53:31,440
+and I remember how sunny it was. I remember what a beautiful day it was and I remember
+
+530
+00:53:32,720 --> 00:53:38,160
+someone from the New York Times emailing me the embargoed copy and it's embargoed.
+
+531
+00:53:38,160 --> 00:53:39,920
+Yeah, it was embargoed for another couple of hours.
+
+532
+00:53:40,720 --> 00:53:44,000
+The person at the time she sent it to me knew how interested I was in the subject matter.
+
+533
+00:53:44,400 --> 00:53:50,240
+And I'm reading this thing and I'm like, this is unbelievable. I just couldn't believe what I was
+
+534
+00:53:50,240 --> 00:53:54,640
+reading. And I have a background in immunology, so of course I can understand what these figures
+
+535
+00:53:54,640 --> 00:53:59,440
+are showing. Give people a sense of how long it takes to get there. So if the public is first
+
+536
+00:53:59,440 --> 00:54:04,320
+seeing this in December of 2014, when did the experiment start? And I didn't mean that
+
+537
+00:54:04,320 --> 00:54:09,360
+conceptually. I don't just mean you're enrolling patients. This is about a four or five-year journey,
+
+538
+00:54:09,360 --> 00:54:12,400
+right? That's right. About 2010 we started.
+
+539
+00:54:12,480 --> 00:54:17,200
+So what was the hypothesis that you wanted to test and that you, Joan, and the team wanted to test?
+
+540
+00:54:17,840 --> 00:54:22,160
+There was some pre-work before we could ask the question. The pre-work was one, we reviewed
+
+541
+00:54:22,800 --> 00:54:29,920
+the existing literature, especially that paper from Chen. And we then looked at some other work
+
+542
+00:54:29,920 --> 00:54:37,680
+that had looked at drug levels in cellular systems necessary to partially or fully inhibit
+
+543
+00:54:38,480 --> 00:54:43,360
+the target. And we had to look at a lot of different cells because Torq1's biology,
+
+544
+00:54:44,720 --> 00:54:51,280
+while in the big picture is the same in different cells, the sensitivity of the complex to the drug
+
+545
+00:54:51,280 --> 00:54:58,720
+is different in different cells. And we have some hypotheses now for why that is. And we then did
+
+546
+00:54:58,720 --> 00:55:03,680
+some modeling to understand whether the low doses, and we looked at internal data that
+
+547
+00:55:04,320 --> 00:55:10,720
+the company had to see, could we come up with a low dose and a schedule that would
+
+548
+00:55:11,680 --> 00:55:17,760
+yield exposures in people that would partially or fully inhibit Torq1, yet give
+
+549
+00:55:17,760 --> 00:55:22,160
+less than assay trough levels to help ensure safety in the healthy volunteers.
+
+550
+00:55:23,120 --> 00:55:31,440
+Now, Lloyd, was this mostly because at the time you wanted to see if it even made sense to pursue
+
+551
+00:55:31,520 --> 00:55:37,360
+a new molecule entirely that would inhibit complex one or so-called selective inhibition,
+
+552
+00:55:37,360 --> 00:55:43,280
+but the idea is why go down that path of doing that without a proof of concept that says it works?
+
+553
+00:55:43,280 --> 00:55:47,920
+Or did you think at that point in time, if we can get this to work, you would never need a
+
+554
+00:55:47,920 --> 00:55:54,160
+selective mTORQ1 inhibitor? You're asking really for Novartis thinking that's probably still
+
+555
+00:55:54,160 --> 00:56:00,880
+confidential, but the big picture is we want to know if something works. We want to figure out if
+
+556
+00:56:00,880 --> 00:56:07,520
+we can make it better. Again, ultimately, Novartis, we at RestoreBio, and hopefully everybody at a
+
+557
+00:56:07,520 --> 00:56:14,160
+pharmaceutical company is thinking about how can we make patients' lives better, and then everything
+
+558
+00:56:14,160 --> 00:56:19,680
+else is important but secondary to that. And then what do we measure? What dose do we use?
+
+559
+00:56:19,680 --> 00:56:25,520
+How frequently do we give it? How long do we treat people? How do we answer the question clearly? What
+
+560
+00:56:25,520 --> 00:56:30,000
+do we measure? All of those questions had to be answered, and they had to be answered before
+
+561
+00:56:31,120 --> 00:56:34,240
+Joan brought the program to the decision board of the company to say,
+
+562
+00:56:34,800 --> 00:56:39,200
+give us a lot of money to do this experiment. Each of these clinical experiments costs millions of
+
+563
+00:56:39,200 --> 00:56:46,800
+dollars. And at the time, RAD001 was FDA approved for another indication or no? Yes. It was already
+
+564
+00:56:46,800 --> 00:56:56,000
+approved in cancer or in? I think it was in renal cell. RCC? Yeah. Yeah. Okay. So that only raises
+
+565
+00:56:56,000 --> 00:57:01,760
+the stakes of what you're asking because you're taking a drug that's already gone through phase
+
+566
+00:57:01,760 --> 00:57:05,920
+three, and you're going to spend a lot of money on it that you technically don't need to spend.
+
+567
+00:57:05,920 --> 00:57:10,800
+Is that a common thing to do inside of a company as large as Novartis to take a
+
+568
+00:57:10,800 --> 00:57:15,440
+drug that basically you're trying to make the case for a totally different use?
+
+569
+00:57:16,080 --> 00:57:22,720
+Yes. I suspect most companies do things like this, where when a drug is registered in one indication,
+
+570
+00:57:23,360 --> 00:57:29,280
+if you can find others, it's a good thing. So, I mean, for the sake of time, I will just,
+
+571
+00:57:30,000 --> 00:57:37,600
+I mean, basically say that you guys did something kind of amazing, which is with so little human
+
+572
+00:57:37,600 --> 00:57:45,920
+data, you did a great job of identifying the right patient population, identifying the right primary
+
+573
+00:57:46,000 --> 00:57:52,960
+outcome, identifying a correct power analysis so you wouldn't miss the signal. So in other words,
+
+574
+00:57:52,960 --> 00:57:56,400
+you didn't know how to power the study, which means you had to have a sense of how much the
+
+575
+00:57:56,400 --> 00:58:03,280
+benefit was going to be, knowing how long to pulse, how to dose. I mean, this could have gone sideways
+
+576
+00:58:03,280 --> 00:58:08,640
+six other ways. It could have. We had some additional help too. At the time, Novartis had
+
+577
+00:58:08,640 --> 00:58:18,080
+a vaccines group and they had commercialized a flu vaccine. So we knew a lot about flu vaccination
+
+578
+00:58:18,080 --> 00:58:23,520
+and responses required for making a clinical difference and so forth.
+
+579
+00:58:24,080 --> 00:58:28,480
+So let's walk people through the study design. You've got what, about 300 people
+
+580
+00:58:28,480 --> 00:58:36,640
+aged 60 plus more or less? I think it was 218 in that 214 paper. Everybody was over 65,
+
+581
+00:58:36,640 --> 00:58:41,920
+no unstable medical conditions. Were these subjects all in Australia? Was there something
+
+582
+00:58:41,920 --> 00:58:46,640
+about this that was in Australia? Well, because this was a flu vaccination, so let's just skip
+
+583
+00:58:46,640 --> 00:58:50,800
+ahead. The endpoint to the study, the primary endpoint by which we were going to decide, did
+
+584
+00:58:50,800 --> 00:58:56,720
+the study work or not work, was the response to a flu vaccination, the seasonal flu. Now,
+
+585
+00:58:56,720 --> 00:59:01,760
+because it's a seasonal vaccine, we had to do the study when we were ready, wherever in the world
+
+586
+00:59:01,760 --> 00:59:06,480
+people were about to get their flu vaccines. In that paper, we were ready for the Southern
+
+587
+00:59:06,480 --> 00:59:12,960
+Hemisphere because our summer is there winter. Right. And since the CVS and the Antarctica
+
+588
+00:59:12,960 --> 00:59:17,920
+ran out of vaccine that year, Australia made the most sense. Australia and New Zealand. Yeah.
+
+589
+00:59:18,880 --> 00:59:25,680
+So there are four arms in this study. There's a placebo arm that gets just obviously a placebo.
+
+590
+00:59:25,680 --> 00:59:35,120
+There's three treatment arms, one that gets 0.5 milligrams of RAD001 daily. So ever all of us.
+
+591
+00:59:35,760 --> 00:59:40,560
+There's a group that's getting five milligrams once a week, and there's a group that's getting
+
+592
+00:59:40,560 --> 00:59:47,840
+20 milligrams once a week. So it's a clever design because the five and the 20 that are
+
+593
+00:59:47,840 --> 00:59:53,120
+both getting it once a week gives you a great, you get to answer both efficacy and toxicity questions
+
+594
+00:59:53,120 --> 01:00:01,840
+as they pertain to that dose. The 0.5 daily versus the five weekly is your closest aggregate dose
+
+595
+01:00:01,840 --> 01:00:06,720
+where you get to see is there a difference in trough. So overall, a lot of interesting stuff.
+
+596
+01:00:07,600 --> 01:00:12,160
+What was your personal null hypothesis? Not necessarily the same, but do you recall what
+
+597
+01:00:12,160 --> 01:00:19,360
+your null hypothesis was going into that experiment? I mean, obviously the null hypothesis is that
+
+598
+01:00:19,360 --> 01:00:23,520
+there's no drug effect. Yeah, sorry. What was your first alternative hypothesis? I guess it's
+
+599
+01:00:23,520 --> 01:00:29,280
+a better way to say it. This was a little bit less hypothesis testing the way that academic
+
+600
+01:00:29,280 --> 01:00:36,560
+investigators work than it was asking questions. And the question was, and there were several,
+
+601
+01:00:36,560 --> 01:00:43,920
+but at a high level, it's can we see an improved vaccine response at an acceptable level of
+
+602
+01:00:43,920 --> 01:00:49,040
+toxicity that would have this drug make sense? And that's the high level question. And you went
+
+603
+01:00:49,040 --> 01:00:56,640
+through the doses and schedules we used and we tested three different ones because each of those
+
+604
+01:00:56,640 --> 01:01:03,200
+doses did a different thing to torque one inhibition. The 0.5 milligram dose partially
+
+605
+01:01:03,200 --> 01:01:10,240
+inhibited in a sustained fashion. The five milligram once a week fully inhibited torque one
+
+606
+01:01:10,800 --> 01:01:17,360
+for a couple days out of the week. And the 20 milligrams we modeled would fully inhibit torque
+
+607
+01:01:17,360 --> 01:01:24,160
+one over the dosing interval. I didn't realize that actually. 20 is so high that it gave you
+
+608
+01:01:24,720 --> 01:01:31,680
+functionally nonstop inhibition of mTORC1 until your next dose. Did any of these have mTORC2
+
+609
+01:01:31,680 --> 01:01:38,240
+inhibition? I would have expected the 20 milligram would have. I don't remember that anyone had to
+
+610
+01:01:38,240 --> 01:01:42,800
+discontinue the drug for that reason, but it's been a couple of years since I read that paper.
+
+611
+01:01:42,800 --> 01:01:46,800
+Well, let's look at the toxicity table. So table one of this paper, which is again such an
+
+612
+01:01:46,800 --> 01:01:51,360
+interesting paper, I was surprised. Obviously it was the first thing I looked at. Usually table
+
+613
+01:01:51,360 --> 01:01:55,520
+one is inclusion criteria or something like that, but you guys just skipped the foreplay and went
+
+614
+01:01:55,520 --> 01:02:01,200
+right to it. Table one, incidence of treatment related adverse effects. I wish I could honestly
+
+615
+01:02:01,200 --> 01:02:04,960
+say I remember how I read this the very first time because I've looked at it a number of times
+
+616
+01:02:04,960 --> 01:02:11,440
+since. But what's interesting is I certainly remember seeing that the placebo group had
+
+617
+01:02:12,400 --> 01:02:17,600
+21 adverse events. So that's important to always keep in mind when you look at clinical studies
+
+618
+01:02:17,600 --> 01:02:23,920
+is there's just a baseline level of adverse effects that have no bearing on the drug whatsoever.
+
+619
+01:02:24,480 --> 01:02:30,080
+So it's almost like you could subtract 21 out of all of the others to get a sense of what the noise
+
+620
+01:02:30,080 --> 01:02:37,440
+is. So the group that got 0.5 daily had 35 adverse effects and each of the treatment groups had about
+
+621
+01:02:37,520 --> 01:02:43,360
+the same number. So I mean there were 53 groups in each of the three arms, 59 in the placebo. So
+
+622
+01:02:43,360 --> 01:02:49,520
+the 21 you might discount that slightly, but it basically went from 35 to 46 to 109. So
+
+623
+01:02:50,080 --> 01:02:54,240
+at this point, obviously this means each patient is having more than one adverse effect likely.
+
+624
+01:02:54,880 --> 01:03:00,080
+But here's what I found interesting. The next line in the table tells you how many people actually
+
+625
+01:03:00,080 --> 01:03:04,080
+had adverse effects and not just the total adverse effects. And this was surprisingly
+
+626
+01:03:04,080 --> 01:03:11,520
+constant. So in the placebo group it's 12. In arm one it's 22. In arm two it's 20. In arm three it's
+
+627
+01:03:11,520 --> 01:03:19,760
+27. So looks like 0.5 daily versus five weekly. No real difference in adverse effects. And by the
+
+628
+01:03:19,760 --> 01:03:22,640
+way, I'm not going to, don't worry, I won't read you guys the whole table here. We're going to link
+
+629
+01:03:22,640 --> 01:03:28,400
+to this paper in the show notes. The other thing that really stood out to me though in terms of
+
+630
+01:03:28,400 --> 01:03:34,400
+side effects was mouth ulceration. Now that's the side effect I remembered the most from residency
+
+631
+01:03:35,040 --> 01:03:40,240
+was the patients getting apathos ulcers with their daily dose of rapamycin. And most of them were
+
+632
+01:03:40,240 --> 01:03:46,080
+getting more than 0.5 daily. So most of the patients that I wrote, my recollection was that
+
+633
+01:03:46,080 --> 01:03:53,600
+two to four milligrams was a very common daily dose for rapamune. And again, this is rad001. So
+
+634
+01:03:53,600 --> 01:03:59,840
+it's a different vehicle, but it's comparable. And so 0.5 daily would definitely be lower than
+
+635
+01:03:59,840 --> 01:04:05,280
+what I was used to seeing people get. And yet 11.5% of these folks had mouth ulcerations,
+
+636
+01:04:05,280 --> 01:04:13,440
+whereas the people getting 0.5 daily were at 0.5 once a week was about 4%. And 20 once a week
+
+637
+01:04:13,440 --> 01:04:18,960
+was about 17%. So that's really interesting. I mean that tells a very interesting story about
+
+638
+01:04:18,960 --> 01:04:25,200
+the kinetics of this drug. Was there any other toxicity that surprised you in the study?
+
+639
+01:04:26,000 --> 01:04:32,960
+Well, as you pointed out, mouth ulcers are one of the more common and fairly specific side effects
+
+640
+01:04:32,960 --> 01:04:38,080
+for rapilogues. Should we spend one moment explaining why? I think we could certainly
+
+641
+01:04:38,080 --> 01:04:44,160
+speculate why. I don't think anybody knows why there are some hypotheses, but, and it isn't just
+
+642
+01:04:44,720 --> 01:04:50,640
+rapilog associated mouth ulcers. We don't know what causes the ordinary spontaneous
+
+643
+01:04:50,640 --> 01:04:56,240
+apthas ulcerations that people get. There've been a fair amount of work on it, but nobody knows.
+
+644
+01:04:56,240 --> 01:04:59,440
+There are a lot of mysteries in medicine and that's just another one of them.
+
+645
+01:04:59,440 --> 01:05:05,440
+Anecdotally, through five years of residency, I don't think I went more than two weeks without
+
+646
+01:05:05,440 --> 01:05:10,240
+an apthas ulcer. They can be stress related. I'm sure they are. And it was to the point where they
+
+647
+01:05:10,240 --> 01:05:16,400
+would drive me so bananas, I couldn't even get relief from those sort of topical lidocaine gels.
+
+648
+01:05:16,400 --> 01:05:21,120
+The only thing that could give me real relief was if I could inject bupivacaine directly into it,
+
+649
+01:05:21,120 --> 01:05:26,320
+because it was such a long acting agent. Lidocaine only lasts an hour or two. That was not going to
+
+650
+01:05:26,320 --> 01:05:31,440
+do me justice on a call night. And it got to the point where I would sit there and inject bupivacaine
+
+651
+01:05:31,440 --> 01:05:36,320
+into my tongue or into my mouth. And I remember once somebody walking in the call room while I'm
+
+652
+01:05:36,320 --> 01:05:41,120
+sitting there holding my gums out, jamming bupivacaine in and I'm kidding them. They must
+
+653
+01:05:41,120 --> 01:05:47,200
+have thought I had some drug problem. But two weeks after leaving residency, I never had an
+
+654
+01:05:47,200 --> 01:05:52,000
+apthas ulcer again. I hope you never have another one. They're very painful. They're unbelievable.
+
+655
+01:05:52,000 --> 01:05:57,120
+But then of course I did get them once I started rapamycin. So we'll come back to that. But I
+
+656
+01:05:57,120 --> 01:06:01,280
+certainly went many, many years without them again. My hypothesis was some combination of
+
+657
+01:06:01,280 --> 01:06:05,680
+stress and sleep deprivation might have played a role. It doesn't help mechanistically though.
+
+658
+01:06:06,320 --> 01:06:11,920
+We just don't understand them. So overall, I thought the side effects were less than I
+
+659
+01:06:11,920 --> 01:06:16,000
+would have expected. Let's now talk about the results. I'll actually hand you the table here,
+
+660
+01:06:16,000 --> 01:06:21,440
+because not that I would ever expect you to remember table 2a, but walk a little bit through
+
+661
+01:06:21,440 --> 01:06:26,400
+kind of what you guys saw and how you tested it. So you're using a couple of different
+
+662
+01:06:26,400 --> 01:06:32,080
+flu vaccines, et cetera, a couple of different strains. Yeah. So the standard flu vaccine had
+
+663
+01:06:32,080 --> 01:06:38,560
+in those days, three different antigens for three different kinds of viruses, two
+
+664
+01:06:38,560 --> 01:06:46,000
+influenza A strains, one influenza B strain. And I think as we all know, the flu vaccine is designed
+
+665
+01:06:46,880 --> 01:06:53,200
+every single year based on the circulating flu strains in Asia to try to match the vaccine
+
+666
+01:06:54,160 --> 01:06:59,280
+to the strains of flu that we expect to get in this case in the Southern hemisphere
+
+667
+01:07:00,000 --> 01:07:07,680
+or for us in the Northern hemisphere. So patients were treated with one of those doses of RAD001
+
+668
+01:07:07,680 --> 01:07:14,000
+or a placebo. And the study was randomized, double blind and placebo controlled. So neither
+
+669
+01:07:14,000 --> 01:07:18,960
+the doctors nor the patients knew who was getting what. And I guess there's one detail I omitted,
+
+670
+01:07:18,960 --> 01:07:24,960
+which if my memory is correct, the patients were treated for eight weeks. Six weeks. Six weeks. And
+
+671
+01:07:25,040 --> 01:07:29,760
+then there was a washout. So then they had a period of nothing for, was that six to eight weeks?
+
+672
+01:07:30,480 --> 01:07:35,840
+It was two weeks after the six weeks of treatment. Oh, that's where the eight came in. So it was six
+
+673
+01:07:35,840 --> 01:07:41,920
+of treatment, two of washout, then vaccination. Right. And the rationale for that was we wanted
+
+674
+01:07:41,920 --> 01:07:47,840
+the drug to be completely gone at the time we vaccinated. So we were asking the question,
+
+675
+01:07:47,840 --> 01:07:54,720
+is this a residual effect of the drug on the immune system? Not a lingering effect on the
+
+676
+01:07:54,720 --> 01:08:01,040
+immune system per se. Yeah. Not a direct effect of the drug, but an indirect. Yes. Okay. So with
+
+677
+01:08:01,040 --> 01:08:08,480
+that said, what was the first finding? So we were looking for whether the response to the flu
+
+678
+01:08:08,480 --> 01:08:16,400
+vaccine was 1.2 fold better in a drug treated group than the placebo. And that 1.2 fold came from
+
+679
+01:08:17,120 --> 01:08:21,200
+a previous study that had been published that showed that was the minimum requirement
+
+680
+01:08:22,000 --> 01:08:28,320
+to see a clinically meaningful decrease in symptomatic flu in vaccinated patients.
+
+681
+01:08:29,200 --> 01:08:34,160
+We saw, and we required, and this was pre-specified two out of the three strains to have that
+
+682
+01:08:34,160 --> 01:08:42,240
+improvement. And we saw that improvement or better in the two low doses of RAD 001,
+
+683
+01:08:42,240 --> 01:08:46,320
+but not in the high dose. And the high dose we just saw one string better. One of the three
+
+684
+01:08:46,320 --> 01:08:51,120
+strains was better. And the other two were actually a little below one, so a little below
+
+685
+01:08:51,120 --> 01:08:55,600
+the placebo. What do you make of that? Is it noise? Do you think there's something
+
+686
+01:08:55,600 --> 01:09:02,000
+mechanistically happening there? I do. I think we certainly know that high doses of
+
+687
+01:09:02,000 --> 01:09:07,280
+a Rapalog or immunosuppressive, the dose of 20 milligrams once a week is sufficiently high to
+
+688
+01:09:07,280 --> 01:09:12,800
+fully suppress torque one. I expect that we probably interfered with lymphocyte proliferation.
+
+689
+01:09:12,800 --> 01:09:17,760
+And do you think it's just a tweak that you didn't see? What's confusing to me is that you
+
+690
+01:09:17,760 --> 01:09:23,680
+still saw a much greater immunity in one strain. And if I recall, it was even higher than the two
+
+691
+01:09:23,680 --> 01:09:30,320
+low doses, thinking about the first figure in the top figure in the second figure of the paper. So
+
+692
+01:09:31,360 --> 01:09:36,720
+that would be, my first guess would be, oh, clearly you just hit the daily dose of an
+
+693
+01:09:36,800 --> 01:09:43,520
+immunosuppressed patient if they were all below baseline. But if you did a 25
+
+694
+01:09:44,480 --> 01:09:47,840
+weekly in there, do you think you would have just seen them all eventually start to go down?
+
+695
+01:09:48,720 --> 01:09:53,120
+Certainly, if we got to some high enough dose, I think they all would have been low.
+
+696
+01:09:53,120 --> 01:09:58,240
+I got it. Yeah. So it's almost like there's a J curve here, or an upside down J curve,
+
+697
+01:09:58,240 --> 01:10:03,520
+really, or an upside down U, I suppose, of some combination of dose and frequency producing a
+
+698
+01:10:03,520 --> 01:10:08,000
+sweet spot where we're seeing, and by the way, I can't recall, it's been so long since I looked
+
+699
+01:10:08,000 --> 01:10:13,360
+at the paper, was there any lympho proliferation? I mean, these were functional assays. Any changes
+
+700
+01:10:13,360 --> 01:10:18,880
+in the counts of lymphocytes or any other? This specific assay that was the primary
+
+701
+01:10:18,880 --> 01:10:25,840
+endpoint was an antibody titer assay. Right. We didn't do mixed lymphocyte reactions or some
+
+702
+01:10:25,840 --> 01:10:32,960
+proliferation assays part of this paper. Did anyone ever look at fractions of lymphocytes,
+
+703
+01:10:32,960 --> 01:10:41,600
+for example, did anyone look at CD25, CD3 to see if anything had happened to suppressor T cells?
+
+704
+01:10:42,400 --> 01:10:48,560
+We didn't do it in this study. Well, we didn't do functional lymphocyte assays. Part of this study
+
+705
+01:10:48,560 --> 01:10:56,240
+was a very comprehensive multidimensional flow cytometric assay to get lymphocyte subsets. And
+
+706
+01:10:56,880 --> 01:11:04,400
+we reported one of the results in figure three, which is where we saw improvement in
+
+707
+01:11:05,200 --> 01:11:14,160
+checkpoint protein levels on both CD8 and CD4 lymphocytes, which mean in checkpoint proteins,
+
+708
+01:11:14,160 --> 01:11:20,080
+they're very popular in oncology now. And some of your listeners may have heard about those things
+
+709
+01:11:20,160 --> 01:11:26,240
+like PD1, for example, the drug target of Keytruda or Optivo. We had Keith Flaherty on recently,
+
+710
+01:11:26,240 --> 01:11:30,880
+and we had a beautiful discussion about checkpoint inhibition. But that said, let's assume people
+
+711
+01:11:30,880 --> 01:11:35,840
+don't know what that is. It's always worth rediscussing it. Yeah, these proteins inhibit
+
+712
+01:11:35,840 --> 01:11:41,520
+lymphocyte function, and they go up as the lymphocytes get exhausted. And what we saw in
+
+713
+01:11:41,520 --> 01:11:47,200
+this study is that the level of PD1 went down on the lymphocytes in the drug treatment group
+
+714
+01:11:47,200 --> 01:11:53,920
+compared to the placebo. By what percent? It was a relatively small effect, a 10 to 20% change.
+
+715
+01:11:53,920 --> 01:11:59,360
+But comparable to the effect that you saw in the increase in antibody recognition. I mean,
+
+716
+01:11:59,360 --> 01:12:04,320
+it was like the mirror of that. I guess, yeah. And presumably the teleologic rationale for that is
+
+717
+01:12:04,320 --> 01:12:09,760
+the more tired a lymphocyte gets, the more it wants to weaken its breaks. I'll go along with that.
+
+718
+01:12:10,800 --> 01:12:15,840
+Everything in me, in my world, Lloyd, comes down to just anthropomorphizing the immune system.
+
+719
+01:12:15,840 --> 01:12:21,440
+That's how I do things. So has anyone looked at this, by the way, to see what rapamycin does
+
+720
+01:12:21,440 --> 01:12:27,280
+or rapalog does in this type of intermittent dosing to inhibitory T cells?
+
+721
+01:12:27,280 --> 01:12:32,240
+There have been a lot of studies of T cell subset functions with rapalogs,
+
+722
+01:12:32,240 --> 01:12:40,000
+both in mice and in humans, looking at effector memory transition, looking at Tregs with high
+
+723
+01:12:40,000 --> 01:12:45,200
+exposures or substantial inhibitory effect on B cell function. There's a lot out there.
+
+724
+01:12:45,200 --> 01:12:51,040
+Do you think that rapalogs could be used to suppress Tregs? Selectively, of course.
+
+725
+01:12:51,040 --> 01:12:53,120
+There are a couple of papers that show that.
+
+726
+01:12:53,120 --> 01:12:58,640
+Because it would sure be interesting to start layering in rapalogs with immunotherapy,
+
+727
+01:12:59,360 --> 01:13:00,400
+oncology-specific.
+
+728
+01:13:00,400 --> 01:13:03,200
+Yes. Yeah. There's a small literature on that.
+
+729
+01:13:03,200 --> 01:13:06,480
+What else did you see in this paper? I think we've touched on the high points.
+
+730
+01:13:06,480 --> 01:13:11,280
+Yeah. The other experiment we did, which I think we mentioned in the text,
+
+731
+01:13:11,280 --> 01:13:17,920
+but didn't go into great details, is the flu vaccine is a T-dependent antibody response.
+
+732
+01:13:18,720 --> 01:13:24,480
+We also vaccinated patients with a 23-valent pneumococcal vaccine, which is B cell,
+
+733
+01:13:25,120 --> 01:13:30,640
+which is a pure polysaccharide vaccine. So it's a T-independent response.
+
+734
+01:13:31,440 --> 01:13:37,200
+We were thinking, could we improve antigen presentation? Perhaps if the dose of
+
+735
+01:13:37,760 --> 01:13:43,040
+the rapalog we used augmented autophagy, and could that contribute to antigen presentation?
+
+736
+01:13:44,000 --> 01:13:49,200
+We saw and we measured seven of the 23 antigens.
+
+737
+01:13:49,200 --> 01:13:55,680
+Wait. Tell me why that would be... That's not an obvious purview into autophagy to me. So let's
+
+738
+01:13:55,680 --> 01:14:01,360
+back that up a little bit. So you're giving them a pneumococcal vaccine, which is what type of
+
+739
+01:14:01,360 --> 01:14:03,120
+vaccine? That's a...
+
+740
+01:14:03,120 --> 01:14:04,720
+Polysaccharide antigen.
+
+741
+01:14:04,720 --> 01:14:08,400
+Polysaccharide antigen. You're not giving back the whole bacteria.
+
+742
+01:14:08,400 --> 01:14:11,040
+And how does it get presented to the immune system?
+
+743
+01:14:11,680 --> 01:14:17,120
+There are specific elements of innate immunity that recognize bacterial polysaccharide antigens,
+
+744
+01:14:17,120 --> 01:14:22,240
+and that brings it to professional antigen presenting cells, likely dendritic cells.
+
+745
+01:14:22,880 --> 01:14:25,760
+And then it has to be internalized and then presented.
+
+746
+01:14:26,400 --> 01:14:29,040
+So that's MHC class one?
+
+747
+01:14:29,040 --> 01:14:33,600
+This isn't a peptide presentation. This is presented in the context of an innate
+
+748
+01:14:33,600 --> 01:14:36,080
+element that recognizes polysaccharide antigens.
+
+749
+01:14:36,800 --> 01:14:40,480
+Okay. All right. So we're outside of class one, class two.
+
+750
+01:14:40,480 --> 01:14:40,720
+Yes.
+
+751
+01:14:41,360 --> 01:14:47,040
+And you're saying the ability to internalize, or basically the ability to phagocytose
+
+752
+01:14:47,760 --> 01:14:50,640
+that like the polysaccharide, and then...
+
+753
+01:14:50,640 --> 01:14:52,320
+And directly stimulate B cells.
+
+754
+01:14:53,440 --> 01:14:59,840
+It was an exploratory element of the study. We saw in the seven specific antigen responses we
+
+755
+01:14:59,840 --> 01:15:05,600
+measured, if I recall, six of them increased, but by a small amount.
+
+756
+01:15:05,600 --> 01:15:08,960
+It was an encouraging trend, but we didn't further follow it up.
+
+757
+01:15:09,600 --> 01:15:14,160
+Okay. Any other markers you could have here for autophagy?
+
+758
+01:15:14,160 --> 01:15:16,960
+I mean, did you look at light chain transition or anything like that?
+
+759
+01:15:17,600 --> 01:15:22,960
+No. Autophagy is a really difficult clinical investigation paradigm.
+
+760
+01:15:22,960 --> 01:15:29,600
+And I know you recently saw Mitch Weiss's paper on unpaired hemoglobin.
+
+761
+01:15:29,600 --> 01:15:33,520
+In thalassemia patients. I was super excited when I read that paper,
+
+762
+01:15:33,520 --> 01:15:39,520
+because here is now a clinical paradigm where we can test drugs that augment autophagy and see
+
+763
+01:15:40,240 --> 01:15:44,240
+something easily measurable in a not that rare patient population.
+
+764
+01:15:44,960 --> 01:15:50,800
+Yeah. Let me think. In those patients, did you collect serum that allow you to look at amino
+
+765
+01:15:50,800 --> 01:15:53,440
+acid levels in the plasma or anything else?
+
+766
+01:15:54,080 --> 01:15:55,280
+No, we didn't do any of that.
+
+767
+01:15:55,280 --> 01:15:56,960
+Do you still have any of that banked serum?
+
+768
+01:15:56,960 --> 01:16:00,000
+I don't think so.
+
+769
+01:16:00,000 --> 01:16:05,120
+Easy enough experiment to repeat, but of course, the other thing I'm curious about is,
+
+770
+01:16:05,120 --> 01:16:11,040
+is there anything about RAD001 administration that mimics fasting, for example? I mean,
+
+771
+01:16:11,040 --> 01:16:19,040
+how much of the benefit here is through direct inhibition of mTOR? And are there any
+
+772
+01:16:19,040 --> 01:16:24,960
+pleotrophic benefits that aren't quantified through this? Obviously, some of them, I mean,
+
+773
+01:16:24,960 --> 01:16:29,360
+the fact that you waited until the drug was out of the system to check the immune response is
+
+774
+01:16:29,360 --> 01:16:33,600
+actually a great insight, because obviously you eliminate some of those things. But in the way
+
+775
+01:16:33,600 --> 01:16:39,280
+that many people have argued statins have a direct effect, they inhibit cholesterol synthesis,
+
+776
+01:16:39,280 --> 01:16:46,240
+an indirect effect, the liver upregulates LDL-R, a really indirect effect, which is immune suppression
+
+777
+01:16:46,240 --> 01:16:51,200
+or other sort of benefits around endothelial health and things like that. Do you think there's
+
+778
+01:16:51,200 --> 01:16:54,080
+a possible third leg to this stool that we haven't thought about?
+
+779
+01:16:54,720 --> 01:17:00,880
+The fasting story is kind of complex. So do I think there's some other persistent benefit of
+
+780
+01:17:01,520 --> 01:17:09,520
+a rapologue? I think the mouse experiments tells us there is, and it's because relatively short
+
+781
+01:17:09,520 --> 01:17:17,200
+course of a rapologue is nonetheless sufficient to extend a mouse's lifespan. And we do not
+
+782
+01:17:17,200 --> 01:17:23,040
+understand that. Although it's so hard to extrapolate what short versus long means in a mouse, isn't it?
+
+783
+01:17:23,120 --> 01:17:29,040
+Yes. Look at the mouse that fasts for 24 hours. Look at Jay Mitchell's stuff where they do a one
+
+784
+01:17:29,040 --> 01:17:36,080
+day fast prior to ephemeral artery ligation and a reperfusion where the mouse that was just fed
+
+785
+01:17:36,080 --> 01:17:43,360
+normally through the insult, they all die. The mice that had 24 hours of fasting prior to a lethal
+
+786
+01:17:43,360 --> 01:17:50,480
+reperfusion injury either all or mostly live. I don't know how to extrapolate that into a higher
+
+787
+01:17:50,480 --> 01:17:56,080
+order animal because it's not even the duration of the fast, it's the metabolic consequence of
+
+788
+01:17:56,080 --> 01:18:02,000
+the fast. There's some long-term consequence of that that we don't understand. And there's
+
+789
+01:18:02,000 --> 01:18:08,800
+several things you could hypothesize. Is there a change in the DNA structure based on histone
+
+790
+01:18:08,800 --> 01:18:14,800
+methylation or DNA methylation? Or is it something else? Those are just the things that come to mind.
+
+791
+01:18:14,800 --> 01:18:19,680
+Yeah, that's a great point, right? You could literally be resetting methylation on that.
+
+792
+01:18:19,680 --> 01:18:22,960
+You could turn back a methylation clock to its template, potentially.
+
+793
+01:18:23,520 --> 01:18:26,880
+But people have looked at that with raphologs and it doesn't seem to happen.
+
+794
+01:18:26,880 --> 01:18:32,880
+In other words, you take a Horvath clock pre and post and you're not seeing unwinding of methylation.
+
+795
+01:18:32,880 --> 01:18:33,040
+Yeah.
+
+796
+01:18:33,600 --> 01:18:38,000
+That's been done in mice as well or just in humans.
+
+797
+01:18:38,000 --> 01:18:42,000
+I suspect it's been done in a bunch of species. It's one of these sort of negative studies that
+
+798
+01:18:42,000 --> 01:18:46,880
+may never get published. That's a pet peeve of mine, by the way. Negative studies not getting
+
+799
+01:18:46,880 --> 01:18:50,320
+published. I think it's a pet peeve of a lot of people. It's hard enough to publish
+
+800
+01:18:50,320 --> 01:18:54,720
+positive studies. And I'm sympathetic and agree.
+
+801
+01:18:56,400 --> 01:19:05,360
+So we're high-fiving on New Year's Eve, 2014. How do you go from, what is Novartis,
+
+802
+01:19:05,360 --> 01:19:10,400
+and again, if this is confidential, by all means, just gloss, we'll skip it, but what are the brass
+
+803
+01:19:10,400 --> 01:19:14,640
+that Novartis think of the results of this experiment, which is effectively taking a drug
+
+804
+01:19:14,640 --> 01:19:20,160
+that we already have on the market for a very clear indication and now potentially
+
+805
+01:19:20,160 --> 01:19:25,760
+expanding an indication? Can the FDA take a study? This is a very well done study here.
+
+806
+01:19:25,760 --> 01:19:30,640
+This is double-blinded. This is placebo-controlled. And this found a significant outcome. Is that
+
+807
+01:19:30,640 --> 01:19:33,520
+enough to change the indication for a medication like this?
+
+808
+01:19:34,080 --> 01:19:40,640
+I can speak in general in that for an indication that could be relevant to many, many people,
+
+809
+01:19:41,280 --> 01:19:48,480
+you need a corresponding, a lot of safety data. This study was way too small for
+
+810
+01:19:49,600 --> 01:19:53,680
+studies that would be required for marketing authorization.
+
+811
+01:19:53,680 --> 01:19:59,440
+I got it. So because something like renal cell carcinoma is relatively infrequent relative to
+
+812
+01:19:59,440 --> 01:20:06,400
+influenza vaccination, you had enough safety data to justify treating people with RCC. This would
+
+813
+01:20:06,400 --> 01:20:11,520
+not constitute sufficient safety data to basically give every person over the age of 65
+
+814
+01:20:11,520 --> 01:20:14,080
+who's getting vaccinated this type of a medication.
+
+815
+01:20:14,080 --> 01:20:17,680
+That's exactly right. If we fast forward a little bit in the conversation,
+
+816
+01:20:18,240 --> 01:20:25,520
+we've advanced this program in Restore Bio. Novartis licensed it to Restore Bio. And our phase
+
+817
+01:20:25,520 --> 01:20:32,640
+three program is two very similarly designed clinical studies. One has a thousand patients.
+
+818
+01:20:32,640 --> 01:20:35,040
+The other one will have about 1600 patients.
+
+819
+01:20:35,600 --> 01:20:42,800
+You able to speak about how the decision was made for Restore Bio to basically acquire a piece of
+
+820
+01:20:42,800 --> 01:20:48,000
+an asset from Novartis and what else was brought in to create that company and how did you, Joan,
+
+821
+01:20:48,000 --> 01:20:52,160
+and I assume many others decide to leave. I mean, that's obviously a loss to Novartis,
+
+822
+01:20:52,160 --> 01:20:57,040
+presumably, which implies that they probably still have a vested interest in the success of Restore
+
+823
+01:20:57,040 --> 01:21:02,080
+Bio. Yeah. Let's take one step backwards and answer an earlier question you asked,
+
+824
+01:21:02,080 --> 01:21:04,800
+which is, what did Novartis think when we got these results?
+
+825
+01:21:04,800 --> 01:21:05,840
+Oh, yes. Yes, thank you.
+
+826
+01:21:07,200 --> 01:21:11,200
+I think everybody was very excited for reasons that you're excited.
+
+827
+01:21:11,200 --> 01:21:12,800
+That was my Christmas present of the year.
+
+828
+01:21:15,520 --> 01:21:20,000
+And the guidance was, this is so important, let's go back and do it again.
+
+829
+01:21:21,040 --> 01:21:23,680
+Try to do it in a more torque one selective way.
+
+830
+01:21:24,320 --> 01:21:27,760
+Are you able to say how much that study cost just to give a sense of?
+
+831
+01:21:27,760 --> 01:21:34,080
+I don't think we talk externally, but any clinical study like this, a phase two study with
+
+832
+01:21:34,640 --> 01:21:40,640
+two to 300 patients costs millions. And a lot of the cost is driven by
+
+833
+01:21:41,840 --> 01:21:46,720
+often exploratory assessments you do in the context of the study beyond the per patient
+
+834
+01:21:46,720 --> 01:21:51,200
+cost and investigator cost, but millions. I mean, it's a lot of money for anybody,
+
+835
+01:21:51,760 --> 01:21:55,440
+and it's done with a lot of deliberation and thought.
+
+836
+01:21:55,440 --> 01:21:59,280
+So the guidance was to go back and do it again, make sure it's real,
+
+837
+01:21:59,920 --> 01:22:02,160
+come up with a way to be more torque one selective.
+
+838
+01:22:02,720 --> 01:22:09,280
+But using the same vehicle, which means putting a finer point on the dosing, not necessarily,
+
+839
+01:22:09,280 --> 01:22:11,120
+I mean, you're still not at the point where people are saying,
+
+840
+01:22:11,760 --> 01:22:14,720
+we need to make a new molecule to replicate this.
+
+841
+01:22:14,720 --> 01:22:15,520
+Well, we had one.
+
+842
+01:22:16,960 --> 01:22:24,000
+The research team at Novartis had come up with a very cool finding that a combination of an
+
+843
+01:22:24,080 --> 01:22:31,840
+allosteric and catalytic torque inhibitor could be more torque one selective and more potent.
+
+844
+01:22:31,840 --> 01:22:39,040
+There was actually synergy. And this is published by Beyot Niefeller and Lohn Murphy.
+
+845
+01:22:39,040 --> 01:22:42,000
+They showed synergy. So a wrap along.
+
+846
+01:22:42,000 --> 01:22:46,400
+Can you explain to folks what the difference is between allosteric versus catalytic inhibition?
+
+847
+01:22:46,480 --> 01:22:55,600
+Sure. So catalytic inhibition means an inhibitor that's binding at the catalytic site of torque one
+
+848
+01:22:55,600 --> 01:23:01,680
+and blocking phosphorylation of targets. An allosteric inhibitor is a fancy way of saying
+
+849
+01:23:01,680 --> 01:23:06,880
+an inhibitor that binds someplace else on the molecule and nonetheless inhibits it.
+
+850
+01:23:07,440 --> 01:23:08,400
+Rapamycin complex.
+
+851
+01:23:08,400 --> 01:23:11,360
+I always think of allosteric as sort of shape blocking.
+
+852
+01:23:11,360 --> 01:23:11,760
+Could be.
+
+853
+01:23:12,640 --> 01:23:16,320
+Let's say shape blocking. So in this case, the allosteric inhibitor is the
+
+854
+01:23:16,320 --> 01:23:24,080
+combination of FKBP12 plus rapamycin binding to torque one. So the combination of those two
+
+855
+01:23:24,080 --> 01:23:29,840
+synergistically inhibits torque one and it's a little more torque one selective.
+
+856
+01:23:30,560 --> 01:23:34,960
+Everol almost does the same thing. It also binds to FKBP.
+
+857
+01:23:34,960 --> 01:23:40,800
+Yes, it binds to FKBP also. Maybe later on we can get to that lambing paper, which is...
+
+858
+01:23:40,800 --> 01:23:42,640
+Which I'd love to get to that paper.
+
+859
+01:23:42,640 --> 01:23:42,880
+Yeah.
+
+860
+01:23:42,880 --> 01:23:43,600
+Yeah.
+
+861
+01:23:43,600 --> 01:23:53,040
+So with that understanding, we could then explore, put a finer point on the dosing as well as explore
+
+862
+01:23:53,040 --> 01:24:00,080
+the biology of that catalytic inhibitor with and without RAD001. And that's what the next study did.
+
+863
+01:24:00,880 --> 01:24:03,840
+Overall, a very similar study design. We treated for six weeks,
+
+864
+01:24:04,880 --> 01:24:11,200
+two week washout, interrogated the immune system function with flu vaccination and got
+
+865
+01:24:11,200 --> 01:24:17,440
+fundamentally similar results. There's one other point I'd like to bring in because it leads to
+
+866
+01:24:17,440 --> 01:24:24,800
+where we are now. In the very first study we did in analyzing, we saw immune function improvement,
+
+867
+01:24:24,800 --> 01:24:30,480
+which in our marker for that was flu vaccine response. In the adverse event listings,
+
+868
+01:24:30,480 --> 01:24:36,800
+we saw fewer infections in the drug treated people compared to the placebo patients.
+
+869
+01:24:36,800 --> 01:24:38,320
+Over what time horizon?
+
+870
+01:24:38,320 --> 01:24:39,920
+We followed people for a year.
+
+871
+01:24:39,920 --> 01:24:44,640
+And by the way, did that increase in vaccination translate to a reduction in influenza?
+
+872
+01:24:45,200 --> 01:24:48,400
+Or was that the infection you're speaking about? Are you speaking about all infections?
+
+873
+01:24:48,400 --> 01:24:49,440
+All infections.
+
+874
+01:24:49,440 --> 01:24:51,600
+Okay. What about influenza specifically?
+
+875
+01:24:51,600 --> 01:24:54,720
+Too few events to be able to make a conclusion.
+
+876
+01:24:54,720 --> 01:24:56,320
+It's underpowered to look at the flu.
+
+877
+01:24:56,320 --> 01:25:02,160
+Exactly. If you think about all infections you get or patients get, most of them are respiratory
+
+878
+01:25:02,160 --> 01:25:05,280
+tract infections, colds and flus in the winter season.
+
+879
+01:25:05,920 --> 01:25:09,600
+An interesting thought experiment, you wouldn't do this experiment, but an interesting thought
+
+880
+01:25:09,600 --> 01:25:18,720
+experiment would be a two by two vaccine, no vaccine, RAPA, no RAPA, powered to see difference
+
+881
+01:25:18,720 --> 01:25:20,240
+in infection.
+
+882
+01:25:20,240 --> 01:25:21,200
+Big experiment.
+
+883
+01:25:21,200 --> 01:25:23,760
+Huge experiment, but great gedanken, right?
+
+884
+01:25:23,760 --> 01:25:30,800
+Yes, I agreed. So in this very first study we found, again, we weren't thinking about it and we
+
+885
+01:25:30,800 --> 01:25:35,920
+weren't looking for it, but we observed it in the adverse event listings.
+
+886
+01:25:35,920 --> 01:25:40,800
+So what were some of those infections, Lloyd, that you saw? Like UTIs or cellulitis, that kind of
+
+887
+01:25:40,800 --> 01:25:41,280
+stuff?
+
+888
+01:25:41,280 --> 01:25:46,880
+Two most common ones. By far the most common was upper respiratory tract infection or respiratory
+
+889
+01:25:46,880 --> 01:25:47,600
+tract infection.
+
+890
+01:25:47,600 --> 01:25:49,440
+That was not influenza, yeah.
+
+891
+01:25:49,440 --> 01:25:53,120
+Maybe some of them were. We didn't measure. We don't know what the pathogens were.
+
+892
+01:25:53,680 --> 01:25:59,920
+We do know from surveillance experiments that the CDC has done that most of them are
+
+893
+01:25:59,920 --> 01:26:04,080
+rhinovirus and then there's metanumavirus. There's various other.
+
+894
+01:26:04,080 --> 01:26:05,520
+Echo, God only knows what.
+
+895
+01:26:05,520 --> 01:26:09,200
+Yes. And we saw a decrease in UTIs also.
+
+896
+01:26:09,760 --> 01:26:11,760
+And that persisted for a year?
+
+897
+01:26:11,760 --> 01:26:17,680
+The biggest effect was when the patients were shortly over the course of drug treatment and
+
+898
+01:26:17,680 --> 01:26:22,080
+sometime thereafter. But even if we analyze it over the course of a year, we saw it,
+
+899
+01:26:22,080 --> 01:26:27,280
+although the effect waned. In this very first study in 2014, we brought patients back a year
+
+900
+01:26:27,280 --> 01:26:33,440
+later and revaccinated them to see if the improvement in immunologic function persisted.
+
+901
+01:26:33,440 --> 01:26:33,760
+And?
+
+902
+01:26:33,760 --> 01:26:34,560
+It did not.
+
+903
+01:26:34,560 --> 01:26:37,040
+Okay. So by a year, they'd clearly lost it.
+
+904
+01:26:37,040 --> 01:26:37,600
+Yes.
+
+905
+01:26:37,600 --> 01:26:43,360
+And of course, we didn't do the experiment, but do you know if six weeks was necessary or could
+
+906
+01:26:43,360 --> 01:26:48,800
+you have done four plus two or three plus two or two plus two? Would the benefit have been better
+
+907
+01:26:48,800 --> 01:26:54,880
+if you went eight plus two or 10 plus two or 12 plus two? Like how did you agree on six weeks of
+
+908
+01:26:54,880 --> 01:26:58,960
+treatment? I understand the two week washout, but what about the six weeks of treatment?
+
+909
+01:26:58,960 --> 01:27:03,760
+It came from two places. One is that that's what they did in the mice.
+
+910
+01:27:04,400 --> 01:27:06,000
+My same caveat implies.
+
+911
+01:27:07,280 --> 01:27:14,000
+Totally agree. And then secondly, we know the timing of lymphocyte production from committed
+
+912
+01:27:14,000 --> 01:27:18,800
+precursors in human bone marrow. And we were thinking that the drug could be acting at that
+
+913
+01:27:18,800 --> 01:27:26,000
+level. And six weeks of treatment is sufficient to, by the time you vaccinated eight weeks,
+
+914
+01:27:26,720 --> 01:27:29,760
+have some new lymphocytes from those committed precursors.
+
+915
+01:27:30,480 --> 01:27:37,520
+So your hypothesis would be six was the minimum time required to get a full turnover and going
+
+916
+01:27:37,520 --> 01:27:43,840
+eight versus 10 would not necessarily bring benefit and might only expose you to longer side effects.
+
+917
+01:27:43,840 --> 01:27:49,840
+We actually never tested this. We came up with our dosing period for the rationale that I gave
+
+918
+01:27:49,840 --> 01:27:56,800
+you. And we've not, at least with a Rapalogue, tested other intervals. We did see in the second
+
+919
+01:27:56,800 --> 01:28:03,680
+study, which also worked on the vaccine endpoint, we promoted respiratory tract infections and
+
+920
+01:28:03,680 --> 01:28:08,400
+infections in general to secondary endpoints. So we're looking at them prospectively. We're
+
+921
+01:28:08,400 --> 01:28:11,120
+collecting them more carefully. That was in the second study.
+
+922
+01:28:11,120 --> 01:28:17,600
+In the second study. And again, the drugs decreased the incidence of respiratory tract
+
+923
+01:28:17,600 --> 01:28:22,640
+infections. The biggest effect was observed with just the catalytic inhibitor alone.
+
+924
+01:28:23,200 --> 01:28:24,960
+The second biggest effect.
+
+925
+01:28:24,960 --> 01:28:27,040
+Wait, the catalytic inhibitor was a new molecule?
+
+926
+01:28:27,680 --> 01:28:34,640
+Yes, it's a new compound. In that paper, it was called BEZ235. And this is the molecule licensed
+
+927
+01:28:34,640 --> 01:28:35,920
+by RestoreBio.
+
+928
+01:28:35,920 --> 01:28:40,720
+So BEZ235 is not RAD001 combined with something else?
+
+929
+01:28:41,440 --> 01:28:46,400
+No, we tested the combination and it also decreased respiratory tract infections. And the
+
+930
+01:28:46,400 --> 01:28:53,120
+combination was the best at improving the flu response. But the single catalytic inhibitor
+
+931
+01:28:53,120 --> 01:28:58,080
+was the best at preventing respiratory tract infections. This study had an extra arm. It was
+
+932
+01:28:58,080 --> 01:29:01,280
+a somewhat bigger study, 264 patients.
+
+933
+01:29:01,280 --> 01:29:03,360
+Was this the one published two years ago?
+
+934
+01:29:03,360 --> 01:29:04,560
+Yes, 2018.
+
+935
+01:29:04,560 --> 01:29:09,840
+Oh, yeah, yeah, yeah, a year ago. Okay. So let's now talk about the creation of RestoreBio.
+
+936
+01:29:10,720 --> 01:29:16,960
+So essentially the story is that we did the second study for prevention of respiratory
+
+937
+01:29:16,960 --> 01:29:25,680
+tract infections and enhancing immune function with mTOR inhibition. Worked again. Everybody's
+
+938
+01:29:25,680 --> 01:29:34,560
+excited. And Novartis, as in most big companies, big pharma companies, the research teams produce
+
+939
+01:29:35,440 --> 01:29:41,920
+more than global development can handle. And it's done deliberately. It gives early in drug
+
+940
+01:29:41,920 --> 01:29:45,680
+development, you never know exactly what's going to work best. You want to create enough
+
+941
+01:29:45,680 --> 01:29:51,680
+opportunities so something will be exciting. And the program transitioned to global development,
+
+942
+01:29:51,680 --> 01:29:57,280
+and they had a lot of exciting things to do. And this fell below the funding line. It reflects in
+
+943
+01:29:57,280 --> 01:30:04,400
+part the excellent productivity of Novartis research. It reflects in part the great opportunities
+
+944
+01:30:04,400 --> 01:30:08,720
+the global development has. Of course, as the champions of the program, we were kind of
+
+945
+01:30:08,720 --> 01:30:14,560
+disappointed. But Novartis felt, and again, I'm speaking for myself now, I'm not a Novartis
+
+946
+01:30:14,560 --> 01:30:20,480
+spokesperson, but Novartis felt this drug looks like it could work and it could help people. We
+
+947
+01:30:20,480 --> 01:30:27,040
+have to find a way to make it available to people if it could work. So other pharma companies do this
+
+948
+01:30:27,040 --> 01:30:35,040
+too. The decision was to out license it. And Joan is the sort of originator of the idea and the
+
+949
+01:30:35,040 --> 01:30:41,520
+biggest champion, wanted to go outside of Novartis and start a company. I introduced her to an
+
+950
+01:30:41,520 --> 01:30:48,240
+absolutely awesome CEO I know who was ready for his next role. And they raised money and they
+
+951
+01:30:48,240 --> 01:30:53,760
+created the Restore Bio. And that was a pretty quick path to going public. Restore Bio went public
+
+952
+01:30:53,760 --> 01:31:00,320
+late in 18, didn't they? It reflected in part the need for funds to run a phase three program.
+
+953
+01:31:00,320 --> 01:31:06,240
+Yeah. What did Restore Bio raise in the IPO? You're asking me a hard question. I was at Novartis,
+
+954
+01:31:06,960 --> 01:31:12,480
+but probably around 90 million, I think. Wow. Yeah. So yeah, as you said, that's, you're
+
+955
+01:31:12,480 --> 01:31:17,680
+basically going right to phase three at this point because, so you licensed one or two molecules from
+
+956
+01:31:17,680 --> 01:31:25,920
+Novartis. Restore Bio licensed BEZ235, which is now named RTB101. And they then did a phase two
+
+957
+01:31:25,920 --> 01:31:33,760
+B study. These two studies we had done were phase two A. Phase two A. Yeah. Right. So in the first
+
+958
+01:31:33,760 --> 01:31:40,080
+study published in 2014 that we've been discussing, respiratory tract infections and infections in
+
+959
+01:31:40,080 --> 01:31:44,160
+general were observed to be decreased in the drug treated group compared to the placebo
+
+960
+01:31:44,800 --> 01:31:50,400
+by reviewing the adverse event listings. This was not something we had considered a priori,
+
+961
+01:31:50,960 --> 01:31:55,840
+but we recognize decreased infections could be a consequence of improved immune function,
+
+962
+01:31:55,840 --> 01:32:00,720
+which is why we looked in the first place in the listings. And then in the second study,
+
+963
+01:32:00,720 --> 01:32:09,200
+where we explored a catalytic inhibitor, which is now RTB101, RAD001, as well as the combination,
+
+964
+01:32:10,000 --> 01:32:15,520
+we promoted respiratory tract infections and infections in general to a secondary
+
+965
+01:32:15,520 --> 01:32:22,720
+endpoint. And we specifically included collecting those data, both by patient reporting, as well as
+
+966
+01:32:23,280 --> 01:32:31,440
+investigator querying the patients at home regularly. And again, we saw decreased respiratory
+
+967
+01:32:31,440 --> 01:32:40,320
+tract infections. The best drug was BEZ235, which we now call RTB101 in terms of decreasing
+
+968
+01:32:40,320 --> 01:32:47,360
+respiratory tract infections. The combination also worked. Interestingly, the combination,
+
+969
+01:32:48,080 --> 01:32:57,840
+as well as RAD001, improved the flu vaccine response, but the BEZ235 or RTB101 did not.
+
+970
+01:32:58,800 --> 01:33:05,040
+Remind me, it's catalytically inhibiting. So it's binding directly to TOR?
+
+971
+01:33:05,600 --> 01:33:05,840
+Yes.
+
+972
+01:33:06,720 --> 01:33:14,080
+And is it binding equally to TOR when bound to raptor, meaning complex one, as it is binding to
+
+973
+01:33:14,080 --> 01:33:18,320
+TOR bound to Richter, known as complex two?
+
+974
+01:33:18,320 --> 01:33:24,640
+So the way this is usually done is in a cellular assay context. So we don't look specifically for
+
+975
+01:33:24,640 --> 01:33:30,480
+the binding, but we look for inhibition of phosphorylation of sites.
+
+976
+01:33:30,480 --> 01:33:32,640
+Of serine 6 or which one?
+
+977
+01:33:32,640 --> 01:33:40,080
+S6 kinase for TORC1 and phospho-AKT there. And we look specifically at the phosphorylation site
+
+978
+01:33:40,080 --> 01:33:47,200
+that TORC2 does, not the one that any other enzyme does. So we're able to see that a catalytic
+
+979
+01:33:47,280 --> 01:33:56,960
+inhibitor at high concentrations will inhibit both. RTB101 has some preference for TORC1,
+
+980
+01:33:56,960 --> 01:33:59,760
+and it's a little different depending upon which cell you look in.
+
+981
+01:34:00,480 --> 01:34:05,280
+I wanted to come back to that because, and I got to remember where we are in this story,
+
+982
+01:34:05,280 --> 01:34:09,840
+because I don't want to lose this thread. So maybe we can agree to just park this again,
+
+983
+01:34:09,840 --> 01:34:14,800
+but I definitely don't want to leave the discussion of tissue selectivity.
+
+984
+01:34:14,800 --> 01:34:22,080
+We've focused so much on C1, C2 selectivity, but we haven't talked about muscle versus liver
+
+985
+01:34:22,080 --> 01:34:27,120
+versus adipose tissue, for example, which you could argue you might want very different behaviors
+
+986
+01:34:27,120 --> 01:34:38,400
+there. In terms of drug design, drug pharmacokinetics, is it easier to target tissues or is it easier to
+
+987
+01:34:38,400 --> 01:34:44,800
+target enzymes, proteins, et cetera, when designing a drug or waving magic wands?
+
+988
+01:34:46,320 --> 01:34:53,040
+No magic wands involved. It's far easier to design a drug to hit a target. To hit the target in a
+
+989
+01:34:53,040 --> 01:35:00,000
+particular tissue is harder, but doable. Sometimes you can do it in a deliberate,
+
+990
+01:35:00,000 --> 01:35:05,440
+designed fashion. For example, making a prodrug that's cleaved to an active form only by an
+
+991
+01:35:05,440 --> 01:35:10,640
+enzyme present in your desired tissue. You also have to be mindful that within every tissue,
+
+992
+01:35:10,640 --> 01:35:14,960
+there are multiple cell types and you want the drug in the cell type that will make the difference.
+
+993
+01:35:15,680 --> 01:35:20,880
+And again, all of this is possible and it's just how much time and effort you're going to put into
+
+994
+01:35:20,880 --> 01:35:28,000
+it. So when you go back to even the first experiment in 2014 and all of the animal data that came from
+
+995
+01:35:28,000 --> 01:35:34,800
+it, did you have a sense of where this was acting tissue wise? Did you feel like you were acting on
+
+996
+01:35:34,800 --> 01:35:40,000
+bone marrow? Did you feel like you were possibly acting in the thymus? Did you feel like you were
+
+997
+01:35:40,000 --> 01:35:45,600
+acting in some other cell line that directly or indirectly was playing a role? I mean,
+
+998
+01:35:45,600 --> 01:35:51,040
+or did you have a sense that you were seeing this everywhere, but it didn't seem to matter except in
+
+999
+01:35:51,040 --> 01:35:55,840
+the bone marrow? We thought it would be bone marrow and perhaps secondary lymphoid tissue,
+
+1000
+01:35:56,400 --> 01:36:03,280
+which are lymph nodes or glands, but we didn't explore it exactly. In general, small molecules
+
+1001
+01:36:03,360 --> 01:36:10,480
+that aren't specifically tissue targeted will often go to many tissues. We knew from toxicology
+
+1002
+01:36:10,480 --> 01:36:16,240
+studies with the compound that it distributed to our target tissues. We felt we had enough
+
+1003
+01:36:16,240 --> 01:36:25,280
+information to move ahead. Yeah. So when RTB101 was basically the basis upon which RestoreBio
+
+1004
+01:36:25,280 --> 01:36:31,200
+was formed, correct? That's right. Now, I was very confused during your road show, which was
+
+1005
+01:36:31,200 --> 01:36:36,080
+about a year ago, maybe more than a year ago. It might've been early 2018. I've sort of lost track.
+
+1006
+01:36:36,080 --> 01:36:41,200
+You were at Novartis at the time, so it wasn't really your road show at the time, but I naively,
+
+1007
+01:36:41,200 --> 01:36:51,680
+I guess, thought that RTB101 was actually RAD001, the Evrolimus, combined with a PI3K inhibitor.
+
+1008
+01:36:51,680 --> 01:36:55,280
+So that's actually what I thought was happening. And I remember even having discussions with other
+
+1009
+01:36:55,280 --> 01:37:00,320
+people looking at the data and saying, is this what this company is? So I assumed that this
+
+1010
+01:37:00,320 --> 01:37:07,520
+company outlicensed Evrolimus combined with a PI3K inhibitor. So how were we confused by that?
+
+1011
+01:37:07,520 --> 01:37:16,880
+When RestoreBio was formed, it licensed RTB101 from Novartis for all uses. And there was also
+
+1012
+01:37:17,440 --> 01:37:27,120
+a limited license to use RAD001 only in combination with RTB101 for our indication.
+
+1013
+01:37:27,200 --> 01:37:38,400
+Now, the phase 2B study that RestoreBio ran showed that the most effective drug or drug combination
+
+1014
+01:37:38,400 --> 01:37:45,360
+for preventing respiratory tract infections was just RTB101 alone at 10 milligrams. And remember the
+
+1015
+01:37:46,400 --> 01:37:52,640
+previous study that Novartis had run had shown that although the combination was best at augmenting
+
+1016
+01:37:52,640 --> 01:38:01,280
+a vaccine response, it was just RTB101 alone, which at the time was called BEZ235, was the best
+
+1017
+01:38:01,280 --> 01:38:08,800
+at preventing respiratory tract infections. We believe this is because the mechanism by which
+
+1018
+01:38:08,800 --> 01:38:15,680
+it prevents respiratory tract infections is upregulation of an interferon-stimulated antiviral
+
+1019
+01:38:15,680 --> 01:38:24,480
+gene response. Interferon, remember, is a substance in the blood that upregulates many
+
+1020
+01:38:24,480 --> 01:38:31,360
+different proteins, most of which are involved in preventing viral infections. And you need protein
+
+1021
+01:38:31,360 --> 01:38:40,000
+synthesis to make all of these proteins. And I worry that if we inhibit mTOR for a long time,
+
+1022
+01:38:40,000 --> 01:38:44,000
+we can upregulate the genes, but they won't be expressed adequately. And there are some
+
+1023
+01:38:44,000 --> 01:38:50,000
+literature data that you need mTOR in order to express the proteins induced by interferon.
+
+1024
+01:38:50,000 --> 01:38:55,440
+So these experiments taken together suggest to you that I guess it just reinforces this idea
+
+1025
+01:38:55,440 --> 01:39:00,560
+of intermittent dosing, not just intermittent within the week, which I think was clearly
+
+1026
+01:39:00,560 --> 01:39:07,920
+established by the phase 2A study, but even applying a secondary cycle over the course of a
+
+1027
+01:39:07,920 --> 01:39:13,920
+year, for example. I mean, you know that doing a six plus two once a year is probably not adequate.
+
+1028
+01:39:14,720 --> 01:39:20,320
+So there's some frequency upon which you want to meta cycle that. But the reason you don't just
+
+1029
+01:39:20,320 --> 01:39:28,080
+want to go all the time taking it presumably is you might actually start to impair protein
+
+1030
+01:39:28,080 --> 01:39:34,640
+synthesis that's necessary to, for lack of a better word, basically empower your new superpowers of
+
+1031
+01:39:34,640 --> 01:39:40,480
+immunity through enhanced protein synthesis. Yes. Protein synthesis, there's several different
+
+1032
+01:39:40,480 --> 01:39:47,360
+kinds of protein synthesis and some are more or less sensitive to inhibition by Rapalog.
+
+1033
+01:39:47,360 --> 01:39:53,120
+Mitch Weiss's very recent paper, one of the interesting things I found in it was that
+
+1034
+01:39:54,000 --> 01:39:59,920
+there wasn't much of an inhibition of hemoglobin synthesis, despite the fact that they were using
+
+1035
+01:39:59,920 --> 01:40:06,080
+fairly high exposures of a Rapalog. So I think there are some proteins that are sensitive to
+
+1036
+01:40:06,080 --> 01:40:09,920
+translational inhibition by Rapalog and perhaps some that are less sensitive.
+
+1037
+01:40:10,800 --> 01:40:17,360
+Before we go down this path of getting a little bit more into RTB101, let's take a step back here
+
+1038
+01:40:17,360 --> 01:40:23,520
+and say, do you think that all of the benefits that we saw in the ITPs across all these other
+
+1039
+01:40:23,520 --> 01:40:28,080
+species, if you think of the benefits that Matt Cabraland is seeing in dogs, if you think of
+
+1040
+01:40:28,080 --> 01:40:34,320
+sort of the global excitement that exists around Rapamycin and Rapalog's, how much of it do you
+
+1041
+01:40:34,320 --> 01:40:40,800
+think is mediated through what you guys are testing, which is you're clearly enhancing
+
+1042
+01:40:40,800 --> 01:40:46,960
+immunity in a positive way, which could have at least two very distinct benefits. One is the
+
+1043
+01:40:46,960 --> 01:40:51,760
+reduction of infection. The other could be frankly reduction of cancer through increased surveillance.
+
+1044
+01:40:51,760 --> 01:40:57,680
+They're very similar. Viruses and cancer obviously behave or susceptible to the similar
+
+1045
+01:40:57,680 --> 01:41:02,400
+branch of the immune system. Do you think there are other things that we haven't talked about yet,
+
+1046
+01:41:02,400 --> 01:41:08,320
+such as increased autophagy, targeting of endor, destruction endor, desilencing of
+
+1047
+01:41:08,320 --> 01:41:14,720
+senescent cells, reduction of inflammation, enhanced mitophagy. What other mechanisms do
+
+1048
+01:41:14,720 --> 01:41:18,400
+you think could have been involved here and what evidence exists to support or refute that?
+
+1049
+01:41:18,400 --> 01:41:24,080
+Well, I think we know from academic experiments that every single one of those mechanisms
+
+1050
+01:41:24,640 --> 01:41:33,280
+can extend health span in preclinical models. We do not know in people. And I think similarly to
+
+1051
+01:41:33,280 --> 01:41:38,400
+follow up our earlier discussion about what tissues you have to inhibit endor in in order to get a
+
+1052
+01:41:38,400 --> 01:41:43,760
+clinical benefit, we don't really know the answer to that either. It's been studied in some of the
+
+1053
+01:41:43,760 --> 01:41:49,040
+preclinical models. I can recall an experiment in the Drosophila fat body where inhibition of
+
+1054
+01:41:49,040 --> 01:41:55,200
+endor right there was sufficient to extend a fly lifespan. There's still a lot we need to learn.
+
+1055
+01:41:56,000 --> 01:42:00,000
+What does your intuition tell you? How much of an overlap or parallel do you see between the
+
+1056
+01:42:00,000 --> 01:42:05,520
+benefits of fasting and caloric restriction and the benefits of rapamycin globally?
+
+1057
+01:42:06,080 --> 01:42:13,920
+Yeah. So one of the interesting things that we did and was done previously in a Nature publication,
+
+1058
+01:42:13,920 --> 01:42:21,680
+I think the author was Sengupta, was looking at the consequences of fasting on endor activity.
+
+1059
+01:42:21,680 --> 01:42:29,920
+In young people, as you would expect, fasting leads to suppression of endor activity, activation
+
+1060
+01:42:29,920 --> 01:42:38,320
+of the cellular recycling machinery, autophagy, suppression of protein synthesis and DNA lipid
+
+1061
+01:42:38,320 --> 01:42:46,080
+synthesis and so forth, basically preparing for lean times. In old mice, that's impaired. We've
+
+1062
+01:42:46,080 --> 01:42:53,760
+only done the liver tests in mice. So we back translated this experiment and gave,
+
+1063
+01:42:54,480 --> 01:43:01,360
+actually I think it was rats, it was old rats, doses of endor inhibition that corresponded to
+
+1064
+01:43:01,360 --> 01:43:07,600
+the doses we were using in people that were well tolerated. And then we looked at their ability to
+
+1065
+01:43:07,600 --> 01:43:13,680
+suppress endor. So in the old rats, even with fasting, their endor was still active in the liver.
+
+1066
+01:43:14,240 --> 01:43:18,720
+In a young rat, it's suppressed. So the young versus old had the same degree of inhibition
+
+1067
+01:43:18,720 --> 01:43:25,280
+to the same dose of rapamycin. Well, you couldn't test in the young rats because their endor was
+
+1068
+01:43:26,000 --> 01:43:30,880
+already low. Oh, but if you did it outside of the fast, I mean. Well, certainly the exposures were
+
+1069
+01:43:30,880 --> 01:43:37,680
+the same. There was no age dependent difference in exposure of the liver or the blood. That's
+
+1070
+01:43:37,680 --> 01:43:44,160
+interesting. Does that suggest that the older animal lost the ability to respond to the
+
+1071
+01:43:44,160 --> 01:43:52,240
+environmental reduction in nutrient? Exactly. Exactly. Hmm. That's upsetting. Although it
+
+1072
+01:43:52,240 --> 01:43:57,280
+does explain a very interesting finding, which is everything comes back to the 2009 paper.
+
+1073
+01:43:57,920 --> 01:44:05,520
+What really was interesting scientifically was that those mice were 600 days old. Those were mice
+
+1074
+01:44:05,520 --> 01:44:11,120
+that if you fasted them, wouldn't have lived longer. It already passed that stage where
+
+1075
+01:44:11,120 --> 01:44:17,280
+caloric restriction would extend their life. And yet their lives were extended 15 and 25%
+
+1076
+01:44:18,400 --> 01:44:26,480
+by rapamycin. That was a big freaking deal. Yeah. We published our experiments in that 2008 paper.
+
+1077
+01:44:26,480 --> 01:44:32,160
+It was sort of an interesting back translation experiment where we treated the old rats based
+
+1078
+01:44:32,160 --> 01:44:36,240
+on what we do about the old people. And of course we could do in rats. What we can't do in people
+
+1079
+01:44:36,240 --> 01:44:40,720
+is take their livers out and study their endor inhibition. But we weren't the first ones to do
+
+1080
+01:44:40,720 --> 01:44:45,280
+that. There was a very good nature paper that showed the same thing. Do you think this applies
+
+1081
+01:44:45,280 --> 01:44:50,800
+to humans? I mean, do you think that intermittent periods of caloric restriction are not beneficial
+
+1082
+01:44:50,800 --> 01:44:54,560
+to people in their sixties or seventies, which would be the equivalent of those quote unquote
+
+1083
+01:44:54,560 --> 01:45:01,520
+old rats? The only thing that our group has been able to try is we looked at whether we could detect
+
+1084
+01:45:01,520 --> 01:45:08,240
+mTOR activity as assessed by things like fossil S6 kinase in the peripheral blood leukocytes of old
+
+1085
+01:45:08,240 --> 01:45:12,960
+people and we couldn't detect activity. We can't answer the question. I think we would need liver
+
+1086
+01:45:12,960 --> 01:45:18,800
+samples under fasting conditions. I mean, are you volunteering? Yeah, I'm absolutely volunteering.
+
+1087
+01:45:18,800 --> 01:45:22,800
+No, I tell you, there's a lot of things I subject myself to. I'm never excited about the liver
+
+1088
+01:45:22,800 --> 01:45:28,560
+biopsy. I just, I think that's the problem of doing a residency in general surgery is you've
+
+1089
+01:45:28,560 --> 01:45:33,040
+had one too many calls down to the interventional radiology suite with the patient that you have
+
+1090
+01:45:33,040 --> 01:45:38,320
+the recency bias of you only remember all the cases of liver biopsy has gone bad. The,
+
+1091
+01:45:38,320 --> 01:45:41,680
+all those hepatologists that have never had an issue, you don't hear about those cases,
+
+1092
+01:45:41,680 --> 01:45:46,160
+but you hear about everyone that. Yeah. There's sort of a referral bias. You never see the
+
+1093
+01:45:46,160 --> 01:45:50,480
+thousand that go well. Yeah. You only see the one that didn't. Yeah. I don't know. I think
+
+1094
+01:45:50,480 --> 01:45:54,080
+at some point I'll probably have to sign up for a liver biopsy. I think there's a lot going on
+
+1095
+01:45:54,080 --> 01:45:59,440
+there. There's so many questions I have about the liver, especially my own. No liver biopsies. You
+
+1096
+01:45:59,520 --> 01:46:04,560
+can get samples other ways, at least for this reason, but it is an interesting open question.
+
+1097
+01:46:04,560 --> 01:46:11,520
+And yet another one of these things we don't know is, is mTOR suppressed in elderly people
+
+1098
+01:46:11,520 --> 01:46:20,800
+with fasting and in which tissues. And by the way, do we know if autophagy is impaired in older
+
+1099
+01:46:20,800 --> 01:46:26,800
+folks with fasting? Because autophagy and mTOR inhibition are not synonymous. That's right.
+
+1100
+01:46:26,800 --> 01:46:32,960
+They overlap, but they're not synonymous. Yeah. Well, there's a lot of biology there and you,
+
+1101
+01:46:32,960 --> 01:46:37,360
+it's not only mTOR that can trigger autophagy. There's other mechanisms. There's
+
+1102
+01:46:37,360 --> 01:46:42,160
+Becklin one mechanisms and so forth, but it's an interesting set of experiments to do
+
+1103
+01:46:42,720 --> 01:46:47,840
+with a young group of patients and an old group of patients. And there's a priming effect to this
+
+1104
+01:46:47,840 --> 01:46:52,400
+that I just don't, I mean, it's so multifaceted to study all of these things. You think of the
+
+1105
+01:46:52,400 --> 01:46:58,400
+infinite combinations you can have, which is what's the effective wrap-up plus fasting when
+
+1106
+01:46:58,400 --> 01:47:04,320
+staggered, for example, does one prime the other? It's hard. You can't really go on fishing
+
+1107
+01:47:04,320 --> 01:47:08,880
+expeditions with these questions. You have to be more thoughtful in your hypothesis generation.
+
+1108
+01:47:08,880 --> 01:47:12,080
+There's just too many variables. That's right. There's too many ways to be fooled. That's right.
+
+1109
+01:47:13,040 --> 01:47:17,360
+So what can you tell us now about RTB 101? What has been published on this? In other words,
+
+1110
+01:47:17,360 --> 01:47:20,320
+I don't think we can speak about obviously anything that's not published at this point,
+
+1111
+01:47:20,320 --> 01:47:24,400
+or at least hasn't been publicly signaled. What's next for this compound?
+
+1112
+01:47:24,400 --> 01:47:30,240
+So the excitement is in the phase two A study that Novartis ran, we saw decreased respiratory
+
+1113
+01:47:30,240 --> 01:47:36,960
+tract infections in elderly people treated with it. In the phase two B study that Restore Bio ran,
+
+1114
+01:47:37,760 --> 01:47:42,320
+again, the same dose, 10 milligrams once a day saw the same thing, a decrease in respiratory tract
+
+1115
+01:47:42,320 --> 01:47:51,280
+infections. Now that study was a complicated study. And did it also have an RTB 101 plus RAD 001 arm?
+
+1116
+01:47:52,000 --> 01:47:56,400
+It did. And there was not a decrease in respiratory tract infections there.
+
+1117
+01:47:56,400 --> 01:48:00,640
+But there was an increase in immunity? Or was that, that was a secondary outcome?
+
+1118
+01:48:00,640 --> 01:48:05,840
+That was assessed, but it hasn't been talked about yet. The cool thing about the 2018 paper
+
+1119
+01:48:05,840 --> 01:48:12,160
+that was published from the Novartis study is that because we saw a decrease in respiratory
+
+1120
+01:48:12,160 --> 01:48:20,160
+tract infections, but we did not see an increase in vaccine response, it told us that the mechanism
+
+1121
+01:48:20,160 --> 01:48:26,480
+for the decrease in respiratory tract infections had to be something different. And we had collected
+
+1122
+01:48:26,480 --> 01:48:34,320
+some samples for exploratory profiling. We learned that there was an upregulation of antiviral
+
+1123
+01:48:35,120 --> 01:48:41,360
+gene expression in peripheral blood leukocytes. So a set of interferon stimulated genes responsible
+
+1124
+01:48:41,360 --> 01:48:48,000
+for antiviral activities was upregulated. So we identified a candidate mechanism and it
+
+1125
+01:48:48,560 --> 01:48:55,280
+makes a lot of sense. So to put that in English, it's not that the response was mediated by better
+
+1126
+01:48:55,280 --> 01:49:02,480
+recognition of viruses. It was mediated by more efficient targeting of and or disposing of viruses.
+
+1127
+01:49:03,440 --> 01:49:08,720
+Perhaps another way to say it is that the vaccine response we were measuring as the primary
+
+1128
+01:49:08,720 --> 01:49:17,280
+endpoint was a lymphocyte acquired immunity measurement. So in other words, you're immune,
+
+1129
+01:49:17,280 --> 01:49:21,840
+the flu, because you've been vaccinated. If you've been vaccinated for rabies, you're immune to that.
+
+1130
+01:49:22,480 --> 01:49:27,200
+I've never been vaccinated for rabies. I'm not immune to rabies. In contrast, there's something
+
+1131
+01:49:27,200 --> 01:49:34,880
+called innate immunity, which is the immunity of our species. This is an immunity that was
+
+1132
+01:49:34,880 --> 01:49:40,080
+developed because we have all co-evolved with our pathogens. And those of us who are here.
+
+1133
+01:49:40,080 --> 01:49:45,920
+Yeah, this is what the LPS on strep is. You don't need to be vaccinated to recognize it.
+
+1134
+01:49:45,920 --> 01:49:50,240
+Exactly. So there are many, many, many, many other things that we can recognize,
+
+1135
+01:49:50,240 --> 01:49:56,480
+elements of pathogens. So we can mount an effective immune response. And we're born with this. We don't
+
+1136
+01:49:56,480 --> 01:50:02,560
+have to be immunized for it. And this part of the immune system is what mTOR inhibition
+
+1137
+01:50:02,560 --> 01:50:08,160
+can also activate. Yeah, which is to go back to historical, that's not what we care about in
+
+1138
+01:50:08,160 --> 01:50:15,200
+transplant. No. Because in transplant, we didn't evolve to reject kidneys. We evolved to accept
+
+1139
+01:50:15,200 --> 01:50:21,840
+our kidneys. Therefore, we reject someone else's kidney. That's MHC-based. Right. Although blood
+
+1140
+01:50:21,920 --> 01:50:26,640
+type matching of your organ transplants is for... Well, that's true. And now they're doing so many
+
+1141
+01:50:26,640 --> 01:50:31,040
+ABO incompatibles that it's... I mean, the immunology involved in organ transplantation today is
+
+1142
+01:50:31,040 --> 01:50:35,120
+remarkable. A subject for another time. I know. And all started that you're alma mater. That was
+
+1143
+01:50:35,120 --> 01:50:40,560
+the Nobel prize right there, right? That's right. Dr. Murray. So is there anything else you can tell
+
+1144
+01:50:40,560 --> 01:50:44,400
+us? Because this is obviously something like, have you guys spoken about what the phase three is going
+
+1145
+01:50:44,400 --> 01:50:50,320
+to look like? Yeah. Well, we're almost halfway through. Halfway through enrollment. We enrolled
+
+1146
+01:50:50,320 --> 01:50:55,680
+the first phase three study fully and getting ready to start the second. So tell us about the
+
+1147
+01:50:55,680 --> 01:51:01,680
+first one. Yeah. So, well, let's do a little more on the phase two B because that study answered
+
+1148
+01:51:01,680 --> 01:51:07,040
+several questions in one study. We enrolled patients with pre-specified comorbidities
+
+1149
+01:51:07,840 --> 01:51:15,360
+and pre-specified an analysis of them independently. We did doses. We did five milligrams and 10
+
+1150
+01:51:15,360 --> 01:51:20,800
+milligrams. We did a different schedule. We did 10 twice a day. And we did a combination with
+
+1151
+01:51:20,800 --> 01:51:27,520
+a raphalog, our RAD001, with the primary endpoint of decreased respiratory tract infections. We also
+
+1152
+01:51:27,520 --> 01:51:32,800
+extended the dosing period to cover winter cold and flu season. So now we're dosing 16 weeks.
+
+1153
+01:51:33,360 --> 01:51:40,880
+Uninterrupted? Uninterrupted. Okay. Although with the once a day dosing, which is where we saw efficacy,
+
+1154
+01:51:41,680 --> 01:51:47,440
+we're only inhibiting mTOR partially for part of the day. By the way, if you had to speculate,
+
+1155
+01:51:47,440 --> 01:51:56,080
+going back to the very, very first, the 2a with RAD0001, if you had taken all four of those groups
+
+1156
+01:51:56,080 --> 01:52:00,960
+and measured them at the end of six weeks and then after the two week washout, what's your
+
+1157
+01:52:00,960 --> 01:52:05,680
+prediction as to how they would have differed? I'm sorry, because we didn't vaccinate until
+
+1158
+01:52:05,680 --> 01:52:10,480
+if we vaccinated at six weeks versus vaccinated at eight weeks. Correct. And you did comparison.
+
+1159
+01:52:10,880 --> 01:52:15,920
+In other words, I'm asking on drug versus off drug, how much, I know why you had the washout,
+
+1160
+01:52:15,920 --> 01:52:20,640
+but is it also possible that on drug you would have the same immune response?
+
+1161
+01:52:21,360 --> 01:52:24,640
+Yes. On the low doses, on the high doses, I bet we wouldn't have.
+
+1162
+01:52:24,640 --> 01:52:26,960
+And do you define high as five and 20?
+
+1163
+01:52:26,960 --> 01:52:27,920
+High as 20, yeah.
+
+1164
+01:52:27,920 --> 01:52:32,000
+Okay. Got it. So you think the five and the 0.5 still would have had benefit on drug,
+
+1165
+01:52:32,560 --> 01:52:37,280
+20 probably got a benefit. In fact, that might explain the question I asked, which is why did
+
+1166
+01:52:37,280 --> 01:52:41,600
+they still at least have one good strain response? It could have been that the two weeks off gave them
+
+1167
+01:52:41,600 --> 01:52:42,160
+recovery.
+
+1168
+01:52:42,160 --> 01:52:43,200
+It could be.
+
+1169
+01:52:43,200 --> 01:52:48,880
+Yeah. So back to restore bio, we figured it. And then the other element to the study is we ran it
+
+1170
+01:52:48,880 --> 01:52:54,320
+in two different cold and flu seasons, one in the Southern hemisphere, one in the Northern hemisphere,
+
+1171
+01:52:54,320 --> 01:52:57,760
+652 patients in the study, because we answered a lot of questions.
+
+1172
+01:52:58,560 --> 01:53:06,720
+We found that some patient populations responded well, over 85 patients and patients with asthma,
+
+1173
+01:53:06,720 --> 01:53:12,960
+patients with diabetes also responded. Patients who were smokers or had COPD did not.
+
+1174
+01:53:13,840 --> 01:53:18,720
+There are some preclinical data that provides a mechanism for why this is the case,
+
+1175
+01:53:19,520 --> 01:53:23,840
+in the sense that it's a different mechanism for airway inflammation and smoking and COPD,
+
+1176
+01:53:23,840 --> 01:53:26,880
+and it's exacerbated by mTOR inhibition.
+
+1177
+01:53:26,880 --> 01:53:30,080
+Oh, so I thought it was going to be a different way of antigen presentation or something.
+
+1178
+01:53:30,080 --> 01:53:30,880
+I don't think so.
+
+1179
+01:53:30,880 --> 01:53:31,680
+Okay.
+
+1180
+01:53:31,680 --> 01:53:38,240
+The coolest thing about the study is that we saw the same degree of efficacy if we looked at the
+
+1181
+01:53:38,240 --> 01:53:42,320
+patients in the Southern hemisphere as in the Northern hemisphere. It's almost as if there was
+
+1182
+01:53:42,320 --> 01:53:48,400
+two sub-studies in this study. Now, each of the patient groups by themselves were insufficiently
+
+1183
+01:53:48,400 --> 01:53:55,680
+powered to get any statistical significance, although overall, the patient population did.
+
+1184
+01:53:55,680 --> 01:54:00,480
+That's a bold study design move. That could have backfired badly, right? Because if you had
+
+1185
+01:54:00,480 --> 01:54:04,480
+discordance between the Northern and Southern hemisphere, you would have been underpowered.
+
+1186
+01:54:04,480 --> 01:54:08,880
+Well, the goal of the study was to look at the overall patient population, which we did,
+
+1187
+01:54:08,880 --> 01:54:16,960
+which included responders and non-responders. We saw a 30% decrease in respiratory tract infections.
+
+1188
+01:54:16,960 --> 01:54:19,520
+Yes, but you had two different strains of the flu, didn't you?
+
+1189
+01:54:20,080 --> 01:54:23,680
+Flu was not involved here. There was no vaccination in this study.
+
+1190
+01:54:23,680 --> 01:54:28,160
+Oh, sorry. What I mean is you had two different environments of viruses.
+
+1191
+01:54:28,880 --> 01:54:30,720
+Yes, absolutely. Absolutely.
+
+1192
+01:54:30,720 --> 01:54:37,280
+So you diluted, I'm just saying you loaded the deck against yourself. If you did everything
+
+1193
+01:54:37,280 --> 01:54:42,240
+identical, but they were all in the same country, presumably you'd have a higher concentration of
+
+1194
+01:54:42,240 --> 01:54:45,680
+pathogen. You'd have a better chance of seeing a signal. That's sort of all I was saying.
+
+1195
+01:54:45,680 --> 01:54:50,000
+Yeah, I think you'd have a higher chance of seeing consistency.
+
+1196
+01:54:50,000 --> 01:54:54,000
+That's right. And you had the lowest chance imaginable because you spread out across two
+
+1197
+01:54:54,000 --> 01:54:54,640
+hemispheres.
+
+1198
+01:54:54,640 --> 01:54:56,080
+Yet we saw consistency.
+
+1199
+01:54:56,080 --> 01:55:00,640
+Yes, so I think we're saying the same thing, which is it's more a credit to the finding.
+
+1200
+01:55:00,640 --> 01:55:01,040
+Yes.
+
+1201
+01:55:01,040 --> 01:55:03,360
+And I'm just saying, thank God.
+
+1202
+01:55:04,720 --> 01:55:07,120
+Well, if the drug works, this is what we should have seen.
+
+1203
+01:55:07,120 --> 01:55:09,040
+Yeah, it's just a big bet for a startup to take.
+
+1204
+01:55:09,040 --> 01:55:17,760
+Yeah. And so now we've seen 10 milligrams of RTB101 decrease respiratory tract infections
+
+1205
+01:55:17,760 --> 01:55:25,280
+in the phase 2a and in each of the parts of the phase 2b. And we use the phase 2b to power
+
+1206
+01:55:25,280 --> 01:55:28,560
+the phase 3 program. So the phase 3 program is-
+
+1207
+01:55:29,200 --> 01:55:32,000
+And the primary indication is respiratory infection or all infection?
+
+1208
+01:55:32,000 --> 01:55:33,760
+Respiratory tract infections.
+
+1209
+01:55:33,760 --> 01:55:36,240
+And patient population is 65 and up?
+
+1210
+01:55:36,240 --> 01:55:41,520
+65 and up. So the first study that we're calling the program, the protector program, the first one is
+
+1211
+01:55:42,320 --> 01:55:49,120
+fully enrolled, 1,024 patients. They're getting 16 weeks of drug treatment and we're following them
+
+1212
+01:55:49,120 --> 01:55:55,040
+for respiratory tract infections with sort of an electronic record that the patients fill out.
+
+1213
+01:55:55,680 --> 01:55:59,600
+If we were just targeting this at Northern Hemisphere patients, is it your view that the
+
+1214
+01:56:00,320 --> 01:56:07,040
+optimal 16 week window would be sort of May, June, July, August? How are you deciding when?
+
+1215
+01:56:07,040 --> 01:56:08,320
+Winter cold and flu season.
+
+1216
+01:56:08,960 --> 01:56:11,360
+Is when they actually want to receive the drug?
+
+1217
+01:56:11,360 --> 01:56:11,600
+Yes.
+
+1218
+01:56:12,320 --> 01:56:18,800
+Okay. So basically, so you're so confident that 10 milligrams is not too high that you're willing
+
+1219
+01:56:18,800 --> 01:56:22,480
+to give them the drug during flu season or during winter cold season?
+
+1220
+01:56:22,480 --> 01:56:23,200
+Yes.
+
+1221
+01:56:23,200 --> 01:56:28,240
+All right. So let's turn over to something else you brought up earlier, which was the
+
+1222
+01:56:28,240 --> 01:56:33,200
+the Laming paper that came out about two months ago. That's a prolific lab.
+
+1223
+01:56:33,200 --> 01:56:39,760
+Laming was a postdoc in David's lab. So no stranger to this science. There are lots of folks out there
+
+1224
+01:56:39,760 --> 01:56:45,120
+that are working on selective mTORC1 inhibition, notwithstanding the potential ways around it
+
+1225
+01:56:45,120 --> 01:56:50,960
+through intermittent dosing or looking at catalytic binding or things that might be off
+
+1226
+01:56:50,960 --> 01:56:57,440
+you a little bit more insight. What is your take on the biochemistry of selective binding
+
+1227
+01:56:57,440 --> 01:57:01,360
+and selective inhibition more specifically? The binding is quite selective.
+
+1228
+01:57:02,320 --> 01:57:06,160
+Yeah. I thought basically to summarize that paper for the listeners,
+
+1229
+01:57:06,800 --> 01:57:15,040
+the Laming group looked at, I think it was 90 different rapologs, presumably related to
+
+1230
+01:57:15,040 --> 01:57:24,960
+rapamycin and looked for their ability to be selective for Tork1 even with more sustained
+
+1231
+01:57:24,960 --> 01:57:31,120
+exposure. Then they identified a couple that were and most of the paper was on one that they liked
+
+1232
+01:57:31,120 --> 01:57:36,640
+the best. The really cool thing, and this is going to get us into an immunofilin discussion,
+
+1233
+01:57:37,520 --> 01:57:44,160
+is that they found possibly the reason the compound was selective was that it bound to
+
+1234
+01:57:44,160 --> 01:57:52,480
+one of the immunofilins, but not another. So specifically it bound to FKBP12, or at least
+
+1235
+01:57:52,480 --> 01:58:00,480
+FKBP12 was required for the compound to have activity, but another FKBP, FKBP51 was not.
+
+1236
+01:58:00,480 --> 01:58:10,000
+But I still don't understand this. If you bind to FKBP12 and then the rapologue plus FKBP12 binds to
+
+1237
+01:58:10,000 --> 01:58:15,440
+mTOR, don't you still get into the same problem where after a long enough period of time,
+
+1238
+01:58:16,000 --> 01:58:21,760
+you don't have enough TOR to make complex 2? I don't think that's why complex 2 is inhibited.
+
+1239
+01:58:21,760 --> 01:58:26,080
+What do you think rapamycin specifically is doing to inhibit complex 2 then?
+
+1240
+01:58:26,080 --> 01:58:31,920
+I think it's a downstream and indirect counter regulatory signaling mechanism.
+
+1241
+01:58:31,920 --> 01:58:37,760
+I see. So it has to do more with the serine kinase or the 4EBP1 or something like that.
+
+1242
+01:58:37,840 --> 01:58:44,480
+Like something downstream of a direct phosphorylation is counter regulating or...
+
+1243
+01:58:44,480 --> 01:58:44,960
+Yes.
+
+1244
+01:58:44,960 --> 01:58:52,720
+Yeah, I see. And you're saying presumably if you only bind a rapologue to FKBP12,
+
+1245
+01:58:52,720 --> 01:58:54,240
+you somehow don't hit that target?
+
+1246
+01:58:54,800 --> 01:59:01,600
+Well, I think what their data say is because the compound that they show has no TOR2 activity at all
+
+1247
+01:59:02,560 --> 01:59:10,480
+does not bind to FKBP51 or at least that's the implication because down regulating FKBP51,
+
+1248
+01:59:10,480 --> 01:59:16,080
+which I think they did with an siRNA, had no effect on its inhibitory activity,
+
+1249
+01:59:16,880 --> 01:59:22,240
+suggests that there's a complexity to the complexes formed, sorry for that,
+
+1250
+01:59:22,240 --> 01:59:25,600
+that we don't yet understand and it's an exciting area to explore.
+
+1251
+01:59:25,680 --> 01:59:33,200
+So remember every cell has many immunophilins in it. It has several cyclophilins.
+
+1252
+01:59:33,840 --> 01:59:40,000
+It's got several FKBP's. So FKBP12, 51, and 52 are probably the big three,
+
+1253
+01:59:40,000 --> 01:59:41,360
+but there are a few others.
+
+1254
+01:59:41,360 --> 01:59:45,600
+By the way, I thought rapa only bound to 12. Rapa binds to what?
+
+1255
+01:59:45,600 --> 01:59:49,120
+They showed that it binds to at least 12 and 51.
+
+1256
+01:59:49,120 --> 01:59:55,520
+Okay. I mean, that's amazing. I had always thought that rapa binds only to FKBP12.
+
+1257
+01:59:56,560 --> 01:59:59,440
+Which then binds to TOR. I didn't even realize it was binding to 51.
+
+1258
+01:59:59,440 --> 02:00:03,040
+So we know it binds to 51 in their paper and there have been some other papers
+
+1259
+02:00:03,040 --> 02:00:10,000
+studying the ryanidine receptor that show that it binds to 12.6 also, which is in cardiac myocytes.
+
+1260
+02:00:10,640 --> 02:00:15,760
+We've talked all about inhibition. Are there any times when you want to be activating this?
+
+1261
+02:00:15,760 --> 02:00:21,840
+There's a lot of talk that ketamine may be activating mTOR and obviously ketamine has
+
+1262
+02:00:21,920 --> 02:00:25,520
+some really interesting properties as it pertains to recalcitrant depression.
+
+1263
+02:00:26,400 --> 02:00:33,600
+Yeah. So two points here. For patients with major depression, intravenous ketamine
+
+1264
+02:00:34,480 --> 02:00:42,480
+is almost a miracle drug. We're accustomed to typical antidepressant drugs requiring weeks
+
+1265
+02:00:42,480 --> 02:00:45,920
+and weeks to work and having modest effects at best.
+
+1266
+02:00:45,920 --> 02:00:48,720
+Or even days, but this is minutes.
+
+1267
+02:00:48,720 --> 02:00:54,240
+Ketamine works in minutes to hours and a huge effect size. It's really amazing.
+
+1268
+02:00:54,960 --> 02:01:01,600
+I don't think we know what the specific cellular mechanism is of that. I'm giving you lots of
+
+1269
+02:01:01,600 --> 02:01:04,960
+things we don't know in our discussion. Wasn't there a study that showed
+
+1270
+02:01:04,960 --> 02:01:12,080
+rapamycin blocked the effect of ketamine? Yes. And there's a biotech company called Navator.
+
+1271
+02:01:12,080 --> 02:01:17,040
+I know them well. And they're using an mTOR activator to treat depression.
+
+1272
+02:01:17,040 --> 02:01:23,920
+Their Lloyd equivalent is also a very smart guy. So, yeah. George is fantastic.
+
+1273
+02:01:23,920 --> 02:01:30,640
+So Lloyd, is this a relatively recent understanding then about how RAPA is binding to the FKs
+
+1274
+02:01:31,360 --> 02:01:36,080
+and how it's the complexity around first of all, how many of these things there are
+
+1275
+02:01:36,640 --> 02:01:40,240
+and how you can change their properties by which ones you're binding to?
+
+1276
+02:01:40,240 --> 02:01:44,880
+Yeah. So it's something that's not discussed a lot in the literature, but there are several
+
+1277
+02:01:45,840 --> 02:01:54,960
+FKBP's or FK506 binding proteins. We almost always talk about FKBP12, and it's sort of a shorthand.
+
+1278
+02:01:55,600 --> 02:01:59,440
+But the understanding has been that rapamycin binds to all of them.
+
+1279
+02:01:59,440 --> 02:02:06,640
+In a few specific cases, that's been shown to be true. There's also a bunch of other activities
+
+1280
+02:02:06,640 --> 02:02:14,800
+and roles for FKBP's that aren't at all part of Torq1 biology. For example, they all have
+
+1281
+02:02:14,800 --> 02:02:21,120
+enzymatic activity. They're peptidylprolilisomerisis. But what the biology of that is
+
+1282
+02:02:21,840 --> 02:02:28,960
+remains pretty much unclear. It's a very interesting enzymatic activity. It's involved in
+
+1283
+02:02:28,960 --> 02:02:33,920
+protein folding. But there have been some studies where maybe a dozen different of these
+
+1284
+02:02:33,920 --> 02:02:39,120
+immunophilins are completely eliminated at the same time from cells. There was no clear cellular
+
+1285
+02:02:39,120 --> 02:02:44,320
+phenotype. So whether that means the others can all substitute because it's such a critical function
+
+1286
+02:02:44,880 --> 02:02:50,800
+or they have no function that's important. Are there disease states where people are lacking
+
+1287
+02:02:50,800 --> 02:02:57,200
+any of these? There may be, but I don't know them. And how conserved are they across species? Highly
+
+1288
+02:02:57,200 --> 02:03:02,240
+conserved. These immunophilins are present in almost all species, although they can vary a
+
+1289
+02:03:02,240 --> 02:03:08,160
+little bit. Is there any cell in the body that does not contain mTOR? I would bet some of the
+
+1290
+02:03:08,160 --> 02:03:15,360
+terminally differentiated a-nucleate cells may not. Red blood cells, for example, do? Certainly
+
+1291
+02:03:15,360 --> 02:03:20,240
+red blood cell precursors do. I was thinking about platelets, for example. I don't know if
+
+1292
+02:03:20,240 --> 02:03:25,520
+they have mTOR. Yeah. Interesting. And I bet that's known. It's just, I don't know the answer.
+
+1293
+02:03:26,080 --> 02:03:30,240
+I feel better that you don't. So now we need to make a list of David Sapatini questions.
+
+1294
+02:03:30,240 --> 02:03:34,000
+Well, I'll make sure David listens to this. And you know what? Maybe we'll do an AMA with David
+
+1295
+02:03:34,000 --> 02:03:38,320
+specifically on tOR. So last thing I want to chat about, because the paper came out kind of
+
+1296
+02:03:38,320 --> 02:03:43,040
+recently, was this sort of interesting paper. It's interesting not in the sense of the intervention,
+
+1297
+02:03:43,040 --> 02:03:48,240
+because it was an N of 9 and it was a very poorly controlled study in the sense that there was no
+
+1298
+02:03:48,240 --> 02:03:53,760
+placebo group and every patient actually was on their own sort of tailored cocktail of three
+
+1299
+02:03:53,760 --> 02:03:59,600
+different drugs or two hormones in a drug. But the paper did get a lot of press because it used an
+
+1300
+02:03:59,600 --> 02:04:04,720
+epigenetic clock. Are you familiar with these clocks? Yes. Yeah. This is Horvath's work, right?
+
+1301
+02:04:04,720 --> 02:04:09,840
+Yeah. Yeah. Horvath's probably the best of these clocks. Maybe it's just as a little bonus episode.
+
+1302
+02:04:09,840 --> 02:04:12,800
+Tell folks how these things work, what they're measuring. We've already talked a little bit
+
+1303
+02:04:12,800 --> 02:04:20,400
+about methylation. So maybe we put a bow on this by discussing that. So I forget how many years ago
+
+1304
+02:04:20,400 --> 02:04:29,200
+it was now, but it wasn't that many that we learned from Horvath and others that by looking
+
+1305
+02:04:29,200 --> 02:04:35,840
+at the methylation pattern on peripheral blood leukocyte DNA, we can tell how old you are within
+
+1306
+02:04:35,840 --> 02:04:42,880
+about six months to a year. And this has been replicated by several groups. So we're all familiar
+
+1307
+02:04:42,880 --> 02:04:47,680
+with DNA and... And that's even true among centenarians and people that are just genetically
+
+1308
+02:04:47,680 --> 02:04:54,160
+blessed to live longer. Excellent question. The studies that I've seen and actually the one that
+
+1309
+02:04:54,160 --> 02:05:01,600
+we participated in, I don't think we had people over 80. Okay. I don't know the answer to that,
+
+1310
+02:05:01,600 --> 02:05:12,160
+but for people between about 20 and 80, there's a stereotypical change in methylation patterns on DNA.
+
+1311
+02:05:12,160 --> 02:05:18,480
+And this is just a chemical change to DNA that happens over time that's quite characteristic of
+
+1312
+02:05:18,480 --> 02:05:23,600
+your chronologic age. This is what David Sinclair talks about as sort of the scratching of the CD.
+
+1313
+02:05:25,360 --> 02:05:29,840
+The CD being the master copy of your genomic. Yeah, I guess we have to say something like that
+
+1314
+02:05:29,840 --> 02:05:36,480
+because we can't use wearing out of the vinyl anymore. But I think about it a little differently.
+
+1315
+02:05:36,560 --> 02:05:44,480
+I think about aging fundamentally as a biologic process controlled by pathways. And presumably,
+
+1316
+02:05:45,040 --> 02:05:52,320
+it's a consequence of changes in gene expression. And this methylation changes gene expression.
+
+1317
+02:05:52,320 --> 02:06:00,320
+So it's a pretty cool story. And certainly we know that if you take a differentiated cell
+
+1318
+02:06:00,320 --> 02:06:03,920
+and treat it with a set of transcription factors called the aminaka factors,
+
+1319
+02:06:04,560 --> 02:06:09,840
+you can reset the cell back to a pluripotent stem cell and the methylation goes away too.
+
+1320
+02:06:10,720 --> 02:06:19,360
+So I'm thinking that DNA methylation likely could be causally related to the expression,
+
+1321
+02:06:19,360 --> 02:06:24,800
+gene expression changes that not only are associated with aging, but may cause aging.
+
+1322
+02:06:25,680 --> 02:06:31,920
+So has anybody looked at the effect on the Horvath clock or DNA methylation in response to the
+
+1323
+02:06:32,720 --> 02:06:36,720
+rappalogs we've been discussing today? I'm thinking of one experiment,
+
+1324
+02:06:36,720 --> 02:06:40,400
+but I don't know that it's published yet. And I think the answer was negative.
+
+1325
+02:06:40,400 --> 02:06:45,440
+So it's interesting because the paper that I was talking about, again, there are 10 ways to Sunday,
+
+1326
+02:06:45,440 --> 02:06:50,560
+this could just be an outlier, especially without a control group. I mean, it's really difficult to
+
+1327
+02:06:50,560 --> 02:06:58,000
+make any conclusion. But if any of this benefit was real, which was growth hormone, DHEA and metformin,
+
+1328
+02:06:58,880 --> 02:07:03,200
+set the Horvath clock back, I think it was a year and a half or two and a half years,
+
+1329
+02:07:04,560 --> 02:07:09,680
+the initial hypothesis of the experiment was that this was going to improve thymic function,
+
+1330
+02:07:09,680 --> 02:07:14,320
+which was going to improve immune function. Doesn't seem like a stretch that you could
+
+1331
+02:07:14,320 --> 02:07:21,280
+potentially see that benefit from a rappalog if it's also acting on immunity, which is why I think
+
+1332
+02:07:21,280 --> 02:07:26,800
+I was sort of probably why I asked about the thymus in the past. Yeah. So I have a few comments
+
+1333
+02:07:26,800 --> 02:07:35,200
+about this. One is first DHEA we know goes down substantially with age, but there have been
+
+1334
+02:07:35,920 --> 02:07:41,920
+several to many studies of replacing it and there's no clinical benefit. And I think the author
+
+1335
+02:07:42,560 --> 02:07:48,480
+used it for the effect of reducing the hyperinsulinemia that follows the administration
+
+1336
+02:07:48,480 --> 02:07:55,360
+of growth hormone. And in his, I think, personal experience, taking growth hormone noted that he
+
+1337
+02:07:55,440 --> 02:08:00,960
+could blunt the hyperinsulinemia by taking something like 50 milligrams of DHEA by itself.
+
+1338
+02:08:00,960 --> 02:08:05,040
+But again, I've, that's not something that's well documented in the literature. And your point,
+
+1339
+02:08:05,040 --> 02:08:09,440
+of course, is documented, which is DHEA by itself. You can fix the number, but that doesn't
+
+1340
+02:08:09,440 --> 02:08:16,320
+seem to have any clinical bearing. Exactly. My second point is the growth hormone,
+
+1341
+02:08:17,520 --> 02:08:25,120
+the biologic activity of it is mostly driven, not exclusively by IGF-1, which used to be called,
+
+1342
+02:08:25,120 --> 02:08:33,040
+I think, somatomedin when we were in medical school. We know that lymphoid tissue is probably
+
+1343
+02:08:33,040 --> 02:08:41,600
+the most sensitive target organ for IGF-1 and it causes hypertrophy. So if he's looking for
+
+1344
+02:08:42,320 --> 02:08:48,240
+enlarged thymus in patients he's treating with growth hormone, I would be surprised if you did
+
+1345
+02:08:48,240 --> 02:08:54,000
+not see that. And he did. And so the question is, wouldn't you have expected that to have sped up
+
+1346
+02:08:54,000 --> 02:08:59,360
+growth? I would have expected, if he treated long enough, I would have expected to increase
+
+1347
+02:08:59,360 --> 02:09:05,040
+the size of the thymus if he could find it in people. I believe the study looked at MRI and
+
+1348
+02:09:05,040 --> 02:09:10,000
+showed an increase in thymic size. They were treated for a year, I believe. Not surprised at
+
+1349
+02:09:10,000 --> 02:09:15,760
+all. I bet the spleen increased too. Is there any reason to believe that that would enhance immune
+
+1350
+02:09:15,760 --> 02:09:22,000
+function? I'm thinking if I've read a paper about that and I don't know. And then what about the
+
+1351
+02:09:22,000 --> 02:09:30,080
+metformin wrench in the works? Metformin is a really interesting compound. I think we have
+
+1352
+02:09:30,080 --> 02:09:36,560
+excellent data that in diabetics it is a wonderful drug. And there's some retrospective data of
+
+1353
+02:09:37,280 --> 02:09:42,400
+longevity in diabetics treated for a long time with metformin. And of course, this is the question
+
+1354
+02:09:42,400 --> 02:09:46,720
+near Barzilay wants to answer with the TAME study. Right. And Nier and I have spoken about this many
+
+1355
+02:09:46,720 --> 02:09:52,400
+times and I agree that it's hard to make the case for a more beneficial agent in someone with
+
+1356
+02:09:52,400 --> 02:09:57,920
+diabetes or hyperinsulinemia metabolic syndrome or anything on that continuum and on that spectrum.
+
+1357
+02:09:58,560 --> 02:10:03,840
+Of course, the question is, what is the benefit of metformin in a perfectly healthy person or even
+
+1358
+02:10:03,840 --> 02:10:10,080
+a fully optimized person with respect to other variables? I'm not aware that there is a benefit
+
+1359
+02:10:10,080 --> 02:10:14,880
+of it. Remember, it has some adverse effects on mitochondrial function too, potentially.
+
+1360
+02:10:14,880 --> 02:10:20,400
+It's so funny you bring that up. That's exactly the question that I think most plagues me, which is
+
+1361
+02:10:21,440 --> 02:10:28,240
+if it is a weak mitochondrial toxin, is any benefit that you might see in a non-diabetic
+
+1362
+02:10:28,240 --> 02:10:34,560
+more than dwarfed by that downside? Whereas even the simplest benefit of it, like a reduction
+
+1363
+02:10:34,560 --> 02:10:39,600
+in hepatic glucose output in diabetics might more than make up for the sort of inhibition of
+
+1364
+02:10:39,600 --> 02:10:41,600
+metformin. Yeah, I don't think we know the answer to that question.
+
+1365
+02:10:42,400 --> 02:10:46,400
+It's one I'm super interested in and working on and actually going to volunteer for a study that
+
+1366
+02:10:46,400 --> 02:10:51,360
+will take some muscle biopsies and look at peak mitochondrial function, which you can induce
+
+1367
+02:10:51,360 --> 02:10:57,360
+through certain types of exercise with and without metformin. Interesting. Yeah. Well, Lloyd, this has
+
+1368
+02:10:57,360 --> 02:11:03,040
+been just a fantastic discussion. I am so grateful for the introduction that Tim made and it's been
+
+1369
+02:11:03,040 --> 02:11:07,760
+an honor to sit and speak with you. I had tried to reach out to Joan about a year ago. I never
+
+1370
+02:11:07,840 --> 02:11:13,360
+heard back. So I'm gathering it was just too busy a time, but in many ways it was better to get to
+
+1371
+02:11:13,360 --> 02:11:18,000
+talk now because so much more has happened in the last year and maybe that might've been just after
+
+1372
+02:11:18,000 --> 02:11:24,320
+the IPO. So it was a very busy time. I'm guessing my email went to spam, but this has worked out
+
+1373
+02:11:24,320 --> 02:11:28,160
+really well and I'm incredibly grateful for this. I wish you all the continued success with this
+
+1374
+02:11:28,160 --> 02:11:33,920
+program. Well, thanks. We remain optimistic and we will have top line data from the first phase three
+
+1375
+02:11:34,480 --> 02:11:40,320
+by the beginning of 2020. So the data will speak for themselves. Well, we'll count down the day
+
+1376
+02:11:40,320 --> 02:11:44,560
+till we see it. It's been a great discussion. I've enjoyed being here. I feel like I've said,
+
+1377
+02:11:44,560 --> 02:11:49,200
+I don't know an awful lot. I'm feeling a little bit like I'm back in school, but it's been fun.
+
+1378
+02:11:49,200 --> 02:11:53,760
+And I have some homework to do. Thanks. Well, I think that's one of the beautiful things about
+
+1379
+02:11:53,760 --> 02:11:58,560
+folks that come on this podcast is great scientists say, I don't know probably more than they know the
+
+1380
+02:11:58,560 --> 02:12:02,240
+answer. So that's, I think a testament to your honesty, but thank you, like, appreciate it.
+
+1381
+02:12:02,240 --> 02:12:07,360
+Thank you. Thank you for listening to this week's episode of The Drive. If you're interested in
+
+1382
+02:12:07,360 --> 02:12:12,080
+diving deeper into any topics we discuss, we've created a membership program that allows us to
+
+1383
+02:12:12,080 --> 02:12:17,440
+bring you more in-depth, exclusive content without relying on paid ads. It's our goal to ensure
+
+1384
+02:12:17,440 --> 02:12:22,240
+members get back much more than the price of this description. Now to that end, membership
+
+1385
+02:12:22,240 --> 02:12:27,520
+benefits include a bunch of things. One, totally kick-ass comprehensive podcast show notes that
+
+1386
+02:12:27,520 --> 02:12:32,960
+detail every topic, paper, person, thing we discuss on each episode. The word on the street is,
+
+1387
+02:12:32,960 --> 02:12:38,320
+nobody's show notes rival these. Monthly AMA episodes or Ask Me Anything episodes,
+
+1388
+02:12:38,320 --> 02:12:43,360
+hearing these episodes completely. Access to our private podcast feed that allows you to
+
+1389
+02:12:43,360 --> 02:12:48,960
+hear everything without having to listen to spiel's like this. The Qualies, which are a super short
+
+1390
+02:12:48,960 --> 02:12:53,840
+podcast, typically less than five minutes that we release every Tuesday through Friday, highlighting
+
+1391
+02:12:53,840 --> 02:12:58,720
+the best questions, topics, and tactics discussed on previous episodes of The Drive. This is a great
+
+1392
+02:12:58,720 --> 02:13:03,760
+way to catch up on previous episodes without having to go back and necessarily listen to everyone.
+
+1393
+02:13:04,320 --> 02:13:09,760
+Steep discounts on products that I believe in, but for which I'm not getting paid to endorse,
+
+1394
+02:13:09,760 --> 02:13:13,920
+and a whole bunch of other benefits that we continue to trickle in as time goes on. If you
+
+1395
+02:13:13,920 --> 02:13:18,720
+want to learn more and access these member-only benefits, you can head over to peteratiamd.com
+
+1396
+02:13:18,720 --> 02:13:25,360
+forward slash subscribe. You can find me on Twitter, Instagram, and Facebook, all with the ID
+
+1397
+02:13:25,360 --> 02:13:31,280
+PeterAttiaMD. You can also leave us a review on Apple Podcast or whatever podcast player you
+
+1398
+02:13:31,280 --> 02:13:36,960
+listen on. This podcast is for general informational purposes only, does not constitute the practice of
+
+1399
+02:13:36,960 --> 02:13:42,640
+medicine, nursing, or other professional healthcare services, including the giving of medical advice.
+
+1400
+02:13:43,280 --> 02:13:48,240
+No doctor-patient relationship is formed. The use of this information and the materials linked to
+
+1401
+02:13:48,240 --> 02:13:54,080
+this podcast is at the user's own risk. The content on this podcast is not intended to be a
+
+1402
+02:13:54,080 --> 02:13:59,680
+substitute for professional medical advice, diagnosis, or treatment. Users should not
+
+1403
+02:13:59,680 --> 02:14:05,680
+disregard or delay in obtaining medical advice from any medical condition they have, and they
+
+1404
+02:14:05,680 --> 02:14:11,120
+should seek the assistance of their healthcare professionals for any such conditions. Finally,
+
+1405
+02:14:11,120 --> 02:14:16,560
+I take conflicts of interest very seriously. For all of my disclosures and the companies I invest in
+
+1406
+02:14:16,560 --> 02:14:24,240
+or advise, please visit peteratiamd.com forward slash about where I keep an up-to-date and active
+
+1407
+02:14:24,240 --> 02:14:35,120
+list of such companies.
+
+1408
+02:14:46,560 --> 02:14:47,120
+Thank you.
+

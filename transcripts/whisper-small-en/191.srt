@@ -1,0 +1,5916 @@
+1
+00:00:00,000 --> 00:00:05,280
+Hey, everyone. Welcome to the Drive podcast. I'm your host, Peter Attia.
+
+2
+00:00:05,280 --> 00:00:14,920
+Hey, Carl. It is so good to see you today, although admittedly across video,
+
+3
+00:00:14,920 --> 00:00:19,080
+but it's like a little blast from the past from, I don't know, 20 years ago, right?
+
+4
+00:00:19,080 --> 00:00:26,200
+Yeah, it's amazing. We had a good group of friends back in the old days at Stanford,
+
+5
+00:00:26,200 --> 00:00:31,000
+and I haven't kept in touch with them as much as I'd hoped, but it's great to see you.
+
+6
+00:00:31,000 --> 00:00:34,360
+It really brings back a lot of memories. You look great, unchanged.
+
+7
+00:00:34,360 --> 00:00:40,520
+Well, yeah, that's funny. You don't look a bit different. It is funny when I think back to that
+
+8
+00:00:40,520 --> 00:00:46,440
+class of ours in med school, and I really feel like the overwhelming underachiever of our class.
+
+9
+00:00:47,640 --> 00:00:53,000
+And I remember our first day of our surgical rotation, you, me, and Josh Rabinowitz,
+
+10
+00:00:53,480 --> 00:00:57,960
+sitting in that room waiting for us to be assigned to which service we would go to.
+
+11
+00:00:58,520 --> 00:01:04,760
+Of course, you and Josh have gone on to do unbelievable things. I've sort of modeled along.
+
+12
+00:01:06,440 --> 00:01:10,760
+Now you're the star. And plus, I remember, even though it was the start of our surgery rotation,
+
+13
+00:01:10,760 --> 00:01:14,600
+you already knew how to do everything, which I was impressed by. You knew all the knots,
+
+14
+00:01:15,320 --> 00:01:18,040
+and I was like, wait, this is the first day of the rotation. How do you do that?
+
+15
+00:01:18,040 --> 00:01:27,480
+Well, let's pick it up back there. So you were in the MD-PhD program, so we didn't start at the
+
+16
+00:01:27,480 --> 00:01:32,920
+same time. We just finished at the same time. You had come in earlier. But I think the reason I knew
+
+17
+00:01:32,920 --> 00:01:38,360
+you even on our first day of surgery was because you had done your PhD in the same lab as two other
+
+18
+00:01:38,360 --> 00:01:47,080
+friends of mine, Alex Rabinowitz and Jason Pyle. And all kidding aside, I think that, look, all the
+
+19
+00:01:47,080 --> 00:01:51,400
+kids that went to med school were pretty bright. But I think the MD-PhD students were sort of in a
+
+20
+00:01:51,400 --> 00:01:57,400
+class of their own. And I suspect it was even harder to get into that program than it was just
+
+21
+00:01:57,400 --> 00:02:03,320
+the straight MD program. So thinking back to your time as an undergrad, but what did you major in
+
+22
+00:02:03,320 --> 00:02:09,960
+again in undergrad? I did biochemical sciences, they call it, at Harvard instead of biochemistry.
+
+23
+00:02:09,960 --> 00:02:14,280
+They had to do everything different, and they didn't call it a major either. It was a concentration.
+
+24
+00:02:14,280 --> 00:02:20,920
+So I concentrated in biochemical sciences. So there you go. But I had a lot of other interests.
+
+25
+00:02:20,920 --> 00:02:26,840
+All my friends were physicists, theoretical physicists, in fact. And so I was exposed to some
+
+26
+00:02:27,880 --> 00:02:31,960
+pretty unusual stuff for a biochemist. And were they allowed to call it theoretical physics at
+
+27
+00:02:31,960 --> 00:02:39,160
+Harvard? They were. Okay, that's good. I just want to... Good question, yes. They were allowed to name
+
+28
+00:02:39,240 --> 00:02:44,440
+it. Good, good. So at what point during your biological science concentration did you know
+
+29
+00:02:44,440 --> 00:02:51,480
+you wanted to go into medicine? It was pretty early because I was interested in the brain early on,
+
+30
+00:02:51,480 --> 00:02:58,920
+and I wanted to understand the brain at the level of cells. But I was also interested in the most
+
+31
+00:02:58,920 --> 00:03:04,840
+high level aspects of brain function. And so I thought I needed to talk to human beings. I needed
+
+32
+00:03:05,480 --> 00:03:11,000
+some access to the human brain. I found that interesting because I was interested in emotion
+
+33
+00:03:11,000 --> 00:03:19,080
+and the ability to express feelings through words. And I was torn. I liked writing and literature
+
+34
+00:03:20,600 --> 00:03:26,040
+and the use of words, and I liked cells and biology. And I wanted to somehow fuse them,
+
+35
+00:03:26,040 --> 00:03:30,440
+and it seemed that medical school was the way to go because I could work with the human brain.
+
+36
+00:03:31,400 --> 00:03:36,680
+And obviously you could have just gone to medical school, but you also selected into this very,
+
+37
+00:03:36,680 --> 00:03:41,240
+very advanced program that was incredibly selected, the MST program, the Medical Science
+
+38
+00:03:41,240 --> 00:03:46,920
+Training Program. And so that tells me at the outset that you also knew you wanted to do research
+
+39
+00:03:46,920 --> 00:03:55,480
+beyond, quote unquote, just clinical medicine, yes? Yeah, that's right. And that was the nice
+
+40
+00:03:55,480 --> 00:04:02,200
+thing about the MSTP is it lets you delay making a commitment. So you keep both threads alive.
+
+41
+00:04:02,920 --> 00:04:08,760
+And then there's a beautiful synergy that can happen too, and certainly happened with me that
+
+42
+00:04:09,560 --> 00:04:14,920
+you realize, oh, wait, I don't have to make this decision. It actually is good to keep both threads
+
+43
+00:04:14,920 --> 00:04:21,560
+alive in my work and my life. And that's what happened. But it's a pretty special thing we have
+
+44
+00:04:21,560 --> 00:04:27,320
+in the United States. There are efforts along these lines in Europe and other countries,
+
+45
+00:04:27,320 --> 00:04:33,000
+but it's not nearly as institutionalized as it is here. It's a really special thing.
+
+46
+00:04:33,880 --> 00:04:39,000
+Well, it really is. And again, I keep saying this, but I feel like there were maybe what,
+
+47
+00:04:39,000 --> 00:04:45,480
+six or eight MSTPs per class. And I always felt like you guys had the most pressure on you,
+
+48
+00:04:45,480 --> 00:04:50,520
+right? There was this expectation from both the clinical side that you would go on to be great
+
+49
+00:04:50,600 --> 00:04:55,320
+doctors, but then you were also, especially at places like Stanford, where you had the opportunity
+
+50
+00:04:55,320 --> 00:05:02,120
+to do your PhDs with Nobel laureates, would be Nobel laureates, exceptional scientists, that you
+
+51
+00:05:02,120 --> 00:05:09,000
+would also basically be leading the charge scientifically. And for what it's worth, all of
+
+52
+00:05:09,000 --> 00:05:13,800
+my friends in the MSTP program, I think you're the only one that ended up doing clinical training as
+
+53
+00:05:13,800 --> 00:05:20,600
+well. I think most of them didn't end up doing residencies. They either went purely into academic
+
+54
+00:05:20,600 --> 00:05:26,760
+research tracks or actually went into industry. But before we get into the fact that you also
+
+55
+00:05:26,760 --> 00:05:31,240
+did clinical training, let's talk a little bit about that transition. You came into medical school
+
+56
+00:05:31,240 --> 00:05:36,200
+pretty hell bent on neurosurgery. Yeah. That was the goal because, you know, again, how do you,
+
+57
+00:05:36,200 --> 00:05:41,880
+how do you get access to the, to the human brain and who among the different clinical specialties
+
+58
+00:05:41,880 --> 00:05:51,560
+has that access? Who can, who can, would most directly interact, study? And it seemed to me
+
+59
+00:05:51,560 --> 00:05:58,440
+the neurosurgeons had it all. And if one were to build an interface with the brain, if one wanted
+
+60
+00:05:58,440 --> 00:06:04,520
+to both communicate with a person as they were expressing feelings and emotions and to understand
+
+61
+00:06:04,520 --> 00:06:10,520
+at the level of cells what was going on, who could do that? But a neurosurgeon was my, was my
+
+62
+00:06:10,520 --> 00:06:17,000
+reasoning. And, you know, and I, the neurosurgeons that my, that my colleagues and friends that are
+
+63
+00:06:17,000 --> 00:06:23,000
+amazing people, you know, brilliant. And, and I, I saw no reason not to, to pursue that. And so that
+
+64
+00:06:23,000 --> 00:06:29,880
+was the first rotation that I, I selected in those second two years of medical school, even before
+
+65
+00:06:29,880 --> 00:06:35,000
+surgery, I did neurosurgery. And so, which was kind of interesting, just, just coming in there with,
+
+66
+00:06:35,240 --> 00:06:39,800
+with no general surgical training as well. That's how, how certain I was.
+
+67
+00:06:39,800 --> 00:06:47,320
+Yeah. It's funny. Well, I had a similar experience whereas the thing I absolutely positively thought
+
+68
+00:06:47,320 --> 00:06:52,840
+I was going to do, I picked as my first rotation. In my case, I had less of a pleasant experience
+
+69
+00:06:52,840 --> 00:06:56,600
+than you. I think you had a pleasant experience on neurosurgery. It wasn't that in any way you
+
+70
+00:06:56,600 --> 00:07:01,640
+didn't like it, but what was your first? Well, I, I planned to do pediatric oncology. So I,
+
+71
+00:07:01,640 --> 00:07:06,840
+I went out of the gates with two months of pediatrics, which, which actually I didn't enjoy
+
+72
+00:07:07,800 --> 00:07:12,360
+largely because I just didn't feel like I didn't fit in. I think so much of your medical school
+
+73
+00:07:12,360 --> 00:07:16,520
+experience in terms of your clinical rotations is a function of how well do you fit in with the
+
+74
+00:07:16,520 --> 00:07:23,000
+residents of that specialty. And I didn't feel like I fit in with the pediatricians. They didn't
+
+75
+00:07:23,000 --> 00:07:29,080
+laugh at my jokes. They thought I was probably a little too obnoxious. I probably spent too
+
+76
+00:07:29,080 --> 00:07:34,680
+much time imitating Dr. Evil and Fat Bastard, pretending to eat the babies, but it just,
+
+77
+00:07:34,680 --> 00:07:38,920
+the whole thing just didn't go well. It was a disaster. And then my next rotation was general
+
+78
+00:07:38,920 --> 00:07:45,560
+surgery where we connected. And even though I had no desire whatsoever to go into surgery,
+
+79
+00:07:45,560 --> 00:07:51,240
+that became a, a kind of overnight love and away we go. But so, so you're doing your neurosurgery
+
+80
+00:07:51,240 --> 00:07:56,120
+rotation, which again, yes, highly unusual that you would do that so early in your training. That's
+
+81
+00:07:56,200 --> 00:08:03,240
+usually something one does in the fourth year, not the third year. And I mean, I'll say this,
+
+82
+00:08:03,240 --> 00:08:09,320
+Carl, when I did general surgery at Hopkins, I did one month of neurosurgery as a rotation,
+
+83
+00:08:09,320 --> 00:08:13,800
+having never been interested in neurosurgery. So sort of saying, well, fine, I'll do this. I didn't
+
+84
+00:08:13,800 --> 00:08:20,120
+have a choice. I had to do this month of neurosurgery and I fell in love with it. I couldn't,
+
+85
+00:08:20,200 --> 00:08:23,480
+and in fact, I spoke to the program director at Hopkins and said,
+
+86
+00:08:24,840 --> 00:08:31,560
+would it be ridiculous for me to try to transfer into neurosurgery? That's how much I enjoyed it.
+
+87
+00:08:32,360 --> 00:08:36,840
+And it turned out that he said, I can absolutely get you in, but it won't be at Hopkins. Hopkins
+
+88
+00:08:36,840 --> 00:08:41,480
+is the most competitive neurosurgery program in the country. We only take three people.
+
+89
+00:08:41,480 --> 00:08:45,640
+It's already full. You're not going to get in here, but I can get you to another program. And I,
+
+90
+00:08:45,640 --> 00:08:49,960
+I actually contemplated it for about a month. So I can see the appeal of it. There was something
+
+91
+00:08:50,040 --> 00:08:56,680
+about cutting open the dura and operating on the brain. And it's a surprisingly simple organ in
+
+92
+00:08:56,680 --> 00:09:01,480
+that sense. Like at the gross level, it's surprisingly simple. Obviously, much of what
+
+93
+00:09:01,480 --> 00:09:05,880
+we're going to talk about today, Carl, is not at the gross level where it's anything but simple,
+
+94
+00:09:05,880 --> 00:09:11,640
+but what was your experience like? I mean, it was, yeah, at the one, at one level, it is an organ.
+
+95
+00:09:11,640 --> 00:09:17,720
+And, and it's, it would be unfair to say that all that neurosurgeons get to do is think about it as
+
+96
+00:09:17,720 --> 00:09:23,480
+an organ. They do have to think about that, the blood supply and, and, and the, whether the cells
+
+97
+00:09:23,480 --> 00:09:30,520
+are receiving enough oxygen and, and, and, and glucose. And they have to think about it in the,
+
+98
+00:09:30,520 --> 00:09:37,720
+in the context of the physicality of it, perhaps more than the, the, the mentation aspect of it.
+
+99
+00:09:37,720 --> 00:09:43,960
+And so, but they, they, they do get to think about high level concepts in that rotation. In that
+
+100
+00:09:43,960 --> 00:09:50,120
+month, there was a patient who had a little bit of a thalamic infarct as a result of the, the
+
+101
+00:09:50,120 --> 00:09:55,640
+surgery and a little bit of loss of tissue in the thalamus. And the patient had a neglect
+
+102
+00:09:55,640 --> 00:10:00,680
+syndrome, which I spent a lot of time working with the patient afterward, characterizing exactly
+
+103
+00:10:01,400 --> 00:10:05,960
+how this worked. You know, I asked the patient to draw a clock and the patient drew, you know,
+
+104
+00:10:05,960 --> 00:10:11,080
+just half of a clock. And it was an amazing, you know, classical thing, but amazing to see with
+
+105
+00:10:11,080 --> 00:10:15,880
+your own eyes as you're talking to another person and the person said, oh, the clock looks fine.
+
+106
+00:10:15,880 --> 00:10:22,360
+It's a, but it was a half a clock. And, and that certainly didn't diminish my interest in neurosurgery
+
+107
+00:10:22,360 --> 00:10:27,720
+at all. It was, you know, this was at the one level, you know, there were problems, which nearly
+
+108
+00:10:27,720 --> 00:10:33,080
+clearly needed to be better, you know, aspects of, of neurosurgery as with every clinical specialty
+
+109
+00:10:33,080 --> 00:10:38,600
+needed to improve, needed to reduce, you know, consequences like that. And yet at the same time,
+
+110
+00:10:38,600 --> 00:10:43,960
+it was incredibly interesting as well. I loved the operating room. I loved the suturing, although
+
+111
+00:10:43,960 --> 00:10:51,240
+I wasn't as good as you, I think. And I, I, but I was good enough. And it was particularly because
+
+112
+00:10:51,240 --> 00:10:58,680
+it was so early. I think the promise was there, it would have worked out. And it was, it still had
+
+113
+00:10:58,680 --> 00:11:03,800
+a magic about it. You know, when you, when the Dura is exposed, it's a, it's, yes, it's, it's an
+
+114
+00:11:03,800 --> 00:11:09,400
+organ, but it's a, there's a spirituality to that, to know that, that you're actually looking at the,
+
+115
+00:11:10,280 --> 00:11:17,880
+the storehouse of human beings, you know, thoughts and feelings and, and everything about them all,
+
+116
+00:11:17,880 --> 00:11:22,600
+all encapsulated in this collection of cells. It's, it's quite an amazing thing. And so I had no
+
+117
+00:11:23,400 --> 00:11:29,640
+negativity at all. I did note that neurosurgeons, they, they didn't get a lot of free time. There
+
+118
+00:11:29,640 --> 00:11:36,760
+was not a lot of, you know, philosophizing. And I noticed, you know, it's a seven year
+
+119
+00:11:36,760 --> 00:11:42,840
+progression. And I talked to all the neurosurgery residents and I noted a steady decline and
+
+120
+00:11:42,840 --> 00:11:50,120
+willingness to philosophize as their progression through the residency continued. You could almost
+
+121
+00:11:50,120 --> 00:11:56,920
+plot that, you know, literally on a, on a graph. And, and with all, you know, due credit to them,
+
+122
+00:11:57,160 --> 00:12:00,440
+it's the nature of the system they're in that they don't necessarily have all the time. They
+
+123
+00:12:00,440 --> 00:12:05,080
+would like to think deeply, although they certainly are very bright and thoughtful and
+
+124
+00:12:05,080 --> 00:12:10,440
+certainly could. And so I did note that I noted that, you know, here, here are people who maybe
+
+125
+00:12:11,960 --> 00:12:17,640
+don't have the freedom to do everything I would like. And that was in the back of my mind.
+
+126
+00:12:18,440 --> 00:12:23,480
+Yeah. I think back to the three people in my class. So at the entering class at Hopkins,
+
+127
+00:12:23,560 --> 00:12:27,960
+three of them were neurosurgery assigned. So they did the internship with us, but then they went
+
+128
+00:12:27,960 --> 00:12:35,800
+off and I mean, boy, they were, they were three ridiculously smart guys. Yeah. And you would think,
+
+129
+00:12:35,800 --> 00:12:39,240
+well, they're in neurosurgery. So how interested are they going to be in their year of general
+
+130
+00:12:39,240 --> 00:12:46,600
+surgery? But they were every bit the exceptional interns that, that the categoricals were the ones
+
+131
+00:12:46,600 --> 00:12:51,240
+who were going to go into general surgery. But one of the experiences that jumps out at me from my
+
+132
+00:12:51,240 --> 00:12:58,760
+month of general surgery at in my internship was an awake procedure we did on a patient. So under
+
+133
+00:12:58,760 --> 00:13:05,800
+local anesthetic, the brain was opened and the patient while wide awake was being probed in an
+
+134
+00:13:05,800 --> 00:13:10,680
+effort to determine certain symptoms and to see what part of the brain could be lesioned in order
+
+135
+00:13:10,680 --> 00:13:16,120
+to ameliorate these symptoms. And I think for anybody to see that in real life with their own
+
+136
+00:13:16,120 --> 00:13:22,040
+eyes even once is it's, it's really hard to believe what you're watching, right? First of all,
+
+137
+00:13:22,040 --> 00:13:27,240
+the brain is not the same sensory organ. The fact that you can be awake while a surgeon is probing
+
+138
+00:13:27,240 --> 00:13:33,880
+into your brain and firing an electrical impulse into one area or another to see how it changes
+
+139
+00:13:33,880 --> 00:13:40,040
+this part of your visual field or this part of your, I mean, that was, that was something that
+
+140
+00:13:40,040 --> 00:13:45,720
+was a magic that I don't think I could describe otherwise. Yeah. And, and that, I felt that very,
+
+141
+00:13:45,720 --> 00:13:50,680
+very strongly. And so there was, it was all systems go after that. They, you know, surprisingly,
+
+142
+00:13:51,240 --> 00:13:56,680
+the neurosurgeons at Stanford liked me okay after that too. I got very positive feedback from them.
+
+143
+00:13:56,680 --> 00:14:03,000
+And, and, and they said, Hey, you know, come back and do a sub-i sub-entrinship and we'd love to,
+
+144
+00:14:03,000 --> 00:14:10,200
+to get you down this path. So which, which was a, you know, that, that was a, that was a green light.
+
+145
+00:14:10,200 --> 00:14:15,640
+And I was, I was happy with that. It was, it was where I was headed. Of course, things changed
+
+146
+00:14:15,640 --> 00:14:21,240
+after that. Yeah. So the best laid plans, there was another mandatory, there's set of mandatory
+
+147
+00:14:21,240 --> 00:14:26,520
+rotations we have to do neurosurgery, not being one of them, but pediatrics, general surgery,
+
+148
+00:14:26,520 --> 00:14:34,440
+internal medicine being the OBGYN. And one of them is psychiatry, kind of this afterthought for,
+
+149
+00:14:34,440 --> 00:14:38,840
+you know, the medical student, right? Very few people want to go into psychiatry.
+
+150
+00:14:39,320 --> 00:14:47,320
+And yet amazingly, two of the smartest people in my med school class, you and Paul Conti end up
+
+151
+00:14:47,320 --> 00:14:54,440
+picking this field ultimately. Just amazing, right? So tell me about your, how did you go into your
+
+152
+00:14:54,440 --> 00:14:58,360
+psychiatry rotation? Were you looking forward to this or did you view it the way many of us did,
+
+153
+00:14:58,360 --> 00:15:05,640
+which was just get me through it. I had a get me through it, you know, attitude coming in. And again,
+
+154
+00:15:05,960 --> 00:15:13,000
+no disrespect to psychiatry, of course, you know, it's a, they have a hard challenge. Still,
+
+155
+00:15:13,000 --> 00:15:18,840
+we have this challenge that there's not a, a measurable really, you know, we have, we have
+
+156
+00:15:20,040 --> 00:15:26,840
+effectively, you know, questions we ask patients, it's all with words is how we work. And no biomarker.
+
+157
+00:15:27,640 --> 00:15:33,080
+No biomarker still. Yeah. I mean, there's efforts along those lines, looking at EEG, you know,
+
+158
+00:15:33,080 --> 00:15:39,240
+ratios of this to that and there's progress being made, but still clinically, you can't make
+
+159
+00:15:39,240 --> 00:15:45,240
+diagnoses based on measuring something about the brain and psychiatry. You can, you can notice that
+
+160
+00:15:45,240 --> 00:15:50,680
+there's something else going on, a neurological or medical problem, but you can't define someone's
+
+161
+00:15:50,680 --> 00:15:56,600
+psychiatric state with, with a, some biomarker. And that still amazing to this day, still true.
+
+162
+00:15:57,240 --> 00:16:01,960
+Yeah. So what, tell me about your psych rotation. Cause I remember we kind of had choices. I did an
+
+163
+00:16:01,960 --> 00:16:07,320
+entirely outpatient month, which I ended up finding quite enjoyable. That's the irony of
+
+164
+00:16:07,320 --> 00:16:11,240
+these things. You kind of, I did it as one of my last rotations prior to graduation, which meant
+
+165
+00:16:11,240 --> 00:16:15,560
+there was no chance, even if I'd liked it, I was too late for me to make that choice. I had already
+
+166
+00:16:15,560 --> 00:16:21,960
+matched, I think in general surgery, but it was an outpatient month. So relatively low acuity.
+
+167
+00:16:23,240 --> 00:16:26,760
+But, but interesting nevertheless, what, what was your month like?
+
+168
+00:16:27,720 --> 00:16:33,160
+So my mind was the opposite of that. It was, and this was probably a fortunate thing for me.
+
+169
+00:16:33,160 --> 00:16:40,200
+It was in the locked unit at the VA at the Veterans Administration Hospital. And this was a,
+
+170
+00:16:41,000 --> 00:16:46,920
+a unit where patients can't leave. And this is due to, you know, being a danger to themselves
+
+171
+00:16:46,920 --> 00:16:54,120
+or a danger to others or having a greater disability. And this, you know, these patients
+
+172
+00:16:54,120 --> 00:17:02,920
+were severely ill. And I walked into that. You know, I'd had typical experiences. Everybody,
+
+173
+00:17:03,560 --> 00:17:08,360
+you know, has friends or family who've had, you know, depression or anxiety. I'd had,
+
+174
+00:17:09,160 --> 00:17:16,520
+I'd seen substance abuse and intoxicated states and dementia. And I had a fairly, you know,
+
+175
+00:17:16,520 --> 00:17:21,880
+I thought decently broad understanding of what can go wrong on the, on the psychiatric side.
+
+176
+00:17:22,680 --> 00:17:29,880
+But I can tell you nothing, and you, you know this by now, but, but I can, I can tell your,
+
+177
+00:17:29,880 --> 00:17:37,960
+your viewers and listeners, there is nothing like what you can see when you walk into the,
+
+178
+00:17:37,960 --> 00:17:45,640
+the locked ward of a psychiatric hospital. There's a, there's the, there's a sort of a purity,
+
+179
+00:17:46,440 --> 00:17:53,000
+not in a good way, but there's a, because there's not confounding issues like intoxication and so
+
+180
+00:17:53,000 --> 00:17:59,720
+on, there's a, there's a consistency and a purity to the disorders. And so if you have someone with
+
+181
+00:18:00,360 --> 00:18:07,080
+acute schizophrenia or schizoaffective disorder, other things that might confound what's going on
+
+182
+00:18:07,080 --> 00:18:14,520
+have been removed. And there's this very strong, acute, straightforward expression of the symptoms.
+
+183
+00:18:14,520 --> 00:18:20,920
+That's just mind boggling to see if you haven't experienced it before. And, and that's, that was,
+
+184
+00:18:20,920 --> 00:18:27,640
+was my experience and it completely changed my course. There was a, even on the, you know, my
+
+185
+00:18:27,640 --> 00:18:35,720
+very first day, there was a, a patient with schizoaffective disorder, which is a very severe
+
+186
+00:18:35,720 --> 00:18:42,600
+combination of mood and psychotic symptoms that are all mixed up together. And this patient
+
+187
+00:18:42,600 --> 00:18:47,320
+accosted me in the, in the locked unit, started screaming at me and, and, but it was, it was not
+
+188
+00:18:49,000 --> 00:18:53,480
+necessarily sort of a street encounter that you might have in a, in a city. It was more,
+
+189
+00:18:55,000 --> 00:19:02,600
+it was more direct and personal and evocative of something going on in the, in the mind of the
+
+190
+00:19:02,600 --> 00:19:08,040
+patient that was clearly a source of immense suffering, of great disability. And yet at the
+
+191
+00:19:08,040 --> 00:19:14,200
+same time, it was, it was tantalizing because this was a human being who was physically intact,
+
+192
+00:19:14,200 --> 00:19:20,440
+but whose reality was so completely different from mine. We were two people with intact bodies and,
+
+193
+00:19:20,440 --> 00:19:26,200
+and, and brains who were, you know, next to each other. And we inhabited completely different
+
+194
+00:19:26,200 --> 00:19:33,800
+realities. And to experience that was a utterly transformative moment. And, and I both seen the,
+
+195
+00:19:33,800 --> 00:19:40,200
+the suffering and realizing I have no idea what's going on here, but it's incredibly
+
+196
+00:19:40,200 --> 00:19:45,240
+interesting too. How is this possible? How could this be happening to a human being? And,
+
+197
+00:19:45,960 --> 00:19:51,240
+and without that direct exposure, I don't know what would have happened, but having had it,
+
+198
+00:19:52,120 --> 00:19:58,440
+it changed my course. Which is interesting. I mean, many people when confronted with that would be
+
+199
+00:19:58,440 --> 00:20:05,560
+quite frightened, especially when you realize the limitations of the tools that you have,
+
+200
+00:20:05,560 --> 00:20:11,640
+right? So let's, let's consider another analogy, which is, you know, a patient that comes in with
+
+201
+00:20:11,640 --> 00:20:17,400
+a gunshot wound to the chest. That's an incredibly frightening experience. There's literally, you know,
+
+202
+00:20:17,400 --> 00:20:22,600
+a sucking chest wound, blood could be splaying around the room, vital signs are crashing,
+
+203
+00:20:22,600 --> 00:20:27,720
+the person's on the verge of death. But that can be exciting in a way because we actually have the
+
+204
+00:20:27,720 --> 00:20:31,800
+tools to do something, right? It might be completely draconian. We might be doing a
+
+205
+00:20:31,800 --> 00:20:36,840
+thoracotomy in the ER, cross clamping the aorta, but you run that patient to the OR and you know
+
+206
+00:20:36,840 --> 00:20:41,560
+how to fix them. You're experiencing something that I would argue is much more frightening,
+
+207
+00:20:42,200 --> 00:20:49,240
+but compounded by the fact that what do you do? I mean, you could temporarily give that person
+
+208
+00:20:49,240 --> 00:20:55,880
+howdall and, and sort of snow them, but that's not curing them. So was it, which of, was it more the,
+
+209
+00:20:56,600 --> 00:21:01,400
+we don't have the tools here. This is an unbelievable opportunity to learn or, or,
+
+210
+00:21:01,400 --> 00:21:05,640
+or, you know, how did that experience, which I think for many people could have been off-putting
+
+211
+00:21:05,640 --> 00:21:11,560
+do the exact opposite in you? I mean, I had, it's a, it's a great question because I, I,
+
+212
+00:21:11,560 --> 00:21:17,640
+and I would completely understand that the normal or typical reaction would be sort of an aversive
+
+213
+00:21:17,640 --> 00:21:24,680
+thing, you know, how this is, this is not something I want to spend my life doing in this,
+
+214
+00:21:24,680 --> 00:21:32,120
+in this setting. But I had a, I had a different reaction, which surprised me. And it was partly,
+
+215
+00:21:32,120 --> 00:21:37,000
+it was, it was really, there were two sides to it. One was exactly what you're saying.
+
+216
+00:21:37,960 --> 00:21:46,440
+The level of mystery here was actually for me, it was a positive rather than an aversive thing. And
+
+217
+00:21:46,440 --> 00:21:51,640
+maybe this was partly the, my scientific training, you know, at that point I'd completed my, my PhD
+
+218
+00:21:51,640 --> 00:21:58,760
+and, and, and I spent years trying to figure things out. And we all want to figure things out. That's
+
+219
+00:21:58,760 --> 00:22:04,360
+a natural human impulse. Not everybody necessarily spends years and years and years trying to figure
+
+220
+00:22:04,360 --> 00:22:09,240
+out the same thing. And that's, that's the kind of training we get in, in, in, in the PhD program.
+
+221
+00:22:10,600 --> 00:22:15,160
+And I saw that and I was like, okay, gotta figure this out. This is, this is clearly
+
+222
+00:22:16,120 --> 00:22:24,200
+a mystery that is something that it's a burden that humanity shares. It's a terrible burden that
+
+223
+00:22:24,200 --> 00:22:31,480
+this human being is suffering. But what's the solution? We've got to figure it out. We've got
+
+224
+00:22:31,480 --> 00:22:37,800
+to understand this. And, and it's a mystery that strikes to the heart of, of what it always intrigued
+
+225
+00:22:37,800 --> 00:22:43,560
+me, which is what is, what is an emotion physically? What is a feeling physically? How does the
+
+226
+00:22:43,640 --> 00:22:49,320
+collection of cells in our brains, and that's what it is. It's a collection of cells. How,
+
+227
+00:22:49,320 --> 00:22:54,920
+how is it possible that that creates a feeling and emotion? And I realized at that moment,
+
+228
+00:22:56,040 --> 00:23:03,320
+this is, this is actually, you know, why I came to medical school. This, and it all made sense in,
+
+229
+00:23:03,320 --> 00:23:08,520
+in one moment that, that hadn't before. And, and then, you know, of course, as a, as a,
+
+230
+00:23:08,600 --> 00:23:14,120
+as a physician, as you well know, we, our instinct is to help, is to heal and, and we want to do that.
+
+231
+00:23:14,120 --> 00:23:21,960
+But as you say, if we don't have the tools, what can we do? It's, it's a problem. And I wasn't
+
+232
+00:23:23,880 --> 00:23:29,480
+frustrated with the inability to do anything. And I would understand that reaction too.
+
+233
+00:23:31,000 --> 00:23:36,200
+And the fact is we, we could do a little bit though. So it wasn't quite nothing. And there
+
+234
+00:23:36,200 --> 00:23:42,520
+are medications back then and still that help somewhat. They don't come with understanding.
+
+235
+00:23:42,520 --> 00:23:49,720
+They don't help us explain to the patient or the family or to ourselves what's really going on,
+
+236
+00:23:49,720 --> 00:23:55,560
+but they do help a little bit. And so I was, I knew that I could do something, not much,
+
+237
+00:23:55,560 --> 00:24:00,200
+but a little bit. And as time went on, hopefully, and as the science progressed,
+
+238
+00:24:00,200 --> 00:24:08,200
+maybe we could do more. And so that, it fit together in a, in a moment. And I didn't have
+
+239
+00:24:08,200 --> 00:24:15,800
+another thought for neurosurgery after that, although it was, it was a hard process, you know,
+
+240
+00:24:15,800 --> 00:24:26,680
+to reshape what my trajectory was going to be. I had one set of plans. My friends and family had a
+
+241
+00:24:26,680 --> 00:24:32,600
+set of expectations. I can tell you, I think my, my father was pretty disappointed when I told him
+
+242
+00:24:32,600 --> 00:24:37,320
+on the phone that I was going to do psychiatry. I could hear it in his voice. It was, it was almost,
+
+243
+00:24:38,520 --> 00:24:44,600
+yeah, it was a quite a, and, you know, again, he, he came around in the end too. And, and I think
+
+244
+00:24:44,600 --> 00:24:50,760
+he's, he's happy now, but at the time I could, I could sense that this was not what he'd hoped
+
+245
+00:24:50,760 --> 00:24:58,440
+for me. So yeah, it was, it was an adjustment. It was a, a remapping, but it was a very compelling
+
+246
+00:24:58,440 --> 00:25:05,800
+experience that, that the process of medical training and the required psychiatry rotation
+
+247
+00:25:05,800 --> 00:25:11,640
+made possible. So Carl, you, you now make this decision to completely veer into this nearly
+
+248
+00:25:11,640 --> 00:25:17,000
+orthogonal track. I mean, psychiatry and neurosurgery, of course, have one thing in common, which is the,
+
+249
+00:25:17,000 --> 00:25:21,320
+the organ of interest is the brain, but at that point they basically, you know, differ.
+
+250
+00:25:23,400 --> 00:25:31,640
+How did you decide you were going to both pursue the clinical training, the residency for psychiatry,
+
+251
+00:25:32,200 --> 00:25:38,440
+but also do whatever was necessary to make sure that you could ultimately be running a lab? Because
+
+252
+00:25:38,440 --> 00:25:45,240
+I, I think throughout this period, you never lost sight unless I'm misremembering of the desire to
+
+253
+00:25:45,240 --> 00:25:52,760
+be a physician scientist and not just a physician. So, you know, residency, especially 20 years ago
+
+254
+00:25:52,760 --> 00:25:56,680
+when we did our residencies, they didn't have 80 hour work week requirements and things like that.
+
+255
+00:25:56,680 --> 00:26:01,480
+So residencies were quite demanding. Was it a little hard for you to say, Hey, I'm going to
+
+256
+00:26:01,480 --> 00:26:07,240
+actually have to put my research on hold for a little while? It was, it was hard. And this is,
+
+257
+00:26:08,680 --> 00:26:15,080
+there are a lot of challenges that people in this realm face because things move so quickly.
+
+258
+00:26:15,800 --> 00:26:24,200
+In the research realm that if you step aside for even a year, forget about four years, you know,
+
+259
+00:26:24,200 --> 00:26:30,680
+the world you reenter is, is so different and it's very hard to catch up. And this is, you know,
+
+260
+00:26:30,680 --> 00:26:36,200
+that's to some extent an old problem because that's been faced by everybody who planned
+
+261
+00:26:36,200 --> 00:26:45,000
+to do a residency. But it's, it's not negligible because it's an old problem. It's that issue,
+
+262
+00:26:45,080 --> 00:26:51,320
+exactly, that ends up driving people to make this hard choice that you mentioned earlier and saying,
+
+263
+00:26:51,320 --> 00:26:56,040
+you know, in the end, I'm going to have to do one or the other. If I do the residency,
+
+264
+00:26:57,080 --> 00:27:02,680
+I'll be a, I'll be a doctor. I'll be a good doctor, maybe a great doctor. I'll be,
+
+265
+00:27:02,680 --> 00:27:07,560
+I'll be informed by all my scientific training. Maybe I'll read papers better. Maybe I'll be more,
+
+266
+00:27:08,360 --> 00:27:13,720
+you know, amenable to new ideas, new treatments as a result of that. But ultimately I'll be a
+
+267
+00:27:13,720 --> 00:27:19,960
+physician or on the other side saying, you know, I'm not going to do the residency. I'm not going to
+
+268
+00:27:21,240 --> 00:27:26,680
+drop off this, this fast moving train. I'm at this moment, I've just finished my PhD. I'm a
+
+269
+00:27:26,680 --> 00:27:33,880
+world expert in this. I can do things that nobody else can do. Why lose that momentum? Why not
+
+270
+00:27:34,840 --> 00:27:40,920
+speed up, add the next tool in the tool belt, launch yourself and make great discoveries. And
+
+271
+00:27:40,920 --> 00:27:49,160
+that is very, very tempting. I had, you know, very clear opportunities to do that. And so that's the
+
+272
+00:27:49,160 --> 00:27:57,240
+hard choice that the MD PhD faces at that moment. Now efforts are made to ameliorate that. So
+
+273
+00:27:57,240 --> 00:28:03,800
+residencies, you know, again, this was the time still where the residencies were extremely
+
+274
+00:28:03,800 --> 00:28:09,960
+difficult. And I had some, for me, this was compounded by some personal challenges. I was
+
+275
+00:28:09,960 --> 00:28:15,320
+effectively a single dad at the time. And so I had to also think about this other factor,
+
+276
+00:28:16,040 --> 00:28:21,960
+very important. Now I've got to think about residency. I've got to think about lab. I've
+
+277
+00:28:21,960 --> 00:28:31,400
+got to think about family. And it was very, very challenging. And yet there are these research track
+
+278
+00:28:31,400 --> 00:28:39,640
+residencies and they help a little bit. So there are, and Stanford and other, you know, programs,
+
+279
+00:28:39,640 --> 00:28:45,560
+both in psychiatry and in other specialties, they have efforts to help people keep their
+
+280
+00:28:45,560 --> 00:28:52,120
+scientific, you know, mind alive during residency. And it's not great, but it's a little bit, a little
+
+281
+00:28:52,120 --> 00:28:57,720
+bit of protected time here and there. Never quite enough to get momentum, but at least to keep a
+
+282
+00:28:57,720 --> 00:29:03,000
+foot in the lab and try to stay connected. And so I did that. It was a research track,
+
+283
+00:29:03,080 --> 00:29:11,320
+psychiatry residency. And I stayed at Stanford and a big factor in that was that literally at the
+
+284
+00:29:11,320 --> 00:29:20,200
+same time, and I was very fortunate in this regard, a guy named Rob Malenka, who was a psychiatrist and
+
+285
+00:29:20,200 --> 00:29:28,280
+a great neuroscientist, was at that moment coming from UCSF to Stanford. He had come and was setting
+
+286
+00:29:28,280 --> 00:29:34,600
+up his lab at Stanford. And I knew, here's somebody, a psychiatrist, but also a neuroscientist.
+
+287
+00:29:35,560 --> 00:29:41,560
+He'll understand, you know, what's going on in my residency that I'm, you know, I'm taking call,
+
+288
+00:29:41,560 --> 00:29:48,520
+I'm up all night. He'll know, he'll understand why I'm never in the lab during expected hours,
+
+289
+00:29:48,520 --> 00:29:54,840
+why I'm never at lab meeting. And that made it work out. And I worked nights and weekends.
+
+290
+00:29:55,800 --> 00:30:02,280
+I maybe came to one of his lab meetings over four years and I effectively did a combined
+
+291
+00:30:02,280 --> 00:30:06,360
+postdoctoral fellowship and psychiatry residency at the same time at Stanford.
+
+292
+00:30:06,360 --> 00:30:10,600
+Some funny stories. I, you know, because Stanford's very compact, as you know,
+
+293
+00:30:11,640 --> 00:30:18,280
+I could literally take call from, you know, from the lab. I'd be patch clamping. I'd be up at the
+
+294
+00:30:18,280 --> 00:30:23,160
+rig, you know, listening in, making measurements on currents flowing across a single cell.
+
+295
+00:30:23,240 --> 00:30:28,840
+And I'd get paged, go walk over to the ER, admit a patient, come back, you know, patch
+
+296
+00:30:28,840 --> 00:30:35,000
+clamp the next cell. And it was a pretty special moment when that happened that felt like the
+
+297
+00:30:35,000 --> 00:30:39,240
+different parts of my life were, like, they could work together. They could be compatible. And that,
+
+298
+00:30:39,880 --> 00:30:44,440
+with all, you know, so many people have such a hard time understandably making that work,
+
+299
+00:30:44,440 --> 00:30:49,960
+making the pieces fit together. And I feel fortunate that I was able to make that work.
+
+300
+00:30:49,960 --> 00:30:52,280
+Now, what year was your son born? Ninety-eight?
+
+301
+00:30:54,120 --> 00:30:56,840
+He was actually born in 96. So he is 25.
+
+302
+00:30:56,840 --> 00:31:01,560
+So you're four, he is five years old, basically, when you're in the midst of this.
+
+303
+00:31:02,280 --> 00:31:02,840
+Yeah, that's right.
+
+304
+00:31:02,840 --> 00:31:05,160
+So how did you manage that?
+
+305
+00:31:05,960 --> 00:31:14,520
+You know, it was these, this is actually something that I touch on. I know we may talk about this,
+
+306
+00:31:14,520 --> 00:31:18,840
+the book I wrote projections later, but it was a turned out to be a theme early in my,
+
+307
+00:31:18,840 --> 00:31:26,600
+in my life, how my experiences with my son, how they related to all the stressors and the
+
+308
+00:31:26,600 --> 00:31:32,200
+patient experiences that I was having. And in a way, psychologically, although it was difficult
+
+309
+00:31:32,200 --> 00:31:42,360
+to make everything work, practically, it also, it helped me a little bit to have a
+
+310
+00:31:45,480 --> 00:31:51,720
+something that mattered more than anything else in the lab or in the clinic, there was something
+
+311
+00:31:51,720 --> 00:32:01,000
+that sort of was on a different scale. And it helped me not get too stressed about things
+
+312
+00:32:01,000 --> 00:32:07,720
+happening in the lab or the clinic. And that's a common feeling and people with kids, for me,
+
+313
+00:32:07,720 --> 00:32:14,120
+it was, it was extremely important at that time. You know, and it was, there were patchwork solutions
+
+314
+00:32:14,840 --> 00:32:19,320
+of childcare and so on that made things work, but it was ultimately, I think it was helpful for me
+
+315
+00:32:19,320 --> 00:32:26,360
+in getting through those times. And by the way, he is now an MSTP student at Baylor. So he's doing
+
+316
+00:32:26,360 --> 00:32:33,880
+his MD, PhD in Texas. And he's now second year. He's a cool kid. He's good at guitar much better
+
+317
+00:32:33,880 --> 00:32:36,520
+than I am. And he likes computer science.
+
+318
+00:32:38,360 --> 00:32:42,280
+Yeah, he's got some big shoes to fill, but I, and I'm positive that none of that pressure comes
+
+319
+00:32:42,280 --> 00:32:52,920
+from you. So, um, so I remember when you were finishing your residency, um, I just remember
+
+320
+00:32:52,920 --> 00:33:00,520
+because of our common friends, like how kind of exciting it was when you were now setting up your
+
+321
+00:33:00,520 --> 00:33:06,040
+own labs. So we're talking about what? Oh, five, Oh six ish. Yeah. The lab started to get set up in
+
+322
+00:33:06,040 --> 00:33:11,640
+oh four. Okay. Um, and then it really hit full steam. Yeah. Between oh six and oh nine,
+
+323
+00:33:11,640 --> 00:33:17,240
+but oh four was when we were setting it up. So as you're embarking on this,
+
+324
+00:33:18,840 --> 00:33:23,880
+what is it that you experienced during that, that transformation of your, your clinical training,
+
+325
+00:33:23,880 --> 00:33:29,480
+your residency, how did that shape the problems you were interested in solving?
+
+326
+00:33:29,480 --> 00:33:38,760
+Well, I, you know, having just completed my psychiatry residency, I had seen, I had a pretty
+
+327
+00:33:38,760 --> 00:33:44,120
+deep understanding of where things were clinically. Uh, I knew what, not just the medications we had,
+
+328
+00:33:44,840 --> 00:33:49,240
+but also the brain stimulation treatments, the interventions that we had available at the time.
+
+329
+00:33:50,280 --> 00:33:56,200
+I did, uh, you know, I did electroconvulsive therapy, which, uh, is, you know, it's a,
+
+330
+00:33:56,280 --> 00:34:01,320
+it's very effective for treatment resistant depression. Uh, it's the treatment of choice
+
+331
+00:34:01,320 --> 00:34:07,480
+for many people. It's incredibly effective. It's stunning to see it's, it has some problems. Uh,
+
+332
+00:34:07,480 --> 00:34:10,840
+you don't want to give it too much and there, there can be side effects, but it's incredibly
+
+333
+00:34:10,840 --> 00:34:16,680
+effective. What's the durability of it? Uh, it depends of some patients need, uh, what we call,
+
+334
+00:34:16,680 --> 00:34:21,800
+you know, uh, maintenance, uh, electroconvulsive therapy. So after three months or so, uh, the
+
+335
+00:34:21,800 --> 00:34:28,600
+effect will be diminished and they'll, they'll, uh, require to stay alive effectively patients
+
+336
+00:34:28,600 --> 00:34:34,520
+who are, for example, just acutely suicidal. Uh, and they'll need every three months or so,
+
+337
+00:34:34,520 --> 00:34:39,000
+what we call maintenance, uh, or continuation, uh, electroconvulsive therapy or ECT.
+
+338
+00:34:39,640 --> 00:34:45,720
+So it's not a, it's not a permanent, uh, fix, uh, like so much of medicine and so much of
+
+339
+00:34:45,720 --> 00:34:51,960
+psychiatry, you know, uh, it's something that moves things back into a healthy range for a time.
+
+340
+00:34:53,400 --> 00:34:57,160
+But we didn't know how it was working. It definitely helped, but, but it was for a
+
+341
+00:34:57,160 --> 00:35:02,600
+scientist, it was very, it was satisfying to help the patient to, to take somebody who
+
+342
+00:35:03,320 --> 00:35:09,880
+was, you know, in just horrific psychological distress, uh, and, and put them into a state
+
+343
+00:35:09,880 --> 00:35:14,280
+where they could go back and do their work and, and, and, and live with their friends and family
+
+344
+00:35:14,360 --> 00:35:19,400
+and be happy for some time. That was great, but we had no idea what, and still don't, uh,
+
+345
+00:35:19,400 --> 00:35:24,520
+what was going on there. Why is this, uh, seizure that we give the patient? And it's,
+
+346
+00:35:24,520 --> 00:35:29,720
+it's done in a pretty refined way these days. The patient's body is paralyzed, so there's no physical,
+
+347
+00:35:30,360 --> 00:35:35,080
+you know, seizure. It's, it's all happening in the, in the brain and it's, it's a safe procedure,
+
+348
+00:35:35,080 --> 00:35:41,080
+but still it's, it's not specific, right? Where you're causing a general pattern of activity
+
+349
+00:35:41,080 --> 00:35:46,440
+through the brain of the patient and, and this astonishing psychiatric effect is created.
+
+350
+00:35:47,480 --> 00:35:56,840
+I, I, I, clearly it was a mystery, still is, and I was unsatisfied by that. There were early efforts
+
+351
+00:35:56,840 --> 00:36:01,320
+at the time of, of other brain stimulation treatments. There was a vagus nerve stimulation.
+
+352
+00:36:01,320 --> 00:36:06,200
+There's a, as you know, there are the nerves that run, uh, the 10th cranial nerve that comes from,
+
+353
+00:36:06,600 --> 00:36:12,520
+the brainstem and goes down to innervate the heart and the abdomen also sends fibers back to the
+
+354
+00:36:12,520 --> 00:36:17,160
+brain and you can put a little cuff around the nerve and, and stimulate the brain through the
+
+355
+00:36:17,160 --> 00:36:21,480
+neck, which is kind of interesting, a little, little highway to the brain. But the effects,
+
+356
+00:36:22,040 --> 00:36:27,000
+although it became approved, FDA approved for depression, the effects were very small on the
+
+357
+00:36:27,000 --> 00:36:32,120
+population level, very inconsistent. Likewise, we had transcranial magnetic stimulation, which was
+
+358
+00:36:32,120 --> 00:36:38,360
+in its early days then as well, which was a, uh, you know, it's a, it's a treatment where you can
+
+359
+00:36:38,360 --> 00:36:44,280
+noninvasively stimulate a tiny patch of the brain by putting a rapidly changing magnetic field, uh,
+
+360
+00:36:44,280 --> 00:36:50,680
+near the, the, the, the scalp of the patient. Effects small on the population level did get FDA
+
+361
+00:36:50,680 --> 00:36:55,160
+approved, but still not fully understood. So all these, all these treatments, and of course,
+
+362
+00:36:55,160 --> 00:36:59,240
+none of the medications to this day do we fully understand their mechanisms of action. So there
+
+363
+00:36:59,240 --> 00:37:06,280
+was a lot of mystery. And so I came from my psychiatry residency fully aware that, that
+
+364
+00:37:06,280 --> 00:37:11,480
+essentially the entire field was unmoored from scientific understanding, no fault of the
+
+365
+00:37:11,480 --> 00:37:15,800
+practitioners, no discredit to them. It was just not known and we didn't have the tools and
+
+366
+00:37:15,800 --> 00:37:21,160
+techniques. We had no specific way of causing something to happen to a particular kind of cell.
+
+367
+00:37:21,960 --> 00:37:27,400
+All these treatments are non-specific, a seizure all through the brain, uh, you know, a stimulation
+
+368
+00:37:27,400 --> 00:37:36,440
+of a nerve wherever that nerve may go known, but not specifically related to any psychiatric, uh,
+
+369
+00:37:36,440 --> 00:37:41,480
+symptom, uh, transcranial magnetic stimulation. Yeah. You can stimulate a little patch of, of the
+
+370
+00:37:41,480 --> 00:37:47,480
+brain, but we don't know where depression comes from, where anxiety comes from. Is it this patch
+
+371
+00:37:47,480 --> 00:37:53,080
+or that patch or that patch? No deep level of understanding, uh, was present. And, and of course,
+
+372
+00:37:53,080 --> 00:37:58,680
+the medications act all through the brain without cell type specificity. So that was the,
+
+373
+00:37:58,680 --> 00:38:02,280
+that was the setting. And then, you know, to answer your question, then as you know,
+
+374
+00:38:03,480 --> 00:38:09,400
+clearly, uh, basic science, you know, how could you build an approach to give you some, some kind
+
+375
+00:38:09,400 --> 00:38:16,760
+of, uh, precise causality. And that was, that was the context. Well, I want to dive really deep into
+
+376
+00:38:16,760 --> 00:38:24,760
+this because it is essentially, um, the skyscraper of your life. I mean, look, if you, if you retired
+
+377
+00:38:24,760 --> 00:38:30,120
+tomorrow for medicine and science, Carl, if you tomorrow decided you were going to go surfing for
+
+378
+00:38:30,120 --> 00:38:36,360
+the rest of your life, you would have already accomplished more than that of a hundred scientists.
+
+379
+00:38:36,360 --> 00:38:42,280
+Um, so I want to, I want to come to this in detail, but before I do, I want the viewers and the
+
+380
+00:38:42,280 --> 00:38:47,400
+listeners to get a little bit more of an understanding of the brain structure, because
+
+381
+00:38:47,400 --> 00:38:51,560
+we're going to be talking about structures of the brain. We're going to be talking about the cells
+
+382
+00:38:51,560 --> 00:38:58,520
+of the brain. And, um, I wonder what the easiest way to do this is maybe we can start about the
+
+383
+00:38:58,520 --> 00:39:04,840
+brain and it's three layers and what, you know, we talk about them through our evolution maybe and how
+
+384
+00:39:05,480 --> 00:39:10,360
+each one added to the next, but, but each one has a subset of functions. I'll really defer to you,
+
+385
+00:39:10,360 --> 00:39:15,960
+Carl, this is your domain and not mine, but, um, maybe we just take a step back and really give
+
+386
+00:39:15,960 --> 00:39:22,040
+people a sense of, of some neuro anatomy, some neuro physiology, what neurons are, what axons
+
+387
+00:39:22,040 --> 00:39:27,320
+are, how chemicals get transmitted. I think investing some time in this now will really
+
+388
+00:39:27,320 --> 00:39:33,640
+enable people to understand the depth and breadth of your literally world changing discovery.
+
+389
+00:39:34,360 --> 00:39:39,560
+Well, well, thank you for the, first of all, the gracious, uh, comments. I, we have a long way to
+
+390
+00:39:39,560 --> 00:39:44,440
+go though, and I'm not, uh, and maybe it's many lifetimes, uh, ahead there, there are very deep
+
+391
+00:39:44,440 --> 00:39:50,360
+mysteries in the, in the brain that we have much, much work to do exciting fun work, but much work
+
+392
+00:39:50,360 --> 00:39:56,200
+to do to get to where we want to be. But, uh, it is, it is a, an exciting moment and we've, and,
+
+393
+00:39:56,200 --> 00:40:01,240
+and what we've been able to accomplish has, has been, uh, thrilling. Um, and, and it's a testament
+
+394
+00:40:01,240 --> 00:40:07,160
+to all the amazing people that, that we've been able to, to get together to work on this. And,
+
+395
+00:40:07,160 --> 00:40:14,360
+and indeed the brain is, is something, it's very compelling. Uh, it's so interesting and mysterious.
+
+396
+00:40:14,360 --> 00:40:20,280
+The cells in the brain are more complex structurally than any other cell. They're
+
+397
+00:40:21,160 --> 00:40:26,200
+in our brains, there are approximately 90 billion neurons. That's what it'd be.
+
+398
+00:40:27,240 --> 00:40:34,840
+Each one of them is, it's a self-contained unit. It's covered by a membrane, but it can generate
+
+399
+00:40:34,840 --> 00:40:39,960
+electricity. It's got little channels, little pores in its surface that can generate little
+
+400
+00:40:39,960 --> 00:40:46,120
+electrical impulses. And that's how you can have a single neuron that projects from one part of the
+
+401
+00:40:46,120 --> 00:40:52,280
+brain to another or from one part of the brain to the spinal cord and, or it can send connections
+
+402
+00:40:52,280 --> 00:40:59,080
+through its axon, its outgoing wire, uh, effectively to many parts of the brain. And it sends that
+
+403
+00:40:59,080 --> 00:41:06,360
+information in the form of electricity down its axon, down its outgoing, uh, connection. And the
+
+404
+00:41:06,360 --> 00:41:11,480
+connections are received by the downstream cells through little structures called dendrites. And
+
+405
+00:41:12,200 --> 00:41:18,200
+the interface from one cell to the next is called a synapse. And in most cases, information gets
+
+406
+00:41:18,200 --> 00:41:23,400
+across that little gap from one cell to another in the form of chemicals. So the, the electricity
+
+407
+00:41:23,400 --> 00:41:29,000
+triggers release of a chemical. The chemical drifts across this tiny little gap that's some
+
+408
+00:41:29,000 --> 00:41:35,480
+tens of nanometers, and then it acts on receptors in the other side, the post-synaptic side, and,
+
+409
+00:41:35,480 --> 00:41:40,520
+and that creates a new burst of electricity in that downstream cell. So that's the electrochemical
+
+410
+00:41:41,160 --> 00:41:45,400
+process that, of information flow. Now you've got this going on and 90 billion neurons at the same
+
+411
+00:41:45,400 --> 00:41:52,600
+time. They're all, maybe they form 10,000 or even a hundred thousand synapses each. Their wiring is
+
+412
+00:41:52,600 --> 00:41:59,960
+incredibly complex. Uh, um, there's some structure to it. There are collections of axons that may
+
+413
+00:41:59,960 --> 00:42:05,800
+travel together, but then they also bifurcate and separate in incredibly complex ways. And all of
+
+414
+00:42:05,800 --> 00:42:11,000
+that's in the brain. And then there's some structure to it, as you alluded to. Uh, and one
+
+415
+00:42:11,000 --> 00:42:16,440
+way we can think about this is, is indeed evolutionarily. We're vertebrates, okay? That means
+
+416
+00:42:16,440 --> 00:42:21,000
+we have a backbone and we've got a certain organization to our brain. In my lab, we have
+
+417
+00:42:21,000 --> 00:42:27,000
+fish and we have mice and we have rats. And then I also do clinical work. These are all vertebrates
+
+418
+00:42:27,000 --> 00:42:35,160
+from fish to us. We all have the basic vertebrate body plan and brain plan. And, but evolution has
+
+419
+00:42:35,160 --> 00:42:39,960
+given us, obviously we have much bigger brains than, than fish do. And, uh, a couple of things
+
+420
+00:42:39,960 --> 00:42:45,000
+have happened over the course of, of, you know, hundreds of millions of years, is that first of
+
+421
+00:42:45,000 --> 00:42:49,560
+all, we've scaled everything up. We've taken the same structures. We've added many more cells
+
+422
+00:42:49,560 --> 00:42:55,240
+to them. Uh, and that lets us do more complex things. And we've also added new things on top.
+
+423
+00:42:55,240 --> 00:43:01,240
+And so in the surface of the brain, there's what we call the cortex, uh, which means literally the,
+
+424
+00:43:01,240 --> 00:43:07,560
+the surface of, of the, of the brain. It's like the, the rind of a melon. Except in human beings,
+
+425
+00:43:07,560 --> 00:43:13,240
+it's, it's quite thin. It's just a few millimeters, uh, thick. And within that few millimeters,
+
+426
+00:43:13,240 --> 00:43:20,200
+there are six separate layers within that cortex or rind. Uh, and those are layers of cells. So
+
+427
+00:43:20,200 --> 00:43:26,920
+there are six layers of cells in this sort of shawl or, or rind covering the brain. And then all the
+
+428
+00:43:26,920 --> 00:43:35,400
+wiring coming out from that cortex, uh, goes to deep structures. Uh, and our, our cortex is much
+
+429
+00:43:35,400 --> 00:43:39,640
+more advanced. The fish don't really have something like that, but they've got the deeper structures.
+
+430
+00:43:39,640 --> 00:43:49,080
+They've got the interchanges and the movement control and the, the, uh, uh, arousal systems
+
+431
+00:43:49,080 --> 00:43:54,200
+and the sleep systems and, and there are structures deep in the brain, like the hypothalamus that
+
+432
+00:43:54,200 --> 00:44:02,360
+govern all the primary needs of, of salt balance and, uh, avoiding danger and mating and sleeping,
+
+433
+00:44:03,800 --> 00:44:08,840
+thermoregulation. These deep structures are common to every vertebrate. We have a hypothalamus.
+
+434
+00:44:08,840 --> 00:44:14,040
+The fish has a hypothalamus. These deep structures are shared and ancestral among all vertebrates.
+
+435
+00:44:14,040 --> 00:44:18,680
+And so you've got this, you've got these deeper structures that are, that are conserved and
+
+436
+00:44:18,680 --> 00:44:25,160
+ancient. And you've got this, uh, in, in us, we've got this surface structure that is, uh, incredibly
+
+437
+00:44:25,160 --> 00:44:31,080
+elaborated in, in our lineage and, and, uh, is responsible for some of the most complex and, and,
+
+438
+00:44:31,080 --> 00:44:35,640
+and mysterious things we do. And, and, but the great thing is, and mice sort of sit somewhere in
+
+439
+00:44:35,640 --> 00:44:41,240
+between. They have the cortex, uh, that we have, and it's amazingly similar. It's got the same six
+
+440
+00:44:41,240 --> 00:44:45,560
+layers. It's got the same kinds of neurons that are connected in the same way. It's just much smaller,
+
+441
+00:44:46,280 --> 00:44:52,760
+than what we have. And so by looking at the fish and the mice and ourselves, uh, we can piece together
+
+442
+00:44:53,400 --> 00:45:00,600
+a lot by studying the cells and the connections that make things happen. And, and that's the
+
+443
+00:45:00,600 --> 00:45:07,080
+context that we come to as a neuroscientist. And what about this, this first layer, the brain stem,
+
+444
+00:45:07,080 --> 00:45:12,360
+this kind of most primordial layer that handles so many of these functions when we're not even
+
+445
+00:45:12,360 --> 00:45:18,200
+thinking about it, like, like breathing. I mean, what, how conserved is that across all of these
+
+446
+00:45:18,200 --> 00:45:25,400
+models? Yeah. The brainstem is, is highly, highly conserved the, you know, in the brainstem and in
+
+447
+00:45:25,480 --> 00:45:33,320
+the midbrain we have clusters of neurons, uh, like the dopamine neurons and the serotonin neurons
+
+448
+00:45:33,960 --> 00:45:41,720
+and the noradrenaline or norepinephrine neurons. They're all, uh, clustered there in the brainstem
+
+449
+00:45:41,720 --> 00:45:53,480
+in and around, uh, other cells that govern, uh, the movement of the, uh, muscles of the face and the
+
+450
+00:45:53,480 --> 00:45:58,840
+neck and that send information down like the vagus nerve that we talked about, send information
+
+451
+00:45:58,840 --> 00:46:04,440
+down to the rest of the body. These basic structures in the brainstem are, are highly conserved.
+
+452
+00:46:04,440 --> 00:46:08,680
+Fish and mice and human beings, uh, all have them. There's a little bit of different
+
+453
+00:46:08,680 --> 00:46:15,400
+shaping and arrangement, but it's basically the same logic. And are there neurons as the way you
+
+454
+00:46:15,400 --> 00:46:22,200
+describe it, it sounds like a neuron might have mostly just serotonin. So when that neuron fires
+
+455
+00:46:23,000 --> 00:46:27,080
+at the end of its synapse, serotonin is the only chemical that comes out. Is that, is that the case
+
+456
+00:46:27,080 --> 00:46:33,080
+for neurons that each one only can emit one neurochemical? So it's a largely binary signal
+
+457
+00:46:33,080 --> 00:46:40,040
+or are there any neurons that can secrete more than one neurotransmitter? A relatively recent
+
+458
+00:46:40,040 --> 00:46:45,240
+understanding has been that there are multiple neurotransmitters that can be released by the
+
+459
+00:46:45,240 --> 00:46:51,160
+same neuron. We still refer, for example, to the dopamine neurons as dopamine neurons because
+
+460
+00:46:51,240 --> 00:46:55,480
+that's what that's, that's what makes them special. That's what they can do that other neurons can't
+
+461
+00:46:55,480 --> 00:47:00,600
+do. But what we've discovered recently, what the field has discovered recently is that dopamine
+
+462
+00:47:00,600 --> 00:47:06,920
+neurons, some of them also release another neurotransmitter called glutamate, which is
+
+463
+00:47:06,920 --> 00:47:13,240
+an excitatory neurotransmitter. It stimulates the downstream cells. Other dopamine neurons can release
+
+464
+00:47:13,240 --> 00:47:17,960
+a different one called GABA, which is an inhibitory neurotransmitter. It shuts down
+
+465
+00:47:18,520 --> 00:47:23,240
+the cell that's receiving the signal. So there's actually a great deal of complexity and that's
+
+466
+00:47:23,240 --> 00:47:27,080
+not all. There are also other things that can be released at the same time, things we call
+
+467
+00:47:27,080 --> 00:47:33,640
+neuropeptides. And there's a lot of complexity on the other side of the synapse too. Different cells
+
+468
+00:47:33,640 --> 00:47:38,280
+have different receptors for the different chemicals that can do totally different things.
+
+469
+00:47:38,280 --> 00:47:44,920
+You can have a receptor for glutamate that makes excitation happen, or you can have another receptor
+
+470
+00:47:45,000 --> 00:47:51,880
+for glutamate that doesn't do that, but makes a longer pattern of modulation happen. That's not
+
+471
+00:47:51,880 --> 00:47:58,840
+even a direct excitation. So that's just a, just a flavor of the complexity. But broadly speaking,
+
+472
+00:47:58,840 --> 00:48:03,320
+you'll see us still refer to things like dopamine and serotonin neurons, because that's the first
+
+473
+00:48:03,320 --> 00:48:11,880
+level of complexity. So prior to the work that we're going to get into here, what tools existed
+
+474
+00:48:11,880 --> 00:48:20,280
+to really try to establish causality between the stimulation of one region of the brain
+
+475
+00:48:20,920 --> 00:48:31,000
+and some sort of response, be it a phenotype or an impulse, or I mean, was there ever any way to
+
+476
+00:48:31,000 --> 00:48:38,280
+imagine how one part of the hypothalamus was responsible for a type of thought or emotion? I
+
+477
+00:48:38,280 --> 00:48:45,080
+mean, how was that probed? Yeah, this was a big challenge that neuroscience faced, which is
+
+478
+00:48:46,360 --> 00:48:53,160
+finding out what actually matters for function. And what we did have, we had ways of listening in,
+
+479
+00:48:53,160 --> 00:49:01,240
+we had ways of putting in electrodes to listen, to pick up electrical patterns of activity. You
+
+480
+00:49:01,240 --> 00:49:06,680
+can put an electrode in the cortex or in the hypothalamus or in the brainstem, and you can
+
+481
+00:49:06,680 --> 00:49:11,880
+pick up the chatter of neurons as these little electrical impulses go by. And you could use the
+
+482
+00:49:11,880 --> 00:49:17,480
+same electrode, you could also stimulate, you could send current in through this wire effectively that
+
+483
+00:49:17,480 --> 00:49:25,480
+you that you've placed. And yeah, that has an effect. And so you can make things happen by
+
+484
+00:49:25,480 --> 00:49:31,000
+just sending current into the brain. And at some level, though, this is just a scaled down version
+
+485
+00:49:31,000 --> 00:49:36,440
+of the electroconvulsive therapy we talked about, which is also just current being put into the brain
+
+486
+00:49:36,440 --> 00:49:43,320
+causes things to happen. But there's no cell specificity, every single neuron in the brain is
+
+487
+00:49:43,320 --> 00:49:51,320
+electrical. And all parts of every neuron are electrical, not just the cell body itself that
+
+488
+00:49:51,320 --> 00:49:58,040
+has the DNA in it, but also every part of the axon, every part of the dendrite, all electrical. And so
+
+489
+00:49:58,040 --> 00:50:03,400
+if you send in current to a spot in the brain, even with a tiny electrode, you're affecting every
+
+490
+00:50:03,400 --> 00:50:09,800
+single cell near the electrode. And not just that, every little bit of wiring that happens to be going
+
+491
+00:50:10,520 --> 00:50:16,520
+through there. So there's no cell type specificity because every cell is electrical. And that's still
+
+492
+00:50:16,520 --> 00:50:22,520
+though, there's work you can do. And so you can you could stimulate a region of the brain and see
+
+493
+00:50:22,520 --> 00:50:29,480
+if that causes something to happen in the animal. And there was a great deal of really foundational
+
+494
+00:50:29,480 --> 00:50:33,960
+work in neuroscience going around and stimulating different parts of the brain. It was discovered
+
+495
+00:50:33,960 --> 00:50:40,200
+that if you put an electrode in the parts of the brain where dopamine neurons live and where the
+
+496
+00:50:40,200 --> 00:50:48,760
+axons come out, that rodents will really work hard for that. They like that, it seems. We can infer
+
+497
+00:50:48,760 --> 00:50:55,640
+that because they will press a lever thousands of times a day to get a burst of electricity to the
+
+498
+00:50:55,720 --> 00:51:02,760
+dopamine neurons. And so that little clues like that are built up over time. But then there was
+
+499
+00:51:02,760 --> 00:51:06,440
+always complexity as we dove deeper into it. We realized, wait, this is not just the dopamine
+
+500
+00:51:06,440 --> 00:51:11,160
+neurons. In this region of the brain, there are a lot of other cells and connections. So is it
+
+501
+00:51:11,160 --> 00:51:16,920
+really the dopamine neurons? It's this region, but what really are the cells? And so there was a lot of
+
+502
+00:51:17,960 --> 00:51:25,080
+uncertainty in the field as to which cells were actually doing what. And so we had that. But then
+
+503
+00:51:25,080 --> 00:51:32,520
+there was not a good way to turn things off also. And so in science, we like to add things and see
+
+504
+00:51:32,520 --> 00:51:38,040
+what happens. And that's testing whether something is sufficient to cause an effect. And we like
+
+505
+00:51:38,040 --> 00:51:44,280
+doing that. That tells you something. But then we also like to take away something of interest. And
+
+506
+00:51:44,280 --> 00:51:49,560
+we can see what is lost with that. And that's called, that's testing the necessity of something.
+
+507
+00:51:49,560 --> 00:51:55,960
+How much is that needed? And so we would we would have liked to turn off cells and say, okay,
+
+508
+00:51:55,960 --> 00:52:00,440
+now what's different in the animal and their behavior? And there was not a great way of doing
+
+509
+00:52:00,440 --> 00:52:06,360
+that. Crude ways, if you stimulate really hard with an electrode, you could effectively exhaust
+
+510
+00:52:06,360 --> 00:52:11,640
+the cells and make them not fire anymore. And that was sort of the state of the art,
+
+511
+00:52:11,640 --> 00:52:17,720
+both clinically and research wise, in trying to create a local inhibition. But again, not cell
+
+512
+00:52:17,720 --> 00:52:22,040
+type specific at all, because all the cells are electrical. And that's the kind of situation
+
+513
+00:52:22,040 --> 00:52:27,720
+situation that we found ourselves in. Not too different clinically or basic, you know,
+
+514
+00:52:27,720 --> 00:52:37,000
+no cell type specificity. So do you remember where you were, what you were doing the very first time
+
+515
+00:52:37,000 --> 00:52:45,880
+you learned what a channel opsin was? So this is an interesting thread that the there are these
+
+516
+00:52:46,520 --> 00:52:54,280
+plants that make and small plants, in fact, single celled plants that make channel
+
+517
+00:52:54,280 --> 00:53:01,720
+red opsins. These are single proteins that live in the that are placed in the in the surface
+
+518
+00:53:01,720 --> 00:53:08,760
+membrane of cells, but microbial cells, not not in our cells in in algae, single celled algae.
+
+519
+00:53:09,720 --> 00:53:17,160
+And related molecules are present in ancient forms of bacteria. And these these have been known to
+
+520
+00:53:17,160 --> 00:53:25,560
+exist for years. And and this class of protein is really interesting because they're light activated
+
+521
+00:53:27,640 --> 00:53:36,600
+electricity generators. These are single bits of biology, single biomolecules that do an amazing
+
+522
+00:53:36,600 --> 00:53:46,120
+job. They receive a photon of light and they move charged particles ions across the surface of the
+
+523
+00:53:46,120 --> 00:53:52,840
+cell. Now, there's a huge family of these, these are called the microbial opsins and a subfamily
+
+524
+00:53:52,840 --> 00:53:57,880
+of them is called the channel red opsins. Now, what's amazing is that these proteins were known
+
+525
+00:53:58,680 --> 00:54:05,000
+broadly in biology, in biochemistry for decades. They've been discovered in 1971
+
+526
+00:54:06,040 --> 00:54:14,120
+by Dieter Osterhelt and Walter Stakinius, who are at UCSF. And this was part of the training of
+
+527
+00:54:15,880 --> 00:54:20,840
+biochemist biologists in in Lubert Streier's beautiful biochemistry textbook. There's a page
+
+528
+00:54:20,840 --> 00:54:25,560
+on the bacteria red opsins and there's a this was that's that's where I learned about it.
+
+529
+00:54:25,560 --> 00:54:32,120
+You know, these these proteins, they have a photo cycle, it's called they have a
+
+530
+00:54:33,640 --> 00:54:39,320
+choreography of movements of the protein after the photon hits that lead to an ion,
+
+531
+00:54:39,320 --> 00:54:46,840
+a charged particle moving across the membrane of the cell. So this, but so this was, you know,
+
+532
+00:54:47,000 --> 00:54:53,080
+a class of proteins that was was well known. And, and it turned out that these microbial
+
+533
+00:54:54,840 --> 00:55:00,440
+opsins turned out to be the key for for optogenetics, the technology we developed
+
+534
+00:55:00,440 --> 00:55:05,800
+that brought this cell type specific causality that made it possible.
+
+535
+00:55:06,760 --> 00:55:12,520
+I want to understand this a bit more, Carl. How? Because so it sounds like, okay, because
+
+536
+00:55:12,520 --> 00:55:16,680
+I also had Lubert Streier as a professor, I have his textbook, it's one of the few textbooks I've
+
+537
+00:55:16,680 --> 00:55:22,040
+still kept. First of all, I don't remember that. So I mean, like, that might be a page in that book,
+
+538
+00:55:22,040 --> 00:55:26,760
+but I was not paying attention during that lecture. So it's it sounds to me like you knew
+
+539
+00:55:26,760 --> 00:55:34,680
+about these even back in medical school. When did the idea come to you that said, wait a minute,
+
+540
+00:55:35,560 --> 00:55:48,200
+I can now genetically insert these things into neurons and effectively put a digital switch
+
+541
+00:55:48,200 --> 00:55:56,440
+into a single neuron? How and when did that idea cross your mind? Yeah. So there was a coalition of
+
+542
+00:55:56,440 --> 00:56:04,360
+a coalescence of different threads that happened that were partly plausibility threads. And, and
+
+543
+00:56:04,360 --> 00:56:11,240
+if you look at this historically, anybody in theory could have thought about this and tried this
+
+544
+00:56:11,240 --> 00:56:16,120
+in, you know, in the late 80s or all through the 90s, these genes were known.
+
+545
+00:56:17,080 --> 00:56:21,720
+Somebody could have put them into neurons and tried this, but it wasn't technically plausible
+
+546
+00:56:21,720 --> 00:56:26,920
+for many reasons. They were not until the 90s and particularly the late 90s, they were not good ways
+
+547
+00:56:26,920 --> 00:56:33,640
+of introducing genes into neurons. Neurons are a little bit tricky. They're very finicky and
+
+548
+00:56:33,640 --> 00:56:40,760
+sensitive. And, and I knew this because this was, you know, this was a theme in my PhD work and
+
+549
+00:56:40,760 --> 00:56:47,400
+also in my postdoc work, you know, can we, how can we get genes into neurons even in a cultured
+
+550
+00:56:47,400 --> 00:56:53,480
+neuron preparation? It's not easy. And so that was, that was certainly part of it, part of why,
+
+551
+00:56:53,480 --> 00:57:01,400
+I mean, why nobody had had tried this before. But in the late 90s, that started to change. And,
+
+552
+00:57:01,400 --> 00:57:07,720
+and I did an experiment introducing genes into, into neurons as part of my postdoctoral work in
+
+553
+00:57:07,720 --> 00:57:13,400
+the Malenka lab that was in. And so this was something I was, I was good at. I'd, I'd develop
+
+554
+00:57:13,400 --> 00:57:17,880
+the viral tools and the ways of introducing genes in that were, that were plausible.
+
+555
+00:57:18,840 --> 00:57:23,880
+Tell folks a little bit about how that works. Yeah. We're obviously, you know, these days,
+
+556
+00:57:23,880 --> 00:57:29,880
+I think even the lay person is somewhat familiar with genetic modifications. People have some sense
+
+557
+00:57:29,880 --> 00:57:35,640
+of how these have even been used to help develop vaccines and things like that. But let's start
+
+558
+00:57:35,640 --> 00:57:40,840
+from a place, assuming people don't even really know the difference between DNA and RNA and just
+
+559
+00:57:40,840 --> 00:57:47,240
+explain how you could use this thing called a virus to do your bidding with respect to the
+
+560
+00:57:47,240 --> 00:57:55,240
+insertion of a foreign gene. So this is, and this is by no means a minor thing. In some ways,
+
+561
+00:57:55,240 --> 00:58:00,360
+this is, this is the whole ball of wax, as we say. How do you get a gene into a neuron in a,
+
+562
+00:58:00,360 --> 00:58:05,400
+in a specific way? So this is the technological aspect of this in some ways is everything. And
+
+563
+00:58:05,400 --> 00:58:10,280
+so it's definitely worth the time to talk about this. You know, how do you, how do you do it? Well,
+
+564
+00:58:11,320 --> 00:58:19,400
+so DNA is, is the instruction manual for making proteins, things like proteins,
+
+565
+00:58:19,400 --> 00:58:28,680
+biomolecules that have a job. Each gene is a bit of DNA. It might be a sequence of what we call
+
+566
+00:58:28,680 --> 00:58:33,560
+nucleotides. They have A, G, C, and T. There's four kinds of them and they come in different
+
+567
+00:58:34,440 --> 00:58:39,800
+sequences. And by the order in which these nucleotides appear, that is a code, that's the
+
+568
+00:58:39,800 --> 00:58:45,800
+genetic code that dictates which protein will be made, a biomolecule that, that has a particular
+
+569
+00:58:45,800 --> 00:58:52,120
+structure and a job that comes from its structure, like being in a channel or something in the
+
+570
+00:58:52,120 --> 00:58:58,680
+surface of a, of a cell that receives a photon and lets charged particles go across. That's the protein.
+
+571
+00:58:58,680 --> 00:59:05,240
+The instructions for making it are encoded in the DNA in the gene. And so that, so how do you get that,
+
+572
+00:59:05,240 --> 00:59:12,360
+that gene into a cell? Well, it's not so easy. You know, these days, particularly with the
+
+573
+00:59:12,360 --> 00:59:19,400
+coronavirus pandemic, I think the general public is, is much more aware now of how this can be done.
+
+574
+00:59:19,960 --> 00:59:28,760
+Viruses, and there are many kinds of viruses, they are little bits of biology that basically
+
+575
+00:59:28,760 --> 00:59:36,520
+exist to get DNA and RNA into cells. And so they have a little bit of this genetic code material,
+
+576
+00:59:36,600 --> 00:59:43,960
+DNA or RNA, and they have that encased in a coating that might have some lipids or fats
+
+577
+00:59:43,960 --> 00:59:53,640
+and some proteins. And then that floats through, liquid floats through the air, hits a cell,
+
+578
+00:59:54,680 --> 01:00:02,680
+and fuses with the cell, gets the DNA or the RNA into the cell. And then that triggers the
+
+579
+01:00:02,760 --> 01:00:10,200
+creation of new virus particles. And that's how the virus spreads. So viruses are professional
+
+580
+01:00:10,760 --> 01:00:16,360
+introducers of genetic material in the cells. They are extremely good at that. They are evolved
+
+581
+01:00:16,360 --> 01:00:22,840
+for that. And this, this DNA, RNA distinction is interesting. Some viruses work with DNA.
+
+582
+01:00:23,560 --> 01:00:29,240
+Some are RNA. What is RNA? This is also something that the coronavirus pandemic has brought to the
+
+583
+01:00:29,240 --> 01:00:37,160
+public's attention very recently. That's the step in between DNA and protein. It turns out,
+
+584
+01:00:37,160 --> 01:00:41,400
+for various reasons, it's useful to have an intermediate step. First, the DNA gets turned
+
+585
+01:00:41,400 --> 01:00:47,640
+into RNA, very similar structure, but then that gets turned into the protein. Some viruses work
+
+586
+01:00:47,640 --> 01:00:55,000
+with DNA, some are RNA. So this, it turns out, is then very useful for the biologists because
+
+587
+01:00:55,000 --> 01:01:02,920
+if you want to get a gene into a cell, and in my case, suppose you want to get a gene for making a
+
+588
+01:01:04,680 --> 01:01:08,840
+light activated channel, if you want to get that into a cell, how do you do it? Well, you get the
+
+589
+01:01:08,840 --> 01:01:15,800
+DNA into the cell. And what's the best way to do that? Well, use a virus. And there are viruses
+
+590
+01:01:15,800 --> 01:01:23,240
+that are dangerous and lethal, but there are also safer, weaker viruses. And then there are
+
+591
+01:01:23,240 --> 01:01:32,200
+modified versions, even of those, that virologists have engineered to be extremely safe, to have
+
+592
+01:01:32,200 --> 01:01:37,720
+lost the ability to propagate from one cell to another, but can do that first step, can
+
+593
+01:01:39,080 --> 01:01:44,280
+bring DNA into one set of cells, and then the life cycle, if you will, stops at that point.
+
+594
+01:01:44,840 --> 01:01:51,800
+And those are the viruses that I had experience with from my postdoctoral work,
+
+595
+01:01:52,760 --> 01:01:59,480
+safe modified viruses that can be used to shuttle bits of DNA into cells. And so that's the core
+
+596
+01:02:00,280 --> 01:02:04,760
+technology. And again, this was a relatively recent thing, and particularly for neurons,
+
+597
+01:02:05,400 --> 01:02:11,000
+a relatively recent thing. The technology for doing that was not so clear in the past.
+
+598
+01:02:12,120 --> 01:02:21,320
+The other thing that I want to point out is that there were many people who were thinking about
+
+599
+01:02:21,400 --> 01:02:27,960
+this and trying this. And we did, from my lab, publish the first paper that used a microbial
+
+600
+01:02:27,960 --> 01:02:35,400
+opsin to get light sensitivity, but it was, as it turned out, quite a close call. We published
+
+601
+01:02:35,400 --> 01:02:45,080
+the paper from my lab in 2005, and that came out in the summer of 2005. Within six months,
+
+602
+01:02:45,560 --> 01:02:50,440
+several other papers came out. They all were submitted right after ours was published,
+
+603
+01:02:50,440 --> 01:02:55,560
+and so clearly many people had been thinking about this. They saw our paper came out,
+
+604
+01:02:56,120 --> 01:03:05,080
+and then rushed to submit theirs. And these were big time labs, people who were very respected
+
+605
+01:03:05,080 --> 01:03:14,120
+and thoughtful, including, this is something I didn't know, but the brother of my PhD
+
+606
+01:03:14,920 --> 01:03:20,200
+advisor. My PhD advisor was Dick Chen, his brother Roger Chen was a Nobel laureate
+
+607
+01:03:21,640 --> 01:03:27,480
+for his work with green fluorescent protein. It turned out he was also working on this as well.
+
+608
+01:03:29,960 --> 01:03:33,880
+I talked in my great length about this. Of course, he did okay. He got a Nobel prize
+
+609
+01:03:33,880 --> 01:03:39,160
+for other work, but all this was going on before his Nobel prize. And so he was quite,
+
+610
+01:03:39,640 --> 01:03:46,120
+I think, frustrated that he wasn't able to get to this moment as quickly. So it was a
+
+611
+01:03:47,240 --> 01:03:53,960
+sort of a broad awareness in the field that the technology was now available. We could introduce
+
+612
+01:03:54,520 --> 01:04:00,920
+genes into neurons, that these microbial opsins existed. People had wanted to get cell type
+
+613
+01:04:00,920 --> 01:04:12,120
+specificity for a long time with neurostimulation. Francis Crick of DNA double helix fame had been
+
+614
+01:04:12,120 --> 01:04:18,360
+calling for this sort of technology for years. In fact, in 1999, he'd even suggested that not only
+
+615
+01:04:18,360 --> 01:04:24,840
+did we need a way in neuroscience to control individual cells, individual cell types, but he
+
+616
+01:04:24,840 --> 01:04:29,480
+said maybe light would be a good way of doing it. He didn't have an idea of how to do it, but he said,
+
+617
+01:04:29,720 --> 01:04:34,760
+light would have some good properties. It would be fast, it would be relatively noninvasive, photons
+
+618
+01:04:34,760 --> 01:04:40,600
+could scatter through tissue, and most neurons don't respond to light at baseline, unlike
+
+619
+01:04:40,600 --> 01:04:47,960
+electricity. And so it would be a way of getting great specificity. So there was a broad awareness
+
+620
+01:04:47,960 --> 01:04:54,040
+that this kind of thing suddenly might be possible. I have two unrelated questions, Carl, about this.
+
+621
+01:04:54,760 --> 01:05:02,360
+The first is, when you introduce the virus, is it one virus that can introduce the gene to one
+
+622
+01:05:02,360 --> 01:05:08,520
+neuron and that's it? He said there's no replication capacity of the virus. So does that mean that the
+
+623
+01:05:09,160 --> 01:05:15,240
+dose of the virus you give determines how many cells will pick up the channel?
+
+624
+01:05:16,040 --> 01:05:24,760
+That's correct. So you can give a very high concentration of viral particles and that will
+
+625
+01:05:24,760 --> 01:05:30,200
+mean that you get more cells. Also, you'll get more copies per cell. You can have multiple
+
+626
+01:05:31,080 --> 01:05:38,520
+viral particles infecting the same cell and that is actually very important. Another big issue with
+
+627
+01:05:38,520 --> 01:05:46,600
+these microbial options is they generate tiny currents. They're not as professional at generating
+
+628
+01:05:46,600 --> 01:05:51,800
+huge currents as mammalian ion channels are, which was a big reason why I think a lot of people didn't
+
+629
+01:05:52,360 --> 01:05:57,640
+rush to this as well. People looked at those current sizes and said, this is not going to
+
+630
+01:05:57,640 --> 01:06:05,880
+work. Most existing methods of introducing genes gave you maybe one to seven copy numbers of the
+
+631
+01:06:05,880 --> 01:06:12,440
+gene, as we say. So not enough to control a neuron and that was a huge issue. But with the viral
+
+632
+01:06:13,240 --> 01:06:19,880
+technologies, you could get hundreds or more copies of the gene per cell and you could get
+
+633
+01:06:20,520 --> 01:06:27,320
+much bigger currents with these microbial options. So then again, my experience with the viral tools
+
+634
+01:06:27,320 --> 01:06:33,960
+was critical. Just give us a sense of the current. So when you talk about a normal mammalian neuron,
+
+635
+01:06:33,960 --> 01:06:39,640
+how many do we measure these in picoamps, nanoamps? Yeah, picoamps and nanoamps are exactly right.
+
+636
+01:06:40,360 --> 01:06:48,840
+So an action potential is how many picoamps? Yeah. So a couple of ways we can look at it. So the
+
+637
+01:06:50,680 --> 01:06:58,760
+action potential, this is this blip of electricity that propagates through down the axon of a neuron.
+
+638
+01:06:59,560 --> 01:07:09,000
+It can be triggered by signals that are in the order of 100 to 200 picoamps. And then it becomes
+
+639
+01:07:09,000 --> 01:07:15,240
+a voltage impulse that's about 100 millivolts and that propagates down the cell. So if you're in the
+
+640
+01:07:15,240 --> 01:07:24,440
+hundreds of picoamp range, you're in business for controlling neurons. A single option is capable of
+
+641
+01:07:24,440 --> 01:07:31,640
+what? Vastly less than that. And so a couple issues come up. So first of all, what we
+
+642
+01:07:33,080 --> 01:07:40,760
+found is that if you don't have a high copy number, the currents that you're generating are
+
+643
+01:07:42,280 --> 01:07:49,080
+on the single or less picoamp level. We haven't done, because the currents are so small,
+
+644
+01:07:49,080 --> 01:07:54,680
+you typically don't even do the experiment you're asking, the single channel current
+
+645
+01:07:54,680 --> 01:08:00,200
+measurements. Since then, out of scientific curiosity, we and others have looked at the
+
+646
+01:08:01,480 --> 01:08:05,800
+currents that are generated and they're extraordinarily small. We only get
+
+647
+01:08:07,640 --> 01:08:16,440
+to the hundreds of picoamp level by probably expressing 100,000 to a million opsins per cell.
+
+648
+01:08:16,600 --> 01:08:22,280
+So this was the key issue. There was many orders of magnitude, as we say,
+
+649
+01:08:25,000 --> 01:08:32,120
+several factors of 10 away from where we needed to be with these opsins, unless there was a way
+
+650
+01:08:32,120 --> 01:08:36,520
+of introducing many genes and getting very robust, safe expression.
+
+651
+01:08:36,520 --> 01:08:40,680
+How do you introduce the virus? So let's just say we're talking about a mouse here,
+
+652
+01:08:40,840 --> 01:08:51,480
+and you decide you want to test in this particular region of the Pons. So a part of the brainstem,
+
+653
+01:08:51,480 --> 01:08:59,160
+you want to exactly get it there. How do you direct the virus to exactly the cell you want
+
+654
+01:08:59,160 --> 01:09:05,480
+to get this specificity? So this is the other technological challenge that had to be faced.
+
+655
+01:09:06,440 --> 01:09:13,080
+It was not obvious how this would be done. Where would the specificity come from? Yes,
+
+656
+01:09:13,720 --> 01:09:22,120
+none of the cells respond to light. Yes, maybe we could add a gene that makes the cells respond to
+
+657
+01:09:22,120 --> 01:09:27,880
+light. But wait, hang on a minute. Where's the specificity going to come from? How do we get
+
+658
+01:09:27,880 --> 01:09:35,080
+this gene only into the cells we're interested in? Well, all right, what could you do? You could
+
+659
+01:09:35,080 --> 01:09:42,120
+concentrate the virus and do a very focal injection into, let's say, the Pons. And so
+
+660
+01:09:42,120 --> 01:09:49,800
+you could create a little hotspot of virus, and then that virus would get into all the cells
+
+661
+01:09:49,800 --> 01:09:58,280
+that are in and around that spot in the Pons. And that's good. That gives you some spatial
+
+662
+01:09:59,000 --> 01:10:04,520
+specificity. You're now at a spot. And that is already a big leap beyond the electrode,
+
+663
+01:10:04,520 --> 01:10:13,320
+because the electrode and the virus both so far and how I've described them are not cell type
+
+664
+01:10:13,320 --> 01:10:20,680
+specific. But the electrode is going to be stimulating all the axons that happen to be
+
+665
+01:10:20,680 --> 01:10:28,200
+going by. If you do a viral injection at one spot, viruses are not very good at getting into axons.
+
+666
+01:10:28,200 --> 01:10:33,720
+They're just going to get the cells, the little spherical cell bodies that live in that region.
+
+667
+01:10:33,720 --> 01:10:37,480
+And so right away, that gives you some specificity. You're getting less of the
+
+668
+01:10:38,440 --> 01:10:44,840
+cross-streams of activity being stimulated. But it's not enough, because even if you're just
+
+669
+01:10:44,840 --> 01:10:49,160
+getting the cells, the cell bodies there, there are many different kinds. There are the dopamine
+
+670
+01:10:49,160 --> 01:10:53,960
+cells, but right next to them, there are the GABA cells, and next to them are the glutamate cells,
+
+671
+01:10:53,960 --> 01:10:58,200
+and they're all jumbled up together. And there, you're not too different from the electrode.
+
+672
+01:10:58,200 --> 01:11:02,840
+Now, if you put in light, you're still going to be stimulating all these cells. And so what you need
+
+673
+01:11:02,840 --> 01:11:12,760
+is a way to make the production of the opsin cell type specific. Okay, so how are you going to
+
+674
+01:11:12,760 --> 01:11:17,000
+do that? Well, the virus, there were many possibilities we could think about. And this
+
+675
+01:11:17,800 --> 01:11:23,720
+probably, till we really solved optogenetics, probably took till 2009, because this was the
+
+676
+01:11:23,720 --> 01:11:30,360
+critical issue. How do you get a versatile, generalizable way of targeting specific cell
+
+677
+01:11:30,360 --> 01:11:36,040
+types? And back in 2004, 2005, there were some possibilities that we and others could imagine.
+
+678
+01:11:37,160 --> 01:11:43,800
+You could try to imagine engineering the virus capsid, this coating of the virus that has
+
+679
+01:11:43,800 --> 01:11:49,080
+proteins on it. There were theoretical ways and even possible practical ways of engineering
+
+680
+01:11:50,120 --> 01:11:55,400
+capsid proteins so that they would only target one kind of cell, because that kind of cell had
+
+681
+01:11:55,400 --> 01:11:59,640
+something else on its surface, and maybe we could create some kind of lock and key mechanism.
+
+682
+01:11:59,640 --> 01:12:05,640
+Yeah, so just like a coronavirus, its lock and key basically works through the ACE2 receptor.
+
+683
+01:12:05,640 --> 01:12:13,640
+If you knew what a potential surface protein or receptor was on the dopaminergic neuron,
+
+684
+01:12:13,640 --> 01:12:16,520
+that could be your entry. That would have been the first thought that would have come to my
+
+685
+01:12:16,520 --> 01:12:23,400
+naive mind. Yeah, and that was plausible. It could work. It had some
+
+686
+01:12:24,360 --> 01:12:30,760
+drawbacks, which are that you'd have to... First of all, we didn't have that richness of
+
+687
+01:12:30,760 --> 01:12:36,360
+understanding. It wasn't as if there was some lookup table. Okay, dopamine neuron has this,
+
+688
+01:12:36,360 --> 01:12:41,560
+but then make put this on that. That didn't exist and still doesn't honestly. So it was more just,
+
+689
+01:12:41,560 --> 01:12:45,800
+okay, there's going to be a lot of work. Every time you want to target a particular cell type,
+
+690
+01:12:45,800 --> 01:12:50,120
+you're going to have to now do some deep dive into all the proteins it expresses,
+
+691
+01:12:51,080 --> 01:12:54,680
+and also all the cells that are nearby that you don't want to target and make sure...
+
+692
+01:12:54,680 --> 01:12:55,640
+You're not crossing them.
+
+693
+01:12:55,640 --> 01:13:00,760
+...whatever your strategy is, is not giving you some cross activity. And so we initially
+
+694
+01:13:01,560 --> 01:13:07,560
+plausible, and then as you start to think about it more, you're like, oh, this is never going to be
+
+695
+01:13:08,280 --> 01:13:14,120
+versatile, generalizable, practical, and indeed it still isn't today. So that wasn't it.
+
+696
+01:13:15,080 --> 01:13:25,160
+Now, another strategy is that is working with DNA. Each gene, each bit of DNA in chromosomes,
+
+697
+01:13:25,160 --> 01:13:34,040
+in genomes, has this code for the protein, but also near it, it's got another bit of DNA
+
+698
+01:13:34,040 --> 01:13:42,600
+that's called a promoter or an enhancer. And this is a bit of DNA that doesn't code for a protein.
+
+699
+01:13:43,560 --> 01:13:51,320
+What it does is it attracts what are called transcription factors, things that decide
+
+700
+01:13:51,320 --> 01:13:58,120
+whether that bit of DNA gets turned into RNA and then into protein. They, by changing the structure,
+
+701
+01:13:58,120 --> 01:14:04,200
+by changing things around the gene, they determine whether this gene is expressed at all. It could
+
+702
+01:14:04,200 --> 01:14:09,800
+sit there quiet and not make the RNA and the protein, or it could be active, make the RNA
+
+703
+01:14:09,880 --> 01:14:16,360
+and the protein. Turns out that is critical because that was a path forward. We could work with
+
+704
+01:14:17,560 --> 01:14:25,000
+the bits of DNA near genes, promoters and enhancers. This gave us some leverage, not all
+
+705
+01:14:25,000 --> 01:14:30,360
+of it, but some of the leverage. And if you think about this, well, think about a dopamine neuron
+
+706
+01:14:30,360 --> 01:14:34,600
+again. So what is a dopamine neuron? Well, it makes dopamine and it releases dopamine. Okay,
+
+707
+01:14:34,600 --> 01:14:39,000
+now how does it make dopamine? Well, it's got its own biomolecules that make dopamine. It's got
+
+708
+01:14:40,040 --> 01:14:49,080
+enzymes that turn other precursor chemicals into dopamine. Now those enzymes are made
+
+709
+01:14:49,080 --> 01:14:53,880
+chiefly in dopamine neurons. And why are they only made in dopamine neurons and not in your
+
+710
+01:14:53,880 --> 01:14:59,320
+big toe neuron? Well, it's because... Or more importantly, not in the serotonergic
+
+711
+01:14:59,320 --> 01:15:04,520
+neuron right next door. I mean, that's the key insight is you exploit the promoters
+
+712
+01:15:05,240 --> 01:15:09,880
+that are making unique enzymes to a particular neurotransmitter.
+
+713
+01:15:10,440 --> 01:15:15,320
+Exactly right. And so it turns out each cell type is defined by its job,
+
+714
+01:15:15,320 --> 01:15:23,480
+just as in many cases we are defined by our jobs. And this is a critical thing because
+
+715
+01:15:23,480 --> 01:15:32,600
+a professional dopamine producing cell is going to have by its dopamine enzyme encoding genes,
+
+716
+01:15:32,600 --> 01:15:39,640
+it's going to have promoters or enhancers that dictate in this cell type, this gene will be
+
+717
+01:15:39,640 --> 01:15:44,520
+active. And so what we did was we said, okay, let's see which of those bits of DNA, those
+
+718
+01:15:44,520 --> 01:15:51,320
+promoters and enhancers can we borrow from, let's say, the tyrosine hydroxylase gene. This is a
+
+719
+01:15:51,320 --> 01:15:56,040
+gene that helps make dopamine. We could go take a little bit of its promoter and we could put that
+
+720
+01:15:56,600 --> 01:16:01,720
+in front of the channel rhodopsin gene, package that whole thing up into virus infect cells. Okay,
+
+721
+01:16:01,720 --> 01:16:07,000
+now you inject- You could almost administer it systemically at this point and it's going to
+
+722
+01:16:07,000 --> 01:16:13,480
+go exactly where it is a very elegant solution, Carl. Yeah. And in fact, the systemic thing now
+
+723
+01:16:13,480 --> 01:16:18,040
+in some ways is done in some settings. It's more costly actually because you have to use a much
+
+724
+01:16:18,040 --> 01:16:22,680
+higher load. Make a lot more virus. And actually the focal injection gives us other advantages.
+
+725
+01:16:22,680 --> 01:16:28,520
+So we still actually prefer the focal injection, but you're right that the specificity is now
+
+726
+01:16:28,760 --> 01:16:33,560
+in large part taken care of by the promoter. And so you can inject that in. The virus gets into
+
+727
+01:16:33,560 --> 01:16:38,680
+all the cells, the serotonergic cells and the dopaminergic cells, but the gene is only expressed
+
+728
+01:16:38,680 --> 01:16:43,800
+and the opsin is only made in the dopamine cells as a result of it. So I have another technical
+
+729
+01:16:43,800 --> 01:16:49,960
+question, Carl. So let's go back to your garden variety cold causing adenovirus, right? So
+
+730
+01:16:49,960 --> 01:16:55,080
+you're out and about in the park or you're on an airplane and you happen to catch this cold from
+
+731
+01:16:55,320 --> 01:17:02,280
+you happen to catch this cold from somebody. That adenovirus is going to go and it's going to infect
+
+732
+01:17:02,280 --> 01:17:08,600
+the epithelial cells lining your trachea, probably get into your lung or something like that.
+
+733
+01:17:09,880 --> 01:17:15,240
+It's going to incorporate its genetic material into your machinery, which will then make its
+
+734
+01:17:15,240 --> 01:17:21,560
+proteins. That's how it replicates. And of course, the immune system is very good at recognizing this
+
+735
+01:17:21,560 --> 01:17:29,000
+because it's either going to put soluble antibodies to antigens on the surface or if it's
+
+736
+01:17:29,000 --> 01:17:33,960
+done through class one and class two, the T cell system is going to come and through antigen
+
+737
+01:17:33,960 --> 01:17:40,440
+presentation will recognize foreign antigens being presented on the surface of a cell. So in other
+
+738
+01:17:40,440 --> 01:17:45,080
+words, the host cell, your cell will hold up its little hand and say, look, I've got this little
+
+739
+01:17:45,080 --> 01:17:52,520
+protein in me. It's the T cell will come and destroy that cell. How do you prevent the immune
+
+740
+01:17:52,520 --> 01:17:59,880
+system from standing by watching you do all of this very elegant genetic engineering and then
+
+741
+01:17:59,880 --> 01:18:04,760
+just coming along and big footing you because it says, wait a minute, that channel options not
+
+742
+01:18:04,760 --> 01:18:10,520
+supposed to be here. Are you just getting lucky that it's not being presented on the MHC class
+
+743
+01:18:10,520 --> 01:18:15,000
+one or class two as a peptide or meaning pieces of it because obviously it would be much larger
+
+744
+01:18:15,000 --> 01:18:21,320
+than a nine to eight amino acid peptide. But yep. This is a great question. This was another
+
+745
+01:18:22,280 --> 01:18:29,000
+energy barrier to tackling the strategy. Everybody thought and rightly so this is a
+
+746
+01:18:29,000 --> 01:18:34,040
+potential concern, right? The immune system is going to attack the cells making this foreign
+
+747
+01:18:34,040 --> 01:18:40,920
+protein and kill them. Well, a couple of things helped us here. One is that we were working in
+
+748
+01:18:40,920 --> 01:18:48,200
+the brain and as you know, the brain is what we call an immune privileged organ. The T cells and
+
+749
+01:18:48,200 --> 01:18:56,760
+B cells that patrol our bodies don't have free access to the brain. They're kept out and that's
+
+750
+01:18:56,760 --> 01:19:02,840
+pretty interesting situation. Why is that? A lot of interesting evolutionary speculations to that,
+
+751
+01:19:02,840 --> 01:19:10,680
+but it's a fact and so they can't get in. Without that, no doubt things along the lines of what
+
+752
+01:19:10,680 --> 01:19:14,760
+you're saying would be relevant. We've actually even recently explored this sort of thing.
+
+753
+01:19:16,840 --> 01:19:24,440
+People have been interested in peripheral, not central, peripheral optogenetics and it works,
+
+754
+01:19:24,440 --> 01:19:28,840
+but people see loss of the expression and the cells expressing the
+
+755
+01:19:29,560 --> 01:19:34,600
+options over time, over months and the immune response is certainly part of that. But in the
+
+756
+01:19:34,600 --> 01:19:40,520
+brain, that doesn't happen. That's a great question and here we definitely leverage the immune
+
+757
+01:19:40,520 --> 01:19:46,360
+privilege. This was very helpful, Carl. I think maybe for the listener they thought,
+
+758
+01:19:46,360 --> 01:19:51,080
+boy, these guys want to do a lot of detail here, but I think this was really important because
+
+759
+01:19:51,960 --> 01:20:00,680
+I think only now can we understand the magnitude of A, what you and your team accomplished in what
+
+760
+01:20:00,680 --> 01:20:07,320
+scientifically is considered a nanosecond. I mean, in four years that you were able to do everything
+
+761
+01:20:07,320 --> 01:20:16,840
+you just said and now we're in 2009, 2010, you have the capacity to introduce these options
+
+762
+01:20:17,480 --> 01:20:25,880
+to very specific cells such that you could say two neurons, which are different, I can put this
+
+763
+01:20:25,880 --> 01:20:33,320
+gene into one and not the other. This is unparalleled. You now have this capacity
+
+764
+01:20:33,320 --> 01:20:42,440
+to use photons to turn neurons on and off with precision that could never be achieved anatomically
+
+765
+01:20:42,440 --> 01:20:50,280
+under anatomic resolution. That's right. So what was the first question you sought to ask
+
+766
+01:20:50,280 --> 01:20:56,200
+using this technology from a neurobiology and neurochemical standpoint? Well,
+
+767
+01:20:57,880 --> 01:21:03,800
+we've talked about dopamine a lot and in 2009 there was an experiment that I and the whole
+
+768
+01:21:03,800 --> 01:21:10,760
+field had wanted to know, which really is, is it the dopamine neurons? Is their activity what
+
+769
+01:21:11,240 --> 01:21:17,560
+what animals are getting from this stimulation of that region or is it something else, some other
+
+770
+01:21:17,560 --> 01:21:22,760
+cell type that's nearby? Is it the GABAergic or the serotonergic cells that we know are right nearby?
+
+771
+01:21:23,960 --> 01:21:31,720
+And in 2009 we did that experiment. So we introduced a channel retopsin, an excitatory
+
+772
+01:21:31,720 --> 01:21:39,320
+channel retopsin just into the dopamine neurons of this spot in the midbrain that's called the
+
+773
+01:21:39,320 --> 01:21:44,680
+ventral tegmental area or VTA. It's got all these other kinds of cells, but that's where the dopamine
+
+774
+01:21:44,680 --> 01:21:51,160
+neurons also live. And we used a souped up form of the promoter strategy I just told you about
+
+775
+01:21:52,120 --> 01:21:55,640
+to get the gene into the dopamine neurons. And we asked a very simple question.
+
+776
+01:21:56,440 --> 01:22:04,600
+If you have a mouse and you give it a two room house to live in, it's a very simple house,
+
+777
+01:22:04,600 --> 01:22:08,200
+two rooms, I can go back and forth from one room to the other. So kind of just like a New York
+
+778
+01:22:08,200 --> 01:22:19,080
+apartment. Yeah, on a good day. Yeah. Then what if you turned on the laser light, the light that
+
+779
+01:22:19,080 --> 01:22:26,680
+activated the channel retopsins on the dopamine neurons, but you did that only when the animal
+
+780
+01:22:26,680 --> 01:22:34,440
+was in one room and not the other room. And what we found is that if you did that, the animals
+
+781
+01:22:34,440 --> 01:22:44,360
+preferred to be in the room where the laser light had been applied compared to the other room,
+
+782
+01:22:44,360 --> 01:22:49,000
+which was equivalent in every other way. So this would be the analogy just to,
+
+783
+01:22:49,000 --> 01:22:55,080
+sorry to interrupt, but just to make a really crude scenario. You could have done this experiment
+
+784
+01:22:55,640 --> 01:23:01,560
+a hundred years ago if you said, I'm going to put sugar water in one room and not in the other.
+
+785
+01:23:02,280 --> 01:23:06,520
+Is there a preference that the animal has for it? Presumably it would always want to go to the room
+
+786
+01:23:06,520 --> 01:23:11,880
+with sugar water or cocaine or something pleasurable, but yet here you were able to do
+
+787
+01:23:11,880 --> 01:23:18,920
+that without anything other than the excitation of a particular neuron. Exactly right. And in fact,
+
+788
+01:23:18,920 --> 01:23:23,640
+this test is an old test. It's called the conditioned place preference test. And yeah,
+
+789
+01:23:23,640 --> 01:23:31,240
+it's a animal now prefers a place. And it's because of the conditioning is how it was done
+
+790
+01:23:31,240 --> 01:23:38,280
+classically. Just as you're saying, you would pair something good like cocaine or sugar or
+
+791
+01:23:38,280 --> 01:23:43,080
+food or a social interaction, a mate, something like that. And you would see later that the
+
+792
+01:23:44,040 --> 01:23:49,160
+mouse would choose to spend time in there revealing to us by its behavior that this
+
+793
+01:23:49,160 --> 01:23:54,840
+thing was positive in value to it. And you can do the flip side too. You can do a negative thing.
+
+794
+01:23:55,400 --> 01:24:00,040
+You can make it feel mildly nauseous. You can give it lithium, which we give to patients too
+
+795
+01:24:00,040 --> 01:24:06,680
+in one side effect. You can have as mild nausea. You can give a mouse mild nausea that way,
+
+796
+01:24:06,680 --> 01:24:11,400
+but only in one room and then it'll avoid that that room. And that's conditioned place aversion.
+
+797
+01:24:11,400 --> 01:24:18,280
+So the animal can report to us the sign, if you will, the valence positive or negative of its
+
+798
+01:24:18,280 --> 01:24:23,080
+experience by where it chooses to spend time. And that's incredibly valuable. This harkens back to
+
+799
+01:24:23,800 --> 01:24:31,000
+my very first wanting to be a neurosurgeon because a human being could tell me what they were
+
+800
+01:24:31,000 --> 01:24:36,200
+feeling. Well, of course, a human being is more eloquent, but behaviorally a mouse can report
+
+801
+01:24:36,200 --> 01:24:41,240
+whether it's something as a positive or negative value to it.
+
+802
+01:24:41,240 --> 01:24:47,640
+And that test, Carl, when you're looking for the positive valence, what's the frequency with which
+
+803
+01:24:47,640 --> 01:24:53,560
+you would expect that to be the case? I mean, presumably it's more than 5149 in favor of the
+
+804
+01:24:53,560 --> 01:24:58,520
+dopamine firing. Just give us a sense of if you ran that experiment a hundred or you ran a simulation
+
+805
+01:24:58,520 --> 01:25:06,200
+of that experiment a hundred times and you always fired the dopaminergic neuron with your opsin,
+
+806
+01:25:06,200 --> 01:25:09,320
+how many times out of a hundred would it go to the positively valence side?
+
+807
+01:25:10,280 --> 01:25:14,440
+We try to keep things in. You can make this as extreme as you want.
+
+808
+01:25:17,800 --> 01:25:25,000
+So the answer is a bit flexible, but with typical rewards, with sugar water, with a social
+
+809
+01:25:25,000 --> 01:25:32,600
+interaction, the number you're looking for is sort of 70, 30, or 80, 20. That's kind of the level to
+
+810
+01:25:32,680 --> 01:25:38,760
+which the mouse will prefer one chamber versus another, one room versus another in terms of how
+
+811
+01:25:38,760 --> 01:25:45,320
+it devotes its time. But you can actually, you can make that, you can push those numbers,
+
+812
+01:25:45,320 --> 01:25:52,520
+both optogenetically using light or with stimuli up or down by making the experience more extreme.
+
+813
+01:25:52,520 --> 01:25:59,240
+It's quite a flexible test. And we had later versions of this, you know, that in some ways,
+
+814
+01:25:59,240 --> 01:26:05,240
+the animal's expressing its subjective sense, we think, by where it's choosing to spend time.
+
+815
+01:26:05,800 --> 01:26:09,480
+You can also make a more souped up version of that test where the animal actually has to work
+
+816
+01:26:10,120 --> 01:26:17,560
+to get the light by pressing a lever or poking its nose in a little hole, a nose poke, and
+
+817
+01:26:18,280 --> 01:26:25,720
+trigger a pulse of light by each of its actions. So this is a slightly more advanced version where
+
+818
+01:26:25,720 --> 01:26:32,840
+you say, how hard will you work for light? How hard will you work for a precisely defined
+
+819
+01:26:33,640 --> 01:26:39,560
+set of activity in your precisely defined dopamine neurons? And if you deliver
+
+820
+01:26:41,320 --> 01:26:46,920
+light, you can get an animal to press a lever thousands of times a day to get that light.
+
+821
+01:26:46,920 --> 01:26:56,600
+And so now there is no doubt that the activity of dopamine neurons in this way is positive.
+
+822
+01:26:56,600 --> 01:27:01,720
+And it's not just positive, it can be extremely positive. Animals will work very, very hard to
+
+823
+01:27:01,720 --> 01:27:10,280
+get it. It's just amazing that this could be done. Let's keep going. I can only imagine how
+
+824
+01:27:11,160 --> 01:27:15,480
+excited you and your colleagues were by this finding. And of course, it probably only
+
+825
+01:27:15,480 --> 01:27:20,440
+whets your appetite for the breadth of questions that you now want to ask.
+
+826
+01:27:22,200 --> 01:27:30,520
+Where was the clinical community in recognizing the value of this tool? So you have all of these
+
+827
+01:27:30,520 --> 01:27:39,320
+questions that have for, I think it's safe to say, thousands of years been, in other words,
+
+828
+01:27:39,320 --> 01:27:45,240
+even before the codification of medicine as we know it today, we've always wondered things
+
+829
+01:27:45,240 --> 01:27:52,360
+like what regulates mood? How can two people anatomically be nearly identical and yet one be
+
+830
+01:27:52,360 --> 01:27:59,800
+happy and one be sad? Where do memories reside? What is a memory? What is a feeling? What is a
+
+831
+01:27:59,800 --> 01:28:05,960
+thought? All of these things. And yet I suspect that this experiment, as simple as it was,
+
+832
+01:28:06,520 --> 01:28:13,960
+for the first time gave you a profound sense of optimism that you now have a tool finally
+
+833
+01:28:14,600 --> 01:28:21,080
+to ask questions. So you're splitting your time here, right? You're still an on the ward
+
+834
+01:28:21,080 --> 01:28:27,320
+psychiatrist. So on the one hand, you're doing kind of the most cutting edge science in the
+
+835
+01:28:27,320 --> 01:28:34,200
+field. And at the other end, you're still trying to help people who are bringing these questions
+
+836
+01:28:34,200 --> 01:28:39,000
+to your mind. How many of your colleagues in psychiatry, not necessarily your direct colleagues
+
+837
+01:28:39,000 --> 01:28:45,640
+at Stanford, but just, I mean, the community more broadly, how appreciated was this tool
+
+838
+01:28:45,640 --> 01:28:53,480
+10 years ago? It's actually very interesting that you ask that the appreciation in the
+
+839
+01:28:54,440 --> 01:29:01,320
+scientific psychiatry realm, and these are clinicians, psychiatrists who also have
+
+840
+01:29:01,320 --> 01:29:08,040
+some interest in the science side. The appreciation was very quick and immediate
+
+841
+01:29:09,000 --> 01:29:19,160
+because I think the psychiatrists know and knew better than anyone else how much specificity was
+
+842
+01:29:19,160 --> 01:29:25,240
+needed and wanted in their field. And I had, this was, by the time we got to 2009,
+
+843
+01:29:26,040 --> 01:29:30,440
+the generality of that targeting method was key because then people knew, okay,
+
+844
+01:29:30,440 --> 01:29:36,120
+this wasn't just a parlor trick, a one-off, a demonstration that you could get some kind of
+
+845
+01:29:36,760 --> 01:29:42,600
+photosensitivity in one cell once, that this was actually a generalizable versatile method. You
+
+846
+01:29:42,600 --> 01:29:51,240
+could apply this principle to any cell type. It was done in freely moving mammals and mice,
+
+847
+01:29:51,240 --> 01:29:59,720
+of course, having our same brain structures, our cortex, our hypothalamus, and everything in between
+
+848
+01:30:01,400 --> 01:30:08,520
+the. The significance and the opportunity was pretty clear to everyone by 2009,
+
+849
+01:30:10,040 --> 01:30:16,440
+particularly the psychiatrists. And so then there was a lot of a great deal of interest,
+
+850
+01:30:16,440 --> 01:30:21,480
+and because the technique was generalizable, it was very widely adopted. And we sent the
+
+851
+01:30:23,240 --> 01:30:29,080
+clones, the bits of DNA to thousands of labs around the world and many thousands of discoveries
+
+852
+01:30:29,160 --> 01:30:34,680
+were made by other labs, which was great after that, really showing that anybody could use it
+
+853
+01:30:34,680 --> 01:30:41,400
+to tackle any question, any disease, any symptom in diverse animals. So after 2009,
+
+854
+01:30:42,440 --> 01:30:49,800
+it was off and running. Between 04 and 09 though, those were hard times because we were still
+
+855
+01:30:50,760 --> 01:30:55,640
+putting the pieces together, solving the light delivery, solving the virus issues, getting the
+
+856
+01:30:55,640 --> 01:30:59,560
+cell type targeting to be generalizable and versatile. And I would say it wasn't really until
+
+857
+01:30:59,560 --> 01:31:05,720
+2009 that we could look at this and say, yeah, we've done it at this point.
+
+858
+01:31:05,720 --> 01:31:07,720
+Was this work funded by NIH?
+
+859
+01:31:08,680 --> 01:31:14,440
+Yeah. So early on, I had some initial trouble getting grants, but then pretty quickly,
+
+860
+01:31:16,680 --> 01:31:23,080
+once the opportunity became clear, both the National Institute of Mental Health and the
+
+861
+01:31:23,080 --> 01:31:30,280
+National Institute on Drug Abuse, two main institutes of the NIH immediately were very
+
+862
+01:31:30,280 --> 01:31:37,080
+supportive. And then later we got a great deal of support from DARPA and from the National Science
+
+863
+01:31:37,080 --> 01:31:45,480
+Foundation. And then also from a number of private donors, people who in many cases came through
+
+864
+01:31:46,280 --> 01:31:51,560
+the psychiatry setting, friends or family members who had suffered from psychiatric disease, and they
+
+865
+01:31:51,560 --> 01:31:58,280
+had heard about what we were doing and wanted to support it. So we ended up getting both federal
+
+866
+01:31:58,280 --> 01:32:06,840
+and nonprofit institutions and private donors and it all came together. But until, really until we
+
+867
+01:32:06,840 --> 01:32:11,240
+had things working in this generalizable way, times were a little bit tough.
+
+868
+01:32:12,840 --> 01:32:18,040
+Well, I mean, it is, again, remarkable now as you sort of look back at it to think that,
+
+869
+01:32:18,120 --> 01:32:24,360
+A, that it all worked out. I mean, there's a hundred steps that this could have failed.
+
+870
+01:32:25,800 --> 01:32:32,440
+And again, I'm still amazed that it really only took four years, although I'm sure there were
+
+871
+01:32:32,440 --> 01:32:37,960
+times in there it felt like it was taking forever. But I mean, as you know, you're such a historian
+
+872
+01:32:37,960 --> 01:32:44,200
+of science as well. I mean, it is a remarkable period of time. So let's talk about some of the
+
+873
+01:32:44,200 --> 01:32:49,800
+other questions that you wanted to probe with this technology. So what about any of the other
+
+874
+01:32:49,800 --> 01:32:54,040
+neurotransmitters or neurons in particular? Where did you turn to next?
+
+875
+01:32:54,760 --> 01:33:03,080
+Well, we were particularly interested in harkening back to my, what got me into psychiatry in the
+
+876
+01:33:03,080 --> 01:33:12,760
+first place. I wanted to understand internal states of mammals and how they can go wrong and
+
+877
+01:33:12,760 --> 01:33:21,000
+create symptoms. And if you work with animal subjects, with mice, for example, you have to
+
+878
+01:33:21,000 --> 01:33:27,720
+figure out what they can report that matters. And one thing they can report very well
+
+879
+01:33:29,560 --> 01:33:38,600
+are these universal things that all mammals experience, anxiety and social interaction
+
+880
+01:33:39,560 --> 01:33:46,120
+and caring for offspring, for young. These are quintessential mammalian
+
+881
+01:33:47,400 --> 01:33:54,600
+states that matter. They can go wrong. And so I wanted to study them and I wanted to study them
+
+882
+01:33:54,600 --> 01:34:00,280
+in ways that were now precise and causal and had to do with specific cell types.
+
+883
+01:34:01,720 --> 01:34:07,640
+And so one of the first things we did was anxiety. And, you know, as a psychiatrist, I
+
+884
+01:34:08,920 --> 01:34:16,280
+specialize in patients who suffer from depression and also social
+
+885
+01:34:18,440 --> 01:34:25,480
+difficulties, autism spectrum disorders. And a common theme in both autism and in depression,
+
+886
+01:34:26,040 --> 01:34:33,480
+anxiety is a big part of that. Anxiety is not a small thing. Anxiety can be absolutely crushing
+
+887
+01:34:34,040 --> 01:34:42,920
+to one's life, to one's interactions, to occupation, to even being able to go out in the world.
+
+888
+01:34:43,800 --> 01:34:51,400
+This is a very potentially severe disorder in many people. Of course, anxiety, though,
+
+889
+01:34:51,400 --> 01:34:59,320
+is also can exist in a normal healthy range too. And it only becomes a psychiatric disorder
+
+890
+01:34:59,960 --> 01:35:05,800
+when it exceeds that healthy range and verges into or in many people, unfortunately,
+
+891
+01:35:05,800 --> 01:35:12,200
+goes way beyond into a very pathological extreme. How do you define that maladaptive transformation
+
+892
+01:35:12,200 --> 01:35:19,800
+from normal anxiety, which I suppose you could even make the case if a person was incapable
+
+893
+01:35:19,800 --> 01:35:25,560
+of experiencing anxiety, they could probably injure themselves and they might be socially
+
+894
+01:35:25,560 --> 01:35:29,720
+quite destructive. So in other words, there must be some evolutionary basis for anxiety
+
+895
+01:35:29,720 --> 01:35:35,560
+and self-preservation. But as you point out, I can't imagine anybody listening to this hasn't
+
+896
+01:35:35,560 --> 01:35:41,000
+been personally experienced or hasn't personally experienced or known somebody who has experienced
+
+897
+01:35:41,000 --> 01:35:46,120
+anxiety that has crossed too far. But I mean, is this something that falls into the DSM-5 where
+
+898
+01:35:46,120 --> 01:35:52,840
+there's an actual criteria? There must be, right? Yes. Yeah. There are. And in fact, it's the
+
+899
+01:35:52,840 --> 01:36:02,760
+criterion for rising to the level of disorder in the psychiatric literature and in the DSM-5 or
+
+900
+01:36:03,640 --> 01:36:10,840
+diagnostic and statistical manual is that it's only a disorder if there's impairment in what we call
+
+901
+01:36:10,840 --> 01:36:18,520
+social or occupational functioning. So you could have any symptom in psychiatry, even a hallucination,
+
+902
+01:36:19,160 --> 01:36:25,240
+for example, but if it's not impairing your life, your social occupational function, we don't call
+
+903
+01:36:25,240 --> 01:36:31,320
+it a disorder. And in fact, I've had patients who were hallucinating, but it was in a way that was
+
+904
+01:36:31,320 --> 01:36:36,360
+not disrupting their life. I had a blind patient who had visual hallucinations, but he was fine
+
+905
+01:36:36,360 --> 01:36:41,960
+with them. They weren't distressing to him. And so we wouldn't say it's a disorder. It's just
+
+906
+01:36:41,960 --> 01:36:50,600
+something happening. So that's the criterion we use. And of course, it is somewhat flexible
+
+907
+01:36:50,600 --> 01:36:56,520
+because different people have different social and occupational situations. And this is a challenge
+
+908
+01:36:56,520 --> 01:37:01,320
+we have in psychiatry, but maintaining that as a criterion is very good because it ensures that we
+
+909
+01:37:01,320 --> 01:37:06,760
+only treat things that need to be treated. So then you think about anxiety. Well, if you can't
+
+910
+01:37:06,760 --> 01:37:13,080
+function, if you can't leave your apartment to go to work, well, that's impairing your occupational
+
+911
+01:37:13,080 --> 01:37:18,680
+functioning. And so there are people who have anxiety easily in that realm or far beyond.
+
+912
+01:37:19,400 --> 01:37:24,040
+And those are people we want to help. On the flip side, as you point out, there are people who
+
+913
+01:37:24,040 --> 01:37:31,160
+have risk-taking behavior that's extreme because they don't perceive or worry about threat. And
+
+914
+01:37:31,160 --> 01:37:39,640
+that's also a problem. So anxiety, we need to treat it in patients who are severely affected.
+
+915
+01:37:39,640 --> 01:37:46,760
+And the problem is, in anxiety, there are medications that help, but they come with
+
+916
+01:37:47,640 --> 01:37:54,440
+some problems. So the most effective anti-anxiety medications are things that relate to
+
+917
+01:37:54,600 --> 01:38:00,520
+Valium and Xanax and Ativan. As you know, these are medications that work,
+
+918
+01:38:01,320 --> 01:38:09,000
+but they can be addictive. They can cause the human being to adapt to the dose and to make it
+
+919
+01:38:09,000 --> 01:38:14,760
+very difficult to stop them. And they also can cause... Do we think that they primarily work
+
+920
+01:38:14,760 --> 01:38:21,880
+through their GABA agonism? Is that the primary belief? Yes. So you talked about GABA earlier.
+
+921
+01:38:21,880 --> 01:38:28,280
+This is a relaxing, for lack of a better word, neurotransmitter. This is a non-excitatory.
+
+922
+01:38:28,280 --> 01:38:32,920
+That's right. That's right. And that's exactly how these act. They act, in fact, directly on the GABA
+
+923
+01:38:34,520 --> 01:38:42,040
+receptor and they facilitate its action. And so this is... They work. They just have some problems.
+
+924
+01:38:42,040 --> 01:38:46,760
+And not everybody can tolerate them. They cause some cognitive slowing and sedation and so on.
+
+925
+01:38:46,760 --> 01:38:50,840
+It's like they have some issues. In which neurons in particular do we think that they're
+
+926
+01:38:50,840 --> 01:38:57,480
+concentrated in their action in. That is a great question. It's subject of a lot of research. If we
+
+927
+01:38:57,480 --> 01:39:05,000
+understood that deeply, then we could make a separate intervention targeted to those cells.
+
+928
+01:39:05,000 --> 01:39:09,640
+The problem is that we don't yet know that exactly. We don't know exactly which cells are
+
+929
+01:39:10,440 --> 01:39:17,480
+the most anxiety relevant cells that these medications are targeting. There are some hints,
+
+930
+01:39:17,480 --> 01:39:22,760
+but I would say not factually known yet. But you're getting to this key point where optogenetics
+
+931
+01:39:22,760 --> 01:39:26,440
+was helpful because then we could ask that and answer that question. We could say, okay, which
+
+932
+01:39:26,440 --> 01:39:34,200
+cells govern the different features of anxiety? And then, now, what am I talking about here with
+
+933
+01:39:34,200 --> 01:39:37,160
+different features? Well, actually, this is kind of interesting when you think about it. So what
+
+934
+01:39:37,160 --> 01:39:44,120
+is anxiety? Well, it's actually got different parts to it. First of all, there's physiology.
+
+935
+01:39:44,120 --> 01:39:49,800
+We've all been anxious. We know heart beating faster, breathing faster. So there's physiology
+
+936
+01:39:49,800 --> 01:39:58,840
+that changes. Then there's also a behavioral change. When we're anxious, we avoid the risky
+
+937
+01:39:58,840 --> 01:40:05,960
+situation. We have an impulse to avoid. If we're anxious out in the open, we avoid going out in the
+
+938
+01:40:06,040 --> 01:40:15,080
+open. And mice do this too. And then finally, there's a negative quality to it, which may sound
+
+939
+01:40:15,080 --> 01:40:18,200
+trivial. This is the negative valence. This is the hardest part to put your finger on.
+
+940
+01:40:18,840 --> 01:40:22,440
+This is the hardest part to put your finger on. And it's the most mysterious and...
+
+941
+01:40:22,440 --> 01:40:26,280
+Perhaps the most difficult, meaning perhaps the most difficult to experience.
+
+942
+01:40:27,400 --> 01:40:33,080
+It's the most difficult to experience. And it's also the most difficult to understand why we have
+
+943
+01:40:33,160 --> 01:40:39,000
+this. If we're already avoiding the risky situation, why does nature also have to make us
+
+944
+01:40:39,000 --> 01:40:45,400
+feel bad? And there are some very interesting evolutionary discussions one can have about that.
+
+945
+01:40:45,400 --> 01:40:51,240
+The fact is, though, that's how it is. Anxiety feels bad. And that's what makes it, in many cases,
+
+946
+01:40:51,240 --> 01:40:56,680
+so clinically, causes so much suffering in addition to the behavioral dysfunction that happens.
+
+947
+01:40:57,240 --> 01:41:00,760
+So actually, anxiety is complicated. It's got these different parts. And they all come on
+
+948
+01:41:00,760 --> 01:41:05,000
+together, all go away together. And then you've got to ask, okay, these are so different. They're
+
+949
+01:41:05,000 --> 01:41:09,800
+probably controlled by different cells, right? So you've got behavior, and you've got breathing,
+
+950
+01:41:10,360 --> 01:41:14,520
+and you've got inner subjective sense. These are all very different, probably different
+
+951
+01:41:14,520 --> 01:41:20,200
+cells are doing it. So then right away, you've got to ask, what are we going to target? And so we
+
+952
+01:41:20,200 --> 01:41:25,480
+thought we need to figure out this. And so we used, in 2013, we did an optogenetics experiment
+
+953
+01:41:25,480 --> 01:41:33,000
+that targeted different parts of what we thought could be the anxiety pathway. And we found that,
+
+954
+01:41:33,000 --> 01:41:39,400
+indeed, different cells control each of these different parts. There's a set of cells that
+
+955
+01:41:39,400 --> 01:41:45,800
+control the breathing changes. And there's another set of cells right nearby that control the
+
+956
+01:41:45,800 --> 01:41:52,120
+behavioral changes, avoiding risky situations. And there's yet a third set of cells that control the
+
+957
+01:41:52,120 --> 01:41:59,880
+negative valence, the internal state. Each cleanly controls a separate feature of anxiety.
+
+958
+01:41:59,880 --> 01:42:04,520
+And we did this with optogenetics, introducing light sensitivity.
+
+959
+01:42:05,160 --> 01:42:11,400
+And then reproducing each of these completely distinct manifestations of anxiety.
+
+960
+01:42:12,120 --> 01:42:18,680
+Exactly, exactly. So we found we could turn up or down each feature in mice completely separately
+
+961
+01:42:18,680 --> 01:42:23,400
+from the others. We could have animals that, and this got so interesting philosophically,
+
+962
+01:42:23,400 --> 01:42:32,520
+we could make animals avoid the open area, the exposed realm that people and mice, but we don't,
+
+963
+01:42:32,520 --> 01:42:36,360
+many people don't like being out in exposed areas. Mice definitely don't, because that's when they're
+
+964
+01:42:36,360 --> 01:42:45,960
+going to get eaten. We could make mice be much more avoidant of an open space
+
+965
+01:42:46,280 --> 01:42:53,320
+with a specific cell type optogenetic intervention. But the mice didn't care that this was happening.
+
+966
+01:42:53,320 --> 01:42:59,960
+There was no negative balance to it. And this was so interesting that we could create the behavioral
+
+967
+01:42:59,960 --> 01:43:05,560
+avoidance of anxiety without the mice, without the negative feeling, having this negativity.
+
+968
+01:43:05,560 --> 01:43:11,960
+And so that it turns out then that behavioral states that mammals have, they can be cleanly
+
+969
+01:43:12,760 --> 01:43:17,320
+broken apart into these features, and we could show that with optogenetics. That was one of my,
+
+970
+01:43:19,080 --> 01:43:23,560
+one of the papers from that period of time that was most interesting, because it was so
+
+971
+01:43:23,560 --> 01:43:27,400
+interesting in that regard. And other people, Katherine Dulock, for example, at Harvard has
+
+972
+01:43:27,400 --> 01:43:33,880
+done some great work on parenting another quintessential mammalian state using the same
+
+973
+01:43:33,880 --> 01:43:40,120
+set of techniques, optogenetic techniques that we described. She did this in 2018. Mice are
+
+974
+01:43:40,120 --> 01:43:45,800
+pretty good parents. They take care of their young, mostly. That can break down at times,
+
+975
+01:43:45,800 --> 01:43:52,280
+but they care for their young. And Katherine Dulock's lab did an amazing experiment. They
+
+976
+01:43:52,280 --> 01:43:59,800
+optogenetically found that the different parts of parenting could be broken down into their
+
+977
+01:43:59,800 --> 01:44:07,880
+sub features as well. And the two parts of parenting that were broken down in this way are
+
+978
+01:44:08,840 --> 01:44:16,440
+going out to find the young and bring them back to the nest. So go and get your kids and bring
+
+979
+01:44:16,440 --> 01:44:21,160
+them back home. And anybody who has kids knows that's a big part of being a parent. You got to
+
+980
+01:44:22,280 --> 01:44:29,400
+corral them, get them back to the safe spot. But that part of parenting, the mice do very well.
+
+981
+01:44:29,400 --> 01:44:36,120
+They also care for the young. They groom them. That's an extremely important part, both human
+
+982
+01:44:36,280 --> 01:44:43,320
+and mouse parenting, of course, is grooming the offspring. Turns out there's a parenting
+
+983
+01:44:43,960 --> 01:44:51,240
+controlling area, but the go and get the kids cells are different from the groom the kids'
+
+984
+01:44:51,240 --> 01:44:56,600
+cells. And you can optogenetically break them apart very cleanly and show how this parenting
+
+985
+01:44:56,600 --> 01:45:02,440
+state is assembled from its features. And this kind of thing has been, those are just two examples,
+
+986
+01:45:02,440 --> 01:45:08,200
+but that kind of thing really gets to the heart of what's so interesting about the brain is how
+
+987
+01:45:08,200 --> 01:45:16,280
+do these complex states, how are they pieced together from cells? Why does anxiety track so
+
+988
+01:45:16,280 --> 01:45:21,960
+closely in people with autism? Have you been able to glean any insights into that?
+
+989
+01:45:24,680 --> 01:45:30,360
+You know, autism is something that interests me immensely. What do we really understand about this
+
+990
+01:45:30,360 --> 01:45:35,720
+disease? I think we know that it's got a significant genetic component. It's not
+
+991
+01:45:35,720 --> 01:45:43,240
+entirely clear what triggers it. But, you know, it's phenotype, of course, exists on a
+
+992
+01:45:43,240 --> 01:45:51,320
+pretty extreme spectrum in terms of functionality, superpowers and super deficits. But what do we
+
+993
+01:45:51,320 --> 01:45:58,280
+know about autism? And then specifically, why is it that anxiety tracks so closely in people with it?
+
+994
+01:45:59,160 --> 01:46:05,640
+This autism is one of my main clinical focus areas. This is actually my clinic office here. I see
+
+995
+01:46:05,640 --> 01:46:12,520
+patients with autism spectrum disorders here. I know that they are hard to treat. There's not a
+
+996
+01:46:12,520 --> 01:46:19,880
+medication that treats autism. But as you say, a lot of them are very anxious. And that I can help
+
+997
+01:46:19,880 --> 01:46:27,480
+with. I can help them with their anxiety, with medications like the benzodiazepine class of
+
+998
+01:46:27,480 --> 01:46:34,680
+medications that we talked about. Those help the anxiety. They don't help the social problems per
+
+999
+01:46:34,680 --> 01:46:40,040
+se, but they help with the anxiety. And why is that? Why are these patients with autism so,
+
+1000
+01:46:40,920 --> 01:46:46,200
+why is anxiety such a comorbid symptom, as we say? Why does it show up so much in autism?
+
+1001
+01:46:46,840 --> 01:46:58,440
+Well, the human social interaction world is very complicated. It's very fraught with possibilities
+
+1002
+01:46:58,440 --> 01:47:08,520
+for misunderstanding, catastrophic errors of interpretation, embarrassment, humiliation,
+
+1003
+01:47:08,520 --> 01:47:14,680
+confusion. We have a very social world that we've created. And people who have
+
+1004
+01:47:16,440 --> 01:47:22,680
+difficulty with keeping up with the fast rate of social information and making sense of it,
+
+1005
+01:47:24,040 --> 01:47:29,400
+it's a very anxiety-provoking situation. When you're talking to somebody, how do you know
+
+1006
+01:47:30,680 --> 01:47:36,360
+where to look, what to do? What part of them do you pay attention to? Do you look at their eyes?
+
+1007
+01:47:36,360 --> 01:47:41,080
+Do you look at their mouth? Do you look at their body movements? God forbid, there's more than one
+
+1008
+01:47:41,080 --> 01:47:46,680
+person. In a conversation with three people, how do you know who to look at? How do people know what
+
+1009
+01:47:46,680 --> 01:47:53,720
+to say next? To someone on the autism spectrum, these are extremely challenging situations,
+
+1010
+01:47:53,720 --> 01:47:59,960
+because it's very hard to keep up with this high information rate of the social interaction. And
+
+1011
+01:47:59,960 --> 01:48:05,000
+this is something in the book, Projections, that we've talked about. There's a whole chapter,
+
+1012
+01:48:05,000 --> 01:48:13,400
+a story on autism and on how this might happen neurobiologically, how this information overload
+
+1013
+01:48:13,400 --> 01:48:21,720
+might happen. We have patients who are as confused by social interaction and as overwhelmed by it,
+
+1014
+01:48:21,720 --> 01:48:28,680
+as you can imagine, somebody not knowing the language, not knowing the customs of a culture,
+
+1015
+01:48:28,680 --> 01:48:34,680
+and being placed into it while extremely consequential things involving them were
+
+1016
+01:48:34,680 --> 01:48:39,160
+happening in real time. And that's kind of the situation. And so you can understand
+
+1017
+01:48:39,160 --> 01:48:45,320
+anxiety being a big part of autism, just being unable to predict what happens. And so these are
+
+1018
+01:48:47,160 --> 01:48:52,760
+patients who we can help with their anxiety, still not yet with their autism. The genes that are
+
+1019
+01:48:52,760 --> 01:49:00,520
+linked to autism, there are many. It's a very genetically determined disease, not completely,
+
+1020
+01:49:00,520 --> 01:49:06,600
+but heavily genetically. The problem is, like so many of the psychiatric disorders, the genetic
+
+1021
+01:49:07,400 --> 01:49:12,520
+underpinnings, it's a patchwork. It's many different genes that all contribute a little bit
+
+1022
+01:49:12,520 --> 01:49:17,480
+in those cases. And so with all the beautiful genetics, which has given us a lot of insight,
+
+1023
+01:49:18,200 --> 01:49:22,040
+it hasn't led to treatments because there's not a single gene, single protein,
+
+1024
+01:49:23,000 --> 01:49:28,120
+single cells intervening yet. Are you optimistic that that's going to change? I mean, what does
+
+1025
+01:49:29,240 --> 01:49:34,600
+the treatment for someone with autism look like in the coming decade? Let's keep it relatively
+
+1026
+01:49:34,600 --> 01:49:44,840
+short term. Well, the exciting thing is Optogenetics has given us a window now into what could be
+
+1027
+01:49:45,560 --> 01:49:53,320
+this sort of 10 year time scale of autism treatment because now, and again, mice are social,
+
+1028
+01:49:53,320 --> 01:49:58,600
+not only do they parent, but they're also social. They will choose to spend time with another
+
+1029
+01:50:00,040 --> 01:50:09,560
+even same sex member of their species compared to being alone. And they have complex interactions.
+
+1030
+01:50:09,560 --> 01:50:16,680
+They have a give and take. They exchange information. And there's a lot of it.
+
+1031
+01:50:18,040 --> 01:50:23,720
+And if you make mutations in some of the genes that are most powerfully related to autism,
+
+1032
+01:50:24,280 --> 01:50:29,720
+that come from the human literature, you can make mice that have impaired social interaction as
+
+1033
+01:50:29,720 --> 01:50:34,840
+well. And we've done this and we've studied these in laboratory and we've asked, can we correct
+
+1034
+01:50:35,800 --> 01:50:43,240
+the social deficit of these mice? And we can. And this is a whole thread of work in my laboratory,
+
+1035
+01:50:43,240 --> 01:50:52,440
+studying social interaction and asking which cells, which circuits in the brain can improve
+
+1036
+01:50:53,480 --> 01:51:03,000
+social interaction, including in these autism mutation mice. And what's pretty interesting
+
+1037
+01:51:03,080 --> 01:51:09,640
+is that if you think about social interaction, just like everything else, and the parenting
+
+1038
+01:51:09,640 --> 01:51:14,120
+example made that clear, there are different parts to it. Part of a social interaction
+
+1039
+01:51:14,680 --> 01:51:19,960
+might be the motivation, the drive to be social, and that could vary in people. Also,
+
+1040
+01:51:20,920 --> 01:51:27,720
+the cognition, the understanding, the insight, that could be separate. That's another part of
+
+1041
+01:51:27,720 --> 01:51:32,920
+being social, is understanding what the heck's going on. And probably different cells affect
+
+1042
+01:51:32,920 --> 01:51:38,840
+each of these. And indeed we found that. So there are some dopamine neurons that do seem to increase
+
+1043
+01:51:38,840 --> 01:51:43,560
+the drive for social interaction. But then there are other cells in the front of the brain,
+
+1044
+01:51:44,600 --> 01:51:50,680
+some of the most advanced complex cognitions happen, the frontal cortex, that may be more
+
+1045
+01:51:50,680 --> 01:51:58,840
+involved in the information fire hose that's coming through with a social interaction. How do
+
+1046
+01:51:58,840 --> 01:52:03,720
+you keep up with it? How do you make sense of it? That may be more of the cognitive side. And so
+
+1047
+01:52:03,720 --> 01:52:07,960
+just like everything else, you've got to figure out what's most important. And we found those
+
+1048
+01:52:07,960 --> 01:52:13,800
+though. We now know the cells that can improve social interaction in these different areas.
+
+1049
+01:52:13,800 --> 01:52:22,520
+And now that we understand these cells better, you can imagine designing medications that for
+
+1050
+01:52:22,520 --> 01:52:31,080
+the first time are aligned with a specific kind of cell that's known to be important in social
+
+1051
+01:52:31,080 --> 01:52:36,520
+interaction. And that's the exciting opportunity for the future. We're not there yet, but at least
+
+1052
+01:52:36,520 --> 01:52:43,400
+now we have a causal cellular understanding, and that opens so many doors. Is it your belief,
+
+1053
+01:52:43,400 --> 01:52:51,480
+Carl, that at least in the next decade or so, optogenetics will be the tool for establishing
+
+1054
+01:52:52,200 --> 01:52:59,560
+cellular signal-wise causality, but not be the mode of treatment? In other words,
+
+1055
+01:53:00,200 --> 01:53:04,440
+I'm sure people ask you this all the time. I certainly have a thought on this, but I thought
+
+1056
+01:53:04,440 --> 01:53:09,800
+it's worth asking just to make sure everyone's on the same page. Is it your belief that patients
+
+1057
+01:53:09,880 --> 01:53:15,640
+are going to be coming into your clinic with probes that you will be lighting directly
+
+1058
+01:53:16,200 --> 01:53:25,320
+to actually change the neurotransmitters via the light? Or is it that we'll just use that as the
+
+1059
+01:53:25,320 --> 01:53:30,920
+tool to establish where to target our treatments? Or do you think it's going to be a combination of
+
+1060
+01:53:30,920 --> 01:53:38,920
+these? Optogenetics, in my view, is by far the most important aspect of it is it's a discovery
+
+1061
+01:53:38,920 --> 01:53:43,800
+and understanding tool. This helps us because this brings so much that we didn't have before.
+
+1062
+01:53:44,760 --> 01:53:47,800
+Understanding what actually matters, what makes things happen in the brain,
+
+1063
+01:53:48,840 --> 01:53:53,960
+at the level of cells is the opportunity that optogenetics creates, and that understanding
+
+1064
+01:53:53,960 --> 01:53:58,760
+then opens the door to every kind of treatment. Once you understand that, which cells are actually
+
+1065
+01:53:58,760 --> 01:54:04,520
+causing and relieving symptoms, you can design medications that address those cells, you can
+
+1066
+01:54:04,520 --> 01:54:11,480
+design brain stimulation treatments targeted to those cells or their axons as they project across
+
+1067
+01:54:11,480 --> 01:54:23,080
+the brain. It opens up every door in principle, providing this causal foundation. That said,
+
+1068
+01:54:23,080 --> 01:54:27,640
+so that I see is by far the future. It's the understanding that opens every treatment door.
+
+1069
+01:54:27,640 --> 01:54:32,680
+That said, my friend and colleague, Botan Roska, in Switzerland, just this year
+
+1070
+01:54:33,480 --> 01:54:40,920
+was able to confer a form of sight onto a blind person with optogenetics. This was just published
+
+1071
+01:54:40,920 --> 01:54:48,280
+in the journal Nature Medicine this year. Ten years ago, he and I had collaborated on a study
+
+1072
+01:54:48,280 --> 01:54:57,800
+where he put one of our microbial opsins into a human retina, cadaveric, after life. He had ways
+
+1073
+01:54:57,800 --> 01:55:05,080
+of keeping the retina alive for some time in these donated retinas. He was able to show
+
+1074
+01:55:05,080 --> 01:55:11,240
+optogenetics worked perfectly well to control human retinal neurons. He spent the next 10 years
+
+1075
+01:55:13,080 --> 01:55:18,920
+going through all the hoops of going through primate studies and then clinical trials.
+
+1076
+01:55:19,640 --> 01:55:27,640
+Then just this year, he's a vision scientist and he focused on retinal degeneration and was able
+
+1077
+01:55:27,640 --> 01:55:35,000
+to take a human being who was blind from retinal degeneration and he was able to create light
+
+1078
+01:55:35,000 --> 01:55:40,120
+sensitivity so this person could accurately reach for objects on a table that was not possible before.
+
+1079
+01:55:40,920 --> 01:55:49,160
+Literally, making a blind person see, at least to some extent, can happen. I think there may be
+
+1080
+01:55:49,160 --> 01:55:56,920
+cases like that. Of course, they're uplifting to see, but the biggest picture is that it's a
+
+1081
+01:55:56,920 --> 01:56:04,360
+discovery tool. I want to pivot a minute to talk about your book because I think it becomes a great
+
+1082
+01:56:04,360 --> 01:56:10,040
+place for us to now talk about some of the mental illnesses that people will be familiar with,
+
+1083
+01:56:10,040 --> 01:56:15,880
+depression, mania, and its cousin bipolar disorder, eating disorders, all of these things that you've
+
+1084
+01:56:15,880 --> 01:56:22,760
+written about so eloquently. First of all, I want to tell you that if I'm not already in complete awe
+
+1085
+01:56:22,760 --> 01:56:30,920
+of your scientific achievements, I'm equally in awe of your writing achievements. I just don't
+
+1086
+01:56:30,920 --> 01:56:37,080
+think it's fair that one person can be so gifted on two dimensions, Carl. It's really disappointing
+
+1087
+01:56:37,080 --> 01:56:41,080
+and I hope there's something in life that you're horrible at so that I don't feel even worse about
+
+1088
+01:56:41,080 --> 01:56:48,680
+myself. No, seriously, your book is unbelievable. It's called Projections and I've read it twice.
+
+1089
+01:56:49,400 --> 01:56:58,680
+I will encourage every listener to read it because it will shatter some of the images people
+
+1090
+01:56:58,680 --> 01:57:04,680
+have of scientists because you don't write like a scientist. I say that as somebody who's in the
+
+1091
+01:57:04,680 --> 01:57:13,160
+process of finishing up their book. The biggest challenge I have in writing is making it accessible
+
+1092
+01:57:13,160 --> 01:57:17,960
+to everybody, making it interesting enough that someone for whom this is not their life
+
+1093
+01:57:17,960 --> 01:57:26,200
+wants to read it. You've done that in spades. This really reads like at times poetry.
+
+1094
+01:57:27,960 --> 01:57:34,120
+I know you've always had an interest in writing. Did it require much effort and discipline to write
+
+1095
+01:57:34,120 --> 01:57:40,440
+about such technical matters at times, but also to write about the clinical conditions,
+
+1096
+01:57:41,240 --> 01:57:47,400
+the psychiatric conditions that everybody's familiar with? It seemed effortless that you
+
+1097
+01:57:47,480 --> 01:57:52,120
+were able to do this in such an easily accessible and artistic way.
+
+1098
+01:57:53,080 --> 01:58:00,600
+First of all, thank you, Pete. It means so much to hear that. You never really know when you
+
+1099
+01:58:01,160 --> 01:58:09,640
+take a step like this or a risk like this if it's really working. This was a risk. This was
+
+1100
+01:58:09,640 --> 01:58:14,600
+something that was very different. It's not what people expected. As you say, not a typical
+
+1101
+01:58:15,560 --> 01:58:27,480
+scientific text at all. The goal I had was to help everybody in the world, whatever their
+
+1102
+01:58:27,480 --> 01:58:35,320
+background, I wanted to help them understand and feel what these altered states are. That's such
+
+1103
+01:58:35,320 --> 01:58:40,920
+a big part of the book is to work with that feeling, to help people understand and feel
+
+1104
+01:58:40,920 --> 01:58:47,160
+for themselves what mania might be like or what the fragmentation of schizophrenia might be like,
+
+1105
+01:58:47,160 --> 01:59:00,280
+or the crushing pathological grief of bereavement, or the incredibly complex
+
+1106
+01:59:01,080 --> 01:59:08,200
+states of eating disorders where you have these astonishing behavioral patterns that seem so
+
+1107
+01:59:11,240 --> 01:59:18,520
+inexplicable compared to what you would think would be what we were evolved to do.
+
+1108
+01:59:19,800 --> 01:59:25,000
+Everything from these uplifting exuberant states of mania to the depths, I wanted people to feel
+
+1109
+01:59:25,000 --> 01:59:29,720
+this. I had to do this with the writing, with the words. I wanted to do it with the writing
+
+1110
+01:59:29,720 --> 01:59:38,760
+and the words. In each chapter, the writing is adapted to cause that feeling. In the mania story,
+
+1111
+01:59:39,560 --> 01:59:47,800
+the words are exuberant in the way that mania is in the schizophrenia or psychosis story.
+
+1112
+01:59:49,320 --> 01:59:58,840
+There's a fragmentation and a disorganization that happens. In all these cases, I had to work
+
+1113
+01:59:58,840 --> 02:00:05,480
+with words in ways that are not typical for a scientist. Of course, I wanted to do it. This was
+
+1114
+02:00:05,480 --> 02:00:12,440
+my initial passion in life. For me, it was incredibly fulfilling, actually, to come back
+
+1115
+02:00:12,440 --> 02:00:18,600
+and be able to do this. I'd always wanted to do it. I had now not just the desire, but I had a
+
+1116
+02:00:18,600 --> 02:00:26,120
+mission. I had something I wanted to tell. I wanted to share with everybody. For me, it was
+
+1117
+02:00:26,120 --> 02:00:33,480
+incredibly addictive, actually. I did the bulk of the writing over a couple years from
+
+1118
+02:00:33,480 --> 02:00:45,000
+2017 to 2019 or so, and then wrapped it up in 2020. I looked forward to this so much every day.
+
+1119
+02:00:45,000 --> 02:00:52,040
+I would block out a couple hours, but a different time each day, depending on my schedule. Life's
+
+1120
+02:00:52,040 --> 02:00:59,400
+complex now. I've got five total kids. Things are hopping at home. My wife, Michelle, is an
+
+1121
+02:00:59,400 --> 02:01:05,720
+incredibly accomplished MD-PhD herself, also running clinical trials. Also one of our classmates.
+
+1122
+02:01:06,200 --> 02:01:12,920
+Also one of our classmates. Of course, she's in the hospital a lot. No day is as simple or predictable.
+
+1123
+02:01:15,160 --> 02:01:19,880
+The writing time would be at different times, often very late at night, often early in the
+
+1124
+02:01:19,880 --> 02:01:24,200
+morning. I tried to block out two hours, but I would find I would look forward to that like
+
+1125
+02:01:24,280 --> 02:01:32,280
+almost nothing else. I just relished the joy of finding the right word and spending days
+
+1126
+02:01:32,280 --> 02:01:39,720
+thinking about trying to find the right turn of phrase. It was incredibly uplifting, honestly,
+
+1127
+02:01:39,720 --> 02:01:45,080
+even though, of course, a big challenge logistically. One of the things I love about the
+
+1128
+02:01:45,080 --> 02:01:53,480
+book is how you really try to dive into the evolutionary basis for mental illness. This is
+
+1129
+02:01:53,480 --> 02:01:58,040
+something I'm always obsessed with. I always love trying to think about things through an
+
+1130
+02:01:58,040 --> 02:02:04,840
+evolutionary lens. Sometimes the answers come a little easier than others. One of the places
+
+1131
+02:02:04,840 --> 02:02:10,360
+where it comes up is in the story of Alexander. This is a gentleman, won't give away the entire
+
+1132
+02:02:10,360 --> 02:02:17,480
+story, but basically post-9-11 is triggered into what sounds like his first manic event, correct?
+
+1133
+02:02:17,480 --> 02:02:23,000
+That's right. That's right. Which then gets into this discussion of mania. What is mania?
+
+1134
+02:02:23,000 --> 02:02:28,280
+One of the things I found very interesting about this was the discussion about the evolutionary
+
+1135
+02:02:28,280 --> 02:02:35,800
+basis for mania. This is interesting to me personally because this is a very personal
+
+1136
+02:02:35,800 --> 02:02:43,640
+story, I guess, but when I was in residency, I was encouraged by my wife actually to see
+
+1137
+02:02:43,640 --> 02:02:52,280
+a psychiatrist. She had some concern about some of my behaviors. The psychiatrist, after one day,
+
+1138
+02:02:52,360 --> 02:02:58,120
+I don't know if she was right or wrong, but she decided I was hypomanic. That was her diagnosis.
+
+1139
+02:02:59,880 --> 02:03:03,640
+That, of course, got me very interested in, well, why is this the case? How does she know?
+
+1140
+02:03:04,840 --> 02:03:08,920
+Why would this be? I began examining everything I'd ever done in life.
+
+1141
+02:03:09,800 --> 02:03:14,760
+One of the things I came across was at the time, it was a psychiatrist at Hopkins,
+
+1142
+02:03:15,320 --> 02:03:21,880
+so this would have been 2004, 2005, had written a book suggesting that the prevalence of hypomania
+
+1143
+02:03:21,880 --> 02:03:27,480
+in North America was higher than anywhere else in the world because it had the highest
+
+1144
+02:03:27,480 --> 02:03:34,360
+concentration of recent immigrants. The argument was, well, by definition, if you have a collection
+
+1145
+02:03:34,360 --> 02:03:43,160
+of people who are one to five generations away from people who had basically the nerve to leave
+
+1146
+02:03:43,160 --> 02:03:49,320
+a comfortable life elsewhere, and in the case of certainly my parents and many people who came here,
+
+1147
+02:03:49,320 --> 02:03:52,280
+basically to come to nothing. You don't know the language, you don't know the culture, you don't
+
+1148
+02:03:52,280 --> 02:03:58,120
+know the people. It wouldn't be surprising that you could concentrate hypomania here.
+
+1149
+02:03:59,000 --> 02:04:02,920
+A, I'm curious as to whether you have any thoughts about that theory, but perhaps more importantly,
+
+1150
+02:04:03,560 --> 02:04:10,760
+let's dive into this evolutionary basis for mania because the point that you get into about
+
+1151
+02:04:10,760 --> 02:04:16,040
+how there are sometimes wherein traits are very valuable at the population level and not at the
+
+1152
+02:04:16,040 --> 02:04:21,400
+individual level, I found that fascinating. Well, first of all, that's a very interesting
+
+1153
+02:04:23,320 --> 02:04:30,600
+route into this discussion, which is the immigrants, the recent immigrants, and the
+
+1154
+02:04:31,320 --> 02:04:37,240
+possible genetic link to have the, in recent times, to have the get up and go to leave,
+
+1155
+02:04:38,120 --> 02:04:45,400
+to take the risks, to have the energy, to have the motivation to actually make it happen,
+
+1156
+02:04:45,400 --> 02:04:52,200
+sustain it, this complex goal with so many possible downsides. That's no small thing.
+
+1157
+02:04:52,200 --> 02:05:00,840
+Some people wouldn't want to do it, some would. And mania is, it's one of the poles of bipolar
+
+1158
+02:05:00,840 --> 02:05:08,360
+disorder, which is a very genetic, highly genetic disorder, one of the most in psychiatry, bipolar
+
+1159
+02:05:08,360 --> 02:05:13,880
+type one disorder, extraordinarily genetically determined. And what is it? Well, it's not these
+
+1160
+02:05:13,880 --> 02:05:19,320
+two poles. Just to be clear, Carl, does that mean that bipolar stems from bipolar, or it just
+
+1161
+02:05:19,320 --> 02:05:26,040
+clusters with other psychiatric illness? So in other words, schizophrenia or significant depression
+
+1162
+02:05:26,040 --> 02:05:31,320
+would also be genetic precursors to it. What it means in this case is that it's, if you look at
+
+1163
+02:05:32,040 --> 02:05:38,120
+monozygotic twins, especially those that are raised apart, that's where the most pure
+
+1164
+02:05:38,120 --> 02:05:44,920
+information comes from. You can look at the concordance of mania or bipolar disorder appearing
+
+1165
+02:05:44,920 --> 02:05:52,600
+in each of these twins, identical twins. It's more than 50% for bipolar type one, in fact,
+
+1166
+02:05:52,600 --> 02:05:59,800
+verging above 70%. So you have a very strong bipolar type one genetic. And just out of
+
+1167
+02:05:59,800 --> 02:06:05,880
+curiosity, what is it for autism in that same setting? Autism also high, maybe just a touch
+
+1168
+02:06:05,880 --> 02:06:13,720
+under that. With depression, it's like 50%. And so most of the psychiatric disorders have
+
+1169
+02:06:13,720 --> 02:06:22,040
+strong genetic links. They tend to be less than 80%. But in this kind of 50 to 80% range for many of
+
+1170
+02:06:22,040 --> 02:06:28,760
+the severe ones from depression, schizophrenia, to autism, to bipolar. And so this is something we
+
+1171
+02:06:28,840 --> 02:06:37,240
+face in schizophrenia and in autism. But in bipolar, it's extremely strong. So right away,
+
+1172
+02:06:37,240 --> 02:06:43,720
+we know there's that link. And mania is the positive pull of bipolar disorder. The other
+
+1173
+02:06:43,720 --> 02:06:50,680
+pull is depression. People with bipolar type one have had at least one manic episode where they
+
+1174
+02:06:50,680 --> 02:06:56,920
+have a period of time, could be a week, where they've had this very clear, discrete state of
+
+1175
+02:06:57,480 --> 02:07:04,200
+elevated mood, increased goal directed activity, projects, plans, spending, taking risks, faster
+
+1176
+02:07:04,200 --> 02:07:13,000
+speech, not needing sleep, truly not needing sleep, not nearly as much. And, you know, honestly,
+
+1177
+02:07:13,000 --> 02:07:19,960
+even though this causes problems, and serious problems, and not to sugarcoat it at all, mania
+
+1178
+02:07:20,520 --> 02:07:25,480
+can do terrible things. People make very poor decisions, they can be fatal.
+
+1179
+02:07:25,480 --> 02:07:29,640
+Yeah, I was just gonna say, aren't people even slightly more likely to harm themselves
+
+1180
+02:07:29,640 --> 02:07:35,240
+during a manic phase than the depressive phase? Yes, or the transition from out of depression
+
+1181
+02:07:35,240 --> 02:07:40,520
+to mania, that's actually probably the most risky time when they might still have some
+
+1182
+02:07:40,520 --> 02:07:43,560
+of the negativity from the depression, but now they have the energy to.
+
+1183
+02:07:45,240 --> 02:07:51,400
+Yeah, exactly. And so that, not to say there's, you know, it's a problem, but yet at the same
+
+1184
+02:07:51,400 --> 02:07:55,400
+time, you know, some of my most memorable experiences in talking with manic patients is,
+
+1185
+02:07:56,040 --> 02:08:01,320
+I actually love talking to them because there's such a charge of energy, anything's possible,
+
+1186
+02:08:01,320 --> 02:08:09,640
+they're funny, they're warm, they're charismatic. And it's so easy to see that this is a state
+
+1187
+02:08:09,640 --> 02:08:14,440
+that's, it's not a bunch of random things happening in the brain. This is a coherent
+
+1188
+02:08:15,320 --> 02:08:20,120
+state of elevated mood, it's consistent, you see it in one patient, you see it in another patient,
+
+1189
+02:08:20,680 --> 02:08:27,160
+it's something that's there that human beings have as something they can do, a sustained
+
+1190
+02:08:27,800 --> 02:08:32,520
+state of elevated mood and energy. And you look at that and you think, okay,
+
+1191
+02:08:34,200 --> 02:08:42,360
+you know, why? And also, you know, what does that mean for treatment? Is there an ethical issue
+
+1192
+02:08:42,680 --> 02:08:50,920
+with treatment? Is there, are there cases where mania is positive? And this is something that the
+
+1193
+02:08:50,920 --> 02:08:56,520
+story in the book and projections really made me think so hard about. This was actually when the
+
+1194
+02:08:56,520 --> 02:09:02,840
+seed for the book was first planted in my head. It was just 20 years ago, right after 9-11,
+
+1195
+02:09:02,840 --> 02:09:10,040
+and this patient Alexander, he had never had any psychiatric illness at all, nor in his family.
+
+1196
+02:09:10,680 --> 02:09:17,240
+But he was flipped into a completely classic full-blown mania after 9-11. He had no particular
+
+1197
+02:09:17,240 --> 02:09:24,360
+connection. In fact, he was on a sailing trip in the Mediterranean with his wife at the time,
+
+1198
+02:09:24,360 --> 02:09:32,040
+came back home after 9-11. And a couple of weeks later, he was manic. All these symptoms that we
+
+1199
+02:09:32,040 --> 02:09:40,760
+talked about, and it was a huge problem. He was, but his, but he had this appropriate, or at least
+
+1200
+02:09:41,560 --> 02:09:48,040
+aligned quality to his symptoms. He wanted to, he was, you know, he was retirement age,
+
+1201
+02:09:48,040 --> 02:09:54,440
+but he was training himself to go into battle. He was rappelling down trees. He was running
+
+1202
+02:09:54,440 --> 02:10:02,520
+through the night. He was reading about military strategy. And then it verged into this, you know,
+
+1203
+02:10:05,240 --> 02:10:11,880
+very difficult, emotionally challenging. He was screaming. He was hyper-religious. Everything had
+
+1204
+02:10:11,880 --> 02:10:20,200
+become quite extreme and incompatible with his life. And so that ended up bringing him to the
+
+1205
+02:10:20,200 --> 02:10:26,280
+hospital. But, you know, looking at this and we think, okay, this is a state of elevated mood and
+
+1206
+02:10:26,280 --> 02:10:31,640
+energy. It was triggered by context. And this is actually the flip side of what you're saying with
+
+1207
+02:10:31,640 --> 02:10:39,240
+the immigrants. Not only is there likely to be a set of conditions that led to these people being
+
+1208
+02:10:39,240 --> 02:10:44,360
+able to take, have the energy and willingness to take the risk and meet all the incredible challenges
+
+1209
+02:10:44,520 --> 02:10:53,240
+of moving across countries and cultures. But then, you know, that's not this fight or flight
+
+1210
+02:10:53,240 --> 02:10:57,240
+response of a minute when you've got a threat and you have energy and then you meet the threat and
+
+1211
+02:10:57,240 --> 02:11:04,120
+then it's gone. We're talking about you need a sustained level of energy for weeks, months,
+
+1212
+02:11:04,120 --> 02:11:11,720
+years even, and to take a risk and a life shift like that. And so, you know, this is,
+
+1213
+02:11:12,520 --> 02:11:17,720
+everything is on a spectrum and you've got mania and then you've got this hypomanic state in between
+
+1214
+02:11:17,720 --> 02:11:25,720
+that makes a lot of sense that people who are able to sustain this elevated energy state are those
+
+1215
+02:11:25,720 --> 02:11:32,040
+that would be our immigrants. And it's a, and again, you have to look at this and think,
+
+1216
+02:11:32,040 --> 02:11:39,560
+it's a spectrum. Definitely it can be bad, but we have to value the whole spectrum and understand
+
+1217
+02:11:39,640 --> 02:11:42,920
+the whole spectrum. It's part of who we are as the human family.
+
+1218
+02:11:42,920 --> 02:11:48,760
+Why do you think that in the bipolar condition you have this pairing of such opposites?
+
+1219
+02:11:48,760 --> 02:11:56,600
+Is the depression a necessary part of bipolar to basically allow the recharging after, you know,
+
+1220
+02:11:56,600 --> 02:12:03,480
+this unbelievable discharge of emotional and physical energy? Because otherwise, it doesn't
+
+1221
+02:12:03,480 --> 02:12:08,840
+seem like these would, you know, like for example, why doesn't it just go normal affect mania, normal
+
+1222
+02:12:08,840 --> 02:12:14,840
+affect mania? That's a great question. We don't have the answer. Some people, some fortunate
+
+1223
+02:12:14,840 --> 02:12:19,800
+people are like that. There are, you can get a diagnosis of bipolar disorder without ever
+
+1224
+02:12:19,800 --> 02:12:27,240
+having a depression. One episode of mania gets you that diagnosis of bipolar type 1 and those people,
+
+1225
+02:12:27,800 --> 02:12:35,720
+there are people who haven't hit a major depression yet. That said, most of the time there is that
+
+1226
+02:12:35,720 --> 02:12:41,880
+other pole of the disorder. And what is it? We don't know. Short answer is we don't know. But
+
+1227
+02:12:43,320 --> 02:12:47,240
+a lot of interesting ideas. One could be sort of aligned with what you're saying, that there's some
+
+1228
+02:12:47,240 --> 02:12:54,120
+resource that's exhausted. Is it, you know, it's not a resource that we know what it is. We can't
+
+1229
+02:12:54,120 --> 02:13:03,640
+point to it. Is it a neural circuit, you know, state of some kind, a capability of a neural
+
+1230
+02:13:03,640 --> 02:13:10,360
+circuit that can become exhausted. We know neurons can run out of energy. This is part of how the
+
+1231
+02:13:10,360 --> 02:13:14,440
+brain stimulation to cause inhibition works, but that's all in a very fast time scale. You can
+
+1232
+02:13:14,440 --> 02:13:20,360
+exhaust neurons on seconds to minutes. It's not known what really could get exhausted on the
+
+1233
+02:13:20,360 --> 02:13:27,560
+week's scale. We don't know what that would be. Or maybe it's the termination mechanism that it
+
+1234
+02:13:27,560 --> 02:13:38,040
+just overshoots. Or maybe it's just that what's lost is a, the homeostatic thing that keeps energy
+
+1235
+02:13:38,040 --> 02:13:45,480
+in a tight range. And then it could go in either direction because you've lost some break that's
+
+1236
+02:13:45,480 --> 02:13:51,960
+present on either side. Not known, but a very interesting question. What is technically the
+
+1237
+02:13:51,960 --> 02:13:58,440
+most common psychiatric disorder? Is it depression? Actually the anxiety disorders, if you group them
+
+1238
+02:13:58,440 --> 02:14:05,240
+together, anxiety is the most common. And that is, but depression is certainly up there. That's
+
+1239
+02:14:07,720 --> 02:14:14,200
+in the top group for sure. Anxiety disorders are so underappreciated. A lot of people don't talk
+
+1240
+02:14:14,200 --> 02:14:21,560
+about them. A lot of people can make it through the day with anxiety, even if they're suffering
+
+1241
+02:14:21,560 --> 02:14:26,680
+terribly. So yeah, anxiety is most common. What has optogenetics taught us about depression?
+
+1242
+02:14:27,320 --> 02:14:32,440
+So this, you know, this is my clinical specialty. I have, you know, right here in this office, I have,
+
+1243
+02:14:32,440 --> 02:14:40,120
+you know, we do, I do vagus nerve stimulation. For example, this is a VNS therapy radio
+
+1244
+02:14:40,120 --> 02:14:46,120
+frequency controller. We have, we still do here electroconvulsive therapy. We do transcranial
+
+1245
+02:14:46,200 --> 02:14:53,240
+magnetic stimulation. Clinically, though we're looking for guidance from the science because
+
+1246
+02:14:53,240 --> 02:14:59,400
+it's still not known clinically what actually is going wrong in depression. We don't actually know
+
+1247
+02:14:59,400 --> 02:15:07,080
+that in a way that can guide therapies in the way that we'd like. And what's the, what's the
+
+1248
+02:15:07,080 --> 02:15:11,400
+scientific situation? Well, optogenetics has helped quite a bit because, and again, picking up on this
+
+1249
+02:15:11,400 --> 02:15:15,480
+theme, of course there's different parts to depression. And this is how we diagnose it. We ask
+
+1250
+02:15:15,560 --> 02:15:23,400
+about all these different parts. There's depressed mood and that's this negative state. Okay.
+
+1251
+02:15:24,120 --> 02:15:28,760
+There's hopelessness. So it's kind of the opposite of mania. A manic person thinks anything's
+
+1252
+02:15:28,760 --> 02:15:34,600
+possible. Depressed person thinks nothing's possible. There's a deep discounting of the value
+
+1253
+02:15:34,600 --> 02:15:40,200
+of effort. And this shows up as hopelessness. This even can lead to suicidality and certainly severe
+
+1254
+02:15:40,200 --> 02:15:44,680
+social and occupational dysfunction. And then there are other parts to depression. There's
+
+1255
+02:15:44,680 --> 02:15:49,480
+something called anhedonia, which is really interesting. This is the absence of pleasure.
+
+1256
+02:15:49,480 --> 02:15:53,640
+Yeah. This is perhaps the most insidious component of depression by far.
+
+1257
+02:15:53,640 --> 02:15:58,360
+Right. Right. And it's not commonly known. You don't, people on the street don't talk about
+
+1258
+02:15:58,360 --> 02:16:02,840
+anhedonia, right? It's, they'll say they're depressed, but nobody talks about their anhedonia.
+
+1259
+02:16:03,400 --> 02:16:09,240
+But it's an incredibly important symptom. It's a core, such a core symptom of depression that
+
+1260
+02:16:09,240 --> 02:16:13,880
+actually you can get a diagnosis of major depressive disorder without depressed mood.
+
+1261
+02:16:13,880 --> 02:16:21,720
+If you also have anhedonia, it's that important. And it's the absence of pleasure or joy from
+
+1262
+02:16:21,720 --> 02:16:27,640
+things that normally bring pleasure or joy. And we've all had a cold and we've known that taste
+
+1263
+02:16:28,680 --> 02:16:36,840
+is gone, food has lost all joy. It's things, even without the cold, with the anhedonia of depression,
+
+1264
+02:16:37,720 --> 02:16:43,640
+all the joy of food or social interaction or your children, your grandchildren,
+
+1265
+02:16:45,240 --> 02:16:53,960
+a book, a movie, all the joy of life is gone. And this is a horrific thing. It leads to very
+
+1266
+02:16:54,680 --> 02:16:58,600
+serious problems. And that's something that Optic Genetics has helped us understand.
+
+1267
+02:16:59,240 --> 02:17:05,400
+What do we know about that? Yeah. Where do the neurons reside and what are the neurotransmitters
+
+1268
+02:17:05,400 --> 02:17:12,200
+involved in the propagation of anhedonia? So, so again, you might say, how are you going to
+
+1269
+02:17:12,200 --> 02:17:18,360
+test this? And you can, you can set up very simple behaviors with, with animals that, that provide
+
+1270
+02:17:18,360 --> 02:17:26,680
+some insight. First of all, you could provide a simple choice for animals, mice like us, like
+
+1271
+02:17:26,680 --> 02:17:32,440
+sugary drinks, and you could give the animal a choice of a sugary drink or just water. And normally
+
+1272
+02:17:33,240 --> 02:17:38,680
+a mouse will prefer kind of like we do, they'll prefer the sugary drink and, and by a factor,
+
+1273
+02:17:38,680 --> 02:17:46,760
+you know, two to one or more. But a mouse that's been stressed, it's had some unpredictable events
+
+1274
+02:17:46,760 --> 02:17:57,000
+happen. It's had its sleep disrupted. It will not prefer the sugar water nearly as much. It won't
+
+1275
+02:17:57,000 --> 02:18:03,000
+care as much. And so such an interesting thing, given all the evolutionary importance of a small,
+
+1276
+02:18:03,000 --> 02:18:10,520
+high metabolic rate, mammal needing sugar, and we know the reward that we feel from, from sugar and
+
+1277
+02:18:10,520 --> 02:18:16,680
+presume it's very similar for them, and then not caring sugar water, regular water. So in other
+
+1278
+02:18:16,680 --> 02:18:23,320
+words, if you had them going 50 50 between sugar water and regular water, that would be even more
+
+1279
+02:18:23,400 --> 02:18:27,080
+telling than if they disproportionately went to the regular water, right? You would be looking for
+
+1280
+02:18:27,080 --> 02:18:32,120
+a complete amelioration of the effect of the sugar water would suggest that they have basically lost
+
+1281
+02:18:32,120 --> 02:18:37,800
+interest. That's right. That's exactly right. And that in fact happens. And so, so we, we and others
+
+1282
+02:18:37,800 --> 02:18:41,960
+have explored this, this kind of thing with, with optogenetics. And we found that there are,
+
+1283
+02:18:43,000 --> 02:18:48,680
+uh, you know, pathways and coming back again to the, to the dopamine neurons, which are
+
+1284
+02:18:48,680 --> 02:18:55,800
+tightly linked to mood and mania and depression. These, but they're a complex set of cells. Some
+
+1285
+02:18:55,800 --> 02:18:59,560
+send connections to one part of the brain. Some send connections to another part of the brain.
+
+1286
+02:19:01,480 --> 02:19:07,560
+We have found some interesting pathways that relate to those dopamine neurons where you can actually
+
+1287
+02:19:09,560 --> 02:19:18,520
+affect how potent a normal rewarding stimulus is by something going on in the frontal cortex.
+
+1288
+02:19:18,520 --> 02:19:25,400
+And the frontal part of the brain and overactivity in the prefrontal cortical areas can cause
+
+1289
+02:19:26,200 --> 02:19:35,000
+anhedonia in rodents. An overactivity seems to cause an inability of the dopamine neurons to
+
+1290
+02:19:35,000 --> 02:19:41,080
+recruit, reward circuitry. And so this is an insight that optogenetics brought us and it's
+
+1291
+02:19:41,080 --> 02:19:45,880
+something that we're following up mechanistically. It's kind of an interesting thing that there's,
+
+1292
+02:19:46,600 --> 02:19:51,560
+what we found is that again, using optogenetics, that the frontal cortex can suppress both positive
+
+1293
+02:19:51,560 --> 02:19:57,480
+and negative things. It can suppress fear. It can suppress anxiety. This is part of how we exert
+
+1294
+02:19:57,480 --> 02:20:05,240
+cognitive control over situations. We can enter a scenario that we know is risky if we think about
+
+1295
+02:20:05,240 --> 02:20:14,760
+it enough, if we, uh, frame it enough for ourselves cognitively, if we review the need for it, for
+
+1296
+02:20:14,760 --> 02:20:21,800
+taking this action. And so our, our frontal cortex can help us by tamping down negative
+
+1297
+02:20:21,800 --> 02:20:28,600
+aspects, but it also, when overactive, it turns out can tamp down positive aspects as well. And
+
+1298
+02:20:28,600 --> 02:20:34,440
+optogenetics has given us a causal insight into this. And so that's just one example, but all the
+
+1299
+02:20:34,440 --> 02:20:42,200
+other features of depression as well are susceptible to optogenetic study and we've got insight into
+
+1300
+02:20:42,200 --> 02:20:47,800
+them. Hopelessness being another one. And so here, you know, again, you might ask, how do you,
+
+1301
+02:20:47,800 --> 02:20:52,440
+how do you measure hope in an animal? Well, you know, you can, you can put an animal in a
+
+1302
+02:20:52,440 --> 02:21:02,360
+challenging situation that is not escapable. Animal can, can try to get out of this challenging
+
+1303
+02:21:02,360 --> 02:21:07,000
+situation. And then would that be like a maze that doesn't have an exit? Yeah. No, no way of
+
+1304
+02:21:07,000 --> 02:21:11,160
+getting out exactly. So it doesn't have to be painful. Just, just something that an animal would
+
+1305
+02:21:11,160 --> 02:21:15,720
+want to get out of and eventually they give up. We can do this actually in fish as well as in,
+
+1306
+02:21:15,720 --> 02:21:22,120
+in mice. And that giving up is effectively, it's this hopelessness. It's this discounting
+
+1307
+02:21:23,400 --> 02:21:29,400
+of effort. And that can be an appropriate thing. Let's say, of course, if the situation truly is
+
+1308
+02:21:29,400 --> 02:21:36,520
+hopeless, it really is not good to keep devoting effort to it, right? If you, if you keep flailing
+
+1309
+02:21:36,520 --> 02:21:41,720
+against an insuperable situation, you're burning energy, it could cause physical risk.
+
+1310
+02:21:42,360 --> 02:21:48,680
+You're distracting yourself from other things. Withdrawing, entering into a passive coping state
+
+1311
+02:21:48,680 --> 02:21:55,960
+is actually adaptive up to a point. The problem with depression is it becomes extreme. So it's
+
+1312
+02:21:55,960 --> 02:22:01,960
+maladaptive. It becomes maladaptive. You discounted the value of everything. And then it's got this
+
+1313
+02:22:01,960 --> 02:22:07,000
+mysterious negative balance to it too, which is of course also part of the problem. What do you
+
+1314
+02:22:07,000 --> 02:22:13,960
+think is the evolutionary basis for depression? This is something that is so ubiquitous. I think
+
+1315
+02:22:13,960 --> 02:22:21,160
+I can, based on what you said earlier, see the evolutionary basis for anxiety. And maybe we could
+
+1316
+02:22:21,160 --> 02:22:28,280
+just argue that, that the pathologic version, well, we could discuss why maybe it's been amplified and
+
+1317
+02:22:28,280 --> 02:22:33,480
+what it is about our environment that perhaps does that. But depression is a less, less clear
+
+1318
+02:22:33,480 --> 02:22:38,040
+to me and certainly mania is clear, right? I think we've made a very compelling case for why mania
+
+1319
+02:22:39,400 --> 02:22:45,080
+could be, why evolutionary pressure could have favored the propagation or at the, at a minimum,
+
+1320
+02:22:45,080 --> 02:22:53,160
+the maintenance of this. Why depression? It seems to be counter to your ability to mate, to find
+
+1321
+02:22:53,160 --> 02:23:02,120
+food, to defend yourself. I'm struggling to come up with one evolutionarily valuable tool that would
+
+1322
+02:23:02,120 --> 02:23:07,800
+be better in a depressed state. You know, and this is a great question. I think about this all the
+
+1323
+02:23:07,800 --> 02:23:15,800
+time. And part of what we've discussed already may provide some insight, which is this, this withdrawal,
+
+1324
+02:23:15,800 --> 02:23:23,080
+this passivity. It is in some cases, you can think of it like a hibernation, you know, if,
+
+1325
+02:23:23,080 --> 02:23:30,680
+is it, is it like, is it worthwhile for an animal to actively try to cope with winter by running
+
+1326
+02:23:30,680 --> 02:23:36,840
+around trying to find more food all through the winter or to withdraw, to sleep more, to, to not
+
+1327
+02:23:36,840 --> 02:23:45,240
+see the value or feel the value in going outside and doing anything. And clearly, no matter what
+
+1328
+02:23:45,240 --> 02:23:50,760
+you do, you can't fight winter, right? The best thing is to conserve your energy, ride it out on
+
+1329
+02:23:50,760 --> 02:23:58,680
+some time scale that's appropriate. And so you think about now, think about depression. It comes
+
+1330
+02:23:58,680 --> 02:24:04,840
+with this low energy. It comes with this hopelessness, this discounting of effort, this lack of
+
+1331
+02:24:04,840 --> 02:24:13,160
+motivation to go seek things to be enjoyed, reduced, you know, drive for social interaction. All these
+
+1332
+02:24:13,160 --> 02:24:18,760
+things can be part of depression. The negative aspect is the one part that's, that's, that I
+
+1333
+02:24:18,760 --> 02:24:24,040
+can explain. And that's, that's of course, the clinically significant problem. Why does it feel
+
+1334
+02:24:24,040 --> 02:24:29,880
+bad? And this is not just feeling bad. This is agony. This is psychic pain is the kind of thing
+
+1335
+02:24:29,880 --> 02:24:37,560
+that drives people to seek suicide. Not to discount that at all. We don't understand why
+
+1336
+02:24:37,560 --> 02:24:46,120
+depression feels bad, but the passivity of coping that can be adaptive. And it's, it's perhaps,
+
+1337
+02:24:47,080 --> 02:24:53,400
+you could, you could see almost depression as a, as a hack, a bad hack, maybe one that's not fully
+
+1338
+02:24:53,400 --> 02:24:59,880
+evolved yet, just like mania, not fully evolved yet, not under all the right controls to make it
+
+1339
+02:25:00,760 --> 02:25:09,800
+more generally suitable and reasonable. Depression, the easiest way to make it happen
+
+1340
+02:25:10,840 --> 02:25:21,640
+is to remove the joy, to remove the energy, to seek out reward. And then you've got an organism
+
+1341
+02:25:21,720 --> 02:25:28,520
+that's going to be passive, that doesn't see a path to, to, to something positive. And
+
+1342
+02:25:29,560 --> 02:25:35,560
+evolutionarily, if you, if you take this, this viewpoint, maybe one way of getting to that goal
+
+1343
+02:25:37,320 --> 02:25:44,840
+that had some at the population level, some adaptive value included having this negativity,
+
+1344
+02:25:44,840 --> 02:25:50,280
+this negative state to it. And this is pure speculation, you know, but it's, it's important
+
+1345
+02:25:50,280 --> 02:25:59,960
+because depression is very genetically determined. It's, it's common, it's biological. And at some
+
+1346
+02:25:59,960 --> 02:26:05,400
+level, we have to deal with the fact that we have evolved to be where we are now. And we have this
+
+1347
+02:26:05,400 --> 02:26:11,640
+high rate of, of, of, of depression. And so we have to include in our thinking, the biology and
+
+1348
+02:26:11,640 --> 02:26:17,400
+the evolution together. And so that would be my, my, you know, my, my take on it. Of course,
+
+1349
+02:26:17,400 --> 02:26:22,040
+it's very hard and I wouldn't claim to have a definitive understanding.
+
+1350
+02:26:22,840 --> 02:26:26,920
+Two unrelated questions. I don't even know which one to ask first. So I'll probably just ask them
+
+1351
+02:26:26,920 --> 02:26:33,560
+both and then let you take them whichever way you like. The first is sort of a desire to understand
+
+1352
+02:26:33,560 --> 02:26:39,240
+where depression specifically, but even other mental illness fits into our closest relatives,
+
+1353
+02:26:39,240 --> 02:26:46,600
+the primates, right? Do we have a sense that our primate relatives are as afflicted by depression
+
+1354
+02:26:46,600 --> 02:26:52,920
+and or other mental illnesses as much as we are? Let's start with that. Yeah.
+
+1355
+02:26:52,920 --> 02:26:58,040
+Yeah. Well, we can, one of the clearest things we can see is that, you know,
+
+1356
+02:26:59,160 --> 02:27:07,080
+non-human primates can certainly enter into maladaptive states that look like grief. In
+
+1357
+02:27:07,080 --> 02:27:16,040
+bereaved states, there are cases where you can have a, a young non-human primate who is old enough to,
+
+1358
+02:27:16,040 --> 02:27:22,120
+to feed itself, but who has lost a mother, let's say has lost its mother and loses the
+
+1359
+02:27:22,120 --> 02:27:29,000
+motivation to feed and protect itself and stay with the, the troop and ends up dying as a result.
+
+1360
+02:27:30,120 --> 02:27:36,840
+This is a clearly maladaptive state documented that in a non-human primate, you could call it
+
+1361
+02:27:37,800 --> 02:27:44,200
+something like that, a depressed like state, deriving from bereavement and presumed
+
+1362
+02:27:44,360 --> 02:27:52,280
+to anthropomorphize something like grief associated with bereavement. So I believe these,
+
+1363
+02:27:52,920 --> 02:27:57,160
+you know, these states are, are shared by our, by our non-human.
+
+1364
+02:27:57,160 --> 02:28:03,480
+Any evidence of self-harm in, in, in non-human primates, does it ever get to the level of,
+
+1365
+02:28:03,480 --> 02:28:11,320
+I mean, you know, suicide is a top 10 cause of mortality in the developed world. It's
+
+1366
+02:28:12,120 --> 02:28:15,560
+important to make sure people understand the significance of that statement.
+
+1367
+02:28:16,120 --> 02:28:20,520
+In the developed world, when you think about all of the problems we've been able to solve,
+
+1368
+02:28:22,200 --> 02:28:29,800
+one of the 10 leading causes of death is self-harm. And, and by the way, if you really include
+
+1369
+02:28:29,800 --> 02:28:37,240
+overdose as a subset of that, it probably leap frogs into the top seven. Is there evidence that
+
+1370
+02:28:37,240 --> 02:28:44,040
+this occurs in other species? So a really interesting question. And
+
+1371
+02:28:45,080 --> 02:28:56,840
+the short answer is no. And there are less suicidal forms of self-harm that can happen.
+
+1372
+02:28:56,840 --> 02:29:02,440
+Now and then you'll see animals, you know, carrying out behaviors like, you know, headbanging and
+
+1373
+02:29:02,440 --> 02:29:09,080
+things like that. But in terms of a true suicide, the volitional ending of the self,
+
+1374
+02:29:10,520 --> 02:29:16,840
+there is not a animal model for that. Let's say it's not clear that that happens. And if you think
+
+1375
+02:29:16,840 --> 02:29:25,000
+about it, as much as we'd like to have that, so we could address this, this urgent, enormous
+
+1376
+02:29:25,000 --> 02:29:31,080
+clinical need that's not going away, we would love to have some way of studying this.
+
+1377
+02:29:32,520 --> 02:29:39,560
+We don't have it. And if you think about it, the ending of the self is an extremely
+
+1378
+02:29:41,080 --> 02:29:47,000
+cognitively complex thing. And it's, if you think about the act of suicide, which we don't
+
+1379
+02:29:47,000 --> 02:29:52,440
+understand, and it's a horrific thing, but you've got, there has to be some understanding
+
+1380
+02:29:53,320 --> 02:30:00,280
+of what that means, that there is an ending of life, an ending of the self, and that the
+
+1381
+02:30:00,280 --> 02:30:06,920
+pain that's being felt now would not be felt then. This is a level of understanding of
+
+1382
+02:30:08,200 --> 02:30:17,480
+the universe that it doesn't seem that animals that are not us actually have. We could be wrong.
+
+1383
+02:30:18,200 --> 02:30:23,240
+I'm completely willing to admit that. There are amazing animals, you know, dolphins and
+
+1384
+02:30:23,240 --> 02:30:31,400
+whales and elephants have incredibly complex and amazing minds. They may be better than we are at
+
+1385
+02:30:31,400 --> 02:30:37,720
+some of these deep concepts, but they may have less clear ways to express it. They may have
+
+1386
+02:30:38,680 --> 02:30:45,000
+maybe not having fingers and hands to do things that we can do. They may not have the ways to
+
+1387
+02:30:45,000 --> 02:30:49,240
+express it, even though their cognitions may be just as complex. And so I think there are two
+
+1388
+02:30:49,240 --> 02:30:56,360
+factors. One is, you know, the things that set us apart, our brains and our hands, those two don't
+
+1389
+02:30:56,360 --> 02:31:01,000
+come together in any other animal. And I think that's why you don't see suicide elsewhere,
+
+1390
+02:31:01,000 --> 02:31:07,080
+at least as we understand it. Our colleague, Paul Conti, close, also friend for medical school,
+
+1391
+02:31:07,080 --> 02:31:11,560
+who trained with you in psychiatry, has just written a wonderful book on trauma.
+
+1392
+02:31:12,280 --> 02:31:19,880
+And so it begs the question, what role does trauma play in the amplification of depression?
+
+1393
+02:31:20,520 --> 02:31:28,280
+We know, as you said, that depression is highly heritable. But like most conditions that are
+
+1394
+02:31:28,280 --> 02:31:35,160
+heritable, there tends to be environmental triggers that can bring one person to have it
+
+1395
+02:31:35,160 --> 02:31:41,320
+and one not to have it, even if you take the most extreme example of the monozygotic twins raised in
+
+1396
+02:31:41,400 --> 02:31:45,080
+a separate environment, one comes down with something, there's clearly some difference.
+
+1397
+02:31:46,440 --> 02:31:53,000
+So what role do you think that early childhood trauma plays in all mental illness, but I guess
+
+1398
+02:31:53,000 --> 02:31:57,640
+specifically depression? And do you believe that that could be epigenetic? In other words,
+
+1399
+02:31:57,640 --> 02:32:06,440
+do you believe that this thing can irreversibly mark the gene and then be transferred to subsequent
+
+1400
+02:32:06,520 --> 02:32:14,120
+generations? Subsequent generations, yeah. So the effects of trauma, the lasting effects
+
+1401
+02:32:14,120 --> 02:32:21,080
+of early life trauma are unfortunately very clear. You can see in animals as well.
+
+1402
+02:32:22,440 --> 02:32:29,560
+And they extend beyond depression for sure to include the personality disorders like borderline
+
+1403
+02:32:29,560 --> 02:32:37,400
+personality, for example. So there's no question that early life trauma has lasting psychiatric
+
+1404
+02:32:37,400 --> 02:32:44,520
+influence throughout life and can cause very severe problems. In many ways to look at this,
+
+1405
+02:32:44,520 --> 02:32:52,440
+why is it happening and how is it happening? Is there a wiring change? So is the lasting
+
+1406
+02:32:52,440 --> 02:32:59,160
+quality due to a physical structure of the brain as a circuit? That's one level at which it could
+
+1407
+02:32:59,160 --> 02:33:06,680
+happen. And the brain is very, brain circuitry is very tunable that way, especially in young people.
+
+1408
+02:33:07,720 --> 02:33:18,040
+And so you could imagine that early life experience with trauma sets up the human
+
+1409
+02:33:20,040 --> 02:33:27,320
+to expect in some ways that the world is a harsh and unpredictable place and that the
+
+1410
+02:33:28,040 --> 02:33:32,520
+value system had better be set up to deal with that because that's how it is apparently.
+
+1411
+02:33:33,480 --> 02:33:40,040
+And so you could almost imagine an adaptive, though very unfortunate, process going on where
+
+1412
+02:33:40,040 --> 02:33:46,520
+there's a period of youth where you're gathering statistics about the environment, deciding what
+
+1413
+02:33:46,520 --> 02:33:52,200
+the adult should be like, and then implementing that. And so early life trauma could intersect
+
+1414
+02:33:52,280 --> 02:34:00,520
+with such a process very unfortunately and create people with a lasting state of depression, for
+
+1415
+02:34:00,520 --> 02:34:07,480
+example, expecting aversive things to be present at higher rates and negative consequences of
+
+1416
+02:34:07,480 --> 02:34:17,000
+actions to be present at a high rate. Now, that could be for sure the case as far as an evolutionary
+
+1417
+02:34:17,000 --> 02:34:23,880
+logic, but there's no doubt that this happens in terms of the behavioral effect and the psychiatric
+
+1418
+02:34:23,880 --> 02:34:29,080
+effect, the lasting effects of early life trauma. Now, if it's not neural circuitry, what else could
+
+1419
+02:34:29,080 --> 02:34:34,600
+it be? It could be genetic or epigenetic, as you say, you're not changing your genome from childhood
+
+1420
+02:34:34,600 --> 02:34:41,000
+to adulthood, but you're changing the transcription factors, the promoters and enhancers. You could be
+
+1421
+02:34:41,000 --> 02:34:45,640
+affecting gene expression throughout life. And that, at least through the life of that individual,
+
+1422
+02:34:45,640 --> 02:34:49,880
+we understand how that mechanistically could work. And then finally, you raise the
+
+1423
+02:34:50,600 --> 02:34:56,520
+intergenerational aspect. In human beings, this is very hard to separate from, you know, it's the
+
+1424
+02:34:56,520 --> 02:35:01,880
+nature and nurture thing. Of course, you've got the parenting that's linked to what might have
+
+1425
+02:35:01,880 --> 02:35:09,480
+happened in the prior generation. And I'd say it's still controversial to how much intergenerational
+
+1426
+02:35:09,480 --> 02:35:12,440
+transfer can happen, although in animals there are mechanisms.
+
+1427
+02:35:13,240 --> 02:35:19,080
+You wrote about the, well, at least you wrote about your musings, your exploration of the idea
+
+1428
+02:35:19,080 --> 02:35:23,960
+of the evolutionary basis for tears. I found this completely fascinating.
+
+1429
+02:35:25,800 --> 02:35:30,120
+A, I found it fascinating because I'd never once considered that. And for someone like me who
+
+1430
+02:35:30,120 --> 02:35:36,440
+is often thinking about the evolutionary basis for this feature or that feature, it was interesting
+
+1431
+02:35:36,520 --> 02:35:39,640
+to me that I hadn't considered that. Say a little bit about that.
+
+1432
+02:35:40,840 --> 02:35:49,160
+Emotional tears, and by that, you know, the liquid coming from our tear ducts at times of emotion,
+
+1433
+02:35:49,160 --> 02:35:55,160
+this is apparently, as far as we can tell, it's a human trait. Our great apes don't do this,
+
+1434
+02:35:55,160 --> 02:36:02,520
+and even some human beings don't do it. So it's a special thing. It's not that we are the only
+
+1435
+02:36:02,520 --> 02:36:08,200
+ones that grieve, but we're the ones that secrete this fluid from our eyes at these extreme moments.
+
+1436
+02:36:09,880 --> 02:36:15,080
+And this has been studied. There are scholars of tears, as it were, and you can do things like
+
+1437
+02:36:15,800 --> 02:36:22,120
+add or subtract tears digitally from pictures of faces. And these have enormous impacts on
+
+1438
+02:36:22,680 --> 02:36:29,000
+the reactions of people seeing these images much, much greater than a smile or a grimace,
+
+1439
+02:36:29,960 --> 02:36:35,800
+and particularly creating a desire to help. When we see tears, we want to help that person.
+
+1440
+02:36:36,360 --> 02:36:42,520
+And so this intersects very closely with the, I think, with the involuntary, largely involuntary
+
+1441
+02:36:42,520 --> 02:36:48,360
+nature of tears. It's a truth channel. It's not so easily gameable. It reveals something
+
+1442
+02:36:49,400 --> 02:36:58,520
+that in a social grouping, like those that we've evolved to maintain, it is an involuntary
+
+1443
+02:36:58,680 --> 02:37:07,400
+expression of something, the world changing, of needing new systems in place, and it triggers
+
+1444
+02:37:07,400 --> 02:37:15,480
+this outreach from people who see it in a very powerful way. And this question, can an emotional
+
+1445
+02:37:15,480 --> 02:37:19,960
+change cause something like this to happen? It would be a very easy rewiring to happen. There
+
+1446
+02:37:19,960 --> 02:37:26,120
+are already axons that come from emotional regions and go to the brainstem that control the breathing
+
+1447
+02:37:26,120 --> 02:37:32,680
+rate, for example, in anxiety. And right next to those breathing rate regions, there are
+
+1448
+02:37:32,680 --> 02:37:36,600
+regions that control the tear ducts. They're right next to each other in the brainstem, and a very
+
+1449
+02:37:36,600 --> 02:37:42,200
+tiny, tiny rewiring little axon just going in one slightly different direction would create
+
+1450
+02:37:42,920 --> 02:37:51,560
+this state of expressing this visible manifestation of an inner world. And for a social
+
+1451
+02:37:52,520 --> 02:37:58,600
+species like ours, it could be easily, evolutionarily selected for. And so there's, in the story,
+
+1452
+02:37:59,800 --> 02:38:06,440
+a storehouse of tears and projections. This is something that a patient's story helped bring to
+
+1453
+02:38:06,440 --> 02:38:11,640
+the forefront of my mind, and we talk about it quite a bit. Yeah, I won't give any more away
+
+1454
+02:38:11,640 --> 02:38:17,960
+from that story because I want people to read it for themselves. Well, Carl, I know that we've
+
+1455
+02:38:18,120 --> 02:38:22,840
+kind of reached the limit of our time and you have another commitment today. As you can probably
+
+1456
+02:38:22,840 --> 02:38:27,720
+imagine, I could continue this discussion for probably another couple of hours, and I gather
+
+1457
+02:38:27,720 --> 02:38:32,360
+you could as well if it weren't for this other commitment. So I think what we should do is just
+
+1458
+02:38:32,360 --> 02:38:38,440
+commit to sitting down again next year at some point. And continuing this discussion, there are
+
+1459
+02:38:38,440 --> 02:38:43,400
+so many more questions I have about personality disorders. And another topic that we didn't even
+
+1460
+02:38:43,400 --> 02:38:49,560
+get into today that we're both very interested in is psychedelics, both from the traditional side,
+
+1461
+02:38:49,560 --> 02:38:57,320
+even to the non-traditional side, the use of ketamine, psilocybin, LSD, MDMA, all of these
+
+1462
+02:38:57,320 --> 02:39:02,680
+things, which are an enormous interest of yours clinically and scientifically as of mine. So
+
+1463
+02:39:03,640 --> 02:39:10,920
+I want to again congratulate you on not just your recent Lasker Award, which again, I'll make sure
+
+1464
+02:39:10,920 --> 02:39:16,280
+in the introduction to explain to people what the significance of that is, but also your remarkable
+
+1465
+02:39:16,280 --> 02:39:22,120
+achievements over the past two decades and this remarkable work that you've written, Projections,
+
+1466
+02:39:22,120 --> 02:39:26,440
+which I suspect many people are going to be reading after this. So, Carl, thanks very much for
+
+1467
+02:39:26,440 --> 02:39:31,240
+spending time with us today and for educating us on this amazing journey you've been on.
+
+1468
+02:39:31,240 --> 02:39:36,840
+Pete, it's been great. Great to reconnect with you again on an incredibly enjoyable conversation and
+
+1469
+02:39:36,840 --> 02:39:40,280
+look forward to talking again. All right. Bye for now. All right. Take care.
+
+1470
+02:41:07,480 --> 02:41:12,760
+This podcast is for general informational purposes only and does not constitute the
+
+1471
+02:41:12,760 --> 02:41:16,680
+practice of medicine, nursing, or other professional healthcare services,
+
+1472
+02:41:16,680 --> 02:41:22,520
+including the giving of medical advice. No doctor-patient relationship is formed. The use of this
+
+1473
+02:41:22,520 --> 02:41:28,200
+information and the materials linked to this podcast is at the users' own risk. The content
+
+1474
+02:41:28,200 --> 02:41:33,960
+on this podcast is not intended to be a substitute for professional medical advice, diagnosis, or
+
+1475
+02:41:33,960 --> 02:41:40,200
+treatment. Users should not disregard or delay in obtaining medical advice from any medical
+
+1476
+02:41:40,200 --> 02:41:44,760
+condition they have, and they should seek the assistance of their healthcare professionals
+
+1477
+02:41:44,760 --> 02:41:50,440
+for any such conditions. Finally, I take conflicts of interest very seriously. For all of my
+
+1478
+02:41:50,440 --> 02:41:57,720
+disclosures and the companies I invest in or advise, please visit PeterAttiaMD.com forward slash
+
+1479
+02:41:57,720 --> 02:42:05,240
+about where I keep an up-to-date and active list of such companies.
+

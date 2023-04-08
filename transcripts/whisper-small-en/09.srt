@@ -1,0 +1,5568 @@
+1
+00:00:00,000 --> 00:00:05,720
+Hey, everyone.
+
+2
+00:00:05,720 --> 00:00:07,360
+Welcome to the Peter Attia Drive.
+
+3
+00:00:07,360 --> 00:00:10,640
+I'm your host, Peter Attia.
+
+4
+00:00:10,640 --> 00:00:16,000
+The drive is a result of my hunger for optimizing performance, health, longevity, critical thinking,
+
+5
+00:00:16,000 --> 00:00:18,000
+along with a few other obsessions along the way.
+
+6
+00:00:18,000 --> 00:00:21,560
+I've spent the last several years working with some of the most successful top performing
+
+7
+00:00:21,560 --> 00:00:23,200
+individuals in the world.
+
+8
+00:00:23,200 --> 00:00:27,600
+And this podcast is my attempt to synthesize what I've learned along the way to help you
+
+9
+00:00:27,600 --> 00:00:29,880
+live a higher quality, more fulfilling life.
+
+10
+00:00:29,880 --> 00:00:34,480
+If you enjoy this podcast, you can find more information on today's episode and other topics
+
+11
+00:00:34,480 --> 00:00:41,880
+at PeterAttiaMD.com.
+
+12
+00:00:41,880 --> 00:00:45,960
+In this podcast, I'll be speaking with my close friend and amazing scientist, David
+
+13
+00:00:45,960 --> 00:00:46,960
+Sabatini.
+
+14
+00:00:46,960 --> 00:00:50,640
+David's a professor of biology and a member of the Whitehead Institute at MIT.
+
+15
+00:00:50,640 --> 00:00:54,480
+He's also an investigator at the Howard Hughes Medical Institute and a senior member of the
+
+16
+00:00:54,480 --> 00:00:58,240
+Broad Institute, along with a bunch of other accolades that would take too long to get
+
+17
+00:00:58,240 --> 00:00:59,920
+into here.
+
+18
+00:00:59,920 --> 00:01:03,720
+This podcast was actually recorded initially as part of an interview series I was doing
+
+19
+00:01:03,720 --> 00:01:05,720
+for research around my book.
+
+20
+00:01:05,720 --> 00:01:08,960
+This was recorded in August of 2017.
+
+21
+00:01:08,960 --> 00:01:12,500
+Maybe at some point we'll even just put the video up as this was actually done as a video
+
+22
+00:01:12,500 --> 00:01:16,360
+interview with David, along with a number of his amazing postdocs.
+
+23
+00:01:16,360 --> 00:01:19,800
+And certainly some of those will probably make their way into the podcast as well.
+
+24
+00:01:19,800 --> 00:01:25,120
+Now, in this episode, we talk about his amazing journey in science and the work and stuff
+
+25
+00:01:25,120 --> 00:01:27,520
+that he's done around mTOR and Rapa Myson.
+
+26
+00:01:27,520 --> 00:01:32,120
+If you've been following the blog and or paying attention to stuff that I'm interested
+
+27
+00:01:32,120 --> 00:01:36,120
+in, you'll know that mTOR and Rapa Myson sit kind of at the heart of it.
+
+28
+00:01:36,120 --> 00:01:40,580
+Now, about four years ago, David and I were having lunch one day and it was kind of the
+
+29
+00:01:40,580 --> 00:01:45,200
+first time that he ever really told me the full story of his work as a graduate student
+
+30
+00:01:45,200 --> 00:01:48,720
+at Hopkins, where he was part of the MD-PhD program.
+
+31
+00:01:48,720 --> 00:01:52,560
+And I was just, you know, I remember sitting there taking notes on a napkin and thinking,
+
+32
+00:01:52,560 --> 00:01:55,800
+God, this is such an incredible story of science.
+
+33
+00:01:55,800 --> 00:01:59,920
+And I remember thinking, God, you know, one day we have to have this discussion again,
+
+34
+00:01:59,920 --> 00:02:02,880
+but such that most people can actually hear it besides just me.
+
+35
+00:02:02,880 --> 00:02:08,520
+So part of what we discuss on this podcast is actually that journey and how as a young
+
+36
+00:02:08,520 --> 00:02:16,920
+PhD, newbie, grad student, David methodically went after a problem that really wasn't even
+
+37
+00:02:16,920 --> 00:02:20,320
+deemed particularly interesting at the time, which was to basically figure out how this
+
+38
+00:02:20,320 --> 00:02:22,200
+thing called Rapa Myson actually worked.
+
+39
+00:02:22,200 --> 00:02:26,360
+And of course, through the process ended up being the first person to identify this
+
+40
+00:02:26,360 --> 00:02:30,400
+mechanistic target of Rapa Myson in mammalian cells.
+
+41
+00:02:30,400 --> 00:02:34,760
+Now stuff that I found really interesting in this podcast is that David points out that
+
+42
+00:02:34,760 --> 00:02:38,720
+he's from an academic standpoint, kind of an unusual bird in that he's one of the few
+
+43
+00:02:38,720 --> 00:02:43,000
+people who has carried his work from graduate school into his career.
+
+44
+00:02:43,000 --> 00:02:45,400
+And that's actually pretty unusual.
+
+45
+00:02:45,400 --> 00:02:46,760
+He's incredibly thoughtful.
+
+46
+00:02:46,760 --> 00:02:51,400
+And some of you may have already heard a podcast that David, myself and Nav Chandel, another
+
+47
+00:02:51,400 --> 00:02:56,000
+good friend who will also be on the podcast recorded back with Tim Ferriss on Easter Island
+
+48
+00:02:56,000 --> 00:02:58,280
+back in the fall of 2016.
+
+49
+00:02:58,280 --> 00:03:00,400
+We'll link to that here as well.
+
+50
+00:03:00,400 --> 00:03:04,920
+And obviously the reason we went to Easter Island was as sort of a pilgrimage based on
+
+51
+00:03:04,920 --> 00:03:10,200
+the discovery of the bacteria that ultimately led to Rapa Myson, a bacteria by the name
+
+52
+00:03:10,200 --> 00:03:13,120
+of Streptomyces hydrocophicus.
+
+53
+00:03:13,120 --> 00:03:19,480
+The interest I have in mTOR of course has to do with its central role in nutrient sensing.
+
+54
+00:03:19,480 --> 00:03:24,420
+And of course it's, I believe and many believe it's central role in longevity.
+
+55
+00:03:24,420 --> 00:03:28,400
+So if you are interested in longevity, if you're interested in fasting, if you're interested
+
+56
+00:03:28,400 --> 00:03:32,640
+in Rapa Myson, you're really going to want to listen to this podcast because David is
+
+57
+00:03:32,640 --> 00:03:34,680
+effectively mTOR man.
+
+58
+00:03:34,680 --> 00:03:38,540
+I don't think there really is a person on the planet and I'm saying that without trying
+
+59
+00:03:38,540 --> 00:03:42,240
+to be hyperbolic, but I don't think there's anybody on the planet who knows more about
+
+60
+00:03:42,240 --> 00:03:45,160
+Rapa Myson and mTOR than David Sabatini.
+
+61
+00:03:45,160 --> 00:03:49,160
+And if you like this podcast, please make sure to check out the one that's going to
+
+62
+00:03:49,160 --> 00:03:55,400
+be out soon with Matt Caberlin, which will take this discussion to another level as well,
+
+63
+00:03:55,400 --> 00:03:57,360
+looking at Matt's work in dogs.
+
+64
+00:03:57,360 --> 00:04:02,440
+So without further delay, here's my discussion and conversation with David Sabatini.
+
+65
+00:04:02,440 --> 00:04:08,920
+David, thank you so much for making time to sit down today and talk about what is potentially
+
+66
+00:04:08,920 --> 00:04:11,600
+mutually our favorite topic of discussion.
+
+67
+00:04:11,600 --> 00:04:14,680
+Before we jump into it though, maybe for people who don't know you, can you tell us a little
+
+68
+00:04:14,680 --> 00:04:17,800
+bit about how you got here and what it is you do specifically?
+
+69
+00:04:17,800 --> 00:04:18,800
+Sure, sure.
+
+70
+00:04:18,800 --> 00:04:22,720
+Thank you, Peter, for coming and for visiting and both of you and for wanting to talk to
+
+71
+00:04:22,720 --> 00:04:23,720
+me.
+
+72
+00:04:23,720 --> 00:04:24,720
+So I am a biologist.
+
+73
+00:04:24,720 --> 00:04:30,120
+I'm a professor of biology at MIT and I'm also a member of the Whitehead Institute,
+
+74
+00:04:30,120 --> 00:04:32,040
+which is where we are today.
+
+75
+00:04:32,040 --> 00:04:36,120
+And I receive a lot of funding from the Howard Hughes Medical Institute, which is a key charity
+
+76
+00:04:36,120 --> 00:04:38,720
+that works for biomedical researchers.
+
+77
+00:04:38,720 --> 00:04:41,920
+I have studied this protein that I'm glad you like a lot.
+
+78
+00:04:41,920 --> 00:04:46,600
+It's my favorite protein called the mTOR protein, which is the protein through which this drug,
+
+79
+00:04:46,600 --> 00:04:50,000
+the lamycin, which gets quite a bit of attention now acts.
+
+80
+00:04:50,000 --> 00:04:53,280
+And I basically worked on that from the earliest point.
+
+81
+00:04:53,280 --> 00:04:55,860
+We discovered that when I was a student.
+
+82
+00:04:55,860 --> 00:05:00,400
+And so my career is that as an MD-PhD, never really following the clinical track though
+
+83
+00:05:00,400 --> 00:05:04,760
+and staying on the research side and finishing that and actually coming to the Whitehead
+
+84
+00:05:04,760 --> 00:05:10,000
+in a program that is quite interesting and very unique at the time, which is you could
+
+85
+00:05:10,000 --> 00:05:12,440
+start your own lab after graduate school.
+
+86
+00:05:12,440 --> 00:05:14,960
+And so I did that and I eventually joined the faculty here.
+
+87
+00:05:14,960 --> 00:05:17,840
+And now I've moved up the academic ranks.
+
+88
+00:05:17,840 --> 00:05:21,860
+And to some extent, I'm a little bit strange from an academic point of view because I've
+
+89
+00:05:21,860 --> 00:05:26,360
+continued to work on, not exclusively, but to a large extent, what I started in my graduate
+
+90
+00:05:26,360 --> 00:05:27,360
+school.
+
+91
+00:05:27,360 --> 00:05:29,000
+So most people, as you know, do something in graduate school.
+
+92
+00:05:29,000 --> 00:05:32,840
+They do something in their postdoc and then they sort of morph along the way.
+
+93
+00:05:32,840 --> 00:05:35,320
+I've kind of stuck with this mTOR protein.
+
+94
+00:05:35,320 --> 00:05:38,360
+And in many ways, I was very lucky because we were there at the beginning and it turned
+
+95
+00:05:38,360 --> 00:05:40,280
+out to be such an exciting thing to work on.
+
+96
+00:05:40,280 --> 00:05:42,360
+So let's go back to the beginning a little bit.
+
+97
+00:05:42,360 --> 00:05:46,360
+You were an MD-PhD student at Hopkins.
+
+98
+00:05:46,360 --> 00:05:51,080
+And after a couple of years of doing preclinical stuff, you pick a lab.
+
+99
+00:05:51,080 --> 00:05:52,080
+Exactly, right.
+
+100
+00:05:52,080 --> 00:05:55,080
+So you do two years of medical school and then you pick a lab.
+
+101
+00:05:55,080 --> 00:06:00,240
+And I was very fortunate to be taken by Salomon Snyder, who was at the time the head of neuroscience.
+
+102
+00:06:00,240 --> 00:06:03,200
+He had a very big lab, lots of MD-PhDs.
+
+103
+00:06:03,200 --> 00:06:06,040
+A lot of MD-PhDs wanted to go to his lab.
+
+104
+00:06:06,040 --> 00:06:08,520
+And I was lucky that he let me go.
+
+105
+00:06:08,520 --> 00:06:11,160
+And Sal is a really interesting man.
+
+106
+00:06:11,160 --> 00:06:13,640
+He still has actually a really prominent lab at Hopkins.
+
+107
+00:06:13,640 --> 00:06:16,480
+And the fact that the department is now named after him.
+
+108
+00:06:16,480 --> 00:06:18,440
+And he was that person who had a lot of varied interests.
+
+109
+00:06:18,440 --> 00:06:21,080
+He was a neuroscientist, but he was also a psychiatrist.
+
+110
+00:06:21,080 --> 00:06:22,860
+And he was also a pharmacologist.
+
+111
+00:06:22,860 --> 00:06:27,880
+So he really loved small molecules.
+
+112
+00:06:27,880 --> 00:06:30,360
+And he loved particularly potent small molecules.
+
+113
+00:06:30,360 --> 00:06:32,720
+That is, small molecules that act at low doses.
+
+114
+00:06:32,720 --> 00:06:35,160
+How do we define in pharmacology a small molecule?
+
+115
+00:06:35,160 --> 00:06:36,640
+What's the cutoff point?
+
+116
+00:06:36,640 --> 00:06:41,320
+I know some people say 1,000 daltons, which rapamycin is about that.
+
+117
+00:06:41,320 --> 00:06:43,800
+To a larger extent, it's sort of a non-peptide also.
+
+118
+00:06:43,800 --> 00:06:45,680
+So it's not a piece of a protein.
+
+119
+00:06:45,680 --> 00:06:48,280
+In many cases, it's not a natural molecule.
+
+120
+00:06:48,280 --> 00:06:50,080
+Although in our case, it's made by microinversal.
+
+121
+00:06:50,080 --> 00:06:52,000
+It's not natural to our body.
+
+122
+00:06:52,000 --> 00:06:54,520
+So probably 1,000 daltons.
+
+123
+00:06:54,520 --> 00:06:56,680
+And so he had these set of interests.
+
+124
+00:06:56,680 --> 00:06:59,360
+And when I went to his lab, I was actually really interested in neuroscience.
+
+125
+00:06:59,360 --> 00:07:04,920
+So I'd had some classes in which I was sort of fascinated by some neuro questions.
+
+126
+00:07:04,920 --> 00:07:08,220
+But when I got to his lab, I actually never did anything on neuroscience.
+
+127
+00:07:08,220 --> 00:07:12,720
+And I often told the story that the most influential scientific discussion I probably ever had
+
+128
+00:07:12,720 --> 00:07:15,440
+is when I went to talk to Saul.
+
+129
+00:07:15,440 --> 00:07:19,700
+And basically, as a student, you need to pick a project.
+
+130
+00:07:19,700 --> 00:07:22,160
+This is something that is quite challenging.
+
+131
+00:07:22,160 --> 00:07:25,400
+And I see with my own students, they really get quite apprehensive about their projects.
+
+132
+00:07:25,400 --> 00:07:27,120
+So I went to talk to Saul.
+
+133
+00:07:27,120 --> 00:07:28,280
+And I went to his office.
+
+134
+00:07:28,280 --> 00:07:32,480
+And I only met with Saul like, I don't know, maybe five or six times during my PhD.
+
+135
+00:07:32,480 --> 00:07:34,560
+So this was like a big deal.
+
+136
+00:07:34,560 --> 00:07:35,600
+And so I went to talk to him.
+
+137
+00:07:35,600 --> 00:07:38,640
+And he basically said, David, we work on the brain.
+
+138
+00:07:38,640 --> 00:07:40,480
+And I thought that was great because I wanted to do neuroscience.
+
+139
+00:07:40,480 --> 00:07:41,640
+But then he didn't say anything else.
+
+140
+00:07:41,640 --> 00:07:42,760
+So I was it.
+
+141
+00:07:42,760 --> 00:07:48,200
+And so I remember leaving his office really anxious because basically, I didn't have a
+
+142
+00:07:48,200 --> 00:07:49,200
+project.
+
+143
+00:07:49,200 --> 00:07:52,600
+But I realize now in retrospect, what he did is he actually was giving me complete freedom
+
+144
+00:07:52,600 --> 00:07:54,500
+to do what I wanted to do.
+
+145
+00:07:54,500 --> 00:07:57,400
+And that was, as I said, probably the most important thing anyone's ever done for me
+
+146
+00:07:57,400 --> 00:07:59,840
+because it really forced me to come up with my own project.
+
+147
+00:07:59,840 --> 00:08:04,080
+And I think was a key sort of foundation in becoming the scientist I have.
+
+148
+00:08:04,080 --> 00:08:07,660
+And it's something that I try to foster amongst my own people.
+
+149
+00:08:07,660 --> 00:08:09,360
+So anyways, I was in his lab.
+
+150
+00:08:09,360 --> 00:08:10,980
+And I didn't have a project.
+
+151
+00:08:10,980 --> 00:08:15,160
+And at the time, they were actually working with this other drug called FK 506, which
+
+152
+00:08:15,160 --> 00:08:16,160
+is a well known.
+
+153
+00:08:16,160 --> 00:08:17,160
+It's an immune suppressant.
+
+154
+00:08:17,160 --> 00:08:18,160
+It's immune suppressant.
+
+155
+00:08:18,160 --> 00:08:19,800
+It's used clinically still.
+
+156
+00:08:19,800 --> 00:08:22,640
+Mechanism of action, although structurally, it's very different than cyclosporine.
+
+157
+00:08:22,640 --> 00:08:27,400
+It actually mechanistically works on the same target, which is calcineurin.
+
+158
+00:08:27,400 --> 00:08:31,880
+And at the time, this is before we had a lot of the tools we have now like RNAI or CRISPR.
+
+159
+00:08:31,880 --> 00:08:33,760
+And so we needed controls.
+
+160
+00:08:33,760 --> 00:08:37,400
+So if you had a drug, what you tended to use was another drug that kind of looked like
+
+161
+00:08:37,400 --> 00:08:39,560
+it but didn't do the same thing.
+
+162
+00:08:39,560 --> 00:08:43,040
+And so their control was rapamycin.
+
+163
+00:08:43,040 --> 00:08:52,280
+And when I started reading about rapamycin, this would have been in probably late 91 to
+
+164
+00:08:52,280 --> 00:08:53,720
+92.
+
+165
+00:08:53,720 --> 00:08:57,400
+And it was clear to me that this molecule in many ways was much more interesting than
+
+166
+00:08:57,400 --> 00:08:58,400
+FK 506.
+
+167
+00:08:58,400 --> 00:09:03,000
+And as you very well know, this had come from Wyeth Ayers, the pharmaceutical company by
+
+168
+00:09:03,000 --> 00:09:06,240
+Soren Segal, who championed it.
+
+169
+00:09:06,240 --> 00:09:10,280
+And there was a number of papers, which at the time were actually a few papers were largely
+
+170
+00:09:10,280 --> 00:09:15,360
+abstracts from meetings that show that it had antifungal effects, immunosuppressive effects,
+
+171
+00:09:15,360 --> 00:09:17,080
+anti-cancer effects.
+
+172
+00:09:17,080 --> 00:09:18,880
+So it seemed like an interesting molecule.
+
+173
+00:09:18,880 --> 00:09:20,520
+I had just come from medical school.
+
+174
+00:09:20,520 --> 00:09:24,080
+We'd learned about immunosuppressants like cyclosporine, which at the time, you know,
+
+175
+00:09:24,080 --> 00:09:25,240
+were really just coming on.
+
+176
+00:09:25,240 --> 00:09:27,200
+And we're really seen as miracle drugs.
+
+177
+00:09:27,200 --> 00:09:32,360
+Your lab's interest in FK 506 was not its immune suppressive properties, but its calcineurin
+
+178
+00:09:32,360 --> 00:09:36,280
+because calcineurin, as the name implies, there's a lot of in the brain.
+
+179
+00:09:36,280 --> 00:09:41,040
+And so in Saul's lab, they're basically studying the modulation of calcineurin in the brain
+
+180
+00:09:41,040 --> 00:09:43,800
+using FK 506 as a tool.
+
+181
+00:09:43,800 --> 00:09:46,440
+And they were looking at actually excitotoxicity in the brain.
+
+182
+00:09:46,440 --> 00:09:49,920
+Things that at the end didn't lead, I think, in the directions they wanted to, but they
+
+183
+00:09:49,920 --> 00:09:53,640
+were using it as a probe, basically.
+
+184
+00:09:53,640 --> 00:09:57,520
+And so I basically decided, why not try to work on rapamycin?
+
+185
+00:09:57,520 --> 00:09:58,840
+And so that's what I did.
+
+186
+00:09:58,840 --> 00:09:59,840
+And so we-
+
+187
+00:09:59,840 --> 00:10:01,880
+It's just a control that nobody particularly cared for.
+
+188
+00:10:01,880 --> 00:10:04,000
+Yeah, I mean, there were people in the world that were interested in that.
+
+189
+00:10:04,000 --> 00:10:07,400
+But in your lab, this is a great peripheral project.
+
+190
+00:10:07,400 --> 00:10:11,160
+We had this great advantage, though, is that you couldn't buy rapamycin at the time.
+
+191
+00:10:11,160 --> 00:10:14,480
+So rapamycin was a compound that Wyeth was developing clinically.
+
+192
+00:10:14,480 --> 00:10:15,840
+It wasn't clinically available.
+
+193
+00:10:15,840 --> 00:10:17,240
+You couldn't buy it.
+
+194
+00:10:17,240 --> 00:10:21,440
+But Saul, being a very prominent scientist and having this interest in pharmacology,
+
+195
+00:10:21,440 --> 00:10:24,360
+had actually written siren, sigala.
+
+196
+00:10:24,360 --> 00:10:29,360
+And actually, he had sent us, probably without any of the legalese that happens now.
+
+197
+00:10:29,360 --> 00:10:32,840
+Now if you try to get a molecule out of a pharmaceutical company, the amount of paperwork
+
+198
+00:10:32,840 --> 00:10:34,240
+and red tape is huge.
+
+199
+00:10:34,240 --> 00:10:39,320
+Basically, it sent us a very significant amount of rapamycin, which I remember when it did
+
+200
+00:10:39,320 --> 00:10:43,280
+start to be sold, which was incredibly expensive, I kind of back calculated.
+
+201
+00:10:43,280 --> 00:10:44,280
+The street value.
+
+202
+00:10:44,280 --> 00:10:45,280
+Yeah, it was like millions of dollars.
+
+203
+00:10:45,280 --> 00:10:46,280
+Wow.
+
+204
+00:10:46,280 --> 00:10:47,600
+Now, of course, it didn't really have that value.
+
+205
+00:10:47,600 --> 00:10:51,160
+But theoretically, it was sort of millions of dollars, which incidentally, that tube
+
+206
+00:10:51,160 --> 00:10:52,720
+followed me all the way here.
+
+207
+00:10:52,720 --> 00:10:54,160
+And then- Do you still have the original tube?
+
+208
+00:10:54,160 --> 00:10:55,720
+No, at some point, it was lost.
+
+209
+00:10:55,720 --> 00:10:57,200
+It disappeared at some point.
+
+210
+00:10:57,200 --> 00:10:58,200
+But- I'll take eBay.
+
+211
+00:10:58,200 --> 00:11:01,000
+We actually had it, which was cool.
+
+212
+00:11:01,000 --> 00:11:03,220
+So we could actually do experiments with it.
+
+213
+00:11:03,220 --> 00:11:05,320
+And so I went on to try and understand how it worked.
+
+214
+00:11:05,320 --> 00:11:09,640
+And eventually, we purified this protein that at the time, we actually called Raft1, was
+
+215
+00:11:09,640 --> 00:11:10,920
+the original name we gave it.
+
+216
+00:11:10,920 --> 00:11:13,920
+And eventually, it was called- And Raft1 stood for-
+
+217
+00:11:13,920 --> 00:11:17,400
+It was rapamycin and FKBP target1.
+
+218
+00:11:17,400 --> 00:11:21,880
+And the reason that we, and also Stuart Shriver, who was at Harvard, and when he was working
+
+219
+00:11:21,880 --> 00:11:25,520
+on this, he was also at Harvard, also identified mTOR, basically, at the same time.
+
+220
+00:11:25,520 --> 00:11:29,860
+And he called it FRAP, which was FKBP, rapamycin-associated protein.
+
+221
+00:11:29,860 --> 00:11:35,800
+And both of us were trying to accentuate the point that rapamycin actually the co-receptor,
+
+222
+00:11:35,800 --> 00:11:37,020
+this protein FKBP.
+
+223
+00:11:37,020 --> 00:11:41,240
+From that point of view, it's a very unique kind of drug where it doesn't directly bind
+
+224
+00:11:41,240 --> 00:11:45,140
+to a protein target, but rather, it first binds to one target.
+
+225
+00:11:45,140 --> 00:11:50,560
+And now that drug receptor complex has a new surface on it, which now, in this case, interacts
+
+226
+00:11:50,560 --> 00:11:52,140
+with mTOR.
+
+227
+00:11:52,140 --> 00:11:54,280
+And we were really trying to get that point across.
+
+228
+00:11:55,280 --> 00:11:58,120
+But independently, you didn't realize we were both working on that.
+
+229
+00:11:58,120 --> 00:12:01,640
+Yeah, I had no idea that, in fact, the only point where I found out they were working
+
+230
+00:12:01,640 --> 00:12:06,580
+on it was once our paper had been accepted, I got, and this was pre lots of email, internet,
+
+231
+00:12:06,580 --> 00:12:13,120
+we got a fax from a journalist saying he was writing an article on our paper, and another
+
+232
+00:12:13,120 --> 00:12:18,080
+paper from Stuart Shriver, and actually sent us Stuart's paper, which we thought was really
+
+233
+00:12:18,080 --> 00:12:19,180
+unethical at the time.
+
+234
+00:12:19,180 --> 00:12:23,360
+And so we actually, at that point, contacted Stuart and said, hey, we got your paper.
+
+235
+00:12:23,360 --> 00:12:26,860
+You should know we're working on this tube, and here's our paper.
+
+236
+00:12:26,860 --> 00:12:28,720
+So it was, yeah, I didn't know at all.
+
+237
+00:12:28,720 --> 00:12:30,720
+And in many ways, I was very naive.
+
+238
+00:12:30,720 --> 00:12:32,560
+I was in this lab.
+
+239
+00:12:32,560 --> 00:12:34,600
+Saul basically let us do whatever we wanted to.
+
+240
+00:12:34,600 --> 00:12:36,160
+We had this drug.
+
+241
+00:12:36,160 --> 00:12:39,900
+Unbeknownst to Saul, I started working on this thing.
+
+242
+00:12:39,900 --> 00:12:44,520
+And Stuart had had a history of FK file six mechanism action, so it was a logical progression
+
+243
+00:12:44,520 --> 00:12:46,400
+to what he was doing.
+
+244
+00:12:46,400 --> 00:12:47,400
+Saul was not.
+
+245
+00:12:47,400 --> 00:12:48,400
+It was funny.
+
+246
+00:12:48,400 --> 00:12:51,080
+He came from a world where people looked for the receptors for drugs.
+
+247
+00:12:51,080 --> 00:12:54,720
+So if you look at his history, he'd really looked for receptors for drugs, for small
+
+248
+00:12:54,720 --> 00:12:58,060
+molecules, including the endorphins, for example, that I worked with.
+
+249
+00:12:58,060 --> 00:13:02,240
+But he wasn't big on cloning, what we call cloning a gene, which is where you have that
+
+250
+00:13:02,240 --> 00:13:03,240
+get the DNA sequence.
+
+251
+00:13:03,240 --> 00:13:04,720
+He almost thought you didn't need to do that.
+
+252
+00:13:04,720 --> 00:13:07,140
+Once you purified it, you could study the protein.
+
+253
+00:13:07,140 --> 00:13:12,240
+So I was one of the first people there to actually clone a cDNA, as we call it, in his
+
+254
+00:13:12,240 --> 00:13:13,500
+lab.
+
+255
+00:13:13,500 --> 00:13:18,680
+So it was a fun time, because it was clear that we got this protein.
+
+256
+00:13:19,280 --> 00:13:23,020
+But you did this in a very short period of time, because your paper, which was in cell,
+
+257
+00:13:23,020 --> 00:13:24,020
+was 1994.
+
+258
+00:13:24,020 --> 00:13:25,020
+1994, yeah.
+
+259
+00:13:25,020 --> 00:13:28,440
+I worked like crazy, really like crazy.
+
+260
+00:13:28,440 --> 00:13:32,020
+And that lab in general worked like crazy.
+
+261
+00:13:32,020 --> 00:13:35,640
+It was very common to be there until one in the morning, and then I would usually show
+
+262
+00:13:35,640 --> 00:13:37,680
+up at seven, eight in the morning.
+
+263
+00:13:37,680 --> 00:13:40,400
+We would sleep in the lab a lot.
+
+264
+00:13:40,400 --> 00:13:43,160
+Once things started to go, so we were purifying.
+
+265
+00:13:43,160 --> 00:13:45,240
+I purified out of the rat, out of rat brains.
+
+266
+00:13:45,240 --> 00:13:47,560
+And so we killed hundreds of rats to do this.
+
+267
+00:13:47,560 --> 00:13:50,720
+My friends would help me kill them, take the brains out.
+
+268
+00:13:50,720 --> 00:13:56,520
+There's a method in biology to visualize proteins called a silver stain, which is a very sensitive
+
+269
+00:13:56,520 --> 00:13:58,440
+way of seeing a protein.
+
+270
+00:13:58,440 --> 00:14:03,800
+And the first silver stain I did, where I actually saw sort of a glimpse of mTOR on
+
+271
+00:14:03,800 --> 00:14:06,160
+this method, I remember that really clearly.
+
+272
+00:14:06,160 --> 00:14:08,540
+Because at that point, I knew I could do it.
+
+273
+00:14:08,540 --> 00:14:10,840
+How did you know it was mTOR that you were looking at?
+
+274
+00:14:10,840 --> 00:14:15,760
+Well, I mean, I had all the controls, and there was this band on what we call a gel
+
+275
+00:14:15,760 --> 00:14:18,600
+that showed up just in the right place.
+
+276
+00:14:18,600 --> 00:14:22,980
+And so I was like, OK, there is a protein here that has all the properties that I want.
+
+277
+00:14:22,980 --> 00:14:24,880
+And at that time, what properties did you know?
+
+278
+00:14:24,880 --> 00:14:26,400
+You didn't know its size, did you?
+
+279
+00:14:26,400 --> 00:14:27,400
+Didn't know its size.
+
+280
+00:14:27,400 --> 00:14:30,580
+Well, we know it bound to FKBP rapamycin.
+
+281
+00:14:30,580 --> 00:14:34,480
+But you didn't know that that exclusively bound to it, did you?
+
+282
+00:14:34,480 --> 00:14:35,480
+We didn't.
+
+283
+00:14:35,480 --> 00:14:39,760
+But we knew that it could be competed by FK506, based on some competition type experiments,
+
+284
+00:14:39,760 --> 00:14:41,400
+and so we had done that.
+
+285
+00:14:41,400 --> 00:14:42,400
+So there was these features.
+
+286
+00:14:42,520 --> 00:14:47,520
+It was mostly the specificity that it required rapamycin to bind to FKBP, and that was crystal
+
+287
+00:14:47,520 --> 00:14:48,960
+clear in the early experiments.
+
+288
+00:14:48,960 --> 00:14:53,620
+When we had FKBP by itself, there was no band on the gel.
+
+289
+00:14:53,620 --> 00:14:55,680
+And when we added rapamycin, there clearly was.
+
+290
+00:14:55,680 --> 00:14:58,640
+And when we added FK506, it clearly went away.
+
+291
+00:14:58,640 --> 00:15:02,300
+And so we knew that that thing had all the right properties.
+
+292
+00:15:02,300 --> 00:15:07,000
+But I remember very strongly feeling, OK, and at the time, now we have very, very sensitive
+
+293
+00:15:07,000 --> 00:15:10,600
+methods to sequence proteins, largely by mass spectrometry.
+
+294
+00:15:10,600 --> 00:15:11,720
+There we didn't.
+
+295
+00:15:11,720 --> 00:15:16,160
+And so from what I saw on that gel to actually figure out what its sequence was, I knew it
+
+296
+00:15:16,160 --> 00:15:17,240
+was hard.
+
+297
+00:15:17,240 --> 00:15:18,240
+But I knew it could happen.
+
+298
+00:15:18,240 --> 00:15:19,600
+That was a very powerful feeling.
+
+299
+00:15:19,600 --> 00:15:20,800
+It was the existence principle.
+
+300
+00:15:20,800 --> 00:15:21,800
+Exactly.
+
+301
+00:15:21,800 --> 00:15:24,960
+So I knew the thing, kind of the enemy existed, and I could get it.
+
+302
+00:15:24,960 --> 00:15:30,000
+But then going from that initial glimpse on a gel to then having enough to actually sequence
+
+303
+00:15:30,000 --> 00:15:35,840
+it, that's what took hundreds of rats to actually get to enough that I could purify it.
+
+304
+00:15:35,840 --> 00:15:40,280
+And eventually, we collaborated with this guy called Paul Temps at a memorial salon
+
+305
+00:15:40,280 --> 00:15:41,280
+in Ketering, New York.
+
+306
+00:15:41,280 --> 00:15:45,480
+And he was able to sequence enough of the protein that then through a whole variety
+
+307
+00:15:45,480 --> 00:15:48,520
+of molecular biology tricks, we were able to clone it.
+
+308
+00:15:48,520 --> 00:15:54,040
+And it was a really huge cDNA, which basically is the length of the DNA sequence that encodes
+
+309
+00:15:54,040 --> 00:15:55,040
+it.
+
+310
+00:15:55,040 --> 00:16:00,760
+It was very big, sort of in the eight, nine kilobases, which is very hard to work with,
+
+311
+00:16:00,760 --> 00:16:01,840
+particularly at the time.
+
+312
+00:16:01,840 --> 00:16:06,000
+And I got very, very lucky in the sense that I did a bunch of tricks, and I got the whole
+
+313
+00:16:06,000 --> 00:16:08,480
+thing at once, which also was kind of unheard of at the time.
+
+314
+00:16:08,480 --> 00:16:09,480
+How did you do that?
+
+315
+00:16:09,480 --> 00:16:13,520
+Yeah, so back in the time, what people would do is they would get pieces, and then they
+
+316
+00:16:13,520 --> 00:16:15,120
+would sequence them, and they would sort of-
+
+317
+00:16:15,120 --> 00:16:16,120
+With overlapping-
+
+318
+00:16:16,120 --> 00:16:18,760
+They would overlap and stitch them together.
+
+319
+00:16:18,760 --> 00:16:25,000
+But what I did when I screened what we called libraries at the time for these pieces, I
+
+320
+00:16:25,000 --> 00:16:29,520
+would get some pretty big pieces, but I knew, when I would sequence it, I knew that the
+
+321
+00:16:29,520 --> 00:16:34,440
+front of the protein was missing, like it was missing, and I couldn't get it.
+
+322
+00:16:34,440 --> 00:16:38,040
+I could never get beyond a certain point of the protein.
+
+323
+00:16:38,080 --> 00:16:44,800
+And so then what I did, which really turned out to be incredibly lucky, so what we would
+
+324
+00:16:44,800 --> 00:16:47,880
+do is we would screen libraries of phages.
+
+325
+00:16:47,880 --> 00:16:54,520
+And so this was basically, people would take cDNA, complementary DNA, from rat brain, and
+
+326
+00:16:54,520 --> 00:16:57,920
+they would clone it into these bacterial virus called phages.
+
+327
+00:16:57,920 --> 00:17:03,720
+And so now every little cDNA was in a virus, and you'd have hundreds of millions of this
+
+328
+00:17:03,720 --> 00:17:09,120
+library, and you would plate it out on these plates, and the phage would make little plaques,
+
+329
+00:17:09,120 --> 00:17:10,440
+and then you would screen those plaques.
+
+330
+00:17:10,440 --> 00:17:15,560
+And so you'd have dozens of these plates each with thousands and thousands of these little
+
+331
+00:17:15,560 --> 00:17:17,080
+dots on them.
+
+332
+00:17:17,080 --> 00:17:22,160
+And so what I decided to do is that I would screen this library with a piece that I knew
+
+333
+00:17:22,160 --> 00:17:25,880
+was as far towards one end and as far toward the other end.
+
+334
+00:17:25,880 --> 00:17:32,320
+And so I screened it with both, and I looked for plaques that hybridized both.
+
+335
+00:17:32,320 --> 00:17:35,080
+And in fact, when I first did it, I got nothing.
+
+336
+00:17:35,080 --> 00:17:36,480
+It was really disappointing.
+
+337
+00:17:36,480 --> 00:17:39,560
+I got plaques that had one piece, and I had plaques that had another piece, but I didn't
+
+338
+00:17:39,560 --> 00:17:41,560
+have any plaques that had this thing.
+
+339
+00:17:41,560 --> 00:17:46,200
+And then what I realized, and this was really key, I realized that the so-called full length
+
+340
+00:17:46,200 --> 00:17:52,080
+cDNA was so big that it was going to make the phage replicate slowly.
+
+341
+00:17:52,080 --> 00:17:57,040
+Because basically their genome was so much bigger now that to replicate, it would take
+
+342
+00:17:57,040 --> 00:17:58,040
+longer.
+
+343
+00:17:58,040 --> 00:17:59,040
+And on what order of times?
+
+344
+00:17:59,040 --> 00:18:01,200
+It was probably two to three times more that it would take.
+
+345
+00:18:01,200 --> 00:18:02,200
+I got it.
+
+346
+00:18:02,200 --> 00:18:03,200
+And you were missing it.
+
+347
+00:18:03,200 --> 00:18:07,040
+I could have missing it because the plaque that would have this would be incredibly small.
+
+348
+00:18:07,040 --> 00:18:12,400
+And so what I did is I went back and redid it, and now I let the plaques grow longer.
+
+349
+00:18:12,400 --> 00:18:15,160
+And I re-screened it, and in fact, I got one plaque.
+
+350
+00:18:15,160 --> 00:18:20,520
+There's a tiny, tiny little plaque that hybridized with both probes.
+
+351
+00:18:20,520 --> 00:18:23,960
+And when I looked at what was in there, it turned out to be the complete full length
+
+352
+00:18:23,960 --> 00:18:28,980
+cDNA, which was amazing because it was unheard of that these libraries would give you something
+
+353
+00:18:28,980 --> 00:18:30,820
+like 9,000 base pairs.
+
+354
+00:18:30,820 --> 00:18:31,820
+But it was.
+
+355
+00:18:31,820 --> 00:18:35,180
+I was going to say it was literally the intact thing from one end to the other.
+
+356
+00:18:35,180 --> 00:18:39,860
+So I got very lucky because that would have been pretty hard to assemble at the time.
+
+357
+00:18:39,860 --> 00:18:44,460
+You knew at the time, had Michael Hall's work in yeast been published yet?
+
+358
+00:18:44,460 --> 00:18:47,820
+It had been published sometime during this period of time.
+
+359
+00:18:47,820 --> 00:18:49,360
+But you didn't know anything.
+
+360
+00:18:49,360 --> 00:18:52,340
+You didn't know even what the yeast form of this protein.
+
+361
+00:18:52,340 --> 00:18:53,340
+When we started, we were enjoying it.
+
+362
+00:18:53,340 --> 00:18:56,780
+And in fact, when we first started getting sequence, there was no sequence out there.
+
+363
+00:18:56,780 --> 00:19:00,900
+And the yeast protein, really only the kinase domain is conserved.
+
+364
+00:19:00,900 --> 00:19:05,180
+And so most of the peptide sequences that we had, that Paul Temps had sequenced for
+
+365
+00:19:05,180 --> 00:19:08,060
+us, we didn't know at all where they were.
+
+366
+00:19:08,060 --> 00:19:11,100
+And so these are kind of fun things that used to happen in the past.
+
+367
+00:19:11,100 --> 00:19:15,260
+You used to collaborate with a person who did protein sequencing, and they would give you
+
+368
+00:19:15,260 --> 00:19:18,180
+back a series of peptide sequences.
+
+369
+00:19:18,180 --> 00:19:19,940
+But you didn't know what order they went in.
+
+370
+00:19:19,940 --> 00:19:24,020
+So let's say he gave you back, I think Paul gave me, Paul was amazing because he would
+
+371
+00:19:24,020 --> 00:19:26,140
+give you, let's say, 15 peptide sequences.
+
+372
+00:19:26,140 --> 00:19:31,540
+He'd say, look, your protein, these 15 peptides exist in your protein.
+
+373
+00:19:31,540 --> 00:19:32,540
+And then so-
+
+374
+00:19:32,540 --> 00:19:33,700
+With or without overlap in those peptides?
+
+375
+00:19:33,700 --> 00:19:34,700
+No, overlap.
+
+376
+00:19:34,700 --> 00:19:35,700
+These are short.
+
+377
+00:19:35,700 --> 00:19:41,300
+Mathematically, it's impossible to, by chance, figure out, like, you need more clues to figure
+
+378
+00:19:41,300 --> 00:19:43,740
+out the order because it's combinatorially impossible.
+
+379
+00:19:43,740 --> 00:19:44,980
+You have no idea what the order is.
+
+380
+00:19:44,980 --> 00:19:47,220
+And so what you end up doing is kind of a cool thing.
+
+381
+00:19:47,220 --> 00:19:50,700
+And Paul was really cool because he would actually, in the sequence of the peptides,
+
+382
+00:19:50,700 --> 00:19:52,140
+he also had uncertainty.
+
+383
+00:19:52,140 --> 00:19:53,620
+Sometimes he'd say, this amino acid-
+
+384
+00:19:53,620 --> 00:19:54,660
+Plus or minus.
+
+385
+00:19:54,660 --> 00:19:55,900
+Could be this or could be that.
+
+386
+00:19:55,980 --> 00:19:57,300
+And he would tell you what he thought it was.
+
+387
+00:19:57,300 --> 00:20:00,300
+And it turned out he was so good that when I actually figured out the sequence, every
+
+388
+00:20:00,300 --> 00:20:05,140
+one that he said it could be this or that, he was right, his prediction.
+
+389
+00:20:05,140 --> 00:20:08,220
+But so what you would do is you'd have these peptide sequences.
+
+390
+00:20:08,220 --> 00:20:14,380
+And what you could do now is design, we know the, obviously, the code, the amino acid code.
+
+391
+00:20:14,380 --> 00:20:16,820
+So we can predict what the DNA sequence would encode.
+
+392
+00:20:16,820 --> 00:20:19,900
+But as you know, the DNA sequence is degenerate.
+
+393
+00:20:19,900 --> 00:20:23,380
+So one peptide sequence can be encoded at the DNA level.
+
+394
+00:20:23,380 --> 00:20:24,860
+You don't know what the electrons and introns look like.
+
+395
+00:20:24,940 --> 00:20:25,860
+You don't know anything, right?
+
+396
+00:20:25,860 --> 00:20:30,660
+But each peptide could be encoded potentially by thousands of oligonucleotides.
+
+397
+00:20:30,660 --> 00:20:32,260
+And you don't know the order of the peptides.
+
+398
+00:20:32,260 --> 00:20:38,460
+What you would do is you would make a degenerate pool of oligonucleotides that had
+
+399
+00:20:38,460 --> 00:20:39,740
+thousands of different ones.
+
+400
+00:20:39,740 --> 00:20:42,420
+And you'd make them in both orientations.
+
+401
+00:20:42,420 --> 00:20:46,300
+And now you do PCR between them in all combinations.
+
+402
+00:20:46,300 --> 00:20:48,980
+And you would find which ones worked.
+
+403
+00:20:48,980 --> 00:20:51,540
+And that would define the order of the peptides.
+
+404
+00:20:51,540 --> 00:20:53,580
+And this is before you had real-time PCR.
+
+405
+00:20:53,580 --> 00:20:55,460
+Yeah, real-time PCR was usually used for quantitation.
+
+406
+00:20:55,460 --> 00:20:56,420
+But we had PCR.
+
+407
+00:20:56,420 --> 00:21:00,820
+And so we would take these oligo libraries and we'd mix and match them all combinations
+
+408
+00:21:00,820 --> 00:21:02,340
+in all orientations.
+
+409
+00:21:02,340 --> 00:21:06,740
+And if you got a band, it means that you got, that you had basically, and then you could
+
+410
+00:21:06,740 --> 00:21:08,860
+take those fragments and go and screen the libraries.
+
+411
+00:21:08,860 --> 00:21:12,820
+And so it's funny, because now, you know, with my students, when we discover a new protein,
+
+412
+00:21:12,820 --> 00:21:16,380
+all you do is you look up at the database because we have the whole genome sequence.
+
+413
+00:21:16,380 --> 00:21:20,820
+I always tell my students that my paper, which was the discovery of mTOR, which at the time,
+
+414
+00:21:20,820 --> 00:21:26,820
+to be fair, we did not realize how important mTOR would be, my paper basically is like
+
+415
+00:21:26,820 --> 00:21:30,220
+figure 1a b of their papers.
+
+416
+00:21:30,220 --> 00:21:34,340
+Because my whole paper is about discovering the protein sequencing and all this kind of
+
+417
+00:21:34,340 --> 00:21:35,340
+stuff.
+
+418
+00:21:35,340 --> 00:21:36,340
+Was that paper effectively your PhD?
+
+419
+00:21:36,340 --> 00:21:37,340
+That was my PhD.
+
+420
+00:21:37,340 --> 00:21:42,380
+So you went back to, finished a couple years in med school, obviously decided, not going
+
+421
+00:21:42,380 --> 00:21:43,380
+to do a residency.
+
+422
+00:21:43,380 --> 00:21:47,360
+I'm going to become a full-time scientist.
+
+423
+00:21:47,360 --> 00:21:51,440
+And then you basically have been at MIT since, or affiliated with MIT since.
+
+424
+00:21:51,440 --> 00:21:52,960
+Saul's lab was big, and I was very independent.
+
+425
+00:21:52,960 --> 00:21:56,280
+So the people said, why don't you do one of these fellows positions where you can start
+
+426
+00:21:56,280 --> 00:21:57,280
+your own lab?
+
+427
+00:21:57,280 --> 00:21:58,640
+And at the time, there was only three.
+
+428
+00:21:58,640 --> 00:22:02,480
+There was the Whitehead one, there was one at Carnegie Institute, which is in Baltimore,
+
+429
+00:22:02,480 --> 00:22:04,600
+and there was one at Cold Spring Harbor in New York.
+
+430
+00:22:04,600 --> 00:22:06,720
+And I applied to all of them.
+
+431
+00:22:06,720 --> 00:22:12,720
+And I got accepted pretty quickly, although after I graduated to Cold Spring Harbor and
+
+432
+00:22:12,720 --> 00:22:13,720
+to Carnegie.
+
+433
+00:22:13,720 --> 00:22:15,800
+But I didn't hear anything from the Whitehead.
+
+434
+00:22:15,800 --> 00:22:16,800
+Like, nothing.
+
+435
+00:22:16,880 --> 00:22:21,440
+And only, like, basically once I graduated and I was kind of unemployed at that point,
+
+436
+00:22:21,440 --> 00:22:23,960
+I was technically a postdoc in Saul's lab.
+
+437
+00:22:23,960 --> 00:22:27,400
+But I hadn't taken, like, the boards, which Hopkins, you know, Hopkins didn't make you
+
+438
+00:22:27,400 --> 00:22:30,680
+take the boards, the medical boards to graduate, which was a nice thing.
+
+439
+00:22:30,680 --> 00:22:33,800
+My mother was like, you're going to starve, you're going to have a job, you can't do
+
+440
+00:22:33,800 --> 00:22:37,000
+residency now because you didn't apply, you didn't take the boards.
+
+441
+00:22:37,000 --> 00:22:41,480
+And then I got a call from Whitehead, actually inviting me to interview, and I did.
+
+442
+00:22:41,480 --> 00:22:45,660
+And then it took, again, a lot of time to, like, hear back.
+
+443
+00:22:45,660 --> 00:22:49,620
+And I remember they called me and said, look, we're going to offer you a position, but you
+
+444
+00:22:49,620 --> 00:22:53,820
+need to understand you will never, ever stay here as a faculty member, ever.
+
+445
+00:22:53,820 --> 00:22:54,820
+I was like, OK.
+
+446
+00:22:54,820 --> 00:22:58,940
+I realized I was applying for this Whitehead fellow position, not a faculty position.
+
+447
+00:22:58,940 --> 00:23:01,580
+But then eventually I came, and eventually I did stay.
+
+448
+00:23:01,580 --> 00:23:05,780
+And when I look actually at history, it's, they do keep, you know, about a third of the
+
+449
+00:23:05,780 --> 00:23:09,500
+people who come through, but they give you this sort of speech that you will never, ever
+
+450
+00:23:09,500 --> 00:23:10,500
+stay.
+
+451
+00:23:10,500 --> 00:23:11,500
+Set the expectation.
+
+452
+00:23:11,500 --> 00:23:13,620
+And incidentally, many people named David have stayed.
+
+453
+00:23:13,620 --> 00:23:15,380
+So it's actually a good thing to be named David.
+
+454
+00:23:15,420 --> 00:23:17,380
+And actually our current director was a Whitehead fellow.
+
+455
+00:23:17,380 --> 00:23:18,380
+His name is David.
+
+456
+00:23:18,380 --> 00:23:20,460
+One of the other faculty members' name is David.
+
+457
+00:23:20,460 --> 00:23:25,020
+So I didn't know at the time, but now I realize that David was a big advantage.
+
+458
+00:23:25,020 --> 00:23:26,020
+So how has your work evolved?
+
+459
+00:23:26,020 --> 00:23:28,300
+I mean, you came here in the late 90s, right?
+
+460
+00:23:28,300 --> 00:23:29,300
+In the late 90s, exactly.
+
+461
+00:23:29,300 --> 00:23:35,500
+A rapamycin would go on to be approved by the FDA in 1999 as a frontline treatment as
+
+462
+00:23:35,500 --> 00:23:38,940
+part of the double or triple cocktail for patients.
+
+463
+00:23:38,940 --> 00:23:39,940
+As rapamune, right?
+
+464
+00:23:39,940 --> 00:23:40,940
+Right.
+
+465
+00:23:40,940 --> 00:23:45,320
+As rapamune, along with often prednisone, cyclosporine, or MMF.
+
+466
+00:23:45,320 --> 00:23:50,940
+So now you're here, and I mean, we're going to get into much more detail, but effectively
+
+467
+00:23:50,940 --> 00:23:51,940
+you've never looked back.
+
+468
+00:23:51,940 --> 00:23:53,640
+You've never really left this space.
+
+469
+00:23:53,640 --> 00:23:55,960
+I got here and I was incredibly naive.
+
+470
+00:23:55,960 --> 00:24:00,120
+I realized at this point how I thought, you know, I knew a lot.
+
+471
+00:24:00,120 --> 00:24:01,640
+I thought I knew how to run a lab.
+
+472
+00:24:01,640 --> 00:24:03,200
+I had been very independent on my own.
+
+473
+00:24:03,200 --> 00:24:06,200
+That doesn't mean that I was sort of independent from like running a lab.
+
+474
+00:24:06,200 --> 00:24:09,480
+You know, behind the scenes in Saul's lab, obviously there was the entire finances.
+
+475
+00:24:09,480 --> 00:24:11,800
+I had written grants and things, entire finances, organization.
+
+476
+00:24:11,800 --> 00:24:12,960
+But there was a lot.
+
+477
+00:24:13,280 --> 00:24:16,760
+I could be independent, me, but then a lab is a different thing.
+
+478
+00:24:16,760 --> 00:24:21,960
+And so that was a hard transition to run, even though it was a small lab, Toronto lab.
+
+479
+00:24:21,960 --> 00:24:27,280
+And it was clear that at that time I felt that this field had kind of plateaued.
+
+480
+00:24:27,280 --> 00:24:31,980
+There had been the discovery of mTOR, but we weren't getting very far.
+
+481
+00:24:31,980 --> 00:24:35,240
+People were using rapamycin to look at lots of different things.
+
+482
+00:24:35,240 --> 00:24:40,280
+And mTOR by implication through rapamycin was being connected to lots of different things.
+
+483
+00:24:40,280 --> 00:24:44,000
+But one of the things that was obvious to me, and I think to others as well, was that
+
+484
+00:24:44,000 --> 00:24:47,840
+mTOR had to act with partner proteins.
+
+485
+00:24:47,840 --> 00:24:53,120
+And so we set about trying to identify what we now know are these mTOR-containing complexes,
+
+486
+00:24:53,120 --> 00:24:56,600
+mTOR-1 and mTOR-2, mTOR-complex-1 and 2.
+
+487
+00:24:56,600 --> 00:24:58,360
+But yeah, it was really hard.
+
+488
+00:24:58,360 --> 00:25:00,040
+We failed for years.
+
+489
+00:25:00,040 --> 00:25:05,560
+It was again one of—this field has had a series of just like little things that until
+
+490
+00:25:05,560 --> 00:25:07,360
+you figure them out, you make no progress.
+
+491
+00:25:07,360 --> 00:25:10,080
+And so we would purify mTOR and we'd look for other proteins.
+
+492
+00:25:10,080 --> 00:25:11,360
+We would continue to work with Paltemps.
+
+493
+00:25:11,360 --> 00:25:12,520
+And we just wouldn't find anything.
+
+494
+00:25:12,520 --> 00:25:18,600
+To be clear, you knew that you had discovered the gene for TOR.
+
+495
+00:25:18,600 --> 00:25:21,560
+You suspected that this thing exists in different complexes.
+
+496
+00:25:21,560 --> 00:25:25,720
+And I already knew that there was other proteins, because when I was doing the mTOR original
+
+497
+00:25:25,720 --> 00:25:31,980
+purification, the way that I was following mTOR was with kind of a funky cross-linking
+
+498
+00:25:31,980 --> 00:25:37,680
+assay where I was cross-linking a radioactive FKBP to the putariff target.
+
+499
+00:25:37,680 --> 00:25:40,560
+And there was always two bands on the gels.
+
+500
+00:25:40,560 --> 00:25:43,720
+There was a protein, mTOR, which I eventually purified, but there was a smaller one, which
+
+501
+00:25:43,720 --> 00:25:46,800
+I could never get either because it was just low abundance.
+
+502
+00:25:46,800 --> 00:25:47,800
+I couldn't detect.
+
+503
+00:25:47,800 --> 00:25:53,160
+I don't know what, but that little protein, which at the time I called RAF-2 actually,
+
+504
+00:25:53,160 --> 00:25:55,320
+basically remained unidentified.
+
+505
+00:25:55,320 --> 00:25:56,320
+So I knew that there was—
+
+506
+00:25:56,320 --> 00:26:01,680
+So basically the first version of mTOR-complex-1 was TOR and the version of mTOR-complex-2 was
+
+507
+00:26:01,680 --> 00:26:02,680
+RAF-2.
+
+508
+00:26:02,680 --> 00:26:03,680
+No, no, no.
+
+509
+00:26:03,680 --> 00:26:06,080
+That protein actually now that we found it turns out to be in both complexes.
+
+510
+00:26:06,080 --> 00:26:07,080
+Oh, I see.
+
+511
+00:26:07,080 --> 00:26:10,080
+And what I knew was that there was an associated protein with mTOR.
+
+512
+00:26:10,080 --> 00:26:14,960
+I knew from—I didn't know what its identity was, but it was very clear on all my experiments
+
+513
+00:26:14,960 --> 00:26:17,120
+that there was a small—mTOR is very big.
+
+514
+00:26:17,120 --> 00:26:19,800
+It's around 300 kiloolons, which is a big protein.
+
+515
+00:26:19,800 --> 00:26:20,800
+This was a little protein.
+
+516
+00:26:20,800 --> 00:26:23,800
+It was around 30, so it was about 10 times smaller.
+
+517
+00:26:23,800 --> 00:26:27,720
+So from a technical point of view, it's about 10 times harder to get because there's about
+
+518
+00:26:27,720 --> 00:26:30,960
+10 times less peptides in that protein.
+
+519
+00:26:30,960 --> 00:26:32,440
+So I failed to get it.
+
+520
+00:26:32,440 --> 00:26:36,080
+So when I got here to the whitehead, I knew there was another protein to find, and we
+
+521
+00:26:36,080 --> 00:26:39,240
+kept trying to go after this protein.
+
+522
+00:26:39,240 --> 00:26:40,560
+And others, we knew it had to work.
+
+523
+00:26:40,560 --> 00:26:41,840
+You know, it's a really big protein.
+
+524
+00:26:41,840 --> 00:26:44,760
+Big proteins work with friends.
+
+525
+00:26:44,760 --> 00:26:50,040
+And it turned out—this is, again, these little things—it turned out that the detergent—so
+
+526
+00:26:50,040 --> 00:26:52,920
+when you work with mammalian cells, you have to lyse them, you have to break open their
+
+527
+00:26:52,920 --> 00:26:53,920
+membranes.
+
+528
+00:26:53,920 --> 00:26:54,920
+You typically use a detergent.
+
+529
+00:26:54,920 --> 00:26:58,840
+It turns out the detergent we were using, which is by far the most common detergent
+
+530
+00:26:58,840 --> 00:27:02,240
+that every lab in the world use, breaks apart these complexes.
+
+531
+00:27:02,240 --> 00:27:03,240
+Just by bad luck.
+
+532
+00:27:03,240 --> 00:27:04,440
+Just bad luck.
+
+533
+00:27:04,440 --> 00:27:08,800
+And I had a postdoc—his name was Dostoroposov—who figured this out.
+
+534
+00:27:08,800 --> 00:27:13,840
+And he found this other detergent called CHAPS that kept them together.
+
+535
+00:27:13,840 --> 00:27:16,640
+When you think back to your career, and you're like, well, what are these key inflection
+
+536
+00:27:16,640 --> 00:27:17,640
+points?
+
+537
+00:27:17,640 --> 00:27:22,880
+His discovery of that detergent was key because once we did that, we purified all the interacting
+
+538
+00:27:22,880 --> 00:27:26,120
+proteins, and that eventually led to MTORC1 and MTORC2.
+
+539
+00:27:26,120 --> 00:27:29,600
+It eventually led to all the proteins that associated with those.
+
+540
+00:27:29,600 --> 00:27:32,480
+Basically that was the key to all the biochemistry.
+
+541
+00:27:32,480 --> 00:27:36,960
+There was several years of nothing, and he found that.
+
+542
+00:27:36,960 --> 00:27:40,960
+And then everything has sort of—from that point on, we've sort of marched along in
+
+543
+00:27:40,960 --> 00:27:43,960
+figuring out all the components of this pathway.
+
+544
+00:27:43,960 --> 00:27:46,760
+We still don't know why things are sensitive to Triton.
+
+545
+00:27:46,760 --> 00:27:50,400
+We don't know why their incentive is of the detergent, but it's the kind of happenstance
+
+546
+00:27:50,400 --> 00:27:53,000
+of science that I guess makes it interesting.
+
+547
+00:27:53,000 --> 00:27:59,560
+So when, roughly by year, where are we when we have a—we meaning the world as a result
+
+548
+00:27:59,560 --> 00:28:03,960
+of your discoveries in the lab—where are we when we sort of know that now we have MTOR
+
+549
+00:28:03,960 --> 00:28:08,000
+complex 1 around Raptor, MTOR complex 2 around Richter?
+
+550
+00:28:08,000 --> 00:28:11,160
+This is around 2002, right?
+
+551
+00:28:11,160 --> 00:28:14,360
+So we were doing that around 2001, published around 2002.
+
+552
+00:28:14,360 --> 00:28:15,360
+It's in that range.
+
+553
+00:28:15,360 --> 00:28:17,480
+It's in the early 2000s.
+
+554
+00:28:17,480 --> 00:28:20,840
+Although as I said, we knew there was complexes even back in 1994.
+
+555
+00:28:21,000 --> 00:28:30,040
+At this point in time, your thought was these two complexes control what or sense what or
+
+556
+00:28:30,040 --> 00:28:31,440
+are important for what.
+
+557
+00:28:31,440 --> 00:28:32,440
+Right.
+
+558
+00:28:32,440 --> 00:28:37,040
+So it was very clear early on that MTORC1 was doing most of the things that we had connected
+
+559
+00:28:37,040 --> 00:28:38,960
+before to MTOR.
+
+560
+00:28:38,960 --> 00:28:40,400
+So we'd had Rapamycin.
+
+561
+00:28:40,400 --> 00:28:47,320
+And so Rapamycin, in a way, had allowed us to know a lot about MTORC1, we now realize,
+
+562
+00:28:47,320 --> 00:28:48,440
+then otherwise we would have known.
+
+563
+00:28:48,760 --> 00:28:52,280
+Because we didn't have really genetics, we didn't have easy ways of modulating MTOR,
+
+564
+00:28:52,280 --> 00:28:53,280
+but we had Rapamycin.
+
+565
+00:28:53,280 --> 00:28:58,080
+And so there was a body of knowledge acquired by many different investigators about what
+
+566
+00:28:58,080 --> 00:29:00,000
+was so-called downstream of MTOR.
+
+567
+00:29:00,000 --> 00:29:01,440
+What did MTOR do?
+
+568
+00:29:01,440 --> 00:29:02,440
+We had some ideas.
+
+569
+00:29:02,440 --> 00:29:07,840
+It was a growth regulator, it regulated translation, it regulated autophagy, it regulates many,
+
+570
+00:29:07,840 --> 00:29:11,000
+many metabolic pathways, it regulates cell size.
+
+571
+00:29:11,000 --> 00:29:14,560
+We knew that largely through the use of Rapamycin.
+
+572
+00:29:14,560 --> 00:29:19,400
+And so now when we discovered MTORC1, which the first part we discovered was a protein
+
+573
+00:29:19,400 --> 00:29:24,480
+called Raptor, we now could go and say, well, does Raptor matter for all those things?
+
+574
+00:29:24,480 --> 00:29:25,960
+And it turned out it did.
+
+575
+00:29:25,960 --> 00:29:30,800
+So it was very clear that MTORC1 must be doing the things that we ascribe to Rapamycin.
+
+576
+00:29:30,800 --> 00:29:36,040
+MTOR2, therefore, remained very mysterious for a long period of time because it wasn't
+
+577
+00:29:36,040 --> 00:29:38,120
+doing those other things.
+
+578
+00:29:38,120 --> 00:29:43,040
+And only later did we find that it was actually part of the PI3 kinase pathway in a regulated
+
+579
+00:29:43,040 --> 00:29:44,040
+AKT.
+
+580
+00:29:44,040 --> 00:29:46,880
+And that clarified lots of things.
+
+581
+00:29:46,880 --> 00:29:51,800
+And in many ways, MTORC2, you could actually even say, and we've written papers arguing
+
+582
+00:29:51,800 --> 00:29:56,160
+this, that it's almost like upstream of MTORC1 because the PI3 kinase pathway is one of the
+
+583
+00:29:56,160 --> 00:29:58,880
+inputs into MTORC1.
+
+584
+00:29:58,880 --> 00:30:01,800
+In many ways, MTORC2 is less important than MTORC1.
+
+585
+00:30:01,800 --> 00:30:05,760
+You can modulate it more and still survive more.
+
+586
+00:30:05,760 --> 00:30:09,320
+So we've really focused largely on MTORC1.
+
+587
+00:30:09,320 --> 00:30:13,920
+And when I first got here, you sort of asked me, OK, well, what did you end up doing, right?
+
+588
+00:30:13,920 --> 00:30:15,640
+And I was pretty worked up when I got here.
+
+589
+00:30:15,640 --> 00:30:19,720
+And I had to realize I was sort of running a lab and unclear exactly what I was going
+
+590
+00:30:19,720 --> 00:30:20,720
+to do.
+
+591
+00:30:20,720 --> 00:30:25,040
+And I ended up working on MTORC1, or MTORC, I should say, largely because I didn't know
+
+592
+00:30:25,040 --> 00:30:26,040
+anything else.
+
+593
+00:30:26,040 --> 00:30:28,120
+And so I basically had to work on something.
+
+594
+00:30:28,120 --> 00:30:33,000
+And I remember some people here were pretty critical of me working on Rapamycin.
+
+595
+00:30:33,000 --> 00:30:35,360
+They were like, why are you working that silly molecule?
+
+596
+00:30:35,360 --> 00:30:36,800
+OK, now you have the target.
+
+597
+00:30:36,800 --> 00:30:39,400
+And the truth was, that's what I knew how to do.
+
+598
+00:30:39,400 --> 00:30:45,720
+Even at the time, you didn't appreciate what you do now, which is that effectively, MTORC
+
+599
+00:30:45,720 --> 00:30:51,360
+sits at the center of the universe for at least some of the things that we care a lot
+
+600
+00:30:51,360 --> 00:30:54,560
+about, including potentially longevity.
+
+601
+00:30:54,560 --> 00:30:55,560
+We did not.
+
+602
+00:30:55,560 --> 00:30:57,480
+When did that become clear to you?
+
+603
+00:30:57,480 --> 00:30:58,480
+That became clear.
+
+604
+00:30:58,480 --> 00:31:03,160
+You know, we tried, when we started to understand the connection to nutrients and the fact that
+
+605
+00:31:03,160 --> 00:31:07,800
+caloric restriction had been connected to longevity, we started thinking, OK, we actually
+
+606
+00:31:07,800 --> 00:31:10,280
+tried doing experiments on worms at the time with Rapamycin.
+
+607
+00:31:10,280 --> 00:31:12,800
+It turns out Rapamycin doesn't get into worms.
+
+608
+00:31:12,800 --> 00:31:18,000
+But there was really some, it was an important paper in worms where there was a mutant in
+
+609
+00:31:18,000 --> 00:31:22,020
+the C. elegans version of MTOR that had longevity effects.
+
+610
+00:31:22,020 --> 00:31:24,360
+I would say that was sort of the key paper.
+
+611
+00:31:24,360 --> 00:31:27,040
+And this is unrelated to DAF2.
+
+612
+00:31:27,040 --> 00:31:31,920
+Unrelated to DAF2, although interestingly, in the screens that gave the DAF mutants,
+
+613
+00:31:31,920 --> 00:31:35,640
+one of the DAF mutants, in retrospect, one of the ones actually had never been identified,
+
+614
+00:31:35,640 --> 00:31:40,640
+what the gene was, it was simply a mutant that had a mutation, turns out to be Raptor.
+
+615
+00:31:40,640 --> 00:31:43,000
+I think it's DAF15, I don't quite remember.
+
+616
+00:31:43,000 --> 00:31:45,080
+So there was a- Not 16, I'm sure.
+
+617
+00:31:45,080 --> 00:31:46,080
+I don't remember.
+
+618
+00:31:46,080 --> 00:31:47,080
+We'll look that up.
+
+619
+00:31:47,080 --> 00:31:48,360
+But so it was interesting.
+
+620
+00:31:48,360 --> 00:31:52,800
+There was all these DAF mutants that had these interesting phenotypes.
+
+621
+00:31:52,800 --> 00:31:57,320
+And once we found Raptor, someone went back and found that one of the DAF mutants was
+
+622
+00:31:57,320 --> 00:31:59,080
+actually Raptor.
+
+623
+00:31:59,080 --> 00:32:01,520
+So that connected again to MTOR1.
+
+624
+00:32:01,520 --> 00:32:06,120
+Not only were there mutations in MTOR itself, the C. elegans MTOR, but also in the C. elegans
+
+625
+00:32:06,120 --> 00:32:08,920
+Raptor that connected it to it.
+
+626
+00:32:08,920 --> 00:32:13,160
+We did not realize, of course, our paper was published in CEL, Stuart Fiverr's paper was
+
+627
+00:32:13,160 --> 00:32:15,580
+published in Nature, I remember Nature wrote a news interview.
+
+628
+00:32:15,580 --> 00:32:19,320
+So people appreciated that the finding of MTOR mattered.
+
+629
+00:32:19,320 --> 00:32:24,960
+But I think more from, okay, this is a new signaling pathway, this is a new component.
+
+630
+00:32:24,960 --> 00:32:30,040
+I don't think we realized that it really- We certainly didn't, at the center of so many
+
+631
+00:32:30,040 --> 00:32:32,860
+important processes as we do now.
+
+632
+00:32:32,860 --> 00:32:36,280
+People sometimes joke and say, well, MTOR does everything.
+
+633
+00:32:36,280 --> 00:32:41,280
+So if something does everything at some point, okay, how interesting is it?
+
+634
+00:32:41,280 --> 00:32:44,240
+It's a funny- Not a lot of people studying oxygen these days.
+
+635
+00:32:44,240 --> 00:32:45,240
+Exactly.
+
+636
+00:32:45,240 --> 00:32:46,240
+Or like from the ribosome.
+
+637
+00:32:46,240 --> 00:32:50,140
+We all appreciate the ribosome makes proteins, and so it's important for everything.
+
+638
+00:32:50,140 --> 00:32:53,560
+But you don't study it as something that's regulators.
+
+639
+00:32:53,560 --> 00:32:55,760
+Although now we realize ribosome is very regulatory.
+
+640
+00:32:55,760 --> 00:32:56,760
+So it's a transport channel.
+
+641
+00:32:56,760 --> 00:32:57,760
+Exactly.
+
+642
+00:32:57,760 --> 00:32:59,200
+So it starts to fall into that category.
+
+643
+00:32:59,200 --> 00:33:03,120
+And luckily we have enough of these regulatory systems that clearly shows us that it's a
+
+644
+00:33:03,120 --> 00:33:04,600
+very regulated process in the south.
+
+645
+00:33:04,600 --> 00:33:12,080
+But today MTOR and by extension Rapamycin and its analogs are really interesting, not
+
+646
+00:33:12,080 --> 00:33:15,080
+just in your world, but in mine.
+
+647
+00:33:15,080 --> 00:33:20,120
+So the plebes over here out in the peanut gallery, this is super interesting, right?
+
+648
+00:33:20,120 --> 00:33:27,760
+This is potentially a molecule that could make people live longer, at least if what
+
+649
+00:33:27,760 --> 00:33:33,880
+it does in yeast, flies, worms, and mammals is any indication.
+
+650
+00:33:33,880 --> 00:33:42,560
+So why is it that Rapamycin or asked another way, why is it that the inhibition of MTOR
+
+651
+00:33:42,560 --> 00:33:47,640
+or specifically MTOR complex one as you'll probably elaborate on can extend life?
+
+652
+00:33:47,640 --> 00:33:49,540
+I find that a very interesting question.
+
+653
+00:33:49,540 --> 00:33:51,640
+And it's a question that I'm often asked.
+
+654
+00:33:51,640 --> 00:33:55,220
+And I think we should say upfront, we don't know the answer to that question.
+
+655
+00:33:55,220 --> 00:34:00,980
+One way of addressing it is that you can eliminate many of the things that MTOR one
+
+656
+00:34:00,980 --> 00:34:03,060
+does.
+
+657
+00:34:03,060 --> 00:34:07,260
+And then ask, well, now why inhibit MTOR one, do I still get lifespan effects?
+
+658
+00:34:07,260 --> 00:34:11,500
+If you do that and look at many different processes, probably you'd vote autophagy is
+
+659
+00:34:11,500 --> 00:34:14,940
+the most important thing that it regulates, which as you know, autophagy is this self-eating
+
+660
+00:34:14,940 --> 00:34:20,300
+process where the cell breaks down some of its own components and presumably has to remake
+
+661
+00:34:20,300 --> 00:34:21,300
+them.
+
+662
+00:34:21,540 --> 00:34:25,420
+In a kind of naive way, you might imagine that what you're doing is throwing out the
+
+663
+00:34:25,420 --> 00:34:26,820
+old and making new.
+
+664
+00:34:26,820 --> 00:34:29,700
+And again, naively, you might think, well, that's going to rejuvenate a cell, although
+
+665
+00:34:29,700 --> 00:34:32,340
+none of that is, of course, proven.
+
+666
+00:34:32,340 --> 00:34:35,360
+So that would be a simple answer, but it clearly is not the whole answer.
+
+667
+00:34:35,360 --> 00:34:42,780
+So my answer to your question, why MTOR modulation has these longevity effects and yet many other
+
+668
+00:34:42,780 --> 00:34:49,220
+pathways that in some ways are as complicated and as important for a variety of other things,
+
+669
+00:34:49,220 --> 00:34:50,580
+don't.
+
+670
+00:34:50,580 --> 00:34:51,780
+And this is the way I think about it.
+
+671
+00:34:51,780 --> 00:34:55,740
+I think about it, like I try to analogize it a little bit to like a building.
+
+672
+00:34:55,740 --> 00:35:03,100
+So if I wanted to take a building like this one and make it younger, rejuvenate it, I
+
+673
+00:35:03,100 --> 00:35:09,660
+can't just get a plumber or electrician or a painter or a carpenter because the building
+
+674
+00:35:09,660 --> 00:35:14,140
+has many different features of which all of them have aged.
+
+675
+00:35:14,140 --> 00:35:16,820
+What you really need is a general contractor, right?
+
+676
+00:35:16,820 --> 00:35:18,500
+Who's going to then bring in all of those people?
+
+677
+00:35:18,500 --> 00:35:19,940
+Those subcontractors.
+
+678
+00:35:19,940 --> 00:35:21,740
+And fix all the subsystems.
+
+679
+00:35:21,740 --> 00:35:25,340
+We look at an old building, but an old building has lots of things that are messed up for
+
+680
+00:35:25,340 --> 00:35:28,740
+me, from the electrical systems, to the windows, to everything.
+
+681
+00:35:28,740 --> 00:35:32,260
+And to some extent, MTOR is like the general contractor for the cell.
+
+682
+00:35:32,260 --> 00:35:36,740
+I don't know of any other pathway that does as many things, right?
+
+683
+00:35:36,740 --> 00:35:42,340
+MTOR basically has a finger in every major process in the cell.
+
+684
+00:35:42,340 --> 00:35:47,580
+And so I think another way of thinking about your question is, what's the simplest way
+
+685
+00:35:47,660 --> 00:35:51,780
+to manipulate a cell so that lots of things are changed?
+
+686
+00:35:51,780 --> 00:35:54,000
+And the answer to that is to modulate MTOR.
+
+687
+00:35:54,000 --> 00:35:57,900
+Because all these other pathways, maybe some of them will regulate transcription.
+
+688
+00:35:57,900 --> 00:35:59,540
+Maybe some will do translation.
+
+689
+00:35:59,540 --> 00:36:02,460
+Some are going to change the shape of the cell.
+
+690
+00:36:02,460 --> 00:36:06,620
+But if you've got to do all those things, plus more, the only way of doing it with like
+
+691
+00:36:06,620 --> 00:36:09,340
+a single hit is to go after MTOR.
+
+692
+00:36:09,340 --> 00:36:14,540
+It is like the thing, it's like the brain of the cell, which then has all these subroutines
+
+693
+00:36:14,540 --> 00:36:15,540
+that do all these things.
+
+694
+00:36:15,540 --> 00:36:22,100
+And so to me, that's the simple answer, is that to impact the state of a cell, to rejuvenate
+
+695
+00:36:22,100 --> 00:36:25,180
+it, to slow the aging process, you can't do one thing.
+
+696
+00:36:25,180 --> 00:36:26,180
+You can't do two things.
+
+697
+00:36:26,180 --> 00:36:27,180
+You can't do three things.
+
+698
+00:36:27,180 --> 00:36:28,180
+You can't do 10 things.
+
+699
+00:36:28,180 --> 00:36:29,180
+You probably have to do 100 things.
+
+700
+00:36:29,180 --> 00:36:34,100
+And the only way you can do all of those things with one button is to go after MTOR.
+
+701
+00:36:34,100 --> 00:36:39,140
+Now, in biology, that tends to be a two-edged sword, right?
+
+702
+00:36:39,140 --> 00:36:47,020
+Because presumably, if you have one switch that controls so much, if you have the wrong
+
+703
+00:36:47,020 --> 00:36:52,620
+general contractor, or if the general contractor does the wrong thing, the effect is much more
+
+704
+00:36:52,620 --> 00:36:53,620
+noticeable.
+
+705
+00:36:53,620 --> 00:36:58,980
+So when did it become apparent to you, or how is it apparent to you that this isn't
+
+706
+00:36:58,980 --> 00:37:03,380
+just a linear relationship between signal and response?
+
+707
+00:37:03,380 --> 00:37:04,380
+This is a very good point, right?
+
+708
+00:37:04,380 --> 00:37:07,300
+So you could say, well, as a general contractor, there's a lot of things.
+
+709
+00:37:07,300 --> 00:37:13,540
+And so not only is anti-aging one of the things it does, but how you sort of scramble
+
+710
+00:37:13,540 --> 00:37:16,940
+sperm production, which is a potential target, heart function, right?
+
+711
+00:37:16,940 --> 00:37:18,300
+All these things require it.
+
+712
+00:37:18,300 --> 00:37:21,060
+And so, okay, you might get the anti-aging effects, but you're also going to get all
+
+713
+00:37:21,060 --> 00:37:22,500
+the downsides.
+
+714
+00:37:22,500 --> 00:37:24,100
+And I think that is certainly true.
+
+715
+00:37:24,100 --> 00:37:26,820
+And that's the major issue with targeting MTOR.
+
+716
+00:37:26,820 --> 00:37:27,820
+And so the question...
+
+717
+00:37:27,820 --> 00:37:31,900
+Because at the time you really kicked your efforts off here, people thought of rapamycin
+
+718
+00:37:31,900 --> 00:37:37,180
+and MTOR as a one-trick pony, which was you give this drug every day, your immune system
+
+719
+00:37:37,380 --> 00:37:40,820
+specifically, your cellular immune system doesn't work as well.
+
+720
+00:37:40,820 --> 00:37:45,340
+And at least for that subset of patients who had foreign organs in their body, that's a
+
+721
+00:37:45,340 --> 00:37:46,780
+reasonable thing to have.
+
+722
+00:37:46,780 --> 00:37:48,820
+And incidentally, you know, there is now...
+
+723
+00:37:48,820 --> 00:37:52,020
+So it's funny, rapamycin started as an immunosuppressant.
+
+724
+00:37:52,020 --> 00:37:56,660
+The interest in MTOR in the immune system pretty much was unexistent.
+
+725
+00:37:56,660 --> 00:38:01,180
+And now there's an entire field of so-called immunometabolism of which MTOR is probably
+
+726
+00:38:01,180 --> 00:38:02,360
+50% of that whole field.
+
+727
+00:38:02,360 --> 00:38:06,060
+And so it's MTORK1, MTORK2 in different immune cells, Tregs, right?
+
+728
+00:38:06,060 --> 00:38:07,060
+T-HOPRs.
+
+729
+00:38:07,060 --> 00:38:10,180
+And I believe this came out of the Novartis work from three years ago.
+
+730
+00:38:10,180 --> 00:38:11,620
+Did this precede that or...
+
+731
+00:38:11,620 --> 00:38:13,060
+Well, it's preceded that.
+
+732
+00:38:13,060 --> 00:38:15,740
+I mean, the Novartis work was the first sort of work in humans, right?
+
+733
+00:38:15,740 --> 00:38:19,020
+They clearly showed modulations, beneficial modulation in the immune system.
+
+734
+00:38:19,020 --> 00:38:22,900
+But in terms of studying which immune cells are most affected by rapamycin and what the
+
+735
+00:38:22,900 --> 00:38:28,180
+role of MTORK1, that's come out of the academic role by a number of groups that were heavily
+
+736
+00:38:28,180 --> 00:38:33,700
+enabled by the discovery of Raptor and Richter because now you could genetically inhibit
+
+737
+00:38:33,700 --> 00:38:34,700
+each of those.
+
+738
+00:38:34,940 --> 00:38:38,860
+And one of the things that my lab, we've really tried to do is to put our mice out there.
+
+739
+00:38:38,860 --> 00:38:44,100
+And so people use, for example, our Raptor mouse, so-called Phlox Raptor mouse a lot.
+
+740
+00:38:44,100 --> 00:38:48,260
+But this question of, in a way, what you're saying is, how much can we sort of tolerate
+
+741
+00:38:48,260 --> 00:38:52,780
+of MTOR modulation for beneficial effects versus non-beneficial ones?
+
+742
+00:38:52,780 --> 00:38:55,220
+And again, I don't think we have the answer to that.
+
+743
+00:38:55,220 --> 00:38:59,580
+To some extent, rapamycin is not a complete MTORK1 inhibition.
+
+744
+00:38:59,580 --> 00:39:00,900
+We know that.
+
+745
+00:39:00,900 --> 00:39:04,140
+And complete MTORK1 inhibition is probably not tolerated.
+
+746
+00:39:04,140 --> 00:39:06,460
+And so rapamycin might be as good as you can get.
+
+747
+00:39:06,460 --> 00:39:07,460
+You get some modulation.
+
+748
+00:39:07,460 --> 00:39:09,380
+Well, let's say a little bit more about that.
+
+749
+00:39:09,380 --> 00:39:13,980
+So you're saying if we could wave a magic wand, Bobby was very eloquently spoke about
+
+750
+00:39:13,980 --> 00:39:19,060
+why inhibition of MTORK1 leads to inhibition of MTORK2 and what the temporal relationship
+
+751
+00:39:19,060 --> 00:39:20,820
+of that might be.
+
+752
+00:39:20,820 --> 00:39:25,660
+But I don't think we got into this issue, which is, if I could wave a magic wand and
+
+753
+00:39:25,660 --> 00:39:32,140
+completely inhibit MTOR complex one, not lay a hand on complex two, why wouldn't that be
+
+754
+00:39:32,140 --> 00:39:33,140
+a good thing?
+
+755
+00:39:33,140 --> 00:39:38,820
+Because MTORK1 is probably required for the growth of any normal cell.
+
+756
+00:39:38,820 --> 00:39:44,940
+So for a cell to basically make its organelles, to make its proteins, to divide, MTORK1 is
+
+757
+00:39:44,940 --> 00:39:46,380
+probably an essential.
+
+758
+00:39:46,380 --> 00:39:53,180
+So at that level, it would start to mimic a crude chemotherapeutic agent that modulates
+
+759
+00:39:53,180 --> 00:39:54,180
+cell.
+
+760
+00:39:54,180 --> 00:39:58,180
+It becomes 5FU at a ridiculous dose.
+
+761
+00:39:58,180 --> 00:40:00,420
+Something that's going to basically slough off epithelial cells.
+
+762
+00:40:00,420 --> 00:40:01,420
+Exactly.
+
+763
+00:40:01,420 --> 00:40:05,460
+It calls basically atrophy of everything, anti-growth, and probably cell death.
+
+764
+00:40:05,460 --> 00:40:10,220
+And in fact, in many tissues where you delete Raptor, it can be quite bad.
+
+765
+00:40:10,220 --> 00:40:11,220
+That's the phenotype?
+
+766
+00:40:11,220 --> 00:40:15,100
+Yeah, like an epithelium in the gut, at least when we've looked, that's what they're saying.
+
+767
+00:40:15,100 --> 00:40:17,420
+So I don't think there's two issues going on here.
+
+768
+00:40:17,420 --> 00:40:22,140
+As Bobby Shirley told you, Rapamycin will also, with a longer time point, inhibit MTORK2.
+
+769
+00:40:22,140 --> 00:40:26,160
+And that is potentially bad for glucose homeostasis.
+
+770
+00:40:26,160 --> 00:40:29,980
+The other issue is that Rapamycin doesn't fully inhibit MTORK1.
+
+771
+00:40:29,980 --> 00:40:34,260
+So in an ideal world, you'd like to have, and what I mean by that is that MTORK1 probably
+
+772
+00:40:34,260 --> 00:40:36,500
+has dozens of substrates.
+
+773
+00:40:36,500 --> 00:40:40,580
+And Rapamycin only effectively inhibits some of them and not others.
+
+774
+00:40:40,580 --> 00:40:45,140
+Including Prabhupautophagy is relatively weakly modulated by Rapamycin.
+
+775
+00:40:45,140 --> 00:40:46,140
+Why is that?
+
+776
+00:40:46,140 --> 00:40:51,780
+Because the substrates, what Rapamycin basically does is sort of occlude the substrate binding
+
+777
+00:40:51,780 --> 00:40:54,340
+channel in MTORK1.
+
+778
+00:40:54,340 --> 00:40:56,380
+And it's physically, physically occluding.
+
+779
+00:40:56,380 --> 00:41:00,620
+And depending, probably, we don't, you know, this is somewhat hand waving, but there's
+
+780
+00:41:00,620 --> 00:41:02,220
+some evidence for this.
+
+781
+00:41:02,220 --> 00:41:05,500
+Probably the size of the substrate, if it's smaller, it might get easier and it's not
+
+782
+00:41:05,500 --> 00:41:06,500
+occluded.
+
+783
+00:41:06,500 --> 00:41:07,460
+If it's bigger, it's going to get blocked.
+
+784
+00:41:07,460 --> 00:41:11,180
+And so probably the key substrates in the autophagy pathway simply are not as affected
+
+785
+00:41:11,180 --> 00:41:14,700
+because they get into the kinase domain of MTORK1 still.
+
+786
+00:41:14,700 --> 00:41:18,220
+By the way, is this issue different for any of the Rapalogs?
+
+787
+00:41:18,220 --> 00:41:19,220
+No.
+
+788
+00:41:19,220 --> 00:41:23,320
+They're all basically producing the same effect as Rapamycin.
+
+789
+00:41:23,320 --> 00:41:27,640
+Some people might argue differently from that, but in my experience of them, they are
+
+790
+00:41:27,640 --> 00:41:32,580
+basically like Rapamycin with maybe different PK PD properties.
+
+791
+00:41:32,580 --> 00:41:36,760
+But from a mechanistic point of view, I wouldn't expect differences.
+
+792
+00:41:36,760 --> 00:41:38,760
+And I haven't seen those differences.
+
+793
+00:41:38,760 --> 00:41:42,720
+But so in an ideal world, you might want a molecule that would inhibit all the substrates
+
+794
+00:41:42,720 --> 00:41:46,280
+of MTORK1, not touch MTORK2.
+
+795
+00:41:46,280 --> 00:41:48,040
+But not do it constitutively.
+
+796
+00:41:48,040 --> 00:41:51,200
+Not do it constitutively, but also maybe not to 100% inhibition.
+
+797
+00:41:51,200 --> 00:41:54,960
+So I'm not sure I would use that molecule to wipe out MTORK1.
+
+798
+00:41:54,960 --> 00:42:00,560
+I would use it to bring down all the MTORK1 activity of all towards or to some extent,
+
+799
+00:42:00,560 --> 00:42:02,640
+leaving MTORK2 intact.
+
+800
+00:42:02,640 --> 00:42:07,680
+I think that's going to be very hard to do by targeting MTORK1 itself because MTORK1,
+
+801
+00:42:07,680 --> 00:42:10,200
+MTORK2 share the same kinase domain.
+
+802
+00:42:10,200 --> 00:42:15,280
+And so you can't go for the ATP binding site, which is most kinase inhibitors, MTOR as a
+
+803
+00:42:15,280 --> 00:42:18,420
+kinase, protein kinase, like LIVEC, for example.
+
+804
+00:42:18,420 --> 00:42:20,680
+They all go for the ATP binding site.
+
+805
+00:42:20,680 --> 00:42:21,900
+So we're not going to do it for that.
+
+806
+00:42:21,900 --> 00:42:26,640
+And so our view is that the way to accomplish that is not to go after MTORK1 itself, but
+
+807
+00:42:26,640 --> 00:42:29,680
+to go after its upstream regulators.
+
+808
+00:42:29,680 --> 00:42:33,600
+And the big benefit, in my view, of doing that is that you should be able to have something
+
+809
+00:42:33,600 --> 00:42:36,160
+now that modulates all MTORK1 substrate.
+
+810
+00:42:36,160 --> 00:42:40,840
+And you can also start to get tissue specificity because these regulators vary in importance
+
+811
+00:42:40,840 --> 00:42:42,320
+across tissues.
+
+812
+00:42:42,320 --> 00:42:47,520
+The aspect of this pathway that's kept our attention for two decades at this point is
+
+813
+00:42:47,520 --> 00:42:50,520
+that MTORK1 is basically regulated by everything.
+
+814
+00:42:50,520 --> 00:42:57,740
+Everything I do to the cell, whether I change nutrients, oxygens, pH, growth factors, osmotic.
+
+815
+00:42:57,740 --> 00:43:01,120
+What's the direct effect of glucose and or insulin on MTORK1?
+
+816
+00:43:01,120 --> 00:43:04,360
+It obviously plays an enormous role on complex two.
+
+817
+00:43:04,360 --> 00:43:06,000
+It seems to activate them, right?
+
+818
+00:43:06,000 --> 00:43:07,360
+So through independent pathways.
+
+819
+00:43:07,360 --> 00:43:10,440
+There seems to be a pathway through which insulin acts, and there seems to be a pathway
+
+820
+00:43:10,440 --> 00:43:11,680
+through which glucose acts.
+
+821
+00:43:11,680 --> 00:43:14,680
+And even the glucose pathway probably has several subbranches to it.
+
+822
+00:43:14,680 --> 00:43:15,680
+I see.
+
+823
+00:43:15,680 --> 00:43:20,120
+Which again, teleologically makes sense because if it's a nutrient sensor, it should be
+
+824
+00:43:21,120 --> 00:43:22,800
+activated by nutrients.
+
+825
+00:43:22,800 --> 00:43:28,220
+But it becomes very complicated now because you have the same nutrient acting in completely
+
+826
+00:43:28,220 --> 00:43:29,220
+different areas with great redundancy.
+
+827
+00:43:29,220 --> 00:43:34,120
+And that's probably because you're looking at, in the cells that we use in culture, we
+
+828
+00:43:34,120 --> 00:43:35,760
+can get both of these sensing systems.
+
+829
+00:43:35,760 --> 00:43:39,160
+We're probably in vivo, there's tissues that are going to care more about the insulin arm,
+
+830
+00:43:39,160 --> 00:43:41,920
+there's tissue that care much more about the glucose arm, and there's something that
+
+831
+00:43:41,920 --> 00:43:42,920
+care about both.
+
+832
+00:43:42,920 --> 00:43:47,720
+So if you think about being a peripheral tissue, let's say you're a cell somewhere in your
+
+833
+00:43:47,720 --> 00:43:49,720
+leg and you need to make a decision.
+
+834
+00:43:49,720 --> 00:43:50,720
+A muscle cell.
+
+835
+00:43:50,720 --> 00:43:51,720
+Let's say a muscle cell.
+
+836
+00:43:51,720 --> 00:43:54,360
+You need to decide whether you're an anabolic state or a catabolic one.
+
+837
+00:43:54,360 --> 00:43:56,400
+So clearly there's things of use and all that.
+
+838
+00:43:56,400 --> 00:44:00,800
+But let's say just in response to nutrition, you kind of want two pieces of information,
+
+839
+00:44:00,800 --> 00:44:01,800
+right?
+
+840
+00:44:01,800 --> 00:44:06,880
+One, you want to know that the organism that you live in as a whole is in a fed state.
+
+841
+00:44:06,880 --> 00:44:09,720
+You want to be a good member of the community.
+
+842
+00:44:09,720 --> 00:44:13,200
+And that is reflected by things like insulin, which basically tells you the pancreas.
+
+843
+00:44:13,200 --> 00:44:14,520
+It's a global metric.
+
+844
+00:44:14,520 --> 00:44:15,520
+Right.
+
+845
+00:44:15,520 --> 00:44:17,840
+Pancreas, saw glucose, we sent out insulin.
+
+846
+00:44:17,840 --> 00:44:18,840
+Yep.
+
+847
+00:44:18,840 --> 00:44:22,120
+And the other one is you actually want to know that you have the nutrient that you need.
+
+848
+00:44:22,120 --> 00:44:25,800
+You could have like central command telling you, hey, I got glucose.
+
+849
+00:44:25,800 --> 00:44:27,720
+But if you don't have glucose, you can't do anything.
+
+850
+00:44:27,720 --> 00:44:29,160
+It's a local issue.
+
+851
+00:44:29,160 --> 00:44:33,480
+And so you really want like the central signal and you want the local signal.
+
+852
+00:44:33,480 --> 00:44:37,120
+So I think one can interpret that the pathway senses both the nutrient.
+
+853
+00:44:37,120 --> 00:44:40,840
+So the amino acid can be a local, the glucose molecule itself.
+
+854
+00:44:40,840 --> 00:44:41,840
+Itself is a local one.
+
+855
+00:44:41,840 --> 00:44:42,840
+For sure.
+
+856
+00:44:42,840 --> 00:44:43,840
+We know it is.
+
+857
+00:44:43,840 --> 00:44:46,720
+Whereas the larger peptide can be sort of the central command.
+
+858
+00:44:46,720 --> 00:44:48,440
+And now you can extrapolate that to.
+
+859
+00:44:48,440 --> 00:44:51,560
+There are many signals that are secreted in response to food.
+
+860
+00:44:51,560 --> 00:44:52,560
+Right.
+
+861
+00:44:52,560 --> 00:44:53,560
+Insulin just being one of them.
+
+862
+00:44:53,560 --> 00:44:54,720
+And then there are many local nutrients.
+
+863
+00:44:54,720 --> 00:44:57,520
+And now you can start to see the enormous complexity of the problem.
+
+864
+00:44:57,520 --> 00:44:58,520
+Right.
+
+865
+00:44:58,520 --> 00:45:00,240
+And now you add a temporal component to it.
+
+866
+00:45:00,240 --> 00:45:01,360
+And now you actually have a concentration.
+
+867
+00:45:01,360 --> 00:45:02,360
+Yeah.
+
+868
+00:45:02,360 --> 00:45:05,240
+And then you make things tissue specific.
+
+869
+00:45:05,240 --> 00:45:10,360
+So our view has been if we can find the sensors of the nutrients, and that's what we focused
+
+870
+00:45:10,360 --> 00:45:11,360
+on.
+
+871
+00:45:11,360 --> 00:45:14,160
+So we focus a lot on amino acids, but we're also working on glucose.
+
+872
+00:45:14,160 --> 00:45:18,400
+If we could find those sensors, by definition, they'll have small molecule.
+
+873
+00:45:18,400 --> 00:45:19,400
+You'll buy new pockets, right?
+
+874
+00:45:19,400 --> 00:45:21,720
+Because they buy nutrients, which are small molecules.
+
+875
+00:45:21,720 --> 00:45:25,160
+Although they're small, small, small molecules, compared to drugs.
+
+876
+00:45:25,160 --> 00:45:26,160
+We should be able to drug them.
+
+877
+00:45:26,160 --> 00:45:32,000
+So in 2015 in the fall, you had these two papers that came out that looked at leucine,
+
+878
+00:45:32,000 --> 00:45:35,120
+of course, huge interest, but also arginine.
+
+879
+00:45:35,120 --> 00:45:37,400
+Leucine and arginine can get into a cell very easily.
+
+880
+00:45:37,400 --> 00:45:39,600
+Do they passively diffuse in?
+
+881
+00:45:39,600 --> 00:45:40,600
+There's transporters for that.
+
+882
+00:45:40,600 --> 00:45:41,600
+There's relatively straightforward transporters.
+
+883
+00:45:41,600 --> 00:45:43,200
+But they're high capacity transporters.
+
+884
+00:45:43,200 --> 00:45:44,200
+Okay.
+
+885
+00:45:44,200 --> 00:45:50,440
+So in the cytosol, these amino acids bind to receptors that then downstream result
+
+886
+00:45:50,440 --> 00:45:53,800
+in the activation of TOR.
+
+887
+00:45:53,800 --> 00:45:56,080
+Specifically on TOR Complex 1.
+
+888
+00:45:56,080 --> 00:46:03,200
+People have long talked about how branched-chain amino acids are important for building muscle.
+
+889
+00:46:03,200 --> 00:46:07,120
+Specifically to be consumed in a workout was always sort of the rhetoric, presumably because
+
+890
+00:46:07,120 --> 00:46:10,880
+that's a very catabolic time for muscle.
+
+891
+00:46:10,880 --> 00:46:14,600
+It now seems that that makes sense, at least in the presence of what leucine is doing.
+
+892
+00:46:14,600 --> 00:46:17,720
+Do we think that the other two branched-chain amino acids are having any effect?
+
+893
+00:46:17,720 --> 00:46:23,480
+At least when we look at the receptor we found for leucine, and then we look at the concentrations
+
+894
+00:46:23,480 --> 00:46:27,320
+at which it might bind the other branched-chain amino acids, we don't think those affinities
+
+895
+00:46:27,320 --> 00:46:28,320
+are relevant.
+
+896
+00:46:28,320 --> 00:46:30,280
+Particularly valine is way too low.
+
+897
+00:46:30,280 --> 00:46:35,200
+Isoleucine maybe in some situations could act through the receptor, but unlikely.
+
+898
+00:46:35,200 --> 00:46:40,320
+So in our hands, again, looking at a very molecular point of view, it really seems like
+
+899
+00:46:40,320 --> 00:46:42,200
+leucine is the key one.
+
+900
+00:46:42,200 --> 00:46:47,040
+And I would think from talking to bodybuilders and looking at bodybuilding products out there,
+
+901
+00:46:47,040 --> 00:46:52,200
+it does seem like leucine is the one that people focused on more than the individual
+
+902
+00:46:52,200 --> 00:46:53,200
+ones.
+
+903
+00:46:53,200 --> 00:46:57,520
+And the difference between leucine and arginine then with respect to the signaling is what?
+
+904
+00:46:57,520 --> 00:47:02,680
+One way of sort of conceptualizing Amtrak 1 is it wants to drive anabolism.
+
+905
+00:47:02,680 --> 00:47:06,760
+And what its goal is to detect when something's missing for that.
+
+906
+00:47:06,760 --> 00:47:10,640
+So we tend to think of the pathway like when we turn it on, but probably its really key
+
+907
+00:47:10,640 --> 00:47:12,840
+function is to turn off when something is missing.
+
+908
+00:47:12,840 --> 00:47:15,960
+Let's say you're building a house, all of a sudden you run out of concrete, you want
+
+909
+00:47:15,960 --> 00:47:18,520
+to turn off, all of a sudden around a wood you want to turn off.
+
+910
+00:47:18,520 --> 00:47:19,520
+So this path would...
+
+911
+00:47:19,520 --> 00:47:20,680
+So the default is on?
+
+912
+00:47:20,680 --> 00:47:23,480
+The default, when everything is there, is on.
+
+913
+00:47:23,480 --> 00:47:28,400
+But it's built, it's organized in such a way that the removal of anything can turn it off.
+
+914
+00:47:28,400 --> 00:47:29,400
+Efficiently turns off.
+
+915
+00:47:29,400 --> 00:47:30,400
+Of course.
+
+916
+00:47:30,400 --> 00:47:32,440
+Now this is going to vary obviously between different tissues.
+
+917
+00:47:32,440 --> 00:47:39,160
+And so the pathway evolved that it needs to detect leucine and it needs to detect arginine.
+
+918
+00:47:39,160 --> 00:47:40,640
+At least in most tissues.
+
+919
+00:47:40,640 --> 00:47:41,880
+Now why is that?
+
+920
+00:47:41,880 --> 00:47:43,240
+They're both amino acids.
+
+921
+00:47:43,240 --> 00:47:46,960
+If you think about this during the course of evolution, you're an animal that ate another
+
+922
+00:47:46,960 --> 00:47:49,920
+animal so you ate its muscle, you got protein.
+
+923
+00:47:49,920 --> 00:47:52,040
+Why do you need to sense two different amino acids?
+
+924
+00:47:52,040 --> 00:47:53,760
+And they're very structurally different.
+
+925
+00:47:53,760 --> 00:47:57,880
+They're about as structurally different as you could get in terms of amino acids.
+
+926
+00:47:57,880 --> 00:47:59,300
+We don't have an answer to that.
+
+927
+00:47:59,300 --> 00:48:02,160
+Why did evolution do that?
+
+928
+00:48:02,160 --> 00:48:03,160
+Take these two amino acids.
+
+929
+00:48:03,160 --> 00:48:05,400
+I mean that's a phenomenal question.
+
+930
+00:48:05,400 --> 00:48:11,200
+I don't know enough about amino acids to know what the evolution of amino acids look like.
+
+931
+00:48:11,200 --> 00:48:14,520
+I mean a billion years ago, I assume we didn't have the same amino acids.
+
+932
+00:48:14,520 --> 00:48:15,520
+No, I think we did.
+
+933
+00:48:15,520 --> 00:48:16,520
+We did.
+
+934
+00:48:16,520 --> 00:48:19,040
+So most all forms of life have problems.
+
+935
+00:48:19,040 --> 00:48:24,240
+So basically from the beginning of when we had DNA to RNA to protein, we had the exact
+
+936
+00:48:24,240 --> 00:48:25,600
+same amino acids.
+
+937
+00:48:25,600 --> 00:48:27,120
+So then it's even more of a mystery.
+
+938
+00:48:27,120 --> 00:48:29,680
+Why in the heck did we...
+
+939
+00:48:29,680 --> 00:48:34,720
+Part of people in the lab that I was encouraging to look at other organisms because the sensing
+
+940
+00:48:34,720 --> 00:48:38,760
+part of the system is probably evolving quite quickly because different organisms live in
+
+941
+00:48:38,760 --> 00:48:39,760
+different environments.
+
+942
+00:48:39,760 --> 00:48:44,500
+And so if I have flies, we know already, don't care about arginine.
+
+943
+00:48:44,500 --> 00:48:47,240
+They care about leucine and it turns out they care about a whole bunch of other amino acids
+
+944
+00:48:47,240 --> 00:48:48,240
+that we don't care about.
+
+945
+00:48:48,240 --> 00:48:49,320
+What about yeast?
+
+946
+00:48:49,320 --> 00:48:52,880
+So yeast in many ways is the most mysterious because yeast...
+
+947
+00:48:52,880 --> 00:48:57,400
+So we don't know any sensors in yeast and none of the sensors we have found are in yeast.
+
+948
+00:48:57,400 --> 00:48:59,840
+And that's because yeast can make amino acids.
+
+949
+00:48:59,840 --> 00:49:01,740
+So to some extent yeast is very primitive.
+
+950
+00:49:01,740 --> 00:49:05,480
+You give it nitrogen, you give it carbon, it's going to make every amino acid.
+
+951
+00:49:05,480 --> 00:49:08,440
+So things like leucine, which are essential to us, are not essential to yeast.
+
+952
+00:49:08,440 --> 00:49:09,440
+They can make it.
+
+953
+00:49:09,440 --> 00:49:16,920
+In what state do yeast cease to activate TOR only in the absence of the essential elements?
+
+954
+00:49:16,920 --> 00:49:20,680
+So regulation of TOR is not as well studied in yeast because it's harder to detect the
+
+955
+00:49:20,680 --> 00:49:21,680
+output.
+
+956
+00:49:21,680 --> 00:49:25,040
+And so typically what people do is they change the nitrogen source or they change the carbon
+
+957
+00:49:25,040 --> 00:49:26,160
+source.
+
+958
+00:49:26,160 --> 00:49:30,720
+And so my view is that yeast has to have a sensor of nitrogen, whatever that means.
+
+959
+00:49:30,720 --> 00:49:32,840
+It's not so easy to understand what that means.
+
+960
+00:49:32,840 --> 00:49:34,520
+And a sensor of carbon.
+
+961
+00:49:34,520 --> 00:49:36,560
+But not a sensor of individual amino acids.
+
+962
+00:49:36,560 --> 00:49:41,800
+And as we find more sensors, so we've now connected the pathodimathione sensing and
+
+963
+00:49:41,800 --> 00:49:44,320
+we have a receptor for that.
+
+964
+00:49:44,320 --> 00:49:45,720
+That yeast doesn't have that either.
+
+965
+00:49:45,720 --> 00:49:50,300
+And so I've actually also tried to encourage people in the lab to look for what might be
+
+966
+00:49:50,300 --> 00:49:55,200
+a nitrogen sensor in yeast for example ammonia, which is a simple form of nitrogen.
+
+967
+00:49:55,200 --> 00:49:57,040
+Maybe that's what's sensed.
+
+968
+00:49:57,040 --> 00:49:59,680
+Maybe acetate is what's sensed for carbon.
+
+969
+00:49:59,680 --> 00:50:00,680
+But we don't know.
+
+970
+00:50:00,680 --> 00:50:05,680
+So say more about methionine because in the protein restriction literature, certainly
+
+971
+00:50:05,680 --> 00:50:11,380
+one argument is that methionine restriction specifically could be beneficial if one believes
+
+972
+00:50:11,380 --> 00:50:16,600
+that low IGF is beneficial and we can talk about whether that's causally the case or
+
+973
+00:50:16,600 --> 00:50:20,480
+not, not even getting into the IGF binding proteins.
+
+974
+00:50:20,480 --> 00:50:22,080
+Where does methionine fit into TOR?
+
+975
+00:50:22,080 --> 00:50:23,080
+Right.
+
+976
+00:50:23,080 --> 00:50:24,440
+So methionine actually is a very interesting one.
+
+977
+00:50:24,460 --> 00:50:27,980
+As you said, there's an extensive literature on what's so-called methionine restriction
+
+978
+00:50:27,980 --> 00:50:32,840
+having quite beneficial effects from glucose homostasis actually to quite very reasonable
+
+979
+00:50:32,840 --> 00:50:35,900
+lifespan extension effect as good as chloric restriction.
+
+980
+00:50:35,900 --> 00:50:41,520
+And there are some papers in FLY, genetic papers, that suggest that some of the methionine
+
+981
+00:50:41,520 --> 00:50:45,680
+restriction effects go through the TOR pathway in FLYs.
+
+982
+00:50:45,680 --> 00:50:48,560
+We got to this basically through the protein.
+
+983
+00:50:48,560 --> 00:50:51,840
+We found a protein of unknown function and we tried to figure out what it did and it
+
+984
+00:50:51,840 --> 00:50:56,840
+turned out to be a sensor of this metabolite called SAM, esodenosyl methionine, which
+
+985
+00:50:56,840 --> 00:50:58,340
+is basically made by methionine.
+
+986
+00:50:58,340 --> 00:50:59,340
+So it's actually quite interesting.
+
+987
+00:50:59,340 --> 00:51:02,060
+And people supplement with the variant of SAM-SAM-E.
+
+988
+00:51:02,060 --> 00:51:03,460
+Exactly, right.
+
+989
+00:51:03,460 --> 00:51:05,440
+SAM actually has some pretty interesting clinical effects.
+
+990
+00:51:05,440 --> 00:51:11,520
+Actually some quite convincing data on anti-depressive effects of SAM out there.
+
+991
+00:51:11,520 --> 00:51:15,840
+So the sensor here is interesting because the other sensors we have directly bind leucine,
+
+992
+00:51:15,840 --> 00:51:16,940
+directly bind arginine.
+
+993
+00:51:16,940 --> 00:51:19,160
+This one doesn't bind directly to methionine.
+
+994
+00:51:19,160 --> 00:51:23,560
+It binds to a metabolite made by methionine, which is SAM, which SAM many things can feed
+
+995
+00:51:23,560 --> 00:51:26,600
+into SAM, so it actually can integrate lots of signals.
+
+996
+00:51:26,600 --> 00:51:30,080
+So this sensor basically behaves like the other ones.
+
+997
+00:51:30,080 --> 00:51:36,000
+As soon as methionine levels go down, SAM levels go down, this sensor therefore inhibits
+
+998
+00:51:36,000 --> 00:51:38,320
+this pathway.
+
+999
+00:51:38,320 --> 00:51:39,320
+And so...
+
+1000
+00:51:39,320 --> 00:51:43,640
+So SAM would not be a longevity agent by the oversimplification that excess SAM would be
+
+1001
+00:51:43,640 --> 00:51:48,600
+akin to excess methionine would be akin to failing to inhibit TOR.
+
+1002
+00:51:48,600 --> 00:51:49,600
+Exactly.
+
+1003
+00:51:49,600 --> 00:51:54,920
+So methionine restriction could be presumably rescued by giving SAM.
+
+1004
+00:51:54,920 --> 00:51:58,880
+And we actually know in the pathway that we've built in cells that that's true.
+
+1005
+00:51:58,880 --> 00:52:02,320
+You can bypass methionine simply by giving SAM.
+
+1006
+00:52:02,320 --> 00:52:07,240
+So a molecule that could basically trick this sensor into thinking that SAM was not there
+
+1007
+00:52:07,240 --> 00:52:09,320
+would be quite an interesting one.
+
+1008
+00:52:09,320 --> 00:52:14,200
+I think methionine is probably the most interesting of these amino acids because if you fast an
+
+1009
+00:52:14,200 --> 00:52:18,240
+animal, methionine is the amino acid that drops the most.
+
+1010
+00:52:18,880 --> 00:52:22,800
+And you looked at all of the amino acids in mice.
+
+1011
+00:52:22,800 --> 00:52:24,640
+So we should do some of this in humans.
+
+1012
+00:52:24,640 --> 00:52:25,640
+But it kind of makes sense.
+
+1013
+00:52:25,640 --> 00:52:27,920
+I can volunteer if you want.
+
+1014
+00:52:27,920 --> 00:52:29,640
+We could definitely profile.
+
+1015
+00:52:29,640 --> 00:52:33,920
+The reason probably is that arginine, you can make some, your liver can make it.
+
+1016
+00:52:33,920 --> 00:52:39,240
+And then leucine is an essential amino acid, but to some extent it's only used to make
+
+1017
+00:52:39,240 --> 00:52:40,240
+protein.
+
+1018
+00:52:40,240 --> 00:52:41,240
+That's it.
+
+1019
+00:52:41,240 --> 00:52:44,640
+So when you fast, you start to break down your muscle and release leucine.
+
+1020
+00:52:44,640 --> 00:52:47,600
+It's not only an essential amino acid that you use to make protein.
+
+1021
+00:52:47,600 --> 00:52:51,160
+And remember, the first amino acid of all proteins is the methionine.
+
+1022
+00:52:51,160 --> 00:52:55,000
+So by definition, every single protein has methionine.
+
+1023
+00:52:55,000 --> 00:52:59,120
+But it's also incredibly metabolically active through SAM and the so-called methionine
+
+1024
+00:52:59,120 --> 00:53:00,120
+cycle.
+
+1025
+00:53:00,120 --> 00:53:04,240
+So when you fast, you probably just can't generate enough methionine by breaking down
+
+1026
+00:53:04,240 --> 00:53:08,840
+your proteins to keep up with methion demand, while you can for leucine.
+
+1027
+00:53:08,840 --> 00:53:13,160
+So if you look at the blood of an animal that's fast, methionine is the number one dropped
+
+1028
+00:53:13,160 --> 00:53:14,160
+amino acid.
+
+1029
+00:53:14,160 --> 00:53:16,760
+I think that's true in autophagy in general.
+
+1030
+00:53:16,760 --> 00:53:22,160
+If we put an animal into a state that induces autophagy independent of caloric restriction,
+
+1031
+00:53:22,160 --> 00:53:28,520
+so for example, would we see the drop in methionine as a readout?
+
+1032
+00:53:28,520 --> 00:53:30,240
+You might expect it to go up actually, right?
+
+1033
+00:53:30,240 --> 00:53:31,960
+Because autophagy is going to break down protein.
+
+1034
+00:53:31,960 --> 00:53:32,960
+You might have methionine.
+
+1035
+00:53:32,960 --> 00:53:33,960
+If you're not recycling.
+
+1036
+00:53:33,960 --> 00:53:34,960
+If you're not recycling.
+
+1037
+00:53:34,960 --> 00:53:39,520
+And it depends if you induce, in the state for example, post-exercise, I don't know what
+
+1038
+00:53:39,520 --> 00:53:43,040
+we know about the use of methionine in SAM.
+
+1039
+00:53:43,720 --> 00:53:45,800
+So SAM is used for methylation reactions.
+
+1040
+00:53:45,800 --> 00:53:47,800
+And there are hundreds of methylation reactions.
+
+1041
+00:53:47,800 --> 00:53:55,040
+SAM is the second most common cofactor in enzymes after ATP.
+
+1042
+00:53:55,040 --> 00:53:56,040
+Everyone knows about ATP.
+
+1043
+00:53:56,040 --> 00:53:57,040
+ATP is energy.
+
+1044
+00:53:57,040 --> 00:53:59,720
+And then it's used in many, many, many reactions for phosphorylation.
+
+1045
+00:53:59,720 --> 00:54:01,440
+But SAM is the second most common one.
+
+1046
+00:54:01,440 --> 00:54:05,160
+So there are literally hundreds of proteins that use SAM.
+
+1047
+00:54:05,160 --> 00:54:07,280
+So maybe after exercise, a lot of SAM is used.
+
+1048
+00:54:07,280 --> 00:54:08,280
+I don't know.
+
+1049
+00:54:08,280 --> 00:54:09,780
+It's an interesting question, right?
+
+1050
+00:54:09,780 --> 00:54:13,380
+But with fasting, methionine definitely plummets.
+
+1051
+00:54:13,380 --> 00:54:15,060
+SAM definitely plummets.
+
+1052
+00:54:15,060 --> 00:54:19,780
+And so we're now generating the right animal models to ask whether the sensor we have is
+
+1053
+00:54:19,780 --> 00:54:22,220
+involved in the effects of methionine restriction.
+
+1054
+00:54:22,220 --> 00:54:26,620
+So we can basically knock it out and then do methionine restriction.
+
+1055
+00:54:26,620 --> 00:54:29,920
+And if the animal doesn't have the health benefits of methionine restriction, it means
+
+1056
+00:54:29,920 --> 00:54:34,460
+that this sensor and by extension mTORC1 are the key mediators of methionine restriction.
+
+1057
+00:54:34,460 --> 00:54:35,460
+So we'll see.
+
+1058
+00:54:35,460 --> 00:54:39,420
+So coming back to Rapamycin specifically and all of its limitations.
+
+1059
+00:54:39,420 --> 00:54:42,940
+So we've established that you can't just take Rapamycin all day every day because
+
+1060
+00:54:42,940 --> 00:54:45,020
+that experiment's been done.
+
+1061
+00:54:45,020 --> 00:54:47,500
+That's the clinical utilization of it.
+
+1062
+00:54:47,500 --> 00:54:52,340
+Certainly the animal data have suggested and the human data have suggested that an intermittent
+
+1063
+00:54:52,340 --> 00:54:57,640
+dosing of Rapamycin could produce a beneficial phenotype with respect to longevity specifically
+
+1064
+00:54:57,640 --> 00:55:00,380
+and also with respect to immune function.
+
+1065
+00:55:00,380 --> 00:55:07,380
+So if you had to guess based on triangulating these data, assuming no new drug came along
+
+1066
+00:55:07,460 --> 00:55:14,060
+that was going to selectively do some of the things that we've discussed, how would one
+
+1067
+00:55:14,060 --> 00:55:21,060
+dose in an animal or a human for that matter, Rapamycin, to increase the odds in favor of
+
+1068
+00:55:21,520 --> 00:55:26,760
+longevity and against harmful side effects, which presumably the most obvious ones would
+
+1069
+00:55:26,760 --> 00:55:30,060
+be immune suppression and or glucose homeostasis disruption.
+
+1070
+00:55:30,060 --> 00:55:32,940
+Yeah, and also epithelial sort of toxicity.
+
+1071
+00:55:32,940 --> 00:55:34,940
+Particularly the GI epithelium.
+
+1072
+00:55:34,940 --> 00:55:38,860
+So I think the intermittent approach is definitely the one that makes sense because if you buy
+
+1073
+00:55:38,860 --> 00:55:44,140
+the idea that you want to induce autophagy, which a lot of people, of course, like yourself,
+
+1074
+00:55:44,140 --> 00:55:48,060
+who study the effects of fasting also view that that's one of the goals of fasting is
+
+1075
+00:55:48,060 --> 00:55:49,060
+to induce autophagy.
+
+1076
+00:55:49,060 --> 00:55:54,260
+So if we basically want to chemically induce autophagy without fasting, I think the intermittent
+
+1077
+00:55:54,260 --> 00:55:55,660
+dose is what makes sense.
+
+1078
+00:55:55,660 --> 00:56:00,580
+You basically let have an induction autophagy, a relatively weak one with Rapamycin, but
+
+1079
+00:56:00,580 --> 00:56:02,580
+then let the system rebuild.
+
+1080
+00:56:02,580 --> 00:56:06,260
+It's clear that both mTOR, you need just right amounts, right?
+
+1081
+00:56:06,260 --> 00:56:09,180
+You can't have too little, it's toxic, you have too much, it's toxic.
+
+1082
+00:56:09,180 --> 00:56:10,820
+The same thing with autophagy.
+
+1083
+00:56:10,820 --> 00:56:12,500
+If you remove autophagy, it's really toxic.
+
+1084
+00:56:12,500 --> 00:56:14,780
+If you have too much autophagy, it's really toxic.
+
+1085
+00:56:14,780 --> 00:56:19,980
+The cycling and abalism, catabolism might be the single most important thing to do.
+
+1086
+00:56:19,980 --> 00:56:21,700
+It might be, right?
+
+1087
+00:56:21,700 --> 00:56:25,920
+And I think it's hard for us to know, but those intermittent dosing strategies, every
+
+1088
+00:56:25,920 --> 00:56:30,740
+other day feeding strategies all point to that.
+
+1089
+00:56:30,740 --> 00:56:35,540
+And the genetics where too much is bad and too little is bad also point to that.
+
+1090
+00:56:35,540 --> 00:56:40,260
+So if you genetically inhibit this pathway by deleting Raptor, if you genetically activate
+
+1091
+00:56:40,260 --> 00:56:45,060
+it by deleting these repressors called the Tuberosclerosis Complex, both are bad.
+
+1092
+00:56:45,060 --> 00:56:47,700
+Both in fact in many tissues like the muscle give the same output.
+
+1093
+00:56:47,700 --> 00:56:48,700
+They get muscular dystrophy.
+
+1094
+00:56:48,700 --> 00:56:52,380
+I was just about to say there's an overlap with muscular dystrophy here, isn't there?
+
+1095
+00:56:52,380 --> 00:56:53,380
+Exactly.
+
+1096
+00:56:53,380 --> 00:56:59,420
+So this may be a theoretical question, but when we think about the life extending properties
+
+1097
+00:56:59,420 --> 00:57:08,980
+of rapamycin, do we believe that it is a result of delaying the clinical onset of disease?
+
+1098
+00:57:08,980 --> 00:57:12,500
+Let's use a disease where that tends to be more binary like cancer.
+
+1099
+00:57:12,500 --> 00:57:18,180
+But obviously cancer spends probably 70 to 80% of its time undetectable, but due to just
+
+1100
+00:57:18,180 --> 00:57:21,260
+the law of growth, it becomes detectable only at the end.
+
+1101
+00:57:21,260 --> 00:57:26,260
+So do we think that in as much as say taking these agents would allow you to live longer
+
+1102
+00:57:26,260 --> 00:57:31,100
+by not dying from cancer at the same period of time, does it delay the time it takes for
+
+1103
+00:57:31,100 --> 00:57:38,060
+cancer to become clinically detectable and or delay the demise of the animal once it
+
+1104
+00:57:38,060 --> 00:57:39,060
+has that cancer?
+
+1105
+00:57:39,060 --> 00:57:44,500
+I think specifically in the case of cancer, rapamycin is there's some situations where
+
+1106
+00:57:44,500 --> 00:57:47,780
+it has some decent activity, but in general, it's not a cytotoxic agent.
+
+1107
+00:57:47,780 --> 00:57:49,140
+It's not going to kill a cancer cell.
+
+1108
+00:57:49,140 --> 00:57:50,140
+It's really going to...
+
+1109
+00:57:50,140 --> 00:57:53,600
+Once an organism has cancer, do we know if it's doing anything to prevent the development
+
+1110
+00:57:53,600 --> 00:57:54,600
+of cancer?
+
+1111
+00:57:54,600 --> 00:57:56,600
+We don't know that well.
+
+1112
+00:57:56,600 --> 00:58:01,320
+There actually has been some epidemiological data where people have compared cancer rates
+
+1113
+00:58:01,320 --> 00:58:02,640
+in transplant patients.
+
+1114
+00:58:02,640 --> 00:58:04,680
+Identical patients who are with and without rapamycin.
+
+1115
+00:58:04,680 --> 00:58:06,280
+FK506 versus rapamycin.
+
+1116
+00:58:06,280 --> 00:58:10,200
+And it's actually quite interesting because as you know, immunosuppression in general
+
+1117
+00:58:10,200 --> 00:58:12,920
+is associated with higher cancer rates, right?
+
+1118
+00:58:12,920 --> 00:58:17,360
+The idea that you have less immune surveillance, that's not seeing a rapamycin.
+
+1119
+00:58:17,360 --> 00:58:18,720
+So it is seeing a FK506.
+
+1120
+00:58:18,720 --> 00:58:19,880
+It's not seeing a rapamycin.
+
+1121
+00:58:19,880 --> 00:58:26,280
+And the argument has been that rapamycin itself has cancer cell autonomous effect.
+
+1122
+00:58:26,280 --> 00:58:28,480
+Independent of the immune modulation problem.
+
+1123
+00:58:28,480 --> 00:58:32,320
+So you're presumably getting less immune surveillance because it's immunosuppressant, although of
+
+1124
+00:58:32,320 --> 00:58:33,800
+course that's not proven.
+
+1125
+00:58:33,800 --> 00:58:36,480
+But you're mitigating that by now directly targeting the cancer.
+
+1126
+00:58:36,480 --> 00:58:37,920
+And they've canceled each other out.
+
+1127
+00:58:37,920 --> 00:58:38,920
+They canceled each other out.
+
+1128
+00:58:38,920 --> 00:58:41,080
+And you know the size of the effect from the FK506 cohort.
+
+1129
+00:58:41,080 --> 00:58:42,080
+Exactly.
+
+1130
+00:58:42,080 --> 00:58:45,340
+And other immunosuppressant things, Cyclosporine, have also been looked at that.
+
+1131
+00:58:45,340 --> 00:58:51,840
+So my bet would be that in the case of cancer, you're not going to cure cancer once you've
+
+1132
+00:58:51,840 --> 00:58:52,840
+got it.
+
+1133
+00:58:52,840 --> 00:58:56,900
+But also I don't think you're going to modulate the incidence, like the mutational frequencies
+
+1134
+00:58:56,900 --> 00:58:58,520
+that are giving you cancer, right?
+
+1135
+00:58:58,520 --> 00:59:02,460
+So if you think of cancer in a way is easier to think about when it starts because you
+
+1136
+00:59:02,460 --> 00:59:08,000
+say, well, it starts when you have a cell that has all the requisite mutations to be
+
+1137
+00:59:08,000 --> 00:59:11,040
+a cell that has uncontrolled growth.
+
+1138
+00:59:11,040 --> 00:59:15,920
+So if that's the point it starts, I think we're not going to affect that.
+
+1139
+00:59:15,920 --> 00:59:21,840
+But once that cell exists and now has to start growing and also escaping the immune system,
+
+1140
+00:59:21,840 --> 00:59:25,180
+I do think that's probably what you're going to affect.
+
+1141
+00:59:25,180 --> 00:59:29,720
+In other diseases, like a cardiovascular disease where you could imagine things like autophagy
+
+1142
+00:59:29,720 --> 00:59:35,460
+could be quite modulatory, I think you can imagine that you're also going to be affecting
+
+1143
+00:59:35,460 --> 00:59:40,240
+the incidence at the exact point at which you'd say, OK, this is an atherosclerotic plaque
+
+1144
+00:59:40,240 --> 00:59:41,240
+or not.
+
+1145
+00:59:41,240 --> 00:59:47,440
+What do we know about rapamycin and taur in the brain, especially with respect to neurodegeneration?
+
+1146
+00:59:47,440 --> 00:59:50,000
+Yeah, that's a really interesting one.
+
+1147
+00:59:50,000 --> 00:59:53,060
+And that probably is a really important question for the future.
+
+1148
+00:59:53,060 --> 00:59:55,520
+So we know autophagy matters a lot in the brain.
+
+1149
+00:59:55,520 --> 01:00:00,040
+If you delete autophagy, and really Mitsushima was the person who kind of made autophagy
+
+1150
+01:00:00,040 --> 01:00:01,800
+interesting to lots of people.
+
+1151
+01:00:01,800 --> 01:00:03,000
+And it was awarded the Nobel Prize.
+
+1152
+01:00:03,000 --> 01:00:04,000
+No, no, he wasn't.
+
+1153
+01:00:04,000 --> 01:00:05,000
+Oh, he wasn't.
+
+1154
+01:00:05,000 --> 01:00:06,000
+Oh, Shumi was for originals.
+
+1155
+01:00:06,000 --> 01:00:07,000
+Well, he didn't share.
+
+1156
+01:00:07,000 --> 01:00:08,000
+He didn't know that much.
+
+1157
+01:00:08,000 --> 01:00:09,680
+I think was a bit of an oversight in my view.
+
+1158
+01:00:09,680 --> 01:00:13,760
+But anyhow, he basically studied autophagy in the brain, made mutations, showed you got
+
+1159
+01:00:13,760 --> 01:00:14,760
+neurodegeneration.
+
+1160
+01:00:14,760 --> 01:00:17,360
+So that was a really important finding.
+
+1161
+01:00:17,360 --> 01:00:21,440
+Connects up to lysosomal storage diseases, which autophagy basically autophagosomes fuses
+
+1162
+01:00:21,440 --> 01:00:22,440
+with a lysosome.
+
+1163
+01:00:22,440 --> 01:00:24,460
+So now you have that connection.
+
+1164
+01:00:24,460 --> 01:00:28,560
+So I think in all tissues, it's a bit of a double-edged sword.
+
+1165
+01:00:28,560 --> 01:00:35,120
+You clearly need mTORG1 activity to maintain healthy synapses, certainly during brain growth.
+
+1166
+01:00:35,120 --> 01:00:40,440
+If you make mutations around a growing animal, you basically don't have a cortex.
+
+1167
+01:00:40,440 --> 01:00:48,280
+On the other hand, you clearly need to modulate mTORG1 to have some level of autophagy to
+
+1168
+01:00:48,280 --> 01:00:49,440
+keep the system healthy.
+
+1169
+01:00:49,440 --> 01:00:51,540
+Now you could debate, is that in neurons?
+
+1170
+01:00:51,540 --> 01:00:52,540
+Is that in glia?
+
+1171
+01:00:52,540 --> 01:00:53,540
+It's probably in both.
+
+1172
+01:00:53,540 --> 01:00:56,600
+People have made mutants, certainly in neurons, which suggests it's both.
+
+1173
+01:00:56,600 --> 01:00:59,240
+But then some of those promoters are a little bit dirty.
+
+1174
+01:00:59,240 --> 01:01:02,720
+But the real question in the brain is what modulates mTORG1?
+
+1175
+01:01:02,720 --> 01:01:04,520
+Because it's not probably nutrients.
+
+1176
+01:01:04,520 --> 01:01:06,880
+Because they're so constant.
+
+1177
+01:01:06,880 --> 01:01:10,480
+Your brain, your body, your brain prioritizes nutrients in the brain over it.
+
+1178
+01:01:10,480 --> 01:01:11,720
+It basically protects.
+
+1179
+01:01:11,720 --> 01:01:16,400
+So if you take an animal and you fast it for two days, a mouse, it loses a lot of weight,
+
+1180
+01:01:16,400 --> 01:01:18,260
+25% of its weight.
+
+1181
+01:01:18,260 --> 01:01:20,680
+And now you take every single tissue and you weigh it.
+
+1182
+01:01:20,680 --> 01:01:21,680
+Every tissue has shrunk.
+
+1183
+01:01:21,680 --> 01:01:22,680
+Except the brain.
+
+1184
+01:01:22,680 --> 01:01:24,760
+Some like the thymus have shrunk ridiculously.
+
+1185
+01:01:24,760 --> 01:01:26,200
+The kidney shrinks, which you wouldn't expect.
+
+1186
+01:01:26,200 --> 01:01:27,280
+The heart shrinks.
+
+1187
+01:01:27,280 --> 01:01:29,200
+The brain, nothing.
+
+1188
+01:01:29,200 --> 01:01:33,160
+Now clearly, probably if you, in a mouse, you can't do that extreme of fast.
+
+1189
+01:01:33,160 --> 01:01:35,440
+And so the body protects the brain from a nutrient point of view.
+
+1190
+01:01:35,440 --> 01:01:38,040
+Yet mTORG1 activity is high there.
+
+1191
+01:01:38,040 --> 01:01:40,280
+Clearly we know that we have to modulate autophagy.
+
+1192
+01:01:40,280 --> 01:01:43,040
+So something must be inhibiting mTORG1.
+
+1193
+01:01:43,040 --> 01:01:48,040
+By the way, this is my peripheral argument for why, and I'm in the huge minority here,
+
+1194
+01:01:48,040 --> 01:01:51,280
+I do not think the brain is really the appetitive center.
+
+1195
+01:01:51,280 --> 01:01:52,640
+I think it's the modulator.
+
+1196
+01:01:52,640 --> 01:01:57,920
+But for that exact reason, think it wouldn't make sense for evolution to put our appetite
+
+1197
+01:01:57,920 --> 01:01:58,920
+center in our brain.
+
+1198
+01:01:58,920 --> 01:01:59,920
+It should be in the periphery.
+
+1199
+01:01:59,920 --> 01:02:01,760
+It should be in the liver, I think.
+
+1200
+01:02:01,760 --> 01:02:02,760
+I think the liver should be the bone.
+
+1201
+01:02:02,760 --> 01:02:05,680
+And people would argue that the things of the hypothalamus are in the periphery, right?
+
+1202
+01:02:05,680 --> 01:02:06,680
+Because they're not protected.
+
+1203
+01:02:06,680 --> 01:02:08,080
+There are parts of your brain like the hypothalamus.
+
+1204
+01:02:08,080 --> 01:02:13,160
+Yeah, the point is I think it has to be your appetite center needs to be regulated to something
+
+1205
+01:02:13,160 --> 01:02:15,240
+that senses very rapid change.
+
+1206
+01:02:15,240 --> 01:02:16,680
+The outside, for sure.
+
+1207
+01:02:16,680 --> 01:02:17,680
+Yeah.
+
+1208
+01:02:17,680 --> 01:02:18,680
+For sure.
+
+1209
+01:02:18,680 --> 01:02:20,200
+And exactly where it is, and the bottom line is probably…
+
+1210
+01:02:20,200 --> 01:02:23,680
+But I never thought of it through the lens that you just explained it, which was the
+
+1211
+01:02:23,680 --> 01:02:26,280
+implication of that for tors is enormous.
+
+1212
+01:02:26,280 --> 01:02:28,360
+So does tors look different in the brain?
+
+1213
+01:02:28,360 --> 01:02:32,360
+Or obviously the protein won't, but do the co-factors around it look different?
+
+1214
+01:02:32,960 --> 01:02:37,600
+We have never done from biochemistry out of the brain.
+
+1215
+01:02:37,600 --> 01:02:39,720
+It's something that would be very interesting to go and do now.
+
+1216
+01:02:39,720 --> 01:02:43,440
+I think now it's something we talk quite a bit as a lab to do.
+
+1217
+01:02:43,440 --> 01:02:45,680
+We haven't quite done it at all.
+
+1218
+01:02:45,680 --> 01:02:47,120
+But then what actually regulates it?
+
+1219
+01:02:47,120 --> 01:02:50,120
+It's very clear that neuronal activity does.
+
+1220
+01:02:50,120 --> 01:02:54,200
+But there are there, as you're suggesting, maybe neuronal specific factors are regulated.
+
+1221
+01:02:54,200 --> 01:02:55,720
+I think that's a completely open area.
+
+1222
+01:02:55,720 --> 01:02:57,760
+I've tried to get some of my students interested in that.
+
+1223
+01:02:57,760 --> 01:02:59,040
+My brother's a neuroscientist.
+
+1224
+01:02:59,040 --> 01:03:01,840
+He's argued we should really do some work there.
+
+1225
+01:03:02,480 --> 01:03:06,560
+Maybe when we run out of sensors in the periphery, we'll go to the brain.
+
+1226
+01:03:07,560 --> 01:03:09,360
+And that's where I purified mTOR.
+
+1227
+01:03:09,360 --> 01:03:10,040
+Was that a brain?
+
+1228
+01:03:10,040 --> 01:03:11,440
+So there's a ton of mTOR in the brain.
+
+1229
+01:03:11,440 --> 01:03:13,600
+And I did that not because I was like, whatever.
+
+1230
+01:03:13,600 --> 01:03:17,800
+I basically measured how much there was, and it was clear the brain had the most.
+
+1231
+01:03:17,800 --> 01:03:23,400
+One of the challenges of studying biology in humans is that you can't do the same
+
+1232
+01:03:23,400 --> 01:03:25,440
+experiments you can do in animals.
+
+1233
+01:03:25,440 --> 01:03:30,600
+If we had a Gedanken experiment where you could take a sufficiently large number of
+
+1234
+01:03:30,600 --> 01:03:32,320
+human subjects and divide them into groups.
+
+1235
+01:03:32,320 --> 01:03:33,960
+So you had a control group.
+
+1236
+01:03:33,960 --> 01:03:37,760
+These guys were going to do everything that the standard American does.
+
+1237
+01:03:37,760 --> 01:03:42,880
+You had a group that you could give rapamycin to in any way, shape, or form you decide.
+
+1238
+01:03:42,880 --> 01:03:48,640
+And then you had a group in which you could manipulate their behaviors.
+
+1239
+01:03:48,640 --> 01:03:49,720
+And they would behave as animals.
+
+1240
+01:03:49,720 --> 01:03:53,200
+They would do anything you want with respect to how they would eat or how much or when,
+
+1241
+01:03:53,200 --> 01:03:54,840
+exercise, whatever you like.
+
+1242
+01:03:54,840 --> 01:03:58,680
+First question is, how would you design arms two and three to have the best outcome with
+
+1243
+01:03:58,680 --> 01:03:59,840
+respect to longevity?
+
+1244
+01:03:59,840 --> 01:04:03,320
+And then I'm very curious to know what you think the difference between groups two and
+
+1245
+01:04:03,320 --> 01:04:04,320
+three would look like.
+
+1246
+01:04:04,320 --> 01:04:08,080
+So I think as we spoke before, I mean, the mTOR modulator arm would probably be an intermittent
+
+1247
+01:04:08,080 --> 01:04:10,920
+type dosing one where hopefully we'd have biomarkers of that.
+
+1248
+01:04:10,920 --> 01:04:14,680
+And you and I have spoken in the past, a biomarker for autophagy, for example, a biomarker for
+
+1249
+01:04:14,680 --> 01:04:15,680
+mTOR activity.
+
+1250
+01:04:15,680 --> 01:04:17,460
+And you have to decide what tissues you cared about.
+
+1251
+01:04:17,460 --> 01:04:20,960
+Probably the muscle would be one that you'd want to focus quite a bit on and perhaps the
+
+1252
+01:04:20,960 --> 01:04:21,960
+liver.
+
+1253
+01:04:21,960 --> 01:04:28,560
+Now, I don't think that mTOR modulation on its own is going to give you all the benefits
+
+1254
+01:04:28,560 --> 01:04:29,920
+of good lifestyle modulation.
+
+1255
+01:04:29,920 --> 01:04:34,840
+So it might give you lots of the benefits of the dietary manipulations, the fasting
+
+1256
+01:04:34,840 --> 01:04:37,280
+manipulation, although clearly there's differences there.
+
+1257
+01:04:37,280 --> 01:04:40,880
+But I'm not sure if that will give you all the benefits of the exercise modulation.
+
+1258
+01:04:40,880 --> 01:04:45,120
+And so if on the lifestyle side, which you obviously know better than almost anyone what
+
+1259
+01:04:45,120 --> 01:04:49,640
+you'd exactly want to do, there'd clearly be an exercise component to it on top of a
+
+1260
+01:04:49,640 --> 01:04:51,400
+dietary component.
+
+1261
+01:04:51,400 --> 01:04:55,840
+I think mTOR modulation will give you a subset of that.
+
+1262
+01:04:55,840 --> 01:04:57,920
+So let's simplify the experiment then.
+
+1263
+01:04:57,920 --> 01:05:02,200
+Let's assume that everything but food is the same in the groups.
+
+1264
+01:05:02,200 --> 01:05:06,000
+And the rapid group gets the intermittent dose as you see fit.
+
+1265
+01:05:06,000 --> 01:05:11,400
+And the other group now can fast or do any sort of CR mimicry that you want.
+
+1266
+01:05:11,400 --> 01:05:13,400
+Do you think that normalizes the playing field?
+
+1267
+01:05:13,400 --> 01:05:16,000
+I think it gets a lot closer for a simple reason.
+
+1268
+01:05:16,000 --> 01:05:20,600
+So if you give an mTOR modulator versus a fast, remember there's one really important
+
+1269
+01:05:20,600 --> 01:05:24,680
+difference is that nutrients in the mTOR modulation case are actually still high.
+
+1270
+01:05:24,680 --> 01:05:25,680
+Yeah.
+
+1271
+01:05:25,680 --> 01:05:27,880
+Because first of all, in fact, if you actually look in cells, they can actually be a little
+
+1272
+01:05:27,880 --> 01:05:30,880
+bit higher because the cell thinks it's starving.
+
+1273
+01:05:30,880 --> 01:05:31,880
+So it does all this...
+
+1274
+01:05:31,880 --> 01:05:33,240
+So it shuts down processes that would accumulate them.
+
+1275
+01:05:33,240 --> 01:05:34,920
+Yeah, and it upregulates more.
+
+1276
+01:05:34,920 --> 01:05:38,880
+And so we've looked in cells, so actually they tend to go up, versus a fast where things
+
+1277
+01:05:38,880 --> 01:05:40,400
+are going to be lower.
+
+1278
+01:05:40,400 --> 01:05:45,840
+On the other hand, if all those nutrients are eventually doing their stuff by communicating
+
+1279
+01:05:45,840 --> 01:05:51,080
+through mTOR and you've sort of inhibited downstream, to those downstream processes,
+
+1280
+01:05:51,080 --> 01:05:52,080
+things look the same.
+
+1281
+01:05:52,080 --> 01:05:53,080
+It doesn't matter.
+
+1282
+01:05:53,080 --> 01:05:55,240
+We have a lot of nutrients here and very low nutrients here.
+
+1283
+01:05:55,240 --> 01:05:57,800
+So the modulation of mTOR is what matters.
+
+1284
+01:05:57,800 --> 01:06:01,280
+And so I think to answer that question, we really need to understand whether all these
+
+1285
+01:06:01,280 --> 01:06:06,160
+nutrients which are still there in the fed state have a lot of other signaling effects.
+
+1286
+01:06:06,160 --> 01:06:09,960
+And it would be naive to think that they don't.
+
+1287
+01:06:09,960 --> 01:06:10,960
+They do.
+
+1288
+01:06:10,960 --> 01:06:11,960
+We know they do.
+
+1289
+01:06:11,960 --> 01:06:12,960
+Now, do they matter?
+
+1290
+01:06:12,960 --> 01:06:14,920
+And do they matter a lot?
+
+1291
+01:06:14,920 --> 01:06:16,280
+I don't think we know.
+
+1292
+01:06:16,280 --> 01:06:21,120
+And I think a lot of the genetics and pharmacology would argue that within the range that we
+
+1293
+01:06:21,120 --> 01:06:25,580
+can actually manipulate lifespan, it could be that those fasting regimens and rapamycin
+
+1294
+01:06:25,580 --> 01:06:26,960
+are somewhat similar.
+
+1295
+01:06:26,960 --> 01:06:34,120
+And certainly in the mice, it appears to be at least similar, if not better, in favor
+
+1296
+01:06:34,120 --> 01:06:35,120
+of rapamycin.
+
+1297
+01:06:35,120 --> 01:06:36,120
+Exactly.
+
+1298
+01:06:36,120 --> 01:06:39,040
+And that's why I'm particularly excited about the methionine restriction work because, you
+
+1299
+01:06:39,040 --> 01:06:42,560
+know, caloric restriction is not only hard to do in people, it's hard to do in animals
+
+1300
+01:06:42,560 --> 01:06:43,560
+too.
+
+1301
+01:06:43,560 --> 01:06:44,560
+It's really hard.
+
+1302
+01:06:44,560 --> 01:06:46,360
+You have to wait a food, pairwise feeding.
+
+1303
+01:06:46,360 --> 01:06:50,360
+It's a real pain and it's a real restriction to doing lots of experiments.
+
+1304
+01:06:50,360 --> 01:06:51,680
+While methionine restriction is a lot easier.
+
+1305
+01:06:51,680 --> 01:06:53,360
+Yeah, just by methionine and free chow.
+
+1306
+01:06:53,360 --> 01:06:56,120
+Yeah, not totally free, but lower.
+
+1307
+01:06:56,120 --> 01:06:59,920
+And so there we can do these kind of experiments where you could do methionine restriction
+
+1308
+01:06:59,920 --> 01:07:00,920
+plus rapamycin.
+
+1309
+01:07:00,920 --> 01:07:01,920
+Right?
+
+1310
+01:07:01,920 --> 01:07:03,140
+And actually ask, do you get synergy?
+
+1311
+01:07:03,140 --> 01:07:04,140
+Do you not?
+
+1312
+01:07:04,140 --> 01:07:05,140
+Right?
+
+1313
+01:07:05,140 --> 01:07:08,320
+So I think that's going to be an intervention that's going to be a lot easier for us to
+
+1314
+01:07:08,320 --> 01:07:09,320
+play with.
+
+1315
+01:07:09,320 --> 01:07:14,860
+So if resources weren't constrained, what are the sort of dream experiments or what's
+
+1316
+01:07:14,860 --> 01:07:20,040
+a dream experiment that has been on your mind that you want to do, but it's either technically
+
+1317
+01:07:20,040 --> 01:07:24,560
+we're not there yet or it's just economically an innocent challenge.
+
+1318
+01:07:24,560 --> 01:07:28,280
+I think what I want to know, and this is I think the challenge for anyone who does
+
+1319
+01:07:28,280 --> 01:07:32,880
+what we call signal transduction in a dish like we've done for a long time, is to really
+
+1320
+01:07:32,880 --> 01:07:38,160
+try to understand in each different tissue in a temporal fashion in response to a variety
+
+1321
+01:07:38,160 --> 01:07:43,160
+of different diets and nutritional states what those tissues are actually doing.
+
+1322
+01:07:43,160 --> 01:07:48,640
+Right now we have these little time points in the liver, in the muscle.
+
+1323
+01:07:48,640 --> 01:07:54,120
+We don't really have a deep sort of kinetic understanding of what the actual physiology
+
+1324
+01:07:54,120 --> 01:07:55,120
+is doing.
+
+1325
+01:07:55,120 --> 01:07:56,240
+We'd really like to know.
+
+1326
+01:07:56,240 --> 01:08:00,420
+Because even in the mouse, you know phosphorylation in one moment.
+
+1327
+01:08:00,420 --> 01:08:01,420
+You don't have an integral.
+
+1328
+01:08:01,420 --> 01:08:02,420
+In one tissue.
+
+1329
+01:08:02,420 --> 01:08:03,420
+We don't have that.
+
+1330
+01:08:03,420 --> 01:08:06,920
+And we don't even have, it's just they're expensive and hard experience to do.
+
+1331
+01:08:06,920 --> 01:08:12,440
+Let's say I was really wanting to take mice, fast them, and in all different tissues, and
+
+1332
+01:08:12,440 --> 01:08:14,560
+ideally, tissues are complex.
+
+1333
+01:08:14,560 --> 01:08:18,480
+Now with all the single cell sequencing, we're seeing much more complexity.
+
+1334
+01:08:18,480 --> 01:08:21,600
+So even in tissues like the liver that we tend to take a chunk and sort of say it's
+
+1335
+01:08:21,600 --> 01:08:24,680
+liver, we know that's an amazing complexity.
+
+1336
+01:08:24,680 --> 01:08:28,440
+And so in an ideal world, we'd like to have a description of what all these different
+
+1337
+01:08:28,440 --> 01:08:30,800
+tissues are doing over time.
+
+1338
+01:08:30,800 --> 01:08:34,760
+And then you'd like to do it under different diets, under whether they were obese mice,
+
+1339
+01:08:34,760 --> 01:08:35,840
+whether they were exercise mice.
+
+1340
+01:08:35,840 --> 01:08:39,660
+And so the matrix becomes ridiculous at that point.
+
+1341
+01:08:39,660 --> 01:08:42,180
+But I think that's the future of signal transduction.
+
+1342
+01:08:42,180 --> 01:08:47,600
+People like me have done a good job of finding all the pieces in some random cell line in
+
+1343
+01:08:47,600 --> 01:08:48,600
+a dish.
+
+1344
+01:08:48,600 --> 01:08:52,720
+And clearly, the systems have all these pieces because it allows them to communicate in vivo
+
+1345
+01:08:52,720 --> 01:08:54,580
+to many, many different upstream signals.
+
+1346
+01:08:54,580 --> 01:08:59,140
+And now the challenge is how do we go back and actually see that happening?
+
+1347
+01:08:59,140 --> 01:09:01,680
+And that's going to teach us, OK, which tissues actually matter.
+
+1348
+01:09:01,680 --> 01:09:03,200
+We've talked a lot about longevity.
+
+1349
+01:09:03,200 --> 01:09:04,920
+Do you need to impact all tissues?
+
+1350
+01:09:04,920 --> 01:09:05,920
+Is it the muscle?
+
+1351
+01:09:05,920 --> 01:09:06,920
+Is it the liver?
+
+1352
+01:09:06,920 --> 01:09:07,920
+Is it the brain?
+
+1353
+01:09:07,920 --> 01:09:08,920
+Maybe that you need to impact.
+
+1354
+01:09:08,920 --> 01:09:11,560
+You know, people debate still how much rapamycin gets in the brain.
+
+1355
+01:09:11,560 --> 01:09:12,920
+Are you actually affecting the brain?
+
+1356
+01:09:12,920 --> 01:09:16,080
+I don't think those are open questions to some extent.
+
+1357
+01:09:16,080 --> 01:09:22,700
+So it would be a complete description of what these systems are doing over time across
+
+1358
+01:09:22,700 --> 01:09:24,760
+many tissues under many different states.
+
+1359
+01:09:24,760 --> 01:09:26,640
+Well, David, we're pretty much out of time.
+
+1360
+01:09:26,640 --> 01:09:30,240
+But is there anything else that we should at least take advantage of while you're here?
+
+1361
+01:09:30,240 --> 01:09:35,200
+I think we already touched upon it when we talked about targeting mTORC1 or other things.
+
+1362
+01:09:35,200 --> 01:09:40,000
+And so I think to me, and this is why we sort of had commercial interest in this regard,
+
+1363
+01:09:40,000 --> 01:09:44,840
+how do we go and target other things upstream that might be more amenable to giving us sort
+
+1364
+01:09:44,840 --> 01:09:50,920
+of more of this dream molecule of a pan mTORC1 inhibitor and no mTORC2 activity?
+
+1365
+01:09:50,920 --> 01:09:51,920
+David, thank you very much.
+
+1366
+01:09:51,920 --> 01:09:52,920
+All right.
+
+1367
+01:09:52,920 --> 01:09:53,920
+Thank you very much.
+
+1368
+01:09:53,920 --> 01:09:54,920
+It was a pleasure.
+
+1369
+01:09:54,920 --> 01:09:55,920
+Thank you.
+
+1370
+01:09:55,920 --> 01:10:01,440
+You can find all of this information and more at PeterAttiaMD.com forward slash podcast.
+
+1371
+01:10:01,440 --> 01:10:05,080
+There you'll find the show notes, readings, and links related to this episode.
+
+1372
+01:10:05,080 --> 01:10:10,000
+You can also find my blog and the nerd safari at PeterAttiaMD.com.
+
+1373
+01:10:10,000 --> 01:10:11,680
+What's a nerd safari, you ask?
+
+1374
+01:10:11,680 --> 01:10:14,400
+Just click on the link at the top of the site to learn more.
+
+1375
+01:10:14,400 --> 01:10:18,120
+Maybe the simplest thing to do is to sign up for my subjectively non-lame once a week
+
+1376
+01:10:18,120 --> 01:10:21,800
+email where I'll update you on what I've been up to, the most interesting papers I've
+
+1377
+01:10:21,800 --> 01:10:27,120
+read, and all things related to longevity, science, performance, sleep, et cetera.
+
+1378
+01:10:27,120 --> 01:10:32,480
+On social, you can find me on Twitter, Instagram, and Facebook, all with the ID PeterAttiaMD,
+
+1379
+01:10:32,480 --> 01:10:36,360
+but usually Twitter is the best way to reach me to share your questions and comments.
+
+1380
+01:10:36,360 --> 01:10:40,360
+Now for the obligatory disclaimer, this podcast is for general informational purposes only
+
+1381
+01:10:40,360 --> 01:10:44,560
+and does not constitute the practice of medicine, nursing, or other professional healthcare
+
+1382
+01:10:44,560 --> 01:10:47,560
+services, including the giving of medical advice.
+
+1383
+01:10:47,560 --> 01:10:50,720
+And note, no doctor-patient relationship is formed.
+
+1384
+01:10:50,720 --> 01:10:55,600
+The use of this information and the materials linked to the podcast is at the user's own
+
+1385
+01:10:55,600 --> 01:10:56,600
+risk.
+
+1386
+01:10:56,600 --> 01:10:59,640
+The content of this podcast is not intended to be a substitute for professional medical
+
+1387
+01:10:59,640 --> 01:11:02,520
+advice, diagnoses, or treatment.
+
+1388
+01:11:02,520 --> 01:11:06,400
+Users should not disregard or delay in obtaining medical advice for any medical condition they
+
+1389
+01:11:06,400 --> 01:11:11,560
+have and should seek the assistance of their healthcare professionals for any such conditions.
+
+1390
+01:11:11,560 --> 01:11:16,080
+Lastly, and perhaps most importantly, I take conflicts of interest very seriously.
+
+1391
+01:11:16,080 --> 01:11:23,000
+For all of my disclosures, the companies I invest in and or advise, please visit PeterAttiaMD.com
+
+1392
+01:11:23,000 --> 01:11:24,360
+forward slash about.
+

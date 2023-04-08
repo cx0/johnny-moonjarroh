@@ -1,0 +1,1208 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hey, everyone. Welcome to the Drive podcast. I'm your host, Peter Attia.
+
+2
+00:00:07,000 --> 00:00:13,360
+Hey, Bob. How are you, man? Looking pretty studious there in the library today.
+
+3
+00:00:13,360 --> 00:00:19,120
+Hey, Peter. Thanks very much. Yeah, just getting some reading in before the podcast.
+
+4
+00:00:19,120 --> 00:00:26,840
+Well, this is going to be a pretty good one because as you may recall about, I don't know,
+
+5
+00:00:26,840 --> 00:00:32,400
+four or five months ago, maybe longer, I was on a podcast with Tim Ferriss and I don't know how it
+
+6
+00:00:32,400 --> 00:00:38,960
+came up, but I do remember somehow it came up that we had spent a lot of time writing this series,
+
+7
+00:00:38,960 --> 00:00:47,400
+studying studies and God, that's been four years ago, I think. Yeah. But we didn't really have
+
+8
+00:00:47,400 --> 00:00:54,000
+something more digestible for folks on how to make sense of the ever-changing landscape of
+
+9
+00:00:54,000 --> 00:01:00,440
+scientific literature and in some ways how to distinguish between the signal and the noise of
+
+10
+00:01:00,440 --> 00:01:06,440
+the research news cycle. And I remember after that, Tim and I went out for dinner and he kept
+
+11
+00:01:06,440 --> 00:01:13,800
+pressing me on, well, what can I do to get better at this process? Are there newsletters I should be
+
+12
+00:01:13,800 --> 00:01:17,160
+subscribing to and things like that? And while I'm sure that there are, I didn't know what they were
+
+13
+00:01:17,160 --> 00:01:22,880
+off the top of my head. And so I think what we've done here, when I say we, I mean you,
+
+14
+00:01:22,880 --> 00:01:30,720
+what you have done here is aggregate all the questions that have come in over the past year,
+
+15
+00:01:30,720 --> 00:01:38,320
+basically, that pertain to understanding the structure of science. And I really, I don't know,
+
+16
+00:01:38,320 --> 00:01:43,080
+I looked through the questions last week and I was pretty excited. I think it's going to be a
+
+17
+00:01:43,160 --> 00:01:50,400
+sweet discussion and I hope this serves as an amazing primer for people to really understand
+
+18
+00:01:50,400 --> 00:01:56,680
+the process of scientific experiments and everything from how studies are published and
+
+19
+00:01:56,680 --> 00:02:00,640
+obviously what some of the limitations are. So anything else you want to add to that, Bob,
+
+20
+00:02:00,640 --> 00:02:07,680
+before we jump in? I agree. I think it's a fun topic. We get so many of these questions that we
+
+21
+00:02:07,720 --> 00:02:13,520
+end up, or at least I do, or to the website where we'll point readers to one of the parts
+
+22
+00:02:13,520 --> 00:02:18,360
+of the studying studies. But I think sometimes just talking about it and explaining it can help
+
+23
+00:02:18,360 --> 00:02:25,680
+a lot. So I think this will be really useful as far as like a question and answer session rather
+
+24
+00:02:25,680 --> 00:02:32,440
+than just reading a blog. Yeah. And I don't think this displaces that other stuff. I think we go
+
+25
+00:02:32,440 --> 00:02:36,160
+into probably more detail on some things there, but I also think we're going to cover things here
+
+26
+00:02:36,160 --> 00:02:42,440
+that aren't covered there. So depending on how you like to get your info, this could be fun. So
+
+27
+00:02:42,440 --> 00:02:48,480
+where do you want to start? So I think that we have, again, a lot of questions, but I think this
+
+28
+00:02:48,480 --> 00:02:55,280
+question gets to the core of I think what we're trying to do here, which is how can a user or a
+
+29
+00:02:55,280 --> 00:02:59,760
+person who has no scientific background better understand studies that they read in the news
+
+30
+00:02:59,760 --> 00:03:06,400
+or in the publications to know if the findings are solid or not, especially in today's age,
+
+31
+00:03:06,400 --> 00:03:13,080
+where you can easily see two studies that contradict each other. Coffee's good, coffee's bad. Eggs are
+
+32
+00:03:13,080 --> 00:03:20,240
+good, eggs are bad. So I thought we could run through a bunch of questions with the first one
+
+33
+00:03:20,240 --> 00:03:28,480
+that we got here is what is the process for a study to go from an idea to design and execution?
+
+34
+00:03:29,200 --> 00:03:41,040
+Yeah, it is a great question. I mean, in theory, it should start with a hypothesis. Good science
+
+35
+00:03:41,040 --> 00:03:52,040
+is generally hypothesis driven. So I think the cleanest way to think about that is to take the
+
+36
+00:03:52,040 --> 00:04:01,440
+position that there is no relationship between two phenomena. So we would call this sort of a null
+
+37
+00:04:01,440 --> 00:04:15,320
+hypothesis. So my hypothesis might be that drinking coffee makes your eyes turn darker. So I would have
+
+38
+00:04:15,320 --> 00:04:22,400
+to state that hypothesis and then I would have to frame it in a way that says my null hypothesis is
+
+39
+00:04:22,400 --> 00:04:31,280
+that when you drink coffee, your eyes do not change in color in any way, shape, or form. And that would
+
+40
+00:04:31,280 --> 00:04:39,000
+imply that the alternative hypothesis is that when you drink coffee, your eyes do change color. You can
+
+41
+00:04:39,000 --> 00:04:45,080
+already see, by the way, that there's nuance to this because am I specifying what color it changes
+
+42
+00:04:45,080 --> 00:04:50,040
+to? Does it get darker? Does it get lighter? Does it change to blue, green? Does it just get the darker
+
+43
+00:04:50,040 --> 00:04:54,360
+shade of whatever it is? But let's put that aside for a moment and just say that you will have this
+
+44
+00:04:54,360 --> 00:05:00,440
+null hypothesis and you will have this alternative hypothesis. And to be able to formulate that cleanly
+
+45
+00:05:00,680 --> 00:05:05,960
+is sort of the first step here. The second thing, of course, is to conduct an experimental design. How
+
+46
+00:05:05,960 --> 00:05:13,400
+are you going to test that hypothesis as we're going to talk about? A really, really elegant way
+
+47
+00:05:13,400 --> 00:05:20,040
+to test this is using a randomized controlled experiment. If it's possible to blind it, we'll
+
+48
+00:05:20,040 --> 00:05:26,600
+talk about what that means. But you'll have to decide, well, how long should we make people drink
+
+49
+00:05:26,600 --> 00:05:30,680
+coffee? How frequently should they drink coffee? How are we going to measure eye color? These are
+
+50
+00:05:30,680 --> 00:05:37,080
+the questions that come down to experimental design. You then have to determine a very important
+
+51
+00:05:37,080 --> 00:05:42,760
+variable, which is how many subjects will you have? And of course, that will depend on a number of
+
+52
+00:05:42,760 --> 00:05:48,440
+things, including how many arms you will have in this study. But it comes down to doing something
+
+53
+00:05:48,440 --> 00:05:51,960
+that's called a power analysis. And this is so important that we're going to spend some time
+
+54
+00:05:51,960 --> 00:05:58,120
+talking about it today, although I won't talk about it right now. If this study involves human
+
+55
+00:05:58,120 --> 00:06:04,680
+subjects or animal subjects, you will have to get something called an institutional review board to
+
+56
+00:06:04,680 --> 00:06:11,240
+approve the ethics of the study. So you'll have to get that IRB approval. You'll have to determine
+
+57
+00:06:11,240 --> 00:06:16,440
+what your primary and secondary outcomes are, get the protocol approved, develop a plan for
+
+58
+00:06:16,440 --> 00:06:22,360
+statistics, and then pre-register the study. All of these things happen before you do the study. And
+
+59
+00:06:22,360 --> 00:06:27,960
+of course, in parallel to this, you have to have funding. So those are kind of the steps that go
+
+60
+00:06:27,960 --> 00:06:33,800
+into doing an experimental study. And what we're going to talk about, I think, in a minute is that
+
+61
+00:06:33,800 --> 00:06:38,280
+there are some studies that are not experimental where some of these steps are obviously skipped.
+
+62
+00:06:39,480 --> 00:06:43,560
+Yeah. One of the questions we got was, what are the different types of studies out there? And
+
+63
+00:06:43,560 --> 00:06:49,000
+what do they mean? For example, an observational study versus a randomized controlled study. What
+
+64
+00:06:49,000 --> 00:06:57,400
+are the different types of studies? Yeah. So I mean, I think broadly speaking, you can break
+
+65
+00:06:57,400 --> 00:07:07,400
+studies into three categories. One would be observational studies, and we'll bifurcate those
+
+66
+00:07:07,400 --> 00:07:14,920
+or trifurcate those in a minute. Then you can have experimental studies, and then you can have
+
+67
+00:07:15,640 --> 00:07:23,800
+basically summations of and or reviews of and or analyses of studies of any type.
+
+68
+00:07:23,800 --> 00:07:32,680
+So let's kind of start at the bottom of that pyramid. And I think you actually have a figure
+
+69
+00:07:32,680 --> 00:07:37,560
+that I don't like very much, but I know it's- I was going to say, that was one of your favorites.
+
+70
+00:07:37,560 --> 00:07:41,720
+Yeah, I can't stand it. I'll tell you what I like about the figure. I like the color schema, because
+
+71
+00:07:41,720 --> 00:07:50,040
+my boys are so obsessed with rainbows that if I show them this figure, they're going to be really
+
+72
+00:07:50,040 --> 00:08:00,280
+happy. So let's pull up said rainbow figure. Okay, got it. Okay, so you can sort of see these
+
+73
+00:08:00,280 --> 00:08:08,280
+buckets here. And again, at the level of kind of talking about them, I think this makes sense. What
+
+74
+00:08:08,280 --> 00:08:14,840
+I don't agree with the pyramid for Bob is that it puts a hierarchy in place that suggests a meta
+
+75
+00:08:14,840 --> 00:08:20,680
+analysis is better than a randomized control trial, which is not necessarily true. But let's
+
+76
+00:08:20,680 --> 00:08:25,320
+just kind of go through what each of these things mean. So looking at the observational studies,
+
+77
+00:08:25,320 --> 00:08:32,200
+an individual case report is, look, I think the first or second paper I ever wrote in my life when
+
+78
+00:08:32,200 --> 00:08:37,800
+I was in medical school was an individual case report. It was a patient who had come into
+
+79
+00:08:37,960 --> 00:08:46,120
+clinic. This was when I was at the NIH, and this was a patient with metastatic melanoma, and their
+
+80
+00:08:46,120 --> 00:08:53,080
+calcium was sky high, dangerously high in fact. And obviously our first assumption was that this
+
+81
+00:08:53,080 --> 00:08:59,640
+patient had metastatic disease to their bone and that they were lysing bone and calcium was
+
+82
+00:09:00,760 --> 00:09:05,560
+leeching into their bloodstream. Turned out that wasn't the case at all. It turned out they had
+
+83
+00:09:05,560 --> 00:09:10,680
+something that had not been previously reported in patients with melanoma, which was they had
+
+84
+00:09:10,680 --> 00:09:18,280
+developed this parathyroid hormone related like hormone in response to their melanoma.
+
+85
+00:09:19,000 --> 00:09:26,360
+So this is a hormone that exists normally, but it doesn't exist in this format. And so their cancer
+
+86
+00:09:26,360 --> 00:09:32,440
+was causing them to have more of this hormone that was causing them to raise their calcium level.
+
+87
+00:09:32,440 --> 00:09:36,920
+It was interesting because it had never been reported before in the literature. And so I wrote
+
+88
+00:09:36,920 --> 00:09:43,640
+this up. This was an individual case report. Is there any value in that? Sure. There's some value
+
+89
+00:09:43,640 --> 00:09:48,600
+in that. The next time a patient with melanoma shows up to clinic and their calcium is sky high
+
+90
+00:09:48,600 --> 00:09:54,680
+and someone goes to the literature to search for it, they'll see that report and it will hopefully
+
+91
+00:09:54,680 --> 00:10:00,200
+save them time in getting to the diagnosis. So your mentor and friend, Steve Rosenberg,
+
+92
+00:10:00,280 --> 00:10:05,560
+I think of him when I think of individual case reports where I think if you listen to the podcast,
+
+93
+00:10:05,560 --> 00:10:11,400
+he talks about this, but a lot of what motivated him early on, I think we're just a couple of
+
+94
+00:10:11,400 --> 00:10:15,800
+cases in it. I think it gets back to that first question too about the process for a study to go
+
+95
+00:10:15,800 --> 00:10:21,720
+to an idea to design to execution, which is to have a hypothesis, you need to make an observation.
+
+96
+00:10:21,720 --> 00:10:27,400
+So you make an observation, you say, hmm, that's strange. And I think that that's what individual
+
+97
+00:10:27,400 --> 00:10:32,840
+case reports can represent sometimes is this is an interesting observation. It's hypothesis
+
+98
+00:10:32,840 --> 00:10:38,200
+generating for the most part, but it really, it might kickstart a larger trial or it might
+
+99
+00:10:38,200 --> 00:10:42,520
+kickstart a career. You never know. Yeah, exactly. Now, of course, it's not going to be
+
+100
+00:10:42,520 --> 00:10:52,760
+generalizable, right? I can't make any statement about the frequency of this in the broader subset
+
+101
+00:10:52,760 --> 00:10:57,160
+of patients. And obviously, I can't make any comment about any intervention that may or may not
+
+102
+00:10:57,160 --> 00:11:03,080
+change the outcome of this. So that gets us to our next thing, which is a case series
+
+103
+00:11:04,600 --> 00:11:16,200
+or set of studies. So here you're basically doing the same sort of thing, but in plural, effectively.
+
+104
+00:11:17,880 --> 00:11:25,000
+So you wouldn't just look at one patient, you would say, well, I've now been looking back at my
+
+105
+00:11:25,000 --> 00:11:34,920
+clinical practice and I've had 27 patients over the last 40 years that have demonstrated this very
+
+106
+00:11:34,920 --> 00:11:40,840
+unusual finding. And another example of this going back to the Steve Rosenberg case would be
+
+107
+00:11:42,040 --> 00:11:45,960
+one could write a paper that looks at all spontaneous regressions of cancer.
+
+108
+00:11:47,000 --> 00:11:52,040
+Well, there's obviously been a number of them. They're infrequent. In fact, they're exceedingly
+
+109
+00:11:52,040 --> 00:11:58,920
+rare, but there are certainly enough of them that one could write a case series. So now let's
+
+110
+00:11:58,920 --> 00:12:05,320
+consider cohort studies. So cohort studies are larger studies and they can be retrospective or
+
+111
+00:12:05,320 --> 00:12:10,440
+they can be prospective. So I'll give you an example of both. So a retrospective observational
+
+112
+00:12:10,440 --> 00:12:21,640
+cohort study would be like, let's go back and look at all the people who have used saunas for the last
+
+113
+00:12:22,040 --> 00:12:31,480
+10 years and look at how they're doing today relative to people who didn't use saunas over
+
+114
+00:12:31,480 --> 00:12:37,720
+the last 10 years. So it's retrospective. We're looking backwards. It's observational. We're not
+
+115
+00:12:39,080 --> 00:12:43,320
+doing anything, right? We're not telling these people to do this or telling those people to do
+
+116
+00:12:43,320 --> 00:12:49,080
+that. And the hope when you do this is that you're going to see some sort of pattern. Undoubtedly,
+
+117
+00:12:49,080 --> 00:12:53,720
+you will see a pattern. Of course, the question is, will you be able to establish causality in
+
+118
+00:12:53,720 --> 00:13:01,160
+that pattern? Cohort studies can just as easily, although more time-consumingly, be prospective.
+
+119
+00:13:01,160 --> 00:13:10,120
+So you could say, I want to follow people over the next five years, 10 years who use saunas and
+
+120
+00:13:10,120 --> 00:13:17,320
+compare them to a similar number of people who don't. And now in a forward-looking fashion,
+
+121
+00:13:17,800 --> 00:13:23,000
+we're going to be examining the other behaviors of these people and ultimately what their outcomes
+
+122
+00:13:23,000 --> 00:13:27,000
+are. Do they have different rates of death, heart disease, cancer, Alzheimer's disease,
+
+123
+00:13:27,000 --> 00:13:30,920
+other metrics of health that we might be interested in? Again, we're not intervening.
+
+124
+00:13:31,560 --> 00:13:36,920
+There's not an experiment per se. We're just observing, but now we're doing it as we march
+
+125
+00:13:36,920 --> 00:13:43,640
+forward through time. Okay. So this brings us to the next layer of this pyramid, which are the
+
+126
+00:13:43,640 --> 00:13:50,920
+experimental studies. And again, we divide these into randomized versus non-randomized. And of
+
+127
+00:13:50,920 --> 00:13:56,440
+course, this idea of randomization is going to be a very important one as we go through this.
+
+128
+00:13:57,560 --> 00:14:06,920
+So a non-randomized trial sometimes gets referred to as an open label trial where you take two groups
+
+129
+00:14:06,920 --> 00:14:11,560
+of people and you give one of them a treatment and you give the other one either a placebo or
+
+130
+00:14:11,560 --> 00:14:16,520
+a different treatment, but you don't randomize them. There's a reason that they're in that group.
+
+131
+00:14:16,520 --> 00:14:27,560
+So you might say, we want to study the effect of a certain antibiotic on a person that comes in the
+
+132
+00:14:27,560 --> 00:14:36,120
+ER and we're going to take all the people that come in who look a certain way, maybe they have
+
+133
+00:14:36,120 --> 00:14:41,400
+a fever of a certain level or a white blood cell count of a certain level, and we're going to give
+
+134
+00:14:41,400 --> 00:14:48,040
+them the antibiotic and the people who come in, but they don't have those exact signs or symptoms,
+
+135
+00:14:48,040 --> 00:14:52,680
+we're going to not give an antibiotic to and we're going to follow them. That's kind of a lame example.
+
+136
+00:14:53,400 --> 00:14:58,520
+You could do the same sort of thing with surgical interventions. We're going to try to ask the
+
+137
+00:14:58,520 --> 00:15:05,240
+question, is surgery better than antibiotics for appendicitis or suspected appendicitis?
+
+138
+00:15:05,240 --> 00:15:11,560
+But we don't randomize the people to the choice. There's some other factor that is going to
+
+139
+00:15:11,560 --> 00:15:15,880
+determine whether or not we do that. And as you can see, that's going to have a lot of limitations
+
+140
+00:15:15,880 --> 00:15:21,080
+because presumably there's a reason you're making that decision and that reason will undoubtedly
+
+141
+00:15:21,080 --> 00:15:27,000
+introduce bias. So of course, the gold standard that we always talk about is a randomized control
+
+142
+00:15:27,080 --> 00:15:35,800
+trial where whatever question you want to study, you study it, but you attempt to take all bias
+
+143
+00:15:35,800 --> 00:15:41,160
+out of it by randomly assigning people into the treatment groups, the two or more treatment groups.
+
+144
+00:15:44,200 --> 00:15:48,760
+We'll talk about things like blinding later because you can obviously get into more and more
+
+145
+00:15:48,760 --> 00:15:53,640
+rigor when you do this. But before we leave the kind of experimental side, anything you want to
+
+146
+00:15:53,640 --> 00:15:59,880
+add to that, Bob? I would add some non-randomized controlled trials, maybe another example. I'm trying
+
+147
+00:15:59,880 --> 00:16:05,560
+to think of another example, which is you have patients maybe making a decision beforehand,
+
+148
+00:16:05,560 --> 00:16:11,240
+which we'll get into selection bias. But people might want to go on a statin, let's say, and then
+
+149
+00:16:12,040 --> 00:16:15,560
+you give them a choice. And the other ones might want to go on some other drug like azetimibe.
+
+150
+00:16:16,120 --> 00:16:22,040
+And they're basically selecting themselves into two groups, but you could compare those two groups
+
+151
+00:16:22,040 --> 00:16:28,840
+and see how they do, but it hasn't been randomized. There's a lot of bias that can go into that. There
+
+152
+00:16:28,840 --> 00:16:33,720
+could be a lot of reasons why one group is selecting a particular treatment over the other.
+
+153
+00:16:33,720 --> 00:16:37,640
+And so that's what I think when we get to randomized trials that it shows the power
+
+154
+00:16:38,360 --> 00:16:46,520
+of randomization. Yeah, exactly. We don't need to go back to the figure, but people might recall
+
+155
+00:16:46,520 --> 00:16:50,920
+that at the top of that pyramid was systemic reviews and meta-analyses. Let's just talk about
+
+156
+00:16:50,920 --> 00:16:56,360
+meta-analyses since they are probably the most powerful. So this is a statistical technique
+
+157
+00:16:56,360 --> 00:17:02,440
+where you can combine data from multiple studies that are attempting to look at the same question,
+
+158
+00:17:02,440 --> 00:17:11,320
+basically. So each study gets a relative weighting. And the weighting of a study is
+
+159
+00:17:11,320 --> 00:17:15,720
+sort of a function of its precision. It depends a little bit on sample size,
+
+160
+00:17:15,720 --> 00:17:20,760
+other events in the study. Larger studies, which have smaller standard errors, are given more weight
+
+161
+00:17:20,760 --> 00:17:27,240
+than smaller studies with larger standard errors, for example. A very common way that these...
+
+162
+00:17:27,240 --> 00:17:30,600
+You'll know you're looking at a meta-analysis. We should have had a figure for this, but
+
+163
+00:17:31,160 --> 00:17:37,320
+I'll describe it the best I can. They usually have a figure somewhere in there that will show
+
+164
+00:17:38,600 --> 00:17:43,320
+across rows all of the studies. So let's say there's 10 studies included in the meta-analysis.
+
+165
+00:17:44,200 --> 00:17:51,720
+And then they'll have the hazard ratios for each of the studies. So they'll represent them usually
+
+166
+00:17:51,720 --> 00:17:58,600
+as little triangles. So the triangle will represent the 95 percent confidence interval
+
+167
+00:17:58,600 --> 00:18:02,280
+of what the hazard ratio is, which we'll talk about a hazard ratio, but it's
+
+168
+00:18:02,920 --> 00:18:09,000
+basically a marker of the risk. And you'll see all 10 studies, and then they'll show you the final
+
+169
+00:18:09,640 --> 00:18:13,080
+summation of them at the bottom, which of course you wouldn't be able to deduce looking at the
+
+170
+00:18:13,080 --> 00:18:18,520
+figure, but it takes into account that mathematical weighting. So on the surface, meta-analyses seem
+
+171
+00:18:18,520 --> 00:18:26,680
+really, really great, right? Because if one randomized trial is good, 10 must be better.
+
+172
+00:18:27,800 --> 00:18:31,320
+But again, and I know I've said this before probably three or four times over the past few
+
+173
+00:18:31,320 --> 00:18:37,240
+years on the podcast, but as James Yang, one of the smartest people I ever met when I was
+
+174
+00:18:38,200 --> 00:18:43,640
+both a student and fellow at NCI, once said during a journal club about a meta-analysis
+
+175
+00:18:43,640 --> 00:18:48,200
+that was being presented, he said something to the effect of a thousand sows ears makes not a
+
+176
+00:18:48,200 --> 00:18:54,680
+pearl necklace. And that's just an eloquent way to say that garbage in, garbage out, right? So
+
+177
+00:18:54,680 --> 00:19:00,440
+if you do a meta-analysis of a bunch of garbage studies, you get a garbage meta-analysis. So
+
+178
+00:19:00,920 --> 00:19:11,320
+it can't clean garbage. It simply can aggregate it. So a meta-analysis of great randomized control
+
+179
+00:19:11,320 --> 00:19:16,200
+trials will produce a great meta-analysis. So I'm sure they try to control for garbage,
+
+180
+00:19:17,160 --> 00:19:21,240
+the researchers and the investigators, but I think to your point with the pearl necklace,
+
+181
+00:19:21,240 --> 00:19:27,640
+imagine if you had say 10 trials and nine of them are garbage. One of them is really good,
+
+182
+00:19:27,640 --> 00:19:31,800
+really rigorous randomized controlled trial. And you're looking at the top of the pyramid and
+
+183
+00:19:31,800 --> 00:19:35,560
+you're saying, well, meta-analysis is the best. We should be looking at this meta-analysis.
+
+184
+00:19:35,560 --> 00:19:40,280
+Meanwhile, you've got that one randomized controlled trial that actually is worth its
+
+185
+00:19:40,280 --> 00:19:45,080
+salt. It's rigorous, et cetera, that I would say if you had the option, I think you probably would
+
+186
+00:19:45,080 --> 00:19:50,120
+rely more on that one randomized controlled trial, which is lower on the pyramid. So I think that's
+
+187
+00:19:50,120 --> 00:19:54,600
+probably, I think you've told me one of your hang ups with the pyramid because it's not
+
+188
+00:19:54,600 --> 00:19:59,960
+necessarily top of the pyramid is going to be some meta-analysis of randomized controlled trials.
+
+189
+00:20:00,840 --> 00:20:08,280
+That's right. Yeah. And so I don't want to suggest meta-analyses are not great. What I want to suggest
+
+190
+00:20:08,280 --> 00:20:14,760
+is you can't just take a meta-analysis as gospel without actually looking at each study. You don't
+
+191
+00:20:14,760 --> 00:20:20,680
+get a pass at examining each of the constitutive studies within a meta-analysis is really the point
+
+192
+00:20:20,680 --> 00:20:27,400
+I think we want to make here. Yeah. There's one thing in here that isn't represented, but we had
+
+193
+00:20:27,400 --> 00:20:32,280
+a few questions about it, I think a couple. People were asking about what's the difference between a
+
+194
+00:20:32,280 --> 00:20:37,800
+phase three and a phase two or a phase one clinical trial? Do you know what's going on there?
+
+195
+00:20:38,520 --> 00:20:45,400
+Yes. And these are great questions. So here we're talking about human clinical trials and this
+
+196
+00:20:45,400 --> 00:20:53,720
+phraseology is used by the FDA here in the United States. And typically, the world does
+
+197
+00:20:53,720 --> 00:21:01,720
+tend to follow and lock step, but not always with kind of the FDA's process. So if you go way, way,
+
+198
+00:21:01,720 --> 00:21:09,880
+way back, you have an interesting idea. You have a drug that you think is or a molecule that you
+
+199
+00:21:09,880 --> 00:21:19,960
+think will have some benefit. Let's think of it as a cancer therapeutic. And you've done some
+
+200
+00:21:19,960 --> 00:21:26,760
+interesting experiments in animals and you maybe started with some mice and you went up to some
+
+201
+00:21:26,760 --> 00:21:31,800
+rats and maybe even you've done something in primates. And now you're really sort of committed
+
+202
+00:21:31,800 --> 00:21:37,240
+to this as the success of this and the safety of this in animals looks good. So it's both safe
+
+203
+00:21:37,240 --> 00:21:43,240
+and efficacious in animals and you now decide you want to foray into the human space. Well,
+
+204
+00:21:43,240 --> 00:21:48,680
+the first thing you have to do is file for something called an IND, an investigational
+
+205
+00:21:48,680 --> 00:21:55,080
+new drug application. So after you do all of this preclinical work, you have to file this IND with
+
+206
+00:21:55,080 --> 00:22:02,680
+the FDA and that basically sets your intention of testing this as a drug in humans. And the first
+
+207
+00:22:02,680 --> 00:22:10,520
+phase of that, which is called phase one is geared specifically to dose escalate this drug
+
+208
+00:22:10,520 --> 00:22:18,040
+from a very, very low level to determine what the toxicity is across a range of doses that
+
+209
+00:22:18,040 --> 00:22:25,080
+will hopefully have efficacy. So these are typically very small studies, usually less
+
+210
+00:22:25,080 --> 00:22:30,840
+than a hundred people and they're typically done in cohorts. So you might say, well, the first,
+
+211
+00:22:31,560 --> 00:22:38,920
+you know, 12 people are going to be at 0.1 milligrams per kilogram. And assuming we see no
+
+212
+00:22:38,920 --> 00:22:44,200
+adverse effects there, we'll go up to 0.15 milligrams per kilogram for the next 12 people.
+
+213
+00:22:44,200 --> 00:22:51,400
+And if we have no issues there, we'll escalate it to 0.25. Now you'll notice, Bob, I said nothing
+
+214
+00:22:51,400 --> 00:22:57,800
+in there about does the drug work, right? So these are going to be patients with cancer. If this is
+
+215
+00:22:57,800 --> 00:23:02,440
+a drug that's being sought as a treatment for colon cancer, these are going to be patients that
+
+216
+00:23:02,440 --> 00:23:07,160
+all have colon cancer. They're often going to be patients who have metastatic colon cancer,
+
+217
+00:23:07,160 --> 00:23:14,920
+right? So these are going to be patients who have progressed through all other standard treatments
+
+218
+00:23:16,520 --> 00:23:22,200
+and who are basically saying, look, sign me up for this clinical trial. I realize that this first
+
+219
+00:23:22,200 --> 00:23:28,760
+phase is not going to be necessarily giving me a high enough dose that I could experience a benefit
+
+220
+00:23:29,800 --> 00:23:33,880
+and that you're really only looking to make sure that this drug doesn't hurt me,
+
+221
+00:23:33,880 --> 00:23:40,280
+but nevertheless, I want to participate in this trial. So if the drug gets through phase one
+
+222
+00:23:40,920 --> 00:23:48,200
+safely, then it goes to phase two. And the goal of phase two is to continue to evaluate for safety,
+
+223
+00:23:48,200 --> 00:23:55,640
+but also to start to look for efficacy. But this is done in an open label fashion. What that means
+
+224
+00:23:55,640 --> 00:24:03,240
+is they're not randomizing patients to one drug versus the other typically. They can, but usually
+
+225
+00:24:03,240 --> 00:24:10,760
+it's now we think we know one or two doses that are going to produce efficacy. They were deemed
+
+226
+00:24:10,760 --> 00:24:18,280
+safe in the phase one. We're now going to take patients and give them this drug and look for an
+
+227
+00:24:18,280 --> 00:24:23,640
+effect. And a lot of times if there's no control arm in the study, you're going to compare to the
+
+228
+00:24:23,640 --> 00:24:29,000
+natural history. So let's assume that we know that patients with metastatic colon cancer have,
+
+229
+00:24:29,720 --> 00:24:36,520
+on standard of care, have, you know, immediate survival of X months. Well, we're going to give
+
+230
+00:24:36,520 --> 00:24:40,280
+these patients this drug and see if that extends it anymore. And of course you could do this with
+
+231
+00:24:40,280 --> 00:24:45,000
+a control arm, but now it adds the number of patients to the study. So again, typically very
+
+232
+00:24:45,000 --> 00:24:51,960
+small studies can be, you know, in the 20, 30, 40, 50 range, maybe up to a few hundred people.
+
+233
+00:24:53,160 --> 00:24:57,800
+And that one Peter, I think is a probably a good example of if you have the non-randomization,
+
+234
+00:24:57,800 --> 00:25:01,480
+this might be a case where say it's an immunotherapy and people know about the
+
+235
+00:25:01,480 --> 00:25:06,120
+immunotherapy and it's been really effective for a particular gets approved for a particular cancer,
+
+236
+00:25:06,120 --> 00:25:10,120
+let's say. And there are a lot of people that know about it and there are cancer patients that
+
+237
+00:25:10,120 --> 00:25:13,880
+know about it and they want to get that treatment, but it's not approved. If they're talking to their
+
+238
+00:25:13,880 --> 00:25:19,080
+doctor, they, or maybe they're online, they might enroll in one of these trials because they really
+
+239
+00:25:19,080 --> 00:25:22,920
+want to try the drug and maybe they, you know, they might believe in it more than some other
+
+240
+00:25:22,920 --> 00:25:29,080
+treatment. Yeah. Yeah. There are lots of things that can introduce bias to a phase two if it does
+
+241
+00:25:29,080 --> 00:25:35,480
+not have randomization. Again, the goal would be to still randomize in phase two because you really
+
+242
+00:25:35,480 --> 00:25:44,840
+do want to tease out efficacy. So if a study, if a compound succeeds in phase two, which means
+
+243
+00:25:44,840 --> 00:25:51,080
+it continues to show no significant adverse safety effects, which by the way, it doesn't mean it
+
+244
+00:25:51,080 --> 00:25:57,320
+doesn't have side effects, right? Every treatment has side effects. It's just that it doesn't have
+
+245
+00:25:58,760 --> 00:26:04,280
+side effects that are deemed unacceptable for the risk profile of the patient and it shows
+
+246
+00:26:04,280 --> 00:26:09,160
+efficacy. So really you have to have these two things. You then proceed to phase three
+
+247
+00:26:09,880 --> 00:26:14,760
+and here a phase three is a really rigorous trial. This is a huge step up. It's typically a
+
+248
+00:26:14,760 --> 00:26:20,520
+log step up in the number of patients. So you'd, you know, you're talking potentially thousands
+
+249
+00:26:20,520 --> 00:26:29,720
+of patients here. Um, and this is absolutely a placebo controlled trial or not necessarily
+
+250
+00:26:29,720 --> 00:26:36,120
+placebo, but it can be sort of standard of care versus standard of care plus this new agent,
+
+251
+00:26:36,120 --> 00:26:41,400
+but it is randomized whenever possible. It is blinded and with drugs, that's always possible.
+
+252
+00:26:42,920 --> 00:26:50,280
+And these are typically longer studies. Uh, so, so now because you have so much more sample size,
+
+253
+00:26:50,280 --> 00:26:55,160
+you're going to potentially pick up side effects that weren't there in the first place. And of
+
+254
+00:26:55,240 --> 00:27:01,000
+course now you really have that gold standard for measuring efficacy. And it's on the basis of the
+
+255
+00:27:01,000 --> 00:27:06,840
+phase one phase two and mostly phase three data that a drug will get approved or not approved
+
+256
+00:27:06,840 --> 00:27:13,960
+for broad use, which leads to a fourth phase, which is a post-marketing study. So phase four
+
+257
+00:27:13,960 --> 00:27:21,560
+studies take place after the drug has been approved and they're used to basically get
+
+258
+00:27:21,560 --> 00:27:26,040
+additional information because once a drug is approved, you now have more people taking it.
+
+259
+00:27:26,760 --> 00:27:32,120
+And they may also be using this to look at other indications for the drug. So we talked about this
+
+260
+00:27:32,120 --> 00:27:39,960
+recently, right? A phase four trial, um, with semaglutide being used to look at obesity, uh,
+
+261
+00:27:39,960 --> 00:27:45,160
+versus its original phase three trials, which were looking at diabetes. So kind of, that's a,
+
+262
+00:27:45,160 --> 00:27:49,240
+the drug's already been approved. This study isn't being done to ask the questions. Should
+
+263
+00:27:49,240 --> 00:27:53,800
+semaglutide be on the market? No, it's on the market. It's basically expanding the indication
+
+264
+00:27:53,800 --> 00:27:58,840
+for semaglutide in this case, so that insurance companies would actually pay for it for a new
+
+265
+00:27:58,840 --> 00:28:03,720
+indication. But given the size and the number of these studies, you're also looking for, hey,
+
+266
+00:28:03,720 --> 00:28:09,160
+is there another side effect here that we've missed in the phase three? Right. And it might be the,
+
+267
+00:28:09,160 --> 00:28:13,640
+the particular population that might have a different risk profile so that you might,
+
+268
+00:28:13,640 --> 00:28:16,520
+you might have a different threshold. That's right. Because you're not doing this in patients
+
+269
+00:28:16,600 --> 00:28:20,200
+with type two diabetes. You're doing this in patients who explicitly don't have diabetes,
+
+270
+00:28:20,200 --> 00:28:24,120
+but have obesity. Ah, you know, different patients. Kind of, we're going to see something
+
+271
+00:28:24,120 --> 00:28:29,880
+different here. So yeah. So, um, anyway, that's, that's the, that's the long and short of phases
+
+272
+00:28:29,880 --> 00:28:37,160
+one, two, three, and four. Okay. So going back to observational studies, are there any things that
+
+273
+00:28:37,160 --> 00:28:41,160
+you look for in particular that, that will increase or decrease your confidence in it,
+
+274
+00:28:41,240 --> 00:28:47,800
+whether the bits of pearl necklace or, or garbage. Thank you for listening to today's sneak peek
+
+275
+00:28:47,800 --> 00:28:52,600
+AMA episode of the drive. If you're interested in hearing the complete version of this AMA,
+
+276
+00:28:52,600 --> 00:28:57,640
+you'll want to become a member. We created the membership program to bring you more in-depth
+
+277
+00:28:57,640 --> 00:29:03,400
+exclusive content without relying on paid ads. Membership benefits are many and beyond the
+
+278
+00:29:03,400 --> 00:29:09,000
+complete episodes of the AMA each month, they include the following ridiculously comprehensive
+
+279
+00:29:09,000 --> 00:29:14,680
+podcast show notes that detail every topic, paper, person, and thing we discuss on each episode of
+
+280
+00:29:14,680 --> 00:29:20,840
+the drive access to our private podcast feed, the quality is which were a super short podcast,
+
+281
+00:29:20,840 --> 00:29:25,560
+typically less than five minutes released every Tuesday through Friday, which highlight the best
+
+282
+00:29:25,560 --> 00:29:30,840
+questions, topics, and tactics discussed on previous episodes of the drive. This is particularly
+
+283
+00:29:30,840 --> 00:29:36,280
+important for those of you who haven't heard all of the back episodes, it becomes a great way to go
+
+284
+00:29:36,280 --> 00:29:41,240
+back and filter and decide which ones you want to listen to in detail, really steep discount codes
+
+285
+00:29:41,240 --> 00:29:46,600
+for products I use and believe in, but for which I don't get paid to endorse and benefits that we
+
+286
+00:29:46,600 --> 00:29:51,480
+continue to add over time. If you want to learn more and access these member only benefits,
+
+287
+00:29:51,480 --> 00:29:58,120
+head over to PeterAttiaMD.com forward slash subscribe. Lastly, if you're already a member,
+
+288
+00:29:58,120 --> 00:30:02,120
+but you're hearing this, it means you haven't downloaded our member only podcast feed where
+
+289
+00:30:02,120 --> 00:30:07,080
+you can get the full access to the AMA and you don't have to listen to this. You can download
+
+290
+00:30:07,080 --> 00:30:15,000
+that at PeterAttiaMD.com forward slash members. You can find me on Twitter, Instagram, and Facebook,
+
+291
+00:30:15,000 --> 00:30:21,480
+all with the ID PeterAttiaMD. You can also leave us a review on Apple Podcast or whatever podcast
+
+292
+00:30:21,480 --> 00:30:27,080
+player you listen on. This podcast is for general informational purposes only and does not constitute
+
+293
+00:30:27,080 --> 00:30:31,720
+the practice of medicine, nursing, or other professional healthcare services, including
+
+294
+00:30:31,720 --> 00:30:37,880
+the giving of medical advice. No doctor patient relationship is formed. The use of this information
+
+295
+00:30:37,880 --> 00:30:43,560
+and the materials linked to this podcast is at the user's own risk. The content on this podcast
+
+296
+00:30:43,560 --> 00:30:48,840
+is not intended to be a substitute for professional medical advice, diagnosis, or treatment.
+
+297
+00:30:49,400 --> 00:30:55,480
+Users should not disregard or delay in obtaining medical advice from any medical condition they
+
+298
+00:30:55,480 --> 00:31:00,840
+have, and they should seek the assistance of their healthcare professionals for any such conditions.
+
+299
+00:31:01,480 --> 00:31:05,720
+Finally, I take conflicts of interest very seriously. For all of my disclosures and the
+
+300
+00:31:05,720 --> 00:31:13,000
+companies I invest in or advise, please visit PeterAttiaMD.com forward slash about
+
+301
+00:31:13,000 --> 00:31:16,760
+where I keep an up-to-date and active list of such companies.
+
+302
+00:31:30,840 --> 00:31:40,840
+Thank you.
+

@@ -1,0 +1,5440 @@
+1
+00:00:00,000 --> 00:00:06,000
+Hey, everyone. Welcome to the Drive podcast. I'm your host, Peter Attia.
+
+2
+00:00:06,000 --> 00:00:13,120
+Hey, Shereen. It's great to finally meet you. Not in person, but better than being on the
+
+3
+00:00:13,120 --> 00:00:14,720
+phone, I guess.
+
+4
+00:00:14,720 --> 00:00:16,880
+Yes, same here.
+
+5
+00:00:16,880 --> 00:00:22,800
+So, you know, people on this podcast have probably heard me in a couple of episodes
+
+6
+00:00:22,800 --> 00:00:29,520
+reference this thing called DBT. I've never really gone into much detail about it, but
+
+7
+00:00:29,520 --> 00:00:33,360
+it's something I've wanted to obviously have a dedicated podcast around, and now we're
+
+8
+00:00:33,360 --> 00:00:38,640
+finally going to get to do that. So, I mean, I guess maybe we can just start by kind of
+
+9
+00:00:38,640 --> 00:00:45,520
+defining what it is a little bit before we get into its history, its founder, your involvement,
+
+10
+00:00:45,520 --> 00:00:50,400
+and things like that. So, if you were at a party and somebody said, Shereen, I heard
+
+11
+00:00:50,400 --> 00:00:56,320
+that you're a DBT therapist and a practitioner. Can you tell me what that is? What would you say?
+
+12
+00:00:57,280 --> 00:01:06,000
+Sure. So, DBT stands for Dialectical Behavior Therapy, abbreviated DBT, and it's a form of
+
+13
+00:01:06,640 --> 00:01:16,240
+therapy or a form of talk therapy that is largely inspired by cognitive behavioral therapy,
+
+14
+00:01:16,240 --> 00:01:23,280
+also abbreviated as CBT. So, we often say that DBT is a form of cognitive behavioral therapy
+
+15
+00:01:24,000 --> 00:01:32,000
+that was designed for individuals that have complex mental health problems and originally
+
+16
+00:01:32,000 --> 00:01:40,480
+designed for individuals that are suicidal or self-harming and who may meet criteria for a
+
+17
+00:01:40,480 --> 00:01:46,800
+disorder called borderline personality disorder. So, at its simplest, I would say it's a form of
+
+18
+00:01:46,800 --> 00:01:54,400
+cognitive behavioral therapy that was designed for more complex people or presentations. But then,
+
+19
+00:01:54,400 --> 00:02:00,160
+of course, there's a lot more nuance beyond that. Yeah, which we'll certainly get into.
+
+20
+00:02:01,600 --> 00:02:05,840
+Maybe give people a bit of background on what cognitive behavioral therapy is. I mean, that
+
+21
+00:02:05,840 --> 00:02:12,160
+term I've heard a lot, but truthfully, I don't know much about CBT outside of CBT-I,
+
+22
+00:02:12,720 --> 00:02:19,040
+which is cognitive behavioral therapy for insomnia, which we have referred, I would say,
+
+23
+00:02:19,040 --> 00:02:25,680
+over the past five or six years, probably a dozen of our patients to CBT-I practitioners.
+
+24
+00:02:26,720 --> 00:02:33,120
+And I think I can say without exception, it has always proved to be incredibly valuable,
+
+25
+00:02:33,120 --> 00:02:38,160
+not just incrementally valuable, but incredibly valuable. But that's the very limited experience
+
+26
+00:02:38,160 --> 00:02:43,440
+that I have with CBT is through that one narrow lens. Is there something more broadly we can say
+
+27
+00:02:43,440 --> 00:02:53,120
+about CBT that then allows us to contrast it with DBT? Yeah, so CBT refers to maybe a class of
+
+28
+00:02:54,240 --> 00:03:00,480
+talk therapy and could often be used to contrast with other kinds of talk therapy. But some of the
+
+29
+00:03:00,480 --> 00:03:07,520
+distinguishing features of cognitive behavioral therapy is that it's present focused, so focused
+
+30
+00:03:07,520 --> 00:03:13,840
+on what's happening for people right now in terms of the problems they're experiencing, and less
+
+31
+00:03:13,840 --> 00:03:23,440
+focused on one's history, one's childhood, less focused on the sorts of things that have led to
+
+32
+00:03:23,440 --> 00:03:29,200
+the person experiencing the problems that they're experiencing. So it's present focused, and it's,
+
+33
+00:03:29,200 --> 00:03:37,440
+as the name implied, it's focused on working with thoughts and behaviors that go along with the
+
+34
+00:03:37,440 --> 00:03:43,440
+problems that people experience. So in CBT-I, for example, it would be, you know, what are the
+
+35
+00:03:43,440 --> 00:03:50,160
+thoughts that are contributing to your insomnia? And how do we work on modifying or changing those
+
+36
+00:03:50,160 --> 00:03:56,080
+thoughts that you're having in order to increase the likelihood that you fall asleep, or stay asleep?
+
+37
+00:03:56,640 --> 00:04:03,440
+What are the behaviors that you do that promote sleep? What are the behaviors that you do that
+
+38
+00:04:03,520 --> 00:04:10,080
+get in the way of sleep? And how do we modify that? So at its most concrete level, it really is
+
+39
+00:04:10,080 --> 00:04:16,160
+working with thoughts and behaviors that, in the present, that are contributing to your problems
+
+40
+00:04:16,160 --> 00:04:24,160
+right now. So it's very much an active problem-solving approach. And I think what is, with people who
+
+41
+00:04:24,160 --> 00:04:32,240
+don't have a lot of experience with therapy or receiving mental health treatment, they might have
+
+42
+00:04:32,240 --> 00:04:40,080
+an idea, based on the media or TV or movies, that the best therapy is one where you just go in and
+
+43
+00:04:40,080 --> 00:04:48,640
+talk about whatever is on your mind. And CBT and similarly, DBT is much more structured and guided
+
+44
+00:04:49,440 --> 00:04:55,840
+than that. And the other distinguishing feature I will say about CBT and DBT is that
+
+45
+00:04:56,400 --> 00:05:05,120
+it's evidence-based, meaning that we construct treatments in a way that we could measure
+
+46
+00:05:06,000 --> 00:05:13,920
+its effectiveness. And if we find that something is not effective for people, then it's not likely
+
+47
+00:05:13,920 --> 00:05:20,400
+to stay in the therapy. That's our goal, anyway, is to be as empirical and scientific in our approach
+
+48
+00:05:20,400 --> 00:05:29,360
+as possible. So how long has CBT been around as a discipline? I would say it emerged, you know,
+
+49
+00:05:29,360 --> 00:05:36,080
+probably the figure that is associated with the beginning of CBT is a man named Aaron Beck,
+
+50
+00:05:37,360 --> 00:05:44,960
+who died last year, I believe, at the age of 100. And so he, or something like that number,
+
+51
+00:05:45,360 --> 00:05:54,000
+I would say it was probably the 60s in which he first started developing his form of cognitive
+
+52
+00:05:54,000 --> 00:06:01,280
+therapy. He was trained as a psychoanalyst and was seeing that it wasn't all that useful for a lot of
+
+53
+00:06:01,280 --> 00:06:05,920
+the patients that he was treating in psychiatry. And so he started developing an approach that was
+
+54
+00:06:05,920 --> 00:06:12,640
+much more about changing the way people thought about themselves and others.
+
+55
+00:06:12,800 --> 00:06:19,200
+So let's talk about Marcia, who is obviously Marcia Lindhen, who's, you know,
+
+56
+00:06:20,000 --> 00:06:24,000
+I think it's safe to say really the creator and founder of DBT, is that a fair statement?
+
+57
+00:06:24,560 --> 00:06:25,440
+Yes, for sure.
+
+58
+00:06:26,320 --> 00:06:35,120
+So tell me about her journey. Presumably, she had tried CBT both as a patient and maybe even
+
+59
+00:06:35,120 --> 00:06:40,720
+as a therapist before realizing that there was a way that it could be improved upon for at least
+
+60
+00:06:40,800 --> 00:06:45,440
+a subset of patients and or a subset of problems. Would that be kind of a fair statement?
+
+61
+00:06:45,440 --> 00:06:54,400
+Yeah, so the origin story of DBT was that originally Marcia set out to apply what might
+
+62
+00:06:54,400 --> 00:07:02,880
+be considered standard CBT to folks who were chronically suicidal. And this was, you know,
+
+63
+00:07:03,200 --> 00:07:11,360
+and this was, you know, perhaps beginning in the 70s. She was receiving advanced training at
+
+64
+00:07:11,360 --> 00:07:19,440
+Stony Brook in New York. At that time, Stony Brook was considered one of the premier places to
+
+65
+00:07:19,440 --> 00:07:28,880
+learn and apply behavior therapy. And back in the days of the 70s, 80s, there was really the heyday
+
+66
+00:07:29,200 --> 00:07:35,760
+of behaviorism. And the idea was, in some ways, in many ways oversimplified. But the idea was that
+
+67
+00:07:35,760 --> 00:07:44,240
+we could treat any mental health problem with behavior therapy in very few sessions just by
+
+68
+00:07:44,240 --> 00:07:49,920
+applying these, you know, standard principles of what we know about behavior change.
+
+69
+00:07:49,920 --> 00:07:54,240
+By the way, can you give me an example of what that would be? So does that mean that if
+
+70
+00:07:54,960 --> 00:08:01,760
+if a person was clinically depressed and came in and they were suicidal, what would the CBT
+
+71
+00:08:01,760 --> 00:08:06,560
+approach have been in the 70s or 80s to address that concern?
+
+72
+00:08:08,080 --> 00:08:12,320
+Well, I might if I can come back to depression and suicide in a minute, but I might start with
+
+73
+00:08:12,320 --> 00:08:19,760
+anxiety disorders, because this is actually what behavior therapy and CBT was probably most
+
+74
+00:08:20,560 --> 00:08:26,720
+prolific about in those days. And the idea was that you could have somebody who came into
+
+75
+00:08:26,720 --> 00:08:33,760
+treatment with a fear of something, a phobia, it could be something like a fear of heights,
+
+76
+00:08:33,760 --> 00:08:40,240
+or a fear of spiders, or it could be a fear of social situations, social anxiety, and the
+
+77
+00:08:40,240 --> 00:08:45,280
+behavior therapy approach to this or the cognitive behavioral therapy approach to this would be
+
+78
+00:08:45,920 --> 00:08:54,640
+to teach people competing thoughts. So rather than thinking this thing will kill me,
+
+79
+00:08:56,000 --> 00:09:05,360
+I can learn to have thoughts like, I can tolerate this, this might be difficult, but I can
+
+80
+00:09:06,720 --> 00:09:13,120
+handle it, or even have thoughts like this is not going to kill me. But those thoughts
+
+81
+00:09:13,120 --> 00:09:18,080
+were only one part of it. The other piece of it was the more behavioral piece, which is
+
+82
+00:09:19,440 --> 00:09:25,360
+exposure, basically saying that how you're going to get over your fear of spiders is not to talk
+
+83
+00:09:25,360 --> 00:09:32,160
+about it every week for an hour with somebody, but it's actually going to be coming into contact
+
+84
+00:09:32,160 --> 00:09:41,040
+with spiders repeatedly, over and over again, so that you learn that you can handle it. But you
+
+85
+00:09:41,040 --> 00:09:47,840
+also learn that the fear outcome is not going to occur. So that was some of those...
+
+86
+00:09:47,840 --> 00:09:51,280
+Change your thoughts and get exposure, change your thoughts, get exposure.
+
+87
+00:09:52,080 --> 00:09:57,520
+Exactly. And the getting exposure is changing your behavior because you want to run away or avoid,
+
+88
+00:09:58,160 --> 00:10:04,800
+and instead it's saying come into contact with approach, something that you want to avoid.
+
+89
+00:10:04,960 --> 00:10:10,960
+Right. And so what they were finding in these early days of applying CBT is saying
+
+90
+00:10:12,560 --> 00:10:20,880
+people may have gone to psychoanalysis, which was the dominant paradigm of therapy in those days.
+
+91
+00:10:20,880 --> 00:10:28,560
+And by the way, this is almost exclusively a rich white person issue when I'm talking about
+
+92
+00:10:28,960 --> 00:10:34,240
+who was receiving treatment for mental health problems. That's what I'm talking about back in
+
+93
+00:10:34,240 --> 00:10:45,280
+those days, largely. And so people could go to a psychoanalysis, a psychoanalyst, and talk about
+
+94
+00:10:45,280 --> 00:10:56,640
+their fears for months and years and not necessarily do better with them. And so CBT comes along and
+
+95
+00:10:56,640 --> 00:11:03,280
+says, actually, we could do this sometimes, depending on what the fear is in one session.
+
+96
+00:11:03,280 --> 00:11:09,040
+There were people who would do like a three hour session to, quote unquote, cure somebody of a
+
+97
+00:11:09,040 --> 00:11:15,200
+phobia. And they were finding that it worked. And so then you say, okay, how do we take those
+
+98
+00:11:15,200 --> 00:11:22,400
+principles to something like depression? And this is what Aaron Beck started to do with cognitive
+
+99
+00:11:22,400 --> 00:11:28,400
+therapy more, was noticing that people who have depression tend to think in very particular ways.
+
+100
+00:11:28,960 --> 00:11:41,680
+They have negative interpretations of almost everything, right? And also about themselves,
+
+101
+00:11:41,680 --> 00:11:47,440
+about their future, about others. And so a cognitive behavioral approach to depression
+
+102
+00:11:47,440 --> 00:11:53,680
+would be about working on changing those thoughts to be more balanced and evidence-based. And then
+
+103
+00:11:53,680 --> 00:11:59,040
+also the behavior change that goes along with depression is usually about getting active.
+
+104
+00:11:59,760 --> 00:12:10,240
+So when somebody is depressed, the tendency is to retreat, shut down, avoid. And the behavioral
+
+105
+00:12:10,240 --> 00:12:15,920
+treatments for depression would be to get people activated and to solve the problems that are
+
+106
+00:12:15,920 --> 00:12:22,160
+causing the depression, whether it's unhappiness with a job, unhappiness with a relationship,
+
+107
+00:12:22,160 --> 00:12:29,040
+and work on targeting the problems that are causing depression in a systematic way.
+
+108
+00:12:30,480 --> 00:12:35,680
+How successful was it? You mentioned earlier that evidence is a very important part of this.
+
+109
+00:12:37,520 --> 00:12:43,680
+How were they able to tally the results and determine if their intervention
+
+110
+00:12:43,680 --> 00:12:46,480
+was in fact better than the standard of care at the time?
+
+111
+00:12:46,640 --> 00:12:54,560
+Right. So the history of psychotherapy trials is largely based on a paradigm known as randomized
+
+112
+00:12:54,560 --> 00:13:02,080
+clinical trials, where you would recruit individuals who meet certain inclusion criteria,
+
+113
+00:13:02,080 --> 00:13:08,800
+say somebody meets the diagnosis for depression, and then you would randomize them to either, say,
+
+114
+00:13:08,800 --> 00:13:15,600
+receive 12 weeks of cognitive behavioral therapy or receive nothing. And then you would
+
+115
+00:13:15,840 --> 00:13:25,120
+nothing or receive treatment as usual or standard of care and then evaluate outcomes over time.
+
+116
+00:13:25,120 --> 00:13:31,840
+And with things like depression and anxiety disorders, there are these standard measures
+
+117
+00:13:31,840 --> 00:13:41,200
+that are popular within our field, where we have developed benchmarks for what we're trying to get
+
+118
+00:13:41,200 --> 00:13:47,200
+to, what might be considered a success. And I would say that in general, the trials for CBT
+
+119
+00:13:48,160 --> 00:13:54,720
+for things like depression and anxiety are overwhelmingly positive, meaning that most of
+
+120
+00:13:54,720 --> 00:14:02,800
+the trials, especially in the early days when you were comparing CBT to nothing or treatment as usual,
+
+121
+00:14:03,360 --> 00:14:12,000
+found very large effects for CBT in those settings. Now, I think where we see or where
+
+122
+00:14:12,000 --> 00:14:18,480
+we'll come back to Marsha emerging is recognizing that, of course, none of these treatments were
+
+123
+00:14:18,480 --> 00:14:26,800
+100% successful for everybody. And more than that is that when you look at these studies and you see
+
+124
+00:14:27,440 --> 00:14:33,760
+who were these studies done with, the inclusion criteria, meaning what allowed somebody to be
+
+125
+00:14:33,760 --> 00:14:39,920
+in the study, were often quite narrow. For example, with a depression study, the person
+
+126
+00:14:39,920 --> 00:14:47,120
+might have to meet the criteria for a diagnosis of depression, but not have suicidal behavior.
+
+127
+00:14:47,840 --> 00:14:56,000
+So people with suicidal behavior may be excluded from a lot of those studies, which makes sense
+
+128
+00:14:56,000 --> 00:15:01,120
+from a research point of view in some contexts. But in other contexts, doesn't make sense because
+
+129
+00:15:01,120 --> 00:15:07,200
+of course we know that a lot of people who experience depression are also suicidal. So
+
+130
+00:15:07,200 --> 00:15:13,200
+if you're removing suicidal people or not allowing suicidal people to be part of this research,
+
+131
+00:15:13,840 --> 00:15:20,240
+then we don't know ultimately if the treatments work for those populations.
+
+132
+00:15:20,640 --> 00:15:25,520
+So when did, I mean Marsha as a young girl, I think was diagnosed with schizophrenia,
+
+133
+00:15:25,520 --> 00:15:31,120
+is that correct? And was treated with electroconvulsive therapy and all sorts of things that
+
+134
+00:15:31,120 --> 00:15:35,120
+are still used today, but probably not as frequently and probably with a bit more
+
+135
+00:15:35,680 --> 00:15:40,880
+particular attention to the use case, probably used more liberally than I'm guessing.
+
+136
+00:15:40,880 --> 00:15:47,600
+So Marsha was a teenager, I believe, at the time that she was receiving
+
+137
+00:15:48,240 --> 00:15:55,680
+a lot of treatment. And this was in the late 60s, if I'm, no, wait, if I'm remembering correctly,
+
+138
+00:15:55,680 --> 00:16:03,440
+what, when she was born now that I'm thinking about it. But it was before CBT was really in
+
+139
+00:16:03,440 --> 00:16:17,280
+the picture. And she was sent away, hospitalized for being suicidal and chronic, and she was
+
+140
+00:16:17,280 --> 00:16:24,240
+chronically self-injuring, doing a number of things to cause physical harm to herself as a way
+
+141
+00:16:24,240 --> 00:16:32,000
+of relieving emotional intensity and overwhelming emotions. And so at the time, there was not
+
+142
+00:16:32,640 --> 00:16:38,880
+a lot of treatment options that were available. And the medical model was to treat with really
+
+143
+00:16:39,360 --> 00:16:48,400
+strong meds, you know, antipsychotic meds at the time, or to use something like electroconvulsive
+
+144
+00:16:48,400 --> 00:16:55,360
+therapy. And so those were the treatments that she was exposed to from a very young age,
+
+145
+00:16:55,360 --> 00:17:00,880
+in addition to therapy. But the types of therapy that she was receiving at that time
+
+146
+00:17:01,920 --> 00:17:08,480
+were unlikely to be, you know, anything like the cognitive behavioral treatment we know today.
+
+147
+00:17:09,440 --> 00:17:16,800
+So how did she find her way from being almost institutionalized to eventually, you know,
+
+148
+00:17:16,800 --> 00:17:21,520
+getting an education and herself becoming a therapist? What was that journey that went from
+
+149
+00:17:21,520 --> 00:17:26,720
+that teenage girl to kind of the person who created DBT?
+
+150
+00:17:28,160 --> 00:17:35,840
+Yeah, so she has written about this in a memoir as well as described it in a piece in which she,
+
+151
+00:17:36,480 --> 00:17:41,360
+in the New York Times, which was a piece where she kind of came out to the world as having
+
+152
+00:17:42,000 --> 00:17:48,800
+been someone who experienced her own struggles, significant struggles with mental health. And I
+
+153
+00:17:48,800 --> 00:17:55,840
+say that as a preface because for that article in the New York Times came out, I believe in 2010,
+
+154
+00:17:55,840 --> 00:18:04,720
+2011. So for most of her career, she was not forthcoming about this, her own personal
+
+155
+00:18:04,720 --> 00:18:10,080
+struggles. She would tell people that were close to her new, her students, I was one of them,
+
+156
+00:18:10,720 --> 00:18:19,440
+knew about this experience, but she wasn't public about it. And she would long say that the reason
+
+157
+00:18:19,440 --> 00:18:28,720
+for that is because she wanted DBT to be judged on its merit empirically. She did not want
+
+158
+00:18:29,680 --> 00:18:38,320
+DBT to be judged on her personal story alone. She wanted this to be a scientific treatment that
+
+159
+00:18:38,320 --> 00:18:48,720
+lives and dies by its outcome, she would say. So when she would talk about how DBT developed
+
+160
+00:18:49,520 --> 00:18:59,520
+to the public, she would talk about it in leaving out this earlier part of her own history. So the
+
+161
+00:18:59,520 --> 00:19:07,840
+earlier part of her own history that she describes is that she had a spiritual moment when she was in
+
+162
+00:19:08,080 --> 00:19:18,800
+one of these institutions. And the spiritual moment was that she describes experiencing
+
+163
+00:19:19,680 --> 00:19:28,720
+God in a very dark moment of her own life. And in that moment, she realized that she could,
+
+164
+00:19:28,720 --> 00:19:36,160
+she felt the love of God and felt that she could serve this purpose in life, which is
+
+165
+00:19:36,640 --> 00:19:44,240
+to get out of hell, her own experience, and then to work her entire life to get other people out of
+
+166
+00:19:44,240 --> 00:19:54,480
+hell. And that was how she took this spiritual experience and developed her life's work based on
+
+167
+00:19:54,480 --> 00:20:00,560
+that. Now another reason why she did it. How old was she, Shereen at that time? I would say
+
+168
+00:20:00,960 --> 00:20:08,400
+I would say as best I remember in her early late teens or early twenties.
+
+169
+00:20:09,920 --> 00:20:16,080
+Kind of profound to follow through on something that you could argue,
+
+170
+00:20:16,800 --> 00:20:22,560
+well, God, you were still so young when that was happening. And was she at some point here
+
+171
+00:20:22,560 --> 00:20:27,040
+diagnosed as having a borderline personality disorder as well? Or is that something that
+
+172
+00:20:27,040 --> 00:20:32,640
+is more retrospective where it's sort of like looking back, she was probably misdiagnosed as
+
+173
+00:20:32,640 --> 00:20:38,160
+having schizophrenia. I mean, what was the state of understanding of her actual condition?
+
+174
+00:20:40,800 --> 00:20:47,440
+So I believe that she was probably, you still see this today, but when people are unclear about how
+
+175
+00:20:47,440 --> 00:20:55,040
+to explain someone's problems, they get given almost every diagnosis in the book. And now this
+
+176
+00:20:55,040 --> 00:21:00,640
+would have been before the criteria that we now know is borderline personality disorder being
+
+177
+00:21:00,640 --> 00:21:10,240
+defined in the way it is most well known would have started in the third edition of the DSM,
+
+178
+00:21:10,240 --> 00:21:16,720
+which came out in about 1980. So the criteria that we have now to define borderline personality
+
+179
+00:21:16,720 --> 00:21:22,400
+disorder was not the same as when she was receiving treatment. So I believe that she
+
+180
+00:21:22,400 --> 00:21:28,640
+had a number of diagnoses attributed to her. I can't remember, it's quite possible that
+
+181
+00:21:28,640 --> 00:21:34,000
+borderline personality disorder was one of them, because of course, that's also the diagnosis that
+
+182
+00:21:34,000 --> 00:21:39,520
+they give people when they don't know how to treat them. And so it wouldn't surprise me.
+
+183
+00:21:39,520 --> 00:21:45,120
+And what are the criteria? Tell folks what borderline personality disorder is today. What
+
+184
+00:21:45,200 --> 00:21:53,040
+do we know today? Yeah, so borderline personality disorder is considered a complex mental health
+
+185
+00:21:53,520 --> 00:22:02,640
+disorder that is defined as meeting. There are nine criteria of borderline personality disorder
+
+186
+00:22:02,640 --> 00:22:08,640
+as defined by the DSM. And in order to meet criteria or to have the condition, you have to
+
+187
+00:22:08,640 --> 00:22:15,440
+endorse five of the nine, which actually means that ultimately, it's a really heterogeneous
+
+188
+00:22:15,440 --> 00:22:19,840
+disorder, because there's all these different combinations and different ways in which one
+
+189
+00:22:19,840 --> 00:22:31,120
+can meet criteria. One of the things that Marsha did was to restructure the different criteria
+
+190
+00:22:31,120 --> 00:22:36,720
+of borderline personality disorder in a way that perhaps is more understandable and also makes more
+
+191
+00:22:36,800 --> 00:22:43,360
+cohesive sense. And to say that it's a disorder of dysregulation across a number of different
+
+192
+00:22:43,360 --> 00:22:49,440
+domains. So the core domain of dysregulation that we see in borderline personality disorder is what
+
+193
+00:22:49,440 --> 00:22:56,960
+we refer to as emotion dysregulation. And this is largely defined by people's experience of emotions
+
+194
+00:22:56,960 --> 00:23:04,640
+as feeling like they have very intense emotions, they don't feel like they can control their
+
+195
+00:23:04,640 --> 00:23:13,120
+emotions very well, their emotions change very rapidly. So that's referred to as affective
+
+196
+00:23:13,120 --> 00:23:21,600
+lability, that the emotions will go from set intense sadness to intense shame to fear to joy,
+
+197
+00:23:21,600 --> 00:23:31,200
+you know, very quickly and seemingly without a lot of reason. So emotion dysregulation is part
+
+198
+00:23:32,000 --> 00:23:36,640
+and considered core to the disorder of borderline personality disorder. And then these other domains
+
+199
+00:23:36,640 --> 00:23:45,920
+of dysregulation stem from emotion dysregulation and include behavior dysregulation. So not having
+
+200
+00:23:45,920 --> 00:23:52,720
+control over or feeling like you don't have control over your behaviors. This is associated
+
+201
+00:23:52,720 --> 00:23:58,960
+with a lot of impulsivity and behaviors that go along with impulsivity. So substance use,
+
+202
+00:23:59,920 --> 00:24:10,480
+reckless spending, impulsive sexual behavior, impulsive driving, you know, behaviors that are
+
+203
+00:24:10,480 --> 00:24:16,400
+experienced as impulsive and potentially could cause problems for the person. Impulsive eating
+
+204
+00:24:17,200 --> 00:24:21,920
+is another domain. I mean, it sounds like there's quite an overlap, at least in some of those with
+
+205
+00:24:21,920 --> 00:24:27,200
+bipolar disorder, right? Bipolar one, where you could sort of see, I don't know about the
+
+206
+00:24:27,840 --> 00:24:33,600
+affective lability, but certainly the mania side of it sounds like it might be consistent with some
+
+207
+00:24:33,600 --> 00:24:39,280
+of that dysregulation. I'm guessing that's what makes psychiatry so difficult is you don't have
+
+208
+00:24:39,280 --> 00:24:48,320
+biomarkers, you don't have imaging scans that give you diagnoses, right? Right. We don't. And so there
+
+209
+00:24:48,320 --> 00:24:54,800
+is, you're right, a lot of overlap and actually probably the ones, the overlap that is more
+
+210
+00:24:54,800 --> 00:25:02,000
+consistent or difficult to discriminate as bipolar two, because bipolar one is associated with
+
+211
+00:25:02,000 --> 00:25:10,240
+the depression, longer, longer lengths of either a pure manic state or a pure depressed state. Bipolar
+
+212
+00:25:10,240 --> 00:25:19,600
+two might have manic states, but it is shorter in duration or might not be, you know, super manic,
+
+213
+00:25:19,600 --> 00:25:29,040
+right, as high. And so that's often really hard to discriminate from somebody who has borderline
+
+214
+00:25:29,040 --> 00:25:35,520
+personality disorder. And generally what we're talking about with BPD as opposed to bipolar is
+
+215
+00:25:35,520 --> 00:25:44,800
+that we actually see the mood changes happening more frequently within BPD than with bipolar two.
+
+216
+00:25:44,800 --> 00:25:49,360
+But I'm probably oversimplifying, but that's what I would be looking for if I was trying to
+
+217
+00:25:49,360 --> 00:26:00,320
+assess the difference between the two. A person with BPD, what are the challenges that they face
+
+218
+00:26:00,320 --> 00:26:05,680
+in the world, right? If this is a, let's just assume this is a person of totally normal intelligence
+
+219
+00:26:05,680 --> 00:26:11,040
+and other, all physical capabilities are fine. And this is sort of the one issue, this one
+
+220
+00:26:11,040 --> 00:26:17,040
+psychological issue. How does it manifest itself for that person when they're in school, when they're
+
+221
+00:26:17,040 --> 00:26:23,680
+in college, if they get married, if they have kids, like help us understand how this condition
+
+222
+00:26:24,320 --> 00:26:31,600
+makes life more difficult for the individual and those around them. Yes. So one thing I'll say is
+
+223
+00:26:31,600 --> 00:26:39,120
+that you rarely will see this condition in isolation of anything else. And again, this speaks to one
+
+224
+00:26:39,120 --> 00:26:46,000
+of the complexities of trying to study psychiatry that I think on average people who meet criteria
+
+225
+00:26:46,000 --> 00:26:52,320
+for BPD have three to four other mental health problems at the same time. So they'll also meet
+
+226
+00:26:52,320 --> 00:26:59,280
+criteria for depression or an anxiety disorder or a substance use disorder or an eating disorder.
+
+227
+00:27:00,160 --> 00:27:06,720
+And those things aren't stemming from the BPD. These things are, we believe independently there
+
+228
+00:27:06,720 --> 00:27:13,920
+as well. Well, I think it depends on who you ask because I would say as somebody who is trained
+
+229
+00:27:13,920 --> 00:27:21,120
+mostly behaviorally, I would say the diagnosis matters less than how we conceptualize these
+
+230
+00:27:21,120 --> 00:27:26,320
+problems. And to that point, I would agree with you. We could say emotion dysregulation is central
+
+231
+00:27:26,320 --> 00:27:32,960
+to all of those things, but the diagnostic system as we currently have it does not allow for that.
+
+232
+00:27:32,960 --> 00:27:38,560
+So they would say, if somebody meets criteria for these other disorders, they also have these other
+
+233
+00:27:38,560 --> 00:27:46,000
+disorders. So how somebody with borderline personality disorder lives their lives, I would
+
+234
+00:27:46,000 --> 00:27:59,520
+say it's complicated because on the one end of the continuum, we see people who have severe problems
+
+235
+00:27:59,520 --> 00:28:07,120
+associated with BPD such that they struggle to hold on to a job so they don't work and they're
+
+236
+00:28:07,120 --> 00:28:16,880
+on disability or receiving social security. They can't maintain relationships. So they're very
+
+237
+00:28:16,880 --> 00:28:23,520
+isolated. And why is that? Why are relationships blowing up and why are they not able to hold down
+
+238
+00:28:23,520 --> 00:28:28,640
+a job? What's the fundamental issue or fundamental issues that are impairing them?
+
+239
+00:28:29,600 --> 00:28:37,520
+From a DBT perspective, we would say that it all comes back to difficulty regulating emotions.
+
+240
+00:28:39,120 --> 00:28:50,000
+So that if I experience intense emotions that I feel like I can't control, when I get angry,
+
+241
+00:28:50,000 --> 00:29:02,240
+I lash out. When I get scared, I run away or avoid. Or I have emotion dys... One of the
+
+242
+00:29:02,240 --> 00:29:07,440
+criteria that goes along with BPD that you could see as tied with emotion dysregulation problems
+
+243
+00:29:07,440 --> 00:29:16,080
+is what's referred to as fears of abandonment. So a person with BPD often will have a lot of fear
+
+244
+00:29:16,720 --> 00:29:25,920
+that a person that they love or are close to will leave them. And if I am in a relationship
+
+245
+00:29:25,920 --> 00:29:34,320
+where I am afraid that the other person is going to leave me all the time, that may cause me to
+
+246
+00:29:34,320 --> 00:29:44,560
+behave in ways that are frantic, chaotic, and actually paradoxically have the effect of causing
+
+247
+00:29:44,560 --> 00:29:51,360
+the other person to be more likely to leave. Texting the person, calling the person relentlessly.
+
+248
+00:29:52,800 --> 00:30:01,760
+If a person doesn't come home or call at the time that they say they will, having the experience of
+
+249
+00:30:01,760 --> 00:30:07,040
+feeling like I'm losing it because I don't know where that person is or perhaps they've left me.
+
+250
+00:30:07,520 --> 00:30:15,600
+As a result, if I have BPD, I experience intense fear, intense shame, intense sadness, and now I
+
+251
+00:30:15,600 --> 00:30:23,920
+don't know what to do with this intense behavior. And I may self-injure as a way of leaving that
+
+252
+00:30:23,920 --> 00:30:32,400
+emotional intensity. Or I may threaten suicide as a way of getting the person to come back to me.
+
+253
+00:30:32,480 --> 00:30:37,840
+And maybe I'm doing this without even having awareness that that's the effect of my behavior.
+
+254
+00:30:37,840 --> 00:30:43,600
+I just know that in this moment, I don't know what to do. I feel entirely out of control,
+
+255
+00:30:43,600 --> 00:30:48,960
+and I need to do something to fix it in this moment. What is the
+
+256
+00:30:50,800 --> 00:30:57,600
+mortality of BPD? I was very surprised to learn recently that anorexia nervosa has probably the
+
+257
+00:30:57,600 --> 00:31:03,680
+highest mortality of any psychiatric condition. I would have guessed depression, presumably.
+
+258
+00:31:04,880 --> 00:31:12,240
+But where does BPD stand in terms of mortality, either through self-harm and neglect potentially,
+
+259
+00:31:12,240 --> 00:31:17,920
+or obviously suicide? I sometimes get into the weeds a little bit about this. And when,
+
+260
+00:31:19,040 --> 00:31:25,440
+as an academic and psychologist, what I find, and someone who studies suicide,
+
+261
+00:31:25,440 --> 00:31:35,680
+I review a lot of manuscripts and grant proposals, and I am always saddened and amused
+
+262
+00:31:35,680 --> 00:31:41,920
+when I see people write about a disorder and say, this disorder has one of the highest rates of
+
+263
+00:31:41,920 --> 00:31:47,040
+suicide. Because if you look at it, it seems like every disorder has one of the highest rates of
+
+264
+00:31:47,040 --> 00:31:52,960
+suicide. And I think it's because we don't know how to study this very well, honestly. We don't know
+
+265
+00:31:52,960 --> 00:32:03,600
+how to determine of the people who die by suicide what are the mental health conditions
+
+266
+00:32:03,600 --> 00:32:09,360
+that they had, and what is the relative risk according to these different disorders.
+
+267
+00:32:10,720 --> 00:32:16,640
+Especially when you overlap, because as you said earlier, if a person with BPD also suffers
+
+268
+00:32:16,640 --> 00:32:20,560
+significant depression, if they commit suicide, are we attributing that to depression?
+
+269
+00:32:21,440 --> 00:32:26,800
+So, no, I think my question more broadly is knowing that one could never tease that out,
+
+270
+00:32:28,160 --> 00:32:34,880
+how risky is it for an individual understanding all of the comorbidities that tend to cluster with it?
+
+271
+00:32:35,680 --> 00:32:43,520
+I will say it's very high. And one way in which I can answer this is that another criteria for
+
+272
+00:32:43,920 --> 00:32:55,520
+for BPD is repeated or chronic self-injury or suicide attempts. And upwards more than 75%
+
+273
+00:32:55,520 --> 00:33:02,000
+of people, and in some studies 90 to 95% of people who meet criteria for borderline personality
+
+274
+00:33:02,000 --> 00:33:10,160
+disorder, engage in self-injury or have made more than one suicide attempt in their lives.
+
+275
+00:33:10,800 --> 00:33:19,520
+And this tells us a couple of things. One is that on its own is considered a very high risk
+
+276
+00:33:19,520 --> 00:33:24,800
+behavior because people who engage in self-injury, even if they don't intend to die,
+
+277
+00:33:25,360 --> 00:33:28,800
+there could be accidental death as a result of self-injury.
+
+278
+00:33:29,840 --> 00:33:33,360
+What are some examples, I mean, people probably think of the most common examples of people
+
+279
+00:33:33,360 --> 00:33:38,480
+cutting themselves or burning themselves. What are some other examples of self-injurious behavior
+
+280
+00:33:38,560 --> 00:33:51,040
+that people engage in? Head banging or punching or hitting oneself. There are multiple forms of
+
+281
+00:33:51,040 --> 00:34:01,280
+cutting that include different objects to cut, but could also be people really intensely scratching
+
+282
+00:34:01,280 --> 00:34:08,400
+themselves to the point where they draw blood. There's overdosing is considered a form of
+
+283
+00:34:09,200 --> 00:34:17,200
+self-injury, especially if it's or you have to determine is this with intent to die or not,
+
+284
+00:34:17,200 --> 00:34:23,280
+but there are people who overdose without intent to die as a way of hurting themselves.
+
+285
+00:34:23,280 --> 00:34:33,040
+There's also more rare, but other forms of self-injury may involve ingesting toxic substances,
+
+286
+00:34:35,040 --> 00:34:43,760
+et cetera. So this has also, I think, evolved over time, or we didn't know how to study it
+
+287
+00:34:43,760 --> 00:34:49,920
+very well over the years because even in my career, I feel like 20 years ago when we were
+
+288
+00:34:49,920 --> 00:34:55,280
+talking about self-injury, we were talking much more about things like cutting or burning.
+
+289
+00:34:56,320 --> 00:35:01,520
+I feel like as there have been more people interested in studying self-injury,
+
+290
+00:35:02,160 --> 00:35:10,080
+we're also finding out about other ways in which people cause harm to themselves. Then there's all
+
+291
+00:35:10,080 --> 00:35:16,240
+sorts of debates about whether this is considered self-injury or not because some people might say,
+
+292
+00:35:17,200 --> 00:35:24,560
+I have binge eating or I overeat and I do that intentionally even though I know it's causing
+
+293
+00:35:24,560 --> 00:35:33,200
+harm to myself. Whether we classify that diagnostically as self-harm or not is one
+
+294
+00:35:33,200 --> 00:35:38,720
+question, but whether a person considers themselves actively doing harm to themselves,
+
+295
+00:35:38,720 --> 00:35:43,200
+that's another question. What's the male-female split in BPD?
+
+296
+00:35:44,160 --> 00:35:49,520
+Yeah. So that's another thing that's changed over time. It was long thought to be a female
+
+297
+00:35:49,520 --> 00:35:58,560
+disorder and there's all sorts of reasons for that. A lot of them are sexist. Now we
+
+298
+00:36:00,960 --> 00:36:07,280
+see more studies that indicate that there are roughly equivalent rates among men and women.
+
+299
+00:36:07,280 --> 00:36:18,480
+However, there's still a diagnostic bias for tending to diagnose women more often as BPD
+
+300
+00:36:18,480 --> 00:36:25,760
+intending not to diagnose men with BPD. So does that mean underdiagnosing men over diagnosing
+
+301
+00:36:25,760 --> 00:36:33,200
+women potentially? I think so. I think the underdiagnosing of men has been shown in a number of
+
+302
+00:36:33,200 --> 00:36:41,040
+studies and it appears that men have to be more severe in order to receive the diagnosis
+
+303
+00:36:42,480 --> 00:36:48,480
+than women. Whether women are over diagnosed, I'm not sure, but I think it's very rare that you would
+
+304
+00:36:48,480 --> 00:36:57,920
+see a psychiatrist or a medical professional do a diagnostic assessment. I think it's much more
+
+305
+00:36:57,920 --> 00:37:06,480
+likely that they base that diagnosis on is this person difficult in some way. So when you look at
+
+306
+00:37:06,480 --> 00:37:14,160
+the twin concordant studies of things ranging from autism to depression, you see a very strong
+
+307
+00:37:14,160 --> 00:37:22,240
+genetic component to these things. Do you have a sense of how strong the genetic link is for BPD,
+
+308
+00:37:22,240 --> 00:37:26,880
+presumably based on these identical twin discordant studies, identical twins raised separately and
+
+309
+00:37:26,960 --> 00:37:34,720
+looking at the prevalence. How much of this is genetic and then how much of this is environmental
+
+310
+00:37:34,720 --> 00:37:40,800
+where life events trigger a susceptible individual to manifest the traits?
+
+311
+00:37:42,320 --> 00:37:47,760
+So I don't know the data off the top of my head about the twin concordants, but I would say there's
+
+312
+00:37:47,760 --> 00:37:53,360
+a general understanding that there is of course a genetic component to this disorder.
+
+313
+00:37:54,160 --> 00:38:02,400
+And I would say that the DBT framework is one that has a model for explaining how BPD
+
+314
+00:38:02,400 --> 00:38:09,120
+develops, which we can probably get into, but that speaks to the fact that there is both a
+
+315
+00:38:09,120 --> 00:38:14,800
+genetic and an environmental component to the development of the disorder.
+
+316
+00:38:15,760 --> 00:38:21,920
+So let's go back to Marcia in her journey. So she has this, you know, literally come to Jesus,
+
+317
+00:38:22,000 --> 00:38:24,800
+right? So she has this kind of epiphany in her late teens or early twenties,
+
+318
+00:38:26,880 --> 00:38:32,160
+which it sounds like, you know, puts her on a different path, potentially saves her life.
+
+319
+00:38:33,680 --> 00:38:39,840
+It's still a long way from there to where we are today. So walk us through that journey.
+
+320
+00:38:41,120 --> 00:38:49,760
+Right. So this is where it picks up in terms of the story that is part of the development of
+
+321
+00:38:49,760 --> 00:38:58,800
+DBT story. So now leaving out her own personal history, you know, Marcia went on to get a degree
+
+322
+00:38:58,800 --> 00:39:04,880
+in, I mean, I should also point out that I think one of the factors that led to Marcia being able
+
+323
+00:39:04,880 --> 00:39:13,360
+to do this is that I think she's hands down a genius. And so that was probably despite her
+
+324
+00:39:13,360 --> 00:39:24,240
+really difficult experiences. She had this amazing capacity for, you know, thought that helped her,
+
+325
+00:39:24,800 --> 00:39:31,600
+I'm sure, in numerous ways, including developing this treatment. But so she went on to get a degree
+
+326
+00:39:31,600 --> 00:39:37,840
+in social psychology, a social psychology PhD, which is a little known fact about her that she's
+
+327
+00:39:37,840 --> 00:39:41,680
+not a clinic. She doesn't have a degree in clinical psychology, but she got her social
+
+328
+00:39:41,680 --> 00:39:46,720
+psychology degree, but then decided that she wanted to get clinical training. And that's what
+
+329
+00:39:46,720 --> 00:39:55,040
+led her to this training experience at Stony Brook, which is where they were doing a lot of work
+
+330
+00:39:56,080 --> 00:40:01,440
+on theory and treatment related to cognitive behavioral treatments for a range of disorders.
+
+331
+00:40:02,000 --> 00:40:08,080
+And at that time, nobody was studying cognitive behavioral treatment for suicidal populations.
+
+332
+00:40:08,080 --> 00:40:16,480
+And so Marcia decided, I want to take what we know about CBT that seems to be hugely effective
+
+333
+00:40:16,480 --> 00:40:22,720
+for all of these disorders. And I want to take all that we know about CBT and just plop it into
+
+334
+00:40:22,720 --> 00:40:29,840
+treating chronically suicidal individuals. The way she reports it is saying she wasn't interested at
+
+335
+00:40:29,840 --> 00:40:36,880
+that time in diagnosis, she just wanted to work with people who chronically experienced urges to
+
+336
+00:40:36,880 --> 00:40:45,360
+die. And so that's what she attempted to do. And by her accounts, this quickly blew up.
+
+337
+00:40:45,360 --> 00:40:49,280
+And just for timing, this is kind of, I'm guessing this is now the early 80s?
+
+338
+00:40:50,480 --> 00:40:56,560
+Yes. Late 70s, early 80s when she did her fellowship there.
+
+339
+00:40:56,560 --> 00:41:02,800
+And do we have a sense of how she is treating herself at this point? In other words, how is
+
+340
+00:41:02,880 --> 00:41:09,520
+she regulating her own emotions? Are the tools of CBT things that she is finding helpful for her own
+
+341
+00:41:09,520 --> 00:41:15,600
+self-care? This is a great question. And I'm not sure I know what the answer is. And what's
+
+342
+00:41:15,600 --> 00:41:22,400
+interesting is that I think that what Marcia did was she took a lot of her own experiences,
+
+343
+00:41:22,400 --> 00:41:30,160
+and then she was able to translate that into cognitive behavioral terms, which led to the
+
+344
+00:41:30,160 --> 00:41:36,960
+development of a lot of the skills in the in DBT that she developed for people. Whether she was
+
+345
+00:41:38,800 --> 00:41:44,160
+thinking at the time about applying CBT to herself, I don't know. But I think that that's
+
+346
+00:41:45,120 --> 00:41:50,960
+what she ended up doing by developing these. So she sort of became the index case, right?
+
+347
+00:41:51,680 --> 00:41:58,160
+She was sort of not necessarily thinking it this way, but she was working out the tools of how do
+
+348
+00:41:58,160 --> 00:42:03,200
+you transition. I sort of liken that to what Bruce Lee did. I don't know how familiar you are
+
+349
+00:42:03,200 --> 00:42:10,640
+with Bruce Lee, but most people sort of know him as kind of a movie star in martial arts. But he
+
+350
+00:42:10,640 --> 00:42:16,720
+was far more relevant in creating a system of martial arts called Jeet Kune Do, which took from
+
+351
+00:42:16,720 --> 00:42:24,480
+over 30 different other styles of martial arts and in his words, took what was useful and discarded
+
+352
+00:42:24,480 --> 00:42:31,200
+what was useless and sort of created a new system with a very particular goal, by the way.
+
+353
+00:42:31,200 --> 00:42:37,200
+So he had a very clear objective in what Jeet Kune Do was to be about. And in some ways,
+
+354
+00:42:37,200 --> 00:42:44,400
+it's almost like that's what Marcia was doing on herself, right? Yes, on herself and also in her
+
+355
+00:42:45,360 --> 00:42:51,520
+treatment development work, which is a very iterative process like, let me try this. Does
+
+356
+00:42:51,520 --> 00:42:58,960
+this work? I'll keep it. Does it not work? I'll throw it out. If it works, what is it? How do I
+
+357
+00:42:58,960 --> 00:43:09,360
+define it? How do I write about it in a way that other people can do it? And put it all together
+
+358
+00:43:09,360 --> 00:43:14,480
+in a package. Again, I think this speaks to how brilliant I think she is that she could do it,
+
+359
+00:43:14,480 --> 00:43:21,600
+but it does align with what you're describing, which is really, and what's I think really
+
+360
+00:43:21,600 --> 00:43:28,800
+exciting about treatment development work is this whole process of figuring it out as you go
+
+361
+00:43:28,800 --> 00:43:35,440
+and then trying to replicate it and really using the client's experience to say,
+
+362
+00:43:36,240 --> 00:43:42,000
+is this having the intended effect? So I interrupted you, but let's go back to Marcia
+
+363
+00:43:42,000 --> 00:43:51,040
+at Stony Brook and finding out that CBT in its current form is not helping suicidal patients,
+
+364
+00:43:51,040 --> 00:43:56,880
+at least not to a level that she's feeling is successful, right? Right. So what she,
+
+365
+00:43:57,920 --> 00:44:02,320
+again, this is secondhand, so I just tell the story as though I'm her, but what she would
+
+366
+00:44:02,320 --> 00:44:08,480
+report is, okay, I go into my session with somebody and I ask them about what are all
+
+367
+00:44:08,480 --> 00:44:13,440
+the problems that you're experiencing that is causing you to feel suicidal. And the person would
+
+368
+00:44:13,440 --> 00:44:21,440
+say, I hate my job, you know, I hate my relationships, I don't have any pleasure in my life, whatever
+
+369
+00:44:21,440 --> 00:44:29,840
+those things are. And Marcia with the CBT lens would say, no problem. We can figure this all out.
+
+370
+00:44:29,840 --> 00:44:34,640
+We'll just, you know, take all of your problems. We'll put them on the list. We'll systematically
+
+371
+00:44:34,640 --> 00:44:41,280
+go through each of your problem one by one, which we'll solve. And we'll figure this out in no time.
+
+372
+00:44:42,000 --> 00:44:48,480
+And the way she reports it is that she did that feeling all the hope in the world and the reaction
+
+373
+00:44:48,480 --> 00:44:57,520
+that she got was totally unexpected, which is people saying, you have no idea. You have no idea
+
+374
+00:44:57,520 --> 00:45:04,080
+how bad my problems are. If you thought that these are things that are easy to solve,
+
+375
+00:45:04,080 --> 00:45:10,720
+you are sorely misunderstanding the depths of my problem. You clearly don't understand anything
+
+376
+00:45:10,720 --> 00:45:15,920
+about me or my situation if you think that these are things that could be easily solved.
+
+377
+00:45:16,720 --> 00:45:22,960
+And more than that, if these were easily solved, I would have solved them a long time ago. You have
+
+378
+00:45:22,960 --> 00:45:30,480
+no idea how much I'm suffering. You don't get it. So this iterative process was like, okay,
+
+379
+00:45:30,480 --> 00:45:38,880
+this blew up, right? Clearly, this isn't working the way I intended. And so the next piece of her
+
+380
+00:45:38,880 --> 00:45:46,080
+story is she would say, okay, that's not working. I need to figure out what's going to work. And she
+
+381
+00:45:46,080 --> 00:45:51,600
+said, she took kind of the other perspective and she said, okay, what they're telling me is that I
+
+382
+00:45:51,600 --> 00:45:57,920
+don't understand the depths of their problems. And maybe that's true. And so what I need to do now
+
+383
+00:45:58,640 --> 00:46:05,440
+is tell them and work with them to completely understand. And so she would go into her sessions
+
+384
+00:46:05,440 --> 00:46:13,440
+with, again, people who are chronically suicidal and say, you're right, your problems
+
+385
+00:46:14,160 --> 00:46:22,240
+are too difficult. You've had long standing experiences with trauma. You've been treated
+
+386
+00:46:22,240 --> 00:46:29,920
+terribly your whole life. You have a number of obstacles that may prevent you from getting the
+
+387
+00:46:29,920 --> 00:46:38,800
+job that you want or the relationship that you want. And perhaps what we need to do is work on
+
+388
+00:46:38,800 --> 00:46:50,560
+accepting your life as it is and finding joy in that, but accepting the life as you have it and
+
+389
+00:46:50,560 --> 00:46:57,520
+let go of trying to solve all these problems. And so that was her next step.
+
+390
+00:46:57,520 --> 00:47:02,320
+So this is the epiphany that of course, anyone who's done DBT knows is radical acceptance.
+
+391
+00:47:03,440 --> 00:47:05,360
+Well, it wasn't quite labeled that yet.
+
+392
+00:47:05,360 --> 00:47:10,320
+No, no, no. Yeah. But was this kind of the precursor of what we would now describe as that?
+
+393
+00:47:12,160 --> 00:47:16,800
+Yes. I think it could be the precursor, but it was missing something because what she would say is
+
+394
+00:47:17,200 --> 00:47:23,680
+this is the acceptance piece. But when she tried it thinking, oh, this is what people want,
+
+395
+00:47:23,680 --> 00:47:29,600
+they're saying I can't solve their problems. And so clearly if I communicate that I understand
+
+396
+00:47:30,320 --> 00:47:37,200
+how difficult things are and we can work on accepting it, the reaction she got then was,
+
+397
+00:47:37,840 --> 00:47:38,720
+what? There's no hope.
+
+398
+00:47:39,440 --> 00:47:45,680
+How can you say that I should just accept this? My life is miserable as it currently is.
+
+399
+00:47:45,680 --> 00:47:52,400
+If I accept this, there's no hope. I should just die. Again, you don't possibly understand
+
+400
+00:47:52,400 --> 00:47:58,880
+everything. And this was the, DBT stands for dialectical behavior therapy. We can talk about
+
+401
+00:47:58,880 --> 00:48:06,880
+dialectics. But this is what turned into the idea of this primary dialectic in this treatment,
+
+402
+00:48:06,880 --> 00:48:15,200
+which is the dialectic between change and acceptance and figuring out how do I as a therapist,
+
+403
+00:48:15,200 --> 00:48:21,280
+as a treatment provider, straddle this line, synthesize this because both of these are
+
+404
+00:48:21,280 --> 00:48:26,400
+important. We need to work on solving the problems in your life that are causing you such distress
+
+405
+00:48:26,400 --> 00:48:34,080
+and misery. And we also need to work on accepting your life as it is and accepting the things that
+
+406
+00:48:34,080 --> 00:48:42,320
+we can't change about our lives. But how do we do that in a way that is palatable to the person on
+
+407
+00:48:43,040 --> 00:48:51,120
+the other end, and in a way that conveys hope that things could change? And so it's about
+
+408
+00:48:51,120 --> 00:48:58,160
+synthesizing those two elements. And I think it's the synthesis of those elements that lead to
+
+409
+00:48:58,160 --> 00:49:03,280
+things like radical acceptance and other components of the treatment.
+
+410
+00:49:04,080 --> 00:49:09,760
+So this is probably a great time to double click on what dialectical means because it is,
+
+411
+00:49:10,320 --> 00:49:15,120
+I don't know, I'm not sure if it's innate to us, right? I think it requires some practice.
+
+412
+00:49:16,080 --> 00:49:20,480
+Yeah, I was listening to some interview the other day where somebody just simply said,
+
+413
+00:49:21,120 --> 00:49:26,800
+humans don't like contradiction. And I think that that's true. We don't like contradiction.
+
+414
+00:49:26,800 --> 00:49:34,800
+And so dialectics is really the, at least I'm, by the way, I'm no expert in dialectical philosophy
+
+415
+00:49:35,040 --> 00:49:42,000
+as, you know, as Marx initially wrote about it. I'm more a student of dialectics as it informs,
+
+416
+00:49:42,000 --> 00:49:50,480
+you know, my life and my practice. But dialectics is this understanding that there is contradiction
+
+417
+00:49:50,480 --> 00:50:02,160
+and opposition and tension in everything. And therefore, we can't avoid it. And the more we
+
+418
+00:50:03,120 --> 00:50:11,040
+try to avoid conflict and tension, the more likely it is that we're going to see conflict and tension.
+
+419
+00:50:11,840 --> 00:50:19,120
+And so dialectics is at least, again, in the practice of DBT is the practice of recognizing
+
+420
+00:50:19,920 --> 00:50:27,520
+tensions as they exist, polarization as it comes up, and then striving to find
+
+421
+00:50:28,480 --> 00:50:35,760
+what is valid about both sides, or both sides of the tension and seeking to find a synthesis,
+
+422
+00:50:36,560 --> 00:50:45,360
+some new argument or new statement that recognizes and adopts the validity in the two opposing sides.
+
+423
+00:50:46,800 --> 00:50:51,200
+This might be a reasonable time to jump forward. And then I want to come back because I love this
+
+424
+00:50:51,200 --> 00:50:56,640
+sort of story. But if you've, if a person listening to this or watching this has ever kind of gone
+
+425
+00:50:56,720 --> 00:51:00,400
+through DBT, then they're familiar with the workbook, right? You're doing this in a very
+
+426
+00:51:00,400 --> 00:51:06,800
+structured way. And one of the first images in the workbook is the two intersecting circles of
+
+427
+00:51:06,800 --> 00:51:11,280
+wise mind and emotional mind. Do you? Emotional mind and reasonable.
+
+428
+00:51:11,280 --> 00:51:16,720
+Sorry, reasonable mind. Yeah. Wise mind being the intersection. Yeah. So maybe use, you want,
+
+429
+00:51:16,720 --> 00:51:22,080
+can we use that as an example of dialectical synthesis where you have those two minds
+
+430
+00:51:23,040 --> 00:51:27,520
+intersecting and then that union or intersection of them being the wise mind and how do we find
+
+431
+00:51:27,520 --> 00:51:32,320
+those? But again, contrasting it with sort of emotional and reasonable mind.
+
+432
+00:51:33,200 --> 00:51:40,720
+Yeah. So I think you, that's exactly right. That is an illustration, a key illustration
+
+433
+00:51:40,720 --> 00:51:49,280
+of dialectics at play is this notion of wise mind and the way we, and wise mind being a skill in the
+
+434
+00:51:49,360 --> 00:51:59,760
+workbook that we teach people as something that we are striving to access wise mind more often
+
+435
+00:51:59,760 --> 00:52:08,080
+in our lives and that accessing wise mind involves synthesizing these two tensions
+
+436
+00:52:08,080 --> 00:52:18,160
+potentially or polarizations known as emotion mind and reasonable mind. So we emotion mind is
+
+437
+00:52:18,160 --> 00:52:23,760
+the idea that a state in which we are completely controlled by our emotions.
+
+438
+00:52:25,440 --> 00:52:32,800
+So when we're angry, it could be lashing out at somebody. It could be engaging in physical
+
+439
+00:52:32,800 --> 00:52:38,080
+violence. It could be threatening physical violence. It could be slamming doors. It could
+
+440
+00:52:38,080 --> 00:52:42,560
+be quitting things, you know, all the things that we might do when we're, when we're being controlled
+
+441
+00:52:42,560 --> 00:52:48,640
+by the anger we're experiencing. Reasonable mind on the other hand is when we're controlled kind
+
+442
+00:52:48,640 --> 00:52:58,000
+of by facts and logic and emotions aren't really, we're not aware of or experiencing any strong
+
+443
+00:52:58,000 --> 00:53:04,080
+emotion and you could, you could imagine or you can envision the tension that exists between these
+
+444
+00:53:04,080 --> 00:53:10,480
+two. If you've ever been in emotion mind having an argument with somebody in reasonable mind
+
+445
+00:53:11,120 --> 00:53:18,720
+or vice versa because that happens a lot. I think it has happened in my marriage. It probably happens
+
+446
+00:53:18,720 --> 00:53:24,880
+a lot across many people's marriages where one person is in emotion mind, the other person is
+
+447
+00:53:24,880 --> 00:53:33,040
+in reasonable mind and that's a recipe for you know really strong conflict. So wise mind is saying
+
+448
+00:53:33,040 --> 00:53:44,240
+okay what can I, what's valid about the emotion that I'm experiencing here? What's valid about
+
+449
+00:53:44,240 --> 00:53:49,040
+reasonable mind that I'm experiencing here and what's a synthesis? So a silly story that we
+
+450
+00:53:49,040 --> 00:53:56,720
+might tell to illustrate wise mind or emotion mind is you're walking down the street and you
+
+451
+00:53:56,720 --> 00:54:07,200
+pass by a pet store and in the window are a dozen puppies or if you're a cat person imagine
+
+452
+00:54:07,200 --> 00:54:16,480
+a dozen kittens okay. Emotion mind takes over and says get them all. I want all the puppies,
+
+453
+00:54:17,520 --> 00:54:21,680
+every single one of them because this one is cute for this reason, this one is cute for this other
+
+454
+00:54:21,680 --> 00:54:25,760
+reason. Oh my god they would be so happy together and I would be so happy if I had all these puppies
+
+455
+00:54:25,760 --> 00:54:35,440
+in my life I want them. So emotion mind says get all the puppies. Reasonable mind says oh my gosh
+
+456
+00:54:35,440 --> 00:54:43,280
+dogs are so much work. You have to walk them three times a day. They're expensive. You have to get
+
+457
+00:54:43,280 --> 00:54:52,640
+all this equipment. You have to get a veterinarian. You have to restructure your time so that you
+
+458
+00:54:52,640 --> 00:54:57,680
+spend more time with the dogs or not. You have to you know reimagine your whole life around that.
+
+459
+00:54:57,680 --> 00:55:06,080
+So reasonable mind might say no puppies. Puppies are never for you right. So what does wise mind
+
+460
+00:55:06,080 --> 00:55:15,440
+say? Well what's great about even teaching this as an idea is that wise mind is not a synthesis,
+
+461
+00:55:15,440 --> 00:55:22,000
+a dialectical synthesis, is not a compromise. It's not a halfway point because if I were to say that
+
+462
+00:55:22,000 --> 00:55:27,840
+then wise mind would say get six of the puppies if there are 12 right. And that makes no sense
+
+463
+00:55:28,560 --> 00:55:37,920
+as a compromise or as a synthesis because it's not seeing the validity in both sides. So what would
+
+464
+00:55:37,920 --> 00:55:43,440
+wise mind be? That would vary depending on the person because for some people a wise mind decision
+
+465
+00:55:43,440 --> 00:55:50,640
+would be to bring home a puppy. For other people a wise mind decision would be to say now is not
+
+466
+00:55:50,720 --> 00:55:56,720
+the right time for me to have a puppy but I am going to do x, y, and z in order to increase
+
+467
+00:55:56,720 --> 00:56:03,120
+the likelihood that I can have a puppy in the future. Wise mind might be I have the perfect
+
+468
+00:56:03,120 --> 00:56:08,560
+scenario now I can bring home two puppies and we will live happily ever after. So it's going to
+
+469
+00:56:08,560 --> 00:56:17,040
+vary but the idea of finding this synthesis is about seeing what's valid and true about both ends
+
+470
+00:56:17,200 --> 00:56:23,280
+of the or both of the sides and then trying to figure out what a synthesis could be.
+
+471
+00:56:24,960 --> 00:56:30,640
+Does that make sense? It does it really does of course and I think one of the things I'm struck
+
+472
+00:56:30,640 --> 00:56:38,960
+by when I look at the notebook, the workbook that we use in dbt is how much is in it. And
+
+473
+00:56:39,920 --> 00:56:46,560
+to think that this is sort of the work of largely one individual and obviously it's been iterated on
+
+474
+00:56:46,560 --> 00:56:53,760
+but it's really kind of remarkable. So can we kind of go back to the story of some of the earliest
+
+475
+00:56:53,760 --> 00:57:03,840
+insights she had treating some of the most in need patients and how she basically then realized
+
+476
+00:57:04,400 --> 00:57:10,160
+she couldn't do what she was doing under the umbrella of cbt and needed to make this change
+
+477
+00:57:10,160 --> 00:57:15,680
+from the cognitive to the dialectical and create another form of behavioral therapy which again is
+
+478
+00:57:16,320 --> 00:57:23,600
+it's really a kind of remarkable thing to realize given how relatively recent this is. I mean this
+
+479
+00:57:23,600 --> 00:57:29,840
+is something that's happened in the last 30 or 40 years. Agreed yeah so I think you know getting back
+
+480
+00:57:29,840 --> 00:57:37,840
+to where she was in terms of realizing that you know if I push for change too hard disaster happens,
+
+481
+00:57:37,840 --> 00:57:46,160
+if I push for acceptance too hard disaster happens, what can I do to you know find the middle,
+
+482
+00:57:46,160 --> 00:57:54,160
+how do I balance these two things. And again part of the the lore of the story of dbt was that she
+
+483
+00:57:54,160 --> 00:58:03,280
+was writing about this idea of balancing change and acceptance and these were the days where she
+
+484
+00:58:03,280 --> 00:58:08,800
+would you know write up notes either handwritten or on a typewriter and hand them over to a
+
+485
+00:58:08,800 --> 00:58:16,800
+secretary who would you know type them up or revise them and her story is that the person her
+
+486
+00:58:16,800 --> 00:58:24,080
+her assistant that was working on typing this all up came to her one day and said my husband is a
+
+487
+00:58:24,080 --> 00:58:32,560
+graduate student in philosophy and we were looking at this and we think that what you're describing
+
+488
+00:58:32,560 --> 00:58:38,720
+actually is something that he he studies and is called dialectics. So according to Marcia she
+
+489
+00:58:38,720 --> 00:58:47,200
+didn't know anything about dialectical philosophy as she was iterating this treatment and this was
+
+490
+00:58:47,200 --> 00:58:52,560
+one of those happenstance moments that that came to her and then of course she sought out readings
+
+491
+00:58:53,680 --> 00:59:01,040
+descriptions of dialectical philosophy and saw yes that is exactly what she's thinking and that
+
+492
+00:59:01,040 --> 00:59:11,680
+dialectical philosophy informs a lot of science and scientific thought and so actually worked
+
+493
+00:59:11,680 --> 00:59:19,280
+well within the the paradigm of you know the development of of cognitive behavioral treatments.
+
+494
+00:59:19,840 --> 00:59:28,240
+So so that's where you know dbt started to take form however if if you're familiar with her books
+
+495
+00:59:28,240 --> 00:59:35,120
+you know that her original treatment manual that was published in 1993 including the and and also
+
+496
+00:59:35,120 --> 00:59:40,800
+the original skills workbook that was published in 1993 says on the cover cognitive behavioral
+
+497
+00:59:40,800 --> 00:59:46,480
+therapy for born personality disorder yeah the the newer edition says dialectical because she
+
+498
+00:59:46,480 --> 00:59:52,320
+was told at the time by the publishers that nobody will know what this means and nobody will want it
+
+499
+00:59:53,280 --> 00:59:59,680
+and I think that may be true it's it's possible that if it was called dialectical behavior therapy
+
+500
+00:59:59,680 --> 01:00:07,920
+on the cover of the book back then it would not have actually been as popular as it is now. Now
+
+501
+01:00:07,920 --> 01:00:14,400
+of course we can put dialectical behavior therapy on the cover of any book and and people will see
+
+502
+01:00:14,400 --> 01:00:21,680
+the value in it but I don't think that was true then. When did she develop kind of her own sort
+
+503
+01:00:21,680 --> 01:00:27,840
+of interest in zen philosophy and the practice of mindfulness which also is a very important
+
+504
+01:00:29,200 --> 01:00:36,240
+muscle that one kind of develops as they move along their dbt journey was this something that
+
+505
+01:00:36,240 --> 01:00:44,240
+had been more long-standing with her? So I think that this was all happening around at the same
+
+506
+01:00:44,240 --> 01:00:56,880
+time that she was her own interest in you know Marcia grew up in a catholic family identified as a
+
+507
+01:00:56,880 --> 01:01:04,400
+very religious person identified as saying that at one point she thought she was going to become a
+
+508
+01:01:04,400 --> 01:01:13,200
+nun and so this was a large part of her upbringing when and also was part of that spiritual
+
+509
+01:01:13,200 --> 01:01:21,600
+experience that she had personally but I think she also realized that and another reason by the
+
+510
+01:01:21,600 --> 01:01:27,440
+way that she didn't want to come public with her story early on is that she didn't want the lesson
+
+511
+01:01:27,440 --> 01:01:34,800
+to be oh if you want to get better you also have to have a spiritual experience. Instead what she
+
+512
+01:01:34,800 --> 01:01:47,040
+wanted to figure out was how do I operationalize for lack of a better word this spiritual experience
+
+513
+01:01:47,040 --> 01:01:55,840
+so that other people could experience it as well and so I think that was going on in her mind
+
+514
+01:01:55,920 --> 01:02:05,440
+at the same time that she was interested in her own spiritual development and learned more about
+
+515
+01:02:05,440 --> 01:02:13,200
+Zen and became a student of Zen Buddhism and saw that they all connected and came together because
+
+516
+01:02:13,200 --> 01:02:21,680
+ultimately how she translated that personal experience is into this idea that you mentioned
+
+517
+01:02:21,680 --> 01:02:32,480
+earlier of radical acceptance can you radically accept this moment the situation yourself exactly
+
+518
+01:02:32,480 --> 01:02:41,600
+as it is and if you can experience that radical and complete and total acceptance you can experience
+
+519
+01:02:42,560 --> 01:02:49,680
+joy you can crack open the moment of joy she would say. Yeah I mean there are some things where
+
+520
+01:02:50,000 --> 01:02:57,840
+Shireen that's I get it right like you're stuck in traffic right so you're supposed to be going
+
+521
+01:02:57,840 --> 01:03:01,120
+somewhere and let's pretend it's someplace that matters right it's not just like a dinner
+
+522
+01:03:01,120 --> 01:03:06,480
+reservation let's say it's your kids sporting event or you go into the airport and it's a
+
+523
+01:03:06,480 --> 01:03:11,440
+flight and if you miss it it's going to really wreck things up and there's nothing you can do
+
+524
+01:03:11,440 --> 01:03:14,560
+about it you're stuck in traffic there's an accident a mile ahead and that this is the way
+
+525
+01:03:14,560 --> 01:03:22,240
+it's going to be walk me through what you would say you know your your patient now is in the car
+
+526
+01:03:22,240 --> 01:03:26,720
+and you're sitting with them in the car and they're understandably getting very flustered at the
+
+527
+01:03:26,720 --> 01:03:33,920
+situation walk me through radical acceptance in that situation how are you helping that person
+
+528
+01:03:34,560 --> 01:03:39,280
+go through the you know can you fix this problem are you accepting this problem can you change like
+
+529
+01:03:39,280 --> 01:03:45,520
+going through all of those layers for that specific type of problem yes and I've been in
+
+530
+01:03:45,520 --> 01:03:57,360
+that problem myself so I understand yeah so you know um what I would say as a precursor is that
+
+531
+01:03:58,320 --> 01:04:06,080
+when we're experiencing suffering however you define that suffering if you were to look at it
+
+532
+01:04:06,080 --> 01:04:12,640
+more deeply you would say the vast majority of the time that we're experiencing suffering
+
+533
+01:04:12,640 --> 01:04:20,320
+it's because we're thinking about something that has already happened ruminating um wishing it
+
+534
+01:04:20,320 --> 01:04:26,880
+hadn't happened mulling something over whatever it might be or you're thinking about something
+
+535
+01:04:26,880 --> 01:04:33,760
+that may happen in the future and that actually if you just experience this one moment
+
+536
+01:04:34,640 --> 01:04:43,840
+uh and let go of the past and the future that alone might reduce your suffering a ton
+
+537
+01:04:43,840 --> 01:04:49,280
+but we could say you might experience pain in this moment because this moment might be painful
+
+538
+01:04:49,280 --> 01:04:54,960
+but we're not adding on we're not adding on all of these things that actually increase our suffering
+
+539
+01:04:55,680 --> 01:05:07,600
+so in this moment when you are stuck in traffic you can't undo the decisions that you made that
+
+540
+01:05:07,600 --> 01:05:12,960
+got you to this point right because of course we're saying things like oh if only I had taken
+
+541
+01:05:12,960 --> 01:05:19,360
+this other road or if only I had left 15 minutes early or we think all these stupid people on the
+
+542
+01:05:19,360 --> 01:05:26,000
+road if only they had done something different right so that's those are all fantasy thoughts
+
+543
+01:05:26,000 --> 01:05:33,680
+because they're all not reality of this moment so I would say how do we reduce our suffering in this
+
+544
+01:05:33,680 --> 01:05:42,960
+moment is to say I can't change any of that for today in this moment this is what it is
+
+545
+01:05:43,680 --> 01:05:49,680
+um and what happens you'll see actually I'm holding my palms up right now as I'm talking
+
+546
+01:05:49,680 --> 01:05:56,160
+because I associate holding my palms up with this idea of willingly accepting this moment which is
+
+547
+01:05:56,960 --> 01:06:04,800
+uh this is the moment that I'm in yeah it's sort of a surrender posture yeah yeah in a way it's
+
+548
+01:06:04,800 --> 01:06:10,880
+the surrendering willing this is the moment I'm in and what happens if I just just as though it's
+
+549
+01:06:10,880 --> 01:06:18,240
+easy but what happens if I accept that right now there is nothing I can do to change this
+
+550
+01:06:19,120 --> 01:06:26,560
+right now I think the other piece to this is and this is why it's not just about acceptance
+
+551
+01:06:26,560 --> 01:06:34,240
+because I would say if this is something that happens a lot right if you often find yourself
+
+552
+01:06:34,240 --> 01:06:40,240
+in situations whether it's traffic or something running late or something like that then we
+
+553
+01:06:40,240 --> 01:06:49,360
+absolutely want to figure out how to prevent this from happening as much in the future but in this
+
+554
+01:06:49,360 --> 01:06:58,000
+moment when you're there you can't do that so in other words in the moment of crisis you don't
+
+555
+01:06:58,000 --> 01:07:05,040
+really want to be problem solving around how can I avoid this the next time how do I avoid this
+
+556
+01:07:05,040 --> 01:07:11,520
+crisis again in the future when I'm at a 100 or a 90 of distress I'm not going to be able to
+
+557
+01:07:11,520 --> 01:07:20,400
+effectively do that now obviously so much of what you're saying sounds very familiar to anybody who
+
+558
+01:07:20,400 --> 01:07:26,240
+has practiced mindfulness or vipassana or one of its derivatives in forms of meditation
+
+559
+01:07:28,480 --> 01:07:31,840
+we've had a couple of podcasts that have sort of gone into that and
+
+560
+01:07:32,800 --> 01:07:42,320
+you know when the goal of the practice is to help you identify thoughts and to separate you from
+
+561
+01:07:42,320 --> 01:07:50,160
+these thoughts and so in this individual I mean there's probably nothing as you say in this exact
+
+562
+01:07:50,160 --> 01:07:56,320
+moment that is particularly unbearable but the thoughts are unbearable if you're if you let them
+
+563
+01:07:56,320 --> 01:08:00,880
+go right which is I'm gonna get to the airport I'm gonna miss my flight then I'm gonna have to wait
+
+564
+01:08:01,280 --> 01:08:04,560
+for another flight and I'm probably gonna miss that too or they're not gonna be a good seat or
+
+565
+01:08:04,560 --> 01:08:08,400
+whatever and then I'm gonna not get to where I'm going and maybe the whole trip's gonna da da da
+
+566
+01:08:08,400 --> 01:08:14,720
+and and so what is what do you say to the person who says okay Shireen I understand that those
+
+567
+01:08:14,720 --> 01:08:21,840
+thoughts which are all future are not happening to me now and I can just sit here right now in
+
+568
+01:08:21,840 --> 01:08:27,200
+this car and frankly I could turn on music and enjoy the music for the moment but that doesn't
+
+569
+01:08:27,280 --> 01:08:30,960
+change the fact that that's going to happen it doesn't change the fact that in an hour I am going
+
+570
+01:08:30,960 --> 01:08:35,760
+to get to the airport I am going to have missed my flight what do you say to the person when they
+
+571
+01:08:36,400 --> 01:08:42,640
+they acknowledge that I could probably take myself down from 100 to 50 by being present in the moment
+
+572
+01:08:43,280 --> 01:08:48,000
+but will I get back to 100 when I get to the airport when I realized that I now have to deal
+
+573
+01:08:48,000 --> 01:08:54,880
+with this mess possibly but that's a new moment now now you're in a new moment and a new situation
+
+574
+01:08:54,880 --> 01:09:02,480
+so part of it depends on well what's your what's your goal so when you're experiencing distress
+
+575
+01:09:02,480 --> 01:09:08,240
+in that moment of being stuck in traffic and not having any control about that what's your goal
+
+576
+01:09:09,360 --> 01:09:16,240
+if it's to get to the airport in two minutes sorry that's not a realistic goal we're gonna have to
+
+577
+01:09:16,240 --> 01:09:21,920
+let that one go if it's to problem solve what will happen when you get to the airport is there
+
+578
+01:09:21,920 --> 01:09:28,160
+something that you can do while you're in the car you know possibly but if your goal is to how do I
+
+579
+01:09:28,160 --> 01:09:35,920
+make this moment more bearable because I can't undo anything then I think we have some other
+
+580
+01:09:35,920 --> 01:09:42,640
+options available to us which could be distracting you know doing something like music or
+
+581
+01:09:43,680 --> 01:09:50,000
+or some other forms of distraction that you could safely do in the context of your car
+
+582
+01:09:50,720 --> 01:09:56,560
+okay so now let's look at kind of the other end of the spectrum where I think it becomes even
+
+583
+01:09:56,560 --> 01:10:01,280
+harder to do this so I'll think of two examples I think of an individual who receives a terminal
+
+584
+01:10:01,280 --> 01:10:07,680
+diagnosis so they're they're diagnosed with a cancer for example that and let's let's make this
+
+585
+01:10:07,680 --> 01:10:11,920
+even more tragic right I think anybody dying of cancer is tragic but now it's someone your age
+
+586
+01:10:12,000 --> 01:10:20,720
+or my age who's you know dying decades too soon but they're basically told and and it's accurate
+
+587
+01:10:20,720 --> 01:10:27,040
+that look in six months you're not going to be alive so in that sense they're they're you know
+
+588
+01:10:27,040 --> 01:10:32,240
+there's they're mourning the loss of their life and who they're going to be away from and then
+
+589
+01:10:32,240 --> 01:10:38,400
+there's another example which is very fresh in my mind right now because you know a very close
+
+590
+01:10:38,400 --> 01:10:44,480
+friend of my wife's daughter drowned a year ago and and because we're coming up to the one-year
+
+591
+01:10:44,480 --> 01:10:52,800
+anniversary of that it's it's all you know she's reliving a lot of this so you know it's hard for
+
+592
+01:10:52,800 --> 01:10:58,160
+me to imagine what she's going through and what her husband is going through but they can't there's
+
+593
+01:10:58,160 --> 01:11:05,840
+no there's there's nothing that will undo that there so so maybe use those two examples as two
+
+594
+01:11:05,840 --> 01:11:14,560
+of the the most difficult examples of how can radical acceptance allow the a this this person
+
+595
+01:11:14,560 --> 01:11:21,040
+who's who's going to die far too soon to come to grips with that and maybe have a chance at
+
+596
+01:11:21,760 --> 01:11:29,040
+having the best six months that they can have versus not you know you know and then perhaps
+
+597
+01:11:29,040 --> 01:11:34,160
+even more tragically the you know a parent losing a child is you would sort of hold that up as about
+
+598
+01:11:34,160 --> 01:11:41,040
+as tragic as anything can go where nothing is ever going to bring that child back and yes
+
+599
+01:11:41,040 --> 01:11:45,120
+cognitively you can say look you still have other children and you have to be a great parent for
+
+600
+01:11:45,120 --> 01:11:51,440
+them you can't allow yourself to you know you can go through all of that stuff but like I don't know
+
+601
+01:11:51,440 --> 01:11:56,160
+how I would cope with that I don't think I could I'm not I'm not sure so yeah now let's go from the
+
+602
+01:11:56,160 --> 01:12:06,320
+sort of banal of traffic to the the really heavy stuff of life yeah easy right so uh I mean one
+
+603
+01:12:07,760 --> 01:12:14,000
+I've thought about both of these things um a lot or both of these circumstances a lot and I think
+
+604
+01:12:15,920 --> 01:12:24,640
+one of the um misunderstandings about acceptance is somehow this idea that it if you accept
+
+605
+01:12:24,640 --> 01:12:32,880
+something you don't experience pain and so I want to differentiate that uh life is full of pain no
+
+606
+01:12:32,880 --> 01:12:41,120
+matter how zen and mindful you are you're going to experience pain and a lot of pain and we're not
+
+607
+01:12:41,120 --> 01:12:47,600
+trying to eradicate pain because actually without pain and I don't mean you know physical pain I
+
+608
+01:12:47,600 --> 01:12:52,880
+mean emotional pain but it could be both but without that we would have other problems right
+
+609
+01:12:52,880 --> 01:13:02,800
+if we did not experience um pain as you hear about your friend's daughter that would be a
+
+610
+01:13:02,800 --> 01:13:10,240
+problem for you in a different way so we need to understand that that pain is going to be a part
+
+611
+01:13:10,240 --> 01:13:14,640
+of our lives and actually we cause a lot of problems for ourselves when we try to escape
+
+612
+01:13:14,640 --> 01:13:21,760
+the experience of pain so that's one thing about um reality radical acceptance that I want to talk
+
+613
+01:13:21,760 --> 01:13:28,080
+about but the other is when when you ask questions like that like how can we ask somebody to radically
+
+614
+01:13:28,080 --> 01:13:37,280
+accept this I would answer in part by saying what's the alternative the alternative is refusing to
+
+615
+01:13:37,280 --> 01:13:45,440
+accept how how does that work how how do you do that um how and how long can you sustain that for
+
+616
+01:13:45,440 --> 01:13:51,280
+so I would actually argue that the refusal to accept or the putting your head in the sand
+
+617
+01:13:52,000 --> 01:14:02,720
+or the denying reality actually ends up taking a lot more mental resource and ultimately causing
+
+618
+01:14:02,720 --> 01:14:11,280
+more problems for you in the long run and that said from a dbt perspective when we when we talk
+
+619
+01:14:11,280 --> 01:14:16,560
+about practicing the skill of radical acceptance we have another expression called turning the mind
+
+620
+01:14:17,200 --> 01:14:26,240
+which is referring to the fact that um practicing radical acceptance involves a very active process
+
+621
+01:14:26,880 --> 01:14:32,640
+of continuously turning your mind towards acceptance the the metaphor is that you're at
+
+622
+01:14:32,640 --> 01:14:38,640
+a fork in the road and one road is acceptance and another road is is refusal to accept you're going
+
+623
+01:14:38,640 --> 01:14:46,000
+to come across the fork in the road possibly multiple times a minute and what does it look
+
+624
+01:14:46,000 --> 01:14:52,640
+like for you to say I'm going to actively and willingly choose the road of radical acceptance
+
+625
+01:14:52,640 --> 01:15:00,880
+how can I turn my mind my body my soul towards acceptance and for me a lot of it is actually
+
+626
+01:15:00,880 --> 01:15:05,680
+asking myself that question of what's the alternative what other choices do I have
+
+627
+01:15:06,560 --> 01:15:13,840
+and recognizing that more suffering comes from refusing to accept more often the fact that it's
+
+628
+01:15:13,840 --> 01:15:19,360
+referred to as radical acceptance versus acceptance I think kind of highlights that that it it's not
+
+629
+01:15:19,360 --> 01:15:25,120
+easy it's not it's not a decision it's not like you would sit down with my wife's friend have this
+
+630
+01:15:25,120 --> 01:15:31,120
+discussion once say what's the alternative I know this is awful but in the long run this is going to
+
+631
+01:15:31,120 --> 01:15:37,680
+produce more happiness for you and your family and for her to say yep I think that's right thanks
+
+632
+01:15:38,800 --> 01:15:45,760
+like it's no it's not it's to your point every minute of every day for god knows how many
+
+633
+01:15:45,760 --> 01:15:54,800
+months and years you're confronted with that and if I speak for myself there's a lot of uh what's
+
+634
+01:15:54,800 --> 01:16:00,720
+the what's the term uh backsliding right there's a lot of no I don't want to accept this today
+
+635
+01:16:00,720 --> 01:16:04,880
+like I'm not I don't accept this this is I'm angry about this I want to pout and have a little
+
+636
+01:16:04,880 --> 01:16:10,960
+pity party about this um and then maybe I experienced that and I realized that wasn't
+
+637
+01:16:10,960 --> 01:16:17,680
+very productive because now I feel actually worse and so um you know one of the things about dbt
+
+638
+01:16:17,680 --> 01:16:22,080
+that so I you know we were introduced through Andy White which is who I work with and I just I just
+
+639
+01:16:22,080 --> 01:16:27,440
+think the world of Andy one of the things about dbt that for me makes it a wonderful system
+
+640
+01:16:28,240 --> 01:16:34,000
+is that you do work like you you have you you you write you do you have homework you
+
+641
+01:16:34,880 --> 01:16:41,360
+you you have to talk you know write out your emotions and your decisions and the
+
+642
+01:16:42,320 --> 01:16:49,520
+the trees like you know if you feel this do you do this and I don't know I how deliberate was that
+
+643
+01:16:49,520 --> 01:16:54,880
+in in Marsha's mind as a system I've never done cbt so I don't know if cbt has a similar workbook
+
+644
+01:16:54,880 --> 01:16:59,680
+and she's just modifying it is that is that something that's been modified from other systems
+
+645
+01:17:00,960 --> 01:17:08,160
+certainly cbt is associated with doing homework doing work in between sessions
+
+646
+01:17:10,080 --> 01:17:16,080
+more standard cognitive therapy is associated with doing worksheets about your thoughts what
+
+647
+01:17:16,080 --> 01:17:22,080
+thoughts you have what the evidence for your thoughts are that sort of thing and so I think
+
+648
+01:17:22,080 --> 01:17:29,440
+doing work during worksheets not shying away from the term homework as part of the treatment
+
+649
+01:17:29,440 --> 01:17:35,520
+is very consistent with the cbt model now what I will say is um
+
+650
+01:17:37,680 --> 01:17:41,920
+you just reminded me about this based on something you said is that one of the
+
+651
+01:17:43,360 --> 01:17:51,120
+assumptions about borderline personality disorder from the dbt lens is that this is uh we use a
+
+652
+01:17:51,120 --> 01:17:58,240
+skills deficit model which is to say that we believe that people who end up with the constellation
+
+653
+01:17:58,240 --> 01:18:04,480
+of problems associated with borderline personality disorder have an absence of certain skills and
+
+654
+01:18:04,480 --> 01:18:11,440
+skillful behavior in their lives and that absence could be a result of never having been taught it
+
+655
+01:18:11,440 --> 01:18:17,680
+in the first place or having had effective behaviors been punished out of them by their
+
+656
+01:18:17,680 --> 01:18:22,640
+environment this is the environmental piece that we're talking about but they they don't have
+
+657
+01:18:24,080 --> 01:18:32,480
+we all you know have certain deficits in in some air in some skillful areas and so the work
+
+658
+01:18:32,480 --> 01:18:37,600
+another one i would just add to that it's so yeah the skills have never been modeled for you
+
+659
+01:18:37,600 --> 01:18:42,640
+you've done them correctly and been punished for them i think a bigger one might be you've done
+
+660
+01:18:42,640 --> 01:18:48,640
+them incorrectly and never been corrected yeah that's a good one too yeah absolutely so you
+
+661
+01:18:48,640 --> 01:18:55,360
+built all the muscle memory doing it wrong your whole life and you didn't have parents there to
+
+662
+01:18:55,360 --> 01:19:02,480
+sort of say hey that's not how you do it this do it this way yeah and it's a lot harder to unlearn
+
+663
+01:19:02,480 --> 01:19:08,400
+a behavior than it is to learn a new behavior uh and that we know that as a phenomenon so
+
+664
+01:19:09,360 --> 01:19:16,000
+so marcia developed this you know this workbook what we refer to as the skills training manual
+
+665
+01:19:16,000 --> 01:19:22,800
+that's part of of the treatment of dbt and perhaps what dbt is probably most known for
+
+666
+01:19:23,680 --> 01:19:30,560
+more broadly speaking are the skills that are part of it but that these skills deficits are
+
+667
+01:19:30,560 --> 01:19:36,480
+thought to exist in in four different domains or five different domains actually mindfulness
+
+668
+01:19:37,200 --> 01:19:42,000
+so when we say someone has a deficit in mindfulness it's not that we're referring to anybody who
+
+669
+01:19:42,000 --> 01:19:48,400
+doesn't practice zen as having a mindfulness deficit but it's a deficit in excuse me a deficit
+
+670
+01:19:48,400 --> 01:19:58,560
+in the capacity to be aware of the present moment basically another domain in which people have
+
+671
+01:19:58,560 --> 01:20:05,920
+deficits is interpersonal effectiveness as i go through this you'll see everybody has deficits in
+
+672
+01:20:05,920 --> 01:20:10,640
+in all of these areas at different times and i think again that's that's part of the beauty of dbt
+
+673
+01:20:10,640 --> 01:20:15,920
+is that it can help so many people so interpersonal effectiveness which could mean conflict with others
+
+674
+01:20:15,920 --> 01:20:21,760
+but also could mean deficits in in knowing how to ask for something effectively how to say no
+
+675
+01:20:21,760 --> 01:20:30,720
+effectively emotion regulation deficits is the third domain so deficits in knowing how to label
+
+676
+01:20:30,720 --> 01:20:36,320
+your emotions what to do with emotions when you have them how to prevent having intense and extreme
+
+677
+01:20:36,320 --> 01:20:42,720
+emotions how to change emotions can't remember if i said that uh and then a fourth domain is is
+
+678
+01:20:42,720 --> 01:20:50,560
+deficits in distress tolerance how do you tolerate really stressful and distressing situations without
+
+679
+01:20:50,560 --> 01:20:57,280
+doing anything that to make the situation worse and then the fifth area that is not talked about
+
+680
+01:20:57,280 --> 01:21:02,160
+as much though i can certainly talk about it if that'd be helpful is this idea of self-management
+
+681
+01:21:02,160 --> 01:21:08,160
+deficits and self-management which has to do with um being able to do things you don't want to do
+
+682
+01:21:08,720 --> 01:21:15,600
+you know broadly speaking you know how some people can get up every morning at six o'clock
+
+683
+01:21:15,600 --> 01:21:21,360
+and go exercise and eat a healthy breakfast uh and you know go to work while other people
+
+684
+01:21:22,240 --> 01:21:29,600
+snooze their alarm eight to twelve times you know haphazardly eat breakfast sometimes um
+
+685
+01:21:30,560 --> 01:21:35,840
+get to work late you know those are sorts of things that we might uh say fall into this kind
+
+686
+01:21:35,840 --> 01:21:43,440
+of self-management domain and so dbt is designed as a treatment package to teach people the skills
+
+687
+01:21:43,440 --> 01:21:50,000
+to overcome deficits in these different domain so i actually wasn't aware of the fifth i was
+
+688
+01:21:50,000 --> 01:21:56,320
+really only aware of the four is that fifth one um is it kind of a more recent addition
+
+689
+01:21:57,200 --> 01:22:04,160
+so it actually is in the original treatment manual in the 1993 um text that she put out but
+
+690
+01:22:04,160 --> 01:22:09,760
+her thinking was i don't need to create a whole other skills module for self-management because
+
+691
+01:22:09,760 --> 01:22:15,680
+dbt therapists are going to infuse this throughout their entire treatment and i think this might have
+
+692
+01:22:15,680 --> 01:22:20,080
+been at the time a little bit of a missed opportunity because i don't think she realized
+
+693
+01:22:20,080 --> 01:22:27,120
+that actually a lot of clinicians don't know how to do that um very well marcia was thinking that
+
+694
+01:22:27,120 --> 01:22:33,120
+actually this is where behaviorism comes in it's teaching people principles of of behaviorism so
+
+695
+01:22:33,120 --> 01:22:38,960
+you don't see it in the original skills manual and you don't necessarily see it in the new skills
+
+696
+01:22:38,960 --> 01:22:44,560
+manual or what i refer to as the new skills manual unless you look because where you would see it now
+
+697
+01:22:44,560 --> 01:22:50,160
+is in the set of skills that are referred to as the walking the middle path skills which are
+
+698
+01:22:50,160 --> 01:22:59,280
+which actually came out of um the first adaptation of dbt for adolescents and their families um and
+
+699
+01:22:59,280 --> 01:23:05,920
+jill rathis and alec miller who along with marcia created the adolescent version of dbt
+
+700
+01:23:07,360 --> 01:23:13,520
+took a lot of these principles of the self-management skills and created this fifth module
+
+701
+01:23:13,520 --> 01:23:19,840
+of dbt skills called walking the middle path in which they teach adolescents and their caregivers
+
+702
+01:23:19,840 --> 01:23:27,360
+their parents these skills about how to how to manage your behaviors how to learn behaviors um
+
+703
+01:23:27,360 --> 01:23:34,720
+and to be more effective more broadly you know just kind of going back to the origin of dbt
+
+704
+01:23:35,360 --> 01:23:44,400
+around basically um a modified tool to help some of the people who are suffering the absolute most
+
+705
+01:23:44,400 --> 01:23:49,280
+right if you think somewhere in the back of marcia's mind it probably wasn't just how do i
+
+706
+01:23:49,840 --> 01:23:56,880
+make cbt better to handle the most recalcitrant depression suicidal patients perhaps on some level
+
+707
+01:23:56,880 --> 01:24:03,040
+it was also bpd right which we didn't we kind of glossed over this but i'm guessing that cbt has
+
+708
+01:24:03,040 --> 01:24:07,920
+historically not been very successful for borderline personality disorder is that a fair statement
+
+709
+01:24:09,600 --> 01:24:15,440
+well i would say at the time that marcia was was doing this treatment development we didn't know
+
+710
+01:24:16,640 --> 01:24:24,480
+and i think the the general thought and they're actually there have been more studies that have
+
+711
+01:24:24,480 --> 01:24:29,200
+looked at whether the presence of borderline personality disorder interfered with
+
+712
+01:24:29,840 --> 01:24:35,600
+um outcomes for standard cbt and there's kind of mixed data on that and that some studies
+
+713
+01:24:35,600 --> 01:24:44,320
+showed that the presence of bpd did uh lead to worse outcomes in in some studies but what i
+
+714
+01:24:44,320 --> 01:24:51,600
+was going to say is that marcia didn't know one the reason that she gives for her pivot to borderline
+
+715
+01:24:52,480 --> 01:25:00,320
+personality disorder as a population of interest is that when she was first seeking research dollars
+
+716
+01:25:00,320 --> 01:25:09,040
+research grants to study the development of dbt and the you know to start to do randomized clinical
+
+717
+01:25:09,040 --> 01:25:18,800
+trials of dbt rather back in those days you could only get research grants from nih if you identified
+
+718
+01:25:18,800 --> 01:25:25,440
+a disorder of interest the way she tells it as oversimplified is that you know she was interested
+
+719
+01:25:25,440 --> 01:25:32,480
+in suicide and suicidal behaviors and at the time she thought her choices based on that behavior
+
+720
+01:25:32,480 --> 01:25:40,160
+was either depression or bpd and she said at the time she didn't want to do depression because
+
+721
+01:25:40,160 --> 01:25:46,400
+there were already so many um smart people doing depression research she wanted to do
+
+722
+01:25:47,280 --> 01:25:51,840
+go into an area where there weren't already a lot of people doing research in this area and that's
+
+723
+01:25:51,840 --> 01:25:56,720
+why she chose bpd again this is the story but of course i think there's more to it than that
+
+724
+01:25:56,720 --> 01:26:04,640
+because i think the you know her own experiences uh would lead one to assume that she also had
+
+725
+01:26:04,640 --> 01:26:10,800
+specific interest in a motion dysregulation piece that goes along with bpd and doesn't
+
+726
+01:26:10,800 --> 01:26:17,760
+necessarily go along with with more standard depression yeah i mean so what would you say i
+
+727
+01:26:17,760 --> 01:26:22,880
+know what i would say but what would you say to somebody who doesn't have bpd doesn't it's not
+
+728
+01:26:22,880 --> 01:26:29,120
+depressed who says you know peter shireen this is all very interesting but what would there ever be
+
+729
+01:26:29,120 --> 01:26:37,520
+any benefit in me doing dbt given that this program was really built around people with real pathology
+
+730
+01:26:37,520 --> 01:26:43,520
+of which i have none if you i went through the dsm five last week nothing in there i don't meet
+
+731
+01:26:43,520 --> 01:26:50,800
+the criteria for anything fully um would i have any would there be any value to me in in this
+
+732
+01:26:50,800 --> 01:26:56,480
+type of practice i think that's part of what's so fascinating about this treatment because you're
+
+733
+01:26:56,480 --> 01:27:01,360
+exactly right this was the treatment that was developed for what could have been termed the
+
+734
+01:27:01,360 --> 01:27:09,360
+worst of the worst at the at the time and it's a treatment that is actually for all of us i have
+
+735
+01:27:09,360 --> 01:27:16,560
+yet to meet a person who could not benefit from at least learning some of the skills nor have i
+
+736
+01:27:16,560 --> 01:27:25,200
+met a person who i've yet to meet a person who hasn't identified the skills as being something
+
+737
+01:27:25,200 --> 01:27:30,080
+that could be relevant for them now whether they're always willing to use them or apply them
+
+738
+01:27:30,080 --> 01:27:36,400
+or want to do them that's a different issue but when i talk about here's what the skills are for
+
+739
+01:27:38,000 --> 01:27:46,480
+i get universal agreement that those skills could be useful to learn yeah the way i kind of describe
+
+740
+01:27:46,480 --> 01:27:51,200
+it i you don't know this about me but i love cars and race cars and all sorts of things like that
+
+741
+01:27:51,200 --> 01:27:56,880
+and a lot of people say like i don't really understand how there's any value in you know
+
+742
+01:27:56,880 --> 01:28:02,320
+a company like mercedes or you know any of these companies participating in you know building race
+
+743
+01:28:02,320 --> 01:28:08,960
+cars you know it's such an expensive proposition it seems so gratuitous but the trickle-down effect
+
+744
+01:28:09,520 --> 01:28:16,160
+for what the impact of that is on street cars is remarkable in terms of fuel efficiency power
+
+745
+01:28:16,160 --> 01:28:21,600
+safety all of these things you know it's true if you want to build a formula one car it's you know
+
+746
+01:28:21,600 --> 01:28:25,680
+it's basically a 400 million dollar a year operation to build and operate those things
+
+747
+01:28:26,640 --> 01:28:34,560
+but those things are functioning at the absolute limit and if you you know where every gram matters
+
+748
+01:28:34,560 --> 01:28:40,640
+and the stakes are so high and if you take everything that you learn there and bring it
+
+749
+01:28:40,640 --> 01:28:44,960
+down to the rest of us who aren't driving formula one cars the benefit is actually enormous
+
+750
+01:28:45,680 --> 01:28:51,760
+and i think of it as sort of similar right which is this is a system that was conceived and
+
+751
+01:28:51,920 --> 01:28:58,720
+um validated on a sample set of people with real difficulties in regulating their emotions
+
+752
+01:28:59,440 --> 01:29:05,040
+and you know when i go through the list of the dbt you know skills pillars it's like i mean check
+
+753
+01:29:05,040 --> 01:29:09,840
+check check check check right i mean i can i might not meet the diagnostic criteria for something in
+
+754
+01:29:09,840 --> 01:29:16,400
+the dsm-5 but i mean i have enormous problems with all of these things i have staggering deficits
+
+755
+01:29:17,360 --> 01:29:23,440
+of skills i mean one of the first exercises that really illustrated that was something as simple as
+
+756
+01:29:23,440 --> 01:29:30,240
+identification of emotion you know it was any emotion that i wouldn't say that that's simple
+
+757
+01:29:30,240 --> 01:29:35,360
+necessarily yeah yeah yeah but but it was like i couldn't really identify an emotion that wasn't
+
+758
+01:29:35,360 --> 01:29:42,960
+anger it was very difficult to go beyond anger to helplessness sadness hurt fear all of these
+
+759
+01:29:42,960 --> 01:29:49,840
+other things so that i mean i don't know andy and i must have spent three months with my homework
+
+760
+01:29:49,840 --> 01:29:55,760
+just being okay you're going to get angry 16 times a day 16 times a day pull out this sheet
+
+761
+01:29:55,760 --> 01:30:03,600
+and go through and figure out what else is going on you know that's that sounds maybe simple but
+
+762
+01:30:03,600 --> 01:30:10,800
+that's learning a new language as well what what made you want to do that why not just stick with
+
+763
+01:30:10,800 --> 01:30:15,440
+your experience of anger yeah i mean look it's it's a it's exactly what you said earlier it's
+
+764
+01:30:15,440 --> 01:30:20,720
+like what's the alternative all the alternative is you're really you know alienating a lot of people
+
+765
+01:30:21,280 --> 01:30:30,160
+um and i think watching my kids get older and realizing i don't want them to see me always
+
+766
+01:30:30,160 --> 01:30:34,720
+angry i mean you know i think i was just angry 24 seven i don't think i really experienced
+
+767
+01:30:35,680 --> 01:30:43,520
+anything that wasn't anger um so yeah i think it was just uh it was it was sort of just saying like
+
+768
+01:30:43,520 --> 01:30:49,680
+i have to sort of break this cycle because it's you know my kids will if every time i get cut off
+
+769
+01:30:49,680 --> 01:30:55,200
+on the road i'm screaming so much at the person who cut me off that you can see the droplets of
+
+770
+01:30:55,200 --> 01:31:01,120
+my spit on the windshield even if i'm not yelling at them it's not like i was actually yelling at my
+
+771
+01:31:01,280 --> 01:31:06,800
+kids but it doesn't matter i don't you know as i've learned since i don't think kids can appreciate
+
+772
+01:31:06,800 --> 01:31:12,400
+the difference a five-year-old doesn't understand that just because daddy is yelling at the guy that
+
+773
+01:31:12,400 --> 01:31:19,920
+cut him off he's not mad at me so i think once i came to realize that i realized no this i i don't
+
+774
+01:31:19,920 --> 01:31:29,040
+want to do this yeah i think these skills are for i just totally agree i mean i've been so i don't
+
+775
+01:31:29,040 --> 01:31:36,960
+actually have my own experiences with borderline personality disorder or psychopathology in that way
+
+776
+01:31:37,760 --> 01:31:48,400
+and i learned dbt as a grad student uh in you know my early 20s and it's been a long time now
+
+777
+01:31:48,400 --> 01:31:55,760
+that i've been using and applying dbt and i will still go in my head like when i have a difficult
+
+778
+01:31:55,760 --> 01:32:02,160
+interpersonal situation happening where i will walk through the steps in my mind of the the dear
+
+779
+01:32:02,160 --> 01:32:06,400
+man skill of how to ask for something and be effective let's go through dear man in a moment
+
+780
+01:32:06,400 --> 01:32:10,640
+finish your story but i would love to go well i was just gonna say like it's been 25 years and
+
+781
+01:32:10,640 --> 01:32:18,640
+i'll still be writing an email and then i'll say wait pause edit am i following the dear structure
+
+782
+01:32:18,640 --> 01:32:24,480
+what what can i take out what am i adding on what judgments are in here so i feel like i you know
+
+783
+01:32:24,480 --> 01:32:34,480
+i've been a pretty skillful person for most of my life and i still need to i still benefit from
+
+784
+01:32:35,040 --> 01:32:44,080
+actively thinking about uh using these skills in my daily life so i mean i'm still so early in my
+
+785
+01:32:44,080 --> 01:32:51,680
+journey i would say i'm you know if if if 10 out of 10 is having all the skills and always employing
+
+786
+01:32:51,680 --> 01:32:58,320
+them one out of 10 is not even knowing what a skill is you know i'm in the sort of three to
+
+787
+01:32:58,320 --> 01:33:06,640
+four out of ten range which is i know them and i don't know maybe half the time i reach for them
+
+788
+01:33:06,640 --> 01:33:13,360
+correctly um but let's talk about dear man um because everything in dbt is really built
+
+789
+01:33:13,360 --> 01:33:19,840
+around being highly accessible it's not it's not really at least to me it doesn't come across as
+
+790
+01:33:19,840 --> 01:33:26,800
+having errors right like this is you know it's it's funny acronyms it's like little diagrams it's
+
+791
+01:33:28,880 --> 01:33:36,880
+there's nobody that can't do this right so um tell everybody what dear man is and what the acronym
+
+792
+01:33:36,880 --> 01:33:43,680
+is is really used to walk you through as a thought process right i think sometimes people actually
+
+793
+01:33:43,680 --> 01:33:48,880
+have a negative reaction to all the acronyms in in dbt and i think that's a fair criticism but
+
+794
+01:33:48,880 --> 01:33:55,440
+acronyms are you know meant as mnemonics to help us remember um maybe because i went to medical
+
+795
+01:33:55,440 --> 01:34:00,880
+school we just you do so much through that yeah yeah yeah yeah though i will say i was training
+
+796
+01:34:00,880 --> 01:34:06,240
+dbt somewhere where was i i think it was iceland was it iceland where they don't do acronyms
+
+797
+01:34:06,240 --> 01:34:11,680
+um like it's just not part of their language uh to use acronyms and so that isn't added
+
+798
+01:34:11,680 --> 01:34:20,320
+difficulty but in in the u.s and canada and we can talk about these acronyms so dear man is a skill
+
+799
+01:34:20,320 --> 01:34:25,680
+that's in the interpersonal effectiveness module so this these are the skills that are designed to
+
+800
+01:34:25,680 --> 01:34:32,480
+help you be more effective with other people in your life and dear man is specifically the skill
+
+801
+01:34:33,200 --> 01:34:40,240
+to uh on how to ask for something in a way that gets another person to give it to you
+
+802
+01:34:41,120 --> 01:34:46,960
+or how to say no to something in a way that gets the other person to accept your no or increases
+
+803
+01:34:46,960 --> 01:34:54,000
+the likelihood i should say because nothing is going to be 100 effective so dear man walks you
+
+804
+01:34:54,000 --> 01:35:04,560
+through these seven kind of sub skills to help you do that so it stands for describe express assert
+
+805
+01:35:05,440 --> 01:35:15,440
+reinforce that's the the dear part that's that's basically what you say um or write uh to ask for
+
+806
+01:35:15,440 --> 01:35:23,040
+something and then the man stands for mindful appear confident and negotiate or be willing
+
+807
+01:35:23,040 --> 01:35:29,600
+to negotiate so that when you're in a situation so i don't know do you have a situation that is
+
+808
+01:35:29,600 --> 01:35:34,480
+coming up for you where you need to ask for something or say no to something yeah i do
+
+809
+01:35:34,720 --> 01:35:40,480
+actually um i don't think i can talk about it publicly unfortunately it's such it's a very good
+
+810
+01:35:40,480 --> 01:35:47,840
+one but i probably can't talk about it publicly let me think of one where i could um without
+
+811
+01:35:47,840 --> 01:35:53,120
+embarrassing someone uh okay this is going to embarrass the hell out of her but let's try it
+
+812
+01:35:54,640 --> 01:35:59,840
+my daughter wants to get a third earring so she's got two piercings in her ears and she really wants
+
+813
+01:35:59,840 --> 01:36:05,600
+to now get a third and i'm not sure maybe this isn't a great example but i'm hoping to talk her
+
+814
+01:36:05,600 --> 01:36:10,960
+out of it for a little longer how's that i i'm like why don't you wait till you're a little bit older
+
+815
+01:36:10,960 --> 01:36:16,880
+i just have this fear that she's going to you know damage her ears and have so many things hanging
+
+816
+01:36:16,880 --> 01:36:22,240
+that it will stretch her ear lobes out and she'll be 50 years old like me one day and regret it
+
+817
+01:36:22,800 --> 01:36:29,680
+potentially a totally irrational fear but that's the fear i have so the ask that you want to say is
+
+818
+01:36:30,000 --> 01:36:37,120
+will you postpone this decision for a while or will you take this off the table for a period of time
+
+819
+01:36:37,120 --> 01:36:40,800
+right and the reason because someone listening to this might say what kind of lousy parent or you
+
+820
+01:36:40,800 --> 01:36:46,560
+just assert it but um but but her mom is not opposed to it her mom's like i think it's
+
+821
+01:36:46,560 --> 01:36:52,960
+reasonable for her to get it so so now it's become kind of more of a negotiation and how old is she
+
+822
+01:36:52,960 --> 01:36:58,800
+uh she's 13 yeah so i would say the more you tell somebody a 13 year old not to do something
+
+823
+01:36:58,800 --> 01:37:04,640
+that's pretty much the recipe for for going out and doing it so uh so if you were to practice the
+
+824
+01:37:04,640 --> 01:37:10,720
+dear man the first step would be to describe the situation without adding on any interpretations
+
+825
+01:37:10,720 --> 01:37:19,360
+or judgments so uh if i were your daughter you would say to me um olivia i understand that you
+
+826
+01:37:19,360 --> 01:37:27,280
+want to now get a third hearing great so often this means exactly what you did which is to
+
+827
+01:37:27,920 --> 01:37:32,960
+keep it short because sometimes we have a tendency to go on and on and on about all of our reasons
+
+828
+01:37:32,960 --> 01:37:38,080
+for something but actually the more we do that the more we lose the other person's interest
+
+829
+01:37:38,720 --> 01:37:46,240
+uh and then express would be to express your feelings about it i have some fear about you
+
+830
+01:37:46,240 --> 01:37:52,560
+getting a third earring because i worry that it would damage your ears and this would be
+
+831
+01:37:52,560 --> 01:38:00,240
+something that would bother you many years from now right so you know we could work on on
+
+832
+01:38:00,240 --> 01:38:06,480
+simplifying or shortening or saying i i fear i have fears that you would regret this if you did it
+
+833
+01:38:06,480 --> 01:38:12,080
+whatever it might be to get the express but that was also really nice because you didn't add on
+
+834
+01:38:12,640 --> 01:38:18,160
+judgments you didn't say you shouldn't do this right these are all just describe the facts and
+
+835
+01:38:18,160 --> 01:38:24,240
+then express your feelings about it now assert is where you ask for that's the a where you ask
+
+836
+01:38:24,240 --> 01:38:31,520
+for directly what it is that you want olivia would you be fine if we could postpone this
+
+837
+01:38:31,520 --> 01:38:40,880
+decision until you're older maybe even out of high school so you may think about prior to doing it
+
+838
+01:38:41,440 --> 01:38:48,480
+what is it specifically that you're asking for so if you want to start out by asking i'd like you
+
+839
+01:38:48,480 --> 01:38:54,320
+know would you be willing to postpone this decision until after high school might be a more direct
+
+840
+01:38:54,320 --> 01:39:00,880
+assert but it could be there's other factors that might contribute to you asking it more tentatively
+
+841
+01:39:00,880 --> 01:39:07,840
+or more firmly but making a direct ask now what we often say about this you didn't illustrate this
+
+842
+01:39:07,840 --> 01:39:14,800
+but what we often say about this a part the assert is that a lot of the time we don't actually
+
+843
+01:39:14,800 --> 01:39:21,120
+assert we just want somebody else to read our minds or do what we want and i think this is
+
+844
+01:39:21,120 --> 01:39:28,560
+especially a problem for uh not to over generalize but i think women have more trouble with this on
+
+845
+01:39:28,560 --> 01:39:35,360
+average than men loads of reasons for that but actually asking directly for what it is that you
+
+846
+01:39:35,360 --> 01:39:40,960
+want is is really challenging for people and so what instead you would see people doing is just
+
+847
+01:39:40,960 --> 01:39:47,440
+doing the describe and express and then expecting the other person to just know what it is they want
+
+848
+01:39:47,440 --> 01:39:52,560
+and do it so we're trying to get people to to learn how to be more comfortable with
+
+849
+01:39:53,120 --> 01:40:00,960
+asking and stating directly what it is that you're that you want and then the r is stands for
+
+850
+01:40:01,040 --> 01:40:08,400
+reinforce uh which is to say you want to say explicitly what's what's in it for the other
+
+851
+01:40:08,400 --> 01:40:15,680
+person what reward could come their way by by giving into your request or giving you what you
+
+852
+01:40:15,680 --> 01:40:21,440
+want which in a second we can talk about whether or not this is manipulation but in the moment uh
+
+853
+01:40:21,440 --> 01:40:27,280
+in your dialogue with olivia what's in it what's something that you could imagine uh reinforcing
+
+854
+01:40:28,240 --> 01:40:31,840
+so here's where i could go into many directions right one direction is
+
+855
+01:40:33,120 --> 01:40:39,520
+you know you play volleyball you're really good at volleyball you're you're playing year round now
+
+856
+01:40:40,160 --> 01:40:45,760
+and the more jewelry you have on the greater your risk of injury you get hit in the head with a ball
+
+857
+01:40:45,760 --> 01:40:51,040
+that's one more thing that could hurt this is just one less thing to worry about right that would be
+
+858
+01:40:51,040 --> 01:40:55,520
+one sort of very narrow niche approach probably my preferred way would be something like
+
+859
+01:40:58,160 --> 01:41:06,240
+optionality is a great thing and by not doing it now it doesn't mean that you can't do it tomorrow
+
+860
+01:41:06,240 --> 01:41:10,800
+you always have that option but you can't undo it once you have it now she'll argue
+
+861
+01:41:10,800 --> 01:41:14,240
+yes you can you can just take it out so i don't know maybe she's right but um
+
+862
+01:41:15,600 --> 01:41:18,720
+that's probably those would be the the things i would reinforce which is
+
+863
+01:41:20,000 --> 01:41:25,360
+i'm not saying no i'm just saying not now and that really isn't taking anything away it's just
+
+864
+01:41:25,360 --> 01:41:31,440
+potentially delaying something yeah so what i would say is that i agree with you about all of
+
+865
+01:41:31,440 --> 01:41:37,360
+those points what you're doing is you're providing more evidence in favor of what it is that you're
+
+866
+01:41:38,000 --> 01:41:47,120
+asking for but if i were to think about about uh reinforcing in the sense of what reward
+
+867
+01:41:47,120 --> 01:41:58,080
+could she expect if she were to say yes dad i won't get a another piercing so is this something
+
+868
+01:41:58,080 --> 01:42:04,800
+like where i could literally just say and if you don't do this like i give you know is it literally
+
+869
+01:42:04,800 --> 01:42:10,960
+like you're bribing your kid is that potentially what's in there well it could be uh but i wouldn't
+
+870
+01:42:10,960 --> 01:42:16,480
+necessarily i mean it would be bribery but bribery is what we do all the time right if you mean would
+
+871
+01:42:16,480 --> 01:42:22,320
+it be something like you know and if you don't do this i mean we could go shopping in those new
+
+872
+01:42:22,320 --> 01:42:30,160
+converse shoes you love let's get those instead it could be okay yeah i never thought of it that
+
+873
+01:42:30,160 --> 01:42:37,200
+way right i've always thought of it in more sort of theoretical reinforcement which i think um
+
+874
+01:42:37,440 --> 01:42:43,520
+can work sometimes with some people but i think uh more often than not
+
+875
+01:42:46,800 --> 01:42:53,760
+it needs to be a tangible connection to to this now what we often say is a good good fall back
+
+876
+01:42:53,760 --> 01:42:59,600
+you know to asking somebody for something um at work or interpersonally is to say if you do this
+
+877
+01:42:59,600 --> 01:43:06,160
+i would really appreciate it right my appreciation of you and your behavior is a reinforcer
+
+878
+01:43:07,120 --> 01:43:11,680
+right you might feel good by the fact that i appreciate it when i see something like what
+
+879
+01:43:11,680 --> 01:43:17,040
+you're describing your daughter wants her dad's appreciation of not high on the list of things
+
+880
+01:43:17,040 --> 01:43:23,120
+exactly right so you have to think about the person that you're asking and what is most likely
+
+881
+01:43:23,120 --> 01:43:29,680
+to work now and and you also have to think about it to a certain extent how important is it for you
+
+882
+01:43:29,680 --> 01:43:34,240
+to get this thing that you're asking for and if it's really important for you to get it
+
+883
+01:43:34,240 --> 01:43:38,400
+then you might say oh i don't like you know buying her sneakers instead but if that's what
+
+884
+01:43:38,400 --> 01:43:43,360
+worked then we would say you know be effective like in this situation if this was something
+
+885
+01:43:43,360 --> 01:43:47,760
+that was really important to you well and i think it illustrates this i'm glad we did this example
+
+886
+01:43:47,760 --> 01:43:53,600
+which is kind of like i thought of it as well sort of glib but it illustrates another point which is
+
+887
+01:43:54,480 --> 01:44:03,040
+um there's sort of there's a meta thing here which is i'm teaching her by my behavior
+
+888
+01:44:03,840 --> 01:44:08,640
+and my interaction what is a more emotionally regulated way to handle this because
+
+889
+01:44:09,520 --> 01:44:16,960
+i think if the old version of me would have just said no like i'm the parent you're doing what i
+
+890
+01:44:16,960 --> 01:44:23,360
+say like this is non-negotiable and you know if i was a kid and argued this i would have got the
+
+891
+01:44:23,360 --> 01:44:28,000
+back of the hand to my face so just be lucky you're not getting that for even pushing and provoking
+
+892
+01:44:28,000 --> 01:44:33,520
+this discussion you know i mean like so so that would have been the old way to have dealt with
+
+893
+01:44:33,520 --> 01:44:39,520
+this and and so i get to at least they would have run out and gotten the earring and just right
+
+894
+01:44:39,520 --> 01:44:47,360
+right so now instead we get to model something better and i i think that that's the other i
+
+895
+01:44:47,360 --> 01:44:52,800
+assume that that also factors into the dbt for adolescence which i actually haven't maybe it's
+
+896
+01:44:52,800 --> 01:44:57,040
+time that i sort of look at that as well but i i haven't really spent any time looking at that work
+
+897
+01:44:57,040 --> 01:45:02,800
+but i would imagine that it's as much about helping the kids as showing the kids how the
+
+898
+01:45:02,800 --> 01:45:11,040
+parents can change as well well what what is an amazing adaptation for dbt so in standard dbt for
+
+899
+01:45:11,040 --> 01:45:17,520
+adults in uh what we do we haven't really explained like what the therapy looks like but in general
+
+900
+01:45:17,520 --> 01:45:22,560
+what would happen if somebody were receiving dbt treatment is that they would be coming to a skills
+
+901
+01:45:22,560 --> 01:45:28,880
+training group once a week or receiving skills training individually where they meet with the
+
+902
+01:45:28,880 --> 01:45:34,320
+therapist who teaches them these specific skills they practice that they come back report on their
+
+903
+01:45:34,320 --> 01:45:41,520
+practice um and get feedback and coaching etc in skills training group you might have a number of
+
+904
+01:45:41,520 --> 01:45:46,480
+adults all together and you teach them all together and you assign homework and you all talk about the
+
+905
+01:45:46,480 --> 01:45:53,120
+practice and use of skills what was an amazing i mean i just think it's so brilliant adaptation
+
+906
+01:45:53,120 --> 01:46:00,240
+for dbt for adolescents is that in your skills group you have now multi they're called multi-family
+
+907
+01:46:00,240 --> 01:46:05,120
+skills groups where you have the adolescents in the skills groups but you also have the
+
+908
+01:46:05,120 --> 01:46:12,480
+adolescent adolescents parents or caretakers in the skills group at the same time and everybody
+
+909
+01:46:12,480 --> 01:46:18,960
+is learning the skills all together and the way these groups are designed it's not overall learning
+
+910
+01:46:18,960 --> 01:46:24,480
+these skills so that you all can you know help your adolescent apply them of course that's part
+
+911
+01:46:24,480 --> 01:46:30,160
+of it but we're framing the groups as saying we're teaching everybody the skills because the parents
+
+912
+01:46:30,160 --> 01:46:35,760
+need the skills as much as the adolescents need the skills and therefore the parents have been
+
+913
+01:46:35,760 --> 01:46:41,840
+caregivers have to practice the skills on themselves not just for their adolescents
+
+914
+01:46:41,840 --> 01:46:45,920
+i mean do you do you do you find it's do you find it's harder for the parents because
+
+915
+01:46:47,600 --> 01:46:49,840
+you know you said something earlier which i completely agree with
+
+916
+01:46:50,560 --> 01:46:56,960
+it would almost be easier to come to dbt with no skills positive or negative and then just learn
+
+917
+01:46:56,960 --> 01:47:05,280
+the positive skills um it's it's harder to come in when you have decades of reinforced negative
+
+918
+01:47:05,280 --> 01:47:12,800
+skills anti-skills and you have to unlearn anti-skills and then build positive skills so
+
+919
+01:47:13,600 --> 01:47:17,040
+do you see that it's easier for the kids sometimes to pick this up than their parents
+
+920
+01:47:18,560 --> 01:47:26,880
+i think there's um sometimes easier to pick up but there's different levels of willingness
+
+921
+01:47:26,880 --> 01:47:32,560
+and willfulness yeah so with adolescents a lot of the times adolescents not not necessarily there
+
+922
+01:47:32,560 --> 01:47:37,520
+by choice i'm guessing sometimes yes so a lot of the times it's their parents or their schools
+
+923
+01:47:37,520 --> 01:47:42,320
+that say they have to do this and so there's always a question of how much they're there because they
+
+924
+01:47:43,920 --> 01:47:48,880
+want to be there at a less i mean of course with adults in certain contexts and situations they
+
+925
+01:47:48,880 --> 01:47:55,920
+don't want there to be there easy uh either but there's generally more willingness um let's talk
+
+926
+01:47:55,920 --> 01:47:59,440
+about the structure of the therapy i've jumped around a lot because there's just so many interesting
+
+927
+01:47:59,520 --> 01:48:05,440
+frameworks and i want to make sure we get to them but um let's assume that you know a person comes
+
+928
+01:48:05,440 --> 01:48:12,240
+to you now um and they're there by their own choice this is an adult and they don't meet the
+
+929
+01:48:12,240 --> 01:48:16,400
+criteria for any of the dsm-5s so this is just someone who's having difficulty interpersonally
+
+930
+01:48:17,040 --> 01:48:24,320
+um you know one of the things that i think i sort of realized was so much dysregulation stems from
+
+931
+01:48:24,320 --> 01:48:30,480
+interpersonal interactions gone bad with your spouse with your child with your co-worker with
+
+932
+01:48:30,480 --> 01:48:35,200
+the person who cuts you off on the street i mean it's generally an interpersonal interaction
+
+933
+01:48:35,760 --> 01:48:42,640
+that doesn't meet your expectations whether those are reasonable or not reasonable that then leads
+
+934
+01:48:42,640 --> 01:48:48,400
+to sort of an emotional regulation or dysregulation thoughts that then feed into those emotional
+
+935
+01:48:48,480 --> 01:48:55,600
+dysregulations and then you create this awful feed forward loop that can lead to bad behaviors i mean
+
+936
+01:48:55,600 --> 01:49:01,040
+that is that it's sort of a safe way to talk about it from interpersonal to thoughts uh emotion
+
+937
+01:49:01,040 --> 01:49:04,960
+emotions thoughts feeding off each other and then behaviors i mean that's kind of like the pathway
+
+938
+01:49:04,960 --> 01:49:12,000
+of how this all seems to go wrong for people and i mean there are some people out there who just i
+
+939
+01:49:12,000 --> 01:49:18,960
+seem who seem just wonderful and they don't seem to suffer from these issues but but most people if
+
+940
+01:49:18,960 --> 01:49:24,000
+we're being really honest with ourselves even if you're not as extreme as as me i think most people
+
+941
+01:49:24,000 --> 01:49:29,920
+realize that this isn't always going well especially as we're under more external stress you know
+
+942
+01:49:29,920 --> 01:49:34,560
+there i i love the idea of distress tolerance and i i think that's just one of the most
+
+943
+01:49:34,560 --> 01:49:39,520
+interesting concepts is a window and that's the sort of image that i have of it right so
+
+944
+01:49:39,760 --> 01:49:45,920
+i mean this entire year my distress tolerance window is about this thick and it's all my own
+
+945
+01:49:45,920 --> 01:49:51,840
+fault i've put way too many things on my plate and so there's no buffer there's no margin for
+
+946
+01:49:51,840 --> 01:49:56,560
+error one thing even before this podcast was recorded i was getting upset about some stupid
+
+947
+01:49:56,560 --> 01:50:01,760
+video i had to record that i was like yeah but i had to record it twice it was supposed to be two
+
+948
+01:50:01,760 --> 01:50:05,920
+minutes the first time i did it it took two minutes and 20 seconds like like something so
+
+949
+01:50:06,080 --> 01:50:12,800
+like something so dumb that shouldn't even bother me bothered me because i'm out of time so so
+
+950
+01:50:12,800 --> 01:50:19,440
+something like external factors will change your distress tolerance window and and for me it's
+
+951
+01:50:19,440 --> 01:50:23,360
+always being too close to the top where it's getting upset but for some people it's being
+
+952
+01:50:23,360 --> 01:50:29,120
+too close to the bottom and it's getting you know sort of dysthymic or depressive versus getting
+
+953
+01:50:29,120 --> 01:50:36,080
+irritable and during good times like people imagine being on vacation where for two weeks
+
+954
+01:50:36,080 --> 01:50:42,320
+like you don't have to worry about email nothing is going on you know nothing really seems to
+
+955
+01:50:42,320 --> 01:50:46,080
+bother you doesn't you know you go to a restaurant and they forgot your reservation you're like yeah
+
+956
+01:50:46,080 --> 01:50:50,800
+no problem we'll go to the next one like it just you know i think people can resonate with this
+
+957
+01:50:50,800 --> 01:50:57,360
+idea so one of the skills is how do you make that distress tolerance window higher how do you make
+
+958
+01:50:57,360 --> 01:51:03,520
+it wider there's nobody that's not going to benefit from this so it's a it's a long rambling
+
+959
+01:51:03,520 --> 01:51:07,920
+question but really where i'm going is you get somebody that comes in where do you start
+
+960
+01:51:09,440 --> 01:51:15,200
+well i will say that one of the when when you just said that what i was reminded of is
+
+961
+01:51:15,200 --> 01:51:24,000
+what is learning what makes us more vulnerable to negative emotions or stress or distress and
+
+962
+01:51:24,000 --> 01:51:32,560
+that is another key skill in dbt is to identify and understand what our vulnerability factors are
+
+963
+01:51:32,560 --> 01:51:39,600
+and then to address because sometimes we could actually solve our you know target or treat our
+
+964
+01:51:39,600 --> 01:51:49,440
+vulnerability factors and our lives just go much more smoothly you know when we sleep decently you
+
+965
+01:51:49,520 --> 01:51:54,800
+know when we remove some things from our list so that we're not so stressed all the time like that
+
+966
+01:51:54,800 --> 01:51:59,120
+could actually solve a number of problems but where i start with by the way that's i want to
+
+967
+01:51:59,120 --> 01:52:03,120
+that's i'm glad you brought that up because i i i should have mentioned that's actually one of the
+
+968
+01:52:03,120 --> 01:52:11,520
+first things andy asks me every i i work with andy once a week so we every you know i've been
+
+969
+01:52:11,520 --> 01:52:15,840
+working with him for two years now it's always once a week um but that's one of the first
+
+970
+01:52:15,920 --> 01:52:22,080
+questions he always asks which is tell me what's going on physically right so are you in pain
+
+971
+01:52:22,960 --> 01:52:27,840
+are you sleeping uh what are the other vulnerabilities and i think out of the
+
+972
+01:52:27,840 --> 01:52:34,560
+gate he's trying to gauge what state i'm in as a function of how many things are pressing me
+
+973
+01:52:36,960 --> 01:52:45,280
+and what uh and i mean i can't speak for what andy's doing but uh and how um in those moments how
+
+974
+01:52:45,280 --> 01:52:52,480
+able are you to receive info like if you're at you know a 90 on a scale zero to 100 you're not
+
+975
+01:52:52,480 --> 01:52:58,560
+taking in a lot you're not learning a lot right so we if you're at that level that we need to figure
+
+976
+01:52:58,560 --> 01:53:06,320
+out how do we get you regulated enough so that you could learn uh learn to do something differently
+
+977
+01:53:06,320 --> 01:53:11,360
+and i think that that's great that he asked those questions i think for myself when i'm in physical
+
+978
+01:53:11,360 --> 01:53:19,920
+pain i i just can't do much of anything and it makes me admire yeah yeah or sleep deprived as you
+
+979
+01:53:19,920 --> 01:53:28,400
+said i think i think uh he he's he's had me pay much more attention to those things like if you
+
+980
+01:53:28,400 --> 01:53:34,480
+haven't slept well in two nights you can't and you shouldn't assume that you're at your best
+
+981
+01:53:35,200 --> 01:53:41,520
+in terms of your ability to receive both information and tolerate things um physical
+
+982
+01:53:41,520 --> 01:53:48,000
+pain is a very interesting one i agree with you completely um i'd love for you to share an example
+
+983
+01:53:48,000 --> 01:53:54,000
+of your own life i have so many of where i've been in pain and it's made me more irritable
+
+984
+01:53:54,000 --> 01:53:58,560
+what what have you noticed and what do you do about it specifically well what i was going to
+
+985
+01:53:58,560 --> 01:54:04,880
+i just admire people so much who have chronic pain conditions and and function in their lives
+
+986
+01:54:04,880 --> 01:54:11,440
+because i have been fortunate to not i mean i've had pain um but to not have a chronic pain
+
+987
+01:54:11,440 --> 01:54:19,360
+condition uh because i think uh that would be a challenge um for me to learn how to navigate that
+
+988
+01:54:19,360 --> 01:54:26,560
+but i do think that when i'm experiencing pain and whether it's you know a transient headache
+
+989
+01:54:26,560 --> 01:54:36,000
+that i know will pass or um i hurt my back you know exercising and now i feel it you know every
+
+990
+01:54:36,000 --> 01:54:43,280
+which way i i personally recognize that as a huge vulnerability factor for me because it makes me
+
+991
+01:54:43,280 --> 01:54:53,360
+more irritable um in general and makes me much more likely to to snap at people um or to have
+
+992
+01:54:53,360 --> 01:54:59,680
+less patience for things so for me what that means is recognizing kind of similar to what you
+
+993
+01:54:59,680 --> 01:55:06,480
+said like okay this is going on for me right now i have to accept this is going on for me right now
+
+994
+01:55:06,480 --> 01:55:12,320
+because i can't just will away physical pain as much as i want to and know that this is a
+
+995
+01:55:12,320 --> 01:55:18,160
+vulnerable time for me so given that it's a vulnerable vulnerable time for me is there a
+
+996
+01:55:18,160 --> 01:55:26,080
+way that i can reduce demands on myself in other ways or is there a way that i can treat myself
+
+997
+01:55:26,080 --> 01:55:34,400
+kindly in other ways to kind of offset the the pain that i'm experiencing and sometimes it's
+
+998
+01:55:34,400 --> 01:55:41,360
+for me it's also um learning to be more explicit and vocal as it relates to kind of this
+
+999
+01:55:41,440 --> 01:55:50,960
+interpersonal effectiveness uh because when we experience pain it's often entirely um experienced
+
+1000
+01:55:50,960 --> 01:55:57,360
+within our bodies other people may not uh even know that this is happening for us so learning to
+
+1001
+01:55:57,360 --> 01:56:01,920
+say out loud and you know granted it helps as your kids get older you can say things when they're
+
+1002
+01:56:01,920 --> 01:56:08,480
+younger you can't say as easily mommy has a headache so you know but they get older and you could say
+
+1003
+01:56:09,120 --> 01:56:13,920
+um i'm really suffering right now from this headache so i need to have a little bit of space
+
+1004
+01:56:15,360 --> 01:56:20,880
+you know from this conversation or this situation so learning to recognize this as a vulnerability
+
+1005
+01:56:20,880 --> 01:56:27,440
+factor and then figuring out how can i act more skillfully within this context to prevent
+
+1006
+01:56:28,320 --> 01:56:34,080
+the lashing out to prevent irritability because i don't know if this is your experience peter but
+
+1007
+01:56:34,080 --> 01:56:41,920
+mine is that whenever i do act out of anger i almost always regret it and almost always feel
+
+1008
+01:56:41,920 --> 01:56:49,280
+worse about myself um afterwards and so it's almost a selfish process it's it's to help the
+
+1009
+01:56:49,280 --> 01:56:53,280
+other person by saying i'm not going to get irritable with my kids it's to protect them but
+
+1010
+01:56:53,280 --> 01:56:59,920
+it's also to help me not feel so bad afterwards uh because my kids will recover i'll recover but
+
+1011
+01:56:59,920 --> 01:57:07,040
+i don't like how it makes me feel yeah the the cycle of of anger and shame and isolation is is a
+
+1012
+01:57:07,040 --> 01:57:14,320
+is a pretty frequent i know the path well um you know before we leave the pain thing one thing
+
+1013
+01:57:14,320 --> 01:57:21,120
+i've observed in myself is not all pain is created equal and expected pain seems to be far less
+
+1014
+01:57:21,120 --> 01:57:28,880
+destabilizing to me than unexpected pain so i had shoulder surgery recently um i don't know why i
+
+1015
+01:57:28,960 --> 01:57:33,920
+hadn't been told how much it would hurt but and i so i didn't really want to take any of the
+
+1016
+01:57:33,920 --> 01:57:38,320
+narcotics and things like that i mean for a week it was i mean for two days the pain was so bad i
+
+1017
+01:57:38,320 --> 01:57:42,640
+couldn't sleep i mean literally i was just sitting up in a chair not sleeping for two nights but even
+
+1018
+01:57:42,640 --> 01:57:52,000
+for that week the pain was excruciating interestingly it didn't uh negatively impact me in terms of
+
+1019
+01:57:52,000 --> 01:57:57,120
+interactions like it didn't i would have guessed look knowing what i know about how much pain can
+
+1020
+01:57:57,120 --> 01:58:02,640
+destabilize distress tolerance um capacity i would have thought well that would have thrown me over
+
+1021
+01:58:02,640 --> 01:58:08,400
+the edge but it didn't because it was like look i had six trocars in my shoulder i just had a an
+
+1022
+01:58:08,400 --> 01:58:15,200
+enormous operation this is kind of what it's going to feel like whereas i've had headaches that have
+
+1023
+01:58:15,200 --> 01:58:21,360
+lasted for three days at a time due to you know some awful tension and no amount of tylenol can
+
+1024
+01:58:21,360 --> 01:58:27,760
+make it go away and it ostensibly it's not as bad as my shoulder was hurting but one i don't
+
+1025
+01:58:27,760 --> 01:58:33,760
+expect it i don't know why i have it it i find that far more destabilizing to me from an emotional
+
+1026
+01:58:33,760 --> 01:58:37,760
+regulation standpoint i don't know if you've ever observed that and by the way i think people with
+
+1027
+01:58:37,760 --> 01:58:43,920
+chronic pain that must be the most frustrating and difficult thing because a lot of those patients
+
+1028
+01:58:43,920 --> 01:58:48,800
+are told by physicians like either a there's nothing we can do or b this is in your head and
+
+1029
+01:58:48,800 --> 01:58:56,240
+really you should just kind of ignore this i 100 agree with you personally and professionally
+
+1030
+01:58:56,240 --> 01:59:03,120
+what i noticed and what you said is that you actually um engage in a lot of self-validation
+
+1031
+01:59:03,120 --> 01:59:08,800
+with regard to the shoulder surgery basically saying of course i feel this way it's okay to
+
+1032
+01:59:08,800 --> 01:59:15,200
+feel this way and i think with the other pain that we experience sometimes we might not realize that
+
+1033
+01:59:15,200 --> 01:59:19,440
+we're doing this so explicitly but we're actually invalidating ourselves we're saying
+
+1034
+01:59:20,080 --> 01:59:24,400
+why am i feeling this way what's wrong with me how could this be happening right and so we're
+
+1035
+01:59:24,400 --> 01:59:30,880
+rejecting it and and i have my own personal example i'm i'm tapering off a medication right now
+
+1036
+01:59:30,880 --> 01:59:38,400
+and i didn't realize when i was prescribed this medication how difficult it it's known to be a
+
+1037
+01:59:38,400 --> 01:59:45,040
+medication that's difficult to get off and had i known that um it was sort of a moment of weakness
+
+1038
+01:59:45,280 --> 01:59:50,960
+that i was prescribed this i decided to take it had i known how horrible it would feel to go off
+
+1039
+01:59:50,960 --> 01:59:58,880
+it i never would have gone on it um but now i'm i'm trying to wean myself off of it i'm i'm really
+
+1040
+01:59:58,880 --> 02:00:05,440
+going kind of nuts with how much i'm like microtosing myself on this medication because i start to
+
+1041
+02:00:05,440 --> 02:00:12,400
+feel this this withdrawal symptom and i'm realizing exactly to this point that you made is that part
+
+1042
+02:00:12,400 --> 02:00:18,240
+of the suffering that i'm experiencing about this is my thoughts like oh what if this goes on
+
+1043
+02:00:19,120 --> 02:00:25,520
+forever what if this doesn't end and and even when i realize okay it's not going to last forever the
+
+1044
+02:00:25,520 --> 02:00:32,320
+subsequent thought is but can i tolerate this for two weeks you know why can't it just go away and
+
+1045
+02:00:32,320 --> 02:00:39,440
+so this is the way in which we do have some control over the suffering that we experience because
+
+1046
+02:00:39,440 --> 02:00:45,920
+we're adding on all of these thoughts and so one of the one of the mindfulness tricks that i really
+
+1047
+02:00:46,880 --> 02:00:53,120
+love when i hear it is i think i heard it as it relates to like learning to be mindful and
+
+1048
+02:00:53,120 --> 02:00:59,520
+accepting of your emotions is just to say to yourself it's okay to feel this and it seems so
+
+1049
+02:01:00,080 --> 02:01:07,600
+simple but just say those words it's okay to feel this no matter what the this is is can be a really
+
+1050
+02:01:07,600 --> 02:01:14,160
+powerful experience and i think even with the pain we could say it's it's okay to feel this
+
+1051
+02:01:14,160 --> 02:01:21,840
+and just notice what effect that has on us so going back to kind of the beginning of the
+
+1052
+02:01:22,400 --> 02:01:27,440
+interaction with the clinician and the patient you start with this idea of what are the vulnerabilities
+
+1053
+02:01:28,800 --> 02:01:35,760
+so once you sort of establish that and i suspect a lot of that is you'll see it quicker than the
+
+1054
+02:01:35,760 --> 02:01:42,720
+patient will like a lot of times people probably don't appreciate what the vulnerabilities are
+
+1055
+02:01:42,720 --> 02:01:48,080
+until they're kind of pointed out which is no like these are again it's a form of validation
+
+1056
+02:01:48,080 --> 02:01:56,240
+these are really clear things that are going to make it more challenging for you to be understanding
+
+1057
+02:01:56,240 --> 02:02:00,480
+of others to be understanding of yourself to regulate your emotion to control your thoughts
+
+1058
+02:02:00,480 --> 02:02:06,000
+and ultimately to control your behaviors so once you establish that i imagine it's somewhat
+
+1059
+02:02:06,000 --> 02:02:12,160
+liberating for people it's it's kind of a nice first way to have you validate things for them
+
+1060
+02:02:12,160 --> 02:02:21,600
+is that usually received that way so i think for a lot of people understanding the vulnerability
+
+1061
+02:02:21,600 --> 02:02:29,200
+factors and determining ways to reduce their vulnerability is really critical and you ask me
+
+1062
+02:02:29,200 --> 02:02:35,120
+like what i would typically do with somebody who first came in and i think that is something i
+
+1063
+02:02:35,120 --> 02:02:42,400
+mean i'm used to working only with people who meet criteria for bpd and are unusually on that more
+
+1064
+02:02:42,400 --> 02:02:50,320
+severe end of the continuum so i don't have a lot of people i don't have experience with you know
+
+1065
+02:02:50,320 --> 02:02:58,640
+people that are not as extreme usually so i think that for a lot of people learning about
+
+1066
+02:02:58,720 --> 02:03:03,760
+vulnerability factors is really important but i put vulnerability factors in the context of
+
+1067
+02:03:03,760 --> 02:03:11,600
+something that we do in dbt called a chain analysis which is a way of assessing problem
+
+1068
+02:03:11,600 --> 02:03:17,280
+behaviors that people have that they want to change as a way of assessing it in order to figure out
+
+1069
+02:03:17,280 --> 02:03:24,960
+how to change it going forward so vulnerability factors is an element of that chain analysis so
+
+1070
+02:03:25,200 --> 02:03:30,880
+for example you know you were in treatment with me and one of the things we were working on is
+
+1071
+02:03:30,880 --> 02:03:40,000
+this target behavior of you exploding in anger at you know various points we would identify
+
+1072
+02:03:40,960 --> 02:03:46,960
+what a recent occasion in which that happened and then we would do an assessment of what were all
+
+1073
+02:03:46,960 --> 02:03:53,200
+the factors events thoughts behaviors that led up to that behavior and then what were the consequences
+
+1074
+02:03:53,200 --> 02:03:59,760
+of that behavior that would be the chain that we assess as a way of identifying okay well what can
+
+1075
+02:03:59,760 --> 02:04:07,680
+we modify in this chain going forward to make it less likely that that problem behavior is going
+
+1076
+02:04:07,680 --> 02:04:13,040
+to show up again and i think what we've been talking about is addressing what happens actually
+
+1077
+02:04:13,040 --> 02:04:18,240
+very early on in the chain that vulnerability factor and for some people and in some situations
+
+1078
+02:04:18,240 --> 02:04:25,360
+working on the vulnerability factor changes everything that follows but there's other events
+
+1079
+02:04:25,360 --> 02:04:30,480
+and circumstances where it's not about the vulnerability factor or the vulnerability
+
+1080
+02:04:30,480 --> 02:04:35,600
+factor is just one element but something happens in the environment a prompting event we would call
+
+1081
+02:04:35,600 --> 02:04:42,400
+it perhaps that sets off the chain and it doesn't matter whether you got sleep or not the night
+
+1082
+02:04:42,400 --> 02:04:48,080
+before because no matter what that whenever that prompting event happens you're going to explode in
+
+1083
+02:04:48,080 --> 02:04:53,040
+anger right so we want to work on vulnerability factors but we also want to identify well what
+
+1084
+02:04:53,040 --> 02:05:01,360
+are some other critical elements along the path towards the problem behavior that we can address
+
+1085
+02:05:01,360 --> 02:05:08,480
+and and uh behaviorally manipulate yeah i mean when you say it that way it's really obvious because
+
+1086
+02:05:09,440 --> 02:05:14,720
+you know even using myself as an example which is probably a more extreme example nothing ever
+
+1087
+02:05:14,720 --> 02:05:20,480
+occurs in isolation like i've yet to come up with one example in my life where i can say yeah i
+
+1088
+02:05:20,480 --> 02:05:25,600
+flew off the handle and it was only because of what was happening in that moment i mean it's just
+
+1089
+02:05:25,600 --> 02:05:32,640
+not the case it's if i flew off the handle this is a situation where i would have barely got upset
+
+1090
+02:05:32,960 --> 02:05:39,520
+a day ago or a week from now it was the literally the six things that had happened and maybe yeah
+
+1091
+02:05:39,520 --> 02:05:43,200
+maybe maybe i didn't have a great sleep that's not what caused it of course but that made me more
+
+1092
+02:05:43,200 --> 02:05:49,600
+susceptible and maybe this other thing happened and i didn't deal with it you know i didn't
+
+1093
+02:05:50,640 --> 02:05:55,440
+confront the person who said such a thing that upset me and i just sort of buried it and went on
+
+1094
+02:05:55,440 --> 02:06:00,320
+and maybe i you know read something on social media and i didn't even acknowledge that that
+
+1095
+02:06:00,320 --> 02:06:05,920
+was very upsetting to me somebody attacked me and i sort of ignored it and then i find myself
+
+1096
+02:06:05,920 --> 02:06:12,080
+in this situation and um i liken it to sort of the the challenger blowing up you remember when
+
+1097
+02:06:12,080 --> 02:06:17,360
+the space shuttle challenger blew up this is you know god almost uh 40 years ago now um
+
+1098
+02:06:19,040 --> 02:06:24,000
+it's so interesting and i'm an engineer by training so i i really have a keen interest in
+
+1099
+02:06:24,000 --> 02:06:29,920
+in kind of the ins and outs of that that type of scenario and what you realize is like there was
+
+1100
+02:06:29,920 --> 02:06:36,080
+nothing sudden about that horrible tragedy nothing about that was remotely sudden and
+
+1101
+02:06:36,080 --> 02:06:42,080
+unexpected when you actually peel back the layers of the onion and go through the entire chain
+
+1102
+02:06:42,080 --> 02:06:48,720
+analysis for not just the challenger but all the previous space shuttles and you realize
+
+1103
+02:06:48,720 --> 02:06:57,520
+how inevitable this was and on that day this was almost a foregone conclusion um and yet at the
+
+1104
+02:06:57,520 --> 02:07:02,720
+surface it just you know again now imagine watching that as a spectator oh my gosh how
+
+1105
+02:07:02,720 --> 02:07:11,600
+could that happen well it it ties into the you would get an a on your dbt test because it ties
+
+1106
+02:07:11,600 --> 02:07:20,560
+into the dialectical philosophy of everything is caused right and everything has multiple causes
+
+1107
+02:07:20,880 --> 02:07:34,080
+um and that is very hard to accept sometimes and it's also very hard to experience especially in
+
+1108
+02:07:34,080 --> 02:07:44,400
+our dominant culture that wants us to believe that there are simple answers uh and there's one person
+
+1109
+02:07:44,480 --> 02:07:51,120
+to blame or one root cause that's that's what the dominant culture is trying to tell us about
+
+1110
+02:07:51,120 --> 02:07:58,480
+everything and anything because that's simple and it's more complex than that uh that there's
+
+1111
+02:07:58,480 --> 02:08:06,000
+always multiple determinants um of anything and that we could dissect
+
+1112
+02:08:06,320 --> 02:08:13,600
+any behavior any problem and see the thousands or millions of causes that led up to that behavior
+
+1113
+02:08:14,160 --> 02:08:19,360
+i have one of the pages in front of me that i've copied from my skills book that has so many of my
+
+1114
+02:08:19,360 --> 02:08:26,000
+notes in it um and it you probably remember the page it's um sort of what makes it hard to regulate
+
+1115
+02:08:26,000 --> 02:08:32,960
+your emotions and i've all this is probably one of the 10 you know this is a 350 page 400 page workbook
+
+1116
+02:08:33,920 --> 02:08:38,960
+but this would be there's probably 30 or 40 pages that i have stickies in and this would be one of
+
+1117
+02:08:38,960 --> 02:08:43,360
+the 10 most important and it's just this great reminder so just for the person listening to this
+
+1118
+02:08:43,360 --> 02:08:47,760
+so what makes it hard to regulate your emotions biology let's just acknowledge there are
+
+1119
+02:08:47,760 --> 02:08:54,480
+biological differences between us our brains are different um i won't go into some of the details
+
+1120
+02:08:54,480 --> 02:09:00,240
+there but but you know anybody who has many kids more than one will recognize that they are simply
+
+1121
+02:09:00,400 --> 02:09:04,640
+different even if they're raised identically um one that we already talked about lack of skill
+
+1122
+02:09:05,440 --> 02:09:10,000
+right so lack of skill because skills were not taught because good skills were pushed away or
+
+1123
+02:09:10,000 --> 02:09:15,520
+because bad skills were reinforced i think this comes from it which is reinforcement of emotional
+
+1124
+02:09:15,520 --> 02:09:21,520
+behavior so kind of going back to childhood this one's very interesting right moodiness right
+
+1125
+02:09:21,520 --> 02:09:28,320
+your your mood in the moment will alter your ability to regulate emotion um this one i can
+
+1126
+02:09:28,320 --> 02:09:34,160
+relate to a ton which is emotional overload so the more pressure you have on you whether
+
+1127
+02:09:34,160 --> 02:09:40,080
+self-imposed or otherwise the more difficult it is and then one that i love which is emotional myths
+
+1128
+02:09:40,640 --> 02:09:47,360
+so mistaken beliefs about these things and i just may i have my own notes here one of them says when
+
+1129
+02:09:47,360 --> 02:09:53,440
+i can't regulate it is almost always the case that at least one and typically three of these
+
+1130
+02:09:53,440 --> 02:10:01,520
+are happening um so it's very interesting you know again three of these really pegged to
+
+1131
+02:10:01,520 --> 02:10:06,000
+childhood right the biology the reinforcement of emotional behavior plus or minus skill and the
+
+1132
+02:10:06,000 --> 02:10:14,640
+emotional myths yes i definitely think that they um a lot of them are long-standing patterns and
+
+1133
+02:10:14,640 --> 02:10:22,720
+some of them are are current and also contextual so for example there might be a person in your life
+
+1134
+02:10:23,680 --> 02:10:33,200
+just one of many that actually when you um uh display anger gives in to everything you're asking
+
+1135
+02:10:34,000 --> 02:10:40,320
+right and that this could be totally outside of your awareness but that means that you're more
+
+1136
+02:10:40,320 --> 02:10:47,920
+likely to have that anger response with that person in that context uh in the future i had
+
+1137
+02:10:47,920 --> 02:10:56,720
+a while you know before my husband uh ex-boyfriend at one point who um when we would argue if i started
+
+1138
+02:10:56,720 --> 02:11:03,760
+to cry he would immediately back down and this was outside of my awareness that this was happening
+
+1139
+02:11:03,760 --> 02:11:12,000
+but i realized over time i found myself crying a lot more than i ever had before um and crying is
+
+1140
+02:11:12,000 --> 02:11:16,400
+i'm not saying crying is good or bad but i just noticed that that was what was happening because
+
+1141
+02:11:16,400 --> 02:11:22,720
+in that context with that person that behavior was was being reinforced and i feel like this could
+
+1142
+02:11:22,720 --> 02:11:31,520
+happen so subtly and um it's so contextual that how we and why we're sometimes different with
+
+1143
+02:11:31,520 --> 02:11:38,160
+different people um is because of that this is often at least as it relates to bpd is is like
+
+1144
+02:11:38,160 --> 02:11:42,560
+pathologized oh if a person if you're different with different people there's something wrong
+
+1145
+02:11:42,560 --> 02:11:48,560
+with you you have no core sense of identity or something but i would say it's actually pretty
+
+1146
+02:11:48,560 --> 02:11:54,880
+normal we're all different with different people um because the context you know often call for that
+
+1147
+02:11:55,920 --> 02:12:02,880
+and it's adaptive to be that way so is it essential for everybody who's practicing dbt to also be
+
+1148
+02:12:02,880 --> 02:12:10,240
+practicing mindfulness meditation given the importance of that first step which is
+
+1149
+02:12:10,320 --> 02:12:16,400
+recognizing the thought it is uh well we might have to disentangle what we mean by mindfulness
+
+1150
+02:12:16,400 --> 02:12:25,040
+meditation because i would say mindfulness as a skill is central to everything yeah sorry let me
+
+1151
+02:12:25,040 --> 02:12:30,560
+rephrase the question given the importance of mindfulness as a central tenet to this entire
+
+1152
+02:12:30,560 --> 02:12:38,320
+practice is it also suggested that people use a form of meditation that practices the
+
+1153
+02:12:38,640 --> 02:12:44,000
+skill you know you you know typically focusing on something like the breath or an object and
+
+1154
+02:12:45,120 --> 02:12:50,640
+you know bringing their attention back to that every time it wanders as kind of one form yeah
+
+1155
+02:12:51,440 --> 02:12:58,880
+we have actually debated this uh within dbt and i remember actually there was a while that
+
+1156
+02:12:58,880 --> 02:13:05,760
+marcia was when i was a student of hers and therefore seeing her every day when she was on
+
+1157
+02:13:06,640 --> 02:13:13,200
+this this kick for lack of a better word saying that we need to get all the therapists to practice
+
+1158
+02:13:13,200 --> 02:13:19,040
+seated meditation like you're describing for at least 20 minutes every day and actually there's a
+
+1159
+02:13:20,480 --> 02:13:27,440
+form of cognitive behavioral therapy called mindfulness-based stress reduction mbsr you
+
+1160
+02:13:27,440 --> 02:13:34,480
+may have heard of it for depression in which they they teach people who are in the treatment
+
+1161
+02:13:35,200 --> 02:13:40,720
+to work up to that seated meditation and they also require that therapists who
+
+1162
+02:13:41,440 --> 02:13:46,800
+do mbsr also practice it that way and so marcia was thinking do i need to require this and i remember
+
+1163
+02:13:47,760 --> 02:13:55,600
+even way back when arguing against it at the time because i thought that's that's not actually
+
+1164
+02:13:56,560 --> 02:14:05,040
+practical for everybody always i think about a working mom who a single mom with three kids and
+
+1165
+02:14:05,040 --> 02:14:16,000
+to say you need to find 20 minutes a day to do seated meditation is is um impractical um there
+
+1166
+02:14:16,000 --> 02:14:24,640
+have been many times in my life where that was impractical as well so uh she and part of this was
+
+1167
+02:14:24,720 --> 02:14:30,080
+to try to figure out like how do we define a dbt therapist how do we know when somebody is doing
+
+1168
+02:14:30,080 --> 02:14:37,440
+dbt um so we she never ended up requiring or saying that therapists have to do this but what
+
+1169
+02:14:37,440 --> 02:14:44,720
+she would say is that therapists who practice dbt have to have a mindfulness practice but that
+
+1170
+02:14:44,720 --> 02:14:54,400
+practice could be anything um under the umbrella of mindfulness so you do yoga that's uh
+
+1171
+02:14:54,400 --> 02:15:00,000
+could be your mindfulness practice or you do mind you know you do mindful walking or you do
+
+1172
+02:15:00,000 --> 02:15:06,560
+mindful participating in various things and i would say that that is something when it comes to
+
+1173
+02:15:06,560 --> 02:15:16,320
+clients who are in dbt we want them to strengthen their mindfulness muscle absolutely and if i have
+
+1174
+02:15:16,320 --> 02:15:23,520
+clients who are interested in learning to do seated meditation that's amazing and i would
+
+1175
+02:15:23,600 --> 02:15:29,840
+support that entirely i think for a lot of the clients that we work with at my clinic
+
+1176
+02:15:29,840 --> 02:15:37,200
+that would be too big a jump um and why marcia doesn't doesn't say that clients need to do this
+
+1177
+02:15:38,240 --> 02:15:43,840
+because lots for a lot of people who are in dbt who might be at that more severe end of the
+
+1178
+02:15:43,840 --> 02:15:50,560
+continuum just sitting with themselves and their thoughts and their minds without doing anything
+
+1179
+02:15:50,640 --> 02:15:58,080
+to change it for a minute could be excruciating um so we're trying to build that that tolerance
+
+1180
+02:15:58,080 --> 02:16:06,480
+of course but the mindfulness skills in dbt are much more concrete and practical and designed to
+
+1181
+02:16:06,480 --> 02:16:16,240
+be used in any moment rather than um designed to facilitate a more formal practice you know obviously
+
+1182
+02:16:16,240 --> 02:16:20,480
+we can't cover dbt in any comprehensive manner there's so much but there are a couple things
+
+1183
+02:16:20,560 --> 02:16:25,120
+i'd love to just highlight that i have found very helpful and i'd love to kind of hear your
+
+1184
+02:16:25,120 --> 02:16:32,400
+you expand on them one is opposite action which is um you know for anybody who's done dbt you'll
+
+1185
+02:16:32,400 --> 02:16:37,600
+grin when you just or grimace depending on because how hard it can be sometimes right
+
+1186
+02:16:38,400 --> 02:16:42,320
+do you want to explain to people what opposite action is and when we use it i think you know
+
+1187
+02:16:42,320 --> 02:16:46,800
+what's the use case for this yeah i did my dissertation on opposite oh i didn't know that
+
+1188
+02:16:46,800 --> 02:16:54,320
+action i did okay so opposite action is a skill that falls into the emotion regulation module
+
+1189
+02:16:54,960 --> 02:16:58,400
+and it's a skill for changing an emotion that you don't want to have
+
+1190
+02:16:59,520 --> 02:17:10,720
+and it's simple in concept and hard to execute because uh simply put it's engaging in the opposite
+
+1191
+02:17:10,720 --> 02:17:16,160
+of what your urges are telling you to do so we know and that's why it's called opposite action
+
+1192
+02:17:16,160 --> 02:17:22,240
+so we know that from emotion science from our own experiences that our experience of emotions
+
+1193
+02:17:22,240 --> 02:17:31,920
+are associated with an urge to act in particular ways so when we feel sad we have an urge to retreat
+
+1194
+02:17:33,440 --> 02:17:40,720
+or withdraw when we experience anger we have an urge to lash out when we experience shame it's to
+
+1195
+02:17:40,720 --> 02:17:50,960
+hide fear it's to fight or flight and so what opposite action says is that when your emotion
+
+1196
+02:17:52,480 --> 02:17:58,240
+does not fit the facts of the situation or is too intense for the situation and you want to change
+
+1197
+02:17:58,240 --> 02:18:05,440
+it a way to change it is to act opposite to your urges so when i'm sad instead of withdrawing i
+
+1198
+02:18:05,520 --> 02:18:11,040
+activate when i'm fearful instead of running away i approach kind of like the exposure we were
+
+1199
+02:18:11,040 --> 02:18:18,720
+talking about earlier when i'm experiencing shame rather than hide i actually confront or disclose
+
+1200
+02:18:19,920 --> 02:18:30,240
+and and so on so it is really hard to do but you get better at it over time i will say that if you
+
+1201
+02:18:30,240 --> 02:18:34,800
+practice i don't know if that's been your experience it has been and i but what i want
+
+1202
+02:18:34,800 --> 02:18:38,080
+to tell you and i guess you'll appreciate this given your background especially is
+
+1203
+02:18:39,760 --> 02:18:44,000
+you know i mentioned earlier anger being a profound emotion that i'm very familiar with
+
+1204
+02:18:44,000 --> 02:18:50,720
+the other one is is um i don't know what the underlying emotion is i haven't really figured
+
+1205
+02:18:50,720 --> 02:18:59,360
+it out yet um i don't think it's sadness but it produces a phenotype of needing to isolate
+
+1206
+02:18:59,360 --> 02:19:06,960
+so there's a uh just a desire to completely isolate so these are two areas where opposite
+
+1207
+02:19:06,960 --> 02:19:11,520
+action becomes very helpful right so with you know one of the really interesting things that
+
+1208
+02:19:11,520 --> 02:19:15,680
+if you told me this five years ago i would have never believed it but it's remarkable is the use
+
+1209
+02:19:15,680 --> 02:19:25,600
+of cold water to calm uh the nervous system in in moments of high fight or flight mode so that's
+
+1210
+02:19:25,600 --> 02:19:30,160
+part of the opposite action effect there i feel angry i'm going to go and do something that's
+
+1211
+02:19:30,160 --> 02:19:35,280
+really calming which is take an ice shower or jump in the cold pool this is nice in the winter
+
+1212
+02:19:35,280 --> 02:19:39,280
+here in austin because we still have pools open and they're you know really cold in the winter
+
+1213
+02:19:41,520 --> 02:19:47,360
+where i have but that's harder those are harder to do it's as you probably can imagine when you're
+
+1214
+02:19:47,360 --> 02:19:54,400
+when you're at nine out of ten activation and your desire is to scream or break something
+
+1215
+02:19:55,360 --> 02:20:02,560
+to then walk yourself back from that is harder where i have found um opposite action to be
+
+1216
+02:20:02,560 --> 02:20:08,400
+remarkably helpful and helpful to the point where it's now the norm this this might be my biggest
+
+1217
+02:20:08,400 --> 02:20:16,160
+win so far is when all i want to do is isolate forcing myself to go and play with my kids
+
+1218
+02:20:16,800 --> 02:20:19,920
+and i remember the very first time this happened it was about a year and a half ago
+
+1219
+02:20:20,560 --> 02:20:27,280
+and for reasons i didn't understand it was a sunday morning and i just didn't want you know
+
+1220
+02:20:27,280 --> 02:20:32,880
+i wanted to sit in the office and do work and exercise and just do my own thing and be my own
+
+1221
+02:20:32,880 --> 02:20:39,840
+thing and my wife said hey we're gonna go to barton creek and you know play on the rocks and
+
+1222
+02:20:39,840 --> 02:20:43,120
+throw rocks in the water and stuff and again that's the sort of thing i would have said
+
+1223
+02:20:43,840 --> 02:20:49,120
+absolutely not i'm too busy i just i'm overwhelmed i need to just do this thing
+
+1224
+02:20:50,080 --> 02:20:53,680
+and she would have accepted it she would have been upset and she would have accepted it and she
+
+1225
+02:20:53,680 --> 02:21:00,880
+would laugh and i was like okay let's go now i didn't want to go at all shireen i mean the
+
+1226
+02:21:00,880 --> 02:21:07,680
+thought of not getting my work done and missing a workout potentially and then going to some place
+
+1227
+02:21:07,680 --> 02:21:12,240
+where it's totally unstructured and there's going to be other kids potentially and it's going to be
+
+1228
+02:21:12,240 --> 02:21:20,960
+loud like that everything about that was unappealing and we had this amazing time doing
+
+1229
+02:21:20,960 --> 02:21:26,000
+nothing literally playing games like who could get across the creek without getting the most water
+
+1230
+02:21:26,000 --> 02:21:30,720
+in their shoes and you know exactly what you'd expect and then on the way home we stopped and
+
+1231
+02:21:30,720 --> 02:21:35,200
+got a burger and fries like the last thing i'd want to do right like we did everything i would
+
+1232
+02:21:35,200 --> 02:21:41,680
+never want to do and i got home and i felt great and i didn't get as much work done and you know
+
+1233
+02:21:42,720 --> 02:21:47,280
+and now that's become kind of the real is like you do that enough times that you realize this
+
+1234
+02:21:47,280 --> 02:21:54,240
+really works this is the key for me this is important when i don't want to engage with anybody
+
+1235
+02:21:54,800 --> 02:21:59,600
+go and engage with my family because that's by that's the drug to get out of this so yeah i
+
+1236
+02:21:59,600 --> 02:22:07,280
+think opposite action is really a remarkable tool even the think of a simpler one smiling when you're
+
+1237
+02:22:07,280 --> 02:22:16,400
+furious and meaning it right so uh what marcia talks about is this opposite action all the way
+
+1238
+02:22:16,400 --> 02:22:22,320
+because we all know what a fake smile is and a fake smile while you're also in your mind thinking
+
+1239
+02:22:22,320 --> 02:22:27,120
+oh what a asshole i hate this person you know like that's not opposite action because that's
+
+1240
+02:22:27,760 --> 02:22:33,040
+what we might say half-assed opposite action it's not going to work because your mind is
+
+1241
+02:22:33,040 --> 02:22:37,760
+still going to be angry but what's going to happen really what we're talking about with
+
+1242
+02:22:37,760 --> 02:22:43,040
+opposite action is if we act opposite to our urges we're sending the feedback back to our brain
+
+1243
+02:22:43,600 --> 02:22:51,040
+to to feel a different way right so approaching i think for a lot of people relate to the idea
+
+1244
+02:22:51,040 --> 02:22:56,000
+of doing opposite action like what you said but also with when you're feeling socially anxious
+
+1245
+02:22:56,560 --> 02:23:02,560
+like you want to avoid going to the party or speaking up in class or at work because you're
+
+1246
+02:23:02,560 --> 02:23:08,160
+anxious and maybe you have a long history of avoiding saying anything or doing anything
+
+1247
+02:23:08,160 --> 02:23:14,400
+because you're anxious so opposite action would be to say throw yourself into that go to that party
+
+1248
+02:23:14,400 --> 02:23:18,800
+even though you don't want to and then throw yourself into the party which is what you
+
+1249
+02:23:18,800 --> 02:23:25,040
+described with your family like you could have gone along physically but all the while been thinking
+
+1250
+02:23:25,360 --> 02:23:29,760
+i could have been sitting there on my phone or goofing off yeah yeah or thinking this is stupid
+
+1251
+02:23:29,760 --> 02:23:34,560
+or whatever but you threw yourself into it when you were there and i think that that's the the
+
+1252
+02:23:34,560 --> 02:23:40,160
+critical piece it's not just the the moving your body there it's throwing your mind into it as well
+
+1253
+02:23:42,480 --> 02:23:47,600
+so what else do you think would be really interesting for a person who's never heard
+
+1254
+02:23:47,600 --> 02:23:53,920
+of dbt to kind of understand as they themselves contemplate hey is this something is this a new
+
+1255
+02:23:53,920 --> 02:24:02,320
+skill i should learn right it's it's no different than saying i'd like to learn tennis because i know
+
+1256
+02:24:02,320 --> 02:24:08,960
+that as i age full court basketball might be hard for me but tennis is something that i'll be able
+
+1257
+02:24:08,960 --> 02:24:14,880
+to play for longer therefore i want to go and learn this skill i'm gonna need to coach i'm
+
+1258
+02:24:14,880 --> 02:24:21,200
+gonna need to practice and a year from now i'll be better than i am today but i mean is that do
+
+1259
+02:24:21,200 --> 02:24:27,840
+you think that's a good way to think about dbt well i do with with some caveats so you know
+
+1260
+02:24:27,840 --> 02:24:35,200
+anybody who reads any news or is living their lives right now knows that what we're hearing
+
+1261
+02:24:35,200 --> 02:24:39,440
+about is the idea that we're in a mental health crisis or that there's endless mental health
+
+1262
+02:24:39,440 --> 02:24:45,920
+crises right now and what we know is that there are just simply not enough mental health providers
+
+1263
+02:24:45,920 --> 02:24:52,480
+to treat all the need that's out there and what that has meant on a practical level is that there
+
+1264
+02:24:52,480 --> 02:25:02,800
+are huge long waiting lists for treatment everywhere for most people and and i don't think
+
+1265
+02:25:02,800 --> 02:25:08,160
+that we don't want that to deter people from seeking out help when they need it but the point
+
+1266
+02:25:08,160 --> 02:25:14,160
+i want to make as it relates to that is that i don't think everybody needs full-on dbt and
+
+1267
+02:25:15,120 --> 02:25:21,280
+and we don't yet have the science really this is actually an area of research that i'm interested
+
+1268
+02:25:21,280 --> 02:25:29,360
+in is trying to figure out who does need the full package of dbt versus who can benefit from a
+
+1269
+02:25:29,360 --> 02:25:36,080
+lighter touch a lower dose you know whatever word you want to use there because we want to be
+
+1270
+02:25:36,080 --> 02:25:45,120
+efficient in our mental health delivery we also want people to learn to reduce suffering of people
+
+1271
+02:25:45,120 --> 02:25:51,360
+on a on a mass level so is dbt something this sort of interrupt but just to kind of this will fit
+
+1272
+02:25:51,360 --> 02:25:57,840
+into what you're saying is dbt something that can be done somewhat effectively on your own
+
+1273
+02:25:58,480 --> 02:26:06,240
+meaning with manuals with books with videos online versus the way you would work with
+
+1274
+02:26:06,240 --> 02:26:10,640
+you know people who are much sicker where you have to be working with them directly in person
+
+1275
+02:26:12,080 --> 02:26:16,720
+so this is what we don't know yet i think we have some assumptions about this
+
+1276
+02:26:16,720 --> 02:26:24,080
+but i don't even know if our assumptions are that valid but i think you know the assumption was
+
+1277
+02:26:24,080 --> 02:26:32,480
+always for example that if somebody is experiencing suicidal thoughts they absolutely need you know
+
+1278
+02:26:33,280 --> 02:26:38,160
+some form of treatment and it needs to be in person and it needs you know to be x y and z
+
+1279
+02:26:38,720 --> 02:26:46,080
+and i think covid actually threw us into this new world that we weren't expecting because we had to
+
+1280
+02:26:46,080 --> 02:26:52,080
+start treating people who were suicidal virtually for example and we were able to realize that this
+
+1281
+02:26:52,080 --> 02:26:59,600
+idea that we had to see people in person was a myth that we believed and there were reasons why
+
+1282
+02:26:59,600 --> 02:27:08,400
+we believed it but but there doesn't seem to be any as far as we know so far any added risk of
+
+1283
+02:27:08,400 --> 02:27:15,680
+seeing somebody through telehealth when they're suicidal so i think a lot of our assumptions about
+
+1284
+02:27:15,680 --> 02:27:22,320
+what people need are our assumptions that we don't actually know a lot about so one of an area of
+
+1285
+02:27:22,320 --> 02:27:28,640
+research that i'm interested in and that i actually applied for some funding to do is to do kind of a
+
+1286
+02:27:28,640 --> 02:27:35,600
+stepped care model of dbt to start everybody with what we might call a low dose intervention like
+
+1287
+02:27:35,600 --> 02:27:44,880
+videos of skills and see what percentage of people benefit from that and from that alone
+
+1288
+02:27:45,440 --> 02:27:51,680
+versus what percentage of people don't benefit enough need something else and then what can we
+
+1289
+02:27:51,680 --> 02:27:57,440
+add to that that would be a slightly step up like maybe some phone coaching you get a call with
+
+1290
+02:27:57,440 --> 02:28:03,600
+somebody once a week about how to apply the skills in your daily life then then test it again right
+
+1291
+02:28:03,600 --> 02:28:08,800
+and then if you're not responding to that maybe then you get offered the full package of dbt
+
+1292
+02:28:10,240 --> 02:28:17,200
+or something else and we basically can identify through that kind of study what are the sequences
+
+1293
+02:28:17,200 --> 02:28:24,400
+of care that are going to be most effective that will help the most people and can be disseminable
+
+1294
+02:28:24,400 --> 02:28:30,240
+so that's that's an area of research that i would love to do we don't have a lot of knowledge about
+
+1295
+02:28:30,240 --> 02:28:36,480
+that so i'll but i'll say and i think we spoke about this very early on is that i honestly
+
+1296
+02:28:36,480 --> 02:28:43,600
+believe that anybody could benefit from learning dbt skills and so to that end i would say yes i
+
+1297
+02:28:43,600 --> 02:28:51,600
+think there is a value to your listeners to say expose yourself to some of these skills see if
+
+1298
+02:28:51,600 --> 02:28:55,840
+and there are videos there are books there are things that you could do to learn more about them
+
+1299
+02:28:56,640 --> 02:29:02,960
+um see if you resonate with them see if you can apply them on your own and if you want to know
+
+1300
+02:29:02,960 --> 02:29:09,440
+more or you're struggling to apply it in your life then that might be where you could reach out for
+
+1301
+02:29:10,320 --> 02:29:17,760
+for help and find a dbt therapist now speaking of that step shireen how does a person know when
+
+1302
+02:29:17,760 --> 02:29:25,120
+they find the dbt therapist how can they verify that they're you know well trained i mean you're
+
+1303
+02:29:25,120 --> 02:29:30,640
+probably an exception in that you trained directly with marcia um there are obviously a number of
+
+1304
+02:29:30,640 --> 02:29:35,840
+people who train directly with her but you know that's not scalable so at some point you're going
+
+1305
+02:29:35,840 --> 02:29:41,840
+to meet a potentially wonderful therapist who doesn't have that that lineage so how how is um
+
+1306
+02:29:42,640 --> 02:29:49,680
+how is the field of dbt self-regulated or self-policed so it's been a long-standing process
+
+1307
+02:29:50,240 --> 02:30:01,280
+to try to figure this out um and you know mental health is really screwing in this way because
+
+1308
+02:30:01,280 --> 02:30:07,360
+there are so many ways in which a person can provide can become a therapist hang a shingle as
+
+1309
+02:30:07,360 --> 02:30:16,240
+either window and practice therapy and um and that person can call themselves a dbt therapist
+
+1310
+02:30:16,240 --> 02:30:22,480
+or a cbt therapist or any kind of therapist and and may not have the credentials or training to
+
+1311
+02:30:22,480 --> 02:30:28,800
+back that up so i would i always tell people to kind of proceed with caution and to do your
+
+1312
+02:30:28,800 --> 02:30:36,640
+research when you're looking into finding a mental health provider um so we marcia was against this
+
+1313
+02:30:36,640 --> 02:30:46,880
+for a long time she was against this idea of um certifying dbt therapists she she didn't want
+
+1314
+02:30:46,880 --> 02:30:55,440
+to have a regulatory role she wanted people to learn dbt and to just sort of get dbt out there
+
+1315
+02:30:56,000 --> 02:31:01,200
+but then she was hearing more and more stories as we all have now of people saying that they
+
+1316
+02:31:01,200 --> 02:31:09,280
+received dbt and it didn't work and then you ask them what happened in their treatment and you hear
+
+1317
+02:31:09,280 --> 02:31:15,600
+details about their treatment that were clearly not dbt and so there's and and you know the worst
+
+1318
+02:31:15,600 --> 02:31:23,440
+case scenario is somebody dies by suicide or you know has a terrible outcome thinking that they're
+
+1319
+02:31:23,440 --> 02:31:32,480
+getting dbt when they're not so a few years ago she started the linnahan board of certification
+
+1320
+02:31:32,480 --> 02:31:40,480
+lbc which has started a certification process for dbt therapists so what i will say is that
+
+1321
+02:31:43,520 --> 02:31:50,240
+what's the logic here that i'm finding the hard time describing it but so all people that are
+
+1322
+02:31:50,240 --> 02:31:56,880
+certified by lbc to be dbt clinicians are likely good clinicians good dbt clinicians because
+
+1323
+02:31:56,880 --> 02:32:03,280
+they've met all of these standards but not all people who are not certified are bad dbt therapists
+
+1324
+02:32:03,280 --> 02:32:07,520
+right because there's a number of dbt therapists who have just elected not to go through the
+
+1325
+02:32:07,520 --> 02:32:14,880
+process of certification so if you're first starting to to think seriously about dbt you
+
+1326
+02:32:14,960 --> 02:32:21,360
+might start by looking up certified dbt therapists but recognizing that that's not the only criteria
+
+1327
+02:32:21,360 --> 02:32:29,920
+to use are there any other questions that a person can ask to determine if the pedigree of the person
+
+1328
+02:32:29,920 --> 02:32:34,960
+who's going to be conducting their therapy is truly in line with the principles of dbt as opposed to
+
+1329
+02:32:35,920 --> 02:32:43,840
+you know something that's been bastardized and and sort of misused so i'll share another
+
+1330
+02:32:43,840 --> 02:32:51,120
+marcia anecdote in response to that question because relatively early on sort of after the
+
+1331
+02:32:51,120 --> 02:32:58,480
+initial trials of dbt were put out showing that dbt was effective insurance companies started
+
+1332
+02:32:58,480 --> 02:33:07,760
+getting interested and wanted to pay for dbt but didn't want to pay for non-dbt and so they would
+
+1333
+02:33:07,760 --> 02:33:13,360
+call marcia up and they would say this person says they're doing dbt how do we know if they're really
+
+1334
+02:33:13,360 --> 02:33:19,360
+doing dbt so that we can reimburse for the service and she thought about it and ultimately
+
+1335
+02:33:19,360 --> 02:33:25,920
+said ask them if they're ask the dbt provider if they're on a consultation team now i think
+
+1336
+02:33:25,920 --> 02:33:33,200
+that this is oversimplified by far but i'll explain that one of the aspects of dbt or one
+
+1337
+02:33:33,200 --> 02:33:39,440
+of the components of the full package of dbt in addition to individual therapy and skills training
+
+1338
+02:33:39,920 --> 02:33:46,720
+is that the dbt therapist him or herself attends a weekly consultation team meeting
+
+1339
+02:33:46,720 --> 02:33:54,800
+with other dbt therapists and the consultation team meeting is a place where dbt therapists talk
+
+1340
+02:33:54,800 --> 02:34:02,160
+about their experiences delivering dbt with an aim towards improving their own adherence to the
+
+1341
+02:34:02,160 --> 02:34:11,360
+model and their motivation it's often called therapy for the therapist and and i think marcia's
+
+1342
+02:34:11,360 --> 02:34:19,360
+response to that question was important because in many places somebody might say i want to learn
+
+1343
+02:34:19,360 --> 02:34:25,360
+dbt and i can a provider might say oh i've learned the dbt skills and i can teach my clients dbt
+
+1344
+02:34:25,360 --> 02:34:31,760
+skills and i'll just you know pick and choose what i want to do out of dbt and the first thing
+
+1345
+02:34:31,760 --> 02:34:38,080
+they elect to drop is the consultation team meeting because it's time right it's time and effort and
+
+1346
+02:34:38,080 --> 02:34:44,960
+it's and it's centered on you improving yourself as a therapist so i think it's i think it holds
+
+1347
+02:34:44,960 --> 02:34:50,720
+up though as a reasonable question to know to what extent is the person that you're that you're
+
+1348
+02:34:50,720 --> 02:34:57,520
+looking into adhering to dbt principles is to ask whether they're part of a dbt consultation team
+
+1349
+02:34:57,520 --> 02:35:01,840
+that's a that's a great litmus test actually i really like that i don't know how many people
+
+1350
+02:35:01,840 --> 02:35:05,680
+yeah i mean i don't it'd be interesting i mean it's funny because i hear andy talk about his
+
+1351
+02:35:06,880 --> 02:35:12,400
+not surprisingly but i never really thought of it as a great litmus test as well so yeah shireen
+
+1352
+02:35:12,400 --> 02:35:16,560
+this was fantastic and i know we're going to get to meet in person in about six weeks so i'm really
+
+1353
+02:35:16,560 --> 02:35:22,400
+looking forward to that but thank you so much for your for your time uh today and i think you know
+
+1354
+02:35:23,040 --> 02:35:28,080
+this is a hard topic because it's so big and it's so big to get your arms around it all and i i want
+
+1355
+02:35:28,080 --> 02:35:32,720
+people to come away from this not at all thinking that they know what dbt is necessarily from this
+
+1356
+02:35:32,720 --> 02:35:37,680
+but i hope we've piqued someone's curiosity such that they go out they they watch some videos they
+
+1357
+02:35:37,680 --> 02:35:42,640
+maybe pick up a book or a skills book and decide hey is there something in here for me and and
+
+1358
+02:35:42,640 --> 02:35:46,960
+maybe for some it means going as far as you know someone like me has gone and and saying i'm going
+
+1359
+02:35:46,960 --> 02:35:53,200
+to make this a regular part of my training yeah great it was really fun talking to you so thank you
+
+1360
+02:35:53,200 --> 02:36:04,000
+thanks shireen
+

@@ -1,0 +1,2944 @@
+1
+00:00:00,000 --> 00:00:10,640
+Hey everyone, welcome to the Peter Attia drive. I'm your host, Peter Attia.
+
+2
+00:00:10,640 --> 00:00:16,000
+The drive is a result of my hunger for optimizing performance, health, longevity, critical thinking,
+
+3
+00:00:16,000 --> 00:00:19,760
+along with a few other obsessions along the way. I've spent the last several years working
+
+4
+00:00:19,760 --> 00:00:23,840
+with some of the most successful top performing individuals in the world. And this podcast
+
+5
+00:00:23,840 --> 00:00:28,600
+is my attempt to synthesize what I've learned along the way to help you live a higher quality,
+
+6
+00:00:28,600 --> 00:00:33,480
+more fulfilling life. If you enjoy this podcast, you can find more information on today's episode
+
+7
+00:00:33,480 --> 00:00:36,360
+and other topics at PeterAttiaMD.com.
+
+8
+00:00:36,360 --> 00:00:48,680
+Hey everybody, welcome to this week's episode of The Drive. My guest this week is Sid Mukherjee,
+
+9
+00:00:48,680 --> 00:00:55,120
+who is a remarkable writer, in fact, a Pulitzer Prize winning writer and a remarkable physician
+
+10
+00:00:55,120 --> 00:00:59,720
+and scientist. In fact, probably there's nobody I know that combines those three things
+
+11
+00:00:59,720 --> 00:01:06,440
+as efficaciously as Sid does. His biography reads like I'm making it up. He studied biology
+
+12
+00:01:06,440 --> 00:01:11,840
+at Stanford. He then became a Rhodes Scholar, went to Oxford, earned his PhD in immunology,
+
+13
+00:01:11,840 --> 00:01:16,160
+returned to the United States to earn his MD at Harvard, et cetera, et cetera, et cetera.
+
+14
+00:01:16,160 --> 00:01:21,120
+Fast forward to today. He is an associate professor of medicine in the division of hematology
+
+15
+00:01:21,120 --> 00:01:26,400
+and oncology at Columbia University, which is where we met to do this interview. He has published
+
+16
+00:01:26,400 --> 00:01:30,720
+also and continues to publish consistently in both the New Yorker and the New York Times,
+
+17
+00:01:30,720 --> 00:01:35,600
+which in and of itself is quite a distinction as I would learn. Typically one is on either side of
+
+18
+00:01:35,600 --> 00:01:39,840
+those, but not both. And of course he's published in New England Journal of Medicine, Nature,
+
+19
+00:01:39,840 --> 00:01:45,440
+in addition to a whole host of other medical journals. I met Sid probably five years ago at
+
+20
+00:01:45,440 --> 00:01:49,920
+a dinner that was set up by Lou Cantley, someone I'll be interviewing very shortly, who will be a
+
+21
+00:01:49,920 --> 00:01:55,120
+guest obviously soon. And while I remember that dinner very well, I was surprised to learn that
+
+22
+00:01:55,120 --> 00:01:59,120
+it left such an impression on Sid and he described it as something to the effect of one of the most
+
+23
+00:01:59,120 --> 00:02:03,600
+interesting and perhaps important scientific collaborations in his life that stemmed from it.
+
+24
+00:02:04,320 --> 00:02:10,720
+As we kind of jotted out a napkin experiment that went on to become a paper that was published by
+
+25
+00:02:10,720 --> 00:02:15,760
+a group led by Lou and Sid. And that paper was published this past summer and we talk about that
+
+26
+00:02:15,760 --> 00:02:21,440
+in detail. That paper involved the use of ketogenic diets in combination with a class of
+
+27
+00:02:21,440 --> 00:02:26,320
+drugs called PI3 kinase inhibitors. We're going to go into great detail on that so I obviously don't
+
+28
+00:02:26,320 --> 00:02:31,200
+want to repeat any of that stuff here, but I think for those of you that are interested in cancer,
+
+29
+00:02:31,200 --> 00:02:35,280
+you're obviously going to find this episode very interesting. But the other thing with Sid is,
+
+30
+00:02:35,280 --> 00:02:38,560
+it doesn't matter if you have no interest in cancer. I think you'll find this discussion
+
+31
+00:02:38,560 --> 00:02:43,040
+interesting because Sid has a way of making everything interesting and that to me is part
+
+32
+00:02:43,040 --> 00:02:49,760
+of Sid's gift. When I got his book, The Gene, in the summer of 2016 when it came out, it's one of
+
+33
+00:02:49,760 --> 00:02:57,120
+probably only six books in my life that I was not able to stop reading from the moment I started. So
+
+34
+00:02:57,120 --> 00:03:02,560
+it's one of those things where everything else I was doing had to be put aside for a few days until
+
+35
+00:03:02,560 --> 00:03:09,360
+I could finish that book. That's just the way Sid writes and that's also the way he speaks. He is a
+
+36
+00:03:09,360 --> 00:03:13,840
+unique human being and I think that will come across in this interview. The other thing that
+
+37
+00:03:13,840 --> 00:03:19,040
+was a total pleasant surprise to me was in doing the research for this podcast was coming across
+
+38
+00:03:19,040 --> 00:03:23,200
+a book that I was ashamed to admit I didn't even know he'd written called The Laws of Medicine.
+
+39
+00:03:23,200 --> 00:03:29,200
+That's because it's called The Three Laws of Medicine and we talk about these three laws and
+
+40
+00:03:29,200 --> 00:03:33,280
+rather than even stating them now, I just think it's worth this podcast is worth the price of
+
+41
+00:03:33,280 --> 00:03:38,640
+admission just on the basis of understanding those three laws. So with that, I hope you will
+
+42
+00:03:38,720 --> 00:03:44,400
+welcome Sid to the show and I do want to just remind folks to please sign up for the email
+
+43
+00:03:44,400 --> 00:03:49,280
+list. I've been putting a lot of effort into those emails every Sunday morning they go out
+
+44
+00:03:49,280 --> 00:03:53,040
+and I hope that they're at least worth some value. I think they are and I like to be able to
+
+45
+00:03:53,040 --> 00:03:56,560
+kind of share things with folks that I'm reading or seeing along the way and they don't always
+
+46
+00:03:56,560 --> 00:04:02,080
+have to do with longevity. Keep in mind one of the things that I think takes up more actual time
+
+47
+00:04:02,080 --> 00:04:06,800
+than anything else with respect to this podcast is putting together the show notes. So Bob and
+
+48
+00:04:06,880 --> 00:04:11,520
+Travis work really hard on those and the feedback we've been getting is incredible. People keep
+
+49
+00:04:11,520 --> 00:04:15,840
+saying, my God, how do you make these things? And the short answer is I don't. I don't do any of it,
+
+50
+00:04:15,840 --> 00:04:20,560
+but Bob and Travis do, especially Travis. And I think that if you spend a few minutes looking at
+
+51
+00:04:20,560 --> 00:04:24,640
+that stuff, especially if you find some of the content challenging and when we get into technical
+
+52
+00:04:24,640 --> 00:04:28,240
+terms, which we do on some of the podcasts, you're pretty much going to find everything in the show
+
+53
+00:04:28,240 --> 00:04:32,400
+notes. Lastly, if you're enjoying this, it would be an honor if you would head on over to Apple
+
+54
+00:04:32,400 --> 00:04:36,640
+Podcast reviews and leave us a review, especially if it's a positive one, but we'll take a negative
+
+55
+00:04:36,640 --> 00:04:41,200
+one too, as long as you can be constructive in your feedback. So without further delay,
+
+56
+00:04:41,200 --> 00:04:50,240
+here is my guest today, Sid Mukherjee. Hey, Sid, thanks for making time. My pleasure. Thanks for
+
+57
+00:04:50,240 --> 00:04:55,200
+being here. Yeah, I don't get up to this part of the city very often. It's a bit of a hike.
+
+58
+00:04:55,200 --> 00:04:59,840
+Well, it's a massive medical school and it's hard to imagine it anywhere else except for
+
+59
+00:04:59,840 --> 00:05:04,320
+uptown in this way. You know, we go right all the way to the river. It's amazing. And the last time
+
+60
+00:05:04,320 --> 00:05:07,840
+I was up here was to see another one of your colleagues on the other side of the street,
+
+61
+00:05:07,840 --> 00:05:11,680
+Rudy Weibel, who's a good friend. And I used to be up here a lot more often. So it was nice to come
+
+62
+00:05:11,680 --> 00:05:16,160
+back. Most of our podcasts go really, really long. This one, I don't think we have that luxury of
+
+63
+00:05:16,160 --> 00:05:20,800
+time. So I kind of want to get right into things. But before we do, I certainly think for the
+
+64
+00:05:20,800 --> 00:05:24,560
+listener who doesn't know you well, your background, which I'll allude to a lot in the
+
+65
+00:05:24,560 --> 00:05:29,200
+introductions. We don't spend too much time on it, but you grew up in India, came to the US.
+
+66
+00:05:29,200 --> 00:05:32,960
+Did you do college here? I went to college at Stanford. Yeah. Oh, that's right. You went to
+
+67
+00:05:33,040 --> 00:05:36,720
+undergrad at Stanford. Okay. Then medical school at Harvard. Actually, then in the middle, I was
+
+68
+00:05:36,720 --> 00:05:41,280
+away for three years. I did a... You did a Rhodes scholarship. Yeah. Are you a Rhodes scholar?
+
+69
+00:05:41,280 --> 00:05:44,800
+I was a Rhodes scholar and that's where I got my PhD and my PhD is in immunology,
+
+70
+00:05:45,520 --> 00:05:50,400
+which is a subject that I left behind. Went to medical school at Harvard Medical School,
+
+71
+00:05:51,120 --> 00:05:57,840
+then did my fellowship and my internship, my residency at Mass General Hospital, fellowship
+
+72
+00:05:57,840 --> 00:06:03,040
+at the Dana-Farber Cancer Institute, and then started my own lab and clinical practice at
+
+73
+00:06:03,040 --> 00:06:10,080
+Columbia University and have come back to immunology in a strange, widening circle of a way.
+
+74
+00:06:10,800 --> 00:06:15,760
+Yeah. The first time we met was a dinner that Lou Cantley had planned for us. This is about three
+
+75
+00:06:15,760 --> 00:06:20,880
+or four years ago. And I remember at the time, the topic that Lou is passionate about, that I'm
+
+76
+00:06:20,880 --> 00:06:25,120
+passionate about was sort of metabolism of cancer. And at the time, it wasn't something that seemed
+
+77
+00:06:25,200 --> 00:06:28,640
+as interesting to you as it is today. And I know today I want to talk so much more about that,
+
+78
+00:06:28,640 --> 00:06:32,400
+because the work you guys have done in the last few years is in many ways what I think is the most
+
+79
+00:06:32,400 --> 00:06:36,480
+interesting stuff to talk about. It was also a tough dinner because you don't eat most things.
+
+80
+00:06:37,600 --> 00:06:42,640
+It's hard to have dinner with someone when half the menu is off the menu. So anyway,
+
+81
+00:06:42,640 --> 00:06:46,640
+we somehow managed and scraped by and it was a wonderful evening. And actually led to...
+
+82
+00:06:47,200 --> 00:06:51,840
+What was that? Five years ago? Yeah. Led to one of the most interesting and perhaps important
+
+83
+00:06:51,840 --> 00:06:57,040
+scientific collaborations in my life. With Lou. With Lou. But it was that dinner which kind of
+
+84
+00:06:57,040 --> 00:07:01,360
+hammered. It was in a Japanese restaurant on the Upper East Side in a tiny little place.
+
+85
+00:07:01,360 --> 00:07:03,360
+You remember? That's exactly, I know exactly where you were.
+
+86
+00:07:03,360 --> 00:07:07,280
+I know exactly where it was. Well, because we wrote on a... It was a little bit like one of
+
+87
+00:07:07,280 --> 00:07:12,960
+these napkin experiments where you write on a napkin an idea. And that idea takes five years
+
+88
+00:07:12,960 --> 00:07:18,720
+to come alive. This thing that was sketched on a napkin that evening and is now leading to actually
+
+89
+00:07:18,720 --> 00:07:25,200
+kind of a massive clinical trial across multiple sites, very energetic teams coming into all of
+
+90
+00:07:25,200 --> 00:07:29,840
+this out of that little napkin on a Japanese restaurant. Yeah, that was a really fun night.
+
+91
+00:07:29,840 --> 00:07:33,920
+Prior to that, I had read The Emperor of All Maladies. I don't think the gene was out yet.
+
+92
+00:07:33,920 --> 00:07:37,280
+The gene was not out yet. I want to spend just a couple minutes on The Emperor of All Maladies
+
+93
+00:07:37,280 --> 00:07:40,480
+because if there's anybody listening to this who hasn't read it, you won the Pulitzer Prize for
+
+94
+00:07:40,480 --> 00:07:46,880
+that book, I believe. I did, yes. Yeah. So it's a must read. Having myself studied in oncology,
+
+95
+00:07:46,960 --> 00:07:51,680
+there was so much that I learned. I trained at Hopkins, which is... So we're in the Hallstead
+
+96
+00:07:51,680 --> 00:07:56,400
+School of where the mastectomy was created, where many of these things were created. But to really
+
+97
+00:07:56,400 --> 00:08:02,000
+understand the history of Bernard Fisher's role in the mastectomy, it's just an unbelievable story.
+
+98
+00:08:02,000 --> 00:08:06,880
+My only criticism was at the time quite a depressing story. Yeah. I mean, I'm not saying
+
+99
+00:08:06,880 --> 00:08:11,280
+that to be critical. I understand that. It's less a criticism of you than the field. No, no. It was,
+
+100
+00:08:11,280 --> 00:08:15,760
+to me actually, interestingly, people often bring this up idea up. For me, it was actually... It's
+
+101
+00:08:15,840 --> 00:08:21,360
+far from a depressing story. It's just the opposite. In fact, if we don't contend with the
+
+102
+00:08:22,080 --> 00:08:25,600
+question of how... I mean, The Emperor of All Maladies, just for people who don't know,
+
+103
+00:08:25,600 --> 00:08:31,520
+is a history of cancer, starting from its first description in Egypt, right down to my own patients.
+
+104
+00:08:32,640 --> 00:08:38,880
+Thousands of years of a journey against a disease that seems to morph and change over time. Every
+
+105
+00:08:38,880 --> 00:08:44,160
+time we look at it, it has a new form. It reflects our own diversity to some extent, our own
+
+106
+00:08:44,160 --> 00:08:50,320
+wyliness, our own imagination as humans. So to me, not a depressing book, because it is a way to
+
+107
+00:08:50,320 --> 00:08:55,840
+look directly at the face of the enemy. And I don't find that depressing. I find that clarifying.
+
+108
+00:08:55,840 --> 00:08:59,920
+And there are many, many high points in this journey. There's the invention of the great
+
+109
+00:08:59,920 --> 00:09:05,200
+surgeries that save tens of thousands, hundreds of thousands of lives around the world. The
+
+110
+00:09:05,200 --> 00:09:11,200
+dramatic advances against breast cancer and most importantly against some variants of leukemia,
+
+111
+00:09:11,200 --> 00:09:19,840
+where the mortality was 100% in 1950, and is five or 10% now. 95% change in mortality is a huge
+
+112
+00:09:20,400 --> 00:09:25,280
+difference in must rank as one of the great medical inventions of our time. So for me,
+
+113
+00:09:25,280 --> 00:09:29,600
+far from a depressing book, but to me, a clarifying book that tries to clarify why
+
+114
+00:09:30,240 --> 00:09:34,480
+we're here today, where we're going, what happens next, why we're not doing certain things, why we
+
+115
+00:09:34,480 --> 00:09:38,560
+are doing certain things. So that's my impression of what happened at the end of that book.
+
+116
+00:09:38,560 --> 00:09:43,440
+When did the idea to write, as it's really referred to the biography of cancer, when did
+
+117
+00:09:43,440 --> 00:09:46,720
+that idea come to you? Was it in your fellowship and your training at some point?
+
+118
+00:09:46,720 --> 00:09:51,680
+Yeah, I was training and it was a very simple moment. Actually, I remember a woman who I was
+
+119
+00:09:51,680 --> 00:09:58,000
+treating for cancer came to me and I was giving her yet another trial of targeted therapy, a new
+
+120
+00:09:58,000 --> 00:10:01,600
+kind of therapy. And she finally sat down one afternoon and she said, where are we going
+
+121
+00:10:02,240 --> 00:10:07,040
+with all of this? Why are we here? How do we get here? And she was of course asking me in a very
+
+122
+00:10:07,040 --> 00:10:11,920
+personal level, but you could take that question and make it a much, much larger question. Where
+
+123
+00:10:11,920 --> 00:10:17,600
+are we going in this battle against cancer? Why are we here today? What happens next? Why aren't
+
+124
+00:10:17,600 --> 00:10:23,040
+we elsewhere? How much of this is the wildness of this family of diseases? How much of this is the
+
+125
+00:10:23,040 --> 00:10:28,400
+capacity to use our, the greatest skills of our imagination against this illness? You know,
+
+126
+00:10:28,960 --> 00:10:35,920
+in the 1930s, 1940s, 1950s, when you asked a child what the outer limit of their scientific
+
+127
+00:10:35,920 --> 00:10:40,880
+imagination was, they would say, I want to be a rocket scientist and I want to send a rocket to
+
+128
+00:10:40,880 --> 00:10:47,200
+the moon. By the 1950s, 60s, 70s, if you ask that same child what the outer limits of their
+
+129
+00:10:47,200 --> 00:10:52,080
+scientific imagination would bring to the world, they would say, I want to cure cancer. It began
+
+130
+00:10:52,080 --> 00:10:58,800
+to define the limits of our scientific prowess, are the limits of our imagination, a world without
+
+131
+00:10:58,800 --> 00:11:06,960
+cancer. So there is a sense in which this is such an elemental illness. So much of our culture is now
+
+132
+00:11:06,960 --> 00:11:12,560
+defined through the lens of cancer. And what was shocking as a fellow, and I started encountering
+
+133
+00:11:12,560 --> 00:11:18,320
+cancer in the clinical sense, was shocking was that there was no such history, that it was all
+
+134
+00:11:18,320 --> 00:11:22,160
+ad hoc. And we knew little bits and pieces of it was like looking at the enemy through a
+
+135
+00:11:22,800 --> 00:11:28,000
+patchwork quilt with little holes in it. And the attempt here was to say, well, what is the full
+
+136
+00:11:28,080 --> 00:11:32,560
+story? What does the story look like? When did this start? Why did we end up here? What happens
+
+137
+00:11:32,560 --> 00:11:38,240
+tomorrow? What happens way into the future 100 years? What will cancer look like? And a lot of
+
+138
+00:11:38,240 --> 00:11:43,600
+thought experiments go into the book. So that's sort of the genesis of the book. And that's how
+
+139
+00:11:43,600 --> 00:11:48,160
+it came about. The research is also remarkable for a book like that. Anyone who's read it will
+
+140
+00:11:48,160 --> 00:11:52,800
+appreciate. And again, I think what's nice is this is one of those books where you can be an oncologist
+
+141
+00:11:52,800 --> 00:11:58,160
+and read it and find it staggering. And you can be someone who has lost a loved one to cancer,
+
+142
+00:11:58,160 --> 00:12:02,160
+but wouldn't know the difference between a sarcoma and a lyo myo sarcoma. Doesn't matter.
+
+143
+00:12:02,160 --> 00:12:07,280
+The book resonates, which obviously speaks to your ability to tell a story. And that's sort of,
+
+144
+00:12:07,280 --> 00:12:11,360
+to me, what's mind boggling about that book is the way and it's the same in the gene, by the way,
+
+145
+00:12:11,360 --> 00:12:15,680
+is that you weave in and out of a personal story, and then something that's very dense
+
+146
+00:12:15,680 --> 00:12:18,640
+scientifically. And on a personal level, this is challenging, because I'm in the process,
+
+147
+00:12:18,640 --> 00:12:22,240
+as you know, of writing a book and doing a pretty lousy job of it, I think. But it's
+
+148
+00:12:22,240 --> 00:12:27,760
+this challenge of you want to be able to do the science justice, but you need to be able to tell
+
+149
+00:12:27,760 --> 00:12:34,560
+a story. So how does the scientist, Sid Mukherjee, get along with the writer, Sid Mukherjee?
+
+150
+00:12:35,440 --> 00:12:39,600
+Well, I don't think there are two separate people. I think they're integrated into one person.
+
+151
+00:12:39,600 --> 00:12:46,640
+And that's very important. There are many people in my world. They wrote as a process of thinking.
+
+152
+00:12:47,200 --> 00:12:51,840
+Stephen Jay Gould comes to mind not to draw a ludicrous comparison. Charles Darwin wrote to
+
+153
+00:12:51,840 --> 00:12:56,480
+think. Oliver Sacks wrote to think. I would suspect that Atul Gawande writes to think. I
+
+154
+00:12:56,480 --> 00:13:03,840
+know Atul so. So the two people are fundamentally not different people in my brain in order to
+
+155
+00:13:03,840 --> 00:13:09,440
+do the scientific work that I do. I need to think it through, often through the essays that I work
+
+156
+00:13:09,440 --> 00:13:16,400
+on. And they inspire in a kind of yin-yang or roundabout way, circular way, ways to find new
+
+157
+00:13:16,400 --> 00:13:21,760
+ways of thinking about the world, the cancer world. So there isn't a conflict. I don't feel a conflict.
+
+158
+00:13:21,760 --> 00:13:26,640
+The process is probably of interest. I mean, the process is that when I started writing Emperor,
+
+159
+00:13:26,640 --> 00:13:32,560
+I sort of made a personal vow or a strategy in writing that this was my first book. I'd never
+
+160
+00:13:32,560 --> 00:13:38,400
+written a book before. I wrote down some principles or tenets that I would follow. And I've kept them
+
+161
+00:13:38,480 --> 00:13:44,480
+in every book since. The first one was that there will be no scientific abstraction,
+
+162
+00:13:45,040 --> 00:13:50,800
+at no place or point shall you go through five pages or three pages without there being a human
+
+163
+00:13:50,800 --> 00:13:56,400
+being in the middle of this. I'm a translational researcher. I'm a human scientist. And that meant
+
+164
+00:13:56,400 --> 00:14:01,600
+that I've made a personal promise that you wouldn't go through five pages without understanding what
+
+165
+00:14:01,600 --> 00:14:07,440
+the payoff of these pages that you've really worked your way through, often as a reader,
+
+166
+00:14:07,440 --> 00:14:12,960
+what the payoff is. So if you look carefully through that book, every five to seven pages,
+
+167
+00:14:12,960 --> 00:14:18,560
+the story comes alive in a human story, in a scientific story, and in a scientist story.
+
+168
+00:14:18,560 --> 00:14:23,440
+They all intersect. And sometimes through my stories, there are times that are tough.
+
+169
+00:14:23,440 --> 00:14:28,800
+And I'm writing about the description, the first cancer-causing genes, oncogenes,
+
+170
+00:14:28,800 --> 00:14:33,280
+and their mutations. It's tough to say, well, what's the human being? This is a laboratory
+
+171
+00:14:33,360 --> 00:14:39,360
+experiment in which you sprinkle tens of thousands of bits of genetic material onto cells and ask
+
+172
+00:14:39,360 --> 00:14:44,320
+the question, which cells become turned from normal to cancerous? And that's the way you trap
+
+173
+00:14:44,320 --> 00:14:49,520
+one of these cancer-causing oncogenes. What's the human story behind it? Well, there are two stories.
+
+174
+00:14:49,520 --> 00:14:55,040
+One story is quite lovely. It's the story of Bob Weinberg, the scientist who you know, walking
+
+175
+00:14:55,040 --> 00:15:02,560
+through Boston in a snowstorm and suddenly realizing, not in a one-to-one manner, but this
+
+176
+00:15:02,560 --> 00:15:08,240
+idea of sprinkling tens of thousands of genes onto pieces of genetic material onto cells,
+
+177
+00:15:08,800 --> 00:15:12,640
+like a snowstorm of genes. There's a kind of congruence to that story. It's not like Bob
+
+178
+00:15:12,640 --> 00:15:16,720
+Weinberg woke up one morning and saw a snowstorm and said, that's the experiment I should do. But
+
+179
+00:15:16,720 --> 00:15:24,080
+there's a kind of emotional congruence to the backstory of a scientist. But then the second
+
+180
+00:15:24,080 --> 00:15:31,360
+story that illustrates this point is to walk through a patient telescoping down, or rather
+
+181
+00:15:31,360 --> 00:15:38,160
+microscoping downwards from their outer cancer, a tumor, a lump, a mass that is about to kill them,
+
+182
+00:15:38,160 --> 00:15:45,920
+a real patient of mine, a man with lung cancer. And slowly in that same story of this man's illness,
+
+183
+00:15:46,720 --> 00:15:52,560
+begin to microscope down to the fact that he actually has in his cells this mutant gene
+
+184
+00:15:52,560 --> 00:15:58,640
+that Bob Weinberg once caught in this snowstorm of sprinkling genes on cells. And all of a sudden,
+
+185
+00:15:58,640 --> 00:16:05,760
+this man's cancer is sitting in a room in Boston surrounded by his family dying of metastatic lung
+
+186
+00:16:05,760 --> 00:16:11,680
+cancer. But at the heart, at the root of that lung cancer, is that very same gene, that very same
+
+187
+00:16:11,680 --> 00:16:19,120
+oncogene that was discovered, described 10, 20 years before in a paper, in a kind of dry, abstract,
+
+188
+00:16:19,120 --> 00:16:25,200
+scientific paper. And all of a sudden, that gene, the genetic material that can drive the growth of
+
+189
+00:16:25,200 --> 00:16:31,040
+a normal cell and make it malignant, make it metastatic, so metastatic, so malignant, that our
+
+190
+00:16:31,040 --> 00:16:38,560
+best medicine, our best minds can't stop the growth of this aberrant cell, all being driven in part by
+
+191
+00:16:38,560 --> 00:16:44,800
+that very same gene that was trapped 20 years ago in a laboratory experiment on rat cells. So all of
+
+192
+00:16:44,800 --> 00:16:50,720
+a sudden, this thing comes alive to you in a way that becomes consequential. If you didn't know the
+
+193
+00:16:50,720 --> 00:16:56,800
+identity of the gene, you would not understand why on earth this 70-year-old man in perfectly
+
+194
+00:16:56,800 --> 00:17:04,960
+good health is all of a sudden decimated by one or two or four or eight mutant genes in his cells
+
+195
+00:17:04,960 --> 00:17:09,360
+that suddenly take over and drive the growth of these cells. Anyway, that's one example that comes
+
+196
+00:17:09,360 --> 00:17:13,520
+up over and over again. That was the first tenet. That was the first tenet. So what was the second one?
+
+197
+00:17:13,520 --> 00:17:18,560
+There are many, so I'm not going to go through all the tenets. But the second one was that this book,
+
+198
+00:17:18,640 --> 00:17:23,280
+all these books, should be fundamentally readable by everyone. You talked about this already.
+
+199
+00:17:23,280 --> 00:17:29,040
+It should be like a kaleidoscope, that if you turn the book leftwards and you see it as an
+
+200
+00:17:29,040 --> 00:17:34,160
+oncologist, it's still interesting. The pattern changes. If you turn the book rightwards and say
+
+201
+00:17:34,160 --> 00:17:41,040
+you're an anthropologist, it still is interesting. If you turn the kaleidoscope upside down and shake
+
+202
+00:17:41,040 --> 00:17:46,400
+it and there's a new pattern that's formed, it's because you're reading the book now as a clinical
+
+203
+00:17:46,400 --> 00:17:53,040
+scientist. Or you're reading the book because your daughter has leukemia and you're the father
+
+204
+00:17:53,040 --> 00:17:58,400
+of a patient with leukemia. Or you're reading it because you yourself have been diagnosed with
+
+205
+00:17:58,400 --> 00:18:04,640
+breast cancer or your mother has and all of a sudden the kaleidoscope changes. But the point is
+
+206
+00:18:04,640 --> 00:18:09,520
+that the object remains the same. It's the same book, but you can read the book in various different
+
+207
+00:18:09,520 --> 00:18:14,960
+ways. You can come into it different ways. Often when I'm in, this sounds like a strange statement,
+
+208
+00:18:14,960 --> 00:18:20,800
+often when I come back from the words I reread my own writing to figure out what was I thinking
+
+209
+00:18:20,800 --> 00:18:28,640
+then in 2008 when I wrote those sentences and how does that change now? It's been 10 years.
+
+210
+00:18:28,640 --> 00:18:33,840
+So I should tell you that there will be a 10-year update to the emperor. There will be three
+
+211
+00:18:33,840 --> 00:18:38,480
+additional chapters. I assume one of them will be immunotherapy as an update. That's right. So
+
+212
+00:18:38,480 --> 00:18:43,600
+they're very broadly three sections that are updated and I've thought about it for a long time.
+
+213
+00:18:43,600 --> 00:18:48,560
+So there'll be an updated section on prevention. There'll be an updated section on early detection
+
+214
+00:18:48,560 --> 00:18:55,280
+and an updated section on treatment. So that's the very broad three big broad chapters. But in
+
+215
+00:18:55,280 --> 00:19:00,400
+every chapter there will be deeper dives into what's happened now since the last 10 years and
+
+216
+00:19:00,400 --> 00:19:04,560
+within the treatment section and potentially within the prevention section there'll be a huge
+
+217
+00:19:04,560 --> 00:19:09,600
+role of the immune system which was not fully appreciated in 2010. I thought that was the
+
+218
+00:19:09,600 --> 00:19:14,560
+biggest distinction between the book when I read it and then the PBS special, the Ken Burns special
+
+219
+00:19:14,560 --> 00:19:19,200
+which of course again we'll link to all of these things in the show notes here. But one, you got
+
+220
+00:19:19,200 --> 00:19:24,640
+to read the book. But two, I can't recommend enough the Ken Burns special. They did an unbelievable
+
+221
+00:19:24,640 --> 00:19:30,240
+job I think sharing your voice and that was the biggest. I remember watching it thinking, oh wow
+
+222
+00:19:30,240 --> 00:19:33,760
+there's a big difference here because there was a three installments or five I can't recall.
+
+223
+00:19:33,760 --> 00:19:37,360
+Yeah the third installment felt like it was half immunotherapy. It was half immunotherapy. Well
+
+224
+00:19:37,360 --> 00:19:42,240
+because part of the reason was that again this brings me to the next tenet in the book or writing
+
+225
+00:19:42,240 --> 00:19:47,440
+the book. The next tenet was that there's so much cancer research in laboratories going on everywhere
+
+226
+00:19:48,080 --> 00:19:55,680
+and the tenet or the principle was that unless that research has manifest itself in a human drug,
+
+227
+00:19:55,680 --> 00:20:01,040
+in a human medicine, in a in a reconception of how we think about preventing treating or
+
+228
+00:20:01,040 --> 00:20:07,120
+detecting cancer in a fundamental reconception of those ideas, it won't get into the book.
+
+229
+00:20:07,120 --> 00:20:12,240
+So tumor immunology of course had been around for a very long time, coleus toxins famously and
+
+230
+00:20:12,240 --> 00:20:19,200
+other such efforts very very early on. But in 2010 we were at the edge of that moment in which we
+
+231
+00:20:19,200 --> 00:20:26,960
+began to use tumor immunology in human beings as powerful medicines to change the course of the
+
+232
+00:20:27,040 --> 00:20:32,000
+disease. It was just the first trials that come out and in fact the book was complete in 2009
+
+233
+00:20:32,000 --> 00:20:35,920
+and the first trials had not even come out then. This is a little funny trivia story that I'd
+
+234
+00:20:35,920 --> 00:20:40,160
+almost forgotten about this until somebody mentioned it to me a year ago. I think the
+
+235
+00:20:40,160 --> 00:20:47,120
+first real paper that I wrote as a fellow was on CTLA-4. It was looking back at the series at NCI
+
+236
+00:20:47,120 --> 00:20:52,080
+of patients who had been given CTLA-4 and responded and this paper basically identified
+
+237
+00:20:52,080 --> 00:20:56,880
+the strong association between autoimmunity and their response to it. Right. Of course this will
+
+238
+00:20:56,880 --> 00:21:01,120
+be interesting later in our discussion because I want to of course talk about James Allison.
+
+239
+00:21:01,120 --> 00:21:06,240
+So we'll come back to that but you're right that was sort of when it went from you had interleukin
+
+240
+00:21:06,240 --> 00:21:10,560
+too that worked in maybe 10 percent 15 percent of patients but you couldn't predict why. That was
+
+241
+00:21:10,560 --> 00:21:14,240
+the bigger question. You didn't know why were some responding and why were they only responding with
+
+242
+00:21:14,240 --> 00:21:20,320
+certain cancers to where we are today where it's really been a transformation in the last 15 years.
+
+243
+00:21:20,320 --> 00:21:25,440
+Absolutely and so when we started the film version of Emperor with Ken Burns which I
+
+244
+00:21:25,440 --> 00:21:30,080
+obviously was very close I worked very closely with Ken. I should say that the gene is also being
+
+245
+00:21:30,080 --> 00:21:35,200
+made into film by Ken Burns. Oh my god it's like Christmas all over again. It's almost completely
+
+246
+00:21:35,200 --> 00:21:40,080
+shot we're sort of moving towards editing phases and so forth. When can people expect that? It's
+
+247
+00:21:40,080 --> 00:21:45,760
+already been scheduled I think it's winter or fall 2019 so it's on this it's about a year from now.
+
+248
+00:21:45,760 --> 00:21:50,320
+Yeah about a year from now yeah and we're working through footage and historical footage and archival
+
+249
+00:21:50,320 --> 00:21:55,760
+footage and so forth but to wind backwards the crucial piece that had been added since the book
+
+250
+00:21:55,760 --> 00:22:02,080
+was of course immunological therapy so much of what the last episode was around this new burgeoning
+
+251
+00:22:02,080 --> 00:22:06,960
+field I mean in the first meeting that we had around the transformation of the book into the
+
+252
+00:22:06,960 --> 00:22:11,920
+documentary film the first thing that was raised is what's changed and the answer was very obvious
+
+253
+00:22:11,920 --> 00:22:15,680
+what's changed is immunological therapy. It might have been emphasized as much in the book and I
+
+254
+00:22:15,680 --> 00:22:21,600
+may have just missed it or it's possible you also observed this as a change but I believe it will
+
+255
+00:22:21,600 --> 00:22:28,480
+factor into the 10th edition which I can't wait to get my hands on is the role of obesity in cancer
+
+256
+00:22:28,480 --> 00:22:34,400
+as if I recall in the documentary you said look this is now becoming basically the second leading
+
+257
+00:22:34,400 --> 00:22:39,440
+preventable cause of cancer after smoking which was again I was aware of that at that point in
+
+258
+00:22:39,440 --> 00:22:44,560
+time because of the work that I'd been doing and sort of my little echo chamber but I thought this
+
+259
+00:22:44,640 --> 00:22:49,440
+is a PBS special this is not something that I think most people would appreciate this is becoming a
+
+260
+00:22:49,440 --> 00:22:53,520
+first for many people to hear. That's right and the one thing that we should make clear is that
+
+261
+00:22:54,160 --> 00:23:03,440
+every word in that PBS document was vetted by some of the most important and thoughtful
+
+262
+00:23:03,440 --> 00:23:09,760
+scientists and cancer biologists and physicians and physician scientists and cancer advocates
+
+263
+00:23:09,760 --> 00:23:15,440
+across the world there's a backstory in other words the script was vetted over and over again
+
+264
+00:23:15,440 --> 00:23:20,400
+so that we wouldn't say things that were misinforming the public or because this is
+
+265
+00:23:20,400 --> 00:23:25,040
+this is documentaries for all time Ken Burns's work is evergreen hopefully my work is evergreen
+
+266
+00:23:25,040 --> 00:23:30,320
+so it was very very carefully vetted and it was quite clear by the time the documentary came out
+
+267
+00:23:30,320 --> 00:23:36,480
+that the signals that we were picking up around obesity and cancer were becoming extraordinarily
+
+268
+00:23:36,560 --> 00:23:42,000
+clear for some cancers obviously not for other cancers and the provocative statement that sits
+
+269
+00:23:42,000 --> 00:23:49,520
+behind all of this is that really since the last 20 odd years and maybe even 30 odd years we have
+
+270
+00:23:49,520 --> 00:23:56,400
+been struggling struggling to find preventable human chemical carcinogens of substantial impact
+
+271
+00:23:57,120 --> 00:24:02,160
+every word in that sentence is important we have certainly found chemical new chemical carcinogens
+
+272
+00:24:02,160 --> 00:24:07,600
+in humans but often in that affects small pockets of people who are exposed to those carcinogens
+
+273
+00:24:08,240 --> 00:24:14,000
+we have found lots and lots of chemical carcinogens which have moderate to very small impact if you
+
+274
+00:24:14,000 --> 00:24:20,400
+look at populations overall the bar might be smoking so smoking is a good bar this is a
+
+275
+00:24:20,400 --> 00:24:26,240
+smoking or tobacco smoke is a chemical carcinogen which is removable or preventable and it has
+
+276
+00:24:26,240 --> 00:24:31,680
+substantial human impact across populations changing smoking behavior can change fundamentally
+
+277
+00:24:31,680 --> 00:24:37,120
+the epidemiology of cancers across nations if that bar is smoking we have struggled for the
+
+278
+00:24:37,120 --> 00:24:43,040
+last 20 odd years to find things of that magnitude and effect the direct impact of that is when
+
+279
+00:24:43,040 --> 00:24:49,120
+people come to me and they say well what do you do to prevent cancer in yourself and your family
+
+280
+00:24:49,120 --> 00:24:54,400
+i have to sort of casually or not so casually admit that not very obviously i don't smoke
+
+281
+00:24:55,040 --> 00:25:00,880
+but it's not like i'm eating goji berries or or avoiding some fundamental thing that everyone
+
+282
+00:25:00,960 --> 00:25:05,200
+else is not in the know about because there aren't any i mean you know i'm obviously not
+
+283
+00:25:05,200 --> 00:25:11,040
+exposing myself to these rare unusual occupational cancer carcinogenic agents but i'm not doing
+
+284
+00:25:11,040 --> 00:25:16,000
+something fundamentally changed that's different from you or anyone else to prevent cancer
+
+285
+00:25:16,800 --> 00:25:24,560
+the exception to this rule of the 20 odd years of the hunt for chemical carcinogens is obesity now
+
+286
+00:25:24,560 --> 00:25:29,280
+you and i can have a debate is obesity a chemical carcinogen no not in the traditional sense is it
+
+287
+00:25:29,280 --> 00:25:34,080
+even preventable maybe but we have to think twice or three times about it there's a role of genetics
+
+288
+00:25:34,080 --> 00:25:39,680
+environment in all of this and even do we think it's obesity per se or hyperinsulinemia for instance
+
+289
+00:25:39,680 --> 00:25:44,000
+exactly first of all is it an endocrine problem is an inflammatory problem or is it a metabolic
+
+290
+00:25:44,000 --> 00:25:49,840
+problem there at least three yeah obesity is such a a such a crude phenotype that's right there at
+
+291
+00:25:49,840 --> 00:25:55,920
+least your point has at least three if not six underlying phenotypes that each of which
+
+292
+00:25:55,920 --> 00:26:00,160
+mechanistically would make a lot of sense for accelerating cancer is an immunological
+
+293
+00:26:00,160 --> 00:26:04,640
+phenomenon that is the cytokines the inflammatory all of these going back to your general point that
+
+294
+00:26:04,640 --> 00:26:10,400
+obesity was becoming identified more and more clearly as one of the potential causes of cancer
+
+295
+00:26:10,400 --> 00:26:15,920
+or i should say strongly correlated with the development of cancer so strongly that we think
+
+296
+00:26:15,920 --> 00:26:21,440
+that there's a causal link based on all everything that we know about epidemiology some cancers that
+
+297
+00:26:21,440 --> 00:26:25,360
+we began to take this seriously and we're still taking it seriously but as you're pointing out
+
+298
+00:26:25,360 --> 00:26:30,160
+there are several horns underneath that blanket of obesity that we understand very crudely and we
+
+299
+00:26:30,160 --> 00:26:34,800
+have to figure out which of these is driving the cancer risk i would like to spend the next six
+
+300
+00:26:34,800 --> 00:26:39,760
+hours discussing with you the tenets of writing for selfish reasons but instead i'll punt that to a
+
+301
+00:26:39,760 --> 00:26:43,520
+we'll do we'll have dinner in a couple weeks and we'll finish that discussion i want to talk about
+
+302
+00:26:43,520 --> 00:26:47,120
+another book you wrote that doesn't get as much attention which is the laws of medicine you wrote
+
+303
+00:26:47,120 --> 00:26:52,080
+that after emperor before the gene correct that's right so laws of medicine has a very different
+
+304
+00:26:52,080 --> 00:26:57,040
+mandate as it were and that's because the book came out in association with ted they had
+
+305
+00:26:57,040 --> 00:27:03,280
+commissioned 10 books by 10 thinkers around the world and they asked me to write a book on that
+
+306
+00:27:03,280 --> 00:27:09,200
+and i it's necessarily a small book it's really a you know the mandate was to write basically a 75
+
+307
+00:27:09,200 --> 00:27:14,640
+page book expanding on a single very very incisive idea so that's the laws of medicine yes if i if i
+
+308
+00:27:14,640 --> 00:27:19,200
+got them correctly the three laws are a strong intuition is much more powerful than a weak test
+
+309
+00:27:19,200 --> 00:27:24,720
+uh-huh how did you think of that and what is the most important application of that law to the way
+
+310
+00:27:24,720 --> 00:27:29,680
+you think about medicine or specifically oncology today this to me is one of the great neglected
+
+311
+00:27:29,680 --> 00:27:34,640
+ideas in medicine perhaps one of the great neglected ideas in the world this idea initially
+
+312
+00:27:34,640 --> 00:27:41,360
+comes from thomas bayes this is a bayesian idea thomas bayes was a cleric but by evening he was a
+
+313
+00:27:41,920 --> 00:27:46,880
+mathematician and an economist and he let his work leads to one of the most seminal and funny
+
+314
+00:27:46,880 --> 00:27:50,960
+thought experiments that i've ever encountered which is the following and i i sometimes quiz my
+
+315
+00:27:50,960 --> 00:27:55,920
+my daughters with it which is the following this is not thomas bayes's own example but it arises
+
+316
+00:27:55,920 --> 00:28:02,800
+out of thomas bayes's work and he one might imagine going to a street fair and encountering a man
+
+317
+00:28:02,800 --> 00:28:08,960
+who's tossing coins and he tosses coins and your job is to predict whether the next flip coin flip
+
+318
+00:28:08,960 --> 00:28:15,440
+is going to be heads or tails and so he tosses the coin 20 times and all 20 times its tails
+
+319
+00:28:16,320 --> 00:28:21,760
+so then he turns to the crowd and he says what's the next coin flip going to be heads or tails
+
+320
+00:28:22,560 --> 00:28:28,320
+now the mathematician in the crowd who's the professor of mathematics says 50 percent says
+
+321
+00:28:28,320 --> 00:28:34,800
+50 percent and you know everyone says absolutely right but the child in the crowd says no no you
+
+322
+00:28:34,800 --> 00:28:40,240
+don't understand this is a stupid problem it's the coins rigged the coin has only it has two heads
+
+323
+00:28:40,320 --> 00:28:45,360
+or two tails as case may be and the child's right and what's important about that insight
+
+324
+00:28:45,360 --> 00:28:50,640
+is that the mathematician imagines the world this in this case this is not a stab at mathematicians
+
+325
+00:28:50,640 --> 00:28:56,080
+in general but the professor of mathematics thinks of the world as having no history has
+
+326
+00:28:56,080 --> 00:29:01,440
+having no a prioris it's a world that's created de novo every time the coin is flipped and its
+
+327
+00:29:01,440 --> 00:29:07,600
+heads and tails equal every time but the child knows and i all humans know that in fact the
+
+328
+00:29:07,600 --> 00:29:13,200
+world doesn't behave like that everything has priors and you need to understand those priors
+
+329
+00:29:13,200 --> 00:29:18,000
+before you can understand the posteris there's wisdom in that idea and it took someone like
+
+330
+00:29:18,000 --> 00:29:23,680
+thomas bayes to figure that out that most of our lives we aren't living our lives like the crazy
+
+331
+00:29:23,680 --> 00:29:28,160
+mathematician professor we are living our lives like the child we're thinking to ourselves what
+
+332
+00:29:28,160 --> 00:29:34,080
+was the prior antecedent imagine this is true for any corner of your life the first question you
+
+333
+00:29:34,080 --> 00:29:38,320
+ask yourself when you're trying to solve a problem trying to understand the cosmos trying
+
+334
+00:29:38,320 --> 00:29:44,080
+to understand something you ask yourself what was the prior like did the sun set in the west last
+
+335
+00:29:44,080 --> 00:29:49,360
+night and how about the night before and maybe i don't need to create a formula to figure out
+
+336
+00:29:49,360 --> 00:29:53,520
+whether the sun is going to set on the west or the east tomorrow it's because it's set on the west
+
+337
+00:29:53,520 --> 00:29:57,760
+every time there are obviously loopholes and gaps to this kind of thinking there are surprises that
+
+338
+00:29:57,760 --> 00:30:04,640
+you can miss so bayes's fundamental idea was that you can only interpret a test in the light of what
+
+339
+00:30:04,640 --> 00:30:09,280
+that test is predicted in the past it's an extraordinarily important idea in the way we
+
+340
+00:30:09,280 --> 00:30:14,400
+think about about the universe that the past performance of a test tells you something not
+
+341
+00:30:14,400 --> 00:30:19,040
+everything but tells you something about the future performance of a test and you can apply
+
+342
+00:30:19,040 --> 00:30:23,840
+it to many many things in the world you can apply it to any kind of thinking economic economic
+
+343
+00:30:23,840 --> 00:30:29,600
+thinking climate change oriented thinking that the past is a guide to the future not only in a
+
+344
+00:30:29,600 --> 00:30:36,720
+kind of loose way but you're really using a rheostat weighted strongly by the past and this of course
+
+345
+00:30:36,720 --> 00:30:41,280
+applies to medicine and it's a forgotten rule in medicine although it does seem like one of the
+
+346
+00:30:41,280 --> 00:30:47,920
+things that i've always felt physicians innately do well without realizing it which is the opposite
+
+347
+00:30:47,920 --> 00:30:53,520
+of where i want to be not to take the pot shots but i think where we do very poorly is an
+
+348
+00:30:53,520 --> 00:30:59,120
+understanding asymmetric risk so naseem talab has written a lot about asymmetric risk and i think
+
+349
+00:30:59,120 --> 00:31:04,560
+he's absolutely right to be critical of not just physicians but basically most people so my argument
+
+350
+00:31:04,560 --> 00:31:11,120
+is we are innately wired to be bayesian we are absolutely not innately wired to appreciate risk
+
+351
+00:31:11,120 --> 00:31:16,240
+and both of these are important that's right so one of them we have to hone so much more because
+
+352
+00:31:16,320 --> 00:31:20,480
+i think it just doesn't come naturally i played a funny experiment which you'll appreciate i'll send
+
+353
+00:31:20,480 --> 00:31:26,320
+you the list and you'll have a field day with it it's 20 questions and each one is a quantitative
+
+354
+00:31:26,320 --> 00:31:30,720
+question with an answer but they're not obvious you would never it's not like how many you know
+
+355
+00:31:30,720 --> 00:31:35,360
+presidents were there or something where you might know the answer you ask the group we're
+
+356
+00:31:35,360 --> 00:31:39,840
+going to give you these 20 questions i want you to answer each question not with a number but with a
+
+357
+00:31:39,840 --> 00:31:44,720
+95 confidence interval you know the game no i don't know the game okay so interesting game so at
+
+358
+00:31:44,720 --> 00:31:49,120
+the end of 20 questions if you've done it correctly you should have 19 out of 20 of those
+
+359
+00:31:49,120 --> 00:31:55,520
+ranges correct i've never met a person who can come close you almost without exception get like seven
+
+360
+00:31:55,520 --> 00:32:04,160
+of the 20 right you can't even contemplate what that variability is so the second law was that
+
+361
+00:32:04,160 --> 00:32:09,920
+normals teach us rules outliers teach us laws so this of course these were very carefully i mean i
+
+362
+00:32:09,920 --> 00:32:13,680
+thought i spent a lot of time thinking about them of course this is the anti-vasian law this is the
+
+363
+00:32:13,680 --> 00:32:18,080
+exactly what you're talking about this is the idea that simultaneously in the medical brain
+
+364
+00:32:18,080 --> 00:32:23,760
+has to live the idea that the basian idea that when you hear hooves think horses not zebras
+
+365
+00:32:23,760 --> 00:32:28,880
+famous medical tenet hooves beats outside your window are likely to be horses they're very
+
+366
+00:32:28,880 --> 00:32:34,160
+unlikely to be zebras the second law is once in a while they are zebras and you need tools you
+
+367
+00:32:34,160 --> 00:32:40,560
+need special ideas special tools to figure out what these outliers look like who they are how
+
+368
+00:32:40,560 --> 00:32:47,040
+to find them and how to quickly find them so that you can identify them and triage them differently
+
+369
+00:32:47,040 --> 00:32:53,680
+so in some ways these two laws are yin yang they polarize against each other and what's interesting
+
+370
+00:32:53,680 --> 00:32:58,160
+about them is that they both in medicine can both can be simultaneously true in the same way as
+
+371
+00:32:58,800 --> 00:33:05,200
+our assumption of a symmetric risk is simultaneously true with the idea that our understanding of the
+
+372
+00:33:05,200 --> 00:33:10,320
+base of a world in the basian way is helpful and important so the second law is about how do you
+
+373
+00:33:10,320 --> 00:33:18,480
+identify outliers how outliers tell us about the nature of normalcy how they tell us about how
+
+374
+00:33:18,480 --> 00:33:25,440
+complex interactions can produce occasional far outsiders and how those outsiders really
+
+375
+00:33:25,440 --> 00:33:29,600
+challenge us to define what these interactions look like in real life i mean the simple example
+
+376
+00:33:29,600 --> 00:33:36,720
+is it's very very hard to figure out the genetics of any disease without finding the rare
+
+377
+00:33:37,520 --> 00:33:43,040
+people who have the disease as a consequence of a mutation the classic example of course is that
+
+378
+00:33:43,040 --> 00:33:50,160
+we would not have an idea how to regulate our body or to prevent heart attacks if we hadn't paid
+
+379
+00:33:50,160 --> 00:33:56,640
+extraordinarily close attention to a small family small groups of families that had a mutation in
+
+380
+00:33:56,640 --> 00:34:01,920
+the gene that controls cholesterol metabolism most people don't have this mutation because those
+
+381
+00:34:01,920 --> 00:34:06,560
+families are quickly extinguished we think because they die of heart attacks they have all sorts of
+
+382
+00:34:06,560 --> 00:34:11,680
+problems they die of heart attacks but by paying extreme attention to this one family that has a
+
+383
+00:34:11,680 --> 00:34:18,320
+mutation they're rare scientists all of a sudden uncovered a whole cosmos in which we understand
+
+384
+00:34:18,320 --> 00:34:23,040
+now cholesterol metabolism and because of that cholesterol metabolism other scientists eventually
+
+385
+00:34:23,040 --> 00:34:28,320
+develop the first statins so all of this you know the fact that hundreds of thousands of people in
+
+386
+00:34:28,320 --> 00:34:34,640
+the world are taking this medicine to prevent heart attacks tracks back to a rare family where
+
+387
+00:34:34,640 --> 00:34:39,440
+because of a genetic mutation they had a very very high risk of cardiac disease and of course
+
+388
+00:34:39,440 --> 00:34:43,440
+now we know there's a whole family of those people there's at least two thousand of those mutations
+
+389
+00:34:43,440 --> 00:34:48,400
+that produce that phenotype and these natural experiments are actually a remarkable thing and
+
+390
+00:34:48,400 --> 00:34:54,640
+of course bringing it back to the gene to now have a tool a probe to be able to explore that is
+
+391
+00:34:54,640 --> 00:35:01,040
+is amazing the third law for every perfect or exceptional medical experiment there is there's
+
+392
+00:35:01,040 --> 00:35:05,280
+a human bias that goes along with it again these are unique to medicine and what's interesting
+
+393
+00:35:05,280 --> 00:35:09,920
+about them is that they are unique to me at least what's interesting is that they're unique to the
+
+394
+00:35:09,920 --> 00:35:16,000
+day-to-day practice of medicine but they apply for every i think they apply to every corner of life
+
+395
+00:35:16,000 --> 00:35:21,440
+you don't have to be a doctor to realize that for every every time we think of something if you're
+
+396
+00:35:21,440 --> 00:35:26,240
+really skeptical thinkers we have to think about the bias that comes intrinsically with that thought
+
+397
+00:35:26,240 --> 00:35:32,000
+in other words every single declarative claim about the universe that we're making
+
+398
+00:35:32,960 --> 00:35:38,160
+must have necessarily a declarative bias that comes with it they're matched if you want to be
+
+399
+00:35:38,160 --> 00:35:44,320
+a scientist we want to be a skeptic your real job aside from being creative and designing experiments
+
+400
+00:35:44,960 --> 00:35:51,520
+is defined for every single declarative claim that you're making the bias that's drives sitting
+
+401
+00:35:51,520 --> 00:35:57,200
+like a little devil buried inside that declarative claim because i promise you everyone has one each
+
+402
+00:35:57,200 --> 00:36:01,600
+one of these claims has one and richard fineman who listeners of this podcast know is one of my
+
+403
+00:36:01,600 --> 00:36:06,400
+heroes one of my kids is named after him is he named fineman or richard his middle name is fineman
+
+404
+00:36:06,400 --> 00:36:11,120
+yeah and my wife at first was like why would we do that but then once she had read surely you're
+
+405
+00:36:11,120 --> 00:36:15,200
+joking mr fineman a couple of times because she'd read it once before she realized why but fineman
+
+406
+00:36:15,200 --> 00:36:20,400
+said eloquently right the job in science is not to fool yourself and you're the easiest person to
+
+407
+00:36:20,400 --> 00:36:23,520
+fool that's right so to your point the only thing i would disagree with what you've said
+
+408
+00:36:23,520 --> 00:36:28,960
+cid is i don't think these are unique to medicine i think these are laws of science right and maybe
+
+409
+00:36:28,960 --> 00:36:35,200
+laws of life on some yeah so the mandate here really was to use this book as a kind of springboard
+
+410
+00:36:35,200 --> 00:36:42,160
+to challenge the way we think about virtually all aspects of of how we live you're going to read an
+
+411
+00:36:42,160 --> 00:36:48,160
+article in the new york times tomorrow that will make some claims about some politician somewhere
+
+412
+00:36:48,160 --> 00:36:53,680
+in oklahoma or you're going to read about an economic paper that is now being presented to
+
+413
+00:36:53,680 --> 00:36:59,600
+the feds and your job is to be adequately skeptical about it and understand what are the
+
+414
+00:36:59,600 --> 00:37:04,240
+priors how do we explain this particular fact based on the priors are the priors do the priors
+
+415
+00:37:04,240 --> 00:37:11,680
+matter to use a very topical example does someone's past behavior in college or in school high school
+
+416
+00:37:12,320 --> 00:37:16,880
+tell us about how he or she's going to be a judicial candidate or does their behavior under
+
+417
+00:37:16,880 --> 00:37:21,840
+scrutiny in any way predict their behavior when no one's looking that's right that's another
+
+418
+00:37:21,840 --> 00:37:26,880
+question the second question that you might ask here is again it's an outlier question right
+
+419
+00:37:26,880 --> 00:37:31,920
+scrutiny versus not scrutiny are they do they become outliers to themselves if they're scrutinized
+
+420
+00:37:31,920 --> 00:37:36,080
+if they're versus when they're not scrutinized and the third question is when i read this story what
+
+421
+00:37:36,080 --> 00:37:41,520
+are my biases am i reading it because i'm a man am i reading it because i have a particular
+
+422
+00:37:41,520 --> 00:37:48,960
+experience of my in my own lifetime myself my sister my my daughter my friend my colleague
+
+423
+00:37:48,960 --> 00:37:53,600
+is that coloring the way that i read this particular story so absolutely and you know
+
+424
+00:37:53,600 --> 00:37:58,480
+this thinking goes on over and over again this these are circular processes do those biases
+
+425
+00:37:58,480 --> 00:38:03,760
+have priors do the priors have biases and so forth so you can use these i mean i i certainly
+
+426
+00:38:03,760 --> 00:38:07,600
+use these tools in clinical clinical practice yeah it's a beautiful as you said it's a very
+
+427
+00:38:07,600 --> 00:38:12,320
+short book but again we'll we'll certainly make sure people have this link to it because i i think
+
+428
+00:38:12,320 --> 00:38:17,280
+it's a great way of teaching people how to think and that's again i just don't think we're innately
+
+429
+00:38:17,280 --> 00:38:23,120
+wired for every facet of thinking now going back to your background in immunology very recently we
+
+430
+00:38:23,120 --> 00:38:28,640
+had a very exciting for those of us in this space very exciting nobel prize awarded i mean it was
+
+431
+00:38:28,640 --> 00:38:32,800
+as we were discussing before we started recording it wasn't so much around immunotherapy but a very
+
+432
+00:38:32,800 --> 00:38:38,080
+specific element of it which are the development of checkpoint inhibitors two of them in particular
+
+433
+00:38:38,080 --> 00:38:46,000
+were basically acknowledged here ctla4 which i mentioned earlier npd1 tell me why these are so
+
+434
+00:38:46,000 --> 00:38:51,840
+exciting they're exciting for many reasons they are exciting for again some history and some
+
+435
+00:38:51,840 --> 00:38:58,160
+background as the story as it were is exciting because if you ask the question in the 1990s
+
+436
+00:38:58,880 --> 00:39:03,920
+what's the relationship between cancer and the immune system you get a kind of diffuse answer
+
+437
+00:39:03,920 --> 00:39:06,960
+you get an answer which could be very unclear because there were all sorts of
+
+438
+00:39:07,600 --> 00:39:13,360
+complicated lines of evidence one line of evidence was that in patients with a complete collapse of
+
+439
+00:39:13,360 --> 00:39:19,680
+the immune system such as patients with hiv or complete collapse of at least of one wing of the
+
+440
+00:39:19,680 --> 00:39:23,360
+immune system they would get these cancers you nobody else could get but what's interesting
+
+441
+00:39:23,360 --> 00:39:26,880
+about them and this is where the thought experiment this is where the brain cells start
+
+442
+00:39:26,880 --> 00:39:32,320
+sort of ticking and wondering they would typically get viral cancers viruses that would
+
+443
+00:39:32,320 --> 00:39:37,440
+now get unleashed we now know many of them viruses like human papilloma virus they would
+
+444
+00:39:37,440 --> 00:39:44,240
+get cervical cancers they would get anal cancers so a lot of viral cancers but patients with HIV
+
+445
+00:39:44,240 --> 00:39:50,080
+did not generally get lung cancer i never even thought of that so we have enough data to know
+
+446
+00:39:50,080 --> 00:39:55,600
+that they either at no greater prevalence or even at a lower prevalence when when you start to talk
+
+447
+00:39:55,680 --> 00:40:01,040
+about you know for example lung cancer or gbm or pancreatic cancer i never thought of that yeah
+
+448
+00:40:01,040 --> 00:40:06,240
+it's very important so the data are mixed because of course in the 1980s they weren't living long
+
+449
+00:40:06,240 --> 00:40:11,680
+enough so all that we know is that the first groups of cancers that cropped up in these men and women
+
+450
+00:40:12,320 --> 00:40:18,480
+were not lung cancers that were not pancreatic cancer so at the first pass with that cut short
+
+451
+00:40:18,480 --> 00:40:23,760
+data set you might begin to imagine then if that's the case the immune system completely collapses
+
+452
+00:40:23,760 --> 00:40:30,000
+you only get a certain kind of cancer then what is the possible role of the immune system in in
+
+453
+00:40:30,000 --> 00:40:35,440
+cancer control and you might if you were a nailist you might have given up in the 1990s and said well
+
+454
+00:40:35,440 --> 00:40:40,320
+you know take the whole immune system away and nothing really happens even with this cut short
+
+455
+00:40:40,320 --> 00:40:45,200
+data set so maybe there isn't such a complex interaction well it turns out that people like
+
+456
+00:40:45,200 --> 00:40:52,400
+jim alison and his japanese colleague did not put the immune system away they put that data aside
+
+457
+00:40:53,360 --> 00:40:56,960
+this goes back to the laws of medicine they said sure it tells you a little bit but i didn't tell
+
+458
+00:40:56,960 --> 00:41:03,520
+you the full story the full story turns out there's one layer deeper the full story turns out that in
+
+459
+00:41:03,520 --> 00:41:08,000
+people who don't have a collapse of the immune system whose immune system is otherwise intact
+
+460
+00:41:09,200 --> 00:41:16,000
+cancer cells not not all cancers but some cancers make specific factors in fact they evolve that
+
+461
+00:41:16,000 --> 00:41:22,160
+the word make is the wrong word here they evolve so that they put up specific factors put up specific
+
+462
+00:41:22,240 --> 00:41:28,720
+signals that inactivate the immune system or that make the immune system no longer able to kill or
+
+463
+00:41:28,720 --> 00:41:35,280
+recognize the cancer cell and the identification of these specific pathways these specific factors
+
+464
+00:41:35,280 --> 00:41:42,800
+was what led to the nobel prize because in further work jim alison and again his colleagues this is a
+
+465
+00:41:42,800 --> 00:41:50,320
+big wide field showed that if you inactivate these specific factors if you drive nails through them
+
+466
+00:41:50,400 --> 00:41:54,160
+using a variety of methods then all of a sudden the cancers become
+
+467
+00:41:54,160 --> 00:41:59,520
+re-visible to the immune system and the immune system can attack and kill the cancer cells
+
+468
+00:41:59,520 --> 00:42:03,280
+now why is it exciting it's exciting for many reasons first of all it's important to realize
+
+469
+00:42:03,280 --> 00:42:07,920
+that not all cancers respond we don't know why some do and some don't melanoma is highly responsive
+
+470
+00:42:08,720 --> 00:42:13,440
+it's an immunologically engaged tumor is it because the melanoma has so many antigens that
+
+471
+00:42:13,440 --> 00:42:17,920
+it will suddenly be more recognizable is it because the skin is such a lymphoid organ is
+
+472
+00:42:18,000 --> 00:42:22,720
+the right environment we don't know all of these questions the other thing to realize is that people
+
+473
+00:42:22,720 --> 00:42:28,320
+have responses and some people continue to respond some other people sadly will relapse and they'll
+
+474
+00:42:28,320 --> 00:42:34,160
+go you know the cancers will start growing back in the context of their re-educated immune system
+
+475
+00:42:34,160 --> 00:42:39,680
+and that leads to the second question which is what happens then is there a second pathway and
+
+476
+00:42:39,680 --> 00:42:43,840
+this is an important idea i think that goes back to your first question which is about whether this
+
+477
+00:42:43,840 --> 00:42:50,160
+is depressing or not the important thing is once you drive a single stake through cancer's heart
+
+478
+00:42:51,440 --> 00:42:57,040
+it's like placing the first crampon on a climb you see if there's no crampon that's placed on the
+
+479
+00:42:57,040 --> 00:43:02,480
+climb you can't climb a mountain it seems like a wall it's a blank wall and you don't know where
+
+480
+00:43:02,480 --> 00:43:08,160
+to go left or whether to go right or what to do once you plant that first crampon and it sticks
+
+481
+00:43:08,160 --> 00:43:13,360
+and it sticks you all of a sudden the whole face of the mountain becomes it's a different mountain
+
+482
+00:43:13,360 --> 00:43:17,200
+it's a different mountain now because now you can ask the question because the first crampon was
+
+483
+00:43:17,200 --> 00:43:22,080
+planted in that particular place and it's stuck and it's stuck i have a new vantage point exactly
+
+484
+00:43:22,080 --> 00:43:26,800
+perspective has changed that's right and so this is the important piece to realize about cancer
+
+485
+00:43:26,800 --> 00:43:31,520
+research and perhaps about all research is that the first crampon or the first stake through
+
+486
+00:43:31,520 --> 00:43:36,000
+cancer's heart is an incredibly important stake because then you can ask what i call linear
+
+487
+00:43:36,000 --> 00:43:40,560
+questions before that first one is placed the questions are non-linear you don't know where to
+
+488
+00:43:40,560 --> 00:43:46,960
+place it the whole map is open once you drive a stake through the first question the world
+
+489
+00:43:46,960 --> 00:43:51,040
+becomes more linear you can now ask the question what's the mechanism of resistance to that
+
+490
+00:43:51,600 --> 00:43:55,840
+and when you do when you find that what's the mechanism of resistance to that and so all of a
+
+491
+00:43:55,840 --> 00:44:00,320
+sudden the perspective is different because you're we've climbed through that first and that's
+
+492
+00:44:00,320 --> 00:44:05,680
+usually where the Nobel prizes are given your Nobel prizes are given often for planting the first
+
+493
+00:44:05,680 --> 00:44:10,080
+stake through the heart of a disease through the heart of a problem and that's why this Nobel prize
+
+494
+00:44:10,080 --> 00:44:14,240
+is important it's not of course as you're saying this does not encapsulate the field of tumor
+
+495
+00:44:14,240 --> 00:44:18,960
+immunology in general there's it's a wide field our own lab does a whole bunch of work in tumor
+
+496
+00:44:18,960 --> 00:44:23,520
+immunology but we're put on the shoulders of those prior giants as it were and so that's the
+
+497
+00:44:23,520 --> 00:44:27,040
+recognition that's been given here you said something that i think is so important and worth
+
+498
+00:44:27,040 --> 00:44:32,240
+reiterating there's also something about immunology and immunotherapy that's quite interesting as far
+
+499
+00:44:32,240 --> 00:44:36,560
+as planting that stake which is the durability of response it is often the case that when you have
+
+500
+00:44:36,560 --> 00:44:40,880
+an immunologic remission it is a durable remission it is not always the case but it is
+
+501
+00:44:40,880 --> 00:44:45,120
+much more likely the case than when you say for example see a chemotherapeutic remission
+
+502
+00:44:45,120 --> 00:44:51,040
+or even a surgical remission on a personal level i have a very close friend who was diagnosed with
+
+503
+00:44:51,040 --> 00:44:57,760
+colon cancer 10 years ago at a very young age you know he might have been 40 and that was unusual
+
+504
+00:44:57,760 --> 00:45:03,440
+in and of itself i remember talking i went to the hospital when he had his colectomy spoke with the
+
+505
+00:45:03,440 --> 00:45:09,920
+surgeon after it sounded like a horrible case huge tumor the mesentery was full of nodes which i
+
+506
+00:45:09,920 --> 00:45:16,000
+assumed would be positive every 26 nodes sampled all came back negative my friend was adopted we
+
+507
+00:45:16,000 --> 00:45:21,440
+later realized he had lynch syndrome eight years later he goes on to develop pancreatic adenocarcinoma
+
+508
+00:45:21,440 --> 00:45:26,560
+unresectable so it's encased the mesenteric vessels he cannot have a whipple procedure
+
+509
+00:45:27,280 --> 00:45:32,000
+and as you know and unfortunately many people listening to this will know that is a death
+
+510
+00:45:32,000 --> 00:45:38,080
+sentence yeah it's a non-negotiable you will not be alive in nine months and he was put on an
+
+511
+00:45:38,080 --> 00:45:42,640
+anti-pd1 therapy because he happened to have as you would know these patients with lynch are going
+
+512
+00:45:42,640 --> 00:45:46,240
+to be much more likely to be susceptible to checkpoint inhibitors two years later he's
+
+513
+00:45:46,240 --> 00:45:52,080
+disease-free just unbelievable stories yeah and i think your point is an elegant one that i'd never
+
+514
+00:45:52,080 --> 00:45:56,560
+really thought of before which is focus less on the fact that we haven't solved the problem and
+
+515
+00:45:56,560 --> 00:46:02,960
+more on the fact that we have made a finite and real step towards establishing a new place a new
+
+516
+00:46:02,960 --> 00:46:08,080
+location for which to view this disease that's right so i describe this as taking a non-linear
+
+517
+00:46:08,080 --> 00:46:13,040
+problem into a linear problem now of course the answers are often not linear per se but it gives
+
+518
+00:46:13,040 --> 00:46:18,160
+you a route i mean we'll come back to the metabolism study that we did with luke cantley
+
+519
+00:46:18,160 --> 00:46:22,800
+that is a great example of taking a non-linear problem and converting into a linear problem now
+
+520
+00:46:22,800 --> 00:46:27,440
+i'll tell you about that in a second but any time this was the place with gleevec too let's
+
+521
+00:46:27,440 --> 00:46:33,920
+tell people what gleevec is yeah so gleevec is a good example of a drug where we learned to target
+
+522
+00:46:33,920 --> 00:46:40,240
+a mutant cancer gene and it's actually the gene product so in that case the cancer it's a blood
+
+523
+00:46:40,240 --> 00:46:44,960
+cancer called chronic myelogenous leukemia was also a death sentence and also gi stromal tumors
+
+524
+00:46:44,960 --> 00:46:49,520
+and gi stromal tumors yeah chronic myelogenous leukemia was a death sentence people had to
+
+525
+00:46:50,080 --> 00:46:55,680
+go through transplants i've watched probably a dozen in the pre-gleevec era a dozen patients
+
+526
+00:46:55,680 --> 00:46:59,920
+die of chronic myelogenous leukemia or the complications of transplant i trained briefly
+
+527
+00:46:59,920 --> 00:47:05,440
+as a transplanter and then all of a sudden through the work of many people including brian druecker
+
+528
+00:47:05,440 --> 00:47:11,680
+a drug was discovered so before that scientists figured out based on very careful genetic analysis
+
+529
+00:47:12,400 --> 00:47:18,480
+that the tumor was being driven by really the work of one gene and the gene was called bcr able
+
+530
+00:47:18,480 --> 00:47:23,920
+it's an oncogene it's not found in normal cells but found in these cancer cells and the product
+
+531
+00:47:23,920 --> 00:47:30,240
+of that gene became like a like an engine like a manic engine that was driving these blood cells to
+
+532
+00:47:31,200 --> 00:47:35,280
+go crazy and make more blood cells and proliferate and proliferate and proliferate and it was this
+
+533
+00:47:35,280 --> 00:47:40,400
+engine gone wild inside a cell and every time the cell asked the question should i divide
+
+534
+00:47:40,400 --> 00:47:45,600
+rather than looking at its normal state or nutrients metabolic state etc the only answer
+
+535
+00:47:45,600 --> 00:47:50,880
+we'd ever get was from this engine saying yes go ahead make another cell divide etc etc etc so
+
+536
+00:47:50,880 --> 00:47:55,280
+this was identified that the exact the gene product was identified the protein product of
+
+537
+00:47:55,280 --> 00:48:00,240
+the gene was identified and then through an elaborate series of experiments and circumstances
+
+538
+00:48:00,800 --> 00:48:06,320
+chemists found a way to actually jam the engine one molecule human beings may we stitch this
+
+539
+00:48:06,320 --> 00:48:10,720
+molecule together it's a remarkable achievement and once the engine is jammed which suddenly
+
+540
+00:48:10,720 --> 00:48:15,120
+turns out that the disease goes into remission this was one of the first examples there are others
+
+541
+00:48:15,200 --> 00:48:19,520
+of so-called targeted therapy where you take you synthesize a chemical to jam
+
+542
+00:48:19,520 --> 00:48:24,560
+cancer's engines in a cancer specific way it doesn't affect normal cells but what's interesting
+
+543
+00:48:24,560 --> 00:48:31,680
+about that is that some people develop resistance because the engine cancer cells evolve and they
+
+544
+00:48:31,680 --> 00:48:37,120
+find a way of resisting but that resistance it becomes a linear problem you figure out the
+
+545
+00:48:37,120 --> 00:48:41,680
+mechanism the resistance is and you drive a second stake through cancer's heart and when it becomes
+
+546
+00:48:41,680 --> 00:48:45,760
+resistant to that you drive a third stake and so forth so all of a sudden the problem which seemed
+
+547
+00:48:45,760 --> 00:48:50,880
+like a big blank rock became a linear problem so that that goes back to another example of how
+
+548
+00:48:50,880 --> 00:48:55,600
+that first stake or the first crampon really helps with the problem and and now for immunotherapy
+
+549
+00:48:55,600 --> 00:49:01,920
+immunological therapy the roadmap is much clearer why do some tumors respond and why some don't
+
+550
+00:49:01,920 --> 00:49:07,280
+respond is it a question of the environment that the tumor is sitting in is it blood vessels is
+
+551
+00:49:07,280 --> 00:49:11,440
+that tumor cells is it immune cells these are answerable questions these are so-called linear
+
+552
+00:49:11,440 --> 00:49:16,800
+questions but the first big step here was to define the problem this is really a nice step off to
+
+553
+00:49:16,800 --> 00:49:22,480
+exactly where i know we want to go which is we've got surgical oncologists medical oncologists
+
+554
+00:49:22,480 --> 00:49:27,840
+radiation oncologists in many ways a subset now of medical oncology is immunobased oncology
+
+555
+00:49:28,880 --> 00:49:35,040
+the work that you lu and many others are now doing is potentially a another branch of oncology
+
+556
+00:49:35,040 --> 00:49:41,520
+called metabolic oncology so you're beyond gracious in your suggesting i have even something
+
+557
+00:49:41,520 --> 00:49:46,240
+to do with helping that evening turn into a what sounds like a very productive collaboration between
+
+558
+00:49:46,240 --> 00:49:51,520
+you and lu and i'll be talking with lu as well in the next month i'm sure but let's talk a little
+
+559
+00:49:51,520 --> 00:49:57,680
+bit about what came out of that collaboration and certainly bring it back to ben hopkin's paper
+
+560
+00:49:57,680 --> 00:50:02,080
+that was in nature i believe was in nature yeah two weeks three weeks ago yeah so let's talk a
+
+561
+00:50:02,080 --> 00:50:06,720
+little bit about the question what were you trying to understand so the question is there's
+
+562
+00:50:06,720 --> 00:50:13,440
+a very wide question and then there's a very narrow question the wide question is how does the body's
+
+563
+00:50:14,320 --> 00:50:20,160
+metabolic state affect cancer it's a very big question because cancers like all cells are eating
+
+564
+00:50:20,160 --> 00:50:25,360
+nutrients as well to in order to grow and the question therefore is the cancer eating a different
+
+565
+00:50:25,360 --> 00:50:31,200
+set of nutrients than normal cells this work goes back to famous work by otto warburg done in the
+
+566
+00:50:31,680 --> 00:50:37,760
+early 1900s yeah 1920s is that right yeah where otto warburg was one of the first people to make
+
+567
+00:50:37,760 --> 00:50:42,240
+the hypothesis that there's something fundamentally different about i mean we won't go into great
+
+568
+00:50:42,240 --> 00:50:46,560
+details but it's fundamentally different in which the cancer cells metabolize compared to normal
+
+569
+00:50:46,560 --> 00:50:52,160
+cells they use fundamentally different pathways to metabolize and if you could find a way to target
+
+570
+00:50:52,160 --> 00:50:58,720
+these metabolic alterations in cancer cells you'd find an anti-cancer drug so but that question has
+
+571
+00:50:58,720 --> 00:51:03,600
+been hanging around our field for a long time and as our understanding of normal metabolism has
+
+572
+00:51:03,600 --> 00:51:10,720
+changed we've begun to identify not just one but dozens of nutrient pathways that cancers use that
+
+573
+00:51:10,720 --> 00:51:14,720
+may or may not be different from normal cells maybe slightly different from normal cells maybe
+
+574
+00:51:14,720 --> 00:51:20,720
+a lot different from normal cells so that's one big question the second question which is a slightly
+
+575
+00:51:20,720 --> 00:51:27,120
+narrower question is that when you give a drug whatever drug it might be your favorite chemotherapy
+
+576
+00:51:27,120 --> 00:51:33,520
+or favorite drug any drug does it change the metabolism of the cancer cell and does it change
+
+577
+00:51:33,520 --> 00:51:38,800
+the metabolism of the body and could this be a mechanism by which cancer cells become sensitive
+
+578
+00:51:38,800 --> 00:51:43,680
+or resistance to chemotherapy so these are two related questions again to reiterate one question
+
+579
+00:51:43,680 --> 00:51:49,760
+is how is the cancer cells metabolism different from the normal cell in normal circumstances
+
+580
+00:51:49,760 --> 00:51:54,480
+and the second question is how is the cancer cells metabolism differ from a normal cell in
+
+581
+00:51:54,480 --> 00:51:59,200
+the context of giving a drug yeah in other words can a nutritional state be exploited and or a drug
+
+582
+00:51:59,200 --> 00:52:03,440
+sensitivity be exploited through a nutritional care I'm sure those are the two questions so we focused
+
+583
+00:52:03,440 --> 00:52:08,320
+in this particular study we actually are interested in both I'm interested in both but we focused on
+
+584
+00:52:08,320 --> 00:52:12,080
+the second question and the second question in this particular case was that there was a very
+
+585
+00:52:12,080 --> 00:52:18,160
+promising group of medicines that was being used in clinic in fact I had used them as a trialist
+
+586
+00:52:18,160 --> 00:52:23,600
+they had come really out of Lou Cantley's path defining work he had defined the pathway or the
+
+587
+00:52:23,600 --> 00:52:29,520
+signals that these medicines attack and there was an enormous amount of optimism because this was
+
+588
+00:52:29,520 --> 00:52:33,920
+considered a fundamental pathway this is the beauty by the way of being in a place like New York or
+
+589
+00:52:33,920 --> 00:52:39,200
+Boston it's you can talk about someone doing this I mean Lou is in Boston when much of this work is
+
+590
+00:52:39,200 --> 00:52:43,520
+done he's now here in New York and you don't have to collaborate with a guy across the world you
+
+591
+00:52:43,520 --> 00:52:49,360
+collaborate with the guys on the Upper East Side instead of Chelsea that's right so Lou's work over
+
+592
+00:52:49,360 --> 00:52:54,480
+the last decades had been to define this pathway and ultimately led to the formation of the creation
+
+593
+00:52:54,480 --> 00:52:59,680
+of these new medicines they're called PI3 kinase inhibitors and they go by fancy names like duvelosib
+
+594
+00:52:59,680 --> 00:53:06,480
+and things like that but anyway when they came to clinic surprisingly there were some responses
+
+595
+00:53:06,480 --> 00:53:10,800
+but there was a lot of resistance in patients that tumors were resistant to the drugs and didn't
+
+596
+00:53:10,800 --> 00:53:16,960
+respond and that was a puzzle that Lou had come up with in his own work and then separately seven
+
+597
+00:53:16,960 --> 00:53:23,440
+miles uptown I was scratching my head about the same puzzle because I'd been using these same drugs
+
+598
+00:53:23,440 --> 00:53:28,960
+in cancer patients and finding that patients became resistant or were resistant to start
+
+599
+00:53:29,520 --> 00:53:36,880
+and so what was chalked out that on a napkin that evening was we had thought of lots of ways that
+
+600
+00:53:36,880 --> 00:53:40,960
+these patients had could become resistant we had thought oh maybe the tumor had a mutation
+
+601
+00:53:40,960 --> 00:53:45,120
+well and there's one other point I guess to add just that we remember but maybe it's worth
+
+602
+00:53:45,120 --> 00:53:50,560
+reiterating is a lot of the patients that were on these began to develop phenotype like they
+
+603
+00:53:50,560 --> 00:53:53,760
+looked like they were diabetic yeah so that's the point that I was coming to in a second we didn't
+
+604
+00:53:53,760 --> 00:53:57,200
+know if that meant that that was the source of the resistance that's right was it true true and
+
+605
+00:53:57,200 --> 00:54:00,880
+unrelated yeah the question was was it true true and unrelated I mean you can think of many other
+
+606
+00:54:00,880 --> 00:54:05,520
+mechanisms of resistance you can say the tumors became it got a mutation you could say the host
+
+607
+00:54:05,520 --> 00:54:09,920
+had some problem you could write down on the piece of paper thousand ways those were the traditional
+
+608
+00:54:09,920 --> 00:54:13,600
+ways that one would explain resistance the traditional ways of thinking about tumor resistance
+
+609
+00:54:13,920 --> 00:54:18,880
+mutation the host eats up the drug the non-traditional way and this is what the
+
+610
+00:54:18,880 --> 00:54:24,560
+innovation in the study was that what if there's diabetes that we were observing the high levels
+
+611
+00:54:24,560 --> 00:54:28,800
+of sugar and the high levels of insulin insulin being the most important piece of this what if
+
+612
+00:54:28,800 --> 00:54:34,880
+the drug was causing diabetes separately from the tumor given to normal people that the drug would
+
+613
+00:54:34,880 --> 00:54:40,240
+cause diabetes in some people worse than others and that diabetic phenotype that diabetic state
+
+614
+00:54:40,240 --> 00:54:46,800
+the hyperinsulinemic state was being used or exploited by the tumor to essentially become
+
+615
+00:54:46,800 --> 00:54:52,080
+resistant to the drug it's a little bit like in the analogy that I drew I remember on the napkin
+
+616
+00:54:52,080 --> 00:54:57,120
+it's funny I still remember the table we said I remember the table yeah exactly right the drawing
+
+617
+00:54:57,120 --> 00:55:00,720
+so Lou and I were batting this idea back and forth while you you were eating nothing
+
+618
+00:55:03,280 --> 00:55:08,080
+and the idea was that to me reminded me of the famous story of the woodcutter who's sitting on
+
+619
+00:55:08,080 --> 00:55:14,000
+a tree limb and chops off his own limb and falls down and I drew this picture I remember of the
+
+620
+00:55:14,000 --> 00:55:20,080
+woodcutter on a tree limb because what happens is that the body mounts an insulinemic response
+
+621
+00:55:20,080 --> 00:55:25,840
+to the drug that insulinemic response goes to the cancer and starts feeding the cancer
+
+622
+00:55:25,840 --> 00:55:29,760
+and then the cancer becomes resistant so you essentially undo all the good that you've done
+
+623
+00:55:29,760 --> 00:55:35,520
+with the drug by cutting off your own limb because of this intrinsic circuit and the long and short of
+
+624
+00:55:35,520 --> 00:55:40,000
+it is that that's basically an animal models that happens to be true so we showed it using
+
+625
+00:55:40,000 --> 00:55:44,720
+formal systems and formal methods that this insulinemia is a consequence of the drug has
+
+626
+00:55:44,720 --> 00:55:48,240
+nothing to do with the tumor has nothing to do with anything else if you give the drug the drug
+
+627
+00:55:48,240 --> 00:55:53,680
+goes into the liver and the pancreas and causes a sort of a pre-diabetic state that's often worsened
+
+628
+00:55:53,680 --> 00:55:59,520
+that if you're already in a pre-diabetic state this hyperinsulinemia is used then by the tumor
+
+629
+00:55:59,520 --> 00:56:04,480
+to become resistant even while the drug is present it becomes a pathway by which the tumor
+
+630
+00:56:04,480 --> 00:56:10,480
+becomes resistant and most interestingly that you can paralyze this resistance by putting
+
+631
+00:56:10,480 --> 00:56:16,640
+animals on a ketogenic diet so basically there's never any sugar source to drive the insulin you
+
+632
+00:56:16,640 --> 00:56:22,160
+blunt the insulin response so acutely that you can no longer get the insulin high again this is not
+
+633
+00:56:22,160 --> 00:56:27,200
+to be confused with with the idea that this is a sugar feeding tumor idea this is not a sugar
+
+634
+00:56:27,200 --> 00:56:33,840
+feeding tumor paradigm because to be clear on a ketogenic diet your glucose levels might go down
+
+635
+00:56:33,840 --> 00:56:39,440
+from normal but it's not an enormous reduction even in a complete fast you'll still maintain at
+
+636
+00:56:39,440 --> 00:56:44,480
+least three millimolar of glucose it's the insulin that becomes virtually unmeasurable that's right so
+
+637
+00:56:44,480 --> 00:56:49,440
+this is an insulin feeding the tumor question and so i think there are three points that need to be
+
+638
+00:56:49,440 --> 00:56:54,400
+made about the study to be very clear first of all it's an animal study we're now launching a human
+
+639
+00:56:54,400 --> 00:56:59,760
+study that will launch in november with patients with lymphomas endometrial cancer and breast cancer
+
+640
+00:56:59,760 --> 00:57:03,600
+particularly triple negative breast cancer i'm very keen on studying because this is a cancer
+
+641
+00:57:03,600 --> 00:57:07,840
+that has so few options that's right there are very very few options so that's the human study
+
+642
+00:57:07,840 --> 00:57:12,160
+the second point that is worthwhile making is that it's sort of like folks don't try this at home
+
+643
+00:57:12,880 --> 00:57:18,800
+this is a very particular study with a very particular drug on cancers combined with a diet
+
+644
+00:57:18,800 --> 00:57:24,240
+the study only worked when the drug and the diet were combined it does not mean that the ketogenic
+
+645
+00:57:24,240 --> 00:57:27,920
+diet is going to prevent cancer we don't know this it's an open question we're actually studying that
+
+646
+00:57:27,920 --> 00:57:31,840
+separately yeah and i want to talk just a little bit about that paper because that's boy i sure
+
+647
+00:57:31,840 --> 00:57:36,000
+want everyone to make sure they hear that loud and clear because few things upset me more than
+
+648
+00:57:36,000 --> 00:57:40,160
+when i spend a little too much time on twitter and i come across people who seem to want to claim
+
+649
+00:57:40,160 --> 00:57:44,560
+that if you're on a ketogenic diet you can't get cancer or if you have cancer just go on a ketogenic
+
+650
+00:57:44,560 --> 00:57:48,480
+diet you're going to be fine that's not in fact to be very clear well the study in fact demonstrated
+
+651
+00:57:48,480 --> 00:57:52,400
+that that was not the case not only that the study also demonstrates that some cancer models
+
+652
+00:57:52,400 --> 00:57:59,040
+including leukemia is accelerated on the keto diet in fact we have a big follow-up study to try to
+
+653
+00:57:59,040 --> 00:58:03,440
+figure out why some cancers are accelerated by keto alone but when you combine it with the drug
+
+654
+00:58:03,440 --> 00:58:08,880
+they actually go back down into deep remission the third point to make is that it seems to be
+
+655
+00:58:08,880 --> 00:58:15,360
+mutation agnostic and that by that i mean this is a very important idea which is that 12 tumor models
+
+656
+00:58:15,360 --> 00:58:21,920
+responded 12 i was not aware that it was that high yeah 12 and actually all 12 that we tested
+
+657
+00:58:21,920 --> 00:58:27,040
+responded every one of them responded and it didn't matter what oncogenes you had or what
+
+658
+00:58:27,040 --> 00:58:32,240
+tumor suppressor genes were mutated they all responded to different levels leukemia has
+
+659
+00:58:32,240 --> 00:58:37,440
+respond they become then they relapse at least in the models endometrial cancers we can't get them
+
+660
+00:58:37,440 --> 00:58:42,080
+to grow pancreatic cancers respond extremely strongly so it's another example where you're
+
+661
+00:58:42,080 --> 00:58:47,280
+not targeting it seems a mutation this is not like gliwek in which you're driving a
+
+662
+00:58:47,280 --> 00:58:52,720
+stake into the engine of the cancer or that engine this is a much more global yeah it seems yeah it's
+
+663
+00:58:52,720 --> 00:58:58,880
+a much more global assault in fact in some ways it's parallel akin to this immunotherapy in the
+
+664
+00:58:58,880 --> 00:59:03,040
+sense that it the immune system doesn't care if you have rass or doesn't seem to care at the first
+
+665
+00:59:03,040 --> 00:59:08,320
+approximation whether you have a mutation in one gene or another gene rass or not rass it will kill
+
+666
+00:59:08,320 --> 00:59:13,520
+the tumor cells based on its characteristics of what it sees in the tumor similarly here the
+
+667
+00:59:13,520 --> 00:59:19,040
+the metabolism seems to be tumor-wide but not single kinds of cancer specific we don't know this
+
+668
+00:59:19,040 --> 00:59:24,240
+to be the case the 13th model that we try will maybe this was the one that won't work but this
+
+669
+00:59:24,240 --> 00:59:28,480
+has generated a lot of excitement for this reason you know i have a friend who has definitely her
+
+670
+00:59:28,480 --> 00:59:33,440
+two new positive maybe er positive pr negative but has stage four breast cancer is in a pf3k
+
+671
+00:59:33,440 --> 00:59:38,480
+inhibitor trial out of dana farber has been on the trial for probably five years she's the only
+
+672
+00:59:38,480 --> 00:59:43,120
+survivor here's the interesting thing she's been on a ketogenic low carbohydrate diet the entire
+
+673
+00:59:43,120 --> 00:59:48,240
+time while she was taking inhibitor yes okay she's still on the inhibitor and so what's interesting
+
+674
+00:59:48,240 --> 00:59:55,280
+is i've told lou about her case because she's fastidious in this and she's able to get her
+
+675
+00:59:55,280 --> 01:00:00,640
+hemoglobin a1c now under six which for many of those patients is very difficult very technically
+
+676
+01:00:00,640 --> 01:00:05,840
+when you me and sid had lunch once about two years ago this is the very first time you ever
+
+677
+01:00:05,840 --> 01:00:09,680
+showed me the data yeah that's right we brought a computer we were at that indian place or the
+
+678
+01:00:09,680 --> 01:00:14,720
+chinese place on second avenue that's right yeah and when you showed me those data i just immediately
+
+679
+01:00:14,720 --> 01:00:19,280
+thought of her so it's actually been on my list to introduce lou because she doesn't live in new
+
+680
+01:00:19,280 --> 01:00:22,960
+york but i would love to meet her i want to bring her out and i want you guys to meet her because
+
+681
+01:00:23,520 --> 01:00:28,880
+the combination of this p i 3k inhibitor and this dietary choice she's made going back to your second
+
+682
+01:00:28,880 --> 01:00:33,600
+rule right she's the outlier that is that is giving you something to probe yeah we hopefully
+
+683
+01:00:33,600 --> 01:00:37,600
+will have many such patients i don't know you know this is why we're running the study sid as you can
+
+684
+01:00:37,600 --> 01:00:41,920
+probably imagine i could spend another 12 hours speaking with you but i want to be respectful of
+
+685
+01:00:41,920 --> 01:00:45,840
+your time i know we're a little late in the day we got a later start than we wanted and you've got
+
+686
+01:00:45,840 --> 01:00:50,880
+a long trip home and i want you to get to see your family the last question i want to ask you really
+
+687
+01:00:50,880 --> 01:00:56,720
+is one that i need you to be a little bit immodest with which is how do you do what you do i don't
+
+688
+01:00:56,720 --> 01:01:03,280
+meet a lot of people that i look at and realize that on every level of their life they are better
+
+689
+01:01:03,280 --> 01:01:06,640
+than me you know usually i meet people and it's like yeah they're better at me at those three
+
+690
+01:01:06,640 --> 01:01:10,400
+things but i can do this one thing better and and i'm sure i could think of something i do better
+
+691
+01:01:10,400 --> 01:01:15,760
+than you but it's many things do you know my sense of balance i can probably shoot a bow and
+
+692
+01:01:15,760 --> 01:01:22,320
+arrow better than you but when i think about how you balance the devotion you have to your patients
+
+693
+01:01:22,320 --> 01:01:28,560
+to your family to your research to your writing it humbles me i don't know have you put any thought
+
+694
+01:01:28,560 --> 01:01:32,960
+into that the fact that you created these tenets around writing is very interesting to me it says
+
+695
+01:01:32,960 --> 01:01:37,760
+that you you weren't just a natural gifted guy that fell out of the sky who figured out how to
+
+696
+01:01:37,760 --> 01:01:42,160
+write you know you had to work at your craft yeah so how do you work at this craft of just
+
+697
+01:01:42,160 --> 01:01:47,600
+excellence in general the simple rules that i have is i'm a very question and project driven person
+
+698
+01:01:48,320 --> 01:01:53,440
+if i set projects i'll usually fulfill them again it's the same sort of crampon in the mountain
+
+699
+01:01:53,440 --> 01:01:56,720
+rule which is that in order to write a book you have to write the first line of the book
+
+700
+01:01:57,360 --> 01:02:01,920
+and inevitably that's not going to be the first line that survives in order to do research you
+
+701
+01:02:01,920 --> 01:02:05,600
+have to do one experiment and inevitably that experiment is going to not work out you're going
+
+702
+01:02:05,600 --> 01:02:12,720
+to do 10 15 iterations of it etc to me the fundamental rule that that works for me is just
+
+703
+01:02:12,720 --> 01:02:17,440
+to throw something at the world the first line the first experiment the first idea and then
+
+704
+01:02:18,160 --> 01:02:23,280
+keep at it i keep at it over and over again i come back to it i come back to it over and over again
+
+705
+01:02:23,280 --> 01:02:28,720
+and i keep asking questions and then at some point of time and that's another moment of
+
+706
+01:02:28,720 --> 01:02:33,680
+sensitivity is to figure out when the work speaks back to you the experiment starts talking back to
+
+707
+01:02:33,680 --> 01:02:38,560
+you have to be really open your ears have to be really open and that's really the skill
+
+708
+01:02:38,560 --> 01:02:44,320
+of a scientist i think the scientist i think has or even a writer they have really two skills and
+
+709
+01:02:44,320 --> 01:02:50,000
+that they mix together the first one is the creative step putting out the first line thinking
+
+710
+01:02:50,000 --> 01:02:55,040
+of the idea you know i'm going to write a biography of cancer i'm going to write the history of
+
+711
+01:02:55,040 --> 01:03:00,800
+genetics etc but the second one is to be open enough to realize when the work starts speaking
+
+712
+01:03:00,800 --> 01:03:05,440
+back to you and let that happen let the experiment start talking back to you be skeptical of it have
+
+713
+01:03:05,440 --> 01:03:11,760
+a conversation with it those i think are the two skills that i sort of bring to my puzzle the rest
+
+714
+01:03:11,760 --> 01:03:17,280
+of it is just like everyone else trying to balance eating a meal versus you know writing in two more
+
+715
+01:03:17,280 --> 01:03:24,000
+lines stopping starting sleeping the usual well sit i don't expect this will be the last time
+
+716
+01:03:24,000 --> 01:03:28,160
+we sit down and do i hope it's going to be a lot more stuff to talk about i can't thank you enough
+
+717
+01:03:28,160 --> 01:03:32,640
+i consider you lou i mean some of the other folks who talk about real mentors of mine and
+
+718
+01:03:32,640 --> 01:03:37,360
+it's it's a it's a privilege it's a real privilege to call you a friend and to be able to sit down
+
+719
+01:03:37,360 --> 01:03:45,600
+with you and just get even the tiniest insight into your work thank you you can find all of this
+
+720
+01:03:45,600 --> 01:03:51,200
+information and more at peteratiamd.com forward slash podcast there you'll find the show notes
+
+721
+01:03:51,200 --> 01:03:57,920
+readings and links related to this episode you can also find my blog and the nerd safari at peteratiamd.com
+
+722
+01:03:58,320 --> 01:04:02,960
+what's a nerd safari you ask just click on the link at the top of the site to learn more maybe
+
+723
+01:04:02,960 --> 01:04:07,280
+the simplest thing to do is to sign up for my subjectively non-lame once a week email where
+
+724
+01:04:07,280 --> 01:04:11,920
+i'll update you on what i've been up to the most interesting papers i've read and all things related
+
+725
+01:04:11,920 --> 01:04:17,520
+to longevity science performance sleep etc on social you can find me on twitter instagram
+
+726
+01:04:17,520 --> 01:04:22,800
+and facebook all with the id peteratia md but usually twitter is the best way to reach me to
+
+727
+01:04:22,800 --> 01:04:27,600
+share your questions and comments now for the obligatory disclaimer this podcast is for general
+
+728
+01:04:27,600 --> 01:04:32,160
+informational purposes only and does not constitute the practice of medicine nursing or other
+
+729
+01:04:32,160 --> 01:04:37,920
+professional health care services including the giving of medical advice and note no doctor-patient
+
+730
+01:04:37,920 --> 01:04:43,280
+relationship is formed the use of this information and the materials linked to the podcast is at the
+
+731
+01:04:43,280 --> 01:04:47,840
+user's own risk the content of this podcast is not intended to be a substitute for professional
+
+732
+01:04:47,840 --> 01:04:53,680
+medical advice diagnosis or treatment users should not disregard or delay in obtaining medical advice
+
+733
+01:04:53,760 --> 01:04:58,240
+for any medical condition they have and should seek the assistance of their health care professionals
+
+734
+01:04:58,240 --> 01:05:04,000
+for any such conditions lastly and perhaps most importantly i take conflicts of interest very
+
+735
+01:05:04,000 --> 01:05:09,680
+seriously for all of my disclosures the companies i invest in and or advise please visit
+
+736
+01:05:09,680 --> 01:05:15,680
+peteratiamd.com forward slash about
+

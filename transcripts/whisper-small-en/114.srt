@@ -1,0 +1,4596 @@
+1
+00:00:00,000 --> 00:00:15,600
+Hey everyone. Welcome to the Drive podcast. I'm your host, Peter Attia. This podcast,
+
+2
+00:00:15,600 --> 00:00:19,360
+my website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:19,360 --> 00:00:24,360
+longevity into something accessible for everyone. Our goal is to provide the best content in
+
+4
+00:00:24,360 --> 00:00:28,440
+health and wellness, full stop, and we've assembled a great team of analysts to make
+
+5
+00:00:28,440 --> 00:00:32,720
+this happen. If you enjoy this podcast, we've created a membership program that brings you
+
+6
+00:00:32,720 --> 00:00:36,920
+far more in-depth content if you want to take your knowledge of this space to the next level.
+
+7
+00:00:36,920 --> 00:00:41,560
+At the end of this episode, I'll explain what those benefits are, or if you want to learn more now,
+
+8
+00:00:41,560 --> 00:00:48,080
+head over to PeterAttiaMD.com forward slash subscribe. Now, without further delay, here's
+
+9
+00:00:48,080 --> 00:00:55,560
+today's episode. I guess this week is Professor Eileen White. Eileen is the deputy director and
+
+10
+00:00:55,680 --> 00:01:00,640
+chief scientific officer along with the associate director for basic research and the co-leader of
+
+11
+00:01:00,640 --> 00:01:05,400
+the cancer metabolism and growth research program at Rutgers University Cancer Institute in New
+
+12
+00:01:05,400 --> 00:01:11,040
+Jersey. She received her bachelor's degree from RPI and her PhD from SUNY and Stony Brook and
+
+13
+00:01:11,040 --> 00:01:15,840
+did her postdoc with Bruce Stillman at Cold Spring Harbor Laboratory. Eileen's early work
+
+14
+00:01:15,840 --> 00:01:21,720
+focused on apoptosis, but it was doing some of the work there that she stumbled upon autophagy.
+
+15
+00:01:21,880 --> 00:01:27,840
+That is the focus of our discussion today. Now, if you're even remotely familiar with this podcast,
+
+16
+00:01:27,840 --> 00:01:33,720
+you'll certainly know that the concept of autophagy has come up on so many previous episodes. It is a
+
+17
+00:01:33,720 --> 00:01:40,000
+fundamental pillar of health and maintenance of health. We talk a lot about it in the context of
+
+18
+00:01:40,000 --> 00:01:45,880
+fasting in particular. I have wanted to sit down with Eileen for a really long time, and I don't
+
+19
+00:01:45,880 --> 00:01:50,680
+think this conversation disappoints, although we certainly could have gone longer. In this discussion,
+
+20
+00:01:50,680 --> 00:01:57,880
+we talk about Eileen's career and how it morphed from studying apoptosis into autophagy. We go into
+
+21
+00:01:57,880 --> 00:02:04,640
+describing the regulation of autophagy, both metabolically and otherwise. Then we spend a
+
+22
+00:02:04,640 --> 00:02:10,600
+lot of time talking about the role autophagy plays in both the prevention of disease and also the
+
+23
+00:02:10,600 --> 00:02:16,200
+treatment of disease. I think this is where it gets really interesting, especially around cancer.
+
+24
+00:02:16,200 --> 00:02:21,480
+That's potentially one of the most confusing aspects of the entire discussion on autophagy.
+
+25
+00:02:21,480 --> 00:02:25,880
+That's actually one of the reasons I really wanted to talk to Eileen, was to better understand
+
+26
+00:02:25,880 --> 00:02:33,880
+something that at the surface seems confusing to me, which is that autophagy seems to very clearly
+
+27
+00:02:33,880 --> 00:02:40,560
+protect a person or an organism from getting cancer. Yet once someone has cancer, it appears
+
+28
+00:02:40,560 --> 00:02:45,360
+that autophagy may disproportionately benefit the cancer cell versus the non-cancer cell.
+
+29
+00:02:46,080 --> 00:02:51,920
+We tease this idea apart along with talking about the amazing work that her lab has done to
+
+30
+00:02:51,920 --> 00:02:56,640
+demonstrate the importance of autophagy in preventing Alzheimer's disease and neurodegeneration,
+
+31
+00:02:57,200 --> 00:03:01,360
+along with the benefits of metabolic health. Of course, we do talk about the age-old question
+
+32
+00:03:01,360 --> 00:03:07,840
+that many of you have heard me go on and on about, which is, how do we delineate and understand the
+
+33
+00:03:07,840 --> 00:03:13,280
+dosing and frequency of fasting as a tool? In other words, when I talk about doing a fast of
+
+34
+00:03:13,280 --> 00:03:18,320
+three days every month versus seven days a quarter versus five days a quarter, how could we possibly
+
+35
+00:03:18,320 --> 00:03:24,560
+get a handle on what the ideal strategy is? We talk a lot about that as well. I'm actually quite
+
+36
+00:03:24,560 --> 00:03:30,240
+hopeful that from this discussion comes some research that can shed light on that. Without
+
+37
+00:03:30,240 --> 00:03:35,120
+further delay, I hope you enjoy my discussion on autophagy with Eileen White.
+
+38
+00:03:41,120 --> 00:03:46,640
+Eileen, thank you so much for extending your trip in San Diego for a day to come and make time to
+
+39
+00:03:46,640 --> 00:03:50,800
+talk with me about this stuff today. Oh, it's my pleasure. I'm looking forward to it. I don't know
+
+40
+00:03:50,800 --> 00:03:55,520
+if you remember this, by the way, but David Sabatini introduced us a few years ago. Do you remember?
+
+41
+00:03:56,480 --> 00:04:02,480
+I still have my notes from that phone call five years ago. I took about 20, maybe not 20, that's
+
+42
+00:04:02,480 --> 00:04:08,480
+an exaggeration, maybe 10 pages of notes in my journal and probably have gone back to those
+
+43
+00:04:08,480 --> 00:04:13,920
+a dozen times in the last five or six years. I always appreciate it when people just pick up
+
+44
+00:04:13,920 --> 00:04:17,840
+the phone and talk to total strangers for no reason. That's greatly appreciated. Well, you
+
+45
+00:04:17,840 --> 00:04:24,000
+are excited about the science. Nerds like me like to talk about science.
+
+46
+00:04:25,840 --> 00:04:29,040
+Let's actually start from there. Tell me where your interest in science came from.
+
+47
+00:04:29,040 --> 00:04:32,720
+Was it something that was always in you from a young age? Were you just naturally curious?
+
+48
+00:04:33,600 --> 00:04:39,920
+I've been asked that question many times before. I come from a family where there was an interest
+
+49
+00:04:39,920 --> 00:04:47,040
+in science. My mother was a elementary school teacher and my father was a lawyer, but he
+
+50
+00:04:47,920 --> 00:04:58,400
+always wanted to be in science. All of our discussions were related a lot to new scientific
+
+51
+00:04:58,400 --> 00:05:03,920
+discovery. From an early age, I was introduced to science, which was probably unusual.
+
+52
+00:05:04,800 --> 00:05:14,480
+I then went to college and majored in science and biology and continued from there. I decided when
+
+53
+00:05:14,480 --> 00:05:22,880
+I was an undergraduate, I wanted to get a PhD in biology. I was very fortunate to go into graduate
+
+54
+00:05:22,880 --> 00:05:31,840
+school in the department led by Dr. Arne Levine, who discovered P53. That was an inspirational
+
+55
+00:05:31,840 --> 00:05:39,760
+experience because he has got scientific insight. That's absolutely incredible. Then I went on to
+
+56
+00:05:39,760 --> 00:05:46,400
+Cold Spring Harbor Lab where I was a postdoc with Bruce Stillman and again, another incredible
+
+57
+00:05:46,400 --> 00:05:52,480
+scientist. It was an incredible scientific environment. There were a whole cadre of
+
+58
+00:05:53,120 --> 00:05:59,360
+investigators there that were making major contributions in the field of cancer at the time.
+
+59
+00:06:00,240 --> 00:06:06,000
+It was just a very thrilling experience to be in an environment where once a week there was some
+
+60
+00:06:06,000 --> 00:06:11,840
+fabulous discovery and everyone was excited about it. There were even, I think, two Nobel Prizes
+
+61
+00:06:11,840 --> 00:06:18,080
+awarded while I was there. I joined the faculty at Cold Spring Harbor after that and then I moved
+
+62
+00:06:18,080 --> 00:06:25,840
+on to Rutgers. I had the fortunate experience of building a cancer center. When I went to Rutgers
+
+63
+00:06:25,840 --> 00:06:32,800
+to be on the faculty, there was no cancer center, but shortly after I arrived, they hired a cancer
+
+64
+00:06:32,800 --> 00:06:41,280
+center director, Bill Haidt from Yale. I joined him to help build what's now the Rutgers Cancer
+
+65
+00:06:41,280 --> 00:06:48,880
+Center or the Rutgers Cancer Institute, which went from nothing to now there are multiple buildings.
+
+66
+00:06:48,880 --> 00:06:58,480
+There are 11 hospitals in our health system. We have 240 something members of the Rutgers Cancer
+
+67
+00:06:58,480 --> 00:07:02,640
+Institute and we have we're a consortium cancer center with Princeton University.
+
+68
+00:07:04,080 --> 00:07:11,920
+It was very thrilling for me to not only maintain my scientific interest by running a research lab,
+
+69
+00:07:11,920 --> 00:07:19,680
+but also help expand and grow something from nothing where now we're treating large numbers
+
+70
+00:07:19,680 --> 00:07:28,080
+of patients in standard of care in clinical trials and making large discoveries and moving
+
+71
+00:07:28,080 --> 00:07:33,600
+cancer treatment, advancing cancer treatment as fast as we can. How many years have you been at
+
+72
+00:07:33,600 --> 00:07:40,400
+Rutgers? I joined there in 1990. I've been there for a long time, but I moved about 12 years ago.
+
+73
+00:07:40,400 --> 00:07:46,000
+I moved from one research building to be physically in the cancer center where I could
+
+74
+00:07:46,560 --> 00:07:57,040
+be more directly helpful. Where in your journey did autophagy peak your curiosity? It was purely
+
+75
+00:07:57,040 --> 00:08:03,600
+serendipity. This goes back to when I was a postdoc with Bruce Stillman at Coldstream Harbor.
+
+76
+00:08:04,240 --> 00:08:10,720
+I was given an oncogene to study. That time they had just sequenced the adenovirus genome.
+
+77
+00:08:10,720 --> 00:08:18,560
+They knew what genes caused cancer in the virus. I was given one of those genes and said figure out
+
+78
+00:08:18,560 --> 00:08:24,960
+what it does and that was a dream project for a postdoc. What I found was that this gene was a
+
+79
+00:08:25,600 --> 00:08:34,480
+viral homologue of BCL2. BCL2 is a gene, it's a human oncogene, and it functions by blocking
+
+80
+00:08:34,480 --> 00:08:41,760
+apoptosis or programmed cell death. That was transformative to me and took other people a
+
+81
+00:08:41,760 --> 00:08:50,640
+while to realize the importance of that, that one novel function of cancer is to evade cell death.
+
+82
+00:08:51,280 --> 00:08:57,520
+That field grew. We and others contributed to cloning the other genes that regulated
+
+83
+00:08:58,240 --> 00:09:05,120
+apoptosis. We figured out how the mechanism by which it worked and the pharmaceutical industry
+
+84
+00:09:05,120 --> 00:09:12,880
+started developing inhibitors of BCL2 to promote apoptosis and cancer. That was the ultimate goal,
+
+85
+00:09:13,440 --> 00:09:20,240
+was to make tumor cells die and have a drug that will do that. Once that happened,
+
+86
+00:09:20,960 --> 00:09:28,080
+the field of apoptosis, I think, we accomplished what we wanted to accomplish. We understood
+
+87
+00:09:28,080 --> 00:09:35,680
+everything and that led to the development of the first of many drugs that were in clinical trials.
+
+88
+00:09:35,680 --> 00:09:41,520
+In fact, my lab is still involved with taking those drugs and putting them in patients and
+
+89
+00:09:41,520 --> 00:09:50,240
+optimizing their use in solid tumors. While the field of apoptosis matured to the point where
+
+90
+00:09:51,200 --> 00:09:59,920
+things were being translated, we made a serendipitous discovery. We had engineered tumor cells to
+
+91
+00:10:01,120 --> 00:10:08,240
+be unable to undergo apoptosis. They were refractory to being able to commit suicide.
+
+92
+00:10:08,720 --> 00:10:13,200
+Can we pause for a second there, Eileen, and just let's explain to folks exactly how apoptosis
+
+93
+00:10:13,200 --> 00:10:17,840
+works because shortly we're going to obviously contrast this with autophagy. They have common
+
+94
+00:10:17,840 --> 00:10:24,240
+threads, but they're different. Let's go down the path of what does it take to get a cell to undergo
+
+95
+00:10:24,240 --> 00:10:31,440
+programmed suicide? There's a family of proteins called the BCL2 family. They come in different
+
+96
+00:10:31,440 --> 00:10:39,280
+flavors. There are the BCL2-like proteins which inhibit apoptosis, so they keep tumor cells alive.
+
+97
+00:10:40,320 --> 00:10:49,760
+BCL2 is a prototypical member of that family and is upregulated and amplified and translocated in
+
+98
+00:10:49,760 --> 00:10:59,920
+many cancers to do exactly that. There are antagonizers of BCL2 and its related proteins.
+
+99
+00:11:00,000 --> 00:11:07,440
+These are called the BH3-only proteins. They are often activated to inhibit BCL2
+
+100
+00:11:08,080 --> 00:11:17,200
+to trigger apoptosis. Then there's the core apoptotic machinery that triggers apoptosis.
+
+101
+00:11:17,200 --> 00:11:24,080
+This is back-to-back. They reside in the mitochondrial membrane. When they're
+
+102
+00:11:24,080 --> 00:11:30,720
+triggered to undergo apoptosis, they oligomerize and poke holes in the mitochondrial outer membrane
+
+103
+00:11:31,360 --> 00:11:40,160
+that releases proteins that activate proteases to grade the cell. BCL2 and BCLXL, all the
+
+104
+00:11:40,160 --> 00:11:46,800
+anti-apoptotic proteins are involved in antagonizing this process. What are some of the things that
+
+105
+00:11:46,800 --> 00:11:53,600
+would have to be going wrong in a cell for it to go down that suicidal pathway? For example,
+
+106
+00:11:54,320 --> 00:12:00,960
+mitochondrial injury that is irreversible, genetic mutation that is unfixable. What are the sweet of
+
+107
+00:12:00,960 --> 00:12:07,920
+things that basically take a cell down the path of, I can't fix this and being around here and
+
+108
+00:12:07,920 --> 00:12:11,600
+replicating is going to be dangerous to the host. I got to take myself out of the game.
+
+109
+00:12:13,120 --> 00:12:20,640
+Mitochondrial damage can certainly trigger apoptosis. Probably the best way to explain it
+
+110
+00:12:20,960 --> 00:12:28,160
+is by using the example of P53. P53 is a tumor suppressor and a transcription factor.
+
+111
+00:12:29,520 --> 00:12:37,280
+Some of the transcriptional targets of P53 are proteins like Puma and Noxa, which are these
+
+112
+00:12:37,920 --> 00:12:44,560
+antagonizers of BCL2 and activators of back-to-back. P53 is a tumor suppressor.
+
+113
+00:12:44,560 --> 00:12:53,600
+One of the functions is to promote apoptosis to prevent an emerging cancer cell from progressing.
+
+114
+00:12:54,320 --> 00:13:02,320
+One mechanism by which P53 does that is by turning on the transcription of Puma and Noxa,
+
+115
+00:13:02,320 --> 00:13:09,840
+and then that will antagonize BCL2 and initiate apoptosis. Then the question becomes, what
+
+116
+00:13:09,840 --> 00:13:16,320
+activates P53 to do that? That could be a long list of things from DNA damage,
+
+117
+00:13:16,320 --> 00:13:23,520
+from oxidative stress, and so forth. You can think of something bad happens to an emerging cancer
+
+118
+00:13:23,520 --> 00:13:32,320
+cell and then P53 gets activated. One of the tumor suppression functions of P53 is to turn on
+
+119
+00:13:33,040 --> 00:13:37,360
+these promoters of apoptosis that antagonize BCL2.
+
+120
+00:13:38,000 --> 00:13:42,640
+Now loss of function in P53 probably accounts for half of all cancers, correct?
+
+121
+00:13:42,640 --> 00:13:43,360
+Right.
+
+122
+00:13:43,360 --> 00:13:48,880
+And I assume that you have to lose both copies of it or is losing one copy sufficient?
+
+123
+00:13:48,880 --> 00:13:57,200
+Well, what happens in most of the time is not deletion of P53, but rather a point mutation.
+
+124
+00:13:57,200 --> 00:13:58,480
+That reduces function.
+
+125
+00:13:58,480 --> 00:14:04,080
+It's more of a dominant negative. In fact, there's even evidence that there's a gain of function.
+
+126
+00:14:04,880 --> 00:14:14,480
+There are hotspot mutations in P53 that are very common in cancer, and P53 functions as a heterodimer.
+
+127
+00:14:14,480 --> 00:14:22,960
+What these mutant P53s do is that they end up entering into a dimer with wild-type subunits,
+
+128
+00:14:22,960 --> 00:14:25,760
+and that interferes with the function of the complex.
+
+129
+00:14:26,240 --> 00:14:34,000
+So yes, in that respect, it can be a loss of function of the P53 heterodimer, but there's
+
+130
+00:14:34,000 --> 00:14:40,640
+evidence that it not only causes a loss of function, but it actually may do other things as well that
+
+131
+00:14:40,640 --> 00:14:42,080
+are cancer-promoting.
+
+132
+00:14:42,080 --> 00:14:45,360
+That's just a great example of the nuance of evolution, right? I mean, in med school,
+
+133
+00:14:45,360 --> 00:14:50,960
+the classic teaching, a hundred years ago for me, was P53 loss of function, oncogene,
+
+134
+00:14:50,960 --> 00:14:54,320
+gain of function, black and white. Of course, it's never black and white.
+
+135
+00:14:54,320 --> 00:14:54,560
+Right.
+
+136
+00:14:55,280 --> 00:15:03,840
+So what is the wreckage of apoptosis? So when a cell undergoes apoptosis, to everything outside
+
+137
+00:15:03,840 --> 00:15:10,240
+the cell, inclusive of the immune system, what becomes visible? In other words, does an apoptotic
+
+138
+00:15:10,240 --> 00:15:16,880
+cell, once it dies, elicit any immune response? Or does the process of apoptosis yield sort of an
+
+139
+00:15:16,880 --> 00:15:20,240
+inert body of cellular matter that just goes away?
+
+140
+00:15:21,040 --> 00:15:24,160
+I'm not so sure I'm the best person to answer that question.
+
+141
+00:15:24,720 --> 00:15:30,960
+I think the whole idea initially was during the process of apoptosis, you would get protein
+
+142
+00:15:30,960 --> 00:15:38,400
+degradation and packaging of pieces of the dead cells into these apoptotic bodies. And then that
+
+143
+00:15:38,400 --> 00:15:45,040
+would reduce inflammation. And then there's evidence that macrophages can then go and take up
+
+144
+00:15:45,040 --> 00:15:52,720
+these apoptotic bodies. And that may facilitate antigen presentation, and so forth.
+
+145
+00:15:53,280 --> 00:15:58,880
+So it's possible, for example, that if you have a cell that has become cancerous, either through
+
+146
+00:15:58,880 --> 00:16:03,600
+a gain of function, loss of function, but whatever, there's some mutation that now renders this cell
+
+147
+00:16:03,600 --> 00:16:09,440
+to go down a pathway of cancer. Fortunately, it undergoes the apoptotic transition,
+
+148
+00:16:09,440 --> 00:16:16,480
+the macrophages take it. Is it likely that you get an immune response to that that is protective
+
+149
+00:16:16,480 --> 00:16:20,560
+in the long run against similar mutations? Because, I mean, even though the macrophages
+
+150
+00:16:20,560 --> 00:16:24,240
+part of the innate immune system, does that ever translate to the adaptive immune system
+
+151
+00:16:24,240 --> 00:16:28,080
+such that you gain some long term immunity from that specific type of mutation?
+
+152
+00:16:28,720 --> 00:16:33,840
+Yes, I think something like that occurs. And I'm just thinking I'm the wrong person to answer that
+
+153
+00:16:33,840 --> 00:16:38,800
+question. I could give you the better names of people that can do a better job. But the,
+
+154
+00:16:38,800 --> 00:16:45,760
+I think the best way to compare it is to contrast it with necrotic cell death. So in apoptosis,
+
+155
+00:16:45,760 --> 00:16:54,960
+you have proteolytic degradation and of a cell and packaging it into these bodies. And you say,
+
+156
+00:16:54,960 --> 00:17:01,520
+well, does that limit inflammation? Well, the way to explain how it does is to compare it to a
+
+157
+00:17:01,520 --> 00:17:09,440
+different form of cell death like necrosis. So necrosis is cells lice and that is very
+
+158
+00:17:09,440 --> 00:17:16,000
+pro-inflammatory. You have nucleic acids released, you have essentially everything is released.
+
+159
+00:17:16,000 --> 00:17:20,240
+Including mitochondrial content, which is probably the most immunogenic given its bacterial
+
+160
+00:17:20,240 --> 00:17:26,240
+origin of the DNA. Absolutely. And so apoptosis, what I'm hearing you say is apoptosis is much
+
+161
+00:17:26,240 --> 00:17:32,720
+cleaner than necrosis. Absolutely. So now let's talk about autophagy. Let's contrast autophagy
+
+162
+00:17:32,720 --> 00:17:37,520
+with apoptosis. That's right. Well, before we get to that, I should go back to your original question
+
+163
+00:17:37,520 --> 00:17:43,680
+of like, how did we start working on autophagy? Then this sort of bridges us to what you just
+
+164
+00:17:43,680 --> 00:17:51,200
+mentioned. So when we disable apoptosis in a cancer cell, it can't commit suicide. And we're
+
+165
+00:17:51,200 --> 00:17:56,480
+doing that all the time. And we could show that then the tumor cells become more tumor-ogenic.
+
+166
+00:17:56,480 --> 00:18:03,600
+But what we didn't expect was the extraordinary propensity for survival.
+
+167
+00:18:04,480 --> 00:18:13,440
+We could leave the cells out and put them in buffer. They wouldn't die under extraordinary
+
+168
+00:18:13,440 --> 00:18:20,320
+circumstances that we couldn't explain. So why would a cell that just couldn't commit suicide
+
+169
+00:18:21,040 --> 00:18:27,680
+survive in buffer with no nutrients at all? And just for context, this is the mid-80s,
+
+170
+00:18:27,680 --> 00:18:33,200
+late 80s? This is the mid-80s. Okay. No, it's probably later than that. It was probably
+
+171
+00:18:34,160 --> 00:18:41,520
+early 1990s. And so it was a conundrum. I mean, just because a cell can't commit suicide doesn't
+
+172
+00:18:41,520 --> 00:18:48,560
+explain how it can be a cancer cell can just sit in buffer and be fine. And we puzzled over this,
+
+173
+00:18:49,120 --> 00:18:56,800
+like how can this be? And then we discovered that what these cells had done was turned on autophagy
+
+174
+00:18:57,520 --> 00:19:03,280
+and we're using that for survival. Before you go down that path, help me understand something.
+
+175
+00:19:03,280 --> 00:19:08,000
+What did you observe about those cells that were sitting there in the absence of nutrients surviving?
+
+176
+00:19:08,000 --> 00:19:13,440
+Did you notice any metabolic changes that were unusual? Like what was your
+
+177
+00:19:14,320 --> 00:19:18,800
+clue that they were able to usurp the environment they were in?
+
+178
+00:19:19,440 --> 00:19:27,200
+It was an act of desperation. We tried a bunch of things and nothing was informative. And then I
+
+179
+00:19:27,200 --> 00:19:32,000
+told the people in the lab, why don't we just look at these cancer cells onto the electron
+
+180
+00:19:32,000 --> 00:19:38,800
+microscope? And that way we can see everything because we couldn't understand how they could be
+
+181
+00:19:38,800 --> 00:19:44,320
+surviving a buffer. And when we got the electron micrographs back, we saw something we had never
+
+182
+00:19:44,320 --> 00:19:51,840
+seen before and all these double membrane vesicles all over the cell. And so that when we finally
+
+183
+00:19:51,840 --> 00:19:57,760
+fail, those are autophagosomes, which we had never ever seen. But wait, how did you, I mean,
+
+184
+00:19:57,760 --> 00:20:01,360
+first of all, this is just to me one of the beautiful moments in science that I think
+
+185
+00:20:02,400 --> 00:20:08,160
+it's so important for people who don't do science for a living to understand that while science is
+
+186
+00:20:08,160 --> 00:20:14,400
+99% failure, every once in a while you have a moment like that. A eureka moment. Yeah. It
+
+187
+00:20:14,400 --> 00:20:20,720
+probably makes up for 10 years of failure. Yes. When you realize in that moment you are seeing
+
+188
+00:20:20,720 --> 00:20:26,880
+something that has never been seen before and therefore this is the cusp of new knowledge.
+
+189
+00:20:26,880 --> 00:20:32,320
+That's right. That's happened to me a bunch of times in my career, which is fortunate. And this
+
+190
+00:20:32,320 --> 00:20:37,200
+was one of those moments. And then we started to read them all, what are these autophagosomes?
+
+191
+00:20:37,200 --> 00:20:41,600
+What do they do? And then when we realized from when we looked in the yeast literature,
+
+192
+00:20:41,600 --> 00:20:47,600
+they were meant to capture intracellular proteins and organelles and bring them to the
+
+193
+00:20:48,160 --> 00:20:54,400
+vacuole or the mammalian lysosome for degradation and recycling. And that this was a mechanism by
+
+194
+00:20:54,400 --> 00:21:00,560
+which yeast survived starvation. And what was the tumor line or what was the cell line you
+
+195
+00:21:00,560 --> 00:21:06,720
+were doing this in? At the time we were using kidney cancer cell lines. Mice are human.
+
+196
+00:21:07,200 --> 00:21:11,520
+These were mouse. But it was basically the first time this had been seen in mammalian cell line?
+
+197
+00:21:12,080 --> 00:21:16,880
+No, I think people had seen autophagosomes before. I mean, you've got to remember in the
+
+198
+00:21:16,880 --> 00:21:23,680
+olden days when electron microscopes were first available, that that's one of the things that
+
+199
+00:21:23,680 --> 00:21:30,080
+people did was describe all kinds of different processes. So autophagosomes were known to exist,
+
+200
+00:21:30,720 --> 00:21:35,200
+but there was very, very little information, almost no information on
+
+201
+00:21:35,200 --> 00:21:43,120
+autophagy and cancer at the time. So we went into this area where there was almost no information.
+
+202
+00:21:43,120 --> 00:21:48,640
+And so the first question we asked is, okay, well, the yeast data tells us that when you see
+
+203
+00:21:48,640 --> 00:21:57,040
+autophagosomes, that means cells are starved and they're recycling and they're using this to survive.
+
+204
+00:21:57,760 --> 00:22:03,760
+And we hypothesized that that's what was going on in these cancer cells.
+
+205
+00:22:04,400 --> 00:22:09,680
+And if that was the case, if autophagy was a survival pathway in cancer,
+
+206
+00:22:10,800 --> 00:22:17,840
+that was a game changer. We had to understand it. And we had to demonstrate that that's what was
+
+207
+00:22:17,840 --> 00:22:26,240
+actually happening. And then if that was the case, if cancer cells had usurped the autophagy pathway
+
+208
+00:22:26,240 --> 00:22:34,240
+for their survival, then we needed to inhibit autophagy for cancer therapy. The first thing
+
+209
+00:22:34,240 --> 00:22:42,240
+we did was we looked to see what would happen if we inhibited autophagy in these cancer cells.
+
+210
+00:22:43,040 --> 00:22:49,440
+And the answer was very simple. In many, many circumstances and many different cell lines that
+
+211
+00:22:49,440 --> 00:22:55,040
+we looked at, when you inhibited your autophagy, the survival of the cancer cells was reduced.
+
+212
+00:22:55,680 --> 00:22:59,360
+Let me interject for a second and ask a question. I don't know if you ever did this experiment,
+
+213
+00:22:59,360 --> 00:23:05,040
+but if you took the kidney line and the kidney cancer line, so basically the same histology
+
+214
+00:23:05,040 --> 00:23:11,680
+from the same tissue, from the same animal, but one has the oncogenic properties and one does not,
+
+215
+00:23:11,680 --> 00:23:19,440
+and you put them in the identical nutrient deprived stress, can you quantify the amount of
+
+216
+00:23:19,440 --> 00:23:23,600
+autophagy or the efficiency with which those two cells undergo autophagy? In other words,
+
+217
+00:23:23,600 --> 00:23:31,840
+is cancer simply preserving the autophagy capacity that it had as a non-cancer cell,
+
+218
+00:23:31,840 --> 00:23:36,240
+but not enhancing it or not having any attenuation of it? Is it simply just, hey,
+
+219
+00:23:36,240 --> 00:23:40,000
+this just happens to be something that gets preserved as you go from non-cancer to cancer?
+
+220
+00:23:40,000 --> 00:23:46,400
+Or is there some qualitative or quantitative change in the character of autophagy as a cell mutates?
+
+221
+00:23:47,120 --> 00:23:54,240
+That's interesting. So let me see if I can unpack that. So if you have the general observation
+
+222
+00:23:55,360 --> 00:24:02,800
+is that normal cells in the fed state don't have autophagy on it, functions at a very,
+
+223
+00:24:02,800 --> 00:24:11,360
+very low level. And if you starve cells or mammals for nutrients, then there's a massive
+
+224
+00:24:11,360 --> 00:24:18,560
+upregulation of autophagy. What was striking about the cancer setting was that even in the
+
+225
+00:24:18,560 --> 00:24:23,600
+fed state, autophagy was elevated. So there is a fundamental difference there.
+
+226
+00:24:23,600 --> 00:24:30,320
+Yes. And then if you stress them, it goes up even further. But the problem is, is that when it's
+
+227
+00:24:30,320 --> 00:24:37,440
+already high, how much higher can it go? And just to be clear, Eileen, this is in vitro. So you can't
+
+228
+00:24:37,440 --> 00:24:41,920
+even make, when you said that, the first thought that came to my mind was, well, maybe the reason
+
+229
+00:24:41,920 --> 00:24:46,000
+is they're undergoing a different stress, which is, for example, a vascular stress, a hypoxic stress,
+
+230
+00:24:46,000 --> 00:24:50,320
+because, you know, haven't got enough VEGF or they haven't created enough. In other words,
+
+231
+00:24:50,320 --> 00:24:54,800
+the apoptosis is going up despite being fed because there's something else that's impairing
+
+232
+00:24:54,800 --> 00:25:00,560
+them. But if what you just said is true in vitro, then that wouldn't explain that, would it? In other
+
+233
+00:25:00,560 --> 00:25:04,800
+words, if they're not limited for oxygen, if they're in a Petri dish and this is happening,
+
+234
+00:25:04,800 --> 00:25:08,640
+my hypothesis wouldn't make sense. That would only make sense if what you said was true in
+
+235
+00:25:08,640 --> 00:25:16,080
+vivo. Right. So in the fed state, the cancer cells already have elevated autophagic flux.
+
+236
+00:25:16,800 --> 00:25:22,160
+And when you fast them, it does go up, but it only so high it can go.
+
+237
+00:25:22,880 --> 00:25:27,920
+I see. So this probably, you know, it's really funny. I'm sure you're familiar with the paper
+
+238
+00:25:27,920 --> 00:25:31,840
+that Matt Van der Heiden and Luke Cantley and Craig Thompson wrote in Science in 2009,
+
+239
+00:25:31,840 --> 00:25:36,400
+which was at least to my knowledge, the first time that someone offered an alternative explanation
+
+240
+00:25:36,400 --> 00:25:41,440
+for the Warburg hypothesis, which is, hey, it might not be that the mitochondria of the cancer
+
+241
+00:25:41,440 --> 00:25:45,840
+cells are defective and can't undergo oxidative phosphorylation. It might be that they're
+
+242
+00:25:45,840 --> 00:25:51,680
+optimizing for growth as opposed to metabolism. They don't care as much about ATP as they care
+
+243
+00:25:51,680 --> 00:25:57,680
+about building blocks. And therefore they're deliberately taking an inefficient route of
+
+244
+00:25:57,680 --> 00:26:03,360
+glycolysis to lactate because they want the cellular building blocks. And that might be the
+
+245
+00:26:03,360 --> 00:26:10,800
+explanation here is that the tumor cell is undergoing more constant proliferation and therefore
+
+246
+00:26:11,440 --> 00:26:18,320
+they want more building block. Exactly right. And in fact, when we look at cancer cells and we study
+
+247
+00:26:18,320 --> 00:26:24,720
+their metabolism, what we've noticed, and this is something that we found and it's been a common
+
+248
+00:26:24,800 --> 00:26:34,400
+observation, is that nucleotides seem to be rate limiting. And so the metabolism of a cancer cell
+
+249
+00:26:34,400 --> 00:26:40,880
+is designed to facilitate de novo synthesis of nucleotides. So it's really interesting,
+
+250
+00:26:40,880 --> 00:26:43,840
+isn't it? When you really start thinking about it, like you think of all the things that could
+
+251
+00:26:43,840 --> 00:26:48,720
+potentially be rate limiting to a cell. Think of how many phospholipids, for example, they need to
+
+252
+00:26:48,720 --> 00:26:57,680
+build all of those cell membranes. And yet it's the nucleic acid to continue to propagate its DNA
+
+253
+00:26:57,680 --> 00:27:01,760
+that becomes rate limiting. That to me is very interesting. I wouldn't necessarily have ever
+
+254
+00:27:01,760 --> 00:27:09,280
+guessed that. We may learn more as going forward, but that is what seems to be a recurring theme.
+
+255
+00:27:09,280 --> 00:27:16,400
+But it's not just DNA, it's also RNA. And you have to remember that RNA and ribosomes make up a huge
+
+256
+00:27:16,400 --> 00:27:21,840
+amount. They're much greater demand. Exactly. And I think David Sabatini has mentioned this many
+
+257
+00:27:21,840 --> 00:27:29,600
+times that a large amount of the mass of a cell is ribosomal RNA. And he had a beautiful paper
+
+258
+00:27:30,400 --> 00:27:35,280
+where he was making the argument that ribophagy, the autophagy of ribosomes,
+
+259
+00:27:35,920 --> 00:27:43,200
+was an important metabolic survival mechanism. And you could think of ribosomes as being a depot,
+
+260
+00:27:43,200 --> 00:27:51,520
+a storage depot for not only nucleic acids, but also protein. And when a cell is stressed or
+
+261
+00:27:51,520 --> 00:27:57,600
+starved, it doesn't need to make protein. So it doesn't really need larger numbers of ribosomes.
+
+262
+00:27:57,600 --> 00:28:04,000
+And so the autophagy pathway can cannibalize those ribosomes because they're unnecessary.
+
+263
+00:28:05,040 --> 00:28:10,880
+And then recycle all that protein and nucleic acids to support survival.
+
+264
+00:28:10,960 --> 00:28:14,480
+Amunago, you mentioned, of course, that some of this had already been observed in yeast. And the
+
+265
+00:28:14,480 --> 00:28:18,880
+moment we start talking about things that are true in yeast and then true in animals, mammals,
+
+266
+00:28:18,880 --> 00:28:23,120
+for example, are higher animals, we're talking about a billion years of evolution here. So
+
+267
+00:28:23,120 --> 00:28:29,840
+this ranks as one of the few things that seems remarkably conserved over evolution. As a general
+
+268
+00:28:29,840 --> 00:28:36,320
+rule, that makes it very important. Do we have a sense of when this first showed up?
+
+269
+00:28:36,960 --> 00:28:41,280
+Again, I might be out of my league. I mean, I know it's certainly a big function in yeast.
+
+270
+00:28:42,240 --> 00:28:44,320
+Prior to yeast, I don't know.
+
+271
+00:28:44,320 --> 00:28:48,240
+Yeah, but it's amazing. I mean, it's sort of, it's in the category of mTOR.
+
+272
+00:28:48,240 --> 00:28:48,960
+Yes.
+
+273
+00:28:48,960 --> 00:28:53,840
+Something that is so important that it just doesn't really seem to change over about a
+
+274
+00:28:53,840 --> 00:28:56,640
+billion years. Rule of thumb, it matters.
+
+275
+00:28:56,640 --> 00:29:02,960
+That's right. And I think when you compare how yeast does autophagy and how mammals do autophagy
+
+276
+00:29:02,960 --> 00:29:09,120
+and what they're using it for, it just looks like mammalian version of autophagy is a little
+
+277
+00:29:09,120 --> 00:29:16,240
+bit more complicated. It's probably, they have probably more different circumstances where
+
+278
+00:29:16,240 --> 00:29:23,040
+autophagy might be necessary, but the basic process is surprisingly the same.
+
+279
+00:29:23,760 --> 00:29:28,400
+What are some of the other stresses that induce autophagy? And let's maybe just for the moment,
+
+280
+00:29:28,400 --> 00:29:33,280
+even start with just in a normal cell. So let me sort of re-synthesize what we've talked about.
+
+281
+00:29:33,280 --> 00:29:38,320
+Clearly, nutrient deprivation is one of the biggest triggers for autophagy. And I mean,
+
+282
+00:29:38,320 --> 00:29:43,280
+maybe just for the sake of time, I'll kind of throw this out there and you can correct me if I'm wrong.
+
+283
+00:29:43,280 --> 00:29:47,760
+But I've always sort of thought of this through three pathways at the sort of mechanistic level.
+
+284
+00:29:47,760 --> 00:29:54,240
+So you have sort of the mTOR pathway, which is mostly sensing amino acids. You have the
+
+285
+00:29:54,240 --> 00:29:59,920
+AMPK pathway, which is mostly sensing energy and ATP in general. And then you have sort of the
+
+286
+00:29:59,920 --> 00:30:05,840
+acetyl-CoA protein deacetylation pathway, which is also just basically sensing substrate of
+
+287
+00:30:05,840 --> 00:30:11,760
+fatty acid and glucose. Is that sort of a fair way to say that those are three ways that nutrient,
+
+288
+00:30:11,760 --> 00:30:17,680
+low nutrients can still trigger the same pathway? Yeah. And I think you could add on to that
+
+289
+00:30:18,400 --> 00:30:26,560
+stresses that result in organelle damage, such as depolarization of mitochondria or dysfunction
+
+290
+00:30:26,560 --> 00:30:34,640
+of mitochondria, activation of protein misfolding, and generation of protein aggregates. So I think
+
+291
+00:30:34,640 --> 00:30:39,920
+there's the things that are directly related to metabolic signaling that you've mentioned,
+
+292
+00:30:39,920 --> 00:30:44,240
+but then there are other stresses that also can tie into the autophagy pathway.
+
+293
+00:30:44,320 --> 00:30:49,360
+Are there other stresses like the nutrient that are stresses that come from outside the cell to
+
+294
+00:30:49,360 --> 00:30:56,000
+inside the cell? So the protein misfolding, the mitochondrial depolarization, those are things
+
+295
+00:30:56,000 --> 00:31:00,160
+that are occurring as damage within the cell that stress. Do we know anything, for example,
+
+296
+00:31:00,160 --> 00:31:05,280
+about temperature? Do heat shock proteins stimulate autophagy in extremes of temperature?
+
+297
+00:31:05,280 --> 00:31:11,440
+Does exercise, I mean, which obviously is in the short term quite stressful, how potent is that at
+
+298
+00:31:11,440 --> 00:31:17,040
+inducing autophagy in a normal cell? So temperature wise, I would fully expect that
+
+299
+00:31:17,680 --> 00:31:23,440
+temperature extremes would induce protein misfolding and induce autophagy as a remedy
+
+300
+00:31:23,440 --> 00:31:31,840
+for that. But I don't recall any studies on that. In terms of exercise, that's very well studied,
+
+301
+00:31:32,480 --> 00:31:40,080
+that exercise induces autophagy very potently. And you actually need autophagy too, because
+
+302
+00:31:40,080 --> 00:31:47,920
+exercise damages the muscle and autophagy is one of the processes that helps mitigate the damage
+
+303
+00:31:47,920 --> 00:31:55,200
+that occurs during exercise. What about hypoxia? Oh, potently. Hypoxia potently induces autophagy.
+
+304
+00:31:55,760 --> 00:32:01,600
+Wow. And in fact, one of the first things we did was when we looked at tumors, tumors are well known
+
+305
+00:32:01,600 --> 00:32:11,280
+to have hypoxia in the center, when we engineered tumor cells to be genetically deficient for
+
+306
+00:32:11,280 --> 00:32:18,480
+autophagy, and you look at them, they're completely hollow. Meaning they have no organelles, nothing?
+
+307
+00:32:18,480 --> 00:32:24,240
+Not the cells are hollow, the tumor is hollow. Oh, wow. The further the cells get from a blood
+
+308
+00:32:24,240 --> 00:32:29,680
+supply, meaning the more susceptible they are to hypoxia, they're dead. Right. So if you take a
+
+309
+00:32:29,680 --> 00:32:36,560
+tumor, the middle is hypoxic, that's where your autophagy is most active. And if you genetically
+
+310
+00:32:36,560 --> 00:32:41,280
+ablate autophagy in the tumor, you end up with a hollow tumor, because the tumor cells in the
+
+311
+00:32:41,280 --> 00:32:45,920
+middle don't survive. Yeah. So it does come back to this idea that we talked about earlier about
+
+312
+00:32:45,920 --> 00:32:50,640
+hypoxia being potentially one of the things that autophagy is protecting cancer from.
+
+313
+00:32:50,640 --> 00:32:56,880
+Absolutely. How easy is it to create an animal model that is unable to undergo autophagy? How
+
+314
+00:32:56,880 --> 00:33:01,680
+difficult is that from a knockout perspective? Well, it's been done and we've done it, and it
+
+315
+00:33:01,680 --> 00:33:08,960
+can be done different ways. So the original mouse strains that were made were deficient in either of
+
+316
+00:33:08,960 --> 00:33:16,960
+two of essential autophagy genes, one called HGG5 and another one called HGG7. And these mice were
+
+317
+00:33:16,960 --> 00:33:24,560
+developed in Japan, and these mice are born, but they fail to survive the neonatal starvation
+
+318
+00:33:24,560 --> 00:33:29,680
+period. So when mammals are born... Meaning once they are cut off from an umbilical nutrient source,
+
+319
+00:33:30,240 --> 00:33:33,680
+it's almost like they have a glycogen storage disease. You know, those conditions where you
+
+320
+00:33:33,680 --> 00:33:38,560
+can't produce any glycogen, but it's uniformly fatal if not treated the moment you're cut off
+
+321
+00:33:38,560 --> 00:33:45,280
+from an umbilical source of nutrient. Right. So that neonatal starvation period between
+
+322
+00:33:46,160 --> 00:33:55,120
+the cutoff of the placenta and suckling is a common feature in mammals. And there's potent
+
+323
+00:33:55,120 --> 00:34:01,600
+induction of autophagy during that period. I can't speak for humans, but certainly I would think so.
+
+324
+00:34:01,600 --> 00:34:09,440
+And in mice, that's exactly what happens. And so these autophagy deficient newborn mice don't survive.
+
+325
+00:34:09,440 --> 00:34:15,600
+Wow. That really, I mean, again, I think that simply underscores the evolutionary preservation
+
+326
+00:34:15,600 --> 00:34:20,960
+of something. If you knock it out, it is uniformly fatal. Do not pass go, do not collect $200,
+
+327
+00:34:20,960 --> 00:34:26,000
+you're gone. And then what we did was, he asked a different question. It was like,
+
+328
+00:34:26,000 --> 00:34:32,080
+what happens in an adult mouse? So in a newborn mouse, it's very different situation because
+
+329
+00:34:32,800 --> 00:34:40,400
+any newborn mammal, they don't have any fat, they have no reserves. And so when the Japanese group
+
+330
+00:34:40,400 --> 00:34:46,240
+did the extraordinary thing of trying to force feed these autophagy deficient newborn animals,
+
+331
+00:34:46,240 --> 00:34:52,720
+then they didn't extend their survival very much. Now, is this Yoshinori's group? This was the
+
+332
+00:34:52,720 --> 00:35:00,560
+Burum-Isushima and the Kumatsu group, I believe. I think it was coming from those two labs.
+
+333
+00:35:00,640 --> 00:35:02,480
+So what happened in that experiment?
+
+334
+00:35:02,480 --> 00:35:09,120
+They discovered that the mice died shortly after birth. And then they realized that,
+
+335
+00:35:09,120 --> 00:35:14,720
+well, they suspected they had a metabolic problem and they weren't suckling because they were
+
+336
+00:35:14,720 --> 00:35:21,760
+probably too ill to by the time they would have been able to. So they force fed them.
+
+337
+00:35:21,760 --> 00:35:27,440
+And that allowed them to live for 24 hours, but they still died anyway.
+
+338
+00:35:27,440 --> 00:35:32,160
+And then are you able to induce an autophagy knockout in an adult?
+
+339
+00:35:32,160 --> 00:35:37,040
+Yeah. So that's what we did because we realized that the newborn animal is-
+
+340
+00:35:37,040 --> 00:35:38,160
+It's just too fragile.
+
+341
+00:35:38,160 --> 00:35:43,760
+Too fragile. They have no nutrient reserves. And actually, in the setting of cancer,
+
+342
+00:35:43,760 --> 00:35:50,320
+we're thinking of, you want to treat an adult with a tumor. So what's happening in autophagy
+
+343
+00:35:50,320 --> 00:35:56,880
+in a newborn animal isn't even relevant. And so we engineered mice where we can take an adult mouse
+
+344
+00:35:57,680 --> 00:36:04,480
+and give the mice a chemical so that an essential autophagy gene will be deleted throughout the
+
+345
+00:36:04,480 --> 00:36:10,640
+entire animal. So one day they're an adult mouse with autophagy. And then a few days later,
+
+346
+00:36:10,640 --> 00:36:17,120
+there are an adult mouse with no autophagy. And these mice were very extraordinary. They
+
+347
+00:36:17,120 --> 00:36:23,600
+lived for two to three months and then they died predominantly of neurodegeneration. Autophagy is
+
+348
+00:36:23,600 --> 00:36:30,960
+very important in the brain over the long term. But if we fasted the mice, they were all dead
+
+349
+00:36:30,960 --> 00:36:32,240
+within 16 hours.
+
+350
+00:36:32,960 --> 00:36:38,880
+Let's unpack that again. That's pretty remarkable. So you take a normal mouse that's got through the
+
+351
+00:36:38,880 --> 00:36:45,120
+vulnerability period of infancy and you genetically knock out its capacity for autophagy.
+
+352
+00:36:45,120 --> 00:36:48,960
+The first thing you observe is if you fast it for 16 hours, which admittedly is a pretty long
+
+353
+00:36:48,960 --> 00:36:54,400
+fast for a mouse, that might be the equivalent of fasting a human for a week. But that degree of
+
+354
+00:36:54,400 --> 00:37:00,560
+nutrient deprivation is uniformly fatal. If you continue to feed them well, they only survive
+
+355
+00:37:00,560 --> 00:37:07,600
+another couple of months because they ultimately succumb to neurodegeneration, suggesting that the
+
+356
+00:37:07,600 --> 00:37:13,280
+role of autophagy in preventing neurodegeneration is essential. And it's really not surprising when
+
+357
+00:37:13,280 --> 00:37:17,040
+you think about the role, everything you talked about with protein misfolding. I mean, when you
+
+358
+00:37:17,040 --> 00:37:22,560
+start to think about the toxicity that are driving neurodegeneration using Alzheimer's
+
+359
+00:37:22,560 --> 00:37:28,880
+disease specifically as an example, there's a lot of crap that's basically getting accumulated in
+
+360
+00:37:28,880 --> 00:37:34,720
+neurons. This would be an elegant way to suggest that autophagy is keeping that at bay.
+
+361
+00:37:34,720 --> 00:37:43,360
+Exactly right. So one other way of looking at it is what tissues are more autophagy dependent than
+
+362
+00:37:43,360 --> 00:37:43,920
+others.
+
+363
+00:37:43,920 --> 00:37:44,640
+Exactly.
+
+364
+00:37:44,640 --> 00:37:49,280
+Brain would be really important. And there are a few others. And what we've noticed when we
+
+365
+00:37:49,280 --> 00:37:56,640
+looked at the mouse, the lack autophagy when we genetically deleted the autophagy gene in the
+
+366
+00:37:56,640 --> 00:38:02,880
+adult mouse, was that there were tissues like the brain that were very sensitive. And there were
+
+367
+00:38:02,880 --> 00:38:07,440
+other tissues like the lungs that didn't have any phenotype.
+
+368
+00:38:07,440 --> 00:38:11,520
+So wait, in other words, when those animals ultimately die of nerd generation, and you
+
+369
+00:38:11,520 --> 00:38:16,560
+undergo the pathology analysis, obviously the brain is where you see the cause of death.
+
+370
+00:38:16,560 --> 00:38:19,520
+You're saying in the lung, it looked completely normal.
+
+371
+00:38:19,520 --> 00:38:21,040
+Relatively normal.
+
+372
+00:38:21,040 --> 00:38:22,160
+What about liver?
+
+373
+00:38:22,160 --> 00:38:29,840
+Liver was very sensitive. So it doesn't lead to the death of the mouse. So if you did a liver
+
+374
+00:38:29,840 --> 00:38:37,280
+specific knockout of essential autophagy, those mice have theatosis and their liver gets huge and
+
+375
+00:38:38,000 --> 00:38:41,520
+whatever, but it doesn't kill them. I mean, they can live for quite a long time.
+
+376
+00:38:41,520 --> 00:38:43,760
+So you induce fatty liver disease.
+
+377
+00:38:43,760 --> 00:38:44,000
+Yes.
+
+378
+00:38:44,000 --> 00:38:50,080
+So again, suggesting that autophagy probably plays a role in preventing fat accumulation in the liver.
+
+379
+00:38:50,080 --> 00:38:55,600
+Exactly right. And also protein aggregate formation. One of the other phenotypes of
+
+380
+00:38:55,600 --> 00:39:01,920
+steatosis is the accumulation of these malary bodies, which are large protein aggregates
+
+381
+00:39:01,920 --> 00:39:07,600
+composed of a protein called P62. When you lose autophagy in the liver, you're causing
+
+382
+00:39:08,240 --> 00:39:15,360
+accumulation of fat, accumulation of protein aggregates, but the liver manages to tolerate it.
+
+383
+00:39:15,920 --> 00:39:22,160
+The brain, however, is a different story. If you have post-mitotic neurons where
+
+384
+00:39:22,160 --> 00:39:23,040
+They don't have the capacity to divide.
+
+385
+00:39:23,040 --> 00:39:26,080
+They don't have the capacity to do that. I mean, when they
+
+386
+00:39:26,080 --> 00:39:29,200
+accumulate the crap, as you said, then it's game over.
+
+387
+00:39:29,840 --> 00:39:36,320
+Was there evidence that the brain in some last ditch effort to survive was undergoing more
+
+388
+00:39:36,320 --> 00:39:38,160
+apoptosis of neurons?
+
+389
+00:39:38,160 --> 00:39:44,160
+Yes. That's the common feature of these animals is increased apoptosis in the brain.
+
+390
+00:39:44,720 --> 00:39:49,120
+But before that, you see all kinds of terrible things going wrong. This has been
+
+391
+00:39:49,680 --> 00:39:58,480
+part of a major effort to generate autophagy stimulators as a remedy or as a means to delay
+
+392
+00:39:58,480 --> 00:40:00,160
+neurodegenerative diseases.
+
+393
+00:40:00,880 --> 00:40:05,600
+I want to come back to this later on in the discussion, but I'll just plant the seed now.
+
+394
+00:40:06,160 --> 00:40:11,760
+Obviously fasting is one of the most potent stimulators of autophagy. I spend a lot of time
+
+395
+00:40:11,760 --> 00:40:20,080
+thinking about how does fasting fit into our toolkit of longevity, a big part of longevity.
+
+396
+00:40:20,080 --> 00:40:24,320
+In fact, probably the single most important piece of longevity when it comes to the lifespan
+
+397
+00:40:24,320 --> 00:40:27,920
+aspect of it. So, you know, you think of lifespan versus health span, how long you live versus how
+
+398
+00:40:27,920 --> 00:40:33,680
+well you live. On the how long you live front, I think it's very safe to say based on all of the
+
+399
+00:40:33,680 --> 00:40:39,920
+animal data and frankly, all of the centenarian data that the key to living longer is delaying
+
+400
+00:40:39,920 --> 00:40:46,320
+the onset of chronic disease. So even when you look at centenarians who are genetically gifted
+
+401
+00:40:46,320 --> 00:40:54,240
+with tools to live longer, if you unpack what the gift is, it's delaying the onset of the disease,
+
+402
+00:40:54,240 --> 00:40:58,880
+not living longer once you have the disease. So the centenarians, once they get cancer and once
+
+403
+00:40:58,880 --> 00:41:03,200
+they get heart disease, they die at about the same rate over the same duration as the rest of us
+
+404
+00:41:03,200 --> 00:41:09,200
+schmucks. The difference is they get those diseases 20 to 25 years later. And again, that
+
+405
+00:41:09,200 --> 00:41:12,800
+suggests to me that if you want to live longer, you have to delay the onset of these things,
+
+406
+00:41:12,800 --> 00:41:19,280
+not live longer once you have them. And so it's hard to think that fasting doesn't play an
+
+407
+00:41:19,280 --> 00:41:25,440
+essential role in that. When you realize the role that fasting plays in the mitigation of
+
+408
+00:41:25,440 --> 00:41:29,200
+Alzheimer's disease and metabolic disease. Of course, what we're going to come back to in a
+
+409
+00:41:29,200 --> 00:41:33,360
+second is cancer, which seems to be this conundrum. This is the needle we're going to want to thread
+
+410
+00:41:33,360 --> 00:41:39,680
+a little later down the line. I'll plant the seed now, but I do want to come back to the idea of
+
+411
+00:41:39,680 --> 00:41:46,560
+ways that we can also induce autophagy sort of pharmacologically or chemically. The first thing
+
+412
+00:41:46,560 --> 00:41:50,240
+that would jump to your mind is anything that mimics fasting. The first thing that comes to
+
+413
+00:41:50,240 --> 00:41:55,440
+mind would be metformin, rapamycin, things like that, that what we talked about earlier, just for
+
+414
+00:41:55,520 --> 00:42:00,880
+the listener to sort of tie this together, we talked about these huge pathways that tell the
+
+415
+00:42:00,880 --> 00:42:07,840
+body nutrients are scarce. So when mTOR activity is down, that's a sign that we're deficient in
+
+416
+00:42:07,840 --> 00:42:15,440
+amino acids, but we can also do that with rapamycin. When AMPK is up, that's the cell being told we're
+
+417
+00:42:15,440 --> 00:42:20,240
+deficient in ATP. Another way you can do that is to give metformin. We haven't talked about
+
+418
+00:42:20,240 --> 00:42:25,760
+sirtuins yet. Maybe I'll pause for a moment. Do we have any sense of what sirtuin activity does
+
+419
+00:42:25,760 --> 00:42:30,800
+in autophagy? I'm not familiar with that literature. Okay. I was going to say, because then you could
+
+420
+00:42:30,800 --> 00:42:36,720
+get into the whole NAD versus NADH ratios and how that might factor into it. So again, I'm really
+
+421
+00:42:36,720 --> 00:42:41,920
+curious about this through a clinical lens as well, which is what is the suite of products? But
+
+422
+00:42:41,920 --> 00:42:44,960
+almost just saying that out loud, so between the two of us, we remember to come back to this,
+
+423
+00:42:44,960 --> 00:42:49,760
+but I now kind of want to get back to your story, which is we've got these mice, you've got this
+
+424
+00:42:49,760 --> 00:42:54,000
+much more elegant experiment now, which is you're actually going after the phenotype of interest,
+
+425
+00:42:54,000 --> 00:42:59,840
+which is in an adult in which you inhibit autophagy. What was happening in that animal
+
+426
+00:42:59,840 --> 00:43:05,120
+if it had cancer? So did you ever do the experiment where you had an adult with cancer,
+
+427
+00:43:05,120 --> 00:43:09,600
+then you knock out autophagy? That's actually one of the reasons we made that mouse.
+
+428
+00:43:10,240 --> 00:43:17,920
+So we had two questions we wanted to answer. One was, if you inhibited autophagy in an adult mouse,
+
+429
+00:43:17,920 --> 00:43:24,080
+what would happen? Because if they died in an hour, then targeting autophagy for cancer
+
+430
+00:43:24,080 --> 00:43:28,400
+therapy would be pointless. Especially if you can't do it specifically. That's right.
+
+431
+00:43:28,400 --> 00:43:33,040
+So the answer was it didn't die in an hour. They died in two or three months, which was actually
+
+432
+00:43:33,040 --> 00:43:39,920
+good news because that meant that there was a potential window of opportunity for inhibiting
+
+433
+00:43:39,920 --> 00:43:43,680
+autophagy for cancer therapy. And I'm sorry, Eileen, when they died in two to three months,
+
+434
+00:43:43,680 --> 00:43:47,280
+was it still from the neurodegenerative disease? Yes. And did they still have cancer at the time
+
+435
+00:43:47,360 --> 00:43:52,400
+of death? We had to first make a mouse that lacked where we could switch off autophagy
+
+436
+00:43:52,400 --> 00:43:58,720
+and find out what happened to that mouse. Okay. So we did that and we saw that they died of
+
+437
+00:43:58,720 --> 00:44:03,840
+neurodegeneration in two or three months, which was good. If they died immediately, then we would
+
+438
+00:44:03,840 --> 00:44:08,800
+have stopped. There would be no point in trying to make cancer in that animal. But we did learn
+
+439
+00:44:08,800 --> 00:44:15,280
+that they were intolerant to fasting, which was perfectly consistent with everything we knew about
+
+440
+00:44:15,280 --> 00:44:22,800
+what autophagy functionally did. So then we moved to the second step was to do the experiment that
+
+441
+00:44:22,800 --> 00:44:31,280
+you just suggested to make cancer in that mouse. And then after the mouse had cancer to then shut
+
+442
+00:44:31,280 --> 00:44:38,080
+the autophagy pathway off. And then to ask the key question, which died first, the mouse of the tumor?
+
+443
+00:44:38,880 --> 00:44:45,440
+And the answer was the tumor died first. Wow. Okay. So then here's the gangster question.
+
+444
+00:44:45,440 --> 00:44:50,000
+Once the tumor died, could you reactivate autophagy to prevent the neurodegeneration,
+
+445
+00:44:50,000 --> 00:44:56,880
+or is it a one switch direction? That required a different type of mouse model. So what we were
+
+446
+00:44:56,880 --> 00:45:02,320
+doing was making a mouse with cancer. And then once the mouse had lung cancer, in this case,
+
+447
+00:45:02,800 --> 00:45:09,680
+we deleted an essential autophagy gene in the entire mouse tumor and all, but the gene was gone.
+
+448
+00:45:10,400 --> 00:45:17,920
+So it wasn't like we could turn autophagy back on in that model. But since then, one of my trainees
+
+449
+00:45:17,920 --> 00:45:23,840
+in collaboration with the lab in the UK, they have developed a model where they can toggle
+
+450
+00:45:24,480 --> 00:45:32,640
+autophagy off and then back on again. And what they've seen is a remarkable capacity of the
+
+451
+00:45:32,640 --> 00:45:40,000
+normal tissues to restore themselves. So the experiment would be to have a mouse to induce
+
+452
+00:45:40,000 --> 00:45:48,000
+an SHRNA to a specific autophagy gene to down regulate the expression and inhibit autophagy
+
+453
+00:45:48,000 --> 00:45:56,800
+that way. And then later on, take that SHRNA away or shut it off and restore normal autophagy
+
+454
+00:45:56,800 --> 00:46:04,400
+in the mouse. And you see a lot of capacity for the tissues to restore themselves back to normal.
+
+455
+00:46:04,960 --> 00:46:14,240
+So that experiment basically becomes the proof point that says targeting autophagy in cancer
+
+456
+00:46:14,240 --> 00:46:18,560
+makes sense. That's probably the most elegant description you could provide of that.
+
+457
+00:46:18,560 --> 00:46:26,720
+That's right. I think it would be better if we had specific targeted therapies against some of the
+
+458
+00:46:26,720 --> 00:46:34,000
+enzymes in the autophagy pathway, because these are all genetic experiments and it's not exactly
+
+459
+00:46:34,000 --> 00:46:39,600
+the same. Right. You might not get the complete penetration with a drug. Or inhibiting a protease
+
+460
+00:46:39,600 --> 00:46:46,800
+is not exactly the same as deleting the gene. But this is all what's called proof or principle
+
+461
+00:46:47,360 --> 00:46:52,240
+that the concept of inhibiting autophagy in cancer is valid.
+
+462
+00:46:52,960 --> 00:47:00,640
+So what do we know today about what you've just described as it pertains to two things? So I want
+
+463
+00:47:00,640 --> 00:47:07,440
+to slice the data across two variables. The first is tissue type or histology of cancer.
+
+464
+00:47:07,440 --> 00:47:13,200
+And the second is underlying genetic mutation. So I know that a lot of what you're describing
+
+465
+00:47:13,200 --> 00:47:22,720
+is clearly true in KRAS mutation. What about other drivers? We and a number of other cancer labs that
+
+466
+00:47:22,720 --> 00:47:27,760
+use genetically engineered mouse models for cancer have been banging away at that for a number of
+
+467
+00:47:27,760 --> 00:47:36,800
+years. And what we've learned is that KRAS driven lung cancer and pancreatic cancer are extraordinarily
+
+468
+00:47:36,880 --> 00:47:42,560
+autophagy dependent and you do it, you know, make the mouse models and the tumors are very
+
+469
+00:47:42,560 --> 00:47:48,800
+susceptible to the functional loss of autophagy. Can you briefly tell folks what a KRAS driven
+
+470
+00:47:48,800 --> 00:47:55,440
+cancer does? Like what is it about the mutation that drives the oncogenesis? So KRAS is a GTP
+
+471
+00:47:55,440 --> 00:48:03,200
+binding protein that is responsible for activating what's called the MAP kinase pathway. And this
+
+472
+00:48:03,200 --> 00:48:12,720
+pathway is very key in driving cell proliferation. And so cancers have a mutation in KRAS or mutations
+
+473
+00:48:12,720 --> 00:48:21,760
+in KRAS that leave it in the GTP bound or on state. So there's perpetual growth signaling through the
+
+474
+00:48:21,760 --> 00:48:26,640
+MAP kinase pathway. Which of course is the hallmark of cancer, which is it's unresponsive to cell
+
+475
+00:48:26,640 --> 00:48:32,720
+signaling. And when you are fixed in the on position, you can't turn off and basically that is cancer.
+
+476
+00:48:32,720 --> 00:48:37,680
+That's right. And what's particularly interesting about RAS driven cancers is that
+
+477
+00:48:38,400 --> 00:48:46,480
+we have been very unsuccessful in drugging RAS. And there's recent hope that the cysteine,
+
+478
+00:48:46,480 --> 00:48:51,280
+the particular subset of the mutations in RAS that involve cysteine residue,
+
+479
+00:48:51,840 --> 00:48:58,160
+that there are now drugs that target that. There's hope after decades of failure.
+
+480
+00:48:58,160 --> 00:49:04,880
+Is the primary issue in the failure to drug RAS that you can't do it without creating toxicity
+
+481
+00:49:04,880 --> 00:49:11,040
+for other cells that are non-cancer or that it has too many workarounds to whatever you put in place?
+
+482
+00:49:11,040 --> 00:49:17,040
+I think too many workarounds is a common problem. What they've done is that they said, okay, if
+
+483
+00:49:17,040 --> 00:49:22,720
+targeting RAS is difficult, then let's go downstream of RAS. And try MAP kinase. Right, right. So there
+
+484
+00:49:22,720 --> 00:49:31,520
+are inhibitors of RAF, MEC and ERK, which are downstream of RAS. And those are actively in use
+
+485
+00:49:31,520 --> 00:49:39,440
+in the clinic, but they seem to be not durably effective in RAS driven cancers because of the
+
+486
+00:49:39,440 --> 00:49:47,840
+workarounds. Yeah. So are there mutations or mutant drivers of cancer that we know are not
+
+487
+00:49:47,920 --> 00:49:54,160
+dependent on autophagy and unresponsive to the autophagy blockade? Yeah, it seems like there's
+
+488
+00:49:54,160 --> 00:50:03,120
+a spectrum. So RAS driven cancers are particularly sensitive. B-RAF driven cancers like B-RAP V600E
+
+489
+00:50:03,120 --> 00:50:10,720
+is a common B-RAF oncogenic mutation. And those cancers are particularly sensitive. And those,
+
+490
+00:50:11,280 --> 00:50:18,320
+the ones that were examined were lung cancers and melanoma. The B-RAP V600E mutation, melanoma
+
+491
+00:50:18,320 --> 00:50:25,360
+is very common. Homologous recombination deficient breast cancers. And those would be,
+
+492
+00:50:25,920 --> 00:50:32,560
+well, I mean, those would be models of hereditary breast cancer. Those are very sensitive to loss
+
+493
+00:50:32,560 --> 00:50:40,880
+of autophagy. APC deficient colon cancer is another example. What about non-APC driven colon
+
+494
+00:50:40,880 --> 00:50:46,240
+cancer, which of course is the majority of it? What do we know about that? I don't think I can
+
+495
+00:50:46,240 --> 00:50:53,520
+remember seeing a paper. I remember the APC deficient model. That's in fact the most commonly
+
+496
+00:50:53,520 --> 00:50:59,520
+used model. Anything we know about prostate cancer or other hormone sensitive breast cancers?
+
+497
+00:50:59,520 --> 00:51:05,760
+So prostate cancer is sensitive. We did that work. And hormone sensitive breast cancer,
+
+498
+00:51:06,560 --> 00:51:13,200
+I'm not recalling right now, but there are a long list of cancers that are sensitive. The sensitivity
+
+499
+00:51:13,200 --> 00:51:20,240
+is not all equal. For example, B-RAF driven cancers are very sensitive, more so than RAS
+
+500
+00:51:20,240 --> 00:51:27,520
+driven lung cancers. You just compare lung, B-RAF lung cancer to RAS lung cancer, the B-RAP mutant
+
+501
+00:51:27,520 --> 00:51:33,440
+lung cancer is more sensitive. The most sensitive cancer that we've encountered is in fact
+
+502
+00:51:33,440 --> 00:51:40,960
+RAS driven lung cancer with LKB mutations. And this makes a lot of sense too. So one of my trainees
+
+503
+00:51:40,960 --> 00:51:47,200
+who has her own research lab hypothesized that we sat down and we thought what cancer would be,
+
+504
+00:51:47,840 --> 00:51:55,600
+would you predict to be most autophagy dependent? And it should be a cancer with loss of LKB1.
+
+505
+00:51:56,080 --> 00:52:04,320
+LKB1 is a tumor suppressor gene that's involved in activating AMP kinase. And AMP kinase activates
+
+506
+00:52:04,320 --> 00:52:11,280
+autophagy as a survival mechanism to low energy. And so there were a whole class of lung cancers
+
+507
+00:52:11,280 --> 00:52:19,840
+that have lost LKB1. And as a result, they can't activate this protective mechanism.
+
+508
+00:52:19,840 --> 00:52:26,320
+This is Dr. Jessie Guo. She made this mouse model, RAS driven lung cancer without LKB1.
+
+509
+00:52:26,960 --> 00:52:33,040
+And lo and behold, when you delete an essential autophagy gene, you abrogate tumor genesis.
+
+510
+00:52:33,680 --> 00:52:41,760
+So it makes a huge amount of sense. LKB deficient RAS driven lung cancer is probably the number one
+
+511
+00:52:41,760 --> 00:52:50,880
+sensitive tumor. So how do we reconcile these two observations that almost seem to have a
+
+512
+00:52:50,880 --> 00:52:56,720
+difficulty coexisting? So the first is everything you've just stated, which is pretty clear and
+
+513
+00:52:56,720 --> 00:53:05,680
+unambiguously suggesting that autophagy is at least for a number of cancers, an important part
+
+514
+00:53:05,680 --> 00:53:12,800
+of their survival and proliferation. And we contrast that with an abundant body of literature
+
+515
+00:53:12,800 --> 00:53:19,920
+that suggests that when you combine fasting, which is a potent inducer of autophagy with
+
+516
+00:53:19,920 --> 00:53:25,520
+chemotherapy, for example, you enhance its efficacy. And we can speculate about why that might be the
+
+517
+00:53:25,520 --> 00:53:33,120
+case. These two things, although not directly comparable, seem a little bit at odds. How do you
+
+518
+00:53:33,120 --> 00:53:38,320
+think about those things? I would probably think about it in a slightly different way.
+
+519
+00:53:38,320 --> 00:53:46,000
+So if you want to get at the two different roles of autophagy, one is cancer cells usurping it and
+
+520
+00:53:46,000 --> 00:53:52,240
+turning it on for their own survival. Then the other side of it is when we know that autophagy
+
+521
+00:53:52,240 --> 00:53:58,480
+is protective. We know what happens if you have a mouse without autophagy. Many terrible things
+
+522
+00:53:58,480 --> 00:54:03,520
+happen. It takes a while, but the mice die of neurodegeneration. Can I interrupt for one second?
+
+523
+00:54:03,520 --> 00:54:07,280
+I'm sorry to do this, but I'll forget this question. I want to come right back to your thought.
+
+524
+00:54:07,280 --> 00:54:11,680
+In those animals that died of neurodegenerative disease after two to three months,
+
+525
+00:54:11,680 --> 00:54:19,600
+did they show an increase in tumor genesis in any other tissue? No, they don't. But if you make a
+
+526
+00:54:19,600 --> 00:54:26,880
+mouse where you bypass the neurodegeneration by knocking out an essential autophagy everywhere
+
+527
+00:54:27,600 --> 00:54:34,400
+but not the brain, then those mice will get benign hepatomas, so benign tumors of the liver.
+
+528
+00:54:35,040 --> 00:54:41,040
+But that makes sense too. Think about autophagy in normal tissues. We know it's important because
+
+529
+00:54:41,040 --> 00:54:47,280
+if you knock autophagy out on a mouse, there's tissue specific but gradual deterioration
+
+530
+00:54:47,840 --> 00:54:54,400
+ultimately leading to neurodegeneration and you end up with steatosis, fatty liver disease.
+
+531
+00:54:54,400 --> 00:55:01,280
+The brain phenotype can be explained, as we discussed before, neurons in the brain need this
+
+532
+00:55:01,280 --> 00:55:06,080
+protein and organelle quality control function. They're post-mitotic. They have to have a way of
+
+533
+00:55:06,080 --> 00:55:11,760
+getting rid of the garbage. In the liver, what happens when you damage the liver?
+
+534
+00:55:11,760 --> 00:55:14,160
+It regenerates. It's got infinite capacity.
+
+535
+00:55:14,160 --> 00:55:16,960
+That's right. But what happens when you...
+
+536
+00:55:16,960 --> 00:55:18,960
+Unless there's too much inflammation.
+
+537
+00:55:18,960 --> 00:55:24,320
+Exactly. So you end up with... When you inactivate autophagy in liver, you end up with these
+
+538
+00:55:24,320 --> 00:55:31,600
+chronic cycles of damage, repair, and chronic inflammation. And that is oncogenic. And that's
+
+539
+00:55:31,600 --> 00:55:35,520
+not... It's particularly obvious in the liver. The pancreas as well.
+
+540
+00:55:35,520 --> 00:55:37,760
+Exactly. Very sensitive to that inflammation.
+
+541
+00:55:37,760 --> 00:55:43,200
+So I think what this is telling us, this is something very important. It's telling us that
+
+542
+00:55:43,840 --> 00:55:51,360
+a main function of autophagy in tissue homeostasis is to preserve cellular function
+
+543
+00:55:52,160 --> 00:56:00,320
+to be normal, to prevent chronic damage and inflammation. And tissues that are susceptible
+
+544
+00:56:00,320 --> 00:56:07,360
+to cancer as a result of chronic damage and inflammation, autophagy is highly protective.
+
+545
+00:56:07,360 --> 00:56:12,080
+Which again, think about how complicated this is. Now I'll bring us back to the question I
+
+546
+00:56:12,080 --> 00:56:17,120
+posed a moment ago, but using this example, why does an AfroD ultimately lead to cancer?
+
+547
+00:56:17,120 --> 00:56:20,640
+Because if you have enough accumulation of fat, you get enough inflammation, you're going to get
+
+548
+00:56:20,640 --> 00:56:26,800
+a peticellular carcinoma. Same with pancreatic cancer. This is why alcohol is such a horrible
+
+549
+00:56:26,800 --> 00:56:32,960
+molecule. It's so toxic to the pancreas, to the liver, and you sow those seeds of inflammation,
+
+550
+00:56:32,960 --> 00:56:38,160
+and lo and behold, you're increasing this risk of cancer. So on the one hand, we know that autophagy
+
+551
+00:56:38,880 --> 00:56:43,760
+helps ameliorate that. It cleans that up. It buffers that. At the same time, we just realized
+
+552
+00:56:43,760 --> 00:56:49,440
+a moment ago, oh boy, once you do get pancreatic cancer, it's a KRAS driven cancer. Autophagy is
+
+553
+00:56:49,440 --> 00:56:52,880
+helping it. That's right. So now let's come back to the question I posed a moment ago that I so
+
+554
+00:56:52,880 --> 00:56:58,240
+rudely interrupted you in answering, which was how do you reconcile these? I think it's a matter
+
+555
+00:56:58,240 --> 00:57:03,680
+of thinking of the role of autophagy in cancer as being context dependent. On the one hand,
+
+556
+00:57:04,480 --> 00:57:12,160
+functional autophagy can delay the onset of chronic damage and inflammation that are known
+
+557
+00:57:12,160 --> 00:57:18,080
+causes of cancer in particular tissues such as the pancreas and the liver, amongst a few others.
+
+558
+00:57:18,880 --> 00:57:27,200
+So I think that stimulating autophagy through fasting or through pharmacologic means at one
+
+559
+00:57:27,200 --> 00:57:33,440
+point can be thought of as preserving health. But once you have a cancer, I think it's a different
+
+560
+00:57:33,440 --> 00:57:43,280
+ballgame. And at that point, it's a completely different context. And in that setting, what we've
+
+561
+00:57:43,280 --> 00:57:50,400
+learned is inhibiting autophagy is preferentially damaging to the tumor compared to the normal
+
+562
+00:57:50,400 --> 00:57:56,240
+tissues. And then going back to the other literature, which looks at the efficacy of
+
+563
+00:57:57,120 --> 00:58:01,920
+fasting combined with chemotherapy, which is superior to just chemotherapy.
+
+564
+00:58:02,800 --> 00:58:10,560
+Do you think that the reason for that is that the chemotherapy itself, maybe once you you're
+
+565
+00:58:10,560 --> 00:58:15,200
+rendering the cells more sensitive to chemotherapy and also potentially generating a more durable
+
+566
+00:58:15,200 --> 00:58:19,760
+immune response? Because one interpretation of what you're saying is a person with cancer
+
+567
+00:58:19,760 --> 00:58:26,720
+should never be calorically restricted. I don't know that's going too far. I would say that I
+
+568
+00:58:26,720 --> 00:58:34,240
+don't know that you can equate caloric restriction with the loss of autophagy or regulation of
+
+569
+00:58:34,240 --> 00:58:39,680
+autophagy, because I think they're not equal things because I think that caloric restriction is
+
+570
+00:58:40,320 --> 00:58:48,560
+limiting tumor nutrients. And so I think what that's doing in the context of cancer therapy
+
+571
+00:58:48,560 --> 00:58:55,200
+needs to be better understood. I'm just not sure that we know what's happening there.
+
+572
+00:58:55,920 --> 00:59:00,640
+If I'm hearing you correctly, you're saying, look, it might be that we can't necessarily say that
+
+573
+00:59:00,640 --> 00:59:07,280
+fasting isn't helpful in cancer, because while it may be counterproductive from the standpoint of
+
+574
+00:59:07,280 --> 00:59:11,440
+autophagy, that may be offset by other things that are beneficial, such as the reduction of
+
+575
+00:59:11,440 --> 00:59:14,880
+overall nutrients and inflammation that accompany this. Exactly right.
+
+576
+00:59:15,520 --> 00:59:21,120
+Yeah, to me, of all of the areas of autophagy that have me scratching my head the most,
+
+577
+00:59:21,120 --> 00:59:28,400
+it is this question of given that fasting is one of our most potent ways to stimulate it. In fact,
+
+578
+00:59:28,400 --> 00:59:32,960
+I would argue it's more potent than metformin, which is an AMP-AK activator, more potent probably
+
+579
+00:59:32,960 --> 00:59:37,200
+than exercise. I mean, it might be the most potent thing we can do to turn this amazing tool on.
+
+580
+00:59:37,920 --> 00:59:42,240
+How do we think about using it in disease prevention and disease treatment? And they
+
+581
+00:59:42,240 --> 00:59:47,760
+aren't necessarily the same thing. I completely agree. And in fact, I would ask a question of you.
+
+582
+00:59:48,480 --> 00:59:56,240
+So there's multiple efforts in the biotech industry to identify pharmacologic agents that
+
+583
+00:59:56,240 --> 01:00:02,880
+are potent stimulators of autophagy. And I think their idea is, as a normal healthy people will
+
+584
+01:00:02,880 --> 01:00:09,040
+take a pill, autophagy will be turned on, and there'll be some fountain of youth type thing.
+
+585
+01:00:09,040 --> 01:00:12,560
+Spermidine is one of the things that people are talking a lot about, right?
+
+586
+01:00:12,560 --> 01:00:18,800
+So why not cultivate the use of fasting instead?
+
+587
+01:00:19,440 --> 01:00:24,960
+I will tell you exactly why, Eileen. And I love how you have fed into it. It's almost like you can
+
+588
+01:00:24,960 --> 01:00:30,800
+read my mind and know where I'm going to go with this discussion. I think a big part of it is we
+
+589
+01:00:30,800 --> 01:00:37,520
+don't have the tools to measure the signatures of autophagy. In other words, if a patient comes
+
+590
+01:00:37,520 --> 01:00:44,480
+to me and says, Peter, I want to do whatever I can to enhance autophagy because I have now bought
+
+591
+01:00:44,480 --> 01:00:50,240
+into the idea that it is going to basically protect me from every chronic disease, I would say, yeah,
+
+592
+01:00:50,240 --> 01:00:54,400
+I agree with you. And they say, great, fasting seems like a great way to do it. I'd say, you're
+
+593
+01:00:54,400 --> 01:00:58,880
+absolutely right. And they say, well, how long do I need to fast, Peter? Guess what I get to say?
+
+594
+01:00:58,880 --> 01:01:04,720
+I don't know. And I'll tell you in reality what I say. I say, well, look, I'm really sure that
+
+595
+01:01:04,720 --> 01:01:10,320
+after about seven days of nothing but water, autophagy is fully cranked. And I'm also really
+
+596
+01:01:10,320 --> 01:01:16,560
+sure that if you just go 12 hours without a meal, you probably haven't done anything. Where I
+
+597
+01:01:16,560 --> 01:01:22,000
+struggle is where between them. Now, I want to share with you some personal experience and I
+
+598
+01:01:22,000 --> 01:01:27,440
+want you to weigh in on it. And then I think maybe we can pivot off into actually kind of going back
+
+599
+01:01:27,440 --> 01:01:31,840
+to what you and I spoke about over the phone five or six years ago, which is what would a
+
+600
+01:01:31,840 --> 01:01:38,000
+molecular signature for autophagy look like? And again, I think this is, I put this in the top
+
+601
+01:01:38,000 --> 01:01:43,280
+three most important translational questions in my field. In other words, as I think about the
+
+602
+01:01:43,280 --> 01:01:51,600
+practice of medicine, as it pertains to longevity, it's our inability to understand how to quantify
+
+603
+01:01:51,600 --> 01:01:57,040
+the benefit of nutrient deprivation. In other words, our inability to dose it. That is our
+
+604
+01:01:57,120 --> 01:02:04,800
+greatest, certainly among our top three, detriments to using this incredibly potent tool. So I fast a
+
+605
+01:02:04,800 --> 01:02:10,160
+lot. I just finished a fast yesterday, actually. So I used to do a thing where I fasted seven days
+
+606
+01:02:10,160 --> 01:02:16,400
+every quarter. So four times a year, I would just do a water only fast. How hard is it to do that?
+
+607
+01:02:16,960 --> 01:02:21,600
+It is not that hard. I'm going to be completely honest with you. I wish I could sit here and say,
+
+608
+01:02:21,600 --> 01:02:27,040
+oh, I'm a real stud. Nobody can do it. No, no, no. Anybody can do it. I really think anybody can do
+
+609
+01:02:27,040 --> 01:02:30,640
+it. It's not to say that there aren't moments throughout those fasts where it's sort of
+
+610
+01:02:30,640 --> 01:02:36,160
+difficult, but you'd also be surprised at how resilient the body is. So yeah, not that hard.
+
+611
+01:02:36,160 --> 01:02:40,480
+You have to make some adjustments. Obviously you have to be very thoughtful about how much water
+
+612
+01:02:40,480 --> 01:02:43,920
+you're drinking and how many electrolytes you supplement. There are a lot of changes that are
+
+613
+01:02:43,920 --> 01:02:48,400
+happening in terms of electrolyte management and things like that. But again, we certainly have the
+
+614
+01:02:48,400 --> 01:02:53,040
+knowledge to know how to manage people through that. But I began to ask the question, right?
+
+615
+01:02:53,040 --> 01:02:59,760
+Which is, okay, is seven days a quarter the right dose? I'm convinced that it's a big bolus of
+
+616
+01:02:59,760 --> 01:03:06,080
+autophagy, but is it frequent enough? What about three days every month? That's about the same
+
+617
+01:03:06,080 --> 01:03:11,680
+number of total days fasted, but it's more frequent, but it's probably less potent. And the reason I
+
+618
+01:03:11,680 --> 01:03:17,680
+sort of decided to try three days a month was I noticed that a couple of things happened at the
+
+619
+01:03:17,680 --> 01:03:22,480
+end of my fasts. So I always check my blood before and after one of these seven day fasts,
+
+620
+01:03:22,480 --> 01:03:26,880
+and there's a very predictable set of changes that occurs. Some of them that are really obvious,
+
+621
+01:03:26,880 --> 01:03:34,080
+glucose plummets, insulin becomes unmeasurable. Uric acid goes through the roof along with beta
+
+622
+01:03:34,080 --> 01:03:39,200
+hydroxybutyrate, of course, two possible explanations for the uric acid going through the roof.
+
+623
+01:03:39,760 --> 01:03:44,480
+One is the breakdown of nucleic acid. And obviously when I talk go through, I mean,
+
+624
+01:03:44,480 --> 01:03:50,400
+doubling of uric acid. So much so that I started taking allopurinol during a fast to make sure I
+
+625
+01:03:50,400 --> 01:03:55,920
+didn't get gout. Of course, it could also be, and I've read something that says that uric acid and
+
+626
+01:03:55,920 --> 01:04:00,160
+BHB compete for the same transporter in the kidneys. So there might also be a bit of a
+
+627
+01:04:00,160 --> 01:04:03,760
+competitive blockade, but nevertheless, we have at least one possible explanation there.
+
+628
+01:04:03,760 --> 01:04:10,160
+Endocrine function changes dramatically. T3 goes down significantly and reverse T3 goes up
+
+629
+01:04:10,160 --> 01:04:16,720
+significantly such that the ratio of them changes by four to six fold, which means you basically
+
+630
+01:04:16,720 --> 01:04:23,200
+shut off metabolism. Not surprising. Explains why you become incredibly cold and tolerant during a
+
+631
+01:04:23,200 --> 01:04:28,560
+fast and also gonadotropins go down. So you have all these really predictable things. Well, what I
+
+632
+01:04:28,560 --> 01:04:34,080
+noticed was I see virtually all of them, though not quite to the same magnitude after three days,
+
+633
+01:04:34,080 --> 01:04:40,800
+but not after two days. So that just got me intuitively thinking in a hand waving way
+
+634
+01:04:40,800 --> 01:04:48,080
+that three days was sort of the minimum dose you needed to really move the needle on a bunch of
+
+635
+01:04:48,080 --> 01:04:53,120
+these other metabolic things, meaning the spike in uric acid, the bottoming out of glucose. So
+
+636
+01:04:53,120 --> 01:04:58,000
+there's another thing that sort of happens. It's as you turn more and more free fatty acid into
+
+637
+01:04:58,000 --> 01:05:03,920
+ketone and turn more glycerol into glucose, you reach an equilibrium where your glucose is
+
+638
+01:05:04,000 --> 01:05:09,040
+pretty much going to stay at about three to four millimolar and that takes about two to three days.
+
+639
+01:05:09,760 --> 01:05:12,880
+And again, when we think about it through the lens, we've already discussed.
+
+640
+01:05:13,600 --> 01:05:20,880
+AMPK must be up through the roof. MTOR must be through the floor and protein de-acids must be off.
+
+641
+01:05:21,600 --> 01:05:27,920
+I think my gestalt is that that takes about three days and obviously it gets greater and greater
+
+642
+01:05:27,920 --> 01:05:34,240
+the more you go. But what would be amazing is if I could draw a tube of blood, send it to you
+
+643
+01:05:34,240 --> 01:05:39,840
+after a three day fast, a four day fast, a five day fast, a seven day fast, a 10 day fast,
+
+644
+01:05:40,640 --> 01:05:46,800
+and get some sort of quantification. What is it that we would see in... Now, of course,
+
+645
+01:05:46,800 --> 01:05:50,080
+it's complicated because you'd probably want to accompany each of those tubes of blood with a
+
+646
+01:05:50,080 --> 01:05:55,360
+muscle biopsy so that you could look at LC3, LC2 and things like that. So I'll stop on my diatribe
+
+647
+01:05:55,440 --> 01:06:00,240
+for a moment and now turn it over to you, which is where would you even begin to look for that
+
+648
+01:06:00,240 --> 01:06:04,400
+signature of autophagy? And let's just start broadly with any tissue. You can have blood,
+
+649
+01:06:04,400 --> 01:06:10,160
+you can have muscle, you can have liver, you can have adipose tissue. How would you now create a
+
+650
+01:06:10,160 --> 01:06:17,760
+dose effect? Well, we do bet what happens in a mouse. Let's just take a minute to discuss that.
+
+651
+01:06:17,760 --> 01:06:26,400
+So Mizushima Lab made a mouse that had a transgenic LC3-EGFP protein expressed,
+
+652
+01:06:26,400 --> 01:06:30,320
+and that could use that mouse. Tell folks what LC3 is, just so because we're going to talk about
+
+653
+01:06:30,320 --> 01:06:38,640
+this quite a bit. So LC3 is the protein that is attached to the autophagosome membrane and links
+
+654
+01:06:38,640 --> 01:06:44,560
+to the cargo that ends up in the autophagosome. So this is a very mechanical thing, right? Like
+
+655
+01:06:44,560 --> 01:06:50,800
+this goes back to your observation in the electron microscope. Exactly right. So LC3 is one of the
+
+656
+01:06:51,440 --> 01:06:59,680
+key proteins attached to the autophagosome membrane, and you use it to see autophagosomes,
+
+657
+01:06:59,680 --> 01:07:08,000
+because normally when autophagy is off, LC3 is diffuse. But when autophagosomes form,
+
+658
+01:07:08,560 --> 01:07:15,360
+the LC3 protein is attached to them, and you start to see spots where all the autophagosomes
+
+659
+01:07:15,360 --> 01:07:23,920
+are present. And so the Mizushima Lab used that to assess autophagy in a living mouse.
+
+660
+01:07:24,480 --> 01:07:30,320
+They fasted the mouse and they found that they could see the formation of autophagosomes
+
+661
+01:07:30,320 --> 01:07:34,960
+throughout the mouse. And could they do this in like PBMC out of blood or do they need to use tissue?
+
+662
+01:07:35,600 --> 01:07:41,760
+They did it with tissue. What they learned was that, yes, autophagy is turned on during fasting
+
+663
+01:07:41,760 --> 01:07:48,480
+in a mouse, which wasn't surprising, but it seemed to not be uniform across every tissue.
+
+664
+01:07:49,120 --> 01:07:56,240
+So that was interesting. But we don't have a way to do that in people. All we can do,
+
+665
+01:07:56,240 --> 01:08:01,600
+because this involved making a genetically engineered mouse. So the only thing we can do
+
+666
+01:08:01,600 --> 01:08:08,240
+in people would be to look at a tissue section and stain it for LC3 and to look to see if there
+
+667
+01:08:08,240 --> 01:08:15,520
+were spots. In other words, you could not look at LC3 conversion in white blood cells. You could,
+
+668
+01:08:15,520 --> 01:08:21,440
+but there's another problem in that you could take PBMCs and do a western blot for LC3,
+
+669
+01:08:22,160 --> 01:08:29,600
+and LC3 gets processed from LC3 1 to 2, and the 2 form is the one that's attached to the
+
+670
+01:08:29,600 --> 01:08:38,800
+autophagosome membrane. So you could do a western blot of PBMCs to measure the conversion of 1 to 2,
+
+671
+01:08:39,440 --> 01:08:48,400
+but then 2 ends up in the lysosome and gets degraded. So the typical measurement of autophagic
+
+672
+01:08:48,400 --> 01:08:57,440
+flux involves measuring the rate at which LC3 1 gets converted to LC3 2, and then the rate at which
+
+673
+01:08:57,440 --> 01:09:06,240
+LC3 2 ends up being degraded in the lysosome. And in order to see that flux, you need to block
+
+674
+01:09:06,240 --> 01:09:14,240
+the degradation of LC3 2 in the lysosome with baphylomycin or hydroxychloroquine. And so you
+
+675
+01:09:14,240 --> 01:09:22,800
+would only be able, by looking at LC3 1 and 2 in PBMCs in a person that was fasting, you would only
+
+676
+01:09:22,800 --> 01:09:29,760
+be able to infer autophagic flux because you wouldn't actually be able to measure it.
+
+677
+01:09:29,760 --> 01:09:30,480
+It's a clue.
+
+678
+01:09:30,480 --> 01:09:37,280
+It's a clue. It wouldn't be proof, but it would be, one could presume, I would expect you would see
+
+679
+01:09:37,920 --> 01:09:43,760
+more conversion of 1 to 2 and then 2 going into the lysosome. I don't think that would get you
+
+680
+01:09:43,760 --> 01:09:44,960
+the answer that you need.
+
+681
+01:09:45,600 --> 01:09:52,640
+Now, what if we had 100 volunteers who are willing to fast and subject to blood draws and muscle
+
+682
+01:09:52,640 --> 01:10:00,160
+biopsies? So you could use the muscle biopsies to actually quantify the flux and establish,
+
+683
+01:10:00,160 --> 01:10:04,480
+let's say you could do it a different time point. So you had 100 people fast for different periods
+
+684
+01:10:04,480 --> 01:10:10,320
+of time, 3, 4, 5, 6, 7 days, et cetera. You've got tissue and you've got blood. What else could you
+
+685
+01:10:10,320 --> 01:10:17,520
+look for? So again, could BHB be a proxy? Could glucose be a proxy? I remember you once mentioning
+
+686
+01:10:17,520 --> 01:10:23,280
+another organic molecule you had identified. You knew it by how many carbons it had and you
+
+687
+01:10:23,280 --> 01:10:27,520
+thought it was ringed, but you weren't sure what it was yet. Have you figured that out?
+
+688
+01:10:27,520 --> 01:10:32,640
+Yes. That was something that accumulated when we inhibited autophagy and that was
+
+689
+01:10:32,640 --> 01:10:39,520
+glucuronic acid. So that would be, I think you're going down the right road. So I think
+
+690
+01:10:40,400 --> 01:10:47,280
+what we can do, and we haven't really done this yet, would be to look at metabolites
+
+691
+01:10:48,000 --> 01:10:55,280
+because metabolism is so drastically changed. So if we can't look at directly measure
+
+692
+01:10:55,280 --> 01:11:03,920
+autophagic flux in humans very easily, because we don't yet have the proper tools, we could use
+
+693
+01:11:03,920 --> 01:11:12,560
+metabolites as surrogate markers for the consequences of autophagy. That's exactly
+
+694
+01:11:12,560 --> 01:11:17,760
+why I call it a signature as opposed to a biomarker, because I think it's basically,
+
+695
+01:11:17,760 --> 01:11:23,840
+how do you use machine learning to take many metabolites? There's a bunch of things we know
+
+696
+01:11:23,840 --> 01:11:27,920
+are happening. We just have to integrate them. We know that leucine is going down. We know
+
+697
+01:11:27,920 --> 01:11:33,200
+methionine will be almost unmeasurable. We know what's going to happen to glucose, uric acid,
+
+698
+01:11:33,200 --> 01:11:37,120
+and then there's probably a whole bunch of other small molecules and things in the proteome that
+
+699
+01:11:37,120 --> 01:11:44,240
+we don't yet know that are probably discernible from PBMC directly or indirectly through other
+
+700
+01:11:44,240 --> 01:11:50,720
+things in the plasma. It just seems like a problem that is so ripe for a machine learning environment
+
+701
+01:11:50,720 --> 01:11:56,320
+where you don't need that many people because you know what the gold standard is. You just starve
+
+702
+01:11:56,320 --> 01:12:00,480
+them and then you have the check, which is the muscle biopsy, which can give you some sort of
+
+703
+01:12:00,480 --> 01:12:05,680
+quantifiable gradation. I mean, do you get the sense that that's something an IRB would approve?
+
+704
+01:12:05,680 --> 01:12:10,160
+It's invasive. It requires biopsies and fasting and things like that, but or would they demand
+
+705
+01:12:10,160 --> 01:12:15,840
+that you, hey, first you have to do this in mice? That's what I would expect. One of the things that
+
+706
+01:12:15,840 --> 01:12:24,800
+we have been talking about is we've done some of this, but probably not enough, is to do a metabolic
+
+707
+01:12:24,800 --> 01:12:32,720
+characterization of a wild type mouse fasted versus an autophagy deficient mouse fasted.
+
+708
+01:12:32,720 --> 01:12:39,840
+I think that would potentially identify the metabolic changes that were autophagy dependent,
+
+709
+01:12:39,840 --> 01:12:46,000
+and I think that would provide some clues as to what to look at in humans because the problem with
+
+710
+01:12:46,720 --> 01:12:52,880
+looking at metabolism is you get an enormous amount of data, and it's very, very helpful to know what
+
+711
+01:12:52,880 --> 01:12:58,720
+to look for. We may have a list of things that are obvious to look for, but. Right, but the fine
+
+712
+01:12:58,720 --> 01:13:03,040
+tuning is going to come in the non-obvious. It's not going to be a regression model based on five
+
+713
+01:13:03,040 --> 01:13:08,880
+things we know. It's going to be much more complicated. And I prefer not the under the
+
+714
+01:13:08,880 --> 01:13:16,800
+lamppost science. Yeah, take an unbiased view and go, and honestly, I get asked about this more than
+
+715
+01:13:16,800 --> 01:13:21,360
+any other translational problem. So the good news is I think there are a lot of people in the
+
+716
+01:13:21,360 --> 01:13:26,240
+philanthropic community that would be interested in this, even if this is not a question NIH is
+
+717
+01:13:26,240 --> 01:13:32,320
+interested in. I doubt NIH is interested in this problem, although that strikes me as odd given how
+
+718
+01:13:32,320 --> 01:13:37,200
+potent a tool fasting is, and yet how we don't know how to dose it. And I think it's worth
+
+719
+01:13:37,840 --> 01:13:43,360
+pausing on that for a moment because that is such a stark statement, if I'm correct. I believe I am,
+
+720
+01:13:43,360 --> 01:13:51,040
+which is imagine we had the most amazing drug imaginable. Imagine we had a proteose inhibitor
+
+721
+01:13:51,040 --> 01:13:56,560
+for HIV and we knew deep down this could cure HIV. The problem is we didn't know how to dose it.
+
+722
+01:13:57,120 --> 01:14:04,000
+How long would we tolerate that ignorance? Imagine we had a drug that we knew could kill cancer,
+
+723
+01:14:04,560 --> 01:14:09,200
+but we just didn't know how much to give or how often to give it. We wouldn't tolerate that for
+
+724
+01:14:09,200 --> 01:14:17,280
+a minute. And yet in fasting, we have arguably the most potent tool and certainly if not the
+
+725
+01:14:17,360 --> 01:14:22,640
+most potent, probably one of the three most potent tools in which we can affect human health,
+
+726
+01:14:23,200 --> 01:14:27,520
+and we don't have a clue how to dose it or what frequency with which to use it.
+
+727
+01:14:28,240 --> 01:14:36,160
+And I find that ridiculous. So I'm actually really confident that if there were a really
+
+728
+01:14:36,160 --> 01:14:41,360
+great proposal put together that would go from the animal model to the human model,
+
+729
+01:14:41,920 --> 01:14:45,520
+it would be fundable. It would be fully fundable through philanthropic efforts.
+
+730
+01:14:46,160 --> 01:14:50,640
+And so if nothing else comes to this discussion, I would love to plant that seed with you and think
+
+731
+01:14:50,640 --> 01:14:56,240
+about what would be the right consortium of people to do that work. Obviously, there are lots of
+
+732
+01:14:56,240 --> 01:15:00,400
+skill sets that we'd want to have involved in there, but I really believe that could be funded
+
+733
+01:15:00,400 --> 01:15:05,360
+quite easily. And I think that the implication of that is as potent as anything else, because again,
+
+734
+01:15:05,360 --> 01:15:10,560
+here I am doing my three day fast every month versus my seven day every quarter versus five
+
+735
+01:15:10,640 --> 01:15:16,800
+day every quarter. We just don't know. And it really is troubling to me. It just drives me insane.
+
+736
+01:15:16,800 --> 01:15:23,440
+Well, I think for the general community, I think it's an important question, even for practical
+
+737
+01:15:23,440 --> 01:15:32,480
+reasons, because you may be able to control your life to the extent that you can do all this at
+
+738
+01:15:32,480 --> 01:15:40,480
+your own convenience. But a lot of people don't have that flexibility. And so if they can be told
+
+739
+01:15:40,480 --> 01:15:48,400
+that fasting for X amount of time is all you need to do, then the beneficial effects of fasting
+
+740
+01:15:48,400 --> 01:15:53,920
+could be there would be more people that could take advantage of it. Absolutely. And if you look
+
+741
+01:15:53,920 --> 01:16:00,400
+at the work of someone like Walter Longo, who his assertion is, you can get most of the benefit
+
+742
+01:16:00,400 --> 01:16:04,720
+without actually having to be fully fasted, but to do something that is like a fast mimic,
+
+743
+01:16:04,720 --> 01:16:10,640
+where you reduce your calories significantly for a period of five days. Again, maybe he's right,
+
+744
+01:16:10,640 --> 01:16:16,160
+but we have no idea. We have no idea what the efficacy of that approach is versus a total
+
+745
+01:16:16,160 --> 01:16:21,520
+water only fast for five days. And it would be great to know because if we could demonstrate
+
+746
+01:16:21,520 --> 01:16:27,040
+that you're getting 80% of the benefit doing a fast mimicking diet versus a complete fast,
+
+747
+01:16:27,040 --> 01:16:32,000
+well, that opens the door to many more people who would be willing to do fast mimicry versus
+
+748
+01:16:32,000 --> 01:16:38,080
+an outright fast. And again, I think about this constantly, which is I'm almost willing to do
+
+749
+01:16:38,080 --> 01:16:44,080
+anything. I just want to know what to do. So I think that now is the right time to ask that
+
+750
+01:16:44,080 --> 01:16:51,920
+question. Let me just digress a little bit to talk about metabolism. So we know a lot about
+
+751
+01:16:51,920 --> 01:16:58,480
+metabolism, essentially the field of not only just cancer metabolism, but metabolism in general,
+
+752
+01:16:59,120 --> 01:17:06,240
+mapped out all the metabolic, most of the metabolic pathways. But what we lack the ability to do
+
+753
+01:17:06,240 --> 01:17:13,360
+until fairly recently was to have a thorough understanding of metabolism in a living mammal.
+
+754
+01:17:14,080 --> 01:17:21,200
+And so Josh Rabinowitz and I have invested a lot of effort in developing technology to
+
+755
+01:17:22,000 --> 01:17:29,840
+use isotope tracers. This would be C13 labeled glucose and amino acids and so forth.
+
+756
+01:17:29,840 --> 01:17:36,400
+And to deliver them to living mice running around and doing normal mice things in a cage,
+
+757
+01:17:36,400 --> 01:17:43,920
+and then look to see how they're used and how different tissues use them and how there's
+
+758
+01:17:43,920 --> 01:17:50,560
+nutrients sharing between tissues. Because when you're fasting, there's many complicated things
+
+759
+01:17:50,560 --> 01:17:57,440
+going on. It's not just like there's no food and you're inducing autophagy and that's that.
+
+760
+01:17:57,440 --> 01:17:59,280
+That's the only thing that's happening in a vacuum, right?
+
+761
+01:17:59,920 --> 01:18:04,880
+So you have dedicated nutrient stores, you have glycogen in your liver that's mobilized,
+
+762
+01:18:04,880 --> 01:18:11,360
+and that's dumping glucose into the bloodstream. You have beta-atipose tissue that starts
+
+763
+01:18:11,360 --> 01:18:17,520
+segrating your triglycerides, and then you end up with glycerol and fatty acids in the bloodstream,
+
+764
+01:18:17,520 --> 01:18:23,920
+which then are taken up by the liver and so forth. So you have all these, if you're really
+
+765
+01:18:24,560 --> 01:18:29,680
+without nutrients for a long time, then your muscle proteins start being degraded,
+
+766
+01:18:29,680 --> 01:18:35,600
+which is probably undesirable. That's dumping amino acids into the circulation so that
+
+767
+01:18:35,600 --> 01:18:40,480
+you can maintain your survival. We have to understand all of that.
+
+768
+01:18:41,040 --> 01:18:45,520
+Because it really occurs in different phases. Again, if you just limit it to humans for a moment
+
+769
+01:18:45,520 --> 01:18:50,160
+where we have a pretty good understanding of this, what's happening in the first 24 hours
+
+770
+01:18:50,160 --> 01:18:55,040
+versus the next 24 hours versus the next 24 hours is very different. And George Cahill's
+
+771
+01:18:55,040 --> 01:19:00,560
+famous fasting study, the 40-day fast on the healthy subjects, really divides it into these
+
+772
+01:19:00,560 --> 01:19:06,880
+phases. What's interesting is by about seven days into a prolonged fast, you pretty much reach a
+
+773
+01:19:06,880 --> 01:19:12,800
+steady state. You've got a pretty consistent flux of triglyceride into free fatty acid out of the
+
+774
+01:19:12,800 --> 01:19:19,280
+fat cell. You reach a steady state level of beta-hydroxybutyrate acetoacetate and glucose,
+
+775
+01:19:19,280 --> 01:19:24,400
+such that basically the sum total of them in millimolar concentrations is about preserved
+
+776
+01:19:24,400 --> 01:19:30,240
+to where you would be non-fasting like. And so it begs the question, if we posit that once you reach
+
+777
+01:19:30,240 --> 01:19:36,400
+that steady state of seven to 10 days, you're clearly in a fully turned on autophagy state,
+
+778
+01:19:37,040 --> 01:19:43,600
+what's the switch look like? When you're 24 hours or 48 hours or 72 hours into that,
+
+779
+01:19:43,600 --> 01:19:49,120
+are you 80% of the way to the benefit or just 20%? That's a jugular question.
+
+780
+01:19:49,120 --> 01:19:56,240
+Yes, I think it would be fascinating to understand that. And I think that if you look back over
+
+781
+01:19:56,240 --> 01:20:04,960
+history, almost all cultures have fasting as part of their history. And I'm thinking that
+
+782
+01:20:05,760 --> 01:20:11,680
+that is not by accident. I think they must have learned by trial and error that this was a healthy
+
+783
+01:20:11,680 --> 01:20:20,000
+thing to do. And so I think that autophagy, I would expect is playing a major role in promoting
+
+784
+01:20:20,000 --> 01:20:25,840
+health in response to fasting. But I really think, well, maybe I'm sticking my neck out,
+
+785
+01:20:25,840 --> 01:20:32,960
+but I think using fasting as opposed to trying to find some pill you could take is something
+
+786
+01:20:32,960 --> 01:20:38,480
+that's easy to do. And of course, it speaks to the irony of it, which is if you took probably
+
+787
+01:20:38,480 --> 01:20:45,040
+1% of the budget that is being dispensed to find pills that stimulate autophagy, we would actually
+
+788
+01:20:45,040 --> 01:20:48,960
+be able to answer this question clearly. Absolutely. And actually just have a dose
+
+789
+01:20:49,440 --> 01:20:54,640
+and look, that doesn't mean these things can't coexist. I'm all for it. And I wanted to ask you,
+
+790
+01:20:54,640 --> 01:20:59,200
+of course, about some of the other pills like rapamycin and metformin and the role that they
+
+791
+01:20:59,200 --> 01:21:04,400
+might have and how we might be able to measure that. But again, this just strikes me as the most
+
+792
+01:21:04,400 --> 01:21:12,640
+obvious question in the space of how to prevent disease. And it's like you have this beautiful,
+
+793
+01:21:12,640 --> 01:21:17,760
+beautiful tool and you don't know what the dose is and you don't know what the frequency is.
+
+794
+01:21:18,640 --> 01:21:26,480
+If someone knows that they're susceptible to a neurodegenerative disease, has anyone looked
+
+795
+01:21:26,480 --> 01:21:33,520
+at those people to see if they engaged in some sort of fasting regimen, whether that was helpful
+
+796
+01:21:33,520 --> 01:21:38,000
+or not? Indirectly. I mean, it's possible that that's been done directly. And I just am not
+
+797
+01:21:38,000 --> 01:21:43,680
+familiar with that. I think what we've seen indirectly is dietary restriction as opposed
+
+798
+01:21:43,680 --> 01:21:48,880
+to just pure caloric restriction, where you improve the quality of macronutrients,
+
+799
+01:21:48,880 --> 01:21:54,240
+specifically around improving glycemic control. You can take people that are in an early stage
+
+800
+01:21:54,240 --> 01:21:59,360
+of cognitive impairment and delay it and or reverse it through that type of nutritional
+
+801
+01:21:59,360 --> 01:22:04,000
+intervention. Now, of course, that doesn't necessarily say autophagy is playing a role,
+
+802
+01:22:04,000 --> 01:22:09,360
+because that's doing a lot of other things. It's improving glucose and insulin signaling in the
+
+803
+01:22:09,440 --> 01:22:13,200
+brain. It's doing a lot of other things. And we're really starting to see the impact of
+
+804
+01:22:13,200 --> 01:22:19,600
+metabolism in the brain. So that's not entirely clear. Indirectly, I would say there are, I think,
+
+805
+01:22:19,600 --> 01:22:25,200
+some pretty interesting, compelling pilot data that suggests that rapamycin is neuroprotective.
+
+806
+01:22:25,840 --> 01:22:32,240
+And again, rapamycin, a very potent inhibitor of mTOR would presumably on some level induce
+
+807
+01:22:32,240 --> 01:22:38,960
+autophagy. I think it's a very interesting question as to what is it about rapamycin
+
+808
+01:22:38,960 --> 01:22:44,240
+that induces a longevity phenotype? Rapamycin to me is the most interesting molecule out there,
+
+809
+01:22:44,240 --> 01:22:49,120
+because it is, I think, the only molecule that has demonstrated a longevity benefit
+
+810
+01:22:49,120 --> 01:22:55,680
+across all four models of eukaryotic cells. So that's a really big deal that can't be ignored.
+
+811
+01:22:56,320 --> 01:23:00,640
+But how much of that benefit is through autophagy? I'd like to turn that question to you.
+
+812
+01:23:00,640 --> 01:23:06,800
+How much of it is through inhibition of senescent cells, reduction of inflammation? Again,
+
+813
+01:23:06,800 --> 01:23:11,920
+so it's very indirect. And it speaks to, again, again, I don't mean to sound like a conspiracy
+
+814
+01:23:11,920 --> 01:23:16,720
+theory guy, because I'm not, but it is a little frustrating that we have these amazing tools.
+
+815
+01:23:16,720 --> 01:23:20,880
+But because they're not particularly profitable, you don't really have somebody that's interested
+
+816
+01:23:20,880 --> 01:23:25,680
+in answering them. And that's why I again, come back to, A, I think these are answerable questions.
+
+817
+01:23:25,680 --> 01:23:29,920
+B, I don't think they are billion dollar questions. I think they are really questions that are
+
+818
+01:23:29,920 --> 01:23:36,320
+amenable to the philanthropic community. And I think from an ROI perspective, it's hard to think
+
+819
+01:23:36,400 --> 01:23:40,400
+of examples of where you could put dollars to work in research that would have a greater impact on
+
+820
+01:23:40,400 --> 01:23:49,280
+human life. Right. And I think that our biomedical community is mostly focused on putting out fires
+
+821
+01:23:50,160 --> 01:23:56,080
+rather than disease prevention, although I've seen a change. I mean, I see at the NCI,
+
+822
+01:23:56,080 --> 01:24:02,880
+the National Cancer Institute, a bigger interest in cancer prevention. So I think people are coming
+
+823
+01:24:02,960 --> 01:24:12,240
+around to realizing that making people healthy or longer is probably more important than once they
+
+824
+01:24:12,240 --> 01:24:18,960
+discovered to have stage four pancreatic cancer, what can we throw at it to make them live another
+
+825
+01:24:18,960 --> 01:24:27,840
+two months? Yeah, again, it is sort of amazing to me how lopsided our resource allocation is with
+
+826
+01:24:27,840 --> 01:24:33,920
+respect to that problem, because you're absolutely right. We have spent probably a quarter of a
+
+827
+01:24:33,920 --> 01:24:40,960
+trillion dollars in the last 40 years on the second question, which is once you have metastatic
+
+828
+01:24:40,960 --> 01:24:46,480
+cancer, how do you live longer? And we've done an analysis on this. So for the quarter of a
+
+829
+01:24:46,480 --> 01:24:53,280
+trillion dollars that has been spent on that problem on average for solid organ tumors,
+
+830
+01:24:53,280 --> 01:24:59,280
+we have extended median survival by less than about a year since 1970. So almost 50 years.
+
+831
+01:24:59,280 --> 01:25:05,040
+That's pretty sad when you think about the fact that there's not much evidence we've reduced
+
+832
+01:25:05,680 --> 01:25:12,320
+the arrival of cancer. In fact, all we've done is basically come up with a second leading cause
+
+833
+01:25:12,320 --> 01:25:17,120
+of cancer in terms of modifiable behavior, which is after smoking, it becomes down to diabetes,
+
+834
+01:25:17,120 --> 01:25:22,880
+insulin resistance, and all of the metabolic dysregulation. So yeah, I'll get off my soapbox
+
+835
+01:25:22,880 --> 01:25:27,840
+now. But again, this is in many ways just a sort of a plea for help, which is I think there's
+
+836
+01:25:27,840 --> 01:25:33,760
+an amazing opportunity to understand this. So there's another component to this that worries
+
+837
+01:25:33,760 --> 01:25:41,760
+me greatly. So what we've seen, you know, so a lot of this, you're talking about controlling
+
+838
+01:25:41,760 --> 01:25:49,360
+metabolism to preserve health through implementation of fasting and understanding fasting. But look
+
+839
+01:25:49,440 --> 01:25:56,720
+what's happened to the American diet. I mean, there are people now that don't even
+
+840
+01:25:57,760 --> 01:26:05,040
+recognize vegetables in the supermarket. There are people that only eat prepared food.
+
+841
+01:26:05,760 --> 01:26:12,560
+And so what we've seen is, on the one hand, you're talking about preserving health and all that.
+
+842
+01:26:12,560 --> 01:26:19,920
+But on the other hand, the overall health of Americans is deteriorating, obesity is greatly
+
+843
+01:26:19,920 --> 01:26:28,320
+increased, and has no sign of abating the diet of Americans loaded with high fructose corn syrup,
+
+844
+01:26:28,880 --> 01:26:36,880
+and diets that are disproportionate with prepared food. So the only way to globally
+
+845
+01:26:37,600 --> 01:26:43,440
+improve the health of Americans or anyone else for that matter is to deal with both of these
+
+846
+01:26:43,440 --> 01:26:49,200
+problems at the same time. And to me, that's probably the greatest line of reasoning that says
+
+847
+01:26:49,760 --> 01:26:56,160
+fasting is probably protective against all chronic disease. Because if you look at the three main
+
+848
+01:26:56,160 --> 01:27:05,200
+chronic diseases that account for, to our last analysis, 82% of deaths above the age of 50 in
+
+849
+01:27:05,200 --> 01:27:11,120
+the United States, excluding COPD. So if you take out the obvious smoking related death of COPD,
+
+850
+01:27:11,120 --> 01:27:18,000
+82% of death is attributable to cardiovascular disease, cancer, Alzheimer's disease, and
+
+851
+01:27:18,000 --> 01:27:24,560
+complications of diabetes. That's pretty stark. There's no question that when you improve
+
+852
+01:27:24,560 --> 01:27:29,920
+metabolic health, which you can do through fasting, you reduce the risk of all of those
+
+853
+01:27:29,920 --> 01:27:35,120
+significantly. Of course, the question becomes how much of a role does autophagy play in that?
+
+854
+01:27:35,200 --> 01:27:40,000
+Specifically, you look at the example you gave of neurodegeneration that makes a very compelling
+
+855
+01:27:40,000 --> 01:27:44,560
+case for it, probably also in cancer. What do we know about cardiovascular disease, by the way?
+
+856
+01:27:45,360 --> 01:27:49,840
+Nothing comes to mind. I don't recall seeing anything in that area.
+
+857
+01:27:50,480 --> 01:27:58,160
+Yeah. I mean, my take on the literature is that the benefits of fasting in cardiovascular disease
+
+858
+01:27:58,160 --> 01:28:04,320
+are primarily mediated through the metabolic health benefits of it. Lower glucose, lower insulin,
+
+859
+01:28:04,960 --> 01:28:11,520
+lower homocysteine in time, lower inflammation primarily, as opposed to something that directly
+
+860
+01:28:11,520 --> 01:28:17,520
+pertains to APOB or the inflammatory response to that. But again, maybe it's just there and
+
+861
+01:28:17,520 --> 01:28:22,640
+I haven't seen it. What else do you think is going on? What travels with autophagy? Can we talk about
+
+862
+01:28:22,640 --> 01:28:27,200
+senescence for a moment? Do we understand a sense of what's happening when an animal or a human is
+
+863
+01:28:27,200 --> 01:28:33,680
+undergoing autophagy with respect to either SASP or just the overall senescent cells?
+
+864
+01:28:34,320 --> 01:28:41,680
+Yeah. There seems to be complicated roles for autophagy and senescence. There's evidence from
+
+865
+01:28:41,680 --> 01:28:49,360
+the Nereeda lab that SASP, the secretion of inflammatory factors that occurs during senescence,
+
+866
+01:28:49,440 --> 01:28:57,520
+is facilitated by autophagy. But then in the cancer setting, there's also examples where
+
+867
+01:28:58,480 --> 01:29:05,200
+loss of autophagy limits senescence. So I think in the senescence area, it's still a little bit
+
+868
+01:29:05,760 --> 01:29:10,880
+confusing and maybe a little bit context dependent as to what's happening.
+
+869
+01:29:11,520 --> 01:29:16,560
+And then going back to the question about molecules, what do we know about metformin
+
+870
+01:29:16,560 --> 01:29:23,680
+and autophagy? Do we know that in a fed state, if we give an animal or a human metformin,
+
+871
+01:29:23,680 --> 01:29:28,720
+we can still induce autophagy, all things equal, through just the AMPK activation?
+
+872
+01:29:28,720 --> 01:29:35,840
+Yes. And I think that that's true, but I think that we don't understand over the long term what
+
+873
+01:29:35,840 --> 01:29:43,360
+happens and what the consequence of having autophagy or not having autophagy is. So for example,
+
+874
+01:29:44,000 --> 01:29:50,000
+we've never given metformin to our mice that don't have autophagy. That might be an interesting
+
+875
+01:29:50,000 --> 01:29:57,840
+thing to do. What is the consequence of autophagy induction by metformin? It actually might be better
+
+876
+01:29:57,840 --> 01:30:06,800
+to do that in a system where autophagy wasn't completely gone, but could be toggled up.
+
+877
+01:30:07,520 --> 01:30:12,720
+Do you have the ability to turn autophagy into an analog versus a digital,
+
+878
+01:30:12,800 --> 01:30:17,040
+meaning where you can actually use gradations versus just on or off?
+
+879
+01:30:17,680 --> 01:30:24,320
+Yes. I think the mouse model where autophagy, the expression of essential autophagy gene is
+
+880
+01:30:24,320 --> 01:30:28,640
+controlled by an SHRNA might be the way to do that experiment.
+
+881
+01:30:29,360 --> 01:30:34,320
+And then what about rapamycin? What do we know about the use of rapamycin,
+
+882
+01:30:34,960 --> 01:30:40,400
+which has been studied so liberally across, again, everything from yeast, flies, worms, mammals,
+
+883
+01:30:40,960 --> 01:30:47,040
+uniformly extends life, potent inhibitor of mTOR, which would signal autophagy all things equal.
+
+884
+01:30:47,040 --> 01:30:53,360
+Where do we see that relationship? So there's been a lot of discussion about using rapamycin
+
+885
+01:30:53,360 --> 01:31:00,880
+or rappalogs as autophagy stimulators, but it's like what you said before. It does many other
+
+886
+01:31:00,880 --> 01:31:06,400
+things and it's also immune suppressive. Although that also depends on the dose, right? I mean,
+
+887
+01:31:06,400 --> 01:31:12,240
+the Everlymus data suggested that it was actually immune enhancing when given intermittently.
+
+888
+01:31:12,240 --> 01:31:19,680
+I also have to remember that if you have a small molecule like rapamycin and you want to use it to
+
+889
+01:31:19,680 --> 01:31:26,880
+preserve someone's health, you have to make sure that it's safe. And I think that's when everyone
+
+890
+01:31:26,880 --> 01:31:33,760
+backs away because if you've got cancer and they want to try an experimental drug and you've got
+
+891
+01:31:34,400 --> 01:31:41,040
+no other hope and you're going to be dead in a short period of time, there's a bit of latitude
+
+892
+01:31:41,040 --> 01:31:48,160
+in what can be done clinically to test whether or not there's a small molecule or some sort of drug
+
+893
+01:31:48,160 --> 01:31:55,520
+that will be safe and possibly have efficacy. But when you're talking about prevention,
+
+894
+01:31:56,240 --> 01:32:02,240
+it's a big problem. The drug companies are not interested in it because the amount of time it
+
+895
+01:32:02,240 --> 01:32:08,080
+would take in the risk of- Right, just a much narrower margin. By the way, that's exactly the
+
+896
+01:32:08,080 --> 01:32:14,800
+reason we're in the situation we're in. So just to reiterate, we have a situation where I am not
+
+897
+01:32:14,800 --> 01:32:21,360
+convinced that longevity as a game is going to be one on the back of extending the time you have a
+
+898
+01:32:21,360 --> 01:32:27,280
+disease. I have never seen a shred of evidence to suggest that that is the answer. Everything
+
+899
+01:32:27,840 --> 01:32:33,120
+in humans and animals points to the opposite end of the spectrum. Longevity is about delaying the
+
+900
+01:32:33,120 --> 01:32:38,960
+time it takes until disease comes. The implication of that is prevention is the single most important
+
+901
+01:32:38,960 --> 01:32:45,760
+tool in the longevity toolkit. How do we reconcile that with what you just said? All of our pharmacologic
+
+902
+01:32:45,760 --> 01:32:52,720
+efforts, the trillion dollars we spend on drug development is all on the wrong side of the
+
+903
+01:32:52,720 --> 01:32:59,120
+equation. It's on the how do you live longer once you have a disease? And I understand why
+
+904
+01:32:59,120 --> 01:33:04,960
+that's the case for all the reasons you just said. And if that doesn't make the most compelling case
+
+905
+01:33:04,960 --> 01:33:10,720
+for taking the best and safest drug of them all, which is fasting and understanding how to dose it
+
+906
+01:33:10,720 --> 01:33:14,640
+and what frequency to dose it, I don't know what makes a better case. Along with exercise, by the
+
+907
+01:33:14,640 --> 01:33:19,760
+way, I put exercise in that same category, which is it bothers me that we don't really know how to
+
+908
+01:33:19,840 --> 01:33:25,760
+dose exercise either. I mean, it's less of a problem, I think, because for most people,
+
+909
+01:33:25,760 --> 01:33:31,920
+the issue is do more. But it would be really nice to know what the dose response is on different
+
+910
+01:33:31,920 --> 01:33:37,360
+types of exercise, especially for people who want to do the minimum effective amount. So both from
+
+911
+01:33:37,360 --> 01:33:43,200
+an exercise perspective and a nutrient deprivation perspective, there's no more low hanging fruit
+
+912
+01:33:43,200 --> 01:33:47,120
+in terms of minimizing human suffering and understanding how these things work.
+
+913
+01:33:47,120 --> 01:33:51,600
+You should start a biotech company to do this. David Sabatini and I have talked about this at
+
+914
+01:33:51,600 --> 01:33:57,600
+length, and he has constantly told me to do this. And the way we thought about it, it's not going
+
+915
+01:33:57,600 --> 01:34:02,000
+to happen because I won't do it. So someone else will have to do it. The way David describes it
+
+916
+01:34:02,000 --> 01:34:10,320
+very eloquently is right now, metabolic response to nutrients is a black box. And what David thinks,
+
+917
+01:34:10,320 --> 01:34:16,000
+and I think he's right is there's a multi-billion dollar opportunity in decoding the black box.
+
+918
+01:34:16,720 --> 01:34:22,400
+In other words, when we understand exactly what the response is to each different type of nutrient
+
+919
+01:34:22,400 --> 01:34:28,160
+in every different dose and frequency, and we can decode that in the way that we can do with so many
+
+920
+01:34:28,160 --> 01:34:32,800
+other biochemical processes, you can do everything. Because then you could actually develop drugs,
+
+921
+01:34:32,800 --> 01:34:36,240
+probably they could actually do something. So there's a drug development platform that comes
+
+922
+01:34:36,240 --> 01:34:41,280
+out of that. And then from my standpoint, what I'm really interested in is simply just on the front
+
+923
+01:34:41,280 --> 01:34:46,640
+lines as a sort of knuckle dragging doctor, how do you even just put this into clinical practice?
+
+924
+01:34:46,640 --> 01:34:51,680
+But again, it's high risk. It's a lot of effort to do part of that. I think on the drug development
+
+925
+01:34:51,680 --> 01:34:56,080
+side, there's a lot there. I don't think it's very high risk on the question I posed to you earlier.
+
+926
+01:34:56,080 --> 01:35:04,400
+I think the, let's do the mouse study and identify the 50 metabolites, proteomic signature
+
+927
+01:35:04,400 --> 01:35:10,800
+things that are generally going up with autophagy, and then let's shotgun that in an unbiased way
+
+928
+01:35:10,880 --> 01:35:16,880
+against human subjects. Like I feel like that's a project in the tens of millions of dollars,
+
+929
+01:35:16,880 --> 01:35:22,080
+not even the hundreds of millions of dollars. And again, if you add one year of life to each human
+
+930
+01:35:22,080 --> 01:35:29,520
+as a result of that, that's kind of staggering. Right. And I think if you couple understanding
+
+931
+01:35:29,680 --> 01:35:38,480
+mechanisms of metabolic delay of damaging diseases with surveillance for risk factors,
+
+932
+01:35:39,040 --> 01:35:47,040
+I think those two things really need to be coupled together because you can, even if you define
+
+933
+01:35:47,040 --> 01:35:55,600
+what the optimal diet and exercise and fasting regimen is for delaying the onset of disease,
+
+934
+01:35:56,240 --> 01:36:03,600
+there are still unlucky people. And I think that we can't forget about them in the context of
+
+935
+01:36:03,600 --> 01:36:09,680
+health and longevity and wellbeing, because you could have the healthiest diet and do everything
+
+936
+01:36:09,680 --> 01:36:14,400
+right. Vogelstein has written about this, right? I mean, there's clearly a component. There's a
+
+937
+01:36:14,400 --> 01:36:18,720
+stochastic component to this. And yeah, so absolutely. And again, I don't think there's
+
+938
+01:36:18,720 --> 01:36:22,800
+any reason to believe that we couldn't be addressing both of these. Yes. Yeah. I mean,
+
+939
+01:36:23,600 --> 01:36:30,320
+I think that there's no reason to do everything. One always has to bear in mind that there is this
+
+940
+01:36:30,320 --> 01:36:37,440
+other risk factor that no matter what happens with understanding metabolism and fasting and
+
+941
+01:36:38,080 --> 01:36:43,920
+good health practices, that other thing is still going to be there. If you have a BRCA1 mutation,
+
+942
+01:36:44,720 --> 01:36:51,760
+that's a compounding and separate issue. So in 2016, the Nobel prize was awarded for
+
+943
+01:36:52,400 --> 01:36:56,960
+the, basically the genetic elucidation of autophagy. What are the salient features
+
+944
+01:36:56,960 --> 01:37:00,960
+of that award? What was it about Osumee's work that led to that award?
+
+945
+01:37:01,680 --> 01:37:08,720
+So what Osumee did was quite profound and very creative. He developed an essay. Well, he asked,
+
+946
+01:37:08,720 --> 01:37:15,040
+what are the, I mean, yeast requires nitrogen for survival. And he asked, what are the genes that
+
+947
+01:37:15,040 --> 01:37:21,840
+are required for nitrogen survival? And he identified the essential autophagy genes.
+
+948
+01:37:22,480 --> 01:37:29,760
+And I always wondered whether if he was in the United States, would work like that be funded?
+
+949
+01:37:29,760 --> 01:37:33,680
+Because it just seems like it was an important question, but.
+
+950
+01:37:33,680 --> 01:37:37,200
+It didn't have such a clear application down the line.
+
+951
+01:37:37,200 --> 01:37:37,680
+That's right.
+
+952
+01:37:37,680 --> 01:37:40,080
+It was a bit too high risk to fund.
+
+953
+01:37:40,080 --> 01:37:45,840
+Right. And also the clear disease connection wasn't there and so forth and so on. And
+
+954
+01:37:45,840 --> 01:37:52,560
+nonetheless, he did that. And I guess the point is, is that sometimes scientific discoveries are
+
+955
+01:37:52,560 --> 01:38:00,080
+so basic that you can ever anticipate what it would ultimately lead to. And in this case,
+
+956
+01:38:00,080 --> 01:38:06,160
+it led to something very extraordinary, but he probably had no idea at the time.
+
+957
+01:38:06,880 --> 01:38:11,840
+And once they discovered these essential autophagy genes in yeast, then it was apparent
+
+958
+01:38:11,840 --> 01:38:15,760
+that there were homologs and mammals and so forth and so on.
+
+959
+01:38:16,320 --> 01:38:19,680
+How conserved are those genes between yeast and mammals?
+
+960
+01:38:19,680 --> 01:38:24,080
+If you do a blast search, you can see them. I mean, not all of them,
+
+961
+01:38:24,640 --> 01:38:28,800
+but the amino acid homology was compelling.
+
+962
+01:38:29,440 --> 01:38:34,960
+Wow. So when you sort of think about the future of this, I think so much of what we've talked about
+
+963
+01:38:35,520 --> 01:38:40,240
+kind of feeds into what your optimism is. But how do you want to spend the next
+
+964
+01:38:40,240 --> 01:38:43,920
+10 years of your career? What are the questions you want to probe?
+
+965
+01:38:44,960 --> 01:38:52,320
+I think I would like to translate what we've learned about the role of autophagy in cancer.
+
+966
+01:38:52,960 --> 01:39:01,360
+And that involves developing small molecule inhibitors to inhibit autophagy for cancer
+
+967
+01:39:01,360 --> 01:39:10,400
+therapy. And Alec Kilman and I started a company to do that. And what we're focusing on now is
+
+968
+01:39:11,040 --> 01:39:18,080
+defining at the molecular level what the functional requirements for autophagy are in
+
+969
+01:39:18,080 --> 01:39:26,560
+individual cancers. And this involves understanding the metabolic role of autophagy, why one cancer
+
+970
+01:39:26,560 --> 01:39:32,480
+needs autophagy more than another. And then the newest connection is the connection to
+
+971
+01:39:32,480 --> 01:39:37,840
+inflammation. When you inactivate autophagy, you stimulate inflammation. And this is what we've
+
+972
+01:39:37,840 --> 01:39:43,760
+talked about earlier. In the context of cancer, that could be a really good thing, because the
+
+973
+01:39:43,760 --> 01:39:50,400
+game changer in cancer therapy now is immune checkpoint blockade. In fact, what I was just
+
+974
+01:39:50,400 --> 01:39:58,000
+talking about at the ASER meeting yesterday was the particular patient that came to our cancer
+
+975
+01:39:58,000 --> 01:40:07,040
+center and went through surgery, radiation, chemotherapy, and it all failed. And her body
+
+976
+01:40:07,040 --> 01:40:14,240
+was riddled with tumors. And she went on a clinical trial for immune checkpoint blockade,
+
+977
+01:40:14,240 --> 01:40:18,960
+and all the tumors melted away. And that was five years ago, and she's perfectly fine.
+
+978
+01:40:19,600 --> 01:40:26,800
+So what we have to do is make that work for everybody. And if inhibiting autophagy activates
+
+979
+01:40:27,440 --> 01:40:34,240
+the immune response and can facilitate not people who wouldn't respond to immune checkpoint blockade
+
+980
+01:40:34,800 --> 01:40:39,120
+to respond, then that would be critically important to do.
+
+981
+01:40:39,920 --> 01:40:44,640
+I mean, let me think about that for a second. So when we think about the patients that are
+
+982
+01:40:44,640 --> 01:40:52,320
+responsive, and we really have two big targets, right? CTLA-4 and PD-1. Melanoma, obviously,
+
+983
+01:40:52,320 --> 01:40:59,040
+is a huge success story here because it is so mutagenic. It's interesting. I have a friend who
+
+984
+01:40:59,040 --> 01:41:05,200
+has Lynch syndrome. So that's a familial syndrome where people are predisposed to cancer. He
+
+985
+01:41:05,200 --> 01:41:10,400
+developed colon cancer when he was quite young, went on to develop pancreatic cancer, adenocarcinoma,
+
+986
+01:41:10,400 --> 01:41:16,000
+the pancreas, which is uniformly fatal, almost without exception. He presented with an advanced
+
+987
+01:41:16,000 --> 01:41:21,440
+state. So he was not even a surgical candidate. So the tumor had completely engulfed his mesenteric
+
+988
+01:41:21,440 --> 01:41:26,160
+artery and vein, which meant he couldn't even undergo the surgical procedure, though it wouldn't
+
+989
+01:41:26,160 --> 01:41:32,000
+have done much anyway. I had just read a paper six months earlier in the New England Journal of
+
+990
+01:41:32,000 --> 01:41:39,440
+Medicine about, I forgot what the paper was exactly about, but it made me think that because
+
+991
+01:41:39,440 --> 01:41:43,520
+he had Lynch syndrome and he has so many mutations, he might be a candidate for a
+
+992
+01:41:43,520 --> 01:41:48,640
+checkpoint inhibitor. So we went back to his oncologist and said, hey, can we get him on
+
+993
+01:41:48,640 --> 01:41:54,480
+chytruda? They said, which is an anti PD-1, they said, no, there's no standard for that.
+
+994
+01:41:54,480 --> 01:42:00,880
+But we found a clinical trial actually got him in. He got chytruda. That was five years ago.
+
+995
+01:42:00,880 --> 01:42:08,080
+He's disease free. So you go from unresectable pancreatic adenocarcinoma to no pancreatic cancer,
+
+996
+01:42:08,560 --> 01:42:15,280
+pretty remarkable. Now the question is, when I think about how broadly extendable that's going
+
+997
+01:42:15,280 --> 01:42:21,840
+to be, it really comes down to how many shots on gold you get, how many mutations do you get such
+
+998
+01:42:21,840 --> 01:42:28,000
+that you can activate these checkpoint inhibitors. And so tell me how autophagy fits into that,
+
+999
+01:42:28,000 --> 01:42:35,280
+because I think I'm missing the link of why enhanced immune, non-specific immune response
+
+1000
+01:42:35,360 --> 01:42:39,280
+would factor into that. I know there's a link, but I need you to explain it to me.
+
+1001
+01:42:39,280 --> 01:42:43,120
+So that's exactly where we're going with our research and
+
+1002
+01:42:43,760 --> 01:42:50,400
+should have been at the ARC yesterday. Yeah. So we know that tumors with a very high mutation
+
+1003
+01:42:50,400 --> 01:42:56,800
+burden respond better to immune checkpoint blockade, but it's not that simple because there
+
+1004
+01:42:56,800 --> 01:43:01,360
+are patients with tumors that do have a high mutation burden that don't respond. And we don't
+
+1005
+01:43:01,360 --> 01:43:07,200
+know why. It could be they've upregulated some other checkpoint that we can't yet inhibit,
+
+1006
+01:43:07,200 --> 01:43:11,920
+or it could be some other reason they don't express class one or that the immune system
+
+1007
+01:43:12,640 --> 01:43:18,640
+can't see the tumor for some various reasons. And then we also know there are tumors that have a
+
+1008
+01:43:18,640 --> 01:43:26,000
+low mutation burden that do respond. And so a big part, in fact, we just got an NIH grant to study
+
+1009
+01:43:26,000 --> 01:43:36,480
+this, is to make mouse models of cancer with low, medium, and high mutation burden with which to
+
+1010
+01:43:36,480 --> 01:43:41,920
+And then you can bang out autophagy. Exactly. We haven't done the autophagy part yet. We're just
+
+1011
+01:43:41,920 --> 01:43:50,640
+doing the generating the models using proofreading mutations and polymerase epsilon and delta to
+
+1012
+01:43:51,280 --> 01:43:57,520
+generate mice with cancer with various levels of mutation burden in their tumors.
+
+1013
+01:43:58,160 --> 01:44:03,680
+And this is so cool because we'll be able to ask basic questions like how many mutations do you
+
+1014
+01:44:03,680 --> 01:44:12,000
+need when you have a low mutation burden? What can you do to make the immune system see that tumor?
+
+1015
+01:44:12,000 --> 01:44:17,680
+Do you need only mutations in a nuclear genome? What about mutations in the mitochondrial genome?
+
+1016
+01:44:18,640 --> 01:44:25,760
+So one of the mouse models we made was to generate a mutator phenotype in the mitochondrial genome.
+
+1017
+01:44:25,760 --> 01:44:31,520
+There are human cancers that have a high level of mitochondrial genome mutations.
+
+1018
+01:44:32,080 --> 01:44:37,760
+Whether that has any effect on anything is completely unknown. There's no reason why
+
+1019
+01:44:38,320 --> 01:44:44,240
+they couldn't be presented as tumor antigens. And you'd think if anything, they would be
+
+1020
+01:44:44,320 --> 01:44:49,040
+more immunogenic. I mean, they should be all things equal just because of their bacterial
+
+1021
+01:44:49,040 --> 01:44:54,160
+origin. That should elicit a much greater immune response. Exactly right. This is what this grand
+
+1022
+01:44:54,160 --> 01:45:01,760
+is designed to do, to generate mutator phenotypes in mouse models of cancer so we can have a spectrum
+
+1023
+01:45:01,760 --> 01:45:07,600
+from low to really high mutations in the nuclear genome as well as the mitochondrial genome,
+
+1024
+01:45:07,600 --> 01:45:13,840
+then to figure out the mechanism of response to immune checkpoint blockade to make cold
+
+1025
+01:45:13,840 --> 01:45:19,520
+tumors hot. And that's essentially what the loss of autophagy is doing by promoting
+
+1026
+01:45:19,520 --> 01:45:26,400
+inflammation. It's taking a tumor that is not killed by T cells, that does not respond to
+
+1027
+01:45:26,400 --> 01:45:33,120
+immune checkpoint blockade and rendering that tumor responsive. And where do you put this in
+
+1028
+01:45:33,120 --> 01:45:38,400
+the hierarchy of optimism for the future of cancer therapy? I mean, to me, the interesting
+
+1029
+01:45:38,400 --> 01:45:42,640
+stuff in cancer therapy is getting more and more targeted and stacking more and more therapies on
+
+1030
+01:45:42,720 --> 01:45:48,720
+top of each other. So this is an elegant example of stacking something that is clearly going to
+
+1031
+01:45:48,720 --> 01:45:54,640
+become a pillar of oncology, which is immune based therapy with something that frankly is
+
+1032
+01:45:54,640 --> 01:46:00,480
+partially metabolic and frankly, partially more complicated than just metabolic therapy. So you've
+
+1033
+01:46:00,480 --> 01:46:06,400
+got, you almost add this to the layer of pieces of Swiss cheese you start to stack on top. If you
+
+1034
+01:46:06,400 --> 01:46:10,160
+have enough of them, you're not going to be able to drop a pencil through the cancer doesn't survive.
+
+1035
+01:46:10,160 --> 01:46:16,480
+That's right. So one of the limitations that we have with immune checkpoint blockade is some of
+
+1036
+01:46:16,480 --> 01:46:21,520
+which I've already mentioned, we can't identify who's going to respond and who's not going to
+
+1037
+01:46:21,520 --> 01:46:29,280
+respond and we have to extend the responder pool, but we have to be able to model that because
+
+1038
+01:46:29,840 --> 01:46:36,320
+it's very clear that a single agents is going to be immune checkpoint blockade therapy is not going
+
+1039
+01:46:36,320 --> 01:46:44,560
+to help most of the patients. So how do we go about optimizing this treatment and having
+
+1040
+01:46:45,440 --> 01:46:52,720
+models where you can combine immune checkpoint blockade with other therapies to evaluate what
+
+1041
+01:46:52,720 --> 01:47:00,160
+is the optimal response is critical and that's what we're doing and whether fasting influences
+
+1042
+01:47:00,160 --> 01:47:07,600
+this is completely unknown. What's the role of autophagy in the immune cell itself? So either
+
+1043
+01:47:07,600 --> 01:47:16,560
+adaptive or innate, I mean, maybe both. So we know that one of the things we did was to turn autophagy
+
+1044
+01:47:16,560 --> 01:47:27,200
+off in a mouse and ask how that affected basic immune responses. And the answer was everything
+
+1045
+01:47:27,200 --> 01:47:34,000
+in the short term appeared to be completely functional. And if anything, the T cells were
+
+1046
+01:47:34,000 --> 01:47:41,440
+more anti-tumorigenic. But if you go into the long term, if you knock out an essential autophagy
+
+1047
+01:47:41,440 --> 01:47:48,240
+gene only in T cells, for example, and look nine months later, I think those T cells are not going
+
+1048
+01:47:48,240 --> 01:47:55,840
+to be very functional. But it really depends on how you design the experiment. For cancer therapy,
+
+1049
+01:47:55,920 --> 01:48:03,920
+we want to know what happens acutely. When you're inhibiting autophagy, you're going to be looking
+
+1050
+01:48:03,920 --> 01:48:11,840
+at things in the short term, not in the long term. So there's still a lot we need to do in that area.
+
+1051
+01:48:11,840 --> 01:48:20,480
+But in the short term, for cancer therapy, the immune system seems to function well, if not better,
+
+1052
+01:48:20,480 --> 01:48:26,320
+in the presence of autophagy inhibition. This just doesn't stop getting confusing,
+
+1053
+01:48:26,320 --> 01:48:34,960
+because again, you would think that given the benefits of autophagy and preventing cancer,
+
+1054
+01:48:37,120 --> 01:48:41,200
+you would think that that would only enhance innate immunity because of the role innate
+
+1055
+01:48:41,200 --> 01:48:47,120
+immunity plays in cancer screening. Which again, I think just speaks to we are still
+
+1056
+01:48:47,760 --> 01:48:55,200
+really scratching the surface of all of the different tentacles that come out of these tools.
+
+1057
+01:48:55,200 --> 01:49:02,000
+Something like fasting seems very simple. And it's simple, of course, to do. But it has such a
+
+1058
+01:49:02,960 --> 01:49:09,600
+set of pleiotropic extensions and benefits that it's very unlikely that it's about all or none.
+
+1059
+01:49:09,600 --> 01:49:15,040
+There's nothing black and white here. It's really all these shades of gray that it's not intuitive
+
+1060
+01:49:15,040 --> 01:49:19,200
+when you look at them what the net effect is, because it's a little bit of this, a little bit
+
+1061
+01:49:19,200 --> 01:49:24,720
+of that, more of this than that. It's the balance of this versus that. Yes, I would agree. And I
+
+1062
+01:49:24,720 --> 01:49:30,480
+think context is important too. When you think of all the big chronic diseases, just based on what
+
+1063
+01:49:30,480 --> 01:49:35,360
+you've talked with us today about, I think we have to be really excited about Alzheimer's disease
+
+1064
+01:49:35,360 --> 01:49:42,640
+based on the model you've shared. I mean, that strikes me as an amazing opportunity because one,
+
+1065
+01:49:42,640 --> 01:49:47,200
+we don't have a single tool. Once somebody has Alzheimer's disease, I'm sure you saw the most
+
+1066
+01:49:47,200 --> 01:49:52,880
+recent, I don't know if you follow that literature, but we just saw two enormous failures in the
+
+1067
+01:49:52,880 --> 01:49:59,040
+anti-amyloid beta drug trials. So we're back to kind of square one, which is not a single drug
+
+1068
+01:49:59,040 --> 01:50:05,680
+that works for this condition. If any disease demands prevention, it has to be this one.
+
+1069
+01:50:06,240 --> 01:50:10,880
+It's hard to make the case that fasting isn't going to play a beneficial role there, isn't it?
+
+1070
+01:50:10,880 --> 01:50:16,960
+I believe you. I'd love to. We have to test this now. We have to be tested. But I think that when
+
+1071
+01:50:16,960 --> 01:50:25,520
+you look at the dramatic failures in preventing or delaying Alzheimer's disease, you have to ask
+
+1072
+01:50:25,520 --> 01:50:33,120
+the question, what is the root cause of that? And if you look at the approaches, all the approaches
+
+1073
+01:50:33,120 --> 01:50:34,520
+are designed to m
+
+1074
+01:50:35,280 --> 01:50:45,440
+eelerate a symptom. And the research has not yet gotten to the root cause. And I think that that is
+
+1075
+01:50:45,440 --> 01:50:53,200
+the reason for these spectacular failures, is they're trying to treat a symptom of the disease
+
+1076
+01:50:53,840 --> 01:51:01,840
+rather than the cause of the disease. And when you look at the genes that are involved in neurodegeneration
+
+1077
+01:51:01,840 --> 01:51:09,840
+in general, they fall into a broad array of different categories. And so my thinking is that
+
+1078
+01:51:09,840 --> 01:51:15,680
+they're all doing different things, but there's some common denominator that has yet to be
+
+1079
+01:51:15,680 --> 01:51:27,600
+identified. And I think that until the root cause of disease is identified, just finding means to
+
+1080
+01:51:27,600 --> 01:51:32,720
+ameliorate the symptoms is not going to be productive. Eileen, you know, I could sit here
+
+1081
+01:51:32,720 --> 01:51:37,040
+and talk about this for hours and hours. I want to be respectful of your time because I know you've
+
+1082
+01:51:37,040 --> 01:51:40,640
+stayed an extra day to have this discussion with me, which I really appreciate. Is there anything
+
+1083
+01:51:40,640 --> 01:51:46,080
+else you want to talk about today? Either as it pertains to your work, something you're excited
+
+1084
+01:51:46,080 --> 01:51:53,040
+about in the future, or anything else that pertains to autophagy? I mean, I think that understanding
+
+1085
+01:51:53,040 --> 01:52:00,640
+in greater detail how autophagy impacts metabolism. We've done some of that, but I think
+
+1086
+01:52:00,640 --> 01:52:07,680
+there's way more to do. We have the technical ability to examine metabolic flux in a mouse
+
+1087
+01:52:07,680 --> 01:52:16,480
+in vivo in normal and starvation conditions, and in response to different diseases. And we're only
+
+1088
+01:52:16,480 --> 01:52:22,240
+at the beginning of doing that. And I think that that's something that we will continue to do
+
+1089
+01:52:23,040 --> 01:52:33,120
+and hope that we can identify new targets for anti-cancer therapy or signatures of metabolic
+
+1090
+01:52:33,120 --> 01:52:38,880
+problems. And we will continue to do that. But again, I want to return to the immunotherapy,
+
+1091
+01:52:38,880 --> 01:52:48,000
+I think in the field of cancer building on that huge gain. We can't take our eyes off that ball.
+
+1092
+01:52:48,960 --> 01:52:52,640
+Those are both very interesting. And of course, the former, it sounds like you really agree with
+
+1093
+01:52:52,640 --> 01:52:59,200
+David Sabatini, which is there's an enormous opportunity to decode metabolism in a way that
+
+1094
+01:52:59,200 --> 01:53:04,720
+we should have done 20 years ago. I think we lack the technology. I mean, I think that,
+
+1095
+01:53:04,720 --> 01:53:15,200
+so maybe I could take a minute to explain what we do, and that by using C13 or N15 labeled tracers,
+
+1096
+01:53:15,840 --> 01:53:24,400
+you can put them into a mouse, infuse a mouse with these tracers. And by looking at where they go
+
+1097
+01:53:24,400 --> 01:53:32,160
+by mass spectrometry over different time points, you can see metabolism. And that was something that
+
+1098
+01:53:32,160 --> 01:53:37,200
+was never possible before. What is it because we've been able to label these things forever,
+
+1099
+01:53:37,200 --> 01:53:41,040
+what was it the mass spec didn't have the resolution before? Or what is it that why is
+
+1100
+01:53:41,040 --> 01:53:45,680
+it we couldn't do this 20 years ago, I guess? I think they could do it with radioactive material,
+
+1101
+01:53:45,680 --> 01:53:51,920
+and they could do it somewhat with the technology they had way back when. But I think that the
+
+1102
+01:53:51,920 --> 01:53:59,120
+technology now is far more sophisticated. By using heavy isotopes, you don't need radioactivity.
+
+1103
+01:53:59,120 --> 01:54:05,760
+Now there are more mouse models of disease, you could even do this in humans. So Ralph DeBarradinas
+
+1104
+01:54:05,760 --> 01:54:13,200
+at UT Southwestern is infusing these isotope tracers into humans with cancer and actually
+
+1105
+01:54:13,840 --> 01:54:19,920
+measuring the metabolism of human tumors. Wow, that's interesting. I did an experiment once
+
+1106
+01:54:19,920 --> 01:54:24,160
+on myself with doubly labeled water, which of course is a very simple version of doing
+
+1107
+01:54:24,160 --> 01:54:28,400
+that sort of thing to examine energy expenditure. I had a field day doing that.
+
+1108
+01:54:28,400 --> 01:54:35,680
+Oh, yeah. But I think that in fact, next week I'm supposed to go to a keystone tumor metabolism
+
+1109
+01:54:35,680 --> 01:54:41,840
+meeting where all the experts in this area will get together and talk about this in detail. But
+
+1110
+01:54:41,840 --> 01:54:52,160
+this is a growing field. It's very exciting and understanding metabolism in mammals at a level
+
+1111
+01:54:52,160 --> 01:54:59,760
+we've never seen before in various disease states is tremendous. And then lastly, is it safe to say
+
+1112
+01:54:59,760 --> 01:55:04,960
+that should there be a strong enough public demand and a philanthropic demand to go after that
+
+1113
+01:55:04,960 --> 01:55:10,560
+question we talked about earlier about sort of decoding the dose effect of fasting? Is that the
+
+1114
+01:55:10,560 --> 01:55:17,360
+sort of thing you'd be interested in working on? Yes. I was fascinated by what happened when mice
+
+1115
+01:55:17,360 --> 01:55:25,280
+didn't have autophagy and they died when they were fasted. And I am very much interested in
+
+1116
+01:55:25,280 --> 01:55:32,320
+fasting as a way to preserve health. I'm also interested in, as I mentioned earlier, the dietary
+
+1117
+01:55:32,320 --> 01:55:37,440
+part because I think all of this has to go together. It's not just how many calories you eat
+
+1118
+01:55:37,440 --> 01:55:44,080
+or how often you eat them. It's what they are. So yes, that's something that's very important to me.
+
+1119
+01:55:44,800 --> 01:55:50,240
+Well, Eileen, thank you very much. This was super, super interesting. And I know that folks are gonna,
+
+1120
+01:55:50,240 --> 01:55:55,280
+this will probably pose a few more questions than even we had time to go into, but that's great. Your
+
+1121
+01:55:55,280 --> 01:56:00,880
+work is fantastic. And I appreciate your generosity. Oh, this has been a lot of fun. I'm glad I took the
+
+1122
+01:56:00,880 --> 01:56:07,120
+time to do this. Thanks. Thank you for listening to this week's episode of The Drive. If you're
+
+1123
+01:56:07,120 --> 01:56:11,840
+interested in diving deeper into any topics we discuss, we've created a membership program that
+
+1124
+01:56:11,840 --> 01:56:16,880
+allows us to bring you more in-depth, exclusive content without relying on paid ads. It's our
+
+1125
+01:56:16,880 --> 01:56:22,000
+goal to ensure members get back much more than the price of the subscription. Now to that end,
+
+1126
+01:56:22,000 --> 01:56:26,880
+membership benefits include a bunch of things. One, totally kick ass comprehensive podcast
+
+1127
+01:56:26,880 --> 01:56:31,920
+show notes that detail every topic, paper, person, thing we discuss on each episode.
+
+1128
+01:56:31,920 --> 01:56:37,680
+The word on the street is nobody's show notes rival these. Monthly AMA episodes or Ask Me
+
+1129
+01:56:37,680 --> 01:56:42,400
+Anything episodes, hearing these episodes completely. Access to our private podcast
+
+1130
+01:56:42,400 --> 01:56:47,520
+feed that allows you to hear everything without having to listen to spiel's like this. The
+
+1131
+01:56:47,520 --> 01:56:52,400
+Qualies, which are a super short podcast, typically less than five minutes that we release every
+
+1132
+01:56:52,400 --> 01:56:56,560
+Tuesday through Friday, highlighting the best questions, topics, and tactics discussed on
+
+1133
+01:56:56,560 --> 01:57:01,680
+previous episodes of The Drive. This is a great way to catch up on previous episodes without
+
+1134
+01:57:01,680 --> 01:57:06,960
+having to go back and necessarily listen to everyone. Steep discounts on products that I
+
+1135
+01:57:06,960 --> 01:57:11,520
+believe in, but for which I'm not getting paid to endorse, and a whole bunch of other benefits that
+
+1136
+01:57:11,520 --> 01:57:16,160
+we continue to trickle in as time goes on. If you want to learn more and access these member-only
+
+1137
+01:57:16,240 --> 01:57:20,400
+benefits, you can head over to PeterAttiaMD.com forward slash subscribe.
+
+1138
+01:57:21,600 --> 01:57:27,520
+You can find me on Twitter, Instagram, and Facebook, all with the ID PeterAttiaMD. You can
+
+1139
+01:57:27,520 --> 01:57:32,640
+also leave us a review on Apple Podcast or whatever podcast player you listen on. This
+
+1140
+01:57:32,640 --> 01:57:37,200
+podcast is for general informational purposes only and does not constitute the practice of
+
+1141
+01:57:37,200 --> 01:57:42,080
+medicine, nursing, or other professional healthcare services, including the giving of
+
+1142
+01:57:42,080 --> 01:57:47,680
+medical advice. No doctor-patient relationship is formed. The use of this information and the
+
+1143
+01:57:47,680 --> 01:57:53,520
+materials linked to this podcast is at the user's own risk. The content on this podcast is not
+
+1144
+01:57:53,520 --> 01:57:58,320
+intended to be a substitute for professional medical advice, diagnosis, or treatment.
+
+1145
+01:57:58,880 --> 01:58:05,040
+Users should not disregard or delay in obtaining medical advice from any medical condition they
+
+1146
+01:58:05,040 --> 01:58:10,320
+have, and they should seek the assistance of their healthcare professionals for any such conditions.
+
+1147
+01:58:10,960 --> 01:58:15,200
+Finally, I take conflicts of interest very seriously. For all of my disclosures and the
+
+1148
+01:58:15,200 --> 01:58:22,480
+companies I invest in or advise, please visit PeterAttiaMD.com forward slash about
+
+1149
+01:58:22,480 --> 01:58:26,560
+where I keep an up-to-date and active list of such companies.
+

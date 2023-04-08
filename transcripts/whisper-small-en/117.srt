@@ -1,0 +1,4596 @@
+1
+00:00:00,000 --> 00:00:15,600
+Hey everyone, welcome to the Drive podcast. I'm your host, Peter Attia. This podcast,
+
+2
+00:00:15,600 --> 00:00:19,360
+my website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:19,360 --> 00:00:24,360
+longevity into something accessible for everyone. Our goal is to provide the best content in
+
+4
+00:00:24,360 --> 00:00:28,440
+health and wellness, full stop, and we've assembled a great team of analysts to make
+
+5
+00:00:28,440 --> 00:00:32,720
+this happen. If you enjoy this podcast, we've created a membership program that brings you
+
+6
+00:00:32,720 --> 00:00:36,920
+far more in-depth content. If you want to take your knowledge of this space to the next level.
+
+7
+00:00:36,920 --> 00:00:41,560
+At the end of this episode, I'll explain what those benefits are. Or if you want to learn more now,
+
+8
+00:00:41,560 --> 00:00:48,080
+head over to PeterAttiaMD.com forward slash subscribe. Now, without further delay, here's
+
+9
+00:00:48,080 --> 00:00:55,240
+today's episode. I guess this week is Stanley Perlman. Stanley is a professor of microbiology
+
+10
+00:00:55,240 --> 00:01:00,560
+and immunology, along with being a professor of pediatrics and the chair of virology at the
+
+11
+00:01:00,560 --> 00:01:06,440
+University of Iowa. Stanley has researched coronaviruses for nearly four decades, and his
+
+12
+00:01:06,440 --> 00:01:13,680
+lab is currently using mouse models for SARS-CoV-1 and SARS-CoV-2 to better understand the more
+
+13
+00:01:13,680 --> 00:01:19,240
+severe diseases that affect humans. I've wanted to talk with Stanley for a few months now.
+
+14
+00:01:19,240 --> 00:01:25,080
+Understandably, he has been incredibly busy. We have been part of a collaboration that is
+
+15
+00:01:25,080 --> 00:01:30,280
+working on a longer study trying to understand the durability of immune response and the impacts of
+
+16
+00:01:30,280 --> 00:01:34,360
+that, which we discussed very briefly at the end of this podcast. So most of our contact has actually
+
+17
+00:01:34,360 --> 00:01:38,280
+been through that, but as we got a little bit of breathing room in and around our other projects,
+
+18
+00:01:38,280 --> 00:01:43,240
+inclusive of the one we're working on together, we decided it made sense to finally sit down and
+
+19
+00:01:43,240 --> 00:01:48,080
+have this discussion, especially as a beautiful extension of the discussion that I already had
+
+20
+00:01:48,080 --> 00:01:53,880
+with David Watkins. So I do recommend that you would listen to these podcasts in that order. The
+
+21
+00:01:53,880 --> 00:01:58,240
+one with David Watkins, of course, goes over the immunology a little bit. Here we talk specifically
+
+22
+00:01:58,240 --> 00:02:03,720
+about coronaviruses, including the sort of common cold coronaviruses, and of course, more importantly,
+
+23
+00:02:03,720 --> 00:02:09,200
+the three versions that really have caused incredible damage to humans, none more so than
+
+24
+00:02:09,200 --> 00:02:14,080
+the one we're in today. In this episode, we talk about a whole bunch of things that, again, just,
+
+25
+00:02:14,160 --> 00:02:19,520
+you can probably imagine interest me to no end. When we were talking specifically about SARS 1 and
+
+26
+00:02:19,520 --> 00:02:26,240
+MERS, what did they teach us about this coronavirus? What does our knowledge of this coronavirus today
+
+27
+00:02:26,240 --> 00:02:32,240
+versus what we knew, say, five months ago tell us about how this story ends? And what do I mean by
+
+28
+00:02:32,240 --> 00:02:36,320
+ending? All of these are topics that we get into, along with a very interesting discussion around
+
+29
+00:02:36,320 --> 00:02:41,840
+the therapeutic side of things, the vaccination side of things, and ultimately, what could happen
+
+30
+00:02:41,840 --> 00:02:46,720
+again? So without further delay, I hope you enjoy my conversation with Dr. Stanley Crum.
+
+31
+00:02:52,400 --> 00:02:56,480
+Hey, Stanley, thank you so much for making time to talk today. I've wanted to speak with you for a
+
+32
+00:02:56,480 --> 00:03:01,120
+couple of months now, and I know when we first connected, it was just nuts, and you said,
+
+33
+00:03:01,120 --> 00:03:05,200
+hey, Peter, thanks for reaching out. Can we talk when things calm down a little bit? And I was
+
+34
+00:03:05,200 --> 00:03:09,040
+so gracious that, first of all, that you even took the time to respond. And then, of course, now we've
+
+35
+00:03:09,040 --> 00:03:13,040
+been able to work together on a separate project that maybe we'll talk about down the line.
+
+36
+00:03:13,040 --> 00:03:17,360
+But I'll tell you, the reason I reached out in the first place was really the result of something
+
+37
+00:03:17,360 --> 00:03:21,040
+that my research team came to me and said, which was, look, Peter, if you want to understand
+
+38
+00:03:21,040 --> 00:03:25,760
+coronaviruses, you've got to speak to Stanley Perlman. Everybody is an armchair coronavirus
+
+39
+00:03:25,760 --> 00:03:29,680
+expert now, but you actually want to talk to the guy who is studying coronaviruses before they
+
+40
+00:03:29,680 --> 00:03:35,760
+were sexy, and that's Stanley. So before we get maybe into how you became obsessed with coronaviruses,
+
+41
+00:03:35,760 --> 00:03:39,040
+how did you get involved in medicine and immunology, per se?
+
+42
+00:03:39,040 --> 00:03:45,200
+Well, I actually started, I obtained a PhD many, many years ago in the areas, actually, of cell
+
+43
+00:03:45,200 --> 00:03:52,160
+biology and developmental biology and virology. So I did a whole potpourri of training as a PhD
+
+44
+00:03:52,160 --> 00:03:57,840
+student and then again during post-op. And then I went to medical school. So there was a period
+
+45
+00:03:57,840 --> 00:04:02,720
+there where I learned, I didn't do coronavirus research, but I learned how to do research.
+
+46
+00:04:02,720 --> 00:04:08,960
+And so then when I went to medical school, I became interested in pediatrics, men and infectious
+
+47
+00:04:08,960 --> 00:04:14,560
+diseases. And I don't know what my plans were exactly when I started medical school, but
+
+48
+00:04:14,560 --> 00:04:20,720
+became really interested in how baby brains interacted with viruses, which was not good.
+
+49
+00:04:20,720 --> 00:04:27,040
+So when babies are getting infected with viruses, especially in utero, it often has devastating
+
+50
+00:04:27,040 --> 00:04:32,800
+consequences. And I worked with somebody who was really good at thinking about those babies. And I
+
+51
+00:04:32,800 --> 00:04:38,240
+became just interested in research issues around how viruses interact with the brain. So at that
+
+52
+00:04:38,240 --> 00:04:45,360
+time point, I became interested, it turned out that coronaviruses and mice provided a model that
+
+53
+00:04:45,360 --> 00:04:50,880
+could lead to potentially important information. So I went from all the other things that I did,
+
+54
+00:04:50,880 --> 00:04:55,440
+and from being a pediatric infectious disease person, part of my training, I also started
+
+55
+00:04:55,440 --> 00:05:02,400
+working with coronaviruses. Now, what was the decision point that had you leave sort of a pure
+
+56
+00:05:02,400 --> 00:05:07,120
+academic track, which you would have been on from your PhD and your postdoc to sort of take that,
+
+57
+00:05:07,120 --> 00:05:10,000
+I don't like to use the term backwards, but I think you sort of get what I mean. Take that
+
+58
+00:05:10,000 --> 00:05:14,720
+backwards step and go back to something remedial like medical school. In other words, what really
+
+59
+00:05:14,720 --> 00:05:19,600
+drove you to want to have a clinically active research focus? Well, I think there are two
+
+60
+00:05:19,600 --> 00:05:25,360
+things. One, I was interested in, I felt I was getting compartmentalized in a small area of
+
+61
+00:05:25,360 --> 00:05:30,480
+research. I don't think I wanted to be in something that was quite so confined and didn't have too
+
+62
+00:05:30,480 --> 00:05:36,640
+many relevance for general health issues. And the second thing is ironic. I started my PhD at an
+
+63
+00:05:36,640 --> 00:05:41,840
+early age, and it was almost like I was looking for a chance to take a little bit of a break.
+
+64
+00:05:41,840 --> 00:05:45,840
+A medical school in residency is more than a little bit of a break, but it was pretty fast.
+
+65
+00:05:45,840 --> 00:05:50,720
+There was a total of starting medical school to finishing fellowship was only six years,
+
+66
+00:05:50,720 --> 00:05:55,360
+which is a long time, but not compared to what most people do to this kind of training.
+
+67
+00:05:55,360 --> 00:06:00,880
+There's a combination of both those things of being wanting to really step back a bit and also
+
+68
+00:06:00,880 --> 00:06:06,880
+wanting to find more relevance for human disease. You're kind of a doogie howser because how is it
+
+69
+00:06:06,880 --> 00:06:12,880
+you could do med school and because today, med school is four years, pediatric residency is three,
+
+70
+00:06:12,880 --> 00:06:16,160
+and then pediatric infectious disease would add at least two to that, right?
+
+71
+00:06:16,720 --> 00:06:19,040
+Or three. It's actually three now, yeah.
+
+72
+00:06:19,040 --> 00:06:22,720
+You'd be talking about a 10-year training program that you did in six.
+
+73
+00:06:22,720 --> 00:06:27,040
+So I was lucky because when I went to medical school, there was a shortage of doctors,
+
+74
+00:06:27,040 --> 00:06:33,520
+and there was one or two programs that allowed people to truncate their medical school training.
+
+75
+00:06:33,520 --> 00:06:39,440
+I went to one in Miami that if you had a PhD, you could basically do the whole thing in 22 months.
+
+76
+00:06:40,320 --> 00:06:44,480
+What you did is you cut the first year down to six months, the second year down to about three
+
+77
+00:06:44,480 --> 00:06:50,160
+months, did the entire third year, and then you did the fourth year in eight weeks. So at the end
+
+78
+00:06:50,160 --> 00:06:54,800
+of it all, we did everything. We could do it to people who had PhDs, though I have to say they
+
+79
+00:06:54,800 --> 00:07:01,120
+took PhDs in whether it be physics or physics to psychology to biology to chemistry. So people had
+
+80
+00:07:01,120 --> 00:07:06,560
+different amounts of training. This training was good. The classes were really full of people who
+
+81
+00:07:06,640 --> 00:07:12,080
+were really creative and thinking about things. So it was a generally intense but very good
+
+82
+00:07:12,080 --> 00:07:14,400
+experience, and you were well trained at the end.
+
+83
+00:07:15,520 --> 00:07:18,800
+You did your residency at Boston Children's or fellowship or both?
+
+84
+00:07:18,800 --> 00:07:20,000
+Both, yeah, both.
+
+85
+00:07:21,200 --> 00:07:26,240
+At the time and probably still to this day, Boston Children's Hospital remains easily in the top three
+
+86
+00:07:26,240 --> 00:07:31,120
+in the world, perhaps along with CHOP and Sick Kids and maybe a few others. So you're at the
+
+87
+00:07:31,120 --> 00:07:36,160
+premier pediatric hospital in the world. You're training with, I guess you're referring to
+
+88
+00:07:36,160 --> 00:07:38,000
+Brazelton as your mentor there?
+
+89
+00:07:38,000 --> 00:07:39,280
+Yeah, yeah, so right there.
+
+90
+00:07:41,040 --> 00:07:44,480
+So tell me more about childhood development. I mean, I don't know much about it, obviously,
+
+91
+00:07:44,480 --> 00:07:48,640
+and it certainly rings a bell when you say that viruses can really wreak havoc. One of the few
+
+92
+00:07:48,640 --> 00:07:54,240
+things I remember from OBGYN is the lengths you would go to to ensure that a mother wasn't
+
+93
+00:07:54,240 --> 00:07:56,320
+infected actively during childbirth.
+
+94
+00:07:56,960 --> 00:08:02,320
+Yeah, so we don't understand everything about this, but certain viruses that invade the brain
+
+95
+00:08:02,320 --> 00:08:07,840
+during the first trimester really cause devastating loss of neurological function.
+
+96
+00:08:07,840 --> 00:08:13,520
+And the later you go in the pregnancy, the more likely it is to cause less disease. But even when
+
+97
+00:08:13,520 --> 00:08:19,360
+you're infected during delivery, babies infected with certain viruses always have hearing problems,
+
+98
+00:08:19,360 --> 00:08:24,560
+visual problems, and even cognitive problems. So the babies, just because they're developing,
+
+99
+00:08:24,560 --> 00:08:30,400
+they're incredibly sensitive to anything that disrupts their development. And when I think
+
+100
+00:08:30,400 --> 00:08:36,240
+about it, the direct relationship to what I later did with research was really not so strong,
+
+101
+00:08:36,240 --> 00:08:41,200
+but it was just the whole notion of could you do anything to prevent these viruses from
+
+102
+00:08:41,760 --> 00:08:46,560
+spreading in the human brain? And then also, the way they do spread within the human brain,
+
+103
+00:08:46,560 --> 00:08:50,880
+could this be something that would be useful for understanding other functions if you did
+
+104
+00:08:50,880 --> 00:08:56,080
+this in an experimentally infected animal. So that's kind of the way. And then coronavirus
+
+105
+00:08:56,080 --> 00:09:02,000
+has turned out to have this interesting ability to cause demyelination, which was similar to what
+
+106
+00:09:02,000 --> 00:09:07,360
+we see in multiple sclerosis. So it sort of ended up in a long roundabout way for my studying this
+
+107
+00:09:07,360 --> 00:09:11,520
+multiple sclerosis-like disease for 20 years before SARS came about.
+
+108
+00:09:12,320 --> 00:09:16,080
+Maybe this is probably just as good a time as any, Stanley, to really give people a bit of the
+
+109
+00:09:16,080 --> 00:09:20,400
+lay of the land on what a coronavirus is, because anybody listening to this, when they hear
+
+110
+00:09:20,400 --> 00:09:25,200
+coronavirus, they're thinking of SARS-CoV-2. It might be helpful to put that in a much broader
+
+111
+00:09:25,200 --> 00:09:30,080
+context, which is what does a family of viruses actually mean? When we say the Joneses and the
+
+112
+00:09:30,080 --> 00:09:35,040
+Smiths, we're talking about a family, not Billy Smith necessarily. So what does that look like?
+
+113
+00:09:35,600 --> 00:09:42,640
+So the coronaviruses are like any other set of viruses. Their viruses are put into that
+
+114
+00:09:42,640 --> 00:09:47,040
+category because of what they look like under the microscope, what they look like under the
+
+115
+00:09:47,040 --> 00:09:52,880
+electron microscope, or how they make new viruses, the kind of replication strategy we call it that
+
+116
+00:09:52,880 --> 00:09:58,720
+they use to make new viruses. In the old days, you might have some serological testing that would
+
+117
+00:09:58,720 --> 00:10:04,000
+tell you about relatedness. I say in the old days, we still use that, of course, but we have genetic
+
+118
+00:10:04,000 --> 00:10:09,120
+ways now to really see how close viruses are. So you put all those things together, and particularly
+
+119
+00:10:09,120 --> 00:10:14,560
+looking under the microscope, we can say coronaviruses have a certain pattern under the microscope.
+
+120
+00:10:15,600 --> 00:10:20,000
+All viruses that are coronaviruses have those patterns. It doesn't mean that they all can
+
+121
+00:10:20,000 --> 00:10:25,200
+infect people, or they all can infect this animal or that animal. They're really very, very different.
+
+122
+00:10:26,080 --> 00:10:32,320
+The ones that were known before SARS came about really were the experimental ones, like the ones
+
+123
+00:10:32,400 --> 00:10:39,520
+we use, which infected mice, and then also these other coronaviruses that infect swine and cows and
+
+124
+00:10:39,520 --> 00:10:45,280
+cats and dogs. And even now, they're finding viruses that are not quite coronaviruses, but are
+
+125
+00:10:45,280 --> 00:10:51,360
+very closely related that affect insects and snakes. So these viruses infect across lots of species.
+
+126
+00:10:51,360 --> 00:10:56,720
+And bats, of course, we know, because that's been made very clear in the COVID-19 outbreak,
+
+127
+00:10:56,720 --> 00:11:00,480
+because that's where this virus undoubtedly started, at least distantly.
+
+128
+00:11:01,120 --> 00:11:07,200
+So is it safe to say that coronaviruses as a family, probably when compared to any other
+
+129
+00:11:07,200 --> 00:11:13,040
+family of viruses, flaviviruses that produce hep C that otherwise would have nothing in common,
+
+130
+00:11:13,040 --> 00:11:16,880
+about the only thing that's true of viruses is they need a host to replicate. Is that about
+
+131
+00:11:16,880 --> 00:11:21,600
+where the similarities end across the broadest discrimination of viruses, or are there other
+
+132
+00:11:21,600 --> 00:11:26,160
+things that are uniquely... I mean, I guess they all have either DNA or RNA, but typically not both,
+
+133
+00:11:26,160 --> 00:11:32,720
+right? Yeah, except maybe HIV seems to have both. But generally, they have one or the other.
+
+134
+00:11:32,720 --> 00:11:37,280
+Depending on the amount of genetic information they have, they can do more or less functions
+
+135
+00:11:37,280 --> 00:11:43,280
+than other viruses. This is gigantic viruses, or these giant viruses, which they've called, that
+
+136
+00:11:43,280 --> 00:11:47,520
+seem to have almost all the material. You need to almost be a cell, but not a cell.
+
+137
+00:11:47,520 --> 00:11:52,960
+But they have a lot of their own material for making proteins and RNA. Most RNA viruses just
+
+138
+00:11:52,960 --> 00:11:58,640
+have the genetic material for programming the functions needed to reproduce the virus and also
+
+139
+00:11:58,640 --> 00:12:03,520
+make the proteins that cause the structure of the virus, that form the structure of the virus.
+
+140
+00:12:04,080 --> 00:12:09,840
+So those are simpler viruses. Coronaviruses have the unusual characteristic of being huge.
+
+141
+00:12:09,840 --> 00:12:15,280
+So the genetic information of a coronavirus is about four times that of the polio virus,
+
+142
+00:12:15,280 --> 00:12:20,240
+and yet the virus doesn't seem to do that much more than polio virus. So a little uncertain
+
+143
+00:12:20,240 --> 00:12:25,760
+exactly why it needs all that genetic information. And when you say huge, Stanley, do you just mean
+
+144
+00:12:25,760 --> 00:12:30,560
+the amount of RNA in it, or do you mean the actual diameter under an electron microscope as well?
+
+145
+00:12:30,560 --> 00:12:34,480
+The amount of RNA in it. Certainly the coronavirus is bigger than the polio virus,
+
+146
+00:12:34,480 --> 00:12:38,160
+but that's because it has all this genetic material stuffed into the middle of it.
+
+147
+00:12:38,720 --> 00:12:42,800
+Can you put it in context for us? If you take the genetic material contained within a typical
+
+148
+00:12:42,800 --> 00:12:47,840
+coronavirus, how does it stack up against a human gene? I mean, the listener might not understand
+
+149
+00:12:47,920 --> 00:12:51,360
+what base pairs look like or how many kilodaltons we're talking about, but just
+
+150
+00:12:51,360 --> 00:12:57,520
+contextualize it in some way. Well, let me see how I can do that. Because it's big for a virus,
+
+151
+00:12:57,520 --> 00:13:05,120
+a gene. If you took genes and laid them side by side, it could be equivalent to 15 human genes
+
+152
+00:13:05,120 --> 00:13:10,240
+laid side by side in terms of length, but human genes have variable length. So if it was a longer
+
+153
+00:13:10,240 --> 00:13:16,800
+human gene, it could be fewer of those for the viral genome. This particular virus codes around
+
+154
+00:13:17,840 --> 00:13:24,000
+probably about 25 or so different proteins varying size. A lot of them are pretty small.
+
+155
+00:13:24,000 --> 00:13:30,000
+So it's a lot of information, but it's not compared to the human genome, which has 20,000
+
+156
+00:13:30,000 --> 00:13:37,840
+genes. It's a very tiny amount when you think about 25. And does it like human DNA contain
+
+157
+00:13:37,840 --> 00:13:46,320
+coding and non-coding segments alike that are just as important? No. Human DNA contains both
+
+158
+00:13:46,320 --> 00:13:52,720
+non-coding sequences within genes and non-coding sequences outside. The vast majority of the human
+
+159
+00:13:52,720 --> 00:13:58,560
+genome is not for coding. With a virus, the vast majority is for coding. There may be stretches
+
+160
+00:13:58,560 --> 00:14:04,560
+here and there that are spacers, as there were, between genes, but they're a real and a minority.
+
+161
+00:14:05,120 --> 00:14:10,160
+The strict answer to your question is yes, there's parts that are non-coding, but it's a tiny fraction
+
+162
+00:14:10,160 --> 00:14:15,920
+compared to the amount that actually codes for genes. Just to go down the path of some speculation,
+
+163
+00:14:15,920 --> 00:14:21,840
+do we have a sense of what the evolutionary pressure was for coronavirus? I've never really
+
+164
+00:14:21,840 --> 00:14:27,200
+stopped to think about it, but it always struck me as viruses, unlike bacteria, don't really serve
+
+165
+00:14:27,200 --> 00:14:32,880
+a useful purpose. I mean, it's true that maybe most of them don't directly harm us, but if you
+
+166
+00:14:32,880 --> 00:14:38,320
+eradicated this planet of bacteria, we would all die pretty quickly. We live in a very healthy
+
+167
+00:14:38,320 --> 00:14:42,800
+symbiotic relationship, despite a pathologic relationship with a small few of them. But
+
+168
+00:14:43,440 --> 00:14:48,880
+if I could conduct a thought experiment and remove every virus from this universe, wouldn't
+
+169
+00:14:48,880 --> 00:14:52,640
+the world just keep ticking along fine, or is there something I'm missing about their function?
+
+170
+00:14:53,280 --> 00:14:57,920
+Well, I don't think you're right. We have lots of great examples. For example, in the ocean,
+
+171
+00:14:57,920 --> 00:15:03,520
+there's zillions of viruses that interact with bacteria. I would bet if you took that interaction
+
+172
+00:15:03,520 --> 00:15:08,720
+away that there would be a problem. And in the people talk about, even in the human gut, there's
+
+173
+00:15:08,800 --> 00:15:14,000
+all these viruses that people find. Some of them, I think, interact with those commensal bacteria
+
+174
+00:15:14,720 --> 00:15:19,920
+and are useful. Whether they're absolutely necessary, I don't think we know as much as we
+
+175
+00:15:19,920 --> 00:15:25,440
+do about commensal bacteria, which are really important for human life and animal life.
+
+176
+00:15:25,440 --> 00:15:30,320
+But I would bet if you took away all the viruses in the world, sure, you'd eliminate some of the
+
+177
+00:15:30,320 --> 00:15:36,880
+ones that cause human disease or non-human animal disease. But I think you might get away from
+
+178
+00:15:36,880 --> 00:15:42,000
+others that are actually beneficial. Yeah, so there might be some knockoff effect where they're
+
+179
+00:15:42,000 --> 00:15:46,880
+helping something that's second order to us. They're helping the bacteria that are helping us,
+
+180
+00:15:46,880 --> 00:15:52,720
+or helping some other distant organism that's way down the plankton sub-chain that I haven't
+
+181
+00:15:52,720 --> 00:15:58,560
+considered fully. I think that that's a possibility. And then bacteriophage on bacteria are going to
+
+182
+00:15:58,560 --> 00:16:03,360
+be even different than the ones directly on human cells. But there may even be animal viruses
+
+183
+00:16:03,360 --> 00:16:08,560
+that have roles that we don't understand very well that are important. I know there's some
+
+184
+00:16:08,560 --> 00:16:13,840
+animal viruses that interact. The insects have a relationship with each other, and the animal
+
+185
+00:16:13,840 --> 00:16:19,360
+viruses have an important part in maintaining some of the developmental patterns in those insects.
+
+186
+00:16:20,240 --> 00:16:24,960
+I know that some of them are lost, but I can't tell you more, remember. But there's definitely
+
+187
+00:16:24,960 --> 00:16:29,920
+viruses that, without which, there would be problems. So I'm sure you're tired of telling
+
+188
+00:16:29,920 --> 00:16:34,880
+this, but I think everyone should know this by now. But if not, why does it derive the name
+
+189
+00:16:34,880 --> 00:16:40,560
+corona virus? What is the corona referring to? If you look under the electron microscope, it has
+
+190
+00:16:40,560 --> 00:16:46,640
+these projections from the surface of the virus that look like either the corona of the sun or
+
+191
+00:16:46,640 --> 00:16:52,240
+the corona of a crown. So I think the first people who saw it under the electron microscope decided
+
+192
+00:16:52,240 --> 00:16:56,800
+to name it based on that. You have to have a little imagination, but it's not so far off.
+
+193
+00:16:57,440 --> 00:17:01,360
+And of course, this is relevant when we start to talk about the immune response to it, because the
+
+194
+00:17:01,360 --> 00:17:07,600
+immune response is particularly strong when it comes to certain parts of the viral coat. And
+
+195
+00:17:07,600 --> 00:17:12,480
+we'll probably come back and talk about spike proteins and things like that. So when did these
+
+196
+00:17:12,480 --> 00:17:17,840
+corona viruses show up in terms of our understanding of common colds?
+
+197
+00:17:18,720 --> 00:17:24,000
+I think we identified the first one in the 1930s and 40s from chicken. That's what I remember,
+
+198
+00:17:24,000 --> 00:17:30,320
+that the infectious bronchitis virus was found in chickens. And then in the 1960s,
+
+199
+00:17:31,200 --> 00:17:37,600
+people identified viruses that caused the common cold that had the same kind of appearance as the
+
+200
+00:17:37,600 --> 00:17:42,720
+infectious bronchitis virus. And I think by then we knew something about some of the pig viruses
+
+201
+00:17:42,720 --> 00:17:48,560
+as well. So the human, it was isolated from people with colds and had the same structure
+
+202
+00:17:49,040 --> 00:17:54,560
+as corona viruses and chickens and pigs. So that's how the new was in the coronavirus family.
+
+203
+00:17:55,120 --> 00:18:02,400
+Is it the exception or the rule, Stanley, that a virus that infects humans also has an animal host?
+
+204
+00:18:03,360 --> 00:18:09,760
+I think I would say it can go either way so much that it's hard to make a strong conclusion.
+
+205
+00:18:09,760 --> 00:18:16,560
+Viruses like measles virus infects only people, smallpox only infects people. That's why we can
+
+206
+00:18:16,560 --> 00:18:24,480
+eliminate them from human populations, in theory. Viruses or the corona viruses mostly seem to be
+
+207
+00:18:24,480 --> 00:18:30,160
+able to infect other animals as well. But the virus that I worked with for years in the lab,
+
+208
+00:18:30,160 --> 00:18:34,640
+mouse hepatitis virus was a mouse virus. And I don't think it affected anything but mice.
+
+209
+00:18:34,640 --> 00:18:41,520
+The human viruses, even now, so we're seeing that SARS-CoV-2, the cause of COVID-19, can infect
+
+210
+00:18:41,520 --> 00:18:48,320
+animals. So humans can infect these other animals by spreading the virus. SARS-CoV certainly
+
+211
+00:18:48,320 --> 00:18:54,000
+infected other animals. MERS-CoV is really a camel virus, so by definition, it affects other animals.
+
+212
+00:18:54,000 --> 00:19:02,400
+The human common cold coronaviruses, at least one of them can infect other animals. And I don't know,
+
+213
+00:19:02,400 --> 00:19:06,720
+one of them probably came from bats, but I don't know if they can infect bats. So I think
+
+214
+00:19:06,720 --> 00:19:13,520
+coronaviruses usually can go across species, but I don't think always. And other viruses often can
+
+215
+00:19:13,520 --> 00:19:19,120
+go across species, but not always. And it's really going to play, as I was saying, into the ability to
+
+216
+00:19:19,120 --> 00:19:24,800
+eliminate a virus from the human population. So if you're keeping track of all the things that make
+
+217
+00:19:24,800 --> 00:19:31,360
+a virus difficult for us as a species, so if you're trying to build a super virus, having the ability
+
+218
+00:19:31,360 --> 00:19:36,560
+to go into an animal host is an important feature of that, because you can basically
+
+219
+00:19:36,560 --> 00:19:41,440
+quote-unquote hide outside of the humans for a while, even while a large population of the
+
+220
+00:19:41,440 --> 00:19:46,400
+humans are either vaccinated or acquiring natural immunity or even approaching herd immunity,
+
+221
+00:19:46,400 --> 00:19:49,840
+and you can effectively lay dormant outside of the humans for a while.
+
+222
+00:19:50,560 --> 00:19:54,640
+Maybe. When you think about different viruses, certainly that's true for West Nile virus. We
+
+223
+00:19:54,640 --> 00:20:00,480
+have the best vaccine in the world. We still have West Nile virus floating around in birds and other
+
+224
+00:20:00,480 --> 00:20:05,680
+animals. Of course, West Nile virus really isn't a human virus. It's a virus that ended up in humans
+
+225
+00:20:05,680 --> 00:20:10,960
+at the end, but it wasn't really the intent as a word of the virus to infect humans. Others,
+
+226
+00:20:10,960 --> 00:20:16,640
+like measles, did just fine with having infecting everybody and having huge amounts of herd immunity,
+
+227
+00:20:16,640 --> 00:20:21,680
+and still every three years are less coming out and infecting human populations again.
+
+228
+00:20:21,680 --> 00:20:27,600
+Is that because the R-naught of measles was just so high that it was like you just had one little
+
+229
+00:20:27,600 --> 00:20:33,840
+crack in the dam and it was a disaster, whereas for most things like influenza or even coronaviruses,
+
+230
+00:20:33,840 --> 00:20:38,080
+the R-naught is an order of magnitude lower? Yeah, I think that that certainly contributes
+
+231
+00:20:38,080 --> 00:20:44,160
+to measles. You had five people out of 100 not vaccinated or not resistant to the virus. Those
+
+232
+00:20:44,160 --> 00:20:48,960
+people would get infected if you put them in a room with somebody who was positive for the
+
+233
+00:20:48,960 --> 00:20:55,440
+measles virus. Same thing is true for smallpox too, where it spread out an animal host. Others,
+
+234
+00:20:55,440 --> 00:21:01,760
+I don't know, polio, I don't think of polio as having much of another animal host. I think that
+
+235
+00:21:02,400 --> 00:21:07,840
+continues to be in human populations mostly because of poor vaccination and because we
+
+236
+00:21:07,840 --> 00:21:13,920
+use live attenuated vaccine that ended up in water and either mutates or doesn't mutate,
+
+237
+00:21:13,920 --> 00:21:18,720
+it's not gone. Where did those viruses come from? If they never had an animal host,
+
+238
+00:21:18,720 --> 00:21:24,560
+where did they evolve? I think they did initially have an animal host. Measles is thought to evolve
+
+239
+00:21:24,560 --> 00:21:29,680
+from rinderpestin, which affects animals in Africa. You see, that's the other thing about
+
+240
+00:21:29,680 --> 00:21:34,800
+the animal host is if you evolve from an animal host, the virus evolved from animal host,
+
+241
+00:21:34,800 --> 00:21:40,080
+but then change so much to infect humans, it may not be able to then cause an infection in the
+
+242
+00:21:40,080 --> 00:21:45,600
+animal host. So these like the SARS-CoV-2 that causes COVID-19, we don't really know what it
+
+243
+00:21:45,600 --> 00:21:50,160
+would do if you put it back in bats. No one's going to try it, but I don't know if a bat would
+
+244
+00:21:50,160 --> 00:21:53,840
+be infected by it because it may have changed enough even in the little bit of time it's been
+
+245
+00:21:53,840 --> 00:21:58,320
+out of the bat. So it can't infect the bat very well anymore. Wow, that's really interesting. So
+
+246
+00:21:58,320 --> 00:22:03,120
+ping pongs back and forth until it finds a more favorable host. I mean, this would suggest from
+
+247
+00:22:03,120 --> 00:22:08,560
+an evolutionary fitness standpoint that if it starts in an animal, comes to a human, stays in
+
+248
+00:22:08,560 --> 00:22:14,240
+a human, it must find the human on some level a more desirable host. I don't know, but that's
+
+249
+00:22:14,240 --> 00:22:19,840
+making the virus a little more anthropomorphic than it might be needed. If it's in humans,
+
+250
+00:22:19,920 --> 00:22:25,120
+it may never see a bat again. So it's not that it's more desirable host. That's a fair point.
+
+251
+00:22:25,120 --> 00:22:29,440
+Yeah, humans and bats don't interact that much even though they interact more than
+
+252
+00:22:29,440 --> 00:22:33,680
+maybe desirable given these viruses, but it's not like the virus can look around and say,
+
+253
+00:22:33,680 --> 00:22:37,360
+oh, there's a bat I think. Yeah, let me go try that out again and see how it compares to this.
+
+254
+00:22:38,080 --> 00:22:42,080
+Last question on this topic, tell me a little bit about HIV. I'm just not a student of my
+
+255
+00:22:42,080 --> 00:22:47,440
+immunology. Is HIV a virus that is now believed to have evolved? I mean, I know back, I remember
+
+256
+00:22:47,440 --> 00:22:50,400
+a million years ago, people said, oh, it came from this monkey or that monkey. Do we have a
+
+257
+00:22:50,400 --> 00:22:56,800
+very clear sense of the lineage of HIV? I think it's beyond what I know well. I think that we
+
+258
+00:22:56,800 --> 00:23:03,680
+have a very strong sense that it came from non-human primates. I think we may know more exactly, but
+
+259
+00:23:03,680 --> 00:23:08,800
+what I read periodically is some studies, it seems like the virus was in human populations
+
+260
+00:23:08,800 --> 00:23:14,880
+or identified way before its first obvious entry into people who became HIV infected. So I think
+
+261
+00:23:14,880 --> 00:23:19,440
+it's clearly from non-human primates, but the exact details, I don't know. But I think some
+
+262
+00:23:19,440 --> 00:23:23,920
+people do and some of these sources, like some of the non-human primates have an HIV
+
+263
+00:23:24,640 --> 00:23:31,520
+like virus that's pretty close. Let's go into the, let's say it's the late 90s. So it's pre-SARS.
+
+264
+00:23:31,520 --> 00:23:36,480
+You're working hard on coronaviruses. At that point in time, am I doing the math right that
+
+265
+00:23:36,480 --> 00:23:42,080
+there are basically sort of four endemic coronaviruses that are not especially severe,
+
+266
+00:23:42,080 --> 00:23:47,840
+but just circulate through humans causing annoying respiratory infections year after year.
+
+267
+00:23:47,840 --> 00:23:52,880
+Is that directionally the lay of the land? It's actually only two in the mid-90s because two of
+
+268
+00:23:52,880 --> 00:23:58,320
+them discovered after SARS in 2004. Wow. Which were the two that came along and that were there in
+
+269
+00:23:58,320 --> 00:24:07,280
+the 90s? 229E and OC43. Okay. And what did we know about people's immune response to them? I mean,
+
+270
+00:24:07,280 --> 00:24:11,200
+did anybody ever say, hey, we should vaccinate against these? Or was it they're not that
+
+271
+00:24:11,200 --> 00:24:15,520
+interesting? They don't make people that sick. Who cares? Yeah, it was more of the latter.
+
+272
+00:24:15,520 --> 00:24:19,360
+Appropriately so. If you're going to spend a huge amount of money and we know that huge amounts of
+
+273
+00:24:19,360 --> 00:24:24,960
+money involved in making a vaccine, why would you spend it on a cold virus? People get colds. It's
+
+274
+00:24:24,960 --> 00:24:29,840
+annoying. The other thing is that really that may be relevant to, I think, about COVID-19 is that
+
+275
+00:24:30,400 --> 00:24:36,320
+people got these cold viruses. They could be reinfected. So they could be reinfected a year
+
+276
+00:24:36,400 --> 00:24:41,680
+later. And that's what the papers we were talking about earlier really talk about is that the immune
+
+277
+00:24:41,680 --> 00:24:46,960
+response may be, if you have a mild infection, you may have a more transient immune response.
+
+278
+00:24:47,600 --> 00:24:51,600
+Yeah. There are three or four papers that I can't wait to dive into and we're going to do it. I just
+
+279
+00:24:51,600 --> 00:24:55,840
+want to make sure the listener doesn't get too lost in what we're talking about. But actually,
+
+280
+00:24:55,840 --> 00:25:00,640
+if you're listening to this now and you have not listened to the interview with David Watkins,
+
+281
+00:25:00,640 --> 00:25:05,360
+this would be a great time to hit pause, go back and do that. Because in that discussion, we really
+
+282
+00:25:05,440 --> 00:25:10,800
+do the immunology tour de force and we explain the difference between the innate immune system,
+
+283
+00:25:10,800 --> 00:25:15,120
+the adaptive immune system, and the two branches of the adaptive immune system,
+
+284
+00:25:15,120 --> 00:25:20,560
+the humoral system, which relies on B cells and their antibodies, and the cellular system,
+
+285
+00:25:20,560 --> 00:25:26,720
+which relies on T cells. And I have a very strong suspicion that very soon Stanley and I are going
+
+286
+00:25:26,720 --> 00:25:31,840
+to get into some of the weeds around the B cells versus the T cells. And again, I don't think you
+
+287
+00:25:31,840 --> 00:25:35,680
+can educate yourself enough on this topic if you want to truly understand what's going on with
+
+288
+00:25:35,680 --> 00:25:41,520
+these viruses. Bringing it back to the late 90s, tell me what your interest was at that time. So
+
+289
+00:25:41,520 --> 00:25:47,760
+obviously, you're a scholar, you're doing incredible work. Did you think at that point in time, gosh,
+
+290
+00:25:47,760 --> 00:25:52,080
+these coronaviruses aren't that interesting. They're not really a threat to humans. They're not really
+
+291
+00:25:52,080 --> 00:25:57,600
+a threat to my patients in the way other viruses are. Even RSV would be more of a threat to children.
+
+292
+00:25:57,680 --> 00:26:02,720
+Wupenkopf would be more of a threat to children. What is it that kept you in this at the time
+
+293
+00:26:02,720 --> 00:26:09,120
+relatively benign virus? Help me understand, was it kept you in a field that ultimately turned out
+
+294
+00:26:09,120 --> 00:26:14,560
+to be a very productive decision? At the time, we were interested mostly in this mouse virus and
+
+295
+00:26:14,560 --> 00:26:20,800
+the human disease multiple sclerosis. So thinking about how does a virus go into the brain end up
+
+296
+00:26:20,800 --> 00:26:27,200
+in the cells that make myelin, which are the sheets in the brain that cover the axons. And how does
+
+297
+00:26:28,080 --> 00:26:34,080
+the virus end up there? And then once the host realizes that the virus is there, how does it
+
+298
+00:26:34,080 --> 00:26:41,360
+manage to destroy tissue while it's eliminating the virus? How come the immune response can't
+
+299
+00:26:41,360 --> 00:26:48,080
+figure out how to rid the cells of virus without also destroying the cells themselves and destroying
+
+300
+00:26:48,080 --> 00:26:53,200
+the function of their cells? So that's what I was really studying. How does this occur?
+
+301
+00:26:53,760 --> 00:26:59,280
+What kind of immune responses were elicited by the virus? What mattered the most? What caused
+
+302
+00:26:59,280 --> 00:27:04,080
+demyelination? And what caused remyelination, which is the process of getting myelin back,
+
+303
+00:27:04,080 --> 00:27:08,320
+and which is in people with multiple sclerosis is the period when they have
+
+304
+00:27:08,320 --> 00:27:14,400
+immune emissions after relapsing and permissing or after relapsing have disease and they get better
+
+305
+00:27:14,400 --> 00:27:20,320
+again for a bit of time? For people who have some form where they get better to a large extent,
+
+306
+00:27:20,320 --> 00:27:24,240
+how does that occurring as well? So we were using the virus to try to study that.
+
+307
+00:27:24,800 --> 00:27:30,560
+But to be clear, was your personal interest at that time more in this is a virus that helps
+
+308
+00:27:30,560 --> 00:27:36,960
+us understand a disease like MS where we can understand the demyelination, remyelination process?
+
+309
+00:27:36,960 --> 00:27:42,560
+Or was it more, I think from a pediatric and a neurobiological development standpoint,
+
+310
+00:27:42,560 --> 00:27:48,560
+I want to make sure I understand what's happening in trimester one that is potentially injuring a
+
+311
+00:27:48,560 --> 00:27:52,880
+child's brain. Those two aren't necessarily mutually exclusive, but were you bent more
+
+312
+00:27:52,880 --> 00:27:58,240
+towards one than the other? I think that by the mid 90s, I was thinking much more about the first.
+
+313
+00:27:58,240 --> 00:28:03,200
+How does the virus infecting the brain? How is it cleared? Why does clearance always involve
+
+314
+00:28:03,200 --> 00:28:07,840
+tissue destruction? Why is that happening like that? So you're basically now becoming a
+
+315
+00:28:07,840 --> 00:28:13,600
+neurobiologist with a background in immunology, virology, and pediatrics. Well, at that point,
+
+316
+00:28:13,600 --> 00:28:19,600
+I became a neurobiologist with a background in virology and cell biology. I didn't really start
+
+317
+00:28:19,600 --> 00:28:27,280
+doing immunology till the early 90s, 1990s. So then we were doing some of it. Yes. The virus
+
+318
+00:28:27,280 --> 00:28:34,480
+preceded my doing immunology. So tell me what's going on when SARS hits. What is it? I can't even
+
+319
+00:28:34,480 --> 00:28:41,360
+remember exactly. Was this 02, 03? The end of 02 became a big deal in 2003 and then was eliminated
+
+320
+00:28:41,360 --> 00:28:46,640
+in July 2003 for all intents and purposes. So tell us this story in some detail. I think
+
+321
+00:28:46,640 --> 00:28:51,680
+for many people, I remember it because there was a component that was in Toronto. I grew up in
+
+322
+00:28:51,680 --> 00:28:56,000
+Toronto. I wasn't living there at the time, but just that sort of perked my ears. But at the same
+
+323
+00:28:56,000 --> 00:29:01,760
+time I was in residency, so I was so sleep deprived. If I could drive home without crashing,
+
+324
+00:29:01,760 --> 00:29:06,160
+that was an accomplishment. So it's not like I was really paying attention either, but can you
+
+325
+00:29:06,160 --> 00:29:10,320
+give us sort of a really detailed account of where this virus came from, how it emerged,
+
+326
+00:29:10,320 --> 00:29:13,120
+and what impact it had on you and how it may have shifted your thinking.
+
+327
+00:29:13,760 --> 00:29:20,560
+Yeah. So the way it emerged, we heard about this virus that was causing a respiratory disease in
+
+328
+00:29:20,560 --> 00:29:25,840
+southern China. And initially we all thought this was going to be a kind of flu virus because flu
+
+329
+00:29:25,840 --> 00:29:31,600
+viruses we know initiate often start in southern China, particularly in the city of Guangzhou,
+
+330
+00:29:31,600 --> 00:29:36,800
+which is across the bay from Hong Kong. So we heard about these viruses and then it became
+
+331
+00:29:36,800 --> 00:29:41,920
+clear that they were a coronavirus. This was isolated by several laboratories. But we learned
+
+332
+00:29:41,920 --> 00:29:48,480
+in retrospect is that they actually came from a live animal market in Guangzhou. And this was
+
+333
+00:29:48,480 --> 00:29:54,240
+a place where animals were all put together for sale for food and other purposes. And so there
+
+334
+00:29:54,240 --> 00:30:00,880
+were bats along with other exotic live animals. And we learned that the coronavirus, the SARS
+
+335
+00:30:00,880 --> 00:30:05,760
+coronavirus, was almost certainly a bat virus that spread to these other animals. And the
+
+336
+00:30:05,760 --> 00:30:11,920
+virus rapidly adapted to these other animals and sometimes infected human handlers of that market.
+
+337
+00:30:11,920 --> 00:30:18,160
+So people were actually handling the animals to sell them. And many of those became sick. Many
+
+338
+00:30:18,160 --> 00:30:23,840
+developed subclinical disease. And we know that up to a third of the handlers actually had antibodies
+
+339
+00:30:23,840 --> 00:30:28,800
+to SARS-CoV. So we know that this was going back and forth a lot. Then we know that some of the
+
+340
+00:30:28,800 --> 00:30:34,800
+time it spread to mainland China. How many times that occurred, we don't know whether it was exactly
+
+341
+00:30:34,800 --> 00:30:40,000
+the same virus that we study in the lab. I don't think we really know that well. The reason that this
+
+342
+00:30:40,000 --> 00:30:46,480
+became really was brought to the world's attention is that a single animal handler became ill enough
+
+343
+00:30:46,480 --> 00:30:52,560
+to see a physician. The physician actually became quite ill, didn't go home, rather went to a Hong
+
+344
+00:30:52,560 --> 00:30:59,200
+Kong hotel. And at that point, it was really sick and spread the virus to the other people on the
+
+345
+00:30:59,200 --> 00:31:04,080
+floor. And they all went through their homes. And that's how the virus ended up spreading around the
+
+346
+00:31:04,080 --> 00:31:09,840
+world because of this one physician who ended up going to Hong Kong. Whether this would have
+
+347
+00:31:09,840 --> 00:31:16,400
+occurred anyways is an open question, of course. The main set of events was single event. And that's
+
+348
+00:31:16,400 --> 00:31:21,760
+why the virus seemed to start from a single point source. Now, help me understand something. I think
+
+349
+00:31:21,760 --> 00:31:27,200
+most people listening to this are now familiar with R0, but we'll explain it again. What was the
+
+350
+00:31:27,200 --> 00:31:32,960
+R0 of that SARS virus? In retrospect, I guess, what do we believe it was? How transmissible was it?
+
+351
+00:31:32,960 --> 00:31:39,200
+Yeah, so this is a good question because the official numbers has an R0 of about two to three,
+
+352
+00:31:39,200 --> 00:31:44,320
+which means that a single person will infect two to three people. So clearly, as you can see,
+
+353
+00:31:44,320 --> 00:31:49,440
+without even thinking about it very hard, if a virus starts with one person, then infects two,
+
+354
+00:31:49,440 --> 00:31:53,920
+and then each of those infects two more people, you now have four infections, they infect two,
+
+355
+00:31:53,920 --> 00:31:59,360
+you get eight. So you can quickly get up to high numbers by this exponential growth.
+
+356
+00:31:59,360 --> 00:32:04,160
+And we'll hit pause there for one sec, just to put that in the context. Earlier, for example,
+
+357
+00:32:04,160 --> 00:32:09,360
+you talked a lot about measles. Measles has an R0 probably north of 10, correct?
+
+358
+00:32:09,360 --> 00:32:10,640
+Yeah, around 15.
+
+359
+00:32:10,640 --> 00:32:16,400
+I mean, that's about as high as they come. I mean, that's an explosive exponential multiplier.
+
+360
+00:32:16,400 --> 00:32:22,720
+At the other end of the spectrum, today, HIVs R0 would be less than one.
+
+361
+00:32:22,720 --> 00:32:27,200
+Yeah, and I think that HIV is a little different because it's not a respiratory spread.
+
+362
+00:32:27,200 --> 00:32:31,360
+Yeah, so let's use another respiratory example. What would be a low R0? Well,
+
+363
+00:32:31,360 --> 00:32:35,280
+let's use the other coronaviruses. If you take those other coronaviruses, they're one to two
+
+364
+00:32:35,280 --> 00:32:36,320
+at most, right?
+
+365
+00:32:36,320 --> 00:32:41,360
+Exactly. So one person infects someone else on the average. This is on the average, of course.
+
+366
+00:32:41,360 --> 00:32:46,720
+So going back to now SARS, sorry to interrupt you there, but now you've got a two to three R0. So
+
+367
+00:32:46,720 --> 00:32:52,320
+this is quite a spreading virus. This physician goes to the hotel, he gets a bunch of people
+
+368
+00:32:52,320 --> 00:32:57,680
+potentially sick. And obviously now that can take the virus around the world because presumably
+
+369
+00:32:57,680 --> 00:33:00,000
+people at hotels are going to go back someplace, right?
+
+370
+00:33:00,640 --> 00:33:07,280
+Yeah, so I think that the R0 of two to three though may be misleading because there's no
+
+371
+00:33:07,280 --> 00:33:13,360
+question that the R0 on the average was two to three, but it consisted of spread within the
+
+372
+00:33:13,360 --> 00:33:18,880
+hospital. Spread occurred much more readily. SARS was a virus that really caused pneumonia
+
+373
+00:33:18,880 --> 00:33:24,640
+and not much more. So the virus didn't readily spread from one person to another until that
+
+374
+00:33:24,640 --> 00:33:30,080
+first person was pretty ill. And then if that person went in the hospital and you now started
+
+375
+00:33:30,080 --> 00:33:36,800
+as a word mucking up their lung fluids so that virus was now released into the air by procedures,
+
+376
+00:33:36,800 --> 00:33:42,880
+either intubation or suctioning or whatever else needed to be done, then the R0 factor would be
+
+377
+00:33:42,880 --> 00:33:48,160
+much more than two or three. And the community, because this is a deep pneumonia, it really isn't
+
+378
+00:33:48,160 --> 00:33:53,760
+that contagious. So I think that if we split it up, those 8,000 cases would be an average of two
+
+379
+00:33:53,760 --> 00:33:57,200
+to three with quite a range depending on where the virus was acquired.
+
+380
+00:33:57,840 --> 00:34:04,240
+And I think the other lesson we have to take away from SARS is it gets widely quoted as having a
+
+381
+00:34:04,240 --> 00:34:09,760
+10% mortality rate. But again, how could we possibly say that when we don't know the total
+
+382
+00:34:09,760 --> 00:34:15,600
+number of cases that might be the case fatality rate? I mean, case fatality rate is not that
+
+383
+00:34:15,680 --> 00:34:21,280
+interesting. It's the infection fatality rate that really matters. And it's certainly possible,
+
+384
+00:34:21,280 --> 00:34:27,760
+isn't it, that many more people had it. Even let's say there was five times the number of people who
+
+385
+00:34:27,760 --> 00:34:32,880
+actually had the illness but didn't come down with a severe enough version that they warranted
+
+386
+00:34:32,880 --> 00:34:37,680
+hospitalization or testing. You would all of a sudden say technically the mortality of this is
+
+387
+00:34:37,680 --> 00:34:45,440
+2%, which is still absolutely devastating virus. But it's not the devastation of when you hear 10%
+
+388
+00:34:45,440 --> 00:34:47,920
+mortality. I mean, that's literally like playing Russian roulette.
+
+389
+00:34:48,560 --> 00:34:52,880
+That's a way to think about it. But it was very hard at the time finding patients who are
+
+390
+00:34:52,880 --> 00:34:58,160
+asymptomatic and were infected. So the thinking was that anybody who became infected actually
+
+391
+00:34:58,160 --> 00:35:03,520
+became symptomatic. What you say makes perfect sense. But I'll tell you another story. So the
+
+392
+00:35:03,520 --> 00:35:07,920
+next coronavirus that came upon us was the MERS coronavirus, the Middle East respiratory
+
+393
+00:35:07,920 --> 00:35:14,160
+coronavirus. And this is a disease that's exactly the same, not exactly, but very similar to SARS
+
+394
+00:35:14,160 --> 00:35:21,760
+and being a deep lung disease. This disease, the mortality is billed as 35%. So really terrible.
+
+395
+00:35:22,480 --> 00:35:28,160
+And it's different though. So what you just talked about, the 2002 to 2003 virus that started in a
+
+396
+00:35:28,160 --> 00:35:33,280
+market in Southern China who has the same name as the current virus we're talking about, but we
+
+397
+00:35:33,280 --> 00:35:39,120
+refer to them as SARS-1 and SARS-2, they're in the same beta family, which we didn't really get into.
+
+398
+00:35:39,120 --> 00:35:44,000
+Do you want to take a minute to explain that? Because MERS is a slightly different subdivision
+
+399
+00:35:44,000 --> 00:35:48,880
+of the family. Can you help people understand that nuance? Yeah. So it's all very similar.
+
+400
+00:35:48,880 --> 00:35:54,480
+They're all in the same general group of coronaviruses and within the same subgroup of
+
+401
+00:35:54,480 --> 00:35:59,840
+coronaviruses, but they're slightly different in their genome organization and in some of their
+
+402
+00:35:59,840 --> 00:36:05,360
+coding. So they're put into a separate category. So it's a coronavirus. Before we knew so much
+
+403
+00:36:05,360 --> 00:36:09,520
+about from sequence, they would have been considered the same type of coronavirus,
+
+404
+00:36:09,520 --> 00:36:13,920
+but it's different enough. So we classify it a little differently. What that means is it's a
+
+405
+00:36:13,920 --> 00:36:21,440
+little more distant from the SARS coronavirus. So there's less thinking that one could actually
+
+406
+00:36:21,440 --> 00:36:26,720
+provide immune protection from the other. Though in fact, there's some cross reactivity. MERS
+
+407
+00:36:26,720 --> 00:36:33,280
+coronavirus is recognized in part by SARS coronavirus sera from people who survive. They're close.
+
+408
+00:36:33,280 --> 00:36:37,840
+It's like your third cousin instead of your first cousin. It's pretty close, but not as close.
+
+409
+00:36:38,640 --> 00:36:43,680
+And this will obviously be interesting when we come back to this discussion of cross immunity.
+
+410
+00:36:43,680 --> 00:36:47,200
+And basically that's probably the biggest difference as opposed to a functional
+
+411
+00:36:47,200 --> 00:36:50,640
+difference about the virulence or the potential for virulence, correct?
+
+412
+00:36:50,640 --> 00:36:52,240
+Right. Right.
+
+413
+00:36:52,240 --> 00:36:57,120
+Okay. So again, let's not pick it back up. It's what is it? 2009 when MERS came along?
+
+414
+00:36:57,120 --> 00:37:04,480
+Well, MERS and camels probably came along at least in 1983, but in people it was found in 2012.
+
+415
+00:37:05,120 --> 00:37:11,040
+And that's the earliest cases. There's a few mysteries about MERS coronavirus. Why is it only
+
+416
+00:37:11,040 --> 00:37:16,240
+in the Arabian Peninsula? So tell me about that. Did people, and when I say people, I really mean
+
+417
+00:37:16,240 --> 00:37:19,600
+scientists. I'm sure the population wasn't wondering around thinking about this, but
+
+418
+00:37:19,600 --> 00:37:27,200
+did scientists appreciate that there was a coronavirus in camels in the 80s from the early
+
+419
+00:37:27,200 --> 00:37:33,280
+80s? Was that something appreciated? Nope. This was absolutely not appreciated because in camels,
+
+420
+00:37:33,280 --> 00:37:36,960
+these coronaviruses caused the common cold. Well, they could.
+
+421
+00:37:36,960 --> 00:37:41,040
+So that's why nobody would care. Camel gets a cold. You don't even know. He goes to camel
+
+422
+00:37:41,040 --> 00:37:48,400
+Walgreen and you never hear about him again. So what do we think accounts for the virus
+
+423
+00:37:48,400 --> 00:37:53,360
+jumping quite literally from a camel to a human and call it 2012-ish?
+
+424
+00:37:54,160 --> 00:37:58,960
+We don't know. The virus has been a camel since the 80s and probably earlier,
+
+425
+00:37:58,960 --> 00:38:05,280
+don't look earlier. And we know it doesn't jump in Africa or other parts of Asia. So this is real
+
+426
+00:38:05,280 --> 00:38:10,880
+mystery in this virus. Why is it only in the Arabian Peninsula? When you look at the MERS virus
+
+427
+00:38:10,880 --> 00:38:16,800
+in the camels, it's still the same in the Arabian Peninsula versus other camels?
+
+428
+00:38:17,520 --> 00:38:22,800
+Hard to know. It may be subtly different in parts of Africa where there's no MERS,
+
+429
+00:38:22,800 --> 00:38:27,360
+but we have a lot of trouble saying that those differences account for the fact that there's
+
+430
+00:38:27,360 --> 00:38:32,880
+basically no cases in Africa and you have these cases in Saudi Arabia rising all the time now.
+
+431
+00:38:33,520 --> 00:38:38,240
+And when you say Africa, do you include North Africa? Were there any cases that arose in Egypt
+
+432
+00:38:38,240 --> 00:38:45,120
+or Algeria, Libya, Morocco? Yes. They did not occur in those places? Yeah, yeah. The camels
+
+433
+00:38:45,120 --> 00:38:49,360
+are infected there, but people are not. Oh, wow. Because a lot of people would sort of say, look,
+
+434
+00:38:49,360 --> 00:38:54,240
+I mean, if something happens in Saudi Arabia, it would be just as likely to happen in Iran or
+
+435
+00:38:54,240 --> 00:38:58,800
+Egypt. I mean, even though they're technically belonging to different continents, they're very
+
+436
+00:38:58,800 --> 00:39:03,760
+similar geographically, but you're saying, no, there was a really hard line distinguishing that.
+
+437
+00:39:03,760 --> 00:39:10,560
+And we don't to this day have a sense of what allowed that jump. Yeah, we don't know. The fact
+
+438
+00:39:10,560 --> 00:39:16,480
+is not only occurred in 2012, it's occurring once or twice a week now because people are coming in
+
+439
+00:39:16,480 --> 00:39:22,640
+who actually have no contact with camels and are coming into the hospital with MERS. They often
+
+440
+00:39:22,640 --> 00:39:26,800
+have comorbidities that are older or they might have diabetes, but otherwise they don't even have
+
+441
+00:39:26,800 --> 00:39:31,520
+contact with camel. They have to get it from a camel, but not clear how. So wait a minute.
+
+442
+00:39:31,520 --> 00:39:36,960
+That was my next question. Do we know that it can or cannot spread human to human once a person gets
+
+443
+00:39:36,960 --> 00:39:41,760
+it from its most likely source of transmission, which is a camel? Can one person infect another?
+
+444
+00:39:42,400 --> 00:39:47,120
+Yeah. So this is where the R naught factor becomes important again, because the official number for
+
+445
+00:39:47,120 --> 00:39:54,160
+MERS is somewhere between zero and four. I think outside of hospitals is probably near to 0.35, 0.5,
+
+446
+00:39:54,160 --> 00:40:00,160
+somewhere in that low range. So it means it's not impossible, but all you need is somebody to be
+
+447
+00:40:00,160 --> 00:40:05,600
+infected and happen to infect someone else who's highly susceptible and that highly susceptible
+
+448
+00:40:05,600 --> 00:40:12,240
+person will then appear at the hospital not having had any contact with a camel. And that zero to four,
+
+449
+00:40:12,240 --> 00:40:17,040
+which is such a broad range. I've read that as the official range. It's so broad as to be unhelpful.
+
+450
+00:40:17,040 --> 00:40:22,400
+That's really the camel R naught. That's the spread from camel to human. And then as you said,
+
+451
+00:40:22,400 --> 00:40:29,360
+human to human transmission is probably going to occur in the hospital. And so MERS becomes the
+
+452
+00:40:29,360 --> 00:40:34,880
+scariest of them all just on mortality because the official numbers are basically it killed a third of
+
+453
+00:40:34,880 --> 00:40:41,760
+the people that were infected. It's about almost 900 deaths out of call it 2500 confirmed cases.
+
+454
+00:40:42,480 --> 00:40:50,400
+That's about as scary as any virus, maybe outside of Ebola. But again, the absolute numbers are so
+
+455
+00:40:50,400 --> 00:40:55,280
+low. The transmissibility human to human doesn't seem as high, especially when you
+
+456
+00:40:55,280 --> 00:41:00,240
+consider that the scariest viruses are ones that are transmitted from asymptomatic people, right?
+
+457
+00:41:00,240 --> 00:41:04,960
+Yeah. So this one, like SARS, is mostly transmitted from people who have lung disease already,
+
+458
+00:41:04,960 --> 00:41:09,600
+who have severe lung disease. I don't think the R naught is actually camel to camel. I don't think
+
+459
+00:41:09,600 --> 00:41:14,320
+it takes that into consideration. Rather than what it takes to the consideration is a hospital
+
+460
+00:41:14,320 --> 00:41:20,560
+spread. It's like SARS and some hospitals spread. And that's been basically not stopped completely,
+
+461
+00:41:20,560 --> 00:41:25,360
+because it's my friends in Saudi Arabia say somebody comes in with this disease. We think
+
+462
+00:41:25,360 --> 00:41:30,800
+about it quickly, but we may not think about it in every case quickly enough. So there may be still
+
+463
+00:41:30,800 --> 00:41:35,520
+some spread within the hospital. So nosocomial spread, which you're referring to in hospital
+
+464
+00:41:35,520 --> 00:41:40,880
+spread, is a big problem because you just don't have it on the front of your mind that every
+
+465
+00:41:40,880 --> 00:41:46,080
+person who shows up in respiratory distress could have this. And therefore, A, potentially the
+
+466
+00:41:46,080 --> 00:41:50,000
+healthcare workers themselves can be infected because it's not just the proximity, but it's
+
+467
+00:41:50,000 --> 00:41:54,320
+the type of procedures that are being done. When you put a breathing tube in somebody, you're
+
+468
+00:41:54,320 --> 00:42:00,000
+really creating an effective portal for the virus to get to you. And then obviously we know how
+
+469
+00:42:00,000 --> 00:42:03,280
+infections like that can spread through intensive care units and such.
+
+470
+00:42:04,080 --> 00:42:07,200
+Yeah, that's exactly right. That's exactly why it's a problem.
+
+471
+00:42:07,920 --> 00:42:14,880
+So why did this not turn into even an epidemic within the Arabian Peninsula? I mean,
+
+472
+00:42:14,880 --> 00:42:21,280
+you did mention that we still see a few cases each year, but 2500 confirmed cases directionally
+
+473
+00:42:21,280 --> 00:42:27,440
+makes it not even a sort of an epidemic, really, let alone a pandemic. Why do you think this just
+
+474
+00:42:27,440 --> 00:42:32,480
+wasn't something that spread despite its potential for devastation at the mortality level?
+
+475
+00:42:33,280 --> 00:42:38,560
+Because I think that that R naught of 0.3 really makes it not possible or not likely.
+
+476
+00:42:38,560 --> 00:42:43,120
+There's plenty of cases with murders where people went back to relatively poor country
+
+477
+00:42:43,120 --> 00:42:48,400
+after having been a worker in Saudi Arabia, were found to be infected and infected nobody.
+
+478
+00:42:48,400 --> 00:42:52,480
+So that nobody became ill from that patient, even though they weren't really looked at.
+
+479
+00:42:52,480 --> 00:42:57,040
+That's as opposed to Korea where there's that one patient who infected 186 people.
+
+480
+00:42:57,040 --> 00:43:01,360
+So there was really a confluence of lots of bad luck for that to have occurred.
+
+481
+00:43:02,000 --> 00:43:09,440
+And then going back to SARS-CoV-1, what basically accounts for the eradication of that,
+
+482
+00:43:09,440 --> 00:43:12,000
+call it in 2003, 2004?
+
+483
+00:43:12,800 --> 00:43:17,760
+The combination of there being no reservoir. So it's not like camels, which could continue
+
+484
+00:43:17,760 --> 00:43:23,360
+introducing to human populations. And the fact that because you weren't contagious till you were
+
+485
+00:43:23,360 --> 00:43:27,600
+sick, it was easy to look at somebody and say, oh, that person has SARS. We're going to stick them
+
+486
+00:43:27,680 --> 00:43:32,320
+in a room by himself, take care of him and make sure he infects nobody else.
+
+487
+00:43:32,320 --> 00:43:36,000
+Then you would stop the disease. It's a classic kind of quarantining,
+
+488
+00:43:36,000 --> 00:43:40,560
+identification quarantining that we talk about all the time with COVID-19.
+
+489
+00:43:40,560 --> 00:43:45,200
+But it's really feasible with SARS when you're talking about a total of 8,000 cases around the
+
+490
+00:43:45,200 --> 00:43:51,280
+world. I mean, Stanley, to hear you tell the story this way, it's just it's like a bad movie,
+
+491
+00:43:51,280 --> 00:43:56,960
+because you could be lulled into a false sense of confidence by the time MERS blows over.
+
+492
+00:43:56,960 --> 00:44:02,400
+You can say, hey, OK, I got it. We've got a few of these coronaviruses. They cause a bunch of
+
+493
+00:44:02,400 --> 00:44:06,800
+colds. You get a runny nose in the summer, but it's really nothing. And yeah, it's true. Two
+
+494
+00:44:06,800 --> 00:44:12,960
+really bad actors showed up that on a virus to virus level can really hurt their host.
+
+495
+00:44:12,960 --> 00:44:19,840
+But they're nothing to really be afraid of. In the case of SARS 1, it has two things that make it
+
+496
+00:44:19,840 --> 00:44:25,280
+really friendly to humans. One, it can't bounce back and forth between humans and animals.
+
+497
+00:44:25,280 --> 00:44:31,920
+And two, you don't really spread it. You're very unlikely to spread it if you're not symptomatic.
+
+498
+00:44:31,920 --> 00:44:36,480
+You don't have to shut the world down. But not only that, you get to isolate people when they're
+
+499
+00:44:36,480 --> 00:44:41,920
+sick and treat them before they treat others. So the virus really gave up two big potential
+
+500
+00:44:41,920 --> 00:44:46,640
+superpowers. In the case of MERS, sure, it lives in animals and it's never going to leave those
+
+501
+00:44:46,640 --> 00:44:52,720
+animals. But it has such a poor ability to spread between humans almost under any circumstance,
+
+502
+00:44:52,720 --> 00:44:57,760
+unless you're probably sticking a breathing tube in them, that it was just so easy to contain.
+
+503
+00:44:57,760 --> 00:45:03,280
+If the stories stop there, you'd say coronaviruses are just not a threat to us.
+
+504
+00:45:04,080 --> 00:45:08,560
+Yeah, so I think some people in the field more than me said, well, let's go look at
+
+505
+00:45:08,560 --> 00:45:14,800
+coronaviruses and bats. And so what they did is they found other coronaviruses. And it was
+
+506
+00:45:14,800 --> 00:45:19,200
+actually for scientific reason or a different one than just searching for the viruses. We were
+
+507
+00:45:19,200 --> 00:45:24,640
+trying to figure out where did the SARS coronavirus really begin. So people went and looked at bat
+
+508
+00:45:24,640 --> 00:45:31,920
+colonies throughout a train accident. That's where SARS began and asked, can we find other bats,
+
+509
+00:45:31,920 --> 00:45:37,520
+other bat viruses that are more similar to SARS-CoV than the ones we know about right this minute?
+
+510
+00:45:37,520 --> 00:45:42,640
+Because we could isolate the virus in the wet markets in Wurundjel, but we didn't know where
+
+511
+00:45:42,640 --> 00:45:48,640
+they came from exactly, which kind of bats. And it was just a trick finding it in bats. And so,
+
+512
+00:45:48,640 --> 00:45:55,600
+but while doing that, people found other viruses that could, in theory, enter a human cell by using
+
+513
+00:45:55,600 --> 00:46:02,560
+the same kind of mechanism that SARS-CoV used to enter human cells. So there was some people who
+
+514
+00:46:02,560 --> 00:46:06,320
+were saying, there were a lot of people, some people in the field who were saying, well, we
+
+515
+00:46:06,320 --> 00:46:12,240
+potentially have more of a problem because there may be other ways to infect people. There may be
+
+516
+00:46:12,240 --> 00:46:17,760
+other viruses that can infect people. And so I think there was a concern that this could happen
+
+517
+00:46:17,760 --> 00:46:23,200
+again. And MERS is the same thing. We haven't identified the exact precursor to MERS in bats,
+
+518
+00:46:23,200 --> 00:46:28,400
+but it's clearly viruses that look like the MERS, coronavirus in bats. And so if they were able to
+
+519
+00:46:28,400 --> 00:46:34,400
+use the human receptor and didn't take too much adaptation to infect humans, then you can imagine
+
+520
+00:46:34,400 --> 00:46:39,600
+the same thing occurring with MERS sometimes in the future occurring again with SARS-CoV-like
+
+521
+00:46:39,600 --> 00:46:45,520
+viruses. So you're right, in 2015, we were thinking these viruses really caused bad pneumonia,
+
+522
+00:46:45,520 --> 00:46:51,280
+but it's going to be like influenza H5N1. It's going to have very, very little human to human
+
+523
+00:46:51,280 --> 00:46:58,640
+spread and mostly animal to human spread. Is there a necessary relationship that says
+
+524
+00:46:59,280 --> 00:47:07,120
+the viruses like MERS that are incredibly deadly if you get them, just luck is on our side and
+
+525
+00:47:07,120 --> 00:47:12,800
+they don't have much transmissibility? Or is that simply luck so far? And there's no reason to
+
+526
+00:47:13,600 --> 00:47:18,800
+suggest teleologically that that has to be the case. In other words, you could imagine a scenario
+
+527
+00:47:18,800 --> 00:47:24,560
+where you take something that has the transmissibility of SARS-CoV-2, which we'll get to
+
+528
+00:47:24,560 --> 00:47:29,280
+and explain why it is much more of a headache than SARS-CoV-1 or MERS. If you take the
+
+529
+00:47:29,280 --> 00:47:33,760
+transmissibility of that, which is both and primarily is a factor of the fact that it can
+
+530
+00:47:33,760 --> 00:47:41,440
+spread before you're symptomatic, coupled with the actual pathology of MERS, which I want to contrast
+
+531
+00:47:41,440 --> 00:47:46,640
+with these viruses. I mean, that's a double whammy. You can really get into a dangerous
+
+532
+00:47:46,640 --> 00:47:53,520
+situation. Not that this hasn't been a disaster, but it could be a 5x disaster. Is there anything
+
+533
+00:47:53,520 --> 00:47:58,640
+that tells us that's unlikely because of this feature of the biology of the virus?
+
+534
+00:47:58,640 --> 00:48:03,840
+I don't think there's anything that's unlikely. I don't think there's anything about the feature of
+
+535
+00:48:03,840 --> 00:48:09,200
+the virus. I think about this as SARS-CoV-2 being a mixture of the common cold coronavirus
+
+536
+00:48:09,840 --> 00:48:15,360
+and then a mixture of either SARS or MERS coronavirus in the lungs. That's why you have
+
+537
+00:48:15,360 --> 00:48:19,920
+the transmissibility and the severe disease because it does both. When you think about other
+
+538
+00:48:19,920 --> 00:48:26,560
+bad diseases, like even the epidemic flu in 1918, that really did about the same thing. It was very,
+
+539
+00:48:26,560 --> 00:48:32,240
+very, very transmissible and it killed about a few percent of the people infected. But if you infect
+
+540
+00:48:32,240 --> 00:48:38,400
+everybody and you kill 3% or 4%, you're killing a lot of people. That's what this virus is doing
+
+541
+00:48:38,480 --> 00:48:45,200
+also because it's transmissible so readily because it behaves like a common cold coronavirus. That
+
+542
+00:48:45,200 --> 00:48:50,800
+rate of lethality is not super high, but the denominator is so huge that you have a lot of
+
+543
+00:48:50,800 --> 00:48:56,320
+people dying from it. Is there something about the pathology of this virus? How does it differ?
+
+544
+00:48:56,320 --> 00:49:02,000
+I mean, when you think about SARS-1 and MERS, that let's just say directionally those numbers
+
+545
+00:49:02,000 --> 00:49:06,400
+are right in terms of the denominator wasn't bigger than we think and you're killing basically
+
+546
+00:49:06,400 --> 00:49:12,320
+1 in 10 or 1 in 3 people infected. What did the virus actually do in the lungs that would render
+
+547
+00:49:12,320 --> 00:49:18,400
+people so helpless? Yeah, I think it's the same thing that SARS-CoV-2 does in the lungs. In those
+
+548
+00:49:18,400 --> 00:49:23,360
+people who get severe disease, I think we don't really understand what's going on. We think that
+
+549
+00:49:23,360 --> 00:49:28,000
+there's lots of virus in the lungs and we think there's a very strong and probably inappropriate
+
+550
+00:49:28,000 --> 00:49:34,240
+immune response that's causing much of the damage that we see in lungs. It's a combination of those
+
+551
+00:49:34,240 --> 00:49:38,480
+two features. That's why people are, from the beginning with SARS, people are trying to figure
+
+552
+00:49:38,480 --> 00:49:45,600
+out a way to both limit virus replication and also decrease the host immune response so that you
+
+553
+00:49:45,600 --> 00:49:51,680
+don't have this extra result of an exuberant immune response. Do the other two viruses,
+
+554
+00:49:51,680 --> 00:49:57,360
+SARS-1 and MERS, do they also gain entry through the ACE2 receptor or did they use a different
+
+555
+00:49:57,360 --> 00:50:03,600
+receptor to enter the pneumocyte? Well, SARS uses the same receptor. MERS uses a different
+
+556
+00:50:03,600 --> 00:50:08,400
+receptor. One thing that's really curious is SARS doesn't affect the upper airway to an appreciable
+
+557
+00:50:08,400 --> 00:50:13,680
+extent even though it uses the same receptor. There's also one of the common cold coronaviruses,
+
+558
+00:50:13,680 --> 00:50:19,840
+NO63, uses ACE2 only affects the upper airway and doesn't affect the lungs to any appreciable extent.
+
+559
+00:50:20,400 --> 00:50:24,880
+And that could also account for the change in transmissibility because if you are only
+
+560
+00:50:24,880 --> 00:50:31,040
+infecting the lower airway, you're probably less transmissible than SARS-CoV-2, which can infect
+
+561
+00:50:31,040 --> 00:50:37,680
+both. Exactly, exactly. That's why SARS was not so contagious because it only stayed in the deep
+
+562
+00:50:37,680 --> 00:50:43,280
+lungs until you went to the hospital and had that tube put down for breathing or some other procedure done.
+
+563
+00:50:44,160 --> 00:50:52,080
+So do you think that SARS-1 and MERS were so much more lethal than SARS-2 because they elicited a
+
+564
+00:50:52,160 --> 00:50:57,680
+greater immune response once they infected the lung or because they caused greater pneumocyte
+
+565
+00:50:57,680 --> 00:51:02,640
+damage when they infected the lung? I think that it's actually because they all cause the same
+
+566
+00:51:02,640 --> 00:51:07,920
+amount of damage or pretty similar, but you have this huge denominator in SARS-CoV-2 if people have
+
+567
+00:51:07,920 --> 00:51:13,360
+mild disease. So I think that it's one way to look at these numbers and this is not a perfect
+
+568
+00:51:13,360 --> 00:51:19,760
+calculation, but if you have with SARS-CoV and MERS-CoV, there were 100 people infected, they all get
+
+569
+00:51:19,760 --> 00:51:26,880
+some variation in pneumonia, and you have a certain mortality rate ranging from 10% to 30%.
+
+570
+00:51:27,440 --> 00:51:34,240
+SARS-CoV-2, of those 100 people, maybe 20 of them are going to get the lung disease, the other 18
+
+571
+00:51:34,240 --> 00:51:39,680
+are going to be asymptomatic, subclinical, have a cold, have something in the upper respiratory tract.
+
+572
+00:51:39,680 --> 00:51:46,720
+If you now take that 20% as your denominator and divide the 6% mortality that we're seeing,
+
+573
+00:51:46,800 --> 00:51:53,520
+the 5% mortality, I don't know what the number is exactly, but let's say 5% by 20%, you have a 25%
+
+574
+00:51:53,520 --> 00:51:58,720
+mortality, which is near the SARS and MERS. So just let me make sure I understand that.
+
+575
+00:51:58,720 --> 00:52:04,080
+Are you saying it's more the law of large numbers and we have such a big denominator with SARS-CoV-2
+
+576
+00:52:04,080 --> 00:52:09,040
+that you're going to normalize more or are you comparing case fatality to case fatality,
+
+577
+00:52:09,040 --> 00:52:14,800
+whereas I'm thinking of it as the IFR as opposed to the CFR for SARS? Because I think the IFR
+
+578
+00:52:15,360 --> 00:52:21,520
+of SARS-CoV-2 is very population dependent, but I think it's much closer to 1% to 2%
+
+579
+00:52:22,480 --> 00:52:27,120
+than the initial numbers that people feared of 5% to 10%, which would put it more in the
+
+580
+00:52:27,120 --> 00:52:32,160
+ballpark of SARS-2. That's the way I used to think about it when this first started.
+
+581
+00:52:32,160 --> 00:52:37,920
+In January and February, the mortality rate was 2.8%. And now if you look at anything official,
+
+582
+00:52:37,920 --> 00:52:42,960
+it's near to 5% to 6%. So what you say makes perfect sense, it should be near to 1% to 2%,
+
+583
+00:52:43,760 --> 00:52:49,200
+but it's been hard to prove that by all the official numbers. So what I was saying more is
+
+584
+00:52:49,200 --> 00:52:56,880
+that if the mortality rate in SARS and MERS out of everybody who was sick all had pneumonia,
+
+585
+00:52:57,440 --> 00:53:04,320
+and of those people some number died, and SARS-CoV-2, if only one out of five people or less
+
+586
+00:53:04,320 --> 00:53:10,880
+actually get pneumonia, then the fraction that died, if you use that same fraction who died
+
+587
+00:53:10,880 --> 00:53:16,960
+over that 20%, you basically are multiplying your number by five. So if your number is 5%,
+
+588
+00:53:16,960 --> 00:53:23,520
+then it goes up to 25%, if it's 3%, it goes up to 15%. So where we are exactly, I don't know, but
+
+589
+00:53:23,520 --> 00:53:28,720
+it may be that the upper transmission is the readily transmissibility of the virus is what's
+
+590
+00:53:28,720 --> 00:53:33,920
+really making the numbers so huge, and that everything else is doing is consistent with
+
+591
+00:53:33,920 --> 00:53:39,600
+what SARS and MERS did if you confine yourself to just looking at the lower respiratory tract disease.
+
+592
+00:53:40,560 --> 00:53:44,240
+Now this is something that might be a little bit outside of what you've studied, but I'll ask
+
+593
+00:53:44,240 --> 00:53:50,960
+anyway. One of the lingering questions, there are so many that I have, comes down to the survivors.
+
+594
+00:53:50,960 --> 00:53:55,680
+I mean, obviously we think a lot about the mortality of this, but if you take a person
+
+595
+00:53:55,680 --> 00:54:00,400
+who gets infected, and they're not asymptomatic, so we know that a lot of people kind of don't even
+
+596
+00:54:00,400 --> 00:54:04,800
+know they've got SARS-CoV-2, and the only reason you figure it out is after the fact serologic
+
+597
+00:54:04,880 --> 00:54:10,320
+analysis tells us that they did. But there's a non-trivial amount of people who get sick as hell,
+
+598
+00:54:10,320 --> 00:54:15,840
+and they get what they would describe as the worst cold of their life. I have at least two friends I
+
+599
+00:54:15,840 --> 00:54:21,520
+can think of in this situation who three months later can barely run a nine minute mile again,
+
+600
+00:54:21,520 --> 00:54:27,520
+and they're slowly getting back in shape. When I did a quick check on this, looking at the SARS,
+
+601
+00:54:27,520 --> 00:54:34,080
+MERS patient follow-up data, I didn't find a heck of a lot that told me about long-term lung function.
+
+602
+00:54:34,160 --> 00:54:37,680
+Do you know much about this? And I would imagine that there's now more of an interest to go back
+
+603
+00:54:37,680 --> 00:54:41,760
+and assess that than there was three months ago when I tried to look this up.
+
+604
+00:54:41,760 --> 00:54:46,160
+Yeah, even before this all occurred, I asked my friends in Saudi Arabia about follow-up on the
+
+605
+00:54:46,160 --> 00:54:52,480
+MERS patients, and I could never get information as to what exactly was going on. I suspect that
+
+606
+00:54:52,480 --> 00:54:59,520
+they had problems, whether they be forever or a few months is unclear, especially since your
+
+607
+00:54:59,520 --> 00:55:05,120
+friends were younger and fitter. In MERS, particularly MERS, if it's mostly older people,
+
+608
+00:55:05,120 --> 00:55:10,720
+people with diabetes, people who have comorbidities, they may take them longer to get back to base
+
+609
+00:55:10,720 --> 00:55:16,320
+or fine. It's probably not going to be running miles. I suspect it'll take a while to get back.
+
+610
+00:55:16,320 --> 00:55:21,680
+I don't know how much fibrosis was at the end of it all, how much permanent damage there was.
+
+611
+00:55:21,680 --> 00:55:26,880
+I suspect that there was a fair bit, but you always have, you know, at Kinsaurus, people
+
+612
+00:55:26,880 --> 00:55:32,000
+always talk about neurological disease without actually ever finding the virus in the brain.
+
+613
+00:55:32,000 --> 00:55:37,840
+And then it was attributed to being on ventilators and corticosteroids for long periods of time,
+
+614
+00:55:37,840 --> 00:55:42,640
+contributing to cognitive dysfunction. And occasionally, the virus was in the brain.
+
+615
+00:55:42,640 --> 00:55:47,520
+So it's all a mix that's hard to really sort out what the major components are,
+
+616
+00:55:47,520 --> 00:55:50,240
+because there's several things that contribute to the outcomes.
+
+617
+00:55:50,800 --> 00:55:56,640
+Well, based on your knowledge of coronaviruses and your knowledge, in particular, their impact on the
+
+618
+00:55:56,720 --> 00:56:03,040
+brain, do you think that there are plausible mechanisms by which, even for those who recover
+
+619
+00:56:03,040 --> 00:56:10,560
+from SARS, there could be lasting neurologic impact that is not the byproduct of hypoxia
+
+620
+00:56:10,560 --> 00:56:16,800
+or vent head, pump head, any of the other more mechanical or other physiologic accounts? In
+
+621
+00:56:16,800 --> 00:56:20,160
+other words, do you believe that there is a plausible scenario by which the virus
+
+622
+00:56:20,720 --> 00:56:25,200
+could have residual neurologic value? We can't find any evidence in the virus
+
+623
+00:56:25,840 --> 00:56:29,840
+in the brain that it seems less likely that it's direct virus infection.
+
+624
+00:56:29,840 --> 00:56:31,360
+What about an immune response?
+
+625
+00:56:31,360 --> 00:56:35,360
+Yeah, that's what I was going to say. If you take a disease like Kawasaki's in children,
+
+626
+00:56:35,360 --> 00:56:40,880
+we know that that's a disease that is mediated by some sort of immune response. We don't know
+
+627
+00:56:40,880 --> 00:56:47,120
+who it seems here, like COVID-19 is somehow provoking this response in this very, very small
+
+628
+00:56:47,120 --> 00:56:52,960
+subset of children. That certainly leads to consequences in the heart, long term consequences
+
+629
+00:56:52,960 --> 00:56:59,120
+or it can. You can certainly imagine scenarios like that. How often this occurs and what's going
+
+630
+00:56:59,120 --> 00:57:07,280
+on exactly, I don't think we know. Between the resolution, so to speak, of MERS and where we were,
+
+631
+00:57:07,280 --> 00:57:13,840
+call it a year ago today, Stanley, where was your head at with respect to the big one? Were you in
+
+632
+00:57:13,840 --> 00:57:18,000
+the camp that said, yeah, I've carved out a pretty nice niche here. I'm going to be studying
+
+633
+00:57:18,000 --> 00:57:22,240
+coronaviruses forever. Or was there a part of you that said, this is a threat to national security,
+
+634
+00:57:22,240 --> 00:57:26,480
+to the world. There's a pandemic brewing here. How did you think this could unfold?
+
+635
+00:57:27,040 --> 00:57:30,960
+I certainly wasn't smart enough to predict that there was going to be a pandemic. As I said,
+
+636
+00:57:30,960 --> 00:57:35,360
+some of my friends were worried about additional infections in humans. I don't know that anyone
+
+637
+00:57:35,360 --> 00:57:41,120
+would have predicted a pandemic like this one. I want to pause you there for a second. Why?
+
+638
+00:57:42,160 --> 00:57:46,080
+Not that I did, but I want to push on that for a moment. All the ingredients were there.
+
+639
+00:57:46,080 --> 00:57:52,160
+I was going to say is that Department of Defense in 2010 or 11 put out a report about possible
+
+640
+00:57:52,240 --> 00:57:57,040
+emerging viruses as being really the major threat. Coronaviruses were on that list.
+
+641
+00:57:57,040 --> 00:58:02,720
+Bill Gates talked about this. It's become a very well-known TED talk that is painful to watch now
+
+642
+00:58:02,720 --> 00:58:10,080
+because of how accurate it was. You have these two examples of viruses that have enormous potential
+
+643
+00:58:10,080 --> 00:58:16,720
+to cause harm, but fortunately for us at the time, they just don't spread well. A few tweaks, i.e.,
+
+644
+00:58:17,280 --> 00:58:23,920
+infection of the upper respiratory tract and a slower onset to symptoms would easily double
+
+645
+00:58:23,920 --> 00:58:30,320
+your R naught. Fair enough. I'm joking, of course. I'm joking on you guys for not thinking this could
+
+646
+00:58:30,320 --> 00:58:36,880
+happen. Let's fast forward now to when did you first hear about the outbreak in China? I'm
+
+647
+00:58:36,880 --> 00:58:41,520
+assuming it was early December, late November? No, I don't think it started quite that early.
+
+648
+00:58:41,520 --> 00:58:46,080
+I would say late December. The first official cases were in December. We think there may have
+
+649
+00:58:46,080 --> 00:58:51,120
+been some in November, but I think that the people in China, scientists and doctors in China,
+
+650
+00:58:51,120 --> 00:58:55,920
+knew something was going on in December. Then it was eventually reported very early January.
+
+651
+00:58:56,640 --> 00:59:01,760
+I think we knew a few weeks early, but even then we didn't really know how much human-to-human
+
+652
+00:59:01,760 --> 00:59:06,080
+transmission there was. Now, I have to say that at the time, given the number of cases, we should
+
+653
+00:59:06,080 --> 00:59:11,760
+have guessed that something unusual was going on. But to the SARS epidemic, we had these cases and
+
+654
+00:59:11,840 --> 00:59:17,280
+lots of people were infected. We didn't really know how the spread was occurring. At the time,
+
+655
+00:59:17,280 --> 00:59:25,120
+by early January or mid-January, we had 800 cases in the world. It didn't seem to be extraordinarily
+
+656
+00:59:25,120 --> 00:59:30,240
+different from these other viruses. Maybe if we had had more information about what was going on
+
+657
+00:59:30,240 --> 00:59:35,040
+in Wuhan, we would have realized, aha, this is doing something that's different than what SARS
+
+658
+00:59:35,040 --> 00:59:42,400
+and MERS did, but we didn't have that information. When did it become clear to you personally that
+
+659
+00:59:42,960 --> 00:59:47,120
+this was going to be a much bigger problem than SARS and MERS ever were?
+
+660
+00:59:48,000 --> 00:59:51,920
+Funny you ask that because I remember in December when we really didn't know anything about human-to-
+
+661
+00:59:51,920 --> 00:59:56,560
+human transmission. I spoke to my friends in China and I got off the phone and told my wife,
+
+662
+00:59:56,560 --> 01:00:01,200
+this is a big deal. So I'm not sure what I was basing that on because it wasn't so much evidence
+
+663
+01:00:01,200 --> 01:00:05,760
+of human-to-human transmission. It was pretty clear to me then that this was going to be a
+
+664
+01:00:05,760 --> 01:00:11,040
+major problem. At that time, could you have predicted it would have been this big an issue?
+
+665
+01:00:11,600 --> 01:00:18,800
+I don't think so. Mostly because all the previous diseases had remained geographically confined.
+
+666
+01:00:18,800 --> 01:00:23,840
+So SARS was really a disease in China with a little spread around the world. MERS was really
+
+667
+01:00:23,840 --> 01:00:29,760
+a disease in the Arabian Peninsula with that one case in spreading, infecting several people in
+
+668
+01:00:29,760 --> 01:00:35,920
+Korea. But this one, maybe the dynamics of everything are so different. People spread
+
+669
+01:00:35,920 --> 01:00:40,800
+travel from Wuhan much more frequently because people have more money. So they fly more, they
+
+670
+01:00:40,800 --> 01:00:46,080
+take the train more. So that helped to spread a lot. Then of course this is transmissible.
+
+671
+01:00:46,080 --> 01:00:50,720
+The other thing is that we had gone through some of this with H5N1. So in the late 1990s,
+
+672
+01:00:50,720 --> 01:00:55,120
+people were saying, all we need to do is have this be transmittable and it'd be a disaster
+
+673
+01:00:55,120 --> 01:00:58,720
+because we don't really have good immune responses to it. And it never happened.
+
+674
+01:00:59,200 --> 01:01:05,600
+So yeah, what happened in 2009 with H5N1? Because the skeptics would say, hey, we don't need to
+
+675
+01:01:05,600 --> 01:01:10,880
+worry about this SARS-CoV-2. The last time we cried that the sky was falling, it didn't fall.
+
+676
+01:01:11,600 --> 01:01:18,560
+Right. So that was H1N1 in 2009. And that started off as a lethal disease. It was identified in
+
+677
+01:01:18,560 --> 01:01:24,240
+Mexico. It seemed to have a high lethality, but it's more cases became clear, identified. It's
+
+678
+01:01:24,240 --> 01:01:28,240
+clear that it didn't. It just was lots of cases and very little mortality.
+
+679
+01:01:28,320 --> 01:01:30,160
+It was basically influenza.
+
+680
+01:01:30,160 --> 01:01:35,200
+It was influenza. It was just a variant of influenza. There wasn't H5N1, which causes
+
+681
+01:01:35,200 --> 01:01:36,880
+a severe pneumonia.
+
+682
+01:01:36,880 --> 01:01:39,280
+H5N1 is the 1919?
+
+683
+01:01:39,280 --> 01:01:45,520
+No, H5N1 is the one that's never made it to a human population to an appreciable extent.
+
+684
+01:01:46,400 --> 01:01:47,120
+Pure swine.
+
+685
+01:01:47,840 --> 01:01:52,640
+Yeah, it's mostly pigs and birds, but it kills birds and most food doesn't kill birds.
+
+686
+01:01:52,640 --> 01:01:58,080
+So the concern was that it would change to infect, to be transmissible human to human,
+
+687
+01:01:58,080 --> 01:02:04,640
+but it never did. So the same thing with thinking about coronaviruses. They hadn't done this so far.
+
+688
+01:02:04,640 --> 01:02:09,360
+We certainly thought they could do it. But this is an interesting question that's, how do you
+
+689
+01:02:09,360 --> 01:02:15,520
+prepare for a pandemic that you don't have? Because it's something I've been asked about and
+
+690
+01:02:15,520 --> 01:02:22,240
+thought about. So you're sitting there in 2005 and SARS goes away. How do you decide what kind
+
+691
+01:02:22,240 --> 01:02:27,600
+of resources you're going to put developing antivirals, developing vaccines against SARS,
+
+692
+01:02:27,600 --> 01:02:29,600
+a disease that doesn't exist anymore?
+
+693
+01:02:29,600 --> 01:02:35,920
+The way the American system is set up for this, if you have a good idea and you propose to the NIH,
+
+694
+01:02:35,920 --> 01:02:39,680
+you have a good chance of getting funding. But on the other hand, if you're competing against
+
+695
+01:02:39,680 --> 01:02:45,280
+other grants that make more compelling arguments for funding and deal with diseases that are
+
+696
+01:02:45,280 --> 01:02:50,320
+actually present, they're going to look better to a study section. So you have to figure out a way
+
+697
+01:02:50,320 --> 01:02:56,080
+to identify a disease that could be a problem without going overboard and using lots of
+
+698
+01:02:56,080 --> 01:02:58,880
+resources for diseases that never will be a problem.
+
+699
+01:02:58,880 --> 01:03:02,960
+I mean, it seems that you'd want to structure it in a way that says, look, there are some
+
+700
+01:03:03,680 --> 01:03:10,080
+no regret moves here for any viral infection. And then there are some things that are going
+
+701
+01:03:10,080 --> 01:03:16,640
+to be very specific. So for example, not that this is an NIH question, but what would a national
+
+702
+01:03:16,640 --> 01:03:23,760
+stockpile of PPE need to look like? What would an electronic infrastructure for contact tracing
+
+703
+01:03:23,760 --> 01:03:34,080
+need to look like? What would a national stash of reagents to develop serologic and PCR testing need
+
+704
+01:03:34,080 --> 01:03:38,960
+to look like? So we don't know what the gene sequence is, but the moment we know the gene sequence,
+
+705
+01:03:38,960 --> 01:03:46,240
+wouldn't it be great if we could hit go and actually deliver a million tests a day and not
+
+706
+01:03:46,240 --> 01:03:50,960
+talk about it for three months and not do it? Those strike me as just a no regret moves. You
+
+707
+01:03:50,960 --> 01:03:56,240
+don't need to know a single thing about what's coming other than it is infectious. It's the
+
+708
+01:03:56,240 --> 01:04:01,280
+little stuff. It's the nasal swabs. It's the reagents. It's all the stuff I just said and about
+
+709
+01:04:01,280 --> 01:04:06,160
+20 other things I've been thinking about that kind of I really hope that when this is said and done,
+
+710
+01:04:06,160 --> 01:04:10,720
+this doesn't get forgotten because it's not a staggering investment. When you consider what
+
+711
+01:04:10,800 --> 01:04:16,560
+we spend on health care and defense, which are disproportionate to any other country by a log
+
+712
+01:04:16,560 --> 01:04:23,120
+order and oftentimes by two log orders per capita, you put a few billion dollars into this type of
+
+713
+01:04:23,120 --> 01:04:29,280
+resource and you consider it more vital than you would consider our national surplus of oil or
+
+714
+01:04:29,280 --> 01:04:34,640
+other things. For example, most people I would assume know this, but if not, we keep an enormous
+
+715
+01:04:34,640 --> 01:04:40,960
+supply of oil on hand. If the world shut down and we couldn't get a drop of oil from anyone in the
+
+716
+01:04:40,960 --> 01:04:45,360
+world, we would at least have, I don't know, I don't remember these stats, but probably a 60 to 90
+
+717
+01:04:45,360 --> 01:04:51,600
+day supply of complete independence on oil, maybe more than that. And that's just a national defense
+
+718
+01:04:51,600 --> 01:04:56,480
+imperative. So this should easily be in that front. The other thing on the therapeutic side, I would
+
+719
+01:04:56,480 --> 01:05:03,440
+say is don't we already have enough evidence to suggest that at least one avenue to treatment
+
+720
+01:05:03,440 --> 01:05:08,560
+is immune modulating therapy. So maybe not antiviral because that can be quite specific,
+
+721
+01:05:08,560 --> 01:05:13,440
+but all of these diseases have an enormous component of an overactive immune response,
+
+722
+01:05:13,440 --> 01:05:19,840
+which we'll discuss. And therefore having a huge stockpile of immune modulating drugs to be
+
+723
+01:05:19,840 --> 01:05:26,080
+appropriately dosed also strikes me as a no brainer, right? Yeah, yeah. No, you could argue that. I'm
+
+724
+01:05:26,080 --> 01:05:32,320
+not sure that these diseases are all the same in terms of the cytokine storm type activity, but
+
+725
+01:05:32,320 --> 01:05:38,720
+they may be close enough so that your point is well taken. They are similar enough so that
+
+726
+01:05:38,720 --> 01:05:43,840
+that would be a reasonable thing to do to have those on hand. I think that's what Bill Gates was
+
+727
+01:05:43,840 --> 01:05:49,200
+probably talking about more than specific drugs against specific viruses, because you don't really
+
+728
+01:05:49,200 --> 01:05:54,320
+know those so well. Think about it. So the whole stuff with ventilators and all that, that was
+
+729
+01:05:54,320 --> 01:06:00,640
+really poorly done. Testing, I think once we know, you're right about nasopharyngeal swaps and
+
+730
+01:06:00,640 --> 01:06:05,920
+mechanics of being able to do the testing. The actual identification of targets for like R2P4
+
+731
+01:06:06,960 --> 01:06:12,400
+are not that hard. I mean, that probably took four days to figure out. But it took longer to scale
+
+732
+01:06:12,400 --> 01:06:16,080
+up. I mean, I think that's the point, right? It's not no, I mean, the virus was sequenced
+
+733
+01:06:16,080 --> 01:06:21,440
+in January 11th or 12th, wasn't it? Yeah, yeah. Early in that, actually. It's just scaling up
+
+734
+01:06:21,440 --> 01:06:26,720
+the ability to do testing. So anybody who says, well, come on, it would be crazy to have $3
+
+735
+01:06:26,720 --> 01:06:32,320
+billion invested in that on the off chance that the virus doesn't even make it out of China.
+
+736
+01:06:32,320 --> 01:06:36,240
+To which the answer would be, did you look at what happened to the US economy? It's called a hedge.
+
+737
+01:06:36,240 --> 01:06:43,040
+This is what sophisticated companies do. Sophisticated companies hedge their bets. And if the answer is,
+
+738
+01:06:43,040 --> 01:06:48,560
+every time a really scary virus emerges in China, we have to spend $3 billion to be ready for it to
+
+739
+01:06:48,560 --> 01:06:54,080
+land here. But guess what? We don't have to shut our economy down as a result. We can instead
+
+740
+01:06:54,080 --> 01:06:58,560
+mitigate 90% of that damage. I mean, it's the wisest investment that could ever be made.
+
+741
+01:06:59,120 --> 01:07:02,640
+But I'll get off the soapbox now because nobody wants to hear me rant about that stuff. I want
+
+742
+01:07:02,640 --> 01:07:08,160
+to get back to kind of the interesting biology on this stuff. So let's now go back and talk about
+
+743
+01:07:08,160 --> 01:07:14,160
+these four viruses that cause us nothing more than nuisance when we get colds. Do they have any
+
+744
+01:07:14,160 --> 01:07:18,400
+seasonal variability to them, by the way? Are they winter viruses, summer viruses, or does it matter?
+
+745
+01:07:18,960 --> 01:07:23,920
+They tend to not be summer viruses, and they tend to be more winter, early spring viruses.
+
+746
+01:07:23,920 --> 01:07:27,760
+What determines that, by the way? Is that simply a function of being close to each other in the
+
+747
+01:07:27,760 --> 01:07:30,960
+winter and spreading it, or is it actually a property of the virus?
+
+748
+01:07:30,960 --> 01:07:35,040
+Yeah, we used to think it was that, but as we know more, I don't know the answer to that. I know
+
+749
+01:07:35,040 --> 01:07:40,640
+that some of these respiratory viruses are more active in the late fall, winter, and others in
+
+750
+01:07:40,640 --> 01:07:44,720
+the winter, early spring. And I don't know why there's a difference. I don't think anyone else
+
+751
+01:07:44,720 --> 01:07:48,800
+really knows either. We know these viruses are usually happier when it's a little cooler and a
+
+752
+01:07:48,800 --> 01:07:53,840
+little drier. But that wouldn't explain why one virus did well in November, and another one did
+
+753
+01:07:53,840 --> 01:08:02,960
+better in March. Interesting. And then from an immune response, why is it that these viruses
+
+754
+01:08:02,960 --> 01:08:08,480
+haven't basically become irrelevant in the sense that we all eventually get them and we all develop
+
+755
+01:08:08,480 --> 01:08:13,360
+immunity and we're sort of done? That's really the question about all common cold viruses, whether
+
+756
+01:08:13,360 --> 01:08:18,960
+they be Corona or otherwise. So why do you actually get reinfected? I don't think we understand it very
+
+757
+01:08:18,960 --> 01:08:24,400
+well. We know that there's an antibody response to these viruses. It seems to wane. It goes away.
+
+758
+01:08:24,400 --> 01:08:29,840
+We know that you need a specific kind of antibody, the IgA response, that seems to help. We don't
+
+759
+01:08:29,840 --> 01:08:35,600
+have that much information about IgA responses. They seem to wane as well. The T-cell response is
+
+760
+01:08:35,600 --> 01:08:40,080
+the other part of the immune system that you mentioned earlier. We don't know that much about
+
+761
+01:08:40,080 --> 01:08:45,520
+the T-cell response in common cold coronaviruses. Before all this began, we didn't think that was a
+
+762
+01:08:45,520 --> 01:08:50,720
+big deal because common colds usually go away in a few days before you actually have a T-cell response.
+
+763
+01:08:51,360 --> 01:08:57,440
+So we don't know why things will, why virus immunity wanes. We know there's such huge differences.
+
+764
+01:08:57,440 --> 01:09:04,240
+Smallpox you can detect and people had smallpox in 1918, 1995, they still had antibody responses
+
+765
+01:09:04,240 --> 01:09:09,680
+that were measurable. Here we have these common cold coronaviruses a year later. They've waned
+
+766
+01:09:09,760 --> 01:09:14,480
+and a couple of years later, they're probably almost gone. So we don't really understand that.
+
+767
+01:09:14,480 --> 01:09:21,600
+That's really a key question. And it both impacts the ability to people to be reinfected by SARS-CoV-2.
+
+768
+01:09:21,600 --> 01:09:26,640
+It impacts the vaccine responses and impacts general herd immunity as we try to get rid of
+
+769
+01:09:26,640 --> 01:09:32,480
+this virus. So really important for not knowing. There probably hasn't been a case of a coronavirus
+
+770
+01:09:32,480 --> 01:09:36,880
+before where we've cared enough about herd immunity to talk about it. But do you mind
+
+771
+01:09:36,880 --> 01:09:39,920
+explaining to folks what you're talking about with herd immunity, specifically with respect
+
+772
+01:09:39,920 --> 01:09:45,120
+to SARS-CoV-2 and what it means? Well, herd immunity is really the other side of what you
+
+773
+01:09:45,120 --> 01:09:51,360
+were talking about, the R-naught factor. So if the herd immunity means if you have a virus that's
+
+774
+01:09:51,360 --> 01:09:57,360
+extremely contagious for people who are susceptible to be protected from the infection, you have to
+
+775
+01:09:57,360 --> 01:10:03,040
+have most of the people around them be resistant to the virus. So to put this in a different context,
+
+776
+01:10:03,040 --> 01:10:08,480
+if somebody who's infected with whether it be SARS-CoV-2 or measles or anything else comes into
+
+777
+01:10:08,480 --> 01:10:14,080
+a room and they're spreading virus, the virus is going to land in various places. Some of it will
+
+778
+01:10:14,080 --> 01:10:19,920
+land on the floor. Some of it might land on somebody's hands and could in theory infect that
+
+779
+01:10:19,920 --> 01:10:25,440
+person. But if that person is immune to the virus, then it doesn't matter. The virus can land in that
+
+780
+01:10:25,440 --> 01:10:30,160
+person's hands and then that person can touch his face, but he won't get infected or he won't get
+
+781
+01:10:30,160 --> 01:10:36,400
+disease anyway. But if the person is susceptible, then he will. So then if that person is susceptible,
+
+782
+01:10:36,400 --> 01:10:40,960
+he could then spread it to other people in this proverbial large room if they all stayed together
+
+783
+01:10:40,960 --> 01:10:46,240
+for several days. Now, if you take a situation where you have an extremely contagious virus,
+
+784
+01:10:46,240 --> 01:10:51,680
+so in that room of 100 people, I was saying before with measles, if five of them are susceptible,
+
+785
+01:10:51,680 --> 01:10:57,520
+the virus might spread to 25, 30 people from that one susceptible person. And then if that 5%,
+
+786
+01:10:58,160 --> 01:11:04,000
+maybe one or more of those people will become infected. If you have a virus like SARS-CoV-2,
+
+787
+01:11:04,000 --> 01:11:09,600
+which has a lower R0 factor than at that same 100 people, if their five are susceptible,
+
+788
+01:11:09,600 --> 01:11:15,360
+the odds are it will not get to the point of infecting one of those five people. So herd
+
+789
+01:11:15,360 --> 01:11:21,760
+immunity is that ratio, the fraction of people who are immune to a disease. For measles, the number
+
+790
+01:11:21,760 --> 01:11:29,280
+is said to be 95%. If you don't have that 95%, then measles can infect people who are susceptible.
+
+791
+01:11:29,280 --> 01:11:35,120
+For most common viruses, it's around 60 or 70%. So that's the number that people are really
+
+792
+01:11:35,840 --> 01:11:42,640
+looking at in terms of immunization or infection with SARS-CoV-2 to protect the general population.
+
+793
+01:11:42,640 --> 01:11:47,600
+It's not the same as being immunized or having the previous infection. You're still susceptible,
+
+794
+01:11:47,680 --> 01:11:52,320
+but it just means that it's much more likely the virus won't spread. And if you get sick,
+
+795
+01:11:52,320 --> 01:11:57,600
+it's unlikely you'll spread it to that 30% of the population that has never seen the virus.
+
+796
+01:11:57,600 --> 01:12:05,040
+So that's why it matters. Yeah. And there's a very non-linear but monotonic inverse relationship
+
+797
+01:12:05,040 --> 01:12:08,640
+between R0 and herd immunity, which I can't believe I actually just said all that. It's
+
+798
+01:12:08,640 --> 01:12:16,160
+basically math speak for the higher the R0, the higher the need for herd immunity,
+
+799
+01:12:16,160 --> 01:12:21,520
+but the relationship gets there non-linearly. I don't have a non-math way to say that,
+
+800
+01:12:21,520 --> 01:12:26,480
+but the example you gave is a good one, which is, and I said inverse, it's actually not inverse,
+
+801
+01:12:26,480 --> 01:12:32,720
+it's direct. The R0 for measles is very high and the herd immunity threshold is very high, 95%.
+
+802
+01:12:33,840 --> 01:12:40,720
+Going down to an R0 of two to three, you have a herd immunity threshold of 60 to 70%. Now,
+
+803
+01:12:40,720 --> 01:12:47,520
+do you believe that based on everything we know today, and that includes potentially there being
+
+804
+01:12:47,520 --> 01:12:52,800
+many more asymptomatic people who are infected and who have gotten over the infection than we
+
+805
+01:12:52,800 --> 01:12:56,880
+previously believed, do you believe that the threshold for herd immunity is still as high
+
+806
+01:12:56,880 --> 01:13:01,920
+as 60 to 70% for SARS-CoV-2? Or do you think that it could be as low as 20 to 30%?
+
+807
+01:13:02,800 --> 01:13:07,920
+Well, I think it's still going to be 60 to 70%. It's just that there's a higher percentage of
+
+808
+01:13:07,920 --> 01:13:13,280
+people who have immunity already. So in other words, you're saying, yeah, it becomes a bit of
+
+809
+01:13:13,280 --> 01:13:18,640
+an academic or a moot point because it might be that of those 60 to 70% who have to be infected
+
+810
+01:13:18,640 --> 01:13:22,320
+for herd immunity, two thirds of them don't even know they were infected, but they actually were
+
+811
+01:13:22,320 --> 01:13:28,400
+from an immune, okay, fair point. So is there much genetic drift in these viruses? Like influenza,
+
+812
+01:13:28,400 --> 01:13:33,120
+I think most people know, hey, I got to get a flu shot every year. But what they might not
+
+813
+01:13:33,120 --> 01:13:37,840
+understand is the reason they're getting the flu shot is probably less because their immune system
+
+814
+01:13:37,840 --> 01:13:42,320
+forgets what influenza looked like and more because influenza looks different every year.
+
+815
+01:13:42,320 --> 01:13:46,560
+How much do these coronaviruses genetically drift to use the lingo?
+
+816
+01:13:47,280 --> 01:13:52,320
+So far, we haven't had evidence that this one drifts. I think when you look at the other viruses,
+
+817
+01:13:52,320 --> 01:13:57,760
+one of them seems to vary quite a bit. OC43 seems to have different variants. A lot of the others
+
+818
+01:13:57,760 --> 01:14:04,240
+don't seem to change that much. SARS was adapting to human populations, so it changed. But if it had
+
+819
+01:14:04,240 --> 01:14:08,960
+stayed around, I don't know that it would have changed much. MERS is completely a camel virus,
+
+820
+01:14:08,960 --> 01:14:14,720
+so any drift you see is what happens in camels, not in people. Again, both for MERS and the human,
+
+821
+01:14:14,720 --> 01:14:19,600
+the other coronaviruses is not really well, except for OC43. I don't think there's huge
+
+822
+01:14:19,600 --> 01:14:25,520
+effects on immunity. This virus is really, there's certainly a lot of talk about changes in the virus
+
+823
+01:14:25,520 --> 01:14:31,360
+and becoming more brutal and more weaker and more attenuated, but there's really no evidence so far
+
+824
+01:14:31,360 --> 01:14:36,720
+that says this virus has changed in a way that makes it unlikely a vaccine will work, unlikely
+
+825
+01:14:36,720 --> 01:14:42,080
+that a previous infection won't protect you from a second infection. There may be reasons why it
+
+826
+01:14:42,080 --> 01:14:46,320
+won't, but it won't be because the virus is changing so far. That's an important point. I
+
+827
+01:14:46,320 --> 01:14:51,840
+think we want to reiterate that, right? Which is the doomsday scenario would be a virus that retains
+
+828
+01:14:51,840 --> 01:14:57,040
+its virulence, but constantly drifts enough genetically that your immune system never
+
+829
+01:14:57,040 --> 01:15:02,080
+recognizes it again, but it retains all of its bad properties. I mean, that's a disaster. If you
+
+830
+01:15:02,080 --> 01:15:07,680
+had a new version of a deadly virus show up every year, it could hurt you just as badly, but somehow
+
+831
+01:15:07,680 --> 01:15:14,080
+its genetic drifting created a different coat on it, a different set of antigens, and every year
+
+832
+01:15:14,080 --> 01:15:17,920
+your immune system was caught off guard. That would be very painful. And what you're saying is,
+
+833
+01:15:17,920 --> 01:15:22,080
+hey, we don't have evidence of either of those things happening, that it's genetically becoming
+
+834
+01:15:22,080 --> 01:15:29,680
+more or frankly less harmful of equal, if not more importance, that it's not becoming a different
+
+835
+01:15:29,680 --> 01:15:33,920
+immune animal as time goes on, at least in the very short window we've studied it. But again,
+
+836
+01:15:34,720 --> 01:15:38,480
+it's helpful to go back and look at these other coronaviruses that you've studied because they've
+
+837
+01:15:38,480 --> 01:15:43,920
+given us a lot of insight, right? Yeah, exactly. The immunity when you have a mild infection just
+
+838
+01:15:43,920 --> 01:15:48,880
+do not develop great immunity. So let's double click on that. You've said already part of that.
+
+839
+01:15:48,880 --> 01:15:54,480
+I want to make sure I understood it. So part of it is the innate system, just for whatever reason,
+
+840
+01:15:54,480 --> 01:16:01,280
+doesn't seem to do much. You've already talked about how a lot of times with at least the common
+
+841
+01:16:01,280 --> 01:16:06,880
+coronaviruses, they might not even stick around long enough to develop a T cell response. Can you
+
+842
+01:16:06,880 --> 01:16:13,680
+say a bit more about the adaptive humoral system? What do we know about the IgM and IgG, which again,
+
+843
+01:16:13,680 --> 01:16:19,200
+if you haven't listened to the interview and the discussion with David Watkins, I think this would
+
+844
+01:16:19,200 --> 01:16:22,000
+be a great time to go back and make sure you familiarize yourself with that so that we don't
+
+845
+01:16:22,000 --> 01:16:27,520
+have to go into the details of what those things mean. But six months after a person has a common
+
+846
+01:16:27,520 --> 01:16:36,240
+coronavirus, do you still see evidence of at least the IgG? Yes. And do you know how often it is
+
+847
+01:16:36,800 --> 01:16:43,120
+basically binding, non-binding? Do you have a sense of what the functionality of that IgG is?
+
+848
+01:16:43,120 --> 01:16:48,240
+Is it neutralizing fully necessarily? Not necessarily. I think the human volunteer
+
+849
+01:16:48,240 --> 01:16:53,440
+studies are best answers for that for the common cold coronaviruses. And they show that immunity is
+
+850
+01:16:53,440 --> 01:16:58,960
+there, it's measured by neutralizing anybody, and then it wanes with time. And that a year later,
+
+851
+01:16:58,960 --> 01:17:04,320
+it's there and may not prevent shedding. It's still, I think it sounds remarkably like what
+
+852
+01:17:04,320 --> 01:17:09,360
+I think we're going to hear about with COVID-19 and immunity when people have mild infections or
+
+853
+01:17:09,360 --> 01:17:15,280
+asymptomatic. Now, we've talked about this paper that came out, God, I think it's been maybe three
+
+854
+01:17:15,280 --> 01:17:22,800
+weeks ago. Alex Seddi was the senior author on it, 2020 cell paper that looked at 20 patients who
+
+855
+01:17:22,800 --> 01:17:31,920
+recovered from COVID-19. And I believe about two thirds of them actually had a CD8 T cell response
+
+856
+01:17:31,920 --> 01:17:37,600
+and a CD4 response that kind of correlated with that. The point being, they looked to have been
+
+857
+01:17:37,680 --> 01:17:44,320
+at least partially aided in their response to SARS-CoV-2 from T cells that looked like they had
+
+858
+01:17:44,320 --> 01:17:50,800
+been sensitized by other coronaviruses. Now, this was a small study and this was based on in vitro
+
+859
+01:17:50,800 --> 01:17:56,160
+assays. Can you explain that study a little bit or at least the idea behind it? Because it's an
+
+860
+01:17:56,160 --> 01:18:00,400
+incredibly interesting idea and it has clinical relevance if this turns out to be true.
+
+861
+01:18:01,120 --> 01:18:05,680
+Yeah. So I think this is one of actually several studies. This is the only published one, I think,
+
+862
+01:18:05,680 --> 01:18:12,000
+that shows that people who have never seen the virus have some sort of T cell response to
+
+863
+01:18:12,000 --> 01:18:17,760
+SARS-CoV-2. Now, there are some caveats when I read this paper that make me pause and drawing too
+
+864
+01:18:17,760 --> 01:18:23,280
+strong a conclusion. One is that in most of these papers, the way T cell responses are measured is
+
+865
+01:18:23,280 --> 01:18:30,080
+not by functionality, but rather by being activated in a certain way. And these activations, to my mind,
+
+866
+01:18:30,080 --> 01:18:36,000
+are surrogate for actual functionality. And the functionality was not well demonstrated in any of
+
+867
+01:18:36,000 --> 01:18:41,840
+these studies. You may see a little functionality, but it's not the major point. Second thing is the
+
+868
+01:18:41,840 --> 01:18:47,600
+targets for these virus, for the T cell response is not the usual response that you get in terms
+
+869
+01:18:47,600 --> 01:18:53,200
+of targets. And you see after the wild type infection, the SARS-CoV-2 infection. And because
+
+870
+01:18:53,200 --> 01:18:58,160
+of this difference, it makes it also a little unclear to me where this response is coming from.
+
+871
+01:18:58,160 --> 01:19:02,560
+So you can say, okay, that doesn't matter. It's still from a common cold coronavirus. But then
+
+872
+01:19:02,560 --> 01:19:07,840
+when people go back and look at the sequence of the common cold coronaviruses for the same targets,
+
+873
+01:19:07,840 --> 01:19:14,480
+there's actually very little homology with T cell responses that are recognized in these patients
+
+874
+01:19:14,480 --> 01:19:19,840
+who have never seen SARS-CoV-2. So altogether, on one hand, you could say, well, maybe this is
+
+875
+01:19:19,840 --> 01:19:26,000
+something that's important. Maybe it contributes to protection, pathogenicity. On the other hand,
+
+876
+01:19:26,000 --> 01:19:31,600
+it's a little odd because it's mostly measured by activation, not necessarily by function. And
+
+877
+01:19:31,600 --> 01:19:37,360
+that may matter. And it's also targets are not totally clear how that's working. So maybe it's
+
+878
+01:19:37,360 --> 01:19:42,720
+something that's not completely clear yet. So I'm a bit confused by that, Stanley, because if we were
+
+879
+01:19:42,720 --> 01:19:50,480
+doing this on the B cell side, which is where we normally would, you would do an in vitro assay
+
+880
+01:19:50,480 --> 01:19:55,600
+and demonstrate the presence of neutralizing antibodies, not just binding, but neutralizing.
+
+881
+01:19:55,600 --> 01:20:00,720
+And that would give us great confidence that the B cell response would translate from the
+
+882
+01:20:00,720 --> 01:20:05,680
+in vitro finding to the in vivo finding. Is that correct? I agree with you completely. Yes.
+
+883
+01:20:06,320 --> 01:20:13,440
+So we can do comparable T cell assays where we actually look at killing function and not just
+
+884
+01:20:13,440 --> 01:20:18,560
+signaling functions and things like that, right? Yeah. And this isn't really signaling. This is
+
+885
+01:20:18,560 --> 01:20:25,360
+protein, what was measured with proteins that come up if a cell has been activated at all.
+
+886
+01:20:25,760 --> 01:20:31,360
+So this is not killing assays, not even making cytokines, which are the my preferred way of
+
+887
+01:20:31,360 --> 01:20:35,440
+doing this could be easier. Yeah. So that's what I was going to say. Usually when you look at
+
+888
+01:20:35,440 --> 01:20:40,480
+typical studies that are looking at, say, response to flu vaccination, they look at cytokine response
+
+889
+01:20:41,040 --> 01:20:46,240
+on the T cell. So do you know if studies are looking to do that? Because that just seems to
+
+890
+01:20:46,240 --> 01:20:51,120
+be a very obvious thing to want to ask at this point. Well, for the people who are naive, who've
+
+891
+01:20:51,120 --> 01:20:55,840
+never seen the virus and who have these assays done, T cell responses are done, but they're
+
+892
+01:20:55,840 --> 01:21:02,320
+they're very, very low levels of activity. So the amount of cytokine produced are extremely low
+
+893
+01:21:02,320 --> 01:21:08,800
+or non-existent. So you just wonder, part of the issues, we do some of these assays and you can do
+
+894
+01:21:08,800 --> 01:21:15,120
+it very well. But the level of the background, as it were, is approaching what we're seeing in some
+
+895
+01:21:15,120 --> 01:21:20,960
+of these patients. So I think Jerry's just out on how important it is and what it means. To me,
+
+896
+01:21:20,960 --> 01:21:26,240
+it's really interesting. It kind of doesn't go with what we used to see, what we've seen in
+
+897
+01:21:26,240 --> 01:21:31,440
+MERS patients, where we don't really see much of a background, much evidence of cross-reactivity,
+
+898
+01:21:31,440 --> 01:21:35,120
+but we didn't actually do these surrogate assays, these assays for activation.
+
+899
+01:21:35,680 --> 01:21:40,160
+And there may be a temporal component. In other words, it could be that, let's assume that on
+
+900
+01:21:40,160 --> 01:21:47,680
+average, a person gets one year of quasi-protection from a given coronavirus until it can infect them
+
+901
+01:21:47,680 --> 01:21:54,880
+again. You now have a hundred people who are in various stages along a continuum of that recovery
+
+902
+01:21:54,880 --> 01:22:01,120
+from, pick your favorite endemic coronavirus. And then they all, at one day, get infected with
+
+903
+01:22:01,120 --> 01:22:06,320
+SARS-CoV-2. Well, presumably there's also a strength and a decline of immune response.
+
+904
+01:22:06,320 --> 01:22:12,160
+So even though they would all have some immune response lingering, some memory of immune response
+
+905
+01:22:12,160 --> 01:22:18,960
+to the benign coronavirus, they could technically mount very different responses to the much more
+
+906
+01:22:18,960 --> 01:22:24,960
+feared SARS-CoV-2, simply as a function of how far they are out from their initial infection, correct?
+
+907
+01:22:24,960 --> 01:22:28,320
+I think that's a different layer because it assumes that there's something there.
+
+908
+01:22:28,320 --> 01:22:32,160
+That's correct. If there's something there, yes, absolutely. This is a totally second layer.
+
+909
+01:22:32,160 --> 01:22:37,600
+Do you think there were other viruses or other vaccines that could provide cross-reactivity?
+
+910
+01:22:38,160 --> 01:22:42,880
+I don't think provide cross-reactivity is, of course, these ideas that you should immunize
+
+911
+01:22:42,880 --> 01:22:47,920
+everybody with attenuated polio virus because that'll activate the immune system and that'll
+
+912
+01:22:47,920 --> 01:22:53,920
+give you some protection. You should do something like that BCG, which we use for immunization
+
+913
+01:22:53,920 --> 01:22:58,240
+against tuberculosis, whether they have any effect. People are suggesting this, and I think
+
+914
+01:22:58,240 --> 01:23:03,920
+they're in trials even. But in terms of specificity of getting at the coronaviruses, I don't think so.
+
+915
+01:23:04,480 --> 01:23:08,800
+The BCG one's worth probably explaining a little bit to people because it got so much attention.
+
+916
+01:23:08,800 --> 01:23:13,680
+I think the other one that got quite a bit of attention was MMR. There's a very famous graph
+
+917
+01:23:13,680 --> 01:23:20,800
+that a friend of mine sent me that said, hey, the entire pandemic and the mortality profile,
+
+918
+01:23:20,800 --> 01:23:27,600
+which basically hockey sticks above 50, can be explained by exposure to MMR. People below 50
+
+919
+01:23:27,600 --> 01:23:34,240
+uniformly had MMR vaccination. People above 50, it's much more spotty. The further you get from
+
+920
+01:23:34,240 --> 01:23:42,160
+50, the less likely you were to have an MMR vaccine, and that explains it. Now, I can go on
+
+921
+01:23:42,160 --> 01:23:46,320
+why I don't believe that's the case, but I'd rather hear your views on whether that is or is not likely.
+
+922
+01:23:47,040 --> 01:23:52,320
+I think it's actually contrary to what one might think because those of us who are over 50 had.
+
+923
+01:23:52,320 --> 01:23:53,760
+You actually got the real virus.
+
+924
+01:23:54,080 --> 01:23:58,800
+You're really on all three of those infections. I don't consider myself resistant. In fact,
+
+925
+01:23:58,800 --> 01:24:04,560
+almost everybody my age had all three of those viruses. Everybody certainly had measles and mumps.
+
+926
+01:24:04,560 --> 01:24:06,960
+Our German measles may have been less frequent.
+
+927
+01:24:07,920 --> 01:24:12,000
+But from an immunologic perspective, Stanley, is there any reason to believe
+
+928
+01:24:12,560 --> 01:24:19,760
+that your memory T cells and B cells to measles, mumps, and or rubella would offer you some
+
+929
+01:24:19,760 --> 01:24:23,760
+protection against this particular coronavirus? Is there any evidence that they offer protection
+
+930
+01:24:23,760 --> 01:24:29,760
+against other coronaviruses? No, I can say that. No one's looked very, very hard, but there's no
+
+931
+01:24:29,760 --> 01:24:34,000
+reason to think that it would. If there was anything like that, we would all have some
+
+932
+01:24:34,000 --> 01:24:38,640
+preexisting immunity to the virus that's way higher than what we're talking about.
+
+933
+01:24:39,280 --> 01:24:44,640
+I'll just tell you why I'm also quite skeptical of the BCG claim, which is not to say that in
+
+934
+01:24:44,640 --> 01:24:48,640
+certain cases, maybe there's an anecdote that it works. I mean, obviously, one of the first
+
+935
+01:24:48,640 --> 01:24:56,320
+examples of cancer immunotherapy came out of an understanding of the Cooley's toxins that sort of
+
+936
+01:24:56,320 --> 01:25:02,000
+came out of this idea of BCG. But the reality of it is BCG has never shown enough specificity to be
+
+937
+01:25:02,000 --> 01:25:06,880
+a viable immunotherapy against cancer. And it's for that reason, I guess, even if that's overly
+
+938
+01:25:06,880 --> 01:25:12,640
+simplistic, that I really doubt that BCG could have a meaningful impact on a virus because it
+
+939
+01:25:12,640 --> 01:25:17,600
+requires just as much immune specificity as it does for the immune system to attack cancer.
+
+940
+01:25:18,400 --> 01:25:22,320
+Yeah, and you know, there's other agents, so we've worked with agents that turn on interferon.
+
+941
+01:25:22,880 --> 01:25:27,040
+And I think if you give interferon at the wrong time, these infections, you may make people worse.
+
+942
+01:25:27,600 --> 01:25:32,640
+So if you were exposed to COVID-19, you had a very good exposure right now. And I gave you one of
+
+943
+01:25:32,640 --> 01:25:37,200
+these agents that turn on interferon, that may well help you. Because before you really get an
+
+944
+01:25:37,200 --> 01:25:43,120
+infection, if we jazz up your immune system, that may help you do better with the virus. Once it
+
+945
+01:25:43,200 --> 01:25:48,560
+gets going, that probably isn't true. There's all these issues that one could imagine that if you
+
+946
+01:25:48,560 --> 01:25:53,920
+jazzed up the immune system of BCG, that it can help you if you got it right the right day, and
+
+947
+01:25:53,920 --> 01:25:59,920
+then you were exposed to COVID-19. But I wouldn't want to be inoculated with BCG just for fun with
+
+948
+01:25:59,920 --> 01:26:05,280
+the possibility that in the next two days, I get exposed to the virus. You provided a much more
+
+949
+01:26:05,280 --> 01:26:12,560
+elegant description of how you might possibly benefit from it in a Hail Mary, pure luck standpoint,
+
+950
+01:26:12,560 --> 01:26:16,480
+but how mechanistically it just doesn't even make sense. And you're right, by the way, I think the
+
+951
+01:26:16,480 --> 01:26:21,280
+broader point I would take away from your comment is, there's a really interesting way to think about
+
+952
+01:26:21,280 --> 01:26:25,680
+this from a targeted therapeutic standpoint. When you think about the sophistication with which we
+
+953
+01:26:25,680 --> 01:26:32,560
+try to treat other diseases with multiple lines of defense, this is a great example of one, going
+
+954
+01:26:32,560 --> 01:26:36,640
+back to everything I said before about when I was on my rant about how would you begin to prepare
+
+955
+01:26:36,640 --> 01:26:42,320
+for the next time a pandemic comes back, it's all that stuff. On the therapeutic side, I think it's
+
+956
+01:26:42,320 --> 01:26:47,520
+being more thoughtful about what the strategies are. The moment we identify those early cases and
+
+957
+01:26:47,520 --> 01:26:53,120
+say, boy, this is a disease that typically, like influenza, is a little bit more of an immune
+
+958
+01:26:53,120 --> 01:26:58,640
+paralysis disease, at least at one point here, you're seeing this hyperactivated immune sense. So
+
+959
+01:26:59,200 --> 01:27:04,880
+early treatment is antiviral with immune amplifier, late treatment is immune modulator,
+
+960
+01:27:04,880 --> 01:27:09,360
+antivirals long since gone, and respiratory support starts to matter. You can start to really
+
+961
+01:27:09,360 --> 01:27:13,680
+be more sophisticated in how you think of these things. I think that's probably something that
+
+962
+01:27:13,680 --> 01:27:17,680
+people are starting to think about now, and I suspect that a lot of the clinical trials now
+
+963
+01:27:17,680 --> 01:27:24,000
+will focus on more partitioning. So we don't just think of it as drug X, good or bad, drug Y,
+
+964
+01:27:24,000 --> 01:27:28,480
+good or bad. We don't have this sort of nonsense binary thinking. I agree with you completely,
+
+965
+01:27:28,480 --> 01:27:34,720
+because that's exactly the way I think about this disease, is that you need antiviral therapy early
+
+966
+01:27:34,720 --> 01:27:40,960
+on, and then maybe an immune modulator later. And in terms of immune activator, if you just catch it
+
+967
+01:27:40,960 --> 01:27:45,200
+just at the right time, maybe that would help. I think it's actually going to be the same for severe
+
+968
+01:27:45,200 --> 01:27:51,760
+flu, like the H5N1. I think the same scenario applies. The other thing you point out is that
+
+969
+01:27:51,760 --> 01:27:58,080
+with different patients in different disease courses, one has to be ready to modulate therapy.
+
+970
+01:27:58,080 --> 01:28:02,880
+And this is one of the things that I'd love to have that we don't have, which are biomarkers for
+
+971
+01:28:02,880 --> 01:28:09,680
+different stages of disease. Well, I think for so many diseases, we know that something works well,
+
+972
+01:28:09,680 --> 01:28:13,760
+and then we do large studies and we find out, you know, it didn't work as well as we think.
+
+973
+01:28:13,760 --> 01:28:18,640
+But if you go back, you say within this population, if we could have identified it first,
+
+974
+01:28:19,200 --> 01:28:24,560
+that would be the people who would have responded to this particular therapy. That's one of the
+
+975
+01:28:24,560 --> 01:28:30,560
+reasons that some therapies work that don't work that you might think would work, because if 20%
+
+976
+01:28:30,640 --> 01:28:34,800
+of people own a category of benefiting from it, would you treat 100%?
+
+977
+01:28:34,800 --> 01:28:37,200
+You dilute all the benefit. Exactly.
+
+978
+01:28:38,480 --> 01:28:42,640
+That's such an interesting idea. What do you think some of those biomarkers could look like?
+
+979
+01:28:42,640 --> 01:28:47,600
+There's some obvious ones. When a patient's in cytokines storm, you can measure the cytokines.
+
+980
+01:28:47,600 --> 01:28:51,840
+But if you could go deeper than that, and you could look at the proteome, and you could look
+
+981
+01:28:51,840 --> 01:28:56,640
+at metabolomics, or look at the gut, or something like that, where do you think the answer could lie?
+
+982
+01:28:57,360 --> 01:29:01,360
+Okay. So there's two parts of the question. First one is what would you sample? Because
+
+983
+01:29:01,360 --> 01:29:06,480
+the ideal person to be sampled is that person who comes in like your friend who had trouble running,
+
+984
+01:29:06,480 --> 01:29:11,360
+who didn't feel well. And I don't think he progressed to having disease enough to get
+
+985
+01:29:11,360 --> 01:29:16,320
+him in the hospital. No. Yeah. Young, healthy guy in his maybe early 40s, and yeah. Never
+
+986
+01:29:16,320 --> 01:29:21,040
+hospitalized, but sick as a dog for two weeks. Right. So that's a person you'd like to do a
+
+987
+01:29:21,040 --> 01:29:26,080
+test on and say, okay, is he going to progress or not? Clearly, in his case, we'd want something
+
+988
+01:29:26,080 --> 01:29:31,520
+to say he's sick, but he's not going to progress because he didn't progress. So that's a person
+
+989
+01:29:31,520 --> 01:29:35,600
+who you might not want to do anything for. On the other hand, he may look exactly like someone who
+
+990
+01:29:35,600 --> 01:29:41,440
+has diabetes and is sick in terms of how poorly he felt. And so what you'd want, you'd need a mark
+
+991
+01:29:41,440 --> 01:29:45,440
+in not only for severity, but you wanted something that would distinguish between the two of them,
+
+992
+01:29:45,440 --> 01:29:49,040
+and that you could sample easily in the blood because your friend would not have wanted to
+
+993
+01:29:49,040 --> 01:29:53,840
+undergo some sort of lung measurement because it would have been way more invasive than the
+
+994
+01:29:53,840 --> 01:30:00,000
+sickness he felt. So that's why you come back. I think you can come back to things like cytokines
+
+995
+01:30:00,000 --> 01:30:05,680
+and metabolic products. The problem up till now has been that you can see an increase in
+
+996
+01:30:05,680 --> 01:30:10,720
+cytokine X in people who are going to be sick and not increased in people who are going to do better.
+
+997
+01:30:10,720 --> 01:30:16,160
+But when you put them all together, it's not like you have populations that are very high versus
+
+998
+01:30:16,160 --> 01:30:23,040
+very low. You have ones that have a range of X to Y, and the other one would have a range of 0.75X
+
+999
+01:30:23,040 --> 01:30:31,040
+to 1.5X. So you can see that. It seems to be a problem that is set up perfectly for some type
+
+1000
+01:30:31,040 --> 01:30:37,440
+of machine learning because everything you said is correct. And then as you also alluded to,
+
+1001
+01:30:37,440 --> 01:30:43,200
+there's another layer here, which is we know quite a bit about the epidemiology. All things equal,
+
+1002
+01:30:43,200 --> 01:30:47,920
+a 40-year-old without a single pre-existing condition, you're going to weigh that input
+
+1003
+01:30:47,920 --> 01:30:54,080
+differently than a 60-year-old with no pre-existing conditions or a 40-year-old with type 2
+
+1004
+01:30:54,080 --> 01:30:59,200
+diabetes versus a 60-year-old. They all have a very different physiologic age, even if their
+
+1005
+01:30:59,200 --> 01:31:05,280
+chronologic ages are similar. And so when you start to factor in that plus some of these signatures
+
+1006
+01:31:05,280 --> 01:31:12,160
+plus the temporal nature of the signature, when am I getting this? I think there is an amazing
+
+1007
+01:31:12,160 --> 01:31:17,920
+opportunity for information and data scientists to help prepare us for how we will think about
+
+1008
+01:31:17,920 --> 01:31:23,520
+this when it happens the next time. Yeah. And so what you need out of this is you need,
+
+1009
+01:31:23,520 --> 01:31:27,360
+as we've talked about for some of the projects we've talked about, what you'd ideally like to
+
+1010
+01:31:27,360 --> 01:31:33,440
+do is you'd like to take people, sample them every couple of days, see what their numbers look like,
+
+1011
+01:31:33,440 --> 01:31:38,720
+put them in the machine learning model that you're talking about. And then if you had enough money,
+
+1012
+01:31:38,720 --> 01:31:42,800
+so you can measure all these different cytokines, you might say, okay, this person has this block
+
+1013
+01:31:43,200 --> 01:31:47,520
+of markers that say he's going to get single. Whether it'd be the 40-year-old, because, you know,
+
+1014
+01:31:47,520 --> 01:31:52,640
+the 40-year-old can get sick, or whether it'd be an older person. And you put the other point you
+
+1015
+01:31:52,640 --> 01:31:57,920
+make about the epidemiology on top of that, and maybe you would not even bother testing the 40-year-old
+
+1016
+01:31:57,920 --> 01:32:04,000
+because the odds of his getting sicker and meriting all the costs and use of research is not worth it.
+
+1017
+01:32:04,000 --> 01:32:09,120
+We're not there yet in terms of thinking about which markers are best, and also how do you
+
+1018
+01:32:09,120 --> 01:32:13,920
+actually do this? How do you actually do a study where you can help a person by getting serial
+
+1019
+01:32:13,920 --> 01:32:19,200
+testing and seeing which way he or she is going in terms of disease? But that would be the ideal
+
+1020
+01:32:19,200 --> 01:32:24,320
+way, because that person, if you saw signs that things weren't bad, maybe that's the person you
+
+1021
+01:32:24,320 --> 01:32:30,720
+use, either remdesivir or hopefully an oral form of remdesivir, stop the virus in its tracks,
+
+1022
+01:32:30,720 --> 01:32:36,080
+maybe give him a immune activator. Again, unclear, I think if you give him immune activator,
+
+1023
+01:32:36,080 --> 01:32:39,440
+some people will be deleterious, so it has to be done so carefully.
+
+1024
+01:32:40,000 --> 01:32:46,240
+There are two last topics I want to get to, one being how we would study the durability of immune
+
+1025
+01:32:46,240 --> 01:32:51,840
+response, which is effectively the most jugular question out there today. I mean, if we're going
+
+1026
+01:32:51,840 --> 01:32:55,520
+to think about this through the lens of vaccination, and we're going to think about this through the
+
+1027
+01:32:55,520 --> 01:33:00,640
+lens of herd immunity, natural or otherwise, we better figure out exactly what's going to happen
+
+1028
+01:33:00,640 --> 01:33:05,280
+to these people who get infected and what superpowers they do or don't have in the future.
+
+1029
+01:33:05,280 --> 01:33:09,920
+Before I do that, though, I want to go back to one thing we kind of alluded to very briefly
+
+1030
+01:33:09,920 --> 01:33:14,560
+and then skipped ahead, which was that paper that came out kind of recently. Matt Ridley is the
+
+1031
+01:33:14,560 --> 01:33:18,640
+journalist who wrote about it, I think in the Wall Street Journal, but he refers to the paper by Zahn
+
+1032
+01:33:18,640 --> 01:33:25,360
+that came out, I think in April, that argued basically the virus may not have come from
+
+1033
+01:33:25,920 --> 01:33:30,320
+the wet market the way we think it does. I know we've been sending each other so many papers back
+
+1034
+01:33:30,320 --> 01:33:35,440
+and forth over the last few weeks. Did you have a chance to look at that paper? I think so. It's the
+
+1035
+01:33:35,440 --> 01:33:40,720
+one that says there's a bunch of these, so I'm not sure I have the Ridley one in mind, the one that
+
+1036
+01:33:40,720 --> 01:33:45,760
+says it was released accidentally from the Wuhan lab or the one that says it was- No, the one that
+
+1037
+01:33:45,760 --> 01:33:52,560
+said it was basically so genetically stable, it's mostly a person-to-person transmission. So I
+
+1038
+01:33:52,560 --> 01:33:57,360
+think it basically said, look, this is mostly a person-to-person transmission. And I think it
+
+1039
+01:33:57,360 --> 01:34:01,840
+said if it came out of animals, it was so long ago that we don't know about it. It basically
+
+1040
+01:34:01,840 --> 01:34:08,560
+argues that the narrative that this came from an animal source to a human source in somewhere
+
+1041
+01:34:08,560 --> 01:34:13,200
+between October, November, December of last year is not correct. Had you seen this paper? No,
+
+1042
+01:34:13,200 --> 01:34:18,000
+I don't know that paper then. Okay, all right. We won't dive into that too much. The point is
+
+1043
+01:34:18,000 --> 01:34:23,760
+well taken that it is remarkably fit for humans. I don't know about the first part of the conclusion
+
+1044
+01:34:23,760 --> 01:34:28,720
+that it came out earlier, but it is remarkably fit. Yeah, I mean, I think they basically looked
+
+1045
+01:34:28,720 --> 01:34:34,640
+at the amount of genetic drift that occurred and said, I read it I think four weeks ago, so I'm a
+
+1046
+01:34:34,640 --> 01:34:38,240
+little rusty on it other than a few notes I took that were somewhat cryptic. But I think the
+
+1047
+01:34:38,240 --> 01:34:42,320
+argument was, look, this has probably been in humans longer than we think. I'll re-forward it to
+
+1048
+01:34:42,320 --> 01:34:48,240
+after just for the purpose of pure interest. So how do we figure out how long people are going to,
+
+1049
+01:34:48,240 --> 01:34:52,480
+because it might not be that interesting how much immunity people have to regular common cold
+
+1050
+01:34:52,480 --> 01:34:56,480
+coronavirus, but it's going to be pretty darn interesting to know how long people are going
+
+1051
+01:34:56,480 --> 01:35:02,640
+to have immunity to this virus. I mean, we've already at a minimum seen close to 10 million
+
+1052
+01:35:02,640 --> 01:35:08,080
+people infected worldwide with this virus. Personally, I think that's a gross underestimate
+
+1053
+01:35:08,160 --> 01:35:13,600
+of how many people have been affected. I think it's probably closer to 100 million people have
+
+1054
+01:35:13,600 --> 01:35:20,960
+been infected. But regardless, the durability of their immune response has to be one of the most
+
+1055
+01:35:20,960 --> 01:35:26,480
+important questions we understand. How would we do that? Yeah, so just doing the things we're doing,
+
+1056
+01:35:26,480 --> 01:35:31,920
+people who are infected, measuring their antibody responses, if we can, measuring the T cell responses,
+
+1057
+01:35:31,920 --> 01:35:36,080
+the odds are that we're going to see waning immunity for people with mild disease. That's
+
+1058
+01:35:36,080 --> 01:35:40,320
+what we're hearing over and over again. And that's what's been true for other coronavirus infections.
+
+1059
+01:35:40,960 --> 01:35:45,280
+And what will the implication of that be? Will the implication then be that no matter how
+
+1060
+01:35:45,280 --> 01:35:50,720
+successful a vaccine is, it's going to need to be an annual vaccine? There's two goals. One is to
+
+1061
+01:35:50,720 --> 01:35:56,160
+protect the individual who's vaccinated from getting severe pneumonia, and that may actually
+
+1062
+01:35:56,160 --> 01:36:03,200
+occur already. That may be whether immunity wanes or not. That person may never get a severe pneumonia.
+
+1063
+01:36:03,200 --> 01:36:07,920
+The other issue, which is equally important, is how much immunity do you need to prevent shedding,
+
+1064
+01:36:08,560 --> 01:36:13,760
+to prevent transmissibility to other people? And that's the one that I think is really unknown,
+
+1065
+01:36:13,760 --> 01:36:18,160
+and to me is more important. Not important to the individual, but to society.
+
+1066
+01:36:18,800 --> 01:36:23,840
+To me, that's the jugular question that decides what do economies look like when we have subsequent
+
+1067
+01:36:23,840 --> 01:36:27,680
+waves of this. Because there is something on Instagram a few weeks ago where I did a kind of
+
+1068
+01:36:27,680 --> 01:36:33,520
+Q&A with my son who's five, and he asked a very honest question, which is, when is this virus
+
+1069
+01:36:33,520 --> 01:36:38,000
+going to be gone? And it was an interesting discussion to explain to him, actually, it's
+
+1070
+01:36:38,000 --> 01:36:43,120
+never going to be gone. This virus is never going away. There is nothing about this virus that
+
+1071
+01:36:43,120 --> 01:36:48,240
+suggests it's ever going away. And so now the question is, how do we coexist with this virus?
+
+1072
+01:36:48,240 --> 01:36:54,880
+So even putting aside future pandemics, which could be much worse, for example, an increase
+
+1073
+01:36:54,960 --> 01:37:01,840
+in the lethality while preserving the transmissibility of SARS-CoV-2 would be devastating.
+
+1074
+01:37:01,840 --> 01:37:08,320
+But just coping with this, if another one never shows up, we have to understand this question,
+
+1075
+01:37:08,320 --> 01:37:13,520
+especially if the vaccines are somewhat risky. One thing that doesn't get a lot of discussion is,
+
+1076
+01:37:13,520 --> 01:37:18,880
+how much risk is going to be posed by vaccines? There's a reason they never come up with RSV
+
+1077
+01:37:18,880 --> 01:37:25,040
+vaccines. It's a lot harder from a safe perspective to make an RSV vaccine, unlike an
+
+1078
+01:37:25,040 --> 01:37:30,320
+influenza vaccine. So if everything is going to be a risk trade-off, right, and we're going to decide,
+
+1079
+01:37:30,320 --> 01:37:36,160
+you might not want to vaccinate everybody with a SARS-CoV-2 vaccine if the risk is slightly higher
+
+1080
+01:37:36,160 --> 01:37:41,760
+than we deem acceptable. So then you have to do a cost benefit analysis. And then to your point,
+
+1081
+01:37:41,760 --> 01:37:46,480
+which I think is even more important is, okay, what does the secondary shedding look like? What
+
+1082
+01:37:46,560 --> 01:37:51,440
+do these other factors look like? It's hard for me to imagine a world that's fully functioning
+
+1083
+01:37:51,440 --> 01:37:56,560
+without these questions resolved. Right. That's really the key question. The other hand, though,
+
+1084
+01:37:56,560 --> 01:38:02,480
+if you get to a point where there's enough herd immunity or that 100 million turns into a 6
+
+1085
+01:38:02,480 --> 01:38:07,920
+billion, people have seen the infection, so nobody gets pneumonia anymore and turns into a common
+
+1086
+01:38:07,920 --> 01:38:13,920
+cold, then there may be enough of a balance between the virus mutating a little to become
+
+1087
+01:38:13,920 --> 01:38:20,000
+a better common cold and no longer causing the pneumonia. But that's the point. It requires a
+
+1088
+01:38:20,000 --> 01:38:26,080
+mutation, doesn't it, Stanley? Yeah, yeah, yeah. We don't have the memory like we do with measles
+
+1089
+01:38:26,080 --> 01:38:30,720
+and polio and smallpox to truly generate herd immunity. In fact, we've never generated herd
+
+1090
+01:38:30,720 --> 01:38:35,920
+immunity to influenza commonly. In that case, of course, it's because of the genetic drift. And so
+
+1091
+01:38:35,920 --> 01:38:42,080
+isn't it a bit of a misnomer to suggest that we could ever have herd immunity to SARS-CoV-2?
+
+1092
+01:38:42,080 --> 01:38:46,160
+Let's just say if we knew that the immune response was gone after a year.
+
+1093
+01:38:46,160 --> 01:38:48,640
+The question is, what is immune response being gone?
+
+1094
+01:38:49,200 --> 01:38:53,760
+Yeah, a sufficient immune response. I mean, it becomes a sliding scale of efficacy, correct?
+
+1095
+01:38:53,760 --> 01:38:58,400
+Yeah, yeah, yeah. That's right. But if you have enough immune response to protect you from
+
+1096
+01:38:58,400 --> 01:39:02,640
+pneumonia, then the question is, how much shedding do you have? So that would be actually a
+
+1097
+01:39:02,640 --> 01:39:06,720
+significant ... When we talk about studies, I was thinking about this a little while ago.
+
+1098
+01:39:06,720 --> 01:39:12,560
+The simplest study would be to take some human volunteers, give them a common cold coronavirus,
+
+1099
+01:39:12,560 --> 01:39:17,200
+and then a year later come back and do the exact experiment that was done in the 80s,
+
+1100
+01:39:17,200 --> 01:39:22,320
+measure do they get a cold? If you reinfect them a year later, do they get a cold? And how much
+
+1101
+01:39:22,320 --> 01:39:27,200
+shedding do they have? We know they shed, but if you are a naive person with a cold, you shed
+
+1102
+01:39:27,200 --> 01:39:30,800
+10 to the 8th, and now you shed 10 to the 3rd, and it doesn't matter.
+
+1103
+01:39:30,800 --> 01:39:34,960
+Yeah, then it doesn't matter. Yeah. Well, and of course, here ... So again, I completely agree
+
+1104
+01:39:34,960 --> 01:39:40,000
+with you. That's the single most important question. But the other thing is, I don't have
+
+1105
+01:39:40,000 --> 01:39:44,560
+my fingers crossed that this is perfect because of that upper respiratory part of this. So you said,
+
+1106
+01:39:44,560 --> 01:39:48,800
+well, what if you don't get the severe pneumonia before? Well, it turns out the severe pneumonia
+
+1107
+01:39:48,800 --> 01:39:53,920
+that came with SARS-1 and MERS isn't really what was the problem. I mean, that was the problem for
+
+1108
+01:39:53,920 --> 01:39:58,000
+the individual, but that was not the problem for society. The problem for society was the
+
+1109
+01:39:58,000 --> 01:40:03,360
+upper respiratory part. That's what we're seeing in SARS, or the lack thereof. And that might be
+
+1110
+01:40:03,360 --> 01:40:06,880
+what's making SARS-CoV-2 such a problem. Yeah, yeah, that's right.
+
+1111
+01:40:07,520 --> 01:40:11,280
+Anyway, Stanley, as you can tell, we can talk about this for days, but I want to honor our
+
+1112
+01:40:11,280 --> 01:40:16,000
+commitment to get you out of here in a certain time. So I look forward to talking with you again
+
+1113
+01:40:16,000 --> 01:40:21,040
+very soon as we continue to work on the project we're working on with David and a group of other
+
+1114
+01:40:21,040 --> 01:40:25,520
+really amazing people. But thank you for your time and your generosity of insight. Anything else,
+
+1115
+01:40:25,520 --> 01:40:30,160
+any last thoughts you have on either this particular pandemic or just coronaviruses in general?
+
+1116
+01:40:30,720 --> 01:40:35,200
+No, I think the key thing we talked about is how do you prevent this in the future? We're going to
+
+1117
+01:40:35,200 --> 01:40:39,440
+muddle our way through this one. We're going to do, we'll get to points I think where we'll have
+
+1118
+01:40:39,440 --> 01:40:45,280
+antivirals, I hope, vaccines, even with the caveats that we talked about that should work,
+
+1119
+01:40:45,280 --> 01:40:50,240
+how long they'll work, I don't know. Whether people actually agree to be vaccinated is another
+
+1120
+01:40:50,240 --> 01:40:55,280
+issue we didn't really talk about. And then for safety, I mean, all these things we're going to
+
+1121
+01:40:55,280 --> 01:40:59,200
+know very quickly because we have to do it quickly. Well, that means we're going to have to talk
+
+1122
+01:40:59,200 --> 01:41:06,800
+again. Okay. Thanks, Stanley. Okay. Thanks, Peter. Thank you for listening to this week's episode of
+
+1123
+01:41:06,800 --> 01:41:11,280
+The Drive. If you're interested in diving deeper into any topics we discuss, we've created a
+
+1124
+01:41:11,280 --> 01:41:16,160
+membership program that allows us to bring you more in-depth exclusive content without relying
+
+1125
+01:41:16,160 --> 01:41:21,680
+on paid ads. It's our goal to ensure members get back much more than the price of the subscription.
+
+1126
+01:41:21,680 --> 01:41:27,120
+Now to that end, membership benefits include a bunch of things. One, totally kick-ass comprehensive
+
+1127
+01:41:27,120 --> 01:41:32,960
+podcast show notes that detail every topic, paper, person, thing we discuss on each episode. The word
+
+1128
+01:41:32,960 --> 01:41:39,200
+on the street is nobody's show notes rival these. Monthly AMA episodes or Ask Me Anything episodes,
+
+1129
+01:41:39,200 --> 01:41:44,640
+hearing these episodes completely. Access to our private podcast feed that allows you to hear
+
+1130
+01:41:44,640 --> 01:41:50,560
+everything without having to listen to spiels like this. The Qualies, which are a super short podcast,
+
+1131
+01:41:50,560 --> 01:41:55,200
+typically less than five minutes that we release every Tuesday through Friday, highlighting the best
+
+1132
+01:41:55,280 --> 01:41:59,680
+questions, topics, and tactics discussed on previous episodes of The Drive. This is a great
+
+1133
+01:41:59,680 --> 01:42:04,720
+way to catch up on previous episodes without having to go back and necessarily listen to everyone.
+
+1134
+01:42:05,280 --> 01:42:10,720
+Steep discounts on products that I believe in, but for which I'm not getting paid to endorse,
+
+1135
+01:42:10,720 --> 01:42:14,880
+and a whole bunch of other benefits that we continue to trickle in as time goes on. If you
+
+1136
+01:42:14,880 --> 01:42:19,680
+want to learn more and access these member-only benefits, you can head over to PeterAttiaMD.com
+
+1137
+01:42:19,680 --> 01:42:26,240
+forward slash subscribe. You can find me on Twitter, Instagram, and Facebook, all with the ID
+
+1138
+01:42:26,240 --> 01:42:32,240
+PeterAttiaMD. You can also leave us a review on Apple Podcast or whatever podcast player you
+
+1139
+01:42:32,240 --> 01:42:37,760
+listen on. This podcast is for general informational purposes only and does not constitute the practice
+
+1140
+01:42:37,760 --> 01:42:42,800
+of medicine, nursing, or other professional healthcare services, including the giving of
+
+1141
+01:42:42,800 --> 01:42:48,320
+medical advice. No doctor-patient relationship is formed. The use of this information and the
+
+1142
+01:42:48,320 --> 01:42:53,760
+materials linked to this podcast is at the user's own risk. The content on this podcast
+
+1143
+01:42:53,760 --> 01:42:59,040
+is not intended to be a substitute for professional medical advice, diagnosis, or treatment.
+
+1144
+01:42:59,600 --> 01:43:05,680
+Users should not disregard or delay in obtaining medical advice from any medical condition they
+
+1145
+01:43:05,680 --> 01:43:11,040
+have, and they should seek the assistance of their healthcare professionals for any such conditions.
+
+1146
+01:43:11,680 --> 01:43:15,920
+Finally, I take conflicts of interest very seriously for all of my disclosures and the
+
+1147
+01:43:15,920 --> 01:43:23,120
+companies I invest in or advise, please visit PeterAttiaMD.com forward slash about
+
+1148
+01:43:23,120 --> 01:43:33,440
+where I keep an up-to-date and active list of such companies.
+
+1149
+01:43:45,920 --> 01:43:53,520
+Thank you.
+

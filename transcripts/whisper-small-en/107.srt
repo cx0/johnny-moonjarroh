@@ -1,0 +1,3196 @@
+1
+00:00:00,000 --> 00:00:15,640
+Hey everyone, welcome to the Drive podcast. I'm your host, Peter Attia. This podcast, my
+
+2
+00:00:15,640 --> 00:00:19,400
+website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:19,400 --> 00:00:24,360
+longevity into something accessible for everyone. Our goal is to provide the best content in
+
+4
+00:00:24,360 --> 00:00:28,440
+health and wellness, full stop, and we've assembled a great team of analysts to make
+
+5
+00:00:28,440 --> 00:00:32,720
+this happen. If you enjoy this podcast, we've created a membership program that brings you
+
+6
+00:00:32,720 --> 00:00:36,880
+far more in-depth content. If you want to take your knowledge of this space to the next level,
+
+7
+00:00:36,880 --> 00:00:41,560
+at the end of this episode, I'll explain what those benefits are. Or if you want to learn more now,
+
+8
+00:00:41,560 --> 00:00:48,080
+head over to PeterAttiaMD.com forward slash subscribe. Now, without further delay, here's
+
+9
+00:00:48,080 --> 00:00:55,440
+today's episode. Welcome back to another special COVID-19 episode of the Drive. Joining me on this
+
+10
+00:00:55,440 --> 00:01:00,480
+episode is author and historian John Berry. John is the author of arguably one of the most
+
+11
+00:01:00,480 --> 00:01:05,080
+important books I've ever read in my life, The Transformed Cell. And we talk about that very
+
+12
+00:01:05,080 --> 00:01:09,720
+briefly at the outset, but that's not the reason we speak today. Rather today, we were discussing
+
+13
+00:01:09,720 --> 00:01:15,280
+a book that John wrote in 2004, The New York Times bestseller, The Great Influenza, the story
+
+14
+00:01:15,280 --> 00:01:20,760
+of the deadliest pandemic in history. We talk about a lot of things here, obviously related
+
+15
+00:01:20,760 --> 00:01:26,240
+to the Spanish flu. Many of you have probably heard about this somewhat in the previous couple
+
+16
+00:01:26,240 --> 00:01:32,240
+of months. Obviously, this was on a per population basis, probably the greatest pandemic in human
+
+17
+00:01:32,240 --> 00:01:39,200
+history, perhaps comparable only to the Black Plague. But of course, it has many parallels to
+
+18
+00:01:39,200 --> 00:01:44,840
+the pandemic we are in now. I think history will show that the current pandemic is not a fraction
+
+19
+00:01:45,000 --> 00:01:51,440
+of the Spanish flu, but nevertheless, there are parallels that can be drawn. This is a discussion
+
+20
+00:01:51,440 --> 00:01:57,200
+that goes into many of the details of the pandemic, which is complicated because it really had three
+
+21
+00:01:57,680 --> 00:02:01,640
+separate waves and we get into some of the history of what may have accounted for that. The other
+
+22
+00:02:01,640 --> 00:02:05,160
+thing I found interesting about this discussion is that there were a number of things that John had
+
+23
+00:02:05,160 --> 00:02:08,840
+changed his mind on from when he wrote the book. And that to me is always the marker of a great
+
+24
+00:02:08,840 --> 00:02:13,160
+thinker is someone who can go where the data go and not necessarily be wed to something that they
+
+25
+00:02:13,160 --> 00:02:17,560
+put in print. And I think anybody who's ever tried to write something down and put something out
+
+26
+00:02:17,560 --> 00:02:21,560
+there, it does become a little bit harder to go back and look at that and realize that maybe you
+
+27
+00:02:21,560 --> 00:02:26,280
+didn't look at it correctly. But certainly when it comes to, for example, the origin of the Spanish
+
+28
+00:02:26,280 --> 00:02:31,400
+flu, John's thinking has changed and we do get into that. Again, I'll keep the intro brief. I think
+
+29
+00:02:31,400 --> 00:02:36,280
+the discussion will speak for itself. And so without further delay, please enjoy my conversation
+
+30
+00:02:36,280 --> 00:02:37,080
+with John Berry.
+
+31
+00:02:37,480 --> 00:02:49,320
+John, it is such an honor to be sitting here talking with you because as I alluded to in the
+
+32
+00:02:49,320 --> 00:02:54,680
+email when I randomly reached out to you last week, you are someone whose work I've been familiar
+
+33
+00:02:54,680 --> 00:03:01,640
+with for a very long time because a book that you wrote with my mentor, Steve Rosenberg, has
+
+34
+00:03:01,640 --> 00:03:05,240
+arguably been one of the most influential books in my life, The Transformed Cell.
+
+35
+00:03:05,880 --> 00:03:11,240
+Kind of you to say, I give Steve full credit for that book. He didn't need me. It's the only thing
+
+36
+00:03:11,240 --> 00:03:17,640
+I've ever collaborated on in my life. He was very generous in giving me credit for that. But I did
+
+37
+00:03:17,640 --> 00:03:23,320
+learn for those of you who don't know Steve, we're talking about Steve Rosenberg, who is at the
+
+38
+00:03:23,320 --> 00:03:29,320
+National Cancer Institute and was one of the leading pioneers in immunotherapy, developed,
+
+39
+00:03:29,320 --> 00:03:35,880
+I guess, the first immunotherapy that actually worked for cancer. He also was the lead
+
+40
+00:03:35,880 --> 00:03:41,480
+investigator on the first approved gene therapy experiments in the United States.
+
+41
+00:03:42,680 --> 00:03:48,440
+I guess the world too, in terms of approval, there were a couple of disapproved experiments
+
+42
+00:03:48,440 --> 00:03:55,960
+prior to that. Yeah. And so that book was published in one or 92, right? Yeah. Yes.
+
+43
+00:03:55,960 --> 00:04:01,160
+So I didn't come across it until 1997. It was in my first year of medical school.
+
+44
+00:04:02,120 --> 00:04:07,320
+I read it and it's just one of those moments that I think people have once in a while in life. And
+
+45
+00:04:07,320 --> 00:04:12,280
+it just sort of changed everything for me. It gave me a complete sense of how I wanted to think about
+
+46
+00:04:12,280 --> 00:04:17,720
+the world and problem solving and all these sorts of things. And I read it probably five times. When
+
+47
+00:04:17,720 --> 00:04:21,720
+we're done with the podcast, I'm going to show you my original copy because three years later,
+
+48
+00:04:21,720 --> 00:04:27,240
+I would actually get a copy from Steve signed. I have since purchased a dozen copies whenever
+
+49
+00:04:27,240 --> 00:04:32,280
+I find one on eBay or Amazon. This is an embarrassing thing to admit. I would insist
+
+50
+00:04:32,280 --> 00:04:38,760
+anyone I dated read the book. I just felt like they needed to understand that degree of obsession.
+
+51
+00:04:38,760 --> 00:04:43,720
+And that definitely minimized the number of dates I had to go on, but it was incredible. And then,
+
+52
+00:04:43,720 --> 00:04:48,920
+and then as I mentioned to you earlier, I went and spent time with Steve in my third year of medical
+
+53
+00:04:48,920 --> 00:04:55,080
+school and then went there for two years later. And it's, I still view my time at NIH as one of
+
+54
+00:04:55,080 --> 00:05:00,360
+the most blissful periods of my life because it's a period where you could be completely immersed in
+
+55
+00:05:00,360 --> 00:05:04,600
+trying to solve a problem. And when you're at that age and you have no other responsibilities,
+
+56
+00:05:04,600 --> 00:05:09,640
+it's magical. It is. I haven't talked to Steve lately, as you probably know, he and Tony Fauci,
+
+57
+00:05:09,640 --> 00:05:13,880
+very close friends. They arrived, I think on the same day. I didn't realize it was that close.
+
+58
+00:05:13,880 --> 00:05:18,120
+That's interesting. Oh yeah, they're quite tight. Let's talk a little bit about how that, you
+
+59
+00:05:18,120 --> 00:05:23,560
+basically got a doctorate level course in immunology in the late 80s, early 90s. And then
+
+60
+00:05:24,120 --> 00:05:29,960
+a little over a decade later, you would go on to write arguably the greatest account of the
+
+61
+00:05:29,960 --> 00:05:35,560
+forgotten pandemic. How did you get interested in the Spanish flu? Well, first, I don't think
+
+62
+00:05:35,560 --> 00:05:41,880
+that's a high bar. There aren't that many books about the pandemic. So I would hope that you'd
+
+63
+00:05:41,880 --> 00:05:48,040
+say the greatest on the pandemic, considering the paucity of competition. It's a funny thing.
+
+64
+00:05:48,040 --> 00:05:52,840
+I wanted to write a book and go into this and move one of the acknowledgments, but there were
+
+65
+00:05:52,840 --> 00:05:58,120
+four different acknowledgments as things developed. The first was what initially came up, then there
+
+66
+00:05:58,120 --> 00:06:06,440
+was one to update it for H5N1. Then there was one to update it for 2009's pandemic, which was barely
+
+67
+00:06:06,440 --> 00:06:13,640
+registered. And then there was one at the 100th anniversary in 2018. So this story may have been
+
+68
+00:06:13,640 --> 00:06:20,440
+erased for space in the interim. But initially, I wanted to write a book on the home front, World War
+
+69
+00:06:20,440 --> 00:06:25,800
+One, culminating in the events in 1919, which I consider one of the most interesting years in
+
+70
+00:06:25,800 --> 00:06:31,240
+American history. I knew exactly how I wanted to approach that subject. It was a very, very big
+
+71
+00:06:31,240 --> 00:06:37,880
+book. And as a writer, I live on my advanced, my prior book, Rising Tide was a best seller, but
+
+72
+00:06:37,880 --> 00:06:44,200
+best sellers are not necessarily as lucrative as some people think. I was living on an advance,
+
+73
+00:06:44,840 --> 00:06:49,720
+and I didn't think I could get an advance. The book, the way I conceived it, would have been taken
+
+74
+00:06:49,720 --> 00:06:56,600
+in seven years, at least, maybe a little longer. You just figure how much it costs to live decently
+
+75
+00:06:56,600 --> 00:07:01,800
+for seven years, plus pay your research expenses. And you're talking about a lot of money. I didn't
+
+76
+00:07:01,800 --> 00:07:06,760
+think I could get an advance that large for that book. But I thought I could write a book on the
+
+77
+00:07:06,760 --> 00:07:13,000
+pandemic, which interested me, in probably two years, and no more than two and a half years.
+
+78
+00:07:14,040 --> 00:07:20,520
+I drafted a proposal and gave it to my agent. Then I changed my mind, told him I didn't want
+
+79
+00:07:20,600 --> 00:07:27,240
+to write the book. But an editor approached him after a story in the New Yorker appeared about
+
+80
+00:07:27,240 --> 00:07:34,840
+digging up bodies to try to reconstruct the virus or find the virus. Anyway, they made an offer,
+
+81
+00:07:34,840 --> 00:07:41,240
+which I didn't accept. If I'd wanted to write the book, it would have been enough. I got mad at my
+
+82
+00:07:41,240 --> 00:07:45,480
+agent. I told him I didn't want to write the book. Then another editor came along and offered
+
+83
+00:07:46,360 --> 00:07:50,600
+more money. I thought, well, it's too much money for a book I can write in two years that will help
+
+84
+00:07:50,600 --> 00:07:56,600
+me support the other ones I accept. The problem was it took me seven years, a little over that.
+
+85
+00:07:57,240 --> 00:08:01,480
+The same advance divided by seven is a lot less than the advance divided by two.
+
+86
+00:08:02,120 --> 00:08:06,680
+So at the end, I was looking at life as a graduate student. For the first five and a half years that
+
+87
+00:08:06,680 --> 00:08:11,720
+I was working on the book, I wanted to throw the whole thing out the window. Oswald Avery,
+
+88
+00:08:11,720 --> 00:08:16,840
+one of the characters in the book, kept me going. Avery came up with one of the most
+
+89
+00:08:16,840 --> 00:08:22,920
+consequential discoveries in any science of the 20th century, arguably the single most important
+
+90
+00:08:22,920 --> 00:08:29,800
+one. He discovered that DNA carried the genetic code. Solving that problem, which actually grew
+
+91
+00:08:29,800 --> 00:08:37,000
+out of his research on influenza and pneumonia, put him through hell for 25 years, had a nervous
+
+92
+00:08:37,000 --> 00:08:44,680
+breakdown, didn't publish for more than a decade. Thinking of what he went through made what I was
+
+93
+00:08:44,680 --> 00:08:50,440
+going through almost trivial. I would think of him almost every day. Finally, after five and a half
+
+94
+00:08:50,440 --> 00:08:57,560
+years, books came together. I was obviously happy with what I produced at the end and the reception
+
+95
+00:08:57,560 --> 00:09:03,000
+it got. It is a beautiful book. I probably read it in 2007, so that would have been probably
+
+96
+00:09:03,000 --> 00:09:08,200
+about three years, I guess, after it came out. Truthfully, this is another very embarrassing
+
+97
+00:09:08,200 --> 00:09:13,800
+story. About six months ago, I realized I just had too many books and I needed to start just
+
+98
+00:09:13,800 --> 00:09:17,960
+getting rid of them, giving them away. I'm going to tell me you threw mine out or gave it away.
+
+99
+00:09:17,960 --> 00:09:27,000
+I did. I donated it to a library. I got rid of literally 80% of the books I had. I remember
+
+100
+00:09:27,000 --> 00:09:31,320
+doing this like six months ago, kind of flipping through books. It's like a trip down memory lane.
+
+101
+00:09:31,400 --> 00:09:34,440
+I don't know if you've ever done this, but you go through and if you're one of these guys like me
+
+102
+00:09:34,440 --> 00:09:39,320
+who hoards books, you go through and you think, God, I remember I read. Sometimes for me, it's
+
+103
+00:09:39,320 --> 00:09:42,760
+like I have a photographic memory. I can say that, or photograph's the wrong word, but sort of a
+
+104
+00:09:42,760 --> 00:09:47,800
+temporal memory where I can say, I remember reading this in November of 2006 and I remember
+
+105
+00:09:47,800 --> 00:09:52,600
+what I was doing and I read this on a vacation here and blah, blah, blah. It was actually a very
+
+106
+00:09:52,600 --> 00:09:57,000
+cool experience going through and doing that. The irony of it is about six months ago, I'm
+
+107
+00:09:57,560 --> 00:10:03,000
+thumbing through my paperback copy of your book. I was like, yeah, this is a great one, but you
+
+108
+00:10:03,000 --> 00:10:07,800
+know what? If I read it again, I'll just do it on Audible. Maybe I'll have to go back and buy
+
+109
+00:10:07,800 --> 00:10:12,200
+another copy so I can... I think the events of the last couple of months have reminded us of
+
+110
+00:10:12,200 --> 00:10:16,760
+the importance of that. I thought a lot about how much I want to... There's so much I want to talk
+
+111
+00:10:16,760 --> 00:10:22,040
+with you on this topic, John. It's something that I think is relevant to where we are today, which
+
+112
+00:10:22,040 --> 00:10:27,720
+is I guess April 15th, but it's going to be an equally relevant discussion a year from now. It
+
+113
+00:10:27,720 --> 00:10:32,840
+would have been a very relevant discussion a year ago if we'd had it and if we'd known how important
+
+114
+00:10:32,840 --> 00:10:36,600
+it would have been to have learned from it. Let's assume for a moment that most of the people
+
+115
+00:10:36,600 --> 00:10:40,280
+listening to this either aren't familiar with the story or maybe haven't read your book.
+
+116
+00:10:41,000 --> 00:10:47,480
+Let's start at the beginning because we're talking about a virus, a swine flu virus. It's different
+
+117
+00:10:47,480 --> 00:10:51,880
+from the virus that's on everybody's mind today, which is a coronavirus. This is a different class
+
+118
+00:10:51,880 --> 00:10:58,280
+of virus, but a comparable idea in that it's a virus that originates in a pig in this case.
+
+119
+00:10:58,280 --> 00:11:01,640
+Well, actually I kind of dispute that. Well, I was about to say, actually, I was going to say,
+
+120
+00:11:01,640 --> 00:11:05,880
+I actually do want to touch on today the difference between what you thought at the time, which is
+
+121
+00:11:05,880 --> 00:11:11,080
+where this originated in Haskell County in Kansas. I know that in the previous couple of years,
+
+122
+00:11:11,080 --> 00:11:15,400
+you've actually come to another point of potential view on that. I want to touch on that, but
+
+123
+00:11:15,400 --> 00:11:20,440
+does that go to places I need to start? Sure. Okay. Sure. Well, I guess we could provide
+
+124
+00:11:20,440 --> 00:11:28,040
+some more background. The 1918 pandemic virus, respiratory virus, jumped from animals to people.
+
+125
+00:11:28,040 --> 00:11:33,560
+We don't know what animal to jump from. The influenza virus has eight separate gene segments
+
+126
+00:11:34,200 --> 00:11:40,600
+as of the most viruses, most organisms have a genetic code carried on a continuous single
+
+127
+00:11:40,600 --> 00:11:46,600
+strand, whether it's RNA for a lot of viruses or DNA for some viruses and more advanced organism.
+
+128
+00:11:47,080 --> 00:11:53,320
+But we know seven of those eight gene segments are avian. One looks like it was mammalian,
+
+129
+00:11:53,880 --> 00:12:00,920
+not necessarily a pig. So we don't really know what mammal it passed through. And we're not certain
+
+130
+00:12:00,920 --> 00:12:08,120
+that it passed through a mammal at all. So to designate it as swine flu, I'm not sure I'd agree.
+
+131
+00:12:08,120 --> 00:12:14,680
+In fact, there's very good evidence that people gave the 1918 virus to swine rather than the other
+
+132
+00:12:14,760 --> 00:12:22,280
+way around. But having said that, the pandemic killed between 50 and a hundred million people.
+
+133
+00:12:22,280 --> 00:12:28,760
+You adjust for population, that's 220 to 440 million people today. It killed two-thirds of
+
+134
+00:12:28,760 --> 00:12:35,320
+them in a remarkably short period of time, generally 14 or 15 weeks from late September
+
+135
+00:12:35,320 --> 00:12:42,360
+through December 1918. It was a very mild, spotty first wave in the spring of 1918, which
+
+136
+00:12:43,000 --> 00:12:48,840
+did not spread worldwide and was very hit or miss. And the countries that did hit. Then there was a
+
+137
+00:12:48,840 --> 00:12:57,080
+third wave in 1919 began in February, yes, extended through the spring. And that's basically
+
+138
+00:12:57,960 --> 00:13:03,800
+the story of the pandemic in very, very short order. So let's go back to the Haskell County,
+
+139
+00:13:03,800 --> 00:13:09,480
+Kansas. We're in the final year of World War I. So we're kind of latter part of the winter,
+
+140
+00:13:09,480 --> 00:13:15,720
+early part of the spring in 2018. And some doctors there kind of noticed something, right?
+
+141
+00:13:15,720 --> 00:13:22,600
+Right. The first report anywhere in the world, any language that I could find of a lethal form
+
+142
+00:13:22,600 --> 00:13:29,640
+of influenza was actually in Haskell County, Kansas, southwestern, western part of the state
+
+143
+00:13:29,640 --> 00:13:36,200
+near the Texas border. There was a very astute physician in that county named Laurie Nina,
+
+144
+00:13:36,840 --> 00:13:42,920
+who reported this lethal form of influenza to the US Public Health Service. Although that
+
+145
+00:13:42,920 --> 00:13:50,840
+account was not actually published until April. I found the record, since it was the only report
+
+146
+00:13:50,840 --> 00:13:56,600
+in the spring in public health reports, I decided to check out the weekly newspapers, figuring there
+
+147
+00:13:56,600 --> 00:14:02,840
+would be some delay in publishing the report and found out there was a several month delay.
+
+148
+00:14:02,840 --> 00:14:12,040
+Anyway, you could trace by name people whose families had someone suffering from pneumonia,
+
+149
+00:14:12,040 --> 00:14:18,680
+who went from there to Fort Riley for training as soldiers or visiting somebody there.
+
+150
+00:14:19,560 --> 00:14:26,120
+Several people by name and they arrived in early March and like clockwork right after their
+
+151
+00:14:26,120 --> 00:14:32,040
+arrival, a couple of days, the first reports of influence in that camp. So I thought that might be
+
+152
+00:14:32,120 --> 00:14:39,400
+the site of origin, rural Kansas, and actually published a scientific article in the journal
+
+153
+00:14:39,400 --> 00:14:44,440
+Translational Medicine, which was run by Franco Marincola, whom you may know.
+
+154
+00:14:44,440 --> 00:14:45,800
+I know Franco very well.
+
+155
+00:14:47,080 --> 00:14:52,280
+Close friend of mine still is. That actually got some attention and had some credibility.
+
+156
+00:14:53,960 --> 00:14:57,960
+Since the book was published and since that article was published, there's been a lot of
+
+157
+00:14:57,960 --> 00:15:07,320
+research on influenza. We found out that China actually did not have a grievous experience
+
+158
+00:15:08,120 --> 00:15:16,840
+in 1918. So based on the fact that they did not suffer huge numbers of deaths, it strongly suggests
+
+159
+00:15:16,840 --> 00:15:23,400
+that there was prior exposure to that virus. So I think it's more likely that it started in China.
+
+160
+00:15:23,400 --> 00:15:28,360
+There are other hypotheses out there, including Vietnam and France, for that matter, France in
+
+161
+00:15:28,360 --> 00:15:36,200
+1915. We will never know where it actually did start. At any rate, roughly half the army camps
+
+162
+00:15:36,200 --> 00:15:40,440
+in the US were infected in the spring, even though not very many civilian communities were,
+
+163
+00:15:40,440 --> 00:15:45,560
+although New York City and Chicago were. Los Angeles didn't suffer a single influenza death
+
+164
+00:15:45,560 --> 00:15:52,280
+in the spring. The studies that were contemporary, there are several numerous ones, both in the
+
+165
+00:15:52,280 --> 00:15:59,000
+United States and Britain by a Nobel laureate named Macfarlane Burnett in Australia. These
+
+166
+00:15:59,000 --> 00:16:05,080
+studies all concluded that it was most likely that influenza was carried to Europe by American
+
+167
+00:16:05,080 --> 00:16:12,040
+soldiers in the spring of 1918. That happened to be a pretty mild wave, where not a lot of deaths
+
+168
+00:16:13,080 --> 00:16:18,360
+wasn't noticed at all in any civilian community in the United States at the time.
+
+169
+00:16:18,360 --> 00:16:25,480
+Retrospectively, there have been some that have been identified. And over the course of the summer,
+
+170
+00:16:25,480 --> 00:16:34,440
+my speculation is that the virus mutated, became much more virulent. And in mid-September,
+
+171
+00:16:35,240 --> 00:16:43,000
+it's simultaneously in lethal form, hit Africa and Boston. But actually the first lethal wave
+
+172
+00:16:43,080 --> 00:16:48,840
+of the influenza occurred in Switzerland. That was noted in July. There was a US military
+
+173
+00:16:48,840 --> 00:16:54,760
+intelligence report from Switzerland, which said this disease is being called influenza,
+
+174
+00:16:54,760 --> 00:16:59,720
+but it's actually the Black Death of the Middle Ages. Can we pause there for a second, John,
+
+175
+00:16:59,720 --> 00:17:07,400
+and put this in some context? So we talk about the pandemics to end all pandemics. And I just
+
+176
+00:17:07,480 --> 00:17:14,920
+want to kind of put this in context. Is it safe to say that the bubonic plague of the 14th century,
+
+177
+00:17:14,920 --> 00:17:22,680
+if my memory recalls, is the greatest pandemic of them all? Yeah, easily. In terms of proportion of
+
+178
+00:17:22,680 --> 00:17:28,200
+the population who were killed, an estimated quarter to a third in Europe, the subtitle of my
+
+179
+00:17:28,200 --> 00:17:33,960
+book is The Deadliest Pandemic in History. And that's true in the sense of the numbers of people
+
+180
+00:17:33,960 --> 00:17:39,960
+killed. But as a percentage of the population, there's no doubt the plague of the middle ages
+
+181
+00:17:39,960 --> 00:17:48,040
+killed many, many more than influenza did. So do you think that the same virus that killed
+
+182
+00:17:48,680 --> 00:17:54,120
+a reasonable number of people starting in Haskell County is the same? And by the way,
+
+183
+00:17:54,120 --> 00:17:58,920
+that's the same virus that probably went to France with the soldiers. Do you think that
+
+184
+00:17:58,920 --> 00:18:05,960
+is the same virus that came back in October of 2018? And as you pointed out, basically knocked
+
+185
+00:18:05,960 --> 00:18:12,920
+out two thirds of its victims. Or do you think it was a totally different virus? Well, I think the
+
+186
+00:18:12,920 --> 00:18:18,120
+evidence is overwhelming that it's the same virus. It's a staggering mutation between these two.
+
+187
+00:18:18,120 --> 00:18:22,920
+Right. There are people I respect, or at least one word. It's not so much that they think it's
+
+188
+00:18:22,920 --> 00:18:28,440
+different virus. They're yet to accept the fact that it's the same virus. I can go into detail as
+
+189
+00:18:28,440 --> 00:18:34,120
+to why I'm convinced it's the same virus, if you like. I would love that. Okay. Number one,
+
+190
+00:18:34,920 --> 00:18:41,080
+in New York City, there was a careful study of the spring outbreak, even though relatively few
+
+191
+00:18:41,080 --> 00:18:49,560
+people died. It was exactly the same signature of demographics, which is very unusual for influenza.
+
+192
+00:18:49,560 --> 00:18:57,480
+1918, the peak age for death was 28. It's a so-called W curve, usually influenza kills the
+
+193
+00:18:57,480 --> 00:19:02,520
+very young and the elderly. That was not the case in the spring. And it was not the case in the
+
+194
+00:19:02,520 --> 00:19:09,640
+fall. And both of those patterns are highly unusual. That's number one. Number two, in fact,
+
+195
+00:19:09,640 --> 00:19:15,640
+I actually did write an article for Journal of Infectious Disease on this. The first wave
+
+196
+00:19:15,640 --> 00:19:23,000
+exposure was very protective. Again, second wave illness, a couple of NIH epidemiologists helped me
+
+197
+00:19:23,000 --> 00:19:30,120
+write that paper. Lorna Simonson and Cecile de Blube, very good epidemiologist on influenza.
+
+198
+00:19:30,120 --> 00:19:36,680
+The first wave provided between 59% and 89% protection against illness. That compares to
+
+199
+00:19:36,680 --> 00:19:44,360
+a vaccine today, which in the last 20 years has ranged from 10% to 62% protection. So it's much
+
+200
+00:19:44,360 --> 00:19:50,520
+better than a modern vaccine. Number three, when they reconstructed the virus and stuck it in
+
+201
+00:19:50,520 --> 00:19:56,520
+ferrets, it was highly lethal, much more so than any other influenza virus.
+
+202
+00:19:56,520 --> 00:20:00,280
+Sorry, John, that's from the first batch, meaning the first wave.
+
+203
+00:20:00,280 --> 00:20:08,040
+No, they reconstructed the genome. Jeff Taubenberger sequenced the genome by extracting it from slides
+
+204
+00:20:08,040 --> 00:20:13,720
+from lung tissue at the Armed Forces Institute of Pathology. He's now at NIH.
+
+205
+00:20:13,720 --> 00:20:17,320
+Taken from patients who died in the first wave or the second wave?
+
+206
+00:20:17,320 --> 00:20:24,600
+Actually, he's now found, that's another reason, he's now found a sample as early as May,
+
+207
+00:20:24,600 --> 00:20:29,880
+which is the same virus. Well, that would be the most compelling of all of these things, correct?
+
+208
+00:20:29,880 --> 00:20:37,720
+Well, I mean, just the, perhaps. I think the epidemiology, demographics, I think the immune
+
+209
+00:20:37,720 --> 00:20:42,600
+protection that afforded is pretty compelling evidence, particularly the immune protection.
+
+210
+00:20:42,600 --> 00:20:47,320
+But certainly the fact that they've got a sample from May, which is the same virus,
+
+211
+00:20:47,320 --> 00:20:52,040
+that's pretty good evidence as well. Interestingly, in terms of immune protection,
+
+212
+00:20:52,040 --> 00:20:56,840
+the first wave protected against the second wave, but neither first nor second wave
+
+213
+00:20:57,880 --> 00:21:02,520
+exposure protected against the third wave, which started in February, 1919.
+
+214
+00:21:03,160 --> 00:21:07,240
+We're going to include a bunch of figures to accompany this podcast, John, because I think
+
+215
+00:21:07,240 --> 00:21:12,520
+that as you describe these things, I mean, those of us who have spent time reading about it can
+
+216
+00:21:12,520 --> 00:21:17,240
+picture what you're describing, which are these three peaks. You've got this first little peak in
+
+217
+00:21:17,240 --> 00:21:23,240
+the spring of 18. And then it's, if you just saw it by itself, it would look devastating just based
+
+218
+00:21:23,240 --> 00:21:29,560
+on the absolute numbers, but then it is so dwarfed in a relative sense by what comes about in September
+
+219
+00:21:29,560 --> 00:21:36,040
+to December of that same year, which I mean, basically is like Everest next to Kilimanjaro.
+
+220
+00:21:36,040 --> 00:21:41,240
+And then you do have a third peak, which is even bigger than the first peak, probably by 3X,
+
+221
+00:21:41,240 --> 00:21:47,960
+that takes into 2019. So I want to come back to sort of implications of that as we go forward. But
+
+222
+00:21:48,600 --> 00:21:54,120
+one of the things about this that is interesting when we look back is we don't think of the world
+
+223
+00:21:54,120 --> 00:22:00,840
+as being very connected in 1918. There were no airplanes, you had to cross by ship and do all
+
+224
+00:22:00,840 --> 00:22:07,160
+of these things. You just wouldn't think that this thing could go as much as it did. And yet there
+
+225
+00:22:07,240 --> 00:22:13,080
+are some really nice videos out there that show you a temporal view of where infections popped up
+
+226
+00:22:13,080 --> 00:22:20,840
+over time. And it's kind of amazing how quickly that second wave grows. What is your sense of the
+
+227
+00:22:21,480 --> 00:22:25,880
+movement of the second wave of that? How did it, and maybe we can just for simplicity,
+
+228
+00:22:25,880 --> 00:22:29,960
+focus on the United States, but I do want to come back and understand places like India that were
+
+229
+00:22:29,960 --> 00:22:39,880
+just decimated. First, you don't need steam power to move a pandemic in the 1600s. Influenza managed
+
+230
+00:22:39,880 --> 00:22:45,800
+across the Atlantic Ocean and devastate Virginia and Massachusetts, not to mention the Native
+
+231
+00:22:45,800 --> 00:22:52,840
+American population. Guns, germs and steel is sort of a great example of this. Right. Or better than
+
+232
+00:22:52,840 --> 00:22:59,480
+guns, germs and steel. You've got McNeil, and then you've got one of my favorite books of all time,
+
+233
+00:22:59,480 --> 00:23:04,440
+which I highly recommend to everyone by McFarland Burnett. I mentioned him earlier,
+
+234
+00:23:04,440 --> 00:23:08,760
+Nobel Laureate, called The Natural History of Infectious Disease, which is just an incredibly
+
+235
+00:23:08,760 --> 00:23:15,480
+good book and quite accessible to a lay person. So we were talking about timing. My guess is the
+
+236
+00:23:15,480 --> 00:23:23,000
+virus seeded itself largely around the world and then erupted. Takes a while to get a pandemic
+
+237
+00:23:23,000 --> 00:23:31,240
+started, but once it got going, it was moving pretty fast. Although the army, which has very
+
+238
+00:23:31,240 --> 00:23:37,400
+good data and had great epidemiologists in their study, which wasn't published until the 1930s,
+
+239
+00:23:37,400 --> 00:23:43,160
+they had tremendous amounts of data. It took a while to assemble it all and publish it. They said
+
+240
+00:23:43,160 --> 00:23:51,800
+that in their army camps, beginning in late July and early August, in retrospect, they could identify
+
+241
+00:23:52,600 --> 00:23:59,000
+a steadily increasing uptick in pneumonia in the camps, which if they put it on a graph,
+
+242
+00:23:59,000 --> 00:24:05,400
+was essentially a log advance, whatever the appropriate terminology is, to describe that
+
+243
+00:24:05,400 --> 00:24:11,800
+increase and then it erupted, of course. And this was noticed in their camps, independent
+
+244
+00:24:12,520 --> 00:24:20,520
+of the return of the virus to the United States, which first occurred in Boston and the
+
+245
+00:24:20,520 --> 00:24:27,560
+naval facility or essentially naval barracks, and then spread to Camp Devens, which is about,
+
+246
+00:24:27,560 --> 00:24:33,320
+I guess, 30 miles northwest of Boston, maybe a little more than that, where that was the
+
+247
+00:24:33,320 --> 00:24:38,120
+first army camp that really exploded with the deadly form of the disease.
+
+248
+00:24:39,320 --> 00:24:45,080
+How much was the transition of the first of the second wave and the propagation of the second wave
+
+249
+00:24:45,720 --> 00:24:53,160
+made worse by the war? I'll start on pointing out the two issues. One is just the proximity and
+
+250
+00:24:53,160 --> 00:24:58,920
+physical nature of war and the fact that soldiers could become such effective conduits and vectors,
+
+251
+00:24:58,920 --> 00:25:03,160
+but also in terms of the media's response to this or the government response to this.
+
+252
+00:25:03,800 --> 00:25:07,560
+Well, in terms of the government response, it was major. I'll talk about that in a second.
+
+253
+00:25:07,560 --> 00:25:14,760
+In terms of the war spreading the pandemic, I think it accelerated a little bit, maybe by a
+
+254
+00:25:14,760 --> 00:25:20,840
+few weeks or something like that. The outbreak in New York City, for example, preceded any outbreak
+
+255
+00:25:21,400 --> 00:25:28,360
+in army camps. It's also another reason why I backed off my Haskell hypothesis. Haskell did
+
+256
+00:25:28,360 --> 00:25:33,720
+precede New York City by a couple of weeks, but it's hard to figure out how it would have gotten
+
+257
+00:25:33,720 --> 00:25:38,840
+from Haskell to New York City, although it certainly could have happened. Anyway, with New
+
+258
+00:25:38,840 --> 00:25:45,160
+York having a well-defined spring outbreak and Chicago also, it's pretty clear it would have
+
+259
+00:25:45,160 --> 00:25:51,560
+gotten anywhere everywhere eventually and sooner rather than later. Whether you have 10 people
+
+260
+00:25:51,560 --> 00:25:59,720
+getting off a ship from New York to England or France or whether you have a few thousand
+
+261
+00:25:59,720 --> 00:26:05,240
+soldiers getting off a ship really doesn't make that much difference in spreading the pandemic.
+
+262
+00:26:05,240 --> 00:26:13,320
+Just difference in timing, but with an reproductive number close to two, you catch up pretty fast,
+
+263
+00:26:13,320 --> 00:26:19,400
+even if you start with one index case, much less 10 or 20. So I think the war accelerated the spread,
+
+264
+00:26:20,040 --> 00:26:24,840
+but I don't think it's responsible for the spread. It just happened a little bit faster.
+
+265
+00:26:25,640 --> 00:26:32,840
+In terms of the other question about the response, that was a major factor in, I think,
+
+266
+00:26:32,840 --> 00:26:39,480
+the death toll possibly, certainly in the fear and in some cases chaos that was generated.
+
+267
+00:26:40,360 --> 00:26:47,320
+The government had created this infrastructure because of the war. The federal government,
+
+268
+00:26:47,320 --> 00:26:52,520
+I believe, more than any other time in its history, including the McCarthy period or the Civil War,
+
+269
+00:26:53,160 --> 00:27:01,400
+was determined to control the thought of Americans. They had a law that made it punishable by 20 years
+
+270
+00:27:01,400 --> 00:27:07,960
+in jail. If you, to quote, utter right, print or publish any disloyal, scarless, or profane
+
+271
+00:27:08,680 --> 00:27:13,640
+language about the government of the United States. So you could curse the government,
+
+272
+00:27:13,640 --> 00:27:18,520
+you just broke the law. They weren't kidding about this. They actually sent a congressman
+
+273
+00:27:18,520 --> 00:27:23,880
+to jail for 15 years under the law. This was upheld by the Supreme Court. It's where the line
+
+274
+00:27:24,760 --> 00:27:30,440
+came about. You can't shout for fire in a crowded theater. That came from that Supreme Court decision
+
+275
+00:27:30,520 --> 00:27:36,600
+upholding that law. They also had a propaganda arm called the Committee for Public Information,
+
+276
+00:27:37,480 --> 00:27:44,600
+which was determined to quote, keep morale up, unquote. The architect of that committee
+
+277
+00:27:44,600 --> 00:27:49,400
+said truth and falsehood are arbitrary terms. There's nothing in experience to tell us that one
+
+278
+00:27:49,400 --> 00:27:55,080
+is superior to the other. Went on to say all that mattered was the impact of what if you're saying.
+
+279
+00:27:55,720 --> 00:28:04,200
+So that propaganda arm was going to minimize anything that might depress the American public
+
+280
+00:28:04,200 --> 00:28:10,680
+because they feared that would affect the war effort. So the pandemic fitted into this construct.
+
+281
+00:28:10,680 --> 00:28:14,760
+By the way, that makes me feel not so bad about the world we live in today. It suggests that
+
+282
+00:28:14,760 --> 00:28:21,000
+history can repeat itself and maybe the pendulum can swing back a bit. I go around quoting Hegel.
+
+283
+00:28:21,560 --> 00:28:26,760
+Everybody quotes Santa Ana. I like Hegel. Hegel said what we learned from history is we learn
+
+284
+00:28:26,760 --> 00:28:37,400
+nothing from history. Just contrarian. Anyway, as a result of this approach to maintaining morale,
+
+285
+00:28:38,280 --> 00:28:44,360
+unquote, the national public health leader said this is ordinary influenza by another name. It
+
+286
+00:28:44,360 --> 00:28:49,240
+was referred to as Spanish influenza, even though it didn't start in Spain. Another national public
+
+287
+00:28:49,240 --> 00:28:56,040
+health leader said if you have nothing to fear, if proper precautions are taken. But people
+
+288
+00:28:56,040 --> 00:29:01,560
+pretty soon and throughout the country and most localities, the local public health commissioner
+
+289
+00:29:02,200 --> 00:29:09,320
+echoed these approaches. The press was complicit. It was fake news because they were not reporting
+
+290
+00:29:09,320 --> 00:29:15,160
+the truth because they were only saying nice things. But everybody knew it wasn't influenza
+
+291
+00:29:15,160 --> 00:29:20,200
+by another name, ordinary influenza by another name. There were deaths in less than 24 hours
+
+292
+00:29:20,200 --> 00:29:27,000
+after first symptoms. That was unusual, but it certainly happened. What was the typical course?
+
+293
+00:29:27,000 --> 00:29:32,280
+I mean, you mentioned that the R0 reproductive number approached two, which made it more
+
+294
+00:29:32,280 --> 00:29:38,120
+contagious even than garden variety influenza. But its real superpower was not that it was a more
+
+295
+00:29:38,120 --> 00:29:43,480
+aggressive spreader. It's the actual pathology of the disease that's probably its superpower.
+
+296
+00:29:43,480 --> 00:29:49,240
+And I use that term horribly because evolutionarily, that's not a superpower for a virus. A
+
+297
+00:29:49,240 --> 00:29:53,960
+superpower virus would kill nobody, would have an R0 of infinity and kill no one. That would be the
+
+298
+00:29:53,960 --> 00:29:59,880
+best virus if you were thinking about it from Darwin's point of view. But this was a deadly
+
+299
+00:29:59,880 --> 00:30:06,280
+virus. What was the typical clinical course? The typical course was ordinary influenza,
+
+300
+00:30:06,280 --> 00:30:11,240
+but in the West, the case mortality was about 2%, much worse than that in the
+
+301
+00:30:11,240 --> 00:30:16,600
+less developed world. Not because Western medicine was any better, but because in the West,
+
+302
+00:30:17,560 --> 00:30:22,360
+people had some cross protection from having been exposed to other influenza viruses.
+
+303
+00:30:22,360 --> 00:30:25,880
+And in the less developed world, that was not the case. They were,
+
+304
+00:30:25,880 --> 00:30:35,000
+quote, virgin populations, unquote, naive immune systems. But the 1918 virus, like coronavirus,
+
+305
+00:30:35,960 --> 00:30:42,040
+but unlike most influenza viruses, could bind to cells in the upper respiratory tract,
+
+306
+00:30:42,040 --> 00:30:48,120
+which made it easily transmissible. But it also could bind directly to cells deep in the lung,
+
+307
+00:30:48,120 --> 00:30:51,080
+which meant you were starting out essentially with viral pneumonia.
+
+308
+00:30:52,040 --> 00:30:59,720
+Those were the awful pathologies where some of the symptoms in the book, I quote, one physician
+
+309
+00:30:59,800 --> 00:31:05,800
+writing a colleague that people were turning so dark blue from lack of oxygen that he couldn't
+
+310
+00:31:05,800 --> 00:31:10,600
+distinguish colored soldiers from white soldiers, African-American, I'm quoting him.
+
+311
+00:31:11,160 --> 00:31:17,960
+That, of course, spread rumors of the black plague when people's pallor turned so in that color.
+
+312
+00:31:18,680 --> 00:31:24,760
+And that virus also, unlike most influenza viruses, could pretty much attack any organ.
+
+313
+00:31:24,760 --> 00:31:31,960
+It was initially misdiagnosed as typhoid, as dengue, as cholera. Nosebleed was quite common
+
+314
+00:31:31,960 --> 00:31:37,480
+in some army camps. They reported 15% of the soldiers had nosebleed. It was also possible
+
+315
+00:31:37,480 --> 00:31:43,400
+for people to bleed from their mouths and from even their eyes and ears, which are, of course,
+
+316
+00:31:43,400 --> 00:31:51,400
+other mucosal membranes. So that's pretty scary, particularly for a layperson. So to be told this
+
+317
+00:31:51,400 --> 00:31:55,960
+is ordinary influenza by another name, when you're seeing symptoms like that and you're
+
+318
+00:31:55,960 --> 00:32:02,600
+seeing people die rapidly, it gets your attention. And what it means is you stop trusting anything
+
+319
+00:32:02,600 --> 00:32:08,520
+that you're being told by anyone in authority. I think society is based on trust. When trust
+
+320
+00:32:08,520 --> 00:32:15,880
+evaporates, society begins to fray. And in some places, it got pretty bad. There were reports of
+
+321
+00:32:15,880 --> 00:32:23,240
+people starving to death, not because of lack of food, but because no one had the courage to
+
+322
+00:32:23,240 --> 00:32:28,120
+bring them food. This happened in cities like Philadelphia, which I focused on in the book,
+
+323
+00:32:28,680 --> 00:32:33,560
+but also according to the Red Cross, reports of that, things like that happening in rural
+
+324
+00:32:33,560 --> 00:32:37,880
+communities occurred as well. The story of Philadelphia is an interesting one. And I
+
+325
+00:32:37,880 --> 00:32:43,160
+really want to come back to it as a case study and then contrast it with other cities. Obviously,
+
+326
+00:32:43,160 --> 00:32:47,160
+you contrast it quite eloquently with St. Louis, but also San Francisco and others. I want to talk
+
+327
+00:32:47,160 --> 00:32:53,160
+about that. But going back to the pathology of this illness, it really seems like typical influenza,
+
+328
+00:32:53,160 --> 00:32:57,480
+you get a little bit of a... I think of it as sort of a... You stun the immune system. You get this
+
+329
+00:32:57,480 --> 00:33:02,840
+immune paralysis that can often result in a superimposed bacterial infection and all of
+
+330
+00:33:02,840 --> 00:33:08,440
+these other things that come to bear and anybody therefore who's susceptible to super infection,
+
+331
+00:33:08,440 --> 00:33:12,920
+meaning people who are hospitalized already in a nosocomial environment. I mean, those things
+
+332
+00:33:12,920 --> 00:33:17,160
+sort of become problematic. But as you pointed out, there was something really distinct about
+
+333
+00:33:17,160 --> 00:33:25,240
+this pattern of victim here, especially in 1918 in that second cohort, which is this was
+
+334
+00:33:25,240 --> 00:33:31,720
+knocking off people in their 30s, the way we would normally see people dying in their 70s and 80s.
+
+335
+00:33:31,720 --> 00:33:35,960
+And the idea being here that it was... P-gauge for death was 28.
+
+336
+00:33:35,960 --> 00:33:40,360
+Suggesting that the stronger your immune system was, the worse you are.
+
+337
+00:33:40,360 --> 00:33:46,360
+Exactly. The same thing people are dying of today, acute respiratory distress syndrome.
+
+338
+00:33:46,360 --> 00:33:53,080
+Your immune system releases, as you know, cytokines, which the immune system has some very lethal
+
+339
+00:33:53,080 --> 00:33:58,440
+weapons. The virus, when it was in the lung, the immune system attacked it with everything it had.
+
+340
+00:33:59,080 --> 00:34:04,760
+And the battlefield was along, which was being essentially wiped out in the effort to destroy
+
+341
+00:34:04,760 --> 00:34:12,200
+the virus. Exactly the same thing is happening today in those people who are dying of coronavirus.
+
+342
+00:34:12,840 --> 00:34:19,000
+Now, I will say probably a majority of people in 1918 died of secondary bacterial pneumonia.
+
+343
+00:34:19,000 --> 00:34:25,080
+There are some people who think that 95% of the deaths were bacterial pneumonia. I think that is
+
+344
+00:34:25,960 --> 00:34:35,800
+mistaken. It's difficult to quantify how much was bacterial pneumonia and how much was directly
+
+345
+00:34:35,800 --> 00:34:43,560
+because of the virus. My guess would be a third to 40% would be directly virus, but that's a guess.
+
+346
+00:34:43,560 --> 00:34:51,320
+I certainly think it's a lot more than 5% as some have hypothesized. And just the anecdotal reports
+
+347
+00:34:51,320 --> 00:34:59,480
+from very good pathologists suggest that that was not the case. And even today, bacterial pneumonia
+
+348
+00:34:59,480 --> 00:35:05,480
+following influenza has an 8% case fatality rate with all the antibiotics we have. Back then,
+
+349
+00:35:05,480 --> 00:35:12,280
+it was 35%. That's actually unbelievable. I didn't realize it was that high today, by the way. 8%
+
+350
+00:35:12,280 --> 00:35:17,080
+today seems a pretty high number, but to your point, these people are already incredibly
+
+351
+00:35:17,080 --> 00:35:23,640
+compromised based on what they've been through to get there. So let's go to Labor Day 2018,
+
+352
+00:35:23,640 --> 00:35:29,640
+set the stage again, just to remind people where we are. You had this awful virus that ripped
+
+353
+00:35:29,640 --> 00:35:37,560
+through the United States in some pockets in the spring. It killed what may be 25,000, 50,000
+
+354
+00:35:37,560 --> 00:35:43,640
+Americans by that point. I've never put a number on that or seen a number on that. It's really
+
+355
+00:35:43,640 --> 00:35:49,560
+hard to say. Yeah. I mean, directionally, it's like less than a 10th of the total population
+
+356
+00:35:49,560 --> 00:35:57,080
+that would ultimately die, which was about 650,000 Americans, correct? Roughly, yeah. 650, 675 were
+
+357
+00:35:57,080 --> 00:36:03,240
+the numbers that I've seen, yeah. So now fast forward, we've just enjoyed a summer of relatively
+
+358
+00:36:03,240 --> 00:36:09,640
+low mortality domestically. The virus, of course, has been doing something else abroad. I don't
+
+359
+00:36:09,720 --> 00:36:14,760
+think people realize it at the time, but the war is about two months from being over. Right. That
+
+360
+00:36:14,760 --> 00:36:22,840
+was not common knowledge. No. People were gearing up for spring offensive in 1919 to end the war.
+
+361
+00:36:24,120 --> 00:36:29,160
+In Philadelphia, they need to raise money. There's a bond that basically the government has to borrow
+
+362
+00:36:29,160 --> 00:36:34,600
+money, and there's no better way to sort of do this than to kind of showcase what the money is
+
+363
+00:36:34,600 --> 00:36:39,240
+going to buy you and have a parade, right? Correct. And the fact that it wasn't just
+
+364
+00:36:39,240 --> 00:36:45,240
+Philadelphia, it was around the country, September 28th, it was a Liberty loan parade, a lot of cities.
+
+365
+00:36:45,240 --> 00:36:52,520
+But in Philadelphia, by then the virus had already established itself. And the medical community was
+
+366
+00:36:52,520 --> 00:36:58,920
+unanimous that the parade should be canceled. They were telling reporters this, reporters were
+
+367
+00:36:58,920 --> 00:37:05,400
+writing stories about it. Editors were killing the stories. As I'd said earlier, the press was
+
+368
+00:37:05,400 --> 00:37:12,360
+largely complicit with the morale boosting approach that the government took. The local public health
+
+369
+00:37:12,360 --> 00:37:16,760
+commissioner was part of a corrupt political machine. He's a perfectly good person, but didn't
+
+370
+00:37:16,760 --> 00:37:22,360
+have the backbone to stand up to it and tell you how corrupt that machine was. It elected a United
+
+371
+00:37:22,360 --> 00:37:29,720
+States Senator a few years later, and the Senate controlled by the same party refused to seat the
+
+372
+00:37:29,720 --> 00:37:34,920
+guy. That's pretty corrupt. When the US Senate won't seat somebody wins an election when it's a
+
+373
+00:37:34,920 --> 00:37:43,000
+member of the party that controls the Senate. Anyway, the parade went forward and pretty much
+
+374
+00:37:43,000 --> 00:37:49,000
+like clockwork, 48, 72 hours later, influenza exploded in Philadelphia, became one of the
+
+375
+00:37:49,000 --> 00:37:55,080
+hardest hit cities in the country. Within three weeks, 4,500 are dead. Something like that. In
+
+376
+00:37:55,080 --> 00:38:01,640
+total about 14,500 over the course of the pandemic. And getting back to the press to tell you how
+
+377
+00:38:01,640 --> 00:38:07,320
+complicit they were. So when they finally closed schools, banned public gatherings, closed
+
+378
+00:38:07,960 --> 00:38:14,840
+saloons, theaters, no church services, stuff like that. One of the local papers actually said,
+
+379
+00:38:15,720 --> 00:38:22,200
+this is not a public health measure. You have no cause for alarm. I mean, how stupid did they
+
+380
+00:38:22,200 --> 00:38:29,640
+think people were? But that contributed to the breakdown of society, contributed to the fear
+
+381
+00:38:30,280 --> 00:38:35,560
+and the terror. When you can't believe anything you're being told, and obviously by then,
+
+382
+00:38:35,560 --> 00:38:40,440
+everybody knew perfectly well that was a public health measure. People were dying all around them.
+
+383
+00:38:40,440 --> 00:38:44,760
+How did that information get around? Because obviously we take for granted today how
+
+384
+00:38:44,760 --> 00:38:50,920
+electronic information basically, I mean, it creates so much noise that it's hard to know
+
+385
+00:38:50,920 --> 00:38:57,400
+the signal. But back then you had a very different problem, which is if you lived in Los Angeles at
+
+386
+00:38:57,400 --> 00:39:05,640
+that time, what would be telling you that people are dying like flies in Philadelphia? If the formal
+
+387
+00:39:05,640 --> 00:39:09,640
+media is not doing anything about it? Well, you wouldn't necessarily know what was happening in
+
+388
+00:39:09,720 --> 00:39:15,560
+Philadelphia, particularly back then, because it's funny, I didn't write a lot about Phoenix in the
+
+389
+00:39:15,560 --> 00:39:20,520
+book, but it was too redundant with what had happened in Philadelphia, a little bit different.
+
+390
+00:39:20,520 --> 00:39:28,600
+But I did a lot of research in Phoenix. And interestingly, when the disease first hit Boston,
+
+391
+00:39:28,600 --> 00:39:32,840
+they were writing about it. When it was in New Orleans, they were writing less about it.
+
+392
+00:39:33,800 --> 00:39:40,520
+When the disease was actually in Phoenix, you could not find a word about it in the Phoenix paper.
+
+393
+00:39:41,480 --> 00:39:46,920
+On page 14, they had a death notice of somebody, that was about it. There was not in the headlines,
+
+394
+00:39:46,920 --> 00:39:55,000
+hardly ever. So it was strictly rumor. And again, that contributed to the level of fear.
+
+395
+00:39:55,640 --> 00:40:02,280
+You didn't know what was going on, which gets into maybe to jump ahead or not. When the Bush
+
+396
+00:40:02,280 --> 00:40:09,240
+administration started the pandemic preparedness planning, and the Bush administration launched a
+
+397
+00:40:09,240 --> 00:40:15,720
+major initiative, $7 billion bill that did all sorts of things, vaccine technology, investment,
+
+398
+00:40:15,720 --> 00:40:22,280
+research, create vaccine manufacturing, began the national stockpile. Anyway, I was asked to
+
+399
+00:40:22,280 --> 00:40:29,400
+participate in some of the early groups, which were coming up with so-called non-pharmaceutical
+
+400
+00:40:29,400 --> 00:40:33,240
+interventions, what are you doing? You don't have drugs. And my message in these groups
+
+401
+00:40:33,240 --> 00:40:38,120
+was always that the step one is to tell the truth, that people can deal with reality.
+
+402
+00:40:38,760 --> 00:40:43,720
+They can't deal with when you let their imaginations run loose. That's when you really
+
+403
+00:40:43,720 --> 00:40:50,600
+get into trouble. If you give them the straight facts, that it's much easier to handle. In a
+
+404
+00:40:50,600 --> 00:40:57,000
+monster movie, it's always scarier before the monster appears on the screen. Imagination is
+
+405
+00:40:57,000 --> 00:41:02,040
+very powerful things. Let's go back to Philadelphia. I've seen video footage of what can only be
+
+406
+00:41:02,040 --> 00:41:08,040
+described as horrifying because as terrifying as an uncertain, I guess, as the last couple of months
+
+407
+00:41:08,040 --> 00:41:15,800
+have been with respect to the unknowns around the coronavirus. When you look at morgues that can't
+
+408
+00:41:15,800 --> 00:41:23,240
+accommodate corpses, and when you also understand how little people understood about microbiology
+
+409
+00:41:23,240 --> 00:41:28,440
+at the time. And so they know enough to know that this is contagious. They know enough to know this is
+
+410
+00:41:28,440 --> 00:41:35,160
+respiratory contagious. But as you pointed out, there's a breakdown in society from not knowing
+
+411
+00:41:35,160 --> 00:41:40,120
+how and when and if you can help someone else. And what do you do when someone dies? I mean,
+
+412
+00:41:40,120 --> 00:41:44,520
+there are these stories of bodies that just were left out on the street because the risk of
+
+413
+00:41:45,080 --> 00:41:49,960
+actually having to go out and take care of a body and dispose of it could potentially expose you to
+
+414
+00:41:49,960 --> 00:41:56,840
+more. And I mean, to me, that's again, 14,000 deaths doesn't sound like an enormous number. I
+
+415
+00:41:56,840 --> 00:42:01,240
+mean, New York will likely eclipse that. New York City obviously adjusted for population.
+
+416
+00:42:01,240 --> 00:42:06,280
+Philadelphia would have been more in that time. But it's in part the speed with which it happened
+
+417
+00:42:06,280 --> 00:42:14,520
+and also just the fear of who's next. And I think the other thing is seeing these young people
+
+418
+00:42:14,520 --> 00:42:19,960
+dying in a way that you just you aren't used to. I guess if I'm going to play devil's advocate for
+
+419
+00:42:19,960 --> 00:42:25,720
+a moment, without the benefit of hindsight, is there an argument that one could make that says,
+
+420
+00:42:25,720 --> 00:42:29,400
+look, the public health officials or the people who should have been doing the right thing
+
+421
+00:42:30,200 --> 00:42:35,960
+didn't want to create an unnecessary panic in the other direction without knowing more? I'm sure
+
+422
+00:42:35,960 --> 00:42:40,840
+this is an argument that you've heard 100 times. What is the counterpoint to that if there is one?
+
+423
+00:42:41,560 --> 00:42:47,480
+As you say, that's the counter argument. But I think I already articulated the argument in favor
+
+424
+00:42:47,480 --> 00:42:52,440
+of the truth. Number one, the imagination is more powerful. And number two, if you ever expect the
+
+425
+00:42:52,440 --> 00:42:59,480
+public to do something you want the public to do, you better have credibility. And once you lose
+
+426
+00:42:59,480 --> 00:43:05,800
+credibility, you can't regain it. If you start out telling the truth, even by the way, when the truth
+
+427
+00:43:05,800 --> 00:43:09,560
+is, we don't know. I mean, to me, that's the biggest challenge the government has, right?
+
+428
+00:43:09,560 --> 00:43:17,000
+Well, that's okay, too. If you say we don't know, but we'll know when this test is performed,
+
+429
+00:43:17,000 --> 00:43:24,120
+and we have the results, you can go down the line as to why you don't know. And you can then say,
+
+430
+00:43:24,120 --> 00:43:31,960
+when we will know. So you provide information, and you can retain your credibility, even if you
+
+431
+00:43:31,960 --> 00:43:39,400
+don't know. I think that's the only way to go. My standard line is, I don't like the phrase risk
+
+432
+00:43:39,400 --> 00:43:44,680
+communication, because it implies managing the truth. You don't manage the truth, you tell the
+
+433
+00:43:44,680 --> 00:43:52,040
+truth. I would be in these working groups, and I mentioned DA Henderson earlier, DA, and I became
+
+434
+00:43:52,040 --> 00:43:59,480
+friends, because we were always in agreement, it seems, in these groups, sometimes opposed by others.
+
+435
+00:43:59,480 --> 00:44:06,360
+But on that one point of telling the truth, I never got any pushback from any of these groups
+
+436
+00:44:06,360 --> 00:44:14,440
+I participated in. The national pandemic plan, which was the outgrowth of those working groups,
+
+437
+00:44:15,080 --> 00:44:21,160
+certainly incorporates the idea of transparency, as does every state plan. The problem is,
+
+438
+00:44:22,600 --> 00:44:28,440
+someone has to go out and execute that pandemic plan. Someone has to go out, face the camera,
+
+439
+00:44:28,440 --> 00:44:35,160
+and tell the truth. Obviously, that has not happened. There are other countries where it
+
+440
+00:44:35,160 --> 00:44:41,000
+has happened, including Germany, which has done light years ahead of us in ending coronavirus,
+
+441
+00:44:41,000 --> 00:44:46,520
+or Singapore, and no doubt other countries, just not in the United States.
+
+442
+00:44:47,400 --> 00:44:51,560
+Going back to the Philadelphia story, how would you contrast that with what happened in St. Louis,
+
+443
+00:44:51,560 --> 00:44:59,160
+which you use as a counterpoint? Well, St. Louis intervened very early in terms of what we call
+
+444
+00:44:59,160 --> 00:45:07,160
+social distancing now. At least partly as a result of that, they had a much more benign experience
+
+445
+00:45:07,160 --> 00:45:14,360
+than most other cities on a per capita basis. It's not clear to me that 100% of that is attributable
+
+446
+00:45:14,360 --> 00:45:20,680
+to social distancing. We don't know. Nobody's ever looked. The information's ascertainable,
+
+447
+00:45:20,680 --> 00:45:25,000
+but I didn't have time to do the research whether or not they had a spring wave, for example,
+
+448
+00:45:25,000 --> 00:45:30,680
+which I am convinced, I think, have demonstrated did provide protection against the fall wave.
+
+449
+00:45:31,320 --> 00:45:35,160
+New York City, for example, didn't do anything. They did less than any other city. They didn't
+
+450
+00:45:35,160 --> 00:45:38,840
+close schools. They didn't close saloons. They didn't close theaters. They didn't do anything.
+
+451
+00:45:39,400 --> 00:45:46,040
+And yet, New York City had a relatively benign experience, I think, because of its spring wave.
+
+452
+00:45:46,040 --> 00:45:49,720
+Same thing in Chicago. Now, whether that was true in St. Louis, I don't know.
+
+453
+00:45:49,720 --> 00:45:55,000
+But St. Louis did act early and aggressively in terms of social distancing measures.
+
+454
+00:45:55,720 --> 00:46:01,320
+They were less extreme than what we're doing now, but they were imposed early. And
+
+455
+00:46:02,840 --> 00:46:10,760
+early action's very important. If you do it before the virus is widely disseminated in the community,
+
+456
+00:46:10,760 --> 00:46:15,480
+it can be effective. If you wait until people start dying all around you, by then the virus
+
+457
+00:46:15,480 --> 00:46:21,160
+is everywhere. And those measures are not going to be nearly as effective if they're effective at
+
+458
+00:46:21,160 --> 00:46:27,160
+all. San Francisco had some interesting policies, right? Weren't they so strict on how they enforced
+
+459
+00:46:27,160 --> 00:46:31,000
+masks that the police had authority to shoot a person in public who is not wearing a mask?
+
+460
+00:46:31,640 --> 00:46:39,000
+I miss that. I'm not saying you're wrong. They did require, by law, people wear masks. There were
+
+461
+00:46:39,000 --> 00:46:45,400
+several cities that did that. The thing that makes San Francisco interesting, they were the only
+
+462
+00:46:45,400 --> 00:46:50,440
+place I know of that really did tell the truth. I'm sure there must have been at least some other
+
+463
+00:46:50,440 --> 00:46:56,440
+places. Certainly, I didn't study every wall of 100 biggest cities in the country. But in San
+
+464
+00:46:56,440 --> 00:47:04,280
+Francisco, the mayor, labor leaders, business leaders, medical community all made a joint
+
+465
+00:47:04,280 --> 00:47:10,040
+statement. Huge, tight, full page in the newspaper, wear a mask and save your life.
+
+466
+00:47:11,240 --> 00:47:16,760
+Now, that is a very different message than this is ordinary influenza by another name.
+
+467
+00:47:17,640 --> 00:47:22,920
+You have nothing to fear. Proper precautions are taken. So wear a mask and save your life. This is
+
+468
+00:47:22,920 --> 00:47:28,840
+a life-threatening disease and you better take action. They honestly believe the masks were the
+
+469
+00:47:28,840 --> 00:47:35,480
+effect of they did next to nothing or probably nothing. San Francisco actually suffered,
+
+470
+00:47:35,480 --> 00:47:40,760
+forgot the exact number, but they were fourth or fifth highest excess mortality in the country.
+
+471
+00:47:41,720 --> 00:47:51,800
+But what that message did do was secure the community. The community did trust what the
+
+472
+00:47:51,800 --> 00:47:58,440
+leaders were telling them. And the community, instead of fraying as a society, in some cases,
+
+473
+00:47:58,440 --> 00:48:03,640
+almost breaking down. In San Francisco, that city functioned better than any other place that I know
+
+474
+00:48:03,640 --> 00:48:09,880
+of, in the sense that, for example, when schools were closed, teachers volunteered as ambulance
+
+475
+00:48:09,880 --> 00:48:16,920
+drivers, whatever was needed, as opposed to running and hiding, which was happening in other cities
+
+476
+00:48:16,920 --> 00:48:25,080
+where the leadership lied. And as a result, people felt it was everybody for himself or herself or
+
+477
+00:48:25,080 --> 00:48:31,400
+their families in the hell with the community. So after the pandemic, despite the fact that San
+
+478
+00:48:31,400 --> 00:48:39,480
+Francisco had a very high death toll, The Chronicle wrote an editorial saying that in our long history
+
+479
+00:48:39,480 --> 00:48:45,160
+of the city, despite the tragedy, this will be one of the most glorious episodes in our history
+
+480
+00:48:45,160 --> 00:48:49,560
+because of the way the community came together and functioned. I don't know of another city
+
+481
+00:48:50,200 --> 00:48:57,000
+anywhere that could have made a claim like that. Which is really a counterintuitive claim when you
+
+482
+00:48:57,000 --> 00:49:02,680
+think about both the general statement one would make about pandemics, which is unlike natural
+
+483
+00:49:02,680 --> 00:49:08,680
+disasters, acts of war and terrorism, pandemics tend to divide people, not unite them due to the
+
+484
+00:49:08,680 --> 00:49:14,440
+isolation and fear. And then secondly, this pandemic happens to be the worst of the bunch. You'd think
+
+485
+00:49:14,440 --> 00:49:19,800
+that if anything, this would have decimated communities. And yet you have this counter example.
+
+486
+00:49:19,800 --> 00:49:27,560
+Do you think it is this culture of abject honesty from the outset that played the main role in that?
+
+487
+00:49:28,280 --> 00:49:32,760
+I think that was a factor. I think in most disasters, people do come together. I live in
+
+488
+00:49:32,760 --> 00:49:36,200
+New Orleans. And that's what I'm saying. Most disasters, yes, I'm saying, but there's something
+
+489
+00:49:36,200 --> 00:49:40,600
+unique about these pandemics that people talk about saying, no, actually, these do more harm
+
+490
+00:49:40,600 --> 00:49:46,200
+than good in terms of social cohesion. Well, you know, if you look back at the plague and so forth
+
+491
+00:49:46,200 --> 00:49:51,560
+in the Middle Ages, the terror that was out there, a quarter to a third of the population being killed.
+
+492
+00:49:52,200 --> 00:49:58,840
+Yeah, I would say that's true. Plus the unknown factor. So you had everything working against you
+
+493
+00:49:59,640 --> 00:50:07,960
+in the Black Death. I think it's almost like a controlled experiment supporting my hypothesis
+
+494
+00:50:07,960 --> 00:50:14,360
+that telling the truth is the best way to go and that it can pull people together and make
+
+495
+00:50:14,360 --> 00:50:19,800
+even a pandemic, even in a pandemic, people function as they do in other disasters,
+
+496
+00:50:20,360 --> 00:50:27,400
+trying to help each other. The reality is I can't prove it quantitatively. But in terms of
+
+497
+00:50:27,400 --> 00:50:33,800
+anecdotally, I'm in the French Quarter, which is deserted. There are not a heck of a lot of full
+
+498
+00:50:33,800 --> 00:50:40,200
+time residents in the French Quarter. There are some, but people around here, neighbors whom I
+
+499
+00:50:40,920 --> 00:50:46,440
+don't really know a few blocks away, asking me if my wife and I go for walks. They're asking if
+
+500
+00:50:46,440 --> 00:50:51,240
+there's anything they can do for me. I have a couple of people who are younger. I'm over 70,
+
+501
+00:50:51,240 --> 00:50:57,800
+so is my wife. They volunteered to get groceries for us. I have a neighbor next door who's a dentist
+
+502
+00:50:57,800 --> 00:51:04,840
+who immediately went to his office and donated all his masks and gloves to a local hospital.
+
+503
+00:51:04,840 --> 00:51:12,600
+He's unusual in the sense that he did a medical rotation with interns in addition to his dental
+
+504
+00:51:12,600 --> 00:51:18,600
+school. So he's volunteered to go to hospitals and perform procedures that he's capable of doing
+
+505
+00:51:18,600 --> 00:51:23,880
+and take some of the stress off healthcare workers, which of course exposes himself to a lot of risk.
+
+506
+00:51:24,760 --> 00:51:30,840
+I get the sense around here that people are coming together. Again, it's anecdotal and it's
+
+507
+00:51:30,840 --> 00:51:37,960
+very localized even if I'm right, but that's the attitude nationally. That's a pretty big plus.
+
+508
+00:51:38,840 --> 00:51:43,080
+I want to pivot for a second and talk about two things we can do in either order you prefer. One
+
+509
+00:51:43,080 --> 00:51:49,160
+is I want to visit India a little bit because I was kind of astonished at the mortality in India.
+
+510
+00:51:49,160 --> 00:51:54,680
+It's almost hard to fathom. Then the second unrelated thread is really the, I don't know
+
+511
+00:51:54,680 --> 00:52:01,000
+much or I don't recall much about the factors between the second and the third wave. So in
+
+512
+00:52:01,000 --> 00:52:05,720
+either order you want to talk about those as we continue through this journey. Well, we can go in
+
+513
+00:52:05,720 --> 00:52:11,560
+either order you want because it may be a short discussion. Let's stay on the domestic thread and
+
+514
+00:52:11,560 --> 00:52:18,280
+talk about how much of the dying down of the second wave before the resurgence of the third,
+
+515
+00:52:18,280 --> 00:52:23,080
+because it doesn't appear to have been just seasonal or do you think that the seasonality
+
+516
+00:52:23,080 --> 00:52:29,720
+was the main driver of that? No, I very definitely do not think of seasonality. I think the virus
+
+517
+00:52:29,720 --> 00:52:36,040
+changed. As I said earlier, either first or second wave exposure seemed to protect against the third
+
+518
+00:52:36,040 --> 00:52:43,720
+wave. So that suggests a reasonably dramatic shift in the virus and what is referred to as you well
+
+519
+00:52:43,720 --> 00:52:51,240
+know, antigen drift. I should have said drift instead of shift in the the elder influenza.
+
+520
+00:52:51,240 --> 00:52:57,480
+That's actually a meaningful term of art. I can't prove that. Come to think of it, I don't believe
+
+521
+00:52:57,480 --> 00:53:03,800
+that Jeff Tobenberger who's the one who's done all the sequencing of old viruses. I don't know
+
+522
+00:53:03,800 --> 00:53:08,840
+that he's got a viral sample from 1919. Maybe he does. I should ask him. It'd be very interesting.
+
+523
+00:53:09,560 --> 00:53:15,000
+By then, most of the samples, not all of them, but most of the samples came out of the army.
+
+524
+00:53:15,720 --> 00:53:19,560
+By the spring of 1919, there probably weren't that many soldiers.
+
+525
+00:53:19,560 --> 00:53:26,040
+By the influenza, they would have been discharged. So they may not have samples. So I think the
+
+526
+00:53:26,680 --> 00:53:33,640
+the virus drifted enough to escape the immune system. It was lethal by any standard. 1919 was
+
+527
+00:53:33,640 --> 00:53:41,000
+lethal by any standard except the fall wave in 1918. It was the second worst year of the century
+
+528
+00:53:41,000 --> 00:53:47,000
+or that we know of in terms of influenza deaths. What was the morale of the country like at that
+
+529
+00:53:47,000 --> 00:53:53,080
+point when you have no reason to believe this isn't going to continue indefinitely? I sometimes
+
+530
+00:53:53,080 --> 00:54:01,480
+find it interesting to try to imagine going back in time, not knowing how the story ends and thinking
+
+531
+00:54:01,480 --> 00:54:06,920
+how could you concoct a story here that is really frightening? And to me, it would be
+
+532
+00:54:06,920 --> 00:54:10,840
+as you're in the midst of the third killing wave, this is the new norm.
+
+533
+00:54:12,040 --> 00:54:17,640
+Probably most Americans were relatively unaware of the first wave at all. So to them, it probably
+
+534
+00:54:17,640 --> 00:54:23,800
+was the second killing wave. That doesn't take away from the point you're making. And honestly,
+
+535
+00:54:23,800 --> 00:54:27,640
+I don't know. In the book, I was trying to focus. If you ask me what I write about,
+
+536
+00:54:28,280 --> 00:54:32,280
+I will tell you I write about power. I may be the only person who sees it that way.
+
+537
+00:54:32,920 --> 00:54:38,280
+The influenza book in terms of characters that I was trying to focus on the scientists because
+
+538
+00:54:38,280 --> 00:54:43,480
+they were the ones who had power to confront pandemic. And to a lesser extent, actually,
+
+539
+00:54:43,480 --> 00:54:49,320
+I focused on the politicians because they affected the course of the pandemic by lying
+
+540
+00:54:49,320 --> 00:54:54,600
+to the public and so forth. So I did not spend much time. Well, particularly, I didn't look
+
+541
+00:54:54,600 --> 00:55:01,400
+at newspapers and things like that for sources because that was fake news back then because
+
+542
+00:55:01,400 --> 00:55:06,440
+they were working with the government to minimize things. The war ended. There were so many other
+
+543
+00:55:06,440 --> 00:55:11,800
+things going on. I don't really know the answer to your question. Certainly, there was concern.
+
+544
+00:55:11,800 --> 00:55:17,960
+I don't get the sense from the little research that I did in the area that there was a kind of
+
+545
+00:55:17,960 --> 00:55:23,800
+terror erupting that accompanied the second wave. But I really don't know.
+
+546
+00:55:23,880 --> 00:55:28,360
+And what to make of India? About 20 million fatalities in India, correct?
+
+547
+00:55:29,160 --> 00:55:36,600
+At least. In fact, the original estimate of the death toll, which was in 1927,
+
+548
+00:55:36,600 --> 00:55:41,960
+studied by the American Medical Association, a guy named Edward Chorden, an infectious disease
+
+549
+00:55:41,960 --> 00:55:48,360
+expert, looked at the entire world and they originally estimated 21.7 million people died.
+
+550
+00:55:49,080 --> 00:55:54,280
+That was largely because they extrapolated the case mortality rate from the West where they had
+
+551
+00:55:54,280 --> 00:55:57,720
+semi-good data to the rest of the world, which turned out to be wrong.
+
+552
+00:55:58,680 --> 00:56:05,560
+My speculation is clearly those populations that had not seen immune influenza viruses before had
+
+553
+00:56:06,360 --> 00:56:12,600
+terrible mortality. Forget about case mortality and isolated island in the Pacific, Western Samoa,
+
+554
+00:56:12,600 --> 00:56:19,240
+22% of the entire population died. Not case mortality, 22% of the entire population.
+
+555
+00:56:19,240 --> 00:56:22,920
+And that's a very good number. We know exactly how many people died there.
+
+556
+00:56:23,800 --> 00:56:30,680
+In India, it's hard to imagine that that country had not been exposed to influenza viruses throughout
+
+557
+00:56:30,680 --> 00:56:36,680
+the country. And yet, I can't think of another possible explanation for their tremendous death
+
+558
+00:56:36,760 --> 00:56:45,560
+toll. And you can look at British Army, you've got Indian troops in the same camp as Caucasian
+
+559
+00:56:45,560 --> 00:56:53,400
+British troops. And the case mortality for the Caucasians is 9%. And the case mortality
+
+560
+00:56:54,040 --> 00:57:01,640
+for the Indians at the same place at the same time is over 20%. And it's not because medical
+
+561
+00:57:01,640 --> 00:57:05,480
+care was any different, because medical care didn't make any difference. All they could do
+
+562
+00:57:05,480 --> 00:57:10,200
+was support of care and keep you hydrated. That was about it. Maybe ice you down if you had a fever.
+
+563
+00:57:10,920 --> 00:57:15,400
+There could have just been genetic differences. There could have been certain things about the
+
+564
+00:57:15,400 --> 00:57:21,400
+way this virus binds. Maybe this was a virus that could have disproportionately affected
+
+565
+00:57:21,400 --> 00:57:27,320
+Southeast Asians, potentially more than Caucasians, just based on properties of how the virus worked.
+
+566
+00:57:27,320 --> 00:57:32,600
+Or to your point, which I think is seemingly the more logical, or the Occam's razor here would be
+
+567
+00:57:33,240 --> 00:57:39,800
+just a difference in immune preparedness. Exactly, the naive immune system. But we don't
+
+568
+00:57:39,800 --> 00:57:45,960
+really know. I've seen epidemiological studies, which range as high as 30 million in India.
+
+569
+00:57:45,960 --> 00:57:53,000
+But I haven't really seen a good hypothesis explaining why. All told, about 4% to 5% of the
+
+570
+00:57:53,000 --> 00:57:58,440
+world's population died? Does that sound about right? Well, you can do the math. It's pretty
+
+571
+00:57:58,440 --> 00:58:08,600
+simple, 1.8 billion people. So 50 million dead would be about 2.5%, roughly. 100 million would
+
+572
+00:58:08,600 --> 00:58:17,800
+be about 5%. The thing is, two-thirds of the dead were aged 18 to 45. So when you look at that
+
+573
+00:58:17,800 --> 00:58:24,040
+demographic... Yeah, that's a staggering impact on life expectancy. Yeah. Unaggregate life expectancy.
+
+574
+00:58:24,040 --> 00:58:31,480
+Yeah. And particularly when you throw in the short period of a few months during which most
+
+575
+00:58:31,480 --> 00:58:37,560
+of those people died. And then you go into other narrower demographics. And according to
+
+576
+00:58:37,560 --> 00:58:46,840
+Metropolitan Life, over 3% of all the factory workers in that age group died, not case mortality.
+
+577
+00:58:46,840 --> 00:58:53,000
+3% of the entire population of factory workers in that age group died in a period of weeks.
+
+578
+00:58:53,000 --> 00:58:59,000
+Pregnant women, there are a whole series of studies, which range from 21% to 71% case mortality.
+
+579
+00:59:00,040 --> 00:59:07,400
+Miners, according to Metropolitan Life, over 6% of all minors in that age group died, again,
+
+580
+00:59:07,400 --> 00:59:12,600
+in a very narrow period. And it's even shorter than that 14 or 15 weeks because influenza
+
+581
+00:59:13,160 --> 00:59:19,720
+would pass through a particular community anywhere from six to 10 weeks. So the time frame is very
+
+582
+00:59:19,720 --> 00:59:25,640
+compressed when people are dying. So it was a pretty horrific period to live through.
+
+583
+00:59:26,600 --> 00:59:30,040
+This is a question that might be a little bit outside of your area of expertise, but...
+
+584
+00:59:30,040 --> 00:59:34,600
+Oh, great. I pontificate. Happy to pontificate something. I know nothing about it.
+
+585
+00:59:34,600 --> 00:59:42,520
+Well, you might. Why did we roll into the 1920s with an enormous economic tailwind and not hit
+
+586
+00:59:42,520 --> 00:59:48,200
+a depression until a decade after this pandemic, when you would think that something that knocks
+
+587
+00:59:48,200 --> 00:59:55,240
+out that much of a country's population would have actually precipitated the economic downturn
+
+588
+00:59:55,240 --> 01:00:02,120
+immediately following this? Why is it that by the time this thing rolls to an end in late 19, 19, 20,
+
+589
+01:00:02,120 --> 01:00:09,080
+the country managed to resolve itself economically? Was that more on account of the war being over?
+
+590
+01:00:09,080 --> 01:00:14,120
+What do you attribute this to, if any thoughts? There actually was a recession that was fairly
+
+591
+01:00:14,120 --> 01:00:21,000
+deep, but very short-lived right after the war. And indeed, after World War II, there was a lot
+
+592
+01:00:21,000 --> 01:00:26,760
+of planning and anticipation of the same thing happening after World War II. It didn't happen
+
+593
+01:00:26,760 --> 01:00:31,800
+after World War II. It did happen after World War I, but again, it was brief. You're talking about
+
+594
+01:00:31,800 --> 01:00:40,600
+four million soldiers or more, plus however many were in the Navy, suddenly thrown back into the
+
+595
+01:00:40,600 --> 01:00:47,640
+workforce. So there was great dislocation and unemployment, but it was pretty brief. You had
+
+596
+01:00:47,640 --> 01:00:53,400
+pent-up demand, you had an adjustment as factories went back to making civilian products instead of
+
+597
+01:00:53,400 --> 01:01:00,280
+tanks or ships. So there was a dislocation, but then it did pick up. In terms of the attitude,
+
+598
+01:01:01,160 --> 01:01:07,720
+culture, people usually ask me what impact I thought the pandemic had. Again, it's very
+
+599
+01:01:07,720 --> 01:01:15,640
+difficult to quantify or be precise about my own senses. People understood it was there.
+
+600
+01:01:15,640 --> 01:01:21,240
+It was part of their consciousness. I think it may have contributed to the sense of ennui
+
+601
+01:01:21,240 --> 01:01:28,040
+in the 20s that party today, because who knows what's happening tomorrow. In 1933, when the Nazis
+
+602
+01:01:28,040 --> 01:01:33,800
+rolled into Germany, into Berlin, Christopher Isherwood wrote Berlin stories from which a great
+
+603
+01:01:33,800 --> 01:01:41,880
+movie, Cabaret, came. He said you could feel it like influenza in the bones. So he expected his
+
+604
+01:01:41,880 --> 01:01:49,640
+readers to understand that sense of dread deep within you that you get just from seeing the Nazis
+
+605
+01:01:49,640 --> 01:01:56,680
+show up. I think that analogy, the fact that he made it, is a powerful statement. By the same token,
+
+606
+01:01:56,680 --> 01:02:02,200
+there's very little that was written about it. John Dos Passos, one of my favorite writers,
+
+607
+01:02:02,200 --> 01:02:08,200
+got influence on a troop ship. It was a pretty bad place to get it. He hardly mentioned it in
+
+608
+01:02:08,200 --> 01:02:13,480
+any of his novels. There's just not that much written about it, which is a puzzlement, not only
+
+609
+01:02:13,480 --> 01:02:21,960
+to me, but to a lot of other people. In 2009, when H1N1 was coming, I'm guessing your phone
+
+610
+01:02:21,960 --> 01:02:29,240
+was ringing a lot. Yes. What was the fundamental difference from a virology standpoint between the
+
+611
+01:02:29,720 --> 01:02:37,800
+2009 H1N1 swine flu and let's just think about the second wave version of that same virus?
+
+612
+01:02:37,800 --> 01:02:44,760
+Well, the reality is that 2009 was very, very strange because it was almost two entirely
+
+613
+01:02:44,760 --> 01:02:52,280
+different diseases. The overwhelming majority of people who got sick had a relatively mild case
+
+614
+01:02:52,280 --> 01:03:01,960
+of influenza. But for those who were seriously ill, it was 1918. That virus, H1N1, well, 1918 was
+
+615
+01:03:01,960 --> 01:03:09,240
+H1N1 virus also. But the 2009 virus could bind directly to cells deep in the lung. What was the
+
+616
+01:03:09,240 --> 01:03:14,920
+genetic similarity between those two, do we know? Well, I write about science, but I'm not a
+
+617
+01:03:14,920 --> 01:03:20,760
+scientist. I know that it's referred to as you probably know, a triple reassortment of viruses,
+
+618
+01:03:21,320 --> 01:03:28,440
+meaning that there were three different influenza viruses that were involved in making up the genome
+
+619
+01:03:28,440 --> 01:03:37,480
+of the 2009 virus. Some of it probably went back, it did go back to 1918, but most of viruses
+
+620
+01:03:37,480 --> 01:03:42,440
+circulate, if not all of the human viruses circulating today have some of 1918 floating
+
+621
+01:03:42,440 --> 01:03:47,720
+around in them. So I can't really answer your question. Clearly, there had to have been a lot
+
+622
+01:03:47,720 --> 01:03:53,960
+of cross protection from other circulating viruses. Do you think the vaccination or the
+
+623
+01:03:53,960 --> 01:03:59,000
+frequency with which people had influenza vaccines and continued exposure to influenza
+
+624
+01:03:59,000 --> 01:04:06,760
+and perhaps greater medical care? No, I think it was simply the virus primarily. One thing that's
+
+625
+01:04:06,760 --> 01:04:14,360
+also interesting about 2009, the peak deaths, the age of the dead was very similar to 1918. I forgot
+
+626
+01:04:14,360 --> 01:04:21,000
+the exact number, whether it was 27, 28, or 29, or maybe even 30, but the average age of the people
+
+627
+01:04:21,000 --> 01:04:28,440
+who did die was very, very young, much different from ordinary influenza and very similar in 1918,
+
+628
+01:04:29,080 --> 01:04:33,720
+though most of them did have comorbidities. Let's head forward now to where we are. It's
+
+629
+01:04:33,720 --> 01:04:38,360
+a different type of virus. It's a coronavirus, not an influenza virus. They have things that
+
+630
+01:04:38,360 --> 01:04:44,840
+are common. They have things that are different. What have been your observations so far? I'm sure
+
+631
+01:04:44,840 --> 01:04:49,880
+you have assimilated a great deal of information. And though you're not a virologist, you're
+
+632
+01:04:49,880 --> 01:04:57,000
+obviously incredibly erudite with respect to your understanding of not just the biology of these
+
+633
+01:04:57,000 --> 01:05:02,440
+things, but also the epidemiology of them and the role that government's media, et cetera, play.
+
+634
+01:05:02,440 --> 01:05:07,720
+Let's just start with biology. Let's say it's kind of you to say, I don't know how much I,
+
+635
+01:05:07,720 --> 01:05:13,560
+it's nice of you to say that. I appreciate that. I hope what I say is correct. I know I believe it.
+
+636
+01:05:13,560 --> 01:05:21,160
+I do sort of cross-reference my thoughts with other people who are very involved in
+
+637
+01:05:21,880 --> 01:05:26,360
+pandemic preparedness, vaccine production, and so forth, who I became friendly with
+
+638
+01:05:27,320 --> 01:05:34,200
+back in the Bush administration and since then, Obama administration as well. So if I have an
+
+639
+01:05:34,200 --> 01:05:41,640
+idea, I will send them an email and ask them if I'm going to embarrass myself if I say it.
+
+640
+01:05:43,400 --> 01:05:53,880
+But to answer your question, as I said earlier, coronavirus like 1918 can bind directly to the
+
+641
+01:05:53,880 --> 01:06:00,520
+lung cells in the lung. Obviously it's different binding sites, but still it's deep in the lung as
+
+642
+01:06:00,520 --> 01:06:06,760
+well as upper respiratory. That's the main similarity. The main difference is the incubation
+
+643
+01:06:06,760 --> 01:06:13,720
+period, which creates a nightmare for managing this virus. Then we have questions about immunity.
+
+644
+01:06:13,720 --> 01:06:21,560
+We don't know the answers to sort of presume that I guess the work that I've seen recently suggests
+
+645
+01:06:22,280 --> 01:06:29,560
+that you can more or less semi-safely assume you're going to have immunity for a year and
+
+646
+01:06:29,560 --> 01:06:37,000
+maybe longer if you've survived the disease. In fact, I won't use Instacart because I think it's
+
+647
+01:06:37,000 --> 01:06:42,280
+unethical to expose people to the virus. The person who is getting groceries for me now
+
+648
+01:06:43,240 --> 01:06:49,880
+actually did have the disease and did recover. So she's kind enough to get groceries for me and I
+
+649
+01:06:49,880 --> 01:06:56,440
+don't feel an ethical problem asking her to help me because I think she probably does have immunity
+
+650
+01:06:56,440 --> 01:07:02,200
+for recent recovery. But in terms of the time, you know, the incubation period for influenza is
+
+651
+01:07:02,200 --> 01:07:07,240
+generally two days. It might run as long as four, but it's usually shorter. This is two to fourteen
+
+652
+01:07:07,240 --> 01:07:13,400
+days. The average incubation period is five and a half to six days. Triple the length of time for
+
+653
+01:07:13,400 --> 01:07:18,520
+the average incubation period for influenza. So that makes each generation is going to be that
+
+654
+01:07:18,520 --> 01:07:25,160
+much longer. The disease itself takes much longer to develop in the body. It takes much longer to
+
+655
+01:07:25,160 --> 01:07:31,000
+pass through the body. So the whole length of time, the duration, is much, much longer than
+
+656
+01:07:31,000 --> 01:07:37,960
+influenza. I said earlier in 1918, or for that matter, seasonal influenza, it'll pass through
+
+657
+01:07:37,960 --> 01:07:43,880
+a community normally six to ten weeks and then, you know, hear about it until the next season or
+
+658
+01:07:43,880 --> 01:07:51,160
+in 1918 until the next wave came. And this is not going to be like that. Also, the social distancing
+
+659
+01:07:52,120 --> 01:08:00,120
+to the extent that it works and it is working is going to add further duration to that. The whole
+
+660
+01:08:00,120 --> 01:08:06,600
+process of coming out of this is just tremendously complicated. Do you think that the response to
+
+661
+01:08:06,600 --> 01:08:13,480
+this has been appropriate, has been overly aggressive, has been not aggressive enough in
+
+662
+01:08:13,480 --> 01:08:18,520
+certain areas, potentially New York? I mean, what's your overall take on this, on the response?
+
+663
+01:08:19,000 --> 01:08:29,960
+Of course, Trump is a disaster. Incomprehensible is failure to respond, his failure to lead. He said
+
+664
+01:08:29,960 --> 01:08:34,520
+the federal government is a backup. I always thought leadership meant you are in front.
+
+665
+01:08:35,160 --> 01:08:42,920
+Failure to mobilize resources. Incredible that FEMA and 50 states compete for the same
+
+666
+01:08:42,920 --> 01:08:46,600
+resources instead of FEMA taking over and allocating it to the states.
+
+667
+01:08:47,320 --> 01:08:54,840
+The obviously trivialization of the threat for two months, all these things are almost off the
+
+668
+01:08:54,840 --> 01:09:00,520
+scale. And then, Cudi is saying he's withholding $500 million from the World Health Organization
+
+669
+01:09:01,080 --> 01:09:07,720
+in the middle of a pandemic. Stephen King would not be believed if he wrote these things in a novel.
+
+670
+01:09:08,360 --> 01:09:15,000
+So, what else can you say about this guy? States have varied. I'm in Louisiana, I think,
+
+671
+01:09:15,000 --> 01:09:17,720
+Governor here, John Bell Edwards, has done pretty well.
+
+672
+01:09:18,520 --> 01:09:23,080
+Recently, early, I think the mayor of New Orleans also acted pretty early. I know there's
+
+673
+01:09:23,640 --> 01:09:30,200
+Mardi Gras' blame for Louisiana being, and New Orleans being a hot spot, which may be the case.
+
+674
+01:09:30,200 --> 01:09:36,920
+But if you look at the timing, when Mardi Gras appeared and when the February, I guess 25th,
+
+675
+01:09:36,920 --> 01:09:42,360
+was Mardi Gras, it was not a single case in the state of Louisiana at that time that we knew of.
+
+676
+01:09:42,360 --> 01:09:48,280
+There were probably cases. Obviously, there were Mardi Gras spread in it. But all that goes back to
+
+677
+01:09:48,280 --> 01:09:57,480
+the testing debacle, which unfortunately, I think partly is a result of CDC. And I have high respect,
+
+678
+01:09:57,480 --> 01:10:05,320
+high regard for CDC. But on that one, not great than FDA and the bureaucracy, but also Trump and
+
+679
+01:10:06,120 --> 01:10:11,640
+the failure to take this seriously, the failure to develop an infrastructure going forward.
+
+680
+01:10:12,360 --> 01:10:17,800
+I've seen a number that says we're going to need 300,000 people for testing and contact tracing and
+
+681
+01:10:17,800 --> 01:10:23,720
+so forth. When we come out of that, this, I don't think one person's been hired for that at this
+
+682
+01:10:23,720 --> 01:10:28,840
+point. We should be building that infrastructure up even while we're waiting for the testing
+
+683
+01:10:28,840 --> 01:10:33,400
+capacity to develop. That should be done simultaneously. There are countries who've
+
+684
+01:10:33,400 --> 01:10:39,960
+got this pretty right. And again, not just the Asian countries like Korean, Singapore, and Taiwan,
+
+685
+01:10:40,440 --> 01:10:47,000
+and Hong Kong, but Germany, very much like our country, except for the leadership.
+
+686
+01:10:47,000 --> 01:10:51,720
+What Sweden is doing now, it's too soon to perhaps tell, but what's your take on the,
+
+687
+01:10:51,720 --> 01:10:54,840
+for lack of a better word, the natural experiment going on in Sweden?
+
+688
+01:10:54,840 --> 01:10:55,480
+Right.
+
+689
+01:10:55,480 --> 01:11:00,360
+They're basically saying, look, we're going to pursue this through the landscape of herd immunity.
+
+690
+01:11:00,360 --> 01:11:02,520
+While protecting the vulnerable.
+
+691
+01:11:02,520 --> 01:11:06,600
+Yeah, we're going to take a selective approach to taking those people who are most at risk. Now,
+
+692
+01:11:06,600 --> 01:11:10,680
+we've had the luxury of watching how that's played out in the rest of the world, but we're
+
+693
+01:11:10,680 --> 01:11:15,720
+not going to shut our economy down. And they're what they're basically saying without saying it
+
+694
+01:11:15,720 --> 01:11:19,560
+explicitly. I don't know if they know that this is what they're saying. They're basically saying,
+
+695
+01:11:19,560 --> 01:11:25,800
+we completely disagree that the case fatality rate is one to 2%. We think that the infection
+
+696
+01:11:25,800 --> 01:11:33,240
+fatality rate is probably closer to that of influenza 0.1 to 0.2, 0.3%, because we believe
+
+697
+01:11:33,240 --> 01:11:38,600
+that there are far more asymptomatic people out there than we appreciate, therefore creating a
+
+698
+01:11:38,600 --> 01:11:42,760
+much larger denominator. And that's synonymous with saying you're going to get to herd immunity
+
+699
+01:11:42,760 --> 01:11:43,080
+quicker.
+
+700
+01:11:43,640 --> 01:11:46,840
+Number one, they will get to herd immunity quicker if herd immunity-
+
+701
+01:11:46,840 --> 01:11:49,000
+Well, without catastrophic findings, yeah.
+
+702
+01:11:49,000 --> 01:11:54,040
+The thing is the infection mortality rate and the case mortality rate or fatality rate
+
+703
+01:11:54,760 --> 01:11:58,040
+are often used interchangeably, but they're not at all the same.
+
+704
+01:11:58,040 --> 01:11:59,560
+They're not. That's right.
+
+705
+01:12:00,280 --> 01:12:05,400
+If you did a serological study to find out how many people were infected with influenza,
+
+706
+01:12:06,440 --> 01:12:14,360
+the numbers that influenza case mortality, I'm convinced would drop from 0.1% way off the scale,
+
+707
+01:12:14,920 --> 01:12:20,440
+way below that, because there are people who are exposed to the virus. I mean, serological study
+
+708
+01:12:20,440 --> 01:12:29,240
+infection rate, anybody who's immune system responds to a virus, which you can find serologically.
+
+709
+01:12:29,240 --> 01:12:35,880
+So there are certainly people who are infected by influenza or any other pathogen who never
+
+710
+01:12:35,880 --> 01:12:41,800
+develop the slightest symptom or the slightest illness of any kind. And normally a case fatality
+
+711
+01:12:41,800 --> 01:12:50,040
+rate is just that. It's a case, meaning somebody has to be ill enough to present to a physician.
+
+712
+01:12:50,760 --> 01:12:56,040
+So you can't really compare the infection fatality rate with the case fatality rate.
+
+713
+01:12:56,760 --> 01:13:01,080
+Yeah, that's a very good point, John, is if you're going to do this apples to apples,
+
+714
+01:13:01,080 --> 01:13:09,720
+you need serologic IFRs for both. Going forward, where can we bend the arc of history? Where do we,
+
+715
+01:13:10,440 --> 01:13:15,560
+five years from now, look back and say, on April 15th, had we gone down this path,
+
+716
+01:13:15,560 --> 01:13:19,240
+it would have been a better outcome than if we'd gone down this path. What does that look like?
+
+717
+01:13:20,200 --> 01:13:27,000
+Well, I mean, it's sort of the same thing. We still have an administration that has demonstrated
+
+718
+01:13:27,000 --> 01:13:35,160
+no leadership and is foundry. In reality, it's not going to happen if Trump got out of the way and
+
+719
+01:13:35,160 --> 01:13:44,600
+left it to Tony Fauci. In those working groups I mentioned earlier about what planning for a
+
+720
+01:13:44,680 --> 01:13:52,120
+pandemic, what he do, we discussed who should be a spokesperson. And we were unanimous that it
+
+721
+01:13:52,120 --> 01:13:58,040
+should not be any politician, because any politician, healthy human services secretary,
+
+722
+01:13:58,040 --> 01:14:04,120
+or president, or anyone else, a substantial portion of the public, no matter how popular
+
+723
+01:14:04,120 --> 01:14:11,480
+the politician was, was not going to believe him or was going to have some kind of inherent
+
+724
+01:14:11,480 --> 01:14:17,560
+negative response to anything that person said. So we sat around and we figured the perfect
+
+725
+01:14:18,360 --> 01:14:24,360
+spokesperson would have been Edward Coupe, but he was already dead. I think it was at the time.
+
+726
+01:14:25,000 --> 01:14:30,600
+And the second best would have been Tony Fauci. So we now have Tony Fauci. I think
+
+727
+01:14:31,240 --> 01:14:37,480
+were he allowed to be the spokesperson, that would go a long way toward figuring out what to do.
+
+728
+01:14:37,480 --> 01:14:44,200
+I think controlling expectations is important. I think by trying to promise that we're coming out
+
+729
+01:14:44,200 --> 01:14:50,920
+on this date or the next date, whatever it is, and then you don't do it, that makes compliance
+
+730
+01:14:50,920 --> 01:14:56,760
+that much more difficult. It is what it is, as the saying goes. Trump's not going to change.
+
+731
+01:14:56,760 --> 01:15:03,160
+He's not going to get out of the way. The economic concerns are real. The management
+
+732
+01:15:03,160 --> 01:15:10,680
+of those concerns is extraordinarily difficult. Obviously, we can't stay locked down month after
+
+733
+01:15:10,680 --> 01:15:17,000
+month after month, but we do need to get that infrastructure in place for testing and monitoring
+
+734
+01:15:17,720 --> 01:15:22,200
+if we have enough social distancing to get ahead of the virus in the way that,
+
+735
+01:15:22,200 --> 01:15:27,000
+well, we'll never get ahead the way South Korea and so forth have because we started so far behind.
+
+736
+01:15:27,880 --> 01:15:32,920
+But we might get a little bit ahead of it. And of course, as you know, the Asian countries and
+
+737
+01:15:33,000 --> 01:15:39,000
+elsewhere where they have been successful, the virus is surging again. Still nothing like the
+
+738
+01:15:39,000 --> 01:15:44,040
+numbers that we're seeing in the United States, but the virus is going to be with us probably
+
+739
+01:15:44,040 --> 01:15:51,080
+forever. It will be a new human disease. Hopefully, natural immunity will provide significant
+
+740
+01:15:51,080 --> 01:15:57,240
+protection in the future to everybody. The second time around the human system sees the virus,
+
+741
+01:15:57,240 --> 01:16:01,720
+it should be much more efficient in dealing with it. And then of course, the hope for a vaccine.
+
+742
+01:16:01,720 --> 01:16:06,120
+People seem to be pretty optimistic about that. So I didn't really answer your question.
+
+743
+01:16:07,240 --> 01:16:10,600
+No, actually, I think you actually did. And then some, I think you provided
+
+744
+01:16:10,600 --> 01:16:15,320
+kind of a greater insight around it. I guess the last question I'll ask you is,
+
+745
+01:16:15,320 --> 01:16:22,200
+are you optimistic, is there a silver lining here that this has been a large enough jolt
+
+746
+01:16:22,200 --> 01:16:30,200
+to our systems that we will now not only go back and remember the forgotten pandemic,
+
+747
+01:16:30,200 --> 01:16:35,400
+but perhaps put into place more of the pandemic preparedness stuff that people like you and
+
+748
+01:16:35,400 --> 01:16:40,200
+others for whom you're not just new to this have talked about for many years?
+
+749
+01:16:41,000 --> 01:16:46,120
+I don't know if I call it a silver lining. People don't have to remember 1918 anymore. All I have
+
+750
+01:16:46,120 --> 01:16:52,440
+to remember is 2020. Clearly, there will be a significant investment monitoring emerging
+
+751
+01:16:52,440 --> 01:16:58,440
+diseases much more so than there used to be. In fact, West Nile, which I guess technically was
+
+752
+01:16:58,440 --> 01:17:03,640
+an emerging disease, but it never killed more than 300 Americans a year. If you understood the
+
+753
+01:17:03,640 --> 01:17:07,960
+natural history of that disease, it was never going to be a serious threat to human health.
+
+754
+01:17:08,600 --> 01:17:14,600
+If you were a horse, you might be in trouble, but for humans, not so bad. And yet West Nile
+
+755
+01:17:15,240 --> 01:17:20,440
+was getting more research money than influenza was when West Nile surfaced.
+
+756
+01:17:21,400 --> 01:17:23,720
+That's a remarkable statistic.
+
+757
+01:17:24,440 --> 01:17:30,120
+Influenza just didn't get the respect to quote Rodney Dangerfield, didn't get no respect.
+
+758
+01:17:30,680 --> 01:17:38,920
+H5N1 surfaced and things changed. Suddenly, nations around the world took it seriously.
+
+759
+01:17:38,920 --> 01:17:45,640
+As I said, the Bush administration passed a $7 billion bill to invest in pandemic preparedness.
+
+760
+01:17:46,440 --> 01:17:54,440
+Had we had the investment over time that has come in the last 15 years, we probably have a universal
+
+761
+01:17:54,440 --> 01:18:01,320
+influenza vaccine by now. But we didn't. Going forward, obviously, there'll be a lot of work
+
+762
+01:18:01,320 --> 01:18:08,040
+on coronaviruses. Thankfully, SARS and MERS did emerge, or we wouldn't have the knowledge base
+
+763
+01:18:08,600 --> 01:18:17,560
+we have now, which has given us a huge head start on drugs and vaccines for this. And probably
+
+764
+01:18:17,560 --> 01:18:25,560
+there'll be some serious money spent on preparing for any emerging pathogen, which would probably
+
+765
+01:18:25,560 --> 01:18:31,640
+be a virus. It might conceivably be something else, most likely a virus, as I'm sure you know.
+
+766
+01:18:31,640 --> 01:18:39,160
+There are plenty of animal viruses out there. As development encroaches more and more upon what
+
+767
+01:18:39,160 --> 01:18:44,840
+used to be the wild, we will encounter more of those viruses. And they're all threats.
+
+768
+01:18:45,640 --> 01:18:50,360
+John, I want to thank you for not just the work you've done leading up to this, but also just for
+
+769
+01:18:50,360 --> 01:18:53,480
+taking the time today to talk about this. I know you're probably sought after at this time,
+
+770
+01:18:53,480 --> 01:18:56,840
+and you're probably tired of talking about this. And there's probably other things you'd rather be
+
+771
+01:18:56,840 --> 01:19:02,680
+doing to take your mind off this. But I enjoy, very much enjoy talking to you and a former
+
+772
+01:19:02,680 --> 01:19:08,600
+fellow of C. Rosenberg. It's great. Well, again, be well, John, and I look forward to speaking again.
+
+773
+01:19:08,600 --> 01:19:14,680
+Okay, thanks. Take care. Thank you for listening to this week's episode of The Drive. If you're
+
+774
+01:19:14,680 --> 01:19:19,400
+interested in diving deeper into any topics we discuss, we've created a membership program that
+
+775
+01:19:19,400 --> 01:19:24,440
+allows us to bring you more in-depth, exclusive content without relying on paid ads. It's our
+
+776
+01:19:24,440 --> 01:19:29,560
+goal to ensure members get back much more than the price of the subscription. Now to that end,
+
+777
+01:19:29,560 --> 01:19:34,440
+membership benefits include a bunch of things. One, totally kick ass comprehensive podcast
+
+778
+01:19:34,440 --> 01:19:39,480
+show notes that detail every topic, paper, person, thing we discuss on each episode.
+
+779
+01:19:39,480 --> 01:19:45,240
+The word on the street is nobody's show notes rival these. Monthly AMA episodes or ask me
+
+780
+01:19:45,240 --> 01:19:49,960
+anything episodes, hearing these episodes completely. Access to our private podcast
+
+781
+01:19:49,960 --> 01:19:54,200
+feed that allows you to hear everything without having to listen to spiel's like this.
+
+782
+01:19:54,840 --> 01:19:59,720
+The Qwallys, which are a super short podcast, typically less than five minutes that we release
+
+783
+01:19:59,720 --> 01:20:04,120
+every Tuesday through Friday, highlighting the best questions, topics, and tactics discussed on
+
+784
+01:20:04,120 --> 01:20:09,480
+previous episodes of The Drive. This is a great way to catch up on previous episodes without having
+
+785
+01:20:09,480 --> 01:20:15,000
+to go back and necessarily listen to everyone. Steep discounts on products that I believe in,
+
+786
+01:20:15,000 --> 01:20:19,640
+but for which I'm not getting paid to endorse, and a whole bunch of other benefits that we continue
+
+787
+01:20:19,640 --> 01:20:24,200
+to trickle in as time goes on. If you want to learn more and access these member only benefits,
+
+788
+01:20:24,200 --> 01:20:30,440
+you can head over to PeterAttiaMD.com forward slash subscribe. You can find me on Twitter,
+
+789
+01:20:30,440 --> 01:20:37,240
+Instagram, and Facebook, all with the ID PeterAttiaMD. You can also leave us a review on Apple Podcast
+
+790
+01:20:37,240 --> 01:20:42,760
+or whatever podcast player you listen on. This podcast is for general informational purposes
+
+791
+01:20:42,760 --> 01:20:48,200
+only, does not constitute the practice of medicine, nursing, or other professional healthcare services,
+
+792
+01:20:48,200 --> 01:20:53,720
+including the giving of medical advice. No doctor-patient relationship is formed. The use
+
+793
+01:20:53,720 --> 01:20:59,720
+of this information and the materials linked to this podcast is at the user's own risk. The content
+
+794
+01:20:59,720 --> 01:21:05,480
+on this podcast is not intended to be a substitute for professional medical advice, diagnosis, or
+
+795
+01:21:05,480 --> 01:21:11,720
+treatment. Users should not disregard or delay in obtaining medical advice from any medical
+
+796
+01:21:11,720 --> 01:21:16,280
+condition they have, and they should seek the assistance of their healthcare professionals
+
+797
+01:21:16,280 --> 01:21:21,960
+for any such conditions. Finally, I take conflicts of interest very seriously. For all of my
+
+798
+01:21:21,960 --> 01:21:29,240
+disclosures and the companies I invest in or advise, please visit PeterAttiaMD.com forward slash
+
+799
+01:21:29,240 --> 01:21:34,200
+about where I keep an up-to-date and active list of such companies.
+

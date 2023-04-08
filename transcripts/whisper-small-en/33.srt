@@ -1,0 +1,4644 @@
+1
+00:00:00,000 --> 00:00:05,720
+Hey, everyone.
+
+2
+00:00:05,720 --> 00:00:07,360
+Welcome to the Peter Attia drive.
+
+3
+00:00:07,360 --> 00:00:10,640
+I'm your host, Peter Attia.
+
+4
+00:00:10,640 --> 00:00:16,000
+The drive is a result of my hunger for optimizing performance, health, longevity, critical thinking,
+
+5
+00:00:16,000 --> 00:00:18,000
+along with a few other obsessions along the way.
+
+6
+00:00:18,000 --> 00:00:21,560
+I've spent the last several years working with some of the most successful top performing
+
+7
+00:00:21,560 --> 00:00:23,200
+individuals in the world.
+
+8
+00:00:23,200 --> 00:00:27,600
+And this podcast is my attempt to synthesize what I've learned along the way to help you
+
+9
+00:00:27,600 --> 00:00:29,880
+live a higher quality, more fulfilling life.
+
+10
+00:00:29,880 --> 00:00:34,480
+If you enjoy this podcast, you can find more information on today's episode and other topics
+
+11
+00:00:34,480 --> 00:00:37,480
+at PeterAttiaMD.com.
+
+12
+00:00:37,480 --> 00:00:44,400
+Hey, welcome to this episode of The Drive.
+
+13
+00:00:44,400 --> 00:00:50,680
+On this episode, I interview an amazing scientist and a very dear friend, Dr. Rudy Leibel.
+
+14
+00:00:50,680 --> 00:00:58,560
+Rudy's a professor at Columbia University where his work has focused primarily on type
+
+15
+00:00:58,560 --> 00:01:00,440
+2 diabetes and obesity.
+
+16
+00:01:00,440 --> 00:01:05,920
+I've known Rudy for quite a while, probably about six years now, maybe a little longer.
+
+17
+00:01:05,920 --> 00:01:09,900
+We worked together very closely back at the nutrition science initiative where he was
+
+18
+00:01:09,900 --> 00:01:14,920
+one of the very important collaborators in one of the more theoretical experiments that
+
+19
+00:01:14,920 --> 00:01:15,920
+we did.
+
+20
+00:01:15,920 --> 00:01:20,480
+Rudy and I have always just had a ton of fun just hanging out over great meals and great
+
+21
+00:01:20,480 --> 00:01:23,560
+wine and great beer, talking about science.
+
+22
+00:01:23,560 --> 00:01:28,000
+And so I thought it might be fun to try to reproduce some of those discussions here.
+
+23
+00:01:28,440 --> 00:01:29,440
+Couple things.
+
+24
+00:01:29,440 --> 00:01:34,720
+First, we recorded this on a Friday afternoon on the Upper East Side and you'll probably
+
+25
+00:01:34,720 --> 00:01:39,440
+notice a little more noise than usual just on account of the street noise.
+
+26
+00:01:39,440 --> 00:01:42,000
+So apologies for that.
+
+27
+00:01:42,000 --> 00:01:46,920
+Second point is we spend quite a bit of time, probably about the first hour and 10, hour
+
+28
+00:01:46,920 --> 00:01:54,200
+and 15 minutes just talking about the discovery of leptin for which Rudy played arguably the
+
+29
+00:01:54,200 --> 00:01:56,000
+single most important role.
+
+30
+00:01:56,000 --> 00:02:00,560
+I see many people played a role in the discovery of leptin, but in many ways Rudy was sort
+
+31
+00:02:00,560 --> 00:02:02,200
+of the chief architect of that.
+
+32
+00:02:02,200 --> 00:02:09,000
+And certainly inside of the scientific community, he is largely regarded as that, though unfortunately
+
+33
+00:02:09,000 --> 00:02:12,240
+history may write that story a little bit differently.
+
+34
+00:02:12,240 --> 00:02:16,900
+So for those of you listening to this who don't really, really get off on geeky science
+
+35
+00:02:16,900 --> 00:02:21,840
+and knowing the nuts and bolts of all of the experiments and how one found this gene and
+
+36
+00:02:21,840 --> 00:02:27,120
+the difference between a southern blot and a northern blot and a DNA sequence, you might
+
+37
+00:02:27,120 --> 00:02:31,160
+just want to skip to about an hour 15 when we get to the other stuff.
+
+38
+00:02:31,160 --> 00:02:35,500
+But that said, if you really are interested in science, I think there's a lot to be gained
+
+39
+00:02:35,500 --> 00:02:40,040
+from listening to these discussions because that's certainly something I plan to do a
+
+40
+00:02:40,040 --> 00:02:41,480
+lot of as interview scientists.
+
+41
+00:02:41,480 --> 00:02:43,720
+And part of that is kind of understanding their stories.
+
+42
+00:02:43,720 --> 00:02:46,320
+Again, a lot of what we talk about in this post is technical.
+
+43
+00:02:46,320 --> 00:02:50,600
+I'm hopeful that in the show notes we'll be able to provide a lot of sort of the necessary
+
+44
+00:02:50,600 --> 00:02:53,320
+glossary to make it a little easier to ingest.
+
+45
+00:02:53,320 --> 00:02:58,120
+I don't do a great job, I apologize, of trying to clarify terms.
+
+46
+00:02:58,120 --> 00:03:02,080
+Occasionally I remember that not everybody knows what hyperphasia means and I explained
+
+47
+00:03:02,080 --> 00:03:04,160
+that that means eating too much.
+
+48
+00:03:04,160 --> 00:03:08,000
+But again, I apologize for that and just look to the show notes if you want clarification
+
+49
+00:03:08,000 --> 00:03:09,400
+on anything.
+
+50
+00:03:09,400 --> 00:03:13,500
+We get into a lot of discussion around obesity, the genetics of obesity and the regulation
+
+51
+00:03:13,500 --> 00:03:14,500
+of obesity.
+
+52
+00:03:14,500 --> 00:03:18,360
+How much of this is regulated centrally, meaning in the brain, versus peripherally, everywhere
+
+53
+00:03:18,360 --> 00:03:20,100
+outside of the brain?
+
+54
+00:03:20,100 --> 00:03:23,300
+We talk a lot about energy expenditure and for those of you who are really interested
+
+55
+00:03:23,300 --> 00:03:27,660
+in this science, Rudy gives a great explanation of the two techniques that are used to measure
+
+56
+00:03:27,660 --> 00:03:31,720
+energy expenditure, known as indirect calorimetry and doubly labeled water.
+
+57
+00:03:31,720 --> 00:03:36,900
+We talk about a number of genes that are known to predispose to obesity, some very acutely
+
+58
+00:03:36,900 --> 00:03:40,380
+and some very crudely, like the FTO gene.
+
+59
+00:03:40,380 --> 00:03:43,340
+And we of course talk a lot about insulin resistance, which in many ways is sort of
+
+60
+00:03:43,340 --> 00:03:47,980
+a bit of a paradox because on the one hand if you're insulin resistant, you technically
+
+61
+00:03:47,980 --> 00:03:49,780
+shouldn't be able to get fat.
+
+62
+00:03:49,780 --> 00:03:52,900
+But of course, many insulin resistant people are able to get fat.
+
+63
+00:03:52,900 --> 00:03:54,940
+They do accumulate adipose tissue.
+
+64
+00:03:54,940 --> 00:03:55,940
+What else can I say about this?
+
+65
+00:03:55,940 --> 00:03:59,020
+I guess those are kind of the most important things I'd say to guide you.
+
+66
+00:03:59,020 --> 00:04:02,660
+So in summary, if you really don't want to hear about how leptin was discovered, skip
+
+67
+00:04:02,660 --> 00:04:04,460
+to an hour 15.
+
+68
+00:04:04,460 --> 00:04:06,940
+If you do, sit back and relax.
+
+69
+00:04:06,940 --> 00:04:10,740
+The other highlight of this was it was the first time I ever gave Rudy a topo chico.
+
+70
+00:04:10,740 --> 00:04:12,580
+He loved it.
+
+71
+00:04:12,580 --> 00:04:14,460
+And I think I've got another convert.
+
+72
+00:04:14,460 --> 00:04:16,340
+So anyway, hope you enjoy this.
+
+73
+00:04:16,780 --> 00:04:23,020
+Without further ado, here is my lovely discussion with the amazing Dr. Rudy Blaben.
+
+74
+00:04:26,020 --> 00:04:27,300
+Alright Rudy, how are you?
+
+75
+00:04:27,300 --> 00:04:29,380
+I'm very well, thank you.
+
+76
+00:04:29,380 --> 00:04:31,940
+Thanks so much for trekking over to the east side.
+
+77
+00:04:31,940 --> 00:04:33,900
+Well, thanks for inviting me.
+
+78
+00:04:35,900 --> 00:04:41,460
+This will be one of the first times in a while that we hang out without a drink, including
+
+79
+00:04:41,460 --> 00:04:45,340
+my favorite beer, which you're one of the few people I've shared it with.
+
+80
+00:04:46,340 --> 00:04:53,180
+I don't tell anybody what that beer is because I, and I just found 19 bottles of it in Florida
+
+81
+00:04:53,180 --> 00:04:54,180
+last week.
+
+82
+00:04:54,180 --> 00:04:56,060
+So I'm pretty psyched about that.
+
+83
+00:04:56,060 --> 00:04:58,420
+I'll continue to share with you, of course.
+
+84
+00:04:58,420 --> 00:04:59,420
+Still in Florida?
+
+85
+00:04:59,420 --> 00:05:01,460
+No, it's actually in San Diego right now.
+
+86
+00:05:01,460 --> 00:05:03,260
+Yeah, just arrived.
+
+87
+00:05:03,260 --> 00:05:04,420
+There's so much I want to talk about.
+
+88
+00:05:04,420 --> 00:05:06,540
+I almost don't even know where to begin.
+
+89
+00:05:06,540 --> 00:05:11,380
+I'm guessing that a number of the people listening to this won't actually know who you are necessarily.
+
+90
+00:05:11,380 --> 00:05:15,660
+But I think by the end of this, they'll be super interested in learning more about you.
+
+91
+00:05:15,660 --> 00:05:20,620
+During the introduction, I will have explained sort of a lot of stuff about you.
+
+92
+00:05:20,620 --> 00:05:25,180
+But tell me a little bit about what you do and then more importantly, why you do it.
+
+93
+00:05:25,180 --> 00:05:33,140
+I've been very interested since, oh, past 30 years or so in biology of the regulation
+
+94
+00:05:33,140 --> 00:05:37,460
+of body weight in both animals and humans.
+
+95
+00:05:37,460 --> 00:05:45,660
+But the studies of animals are designed primarily to shed light on what's the basis for the
+
+96
+00:05:45,660 --> 00:05:47,580
+control of body weight in humans.
+
+97
+00:05:47,580 --> 00:05:54,220
+I'm a physician and have been interested in the clinical problem of obesity for even longer
+
+98
+00:05:54,220 --> 00:05:57,980
+than I've been doing research on it.
+
+99
+00:05:57,980 --> 00:06:06,820
+And I have taken over the years various approaches, beginning with studies of human adipose tissue
+
+100
+00:06:06,820 --> 00:06:14,420
+aspirated using various needles from various subcutaneous depots in humans, meaning around
+
+101
+00:06:14,420 --> 00:06:19,380
+the rear end and in the front of the abdomen.
+
+102
+00:06:19,380 --> 00:06:26,300
+And then became very interested in the genetics of obesity and have done some studies trying
+
+103
+00:06:26,300 --> 00:06:32,300
+to identify various genes that are related to that and continue to do so and have also
+
+104
+00:06:32,300 --> 00:06:38,140
+done a large number of studies in mice designed to look at this problem.
+
+105
+00:06:38,140 --> 00:06:44,420
+And very recently, or at least within the past five or ten years, have begun to focus
+
+106
+00:06:44,420 --> 00:06:51,540
+on the use of stem cells to try to understand, again, the biology of brain cells that regulate
+
+107
+00:06:51,540 --> 00:06:56,940
+body weight and the cells and the pancreas that produce insulin.
+
+108
+00:06:56,940 --> 00:07:02,380
+Because obesity and diabetes go hand in hand clinically.
+
+109
+00:07:02,380 --> 00:07:03,820
+And this is not an accident.
+
+110
+00:07:03,820 --> 00:07:09,220
+They're very tightly related in a number of really very interesting ways.
+
+111
+00:07:09,220 --> 00:07:17,340
+So that my studies of obesity have led more or less inexorably towards the study of diabetes
+
+112
+00:07:17,340 --> 00:07:18,340
+as well.
+
+113
+00:07:18,340 --> 00:07:22,220
+So now my laboratory really does some of both.
+
+114
+00:07:22,220 --> 00:07:27,020
+And you're at Columbia now, you were at Rockefeller before that, but originally you were in Boston,
+
+115
+00:07:27,020 --> 00:07:28,020
+correct?
+
+116
+00:07:28,020 --> 00:07:29,020
+That's correct.
+
+117
+00:07:29,020 --> 00:07:33,100
+My clinical training, I'm trained as a pediatrician and an endocrinologist.
+
+118
+00:07:33,100 --> 00:07:37,860
+And that training took place in Boston at both the Massachusetts General Hospital and
+
+119
+00:07:37,860 --> 00:07:40,380
+the Children's Hospital.
+
+120
+00:07:40,380 --> 00:07:46,940
+And then for five or six years, I worked at both the Mass General and a community hospital
+
+121
+00:07:46,940 --> 00:07:54,020
+in the Boston area, the Cambridge City Hospital, again, doing both general pediatrics and some
+
+122
+00:07:54,020 --> 00:07:56,060
+endocrinology.
+
+123
+00:07:56,060 --> 00:07:58,660
+So what got you interested in obesity?
+
+124
+00:07:58,660 --> 00:08:03,620
+I was interested in obesity, or at least in the part of the brain that regulates body
+
+125
+00:08:03,620 --> 00:08:05,820
+weight, even as a medical student.
+
+126
+00:08:05,820 --> 00:08:07,940
+We didn't study it specifically.
+
+127
+00:08:07,940 --> 00:08:13,700
+It wasn't emphasized the role of the hypothalamus, which turns out to be very important in that
+
+128
+00:08:13,700 --> 00:08:14,700
+regard.
+
+129
+00:08:14,700 --> 00:08:19,780
+I had the opportunity as a medical student, actually a first year medical student, to
+
+130
+00:08:19,780 --> 00:08:27,500
+work at the Walter Reed Army Institute of Research with a neuroscientist named Harvey
+
+131
+00:08:27,500 --> 00:08:35,740
+Carton, who was a physician who was interested actually in the study of bird brains.
+
+132
+00:08:35,740 --> 00:08:41,580
+And he took me on for a summer, actually it ended up being two summers, to work in his
+
+133
+00:08:41,580 --> 00:08:47,900
+laboratory primarily helping with histological studies of the bird brain.
+
+134
+00:08:47,900 --> 00:08:53,700
+But the laboratory that he was in was run by a man named Wally J.H.
+
+135
+00:08:53,700 --> 00:09:01,060
+Nauta, who was recognized at the time, and subsequently perhaps even more so as one of
+
+136
+00:09:01,060 --> 00:09:04,860
+the great neuroanatomists with regard to the hypothalamus.
+
+137
+00:09:04,860 --> 00:09:10,740
+So actually I was indoctrinated a bit just by hanging around the other people who were
+
+138
+00:09:10,740 --> 00:09:15,540
+working there, including Dr. Carton, in terms of the importance of the hypothalamus in
+
+139
+00:09:15,540 --> 00:09:18,820
+a number of areas of physiology.
+
+140
+00:09:18,820 --> 00:09:23,980
+Where does the hypothalamus sit in relation to the pituitary or even more grossly like
+
+141
+00:09:23,980 --> 00:09:25,460
+other main structures in the brain?
+
+142
+00:09:25,460 --> 00:09:31,940
+I think you can sort of picture it as lying between or being triangulated in a sense or
+
+143
+00:09:31,940 --> 00:09:38,300
+at the cross hairs of a line drawn between the eyes and the side of the forehead.
+
+144
+00:09:38,300 --> 00:09:43,500
+And it's situated just above the pituitary gland, if you know where that is.
+
+145
+00:09:43,500 --> 00:09:46,180
+Yeah, which is sort of behind the optic chiasm.
+
+146
+00:09:46,180 --> 00:09:47,900
+Yes, that's correct.
+
+147
+00:09:47,900 --> 00:09:54,260
+And it's a very small organ, or at least it's a very small part of the brain, about the
+
+148
+00:09:54,260 --> 00:10:01,620
+tip of the small finger, but does play a role in the regulation of many important physiological
+
+149
+00:10:01,620 --> 00:10:09,540
+functions, including things like blood pressure, body temperature, and from my point of view,
+
+150
+00:10:09,540 --> 00:10:15,380
+very importantly, body weight, and also increasingly apparent that it plays an important role in
+
+151
+00:10:15,380 --> 00:10:17,460
+blood sugar control as well.
+
+152
+00:10:17,460 --> 00:10:24,460
+So it's been known for many, many years as being a critical part of the brain, the so-called
+
+153
+00:10:24,460 --> 00:10:29,180
+vegetative brain, not under conscious control.
+
+154
+00:10:29,180 --> 00:10:36,260
+Work that's gone on over the past 30, 40, 50 years has increasingly raised the level
+
+155
+00:10:36,260 --> 00:10:42,580
+of sophistication with which we understand the function of that part of the brain.
+
+156
+00:10:42,580 --> 00:10:47,100
+About 21 years ago, or maybe 20 years ago, whenever it was, but early in medical school,
+
+157
+00:10:47,100 --> 00:10:52,900
+I remember when we did neuroanatomy, the professor said, if you have to sacrifice any part of
+
+158
+00:10:52,900 --> 00:10:59,820
+your brain and you're prioritizing, the last thing you want to sacrifice is the hypothalamus.
+
+159
+00:10:59,820 --> 00:11:05,420
+If you're only allowed to keep a couple square centimeters of brain, keep the hypothalamus.
+
+160
+00:11:05,420 --> 00:11:09,460
+You know, I mean, we could get into the weeds, exactly.
+
+161
+00:11:09,460 --> 00:11:10,980
+That's a poor man's problem.
+
+162
+00:11:10,980 --> 00:11:11,980
+That's right.
+
+163
+00:11:11,980 --> 00:11:13,460
+I think that would be important.
+
+164
+00:11:13,460 --> 00:11:19,300
+The other thing you'd want to hang onto is the part of the brain that regulates respiration,
+
+165
+00:11:19,300 --> 00:11:23,380
+because even with the hypothalamus, if you're not breathing, you're not going to get very
+
+166
+00:11:23,380 --> 00:11:24,380
+far.
+
+167
+00:11:24,380 --> 00:11:25,380
+But I agree.
+
+168
+00:11:25,380 --> 00:11:28,820
+I think he was excluding the brain stem for this.
+
+169
+00:11:28,820 --> 00:11:31,820
+The hypothalamus is right up there.
+
+170
+00:11:31,820 --> 00:11:33,220
+At some point, I want to come back to it.
+
+171
+00:11:33,220 --> 00:11:38,420
+I want to have you tell us all about zucker rats, because that's sort of what got me interested
+
+172
+00:11:38,420 --> 00:11:44,180
+in this idea of how can this part of the brain, when subjected to so many different types
+
+173
+00:11:44,180 --> 00:11:49,860
+of insults and lesions, produce so many seemingly wild and disparate phenotypes that seem so
+
+174
+00:11:49,860 --> 00:11:50,860
+out of whack.
+
+175
+00:11:50,860 --> 00:11:57,540
+But before we go there, let's go back to your junior pediatrician schlepping along, taking
+
+176
+00:11:57,540 --> 00:11:59,820
+care of overweight kids.
+
+177
+00:11:59,820 --> 00:12:02,140
+We're in the late 70s.
+
+178
+00:12:02,140 --> 00:12:04,380
+What time of your life is this?
+
+179
+00:12:04,380 --> 00:12:05,980
+Yeah, we're in the mid 70s.
+
+180
+00:12:05,980 --> 00:12:06,980
+Mid 70s.
+
+181
+00:12:06,980 --> 00:12:10,140
+So there's not that many obese kids, are there?
+
+182
+00:12:10,140 --> 00:12:11,140
+There were plenty.
+
+183
+00:12:11,140 --> 00:12:12,660
+Still in back then, yeah.
+
+184
+00:12:12,660 --> 00:12:13,660
+Oh, yeah.
+
+185
+00:12:13,820 --> 00:12:15,140
+So what are you doing for them?
+
+186
+00:12:15,140 --> 00:12:16,140
+How are you helping them?
+
+187
+00:12:16,140 --> 00:12:23,900
+So back in that day, the conventional view was that obesity was largely due to imbalances
+
+188
+00:12:23,900 --> 00:12:29,020
+of hormones, at least potentially, in addition to whatever other sort of behavioral issues
+
+189
+00:12:29,020 --> 00:12:30,860
+might be implicated.
+
+190
+00:12:30,860 --> 00:12:38,780
+But almost all children with obesity were referred, if it was significant and severe
+
+191
+00:12:38,780 --> 00:12:42,340
+enough, to either an endocrinologist or a psychiatrist.
+
+192
+00:12:42,340 --> 00:12:47,220
+That was sort of the bifurcation point for a referral of these children.
+
+193
+00:12:47,220 --> 00:12:52,100
+I don't think either the endocrinologist or the psychiatrist really could do very much
+
+194
+00:12:52,100 --> 00:12:53,100
+for these children.
+
+195
+00:12:53,100 --> 00:12:55,380
+I certainly couldn't.
+
+196
+00:12:55,380 --> 00:13:01,820
+And it was an evening in the fall in the city of Cambridge in a small office that I used
+
+197
+00:13:01,820 --> 00:13:06,500
+for the very small number of referrals that I actually saw.
+
+198
+00:13:06,500 --> 00:13:11,420
+Most of my time was spent with the medical students trying to teach them various aspects
+
+199
+00:13:11,500 --> 00:13:13,220
+of pediatrics.
+
+200
+00:13:13,220 --> 00:13:19,700
+But one evening, I saw a young boy about seven or eight years old with his mother and examined
+
+201
+00:13:19,700 --> 00:13:24,180
+him, weighed him, and so forth, and determined it's quite clear that he was very obese.
+
+202
+00:13:24,180 --> 00:13:31,300
+He had no other stigmata of the sorts of things that we looked for, meaning very severe problems
+
+203
+00:13:31,300 --> 00:13:35,820
+with thyroid or adrenal gland, which can sometimes produce severe obesity.
+
+204
+00:13:35,820 --> 00:13:41,300
+And he didn't have any of the stigmata of the single genetic type of disorders that
+
+205
+00:13:41,300 --> 00:13:45,780
+were known about at the time, like Prader-Willi syndrome or part A-butyl.
+
+206
+00:13:45,780 --> 00:13:50,220
+And I said to the mother, your son has severe obesity.
+
+207
+00:13:50,220 --> 00:13:55,180
+I can't tell you what the etiology of it is.
+
+208
+00:13:55,180 --> 00:13:57,700
+It's clear that there's something going on.
+
+209
+00:13:57,700 --> 00:14:04,020
+There's problems that we don't really fully understand or understand very well at all.
+
+210
+00:14:04,020 --> 00:14:09,980
+And my only advice is to try to restrict the number of calories that he eats and increase
+
+211
+00:14:09,980 --> 00:14:15,860
+his physical activity, which is, I think, unobjectionable advice in any circumstance
+
+212
+00:14:15,860 --> 00:14:17,900
+like that.
+
+213
+00:14:17,900 --> 00:14:25,580
+And the mother turned to the boy and said, Randall, let's get out of here.
+
+214
+00:14:25,580 --> 00:14:29,620
+This doctor doesn't know shit.
+
+215
+00:14:29,620 --> 00:14:31,100
+I love that you remember his name.
+
+216
+00:14:31,100 --> 00:14:32,100
+Oh, yes.
+
+217
+00:14:32,100 --> 00:14:33,540
+I do remember his name.
+
+218
+00:14:33,540 --> 00:14:36,060
+And she took him by the hand and they left.
+
+219
+00:14:36,060 --> 00:14:42,820
+And I remember sitting behind the desk and thinking to myself, Randall's mother, you've
+
+220
+00:14:42,820 --> 00:14:44,780
+got a point.
+
+221
+00:14:44,780 --> 00:14:49,700
+And it was that experience, actually, I'd been interested in some of the physiological
+
+222
+00:14:49,700 --> 00:14:58,100
+aspects of obesity and adipose tissue that led me to decide that if I was going to do
+
+223
+00:14:58,100 --> 00:15:02,900
+anything about this, I was going to have to train myself to do the kind of research
+
+224
+00:15:02,900 --> 00:15:06,380
+that might be helpful in terms of understanding the disease.
+
+225
+00:15:06,380 --> 00:15:12,060
+And it was shortly after that that I actually moved to New York, to the Rockefeller, to
+
+226
+00:15:12,060 --> 00:15:15,460
+begin to try to do those kinds of experiments.
+
+227
+00:15:15,460 --> 00:15:20,580
+That story, which obviously we've discussed before, and I get such a kick out of it.
+
+228
+00:15:20,580 --> 00:15:25,580
+But at the same time, it's actually a remarkable example of something that medicine is a privilege.
+
+229
+00:15:25,580 --> 00:15:29,860
+It gives you a privilege and it's up to you to do anything with it, which is patients
+
+230
+00:15:29,860 --> 00:15:35,100
+generally provide the appropriate physician with the right level of humility.
+
+231
+00:15:35,100 --> 00:15:39,300
+And I think, look, it's a testament to you that you sort of could reflect on what Randall's
+
+232
+00:15:39,300 --> 00:15:42,140
+mom said, because I think there are other people who couldn't.
+
+233
+00:15:42,140 --> 00:15:44,500
+There are other people who could say, well, screw you.
+
+234
+00:15:44,500 --> 00:15:45,700
+That's the advice I've got.
+
+235
+00:15:45,700 --> 00:15:47,340
+And that's the best I can do.
+
+236
+00:15:47,340 --> 00:15:50,340
+And it wouldn't skip a beat kind of moving on.
+
+237
+00:15:50,340 --> 00:15:54,460
+But when I talk to a lot of great physician scientists, that seems to be the one thing
+
+238
+00:15:54,460 --> 00:15:55,900
+that they all have in common.
+
+239
+00:15:55,900 --> 00:15:59,620
+They may have many things in common, but this one is important, which is it's the ability
+
+240
+00:15:59,620 --> 00:16:04,100
+to sort of pause on your tracks and say, wait a minute, there is a clinical situation and
+
+241
+00:16:04,100 --> 00:16:07,700
+I cannot for the life of me explain it.
+
+242
+00:16:07,700 --> 00:16:09,580
+And I have to know the answer.
+
+243
+00:16:09,580 --> 00:16:15,280
+So it's so amazing that one chance encounter like that basically altered the entire course
+
+244
+00:16:15,280 --> 00:16:20,940
+of your career and put you on this path to do some really amazing stuff, as we'll, I
+
+245
+00:16:20,940 --> 00:16:23,980
+think, discuss in the next hour or so.
+
+246
+00:16:23,980 --> 00:16:29,940
+I think you're probably right that one of the great, I think, privileges of a medical
+
+247
+00:16:29,940 --> 00:16:35,420
+education is that it does give you a very broad perspective on the human condition,
+
+248
+00:16:35,420 --> 00:16:42,100
+if you want to call it that, all the way from psychological issues to very fundamental biological
+
+249
+00:16:42,100 --> 00:16:43,100
+ones.
+
+250
+00:16:43,100 --> 00:16:50,540
+And physicians as a group do have this, as you pointed out, rather unique opportunity
+
+251
+00:16:50,540 --> 00:16:58,020
+to look at a problem that afflicts human beings, sometimes at the level of basic metabolism
+
+252
+00:16:58,020 --> 00:17:04,060
+and endocrinology, other times on a more systemic or even social level.
+
+253
+00:17:04,060 --> 00:17:09,860
+And I'm sure we could name some of the names of people who have operated all these levels,
+
+254
+00:17:09,860 --> 00:17:12,540
+but I think you're right.
+
+255
+00:17:12,540 --> 00:17:19,860
+I've always felt that it was really somehow an enormous opportunity and a gift to be able
+
+256
+00:17:19,860 --> 00:17:27,180
+to pursue this down to the level that I've been able to do in the past 30 years or so.
+
+257
+00:17:27,180 --> 00:17:33,980
+And I must say, in addition to whatever my previous training and experience did to make
+
+258
+00:17:33,980 --> 00:17:41,180
+that possible, I also have to acknowledge that my family was very supportive in terms
+
+259
+00:17:41,180 --> 00:17:48,660
+of allowing me to basically back out of a more classical sort of academic medical track
+
+260
+00:17:48,660 --> 00:17:54,660
+and retrain myself to the level that I thought was required in order to do this research
+
+261
+00:17:54,660 --> 00:18:01,180
+or basically move from a very nice home in Brookline, Massachusetts to an 800 square
+
+262
+00:18:01,180 --> 00:18:09,700
+foot apartment in Manhattan with a wife and two small children and lived there for 15
+
+263
+00:18:09,700 --> 00:18:13,540
+or 16 years while I sort of got my act together.
+
+264
+00:18:13,540 --> 00:18:16,300
+There's plenty of great research that can happen at Harvard.
+
+265
+00:18:16,300 --> 00:18:17,820
+Why did you come to New York?
+
+266
+00:18:17,820 --> 00:18:22,940
+I came to New York actually after looking around in the Boston area for someone who
+
+267
+00:18:22,940 --> 00:18:26,700
+could mentor me in this kind of activity.
+
+268
+00:18:26,700 --> 00:18:30,340
+And it turned out there were, I mean, there's some interesting stories about that, but the
+
+269
+00:18:30,340 --> 00:18:35,300
+advice that I got from the people who were not in a position to help me in the way that
+
+270
+00:18:35,300 --> 00:18:40,180
+I thought I needed help was that I might consider going to the Rockefeller and working with
+
+271
+00:18:40,180 --> 00:18:45,780
+a physician scientist named Jules Hirsch, who at the time was very interested in the
+
+272
+00:18:45,780 --> 00:18:50,220
+biology of adipose tissue from a number of perspectives.
+
+273
+00:18:50,220 --> 00:18:57,620
+And I had actually communicated with Dr. Hirsch in the literature by commenting on some of
+
+274
+00:18:57,620 --> 00:19:04,060
+the work that he had done with regard to adipocytes and signals that might come from adipocytes
+
+275
+00:19:04,060 --> 00:19:07,480
+that affect potentially food intake and body weight.
+
+276
+00:19:07,480 --> 00:19:12,600
+This was an area that he was quite interested in, and I was too based on some of the thinking
+
+277
+00:19:12,600 --> 00:19:17,120
+I had done about it while I was in the training in Boston.
+
+278
+00:19:17,120 --> 00:19:21,760
+And he and I actually had had a communication in the literature on some of the work that
+
+279
+00:19:21,760 --> 00:19:22,760
+he had done.
+
+280
+00:19:22,760 --> 00:19:28,040
+And I went actually to visit his laboratory while I was in New York for an entirely different
+
+281
+00:19:28,040 --> 00:19:29,040
+reason.
+
+282
+00:19:29,040 --> 00:19:31,200
+And it was very shortly after that that I moved.
+
+283
+00:19:31,200 --> 00:19:37,640
+Which is another great example of the types of common threads we see in great scientists,
+
+284
+00:19:37,640 --> 00:19:40,960
+whether they be scientists or physician scientists, which is mentorship, right?
+
+285
+00:19:40,980 --> 00:19:47,800
+Again, every person I talk to who's done something remarkable in science can point to mentors,
+
+286
+00:19:47,800 --> 00:19:49,200
+a mentor or mentors.
+
+287
+00:19:49,200 --> 00:19:53,760
+And obviously for you, Jules was probably the most important mentor, I'm guessing.
+
+288
+00:19:53,760 --> 00:19:54,760
+That's right.
+
+289
+00:19:54,760 --> 00:19:59,880
+I had very important other mentors in the area of clinical medicine.
+
+290
+00:19:59,880 --> 00:20:06,080
+And the one who trained me in endocrinology, an individual, again, a physician scientist,
+
+291
+00:20:06,080 --> 00:20:12,120
+more clinically oriented named Jack Crawford, himself was very interested in the role of
+
+292
+00:20:12,120 --> 00:20:19,920
+body fat and its interaction with other physiological systems in the body, most notably the onset
+
+293
+00:20:19,920 --> 00:20:20,920
+of puberty.
+
+294
+00:20:20,920 --> 00:20:26,480
+And it was he that actually put me in contact with another scientist at Harvard named Rose
+
+295
+00:20:26,480 --> 00:20:33,600
+Frisch, who also was very interested in why, for example, young women who lost weight as
+
+296
+00:20:33,720 --> 00:20:41,280
+a result of anorexia or more commonly in her experience due to very vigorous physical training
+
+297
+00:20:41,280 --> 00:20:44,000
+for things like distance running or bicycling.
+
+298
+00:20:44,000 --> 00:20:46,760
+Swimming became amenorrhea.
+
+299
+00:20:46,760 --> 00:20:48,760
+In other words, their period stopped.
+
+300
+00:20:48,760 --> 00:20:55,760
+And Rose was very curious about why this was and whether there was a communication between fat and
+
+301
+00:20:55,760 --> 00:21:01,920
+parts of the brain that regulate the gonadal axis, which is the hypothalamus again.
+
+302
+00:21:02,240 --> 00:21:07,840
+And I remember having many conversations with Rose about where the signal might be coming from.
+
+303
+00:21:07,840 --> 00:21:13,080
+She thought it actually might be coming from adipose tissue or adipocytes in the bone marrow.
+
+304
+00:21:13,080 --> 00:21:20,040
+And it was always encouraging me to study bone marrow as a source of whatever this signal might be.
+
+305
+00:21:20,040 --> 00:21:22,080
+So what year did you arrive at Rockefeller?
+
+306
+00:21:22,080 --> 00:21:24,080
+1978.
+
+307
+00:21:24,880 --> 00:21:31,280
+At that point in time, was the adipose tissue, was it was adipose cell?
+
+308
+00:21:31,280 --> 00:21:38,840
+Were they was this regarded as an inert sort of storage depot for fatty acid or was it considered an endocrine organ?
+
+309
+00:21:38,840 --> 00:21:41,640
+Like what was the state of thinking about fat?
+
+310
+00:21:42,560 --> 00:21:52,800
+At that time, the view of the role of adipose tissue was very strongly in the direction of the sort of former
+
+311
+00:21:52,800 --> 00:22:06,000
+characterization that you made, which is that it was a passive depot for fat in the form of storing free fatty acids as triglycerides so that they were hydrophobic,
+
+312
+00:22:06,000 --> 00:22:12,400
+so that you could pack a lot of calories into an organ or into a cell without having a lot of water there.
+
+313
+00:22:12,400 --> 00:22:20,880
+So it's a very efficient way of storing energy, actually, as you know, up to probably around nine calories per gram.
+
+314
+00:22:21,880 --> 00:22:35,080
+And its role as a signaling device or an endocrine organ was really people were thinking about it, but there was no firm evidence in this regard.
+
+315
+00:22:35,080 --> 00:22:45,280
+Other than, I think, the increasing sense that the size of the adipose mass was doing something to the levels of circulating insulin,
+
+316
+00:22:45,480 --> 00:22:52,680
+that somehow insulin rises when the fat mass rises and the mechanism or the relationship of these two.
+
+317
+00:22:52,680 --> 00:22:55,680
+Not the other way around? Was it clear which direction?
+
+318
+00:22:55,680 --> 00:23:08,480
+So at the time, I think the view was pretty much that as fat mass increases, the concentration of insulin rises to meet the consequences of so-called insulin resistance,
+
+319
+00:23:08,480 --> 00:23:16,480
+which occurred not only in adipose tissue, but maybe more importantly in liver and muscle.
+
+320
+00:23:16,480 --> 00:23:29,480
+And so that there was some relationship between fat mass and this endocrine, but fat mass is a secretory organ itself of molecules that might have some of these effects.
+
+321
+00:23:29,480 --> 00:23:37,480
+It was really a pretty new idea that nobody really had any direct, at least at the time, evidence for.
+
+322
+00:23:37,480 --> 00:23:47,480
+Obviously, we're going to get to the story of leptin, which I think is just another great example of incredible persistence, an incredible focus and drive.
+
+323
+00:23:47,480 --> 00:23:58,480
+But obviously, before getting to the punchline, which occurred several decades later, what was your first insight into a hormone that would go on to be leptin?
+
+324
+00:23:58,480 --> 00:24:03,480
+Where did you first figure this that there was something that was being secreted by fat cells?
+
+325
+00:24:03,480 --> 00:24:19,480
+I think the first evidence in this regard, or at least some of the most important evidence, came from experiments that were done by an investigator at the Jackson Laboratories in Maine named Douglas Coleman.
+
+326
+00:24:19,480 --> 00:24:36,480
+And Coleman was a biochemist, a physiologist who was interested in some of the rare mouse mutations that led to very severe obesity.
+
+327
+00:24:36,480 --> 00:24:48,480
+And he was one of the first to study the OB-OB or OB's mouse, which was a spontaneous mutation that arose in the Jackson colony.
+
+328
+00:24:48,480 --> 00:24:59,480
+And he also was one of the close students of another mutation that arose there a number of years later in the so-called diabetes or DB gene.
+
+329
+00:24:59,480 --> 00:25:02,480
+So what was the phenotype of this OB-OB mouse?
+
+330
+00:25:02,480 --> 00:25:05,480
+The OB-OB mouse was –
+
+331
+00:25:05,480 --> 00:25:09,480
+That's not to be confused with the OB-1 Kenobi mouse. That's a very different phenotype, right?
+
+332
+00:25:09,480 --> 00:25:10,480
+That's correct.
+
+333
+00:25:10,480 --> 00:25:20,480
+The OB-OB mouse was noted to be very severely obese, very early in life.
+
+334
+00:25:20,480 --> 00:25:30,480
+So these animals were clearly obese by the time shortly after weaning, which is three or four weeks of age.
+
+335
+00:25:30,480 --> 00:25:41,480
+You could tell that they were obese. And if you left them alone and let them eat as much as they wanted, they would eat up to the point of becoming pretty heroically obese,
+
+336
+00:25:41,480 --> 00:25:46,480
+meaning these animals could reach weights of 70 or 80 grams,
+
+337
+00:25:46,480 --> 00:25:56,480
+whereas a normal so-called wild-type mouse at maximum weight would be somewhere around 40 or 50 grams much later in life.
+
+338
+00:25:56,480 --> 00:26:03,480
+An OB mouse could get up to 60 or 70 grams very early in life. The animals were infertile.
+
+339
+00:26:03,480 --> 00:26:05,480
+So how did they keep breeding them?
+
+340
+00:26:05,480 --> 00:26:13,480
+So the way they would breed these animals is breed the parents, the heterozygous animals that were able to generate the –
+
+341
+00:26:13,480 --> 00:26:15,480
+So get two heteros to make homos.
+
+342
+00:26:15,480 --> 00:26:16,480
+Correct.
+
+343
+00:26:16,480 --> 00:26:19,480
+So the phenotype centered around hyperphasia?
+
+344
+00:26:19,480 --> 00:26:24,480
+It was centered around two phenotypes, actually, that Dr. Coleman was able to show.
+
+345
+00:26:24,480 --> 00:26:30,480
+Primarily, the obesity was due to hyperphagia, but he also was able to demonstrate by a mechanism –
+
+346
+00:26:30,480 --> 00:26:34,480
+Sorry, I should just clarify for listeners, that means excessive appetite.
+
+347
+00:26:34,480 --> 00:26:36,480
+Yes, by excess food intake.
+
+348
+00:26:36,480 --> 00:26:39,480
+That was the primary cause of their obesity.
+
+349
+00:26:39,480 --> 00:26:47,480
+But he also, by using a technique called peer feeding, where he would only feed the animal the amount that a normal-weight animal would eat,
+
+350
+00:26:48,480 --> 00:26:52,480
+that those animals tended to store more of their excess calories as fat.
+
+351
+00:26:52,480 --> 00:26:55,480
+We sometimes refer to this as partitioning.
+
+352
+00:26:55,480 --> 00:27:01,480
+And by another set of experimental maneuvers, he was able to show that their metabolic rate was slower.
+
+353
+00:27:01,480 --> 00:27:06,480
+So these animals had what you might call a trifecta for obesity.
+
+354
+00:27:06,480 --> 00:27:13,480
+They ate more, spent less, and whatever they stored was preferentially stored as fat.
+
+355
+00:27:13,480 --> 00:27:15,480
+And these were fascinating animals.
+
+356
+00:27:16,480 --> 00:27:20,480
+People tried for many years to figure out what was wrong with them,
+
+357
+00:27:20,480 --> 00:27:24,480
+and they had many metabolic consequences of their obesity.
+
+358
+00:27:24,480 --> 00:27:31,480
+But nothing about their physiology necessarily pointed to what the primary mechanism was,
+
+359
+00:27:31,480 --> 00:27:39,480
+where the genetics clearly indicated that this was a single gene, or very likely to be a single.
+
+360
+00:27:39,480 --> 00:27:46,480
+And this, of course, is long before you've got your PCR technology that can very easily help you sequence this.
+
+361
+00:27:46,480 --> 00:27:48,480
+So two questions, though.
+
+362
+00:27:48,480 --> 00:27:49,480
+Lifespan was what?
+
+363
+00:27:49,480 --> 00:27:52,480
+Lifespan not severely affected, actually.
+
+364
+00:27:52,480 --> 00:27:57,480
+They could live to a fairly normal lifespan, somewhat short and fast.
+
+365
+00:27:57,480 --> 00:27:58,480
+Two and a half, three years.
+
+366
+00:27:58,480 --> 00:28:03,480
+Not quite. They didn't last quite that long, but certainly up to 18 months or two years.
+
+367
+00:28:03,480 --> 00:28:08,480
+Important to note, because of the question of whether fat makes something or not,
+
+368
+00:28:08,480 --> 00:28:17,480
+the human not only observed these OB mice, but also this second mutation that arose later at the Jackson lab
+
+369
+00:28:17,480 --> 00:28:19,480
+and was named the diabetes mouse.
+
+370
+00:28:19,480 --> 00:28:26,480
+That's because that animal looked a lot like an OB mouse, but got diabetes very early in life,
+
+371
+00:28:26,480 --> 00:28:35,480
+unlike the OB mouse, which seemed to be obese, but not necessarily particularly diabetes-prone.
+
+372
+00:28:35,480 --> 00:28:42,480
+It was clear that the mutation in the gene, again, another single gene that caused the diabetes mouse,
+
+373
+00:28:42,480 --> 00:28:44,480
+was not the OB gene.
+
+374
+00:28:44,480 --> 00:28:45,480
+It was on a different chromosome.
+
+375
+00:28:45,480 --> 00:28:47,480
+Coleman was able to show that.
+
+376
+00:28:47,480 --> 00:28:56,480
+So here you had animals that looked a great deal like each other, at least in terms of the overeating and the low energy expenditure.
+
+377
+00:28:56,480 --> 00:29:00,480
+One was prone to get diabetes, and the other not.
+
+378
+00:29:00,480 --> 00:29:10,480
+What Coleman ultimately did was to join the circulation of the OB mouse to a wild-type animal
+
+379
+00:29:10,480 --> 00:29:14,480
+and the DB, or diabetes mouse, to a wild-type animal using it.
+
+380
+00:29:14,480 --> 00:29:16,480
+So like a live parabiosis.
+
+381
+00:29:16,480 --> 00:29:19,480
+That's the technical term for it, is a parabiosis.
+
+382
+00:29:19,480 --> 00:29:25,480
+He showed that if you hooked an OB mouse up to a wild-type mouse in this way,
+
+383
+00:29:25,480 --> 00:29:34,480
+that the OB mouse would correct its hyperphagia, its excess food intake, and actually begin to lose weight.
+
+384
+00:29:34,480 --> 00:29:43,480
+So something presumably in the wild-type mouse, some humoral factor, some hormone, something must have been missing in the OB-OB mouse
+
+385
+00:29:43,480 --> 00:29:46,480
+that when given to it corrected its phenotype.
+
+386
+00:29:46,480 --> 00:29:47,480
+Correct.
+
+387
+00:29:47,480 --> 00:29:50,480
+And what happened when you did the parabiosis with the DB mouse?
+
+388
+00:29:50,480 --> 00:29:58,480
+With the DB mouse, you got the opposite situation where the wild-type animal began to lose weight
+
+389
+00:29:58,480 --> 00:30:03,480
+and actually stopped eating and would die of starvation, basically.
+
+390
+00:30:03,480 --> 00:30:10,480
+Whereas the DB mouse just went merrily on its way, eating and remaining obese.
+
+391
+00:30:10,480 --> 00:30:18,480
+So Coleman thought based on these two experiments that maybe the OB mouse was missing something
+
+392
+00:30:18,480 --> 00:30:26,480
+that the wild-type mouse produced, and the DB mouse that looked an awful lot like an OB mouse was missing the ability to respond
+
+393
+00:30:26,480 --> 00:30:34,480
+to whatever that molecule or molecules were that were required to regulate body weight.
+
+394
+00:30:34,480 --> 00:30:41,480
+And this was around the time that it was becoming clear that hormones had receptors that were specific to those hormones,
+
+395
+00:30:41,480 --> 00:30:44,480
+like thyroid, insulin, growth hormone.
+
+396
+00:30:44,480 --> 00:30:52,480
+So Coleman hypothesized that the OB mouse was missing what we refer to as the ligand, the circulating hormone,
+
+397
+00:30:52,480 --> 00:30:56,480
+and the DB mouse was missing the receptor for it.
+
+398
+00:30:56,480 --> 00:31:00,480
+And it turns out that Dr. Coleman was right.
+
+399
+00:31:00,480 --> 00:31:03,480
+Everything you've just said was known by what point in time?
+
+400
+00:31:03,480 --> 00:31:06,480
+I would say by the late 1970s.
+
+401
+00:31:06,480 --> 00:31:11,480
+Okay, so just as you're coming on the scene, the whippersnapper who doesn't know shit,
+
+402
+00:31:11,480 --> 00:31:18,480
+the guy up in Jackson, up in Maine knows this, and you can't wait to get all over this.
+
+403
+00:31:18,480 --> 00:31:19,480
+Correct.
+
+404
+00:31:19,480 --> 00:31:29,480
+So I began by actually studying adipose tissue to see whether there was something that might be regulated
+
+405
+00:31:29,480 --> 00:31:35,480
+by adipose tissue that would fit in this sort of general category of something that might produce a signal
+
+406
+00:31:35,480 --> 00:31:41,480
+or might be related to the anatomy of the adipose tissue.
+
+407
+00:31:41,480 --> 00:31:49,480
+At the time, Jules Hirsch was particularly interested in the fact that it appeared that what happens when people get obese
+
+408
+00:31:49,480 --> 00:31:56,480
+is that their fat cells expand up to a sort of maximum size, and then new fat cells begin to appear,
+
+409
+00:31:56,480 --> 00:32:01,480
+whether they were made de novo or had been resting in the area of the other adipocytes.
+
+410
+00:32:01,480 --> 00:32:09,480
+It wasn't clear at the time, but what happens as people get more and more obese is that more and more fat cells are recruited
+
+411
+00:32:09,480 --> 00:32:17,480
+so that if you look at a very obese individual, they have what is referred to in the literature as hyperplastic adipose tissue.
+
+412
+00:32:17,480 --> 00:32:24,480
+They have more fat cells, and Jules had actually figured out a way to count the fat cells of a human being.
+
+413
+00:32:24,480 --> 00:32:28,480
+And you can look under a microscope and see how big the fat cells are.
+
+414
+00:32:28,480 --> 00:32:35,480
+So he was very interested in what it is that permits a big fat cell to call up, if you will,
+
+415
+00:32:35,480 --> 00:32:40,480
+the other fat cells that are going to be needed once it reaches a critical size
+
+416
+00:32:40,480 --> 00:32:46,480
+and whether these fat cells were generating something that might act like a signal.
+
+417
+00:32:46,480 --> 00:32:48,480
+Are there any organelles inside a fat cell?
+
+418
+00:32:48,480 --> 00:32:53,480
+Oh, yeah. Fat cell has the complete repertoire of organelles that any other cell does.
+
+419
+00:32:53,480 --> 00:32:58,480
+So it's got a regular, quote unquote, regular nucleus. It's got mitochondria.
+
+420
+00:32:58,480 --> 00:33:00,480
+Oh, yeah. Yeah. It's got the whole—
+
+421
+00:33:00,480 --> 00:33:03,480
+It's just its cytoplasm is dominated by these lipid droplets.
+
+422
+00:33:03,480 --> 00:33:10,480
+Correct. It's designed to be able to hold these huge lipid droplets, but otherwise is a perfectly respectable cell,
+
+423
+00:33:10,480 --> 00:33:14,480
+has all the other components.
+
+424
+00:33:15,480 --> 00:33:21,480
+And what Jules had been doing, along with another investigator in the lab, a guy named Erv Faust,
+
+425
+00:33:21,480 --> 00:33:27,480
+was extirpating adipose tissue from rats. They were working primarily with rats.
+
+426
+00:33:27,480 --> 00:33:33,480
+Although there were some OB mice around, I'd actually seen those when I was at Harvard in Boston,
+
+427
+00:33:33,480 --> 00:33:37,480
+endocrinologist who trained me, just talked to me about them.
+
+428
+00:33:37,480 --> 00:33:45,480
+Jules and Erv were extirpating adipose tissue depots from rats and looking to see what happened.
+
+429
+00:33:45,480 --> 00:33:50,480
+And one of the things that they were struck by is that when they took a fat pad out,
+
+430
+00:33:50,480 --> 00:33:55,480
+if they waited long enough and just let the animal eat whatever it wanted to eat,
+
+431
+00:33:55,480 --> 00:33:59,480
+it would eat its way back up to restoring that fat pad.
+
+432
+00:33:59,480 --> 00:34:02,480
+Through de novo creation of more fat cells, you were by—
+
+433
+00:34:02,480 --> 00:34:10,480
+You leave the capsule of the depot there and it is able to generate new fat cells.
+
+434
+00:34:10,480 --> 00:34:14,480
+And they fill up, and they don't fill up to three times the size that they were before.
+
+435
+00:34:14,480 --> 00:34:19,480
+They go right back to the appropriate size for that depot.
+
+436
+00:34:19,480 --> 00:34:26,480
+And one of the things that Jules and Erv were very interested in is how does the animal—
+
+437
+00:34:26,480 --> 00:34:33,480
+How does the animal know that it should eat a little bit more to be able to generate the fat that's been extirpated?
+
+438
+00:34:33,480 --> 00:34:40,480
+And did this experiment only work when you started with obese rats, or did it work if you took a lean rat as well?
+
+439
+00:34:40,480 --> 00:34:43,480
+It worked with lean rats just as well.
+
+440
+00:34:43,480 --> 00:34:49,480
+As a matter of fact, most of the work they did was with lean rats, or not genetically obese rats.
+
+441
+00:34:49,480 --> 00:34:56,480
+Now, speaking of rats, you explained to us what the OB OB and the DB DB DB OB—
+
+442
+00:34:56,480 --> 00:35:02,480
+What about the Zucker rat, which preceded a lot of this stuff but had some interesting and similar features, right?
+
+443
+00:35:02,480 --> 00:35:12,480
+Right. So the Zucker rat was discovered, or identified, if you will, by a woman named Lois Zucker, the rat's name after her and her husband.
+
+444
+00:35:12,480 --> 00:35:19,480
+And it had characteristics very similar to these mice that we were talking about, the OB and the DB mice.
+
+445
+00:35:19,480 --> 00:35:28,480
+They were hyperphagic. They appeared to have a little bit lower energy expenditure and would become hugely obese.
+
+446
+00:35:28,480 --> 00:35:31,480
+I mean, these animals got up to heroic size.
+
+447
+00:35:31,480 --> 00:35:34,480
+Yeah, we're going to include some pictures of the Zucker mice in this—
+
+448
+00:35:34,480 --> 00:35:36,480
+The Zucker rats.
+
+449
+00:35:36,480 --> 00:35:38,480
+That's right, the Zucker rats in this show.
+
+450
+00:35:38,480 --> 00:35:51,480
+Very—again, got very obese, and many, many studies were done of the Zucker rat trying to, again, understand what the mechanism behind its obesity was.
+
+451
+00:35:51,480 --> 00:35:54,480
+Again, it appeared to be due to a single gene.
+
+452
+00:35:54,480 --> 00:35:58,480
+In other words, like the OB or DB mouse, there was a single mutant gene.
+
+453
+00:35:58,480 --> 00:36:06,480
+When the animal had two copies of the abnormal or low-activity gene, the animals would become very obese.
+
+454
+00:36:06,480 --> 00:36:23,480
+And one of the reigning hypotheses about the Zucker rat, again, at around the late 70s, early 80s, was that the fat itself was making too much of an enzyme called lipoprotein lipase.
+
+455
+00:36:24,480 --> 00:36:43,480
+And this is an enzyme which is produced by adipose tissue, by adipocytes, which breaks down circulating triglycerides and allows the free fatty acids that are released to be taken up by the adipocytes and the glycerol backbone, so to speak, remains in the circulation.
+
+456
+00:36:43,480 --> 00:36:54,480
+So the idea was that the Zucker rat, for some reason, had hyperactive lipoprotein lipase, and the adipose tissue was acting like a vacuum cleaner, in a sense.
+
+457
+00:36:54,480 --> 00:37:03,480
+It was sucking up the circulating fat, the triglyceride, and storing it, and that's how the animals got obese.
+
+458
+00:37:03,480 --> 00:37:17,480
+And in association with that observation was the idea that maybe the process of sucking up substrate from the circulation does something to drive or increase food intake.
+
+459
+00:37:17,480 --> 00:37:36,480
+So this model was often referred to as a pull model for the development of obesity. That is, that the adipose tissue was actually acting as a pulling mechanism for substrate, which was in turn affecting food intake, so the animal got fat that way.
+
+460
+00:37:36,480 --> 00:37:56,480
+So the animal was effectively starving, even though it stored an unbelievable amount of energy, it was disproportionately taking those circulating metabolic fuels and putting them into storage, so that if you buy this idea that something is sensing energy availability, that would naturally drive the hyperphasia, right?
+
+461
+00:37:56,480 --> 00:38:12,480
+Correct. And the other model, the one more consistent, say, with the OB or the DB mouse, was the so-called push model, which is that fat cells were being filled up because the brain itself had a pushing the substrate.
+
+462
+00:38:12,480 --> 00:38:25,480
+So these push-pull models were very much discussed in terms of what they said about where the primary mechanisms might be for the control of body weight.
+
+463
+00:38:25,480 --> 00:38:41,480
+Was it the adipose tissue that was basically begging for more fuel and sucking it in and causing the animal to eat that way, or was there something going on primarily in the brain that was influencing the food intake and the adipose tissue was being passed?
+
+464
+00:38:41,480 --> 00:38:55,480
+And like all good problems in medicine, there's examples of both that are quite elegant, right? I mean, that's sort of the challenge of this is when you look at this in experimental models, you could find very elegant examples of each, correct?
+
+465
+00:38:55,480 --> 00:39:10,480
+You could find elegant examples that pointed in the direction of both of these. It was interesting. I mean, it was the whole issue of lipoprotein lipase suggested that, again, this model, the Zucker rat, that was used in the last few years, was that it was very much a very elegant example of each.
+
+466
+00:39:10,480 --> 00:39:18,480
+The Zucker rat was used to support this idea that the LPL was, as it was referred to, was critical in this regard.
+
+467
+00:39:18,480 --> 00:39:32,480
+But it was known that individuals who had total lipoprotein lipase deficiency, and there are such individuals on a genetic basis, had very, very high levels of circulating triglyceride.
+
+468
+00:39:32,480 --> 00:39:39,480
+I mean, these can be life-threatening in terms of the levels that are reached, but they had perfectly normal adipose tissue.
+
+469
+00:39:39,480 --> 00:39:51,480
+So this suggested that maybe LPL wasn't critical or an absolute meaning you would expect those patients to have sky high triglycerides and be emaciated. Yes, and they weren't, and they aren't.
+
+470
+00:39:51,480 --> 00:40:03,480
+So this was already sort of a question about the lipoprotein lipase. And we know that those patients were completely deficient in LPL. Yes. Does that mean they had no LPL on their muscle cells as well?
+
+471
+00:40:03,480 --> 00:40:11,480
+So the individuals who are totally deficient in LPL have no LPL on any cell type.
+
+472
+00:40:11,480 --> 00:40:16,480
+It's hard to imagine how they function. Does that mean they're completely dependent on glycolysis?
+
+473
+00:40:16,480 --> 00:40:30,480
+They are able to take up the fatty acids. They don't need the LPL to break down the triglyceride. They do fine. I mean, in terms of being able to, there's nothing wrong with their manipulation or movement of fatty acid.
+
+474
+00:40:30,480 --> 00:40:35,480
+And that's probably why they have normal adipose tissue and normal muscle.
+
+475
+00:40:35,480 --> 00:40:43,480
+So it's interesting the history of this, and just to mention this, we now know what the Zucker mutation is.
+
+476
+00:40:43,480 --> 00:40:59,320
+And one of the earliest experiments I did at Rockefeller, or one of the relatively early experiments, is we tried to map the position of the Zucker obesity gene in the same way that we were already trying to map with the
+
+477
+00:41:00,480 --> 00:41:12,480
+footwear and ultimately clone the OB and DB gene for pretty obvious reasons at this point, that we wanted to figure out what the signal and whether there was a receptor for this.
+
+478
+00:41:12,480 --> 00:41:28,480
+And as part of this work, a student who worked with me named Gary Truitt made a map of the position of the Zucker gene, which we did by crossing the Zucker rats with another strain of rats so that we could make what's referred to as a genetic map.
+
+479
+00:41:28,480 --> 00:41:36,480
+And tell me how that works, because everything I've ever done with genes came after we had the luxury of real-time PCR.
+
+480
+00:41:36,480 --> 00:41:49,480
+And we just said, you know, my generation had it so easy. You guys like, when I hear stories about people doing positional gene stuff, you know, 40, 50 years ago, I'm like, wow, that's incredible.
+
+481
+00:41:49,480 --> 00:41:54,480
+So tell me, technically, like, what were you actually doing to positionally isolate that?
+
+482
+00:41:54,480 --> 00:42:19,480
+So the way these experiments are done, they're pretty much the same principle, is that you take in the case of rats or mice, which you have this luxury, you can cross one strain of mouse or rat to another strain of mouse or rat, and then look for signposts of genetic variation along the entire genome of the animal.
+
+483
+00:42:19,480 --> 00:42:31,480
+And each strain has different sequences of DNA. The major differences are in the so-called non-coding region. Some of the differences are in coding regions.
+
+484
+00:42:31,480 --> 00:42:46,480
+And back then, we used a technique called southern blotting to look for basically putting down signposts on the DNA of an animal to figure out where the differences between the strains resided.
+
+485
+00:42:46,480 --> 00:43:15,480
+And by monitoring the obesity of the animal and knowing which strain was actually carrying the gene that we didn't know what it was, but we know what strain it came from, in this case, the Zucker strain, we could actually mark the DNA of these animals that had been interbred and figure out where the Zucker chromosome, the Zucker genetic markers, were segregated.
+
+486
+00:43:15,480 --> 00:43:21,480
+We would look for correlation of region which has the Zucker genetic variation with the obesity of the animals.
+
+487
+00:43:21,480 --> 00:43:40,480
+Because if you do these crosses in the way that I described, you get some obese, you're going to get in some non-obese animals, and then by relating where the sequences are corresponding to the strain from which you know the gene is being used, you can see the gene is being used.
+
+488
+00:43:40,480 --> 00:43:46,480
+And this was a qualitative assessment, not so much a quantitative assessment, right?
+
+489
+00:43:46,480 --> 00:43:58,480
+So the quantitative assessment is, is the animal obese or not obese? You absolutely have to get this right because the obese animal has, in this particular model, a lot of the genes that are being used in the genome.
+
+490
+00:43:58,480 --> 00:44:24,480
+So the quantitative assessment is, is the animal obese or not obese? You absolutely have to get this right because the obese animal has, in this particular model, two copies of the mutant gene that's producing the obesity, and if it's not obese, it either has one or zero copies, and you need to be absolutely clear what the phenotype is, so to speak, of the animal is.
+
+491
+00:44:25,480 --> 00:44:36,480
+And then if you put these markers down, these signposts down, you can define an interval in which that gene must reside.
+
+492
+00:44:36,480 --> 00:44:42,480
+So it's actually, it's, in a sense, it's quantitative at the level of the phenotype.
+
+493
+00:44:42,480 --> 00:44:50,480
+So the best you could do is say this is on, you know, 17p or 17q. That's, that's like the level of resolution you can get out of this?
+
+494
+00:44:50,480 --> 00:44:51,480
+Yes.
+
+495
+00:44:51,480 --> 00:44:55,480
+What happened when they did a parabiosis with a zucker rat? Did anyone do that?
+
+496
+00:44:55,480 --> 00:45:08,480
+There have been parabiosis experiments done with rats, but they've generally done these in a, in a slightly different way from the way you asked the question.
+
+497
+00:45:08,480 --> 00:45:21,480
+And those studies have again supported the idea that the zucker rat may be overproducing, like the DB mouse, the product which is suppressive of food intake.
+
+498
+00:45:21,480 --> 00:45:37,480
+And as a matter of fact, when we were trying to clone these genes, I actually took blood out of zucker rats and injected it into DB mice to see whether or not I could slow down their food intake, because at one time we were worried that we might not be able to get it.
+
+499
+00:45:37,480 --> 00:45:43,480
+We might not be able to get the gene by mapping and would have to try to isolate the product out of the blood of an animal.
+
+500
+00:45:43,480 --> 00:45:49,480
+But the zucker rat studies supported the idea that the same as the mice.
+
+501
+00:45:49,480 --> 00:45:59,480
+So we'll fast forward now into the late seventies, early eighties. You're working mostly now in the lab. Your clinical responsibilities have shrunk significantly, right?
+
+502
+00:45:59,480 --> 00:46:23,480
+So at the time I was doing these experiments, I had some experiments still going on, no clinical practice at all, but I was studying humans in the clinical research center at Rockefeller, looking at the effects of weight loss and weight gain on energy metabolism in these individuals.
+
+503
+00:46:23,480 --> 00:46:30,480
+Again, beginning to try to understand what it is that's regulating body weight in a human.
+
+504
+00:46:30,480 --> 00:46:52,480
+The idea being that if you reduce the body weight of a human down by 10 or 20%, what happens to them metabolically that might be consistent with some of these things that had been seen in mice that would suggest that, again, in humans there's regulatory pathways that are there in order to regulate the amount of weight.
+
+505
+00:46:52,480 --> 00:47:08,480
+Regulate the amount of stored energy. So my time was basically split between doing these studies of humans who were in the clinical research center for long periods of time when we would study the metabolic consequences of perturbing their body weight.
+
+506
+00:47:08,480 --> 00:47:13,480
+The other was spent trying to identify these genes and try to clone the genes.
+
+507
+00:47:13,480 --> 00:47:28,480
+So how did that progress through the 80s as you were working to try to identify specifically the OB OB gene? And again, the reason you were pretty confident that it was a single gene was just based on the breeding pattern.
+
+508
+00:47:28,480 --> 00:47:32,480
+Yes, the breeding pattern clearly indicated that this was a single.
+
+509
+00:47:32,480 --> 00:47:34,480
+Because it was sort of Mendelian.
+
+510
+00:47:34,480 --> 00:47:45,480
+Yes, absolutely Mendelian. So so-called autosomal recessive Mendelian as is the DB mouse and the Zucker rat. So what we did is what I basically described for the rat.
+
+511
+00:47:45,480 --> 00:47:47,480
+Why was it harder for the mice?
+
+512
+00:47:47,480 --> 00:47:49,480
+To clone the gene?
+
+513
+00:47:49,480 --> 00:47:50,480
+Yes.
+
+514
+00:47:50,480 --> 00:47:51,480
+It was not harder.
+
+515
+00:47:51,480 --> 00:47:52,480
+It was not.
+
+516
+00:47:52,480 --> 00:48:03,480
+No, no, I think it was equally difficult. What I was describing is when we didn't actually sort of finish that part of the conversation, we did make a map of where the Zucker gene was located.
+
+517
+00:48:03,480 --> 00:48:06,480
+The gene was located in the rat.
+
+518
+00:48:06,480 --> 00:48:28,480
+But we didn't clone the gene out of the rat at that time. And what that experiment showed is that that was interesting aproposis lipoprotein lipase hypothesis is that the Zucker gene was in a part of the rat genome entirely separate from where the LPL gene was located.
+
+519
+00:48:28,480 --> 00:48:44,480
+So from that experiment alone, we knew that it couldn't be LPL as the causal mechanism of the Zucker rat. We didn't know what it was, but we could clearly identify what it wasn't.
+
+520
+00:48:44,480 --> 00:48:58,480
+Because if the gene is not in the location that is segregating with the phenotype, it's not the gene. This was hard for people, I think, to understand or at least to accept at the time.
+
+521
+00:48:58,480 --> 00:49:15,480
+But the LPL, I think, was not full appreciation of what an experiment like that represents, which is basically an unequivocal falsifying experiment. That is, if it isn't in the place where the gene must be, then it can't be the gene.
+
+522
+00:49:15,480 --> 00:49:17,480
+I mean, it's a syllogism.
+
+523
+00:49:17,480 --> 00:49:20,480
+Yeah. And you don't get a lot of those in science.
+
+524
+00:49:20,480 --> 00:49:21,480
+No, you don't get those.
+
+525
+00:49:21,480 --> 00:49:22,480
+Especially in biology.
+
+526
+00:49:22,480 --> 00:49:28,480
+Right. And so this early on, this was one of the proofs that at least we knew one gene that it wasn't.
+
+527
+00:49:28,480 --> 00:49:29,480
+It wasn't.
+
+528
+00:49:29,480 --> 00:49:43,480
+And then, to sort of back then to your question, we used a very similar strategy, an identical strategy, with the mice. We crossed the mice to strains that were different from the strain on which the mutation existed.
+
+529
+00:49:43,480 --> 00:49:53,480
+And by doing that, we're able to make maps of the region where the gene was located. And that was actually known for other reasons. Coleman had figured it out.
+
+530
+00:49:53,480 --> 00:50:09,480
+He knew which chromosome these genes were on. So we at least had that as a sort of initial guide. But what the gene was or how it worked was obviously entirely unknown.
+
+531
+00:50:09,480 --> 00:50:11,480
+What was Coleman's training?
+
+532
+00:50:11,480 --> 00:50:27,480
+What was trained is a biochemist at the University of Wisconsin, I think. And we actually consulted with Dr. Coleman, Doug, very early on, matter of fact, very early on in the process about which strains of mice might be appropriate as so-called counter strains.
+
+533
+00:50:27,480 --> 00:50:44,480
+And he was extremely helpful. I mean, he used to come down. We would talk to him, go visit him at Jackson on at least one occasion, met with him in Philadelphia.
+
+534
+00:50:44,480 --> 00:50:45,480
+So he loved the collaboration.
+
+535
+00:50:45,480 --> 00:51:04,480
+He loved it. It was very encouraging of that. He always said that he wasn't sort of au courant with regard to the tools of so-called molecular genetics. But in fact, I and Jeff Friedman, who was the other sort of PI on this project, neither of us was expert in molecular genetics.
+
+536
+00:51:04,480 --> 00:51:10,480
+So we sort of had to train ourselves to do this, as did the students who worked with us on this project.
+
+537
+00:51:10,480 --> 00:51:12,480
+So when did Jeff enter the lab?
+
+538
+00:51:13,480 --> 00:51:25,480
+I got to know Jeff because he was, he rotated as a resident, actually, at New York Hospital through Jules's lab to work with another investigator there.
+
+539
+00:51:25,480 --> 00:51:28,480
+So I got to know him when he rotated through.
+
+540
+00:51:28,480 --> 00:51:34,480
+But he and I started this project after he entered the PhD program.
+
+541
+00:51:34,480 --> 00:51:43,480
+He was a physician and then went on to get a PhD at Rockefeller in a different laboratory. But he and I started the project to clone these genes together.
+
+542
+00:51:43,480 --> 00:51:45,480
+About what year was that?
+
+543
+00:51:45,480 --> 00:51:51,480
+1985 or 1986, I guess, and, you know, 1986, probably.
+
+544
+00:51:51,480 --> 00:51:58,480
+What were the major steps that took place starting around the mid-80s that were kind of like the essential?
+
+545
+00:51:58,480 --> 00:52:04,480
+I mean, I think one of the things that's just hard for people to think to understand is how much you have to fail in science.
+
+546
+00:52:04,480 --> 00:52:14,480
+I mean, sounds simple, right? We want to clone a gene. And yet in that era, that was very hard to do.
+
+547
+00:52:14,480 --> 00:52:26,480
+Right. There were efforts underway at around the same time to clone the gene for Huntington's disease and cystic fibrosis, muscular dystrophy, to name a few.
+
+548
+00:52:27,480 --> 00:52:28,480
+Other single gene.
+
+549
+00:52:28,480 --> 00:52:38,480
+Other single gene disorders. And for a number of reasons, genes that are on sex chromosomes may be a little bit easier to handle in this regard.
+
+550
+00:52:38,480 --> 00:52:52,480
+But the same tools were being used, the so-called Southern blotting, putting down markers across the genome, using this rather tedious technique of having to put the DNA down on a blot of some kind,
+
+551
+00:52:52,480 --> 00:52:59,480
+and then exposing it with radioactively tagged reagents to be able to find these individual markers.
+
+552
+00:52:59,480 --> 00:53:01,480
+This was a tedious process.
+
+553
+00:53:01,480 --> 00:53:08,480
+One thing that helped with the mice is that there existed a chromosome in mice.
+
+554
+00:53:08,480 --> 00:53:13,480
+So these are called Robertsonian chromosomes in which you have two chromosomes joined to each other.
+
+555
+00:53:13,480 --> 00:53:22,480
+And there was a so-called Robertsonian chromosome that had both chromosome four and chromosome six of the mouse attached to each other.
+
+556
+00:53:22,480 --> 00:53:30,480
+We knew based on Doug Coleman's work that the OB gene was on chromosome six and the DB gene was on chromosome four.
+
+557
+00:53:30,480 --> 00:53:42,480
+And one of the students who came to work on this project very early, a young man named Nate Bahari, who came over from New York Hospital as a medical student and spent time on this project.
+
+558
+00:53:42,480 --> 00:53:45,480
+And then went on to get a PhD working on it.
+
+559
+00:53:45,480 --> 00:54:01,480
+He took glass needles, if you can believe this, and dissected out under a microscope the rough regions of the chromosome six and four that we knew must have the gene in them.
+
+560
+00:54:01,480 --> 00:54:20,480
+And made from those needle dissected chromosome fragments, other markers that we could put down on the DNA from these mice that we had intercross to make a finer and finer map of the region in which the gene must reside.
+
+561
+00:54:20,480 --> 00:54:29,480
+And otherwise, this was identical to the Zucker strategy in which we very carefully looked at, see whether a mouse was obese or not.
+
+562
+00:54:29,480 --> 00:54:37,480
+And again, these are mentalizing phenotypes, but we had to be absolutely sure what the phenotype of the mouse was.
+
+563
+00:54:37,480 --> 00:54:47,480
+And then we could use the DNA from the obese animal to make a finer and finer map around the region where the gene must reside.
+
+564
+00:54:47,480 --> 00:54:48,480
+I don't even understand how that would work.
+
+565
+00:54:48,480 --> 00:54:52,480
+What resolution of a microscope would you need to be tweaking chromosomes?
+
+566
+00:54:52,480 --> 00:54:54,480
+Chromosomes aren't that small.
+
+567
+00:54:54,480 --> 00:55:00,480
+I mean, you can see a chromosome quite easily with a high-powered microscope.
+
+568
+00:55:00,480 --> 00:55:07,480
+But having the steady hands and the patience to be able to do this was quite an achievement.
+
+569
+00:55:07,480 --> 00:55:14,480
+I would say it was sine qua non without which this project wouldn't have been done at the time.
+
+570
+00:55:14,480 --> 00:55:18,480
+We didn't have the tools, some of the ones that you already mentioned, available.
+
+571
+00:55:18,480 --> 00:55:29,480
+So we had to try to identify additional signposts, if you will, in the region of the two genes that we were primarily interested in.
+
+572
+00:55:29,480 --> 00:55:31,480
+That is the OB and the DB gene.
+
+573
+00:55:31,480 --> 00:55:34,480
+At the time, you're basically thinking, look, we're looking for a gene for a hormone.
+
+574
+00:55:34,480 --> 00:55:37,480
+We're probably looking for a gene for a receptor, so a ligand receptor.
+
+575
+00:55:37,480 --> 00:55:42,480
+Did you have an expectation that those would be on the same chromosome, or would that be completely unnecessary?
+
+576
+00:55:42,480 --> 00:55:44,480
+No, we knew that they absolutely weren't.
+
+577
+00:55:44,480 --> 00:55:45,480
+No, no, I knew you knew that they weren't.
+
+578
+00:55:45,480 --> 00:55:47,480
+But would you expect that?
+
+579
+00:55:47,480 --> 00:55:59,480
+For example, in thyroid, is T4 and TSH or T4 and TR, the thyroid receptor, or TSH and TSR, are they necessarily?
+
+580
+00:55:59,480 --> 00:56:00,480
+No.
+
+581
+00:56:00,480 --> 00:56:01,480
+No, there's no relationship.
+
+582
+00:56:01,480 --> 00:56:02,480
+No, no.
+
+583
+00:56:02,480 --> 00:56:11,480
+So the function doesn't require that the genes be in proximity to each other, and if they are, it's almost always just a coincidence.
+
+584
+00:56:11,480 --> 00:56:12,480
+Got it.
+
+585
+00:56:12,480 --> 00:56:19,480
+What was the kind of critical breakthrough that led to the cloning of this gene?
+
+586
+00:56:19,480 --> 00:56:31,480
+So what was done basically was to make the map as fine as we could using the reagents that I mentioned to you and some others that we were able to get hold of,
+
+587
+00:56:32,480 --> 00:56:43,480
+and using computer programs to put these data together in such a way as to be able to generate as fine a map of the region around this gene as we could.
+
+588
+00:56:43,480 --> 00:56:52,480
+And then what was done was to go into the region that must contain the gene and begin to look for expressed,
+
+589
+00:56:53,480 --> 00:57:02,480
+meaning that the DNA was transcribed, transcripts that were being read off of this part of the DNA.
+
+590
+00:57:02,480 --> 00:57:12,480
+And by taking the transcripts that came off and putting them against various organs from the OB or the DB mouse,
+
+591
+00:57:13,480 --> 00:57:22,480
+we would look for transcripts that were specifically altered in animals that were mutant for the gene.
+
+592
+00:57:22,480 --> 00:57:31,480
+So you would expect, you might ordinarily expect maybe the level of the gene that we were looking for would be very low in the organ that was affected.
+
+593
+00:57:31,480 --> 00:57:38,480
+And again, even though we know now it was adipose tissue, and there were certainly reasons to think that might be where the OB gene was,
+
+594
+00:57:39,480 --> 00:57:49,480
+when we did these experiments, we actually looked at every organ in the animal, brain, thyroid, muscle, adipose tissue, anything we could get our hands on.
+
+595
+00:57:49,480 --> 00:57:58,480
+We actually dissected out almost everything out of a mouse to look to see where the deficiency or the excess might be.
+
+596
+00:57:58,480 --> 00:58:03,480
+Sometimes genes, transcripts are overexpressed, although they're not functionally competent.
+
+597
+00:58:04,480 --> 00:58:16,480
+And actually at a visit to the Jackson labs when Doug Coleman was retiring, one of the investigators there asked me if I would like to have,
+
+598
+00:58:16,480 --> 00:58:23,480
+or we would like to have mice that appeared to have the OB mutation, but a different mouse.
+
+599
+00:58:23,480 --> 00:58:30,480
+So the original mutation occurred in the mouse that was identified at Jackson in the early 1950s.
+
+600
+00:58:31,480 --> 00:58:37,480
+This was a new mutation that had arisen and almost certainly wouldn't be identical to the one that had arisen earlier.
+
+601
+00:58:37,480 --> 00:58:39,480
+But was similar in phenotypes?
+
+602
+00:58:39,480 --> 00:58:41,480
+Absolutely identical in phenotypes.
+
+603
+00:58:41,480 --> 00:58:45,480
+So I got those mice and we took them to Rockefeller.
+
+604
+00:58:45,480 --> 00:58:47,480
+What did you call them?
+
+605
+00:58:47,480 --> 00:58:49,480
+Two Js.
+
+606
+00:58:49,480 --> 00:58:56,480
+So the OB, the first mutation we referred to as one J, that's just the nomenclature, and the second one was OB2J.
+
+607
+00:58:56,480 --> 00:59:07,480
+And we took the OB organs out of the one Js and the two Js and ran these transcripts against them using the technique called northern blotting at the time.
+
+608
+00:59:07,480 --> 00:59:09,480
+Not to be confused with western blotting.
+
+609
+00:59:09,480 --> 00:59:11,480
+Not to be confused with western blotting.
+
+610
+00:59:11,480 --> 00:59:14,480
+So northern blotting is looking actually at RNA.
+
+611
+00:59:14,480 --> 00:59:27,480
+It turned out that the two J was extremely valuable animal because those animals didn't express any of what turned out to be the leptin transcript,
+
+612
+00:59:27,480 --> 00:59:35,480
+whereas the one Js actually overexpressed it, but it was functionally inadequate, functionally inactive.
+
+613
+00:59:35,480 --> 00:59:42,480
+But the transcript was increased, again, for reasons having to do with the molecular biology of how these systems work.
+
+614
+00:59:42,480 --> 00:59:51,480
+When we saw that there was one animal that had a very low level and the other very high, this was a smoking gun, so to speak.
+
+615
+00:59:51,480 --> 00:59:58,480
+This was the evidence that that piece of the genome was actually a part of the OB gene.
+
+616
+00:59:58,480 --> 01:00:03,480
+So ultimately, where did this ligand, where did it show up?
+
+617
+01:00:03,480 --> 01:00:19,480
+The OB gene showed up almost solely, virtually solely, I mean, in adipose tissue, fully consistent with the idea that adipose tissue was producing something that was picked up in Doug's parabiosis experiments.
+
+618
+01:00:19,480 --> 01:00:20,480
+Which chromosome?
+
+619
+01:00:20,480 --> 01:00:23,480
+Chromosome six of the mouse.
+
+620
+01:00:23,480 --> 01:00:27,480
+It's chromosome seven of the human.
+
+621
+01:00:27,480 --> 01:00:35,480
+We actually knew that because we could put the orthologs of the mouse genes down on human DNA.
+
+622
+01:00:35,480 --> 01:00:41,480
+And so just like we did with the Zucker rat, we actually knew where the gene was.
+
+623
+01:00:41,480 --> 01:00:43,480
+Do mice have 23 pairs of chromosomes?
+
+624
+01:00:43,480 --> 01:00:45,480
+They have, yes, 23.
+
+625
+01:00:45,480 --> 01:00:47,480
+23 including the sex.
+
+626
+01:00:47,480 --> 01:00:50,480
+So what name was given to this?
+
+627
+01:00:50,480 --> 01:01:07,480
+I mean, it's referred to as the OB gene or the name that was given to the protein is leptin, which was the name was chosen because that suggested that whatever this was, it had an effect to lighten the body weight of an animal.
+
+628
+01:01:07,480 --> 01:01:16,480
+So now you have it that the fat cell secretes leptin and the OB mouse can't make leptin, correct?
+
+629
+01:01:16,480 --> 01:01:17,480
+Correct.
+
+630
+01:01:17,480 --> 01:01:20,480
+And the DB mouse makes all the leptin in the world.
+
+631
+01:01:20,480 --> 01:01:26,480
+This wasn't known at the time because the gene, the first gene to be cloned was the OB gene.
+
+632
+01:01:26,480 --> 01:01:34,480
+And the fact that the DB gene was the receptor was actually learned in two ways.
+
+633
+01:01:34,480 --> 01:01:44,480
+One by taking the OB protein and putting it down on what's called an expression library from part of the brain, the choroid plexus.
+
+634
+01:01:44,480 --> 01:01:47,480
+Wait, sorry to interrupt one thing, Rudy, I apologize.
+
+635
+01:01:47,480 --> 01:01:50,480
+Did they ever do parabiosis between the OB and the DB?
+
+636
+01:01:50,480 --> 01:01:52,480
+Yes, that was done as well.
+
+637
+01:01:52,480 --> 01:01:53,480
+Okay.
+
+638
+01:01:53,480 --> 01:01:56,480
+Because that would, that should fix the OB.
+
+639
+01:01:56,480 --> 01:01:57,480
+It did.
+
+640
+01:01:57,480 --> 01:01:58,480
+But not the DB.
+
+641
+01:01:58,480 --> 01:01:59,480
+Correct.
+
+642
+01:01:59,480 --> 01:02:00,480
+Okay.
+
+643
+01:02:00,480 --> 01:02:05,480
+Which is another great and elegant example that one of them had the ligand deficiency, the other had the receptor deficiency.
+
+644
+01:02:05,480 --> 01:02:09,480
+God, Mendelian genetics are freaking awesome when they work.
+
+645
+01:02:09,480 --> 01:02:19,480
+Yeah, well, so that was one of the reasons for using these animals is that you could use the genetics to really help to narrow down the region where these genes had to be located.
+
+646
+01:02:19,480 --> 01:02:24,480
+If it were a polygenic disturbance, it's really, it's a whole different order of business.
+
+647
+01:02:24,480 --> 01:02:36,480
+So basically the DB gene was, or the protein that was nominated to be the DB gene was pulled out of a library of, what's called an expression library of choroid plexus,
+
+648
+01:02:36,480 --> 01:02:42,480
+by using the OB protein as a probe to see what it stuck to.
+
+649
+01:02:42,480 --> 01:03:03,480
+And that gene that was pulled out of the choroid plexus in that way, we then took and mapped into the DB crosses that we had and showed that that, if you will, nominated gene, mapped right in the right place for the DB gene.
+
+650
+01:03:03,480 --> 01:03:05,480
+Which was on chromosome four in the mouse.
+
+651
+01:03:05,480 --> 01:03:21,480
+Yes, correct. And it also turned out that that gene, the DB gene, the leptin receptor, is the mutant in the zucker rat, which we showed by cloning the gene then out of the zucker rat, knowing where it was.
+
+652
+01:03:21,480 --> 01:03:31,480
+So this was hailed as one of the most important insights and breakthroughs in all of obesity research. This was, what, 1994?
+
+653
+01:03:31,480 --> 01:03:35,480
+And then the DB gene a year or two later.
+
+654
+01:03:35,480 --> 01:03:45,480
+What was your expectation at the time? What type of hope did you hold out for the discovery of the gene, but perhaps more importantly, the protein that it coded for?
+
+655
+01:03:45,480 --> 01:03:51,480
+So there were different schools of thought with regard to what this protein actually did.
+
+656
+01:03:51,480 --> 01:04:06,480
+I think one view was that if you saw this as a protein that suppresses food intake, which it definitely does in an OB mouse, if you give it to an OB mouse, you can basically, quote, cure the animal.
+
+657
+01:04:06,480 --> 01:04:12,480
+And if you give it in very high doses to a mouse, it will suppress its food intake.
+
+658
+01:04:12,480 --> 01:04:27,480
+So one view was that this was a weight suppressing hormone. The other view, which was taken by Jeff Flyer, who was at Harvard at the time, later became dean, still at Harvard.
+
+659
+01:04:27,480 --> 01:04:50,480
+And the other thing that was extremely true was working with on this project or had worked on it and myself was that the protein was actually more important in its deficiency state as a signal to the brain that you didn't have enough energy to survive under circumstances of a fast or to have enough energy on board to successfully complete a pregnancy.
+
+660
+01:04:50,480 --> 01:04:57,480
+So one view was that very high levels would normally suppress body weight, although it was hard to imagine at the time.
+
+661
+01:04:57,480 --> 01:04:59,480
+Evolutionarily, that was not a natural state.
+
+662
+01:04:59,480 --> 01:05:05,480
+That's correct. So that's why we were wondering right from the beginning, why would nature invent something that would suppress?
+
+663
+01:05:05,480 --> 01:05:11,480
+Right. It makes more sense that nature would say, here's a hormone that if it's low, is it kicking the pants to eat?
+
+664
+01:05:11,480 --> 01:05:12,480
+That's correct.
+
+665
+01:05:12,480 --> 01:05:15,480
+Or, and maybe other things, right? Maybe prevent you from getting pregnant.
+
+666
+01:05:15,480 --> 01:05:27,480
+Yes. And that's, I think, turned out to be the correct model for how this hormone, its primary mechanism of action, is that it is there to tell the brain that you don't have enough fat.
+
+667
+01:05:27,480 --> 01:05:33,480
+And in an OB mouse, you don't make the hormone leptin, so the brain thinks you don't have any fat.
+
+668
+01:05:33,480 --> 01:05:44,480
+And in the DB mouse, it doesn't receive the signal from the perfectly adequate amounts, actually high levels of leptin, so that the animal, again, thinks that it's starving.
+
+669
+01:05:44,480 --> 01:05:49,480
+Are there human conditions that mimic the OB and DB condition of the mice?
+
+670
+01:05:49,480 --> 01:05:59,480
+Yes. So there are humans, there are handful of humans who have mutations of the OB gene and are obese and have many of the phenotypic characteristics of a...
+
+671
+01:05:59,480 --> 01:06:03,480
+And these are patients that you've cured with this, you give these patients leptin and you cure them?
+
+672
+01:06:03,480 --> 01:06:13,480
+Yes. They're curable by giving leptin. And there are a handful, again, of individuals with leptin receptor mutations, which are comparable.
+
+673
+01:06:13,480 --> 01:06:15,480
+How do you help those patients?
+
+674
+01:06:15,480 --> 01:06:34,480
+Those, the leptin won't help. You can't treat them with leptin. And there is no effective intervention for those people at this time, although there are drugs that are being developed that are designed to act downstream of some of the actions of leptin that might, if you could, rectify the activity there.
+
+675
+01:06:34,480 --> 01:06:48,480
+For example, at a receptor called the melanocortin-4 receptor, that would presumably or possibly help to rectify the phenotype of those individuals, although at present, it's not a proven effective intervention.
+
+676
+01:06:48,480 --> 01:06:50,480
+It might turn out to be.
+
+677
+01:06:50,480 --> 01:06:55,480
+It wasn't long after the discovery of leptin that what drug company came in?
+
+678
+01:06:55,480 --> 01:06:56,480
+Amgen.
+
+679
+01:06:57,480 --> 01:07:03,480
+So Amgen obviously bought the rights to do this, thinking this could be a blockbuster obesity drug.
+
+680
+01:07:03,480 --> 01:07:04,480
+Mm-hmm.
+
+681
+01:07:04,480 --> 01:07:09,480
+Turned out not to be, because unless you had a leptin deficiency, it didn't seem to help much, right?
+
+682
+01:07:09,480 --> 01:07:25,480
+Correct. There was a major trial of the use of leptin as a therapeutic agent and obese individuals. And neither the obese individuals or the lean individuals who were in the study as controls responded very much to raising the risk.
+
+683
+01:07:25,480 --> 01:07:32,480
+Much to raising blood levels as much as tenfold above where they were normally located in those individuals.
+
+684
+01:07:32,480 --> 01:07:34,480
+So I just did a blood draw.
+
+685
+01:07:34,480 --> 01:07:38,480
+I've been doing a blood draw on myself every seven days because I'm doing, you know, me, Rudy.
+
+686
+01:07:38,480 --> 01:07:43,480
+That's just the shit I do. So my leptin level last Friday was two or less than two.
+
+687
+01:07:43,480 --> 01:07:47,480
+The cutoff was two. So I have a low level of leptin.
+
+688
+01:07:47,480 --> 01:07:58,480
+So if you gave me enough leptin to raise my serum levels to levels that I rarely see clinically, like when I check leptin levels on patients, which I always do, I always want to see leptin.
+
+689
+01:07:58,480 --> 01:08:03,480
+I want to see adiponectin. I want to see insulin. I want to see MIFA, FFA, et cetera.
+
+690
+01:08:03,480 --> 01:08:09,480
+It's very unusual that I'll see a leptin level, even in an overweight patient more than about 40 or 50.
+
+691
+01:08:09,480 --> 01:08:16,480
+So if you took me and you gave me that much leptin, do you think it would regulate or depress my appetite in any way?
+
+692
+01:08:16,480 --> 01:08:21,480
+Well, first of all, your leptin is low now because you're not eating. So...
+
+693
+01:08:21,480 --> 01:08:23,480
+Oh, this is even, this is back when I was eating too.
+
+694
+01:08:23,480 --> 01:08:33,480
+Right. So leptin is very highly correlated with body fat. At any level of body fat, if you stop eating, if you restrict calories, the level of leptin will drop by...
+
+695
+01:08:33,480 --> 01:08:34,480
+Within what period of time?
+
+696
+01:08:34,480 --> 01:08:38,480
+Within 12, 18 hours. It'll drop by 50 percent.
+
+697
+01:08:38,480 --> 01:08:45,480
+So if we check a leptin level on a patient in the morning following a 12-hour fast, we can assume that that's about half what their fed leptin level.
+
+698
+01:08:45,480 --> 01:08:53,480
+Well, 12, it depends on what they've been eating. 12 may be a little short in that context. So to be safe, I would say 24.
+
+699
+01:08:53,480 --> 01:08:54,480
+Okay.
+
+700
+01:08:54,480 --> 01:09:02,480
+But it'll start down within 12 hours. So a 12-hour fast will give you a leptin level, which is not what it would be if you were to draw it when the patient is...
+
+701
+01:09:02,480 --> 01:09:14,480
+So let's say my fed level is two or three or four. My fasting level is less than two. If you injected me with enough leptin such that, let's just say my level was now 100.
+
+702
+01:09:14,480 --> 01:09:20,480
+The level that you would see in the highest fed obese patient. What would that do to me?
+
+703
+01:09:20,480 --> 01:09:25,480
+Based on the studies that have been done, the so-called leptin trial, not very much.
+
+704
+01:09:25,480 --> 01:09:27,480
+So interesting.
+
+705
+01:09:27,480 --> 01:09:35,480
+You might have some, at least in some of these individuals, there was some reduction in body weight, but not very significant.
+
+706
+01:09:35,480 --> 01:09:38,480
+Through the mechanism of reducing intake?
+
+707
+01:09:38,480 --> 01:09:49,480
+Yeah, primarily, apparently, yes. Although there weren't detailed formal studies of food intake done in those experiments.
+
+708
+01:09:49,480 --> 01:10:01,480
+Now, going back to the DBs, who obviously have in many ways a worse problem, earlier you alluded to Prader-Willi. What is the genetic defect in Prader-Willi, and what's the phenotype?
+
+709
+01:10:01,480 --> 01:10:16,480
+So Prader-Willi is a genetic disorder in which, rather than having a single gene affected, there's a region of the genome which is, in most instances, not all, but the majority of instances, deleted.
+
+710
+01:10:16,480 --> 01:10:29,480
+There is a region of chromosome 15 in which there is a large deletion that is a region that has normally 20 or so genes in it.
+
+711
+01:10:29,480 --> 01:10:42,480
+And when deleted, when the paternal, the father's copy of this interval is deleted, the individual becomes, has a very characteristic phenotype.
+
+712
+01:10:42,480 --> 01:10:57,480
+Maternal, the mother's copy, is not expressed. This is called an imprinted region of the genome, which, again, for technical reasons, the only one chromosome expresses the genes from that interval.
+
+713
+01:10:57,480 --> 01:11:04,480
+And in the Prader-Willi region, the maternal genes are silenced. So they're there, but they're not expressed.
+
+714
+01:11:04,480 --> 01:11:06,480
+So the mom could be a silent carrier.
+
+715
+01:11:06,480 --> 01:11:22,480
+The mom could be a silent carrier is not the right term. Almost all of these individuals are the result of spontaneous deletions that occur after conception.
+
+716
+01:11:22,480 --> 01:11:23,480
+So it's not transmitted.
+
+717
+01:11:23,480 --> 01:11:34,480
+So it's sort of polygenic, and you can have—so the one example that is in my world that I get is familial hypercholesterolemia. It's a phenotypic description.
+
+718
+01:11:34,480 --> 01:11:41,480
+There are at least 2,000 known mutations, distinct mutations, that can produce the same phenotype.
+
+719
+01:11:41,480 --> 01:11:52,480
+So in that case, no one really—I don't want to say nobody cares, but it's a lot less interesting to try to map out each and every one of the genes that can lead to familial hypercholesterolemia.
+
+720
+01:11:52,480 --> 01:11:55,480
+It's more important to understand the phenotype and how to treat it.
+
+721
+01:11:55,480 --> 01:12:05,480
+I'm guessing Prader-Willi is not quite that diverse, but is it safe to say, if I'm understanding you correctly, that you could have two patients with Prader-Willi that will have different genes?
+
+722
+01:12:05,480 --> 01:12:16,480
+There are rare instances of Prader-Willi in which the number of genes deleted, rather than being that large interval that I mentioned, include only three genes.
+
+723
+01:12:16,480 --> 01:12:22,480
+But they're still in the region which is deleted in the large deletion patients.
+
+724
+01:12:22,480 --> 01:12:24,480
+So they're necessary and sufficient genes?
+
+725
+01:12:24,480 --> 01:12:35,480
+Yes. We think that those—that smaller region probably has the necessary and sufficient genes, although again, there's debate in the field about this.
+
+726
+01:12:35,480 --> 01:12:40,480
+The children, though, who are affected with this disorder have very characteristic phenotypes.
+
+727
+01:12:40,480 --> 01:12:46,480
+They actually don't grow well. They don't feed well early in life. They actually have failure to thrive.
+
+728
+01:12:47,480 --> 01:12:56,480
+They're floppy and hard to feed and not very responsive in terms of ingestive behaviors.
+
+729
+01:12:56,480 --> 01:13:07,480
+And then, again, for reasons that are entirely unknown at this point, between the ages of four, five, three years of age, they become hyperphagic.
+
+730
+01:13:07,480 --> 01:13:12,480
+They, again, drive to eat becomes very, very strong.
+
+731
+01:13:12,480 --> 01:13:22,480
+These are some of the most tragic stories I've ever heard. These children, who I've never taken—I'm not a pediatrician, so I've never taken care of them, but I've talked to parents of children.
+
+732
+01:13:22,480 --> 01:13:34,480
+They have to lock the refrigerators. I even had one parent tell me that they actually have to lock the bathroom because the child is so hungry, so hyperphasic, that he would go into the bathroom to try to eat out of the toilet.
+
+733
+01:13:34,480 --> 01:13:43,480
+It's true that in the majority of instances, these children require very close scrutiny of their access to food.
+
+734
+01:13:43,480 --> 01:13:53,480
+And in many instances, the parents or the caretakers have to resort to locking up whatever food is and would otherwise be available to the children.
+
+735
+01:13:53,480 --> 01:14:01,480
+But I think it's important to point out that there are ways of managing this disorder, which has other characteristics.
+
+736
+01:14:02,480 --> 01:14:19,480
+There are many endocrine disturbances that go along with it, including actually growth hormone deficiency and administration of growth hormone to these children and various other sort of interventions that require a great deal of parental attention.
+
+737
+01:14:19,480 --> 01:14:30,480
+No doubt about that. Some of the severity of the disease is manageable at a clinical level with very high levels of scrutiny by the people who are taking care of them.
+
+738
+01:14:30,480 --> 01:14:39,480
+So that not all children with greater willy will necessarily become hugely obese or suffer the consequences of severe obesity.
+
+739
+01:14:39,480 --> 01:14:49,480
+This is one of those things where I hope I know there are folks out there trying to raise money to do clinical trials in this because anecdotally, again, there are these very interesting stories.
+
+740
+01:14:49,480 --> 01:14:57,480
+The first I ever heard of this was probably four years ago. I was giving a talk. I don't even remember where it was. It was in Chicago, but I can't even recall the audience.
+
+741
+01:14:57,480 --> 01:15:06,480
+But afterwards, a woman came up to me and I was giving a talk about longevity. It wasn't an obesity specific talk or anything like that.
+
+742
+01:15:06,480 --> 01:15:12,480
+But a woman came up to me and introduced herself and said her son had prayed her willy and was going off the rails, etc.
+
+743
+01:15:12,480 --> 01:15:16,480
+And at about the age of seven or eight, she put him on a ketogenic diet.
+
+744
+01:15:16,480 --> 01:15:25,480
+And it corrected the phenotype, including the cognitive developmental part, which often accompanies this.
+
+745
+01:15:25,480 --> 01:15:35,480
+She then, I guess, since that time had formed kind of a support group and you had more and more of these parents that were putting their prayer willy kids on to ketogenic diets.
+
+746
+01:15:35,480 --> 01:15:43,480
+Again, it's very difficult to draw much of a conclusion when you don't have control data and you have obviously the selection biases that go into these things.
+
+747
+01:15:43,480 --> 01:15:49,480
+But it struck me as very interesting. Do the prayer willy kids are they hyperinsulinemic?
+
+748
+01:15:50,480 --> 01:15:59,480
+They are hyperinsulinemic to the level that would be anticipated based on their degree of adiposity.
+
+749
+01:15:59,480 --> 01:16:09,480
+And in some research that we've done very recently using some of the stem cell techniques, or at least using stem cells that I alluded to much earlier,
+
+750
+01:16:09,480 --> 01:16:25,480
+we've got some evidence that suggests that one of the major consequences of deleting this region of the chromosome 15 by mechanisms that are somewhat complicated,
+
+751
+01:16:25,480 --> 01:16:31,480
+influence the expression of an enzyme called proconvertease one.
+
+752
+01:16:31,480 --> 01:16:41,480
+And this enzyme is critical for the processing of many of the hormones and neuropeptides that are made in the body.
+
+753
+01:16:41,480 --> 01:16:52,480
+Virtually all hormones and neuropeptides are made as pro hormones, that is precursor hormones that are then processed by proconvertease one.
+
+754
+01:16:52,480 --> 01:16:59,480
+And that is what produces or generates the mature form of the hormone or neuropeptide.
+
+755
+01:16:59,480 --> 01:17:12,480
+And we think actually that the phenotype, many of the phenotypes of the prayer willy patients may in fact be due to a deficiency or underactivity of proconvertease one,
+
+756
+01:17:12,480 --> 01:17:23,480
+which is not in the interval where this deletion occurs, but is influenced downstream by one or another of the genes in that in that interval.
+
+757
+01:17:23,480 --> 01:17:29,480
+And it's relevant in the question of insulin because insulin is processed by proconvertease.
+
+758
+01:17:29,480 --> 01:17:30,480
+So some of the...
+
+759
+01:17:30,480 --> 01:17:33,480
+That's where the C peptide gets cleaved off the pre hormone.
+
+760
+01:17:33,480 --> 01:17:34,480
+That's correct.
+
+761
+01:17:34,480 --> 01:17:40,480
+So some of the hyperinsulinemia of the prayer willy might be pro insulin.
+
+762
+01:17:40,480 --> 01:17:46,480
+Insulin, pro insulin has biological activity, but much lower than native insulin.
+
+763
+01:17:46,480 --> 01:18:02,480
+And so if this turns out to be the case, then it might be possible to rectify some of the proter willy phenotypes by being able to increase the activity of proconvertease one pharmacologically or by other means.
+
+764
+01:18:03,480 --> 01:18:15,480
+So there's all this incredible work, all this incredible molecular biology and molecular genetics that's identified leptin deficiency, leptoreceptor deficiencies, the cluster of defects that lead to prayer willy.
+
+765
+01:18:15,480 --> 01:18:24,480
+And yet the question is how much do these things tell us about the more broad condition of obesity that afflicts?
+
+766
+01:18:24,480 --> 01:18:25,480
+I don't even know the stats.
+
+767
+01:18:25,480 --> 01:18:28,480
+I don't really keep track of this stuff anymore, but I don't know what.
+
+768
+01:18:28,480 --> 01:18:31,480
+A third of Americans are probably obese now.
+
+769
+01:18:32,480 --> 01:18:38,480
+So I'll tell you an interesting perspective on that question.
+
+770
+01:18:38,480 --> 01:18:40,480
+I mentioned it earlier.
+
+771
+01:18:40,480 --> 01:18:52,480
+While we were doing the efforts to clone these genes, I was studying patients in the clinical research center with Jules Hirsch, Mike Rosenbaum, long standing associates.
+
+772
+01:18:52,480 --> 01:19:15,480
+And what we were doing is looking at the metabolic consequences of weight reduction and showing that if you reduce the body weight of a human by 10 percent, 20 percent, you get a reduction in energy expenditure, which is greater than what you would predict from the loss of just body size or that they're in other words, their metabolic rate didn't reduce just to support the new reduced weight.
+
+773
+01:19:15,480 --> 01:19:20,480
+It reduced even further, which would almost try to return them to a heavier weight.
+
+774
+01:19:20,480 --> 01:19:21,480
+Right.
+
+775
+01:19:21,480 --> 01:19:25,480
+So they had a disproportionate reduction in energy expenditure.
+
+776
+01:19:25,480 --> 01:19:44,480
+And some of the data suggested that the major change in energy expenditure was not in resting metabolic rate, but in the energy cost of low levels of physical activity of muscle work, so to speak, but at very low levels of activity.
+
+777
+01:19:44,480 --> 01:19:57,480
+And we went on to show that, as you would expect, based on a lot of what we've been talking about, the leptin levels were low in these individuals, low but proportional to the reduced amount of body fat.
+
+778
+01:19:57,480 --> 01:20:12,480
+So one hypothesis that we had is that this reduction in energy expenditure was in fact a reflection of the fact that the body was sensing the reduction in low and leptin and interpreting that as a starvation state.
+
+779
+01:20:12,480 --> 01:20:21,480
+That is for that individual, that new lower body weight represented a threat, if you will, to survival or reproduction.
+
+780
+01:20:21,480 --> 01:20:30,480
+And we've done experiments subsequently in which we've injected leptin into those individuals. None of them has a genetic lesion of the leptin genes.
+
+781
+01:20:30,480 --> 01:20:31,480
+Right. So they're just weight reduced.
+
+782
+01:20:31,480 --> 01:20:33,480
+They're just weight reduced normal individuals.
+
+783
+01:20:33,480 --> 01:20:41,480
+We've put leptin back into them by injection to raise the blood level back to where it was before they lost their body weight.
+
+784
+01:20:41,480 --> 01:20:43,480
+So these are very low doses of leptin.
+
+785
+01:20:43,480 --> 01:20:57,480
+And that intervention will restore their energy expenditure back to where it was before they lost the body weight, even though they're now still maintaining the lower body weight.
+
+786
+01:20:57,480 --> 01:21:00,480
+So put this in some quantitative terms for me.
+
+787
+01:21:00,480 --> 01:21:10,480
+That infusion of leptin gave them how many more K cal per day in energy expenditure, all things equal between movement activity, etc.
+
+788
+01:21:11,480 --> 01:21:14,480
+You're talking about 100 K cal a day? Like what kind of a delta are you producing?
+
+789
+01:21:14,480 --> 01:21:18,480
+Two or three hundred, because these are big people to start with.
+
+790
+01:21:18,480 --> 01:21:19,480
+And that's a huge delta.
+
+791
+01:21:19,480 --> 01:21:25,480
+Right. And we could show that that effect is primarily being conveyed through skeletal muscle.
+
+792
+01:21:25,480 --> 01:21:34,480
+So what happens is that the muscle becomes less efficient, if you want to think about it that way, after the leptin administration.
+
+793
+01:21:34,480 --> 01:21:42,480
+So there are two ways that we broadly in the research setting measure energy expenditure, indirect calorimetry and doubly labeled water.
+
+794
+01:21:42,480 --> 01:21:45,480
+Can you spend a second explaining each of those?
+
+795
+01:21:45,480 --> 01:21:59,480
+So indirect calorimetry is really classical physics, if you will, in which the rate of oxygen consumption and the rate of carbon dioxide are measured in a number of ways.
+
+796
+01:21:59,480 --> 01:22:15,480
+The most frequent is to put a mask or hood over the head of the individual in whom the measurement is made and simply use gas sensors and flow meters to quantify the amount of oxygen consumed and CO2 released.
+
+797
+01:22:15,480 --> 01:22:30,480
+And from that information, one can quite easily calculate how many K cals of energy are being expended to correlate, if you will, to account for the amount of oxygen consumed in the CO2 produced.
+
+798
+01:22:30,480 --> 01:22:42,480
+And by looking at the ratio of those two, one can even get a indication of the kind of fuel that's being burned to support the metabolic rate.
+
+799
+01:22:42,480 --> 01:22:56,480
+So the V and I'll just spit it out so folks can if they're there, we'll link to all of this stuff. But the the RQ or the respiratory quotient is the ratio of CO2 produced or VCO2 divided by the amount of oxygen consumed or the VO2.
+
+800
+01:22:56,480 --> 01:23:01,480
+And and that'll vary sort of between, you know, typically about point seven and one, right?
+
+801
+01:23:01,480 --> 01:23:01,480
+
+
+802
+01:23:01,480 --> 01:23:03,480
+You can see it outside of those ranges.
+
+803
+01:23:03,480 --> 01:23:10,480
+The lower it is, the more they're partitioning and drawing from fat. The higher it is, the more they're drawing from glycogen.
+
+804
+01:23:10,480 --> 01:23:11,480
+Correct.
+
+805
+01:23:11,480 --> 01:23:21,480
+And if I still remember my weir coefficients, energy expenditure is something to the effect of 3.94 times the VO2 plus 1.11 times the VCO2.
+
+806
+01:23:21,480 --> 01:23:26,480
+Well, your memory is better than mine, but I can't recite you the weir equation off the top of my head.
+
+807
+01:23:26,480 --> 01:23:32,480
+You know, it's really funny. About five years ago, I asked Kevin Hall to send me the derivation of it.
+
+808
+01:23:32,480 --> 01:23:42,480
+And it was so great to get this page, two pages of differential equations so I could go through and actually see how the weir coefficients were described,
+
+809
+01:23:42,480 --> 01:23:52,480
+which, of course, then led to the inevitable question that you and I have talked about in the past, which is, do those coefficients hold in the presence of radical dietary change,
+
+810
+01:23:52,480 --> 01:23:57,480
+such as, you know, a very, very low fat, high carbohydrate diet or the opposite.
+
+811
+01:23:57,480 --> 01:24:04,480
+So then if that's how indirect calorimetry works, and of course, by the way, these things happen in metabolic chambers, that's the ultimate way to do it, right?
+
+812
+01:24:04,480 --> 01:24:09,480
+Where you can put a person into a room and the room itself has all of these sensors embedded in it.
+
+813
+01:24:09,480 --> 01:24:17,480
+Right. And that is exactly the same principle, but they're the individuals not restricted in terms of their motion other than in the room that they're in.
+
+814
+01:24:17,480 --> 01:24:23,480
+So you can get exactly the same information, but over a much longer period of time, I mean, you can do it for days.
+
+815
+01:24:24,480 --> 01:24:34,480
+There was a point when I wanted to build one of these at my home. I was so obsessed with knowing every I wanted to know like my VO two and VCO two almost every minute of the day.
+
+816
+01:24:34,480 --> 01:24:38,480
+And then I found out it would cost at least five million to build one and realized I couldn't build one.
+
+817
+01:24:38,480 --> 01:24:43,480
+But I thought, boy, if I ever make enough money to build one of those, that that's a great fun.
+
+818
+01:24:43,480 --> 01:24:52,480
+That's like that's fun for the whole family. If you really stop to think about it, you know, I mean, who wouldn't want to go sit in the metabolic chamber on the weekend, just kicking it, watching football.
+
+819
+01:24:53,480 --> 01:25:09,480
+We just built one of these actually at Columbia. And it's quite a you're right. It's it's not only expensive, but requires a great deal of attention to things like leaks and airflow and you know, I broke one once doing what.
+
+820
+01:25:09,480 --> 01:25:21,480
+So you'll recall, I used to spend time in these chambers. And I guess I exceeded the level of CO two production that it was sort of calibrated for because I was on my bicycle and I was riding pretty vigorously.
+
+821
+01:25:21,480 --> 01:25:32,480
+And the CO two sensor broke. And it's one of those things where you don't get a big red flag. It was just after the fact that data didn't make sense. And this is where you appreciate what you're saying, which is the engineering in this thing is amazing.
+
+822
+01:25:32,480 --> 01:25:40,480
+And so you got to pour through, you know, the longest spreadsheets in the world to start to look for where the mistakes are. But it's it's really beautiful stuff.
+
+823
+01:25:40,480 --> 01:25:52,480
+And there's not many of these in the country. Like there's obviously Columbia has some NIH has some TRI has some Pennington has some Baylor has some not many.
+
+824
+01:25:52,480 --> 01:26:04,480
+Like you said, the tricky to construct and require high level of attention to their maintenance and operation. It's not just like going down in your basement and measuring your RQ.
+
+825
+01:26:05,480 --> 01:26:10,480
+So how does doubly labeled water work, which I also have had the privilege of ingesting.
+
+826
+01:26:10,480 --> 01:26:28,480
+So doubly labeled water is a technique which uses two isotopes of water, which is H two O. In one, the oxygen is a heavier version of the normal or the more more prevalent oxygen molecule.
+
+827
+01:26:29,480 --> 01:26:43,480
+And the other, the hydrogen is a heavy atom as opposed to the more prevalent kind of hydrogen in the in the environment. And what you do is you can give these as a mixture.
+
+828
+01:26:43,480 --> 01:26:52,480
+You have to know exactly how much of each one you've given, but you can give this as a drink basically of what amounts to heavy isotope labeled water.
+
+829
+01:26:53,480 --> 01:27:19,480
+And then look at the relative concentration of these two isotopes. You can do it in blood. You can do it in urine. You go. We often do it in both and the difference in the rate of excretion of the so-called oh, 18 water, the heavy isotope of water, which is oxygen is borne out both in urine, but also in the expired.
+
+830
+01:27:19,480 --> 01:27:34,480
+Air of an individual as carbon dioxide and the H two O, which comes out by non respiratory means you can actually get a measure of how much CO two the individual is producing.
+
+831
+01:27:34,480 --> 01:27:47,480
+And you can use that and the nature of the diet that the individual is on to back calculate from what would be the RQ back to the.
+
+832
+01:27:48,480 --> 01:27:58,480
+So you would use the FQ basically. Correct. So the FQ is if you stuck the person's food into a bomb, calorimeter, burned it, that would produce the RQ.
+
+833
+01:27:58,480 --> 01:28:09,480
+So the limitation of this is a couple of things. One, the patient's got to be weight stable, right? This starts to fall flat when they're losing or gaining tremendous amounts of weight.
+
+834
+01:28:09,480 --> 01:28:18,480
+And two, you have to have a pretty darn good idea what they're eating. So each of these methods, ingenious and completely distinct, both have huge limitations.
+
+835
+01:28:18,480 --> 01:28:27,480
+The former, of course, requires an artificial environment. They don't get to be free living and you can't really study them for that long.
+
+836
+01:28:27,480 --> 01:28:38,480
+But the latter, where they can be free living and you can study them for two weeks at a time with a single ingestion of the doubly labeled water, you better make sure that they're not gaining and losing weight.
+
+837
+01:28:38,480 --> 01:28:43,480
+You better make sure you know exactly what they're eating. And in an ideal world, it better be the same thing almost every day, right?
+
+838
+01:28:43,480 --> 01:29:02,480
+And in general, because of the issues that you just mentioned, I think most investigators in this field prefer, at least in terms of its nominal accuracy, the room calorimeter over the doubly labeled water.
+
+839
+01:29:02,480 --> 01:29:19,480
+But the doubly labeled water does have the virtue, as you pointed out, of being applicable over much longer periods of time so that you can get integrated idea of how much energy an individual is expending over literally days or even weeks.
+
+840
+01:29:19,480 --> 01:29:27,480
+What's sometimes done is to redose the individual at some point in the experiment and simply continue it.
+
+841
+01:29:27,480 --> 01:29:46,480
+When I did this, I did several days in several chambers and then separately did the LW. I was kind of amazed at how closely they overlapped. Of course, it was hard to replicate my chamber activity in the real world because there's so much more movement outside of the chamber.
+
+842
+01:29:46,480 --> 01:29:55,480
+But they were surprisingly in line, which is interesting because at the time I was on a ketogenic diet, which there's a lot of things that could be changing there.
+
+843
+01:29:55,480 --> 01:30:10,480
+So I want to go back to something that we kind of got into a little bit, but to me it's one of the most fascinating discussions slash debates, which is the idea of appetite being regulated centrally versus peripherally.
+
+844
+01:30:10,480 --> 01:30:27,480
+And you and I have had some incredible dinners having these discussions. And I've always found your perspectives to be interesting because I think few people are more qualified to talk about that in that they know so much about both.
+
+845
+01:30:27,480 --> 01:30:37,480
+I mean, in many ways, leptin at its inception was really viewed as a peripheral way to regulate appetite. So let me explain what I mean by that for the listener.
+
+846
+01:30:37,480 --> 01:30:53,480
+When you're hungry, is this all being driven by what your brain is saying? Is it possible that somewhere outside of the brain, which we refer to as the periphery, your liver, your fat cells, your muscles, the level of blood glucose that's circulating, is there some other signal?
+
+847
+01:30:53,480 --> 01:31:13,480
+It's kind of interesting that here we are in the year 2018 and it's still not entirely clear where appetite is regulated. So how has your thinking on this topic evolved through your own immense knowledge of both the central and peripheral components of appetite?
+
+848
+01:31:13,480 --> 01:31:23,480
+You want to take a sip of that Topo Chico before you try to answer that? For the listener, I've introduced Rudy to Topo Chico today. So he's one sip into it. He declared it the finest bottled water.
+
+849
+01:31:23,480 --> 01:31:37,480
+I would describe the system from high altitude as the following, that there are CNS, central nervous system mechanisms. They're not all in the hypothalamus, but many of them are.
+
+850
+01:31:37,480 --> 01:32:02,480
+And many of those that aren't do interact with the hypothalamus and that organ or set of cells can be regarded as the integrating center for basically the reception of signals that are of relevance to how an organism ought to respond to its environment in terms of food intake.
+
+851
+01:32:02,480 --> 01:32:23,480
+And also for control of some of the aspects of energy expenditure that are not necessarily under voluntary control, such as autonomic nervous system. And what's coming into that system is, I think, broader than we had originally anticipated.
+
+852
+01:32:23,480 --> 01:32:39,480
+So clearly leptin is an example of a hormone that's secreted from adipose tissue, but there are many other peptides actually or hormones that come out of adipose tissue. There are neural signals that are now being identified.
+
+853
+01:32:39,480 --> 01:32:51,480
+That is nerve-borne signals that look like they're coming out of and going into adipose tissue that may be playing a much more important role than we had sort of previously appreciated.
+
+854
+01:32:51,480 --> 01:33:14,480
+The gastrointestinal tract, which for obvious reasons is a very relevant aspect of the system originally was, I think, regarded pretty much the way that adipose tissue was. It's a tube that absorbed your calories and didn't really participate actively in the regulation of that aspect of biology.
+
+855
+01:33:14,480 --> 01:33:32,480
+Clearly the advent of various surgeries for control of body weight have indicated that that sort of premise is incorrect. That is, that there are very powerful influences of the gastrointestinal tract, which are brought out by some of the surgeries that are done.
+
+856
+01:33:32,480 --> 01:33:53,480
+And it's now very clear that the gastrointestinal tract at many levels is communicating with the brain both by products that it secretes and by direct neural input, probably primarily, but not entirely by the vagus nerve into the brain stem and then further up into the brain.
+
+857
+01:33:53,480 --> 01:34:13,480
+So just taking that as a sort of very broad picture, it's much clearer now that there is no sort of single definitive part of the biology of an individual which is dictating this very complex system.
+
+858
+01:34:13,480 --> 01:34:32,480
+And it's really a product of the interaction of these peripheral signals, as you referred to them, including metabolites such as glucose and free fatty acids and so forth. And the central nervous system, not just the hypothalamus, but areas like the brain stem, the amygdala, the frontal cortex.
+
+859
+01:34:32,480 --> 01:34:47,480
+There's many other areas of the brain that interact with these signals to influence both the behaviors and the unconscious, if you will, the vegetative responses that ultimately go into the regulation of body weight.
+
+860
+01:34:47,480 --> 01:35:03,480
+So I think it's obviously a very complex and over-determined system. And it's that way because it is absolutely critical to survival. So it's not surprising in a way that it's as complex as it is.
+
+861
+01:35:03,480 --> 01:35:29,480
+But I think what it clearly does is it introduces all sorts of possibilities for mischief with regard to body weight regulation, starting in the frontal cortex where decisions are made, at least with regard to some aspects of this, all the way down into the colon where you've got large numbers of bacteria that are producing things, metabolites and molecules themselves.
+
+862
+01:35:29,480 --> 01:35:45,480
+That again, we're only just beginning to understand. So we're not only talking about a regulatory system that has all of these elements, but a bunch of organisms literally living within us that are influencing it in ways that I don't think we've really fully understood.
+
+863
+01:35:45,480 --> 01:36:14,480
+The miracle is actually when you think about all the ways that it could go wrong, that it doesn't go wrong any more than it actually does. And it looks to me like the major problem in terms of the obesity that you referred to earlier that's increasing has to do a great deal with the environment and what people are being exposed to that's very novel with regard to the system.
+
+864
+01:36:14,480 --> 01:36:32,480
+I mean, this system was not designed for the regulation of metabolism and body weight in an environment in which with a cell phone, you can bring literally as many calories as you want into your living room without getting up off your behind.
+
+865
+01:36:32,480 --> 01:36:49,480
+So we're dealing with an organism which has its very complex and beautiful system designed to regulate various aspects of the biology, which is now in an environment which is entirely, at least in many regards, novel to the system.
+
+866
+01:36:49,480 --> 01:37:12,480
+And it fails in the sense that there's a lot more obesity than there was prior to the environment that we've been able to create. But it's not totally dysregulated. I think people are just now regulating their body weight at somewhat higher levels than they were in other circumstances.
+
+867
+01:37:12,480 --> 01:37:24,480
+Again, I don't follow the statistics. It's not something I'm paying huge attention to. But are the rates of obesity plateauing or are they still increasing? Or is the curve concave up or concave down?
+
+868
+01:37:24,480 --> 01:37:45,480
+So several years ago, it looked like the rates were either slowing down or level. Now it looks like maybe they're continuing to inch up, but not as rapidly as they were, say, a decade ago. So there's been some relenting of the rate of increase in obesity in both adults and children.
+
+869
+01:37:45,480 --> 01:37:50,480
+But it looks like it's still rising, although at a lower rate.
+
+870
+01:37:50,480 --> 01:38:12,480
+You have concern that there are epigenetic implications of this, that 10,000 years ago, the prevalence of obesity, again, largely probably driven by the environment that made it pretty hard to become obese, not just in terms of food availability in terms of absolute calories, but presumably the types of calories that were available.
+
+871
+01:38:12,480 --> 01:38:17,480
+I mean, I think my recollection is that 10,000 years ago, nothing came in a package, right?
+
+872
+01:38:17,480 --> 01:38:19,480
+As far as we know.
+
+873
+01:38:19,480 --> 01:38:31,480
+So we didn't have Pop-Tarts. We didn't have breakfast cereal. We didn't have orange juice. We didn't have french fries and whatever else are the culprit potentials.
+
+874
+01:38:31,480 --> 01:38:48,480
+So if Johnny got a set of genes that were slightly suboptimal, Johnny Jr. probably got some of those suboptimal genes, but there was nothing being imprinted on the genome that was being transmitted to generations.
+
+875
+01:38:48,480 --> 01:39:10,480
+And I mean, what do you think about this idea that we could be reaching kind of a dangerous point in the evolution of our species where children, maybe during critical windows of development, if exposed to, you know, again, in my opinion, it's probably a lot of this sort of really highly refined crap, high amounts of fructose that we're seeing with the naphyl D,
+
+876
+01:39:10,480 --> 01:39:21,480
+that this is setting them up for a real problem later in life. It's going to make it a lot harder, not just for them to lose weight one day, but also for their offspring. Is there any evidence of that?
+
+877
+01:39:21,480 --> 01:39:35,480
+I think there is evidence that's, I'm not so sure I would use the term imprinting. That has sort of specific biological meaning and implications. I mean, we could talk about that in a minute.
+
+878
+01:39:35,480 --> 01:40:04,480
+But if what you're saying is, are there perhaps critical periods of development in a child in which if the child is caused to become more obese than he or she might be in some other environment, that that will leave a mark on the regulatory system that will then cause that individual to want to sustain or maintain a higher body weight.
+
+879
+01:40:04,480 --> 01:40:33,480
+I think the answer is probably, or at least possibly yes. That is that there may be critical periods in human development. Certainly, I think the data are also available to some extent in animal studies that suggest that if you manipulate body weight or some of these systems at critical periods of development, you end up with an animal which is more likely to be obese.
+
+880
+01:40:33,480 --> 01:40:49,480
+And if you hadn't done that, and exactly what the molecular and neuro anatomical or other physiological consequences of that manipulation are that lead to the maintenance of a higher body weight.
+
+881
+01:40:49,480 --> 01:41:11,480
+This is obviously a critical area of study. It's actually something that people in my lab are quite interested in. That is whether we can impose by dietary or other manipulations a higher body weight or a higher sustained body weight in an animal by early manipulations either by diet or endocrine manipulations.
+
+882
+01:41:11,480 --> 01:41:31,480
+And I think the answer is probably yes. But what is the consequence of that in terms of the regulatory elements that we were talking about? We don't yet know. Another aspect or another perspective on this is the following question.
+
+883
+01:41:32,480 --> 01:41:47,480
+If you manipulate the metabolism of a pregnant animal or human, what are the consequences of that on the developing brain or physiology of the fetus?
+
+884
+01:41:47,480 --> 01:41:57,480
+I mean, there's evidence now that a mother who is hyperinsulinemic or has gestational diabetes is increasing the child's risk of obesity. Is that not the case?
+
+885
+01:41:58,480 --> 01:41:59,480
+There are data that suggest that-
+
+886
+01:41:59,480 --> 01:42:01,480
+It's registry data, so it's hard to know.
+
+887
+01:42:01,480 --> 01:42:15,480
+Right. But that obesity in a pregnant woman does confer by, again, by mechanisms that we don't understand higher risk of obesity in her offspring.
+
+888
+01:42:16,480 --> 01:42:28,480
+Although I'd love to see it stratified by hyperinsulinemic versus non-hyperinsulinemic obesity, because I feel like I remember reading that it also seems to be dependent on the gestational stage.
+
+889
+01:42:28,480 --> 01:42:38,480
+In other words, like when the dorsal and ventral buds of the pancreas are forming, which I can't even remember when that is, maybe week seven, eight, nine, something like that, those are very critical windows, right?
+
+890
+01:42:38,480 --> 01:42:50,480
+That's when islet cell formation is taking place and nutrient exposure or insulin exposure during that period of time could have a more profound effect than, say, late in the third trimester where perhaps it's not as effective.
+
+891
+01:42:50,480 --> 01:42:56,480
+Again, I don't follow this literature, so I don't want to sound like a complete moron.
+
+892
+01:42:56,480 --> 01:43:07,480
+And the last time I really paid attention to this stuff was probably four years ago, and it was, again, largely registry-based data, so very difficult to know cause versus effect.
+
+893
+01:43:07,480 --> 01:43:18,480
+Again, the literature, as you sort of implied, is wobbly on this point, but I'll just tell you about a couple of experiments, actually, that we've done.
+
+894
+01:43:18,480 --> 01:43:36,480
+One, to answer, to address this question of hyperinsulinemia in a dam in a pregnant animal and its effects on the fetus, we were able to do an experiment in which we were interested in separating the issue of high body weight
+
+895
+01:43:36,480 --> 01:43:40,480
+and adiposity from the effect of insulin itself.
+
+896
+01:43:40,480 --> 01:43:48,480
+And so we actually used a genetic model of hyperinsulinemia, and we're able to make the dams hyperinsulinemic without being obese.
+
+897
+01:43:48,480 --> 01:44:02,480
+So these are perfectly normal body weight dams that were very hyperinsulinemic, and the pups that they were carrying, some of those pups had no abnormality of any insulin-related genes.
+
+898
+01:44:02,480 --> 01:44:08,480
+So they were what we would call wild-type pups being incubated in a hyperinsulinemic dam.
+
+899
+01:44:08,480 --> 01:44:14,480
+And we were very interested to see what the consequences would be on the metabolism and body weight of these animals.
+
+900
+01:44:14,480 --> 01:44:35,480
+And very interestingly, these animals showed transient elevations of body weight and body fat when they were in what I guess we would describe as adolescent period of a mouse, which tended to revert back to normal over time.
+
+901
+01:44:35,480 --> 01:44:43,480
+You could definitely see an effect in the body weight and metabolism of the mouse, but it appeared to be transient.
+
+902
+01:44:43,480 --> 01:44:45,480
+And to be clear, the mother was euglycemic.
+
+903
+01:44:45,480 --> 01:44:48,480
+The mother was euglycemic and hyperinsulinemic.
+
+904
+01:44:48,480 --> 01:44:50,480
+That's a tough needle to thread, my friend.
+
+905
+01:44:50,480 --> 01:44:53,480
+So again, it's the power of genetics, so we could do that.
+
+906
+01:44:53,480 --> 01:45:04,480
+So these kind of experiments, we also looked at the brains of these animals, and there were some very subtle differences in the way the hypothalamic cells, the numbers of different types of hypothalamic cells,
+
+907
+01:45:05,480 --> 01:45:28,480
+which suggested in sort of support of the inference of your implication of your question, there are consequences of these metabolic states of the dam that can influence the subsequent development of the pup, even if the pup doesn't have the genetic etiology that led to the derangement, if you want to call it that, in the dam.
+
+908
+01:45:28,480 --> 01:45:57,480
+We've more recently been doing some experiments along these lines looking at leptin in a similar way, and again, can see evidence of influence, long-term influence of manipulations of leptin in this way, which again suggests that these transient periods of exposure at various levels or various periods of development can have long-term consequences for organisms that don't themselves have any primary abnormalities.
+
+909
+01:45:58,480 --> 01:46:12,480
+So I think this probably supports the notion that there are things going on in the environment that are not reversible once the environment is necessarily reversed.
+
+910
+01:46:12,480 --> 01:46:25,480
+That is, the exposure to the environment may change the biology in such a way that even when the insult, if you want to call it that, is removed, the biology is permanently impacted.
+
+911
+01:46:26,480 --> 01:46:44,480
+We've spent a long time talking about low carbohydrate diets. You were part of one of the studies that was funded by NUSI, and while the study that you were a major part of was not a diet study, so it wasn't really looking at diets, it used diets as a tool to ask questions.
+
+912
+01:46:45,480 --> 01:46:53,480
+Clinically, we know that low carbohydrate diets are very effective. I think it would be very difficult for people to dispute that at this point in time.
+
+913
+01:46:54,480 --> 01:47:03,480
+The interesting question, if you're Rudy Leibel, is why? What do you think? Why do these diets seem so effective for so many people?
+
+914
+01:47:03,480 --> 01:47:14,480
+Let's not even get into the fancy stuff about the diabetes reversal and stuff like that, where I think the results are especially pronounced, but just in terms of obesity reduction. Why do you think these things work?
+
+915
+01:47:15,480 --> 01:47:38,480
+I guess my view of this is that to the extent that diet composition has an effect on body weight, which clearly it can, that this is the result of the interaction of the components of the diet with aspects of the regulatory control of food intake.
+
+916
+01:47:39,480 --> 01:47:59,480
+The way I describe this is the hedonic aspects of the food that's being ingested will influence the drive to ingest that particular food. I think individuals differ in terms of their sensitivity or susceptibility to diets of different composition.
+
+917
+01:48:00,480 --> 01:48:14,480
+There clearly are some individuals who, when fed or offered or imposed diets that have pretty radical compositional differences, will respond very well.
+
+918
+01:48:14,480 --> 01:48:20,480
+In other words, there are people who respond well to high carb diets. There are people who respond well to low carb diets.
+
+919
+01:48:21,480 --> 01:48:33,480
+I think that it's primarily some aspect of the hedonics of these diets, if you want to call it that, that's driving the favorable response.
+
+920
+01:48:34,480 --> 01:48:49,480
+I know, and I'm sure you and I have discussed this many, many times, there are individuals who view the diet composition as having, in addition to what effects I just described, also an impact on energy homeostasis itself,
+
+921
+01:48:49,480 --> 01:48:59,480
+meaning that the composition of the diet can influence the degree of caloric expenditure per unit of calories ingested.
+
+922
+01:48:59,480 --> 01:49:11,480
+I'm not a sort of strong proponent of that view. I guess I try to remain agnostic about it, but my bias, if you want to call it that from my experience, is that that's right.
+
+923
+01:49:12,480 --> 01:49:30,480
+Diet composition can have an effect on body weight. It doesn't do so by effects primarily or maybe at all on energy expenditure per se, but can have pretty striking effects on an individual's desire to eat those calories delivered in that form.
+
+924
+01:49:31,480 --> 01:49:43,480
+There's two ways to think about that. If you leave the energy expenditure side away, on the intake side, is it the case that a low carbohydrate diet, as you say, is purely a hedonic issue?
+
+925
+01:49:43,480 --> 01:49:49,480
+People, when they're on these diets, they're just not as hungry because the food is not as diverse or not as palatable.
+
+926
+01:49:49,480 --> 01:49:53,480
+An alternative viewpoint is they eat a lot less because they're eating themselves more.
+
+927
+01:49:54,480 --> 01:50:02,480
+In other words, the way I try to explain this to my patients when we're talking about nutrition is you want to differentiate between exogenous and endogenous calories.
+
+928
+01:50:02,480 --> 01:50:08,480
+So most people walk around, if they're weight stable, purely subsiding on exogenous calories.
+
+929
+01:50:08,480 --> 01:50:15,480
+But if you want to lose weight, by definition, you must start to consume endogenous calories. You have to start eating yourself.
+
+930
+01:50:16,480 --> 01:50:30,480
+And this gets back to the question of the regulation of body weight peripherally. If you are eating yourself, can the CNS figure that out and say, hey, we've got all this lipolysis going on.
+
+931
+01:50:30,480 --> 01:50:40,480
+We're liberating all of this fat out of a fat cell. That's energy. Fantastic. I will program the system. You need less exogenously.
+
+932
+01:50:40,480 --> 01:50:47,480
+So those are two kind of very different ideas, right? The one is just, hey, this food is boring and doesn't taste great. I'm just going to eat less of it.
+
+933
+01:50:47,480 --> 01:50:55,480
+Personally, I don't find that theory is appealing because having worked with so many patients that do this, if that were the case, I'd suspect they'd be more hungry.
+
+934
+01:50:55,480 --> 01:51:05,480
+But yet they don't seem to be very hungry, which is, I think for most people, the only thing that's intolerable over long periods of time is hunger.
+
+935
+01:51:05,480 --> 01:51:15,480
+You look back at the Ansel Keyes starvation experiments and those guys weren't really like what they were eating, maybe 1,600 calories a day, but they were losing their minds.
+
+936
+01:51:15,480 --> 01:51:24,480
+I mean, these guys lost their minds on 1,600 calories per day. So starvation is clearly an unacceptable state in the long run.
+
+937
+01:51:24,480 --> 01:51:32,480
+I got to be honest with you, I'm glad I don't work on this problem. I'm much more interested in just trying to figure out this other easy problem of longevity.
+
+938
+01:51:32,480 --> 01:51:42,480
+But this obesity thing is a real bear because at the same time, as much success as I've seen for people on low carbohydrate diets, I also know that they don't work for everybody.
+
+939
+01:51:42,480 --> 01:51:56,480
+And therein lies the challenge of why? Why would something, I mean, again, it's a naive question in the sense that you've just spent the last two hours explaining some of the most complex biology of obesity.
+
+940
+01:51:57,480 --> 01:52:16,480
+Why should everyone respond to the same treatment? But it does. It really frustrates me that there are certain patients in which no matter what one does or no matter what they do, I think patients that try really, really hard and can't lose weight, I find that to be a very frustrating clinical problem.
+
+941
+01:52:16,480 --> 01:52:32,480
+So I guess maybe I should rephrase the way I answered your question. And that is to say that I believe that the composition of the diet can influence aspects of ingestive behavior.
+
+942
+01:52:32,480 --> 01:52:46,480
+I emphasize the hedonic aspect, but I'm certainly open to the possibility that if you feed a diet of divergent composition, you will definitely have some influence.
+
+943
+01:52:46,480 --> 01:52:59,480
+I mean, this is well documented on the substrates that are in the circulation as a result of feeding that diet. Those substrates themselves, metabolites, you were mentioning fatty acid, but many other things change,
+
+944
+01:52:59,480 --> 01:53:23,480
+may themselves have an effect on the drive to eat. I'm sympathetic to that idea. And exactly in any given individual who does or doesn't respond to a specific diet, which of the mechanisms, you know, whether it's occurring at the level of the taste of the diet or some of the metabolic consequences of the diet,
+
+945
+01:53:23,480 --> 01:53:37,480
+I would say to the extent that somebody is successful in losing weight on that diet, A, they have to be a negative energy balance. That is, there's no way that they can eat the number of calories that they're expending and lose weight.
+
+946
+01:53:37,480 --> 01:53:55,480
+So they need to be in negative energy balance. And I mean, that's just a given. And then the mechanism by which the diet composition influences the success of their ability to sustain a hypocaloric state, which, as you pointed out, is uncomfortable.
+
+947
+01:53:55,480 --> 01:54:13,480
+I'm open to the possibility that it could be at any level of the sort of neural circuitry that regulates food intake, it could be very proximal in terms of taste aspects, but it could also be some of the mechanisms that you mentioned.
+
+948
+01:54:13,480 --> 01:54:35,480
+I think that's perfectly reasonable. How that works, as you pointed out, is a tough nut to figure out. And I think, like you said, there are individuals who respond very well to diets of quite divergent composition, but they have to be taking less calories than they are spending.
+
+949
+01:54:35,480 --> 01:54:47,480
+Right. And that's an easy thing to do mathematically. It's a very hard thing to do clinically because, again, I think patients can tolerate a lot, but I don't think people can tolerate hunger for very long.
+
+950
+01:54:47,480 --> 01:54:59,480
+I think to ask somebody to be constantly hungry is a losing proposition. And that's why I believe clinically low carbohydrate diets seem to be more satiating.
+
+951
+01:55:00,480 --> 01:55:08,480
+And again, whether they're satiating because of something in their composition or whether they're just satiating because you end up eating more of yourself.
+
+952
+01:55:08,480 --> 01:55:17,480
+I mean, I've seen lots of patients who, and this has even been published, who on 16, 1700 calories a day of a ketogenic diet seem completely fine.
+
+953
+01:55:17,480 --> 01:55:26,480
+And yet Ansel Keyes' patients at 1400, 1500, 1600, 1600 calories of basically very high carbohydrate diet, very low fat diets, lost their minds.
+
+954
+01:55:27,480 --> 01:55:31,480
+What did you believe 10 years ago that you don't believe today to be true?
+
+955
+01:55:32,480 --> 01:55:53,480
+I think over the past decade, the field of the sort of neuroscience of body weight regulation or ingested behavior and energy expenditure has expanded the role of other elements in the central nervous system beyond what began as our very intense focus on the hypothalamus.
+
+956
+01:55:53,480 --> 01:56:02,480
+Partly that's historical and for reasons having to do with the tractability of some of the cell types and mechanisms in the hypothalamus.
+
+957
+01:56:02,480 --> 01:56:22,480
+But I would say the biggest change in my thinking about this has been that these super hypothalamic aspects of the central nervous system, again, starting with the cortex and working down, have a much stronger, I think, ultimate impact on this regulatory system than the way I perceive it.
+
+958
+01:56:23,480 --> 01:56:36,480
+A decade ago. And what this does is it opens up, I think, a lot of very interesting aspects of the biology that maybe we weren't either capable of or didn't focus on adequately.
+
+959
+01:56:36,480 --> 01:56:45,480
+Part of which actually is in response to the point you were just raising. That is, what is the effect of diet composition on hunger and so forth?
+
+960
+01:56:45,480 --> 01:56:57,480
+It's almost certainly an aspect of this sort of view of the broader central nervous system impact on ingested behavior than just the hypothalamus.
+
+961
+01:56:57,480 --> 01:57:07,480
+You know, my mentor, Jules Hirsch, I think, who unfortunately passed away three years ago, he would agree with this.
+
+962
+01:57:07,480 --> 01:57:18,480
+I mean, he always, I think, was suspicious of focusing, you know, slavishly, if you will, on the hypothalamus as the center for all of this.
+
+963
+01:57:18,480 --> 01:57:28,480
+He always, I think, had a much broader perspective on some of the psychoaffective aspects, as he would describe them, of ingested behavior.
+
+964
+01:57:28,480 --> 01:57:38,480
+And I think he would see the sort of flowering of broader view of some of these regulatory aspects of food intake to other parts of the central nervous system.
+
+965
+01:57:38,480 --> 01:57:48,480
+He would say, I told you so. And he was right. I think he's looking down at you saying that. He's probably saying, well, other stuff too.
+
+966
+01:57:48,480 --> 01:58:00,480
+If we get away with a magic wand and not only were resources unlimited, but more importantly, any of the technical considerations that make this type of study challenging were just ameliorated.
+
+967
+01:58:00,480 --> 01:58:13,480
+What's the dream experiment you would want to do if you got one more shot at this? You could spend the rest of your career doing a dream experiment with infinite resources, infinite subject participation.
+
+968
+01:58:13,480 --> 01:58:22,480
+Screw the ethics. There's no IRB. You've got a bunch of clones out of Westworld. You can do whatever the hell you want. What experiment do you want to do?
+
+969
+01:58:22,480 --> 01:58:26,480
+Once to take your final kick at this problem?
+
+970
+01:58:26,480 --> 01:58:33,480
+There is a gene that was identified now 10, 12 years ago.
+
+971
+01:58:33,480 --> 01:58:34,480
+FTO?
+
+972
+01:58:34,480 --> 01:58:35,480
+Yes.
+
+973
+01:58:35,480 --> 01:58:36,480
+You tested me for this?
+
+974
+01:58:36,480 --> 01:58:37,480
+Yes.
+
+975
+01:58:37,480 --> 01:58:39,480
+I was negative.
+
+976
+01:58:39,480 --> 01:58:57,480
+I was identified by Mark McCarthy and some other investigators in Great Britain as sending the strongest genetic signal for obesity or elevated body fat, not severe effect, but the strongest statistical signal ever detected in humans.
+
+977
+01:58:57,480 --> 01:58:59,480
+It remains the same.
+
+978
+01:58:59,480 --> 01:59:21,480
+The prevalence of the variants that are associated with higher body fat are very high in the general population. So there are a lot of these variants of this gene that are contributing to human obesity, not of the severity certainly of the OB or the monocortin-4 receptor.
+
+979
+01:59:21,480 --> 01:59:36,480
+There are various schools of thought about how this gene is doing it. The interesting thing is that the variation in the gene that is conferring the risk of obesity is variation in what we call non-coding part of the genome.
+
+980
+01:59:36,480 --> 01:59:53,480
+So as people will know, a small fraction of the genome, 2 or 3%, actually encodes the proteins that are made that we've been talking about actually. The rest of it is regulatory parts and elements that we don't understand very well.
+
+981
+01:59:53,480 --> 02:00:09,480
+The variants that are implicated for the FTO gene actually occur in the non-coding region. We know exactly where they are. It's not a mystery where they are, but they are in non-coding. They're in the first intron, so to speak, of this gene.
+
+982
+02:00:09,480 --> 02:00:25,480
+The mechanism by which this very, very common variant leads to subtle increases in body fatness in a large number of individuals, to me this is a very intriguing question.
+
+983
+02:00:25,480 --> 02:00:35,480
+There are some that view the effect as being conveyed through what's called browning of adipose tissue, increasing the energy expenditure of adipose tissue.
+
+984
+02:00:36,480 --> 02:00:49,480
+There are others like myself who think it's affecting central nervous system circuits that affect food intake, but the mechanism, at least in terms of the central nervous system, is really unknown.
+
+985
+02:00:49,480 --> 02:00:57,480
+The primary phenotype that's seen in these individuals who do or don't have what we call the risk variants is food intake.
+
+986
+02:00:58,480 --> 02:01:12,480
+I mean, if you measure their food intake very carefully in a lab, you can see that the individuals with the variants will eat slightly more. They actually may have a slight preference for fattier, higher fat foods than individuals who don't.
+
+987
+02:01:13,480 --> 02:01:32,480
+But what exactly is going on in the central nervous system is not clear. They have actually, in one study, pretty characteristic functional magnetic resonance imaging differences among individuals who do or don't have this variant, but the mechanism is unknown.
+
+988
+02:01:32,480 --> 02:01:40,480
+And this is something which has intrigued me now for eight or ten years. That's the experiment I would love to do. I mean, we're actually trying to do it.
+
+989
+02:01:41,480 --> 02:01:59,480
+Tell me specifically what the actual experiment is. But before you do that, I want to make sure I'm, and this is going to be an oversimplified analogy, but what you're basically saying is there's a genetic marker, effectively, that creates or identifies those who are predisposed in a high nutrient environment to overeat.
+
+990
+02:02:00,480 --> 02:02:10,480
+So even though our ancestors would have had these genes, the reason, or never mind our ancestors, even though a hundred years ago or 50 years ago, this gene still existed, probably at the same prevalence.
+
+991
+02:02:10,480 --> 02:02:21,480
+You didn't have the food environment to pour fuel on that fire. Now, just to push back a little bit, isn't that sort of like saying, we've got all these people getting lung cancer.
+
+992
+02:02:21,480 --> 02:02:31,480
+It only started when they started smoking and, you know, only one in 10 of these smokers are getting lung cancer. There's a gene that might be predisposing them to lung cancer.
+
+993
+02:02:31,480 --> 02:02:45,480
+So you're basically saying, I want to look at the problem of why are certain people susceptible to an environmental trigger versus what's the environmental trigger. In the case of smoking, it was so obvious. It was the goddamn cigarettes.
+
+994
+02:02:45,480 --> 02:02:50,480
+In the case of obesity, it's a little more complicated. Correct. So what's the experiment you would do?
+
+995
+02:02:50,480 --> 02:03:05,480
+So the experiment that I would do, and actually we're trying to do these now, is to actually look in animals in whom the variants of the genes that we think are affected by this.
+
+996
+02:03:05,480 --> 02:03:13,480
+Because even though the intronic region is not encoding anything, we think it's affecting genes that do encode something.
+
+997
+02:03:14,480 --> 02:03:32,480
+And we think we know at least what one of those genes is. And what I would like to see is what the consequences of these variants are on the functional activity of the system that we think is mediating the effects of these genes.
+
+998
+02:03:33,480 --> 02:03:46,480
+Because I, again, for reasons that are quite technical, I think that one of the major impacts of this gene or these variants in this gene is actually on the structure of the nervous system.
+
+999
+02:03:46,480 --> 02:04:07,480
+So I think their impact is occurring early in the development of the brain. And that what it's doing is changing the circuitry slightly in a very maybe subtle way, probably subtle way, that favors the increased food intake that you just described.
+
+1000
+02:04:08,480 --> 02:04:24,480
+And the implication of this is very relevant to some of the things we were just talking about earlier. That is, can the environment impose permanent signatures on the feeding circuit, so to speak?
+
+1001
+02:04:24,480 --> 02:04:51,480
+And this is, I think, a prime candidate in that regard. And the virtue of the FTO study that we've been talking about is that we know at least enough about the genetics and some of the mechanisms that we can design the experiments, primarily but not totally in mice, to be able to look precisely at where the changes are occurring.
+
+1002
+02:04:51,480 --> 02:05:15,480
+We now just coming online are the tools to look at the circuits as they are acting physiologically. We can activate these circuits in the brain of an animal by using various neurophysiological and neurogenetic techniques that will, I think, permit us to see where the structural consequences of these variants reside.
+
+1003
+02:05:15,480 --> 02:05:27,480
+And my guess is that that would give us an insight into the sort of prevalent genetic susceptibility or one of the prevalent genetic susceptibility.
+
+1004
+02:05:27,480 --> 02:05:36,480
+What would we do with that information? Let's assume you had all of that information. How does that take obesity from 35% to 5%?
+
+1005
+02:05:36,480 --> 02:05:43,480
+Well, you're asking somebody who is not an epidemiologist, and I, you know, some of us do what we know how to do.
+
+1006
+02:05:43,480 --> 02:05:45,480
+You're a hammer, you look for a nail.
+
+1007
+02:05:45,480 --> 02:06:02,480
+So I'm a hammer looking for the nail of whether or not I can show a gene which alters the structure of the central nervous system in a developing organism in such a way as to make it susceptible to the environment.
+
+1008
+02:06:02,480 --> 02:06:19,480
+And the animals that we have studied where we've manipulated this gene definitely are sensitive to the environment in the sense that they will choose or eat more of a high-fat diet than a normal or, you know, a regular diet.
+
+1009
+02:06:19,480 --> 02:06:21,480
+How many such SNPs are there in humans?
+
+1010
+02:06:21,480 --> 02:06:26,480
+There are at least a half a dozen SNPs in the first intron.
+
+1011
+02:06:26,480 --> 02:06:28,480
+In the first intron alone.
+
+1012
+02:06:28,480 --> 02:06:29,480
+But that's where they are.
+
+1013
+02:06:29,480 --> 02:06:30,480
+That's where they all are.
+
+1014
+02:06:30,480 --> 02:06:31,480
+That's where they all are.
+
+1015
+02:06:31,480 --> 02:06:40,480
+What is the prevalence, to the best of our knowledge, of people today who have at least one of these SNPs in that first intron?
+
+1016
+02:06:40,480 --> 02:06:41,480
+60%.
+
+1017
+02:06:41,480 --> 02:06:47,480
+So 60% of the population would be at least somewhat susceptible to obesity.
+
+1018
+02:06:47,480 --> 02:06:48,480
+Yeah.
+
+1019
+02:06:49,480 --> 02:06:57,480
+Which is, you know, sort of fits with what we see because the effect size of this genetic variation is not on or off.
+
+1020
+02:06:57,480 --> 02:07:05,480
+It just widens, I think, or increases the susceptibility to whatever it is in the environment that's doing this.
+
+1021
+02:07:05,480 --> 02:07:09,480
+Are there pharmacologic things that could be done to combat this?
+
+1022
+02:07:09,480 --> 02:07:10,480
+Well, we don't know what it is.
+
+1023
+02:07:10,480 --> 02:07:11,480
+So we don't know.
+
+1024
+02:07:11,480 --> 02:07:12,480
+Because we don't know what the, we don't know the protein.
+
+1025
+02:07:12,480 --> 02:07:14,480
+It's so much more complicated because it's non-coding.
+
+1026
+02:07:14,480 --> 02:07:15,480
+Correct.
+
+1027
+02:07:15,480 --> 02:07:17,480
+But that's what fascinates me about it.
+
+1028
+02:07:18,480 --> 02:07:24,480
+And I think it's producing something in the central nervous system which is structural in consequence, at least in part.
+
+1029
+02:07:24,480 --> 02:07:26,480
+And that's why I'm fascinated by it.
+
+1030
+02:07:26,480 --> 02:07:39,480
+Because what this means is that if you have this predisposition, it may change the nature of your central nervous system structurally in such a way as to make you either more or less.
+
+1031
+02:07:40,480 --> 02:07:53,480
+So if you take just hypothetically an animal that's born with these introns, with this pattern of introns, and you could magically use CRISPR and you could delete them and edit them and make them a wild type again, do you fix the phenotype?
+
+1032
+02:07:53,480 --> 02:07:59,480
+Because if not, that would certainly point to something early on in neurologic development, right?
+
+1033
+02:07:59,480 --> 02:08:00,480
+Yes, you do.
+
+1034
+02:08:00,480 --> 02:08:02,480
+So we can do that kind of thing.
+
+1035
+02:08:02,480 --> 02:08:03,480
+You've done that experiment?
+
+1036
+02:08:03,480 --> 02:08:04,480
+Yeah.
+
+1037
+02:08:04,480 --> 02:08:05,480
+And we've also done experiment.
+
+1038
+02:08:05,480 --> 02:08:07,480
+And sorry, it did or did not fix the phenotype?
+
+1039
+02:08:07,480 --> 02:08:08,480
+It fixes it.
+
+1040
+02:08:08,480 --> 02:08:13,480
+Okay, so that means that it has an influence that transcends development, right?
+
+1041
+02:08:13,480 --> 02:08:14,480
+It's part of development.
+
+1042
+02:08:14,480 --> 02:08:20,480
+I mean, because the fix occurs at the level of the fertilization of the genetic...
+
+1043
+02:08:20,480 --> 02:08:23,480
+Oh, you never fixed it post.
+
+1044
+02:08:23,480 --> 02:08:24,480
+Not fixed it post.
+
+1045
+02:08:24,480 --> 02:08:25,480
+Okay, okay.
+
+1046
+02:08:25,480 --> 02:08:28,480
+So Rudy, you're never going to stop working, are you?
+
+1047
+02:08:28,480 --> 02:08:32,480
+Well, if I've got to figure this out, I'll have to stay at it for a little bit longer.
+
+1048
+02:08:32,480 --> 02:08:34,480
+There are a lot of other things I want to talk with you about.
+
+1049
+02:08:34,480 --> 02:08:36,480
+Maybe we'll just spend a couple minutes.
+
+1050
+02:08:36,480 --> 02:08:43,480
+There's something else I want to talk about, which is the most complicated topic ever, insulin resistance.
+
+1051
+02:08:43,480 --> 02:08:46,480
+What the hell does insulin resistance mean?
+
+1052
+02:08:46,480 --> 02:08:50,480
+How can an insulin resistant person be fat?
+
+1053
+02:08:50,480 --> 02:08:57,480
+When by definition, insulin needs to tell the adipocyte to take up the free fatty acid as triglyceride.
+
+1054
+02:08:57,480 --> 02:09:03,480
+So does insulin resistance mean insulin resistance of the muscle, insulin resistance of the liver,
+
+1055
+02:09:03,480 --> 02:09:05,480
+but insulin sensitivity of the adipocyte?
+
+1056
+02:09:05,480 --> 02:09:07,480
+What does that mean?
+
+1057
+02:09:07,480 --> 02:09:15,480
+The metabolic disposition of glucose, for example, is obviously, or maybe not so obviously,
+
+1058
+02:09:15,480 --> 02:09:18,480
+it's not primarily via adipose tissue.
+
+1059
+02:09:18,480 --> 02:09:23,480
+I mean, glucose, when it gets into this circulation and is removed or taken up, it's...
+
+1060
+02:09:23,480 --> 02:09:24,480
+Mostly in the muscle.
+
+1061
+02:09:24,480 --> 02:09:26,480
+Yes, it's mostly in the muscle.
+
+1062
+02:09:26,480 --> 02:09:36,480
+So to the extent that insulin resistance is functionally denominated by elevated blood glucose...
+
+1063
+02:09:36,480 --> 02:09:39,480
+It would seem to be the muscle as the primary defect.
+
+1064
+02:09:39,480 --> 02:09:41,480
+To be the muscle, which is the primary defect.
+
+1065
+02:09:41,480 --> 02:09:51,480
+Now, the mechanism of the insulin resistance of muscle, I mean, this is an area that's not one that I work in primarily,
+
+1066
+02:09:51,480 --> 02:10:01,480
+but there appears to be that what's going on at the sort of distal end of the insulin resistance path
+
+1067
+02:10:01,480 --> 02:10:06,480
+is that the glucose transporters are not getting to the surface.
+
+1068
+02:10:06,480 --> 02:10:14,480
+They're not responding to insulin the way that they do in a non-insulin resistant person.
+
+1069
+02:10:14,480 --> 02:10:22,480
+And when the insulin transporters, the glucose transporters don't get to the muscle, get to the surface of the muscle cell,
+
+1070
+02:10:22,480 --> 02:10:24,480
+they can't transport glucose.
+
+1071
+02:10:24,480 --> 02:10:30,480
+So at a molecular level, depending on exactly whose model of this you look at,
+
+1072
+02:10:30,480 --> 02:10:35,480
+there's something wrong with the transmission of the signal from the insulin receptor...
+
+1073
+02:10:35,480 --> 02:10:38,480
+Into the cell, to send the glute transporter up.
+
+1074
+02:10:38,480 --> 02:10:48,480
+Right. And exactly what that defect is, again, depends on who you talk to or what mechanism is invoked.
+
+1075
+02:10:48,480 --> 02:10:52,480
+That appears to be, at least on one level, the sort of primary...
+
+1076
+02:10:52,480 --> 02:10:54,480
+So what's happening in the liver?
+
+1077
+02:10:54,480 --> 02:10:59,480
+You know, when we do an old glucose tolerance test, the reason we do it for such a short period of time, relatively speaking,
+
+1078
+02:10:59,480 --> 02:11:07,480
+aside from who wants to keep a patient in the lab forever, is you pretty much eliminate de novo glycogenesis or you eliminate DNL, right?
+
+1079
+02:11:07,480 --> 02:11:13,480
+So you're basically looking at uptake by muscle, but there's some being taken up by the liver.
+
+1080
+02:11:13,480 --> 02:11:18,480
+And I don't know that I understand fully, aside from capacity, right?
+
+1081
+02:11:18,480 --> 02:11:22,480
+The liver has a relatively small capacity for glycogen relative to the muscles.
+
+1082
+02:11:22,480 --> 02:11:28,480
+What else determines that partitioning of how much glucose in the bloodstream is going into the muscle versus the liver?
+
+1083
+02:11:28,480 --> 02:11:38,480
+And then ultimately, anything that exceeds those capacities will then undergo DNL and the de novo lipogenic pathway will produce addition free fatty acid.
+
+1084
+02:11:38,480 --> 02:11:41,480
+And again, what does it mean to be insulin resistant in the liver?
+
+1085
+02:11:41,480 --> 02:11:48,480
+So it's interesting. You know, the liver, if you want to look at it this way, there are sort of two major metabolic things going on.
+
+1086
+02:11:48,480 --> 02:11:56,480
+There are a lot of things going on in the liver, but as far as what we're talking about, one is the ability to make lipid, to synthesize lipid.
+
+1087
+02:11:56,480 --> 02:12:02,480
+And the other is the ability to make or take up glycogen, to release or take up glycogen.
+
+1088
+02:12:02,480 --> 02:12:10,480
+They are differentially sensitive to insulin suppression or enhancement, if you want to look at it that way.
+
+1089
+02:12:10,480 --> 02:12:23,480
+And what happens, I mean, just again, at a biochemical level is you can get insulin resistant in the liver to the suppression of gluconeogenesis
+
+1090
+02:12:23,480 --> 02:12:27,480
+while you maintain sensitivity to the effect of insulin on the liver.
+
+1091
+02:12:27,480 --> 02:12:30,480
+De novo lipogenesis pathway. That's the worst outcome.
+
+1092
+02:12:30,480 --> 02:12:34,480
+Yes, but that's what happens. I mean, that's the state.
+
+1093
+02:12:34,480 --> 02:12:35,480
+How is that regulated?
+
+1094
+02:12:35,480 --> 02:12:43,480
+In many individuals who have issues with regard to insulin homeostasis, if you want to describe it that way.
+
+1095
+02:12:43,480 --> 02:12:51,480
+Yeah. So for the listener, what we're basically saying is the doomsday scenario would be your muscles become resistant to the signaling of insulin,
+
+1096
+02:12:51,480 --> 02:12:55,480
+and they don't put these glute transporters up there and you don't bring glucose into your muscle.
+
+1097
+02:12:55,480 --> 02:13:05,480
+Yeah, but why that happens actually, in other words, what is it about becoming obese that is actually doing something to skeletal muscle?
+
+1098
+02:13:05,480 --> 02:13:07,480
+What if it's the reverse?
+
+1099
+02:13:07,480 --> 02:13:11,480
+Well, it may be. I mean, again, this is an area of somewhat hot debate.
+
+1100
+02:13:11,480 --> 02:13:33,480
+But one possibility, I guess, is that there's something that happens to adipose tissue when you store whatever for that individual is an excess amount of lipid that's producing another molecule or some other mechanism by which muscle is affected with regard to its insulin sensitivity.
+
+1101
+02:13:34,480 --> 02:13:48,480
+The other possibility, which I think, again, many people think is at least partly relevant, is that when you increase the amount of lipid in your adipose tissue, you also increase the amount of lipid in your muscle.
+
+1102
+02:13:48,480 --> 02:13:58,480
+The fat that's in your muscle, actually the marbling of your own muscle, and that that itself has an effect on glucose homeostasis.
+
+1103
+02:13:58,480 --> 02:14:00,480
+So there's a whole...
+
+1104
+02:14:00,480 --> 02:14:06,480
+What does Gerald Schumann think of this? Doesn't he have an idea that it starts in the liver? Isn't that his view?
+
+1105
+02:14:06,480 --> 02:14:17,480
+So Gerald Schumann has done a lot of work on the mechanism by which insulin affects glucose transport in muscle.
+
+1106
+02:14:17,480 --> 02:14:21,480
+I don't want to speak for him, I mean, in terms of what he thinks about this.
+
+1107
+02:14:21,480 --> 02:14:35,480
+But he certainly is one of the people who I think has advanced the field in terms of understanding why, for example, ambient fatty acids seems to suppress glucose uptake in muscle.
+
+1108
+02:14:35,480 --> 02:14:38,480
+This was originally described by Randall.
+
+1109
+02:14:38,480 --> 02:14:40,480
+And just to be clear, that's not Randall the patient.
+
+1110
+02:14:40,480 --> 02:14:42,480
+That's correct. Not that Randall.
+
+1111
+02:14:42,480 --> 02:14:43,480
+You didn't know shit about.
+
+1112
+02:14:43,480 --> 02:14:45,480
+Not spelled differently also.
+
+1113
+02:14:46,480 --> 02:14:58,480
+So I think what Gerald Schumann has done is to advance our understanding of a very, I think, compelling mechanism by which high levels of ambient fatty acid themselves might suppress insulin signaling.
+
+1114
+02:14:58,480 --> 02:15:08,480
+Some of that fatty acid could in fact come from lipid that's stored in the muscle as opposed to lipid or fatty acids that are in the circulation.
+
+1115
+02:15:08,480 --> 02:15:10,480
+So these two different phenotypes, right?
+
+1116
+02:15:10,480 --> 02:15:15,480
+You know, when you look at Cahill's 40-day fasted subjects, their free fatty acids were through the roof.
+
+1117
+02:15:15,480 --> 02:15:20,480
+Their insulin was very low. Their glucose was very low. Their ketones were very high.
+
+1118
+02:15:20,480 --> 02:15:24,480
+It's interesting to know, would you call them insulin sensitive or insulin resistant, right?
+
+1119
+02:15:24,480 --> 02:15:30,480
+Because probably if you challenge them with glucose immediately, they would have hyperglycemia.
+
+1120
+02:15:30,480 --> 02:15:35,480
+Physiologically, their muscles probably would in the short moment say, hey, I don't want this stuff.
+
+1121
+02:15:35,480 --> 02:15:37,480
+Save every gram of that for the brain.
+
+1122
+02:15:37,480 --> 02:15:43,480
+But presumably if you refed them carbs for three days, they'd probably be as insulin sensitive as they'd ever been.
+
+1123
+02:15:43,480 --> 02:15:47,480
+Right. So I mean, this is one of the reasons why I think you're right.
+
+1124
+02:15:47,480 --> 02:16:03,480
+But I think maybe what Schumann or Randall would say is that the reason for the lack of response to the transport of glucose is that the system has now been down set by virtue of the high ambient free fatty acids.
+
+1125
+02:16:03,480 --> 02:16:05,480
+And it may take some time to…
+
+1126
+02:16:05,480 --> 02:16:08,480
+Interesting. So you're thinking that could be the short-term signal.
+
+1127
+02:16:08,480 --> 02:16:13,480
+Correct. And that takes time. That's why, again, I don't do this for a living. I mean, you would know this.
+
+1128
+02:16:13,480 --> 02:16:21,480
+But why people are encouraged not to restrict their carbohydrates prior to having a glucose tolerance test, for example.
+
+1129
+02:16:21,480 --> 02:16:22,480
+Right.
+
+1130
+02:16:22,480 --> 02:16:26,480
+Because you can manipulate the system in the way that you just mentioned.
+
+1131
+02:16:26,480 --> 02:16:32,480
+Rudy, I could sit here and talk about this stuff all night long, but your wife will probably be pissed off that I kept you here all night.
+
+1132
+02:16:32,480 --> 02:16:35,480
+So maybe not. Maybe she's actually enjoying the fact that you're here.
+
+1133
+02:16:35,480 --> 02:16:42,480
+Yeah, yeah, yeah. This has been super interesting. You're really one of the most thoughtful people I've ever spoken to on this topic.
+
+1134
+02:16:42,480 --> 02:16:49,480
+And I think there are a lot of areas where we don't necessarily see eye to eye clinically, which, again, that sounds like a much more harsh statement than it is.
+
+1135
+02:16:49,480 --> 02:16:52,480
+I just think we look at the world a little differently on some level.
+
+1136
+02:16:52,480 --> 02:16:53,480
+Yeah, I'm a hammer.
+
+1137
+02:16:53,480 --> 02:17:00,480
+You're a hammer looking for a nail. And I'm kind of a general contractor looking for everything in sight. I mean, I think it's interesting.
+
+1138
+02:17:00,480 --> 02:17:09,480
+I think your FTO example is a great example. I mean, if I were tackling this problem and I'm glad I'm not, I'd be wanting to understand the environmental trigger.
+
+1139
+02:17:09,480 --> 02:17:18,480
+Is it the cigarette that's causing lung cancer? You're trying to solve a different problem, which is why is it that only some people get lung cancer when they smoke?
+
+1140
+02:17:18,480 --> 02:17:23,480
+And those people, before the adage of the invention of cigarettes would have never got lung cancer.
+
+1141
+02:17:23,480 --> 02:17:28,480
+But now that these cigarettes are here, probably can't do much about it. Let's figure out who they are.
+
+1142
+02:17:28,480 --> 02:17:34,480
+And not just for that reason. I mean, just as an intellectual question, I find it very intriguing.
+
+1143
+02:17:34,480 --> 02:17:43,480
+But knowledge of whatever would lead a person who smokes not to get lung cancer, it would be very nice to know what that is.
+
+1144
+02:17:43,480 --> 02:17:44,480
+Yeah.
+
+1145
+02:17:44,480 --> 02:17:50,480
+That whatever that biology is for many, many reasons, not just related necessarily to lung cancer.
+
+1146
+02:17:50,480 --> 02:18:03,480
+And I see the issue of the consequences of a genetic variant very prevalent in the population, which predisposes some individuals to the environmental consequences and others not.
+
+1147
+02:18:03,480 --> 02:18:19,480
+If we knew what that mechanism is, there's no reason to believe that at some point we might not be able to manipulate it, not only in service of those who have the genetic variant, but others who might benefit from knowledge of the circuitry.
+
+1148
+02:18:19,480 --> 02:18:40,480
+Yeah. I mean, that makes a lot of sense. And you've given me some great pearls over the years. I remember you, I think it was one night at dinner when you, me, Mike Rosenbaum were playing patty cakes and it somehow came up that in your 10 to 20% weight reduced subjects, a little bit of T3 could overcome some of the deficit.
+
+1149
+02:18:40,480 --> 02:18:53,480
+And I remember having this Eureka moment because I was like, wait a minute, all these patients I see that lose weight have a reverse T3 spike that would exactly explain why giving them T3 rather than T4 would address the problem.
+
+1150
+02:18:53,480 --> 02:19:00,480
+You give a patient with high reverse T3, T4, you're just, you're making them worse, but you give them T3, you can bypass it.
+
+1151
+02:19:00,480 --> 02:19:06,480
+So I'm incredibly grateful to you, to your work and for your friendship. So thank you very much.
+
+1152
+02:19:06,480 --> 02:19:07,480
+My pleasure. Thank you.
+
+1153
+02:19:08,480 --> 02:19:18,480
+You can find all of this information and more at PeterAttiaMD.com forward slash podcast. There you'll find the show notes, readings and links related to this episode.
+
+1154
+02:19:18,480 --> 02:19:27,480
+You can also find my blog and the nerd safari at PeterAttiaMD.com. What's a nerd safari you ask? Just click on the link at the top of the site to learn more.
+
+1155
+02:19:27,480 --> 02:19:39,480
+Maybe the simplest thing to do is to sign up for my subjectively non-lame once a week email where I'll update you on what I've been up to, the most interesting papers I've read and all things related to longevity, science, performance, sleep, et cetera.
+
+1156
+02:19:39,480 --> 02:19:49,480
+On social, you can find me on Twitter, Instagram, and Facebook, all with the ID PeterAttiaMD, but usually Twitter is the best way to reach me to share your questions and comments.
+
+1157
+02:19:49,480 --> 02:20:01,480
+Now for the obligatory disclaimer. This podcast is for general informational purposes only and does not constitute the practice of medicine, nursing, or other professional healthcare services, including the giving of medical advice.
+
+1158
+02:20:01,480 --> 02:20:09,480
+And note, no doctor patient relationship is formed. The use of this information and the materials linked to the podcast is at the user's own risk.
+
+1159
+02:20:09,480 --> 02:20:15,480
+The content of this podcast is not intended to be a substitute for professional medical advice, diagnoses, or treatment.
+
+1160
+02:20:15,480 --> 02:20:25,480
+Users should not disregard or delay in obtaining medical advice for any medical condition they have and should seek the assistance of their healthcare professionals for any such conditions.
+
+1161
+02:20:25,480 --> 02:20:38,480
+Lastly, and perhaps most importantly, I take conflicts of interest very seriously for all of my disclosures, the companies I invest in and or advise, please visit PeterAttiaMD.com forward slash about.
+

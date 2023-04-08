@@ -1,0 +1,4008 @@
+1
+00:00:00,000 --> 00:00:10,640
+Hey everyone, welcome to the Peter Attia drive. I'm your host, Peter Attia.
+
+2
+00:00:10,640 --> 00:00:16,000
+The drive is a result of my hunger for optimizing performance, health, longevity, critical thinking,
+
+3
+00:00:16,000 --> 00:00:19,760
+along with a few other obsessions along the way. I've spent the last several years working
+
+4
+00:00:19,760 --> 00:00:23,840
+with some of the most successful top performing individuals in the world. And this podcast
+
+5
+00:00:23,840 --> 00:00:28,600
+is my attempt to synthesize what I've learned along the way to help you live a higher quality,
+
+6
+00:00:28,600 --> 00:00:33,400
+more fulfilling life. If you enjoy this podcast, you can find more information on today's episode
+
+7
+00:00:33,400 --> 00:00:43,480
+and other topics at PeterAttiaMD.com. Hey everybody, welcome to this week's episode
+
+8
+00:00:43,480 --> 00:00:47,560
+of the drive. I'd like to take a couple of minutes to talk about why we don't run ads
+
+9
+00:00:47,560 --> 00:00:51,680
+on this podcast. If you're listening to this, you probably already know, but the two things
+
+10
+00:00:51,680 --> 00:00:57,120
+I care most about professionally are how to live longer and how to live better. I have
+
+11
+00:00:57,120 --> 00:01:02,040
+a complete fascination and obsession with this topic. I practice it professionally and
+
+12
+00:01:02,040 --> 00:01:06,760
+I've seen firsthand how access to information is basically all people need to make better
+
+13
+00:01:06,760 --> 00:01:11,360
+decisions and improve the quality of their lives. Curating and sharing this knowledge
+
+14
+00:01:11,360 --> 00:01:15,560
+is not easy. And even before starting the podcast, that became clear to me. The sheer
+
+15
+00:01:15,560 --> 00:01:20,560
+volume of material published in this space is overwhelming. I'm fortunate to have a great
+
+16
+00:01:20,560 --> 00:01:26,120
+team that helps me continue learning and sharing this information with you. To take one example,
+
+17
+00:01:26,120 --> 00:01:30,440
+our show notes are in a league of their own. In fact, we now have a full-time person that
+
+18
+00:01:30,440 --> 00:01:35,360
+is dedicated to producing those and their feedback has mirrored this. So all of this
+
+19
+00:01:35,360 --> 00:01:41,560
+raises a natural question. How will we continue to fund the work necessary to support this?
+
+20
+00:01:41,560 --> 00:01:45,920
+As you probably know, the tried and true way to do this is to sell ads. But after a lot
+
+21
+00:01:45,920 --> 00:01:50,960
+of contemplation, that model just doesn't feel right to me for a few reasons. Now the
+
+22
+00:01:50,960 --> 00:01:56,000
+first and most important of these is trust. I'm not sure how you could trust me if I'm
+
+23
+00:01:56,000 --> 00:02:00,040
+telling you about something when you know I'm being paid by the company that makes it
+
+24
+00:02:00,040 --> 00:02:05,440
+to tell you about it. Another reason selling ads doesn't feel right to me is because I
+
+25
+00:02:05,440 --> 00:02:09,640
+just know myself. I have a really hard time advocating for something that I'm not absolutely
+
+26
+00:02:09,640 --> 00:02:14,680
+nuts for. So if I don't feel that way about something, I don't know how I can talk about
+
+27
+00:02:14,680 --> 00:02:19,320
+it enthusiastically. So instead of selling ads, I've chosen to do what a handful of others
+
+28
+00:02:19,320 --> 00:02:25,960
+have proved can work over time. And that is to create a subscriber model for my audience.
+
+29
+00:02:25,960 --> 00:02:31,920
+This keeps my relationship with you both simple and honest. If you value what I'm doing,
+
+30
+00:02:31,920 --> 00:02:36,520
+you can become a member. In exchange, you'll get the benefits above and beyond what's available
+
+31
+00:02:36,520 --> 00:02:41,840
+for free. It's that simple. It's my goal to ensure that no matter what level you choose
+
+32
+00:02:41,840 --> 00:02:48,760
+to support us at, you will get back more than you give. So for example, members will receive
+
+33
+00:02:48,760 --> 00:02:55,480
+full access to the exclusive show notes, including other things that we plan to build upon. These
+
+34
+00:02:55,480 --> 00:02:59,920
+are useful beyond just the podcast, especially given the technical nature of many of our shows.
+
+35
+00:02:59,920 --> 00:03:07,080
+Members also get exclusive access to listen to and participate in the regular Ask Me Anything
+
+36
+00:03:07,080 --> 00:03:13,600
+episodes. That means asking questions directly into the AMA portal and also getting to hear
+
+37
+00:03:13,600 --> 00:03:17,760
+these podcasts when they come out. Lastly, and this is something I'm really excited about,
+
+38
+00:03:17,760 --> 00:03:22,680
+I want my supporters to get the best deals possible on the products that I love. And as
+
+39
+00:03:22,680 --> 00:03:26,800
+I said, we're not taking ad dollars from anyone, but instead what I'd like to do is work with
+
+40
+00:03:26,800 --> 00:03:31,520
+companies who make the products that I already love and would already talk about for free and
+
+41
+00:03:31,520 --> 00:03:39,320
+have them pass savings on to you. Again, the podcast will remain free to all, but my hope
+
+42
+00:03:39,320 --> 00:03:46,240
+is that many of you will find enough value in one, the podcast itself, and two, the additional
+
+43
+00:03:46,240 --> 00:03:51,080
+content exclusive for members. I want to thank you for taking a moment to listen to this. If you
+
+44
+00:03:51,080 --> 00:03:55,720
+learn from and find value in the content I produce, please consider supporting us directly
+
+45
+00:03:55,720 --> 00:04:00,840
+by signing up for a monthly subscription. My guest this week is David Light, the CEO of
+
+46
+00:04:00,840 --> 00:04:06,120
+Valisher, which is an online pharmacy and analytical laboratory that tests the drugs
+
+47
+00:04:06,120 --> 00:04:12,000
+it dispenses. As some of you may have heard, on September 13th of this year, a citizen's petition
+
+48
+00:04:12,000 --> 00:04:18,840
+was filed by David's company to the FDA requesting the immediate attention to and potentially removal
+
+49
+00:04:18,840 --> 00:04:25,560
+of a very common drug called Zantac or Renitidine from the market based on a lot of analytical
+
+50
+00:04:25,560 --> 00:04:32,240
+horsepower that they had thrown at it, suggesting that Zantac, Renitidine in its generic form was
+
+51
+00:04:32,240 --> 00:04:42,680
+unstable and it decayed heavily into a carcinogen known as NDMA. The details of this obviously we
+
+52
+00:04:42,680 --> 00:04:48,080
+discuss in the podcast, but they are quite staggering when you consider the magnitude at
+
+53
+00:04:48,200 --> 00:04:53,240
+which this decay occurs and therefore the level at which people could be exposed. Now the purpose
+
+54
+00:04:53,240 --> 00:04:58,280
+of this episode of course is not to scare people, though in the end I do something I rarely do,
+
+55
+00:04:58,280 --> 00:05:05,040
+which is make a recommendation, which is if you are playing this through the lens of standard
+
+56
+00:05:05,040 --> 00:05:10,880
+risk analysis, the better thing to do is to probably at least yourself stop taking this
+
+57
+00:05:10,880 --> 00:05:18,680
+drug even if the FDA, which at the time of this recording has not asked for a withdrawal either
+
+58
+00:05:18,680 --> 00:05:23,560
+voluntary or otherwise. It's important to note that at this time 30 other countries including
+
+59
+00:05:23,560 --> 00:05:30,000
+Canada, many countries in Europe, the Middle East have done that, have gone to the step of saying
+
+60
+00:05:30,000 --> 00:05:36,480
+this drug is off the market until we clarify what these issues are. In the first 20 minutes of this
+
+61
+00:05:36,480 --> 00:05:40,520
+episode we get into the background and it is kind of important to understand David's background in
+
+62
+00:05:40,520 --> 00:05:45,920
+chemistry and the background of how this company became formed and what the impetus was for that.
+
+63
+00:05:45,920 --> 00:05:51,440
+We then get into kind of their first real insight that they made at the public health level, which
+
+64
+00:05:51,440 --> 00:05:57,360
+was the discovery of a carcinogen in a very commonly prescribed blood pressure medication
+
+65
+00:05:57,360 --> 00:06:04,280
+called Valsartan. In this case it was a contaminant, meaning it was not unique to the entire drug, but
+
+66
+00:06:04,280 --> 00:06:09,360
+only to certain manufacturers. However, the majority of this episode is devoted to the
+
+67
+00:06:09,360 --> 00:06:13,840
+discussion of Zantac and Renidin. I don't need to really say much more. I think the episode
+
+68
+00:06:13,840 --> 00:06:19,000
+speaks for itself and it is timely. And again, if you've never taken Zantac, don't care about this,
+
+69
+00:06:19,000 --> 00:06:24,600
+great, might not be an episode for you, but if you know anybody who takes this and at last check,
+
+70
+00:06:24,600 --> 00:06:29,880
+15 million prescriptions of this were filled annually in the United States. And when you
+
+71
+00:06:29,880 --> 00:06:34,560
+consider the over the counter being easily two to three times, the number of that odds are if
+
+72
+00:06:34,560 --> 00:06:39,160
+you're listening to this, either you take Zantac or know somebody who does. At the very least,
+
+73
+00:06:39,280 --> 00:06:44,720
+you'd want to pass that on to them. So without further delay, please enjoy my conversation with
+
+74
+00:06:44,720 --> 00:06:52,800
+David Light. David, thank you so much for making time to speak on a Saturday evening.
+
+75
+00:06:52,800 --> 00:06:57,800
+My pleasure. Likewise. If the listener is wondering why we're having this discussion on a Saturday
+
+76
+00:06:57,800 --> 00:07:03,480
+evening, it's in large part I suspect because this is kind of a timely issue and so many of
+
+77
+00:07:03,480 --> 00:07:08,640
+my podcasts are scheduled out months in advance, but this was something I didn't really feel should
+
+78
+00:07:08,640 --> 00:07:14,160
+be put off for several months. So I thought if you were willing to talk on a Saturday night,
+
+79
+00:07:14,160 --> 00:07:20,840
+then I would too. Thanks for having me. Yeah. So let's spend just a couple of minutes on some
+
+80
+00:07:20,840 --> 00:07:28,080
+background before we jump into the real meat of this discussion. I first learned about you through
+
+81
+00:07:28,080 --> 00:07:33,720
+a woman named Catherine Eban. Do you know Catherine? Yes, I do. So you may know them that I interviewed
+
+82
+00:07:33,720 --> 00:07:40,360
+her a couple of months ago and it was honestly for me one of the most upsetting interviews I've
+
+83
+00:07:40,360 --> 00:07:45,400
+ever done. I guess I haven't interviewed enough bad guys in my life. Not that Catherine's a bad
+
+84
+00:07:45,400 --> 00:07:49,840
+guy, but she was really talking about a story that was for me very disheartening, but I think also
+
+85
+00:07:49,840 --> 00:07:54,880
+for virtually every listener kind of just blew people away. And I knew that the moment we published
+
+86
+00:07:54,880 --> 00:07:59,320
+that podcast, which we did in probably early September, that there was going to be a lot of
+
+87
+00:07:59,320 --> 00:08:03,440
+questions coming out. A lot of people were going to wonder what the implications of this were. And
+
+88
+00:08:03,480 --> 00:08:09,240
+even just in my own little tiny bubble of a world, which is my very small medical practice with fewer
+
+89
+00:08:09,240 --> 00:08:13,800
+than 100 patients, the implications have been pretty significant. We have basically changed the
+
+90
+00:08:13,800 --> 00:08:19,960
+way we do everything in terms of we now exclusively work with one pharmacy. That pharmacy while not
+
+91
+00:08:19,960 --> 00:08:23,440
+able to do what your pharmacy does, and we'll talk about that in a moment, they're able to do
+
+92
+00:08:23,440 --> 00:08:28,140
+something pretty darn good, which is at our discretion and without any hesitation, they will
+
+93
+00:08:28,140 --> 00:08:33,240
+dispense exactly which medications we want. So branded when the patient is willing to pay for
+
+94
+00:08:33,360 --> 00:08:40,040
+branded and if generic, then they are able to do what we do with them. Actually, we do the heavy
+
+95
+00:08:40,040 --> 00:08:45,360
+lifting, I suppose, which is we go and look at the company that makes the specific generic and look
+
+96
+00:08:45,360 --> 00:08:49,880
+to see if there's been any interaction with the FDA. Now that doesn't guarantee that we're safe,
+
+97
+00:08:50,200 --> 00:08:56,240
+but I think it's reducing our odds a lot. But let's now talk about what you do professionally
+
+98
+00:08:56,280 --> 00:09:00,840
+and within the pharmacy space and maybe a little bit about how you even decided to do that.
+
+99
+00:09:00,920 --> 00:09:09,600
+Sure. So Valisher company that I co-founded and the CEO of is an online pharmacy, but it's also
+
+100
+00:09:09,600 --> 00:09:15,040
+attached to an analytical laboratory. So it's actually the first pharmacy whether online or not
+
+101
+00:09:15,080 --> 00:09:20,680
+that is chemically validating samples from every single batch of every single medication that
+
+102
+00:09:20,680 --> 00:09:27,200
+comes to our pharmacy and screening out those that have problems and quite a few do. And then for
+
+103
+00:09:27,200 --> 00:09:32,200
+our patients only dispensing those that pass and we also dispense it with a certificate of
+
+104
+00:09:32,200 --> 00:09:37,400
+analysis and very much like nutritional information. I mean, you don't buy food without
+
+105
+00:09:37,560 --> 00:09:42,680
+looking at the nutrition label and seeing what's in it. But where is that for your medications? So
+
+106
+00:09:42,720 --> 00:09:48,000
+in that certificate of analysis, we're actually giving the information of what we've actually
+
+107
+00:09:48,000 --> 00:09:51,320
+analyzed for that particular batch of that particular medication.
+
+108
+00:09:51,640 --> 00:09:56,160
+Now, a lot of people might be saying, Well, David, why is that necessary? I mean, didn't the FDA
+
+109
+00:09:56,160 --> 00:10:02,960
+already do that? Isn't the point of having the FDA that when I go into my pharmacy and I'm
+
+110
+00:10:02,960 --> 00:10:10,360
+dispensed my blood pressure medicine, isn't the FDA's seal on that in the same way that the USDA's
+
+111
+00:10:10,400 --> 00:10:13,880
+seal is on the chicken breast that I buy at the grocery store?
+
+112
+00:10:14,040 --> 00:10:20,720
+So the FDA seal is on it. But I think a lot of people are rather shocked to understand that the
+
+113
+00:10:20,720 --> 00:10:25,680
+FDA is not doing chemical testing on the vast majority of medications that are out there. The
+
+114
+00:10:25,680 --> 00:10:31,880
+testing that is done sometimes and some of the batches are done by the manufacturing companies
+
+115
+00:10:31,880 --> 00:10:37,920
+themselves, which these days are almost entirely overseas. 80% of drug products in the United
+
+116
+00:10:37,920 --> 00:10:44,560
+States are manufactured in either India or China, and then self reported to the FDA. So there's
+
+117
+00:10:44,600 --> 00:10:50,760
+obviously a lot of options for problems and cracks in that kind of self reported system. These days,
+
+118
+00:10:50,760 --> 00:10:56,960
+you hear a lot about self reporting system problems with aviation and the Boeing 737 MAX. An
+
+119
+00:10:56,960 --> 00:11:01,800
+airplane exploding is obviously a very visible component of something going wrong. But your
+
+120
+00:11:01,800 --> 00:11:07,600
+medications going wrong is actually very hard to see or to find out. And then not to mention, as you
+
+121
+00:11:07,600 --> 00:11:13,080
+mentioned, Catherine, even before she did a very deep study of all the fraud that goes on when
+
+122
+00:11:13,160 --> 00:11:20,720
+there's a self reported mechanism. So we definitely saw that and said this is not acceptable for how
+
+123
+00:11:20,720 --> 00:11:25,400
+we would want pharmacy to be. Valisher actually started with a good friend of mine from college
+
+124
+00:11:25,400 --> 00:11:29,280
+that called me up one day was telling me about all these problems he was having with his
+
+125
+00:11:29,280 --> 00:11:33,680
+anti convulsive medications. Essentially every once in a while he'd refill it and just have this
+
+126
+00:11:33,800 --> 00:11:39,800
+terrible month get all these side effects and relapses sometimes and just felt very different
+
+127
+00:11:39,800 --> 00:11:44,080
+from how he felt otherwise. And he talked to his doctors, he's got some great doctors and the
+
+128
+00:11:44,080 --> 00:11:49,280
+doctor telling listen, you know, this system is problematic. 90% of what's out there these days
+
+129
+00:11:49,280 --> 00:11:53,640
+is generic and it can be made from all over the place. And I think as you're kind of alluding to
+
+130
+00:11:53,640 --> 00:11:58,800
+in terms of working with one pharmacy, just switching from generic to generic could be
+
+131
+00:11:58,840 --> 00:12:04,840
+problematic. They're formulated differently. They're allowed to vary in their bio equivalence by 45%
+
+132
+00:12:04,840 --> 00:12:11,320
+from one another. So our high level solution for this was we want to actually have medications
+
+133
+00:12:11,320 --> 00:12:18,640
+chemically tested at the end of the supply chain in the United States where it matters most and test
+
+134
+00:12:18,640 --> 00:12:23,040
+them see what's actually inside of them and then decide if we want to actually dispense them.
+
+135
+00:12:23,320 --> 00:12:28,400
+Forgive me for being skeptical. Because while today this sounds like a great idea. How long has
+
+136
+00:12:28,400 --> 00:12:29,440
+Valusher been around?
+
+137
+00:12:29,520 --> 00:12:34,760
+My friend Adam and I so Adam was the one that called me up with this issue. We started the
+
+138
+00:12:34,760 --> 00:12:42,080
+company in 2015. And originally looking at this as a technology problem. A potential reason why
+
+139
+00:12:42,120 --> 00:12:47,720
+nobody's been doing this before is that the technology can be very expensive and cumbersome
+
+140
+00:12:47,720 --> 00:12:52,160
+and really just tailored to one or two drugs when you do this in a manufacturing plant and in
+
+141
+00:12:52,160 --> 00:12:57,840
+pharma companies. But if we wanted to do this in an economical way at the end of the supply chain,
+
+142
+00:12:57,960 --> 00:13:03,280
+there's kind of this technology gap. And so we actually spent a number of years developing core
+
+143
+00:13:03,280 --> 00:13:08,080
+technology, a spectroscopy based approach, essentially applying lasers to pharmaceutical
+
+144
+00:13:08,080 --> 00:13:14,880
+analysis so that we can do some of the most difficult and costly components of this analysis in a
+
+145
+00:13:14,880 --> 00:13:22,680
+much higher throughput, much easier to use way while still maintaining high precision. And after
+
+146
+00:13:22,680 --> 00:13:27,800
+a couple of years of bootstrapping this whole thing and putting a lot of our own resources into
+
+147
+00:13:27,800 --> 00:13:34,280
+developing the technology, we achieved it. We got ISO accreditation on the system itself. That's the
+
+148
+00:13:34,280 --> 00:13:39,320
+international organization for standardization. We filed patents. We kind of thought of this as the
+
+149
+00:13:39,320 --> 00:13:44,360
+traditional biotech model, which is where the kind of industry that I'm from where a lot of the
+
+150
+00:13:44,360 --> 00:13:50,280
+original founders of Alisher are from. And we went and talked to the industry, the big distributors
+
+151
+00:13:50,280 --> 00:13:58,120
+and pharmacies and manufacturers. And it was a very odd discourse because all these major players
+
+152
+00:13:58,120 --> 00:14:02,080
+were telling us, yeah, you know, there are a lot of problems in the system and it looks like the
+
+153
+00:14:02,080 --> 00:14:06,800
+problems are getting worse. But it's not our problem. There's always ended up being somebody
+
+154
+00:14:06,800 --> 00:14:12,400
+else's problem. And we also realized that there actually seems to be disincentives. The established
+
+155
+00:14:12,440 --> 00:14:19,360
+industry actually looked closer at what's on the shelves. They may not like what they see. And so
+
+156
+00:14:19,360 --> 00:14:25,960
+this was really around now end of 2017, early 2018. That's when we decided, you know, we actually
+
+157
+00:14:25,960 --> 00:14:32,240
+have to attach this to a pharmacy. So we already had the credited laboratory control of substance
+
+158
+00:14:32,240 --> 00:14:37,320
+licenses and everything else around a laboratory. And then we built out the online pharmacy component.
+
+159
+00:14:37,320 --> 00:14:42,800
+And that launched just about a year ago. And when I was referring to my skepticism, I guess what I
+
+160
+00:14:42,800 --> 00:14:49,080
+was really getting at was in 2015, if you had pitched this idea to me and said, Hey, I got this
+
+161
+00:14:49,080 --> 00:14:53,320
+idea, which is we're going to actually test individually every single drug that gets dispensed,
+
+162
+00:14:53,320 --> 00:14:58,240
+I would have said, Gosh, that doesn't really sound like it's a significant enough problem. I mean,
+
+163
+00:14:58,240 --> 00:15:03,400
+there's two issues with it. Is there enough demand for it? I would have said no. And secondly,
+
+164
+00:15:03,400 --> 00:15:09,720
+the scalability of that strikes me as cumbersome and difficult. So maybe to give me a tangible
+
+165
+00:15:09,720 --> 00:15:16,600
+example, if my doctor called me in a prescription for 90 tablets of alopurinol, 300 milligrams of
+
+166
+00:15:16,600 --> 00:15:22,920
+alopurinol, 90 tablets to last me for three months, would you open a batch of alopurinol that you got
+
+167
+00:15:22,920 --> 00:15:27,480
+from your generic supplier? And let's say that batch that you got wholesale, how many tablets
+
+168
+00:15:27,480 --> 00:15:33,240
+would that contain? So you're actually getting to the exact root of the business plan of how
+
+169
+00:15:33,240 --> 00:15:39,640
+to make this economical is that at Valisher on the pharmacy side, unlike most other pharmacies
+
+170
+00:15:39,640 --> 00:15:44,680
+that are going to be buying every day or every week and are kind of just constantly looking for
+
+171
+00:15:44,680 --> 00:15:49,880
+the cheapest possible source and therefore also not having a lot of inventory, we buy large batches.
+
+172
+00:15:49,880 --> 00:15:57,960
+So we'll look six months out, usually at least to buy a lot of that medication up front. So we have
+
+173
+00:15:57,960 --> 00:16:03,800
+a larger batch of it so that when we sample it, when we do all of our analytics, obviously that
+
+174
+00:16:03,800 --> 00:16:10,200
+adds some cost, but that cost is amortized over the larger batch. So per pill that you're buying
+
+175
+00:16:10,200 --> 00:16:16,200
+from us, it's not adding a whole lot of cost to us, especially as we have proprietary technology
+
+176
+00:16:16,200 --> 00:16:21,320
+that also allows us to do this in arguably some of the cheapest possible ways. And we really optimize
+
+177
+00:16:21,320 --> 00:16:26,760
+for it. But we're obviously making less money than your standard big name pharmacy that's not doing
+
+178
+00:16:26,840 --> 00:16:32,360
+any of this. But you're seeing that a lot in the world of online pharmacy these days, there's all
+
+179
+00:16:32,360 --> 00:16:38,760
+these kind of value ads that are coming out there. So whereas our competitors are working on spending
+
+180
+00:16:38,760 --> 00:16:44,760
+money on specialty packaging or sending chocolates with your birth control pills that cost money to
+
+181
+00:16:45,320 --> 00:16:51,720
+instead of spending money on that, we spend money on analysis. And it obviously cuts into the overall
+
+182
+00:16:51,800 --> 00:16:59,480
+profit margins, but we're still able to make money as a company and offer this what we certainly
+
+183
+00:16:59,480 --> 00:17:04,520
+believe is a really critical service of analysis on that batch of medication. I don't know if you
+
+184
+00:17:04,520 --> 00:17:09,320
+ever heard the podcast with Catherine, but I believe in that podcast, I tell a story about
+
+185
+00:17:09,320 --> 00:17:13,480
+sort of the first time it occurred to me that generics, there might be something wrong with
+
+186
+00:17:13,480 --> 00:17:19,400
+a generic and it was several years ago and it was a patient who I had prescribed Crestor, which of
+
+187
+00:17:19,400 --> 00:17:24,120
+course got filled as resuvastatin, which is not uncommon at all. That's the generic version of
+
+188
+00:17:24,120 --> 00:17:29,960
+Crestor. And he had previously been on atorvastatin, the generic version of Lipitor, but there was just
+
+189
+00:17:29,960 --> 00:17:34,600
+there was something I didn't like. There was a blood biomarker I didn't I wasn't happy about. And I
+
+190
+00:17:34,600 --> 00:17:40,360
+thought before we abandon a statin altogether, let's give it one more try. So we put him on an
+
+191
+00:17:40,360 --> 00:17:46,200
+equivalent dose of resuvastatin, which is usually half the dose. So I think if he was on 40 of Lipitor
+
+192
+00:17:46,200 --> 00:17:51,080
+or atorvastatin, I put him down to 20 of Crestor, which got filled as resuvastatin.
+
+193
+00:17:51,080 --> 00:17:56,760
+Eight weeks later, I get his blood back and he's back to his baseline level of ApoB,
+
+194
+00:17:56,760 --> 00:18:01,080
+which is the thing that I'm tracking, suggesting he's not taking his medication at all.
+
+195
+00:18:01,080 --> 00:18:05,000
+Now, I'm not a browbeating doc, so I'm very straightforward with my patients. I just say,
+
+196
+00:18:05,000 --> 00:18:10,200
+hey, did you forget to take them? Did you run out like a month before the test or what was going on?
+
+197
+00:18:10,200 --> 00:18:14,920
+And he said, because and if that were the case, he would simply say, yes, I just my patients are very
+
+198
+00:18:14,920 --> 00:18:19,320
+transparent. And he said, no, no, no, I take it, take this thing religiously. And I remember
+
+199
+00:18:19,320 --> 00:18:23,880
+scratching my head and thinking, we know that he is statin responsive. So there's something about
+
+200
+00:18:23,880 --> 00:18:31,480
+this batch that could be different. So I just had my team call in and insist that we get the branded
+
+201
+00:18:31,480 --> 00:18:38,200
+version. We got it. He took it. It worked. I sort of forgot about it. That type of thing happened a
+
+202
+00:18:38,200 --> 00:18:42,680
+few times over the last few years. And then of course, reading Catherine's book, I was like,
+
+203
+00:18:43,400 --> 00:18:49,240
+oh, my God, the lucky times are the times when we see the drug and it has a very obvious,
+
+204
+00:18:49,240 --> 00:18:54,600
+measurable response in a biomarker. But then there's a whole other class of drugs for which
+
+205
+00:18:54,600 --> 00:19:00,440
+that's not entirely true drugs like blood pressure medications or seizure medications or antibiotics.
+
+206
+00:19:00,440 --> 00:19:08,120
+In fact, most drugs do not fit in the camp of a very clear biomarker. So when you set out to do
+
+207
+00:19:08,120 --> 00:19:12,680
+this again, based on your friend's experience, what did you expect to find? Because at the time
+
+208
+00:19:12,680 --> 00:19:19,720
+you guys started, Catherine hadn't done her complete investigative watershed expose of the
+
+209
+00:19:19,720 --> 00:19:25,400
+mass fraud coming out of India and China. So did you think this was a needle in a haystack problem,
+
+210
+00:19:25,400 --> 00:19:29,240
+but you just wanted to give people peace of mind? Or did you think this was a much larger systemic
+
+211
+00:19:29,240 --> 00:19:34,040
+issue? Actually, when Adam called me about the issues that he was seeing himself with
+
+212
+00:19:34,120 --> 00:19:37,880
+anticonvulsant medication, I mean, obviously, I was concerned about his own health, but
+
+213
+00:19:38,680 --> 00:19:44,120
+for a business, definitely wanted to understand, is this something more pervasive? And I myself
+
+214
+00:19:44,120 --> 00:19:51,320
+was not on any medications at the time. So I had no personal experience to relate it to and figured,
+
+215
+00:19:51,320 --> 00:19:56,600
+hey, as a scientist myself, let's look at the literature. And there's a lot of literature out
+
+216
+00:19:56,600 --> 00:20:01,880
+there, especially in certain areas, like antiepileptic drugs, you start talking to
+
+217
+00:20:01,880 --> 00:20:07,880
+neurologists, oftentimes, especially psychiatrists that see a lot of these issues between brand and
+
+218
+00:20:07,880 --> 00:20:14,360
+generic, between generic and generic substitution. And I recall even back then that one of the
+
+219
+00:20:14,360 --> 00:20:20,600
+papers that I looked at was a Harvard Medical School study that had almost 2000 patients and
+
+220
+00:20:20,600 --> 00:20:26,440
+showed simply the act of refilling your antiepileptic medication was associated with an over
+
+221
+00:20:26,440 --> 00:20:31,160
+twofold increased chance of getting a seizure. And I'm like, wow, as a scientist looking at this,
+
+222
+00:20:31,240 --> 00:20:38,760
+this sounds really serious, and especially in a kind of a class of medication where it's so clear
+
+223
+00:20:38,760 --> 00:20:43,880
+when your medication is off, you get a seizure. But to your point, this must be happening in all
+
+224
+00:20:43,880 --> 00:20:49,320
+sorts of medications where it's less clear. And once you really start talking to a variety of
+
+225
+00:20:49,320 --> 00:20:53,160
+different doctors, you start hearing it a lot too. Like it seems like a lot of doctors have
+
+226
+00:20:53,160 --> 00:20:58,120
+at least suspected there's a problem or have similar stories as you talk about. I know
+
+227
+00:20:58,120 --> 00:21:02,840
+certainly in Katherine Eben's book, Bottle of Lies, she talks to a couple of different doctors
+
+228
+00:21:02,840 --> 00:21:07,960
+from the Cleveland Clinic that have seen it in your heart failure medications and diuretics.
+
+229
+00:21:08,520 --> 00:21:13,480
+And it's very hard to actually pinpoint the exact problem and nobody's really looking and
+
+230
+00:21:13,480 --> 00:21:19,160
+analyzing. So what we thought in the beginning was at the very least in certain key areas,
+
+231
+00:21:19,960 --> 00:21:26,360
+like antiepileptic drugs, like antidepressants and various others that are very big markets,
+
+232
+00:21:26,360 --> 00:21:31,080
+and a lot of people seeing these issues, that at the very least there we could have a lot of
+
+233
+00:21:31,080 --> 00:21:37,800
+impact and start looking. But to answer your question, did we think the problem would be as
+
+234
+00:21:37,800 --> 00:21:44,200
+pervasive as we're already seeing? I don't think we quite predicted just how much we'd be finding
+
+235
+00:21:44,200 --> 00:21:50,920
+and how quickly and how the engagement of all this has just really, really increased in certainly in
+
+236
+00:21:50,920 --> 00:21:57,240
+the last few years. But if you look at it, there is a huge problem with well butrin and pubropion
+
+237
+00:21:57,240 --> 00:22:04,680
+back in the late 2000s, 2007, 2008. There's a lot of these cases that have happened. And I think
+
+238
+00:22:04,680 --> 00:22:09,400
+a big part of what we set out to do and what we're actually hearing from these doctors now
+
+239
+00:22:10,120 --> 00:22:14,760
+is that there really just wasn't much that a doctor could do. It's either brand or generic.
+
+240
+00:22:14,760 --> 00:22:20,680
+Brand you tend to trust more, but can't obviously afford very often. And then you have generic
+
+241
+00:22:20,760 --> 00:22:26,840
+that there's less and less trust in, but you can afford and essentially set out to create a
+
+242
+00:22:26,840 --> 00:22:33,800
+validated generic. So something that has actual chemical validation behind it. And you can still
+
+243
+00:22:33,800 --> 00:22:38,840
+afford same price as generic that you'd be buying anywhere else. Was the business model, and more
+
+244
+00:22:38,840 --> 00:22:44,680
+importantly, I guess your hypothesis that this was a problem confined to the generic market? Or did
+
+245
+00:22:44,680 --> 00:22:50,040
+you also intend to check branded drugs? And did you by extension, then assume that brand it's
+
+246
+00:22:50,040 --> 00:22:54,760
+could be susceptible to the same problems? I think that the general thesis was that this
+
+247
+00:22:54,760 --> 00:23:00,760
+is probably worse in generics than in brand. However, we had nothing to really back that up.
+
+248
+00:23:00,760 --> 00:23:06,440
+And obviously, the data just didn't exist, period for these kinds of things. So our intention was
+
+249
+00:23:06,440 --> 00:23:11,160
+always to say, we don't know exactly where these problems are gonna be from. And we're not going to
+
+250
+00:23:11,160 --> 00:23:17,000
+make any assumptions ahead of time. Just everything needs to be independently tested at the end of the
+
+251
+00:23:17,000 --> 00:23:22,280
+supply chain before a patient gets it. And David, one last question really, and as far as background
+
+252
+00:23:22,280 --> 00:23:25,800
+goes, you've alluded to the fact that you have a scientific background, but specifically, what is
+
+253
+00:23:25,800 --> 00:23:30,440
+it about your background that allowed you to come into this space and actually innovate?
+
+254
+00:23:30,440 --> 00:23:37,000
+I'm a molecular biologist by training at Yale University. And I spent most of my working time
+
+255
+00:23:37,000 --> 00:23:44,520
+in the field of DNA sequencing. So in biotech, essentially developing complex tools for analysis
+
+256
+00:23:44,520 --> 00:23:50,360
+of complex problems. I spent eight years most recently at a company called Ion Torrent, where
+
+257
+00:23:50,360 --> 00:23:56,120
+I was one of the original technology founders there and head of chemistry R&D. And we essentially had
+
+258
+00:23:56,120 --> 00:24:02,120
+this concept that we would sequence DNA on a microchip. It was based on some papers that we
+
+259
+00:24:02,120 --> 00:24:08,280
+spent millions of dollars proving was just noise. But luckily, we had some other ideas in mind and
+
+260
+00:24:08,280 --> 00:24:13,720
+had an amazingly innovative group of people there even early on, that were able to make it work.
+
+261
+00:24:13,720 --> 00:24:19,000
+And Ion Torrent is now the number two DNA sequencing technology in the world. So myself
+
+262
+00:24:19,000 --> 00:24:23,400
+and some of the other key developers, even at Ion Torrent and folks that I've worked with before,
+
+263
+00:24:24,040 --> 00:24:30,120
+I think we're well positioned to develop some new technology, which is, again, how we saw this
+
+264
+00:24:30,120 --> 00:24:35,880
+problem originally being solved is something that we can develop and then just plug into the existing
+
+265
+00:24:35,880 --> 00:24:41,720
+system. And that's what we started off doing, and then brought in some more folks to enable
+
+266
+00:24:41,720 --> 00:24:46,280
+the pharmacy side to work as well. All right, so let's fast forward to a little over a year ago.
+
+267
+00:24:46,280 --> 00:24:51,400
+It's the summer of 2018. I actually get a call from one of my patients, the only one of my patients,
+
+268
+00:24:51,400 --> 00:24:58,760
+who takes a medication called Valsartan, which is a drug called an angiotensin to receptor blocker.
+
+269
+00:24:58,760 --> 00:25:02,600
+It's a drug that we use in certain patients with high blood pressure. And in particular,
+
+270
+00:25:02,600 --> 00:25:07,160
+this is a patient who all the other boxes had been checked. Otherwise, a very healthy guy,
+
+271
+00:25:07,160 --> 00:25:10,760
+but just couldn't get the blood pressure where we wanted it. So here he was taking
+
+272
+00:25:11,480 --> 00:25:14,920
+this medication and he said, Hey, guys, I saw something in the paper today
+
+273
+00:25:15,560 --> 00:25:21,320
+about some of these things being withdrawn. Should I be taking it? Tell me a little bit about that
+
+274
+00:25:21,320 --> 00:25:28,200
+and your involvement in that. So Valsartan and Losartan and various other ARB medications or
+
+275
+00:25:28,200 --> 00:25:33,880
+SARTAN medications that have been recalled over the last year, I think are unfortunately a very
+
+276
+00:25:33,880 --> 00:25:40,600
+clear and visible case of how the system can go wrong and how many cracks there are in it.
+
+277
+00:25:40,600 --> 00:25:46,840
+The fact that this global supply chain is a self-reported, has a lot of visible fraud
+
+278
+00:25:46,840 --> 00:25:52,760
+that's happened in the past. And really what happened with Valsartan was there was a manufacturing
+
+279
+00:25:52,760 --> 00:25:58,200
+change to save some money in China or other places overseas that are making the variety of these
+
+280
+00:25:58,200 --> 00:26:04,520
+different active pharmaceutical ingredients. And by having this manufacturing change,
+
+281
+00:26:04,520 --> 00:26:10,440
+they were creating all sorts of impurities. So these impurities themselves being extremely
+
+282
+00:26:10,440 --> 00:26:15,080
+potent carcinogens, one of them that I'm sure we're going to be talking more about is NDMA,
+
+283
+00:26:15,080 --> 00:26:21,880
+nitrosodimethylamine. It's actually talked about as a probable human carcinogen, but you have to
+
+284
+00:26:21,880 --> 00:26:26,600
+keep in mind that's only because you can't ethically have a study where you give humans
+
+285
+00:26:26,600 --> 00:26:33,160
+a carcinogen. And the data in animals is extremely clear. It's been studied since the 1950s.
+
+286
+00:26:33,720 --> 00:26:40,280
+NDMA is literally one of the best studied, most potent carcinogens known to man. It's actually
+
+287
+00:26:40,280 --> 00:26:45,480
+used as a control to induce cancer in rats. If you're doing a clinical study and want to make
+
+288
+00:26:45,480 --> 00:26:50,600
+absolutely sure that a rat's going to get cancer, you give it NDMA. So this was one of the contaminants
+
+289
+00:26:50,600 --> 00:26:57,400
+that they were creating in this process that they obviously didn't do the proper quality controls
+
+290
+00:26:57,400 --> 00:27:02,920
+that they were reporting to the FDA and went all over the world. And this happened for years.
+
+291
+00:27:02,920 --> 00:27:09,640
+It was only detected years later, I'm sure just kind of randomly. And then as people were looking
+
+292
+00:27:09,640 --> 00:27:14,840
+more into it and then actually overseas countries started recalling it, eventually was also recalled
+
+293
+00:27:14,840 --> 00:27:21,400
+in the United States. And it was obviously a very real problem that even continues today. So we're
+
+294
+00:27:21,400 --> 00:27:27,880
+talking about it in 2018, summer of 2000 teens when it started. The most recent recall in Los
+
+295
+00:27:27,880 --> 00:27:35,160
+Arden, I think was like a week ago. And we're in October, September here of 2019. And this continues
+
+296
+00:27:35,160 --> 00:27:39,400
+to be a pervasive problem. Before we leave this topic and get to what we really want to talk about
+
+297
+00:27:39,400 --> 00:27:44,760
+today, which is Zantac and Renitidine. What is the take on message for patients and physicians
+
+298
+00:27:44,760 --> 00:27:50,120
+either taking or prescribing respectively ARBs, this class of drug?
+
+299
+00:27:50,120 --> 00:27:55,640
+It certainly seems like the problems even there are not over, especially the fact that there's
+
+300
+00:27:55,640 --> 00:28:02,520
+been recent recalls even now. We at Valisher are trying to be very proactive about this whole space.
+
+301
+00:28:02,520 --> 00:28:07,400
+We incorporated this kind of carcinogen analysis earlier this year. I mean, we just launched the
+
+302
+00:28:07,400 --> 00:28:14,760
+pharmacy at the end of 2018. Towards the beginning of 2019, we added nitrosamine assay and
+
+303
+00:28:14,760 --> 00:28:21,240
+incorporated the FDA recommended protocol for analyzing for NDMA and other carcinogens and
+
+304
+00:28:21,240 --> 00:28:28,680
+impurities. And we wanted to not just look where everybody else is looking. We also looked at other
+
+305
+00:28:29,400 --> 00:28:36,280
+seemingly obvious places to look. So when this manufacturing change happened, what the change was
+
+306
+00:28:36,280 --> 00:28:42,280
+is they changed solvents. And they started using this solvent called DMF, dimethylformamide.
+
+307
+00:28:42,280 --> 00:28:48,360
+Can you explain to people, David, what a solvent is and why it's necessary to make a drug or do
+
+308
+00:28:48,360 --> 00:28:54,760
+most organic chemical reactions with solvents? Sure. So a solvent is basically something that
+
+309
+00:28:54,760 --> 00:29:00,360
+you're dissolving different components of chemistry into in order to make a reaction. You can think of
+
+310
+00:29:00,360 --> 00:29:03,720
+it like cooking. If you're gonna make a soup and you want a whole bunch of things in it,
+
+311
+00:29:03,720 --> 00:29:08,760
+your solvent is essentially water. Or even if you're cooking an egg, for example, there's so
+
+312
+00:29:08,760 --> 00:29:14,840
+many different ways to cook the egg. But if you change your solvent, if you change how you're
+
+313
+00:29:14,840 --> 00:29:19,640
+essentially cooking that egg, although it's still an egg, all sorts of other things can happen. So
+
+314
+00:29:19,640 --> 00:29:25,000
+what they really did in this case of Valsartan was they might have been cooking the egg in water for
+
+315
+00:29:25,000 --> 00:29:29,880
+a long time. And then all of a sudden they decided to switch to oil. If you've ever fried an egg,
+
+316
+00:29:29,880 --> 00:29:35,160
+obviously it tastes different than if you boiled the egg. And those differences are because of all
+
+317
+00:29:35,160 --> 00:29:40,280
+these side reactions and side products that are happening that give it different flavors and all
+
+318
+00:29:40,280 --> 00:29:45,240
+sorts of different properties. But yes, it's still an egg. So they were still making Valsartan the
+
+319
+00:29:45,240 --> 00:29:49,960
+key ingredient they were trying to make. But there's just so much happening on the side that
+
+320
+00:29:49,960 --> 00:29:54,520
+they apparently were not doing the proper controls of trying to find out what's happening there.
+
+321
+00:29:55,160 --> 00:30:02,360
+And NDMA, true that it's hard to look for every possible contaminant that there exists. But again,
+
+322
+00:30:02,360 --> 00:30:07,240
+NDMA has been well studied. It's been talked about as a problem in pharmaceuticals since
+
+323
+00:30:07,240 --> 00:30:14,840
+at least the 70s. So it seemed like a fairly obvious thing to look for. And for us, when we
+
+324
+00:30:14,840 --> 00:30:19,640
+started seeing all this, of course, we were going to look for NDMA and DEA and a few of these other
+
+325
+00:30:19,640 --> 00:30:24,360
+common carcinogens that were being talked about as byproducts of this manufacturing change.
+
+326
+00:30:25,000 --> 00:30:30,120
+But we wanted to also look for this new solvent. I mean, if you're going to cook the egg in oil now,
+
+327
+00:30:30,120 --> 00:30:36,200
+there might also be oil still on that egg. And that solvent that the DMF, Dymethoformamide,
+
+328
+00:30:36,200 --> 00:30:43,640
+is itself a probable human carcinogen. It's in the same class of a carcinogen as NDMA. And this is
+
+329
+00:30:43,640 --> 00:30:48,280
+a categorization from the World Health Organization and the International Organization for the Research
+
+330
+00:30:48,280 --> 00:30:54,440
+Cancer. So we started looking for that too. And as soon as we started looking, we found it all
+
+331
+00:30:54,440 --> 00:30:59,400
+over Valsartan. We found two thirds of the manufacturers that were making Valsartan that
+
+332
+00:30:59,400 --> 00:31:06,520
+we actually looked at their batches at the time had hundreds of nanograms to over 100,000 nanograms
+
+333
+00:31:07,080 --> 00:31:15,160
+of this DMF contaminant, which is a probable human carcinogen. And so we put together an FDA citizen
+
+334
+00:31:15,160 --> 00:31:21,720
+petition and filed it with the FDA saying, listen, obviously, NDMA is a problem and there's other
+
+335
+00:31:21,720 --> 00:31:26,840
+problems out there that are certainly a good idea to continue looking at. But the solvent itself is
+
+336
+00:31:26,840 --> 00:31:31,240
+carrying over in this system. And whatever these companies are doing to try and clean up their
+
+337
+00:31:31,240 --> 00:31:36,600
+process, they're apparently not even cleaning up the solvent. So it certainly underscores the
+
+338
+00:31:36,600 --> 00:31:40,440
+importance of checking everything and also checking every single batch. I mean, we had
+
+339
+00:31:40,440 --> 00:31:46,840
+manufacturers that were clean sometimes. And then another batch had not only very high levels
+
+340
+00:31:46,840 --> 00:31:55,560
+of DMF even had levels of NDMA that were violating the FDA rules. So it certainly underscores the
+
+341
+00:31:55,560 --> 00:32:00,200
+pervasiveness of the problem and certainly in certain areas. David, some people who are familiar
+
+342
+00:32:00,200 --> 00:32:05,480
+with the biotech industry will have heard a term GMP. Do you want to explain what GMP means and
+
+343
+00:32:05,480 --> 00:32:09,480
+what the implication is for something that's manufactured according to that standard?
+
+344
+00:32:09,480 --> 00:32:15,480
+Yeah, GMP, standing for good manufacturing practices, anything that's under FDA purview
+
+345
+00:32:15,480 --> 00:32:22,920
+that touches the manufacturing process is required to be under GMP. And it's essentially hundreds of
+
+346
+00:32:22,920 --> 00:32:30,600
+documents and systems that are in place in order to make sure that things are very well documented
+
+347
+00:32:30,600 --> 00:32:37,240
+and done consistently and any errors or problems or manufacturing changes like changing over your
+
+348
+00:32:37,240 --> 00:32:43,160
+solvent, checking for contaminants, these kinds of things are all expected to be part of the GMP
+
+349
+00:32:43,160 --> 00:32:50,440
+process. And when you're following the whole GMP system, then it's supposed to catch these kinds of
+
+350
+00:32:50,440 --> 00:32:57,080
+issues. But this is certainly a very robust system. However, it's predicated on the concept
+
+351
+00:32:57,080 --> 00:33:03,400
+that you're going to self-report it to the FDA and that when the FDA comes and inspects, they're
+
+352
+00:33:03,400 --> 00:33:08,360
+going over these documents. They're not checking the chemistry of what's actually in that pill.
+
+353
+00:33:08,360 --> 00:33:13,240
+Is the implication here then that, well, let me just ask the question more directly. Is there any
+
+354
+00:33:13,240 --> 00:33:18,360
+evidence that any of the companies involved in the production of angiotensin receptor blockers,
+
+355
+00:33:18,360 --> 00:33:24,600
+drugs such as Valsartan and Losartan actually were criminally negligent? In other words,
+
+356
+00:33:24,600 --> 00:33:31,320
+saw that their chemical processes yielded molecules that exceeded the acceptable limits
+
+357
+00:33:31,320 --> 00:33:36,760
+of various toxins and failed to report it? Or do you believe the evidence suggests that rather
+
+358
+00:33:36,760 --> 00:33:42,840
+all of this was simply negligence and oversight? Honestly, I haven't looked at that kind of
+
+359
+00:33:42,840 --> 00:33:49,240
+evidence well enough to answer directly. I would say either is certainly possible. It could have
+
+360
+00:33:49,240 --> 00:33:56,280
+been maliciously covered up by a manufacturer or it could just be that they were saving a few pennies
+
+361
+00:33:56,280 --> 00:34:02,600
+per pound of these kinds of solvents and just didn't bother to look. I definitely don't have
+
+362
+00:34:02,600 --> 00:34:06,840
+that answer. I don't want to get too far down this rabbit hole because like I said, what I really
+
+363
+00:34:06,840 --> 00:34:11,560
+want to talk about is the most timely issue here, which is the Renidin and Zantec one. So I apologize.
+
+364
+00:34:11,560 --> 00:34:16,680
+I keep saying we'll get to it. And maybe we can park this question, but it's a broader one which
+
+365
+00:34:16,680 --> 00:34:25,640
+says, why do we have the FDA if not to do this? If not to be the one to ensure that every pill
+
+366
+00:34:25,640 --> 00:34:32,280
+that goes in a person's body comes from a batch that has a certificate that demonstrates not only
+
+367
+00:34:32,280 --> 00:34:38,600
+what's in it, but what's not in it. Yeah, look, what the FDA is there to do is a lot of things.
+
+368
+00:34:38,600 --> 00:34:43,080
+I know we're talking a lot about the oversight of drugs that are already in the market. Obviously,
+
+369
+00:34:43,080 --> 00:34:48,360
+a lot of what the FDA is doing is looking at new drugs and a billion dollars that goes into
+
+370
+00:34:48,360 --> 00:34:54,360
+developing something new. I think the bottom line is that with limited resources, there's only so
+
+371
+00:34:54,440 --> 00:35:01,640
+much you can do. And a lot of what the FDA oversight is about is going through that GMP process and
+
+372
+00:35:01,640 --> 00:35:07,960
+looking over a bunch of paperwork that's being self-reported by the industry. And that obviously
+
+373
+00:35:07,960 --> 00:35:14,760
+has limitations, which honestly, the FDA itself admits in a 2015 white paper direct from the FDA.
+
+374
+00:35:15,480 --> 00:35:21,560
+A, they're saying there's an unacceptably high occurrence of problems. And B, the FDA was saying
+
+375
+00:35:21,560 --> 00:35:25,720
+that there's no formal means for quality surveillance except through inspections.
+
+376
+00:35:26,360 --> 00:35:31,320
+And inspection findings have not been a reliable predictor of the state of quality.
+
+377
+00:35:31,320 --> 00:35:38,280
+Those are pretty much direct quotes. So we at Valisher and the original founders saw this as
+
+378
+00:35:39,000 --> 00:35:44,440
+further underscoring of industry should be stepping in and doing more. Why don't we actually
+
+379
+00:35:44,440 --> 00:35:48,760
+analyze every single batch at the end of the supply chain? FDA doesn't seem to have the
+
+380
+00:35:48,760 --> 00:35:53,480
+resources to be able to do something like that. But in the core of a new business model with some
+
+381
+00:35:53,480 --> 00:35:57,960
+new technology and everything else, so we thought we could do it. There's more I want to talk about
+
+382
+00:35:57,960 --> 00:36:01,480
+on that front, but I think I'm going to save it until we get to the end of our discussion. So let's
+
+383
+00:36:01,480 --> 00:36:06,920
+start talking about this drug Zantac. So Zantac, the generic name for that is Renitidine has been
+
+384
+00:36:06,920 --> 00:36:10,520
+around for quite some time. I can't tell you how long it's been, but I certainly know it's been
+
+385
+00:36:10,520 --> 00:36:16,280
+more than 20 years because it was among one of the most commonly prescribed drugs that I would have
+
+386
+00:36:16,280 --> 00:36:23,000
+written prescriptions for for patients in medical school. It's an H2 blocker, which means that's one
+
+387
+00:36:23,000 --> 00:36:28,360
+of there are three ways that you can reduce the acid secreted by the stomach. And this is one of
+
+388
+00:36:28,360 --> 00:36:34,760
+those ways is you can actually block the H2 receptor on the type of gastric cell that makes
+
+389
+00:36:34,760 --> 00:36:39,640
+hydrochloric acid. And therefore it became a very popular drug, not just for people with heartburn,
+
+390
+00:36:39,640 --> 00:36:44,360
+but more importantly, or at least as importantly, I suppose, even patients who didn't have heartburn
+
+391
+00:36:44,360 --> 00:36:50,120
+who were undergoing hospitalization in whom one needed to reduce the burden of insult to their
+
+392
+00:36:50,120 --> 00:36:56,840
+gastric lining. So I don't even have the stats on how many people take Renitidine or Zantac in the
+
+393
+00:36:56,840 --> 00:37:04,280
+United States. Do you know those numbers, David? The prescription Renitidine in 2016 was roughly
+
+394
+00:37:04,280 --> 00:37:11,640
+15 million. I was in the top 50 most prescribed drugs. And obviously that's certainly a small
+
+395
+00:37:11,640 --> 00:37:17,960
+percentage of the overall use being that it's largely used over the counter by the brand Zantac
+
+396
+00:37:17,960 --> 00:37:24,520
+or other various generics, practically any pharmacy that you used to go to, it's not there anymore.
+
+397
+00:37:24,520 --> 00:37:29,320
+But pretty much every pharmacy had their own versions and is one of the most common over the
+
+398
+00:37:29,320 --> 00:37:34,360
+counter medications used certainly by millions of Americans and folks over the world. Yeah,
+
+399
+00:37:34,360 --> 00:37:39,240
+I've been fortunate in my life to not have heartburn more than twice a year. But those two times a
+
+400
+00:37:39,240 --> 00:37:44,200
+year, I sure took myself some Renitidine. One other thing to mention there that was certainly
+
+401
+00:37:44,200 --> 00:37:50,360
+of particularly high concern to us is that the safety profile of Renitidine was considered so high
+
+402
+00:37:51,160 --> 00:37:58,920
+that is one of the only drugs prescribed to women while they were pregnant and given to infants for
+
+403
+00:37:58,920 --> 00:38:05,800
+similar stomach issues. Yes, my third child had reflux and he took a little liquid elixir of
+
+404
+00:38:05,800 --> 00:38:11,240
+Renitidine for about three months when he was little. And I also remember from doing my rotation
+
+405
+00:38:11,240 --> 00:38:17,800
+in pediatrics, that was not an uncommon thing to do. So tell me how you became interested in
+
+406
+00:38:17,800 --> 00:38:25,000
+Renitidine. In early 2019, when we're obviously responding to all these issues, as we've just
+
+407
+00:38:25,000 --> 00:38:30,680
+talked about with Valsartan and other of these blood pressure medications that had these carcinogen
+
+408
+00:38:30,680 --> 00:38:38,760
+issues, it was obvious that we needed to incorporate that technology and then be proactive
+
+409
+00:38:38,760 --> 00:38:44,440
+as we talked about, not just look for NDMA and the standard carcinogens that others were looking for,
+
+410
+00:38:44,440 --> 00:38:51,480
+but look for other common sense molecules and carcinogens at the same time, but also the same
+
+411
+00:38:51,480 --> 00:38:56,600
+time, not just look at the blood pressure medications. So our whole concept, of course,
+
+412
+00:38:56,600 --> 00:39:02,920
+in Valsartan is analyzing from every single batch of every single medication. And ironically,
+
+413
+00:39:02,920 --> 00:39:08,040
+Renitidine was pretty high in our list to go through the system because that same friend of
+
+414
+00:39:08,040 --> 00:39:13,320
+mine, Adam, his infant daughter also got a prescription for that elixir of Renitidine,
+
+415
+00:39:13,320 --> 00:39:20,360
+the syrup form. And as soon as we put it through the machine, following the standard FDA protocol
+
+416
+00:39:20,360 --> 00:39:28,120
+at the time, we were just floored by the results. It didn't seem possible what we were seeing on the
+
+417
+00:39:28,120 --> 00:39:35,880
+machine. And obviously we ran it a few more times and just consistently seeing millions of nanograms,
+
+418
+00:39:35,880 --> 00:39:42,600
+a detection of millions when the FDA maximum permissible exposure to NDMA is 96.
+
+419
+00:39:43,320 --> 00:39:49,240
+And again, there's no safe level of this kind of carcinogen. The ideal level is zero. And we were
+
+420
+00:39:49,320 --> 00:39:53,720
+seeing millions and that's how this all started. At some point, I'm sure it crosses your mind.
+
+421
+00:39:53,720 --> 00:40:01,000
+There's a mistake here. It's one thing if the FDA limit is 96, you're consistently seeing 100 to 110,
+
+422
+00:40:01,000 --> 00:40:07,160
+but you're seeing five logarithms higher than an FDA limit. What's your self audit on that?
+
+423
+00:40:07,160 --> 00:40:13,800
+Gut reaction right away being a scientist is that something went wrong. Something got in there or who
+
+424
+00:40:13,880 --> 00:40:20,600
+knows? Control went wrong perhaps and contaminated the column. The machines themselves we're talking
+
+425
+00:40:20,600 --> 00:40:26,760
+about don't get data wrong. I mean, these are forensic level machines. The machine specifically
+
+426
+00:40:26,760 --> 00:40:33,000
+is called a GCMS, a gas chromatography mass spectrometer. It's been the gold standard for
+
+427
+00:40:33,000 --> 00:40:40,600
+this kind of impurity analysis for decades, over 50 years. And so you start looking for
+
+428
+00:40:40,600 --> 00:40:46,360
+potentially human error or anything else. And I went to our chief scientific officer who brought
+
+429
+00:40:46,360 --> 00:40:51,400
+this obviously straight to my desk. Let's look through this system. Let's clean it. Let's run
+
+430
+00:40:51,400 --> 00:40:56,600
+it again. Let's run more controls. And we kept rerunning it and rerunning it and seeing the same
+
+431
+00:40:56,600 --> 00:41:01,320
+thing. It was very odd, but the other thing that we did at the same time was starting to look at
+
+432
+00:41:01,320 --> 00:41:08,280
+the literature. I mean, this is such an extreme finding. Five logarithms higher, five orders of
+
+433
+00:41:08,280 --> 00:41:15,480
+magnitude higher than what is even still not a good place to be. We started reading about this
+
+434
+00:41:15,480 --> 00:41:21,480
+and there's been literature about it for 37 years. So you're talking about it being out at least 20.
+
+435
+00:41:21,480 --> 00:41:27,160
+The molecule was approved in 1981. The first studies that came out that started raising
+
+436
+00:41:27,160 --> 00:41:33,240
+concerns about NDMA and Renidin were published in 1982. It wasn't approved in the United States till
+
+437
+00:41:33,240 --> 00:41:42,360
+1983. And there was literally decades of studies about the instability of the Renidin molecule.
+
+438
+00:41:42,360 --> 00:41:47,800
+There's 17 years of research in the United States over the potential of Renidin getting into the
+
+439
+00:41:47,800 --> 00:41:53,400
+water supply and then forming NDMA and drinking water. And they showed all sorts of instabilities
+
+440
+00:41:53,400 --> 00:41:59,000
+in the molecule, reactions with chlorine, with ozone, with all these components that happen in
+
+441
+00:41:59,000 --> 00:42:03,800
+wastewater treatment plants, which are pretty much benign for anything else. And that's when
+
+442
+00:42:03,800 --> 00:42:08,360
+we also kind of came to the conclusion, well, actually, if it's such an amazingly unstable
+
+443
+00:42:08,360 --> 00:42:13,800
+molecule, perhaps it's just even breaking down in the machinery that's meant to test these kinds
+
+444
+00:42:13,800 --> 00:42:19,880
+of medications. So does this mean that you were more leaning to the idea that this was not an
+
+445
+00:42:19,880 --> 00:42:25,320
+issue specific to a particular drug, meaning to a particular manufacturer, but rather to the drug? So
+
+446
+00:42:25,320 --> 00:42:31,000
+when you looked at the first sample where you see a million nanograms per dose, did I hear you
+
+447
+00:42:31,000 --> 00:42:36,120
+correctly? A million nanograms in a dose? We were actually seeing between two and three million.
+
+448
+00:42:36,120 --> 00:42:43,000
+Okay. I'm guessing the first call you make once you decide this isn't a human error is somebody go
+
+449
+00:42:43,000 --> 00:42:51,800
+and get me branded Zantac. You got to think that this is a contaminant from the shady manufacturer
+
+450
+00:42:51,800 --> 00:42:56,920
+of this generic. You got it exactly correct. At the same time as we're delving into the literature,
+
+451
+00:42:56,920 --> 00:43:01,240
+we said, okay, this is very odd about whatever was in this particular bottle,
+
+452
+00:43:01,880 --> 00:43:09,240
+but let's just go to all of the local pharmacies around us and buy exactly the brand Zantac. Let's
+
+453
+00:43:09,240 --> 00:43:17,240
+buy all the various pharmacy versions of Renitidine and test them all and get the cool mint version
+
+454
+00:43:17,240 --> 00:43:23,640
+and the standard version and the maximum strength and every single pill of every single
+
+455
+00:43:24,520 --> 00:43:30,360
+manufactured label or wherever it was coming from, including the reference powder. So not only did
+
+456
+00:43:30,360 --> 00:43:35,880
+we check every single bottle that we could get our hands on at the time, we also bought the
+
+457
+00:43:35,880 --> 00:43:42,280
+certified reference powder that's as pure as you possibly can get it to rule out inactive
+
+458
+00:43:42,280 --> 00:43:47,080
+ingredients or any interactions there. And even in the reference powder, we are seeing
+
+459
+00:43:47,880 --> 00:43:53,240
+millions of nanograms of NDMA being detected by this test.
+
+460
+00:43:53,240 --> 00:44:00,440
+Well, that's problematic. I mean, that suggests that let me rather than tell you what I think it
+
+461
+00:44:00,440 --> 00:44:06,440
+suggests, what's your Occam's razor explanation for at that moment? Meaning before you do another
+
+462
+00:44:06,440 --> 00:44:13,720
+assay, what is Occam's razor suggest is happening when branded generics alike are containing
+
+463
+00:44:13,720 --> 00:44:18,680
+millions of nanograms of something that should be completely absent?
+
+464
+00:44:18,680 --> 00:44:23,560
+I love Occam's razor and Occam's rater specifically said it's a problem with the drug.
+
+465
+00:44:23,560 --> 00:44:29,720
+Everybody's head has always been in this Valsartan and contamination and bad generics overseas and
+
+466
+00:44:29,720 --> 00:44:36,200
+these kinds of things which are a problem too, but this was a problem must be just a totally
+
+467
+00:44:36,200 --> 00:44:43,560
+different level as in the drug itself is just so incredibly unstable and not just unstable
+
+468
+00:44:43,560 --> 00:44:50,360
+in terms of, okay, maybe you're going to get a less potent pill. It's directly forming NDMA,
+
+469
+00:44:50,360 --> 00:44:57,000
+the extremely potent carcinogen. And actually, one of the reasons that the specific data around
+
+470
+00:44:57,000 --> 00:45:02,360
+these millions of nanograms was so important, regardless of the conditions and that's now
+
+471
+00:45:02,360 --> 00:45:09,880
+becoming one of the discussion points, is that there's no other way to get millions of nanograms,
+
+472
+00:45:09,880 --> 00:45:15,720
+which is milligrams. I mean, these pills are at 75 milligrams, 150 milligrams. So we're seeing
+
+473
+00:45:15,720 --> 00:45:23,400
+milligrams of this carcinogen NDMA. There's no other way that it could be there except if the
+
+474
+00:45:23,400 --> 00:45:29,880
+molecule itself was reacting with itself and forming it. There's no other source of nitrogen
+
+475
+00:45:29,880 --> 00:45:34,840
+for this carcinogen, a very basic organic chemistry. I want to double click on that for
+
+476
+00:45:34,840 --> 00:45:39,000
+the listener who might be misunderstanding what you're saying. This is such an important point
+
+477
+00:45:39,000 --> 00:45:46,520
+that I'm a little floored. So a standard dose of ranitidine is 75 milligrams to 150 milligrams,
+
+478
+00:45:46,520 --> 00:45:54,040
+correct? Correct. Okay. So, and again, just to state this for the record, when you test a, call it 150
+
+479
+00:45:54,120 --> 00:46:05,240
+milligram tablet of ranitidine, you could discover, call it 1.5 million nanograms of NDMA. Yes? At least.
+
+480
+00:46:05,240 --> 00:46:11,320
+Right. Which I didn't write it down, but I think that 1.5 million nanograms is 1.5 milligrams,
+
+481
+00:46:11,320 --> 00:46:20,040
+right? Correct. Okay. So that means 1%, one full percent of the supposedly active drug you're
+
+482
+00:46:20,040 --> 00:46:24,120
+getting is a potential carcinogen. And by the way, I want to come back to understanding the
+
+483
+00:46:24,120 --> 00:46:29,320
+carcinogenic nature of NDMA, but let's park that for a moment. What you're saying is just at a mass
+
+484
+00:46:29,320 --> 00:46:37,160
+balance level, the only way you could get enough organic building block inclusive of nitrogen to
+
+485
+00:46:37,160 --> 00:46:43,000
+make NDMA is if you're taking some of it from the ranitidine, meaning it has to be an almost
+
+486
+00:46:43,000 --> 00:46:50,920
+decay or chemical reaction of the drug itself. Is that correct? Exactly. Exactly. And from a
+
+487
+00:46:50,920 --> 00:46:57,160
+chemistry perspective, that's extremely concerning. And I'll say one thing also that makes it actually
+
+488
+00:46:57,160 --> 00:47:05,080
+10 times worse is that the NDMA molecule is a lot smaller or lighter than the ranitidine molecule.
+
+489
+00:47:05,640 --> 00:47:12,600
+So the molar conversion or the conversion of a ranitidine molecule into an NDMA molecule
+
+490
+00:47:12,600 --> 00:47:18,680
+is actually even more efficient than that 1%. The numbers are suggesting 10% or so conversion
+
+491
+00:47:19,560 --> 00:47:26,120
+of the ranitidine molecule into NDMA in an incredibly short period of time.
+
+492
+00:47:26,760 --> 00:47:34,680
+So what we're talking about in terms of this GCMS analysis is the way that it pretty much works is
+
+493
+00:47:34,680 --> 00:47:40,360
+you have this vial where we have a pill in it and some solvent. And then it goes into an oven,
+
+494
+00:47:40,440 --> 00:47:46,200
+chromatography oven, where it's being heated up and then you sample the gas and run it through a
+
+495
+00:47:46,200 --> 00:47:50,360
+column and then run it through a mass spec. Long story short, you need to heat it up for a little
+
+496
+00:47:50,360 --> 00:47:57,080
+bit to capture as many molecules as you can that's coming off and NDMA is a very volatile molecule.
+
+497
+00:47:57,080 --> 00:48:03,800
+It goes into the gas. It's 15 minutes. So it spends 15 minutes at 130 degrees Celsius,
+
+498
+00:48:03,800 --> 00:48:08,680
+which is benign for practically any other drug that we're looking at and is part of the FDA
+
+499
+00:48:08,680 --> 00:48:16,040
+standard protocol. And for just these 15 minutes, which in the chemistry world, there's very rarely
+
+500
+00:48:16,040 --> 00:48:20,280
+do you have such a short reaction. That's like cooking a scrambled egg or cooking a fried egg
+
+501
+00:48:20,280 --> 00:48:25,880
+in 10 minutes. That's pretty low temp. Exactly. And usually if you're doing serious chemistry in
+
+502
+00:48:25,880 --> 00:48:31,880
+a chemistry lab, you leave it for hours or days and sometimes it requires weeks, but 15 minutes
+
+503
+00:48:31,880 --> 00:48:39,320
+of exposure and you're getting at around a 10% conversion into NDMA. That's incredible instability.
+
+504
+00:48:39,320 --> 00:48:45,640
+And again, the reason you're saying 10% for the listener is even though it's 1% by mass on a
+
+505
+00:48:45,640 --> 00:48:52,040
+molar basis, the way we actually count molecules, it's much greater. Correct. Let's pause for a moment
+
+506
+00:48:52,040 --> 00:48:56,760
+and talk about NDMA. I certainly have a lot of questions about this. You've already stated the
+
+507
+00:48:56,760 --> 00:49:03,240
+formal name of the molecule. How big a molecule is it? It's just a few atoms, right? It's a couple
+
+508
+00:49:03,800 --> 00:49:09,160
+nitrogens and carbon and I don't have the molecular weight in front of me, but it's pretty small.
+
+509
+00:49:09,160 --> 00:49:13,720
+It's a tiny little thing. Yeah. NDMA is cataracts is a small molecule. It's particularly small,
+
+510
+00:49:13,720 --> 00:49:19,880
+even among small molecules. What is the mechanism by which it causes cancer in animal models?
+
+511
+00:49:19,880 --> 00:49:26,920
+Yeah. NDMA basically sticks to DNA. It sticks to DNA. It modifies what it calls alkalates it.
+
+512
+00:49:26,920 --> 00:49:33,880
+It also oxidizes it. Long story short, it's very bad for your DNA and by modifying the DNA is what
+
+513
+00:49:33,880 --> 00:49:38,520
+causes cancers. Yeah. Sticking to DNA is not the worst thing in the world. I mean, methyl groups
+
+514
+00:49:38,520 --> 00:49:43,800
+stick to DNA all the time and that's called epigenetic modification, which can be quite bad,
+
+515
+00:49:43,800 --> 00:49:49,640
+but can also be completely inert and in some cases can be good, but this isn't just sticking to it.
+
+516
+00:49:49,640 --> 00:49:55,080
+It's changing the structure in the DNA in such a way that, well, presumably if it's a carcinogen,
+
+517
+00:49:55,080 --> 00:50:00,600
+the definition is it changes the DNA in a way that the DNA in that cell no longer responds
+
+518
+00:50:00,600 --> 00:50:06,120
+to appropriate cell cycle signaling. So now you have growth of a cell that can be unregulated as
+
+519
+00:50:06,120 --> 00:50:12,920
+opposed to regulated. How well is that documented and in what model systems is that documented,
+
+520
+00:50:12,920 --> 00:50:21,640
+both cell type and in vivo versus in vitro? So the background in NDMA goes to at least the 1950s.
+
+521
+00:50:21,640 --> 00:50:28,680
+I'll say that it's extremely well documented in almost every clinical model, obviously other than
+
+522
+00:50:28,680 --> 00:50:36,920
+human in mice, rats, cell assays. It's been heavily, heavily studied for decades. And like I was saying
+
+523
+00:50:36,920 --> 00:50:46,600
+before, and I just studied, but also used actively as a control for inducing cancer in mice and rats.
+
+524
+00:50:46,600 --> 00:50:52,600
+Just to explain to the listener, in vitro means it causes cancer in a petri dish where you take the
+
+525
+00:50:52,600 --> 00:50:57,320
+cells out. And if something does that, that's interesting, but it's a lot more interesting if
+
+526
+00:50:57,320 --> 00:51:02,360
+it can cause cancer inside the animal itself. And that's called in vivo. And that's what you just
+
+527
+00:51:02,360 --> 00:51:08,840
+said. Do you have a sense of what doses are necessary to induce cancer in rats? So this part
+
+528
+00:51:08,840 --> 00:51:15,800
+is also well studied. I don't know the exact dose, but what I can say is that the calculus that the FDA
+
+529
+00:51:15,800 --> 00:51:22,440
+has actually already gone through in terms of its potential effect on humans is based on these exact
+
+530
+00:51:22,440 --> 00:51:29,160
+kinds of animal models and studies. So during all the Valsartan and Losartan issues, one of the
+
+531
+00:51:29,240 --> 00:51:35,240
+statements that came from the FDA was that, well, if somebody had been taking the worst case scenario
+
+532
+00:51:35,240 --> 00:51:40,840
+of what they'd found, which I believe was somewhere around 17,000 nanograms or so of NDMA,
+
+533
+00:51:41,400 --> 00:51:46,760
+taking it consistently for years, there would be one additional cancer case in 8,000,
+
+534
+00:51:47,400 --> 00:51:53,080
+which may sound like a low number, but when you multiply that by the millions of people taking it,
+
+535
+00:51:53,080 --> 00:51:59,000
+there's still thousands of cancer cases that shouldn't have been. Obviously, there should be
+
+536
+00:51:59,000 --> 00:52:05,320
+zero cancer cases that come from carcinogens in your medications. And if you ask me, I'd say that
+
+537
+00:52:05,320 --> 00:52:11,560
+number is concerning period to have thousands of cancer cases. So those animal models are actually
+
+538
+00:52:11,560 --> 00:52:17,960
+used to at least make a best guess on what would happen in a human. And again, this is also best
+
+539
+00:52:17,960 --> 00:52:22,920
+guess. It could be worse or could be better. It's obviously not something you can test and to
+
+540
+00:52:22,920 --> 00:52:29,160
+actually put inside humans. But that doesn't seem nearly as high as some of the other carcinogens
+
+541
+00:52:29,160 --> 00:52:34,280
+that we would expect. I mean, there are other carcinogens that are used in laboratory testing
+
+542
+00:52:34,280 --> 00:52:41,080
+that are guaranteed to cause cancer. Is the difference you think the dose that in the animal
+
+543
+00:52:41,080 --> 00:52:48,120
+studies when such agents are used, they are used at astronomical doses, but not the same here. I
+
+544
+00:52:48,120 --> 00:52:52,440
+mean, I'm going to tell you where I'm going with my question in a moment so that you can think about
+
+545
+00:52:52,440 --> 00:52:58,760
+it as you answer this question, which is when you look at the ubiquity of Zantac use, the question
+
+546
+00:52:58,760 --> 00:53:04,760
+is going to be where are the body bags associated with Zantac? So before we answer that question,
+
+547
+00:53:05,320 --> 00:53:10,440
+let's try to tease this idea out a bit more if you don't mind. Sure. Definitely when you'd be
+
+548
+00:53:11,240 --> 00:53:18,520
+doing a study with mice or rats and you're trying to get them to have cancer, the dosage that those
+
+549
+00:53:18,520 --> 00:53:23,640
+animals are getting is going to be much higher than these trace amounts that are being found in the
+
+550
+00:53:23,640 --> 00:53:31,480
+medications like Valsartan. I don't know exactly what those dosages are, but I could imagine they're
+
+551
+00:53:31,480 --> 00:53:37,880
+in the milligrams. Interesting. So let's now talk about this epidemiologic question. I'm not a big
+
+552
+00:53:37,960 --> 00:53:45,640
+fan of epidemiology in general. I've railed on epidemiology when it comes to nutrition, exercise,
+
+553
+00:53:45,640 --> 00:53:52,040
+so many things, which is not to say I think it is of no value, but I think one has to be very careful,
+
+554
+00:53:52,040 --> 00:53:59,160
+especially when you see weak hazard ratios and try to infer causality. So when you see a hazard
+
+555
+00:53:59,240 --> 00:54:09,000
+ratio of 1.17, meaning there's a 17% increase in relative risk when exposed to X, and X can be
+
+556
+00:54:09,000 --> 00:54:14,520
+something you eat or something else, I generally have a hard time with those things. And if that
+
+557
+00:54:14,520 --> 00:54:20,440
+is a statistically significant hazard ratio, it will have a confidence interval that is well north
+
+558
+00:54:20,440 --> 00:54:25,320
+of one. So the 95 confidence interval will not include the number one. That's how we statistically
+
+559
+00:54:25,320 --> 00:54:30,520
+get that. But I find epidemiology can be especially helpful when it's not there. In other words,
+
+560
+00:54:30,520 --> 00:54:37,240
+when epidemiology says there's no association between X and Y, it becomes a lot easier to say
+
+561
+00:54:37,880 --> 00:54:44,120
+there's much less likelihood that there's a causal relationship between X and Y. So again, when you
+
+562
+00:54:44,120 --> 00:54:52,280
+consider the ubiquity in size, 15 million prescriptions a year plus I would say easily
+
+563
+00:54:52,280 --> 00:54:57,880
+three times that in over the counter use. So let's just call it 60 million dispensed
+
+564
+00:54:58,440 --> 00:55:06,120
+Zantex over the counter for almost 40 years. If NDMA is problematic, there should be a good
+
+565
+00:55:06,120 --> 00:55:10,680
+collection of body bags, shouldn't there? Definitely possible. And when we were putting
+
+566
+00:55:10,680 --> 00:55:16,920
+the FDA citizen petition together that we filed, we tried hard to look up. There are these
+
+567
+00:55:16,920 --> 00:55:24,920
+epidemiological studies and we found one from 2004 published by the National Cancer Institute
+
+568
+00:55:24,920 --> 00:55:29,800
+where they looked at the anti-acids at the time, the prescription anti-acids at the time when the
+
+569
+00:55:29,800 --> 00:55:38,440
+study started in 1986, I believe. And they found a link to bladder cancer when looking at those
+
+570
+00:55:38,440 --> 00:55:43,960
+anti-acids, which were both reninidine and submittidine at the time. And so it's kind of
+
+571
+00:55:43,960 --> 00:55:49,000
+as far as epidemiology goes, obviously you want to look at the individual drugs, not have them
+
+572
+00:55:49,000 --> 00:55:54,600
+lumped together. But that was particularly concerning for us thinking about another study
+
+573
+00:55:54,600 --> 00:56:02,280
+that was done by Stanford University and published in 2016, which was the only clinical study that we
+
+574
+00:56:02,280 --> 00:56:08,760
+could find where somebody actually gave people a pill of Zantac and they found over 40,000
+
+575
+00:56:08,760 --> 00:56:14,520
+nanograms of NDMA in their urine. So we may want to talk more about that in a second, but to
+
+576
+00:56:14,520 --> 00:56:19,640
+answer your question about epidemiology is essentially, it was just so assumed that this
+
+577
+00:56:19,640 --> 00:56:23,800
+is such an incredibly safe drug that at least as far as we could find that there just wasn't much
+
+578
+00:56:23,800 --> 00:56:30,680
+of that study out there. However, we have been working with a number of folks at Memorial Sloan
+
+579
+00:56:30,680 --> 00:56:36,520
+Kettering Cancer Center and there's been for at least a few months now a lot of efforts led by
+
+580
+00:56:36,520 --> 00:56:42,840
+Leore Bronstein to look into exactly that question. I mean, obviously, as you know, to do
+
+581
+00:56:42,840 --> 00:56:48,680
+a full breadth epidemiological study, I mean, these can take years, but we are looking forward
+
+582
+00:56:48,680 --> 00:56:54,920
+to hopefully get the initial results from Leore Bronstein and his team as soon as we can get them
+
+583
+00:56:54,920 --> 00:56:59,400
+published in a journal. And so what it really suggests is if there is an increase in the risk
+
+584
+00:56:59,400 --> 00:57:05,720
+of human cancers from the use of this, it's not going to be a la smoking. I mean, it's important,
+
+585
+00:57:05,720 --> 00:57:10,680
+I think, for people to understand the magnitude of risk here. In the case of cigarettes and lung
+
+586
+00:57:10,680 --> 00:57:17,240
+cancer, the hazard ratios, depending on the epidemiologic studies that were done, I think
+
+587
+00:57:17,240 --> 00:57:23,000
+they varied somewhere between 8x and 14x. And I could be off by a little bit, but I'm not off by
+
+588
+00:57:23,000 --> 00:57:29,640
+much. So what that means is if you smoke, if you reach a certain dose threshold of cancers,
+
+589
+00:57:29,640 --> 00:57:37,160
+your risk of lung cancer is somewhere between 800 and 1400 times higher than a non-smoker.
+
+590
+00:57:37,160 --> 00:57:42,200
+In the words of one of my good friends who's almost assuredly paraphrasing someone else,
+
+591
+00:57:42,200 --> 00:57:47,080
+when you don't need statistics to see the answer, that's usually a scary thing. And that was
+
+592
+00:57:47,080 --> 00:57:53,080
+certainly one of the cases. You didn't need complicated statistical models to tease out
+
+593
+00:57:53,080 --> 00:58:00,120
+the relationship between tobacco and lung cancer. Now, that does not mean, because Zantac obviously
+
+594
+00:58:00,120 --> 00:58:05,000
+doesn't fit that. I mean, I just I can't imagine we wouldn't see some signal, but it could have a
+
+595
+00:58:05,000 --> 00:58:11,480
+hazard ratio of two, meaning it could double your risk of a cancer. And because it's so ubiquitous,
+
+596
+00:58:11,480 --> 00:58:19,320
+and if it's doubling a cancer that is itself ubiquitous, that's the fear. Let me explain why
+
+597
+00:58:19,320 --> 00:58:25,320
+to the listener, because obviously you would get this, David. The reason that lung cancer was easy
+
+598
+00:58:25,320 --> 00:58:32,680
+to spot from smoking is lung cancer, absent smoking is quite rare. So epidemiology is at its finest
+
+599
+00:58:32,680 --> 00:58:38,840
+when the signal is huge, and the thing you're studying is unusual. And that's why I believe
+
+600
+00:58:38,840 --> 00:58:44,520
+epidemiology is almost as useful as a warm bucket of hamster vomit when it comes to studying
+
+601
+00:58:44,520 --> 00:58:49,960
+nutrition, because when we study nutrition, we're interested in the diseases of civilization,
+
+602
+00:58:49,960 --> 00:58:55,720
+diabetes, obesity, and things like that. But the problem is those things are so ubiquitous. I mean,
+
+603
+00:58:55,720 --> 00:59:00,760
+there are so much of those things that it's very difficult to pick up signals associated with
+
+604
+00:59:00,760 --> 00:59:06,040
+lifestyle factors. So I guess what I'm trying to get at and feel free to disagree with me, I'd like
+
+605
+00:59:06,040 --> 00:59:12,040
+for you to disagree or refine my thinking, but I'm trying to make sense of this on two levels. One,
+
+606
+00:59:12,040 --> 00:59:18,120
+how big a problem is this? And two, what are our blind spots? I think you're basically saying we
+
+607
+00:59:18,120 --> 00:59:22,040
+don't know how big a problem this is, and that's the fair answer, because the study hasn't been
+
+608
+00:59:22,040 --> 00:59:26,600
+done. We haven't looked at the cases and the controls, meaning the people who have taken it
+
+609
+00:59:26,600 --> 00:59:31,320
+and the people who haven't. But the magnitude problem and the blind spot problem really come
+
+610
+00:59:31,320 --> 00:59:36,600
+down to we will not know the answer until we figure out which type of cancers, because if it
+
+611
+00:59:36,680 --> 00:59:42,040
+increases the risk of a very rare cancer, I suspect it would have shown up. I just think
+
+612
+00:59:42,680 --> 00:59:47,720
+if there was a huge uptick from 1980 until today of some very rare cancer,
+
+613
+00:59:48,600 --> 00:59:53,800
+that would be a lot easier to point to an environmental contaminant such as a drug.
+
+614
+00:59:54,360 --> 01:00:00,760
+But if it's increasing the risk of breast cancer and prostate cancer, which are large cancers to
+
+615
+01:00:00,760 --> 01:00:05,080
+begin with, it would be harder. Do you agree with my assessment? I know you're not an epidemiologist,
+
+616
+01:00:05,080 --> 01:00:07,960
+but you're a clever guy and you've thought a lot about this, and you've thought about it
+
+617
+01:00:07,960 --> 01:00:13,000
+more than I have. Well, I think it's going to be a very interesting conversation to get back to
+
+618
+01:00:13,000 --> 01:00:19,880
+when the results are published. And I will say that the big problem I think that's certainly
+
+619
+01:00:19,880 --> 01:00:25,160
+underscored with this runitidine issue is that just nobody was looking. You could argue that
+
+620
+01:00:25,160 --> 01:00:29,880
+how would they have known where to look, which I can also point towards lots of
+
+621
+01:00:30,520 --> 01:00:36,360
+studies and information of should have been looking at NDMA. But nobody was obviously looking
+
+622
+01:00:36,360 --> 01:00:41,160
+for the NDMA before, and nobody's been looking at the epidemiology before. There have been a number
+
+623
+01:00:41,160 --> 01:00:46,840
+of rare cancers that have gone up that have been unexplained, some of them starting in the 1980s.
+
+624
+01:00:47,480 --> 01:00:53,000
+So let's defer that question for when there's more data, of course. And then I think this is
+
+625
+01:00:53,640 --> 01:00:59,640
+this is something that is going to take years to really get down to what is the total impact for
+
+626
+01:00:59,640 --> 01:01:07,000
+real. But I can't imagine it's going to be zero. And anything greater than zero multiplied by the
+
+627
+01:01:07,000 --> 01:01:13,640
+millions of people taking it for 40 years nearly is a tragedy. Especially when you consider that
+
+628
+01:01:13,640 --> 01:01:19,160
+there are no shortage of substitutes that are equally efficacious, if not better. I mean, that
+
+629
+01:01:19,160 --> 01:01:24,600
+I think comes down to it's one thing if this were the only drug out there that could treat
+
+630
+01:01:24,600 --> 01:01:30,840
+patients with HIV, in which case you have to weigh out the benefits of a drug versus the costs. But
+
+631
+01:01:30,840 --> 01:01:36,120
+when we're talking about reducing gastric acid, which again, there are more drugs in that category
+
+632
+01:01:36,120 --> 01:01:41,000
+than I can certainly count, it begs the question why. Now, I want to go back to something you said.
+
+633
+01:01:41,000 --> 01:01:47,560
+So you brought up the study by Zeng and Mitch in 2016 at Stanford. I never heard of that study
+
+634
+01:01:47,560 --> 01:01:53,960
+until I started looking into this Zantac Ranitidine story. Presumably you hadn't either
+
+635
+01:01:53,960 --> 01:01:59,880
+until you made your discovery and went back. Why did the Zeng and Mitch article not get more
+
+636
+01:01:59,880 --> 01:02:07,000
+attention given the largely accepted carcinogenic nature of NDMA and the, I mean, staggering nature
+
+637
+01:02:07,000 --> 01:02:13,240
+of the study. If I recall the study, one pill, 150 milligrams given to subjects overnight who had been
+
+638
+01:02:13,240 --> 01:02:17,480
+not taking it before and you just collected the urine and you found, I don't know, was it
+
+639
+01:02:17,480 --> 01:02:27,000
+40,000 nanograms of NDMA? Right. Over 40,000 nanograms in urine, which in and of itself sounds
+
+640
+01:02:27,000 --> 01:02:33,960
+really bad and obviously it is, but it's actually at least a hundred times worse because the renal
+
+641
+01:02:33,960 --> 01:02:40,920
+clearance of NDMA, so how much NDMA actually makes it into the urine is that often 1% or less.
+
+642
+01:02:41,560 --> 01:02:48,120
+And that's because NDMA sticks to DNA and your body is full of DNA and it's reacting all over
+
+643
+01:02:48,120 --> 01:02:54,920
+your body. And so very little of it is actually expected to make it to the urine. So really what
+
+644
+01:02:54,920 --> 01:03:02,600
+those results were suggesting is that somewhere around 4 million or millions of nanograms of
+
+645
+01:03:02,600 --> 01:03:08,920
+NDMA are being exposed in your body with a single pill of Zantac and they were using the
+
+646
+01:03:08,920 --> 01:03:14,680
+Brans Zantac in that particular study, which again loops back into our results that we were
+
+647
+01:03:14,680 --> 01:03:19,720
+seeing in the lab conditions, also the potential of this molecule to form millions of nanograms.
+
+648
+01:03:19,720 --> 01:03:26,680
+So totally agree with you. It was an extremely eye-opening study. And to go back to when we at
+
+649
+01:03:26,680 --> 01:03:32,920
+Valisher were originally finding this problem and Corey Kuchera, our chief scientific officer,
+
+650
+01:03:32,920 --> 01:03:37,400
+brought it to my desk and we started looking at the literature. That was, we were not aware of
+
+651
+01:03:37,400 --> 01:03:41,960
+that study beforehand, but as soon as we saw that study, we're like, what? Like this is,
+
+652
+01:03:41,960 --> 01:03:47,240
+this is an extremely alarming study. Yeah. And it sort of validates your numbers because
+
+653
+01:03:47,240 --> 01:03:53,320
+if one pill is putting 40,000 in the urine, as you said, you could assume that there was 4 million
+
+654
+01:03:53,880 --> 01:03:59,000
+in the bloodstream. That's the same order of magnitude as what you found in your chemical
+
+655
+01:03:59,000 --> 01:04:03,640
+analysis, which may or may not be compromised by temperature, which we'll come back to.
+
+656
+01:04:03,640 --> 01:04:06,920
+So why didn't that study get more attention is my question.
+
+657
+01:04:06,920 --> 01:04:13,560
+I mean, honestly, professor Bill Mitch, great guy that is in the environmental sciences. So he'd
+
+658
+01:04:13,560 --> 01:04:19,640
+been looking at this ranitidine problem himself at Yale University, at Stanford University for 17
+
+659
+01:04:19,640 --> 01:04:28,120
+years. His first papers published in 2002 were concerned about where does NDMA come from when
+
+660
+01:04:28,120 --> 01:04:33,400
+it's in drinking water and coming out of wastewater treatment plants. And the irony
+
+661
+01:04:33,400 --> 01:04:39,560
+of how this all came up for him was actually that there's this big environmental problem where they
+
+662
+01:04:39,560 --> 01:04:45,880
+had this rocket fuel plant where NDMA is often a byproduct of rocket fuel manufacturing. And they
+
+663
+01:04:45,880 --> 01:04:51,960
+were dumping into a river and all of a sudden there's all this NDMA in drinking water and a
+
+664
+01:04:51,960 --> 01:04:57,240
+lot of attention to NDMA, a very well-known carcinogen. But what they found is that even
+
+665
+01:04:57,240 --> 01:05:01,160
+after they cleaned it up and even after they started looking in other cities, they were still
+
+666
+01:05:01,160 --> 01:05:07,400
+finding low levels of NDMA. Basically sparked the 17 years of research for Bill Mitch and all the
+
+667
+01:05:07,400 --> 01:05:11,720
+various folks that he's been working with and in this field of environmental science of water
+
+668
+01:05:11,720 --> 01:05:19,560
+quality. And I think this has been like this big red button serious problem in a more obscure
+
+669
+01:05:19,560 --> 01:05:25,960
+science than the medical community is used to. I'm sure yourself as a doctor, I try to keep up with
+
+670
+01:05:25,960 --> 01:05:31,160
+a variety of journals or scientific findings, but I don't know how often you're looking up
+
+671
+01:05:31,160 --> 01:05:37,800
+environmental journals. I can tell you the answer to that. It'd be never. Right. And look, I think
+
+672
+01:05:37,800 --> 01:05:43,240
+what we found ourselves in the position at Valisher was adding some new science, some new
+
+673
+01:05:43,240 --> 01:05:48,840
+discoveries that we found, but really we were just connecting the dots over 37 years of research.
+
+674
+01:05:49,480 --> 01:05:56,280
+And what was very clear also in Mitch's paper of that specific study was that there was some sort
+
+675
+01:05:56,280 --> 01:06:01,160
+of missing biological link because there's also been a lot of work at which we also recreated,
+
+676
+01:06:01,160 --> 01:06:06,200
+which Bill Mitch did as well. Looking at the stomach, just conditions of the human stomach,
+
+677
+01:06:06,200 --> 01:06:12,440
+and you tend to find hundreds of thousands of nanograms of NDMA, which is also very bad,
+
+678
+01:06:12,440 --> 01:06:18,440
+being formed by the Renidine molecule. But his study was pointing to the possibility of
+
+679
+01:06:18,440 --> 01:06:25,240
+millions and therefore Renidine forming even outside of the stomach and the body being
+
+680
+01:06:25,240 --> 01:06:31,400
+extremely complex, which drove us at Valisher to look more towards, well, is there a potential
+
+681
+01:06:31,400 --> 01:06:39,560
+biological link here as well? And we identified an enzyme, specifically DDAH1, but this enzyme has
+
+682
+01:06:39,560 --> 01:06:44,920
+also been well characterized for many years. And what it does is it just grabs onto a molecule and
+
+683
+01:06:44,920 --> 01:06:52,520
+breaks off this DMA group. So NDMA is the N and the DMA components. And once you break off a DMA,
+
+684
+01:06:52,520 --> 01:06:58,120
+it's very easy to form the NDMA. There's nitrite that freely circles in your body and lots of
+
+685
+01:06:58,120 --> 01:07:03,960
+other ways to make it. And so essentially we looked at this enzyme and did computational modeling
+
+686
+01:07:04,520 --> 01:07:11,800
+to find that seems that the Renidine molecule fits extremely snugly in this enzyme. And that
+
+687
+01:07:11,880 --> 01:07:17,480
+at least gives a potential biological mechanism for forming millions of nanograms throughout the
+
+688
+01:07:17,480 --> 01:07:23,640
+body, even outside of the stomach. We essentially had now that biological link and the chemistry
+
+689
+01:07:23,640 --> 01:07:30,200
+side and then all the way into the full body clinical study that Bill Mitch did that makes
+
+690
+01:07:30,200 --> 01:07:35,240
+a very compelling story that Renidine is just a toxic molecule in the human body.
+
+691
+01:07:35,240 --> 01:07:41,160
+So let's talk about the FDA's response to all of this. What was the first date you made public,
+
+692
+01:07:41,160 --> 01:07:47,720
+your findings? So we actually confidentially alerted the FDA back in June. I don't recall the
+
+693
+01:07:47,720 --> 01:07:54,840
+exact date we filed an FDA citizen petition that made our much deeper analysis with the biological
+
+694
+01:07:54,840 --> 01:08:01,000
+link and everything else that we were studying. We filed that September 13th, but we did even
+
+695
+01:08:01,000 --> 01:08:06,840
+without having the full story yet, we thought the results were so alarming that we did this kind of
+
+696
+01:08:06,920 --> 01:08:13,000
+confidential filing to the FDA. We didn't want to be publicly talking about these kinds of problems
+
+697
+01:08:13,000 --> 01:08:17,560
+if we didn't have the full story. Obviously cognizant that this drug industry can be extremely
+
+698
+01:08:17,560 --> 01:08:23,400
+litigious. A lot of lawyers don't like it if you're talking about a particular drug badly. So that's
+
+699
+01:08:23,400 --> 01:08:28,680
+when we did the initial alert and continued to analyze this. And then obviously the FDA made
+
+700
+01:08:28,680 --> 01:08:33,880
+their own announcement also September 13th. So the September 13th date you filed the citizens
+
+701
+01:08:33,880 --> 01:08:39,480
+petition was the date that the FDA said that trace amounts. Well, actually I don't have their
+
+702
+01:08:39,480 --> 01:08:43,560
+statement, but do you know exactly what they said? I mean, I remember reading it because at that level
+
+703
+01:08:43,560 --> 01:08:48,120
+it starts to even get it. Even guys like me will start to see it when the FDA is saying it, but how
+
+704
+01:08:48,120 --> 01:08:55,000
+did they word their response to the citizens petition? So the FDA's statement Friday the 13th,
+
+705
+01:08:55,000 --> 01:09:01,240
+September 13th was, I don't have the exact wording in front of me, but that they had found an impurity
+
+706
+01:09:01,240 --> 01:09:07,800
+and DMA at low levels. I think they made some references to barely exceeding those that's in
+
+707
+01:09:07,800 --> 01:09:13,720
+food kind of feels like no big deal, but they're still making an alert and wanted everybody to be
+
+708
+01:09:13,720 --> 01:09:19,800
+aware of that. And us, we've been working for months now on this issue and putting together this
+
+709
+01:09:20,360 --> 01:09:25,640
+citizen petition that has all the information that we've studied about the chemistry,
+
+710
+01:09:25,640 --> 01:09:31,000
+the biology side of the components, a bunch of citations of as much as we could find in terms of
+
+711
+01:09:31,080 --> 01:09:37,320
+epidemiology. But we also had Leora Bronstein and Amoris Lone Kettering folks there working on the
+
+712
+01:09:37,320 --> 01:09:42,280
+epidemiology, which we thought that's going to be the full story that we wanted to publish as a
+
+713
+01:09:42,280 --> 01:09:48,200
+complete document. And we were actually quite taken back by the fact that the FDA made this
+
+714
+01:09:48,200 --> 01:09:54,280
+kind of announcement on September 13th. And although the citizen petition wasn't complete yet
+
+715
+01:09:54,280 --> 01:09:59,480
+with epidemiological results, we felt it was very important to publish it, get it on file and have
+
+716
+01:09:59,480 --> 01:10:06,120
+everybody see the full story that includes these very alarming findings on the chemistry and biology
+
+717
+01:10:06,120 --> 01:10:11,640
+and underscoring Bill Mitch's study, which all these things even just by themselves are so
+
+718
+01:10:11,640 --> 01:10:17,560
+incredibly concerning that even though we didn't have the epidemiology done yet, we definitely felt
+
+719
+01:10:17,560 --> 01:10:23,800
+should be published. Now, the FDA has the authority to do a lot. I certainly learned what they don't
+
+720
+01:10:23,800 --> 01:10:30,040
+have the authority to do in talking with Catherine Iban. But did they have the authority on September,
+
+721
+01:10:30,040 --> 01:10:35,320
+since it was a Friday, let's give them the weekend to think about it. But on September 16th, that
+
+722
+01:10:35,320 --> 01:10:41,080
+Monday, did they have the authority to pull all forms of renitidine and Zantec off the market in
+
+723
+01:10:41,080 --> 01:10:45,800
+the United States? I believe they do. They definitely at the very least have the authority to
+
+724
+01:10:45,800 --> 01:10:52,120
+request many factors, recall it. When you hear about recalls, it's almost always voluntary
+
+725
+01:10:52,200 --> 01:10:57,480
+recalls, but the FDA can push for it. Interesting that you mentioned that the following Monday or
+
+726
+01:10:57,480 --> 01:11:04,680
+Tuesday of that week, that's when the first other health system, Canada, so Health Canada, made a
+
+727
+01:11:04,680 --> 01:11:11,400
+statement September 17th, that Tuesday, with a very strong message of requesting all companies
+
+728
+01:11:11,400 --> 01:11:18,280
+to stop distributing all forms of renitidine. And the second line in that statement was current
+
+729
+01:11:18,280 --> 01:11:23,640
+evidence suggests that NDMA be present in renitidine, regardless of the manufacturer,
+
+730
+01:11:24,200 --> 01:11:29,640
+which directly underscores what we were finding, that it doesn't matter how it was made or where
+
+731
+01:11:29,640 --> 01:11:37,080
+it was made, just that the drug itself is so incredibly fundamentally unstable, that it can
+
+732
+01:11:37,080 --> 01:11:42,840
+directly form NDMA in a whole variety of conditions and should just be taken off the market.
+
+733
+01:11:42,840 --> 01:11:47,160
+Yeah. Well, I'm Canadian. I'll take a little victory lap on the conservative nature of Health
+
+734
+01:11:47,160 --> 01:11:52,520
+Canada. Totally kidding. How many countries besides the great nation to the north of us
+
+735
+01:11:53,080 --> 01:11:59,800
+have followed suit with Canada? So to date, now we're still just only a few weeks away from this
+
+736
+01:11:59,800 --> 01:12:09,080
+September 13th announcement, roughly 30 countries have recalled or banned renitidine and not just
+
+737
+01:12:09,080 --> 01:12:16,920
+places like Italy and France and Germany, but you have Kenya, Libya, Bangladesh, Saudi Arabia,
+
+738
+01:12:16,920 --> 01:12:22,600
+Pakistan. Pakistan actually came out not just recalling all renitidine products,
+
+739
+01:12:23,320 --> 01:12:28,120
+they actually told all the manufacturers in their country to stop making it, as in stop
+
+740
+01:12:28,120 --> 01:12:33,480
+everything you're doing with anything related to renitidine. Stop it. And that was in Pakistan.
+
+741
+01:12:34,040 --> 01:12:37,400
+I mean, I just don't even know how to make sense of this, David, to be completely honest with you.
+
+742
+01:12:37,400 --> 01:12:44,360
+So I sort of get Canada's reaction because they were the first to react and they reacted before
+
+743
+01:12:44,360 --> 01:12:49,640
+the FDA had done what they've done over the past few weeks. Do you think a lot of these other
+
+744
+01:12:49,640 --> 01:12:53,880
+countries are just in a herd mentality mode or do you think they've independently taken a look
+
+745
+01:12:53,880 --> 01:12:59,320
+at your data, your petition, and come to the same conclusion? I know that's an odd question, but the
+
+746
+01:12:59,320 --> 01:13:05,320
+real question I'm getting at is why has the FDA resisted taking stronger action?
+
+747
+01:13:05,320 --> 01:13:10,120
+Each country has obviously their own health systems. I think a lot of these health systems
+
+748
+01:13:10,120 --> 01:13:17,080
+certainly look towards the FDA, but we were contacted by a number of press that were also
+
+749
+01:13:17,080 --> 01:13:21,720
+talking with the health agencies in their countries. We talked extensively to folks in
+
+750
+01:13:21,720 --> 01:13:28,920
+Switzerland, in Germany, in Poland, in India, in Russia, and it seemed that quite a few
+
+751
+01:13:29,560 --> 01:13:35,560
+agencies were running their own tests. We know specifically in South Korea, they even published
+
+752
+01:13:35,560 --> 01:13:42,840
+some of those results. They were finding at minimum 2,800 nanograms of NDMA and their worst was
+
+753
+01:13:42,840 --> 01:13:50,520
+32,000 nanograms of NDMA that was found by South Korea's regulators. And these numbers in of
+
+754
+01:13:50,520 --> 01:13:58,280
+themselves are obviously not good. But I think one of the unfortunate things that happened out of the
+
+755
+01:13:58,280 --> 01:14:04,440
+FDA's original statement is that it made this whole thing just sound like a contamination.
+
+756
+01:14:05,240 --> 01:14:11,080
+And I think you saw this a lot with countries too, is that some of them like Canada, I think,
+
+757
+01:14:11,080 --> 01:14:17,080
+realized early on, perhaps seeing our petition or just looking at some of the data like Bill
+
+758
+01:14:17,080 --> 01:14:22,680
+Mitch's study, that this is an inherent problem with the drug and therefore stop all manufacturers,
+
+759
+01:14:22,680 --> 01:14:28,920
+stop all distribution. Whereas some other countries were banning certain manufacturers
+
+760
+01:14:28,920 --> 01:14:34,600
+that maybe they tested or they had some data suggesting that this manufacturer had some level
+
+761
+01:14:34,600 --> 01:14:40,680
+of contamination in it of NDMA. But even that contamination, maybe we'll talk more about this,
+
+762
+01:14:40,680 --> 01:14:44,920
+of contamination versus inherent instability. There's actually a great article in India that
+
+763
+01:14:44,920 --> 01:14:52,360
+talked about this of why has France and Germany banned this substance versus at the time India and
+
+764
+01:14:52,360 --> 01:14:56,200
+the United States had not. And then a lot of what they were concluding is that some people are
+
+765
+01:14:56,200 --> 01:15:01,080
+looking this as a contamination that maybe happens here and there. And some are realizing the
+
+766
+01:15:01,080 --> 01:15:06,200
+reality that ranidity is a fundamentally unstable molecule and could certainly cause contamination
+
+767
+01:15:06,200 --> 01:15:13,000
+as a byproduct of being unstable, but has a seemingly very high risk of forming tremendous
+
+768
+01:15:13,000 --> 01:15:16,360
+amounts of NDMA in the human body and should just be taken out completely off the market.
+
+769
+01:15:17,000 --> 01:15:22,840
+So the FDA released a statement in early October that basically said to the effect,
+
+770
+01:15:22,840 --> 01:15:27,400
+hey, we're going to continue to test ranidity in its products. We're not saying there's nothing
+
+771
+01:15:27,400 --> 01:15:33,800
+wrong here. But they did very specifically challenge your method for testing. And they
+
+772
+01:15:33,800 --> 01:15:39,640
+said specifically in this, I do quote, it is not suitable for testing ranidity because heating the
+
+773
+01:15:39,640 --> 01:15:45,560
+sample itself generates NDMA and presumably they mean heating it to the low temperature of
+
+774
+01:15:45,560 --> 01:15:51,880
+130 degrees Celsius. Right. So yeah, that exact quote, heating the sample generates NDMA. I mean,
+
+775
+01:15:51,880 --> 01:15:58,120
+they don't mention that specifically, but they do say third party laboratory, which ironically in
+
+776
+01:15:58,120 --> 01:16:01,480
+the press, I don't think they even bothered talking about that. They just inserted the name
+
+777
+01:16:01,480 --> 01:16:08,760
+Valisher. But I think at the very least, nicely underscores that even just some heat, which again
+
+778
+01:16:08,760 --> 01:16:15,080
+is benign for practically all these other molecules is enough to generate NDMA. So yes,
+
+779
+01:16:15,080 --> 01:16:21,560
+exactly. We agree heat that could be happening anywhere in transit, could be in a hot car or
+
+780
+01:16:21,560 --> 01:16:28,360
+anywhere else could directly degrade this molecule, not just into falling apart, but into falling
+
+781
+01:16:28,360 --> 01:16:33,160
+apart directly into NDMA. So how did we get to the root of this problem? Because this could end up
+
+782
+01:16:33,160 --> 01:16:38,520
+being the jugular issue. I mean, in many ways, the Zeng and Mitch study suggests you don't need heat.
+
+783
+01:16:38,760 --> 01:16:41,960
+Has the FDA commented specifically on that study?
+
+784
+01:16:41,960 --> 01:16:47,080
+Not that I'm aware of. There's plenty of studies out there that look at all sorts of other
+
+785
+01:16:47,080 --> 01:16:51,560
+conditions that degrade raninidine. Like they're not even looking at in general, they're just
+
+786
+01:16:51,560 --> 01:16:57,960
+saying, okay, here's raninidine and let's see what happens when we add ozone that is commonly
+
+787
+01:16:57,960 --> 01:17:04,200
+emitted by all sorts of devices and things, or chlorine that you use for cleaning all sorts of
+
+788
+01:17:04,200 --> 01:17:09,160
+things. And there also is using wastewater treatment plants. And even the reaction mechanisms
+
+789
+01:17:09,160 --> 01:17:15,480
+were specifically ironed out chemically of how raninidine degrades directly into NDMA
+
+790
+01:17:16,120 --> 01:17:23,560
+with these relatively minor and benign conditions. And certainly the condition that concerned us at
+
+791
+01:17:23,560 --> 01:17:30,520
+Valcher the most was the conditions of the human body. So yes, we in the introductory paragraph in
+
+792
+01:17:30,520 --> 01:17:36,600
+our citizen's petition also comment on how the FDA method that we use, that was the method
+
+793
+01:17:36,600 --> 01:17:43,000
+available at the time for the analysis of NDMA. We suspect that this 15 minutes of 130 degrees
+
+794
+01:17:43,000 --> 01:17:49,160
+temperature is causing an incredibly efficient reaction of generating NDMA from raninidine.
+
+795
+01:17:49,800 --> 01:17:56,920
+And so therefore we modified that particular protocol. And I should also say that Valcher,
+
+796
+01:17:56,920 --> 01:18:02,200
+apart from having some great scientists that work with us, we are an ISO accredited facility
+
+797
+01:18:02,200 --> 01:18:08,840
+specifically for the analysis of NDMA. So we modified the protocol, did the proper controls
+
+798
+01:18:08,840 --> 01:18:15,240
+and put down the temperature. So we developed another method still using the GCMS and essentially
+
+799
+01:18:15,240 --> 01:18:19,880
+copying the rest of the FDA protocol and then bring down the temperature to body temperature.
+
+800
+01:18:20,440 --> 01:18:26,280
+And in this specific way of analysis, we didn't find NDMA in the tablets that we were looking at.
+
+801
+01:18:26,920 --> 01:18:33,560
+And so we used this low temperature version to analyze conditions of the human stomach.
+
+802
+01:18:33,560 --> 01:18:38,840
+Actually very similar, almost exactly the same conditions that Bill Mitch was using in his study
+
+803
+01:18:38,840 --> 01:18:43,560
+and others have used it in other studies before, where essentially we have simulated gastric fluid
+
+804
+01:18:43,560 --> 01:18:49,960
+and nitrite present, which seems to be particularly capable of reacting with raninidine in your stomach
+
+805
+01:18:49,960 --> 01:18:55,160
+and is just present in a lot of foods in general and in the human body, even without those foods.
+
+806
+01:18:55,880 --> 01:19:02,040
+So we created those conditions, put one pill of Zantac into essentially a hundred milliliters of
+
+807
+01:19:02,040 --> 01:19:09,640
+this kind of stomach fluid and then using the low temperature system, analyzed that and found
+
+808
+01:19:09,640 --> 01:19:15,640
+very similar numbers as Bill Mitch was finding is in the hundreds of thousands of nanograms of NDMA.
+
+809
+01:19:15,640 --> 01:19:21,560
+So we found up to 300,000 nanograms. Bill Mitch's study found up to 400,000 nanograms.
+
+810
+01:19:21,560 --> 01:19:28,840
+So pretty similar results, very high formation of NDMA in a body relevant condition.
+
+811
+01:19:28,840 --> 01:19:34,680
+So David, let me just make sure I understand that. So obviously the GCMS gold standard,
+
+812
+01:19:35,240 --> 01:19:40,680
+you can't get around it. You have to be at 130 degrees Celsius in the oven to incubate it.
+
+813
+01:19:40,680 --> 01:19:44,040
+That's going to produce the numbers we've discussed. But you're saying you came up with
+
+814
+01:19:44,040 --> 01:19:48,360
+a different test, which is instead of just taking the pill, crushing it, sticking it into the
+
+815
+01:19:48,360 --> 01:19:55,000
+GCMS, you dump it into a 37 degrees Celsius bath that is modeled after gastric secretion.
+
+816
+01:19:55,000 --> 01:19:59,320
+So it'll have a pH of two and it'll have this and that other cofactor and enzyme.
+
+817
+01:19:59,320 --> 01:20:05,400
+And you're saying when you took that little soupy bath, you did not have to put it into
+
+818
+01:20:06,360 --> 01:20:12,120
+the GCMS or you did, but you just ran it at 37 Celsius instead of 130. I want to make sure I
+
+819
+01:20:12,120 --> 01:20:18,680
+understand how you can do a low temp assessment. Yeah, important question. And that's somewhat of
+
+820
+01:20:18,680 --> 01:20:23,560
+the annoying part of where this discussion is now gotten to with these statements is now the
+
+821
+01:20:23,560 --> 01:20:30,200
+devil's in the details. So okay, what you described is how we prepared the sample. So the
+
+822
+01:20:30,200 --> 01:20:37,080
+kind of this bath that's emulating stomach conditions. And to analyze that bath, we had
+
+823
+01:20:37,160 --> 01:20:43,240
+to put it still in a GCMS, but now a low temperature profile of the GCMS, which
+
+824
+01:20:43,240 --> 01:20:49,240
+what that does when you lower the temperature in a GCMS is you've gotten less sensitivity.
+
+825
+01:20:49,240 --> 01:20:54,600
+So instead of being sensitive down to 25 nanograms, which is what the FDA protocol
+
+826
+01:20:54,600 --> 01:20:58,760
+gets and that they published and what we were getting in terms of the sensitivity when you
+
+827
+01:20:58,760 --> 01:21:06,200
+is 130 degrees, when you take it down to body temperature, now you're at 100 nanograms of
+
+828
+01:21:06,200 --> 01:21:11,320
+sensitivity. So a little bit less sensitive. So obviously, if you're trying to be a good chemist,
+
+829
+01:21:11,320 --> 01:21:17,240
+you would put it up to 130 degrees and get the highest possible sensitivity, which I'm sure is
+
+830
+01:21:17,240 --> 01:21:23,400
+why the FDA published that protocol at 130 degrees. And again, it's fine for Val Sartan and almost
+
+831
+01:21:23,400 --> 01:21:28,680
+every other molecule that we've ever looked at. Why is that the case? Why was it fine to go to 130
+
+832
+01:21:28,680 --> 01:21:36,040
+degrees Celsius with Val Sartan? Val Sartan is not unstable. In other words, the NDMA in Val Sartan
+
+833
+01:21:36,040 --> 01:21:43,480
+is thought to be a contaminant and not a product of degradation. Exactly. Okay. So can you run the
+
+834
+01:21:43,480 --> 01:21:49,080
+GCMS at 37 Celsius? And is that what you're saying? You can, but you can only detect down to 100
+
+835
+01:21:49,080 --> 01:21:55,080
+nanograms? Correct. Exactly. So this is splitting hairs here, but who cares when you're dealing with
+
+836
+01:21:55,160 --> 01:22:00,920
+a concentration as high as you're dealing with, right? Exactly. And who cares when there's already
+
+837
+01:22:00,920 --> 01:22:07,160
+a clinical study that was done? We can argue all day about the conditions of the stomach, of various
+
+838
+01:22:07,160 --> 01:22:11,960
+things. You can never recreate biology, right? As soon as we're talking about biology instead
+
+839
+01:22:11,960 --> 01:22:19,240
+of pure chemistry, which is when the data of using the FDA protocol and seeing milligrams of NDMA form
+
+840
+01:22:19,240 --> 01:22:25,960
+from reference powder of Renidin, that's chemistry analysis. So our conclusion from that is that
+
+841
+01:22:25,960 --> 01:22:32,600
+Renidin is incredibly unstable, can form milligrams of NDMA in 15 minutes. And there's
+
+842
+01:22:32,600 --> 01:22:38,040
+no other way you could have done this except from the source of the drug itself. As soon as we start
+
+843
+01:22:38,040 --> 01:22:44,680
+talking about biology and stomach conditions, really the ultimate test there is a clinical test
+
+844
+01:22:44,680 --> 01:22:50,600
+where you go through the entire human body, which is exactly what Bill Mitch did at Stanford
+
+845
+01:22:50,600 --> 01:22:57,960
+University. Although did he use 130 degrees Celsius on the GCMS on the urine? Because the
+
+846
+01:22:57,960 --> 01:23:02,600
+real gold standard might be, or I wouldn't say the real gold standard, another elegant test would be,
+
+847
+01:23:02,600 --> 01:23:07,800
+you take a person, you give them Renidin, you collect the urine, and without doing anything,
+
+848
+01:23:07,800 --> 01:23:16,120
+you run that urine at 37 Celsius. And if that showed what Mitchell found, or even close to it,
+
+849
+01:23:16,120 --> 01:23:21,080
+if Mitchell found 40,000, let's just say you found 4,000, let's just say that the difference between
+
+850
+01:23:21,080 --> 01:23:26,040
+37 Celsius and 130 Celsius on the breakdown product, because again, the question we don't,
+
+851
+01:23:26,040 --> 01:23:31,640
+what we don't know is, is this person peeing out some byproduct of Renidin that then further decays
+
+852
+01:23:31,640 --> 01:23:37,800
+to NDMA, or are they just peeing out straight NDMA? And if they are, then the temperature should
+
+853
+01:23:37,800 --> 01:23:44,040
+make very little difference in how much you detect, correct? Right, actually, when we saw Bill Mitch's
+
+854
+01:23:44,040 --> 01:23:50,760
+study, and also seeing what we were seeing in the GCMS, we called Bill and started asking about his
+
+855
+01:23:50,760 --> 01:23:55,960
+work and everything else. We were pushing on some of those questions as well. He wasn't using the
+
+856
+01:23:55,960 --> 01:24:01,720
+FDA method, but obviously the devil's in the detail of all these methods. And he went back
+
+857
+01:24:01,720 --> 01:24:08,520
+and did some significant controls to validate these kinds of systems was something being created in
+
+858
+01:24:08,520 --> 01:24:15,080
+the instrumentation. And after all of his validation, he was still seeing over these 40,000
+
+859
+01:24:15,080 --> 01:24:22,200
+nanograms of NDMA. So how confident are you? And again, the answer can't be 100%, or you wouldn't
+
+860
+01:24:22,200 --> 01:24:29,160
+be a scientist, which I know you're a scientist. So how confident are you that grossly elevated
+
+861
+01:24:29,160 --> 01:24:37,160
+levels of NDMA are being made from Renidin that is not at all an artifact of instrumentation,
+
+862
+01:24:37,160 --> 01:24:43,080
+human error, or most importantly, temperature contamination? Extremely confident. And you hit
+
+863
+01:24:43,080 --> 01:24:47,560
+it on the head that as a proper scientist, I can never be 100% on anything, of course,
+
+864
+01:24:48,360 --> 01:24:53,800
+but the data is just overwhelming. And the other part of this is, as you've mentioned before,
+
+865
+01:24:53,800 --> 01:25:00,440
+this isn't some life saving drug that there is no alternatives for, where we say, you know what,
+
+866
+01:25:00,440 --> 01:25:07,080
+we're 99% sure, but there's 1% that maybe we're a little bit off here. And people depend on this for
+
+867
+01:25:07,080 --> 01:25:13,480
+their lives. And let's think about that versus the fact that they may cause some cancer over time.
+
+868
+01:25:13,480 --> 01:25:18,920
+That's not the case. Plenty of alternatives, as you've mentioned, this is not a life saving drug.
+
+869
+01:25:19,640 --> 01:25:25,240
+So I don't see how any of that calculus plays into thinking that this should just be taken off the
+
+870
+01:25:25,240 --> 01:25:31,640
+market. Yeah. And I would add another layer to that, which I guess is why I wanted to speak with
+
+871
+01:25:31,640 --> 01:25:36,280
+you about this is I have a little bit of a background in risk, in a formal training in risk.
+
+872
+01:25:36,280 --> 01:25:40,200
+In risk training, one of the things you're always taught to look for is asymmetry of risk.
+
+873
+01:25:40,840 --> 01:25:48,280
+So if you have a bet, if you bet somebody $10 on the outcome of something, so you put $10 in,
+
+874
+01:25:48,280 --> 01:25:53,720
+they put $10 in, that's not a very asymmetric bet. You're going to win $10 and therefore walk away
+
+875
+01:25:53,720 --> 01:25:58,600
+with 20, or you're going to lose $10 and lose your money. Those are great bets to make because you
+
+876
+01:25:58,600 --> 01:26:03,240
+have a sense of what the downside is and what the upside is. But what I really struggle with here,
+
+877
+01:26:03,240 --> 01:26:09,240
+David, is this is a very asymmetric bet that the FDA is making. There's a chance you're wrong.
+
+878
+01:26:09,240 --> 01:26:16,040
+There's a chance that in a few years, all of the data will be in, including what I consider
+
+879
+01:26:16,040 --> 01:26:21,960
+arguably the most important data, which will be the human epidemiologic data that tracks the cases
+
+880
+01:26:21,960 --> 01:26:27,720
+and the cohorts. And it will show that Zantec is totally fine. And further chemical analysis will
+
+881
+01:26:27,720 --> 01:26:32,920
+reveal that there is some error in the methodology that you and countless others have made. It doesn't
+
+882
+01:26:32,920 --> 01:26:39,400
+sound like that's the case, but it could be. In that case, the FDA will have been the hero for
+
+883
+01:26:39,400 --> 01:26:46,840
+not recalling the drug. What's the upside in that situation? Conversely, in five years, if the
+
+884
+01:26:46,840 --> 01:26:54,040
+epidemiology or two years or whatever suggests the opposite, which is this totally unnecessary,
+
+885
+01:26:54,040 --> 01:27:01,720
+ubiquitous drug increased by two and a half fold, a risk of cancer, of fill in the blank cancer,
+
+886
+01:27:02,440 --> 01:27:09,400
+and when the FDA was notified of this, they did nothing, that's a very asymmetric downside. That
+
+887
+01:27:09,400 --> 01:27:15,480
+downside is infinitely greater than the upside of having done nothing. If anybody at the FDA is
+
+888
+01:27:15,480 --> 01:27:20,840
+listening, I'm sorry if I sound like I'm being a jerk, but I can't help but ask, what is your
+
+889
+01:27:20,840 --> 01:27:26,280
+chief risk officer telling you right now? Because if I was your chief risk officer, and I didn't
+
+890
+01:27:26,280 --> 01:27:31,640
+know a thing about biology, I'd be explaining this to you. Where is that discussion, David? Do you
+
+891
+01:27:31,640 --> 01:27:37,640
+know enough about the FDA to understand that? Do they have a chief risk officer? We have had no
+
+892
+01:27:37,640 --> 01:27:43,880
+interaction with the FDA throughout all this other than our submitting of the citizen petition and
+
+893
+01:27:43,880 --> 01:27:49,400
+seeing what they're saying about us in these statements. Huh. Well, I guess the only thing
+
+894
+01:27:49,400 --> 01:27:53,880
+I can tell you is here's what we've done. We've told that we have three patients in our practice
+
+895
+01:27:53,880 --> 01:27:57,880
+that take Zantac, so the first thing we did when I really figured out how serious this was, which
+
+896
+01:27:57,880 --> 01:28:02,920
+was not on Friday the 13th, by the way. The front of the 13th, I took the FDA's word for it. Stupid
+
+897
+01:28:02,920 --> 01:28:08,040
+Peter, sorry. But it was a few days later that a little bit more digging made me realize,
+
+898
+01:28:09,160 --> 01:28:13,960
+the FDA might be making a mistake here, that we went and scrubbed the medical
+
+899
+01:28:13,960 --> 01:28:18,040
+reconciliations of all our patients, realized three of them took Renitidine.
+
+900
+01:28:18,040 --> 01:28:22,120
+Luckily, none of them regularly. We just called them immediately, said, stop taking this drug,
+
+901
+01:28:22,200 --> 01:28:25,720
+do not pass go, do not collect $200. Here's the drug you're going to take instead.
+
+902
+01:28:26,440 --> 01:28:30,760
+Presumably anybody listening to this, I'd feel pretty comfortable suggesting they do the same.
+
+903
+01:28:30,760 --> 01:28:35,960
+What else is there to do? What can citizens do beyond not taking this drug themselves and
+
+904
+01:28:35,960 --> 01:28:40,280
+passing along that insight? Is there anything that the citizens can do with respect to the FDA? I
+
+905
+01:28:40,280 --> 01:28:44,760
+mean, how many citizens petitions does the FDA get a year, by the way? I'm not sure what that
+
+906
+01:28:44,760 --> 01:28:49,320
+exact number is. It's used for such a variety of different things, but I think they get a few of
+
+907
+01:28:49,320 --> 01:28:52,520
+them a week. But I assume that they're all different, right? I mean, obviously they're
+
+908
+01:28:52,520 --> 01:28:55,560
+all different. I guess what I'm saying is I assume they're of different magnitude of importance. I
+
+909
+01:28:55,560 --> 01:29:02,040
+mean, when a chemical lab of yours stature is submitting this type of data, that's probably
+
+910
+01:29:02,040 --> 01:29:07,960
+different than if I just rung up the FDA and said, Hey guys, I noticed when my patient took Crestor,
+
+911
+01:29:07,960 --> 01:29:11,800
+it worked. And when he took Resuvastat and it didn't, that's the type of citizens petition,
+
+912
+01:29:11,800 --> 01:29:16,760
+I assume that doesn't go too far. But do you have a sense of how many citizens petitions of your
+
+913
+01:29:16,760 --> 01:29:22,120
+nature and gravity hit their desk? I don't think very many. Do you know how the FDA set the limit
+
+914
+01:29:22,120 --> 01:29:30,680
+at 96 nanograms, by the way? Yeah. So the calculus behind that is basically ensuring that there is
+
+915
+01:29:30,680 --> 01:29:38,280
+less than one cancer case in a hundred thousand over the course of 70 years. That's an extrapolation
+
+916
+01:29:38,280 --> 01:29:42,920
+from an animal model, correct? Correct. So again, as a scientist, it could be maybe it's not that
+
+917
+01:29:42,920 --> 01:29:48,520
+bad or it could be worse. Humans are not the same as a mouse. Well, David, is there anything else you
+
+918
+01:29:48,520 --> 01:29:53,560
+want to say on this story? I mean, this is, I got to be brutally honest with you. I was a little bit
+
+919
+01:29:53,560 --> 01:30:00,200
+reluctant to speak with you so early in the development of this story because I know that
+
+920
+01:30:00,200 --> 01:30:06,440
+time always brings new insights. But at the same time, I think truthfully, I felt a little bit
+
+921
+01:30:06,440 --> 01:30:11,160
+a sense of responsibility. Feel fortunate that we have an audience now that is quite large.
+
+922
+01:30:11,720 --> 01:30:17,480
+And if for no other reason than if this message gets to a lot of people who then share it with
+
+923
+01:30:17,480 --> 01:30:23,000
+a lot of people, it can make a difference in at least some people's lives. And again, my calculation
+
+924
+01:30:23,000 --> 01:30:29,080
+is on the asymmetric side of this, if this is wrong, I still feel like we've done no harm in that,
+
+925
+01:30:29,080 --> 01:30:34,280
+at least to a person, meaning we've harmed a company. Let's be clear. If this is wrong,
+
+926
+01:30:34,280 --> 01:30:39,320
+all the companies that make, who makes Zantac, by the way, is it Sanofi? Sanofi bought the rights
+
+927
+01:30:39,320 --> 01:30:43,240
+to in the United States. It's made by a whole bunch of different companies. Right, right. So
+
+928
+01:30:43,240 --> 01:30:47,000
+you've got all the generics in Sanofi that makes the brand, et cetera. I mean, let's be honest.
+
+929
+01:30:47,000 --> 01:30:50,440
+Let's look at it from their standpoint. They're being hurt by this. And if this turns out to be
+
+930
+01:30:50,440 --> 01:30:56,360
+wrong, that's potentially devastating financially. I guess I am taking a slightly different risk,
+
+931
+01:30:56,360 --> 01:31:03,000
+which is that the risk of someone switching over to a different H2 blocker or proton pump inhibitor
+
+932
+01:31:03,000 --> 01:31:07,960
+is the worst thing that's going to happen. And the best thing that happens is hopefully some
+
+933
+01:31:07,960 --> 01:31:13,160
+cases of cancer could be averted over the next, God knows how long. That might be naive, but that's
+
+934
+01:31:13,160 --> 01:31:17,880
+sort of the reason I wanted to talk with you. But I'm uneasy of the fact that we, there's more
+
+935
+01:31:17,880 --> 01:31:23,560
+questions than answers too. One other thing actually that I think is important to underscore here and
+
+936
+01:31:23,560 --> 01:31:31,480
+could also play into this overall upside downside calculus is that the reason this whole issue came
+
+937
+01:31:31,480 --> 01:31:37,160
+up again in the scientific literature in the early 2000s is concern over water quality.
+
+938
+01:31:37,640 --> 01:31:44,360
+I'm an NDMA in drinking water. And what we mentioned in the petition that is getting very
+
+939
+01:31:44,360 --> 01:31:50,600
+little attention, unfortunately, is that now that there's all this news and everybody's worried
+
+940
+01:31:50,600 --> 01:31:56,520
+about it for one reason or another of whatever they're reading about Zantac and Renidine,
+
+941
+01:31:56,520 --> 01:32:03,560
+if you're throwing it away in the sink, down the toilet, even in trash, which goes to landfills and
+
+942
+01:32:03,560 --> 01:32:09,560
+bleach, eight runoff from that can be treated in chemical methods. All of this is exactly what all
+
+943
+01:32:09,560 --> 01:32:14,280
+these environmental scientists for the last 17 years have been saying is a potential problem
+
+944
+01:32:14,280 --> 01:32:19,240
+because it will form NDMA in the wastewater treatment plant, which then gets used as drinking
+
+945
+01:32:19,240 --> 01:32:27,640
+water. So we certainly feel that if you're making the decision to no longer use a Renidine product,
+
+946
+01:32:28,520 --> 01:32:33,400
+make sure you don't just throw it away or certainly don't throw it down the sink or down
+
+947
+01:32:33,400 --> 01:32:38,840
+the toilet. It needs to be disposed of properly. I mean, essentially, it's got to be disposed of
+
+948
+01:32:38,840 --> 01:32:44,680
+as toxic waste. It's got to be returned to the pharmacy or to all these facilities that do
+
+949
+01:32:44,680 --> 01:32:52,120
+medication disposal. Because another potential downside of all this is that everybody's dumping
+
+950
+01:32:52,120 --> 01:32:57,800
+it and it's going into the water system and then being converted to high levels of NDMA in drinking
+
+951
+01:32:57,800 --> 01:33:03,160
+water. And now you have another potential crisis. Well, that's a really good point. So again, just
+
+952
+01:33:03,160 --> 01:33:07,160
+to make sure the listener understands exactly what you're talking about, it's one thing to say, wow,
+
+953
+01:33:07,160 --> 01:33:11,960
+this is an issue. I'm going to stop taking my Renidine, but to flush it down the toilet or throw
+
+954
+01:33:11,960 --> 01:33:18,520
+it in the garbage potentially spreads the problem. Now, have you heard of pharmacies accepting samples
+
+955
+01:33:18,520 --> 01:33:23,080
+back and doing whatever is appropriate to dispose of it? I mean, from a practical standpoint,
+
+956
+01:33:23,080 --> 01:33:27,800
+what could somebody do the day they're hearing this? I think specifically, I believe it was
+
+957
+01:33:27,800 --> 01:33:34,280
+Walmart or some of the big pharmacy chains have said that they'll take your product back and even
+
+958
+01:33:34,280 --> 01:33:38,840
+give you a refund. I mean, I don't want to put words in their mouth, but it's something that
+
+959
+01:33:38,840 --> 01:33:43,320
+pharmacies are set up to do. And quite sure that a number of them have gone out and said that you
+
+960
+01:33:43,320 --> 01:33:48,440
+can even get a refund for this. Well, David, this may not be the last time we speak because I suspect
+
+961
+01:33:48,520 --> 01:33:54,520
+one, there'll be more to this story, but I suspect that there may be other interesting health issues
+
+962
+01:33:54,520 --> 01:33:58,520
+that crop up as a result of your work. But again, I want to thank you for speaking on very short
+
+963
+01:33:58,520 --> 01:34:03,400
+notice. I want to thank you for speaking with me on a Saturday night. And more than all of that,
+
+964
+01:34:03,400 --> 01:34:09,640
+of course, I want to thank you for the public service that your company does to take care of
+
+965
+01:34:09,640 --> 01:34:14,600
+a problem that honestly, a couple of years ago, I thought was non-existent. And now between your
+
+966
+01:34:15,320 --> 01:34:22,280
+work and certainly that of Catherine's, I've come to really, really doubt the veracity of the FDA
+
+967
+01:34:22,280 --> 01:34:26,440
+and in general, our regulatory environment. I don't say that lightly. I certainly think the
+
+968
+01:34:26,440 --> 01:34:32,040
+FDA is an amazing organization and I think we're richer for it with respect to what most countries
+
+969
+01:34:32,040 --> 01:34:37,000
+go through. I've met many people who work at the FDA. There's great folks there. I want to be clear
+
+970
+01:34:37,000 --> 01:34:41,480
+that I'm not disparaging the FDA, but there's something fundamentally wrong with this type
+
+971
+01:34:41,560 --> 01:34:45,960
+of decision making. And I don't know where the buck stops, but I'm definitely frustrated by this.
+
+972
+01:34:45,960 --> 01:34:50,120
+And I want to make sure that people are at least armed to make their own decisions,
+
+973
+01:34:50,120 --> 01:34:53,480
+which may differ from mine and yours, but at least they're informed.
+
+974
+01:34:53,480 --> 01:34:58,280
+Absolutely. And I would totally echo that there's tremendous good that comes out of the FDA and
+
+975
+01:34:58,280 --> 01:35:04,280
+tons of great people that work there. And I certainly hope that these kinds of scenarios
+
+976
+01:35:04,280 --> 01:35:10,280
+will at the very least bring more overall engagement on these issues. And I also not
+
+977
+01:35:10,280 --> 01:35:15,720
+entirely sure what all the decisions are being made here. And I wish that there would be faster
+
+978
+01:35:15,720 --> 01:35:22,760
+action on this specific grenadine case, but we certainly hope to work with FDA and regulators
+
+979
+01:35:22,760 --> 01:35:28,440
+as a whole on these real problems. I think obviously we have to come to the grasp, the
+
+980
+01:35:28,440 --> 01:35:35,480
+reality that there are problems in the medication system and generics, potentially even brand and
+
+981
+01:35:35,480 --> 01:35:43,800
+all sorts of holes that exist in how the system is now for medications. And we want to be a part
+
+982
+01:35:43,800 --> 01:35:51,960
+of that solution and work together to ensure that every patient is getting a high quality medication.
+
+983
+01:35:51,960 --> 01:35:54,760
+Yeah. Well, thank you very much, David. I appreciate your time and
+
+984
+01:35:55,320 --> 01:35:57,480
+look forward to seeing how this story unfolds.
+
+985
+01:35:57,480 --> 01:36:00,760
+Thank you very much, Peter, as well for spending the time on your Saturday night.
+
+986
+01:36:00,760 --> 01:36:08,600
+You can find all of this information and more at peteratiamd.com forward slash podcast. There
+
+987
+01:36:08,600 --> 01:36:13,960
+you'll find the show notes, readings, and links related to this episode. You can also find my blog
+
+988
+01:36:13,960 --> 01:36:19,640
+at peteratiamd.com. Maybe the simplest thing to do is to sign up for my subjectively non-lame once
+
+989
+01:36:19,640 --> 01:36:24,200
+a week email where I'll update you on what I've been up to, the most interesting papers I've read,
+
+990
+01:36:24,200 --> 01:36:28,040
+and all things related to longevity, science, performance, sleep, et cetera.
+
+991
+01:36:28,760 --> 01:36:32,760
+On social, you can find me on Twitter, Instagram, and Facebook, all with the ID
+
+992
+01:36:32,760 --> 01:36:37,960
+Peter Attia MD, but usually Twitter is the best way to reach me to share your questions and comments.
+
+993
+01:36:37,960 --> 01:36:42,200
+Now for the obligatory disclaimer. This podcast is for general informational purposes only and
+
+994
+01:36:42,200 --> 01:36:47,320
+does not constitute the practice of medicine, nursing, or other professional healthcare services,
+
+995
+01:36:47,320 --> 01:36:52,120
+including the givings of medical advice. And note, no doctor-patient relationship is formed.
+
+996
+01:36:52,840 --> 01:36:57,640
+The use of this information and the materials linked to the podcast is at the user's own risk,
+
+997
+01:36:57,640 --> 01:37:02,120
+the content of this podcast is not intended to be a substitute for professional medical advice,
+
+998
+01:37:02,120 --> 01:37:07,400
+diagnoses, or treatment. Users should not disregard or delay in obtaining medical advice for any
+
+999
+01:37:07,400 --> 01:37:11,720
+medical condition they have and should seek the assistance of their healthcare professionals for
+
+1000
+01:37:11,720 --> 01:37:17,240
+any such conditions. Lastly, and perhaps most importantly, I take conflicts of interest very
+
+1001
+01:37:17,240 --> 01:37:22,840
+seriously for all of my disclosures, the companies I invest in and or advise, please visit
+
+1002
+01:37:22,840 --> 01:37:28,840
+peteratiamd.com forward slash about.
+

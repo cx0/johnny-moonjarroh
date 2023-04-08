@@ -1,0 +1,700 @@
+1
+00:00:00,000 --> 00:00:05,280
+Hey, everyone. Welcome to the Drive podcast. I'm your host, Peter Attia.
+
+2
+00:00:05,280 --> 00:00:14,680
+All right, Bob, we got a pretty fun AMA today here. But before we do, I don't think I realized
+
+3
+00:00:14,680 --> 00:00:19,840
+until looking at your background that the Boston Bruins had a 30-year drought in which
+
+4
+00:00:19,840 --> 00:00:23,480
+they did not win their division. 1940 to 1970.
+
+5
+00:00:23,480 --> 00:00:30,800
+Oh, I'm glad I missed that drought. Was that when there were fewer teams?
+
+6
+00:00:30,800 --> 00:00:32,480
+Oh, yeah, there was only 16.
+
+7
+00:00:32,480 --> 00:00:33,280
+Really embarrassing.
+
+8
+00:00:33,280 --> 00:00:37,160
+Yeah, yeah. Well, it's not as embarrassing as the Maple Leafs, who haven't won the Stanley
+
+9
+00:00:37,160 --> 00:00:39,480
+Cup since, I think, 1967.
+
+10
+00:00:39,480 --> 00:00:40,520
+Oh, my goodness.
+
+11
+00:00:40,520 --> 00:00:44,120
+Well, if any team deserves a Stanley Cup, it's Toronto.
+
+12
+00:00:44,120 --> 00:00:50,840
+I enjoyed it. I think I sent you a video of a guy talking about, you know, that's bad enough,
+
+13
+00:00:50,920 --> 00:00:57,080
+but was it a year ago or a couple of years ago? They lost to a backup goaltender who was a Zamboni
+
+14
+00:00:57,080 --> 00:00:58,160
+driver for their-
+
+15
+00:00:58,160 --> 00:00:59,840
+Yeah, at the ACC.
+
+16
+00:00:59,840 --> 00:01:00,840
+... from Toronto Maple Leafs. Yeah.
+
+17
+00:01:00,840 --> 00:01:01,920
+That's a beautiful story, though.
+
+18
+00:01:01,920 --> 00:01:02,760
+Yeah.
+
+19
+00:01:02,760 --> 00:01:08,040
+All right, so we've got a pretty fun topic, an important topic on the docket today, which is
+
+20
+00:01:08,040 --> 00:01:15,960
+effectively kind of scratching the exercise itch as it pertains to longevity, but at a probably a
+
+21
+00:01:16,360 --> 00:01:20,680
+deeper level than folks are used to. So where should we start?
+
+22
+00:01:21,560 --> 00:01:28,280
+I think we should start with, well, aerobic fitness or cardio- respiratory fitness,
+
+23
+00:01:28,280 --> 00:01:32,280
+because I think we've got a few things that these questions have come in. I think a bunch of
+
+24
+00:01:32,280 --> 00:01:37,880
+questions related to this, which is studies that look at how much lean mass you have and whether
+
+25
+00:01:37,880 --> 00:01:43,720
+that is a predictor of longevity. And then there's also studies that talk about muscle strength,
+
+26
+00:01:43,720 --> 00:01:48,200
+not just muscle mass and whether that predicts longevity and whether one of those is better than
+
+27
+00:01:48,200 --> 00:01:52,760
+the other. But I think a good place to start is with cardio- respiratory fitness, with similar
+
+28
+00:01:52,760 --> 00:01:58,600
+question. You know, does better lead to less mortality and does lower cardio- respiratory
+
+29
+00:01:58,600 --> 00:02:02,200
+fitness lead to higher mortality or is it at least associated?
+
+30
+00:02:02,200 --> 00:02:08,280
+Okay, so let's start by kind of explaining to folks the metrics that we're going to talk
+
+31
+00:02:08,360 --> 00:02:15,000
+about through this. So the most common thing I think we see in the literature is either
+
+32
+00:02:15,000 --> 00:02:21,320
+METS-metabolic Equivalence or VO2MAX. And I think part of that is it's quite objective.
+
+33
+00:02:22,520 --> 00:02:27,160
+So if anybody's had a VO2MAX test, they'll understand how objective and unpleasant it is.
+
+34
+00:02:29,080 --> 00:02:36,120
+I think we've talked about this before, so you are hooked up to an indirect calorimeter. So it's a
+
+35
+00:02:36,120 --> 00:02:42,040
+device that provides complete occlusion around your mouth and your nose. Typically this device
+
+36
+00:02:42,040 --> 00:02:47,800
+also sort of plugs your nose so you're only breathing through your mouth. And the important
+
+37
+00:02:47,800 --> 00:02:54,920
+thing is that the device has two sensors on it. One sensor measures the concentration of oxygen
+
+38
+00:02:54,920 --> 00:03:01,480
+that is being expelled. And for the purpose of this discussion, that's the more important of the
+
+39
+00:03:01,480 --> 00:03:06,200
+sensors. But for what it's worth, the other one is also measuring the concentration of carbon
+
+40
+00:03:06,200 --> 00:03:14,600
+dioxide that's expelled. So because we know the concentration of oxygen and CO2 on the way in,
+
+41
+00:03:14,600 --> 00:03:19,640
+by knowing what comes out, and obviously oxygen will be lower, CO2 will be higher,
+
+42
+00:03:20,200 --> 00:03:27,000
+we know how much carbon dioxide was produced and how much oxygen was consumed. And knowing those
+
+43
+00:03:27,000 --> 00:03:36,680
+two things gives you a flow rate of VO2 and a VCO2. Those two pieces of information alone tell you
+
+44
+00:03:36,680 --> 00:03:43,560
+how much energy you're utilizing via something called the Fick equation, if I'm not mistaken.
+
+45
+00:03:44,200 --> 00:03:56,760
+So total energy consumption is 3.94 times VO2 plus I think it's 1.11 times VCO2 at any point
+
+46
+00:03:56,760 --> 00:04:03,960
+in time. So if you have for this minute, VO2 was this, VCO2 was that, you apply it to that equation
+
+47
+00:04:03,960 --> 00:04:11,560
+and it will tell you, you were utilizing 10 kilocalories per minute, which would be 600
+
+48
+00:04:11,560 --> 00:04:19,560
+kilocalories per hour. Which is, I do this sometimes when I'm doing my zone two. My zone two
+
+49
+00:04:19,640 --> 00:04:30,920
+tends to be about 780 kilocalories per hour. So interesting, but again, that's not how I test
+
+50
+00:04:30,920 --> 00:04:34,760
+zone two, I'm using lactate for zone two. But now what we're talking about is something different,
+
+51
+00:04:34,760 --> 00:04:43,320
+which is what is the maximum utilization of oxygen? So if you make somebody work harder and harder and
+
+52
+00:04:43,320 --> 00:04:48,040
+harder, so if they're on a bike and you keep adding wattage to the bike and they have to pedal against
+
+53
+00:04:48,040 --> 00:04:52,120
+more and more resistance, or if they're on a treadmill and you make them run faster and faster
+
+54
+00:04:52,120 --> 00:05:00,040
+and up at higher and higher incline, at some point they will reach a maximum, at which point they can
+
+55
+00:05:00,040 --> 00:05:07,000
+no longer utilize more oxygen. Now we're not going to go into the why right now, but I believe that
+
+56
+00:05:07,000 --> 00:05:12,440
+Alex Hutchinson and I covered that in some depth in our podcast, you may recall. And we talked about
+
+57
+00:05:12,440 --> 00:05:17,960
+some of the alveolar limitations, how much of that is being limited at the gas exchange surface,
+
+58
+00:05:18,520 --> 00:05:22,920
+versus how much is being exchanged in the actual, pardon, how much of that is being limited in the
+
+59
+00:05:22,920 --> 00:05:28,760
+muscle. But regardless of which of those it is, and it's possible it's a combination, or it's
+
+60
+00:05:28,760 --> 00:05:34,360
+possible that at low levels of fitness it's more in the muscle, and at high levels of fitness it
+
+61
+00:05:34,440 --> 00:05:44,360
+might be more in the lung. But that number is the VO2 max. When you're doing the test, it's
+
+62
+00:05:44,360 --> 00:05:53,000
+measured typically in liters per minute, but then we normalize it by body weight. So we normalize it
+
+63
+00:05:53,000 --> 00:06:00,280
+as liters per, well we do it actually as milliliters per kilogram per minute. So when you start to hear
+
+64
+00:06:00,280 --> 00:06:07,720
+the numbers that people kick around, the fittest of the fit are going to be north of 80. But what
+
+65
+00:06:07,720 --> 00:06:13,960
+does that mean? It means they're north of 80 milliliters of oxygen per kilogram per minute. And
+
+66
+00:06:13,960 --> 00:06:18,120
+I think actually Alex and I talked about that on the podcast, right? The highest ever recorded
+
+67
+00:06:18,120 --> 00:06:29,320
+person was probably about 96 or so. And any sort of elite athlete, elite cardiac type athlete,
+
+68
+00:06:29,320 --> 00:06:35,800
+so runner, cyclist, rower, those sorts of athletes, they're generally going to be above 70.
+
+69
+00:06:35,800 --> 00:06:42,680
+So what does that number tell us about mortality? I think that's a question. And I think we've got
+
+70
+00:06:42,680 --> 00:06:49,000
+some data to talk about that. So do you want to pull out one of these slides here? Yeah, let's
+
+71
+00:06:49,000 --> 00:06:57,720
+pull it up. All right, I've got to slide up now. Okay, so this took a group of people. Do you recall
+
+72
+00:06:57,720 --> 00:07:06,440
+how old they were? I don't, but I'm looking right here. Let's see, about 53 on average.
+
+73
+00:07:06,440 --> 00:07:12,280
+Okay. All right, mean age. So and it ran them through a VO2 max test and then it ranked them.
+
+74
+00:07:12,280 --> 00:07:18,680
+And low were people who scored, I believe in the bottom 25th percentile. These are non-equally
+
+75
+00:07:18,680 --> 00:07:26,680
+weighted groups if my memory serves me correctly. But I think that low were the people in the bottom
+
+76
+00:07:26,680 --> 00:07:34,200
+25th percentile. Check me on that. Below average, I think was 25th to 50 percentile and then 50 to
+
+77
+00:07:34,200 --> 00:07:43,640
+75th percentile was above average. And high was like 75th to maybe 95th. And elite was just that
+
+78
+00:07:43,640 --> 00:07:47,400
+top 5%. I'm probably off by a little bit, but directionally, that's true. I just want to make
+
+79
+00:07:47,400 --> 00:07:52,120
+sure people don't look at these and think that each of them represents 20% of the population.
+
+80
+00:07:53,080 --> 00:07:56,920
+Yeah, I think that's directionally accurate. I'm looking at the table one,
+
+81
+00:07:56,920 --> 00:08:04,120
+their patient demographics. It's interesting. So it's a total of 122,000 patients. And if you look
+
+82
+00:08:04,120 --> 00:08:11,240
+at the low, below average and above average and high, they're all about 30,000 participants in
+
+83
+00:08:11,240 --> 00:08:17,480
+each one of those groups. And then you've got the elite and there's a little over 3,500 versus the
+
+84
+00:08:17,480 --> 00:08:23,560
+30,000 that's split amongst those other groups. Got it. Yeah. Okay. So that's about what we just
+
+85
+00:08:23,560 --> 00:08:30,600
+said there. Okay. And we're looking at all-cause mortality here and you can see a pretty clear
+
+86
+00:08:30,600 --> 00:08:35,960
+trend. So two things stand out, right? The two things that stand out are there's kind of a
+
+87
+00:08:35,960 --> 00:08:42,520
+monotonic relationship between fitness and mortality. But the second thing that stands out is by far
+
+88
+00:08:42,520 --> 00:08:51,480
+the biggest gap is between the people in the bottom 25%, which are categorized as low fitness
+
+89
+00:08:52,360 --> 00:08:57,720
+and basically everyone above them. So if you go to the next figure, Bob, I think we get to see
+
+90
+00:08:57,720 --> 00:09:05,160
+this in a little bit more detail. Yes. Yeah. I like this figure frankly more because it allows
+
+91
+00:09:05,320 --> 00:09:13,640
+us to see a bit more interesting stuff. So here we can see both for all patients, so lumping
+
+92
+00:09:13,640 --> 00:09:22,680
+everyone in together, male and female, if you have low fitness and then comparing it to everybody
+
+93
+00:09:22,680 --> 00:09:30,520
+else, what's the risk reduction? So if you go from low to below average to above average to high to
+
+94
+00:09:30,520 --> 00:09:39,000
+elite, you can see what is the hazard ratio. So it's interesting, going from just being low to
+
+95
+00:09:39,000 --> 00:09:46,120
+being below average is a 50% reduction in mortality over a decade if you're starting in your fifties.
+
+96
+00:09:48,280 --> 00:09:51,480
+We're going to come back to that, but that is so important, right?
+
+97
+00:09:52,040 --> 00:09:56,280
+It is. It seems like a weird message to give to somebody that, I want you to be below average,
+
+98
+00:09:56,280 --> 00:10:01,320
+but that is definitely a step up from low in terms of how they categorize these.
+
+99
+00:10:01,320 --> 00:10:12,360
+That's right. If you then go from low to above average, it's about a 60% or 70% reduction in
+
+100
+00:10:12,360 --> 00:10:19,480
+mortality. And it just continues monotonically to increase. Again, the lowest improvement
+
+101
+00:10:20,440 --> 00:10:25,240
+is going from high to elite. That doesn't buy you a whole heck of a lot.
+
+102
+00:10:27,000 --> 00:10:32,280
+It is still statistically significant. And to see that, you have to look at
+
+103
+00:10:34,760 --> 00:10:40,680
+figure C. Again, this is going to be one of those podcasts where it's really going to be better to
+
+104
+00:10:40,680 --> 00:10:46,600
+watch this over video because the data just speak for themselves. And of course, the show notes are
+
+105
+00:10:46,600 --> 00:10:51,640
+going to include all of these. So make sure you're looking at this. But remember the hazard
+
+106
+00:10:51,640 --> 00:11:02,120
+ratio for mortality is the reciprocal of the hazard ratio of risk reduction. So tables A and
+
+107
+00:11:02,120 --> 00:11:08,360
+C are basically showing you similar things in the group comparison. So again, when I said that going
+
+108
+00:11:08,360 --> 00:11:14,440
+from high to elite didn't have as much of a benefit, you can see it has the smallest hazard ratio of
+
+109
+00:11:15,400 --> 00:11:20,760
+improvement in benefit or the reduction going from elite to... Sorry, going from high to elite.
+
+110
+00:11:20,760 --> 00:11:27,720
+It's 29%. But notice that the confidence interval does not cross one and therefore the p value is
+
+111
+00:11:27,720 --> 00:11:34,840
+less than 0.05. Now, here's what's interesting. What they've done, and you can see all of these
+
+112
+00:11:34,840 --> 00:11:40,920
+listed, right? So if you compare someone of low fitness to elite, it is a five fold difference
+
+113
+00:11:40,920 --> 00:11:47,960
+in mortality over a decade, which is pretty remarkable. And that's what they show you above.
+
+114
+00:11:47,960 --> 00:11:53,480
+They give you context. They put this in the context of other things that we commonly understand
+
+115
+00:11:53,480 --> 00:11:59,240
+as being problematic for mortality, namely smoking, coronary artery disease, type 2 diabetes,
+
+116
+00:11:59,240 --> 00:12:07,480
+hypertension, and end stage renal disease. So look at these differences, right? And I believe, Bob,
+
+117
+00:12:07,480 --> 00:12:11,240
+this is not just for someone who's currently smoking. This is if you've ever smoked, right?
+
+118
+00:12:12,520 --> 00:12:16,680
+Yes. I think it was previously used or used tobacco. So they're really looking at
+
+119
+00:12:17,480 --> 00:12:21,320
+the difference between never smokers. So you've never smoked in your lifetime to if you've ever
+
+120
+00:12:21,320 --> 00:12:27,720
+smoked. Okay. And that's a 41% increase in mortality over the decade. Coronary artery disease,
+
+121
+00:12:27,720 --> 00:12:35,560
+29%. Diabetes, 40%. High blood pressure, 21%. And the most of all of these things,
+
+122
+00:12:35,640 --> 00:12:44,280
+end stage renal disease, about 280% increase in mortality. Now we all understand what that means,
+
+123
+00:12:44,280 --> 00:12:49,240
+but now when you compare that to these, the differences in these fitness levels, it gives you,
+
+124
+00:12:49,960 --> 00:12:55,400
+at least in my opinion, a greater appreciation for how much improvement in mortality comes
+
+125
+00:12:55,960 --> 00:13:01,160
+from improving your fitness. So if you look at the biggest driver of mortality,
+
+126
+00:13:01,160 --> 00:13:06,520
+which would be end stage renal disease in this cohort, it's the same as going from low
+
+127
+00:13:06,520 --> 00:13:10,920
+cardio respiratory fitness to above average cardio respiratory fitness. So going from the
+
+128
+00:13:10,920 --> 00:13:17,320
+bottom 25th percentile to being in the 50th to 75th percentile, which is a totally achievable
+
+129
+00:13:17,320 --> 00:13:23,640
+feat as you'll see in a moment. Anything else you want to say about this, Bob,
+
+130
+00:13:23,640 --> 00:13:29,640
+aside from the fact that it's sort of stunning? It is. It's really striking. So one little pro
+
+131
+00:13:29,640 --> 00:13:35,480
+tip or amateur tip is when Peter was talking about the Peter was talking about the reciprocals
+
+132
+00:13:35,480 --> 00:13:39,800
+is that if you look at figure two, a, and then you look at figure two, C, and you look at the
+
+133
+00:13:39,800 --> 00:13:44,600
+group comparisons, if you want to see those, that plotted point, for example, on the way on the
+
+134
+00:13:44,600 --> 00:13:52,120
+right hand side of figure two, a elite versus low, you can take that you can look at figure two,
+
+135
+00:13:52,120 --> 00:13:57,320
+C, where it says low versus elite and the hazard ratio is five. You just take the mean, the
+
+136
+00:13:57,400 --> 00:14:02,600
+reciprocal is just take one divided by five and you get, but you get point two. And then if you
+
+137
+00:14:02,600 --> 00:14:06,600
+look at that, so then when you look at the chart, it seems it, it makes sense. And then high versus
+
+138
+00:14:06,600 --> 00:14:11,800
+low, for example, it's 3.9 for hazard ratio, which is about four. So one divided by four is about
+
+139
+00:14:11,800 --> 00:14:19,720
+0.25 that checks out. So just a little pro tip for the fans out there. And that's, that's helpful
+
+140
+00:14:19,720 --> 00:14:25,800
+because these graphs have a log linear axis. So it's not intuitive to look at these things,
+
+141
+00:14:26,760 --> 00:14:33,000
+you know, going from low to below average gives you half of the benefit, but you'll never get the
+
+142
+00:14:33,000 --> 00:14:38,120
+remaining half ever because that would imply immortality, which obviously isn't happening.
+
+143
+00:14:38,920 --> 00:14:45,640
+Okay. So now let's put some numbers to this because this is one of those things that we use
+
+144
+00:14:45,640 --> 00:14:50,680
+a lot with our patients because we want most of our patients, we want all of them doing this, but
+
+145
+00:14:50,680 --> 00:14:54,120
+not all of them are willing to do it, but we certainly want everybody to have a VO two max
+
+146
+00:14:54,200 --> 00:15:00,040
+test so that we can kind of benchmark them on their way to their centenarian Olympics. So let's
+
+147
+00:15:00,040 --> 00:15:03,480
+actually see what these numbers look like. I think there's another graph here, right?
+
+148
+00:15:05,160 --> 00:15:09,880
+Thank you for listening to today's sneak peek AMA episode of the drive. If you're interested
+
+149
+00:15:09,880 --> 00:15:14,920
+in hearing the complete version of this AMA, you'll want to become a member. We created a membership
+
+150
+00:15:14,920 --> 00:15:21,000
+program to bring you more in-depth exclusive content without relying on paid ads. Membership
+
+151
+00:15:21,000 --> 00:15:25,720
+benefits are many and beyond the complete episodes of the AMA each month, they include
+
+152
+00:15:25,720 --> 00:15:32,040
+the following ridiculously comprehensive podcast show notes that detail every topic, paper, person,
+
+153
+00:15:32,040 --> 00:15:38,040
+and thing we discuss on each episode of the drive access to our private podcast feed. The
+
+154
+00:15:38,040 --> 00:15:42,840
+qualities, which were a super short podcast, typically less than five minutes released every
+
+155
+00:15:42,840 --> 00:15:47,480
+Tuesday through Friday, which highlight the best questions, topics, and tactics discussed on
+
+156
+00:15:47,480 --> 00:15:53,080
+previous episodes of the drive. This is particularly important for those of you who haven't heard all
+
+157
+00:15:53,080 --> 00:15:57,880
+of the back episodes, becomes a great way to go back and filter and decide which ones you want to
+
+158
+00:15:57,880 --> 00:16:03,160
+listen to in detail. Really steep discount codes for products I use and believe in, but for which
+
+159
+00:16:03,160 --> 00:16:08,920
+I don't get paid to endorse and benefits that we continue to add over time. If you want to learn
+
+160
+00:16:08,920 --> 00:16:15,800
+more and access these member only benefits, head over to PeterAttiaMD.com forward slash subscribe.
+
+161
+00:16:15,800 --> 00:16:20,120
+Lastly, if you're already a member, but you're hearing this, it means you haven't downloaded our
+
+162
+00:16:20,120 --> 00:16:25,000
+member only podcast feed where you can get the full access to the AMA and you don't have to listen to
+
+163
+00:16:25,000 --> 00:16:32,920
+this. You can download that at PeterAttiaMD.com forward slash members. You can find me on Twitter,
+
+164
+00:16:32,920 --> 00:16:39,720
+Instagram, and Facebook, all with the ID PeterAttiaMD. You can also leave us a review on Apple Podcast
+
+165
+00:16:39,720 --> 00:16:45,560
+or whatever podcast player you listen on. This podcast is for general informational purposes only
+
+166
+00:16:45,640 --> 00:16:50,680
+and does not constitute the practice of medicine, nursing, or other professional healthcare services,
+
+167
+00:16:50,680 --> 00:16:56,520
+including the giving of medical advice. No doctor-patient relationship is formed. The use of this
+
+168
+00:16:56,520 --> 00:17:02,200
+information and the materials linked to this podcast is at the user's own risk. The content
+
+169
+00:17:02,200 --> 00:17:07,960
+on this podcast is not intended to be a substitute for professional medical advice, diagnosis, or
+
+170
+00:17:07,960 --> 00:17:14,200
+treatment. Users should not disregard or delay in obtaining medical advice from any medical
+
+171
+00:17:14,200 --> 00:17:18,760
+condition they have, and they should seek the assistance of their healthcare professionals
+
+172
+00:17:18,760 --> 00:17:24,440
+for any such conditions. Finally, I take conflicts of interest very seriously. For all of my
+
+173
+00:17:24,440 --> 00:17:31,240
+disclosures and the companies I invest in or advise, please visit PeterAttiaMD.com forward
+
+174
+00:17:31,240 --> 00:17:44,280
+slash about where I keep an up-to-date and active list of such companies.
+
+175
+00:18:01,240 --> 00:18:01,320
+Thank you.
+

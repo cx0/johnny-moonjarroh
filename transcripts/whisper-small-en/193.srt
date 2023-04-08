@@ -1,0 +1,900 @@
+1
+00:00:00,000 --> 00:00:16,600
+Hey everyone, welcome to a sneak peek, Ask Me Anything or AMA episode of The Drive Podcast.
+
+2
+00:00:16,600 --> 00:00:18,380
+I'm your host, Peter Attia.
+
+3
+00:00:18,380 --> 00:00:22,980
+At the end of this short episode, I'll explain how you can access the AMA episodes in full
+
+4
+00:00:22,980 --> 00:00:26,060
+along with a ton of other membership benefits we've created.
+
+5
+00:00:26,060 --> 00:00:31,640
+Or you can learn more now by going to PeterAttiaMD.com forward slash subscribe.
+
+6
+00:00:31,640 --> 00:00:36,980
+So without further delay, here's today's sneak peek of the Ask Me Anything episode.
+
+7
+00:00:36,980 --> 00:00:44,360
+Hey everyone, welcome to Ask Me Anything episode number 31.
+
+8
+00:00:44,360 --> 00:00:49,320
+I'm joined once again by Bob Kaplan, although as you'll learn at the end of this episode,
+
+9
+00:00:49,320 --> 00:00:52,980
+this will be the last time we're joined by Bob Kaplan, but let's not get ahead of ourselves.
+
+10
+00:00:52,980 --> 00:00:56,820
+In today's episode, we talk about really two things in detail.
+
+11
+00:00:56,820 --> 00:00:59,060
+One is HRV, heart rate variability.
+
+12
+00:00:59,060 --> 00:01:03,780
+We've had so many questions on this subject for the past couple of years and we've just
+
+13
+00:01:03,780 --> 00:01:07,900
+been slowly kind of collecting questions until we thought we had enough to do kind of one
+
+14
+00:01:07,900 --> 00:01:09,540
+of our thematic shows on it.
+
+15
+00:01:09,540 --> 00:01:13,260
+And the second thing we talk about is ethanol, all things related to ethanol.
+
+16
+00:01:13,260 --> 00:01:18,500
+So how does it affect HRV is really our segue, but then also what are the effects of alcohol
+
+17
+00:01:18,500 --> 00:01:19,500
+on sleep?
+
+18
+00:01:19,500 --> 00:01:24,580
+We go after mortality, probably where we spend most of our time and we talk about it
+
+19
+00:01:24,580 --> 00:01:29,700
+through the lens of all of the epidemiology as most of you or may some of you know, there's
+
+20
+00:01:29,700 --> 00:01:34,180
+a confusing body of literature out there that suggests that maybe some alcohol is good for
+
+21
+00:01:34,180 --> 00:01:37,420
+you and no alcohol is not as good for you.
+
+22
+00:01:37,420 --> 00:01:39,900
+And so we go really deep on this subject matter.
+
+23
+00:01:39,900 --> 00:01:44,220
+So again, if you have any questions about alcohol or if you drink at all, or if you
+
+24
+00:01:44,220 --> 00:01:47,460
+don't drink and you're wondering if you should be drinking, I think this episode will be
+
+25
+00:01:47,460 --> 00:01:48,780
+very helpful for you.
+
+26
+00:01:48,780 --> 00:01:53,060
+So one thing I want to point out for this episode, this episode was just due to some
+
+27
+00:01:53,060 --> 00:01:54,900
+limitations of timing when we recorded it.
+
+28
+00:01:54,900 --> 00:01:59,540
+This was not recorded in video, so we will only be doing this in audio.
+
+29
+00:01:59,540 --> 00:02:03,220
+That might make the show notes a little more important, although we didn't really have
+
+30
+00:02:03,220 --> 00:02:06,860
+a lot of content here that necessitated being able to see.
+
+31
+00:02:06,860 --> 00:02:10,100
+So I think you're going to be fine listening to this in audio, but obviously the show notes
+
+32
+00:02:10,100 --> 00:02:13,260
+will have any of the graphs and other images that we talk about.
+
+33
+00:02:13,260 --> 00:02:17,020
+Now, if you're not a subscriber, of course you can get a sneak peek of this as usual,
+
+34
+00:02:17,020 --> 00:02:21,420
+and then you'll have to obviously subscribe if you want to enjoy the full content.
+
+35
+00:02:21,420 --> 00:02:25,460
+So without further delay, I hope you enjoy AMA number 31.
+
+36
+00:02:25,460 --> 00:02:32,460
+Hey Bob, how's it going today?
+
+37
+00:02:32,460 --> 00:02:33,460
+Going well Peter.
+
+38
+00:02:33,460 --> 00:02:34,460
+How are you?
+
+39
+00:02:34,460 --> 00:02:35,460
+It's good.
+
+40
+00:02:35,460 --> 00:02:36,460
+It's a little unusual today.
+
+41
+00:02:36,460 --> 00:02:39,860
+We're doing this a little bit on the old school tip, no video today.
+
+42
+00:02:39,860 --> 00:02:44,800
+We're going to be a little bit more descriptive in our terms since people can't watch our
+
+43
+00:02:44,800 --> 00:02:48,640
+facial expressions, although that somehow provided any value.
+
+44
+00:02:48,640 --> 00:02:50,640
+We won't do any screen sharing.
+
+45
+00:02:50,640 --> 00:02:51,760
+I think we can manage.
+
+46
+00:02:51,760 --> 00:02:54,720
+What do you have in store for us today?
+
+47
+00:02:54,720 --> 00:03:02,840
+So I aggregated a whole bunch of questions around HRV, heart rate variability, and alcohol.
+
+48
+00:03:02,840 --> 00:03:04,800
+Many questions on both those topics.
+
+49
+00:03:04,800 --> 00:03:08,240
+I know this has been something you've been asking me about for a year.
+
+50
+00:03:08,240 --> 00:03:09,240
+When are we going to do one on HRV?
+
+51
+00:03:09,240 --> 00:03:10,240
+When are we going to do one on HRV?
+
+52
+00:03:10,240 --> 00:03:12,680
+So I think the answer is now.
+
+53
+00:03:12,680 --> 00:03:13,680
+All right.
+
+54
+00:03:13,680 --> 00:03:15,560
+We'll dive in.
+
+55
+00:03:15,560 --> 00:03:17,560
+First question.
+
+56
+00:03:17,560 --> 00:03:18,840
+Seems relevant.
+
+57
+00:03:18,840 --> 00:03:19,840
+What is HRV?
+
+58
+00:03:19,840 --> 00:03:20,840
+It's funny.
+
+59
+00:03:20,840 --> 00:03:26,520
+This is a tougher question to answer without an image, but I'll do my best.
+
+60
+00:03:26,520 --> 00:03:31,440
+As you pointed out a second ago, HRV stands for heart rate variability.
+
+61
+00:03:31,440 --> 00:03:36,200
+That's a pretty descriptive term because what it measures is the variation in time between
+
+62
+00:03:36,200 --> 00:03:37,200
+heartbeats.
+
+63
+00:03:37,200 --> 00:03:38,640
+That's measured in milliseconds.
+
+64
+00:03:38,640 --> 00:03:43,040
+So 1,000 milliseconds is one second.
+
+65
+00:03:43,040 --> 00:03:52,480
+So if a person's heart is beating 60 times per minute, you might say, well, there's 1,000
+
+66
+00:03:52,480 --> 00:03:59,280
+milliseconds between every beat, but it turns out that it's not really that way.
+
+67
+00:03:59,280 --> 00:04:05,280
+You see, even if your heart is beating 60 times per minute or once per second, between
+
+68
+00:04:05,280 --> 00:04:12,000
+the first beat and the second beat, it might be 1,010 milliseconds.
+
+69
+00:04:12,000 --> 00:04:19,040
+And between that beat and the next beat, it might be 960 milliseconds.
+
+70
+00:04:19,040 --> 00:04:23,320
+And between that beat and the beat thereafter, it might be 1,027 milliseconds.
+
+71
+00:04:23,320 --> 00:04:29,000
+When you start looking at this thing at the level of thousandths of a second, you realize
+
+72
+00:04:29,000 --> 00:04:31,280
+that there is actually some variability.
+
+73
+00:04:31,280 --> 00:04:35,960
+If anybody has ever seen an EKG, which I'm sure everybody has seen, but maybe you haven't
+
+74
+00:04:35,960 --> 00:04:39,600
+thought so much about what all the little squiggly lines mean, without going into the
+
+75
+00:04:39,600 --> 00:04:45,920
+details of what the P wave and the QRS and T waves mean, I think most people will recognize
+
+76
+00:04:45,920 --> 00:04:49,640
+that there is a very big spike for each of those beats.
+
+77
+00:04:49,640 --> 00:04:52,960
+And that's actually the R spike.
+
+78
+00:04:52,960 --> 00:04:59,800
+If you now measure the distance between the Rs, we call that the RR interval, and you
+
+79
+00:04:59,800 --> 00:05:05,600
+take the root mean square of the successive differences between the heartbeats.
+
+80
+00:05:05,600 --> 00:05:11,520
+So that means you calculate the time difference between each RR interval.
+
+81
+00:05:11,520 --> 00:05:15,640
+Each of those values is squared, so multiplied by itself.
+
+82
+00:05:15,640 --> 00:05:20,440
+Then the result is averaged before the square root of the total is obtained.
+
+83
+00:05:20,440 --> 00:05:25,520
+So it's just kind of a mathematical method for trying to approximate differences.
+
+84
+00:05:25,520 --> 00:05:27,120
+You get what's called the RMSSD.
+
+85
+00:05:27,120 --> 00:05:31,420
+Again, if you just think about that in units, you took something that was in milliseconds,
+
+86
+00:05:31,420 --> 00:05:33,760
+you squared it, so it became milliseconds squared.
+
+87
+00:05:33,760 --> 00:05:34,760
+You added them all up.
+
+88
+00:05:34,760 --> 00:05:36,000
+It was still milliseconds squared.
+
+89
+00:05:36,000 --> 00:05:37,000
+You took the square root of it.
+
+90
+00:05:37,000 --> 00:05:38,120
+It's back to milliseconds.
+
+91
+00:05:38,120 --> 00:05:41,920
+So RMSSD is reported in milliseconds.
+
+92
+00:05:41,920 --> 00:05:47,440
+If anybody's been paying attention to wearables, a number of these things will calculate your
+
+93
+00:05:47,440 --> 00:05:51,000
+heart rate variability, typically while you're sleeping, and you'll notice it gives you a
+
+94
+00:05:51,000 --> 00:05:53,560
+number in milliseconds.
+
+95
+00:05:53,560 --> 00:06:00,140
+I think prior to the advent of wearables, this was typically just done with an EKG or
+
+96
+00:06:00,140 --> 00:06:05,660
+another sort of chest strap-like device that was very accurately measuring the electrical
+
+97
+00:06:05,660 --> 00:06:07,180
+activity of the heart.
+
+98
+00:06:07,180 --> 00:06:10,220
+The next question is probably why do we measure HRV?
+
+99
+00:06:10,220 --> 00:06:11,220
+So you talked about heart rate.
+
+100
+00:06:11,220 --> 00:06:15,800
+I think people would understand measuring heart rate and maybe why that matters, why
+
+101
+00:06:15,800 --> 00:06:18,320
+you might want a lower heart rate in general.
+
+102
+00:06:18,320 --> 00:06:20,000
+Why do we measure HRV?
+
+103
+00:06:20,000 --> 00:06:21,500
+What does it tell us?
+
+104
+00:06:21,500 --> 00:06:23,620
+What can it tell us possibly?
+
+105
+00:06:23,620 --> 00:06:28,120
+As I alluded to above, the heart, even when your heart rate is not changing, and if you're
+
+106
+00:06:28,120 --> 00:06:33,600
+at rest, which is when we measure HRV, so we don't really measure HRV when you're out
+
+107
+00:06:33,600 --> 00:06:38,400
+and about moving around because just the movement itself that you're undergoing is going to
+
+108
+00:06:38,400 --> 00:06:39,400
+change your heart rate.
+
+109
+00:06:39,400 --> 00:06:43,440
+So if I stand up from my desk and go and walk over to the kitchen and do something, well,
+
+110
+00:06:43,440 --> 00:06:45,560
+that's going to increase my heart rate just because I stood up.
+
+111
+00:06:45,560 --> 00:06:48,920
+And if I'm exercising, obviously my heart rate is changing quite a bit.
+
+112
+00:06:48,920 --> 00:06:51,440
+So this is really something that we care about when you're at rest.
+
+113
+00:06:51,440 --> 00:06:54,440
+But as I said, there is variability between those beats.
+
+114
+00:06:54,440 --> 00:07:00,380
+And it turns out that that variability is heavily influenced by which of the autonomic
+
+115
+00:07:00,380 --> 00:07:02,920
+nervous systems is most dominant.
+
+116
+00:07:02,920 --> 00:07:05,480
+So this probably warrants a slight detour.
+
+117
+00:07:05,480 --> 00:07:10,660
+So we have broadly, broadly speaking, two nervous systems.
+
+118
+00:07:10,660 --> 00:07:17,140
+We have one that is under our control and one that is not under our control.
+
+119
+00:07:17,140 --> 00:07:18,560
+And that's a very good thing.
+
+120
+00:07:18,560 --> 00:07:24,480
+If you want to reach for and grab a pencil or walk, obviously that requires voluntary
+
+121
+00:07:24,480 --> 00:07:25,480
+control.
+
+122
+00:07:25,480 --> 00:07:30,080
+You want to be in control of those nerves firing and making muscles do their thing.
+
+123
+00:07:30,080 --> 00:07:34,440
+But you certainly don't want to have to be thinking and consciously making things happen
+
+124
+00:07:34,440 --> 00:07:36,120
+that need to happen constantly.
+
+125
+00:07:36,120 --> 00:07:38,720
+You certainly wouldn't want to have to think about breathing.
+
+126
+00:07:38,720 --> 00:07:41,520
+You certainly wouldn't want to have to think about your heart beating.
+
+127
+00:07:41,520 --> 00:07:44,800
+You certainly wouldn't want to have to think about digesting food.
+
+128
+00:07:45,360 --> 00:07:49,360
+You certainly wouldn't want to have to think about a lot of things that take place beneath
+
+129
+00:07:49,360 --> 00:07:50,360
+the surface.
+
+130
+00:07:50,360 --> 00:07:55,560
+So all of those things are regulated by this thing called the autonomic nervous system.
+
+131
+00:07:55,560 --> 00:07:59,560
+We further divide this autonomic nervous system into two branches.
+
+132
+00:07:59,560 --> 00:08:04,720
+One is called the sympathetic system and the other is called the parasympathetic system.
+
+133
+00:08:04,720 --> 00:08:11,000
+The parasympathetic system, the way we would always learn to remember this in medical school
+
+134
+00:08:11,000 --> 00:08:14,400
+was this was the rest and digest system.
+
+135
+00:08:14,400 --> 00:08:17,280
+So this is the down regulating system.
+
+136
+00:08:17,280 --> 00:08:19,520
+It conserves energy.
+
+137
+00:08:19,520 --> 00:08:21,240
+It aids in digestion.
+
+138
+00:08:21,240 --> 00:08:23,480
+It slows heart rate.
+
+139
+00:08:23,480 --> 00:08:28,320
+Our favorite little fact was it was responsible for erections but not ejaculation.
+
+140
+00:08:28,320 --> 00:08:31,080
+Ejaculation somehow came from the sympathetic system.
+
+141
+00:08:31,080 --> 00:08:34,000
+So the sympathetic system of course is the fight or flight system.
+
+142
+00:08:34,000 --> 00:08:36,760
+So it's making energy more available.
+
+143
+00:08:36,760 --> 00:08:38,440
+It's dilating the pupils, right?
+
+144
+00:08:38,440 --> 00:08:41,760
+It's getting you ready to see as much information as possible.
+
+145
+00:08:41,760 --> 00:08:47,520
+It's slowing digestion and peristalsis, meaning it's slowing down anything that's not essential
+
+146
+00:08:47,520 --> 00:08:49,400
+and it's increasing heart rate.
+
+147
+00:08:49,400 --> 00:08:50,880
+Let's just think about what this looks like.
+
+148
+00:08:50,880 --> 00:08:56,600
+From a practical standpoint, if you're laying in bed and you hear a loud bang in your house,
+
+149
+00:08:56,600 --> 00:09:00,360
+you have no idea if it's an intruder or if a picture fell off the wall but you don't
+
+150
+00:09:00,360 --> 00:09:01,880
+even have to worry about it.
+
+151
+00:09:01,880 --> 00:09:04,880
+Your brain isn't going to even force you to make that decision.
+
+152
+00:09:04,880 --> 00:09:07,960
+It's going to make the decision for you which is this is a threat.
+
+153
+00:09:07,960 --> 00:09:09,340
+And so your heart rate is going to shoot up.
+
+154
+00:09:09,340 --> 00:09:11,140
+Your pupils will dilate.
+
+155
+00:09:11,140 --> 00:09:15,380
+Any amount of digestive energy going on right now will cease and your liver is going to
+
+156
+00:09:15,380 --> 00:09:18,900
+start cranking out glucose and making you available for a fight or flight.
+
+157
+00:09:18,900 --> 00:09:21,540
+Okay, so what does this do to HRV?
+
+158
+00:09:21,540 --> 00:09:28,460
+It turns out when the sympathetic system is revved up, HRV goes down.
+
+159
+00:09:28,460 --> 00:09:32,820
+And when the parasympathetic system is in control, HRV goes up.
+
+160
+00:09:32,820 --> 00:09:34,860
+And I think it's easy to think about this, right?
+
+161
+00:09:34,860 --> 00:09:39,500
+As the heart rate speeds up, which is what's happening under sympathetic tone, there's
+
+162
+00:09:39,500 --> 00:09:41,740
+less variability between the beats.
+
+163
+00:09:41,740 --> 00:09:47,420
+When the heart rate slows down, when the body is relaxing, there's more variability between
+
+164
+00:09:47,420 --> 00:09:48,420
+beats.
+
+165
+00:09:48,420 --> 00:09:49,420
+I don't know if that's intuitive or not.
+
+166
+00:09:49,420 --> 00:09:50,820
+I was thinking about that.
+
+167
+00:09:50,820 --> 00:09:55,820
+If you have over the course of a minute and your beats per minute is say you're, I don't
+
+168
+00:09:55,820 --> 00:09:58,900
+know, Lance Armstrong when he's at the height of his powers.
+
+169
+00:09:58,900 --> 00:09:59,900
+I don't even know what that is.
+
+170
+00:09:59,900 --> 00:10:01,740
+Yeah, probably 30 beats per minute, yeah.
+
+171
+00:10:01,740 --> 00:10:06,140
+30 and then you've got somebody else who has 100 beats per minute, just the RR intervals,
+
+172
+00:10:06,140 --> 00:10:07,140
+whatever you call it.
+
+173
+00:10:07,140 --> 00:10:08,620
+There's just less time between them.
+
+174
+00:10:08,620 --> 00:10:13,700
+Intuitively, I would think there would be less room for variation between each beat.
+
+175
+00:10:13,700 --> 00:10:14,700
+That makes sense.
+
+176
+00:10:14,700 --> 00:10:15,700
+Yeah.
+
+177
+00:10:15,700 --> 00:10:20,140
+I mean, I don't know how strong the correlation is between resting heart rate and HRV.
+
+178
+00:10:20,140 --> 00:10:24,300
+It's almost undoubtedly positive, but I don't know what the R squared is on that.
+
+179
+00:10:24,300 --> 00:10:26,060
+Is that a fair explanation, Bob?
+
+180
+00:10:26,060 --> 00:10:29,180
+Does that make sense on why we would care about the HRV?
+
+181
+00:10:29,180 --> 00:10:31,180
+Yes, I think so.
+
+182
+00:10:31,180 --> 00:10:33,060
+There's a knock on to that.
+
+183
+00:10:33,060 --> 00:10:37,860
+When you get your HRV output, if it's high or low, what is that telling us or how does
+
+184
+00:10:37,860 --> 00:10:38,860
+that inform us?
+
+185
+00:10:38,860 --> 00:10:41,140
+What do we do with that information?
+
+186
+00:10:41,140 --> 00:10:44,980
+Thank you for listening to today's sneak peek AMA episode of The Drive.
+
+187
+00:10:44,980 --> 00:10:48,740
+If you're interested in hearing the complete version of this AMA, you'll want to become
+
+188
+00:10:48,740 --> 00:10:49,740
+a member.
+
+189
+00:10:49,740 --> 00:10:54,720
+We created a membership program to bring you more in-depth exclusive content without relying
+
+190
+00:10:54,720 --> 00:10:56,740
+on paid ads.
+
+191
+00:10:56,740 --> 00:11:01,140
+Membership benefits are many and beyond the complete episodes of the AMA each month, they
+
+192
+00:11:01,140 --> 00:11:02,740
+include the following.
+
+193
+00:11:02,740 --> 00:11:07,940
+Ridiculously comprehensive podcast show notes that detail every topic, paper, person, and
+
+194
+00:11:07,940 --> 00:11:11,540
+thing we discuss on each episode of The Drive.
+
+195
+00:11:11,540 --> 00:11:16,580
+Access to our private podcast feed, The Qualies, which are a super short podcast, typically
+
+196
+00:11:16,580 --> 00:11:21,820
+less than five minutes, released every Tuesday through Friday, which highlight the best questions,
+
+197
+00:11:21,820 --> 00:11:25,140
+topics, and tactics discussed on previous episodes of The Drive.
+
+198
+00:11:25,140 --> 00:11:30,100
+This is particularly important for those of you who haven't heard all of the back episodes,
+
+199
+00:11:30,100 --> 00:11:34,020
+it becomes a great way to go back and filter and decide which ones you want to listen to
+
+200
+00:11:34,020 --> 00:11:35,420
+in detail.
+
+201
+00:11:35,420 --> 00:11:39,380
+Really steep discount codes for products I use and believe in, but for which I don't get
+
+202
+00:11:39,380 --> 00:11:44,220
+paid to endorse, and benefits that we continue to add over time.
+
+203
+00:11:44,220 --> 00:11:49,540
+If you want to learn more and access these member-only benefits, head over to PeterAttiaMD.com
+
+204
+00:11:49,540 --> 00:11:51,380
+forward slash subscribe.
+
+205
+00:11:51,380 --> 00:11:55,780
+Lastly, if you're already a member but you're hearing this, it means you haven't downloaded
+
+206
+00:11:55,780 --> 00:12:00,260
+our member-only podcast feed where you can get the full access to the AMA and you don't
+
+207
+00:12:00,260 --> 00:12:01,860
+have to listen to this.
+
+208
+00:12:01,860 --> 00:12:07,660
+You can download that at PeterAttiaMD.com forward slash members.
+
+209
+00:12:07,660 --> 00:12:13,260
+You can find me on Twitter, Instagram, and Facebook, all with the ID PeterAttiaMD.
+
+210
+00:12:13,260 --> 00:12:18,500
+You can also leave us a review on Apple Podcast or whatever podcast player you listen on.
+
+211
+00:12:18,500 --> 00:12:22,500
+This podcast is for general informational purposes only and does not constitute the
+
+212
+00:12:22,500 --> 00:12:27,900
+practice of medicine, nursing, or other professional healthcare services, including the giving of
+
+213
+00:12:27,900 --> 00:12:29,500
+medical advice.
+
+214
+00:12:29,500 --> 00:12:31,780
+No doctor-patient relationship is formed.
+
+215
+00:12:31,780 --> 00:12:36,540
+The use of this information and the materials linked to this podcast is at the user's own
+
+216
+00:12:36,540 --> 00:12:37,540
+risk.
+
+217
+00:12:37,540 --> 00:12:41,900
+The content on this podcast is not intended to be a substitute for professional medical
+
+218
+00:12:41,900 --> 00:12:45,180
+advice, diagnosis, or treatment.
+
+219
+00:12:45,180 --> 00:12:50,620
+Users should not disregard or delay in obtaining medical advice from any medical condition
+
+220
+00:12:50,620 --> 00:12:55,180
+they have and they should seek the assistance of their healthcare professionals for any
+
+221
+00:12:55,180 --> 00:12:56,180
+such conditions.
+
+222
+00:12:56,180 --> 00:12:59,660
+Finally, I take conflicts of interest very seriously.
+
+223
+00:12:59,660 --> 00:13:06,660
+For all of my disclosures and the companies I invest in or advise, please visit PeterAttiaMD.com
+
+224
+00:13:06,660 --> 00:13:17,620
+forward slash about where I keep an up-to-date and active list of such companies.
+
+225
+00:13:20,620 --> 00:13:27,620
+Thank you.
+

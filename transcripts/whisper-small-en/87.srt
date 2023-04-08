@@ -1,0 +1,4496 @@
+1
+00:00:00,000 --> 00:00:15,600
+Hey everyone. Welcome to the Drive podcast. I'm your host, Peter Attia. This podcast,
+
+2
+00:00:15,600 --> 00:00:19,360
+my website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:19,360 --> 00:00:24,360
+longevity into something accessible for everyone. Our goal is to provide the best content in
+
+4
+00:00:24,360 --> 00:00:28,440
+health and wellness, full stop, and we've assembled a great team of analysts to make
+
+5
+00:00:28,440 --> 00:00:32,720
+this happen. If you enjoy this podcast, we've created a membership program that brings you
+
+6
+00:00:32,720 --> 00:00:36,920
+far more in-depth content if you want to take your knowledge of this space to the next level.
+
+7
+00:00:36,920 --> 00:00:41,560
+At the end of this episode, I'll explain what those benefits are, or if you want to learn more now,
+
+8
+00:00:41,560 --> 00:00:48,080
+head over to PeterAttiaMD.com forward slash subscribe. Now, without further delay, here's
+
+9
+00:00:48,080 --> 00:00:56,480
+today's episode. I guess this week is Dr. Rick Johnson. Rick is a professor of medicine in the
+
+10
+00:00:56,480 --> 00:01:00,560
+Department of Nephrology at the University of Colorado, where he's been since 2008. He's
+
+11
+00:01:00,560 --> 00:01:05,240
+basically spent the last 17 years being a division chief across three very prestigious medical
+
+12
+00:01:05,240 --> 00:01:12,200
+schools. He's unbelievably prolific as an author. He has well over 700 approaching 800 publications,
+
+13
+00:01:12,200 --> 00:01:17,120
+seemingly every week in JAMA, New England Journal of Medicine, Science, et cetera. He's
+
+14
+00:01:17,120 --> 00:01:23,520
+lectured across 40 countries, authored two books, one of which we discuss in great detail in this
+
+15
+00:01:23,520 --> 00:01:28,800
+podcast called The Fat Switch, which he wrote about seven or eight years ago. He's been funded
+
+16
+00:01:28,800 --> 00:01:35,840
+extensively by NIH and in fact has received the most prestigious grants that NIH has to offer.
+
+17
+00:01:35,840 --> 00:01:40,680
+His primary focus in research has been on the mechanisms causing kidney disease, but it was
+
+18
+00:01:40,680 --> 00:01:46,400
+doing this that he became really interested in obesity, diabetes, heart disease. What connected
+
+19
+00:01:46,400 --> 00:01:51,640
+me to Rick, I guess about seven years ago now, maybe a bit longer, was his work on fructose
+
+20
+00:01:51,760 --> 00:01:56,640
+and fructose metabolism. That's really what we talk a lot about in this podcast. We start by
+
+21
+00:01:56,640 --> 00:02:01,280
+talking about high blood pressure, the relationship between salt and high blood pressure, which is
+
+22
+00:02:01,280 --> 00:02:04,920
+something that is incredibly controversial. I actually learned a lot in this podcast. I'm
+
+23
+00:02:04,920 --> 00:02:08,640
+really glad we had this discussion because I thought I had this thing figured out in it. I
+
+24
+00:02:08,640 --> 00:02:12,880
+clearly don't. We talk about one of the most interesting bifurcations in evolution with
+
+25
+00:02:12,880 --> 00:02:18,400
+respect to an enzyme that allowed us to use fructose in a certain way that was obviously
+
+26
+00:02:18,400 --> 00:02:23,040
+advantageous millions of years ago today, not so much. We talk a lot about uric acid,
+
+27
+00:02:23,040 --> 00:02:27,520
+which you've probably heard me talk about on other podcasts. This will then be the master's
+
+28
+00:02:27,520 --> 00:02:34,960
+class in it. We talk about artificial sweeteners and we touch on some of the most promising ideas
+
+29
+00:02:34,960 --> 00:02:42,280
+around pharmacotherapy that are being developed in response to the epidemics of metabolic disease,
+
+30
+00:02:42,280 --> 00:02:46,880
+especially in response to sugar. This episode gets a little bit deep on some of the biochem.
+
+31
+00:02:46,880 --> 00:02:51,560
+We're going to have obviously the show notes will as usual provide a great background analyst
+
+32
+00:02:51,560 --> 00:02:55,480
+of references. I hope you enjoy my discussion with Dr. Rick Johnson.
+
+33
+00:02:55,480 --> 00:03:03,800
+Hey, Rick. Thanks so much for opening up your office today and making time.
+
+34
+00:03:03,800 --> 00:03:08,680
+It's great. I'm very happy to have you here. I've wanted to sit down with you for about a year in
+
+35
+00:03:08,680 --> 00:03:14,280
+this format because I guess we've probably known each other for maybe about six years now. Every
+
+36
+00:03:14,280 --> 00:03:18,440
+discussion has been one of those discussions where at the end of the discussion, I think,
+
+37
+00:03:18,440 --> 00:03:24,360
+man, how am I ever going to remember all of this stuff? How will I be able to synthesize this to
+
+38
+00:03:24,360 --> 00:03:30,600
+translate it into what I'm doing? I've said this many times before, but that is the whole reason
+
+39
+00:03:30,600 --> 00:03:36,680
+that I started a podcast was I just found myself every week having a discussion with someone,
+
+40
+00:03:36,680 --> 00:03:41,080
+usually scientists, where I thought, this is something that's got to be shared. You would
+
+41
+00:03:41,080 --> 00:03:45,040
+certainly be one of the three or four people indirectly that was a real catalyst for the
+
+42
+00:03:45,040 --> 00:03:49,120
+podcast because of the frequency with which we would either have these dinner discussions or
+
+43
+00:03:49,120 --> 00:03:53,280
+discussions over the phone. Anyway, for that, I want to thank you and hopefully the listeners do
+
+44
+00:03:53,280 --> 00:03:57,800
+as well. In the introduction, I've set this up a little bit as to why this is such an important
+
+45
+00:03:57,800 --> 00:04:03,160
+discussion. Because there's so much to talk about, I just want to jump right into the meat of things.
+
+46
+00:04:03,160 --> 00:04:10,720
+It would be not an exaggeration to say you were one of the world's experts on fructose. I guess
+
+47
+00:04:10,720 --> 00:04:14,480
+I would just start with the why. Where did that interest come from? You've obviously been doing
+
+48
+00:04:14,480 --> 00:04:18,440
+this for a long time and that passion has been sustained. So what brought you to this point?
+
+49
+00:04:18,440 --> 00:04:25,080
+Well, I'm a kidney doctor. So normally we wouldn't be studying sugar. So it was kind of a circuitous
+
+50
+00:04:25,080 --> 00:04:30,520
+way that I got there. I was very interested in the cause of high blood pressure and had been
+
+51
+00:04:30,520 --> 00:04:36,680
+known for a long time that high blood pressure is linked with kidney. And in fact, the going theory
+
+52
+00:04:36,800 --> 00:04:44,720
+is for years was that the kidney in high blood pressure has a defect in its ability to excrete
+
+53
+00:04:44,720 --> 00:04:50,360
+salt. And so that you end up retaining salt and that leads to elevated blood pressure. And when
+
+54
+00:04:50,360 --> 00:04:55,920
+we were studying trying to understand how the kidney handles salt in high blood pressure and
+
+55
+00:04:55,920 --> 00:05:02,680
+so forth, we were trying to understand potential pathways. And we stumbled on the fact that
+
+56
+00:05:02,680 --> 00:05:08,680
+hyperuricemia or elevated uric acid could be a very significant risk factor for high blood
+
+57
+00:05:08,680 --> 00:05:14,840
+pressure. And when we started studying uric acid, we realized that when you raised uric acid in
+
+58
+00:05:14,840 --> 00:05:20,120
+animals, they developed high blood pressure. From there, we started to try to understand what made
+
+59
+00:05:20,120 --> 00:05:25,360
+the uric acid go up. And we knew from the literature that sugar and particularly fructose
+
+60
+00:05:25,360 --> 00:05:31,880
+raised uric acid. So we started studying fructose and pretty soon we were so excited about what we
+
+61
+00:05:31,880 --> 00:05:38,000
+were finding that we just kind of changed our research direction to focus more on how fructose
+
+62
+00:05:38,000 --> 00:05:43,520
+has all of its metabolic effects. Well, there's a lot to unpack there. So let me kind of go back
+
+63
+00:05:43,520 --> 00:05:49,360
+to bits of it. You sort of gloss over the fact that the conventional approach to high blood
+
+64
+00:05:49,360 --> 00:05:55,400
+pressure is that sodium is the culprit. And isn't it still safe to say that most advice around
+
+65
+00:05:55,400 --> 00:05:59,680
+reducing blood pressure comes down to reducing sodium intake? Well, we've actually been studying
+
+66
+00:05:59,680 --> 00:06:06,200
+this pretty extensively. There's a lot of pearls I can teach you, or I can talk about related to
+
+67
+00:06:06,200 --> 00:06:12,920
+salt. And when I was in training, I was taught that you restrict a certain amount of salt, you
+
+68
+00:06:12,920 --> 00:06:19,520
+should be on a low salt diet as a mechanism to prevent high blood pressure. It was always about
+
+69
+00:06:19,520 --> 00:06:26,240
+the amount of salt. In fact, we were teaching that for a long time that if you want to have a low
+
+70
+00:06:26,240 --> 00:06:31,760
+blood pressure, you should restrict your salt intake. Or if you want to try to treat your high
+
+71
+00:06:31,760 --> 00:06:38,120
+blood pressure, you should restrict your salt intake. What's happened in the last couple decades
+
+72
+00:06:38,120 --> 00:06:44,360
+has been the increasing knowledge that it isn't really the salt amount that makes a difference,
+
+73
+00:06:44,360 --> 00:06:53,320
+but the salt concentration. So when you eat salt, like if you eat a salty soup, the salt concentration
+
+74
+00:06:53,320 --> 00:07:01,200
+goes up in your blood first. And it translates into a thing called osmolality. And so your serum
+
+75
+00:07:01,200 --> 00:07:07,680
+osmolality goes up. So osmolality is sort of like the ionic pressure build up in a fluid? Is that a way
+
+76
+00:07:07,680 --> 00:07:14,280
+to... It's sort of like the number of molecules in a set of volume. So literally, when you eat salt,
+
+77
+00:07:14,280 --> 00:07:22,000
+if it's really salty, let's say you have a serum sodium concentration of 140 millimoles per liter,
+
+78
+00:07:22,120 --> 00:07:28,080
+if you eat a really salty soup, your serum sodium may go up to 142 or 143. What looks like pretty
+
+79
+00:07:28,080 --> 00:07:34,040
+insignificant, but that actually is what triggers a rise in blood pressure. And so we've actually
+
+80
+00:07:34,040 --> 00:07:39,200
+done the study where we took people and gave them soup with or without salt. And when they
+
+81
+00:07:39,200 --> 00:07:44,720
+drink the salty soup, their serum sodium goes up and their blood pressure shoots up.
+
+82
+00:07:44,720 --> 00:07:49,120
+How much would a person's blood pressure go up if their sodium went from 140 to 142?
+
+83
+00:07:49,120 --> 00:07:54,720
+It's about six millimeters. Okay. So they'd go from 120 to 126. Yeah. And that happens
+
+84
+00:07:54,720 --> 00:08:00,200
+acutely. And how long did it take to resolve? Maybe a couple hours. So if we give, and we did
+
+85
+00:08:00,200 --> 00:08:06,320
+this study, we published it last year, if you give salty soup with water so that the serum sodium
+
+86
+00:08:06,320 --> 00:08:10,840
+doesn't go up, they got the same amount of salt, guess what? The blood pressure doesn't go up.
+
+87
+00:08:10,840 --> 00:08:15,680
+And the serum sodium, does it so not go up or does go up? Right, right. It does not go up. So if you
+
+88
+00:08:15,680 --> 00:08:20,560
+block the serum sodium from going up. So basically the closer you can bring the total
+
+89
+00:08:20,560 --> 00:08:27,720
+accumulated concentration of what you ingest down, the more likely you are to prevent this
+
+90
+00:08:27,720 --> 00:08:33,080
+transient rise in serum osmolality and blood pressure. Yeah. Well, it turns out that serum
+
+91
+00:08:33,080 --> 00:08:39,520
+osmolality has a real major role, not only in blood pressure, but also in obesity. And we're
+
+92
+00:08:39,520 --> 00:08:44,840
+going to talk about that in a second. But when you take a high salt diet and your serum sodium
+
+93
+00:08:44,920 --> 00:08:50,080
+goes up, it triggers a rise in blood pressure and it's working through the brain and actually
+
+94
+00:08:50,080 --> 00:08:55,320
+through the liver and other sites too. Pause for a moment. Tell the listeners why it would be
+
+95
+00:08:55,320 --> 00:09:00,680
+better to have a blood pressure of 120 over 80 than 140 over a hundred. Well, there's a pretty
+
+96
+00:09:00,680 --> 00:09:07,160
+good epidemiologic data that shows that when your blood pressure is high, that you have an increased
+
+97
+00:09:07,160 --> 00:09:12,440
+risk for heart failure and stroke. Those are the two major ones, but it also increases the risk
+
+98
+00:09:12,440 --> 00:09:18,760
+for heart attacks and heart disease in general. Interestingly, there's a very significant
+
+99
+00:09:18,760 --> 00:09:26,200
+inflection point. And what I mean by that is when the blood pressure gets around 160 to 180, right
+
+100
+00:09:26,200 --> 00:09:32,920
+in that range, the risk for stroke goes significantly up and the risk for mortality goes up. And that's
+
+101
+00:09:32,920 --> 00:09:39,160
+because our body tries to auto regulate to blood pressure. So when the blood pressure goes up,
+
+102
+00:09:39,160 --> 00:09:45,560
+for example, the kidney, the arterioles will constrict to reduce the pressure load to the
+
+103
+00:09:45,560 --> 00:09:51,880
+kidney. But when it gets to about 170, it will overcome that restriction and the blood pressure
+
+104
+00:09:51,880 --> 00:09:58,760
+will injure the kidney. Likewise, the brain kind of responds to flow more. So it tries to maintain
+
+105
+00:09:58,760 --> 00:10:04,840
+blood flow. But if the pressure gets high, it tries to protect itself from the high pressure
+
+106
+00:10:04,840 --> 00:10:11,880
+by constricting. But when the pressure is like 170, the risk, it can't constrict enough. And you
+
+107
+00:10:11,880 --> 00:10:17,720
+don't want it to constrict that much because it has to maintain flow. And so the pressure ends up
+
+108
+00:10:17,720 --> 00:10:22,760
+increases to the brain and increases the risk for stroke. Now, current guidelines seem even more
+
+109
+00:10:22,760 --> 00:10:28,840
+aggressive. We would manage class one hypertension. We would consider something in the mid 130s to be
+
+110
+00:10:28,840 --> 00:10:35,320
+treatable. Yeah. So let me get there. So originally, when the studies came out, it was very,
+
+111
+00:10:35,320 --> 00:10:40,760
+very clear that if your blood pressure was like 170 or higher, that you had a dramatic increased
+
+112
+00:10:40,760 --> 00:10:45,800
+risk for stroke. And that's because it would pass the auto regulatory point. But then what happened
+
+113
+00:10:45,800 --> 00:10:53,640
+was epidemiologic studies showed that even a blood pressure of like 140 over 90 conferred increased
+
+114
+00:10:53,640 --> 00:11:00,280
+risk. It just was much less than the 170. So at 170, it just takes off, it's almost the line goes
+
+115
+00:11:00,280 --> 00:11:07,720
+up vertically. But between 140 and 160, there is still a stepwise increased risk, but it's just
+
+116
+00:11:07,720 --> 00:11:13,880
+kind of a more gradual risk. In fact, for things like a stroke, you can start showing an increased
+
+117
+00:11:13,880 --> 00:11:21,240
+risk from 120 over 80 to 140 over 90, leading people to view 120 over 80 as kind of the optimal
+
+118
+00:11:21,240 --> 00:11:25,800
+blood pressure. As you get older, if the blood pressure is really low, you lose your auto
+
+119
+00:11:25,800 --> 00:11:30,360
+regulation for low blood pressure. And so it increases the risk for kidney disease and
+
+120
+00:11:31,080 --> 00:11:37,240
+problems as well. So you don't want to be extreme on either end, especially as you get older.
+
+121
+00:11:37,240 --> 00:11:41,400
+This whole thing's kind of such a, it's a real clinical mystery in some ways still, because
+
+122
+00:11:41,400 --> 00:11:45,720
+in medical school, we learn about this term called essential hypertension, which is kind of a
+
+123
+00:11:45,720 --> 00:11:50,840
+wastebasket term for hypertension or high blood pressure for which we don't have an obvious cause.
+
+124
+00:11:51,240 --> 00:11:56,600
+The problem is, and so having sort of that wastebasket term would be okay if it accounted for the
+
+125
+00:11:56,600 --> 00:12:01,080
+minority of cases, but then you get to the clinic and you realize everybody walking around with high
+
+126
+00:12:01,080 --> 00:12:05,400
+blood pressure basically is getting labeled as having quote unquote essential hypertension.
+
+127
+00:12:05,400 --> 00:12:10,520
+So it really is this epidemic without a clear description. Now we're going to come to a lot
+
+128
+00:12:10,520 --> 00:12:16,360
+of reasons that, I mean, I think you have arguably one of the most compelling cases for what is at
+
+129
+00:12:16,360 --> 00:12:20,760
+the root of essential hypertension. But for people listening to this, for doctors listening to this,
+
+130
+00:12:20,760 --> 00:12:25,720
+who treat hypertension, I feel like we just haven't made much progress in the 20 years since
+
+131
+00:12:25,720 --> 00:12:30,280
+I've been out of medical school. There have been some real breakthroughs in the understanding of
+
+132
+00:12:30,280 --> 00:12:36,600
+primary hypertension just in the last five, 10 years. And there's two major aspects I can talk
+
+133
+00:12:36,600 --> 00:12:44,120
+about. The first one is that it does appear that salt really is important. And one of the key
+
+134
+00:12:44,920 --> 00:12:54,760
+discoveries was that the kidneys are often normally handle salt fine, but they develop or acquire a
+
+135
+00:12:54,760 --> 00:13:01,240
+change in the kidneys that lead them to hold on to sodium. And the mechanism has been identified
+
+136
+00:13:01,240 --> 00:13:08,360
+just in the last few years. It's due to the fact that there's an inflammatory inflammation that
+
+137
+00:13:08,360 --> 00:13:15,160
+occurs in the kidney. And that inflammation, which is driven by T cells and macrophages,
+
+138
+00:13:16,040 --> 00:13:22,200
+causes a constriction of the blood vessels that leads to low grade ischemia in the kidney. And
+
+139
+00:13:22,200 --> 00:13:30,200
+that ischemia can translate into increased sodium absorption, which then leads to high serum sodium
+
+140
+00:13:30,200 --> 00:13:35,960
+and the effects. Is there a correlation between serum, sodium and blood pressure across normal
+
+141
+00:13:36,040 --> 00:13:42,920
+physiologic ranges of say 135 to 145 milliquivalents per liter? Yeah, I believe so. I'm not sure I can
+
+142
+00:13:42,920 --> 00:13:48,840
+quote the paper, but yes, I think that's true. So what you're saying is in people with high
+
+143
+00:13:48,840 --> 00:13:54,440
+blood pressure that's otherwise viewed as quote unquote essential, there's an inflammatory response
+
+144
+00:13:54,440 --> 00:14:01,480
+mediated by both T cells and macrophages that injures the kidney ischemically, meaning it for
+
+145
+00:14:01,480 --> 00:14:06,280
+the listener that results in reduced blood flow and tissue damage due to reduced blood flow and
+
+146
+00:14:06,280 --> 00:14:12,840
+reduced oxygen. And it's that injury that then leads to aberrant retention of sodium. So there's
+
+147
+00:14:12,840 --> 00:14:18,040
+actually been really a lot of studies looking at the mechanism of the inflammation. And originally
+
+148
+00:14:18,040 --> 00:14:23,400
+it looked like it was people thought it might be a reactive response of the kidney. So we think that
+
+149
+00:14:23,400 --> 00:14:28,760
+there may be external stimuli that initially cause a decrease in blood flow to the kidney,
+
+150
+00:14:28,760 --> 00:14:35,160
+like a sympathetic nervous system response. You can do it transiently by giving medicines or
+
+151
+00:14:35,960 --> 00:14:41,000
+drugs that can cause a constriction of blood vessels. When you do that, you get a transient
+
+152
+00:14:41,000 --> 00:14:46,280
+reduction of blood flow to the kidney that induces an inflammatory response that then causes
+
+153
+00:14:46,280 --> 00:14:51,800
+persistent reduction in blood flow. And what we've learned in the last few years, and I'm an author
+
+154
+00:14:51,800 --> 00:14:58,200
+in one of these studies, is that this inflammatory reaction can actually be an autoimmune reaction.
+
+155
+00:14:58,200 --> 00:15:03,800
+And we've even identified certain proteins that there's an autoimmune response to, and one is a
+
+156
+00:15:03,800 --> 00:15:09,400
+heat shock protein. You can actually create high blood pressure in animals by inducing
+
+157
+00:15:09,400 --> 00:15:15,480
+an immune response to this. And you can block the immune response and block the high blood pressure.
+
+158
+00:15:15,480 --> 00:15:21,400
+And now there's even data showing that in humans that there's evidence for an autoimmune response
+
+159
+00:15:21,400 --> 00:15:25,240
+to heat shock proteins in people with essential hypertension. Which is not to say heat shock
+
+160
+00:15:25,240 --> 00:15:30,280
+proteins are necessarily bad because so many of the benefits we get out of sauna or exercise
+
+161
+00:15:30,280 --> 00:15:34,360
+may be transmitted through these. But you're saying in a subset of people where the heat shock
+
+162
+00:15:34,360 --> 00:15:39,880
+protein itself becomes the nidus for inflammation via an autoimmune mechanism.
+
+163
+00:15:39,880 --> 00:15:45,240
+Yeah. So heat shock proteins are great, just as you say. They do all these really good things.
+
+164
+00:15:45,240 --> 00:15:50,200
+But what happens is they're involved in the clearance of misfolded proteins and they're
+
+165
+00:15:50,200 --> 00:15:57,080
+helping keep a clean system. But what happens is when you trigger injury to the kidney, for example,
+
+166
+00:15:57,080 --> 00:16:04,040
+these heat shock proteins get produced to help fix problems. But the immune system can sometimes get
+
+167
+00:16:04,040 --> 00:16:10,200
+confused and make an immune response that actually is against the heat shock proteins. And when that
+
+168
+00:16:10,200 --> 00:16:15,640
+happens, you can develop high blood pressure in the animal and there's some evidence for it in humans.
+
+169
+00:16:16,360 --> 00:16:21,240
+Anyway, so that's one of the big breakthroughs has been the discovery that inflammation in the
+
+170
+00:16:21,240 --> 00:16:26,760
+kidney can be a mechanism for triggering persistent elevations in blood pressure and
+
+171
+00:16:26,760 --> 00:16:30,280
+probably has a big role in the cause of primary hypertension.
+
+172
+00:16:30,280 --> 00:16:35,240
+Before you go on, Rick, how prevalent do you think that particular mechanism is that you just
+
+173
+00:16:35,240 --> 00:16:36,040
+elucidated?
+
+174
+00:16:36,040 --> 00:16:41,080
+Oh, it's very major. In fact, we've even looked at genetic polymorphisms that link with the
+
+175
+00:16:41,160 --> 00:16:45,960
+development of primary hypertension and most of them are involved with the immune response. And
+
+176
+00:16:46,520 --> 00:16:48,680
+it looks like this is a major pathway.
+
+177
+00:16:48,680 --> 00:16:53,880
+This creates a bit of a quandary for someone who's trying to rid themselves of hypertension,
+
+178
+00:16:53,880 --> 00:16:59,160
+because wouldn't the implication of this be that exercise or things like exercise that induce heat
+
+179
+00:16:59,160 --> 00:17:03,000
+shock proteins may paradoxically increase their hypertension?
+
+180
+00:17:03,000 --> 00:17:08,600
+I don't think so. So hypertension is kind of a complicated pathway. So there's several different
+
+181
+00:17:08,600 --> 00:17:15,640
+aspects, but exercise is extremely good for improving mitochondrial function, improving the
+
+182
+00:17:15,640 --> 00:17:22,680
+ability for your blood vessels to dilate. It improves kidney function. The benefits of exercise
+
+183
+00:17:22,680 --> 00:17:29,480
+are so much greater and releasing heat shock proteins that really occurs with very, I don't
+
+184
+00:17:29,480 --> 00:17:33,880
+know if just general exercise would have a big effect on heat shock proteins.
+
+185
+00:17:33,880 --> 00:17:37,960
+So you're saying basically the net effective exercise is still going to far outweigh.
+
+186
+00:17:37,960 --> 00:17:44,200
+Yes, absolutely. But I'd like to get back to the link between salt and sugar, if I could.
+
+187
+00:17:44,200 --> 00:17:51,400
+Okay, because there is this data, as I say, that salt, when it increases the serum sodium,
+
+188
+00:17:52,360 --> 00:17:58,760
+is what drives the acute blood pressure response. And when the kidneys have trouble getting rid of
+
+189
+00:17:58,760 --> 00:18:05,400
+salt, it's easier to get that effect with a salt load. But even with a normal person, you can,
+
+190
+00:18:05,400 --> 00:18:11,480
+with normal blood pressure, you can raise their blood pressure transiently by giving them salt,
+
+191
+00:18:11,480 --> 00:18:16,760
+and you can block it by giving water. Interestingly, in the process of developing
+
+192
+00:18:16,760 --> 00:18:22,600
+high blood pressure, there's the initiators. And then there's the things that make it persistent,
+
+193
+00:18:22,600 --> 00:18:28,200
+and the inflammation in the kidney is involved in the persistence. But what is involved in the
+
+194
+00:18:28,200 --> 00:18:37,880
+initiation turns out that sugar has a major role. And what we discovered is that when you give a
+
+195
+00:18:37,880 --> 00:18:45,880
+high salt diet to animals, that the high salt increases the serum sodium. And the serum sodium,
+
+196
+00:18:45,880 --> 00:18:53,560
+when it goes up, it activates an enzyme that converts glucose, which is in our blood and in
+
+197
+00:18:53,560 --> 00:19:02,680
+our tissues, to fructose. And that conversion to fructose is driven by a high salt diet. And it's
+
+198
+00:19:02,680 --> 00:19:09,880
+driven by an increase in serum osmolality or increase in serum sodium. Once the fructose is
+
+199
+00:19:09,880 --> 00:19:15,080
+made in the body, so this is not fructose coming from the diet, this is made in the body,
+
+200
+00:19:16,040 --> 00:19:23,240
+the fructose gets metabolized and raises blood pressure. And when we gave high salt to
+
+201
+00:19:23,240 --> 00:19:29,400
+animals, they developed an increase in blood pressure. And they also were making fructose.
+
+202
+00:19:29,400 --> 00:19:35,560
+And when we block the metabolism of fructose, we actually block the rise in blood pressure,
+
+203
+00:19:35,560 --> 00:19:40,120
+as well as the hypertrophy of the heart. So let's pause for a moment. I've had Rob Lustig on the
+
+204
+00:19:40,120 --> 00:19:45,240
+podcast before, so anyone who's listened to that will be familiar with what fructose is, what glucose
+
+205
+00:19:45,240 --> 00:19:51,560
+is, what sugar is, all of these things. But can we spend one minute just defining these things for
+
+206
+00:19:51,560 --> 00:19:57,480
+people who haven't listened to that podcast? Sure. So there's different types of sugar. And
+
+207
+00:19:57,480 --> 00:20:04,520
+the main one that we call blood sugar is glucose. And this is the primary sugar that our body uses
+
+208
+00:20:05,080 --> 00:20:09,960
+to make energy. It's the main sugar that's used to make energy and it can be stored
+
+209
+00:20:10,600 --> 00:20:18,200
+in the tissues as glycogen. And when it's too high, we call it diabetes. When the blood glucose
+
+210
+00:20:18,200 --> 00:20:25,640
+is too low, it's hypoglycemia. And so glucose is like the principal energy fuel, the carbohydrate
+
+211
+00:20:25,640 --> 00:20:30,600
+fuel that we use. And as you said, we store lots of it in our muscles. Once it gets in the muscles,
+
+212
+00:20:30,600 --> 00:20:35,960
+it can't get out. And we store maybe a quarter to a third of it in our liver. And that's mostly
+
+213
+00:20:35,960 --> 00:20:41,640
+there to buffer the blood supply, in particular the brain. What does glucose taste like? A pure
+
+214
+00:20:41,640 --> 00:20:49,400
+drink of glucose. People like it, animals like it, but it isn't as sweet as classic sugar. But it is
+
+215
+00:20:49,400 --> 00:20:55,960
+often very much like by animals, humans like it. You can buy these dextrose pops and stuff like
+
+216
+00:20:55,960 --> 00:21:03,800
+that. Dextrose is another word for glucose. And also the kidneys store glycogen and produce glucose
+
+217
+00:21:03,800 --> 00:21:11,560
+too. The second type of sugar is fructose. And the best way to think of fructose is it is a fuel
+
+218
+00:21:11,560 --> 00:21:18,920
+first off it's present in fruit, but it turns out to be the sugar that is involved in energy storage
+
+219
+00:21:19,640 --> 00:21:25,720
+rather than energy production. And so when you eat glucose, you use that to produce energy, but when
+
+220
+00:21:25,720 --> 00:21:32,440
+you eat fructose, it will actually trigger changes in the body that will favor the storage of energy.
+
+221
+00:21:32,440 --> 00:21:39,400
+And this is the sugar that animals use to store energy. So and you store it in the way of fat,
+
+222
+00:21:39,400 --> 00:21:45,640
+in the way of glycogen and all those kinds of anything that will facilitate storing energy
+
+223
+00:21:45,640 --> 00:21:50,440
+is done by fructose. And fructose and glucose, if you were looking at pictures of them in a
+
+224
+00:21:50,440 --> 00:21:56,120
+biochemistry book, look pretty similar. They're both ringed carbon structures. They both have six
+
+225
+00:21:56,120 --> 00:22:00,920
+carbons. One of them has a five ring versus a six ring. But you know, it's sort of interesting to
+
+226
+00:22:00,920 --> 00:22:06,360
+think that molecules that look almost identical with the exception of a couple of bonds different
+
+227
+00:22:06,360 --> 00:22:10,440
+can have quite different properties. Now, fructose tastes a lot sweeter as well.
+
+228
+00:22:10,440 --> 00:22:16,200
+Yes. And so fructose is like in honey and in fruits. And then that's right. So it tastes a
+
+229
+00:22:16,200 --> 00:22:22,280
+lot sweeter. And the other thing is if you mix the fructose and glucose together, you can get what's
+
+230
+00:22:22,280 --> 00:22:27,960
+called high fructose corn syrup. And if they're bound together, you get table sugar. So table
+
+231
+00:22:27,960 --> 00:22:34,600
+sugar or sucrose is one molecule of glucose and fructose bond together. And that occurs in nature
+
+232
+00:22:34,600 --> 00:22:40,040
+and sugar cane and beets and things like that. Yes. And maple syrup and things like that.
+
+233
+00:22:40,040 --> 00:22:45,240
+Right. So just to clarify for everybody, when we get a little comfortable with this terminology,
+
+234
+00:22:45,240 --> 00:22:50,440
+throw the word sugar around quite liberally, but it's always important for people to think when we
+
+235
+00:22:50,440 --> 00:22:54,840
+talk about sugar, we could be talking about blood sugar, glucose. We could be talking about
+
+236
+00:22:54,840 --> 00:23:01,320
+fructose by itself. Oftentimes when we talk about sugar in diets, we're talking about added sugars,
+
+237
+00:23:01,320 --> 00:23:06,920
+such as the sucrose and high fructose corn syrup you just alluded to. I want to go back to what
+
+238
+00:23:06,920 --> 00:23:11,320
+you just said about the ability of fructose to store something. But if you don't mind, can we
+
+239
+00:23:11,320 --> 00:23:17,320
+do it through the lens of a beautiful story that you've written about in the past about a mutation
+
+240
+00:23:17,320 --> 00:23:22,440
+that basically allowed that to happen? This thing that took place about 12 to 15 million years ago?
+
+241
+00:23:22,440 --> 00:23:32,920
+Sure. So fructose again is a, it's in fruit and many, many animals use fructose as a means,
+
+242
+00:23:32,920 --> 00:23:40,760
+as their primary nutrient or, and also as a way to help store fat. And for example, animals before
+
+243
+00:23:40,760 --> 00:23:46,440
+they hibernate will often eat a lot of ripe fruit and the ripe fruit gives them the sugar that allows
+
+244
+00:23:46,440 --> 00:23:53,240
+them to store fat. And orangutans will eat huge amounts of fruit at one setting to try to increase
+
+245
+00:23:53,240 --> 00:24:00,280
+their body fat. And we don't get fat from eating fruit, but that's because we eat tart fruit that
+
+246
+00:24:00,280 --> 00:24:06,760
+has less sugar content and we tend to only eat a few fruit. Whereas if we actually drink fruit juice,
+
+247
+00:24:06,760 --> 00:24:12,440
+that large amounts of fruit juice can actually increase fat. So anyway, so fruit is a nutrient
+
+248
+00:24:12,440 --> 00:24:19,080
+that is used by animals to help store fat. So if you go back about 20 million years ago,
+
+249
+00:24:20,360 --> 00:24:28,600
+the very first fossil apes show up in the world and they show up in West Africa. And the original
+
+250
+00:24:28,600 --> 00:24:34,360
+one was called Proconsul. They were living about 22 million years ago and they were, these apes were
+
+251
+00:24:34,360 --> 00:24:39,880
+big breakthrough in evolution because the prior, the monkeys were, had already been around, but
+
+252
+00:24:39,880 --> 00:24:44,920
+these were bigger creatures. The apes were, they had bigger brain size. They were tailless,
+
+253
+00:24:44,920 --> 00:24:50,840
+but they did live in the trees and they lived in tropical rainforest and woodland rainforest.
+
+254
+00:24:50,840 --> 00:24:56,840
+And they would eat primarily fruit and they were quite successful. And by about 18 million years
+
+255
+00:24:56,840 --> 00:25:03,960
+ago, there were almost at least 10 to 20 species of ape that were living in this area of Africa.
+
+256
+00:25:03,960 --> 00:25:10,440
+There was a change in climate. There was some global cooling and the Antarctic started building
+
+257
+00:25:10,440 --> 00:25:16,200
+up ice and the Arctic started building up ice and sea levels fell. And when the sea levels fell,
+
+258
+00:25:17,000 --> 00:25:23,320
+land bridges developed that connected Africa, which had been separated from the other continents.
+
+259
+00:25:24,040 --> 00:25:30,200
+These land bridges opened up so that there was now a way to get out of Africa and to Europe and Asia.
+
+260
+00:25:30,200 --> 00:25:36,840
+And many, many species migrated across those land bridges about 17 million years ago.
+
+261
+00:25:37,480 --> 00:25:44,600
+And some of them were the apes. And we see the first apes fossils in places like Pasalar,
+
+262
+00:25:44,600 --> 00:25:50,200
+Turkey, and different places of Europe right around 16 million years ago. At that time,
+
+263
+00:25:50,760 --> 00:25:57,160
+there were still a forest that were fruiting trees, woodlands, there was fruit all year round.
+
+264
+00:25:57,960 --> 00:26:04,280
+And so the animals, when they moved into Europe, they didn't have to change their habits at all.
+
+265
+00:26:04,280 --> 00:26:08,600
+They were able to continue to eat fruit pretty much all year round. But unfortunately,
+
+266
+00:26:08,600 --> 00:26:16,760
+they continue to get cooler. And by 12 million years ago, the apes started to starve in Europe.
+
+267
+00:26:16,760 --> 00:26:20,280
+And you can tell that from the fossils because they actually have these
+
+268
+00:26:21,080 --> 00:26:27,880
+like tree rings on their teeth, developing teeth get this enamel. The enamel doesn't
+
+269
+00:26:27,880 --> 00:26:33,560
+lay down correctly. And they get these like tree rings that show intermittent starvation,
+
+270
+00:26:33,560 --> 00:26:39,480
+they would get a ring every time they would go through a period and the starvation was seasonal.
+
+271
+00:26:39,480 --> 00:26:45,160
+So it was during the cooler months when suddenly the fruit was not available. And the primary
+
+272
+00:26:45,160 --> 00:26:50,680
+reason was there was a loss of the fig tree. And the fig is a cool fruit that can fruit all year
+
+273
+00:26:50,680 --> 00:26:57,320
+round because the wasp that fertilizes the fruit does so at its own discretion. So the fruit will
+
+274
+00:26:57,320 --> 00:27:02,520
+have a fig tree kind of can occur all year round. So when the fig tree died, suddenly there weren't
+
+275
+00:27:02,520 --> 00:27:08,520
+too many, because of the global cooling, or perhaps it was the wasp, but the fig trees disappeared.
+
+276
+00:27:09,240 --> 00:27:16,040
+And suddenly these apes did not have enough food to survive during the cooler months, and they
+
+277
+00:27:16,040 --> 00:27:23,960
+started to starve. And by six to eight million years ago, the last ape became extinct in Europe.
+
+278
+00:27:23,960 --> 00:27:31,000
+But Africa, although there was global cooling there too, it wasn't as cold. And the fruit trees
+
+279
+00:27:31,000 --> 00:27:37,080
+survived all year round, the forest just retracted. So the apes there were able to maintain their
+
+280
+00:27:37,080 --> 00:27:42,360
+normal habits. Well, there was a lot of evidence that there was a lot of evolutionary change
+
+281
+00:27:42,360 --> 00:27:48,760
+occurring in our ancestors during this Miocene period, and this period of time when there was
+
+282
+00:27:48,760 --> 00:27:57,160
+the global cooling. And one of them was a mutation in uric acid metabolism. And as I mentioned,
+
+283
+00:27:57,160 --> 00:28:04,680
+sugar, and particularly fructose, when it's metabolized, generates uric acid. Glucose when
+
+284
+00:28:04,680 --> 00:28:11,880
+it's metabolized does not, but fructose when it's metabolized makes uric acid. And this mutation
+
+285
+00:28:12,520 --> 00:28:19,000
+led to a much stronger uric acid response to fruit, because this mutation was of an enzyme that
+
+286
+00:28:19,000 --> 00:28:25,080
+degrades the uric acid. And when you block that, and you eat fruit, your uric acid levels go up
+
+287
+00:28:25,080 --> 00:28:32,760
+much more. And this mutation basically allowed these apes to maintain a very prominent uric
+
+288
+00:28:32,760 --> 00:28:40,920
+acid response. Our group has shown that the way fructose stimulates fat, as well as its other
+
+289
+00:28:41,480 --> 00:28:48,680
+properties like insulin resistance and raising blood pressure, that those abilities are driven
+
+290
+00:28:48,680 --> 00:28:55,240
+in part by the uric acid. So when this mutation occurred, for the same amount of fruit, they were
+
+291
+00:28:55,240 --> 00:29:00,520
+able to store more fat. And so it was like a survival mechanism for this mutation. When it
+
+292
+00:29:00,520 --> 00:29:06,440
+showed up, it allowed apes that had very little access to fruit to suddenly maintain more fat
+
+293
+00:29:06,440 --> 00:29:12,760
+stores, and so they could live longer and survive those winters. And we were able to show with Peter
+
+294
+00:29:12,760 --> 00:29:20,040
+Andrews at the Natural History Museum in London, who studies these apes that this might account for
+
+295
+00:29:20,040 --> 00:29:25,640
+a very interesting finding. And the finding is that although we thought the apes became extinct
+
+296
+00:29:25,640 --> 00:29:31,000
+in Europe, and they certainly did become extinct in Europe, the fossil record shows that it was a
+
+297
+00:29:31,000 --> 00:29:40,040
+European ape that made it back to Africa, and also to Asia, to become our ancestors, as well as the
+
+298
+00:29:40,040 --> 00:29:45,800
+ancestors of the great apes that live in Africa and in Southeast Asia, like the orangutan, that
+
+299
+00:29:45,800 --> 00:29:54,040
+they all came from a common ancestor that was in Europe, and that went back to Africa. And we know
+
+300
+00:29:54,040 --> 00:30:01,800
+from the genetics that that ape carried the uricase mutation. And so this mutation probably
+
+301
+00:30:01,800 --> 00:30:09,160
+occurred at a critical time that provided survival for those apes in Europe to be able to get out of
+
+302
+00:30:09,160 --> 00:30:15,320
+there and make it back to these other regions. But it was now equipped with this mutation that made it
+
+303
+00:30:15,320 --> 00:30:24,200
+sensitive to sugar. And so humans are much more sensitive to sugar than most animals, and it's
+
+304
+00:30:24,200 --> 00:30:30,280
+because of this mutation. And in fact, we actually resurrected the extinct uricase and proved this
+
+305
+00:30:30,920 --> 00:30:35,320
+using the extinct uricase that showing that when you put it into human cells,
+
+306
+00:30:35,880 --> 00:30:41,400
+that it suddenly made us less sensitive to fructose. So the phenotype there, I mean,
+
+307
+00:30:41,400 --> 00:30:45,880
+I guess just to recap that story, which I find so fascinating, by the way, you guys wrote a story
+
+308
+00:30:45,880 --> 00:30:49,400
+about this in Scientific American many years ago, right? I know there was a paper that came out as
+
+309
+00:30:49,400 --> 00:30:54,120
+well. But I mean, that sort of the layperson version in science was really great. So basically,
+
+310
+00:30:54,120 --> 00:30:59,480
+these apes go from Africa up to Europe, it gets too cold, we sort of think they die out, but the
+
+311
+00:30:59,480 --> 00:31:06,040
+evidence emerges actually a sub sub subset of them developed the mutation in uricase, that gave them
+
+312
+00:31:06,040 --> 00:31:10,920
+a superpower, which was now they could be much more efficient at turning fructose into fat.
+
+313
+00:31:10,920 --> 00:31:14,680
+They had this little byproduct, which is they would also make a boatload of uric acid along
+
+314
+00:31:14,680 --> 00:31:20,440
+the way. But they actually came back to Africa and ultimately seeded the rest of the species. And
+
+315
+00:31:20,440 --> 00:31:26,440
+ultimately, that's why we as humans are among the very rare animals that have uric acid levels that
+
+316
+00:31:26,440 --> 00:31:31,960
+are quite high relative to cats and dogs, for example. Yes, that's exactly correct. So when we
+
+317
+00:31:31,960 --> 00:31:36,920
+were in medical school, Rick, we learned a lot about uric acid through the lens of a disease
+
+318
+00:31:36,920 --> 00:31:41,880
+called gout. And it didn't get a lot of airtime in school, maybe it gets more today. But at the
+
+319
+00:31:41,880 --> 00:31:46,280
+time, it was basically gout is a disease of civilization, it's from eating too much meat.
+
+320
+00:31:47,000 --> 00:31:52,120
+And there's no real problem with it, except for the nuisance of your toe hurts, because uric acid
+
+321
+00:31:52,120 --> 00:31:59,160
+crystallizes, it gets inside joints, it seems to favor the first joint of the great toe. And it's
+
+322
+00:31:59,160 --> 00:32:04,600
+a very painful inflammatory condition. And it's what happened to sort of the wealthy people of the
+
+323
+00:32:04,600 --> 00:32:08,920
+last few hundred years as they started getting and acquiring too much meat and protein. And that
+
+324
+00:32:08,920 --> 00:32:13,720
+was sort of the story. What you're describing is a little bit more nuanced. So tell us more about
+
+325
+00:32:13,720 --> 00:32:20,760
+uric acid. Yeah, so the big problem with having too much uric acid is gout, just as you say. And all
+
+326
+00:32:20,760 --> 00:32:26,600
+the animals that have the uric case mutation are prone to gout. But humans in particular are very
+
+327
+00:32:26,600 --> 00:32:33,720
+prone to gout. And it's because of our diet. So we do eat diets that are high in meat and purines that
+
+328
+00:32:33,800 --> 00:32:37,880
+increase our risk for gout. Can you tell folks what purines are specifically, since it always
+
+329
+00:32:37,880 --> 00:32:45,160
+shows up in this terminology? Sure. So we have proteins, we have fat, we have carbohydrates,
+
+330
+00:32:45,160 --> 00:32:53,240
+but we also have things like RNA and DNA and what we call nucleic acids. So these are the kind of
+
+331
+00:32:53,240 --> 00:33:00,360
+acids that are in the nucleus and that are also in the cell that help drive gene formation and
+
+332
+00:33:00,360 --> 00:33:06,280
+protein, you know, our genetic material and also help dictate the production of proteins. And so
+
+333
+00:33:06,280 --> 00:33:13,640
+DNA and RNA are made up of nucleic acids. And when they're broken down, they're made up of purines.
+
+334
+00:33:13,640 --> 00:33:18,920
+And then uric acid is appearing in it. It's basically the ultimate breakdown product
+
+335
+00:33:18,920 --> 00:33:25,640
+of DNA and RNA. So the reason protein consumption versus fat or carbohydrate would lead to this is
+
+336
+00:33:25,640 --> 00:33:29,960
+because if you're eating protein, you're eating the DNA and RNA that presumably were still in
+
+337
+00:33:29,960 --> 00:33:37,160
+that tissue. Yes. So the way you get gout from protein is from the DNA and RNA in the protein.
+
+338
+00:33:37,160 --> 00:33:43,880
+And so, and that relates to some extent to the how dense the nuclei are. And so like if you have
+
+339
+00:33:44,440 --> 00:33:53,640
+a very cellular thing like anchovies and these small fish that have lots of DNA and RNA,
+
+340
+00:33:53,640 --> 00:34:00,600
+if you have that, they will develop. You can get gout from that much easier than from other types
+
+341
+00:34:00,600 --> 00:34:10,840
+of meat. And so beer, for example, has brewers yeast and that is filled with RNA. And so that's
+
+342
+00:34:10,840 --> 00:34:16,760
+why beer can precipitate gout. Now I follow uric acid levels very closely in all of my patients
+
+343
+00:34:16,760 --> 00:34:23,320
+and myself. And there is an unmistakable difference between men and women, at least in my small
+
+344
+00:34:23,320 --> 00:34:29,880
+sample size of patients, where men on average have higher uric acid levels than women. Is that
+
+345
+00:34:29,880 --> 00:34:35,640
+true across the general population? Yes. Even in boys, they'll start to have a higher uric acid
+
+346
+00:34:35,640 --> 00:34:42,280
+than girls. However, after the menopause, uric acid levels go up in women. And that's because
+
+347
+00:34:42,280 --> 00:34:49,320
+estrogen helps excrete uric acid. So it's not, I had sort of, I guess, incorrectly assumed it was
+
+348
+00:34:49,320 --> 00:34:54,840
+that just unbalanced men consumed more protein than women. I think that also plays a role. I
+
+349
+00:34:54,840 --> 00:34:59,000
+think that's right. But it sounds like this estrogen explanation makes more sense if it
+
+350
+00:34:59,000 --> 00:35:05,640
+can also explain the observation of menopause. Yes. Going back, gout is also increased by sugar.
+
+351
+00:35:06,440 --> 00:35:13,480
+And even Sir William Osler, the famous physician from the 1890s in his book Principles and Practice
+
+352
+00:35:13,480 --> 00:35:21,320
+of Medicine, pointed out way back in the 1890s that sugar was a major risk factor for gout,
+
+353
+00:35:21,320 --> 00:35:27,880
+as well as very sweet fruits, he wrote. Anyone who's had gout usually will know that real
+
+354
+00:35:28,440 --> 00:35:34,200
+significant sweets can also precipitate gout. And the reason is because of the fructose content.
+
+355
+00:35:34,200 --> 00:35:40,680
+And when the fructose is metabolized, it generates uric acid. When people were developing gout in the
+
+356
+00:35:40,680 --> 00:35:48,680
+1800s, it was linked to the wealthier groups in England, for example, they were eating a lot of,
+
+357
+00:35:48,680 --> 00:35:54,520
+as you say, rich foods that included proteins and so forth. But one of the things they were eating
+
+358
+00:35:54,520 --> 00:36:00,360
+a lot of, they were drinking a lot of alcohol, to which they added sugar. I actually did write a
+
+359
+00:36:00,360 --> 00:36:06,360
+paper where we reviewed how much sugar was put in drinks, alcoholic drinks back in the 17,
+
+360
+00:36:06,360 --> 00:36:13,480
+the 1800s. And it was much more than today. They loved sugar. They put it in many of their drinks.
+
+361
+00:36:13,480 --> 00:36:19,800
+And in fact, I even have a picture of an old pub outside the Tower of London called the Sugar Loaf.
+
+362
+00:36:19,800 --> 00:36:25,240
+They talk about the old drinks that were served like hypocrites and some of these drinks and
+
+363
+00:36:25,240 --> 00:36:31,080
+sack and sugar was a name for a drink that they had. I mean, they added a lot of sugar to their
+
+364
+00:36:31,080 --> 00:36:39,960
+drinks. And so part of the rise in gout back in the 1800s and 17, 1600s relates to not only just
+
+365
+00:36:39,960 --> 00:36:45,800
+the alcohol and the rich foods, but also to the sugar they were adding. So you were sort of the
+
+366
+00:36:45,800 --> 00:36:51,480
+person who brought onto my radar that there are other things besides gout that one needs to be
+
+367
+00:36:51,480 --> 00:36:57,000
+concerned about when it comes to uric acid. And one of them is blood pressure. So how did that
+
+368
+00:36:57,000 --> 00:37:02,280
+understanding come about? So originally we were studying what causes high blood pressure. And
+
+369
+00:37:02,280 --> 00:37:08,440
+there was a lot of epidemiologic studies that linked uric acid with high blood pressure. And
+
+370
+00:37:08,440 --> 00:37:13,080
+as I mentioned, we also knew that there was subtle changes going on in the kidney associated with
+
+371
+00:37:13,080 --> 00:37:18,760
+high blood pressure. And people with gout often have low grade kidney disease. So I said, aha,
+
+372
+00:37:18,760 --> 00:37:25,560
+maybe uric acid could have a role in causing kidney disease through causing high blood pressure
+
+373
+00:37:25,640 --> 00:37:32,920
+through its ability to cause kidney disease. And so we took animals and we gave it this uric case
+
+374
+00:37:32,920 --> 00:37:39,800
+inhibitor to raise the uric acid of an animal. And by gosh, they developed high blood pressure.
+
+375
+00:37:39,800 --> 00:37:44,360
+And then we could lower the blood pressure by lowering the uric acid. And when we looked,
+
+376
+00:37:44,360 --> 00:37:47,880
+we were thinking it was might be like crystals of uric acid in the kidney.
+
+377
+00:37:47,880 --> 00:37:51,960
+But that was my thought is the crystals would cause the inflammation in the kidney. And that
+
+378
+00:37:52,600 --> 00:37:59,480
+was my thought too. We looked at the kidney, there weren't any crystals there. So then we realized
+
+379
+00:37:59,480 --> 00:38:05,720
+it was an effect of soluble uric acid. So we started putting soluble uric acid on cells and
+
+380
+00:38:05,720 --> 00:38:10,280
+so forth. And we saw that it had all these biologic effects. And we always thought uric
+
+381
+00:38:10,280 --> 00:38:15,000
+acid was kind of like a dead end product of something or even might be a good thing because
+
+382
+00:38:15,000 --> 00:38:20,920
+some people said it was an antioxidant, but it was causing pro-inflammatory effects. So then
+
+383
+00:38:20,920 --> 00:38:29,880
+we said, aha, fructose sugar raises uric acid. Maybe sugar could have a role in blood pressure.
+
+384
+00:38:29,880 --> 00:38:32,680
+What year is it that you're having that thought, Rick?
+
+385
+00:38:32,680 --> 00:38:39,960
+2002. We gave some animals fructose and they developed high blood pressure. And we gave them
+
+386
+00:38:39,960 --> 00:38:46,680
+alopurinol, which is a drug to lower uric acid. And it made their blood pressure go back to normal.
+
+387
+00:38:46,680 --> 00:38:54,440
+And it was like this big discovery. But what was totally exciting was these animals also developed
+
+388
+00:38:54,440 --> 00:39:00,760
+insulin resistance. They also develop elevated triglycerides in their blood. They had other
+
+389
+00:39:00,760 --> 00:39:06,840
+fatty liver. And when we lowered the uric acid, we showed benefits on all of those parameters.
+
+390
+00:39:06,840 --> 00:39:11,000
+How does alopurinol work? What's the mechanism by which it lowers uric acid?
+
+391
+00:39:11,000 --> 00:39:19,160
+It blocks uric acid formation. So uric acid is generated from other purines. And when we
+
+392
+00:39:19,160 --> 00:39:28,200
+blocked that, we blocked a lot of the effects of sugar to cause metabolic syndrome. And so when we
+
+393
+00:39:28,200 --> 00:39:32,200
+first did it, we said, ah, there's got to be something wrong here. So we repeated it and we did
+
+394
+00:39:32,200 --> 00:39:39,560
+it different ways and didn't matter. It looked like uric acid had a role in how sugar worked.
+
+395
+00:39:40,200 --> 00:39:47,240
+So as we studied this, we started realizing that the process by which uric acid is generated is
+
+396
+00:39:47,240 --> 00:39:54,520
+important in how sugar causes disease. No one believed us initially. I have to tell you that
+
+397
+00:39:54,520 --> 00:40:01,720
+everybody said, ah, yeah, sugar causes gout. But the idea that sugar raises uric acid that causes
+
+398
+00:40:01,720 --> 00:40:07,720
+gout, but the idea that sugar raises uric acid and that is involved in the obesity and the insulin
+
+399
+00:40:07,720 --> 00:40:13,880
+resistance, we don't believe it. What's happened since then is we've learned that the metabolism
+
+400
+00:40:13,880 --> 00:40:22,600
+of fructose is extremely different from the metabolism of glucose. The two look alike,
+
+401
+00:40:22,600 --> 00:40:30,120
+but when fructose is metabolized, there's this process that causes the energy in the cell to
+
+402
+00:40:30,120 --> 00:40:36,040
+fall before it goes up. So normally when you eat a calorie, when you eat any kind of nutrient,
+
+403
+00:40:36,040 --> 00:40:44,520
+we use it to make energy. That's what we do. But when you eat fructose, the energy in the cell
+
+404
+00:40:44,520 --> 00:40:50,600
+falls before it goes up. It's the only nutrient that lowers energy in the cell.
+
+405
+00:40:50,600 --> 00:40:54,840
+See more about what you mean by that. So are we talking about a cell in the liver, for example?
+
+406
+00:40:54,840 --> 00:40:57,880
+Yes. I'm talking about the cells that metabolize the fructose.
+
+407
+00:40:57,880 --> 00:41:01,720
+Okay. So we'll contrast it with glucose. So if glucose enters a cell,
+
+408
+00:41:02,360 --> 00:41:09,240
+it gets turned into pyruvate and ultimately ATP is made. So you're saying total energy goes up
+
+409
+00:41:09,240 --> 00:41:15,640
+as a result of metabolizing that glucose. So whenever you metabolize any kind of calorie,
+
+410
+00:41:15,640 --> 00:41:20,760
+any kind of food, you eat food, you're going to metabolize it to make energy. That's what we do.
+
+411
+00:41:20,760 --> 00:41:27,640
+We try to break down the food and we use it to make energy. That energy is called ATP and ATP
+
+412
+00:41:27,640 --> 00:41:34,680
+is the currency in our body that we use to make us run, walk, think, talk, everything.
+
+413
+00:41:35,800 --> 00:41:43,960
+So this ATP is pretty critical. But to make ATP, you have to spend a little of it to make it. So
+
+414
+00:41:43,960 --> 00:41:54,520
+the process of breaking down and metabolizing food or glucose or fructose requires spending a little
+
+415
+00:41:54,520 --> 00:42:01,240
+bit of ATP before you make it. Well, what happens is when you metabolize glucose, you do spend some
+
+416
+00:42:01,240 --> 00:42:09,960
+ATP, but the body has a system whereby feeds back to stop the process before any significant
+
+417
+00:42:09,960 --> 00:42:17,160
+ATP depletion occurs. So for example, there's an enzyme called phosphofructokinase that's used in
+
+418
+00:42:17,160 --> 00:42:25,720
+glucose metabolism. If ATP levels fall, that enzyme gets turned off to stop glucose metabolism
+
+419
+00:42:25,720 --> 00:42:33,720
+to allow ATP levels to come back up. But when fructose is metabolized, the enzyme that metabolizes
+
+420
+00:42:33,720 --> 00:42:41,320
+fructose is called fructose kinase. And when that metabolizes fructose, it consumes ATP in an
+
+421
+00:42:41,320 --> 00:42:49,880
+unregulated way. So if the cell sees a lot of fructose, the ATP levels can plummet by 40 or 50%
+
+422
+00:42:50,600 --> 00:42:58,280
+in the cell. And that signals a huge number of effects throughout the body. It's like a May Day
+
+423
+00:42:58,280 --> 00:43:05,880
+signal. It says, we're under attack, we're running out of energy. And so it switches the animal into
+
+424
+00:43:05,880 --> 00:43:12,280
+a condition in which they're trying to preserve their energy. So they reduce their metabolism,
+
+425
+00:43:12,280 --> 00:43:18,920
+they reduce their expenditure, they're resting the energy expenditure. They shut the energy
+
+426
+00:43:18,920 --> 00:43:25,000
+that they're eating, the calories they're eating into fat and glycogen as opposed to making more
+
+427
+00:43:25,000 --> 00:43:31,400
+ATP, they're trying to protect the body by putting you into a system where you try to store fuel.
+
+428
+00:43:31,400 --> 00:43:38,920
+It triggers hunger and thirst that makes you want to eat more. So you eat more to restore the energy,
+
+429
+00:43:38,920 --> 00:43:46,200
+but at expense that you're shunting much of it into fat and into fuel storage. So fructose turns
+
+430
+00:43:46,200 --> 00:43:52,680
+out to be used by animals as a mechanism to store fat. Normally, animals will regulate their weight
+
+431
+00:43:52,680 --> 00:43:57,800
+beautifully. They just maintain their weight normally. If you take an animal and you put a
+
+432
+00:43:57,880 --> 00:44:02,920
+tube down its throat and give it extra food to make it gain weight, if you take the tube out,
+
+433
+00:44:03,720 --> 00:44:09,640
+the animal will go right back to its normal weight. If you starve an animal, and so it's below its
+
+434
+00:44:09,640 --> 00:44:14,680
+normal weight, and then you let it just eat, it will eat back to its regular weight. But when it
+
+435
+00:44:14,680 --> 00:44:21,720
+wants to gain fat, it will do so usually through a mechanism that involves fructose. So what they do
+
+436
+00:44:21,720 --> 00:44:28,120
+is they, like a hibernating animal, will start eating a lot of fruit in the fall to increase
+
+437
+00:44:28,120 --> 00:44:34,600
+its weight and increase, induces insulin resistance. It gets hungry. It drops its metabolism so that
+
+438
+00:44:34,600 --> 00:44:40,600
+most of the energy it eats goes into fat. And the same thing with a long distance migrating bird,
+
+439
+00:44:40,600 --> 00:44:48,200
+they'll start eating fruit to get the fruit dose. And so this is a very common pattern. And it's
+
+440
+00:44:48,200 --> 00:44:55,480
+driven by that ATP depletion. And this is distinct, or in parallel, of course, to this uricase
+
+441
+00:44:55,480 --> 00:45:03,080
+mutation. So can you separate these two phenomenon? In other words, if you can restore uricase to the
+
+442
+00:45:03,080 --> 00:45:10,840
+non-mutated version, do you still have this problem around the ATP depletion? Yeah. So the ATP depletion
+
+443
+00:45:10,840 --> 00:45:18,920
+triggers a series of reactions. And what happens, what the key one is, not only does ATP decrease in
+
+444
+00:45:18,920 --> 00:45:26,120
+the cell, but intracellular phosphate also falls. And that activates an enzyme called AMP deaminase
+
+445
+00:45:26,840 --> 00:45:33,960
+that converts the broken down product of ATP, which is AMP, and it converts it to uric acid.
+
+446
+00:45:33,960 --> 00:45:40,040
+And that process has multiple steps. And we know that that whole pathway is involved in the
+
+447
+00:45:40,040 --> 00:45:47,880
+generation and stimulation of fat, insulin resistance, fatty liver, elevations in blood
+
+448
+00:45:47,880 --> 00:45:57,480
+pressure, a variety of effects. And that pathway is what seems to be critical for inducing obesity
+
+449
+00:45:57,480 --> 00:46:01,960
+from sugar. Let's go through that again, because that, what you sort of talked about at the very
+
+450
+00:46:01,960 --> 00:46:08,200
+end is effectively the thesis of your book, The Fat Switch. You explained what ATP is, adenosine
+
+451
+00:46:08,200 --> 00:46:14,840
+triphosphate. And the T of course stands for tri, there are three phosphates. It's the liberation
+
+452
+00:46:14,840 --> 00:46:20,040
+of a phosphate that is the production of energy. So when you need to breathe, you need to move,
+
+453
+00:46:20,040 --> 00:46:28,600
+when you need to do anything, you have to turn ATP into ADP. So the chemical reaction is adenosine
+
+454
+00:46:28,600 --> 00:46:35,560
+triphosphate becomes adenosine diphosphate, one phosphate escapes, and that's what gives us the
+
+455
+00:46:35,560 --> 00:46:44,520
+energy. Now that can happen again. ADP can lose one of its two remaining phosphates and become AMP,
+
+456
+00:46:44,520 --> 00:46:51,320
+adenosine monophosphate. What you said after is the really critical, critical piece of this,
+
+457
+00:46:51,320 --> 00:46:59,160
+which is when you have a molecule of adenosine monophosphate, it stands at a proverbial fork
+
+458
+00:46:59,160 --> 00:47:08,040
+in the road. It can either go down a path that is driven by something called AMPK or AMP kinase,
+
+459
+00:47:08,760 --> 00:47:16,760
+or it can go down the pathway of AMPD. Now let's go back to this point, because again,
+
+460
+00:47:16,760 --> 00:47:24,520
+it seems everything comes down to that choice. What happens if AMP goes down the AMPK pathway
+
+461
+00:47:24,520 --> 00:47:32,200
+versus the AMPD pathway? Yeah, so if it goes down the AMPK pathway, it actually is burning energy,
+
+462
+00:47:32,200 --> 00:47:39,000
+it's burning fat, it does a lot of really positive things. If it goes down the AMPD pathway, it goes
+
+463
+00:47:39,000 --> 00:47:45,400
+down a fat storage pathway. So it's their exact kind of opposites. AMPD, if you stimulate it,
+
+464
+00:47:45,400 --> 00:47:51,720
+it will cause insulin resistance and eventually diabetes. Whereas if you stimulate AMPK, you can
+
+465
+00:47:51,720 --> 00:47:58,600
+actually use that like metformin to actually treat diabetes. So that fork is critical. And what drives
+
+466
+00:47:58,600 --> 00:48:05,480
+that switch is the fall in intracellular phosphate. And the reason that phosphate falls is because
+
+467
+00:48:05,480 --> 00:48:11,080
+it's taken up in the fructose one phosphate, or it's taken up by fructose. So the fructose gets
+
+468
+00:48:11,080 --> 00:48:17,960
+phosphorylated by the ATP, and it becomes fructose one phosphate that sequesters phosphate. And there
+
+469
+00:48:17,960 --> 00:48:24,040
+is this process where both ATP levels fall and intracellular phosphate falls, and that triggers
+
+470
+00:48:24,040 --> 00:48:31,720
+this AMPD pathway. And if we interrupt the AMPD pathway, we can block a lot of the metabolic effects.
+
+471
+00:48:31,720 --> 00:48:37,160
+Do other animals also have this phenomenon? Oh yeah, no, we can show this, we actually showed
+
+472
+00:48:37,160 --> 00:48:44,360
+it in hibernating squirrels. So when a squirrel wants to gain weight, it will activate the pathway
+
+473
+00:48:44,360 --> 00:48:50,920
+for AMPD. When it's hibernating and burning the fat, it activates the AMPK pathway. I got it. So
+
+474
+00:48:50,920 --> 00:48:58,920
+even though humans and our most close descendants in primates have the uricase mutation, this
+
+475
+00:48:58,920 --> 00:49:05,880
+ability to toggle between AMPK and AMPD is unique to any species that has the potential to gain
+
+476
+00:49:05,880 --> 00:49:10,520
+weight and wants to use it to their advantage. Oh, absolutely. Part of the pathway through which
+
+477
+00:49:10,520 --> 00:49:15,880
+AMPD is working involves the generation of uric acid. So we know that the uric acid,
+
+478
+00:49:16,600 --> 00:49:22,200
+when it's going up inside the cell, is doing all kinds of biological effects, and the AMPD is
+
+479
+00:49:22,200 --> 00:49:27,960
+driving that. There may be other things besides the uric acid. So the hummingbird or the squirrel
+
+480
+00:49:27,960 --> 00:49:31,720
+can still store fat. They just don't get the bump in uric acid that comes with it because they don't
+
+481
+00:49:31,720 --> 00:49:35,960
+have the uricase mutation. Well, actually the hummingbird does have the uricase mutation.
+
+482
+00:49:35,960 --> 00:49:40,120
+Oh, really? Yeah. I don't know my evolution well enough. So birds have the uricase. Birds bifurcated
+
+483
+00:49:40,120 --> 00:49:45,960
+off after it. Yeah. Reptiles have the uricase mutation. Even dinosaurs had the uricase mutation.
+
+484
+00:49:46,680 --> 00:49:52,520
+Sue, the dinosaur, the Tyrannosaurus rex actually had gout. I mean, that's got to be why Tyrannosaurus
+
+485
+00:49:52,520 --> 00:49:57,480
+rex was so ornery because if you think of the size of the T-Rex great toe, I mean, that would
+
+486
+00:49:57,480 --> 00:50:02,200
+be infuriating to every bronchosaurus out there. Yeah, I think so. He's eating too many of the
+
+487
+00:50:02,200 --> 00:50:07,640
+bronchosaurae. Sorry to get back into the minutiae of this, but it's important. You still have to
+
+488
+00:50:07,640 --> 00:50:13,240
+phosphorylate glucose during its metabolism. Why is it that the phosphorylation of glucose during
+
+489
+00:50:13,240 --> 00:50:18,360
+its metabolism to pyruvate doesn't result in a strong enough drop in intracellular phosphate
+
+490
+00:50:18,360 --> 00:50:25,160
+to cause the same problem? Because the reaction stops. Whenever the phosphate and ATP levels
+
+491
+00:50:25,160 --> 00:50:28,360
+start dropping a little bit. You have that auto regulatory thing with the... There's an auto
+
+492
+00:50:28,360 --> 00:50:34,120
+regulatory thing with it. The enzyme stops functioning. It's inhibited and then that
+
+493
+00:50:34,120 --> 00:50:40,840
+allows the ATP levels to stay normal. So here's a really cool follow-up of this and that is that
+
+494
+00:50:40,840 --> 00:50:49,160
+sugar is much more likely to cause obesity if you drink it rather than if you eat it. And the reason
+
+495
+00:50:49,160 --> 00:50:56,760
+for that is that when you drink a drink that has fructose in it, we tend to drink a lot in a short
+
+496
+00:50:56,760 --> 00:51:02,280
+period of time. So if you have a soft drink, you can drink... Not only does it have a lot of sugar,
+
+497
+00:51:02,280 --> 00:51:10,680
+but we tend to drink it fast. And so the concentration of fructose turns out to be
+
+498
+00:51:10,680 --> 00:51:15,880
+high when it gets to the liver and it's the concentration that triggers this reaction. So
+
+499
+00:51:16,440 --> 00:51:22,600
+if the concentration of fructose is really low, the ATP depletion may not be significant to drive
+
+500
+00:51:23,560 --> 00:51:28,520
+dramatic metabolic effects. But if the concentration of fructose is really high,
+
+501
+00:51:28,520 --> 00:51:34,760
+then you're going to get a big metabolic effect. So eating like a candy bar where it's coming with
+
+502
+00:51:34,760 --> 00:51:41,160
+lots of fat, lots of glucose, lots of all sorts of things, lots of protein. If it's like a Snickers
+
+503
+00:51:41,160 --> 00:51:46,280
+bar and it's got nuts or whatever, even if it's the same amount of fructose, even if you're talking
+
+504
+00:51:46,280 --> 00:51:52,280
+about 25 grams of fructose versus 25 grams of fructose, you would drink very quickly. You're
+
+505
+00:51:52,360 --> 00:51:58,120
+saying equal amounts of fructose can produce a different effect if both the speed and the
+
+506
+00:51:58,120 --> 00:52:01,800
+concentration with which they arrive at the liver are different. Yeah, it's the amount,
+
+507
+00:52:02,600 --> 00:52:08,440
+it's the speed, and it's ultimately how rapidly it's absorbed. So if you drink something,
+
+508
+00:52:08,440 --> 00:52:13,800
+if you take a lot of fructose, like, I mean, candy is very concentrated fructose. I mean,
+
+509
+00:52:13,800 --> 00:52:19,480
+if you eat that, for example, on an empty stomach, that will be absorbed faster than if you eat it
+
+510
+00:52:19,480 --> 00:52:24,920
+with oatmeal or something, you know, where there's fiber and so forth. And so the speed of absorption
+
+511
+00:52:24,920 --> 00:52:32,680
+and the makes a difference. So for example, if I was working for a high fructose corn syrup company,
+
+512
+00:52:32,680 --> 00:52:39,320
+and I wanted to prove that a soft drink wasn't bad, I could do a study where I would give the
+
+513
+00:52:39,320 --> 00:52:45,880
+soft drinks to people, but I would give it over, you're only allowed to make a tiny sip every 10
+
+514
+00:52:45,880 --> 00:52:53,480
+minutes. So it takes you three hours to drink a soft drink. In that case, the amount, even though
+
+515
+00:52:53,480 --> 00:52:59,000
+you're drinking a lot, the concentration may never be enough. You never let the phosphate depletion
+
+516
+00:52:59,000 --> 00:53:05,960
+get significant enough in magnitude that it really triggers AMPD. Yes, that's it. You know,
+
+517
+00:53:05,960 --> 00:53:10,920
+it's really interesting. I think of all the sugar, the pro sugar studies I've read that are funded
+
+518
+00:53:11,000 --> 00:53:17,880
+by the sugar industry. I don't think I've ever dug into the methodology to look at factors like that
+
+519
+00:53:17,880 --> 00:53:22,920
+specifically. Well, the other issue is like if you just take a single dose of fructose,
+
+520
+00:53:22,920 --> 00:53:29,160
+most of the metabolic effects are best seen like in the first four hours following the ingestion.
+
+521
+00:53:29,160 --> 00:53:33,880
+So the triglycerides go up and the uric acid goes up and the blood pressure goes up.
+
+522
+00:53:34,600 --> 00:53:39,880
+But if you just do a single dose study, if you then look the following morning,
+
+523
+00:53:39,960 --> 00:53:45,480
+or the effects have now kind of come back down, then you can't really show it. And a lot of these
+
+524
+00:53:45,480 --> 00:53:51,160
+studies, they design it that way. So they say, aha, fructose doesn't raise uric acid, but we
+
+525
+00:53:51,160 --> 00:53:58,040
+measured it after fasting overnight. But the surge in uric acid occurred earlier. So that's the
+
+526
+00:53:58,040 --> 00:54:04,200
+one common trick. So all these things you're talking about with fructose seem to fit almost
+
+527
+00:54:04,200 --> 00:54:12,680
+directly into the five characteristics of metabolic syndrome, which are elevated glucose.
+
+528
+00:54:12,680 --> 00:54:18,360
+So that insulin resistance would be manifested as an elevated glucose, elevated blood pressure,
+
+529
+00:54:19,320 --> 00:54:26,360
+elevated waste circumference, storage of fat, elevated triglycerides, what you just said.
+
+530
+00:54:27,160 --> 00:54:33,000
+And the only one we didn't address is low HDL cholesterol, which is the fifth finding.
+
+531
+00:54:33,000 --> 00:54:37,080
+Now, of course, three out of those five are sufficient to put you in the category, but
+
+532
+00:54:37,080 --> 00:54:41,000
+fructose does all five. What is the mechanism by... So you've already described the mechanism by
+
+533
+00:54:41,000 --> 00:54:46,760
+which it does three of them. We alluded loosely to how it raises triglycerides, but I'd like to
+
+534
+00:54:46,760 --> 00:54:50,440
+talk about that more. And then of course, I'd like to hear how it lowers HDL cholesterol.
+
+535
+00:54:50,440 --> 00:54:59,640
+Okay. So the uric acid generated by fructose has a very pronounced effect to stimulate oxidative
+
+536
+00:54:59,720 --> 00:55:06,840
+stress in the mitochondria. And fructose also generates lactate big time. And the lactate also
+
+537
+00:55:06,840 --> 00:55:14,840
+has effects on mitochondria, as you learned from Dr. Sam Melan's talk. And in addition, fructose
+
+538
+00:55:14,840 --> 00:55:22,840
+preferentially decreases mitochondrial function and stimulates glycolysis. And so all those things
+
+539
+00:55:22,840 --> 00:55:28,040
+cause... You get this big oxidative stress to the mitochondria. And there's an enzyme in the
+
+540
+00:55:28,040 --> 00:55:34,040
+mitochondria that drives fat oxidation called enylchoahydratease. I mean, sorry to...
+
+541
+00:55:34,040 --> 00:55:35,800
+Throw it out there. This is what we're hearing.
+
+542
+00:55:35,800 --> 00:55:35,800
+
+
+543
+00:55:35,800 --> 00:55:37,320
+No, no, no. We're here to talk about it.
+
+544
+00:55:37,320 --> 00:55:43,560
+But basically, the oxidative stress inhibits that. So fatty acid oxidation goes down. So you block
+
+545
+00:55:43,560 --> 00:55:50,120
+fat burning. And then in addition, you block an enzyme called econotase with oxidative stress
+
+546
+00:55:50,120 --> 00:55:55,880
+to the mitochondria. And that increases citrate, which drives fat generation. And so you end up
+
+547
+00:55:55,880 --> 00:56:02,360
+with fatty liver that's driven by both increased fat synthesis and a block in fat burning. The
+
+548
+00:56:02,360 --> 00:56:09,080
+mitochondrial oxidative stress also is very much linked with the development of insulin resistance.
+
+549
+00:56:09,080 --> 00:56:14,600
+And then uric acid is also the generated uric acid. It's also causing oxidative stress to the
+
+550
+00:56:14,600 --> 00:56:17,480
+islets, to the pancreatic islets as well.
+
+551
+00:56:17,480 --> 00:56:21,480
+Uric acid is actually harmful to the islet cells of the pancreas?
+
+552
+00:56:22,200 --> 00:56:29,080
+In fact, if you give sugar, we did a study where we gave sugar to animals where we actually
+
+553
+00:56:29,080 --> 00:56:34,840
+restricted the amount of calories. The rats were getting... They were on a diet, basically.
+
+554
+00:56:34,840 --> 00:56:35,560
+They were on a diet...
+
+555
+00:56:35,560 --> 00:56:37,640
+They were on a high sugar, low calorie diet.
+
+556
+00:56:37,640 --> 00:56:39,960
+Right. And then we had as a control,
+
+557
+00:56:40,520 --> 00:56:43,880
+rats that got the same number of calories, but they weren't getting the sugar.
+
+558
+00:56:43,880 --> 00:56:45,960
+Right. So just a low calorie, low sugar diet.
+
+559
+00:56:45,960 --> 00:56:53,160
+Yeah. And when we gave the high sugar, low calorie diet, all the animals developed fatty liver,
+
+560
+00:56:54,200 --> 00:56:56,920
+hypertension, insulin resistance.
+
+561
+00:56:56,920 --> 00:56:58,440
+Did they actually gain weight?
+
+562
+00:56:58,440 --> 00:57:05,640
+No. No. This is a trick. Weight gain really requires increased calories, really to show it.
+
+563
+00:57:05,640 --> 00:57:08,840
+You know, long-term, maybe just decreasing metabolism will do it.
+
+564
+00:57:08,840 --> 00:57:12,120
+But this is interesting. You're saying both animals lost weight. Did they lose about the
+
+565
+00:57:12,120 --> 00:57:12,760
+same amount of weight?
+
+566
+00:57:12,840 --> 00:57:17,560
+No. They maintained their weight. Even though they were eating 90% of what they normally eat,
+
+567
+00:57:17,560 --> 00:57:18,840
+they were able to maintain.
+
+568
+00:57:18,840 --> 00:57:24,120
+So both groups slowed their metabolism enough to maintain weight at a 10% reduction of calories.
+
+569
+00:57:24,120 --> 00:57:29,320
+So in the outside, they looked the same, but the high sugar group still developed fatty liver.
+
+570
+00:57:29,320 --> 00:57:31,720
+Severe. And they all became diabetic.
+
+571
+00:57:31,720 --> 00:57:36,760
+Do you recall in that study, Rick, what the actual percentage of their macros that came from fructose?
+
+572
+00:57:36,760 --> 00:57:37,080
+20%.
+
+573
+00:57:37,080 --> 00:57:40,920
+Right. So the critic will say, well, that's highly unnatural. Although in reality, it's not that
+
+574
+00:57:41,000 --> 00:57:45,640
+unnatural. There are lots of people, unfortunately, walking around getting 20% of their energy input
+
+575
+00:57:45,640 --> 00:57:50,600
+from that. So it's not physiologically completely out of whack, but as a proof of concept,
+
+576
+00:57:50,600 --> 00:57:55,080
+these animals got diabetes without gaining weight. They got fatty liver disease without
+
+577
+00:57:55,080 --> 00:57:58,200
+gaining weight. They were, by definition, insulin resistant.
+
+578
+00:57:58,200 --> 00:58:03,640
+Right. And when we measured their insulin levels, they first became insulin resistant with high
+
+579
+00:58:03,640 --> 00:58:06,600
+serum insulin levels, which is what we see.
+
+580
+00:58:06,600 --> 00:58:07,480
+Early diabetes, basically.
+
+581
+00:58:07,480 --> 00:58:12,680
+Early to type 2 diabetes. But over time, the serum insulin levels started to fall.
+
+582
+00:58:12,680 --> 00:58:14,840
+So they almost develop a type 1 diabetes.
+
+583
+00:58:14,840 --> 00:58:20,280
+Well, just like humans do. And what we saw is that the islets used to be the phrase was called
+
+584
+00:58:20,280 --> 00:58:26,440
+islet exhaustion because longstanding type 2 diabetes, we see the same thing, but it's
+
+585
+00:58:26,440 --> 00:58:30,840
+actually low grade inflammation in the islets. And we could show that there was low grade
+
+586
+00:58:30,840 --> 00:58:37,240
+inflammation and it was associated with big time upregulation of urate transport proteins
+
+587
+00:58:37,800 --> 00:58:44,120
+on the islet. And when we took isolated islets and we put uric acid on them and induced oxidative
+
+588
+00:58:44,120 --> 00:58:50,040
+stress and over time caused a drop in insulin level. So what we think is going on is that
+
+589
+00:58:50,040 --> 00:58:57,160
+sugar causes diabetes through this pathway that we've been talking about. And it involves
+
+590
+00:58:57,160 --> 00:59:02,760
+initially insulin resistance, but over time it will cause islet cell dysfunction as well.
+
+591
+00:59:02,760 --> 00:59:05,880
+And this has been confirmed by other groups now.
+
+592
+00:59:05,880 --> 00:59:10,600
+That sort of comes to the triglyceride story, right? If you have a net accumulation of fat
+
+593
+00:59:10,600 --> 00:59:15,800
+in the liver, you're going to have to export some of that in the form of VLDL, a very low
+
+594
+00:59:15,800 --> 00:59:20,920
+density lipoprotein. So that would drive up the serum triglyceride. What's driving down the HDL
+
+595
+00:59:20,920 --> 00:59:21,640
+cholesterol?
+
+596
+00:59:21,640 --> 00:59:25,800
+You know, I haven't studied that personally. I don't really know, but I did see that there
+
+597
+00:59:25,800 --> 00:59:31,640
+are reports that fructose can lower HDL, like in animals and stuff, but I don't really know
+
+598
+00:59:31,640 --> 00:59:32,360
+the mechanism.
+
+599
+00:59:32,360 --> 00:59:38,440
+When you sort of pause for a moment, Rick, do you ever worry that talking about fructose this way
+
+600
+00:59:38,440 --> 00:59:42,440
+just seems, I don't know what the word is. I don't think it's necessarily being too much of
+
+601
+00:59:42,440 --> 00:59:50,760
+a reductionist, but it almost seems too simple that this one molecule could simultaneously have
+
+602
+00:59:50,760 --> 00:59:57,240
+probably allowed our species to survive during this very cold spell six to 12 million years ago.
+
+603
+00:59:58,600 --> 01:00:04,520
+And obviously evolution wasn't thinking 12 million years into the future that we'd be flush with
+
+604
+01:00:04,520 --> 01:00:11,640
+fructose. And yet here we are today. One could interpret what you're saying to mean if you
+
+605
+01:00:11,640 --> 01:00:17,800
+simply had no fructose in your diet, most of the bad things we think about metabolically would go
+
+606
+01:00:17,800 --> 01:00:19,480
+away. Is that a fair assessment?
+
+607
+01:00:19,480 --> 01:00:24,840
+Yeah, I think that's true. So let me give you another one where we've really learned a lot.
+
+608
+01:00:24,840 --> 01:00:30,920
+I don't know if you are aware of the relationship with cancer, but what we've learned is that
+
+609
+01:00:30,920 --> 01:00:36,520
+fructose was an incredible survival nutrient in the setting of near starvation.
+
+610
+01:00:37,400 --> 01:00:42,200
+So as I mentioned, what we're learning is all these animals use fructose. They either get it
+
+611
+01:00:42,200 --> 01:00:49,160
+from their diet or they make it in their body, and they use that to help them survive. And we can
+
+612
+01:00:49,160 --> 01:00:55,720
+talk about it, but it involves not just storing energy, but they use fructose to store water.
+
+613
+01:00:55,720 --> 01:00:59,880
+And we can talk about that. And they use it to become insulin resistant. Insulin resistance is
+
+614
+01:00:59,880 --> 01:01:05,960
+a survival mechanism whereby increasing blood glucose and preventing glucose from taking up
+
+615
+01:01:05,960 --> 01:01:10,440
+in the skeletal muscle, it preserves it for the brain, which is what you want to do if you don't
+
+616
+01:01:10,440 --> 01:01:15,480
+have enough food around, you want to be able to think so you can escape predators and so forth.
+
+617
+01:01:15,480 --> 01:01:23,400
+So it was a survival tool to increase energy. And it actually also protected animals from a
+
+618
+01:01:23,400 --> 01:01:31,400
+low oxygen state. So by switching, by reducing mitochondrial function and stimulating this thing
+
+619
+01:01:31,400 --> 01:01:37,960
+called glycolysis, it allowed the animal to survive with a lower oxygen state. And so we know,
+
+620
+01:01:37,960 --> 01:01:44,280
+for example, that the naked mole rat, which lives in burrows, very low oxygen burrows,
+
+621
+01:01:44,280 --> 01:01:51,080
+they make fructose to survive when they're in those burrows. So suddenly the fructose goes up
+
+622
+01:01:51,080 --> 01:01:56,840
+in their blood and they use it to survive the low oxygen tension there because they switch from
+
+623
+01:01:56,840 --> 01:02:04,280
+mitochondrial metabolism to glycolysis. But why can't they just rely more on glucose for which
+
+624
+01:02:04,280 --> 01:02:11,000
+we have such an abundant apparatus to store it at large amounts? Is there an energetic reason for
+
+625
+01:02:11,000 --> 01:02:16,360
+fructose? A lot of the fructose is converted to glucose and to lactate, which can be converted
+
+626
+01:02:16,360 --> 01:02:22,040
+to glucose, and then it's driven through this glycolysis pathway. So it turns out, though,
+
+627
+01:02:22,040 --> 01:02:27,800
+that what happens is when you metabolize glucose, a lot of it will go through mitochondrial metabolism.
+
+628
+01:02:27,800 --> 01:02:34,920
+And so if we can inhibit mitochondrial metabolism, which uses oxygen, we can live off glycolysis,
+
+629
+01:02:34,920 --> 01:02:40,920
+which doesn't require oxygen. So what happens is in a low oxygen state, like the naked mole rat,
+
+630
+01:02:41,160 --> 01:02:48,520
+will use fructose to survive. But cancers... But wait, I'm still confused about this, Rick, because
+
+631
+01:02:48,520 --> 01:02:53,080
+wouldn't that fructose, but they're not storing that fructose as fat then, because that would be
+
+632
+01:02:53,080 --> 01:02:58,760
+the worst fuel they could have around in a low oxygen environment, right? Well, so fructose is
+
+633
+01:02:58,760 --> 01:03:06,280
+increasing glycogen and lipid, but it's also reducing mitochondrial use. When you're eating
+
+634
+01:03:06,280 --> 01:03:13,080
+fructose, you actually are not burning the fat. You are storing the fat. And then so what it's
+
+635
+01:03:13,080 --> 01:03:19,880
+doing is it's putting you into a glycolytic state. So animals use it to store fat, and then they
+
+636
+01:03:20,840 --> 01:03:26,520
+fast, and then they burn the fat. So they hibernate, or they go flying long distances,
+
+637
+01:03:26,520 --> 01:03:31,320
+where they have no food, and then they switch. And then the fat that they've stored suddenly
+
+638
+01:03:31,320 --> 01:03:37,400
+becomes their survival. But during the time that they're in a low oxygen state, they want to have
+
+639
+01:03:37,400 --> 01:03:44,200
+fructose on board, because the fructose is helping them to survive low oxygen by switching their
+
+640
+01:03:44,200 --> 01:03:51,240
+metabolism. But unfortunately, like cancers also live in a low oxygen state. And so these cancers
+
+641
+01:03:51,240 --> 01:03:58,520
+love fructose as their fuel, because it helps support them surviving in a low oxygen state.
+
+642
+01:03:58,520 --> 01:04:05,640
+So recently, it's been shown that many cancers, colon, liver, kidney, breast, brain,
+
+643
+01:04:06,280 --> 01:04:13,160
+all these cancer cells, intestinal, they all tend to like fructose as their preferential fuel.
+
+644
+01:04:13,160 --> 01:04:17,880
+There was just a paper in Science a few weeks ago, and if you block that fructose pathway,
+
+645
+01:04:18,520 --> 01:04:22,200
+the cancers don't do as well. And when you say block it, do you mean block
+
+646
+01:04:22,200 --> 01:04:28,120
+fructokinase? Yes. Which pathway specifically? Fructokinase. So if you take intestinal colon cancer,
+
+647
+01:04:28,120 --> 01:04:34,200
+you put high fructose corn syrup on it, they love it, they grow, they metastasize. And if you block
+
+648
+01:04:34,200 --> 01:04:39,720
+fructokinase and block fructose metabolism, you can block a lot of the growth of those cancers.
+
+649
+01:04:39,720 --> 01:04:44,840
+Do you have a sense of how much you're blocking it? It's pretty remarkable. It's like 50% or more.
+
+650
+01:04:44,840 --> 01:04:49,960
+And we know it's the fructose, not the glucose, presumably because we don't impair glucose
+
+651
+01:04:49,960 --> 01:04:54,360
+metabolism at all in that experiment. That's correct. And also they were able to show that
+
+652
+01:04:54,360 --> 01:05:00,920
+this was driven by that shift from a mitochondrial-based metabolism to a glycolytic metabolism.
+
+653
+01:05:00,920 --> 01:05:04,520
+And what happens to lactate levels in that setting? Oh, very high.
+
+654
+01:05:04,520 --> 01:05:07,080
+Meaning the more fructose they have, the higher the lactate level?
+
+655
+01:05:07,080 --> 01:05:13,960
+Yes. Again, very counterintuitive, because aren't we sort of taught that the liver is the only organ
+
+656
+01:05:13,960 --> 01:05:19,480
+that can really process fructose and that it all sort of accumulates there? And I mean, conventional
+
+657
+01:05:19,480 --> 01:05:24,200
+thinking is that fructose really doesn't have much of an interaction outside of the liver
+
+658
+01:05:24,200 --> 01:05:29,960
+unless converted to glucose, correct? That was said by a lot of people, but the findings show that
+
+659
+01:05:29,960 --> 01:05:38,360
+about 20% of fructose is used by the intestine, maybe 40% by the liver. And at least 10 to 20%
+
+660
+01:05:39,240 --> 01:05:43,880
+can escape into the circulation. And of course, if the larger the dose, the more that will pass.
+
+661
+01:05:44,600 --> 01:05:51,880
+And the kidneys are big target. There's fructokinase in the brain. There's fructokinase in the islets.
+
+662
+01:05:52,520 --> 01:05:57,400
+There's fructokinase in the adipose tissue. Does the muscle have fructokinase?
+
+663
+01:05:57,400 --> 01:06:01,720
+There's some thought that fructokinase may be in the muscle. It's got to be very low,
+
+664
+01:06:01,720 --> 01:06:05,960
+but there's some thought that fructose is being metabolized in the scallop muscle.
+
+665
+01:06:05,960 --> 01:06:12,200
+And one of the things that's interesting is there was a paper in Nature that showed that the heart
+
+666
+01:06:12,200 --> 01:06:18,120
+normally doesn't have fructokinase, but when you have a heart attack, the low oxygen state there
+
+667
+01:06:18,840 --> 01:06:25,160
+induces the fructokinase and there's probably production, endogenous production of fructose.
+
+668
+01:06:25,160 --> 01:06:30,360
+And it seems to be involved in cardiac remodeling. So it's probably involved in more things than we
+
+669
+01:06:30,360 --> 01:06:37,960
+think of. And certainly it's in the brain. Which means that in theory, the brain could actually use
+
+670
+01:06:37,960 --> 01:06:44,200
+free molecules of fructose to make ATP in addition to the mainstay of its energy metabolism, which is
+
+671
+01:06:44,200 --> 01:06:49,400
+glucose driven and lactate. I think we're now seeing lactate. There's actually some evidence
+
+672
+01:06:49,400 --> 01:06:54,840
+that first off, we know that fructokinase is in the brain. We know the brain can make fructose
+
+673
+01:06:54,840 --> 01:07:01,640
+and there's increasing evidence that insulin resistances can occur just in the brain and
+
+674
+01:07:01,640 --> 01:07:07,000
+maybe a forerunner for the development of Alzheimer's. And there are actually reports
+
+675
+01:07:07,000 --> 01:07:13,320
+that AMPD aminase is high in the brains of Alzheimer's patients. And it raises the possibility
+
+676
+01:07:13,320 --> 01:07:18,120
+that local fructose metabolism could be involved in disorders like that. Are there any people with
+
+677
+01:07:18,120 --> 01:07:23,240
+naturally occurring mutations in fructokinase that render it less capable? Yeah. So there are people
+
+678
+01:07:23,240 --> 01:07:29,080
+with a condition called the essential fructosuria where they are born without active fructokinase
+
+679
+01:07:29,080 --> 01:07:34,280
+and they live normally. No one's ever been reported to have type two diabetes or obesity. So these
+
+680
+01:07:34,280 --> 01:07:40,200
+people, if I'm understanding you correctly, are genetically immune to the harm of sugar. Yes. And
+
+681
+01:07:40,280 --> 01:07:45,160
+they pee out all the fructos. Yes. Okay. So that seems to be an interesting topic.
+
+682
+01:07:45,880 --> 01:07:50,120
+This must be very rare. I've never even heard of it. It's a rare condition. They actually don't pee
+
+683
+01:07:50,120 --> 01:07:55,320
+out all the fructos. Some fructos can be metabolized by an enzyme called hexokinase,
+
+684
+01:07:55,960 --> 01:08:02,760
+which is normally metabolized as glucose, but fructos is preferentially metabolized by fructokinase.
+
+685
+01:08:02,760 --> 01:08:08,040
+So these people have very sweet urine going back to Osler had he tasted their urine, he would have
+
+686
+01:08:08,040 --> 01:08:12,680
+confused them potentially with an even sweeter version than the people would ultimately type two
+
+687
+01:08:12,680 --> 01:08:18,760
+diabetes. That's how they were discovered because they would have reducing sugars, which was fructos
+
+688
+01:08:18,760 --> 01:08:23,960
+in their urine that was picked up with the old tests they used to use for diabetes, but then
+
+689
+01:08:23,960 --> 01:08:28,440
+they didn't have diabetes when they tested them. And these people could literally just consume
+
+690
+01:08:28,440 --> 01:08:32,120
+all the sugar they wanted and their uric acid is not going to go up. Their blood pressure is not
+
+691
+01:08:32,120 --> 01:08:35,880
+going to go up. Their trigs don't go up. They don't gain weight. They don't become insulin resistant.
+
+692
+01:08:35,880 --> 01:08:41,400
+That's right. So is there any benefit to having fructokinase if you're not hibernating or in a
+
+693
+01:08:41,400 --> 01:08:47,960
+world where famine is potentially coming your way? It's really a survival enzyme that was meant to
+
+694
+01:08:47,960 --> 01:08:54,520
+help in situations where there was food shortage. If you live in the Western world and you just have
+
+695
+01:08:54,520 --> 01:09:01,560
+to go down to the grocery store, no, I think living without fructokinase would probably solve a lot of
+
+696
+01:09:01,560 --> 01:09:05,720
+the world's health problems. I mean, and there are fructokinase inhibitors that are being developed.
+
+697
+01:09:06,520 --> 01:09:13,080
+Pfizer has one that's now in a finished a phase two trial. It was quite successful at treating
+
+698
+01:09:13,080 --> 01:09:19,480
+fatty liver. And so now they're taking that drug to phase three. Wow. That's a potential blockbuster
+
+699
+01:09:19,480 --> 01:09:25,160
+actually. Of course, it begs an interesting question, which is how will that drug be treated?
+
+700
+01:09:25,160 --> 01:09:29,880
+Will it be only used as a way to treat an active condition such as fatty liver, in which case it's
+
+701
+01:09:29,880 --> 01:09:36,600
+going to have a smaller on label market versus what will likely happen, which is people who just
+
+702
+01:09:36,600 --> 01:09:40,280
+want to be able to have more sugar without the consequences of it would take it. Correct. Yeah.
+
+703
+01:09:40,280 --> 01:09:44,840
+Although it's probably priced to avoid that. I'm guessing. Anyway, yeah, there's a lot of
+
+704
+01:09:44,840 --> 01:09:49,320
+interest in fructokinase inhibitors. There's other big farmer that are working on it now.
+
+705
+01:09:49,960 --> 01:09:55,720
+And so we'll have to see if it turns out to be as powerful as we think it might be. So the work that
+
+706
+01:09:55,720 --> 01:10:00,280
+we've just discussed is sort of been, you've been at this since 2002, basically specifically with
+
+707
+01:10:00,280 --> 01:10:06,680
+respect to this. Let's go back to allopurinol and uric acid in your clinical practice, because you're
+
+708
+01:10:06,680 --> 01:10:14,680
+still, you've spent 17 years as the division head of nephrology across three world-class medical
+
+709
+01:10:14,680 --> 01:10:19,320
+centers, most currently the university of Colorado. And yet I was surprised to learn over dinner the
+
+710
+01:10:19,320 --> 01:10:25,000
+other day that you still have a very pretty heavy clinical practice. You still actually take care of
+
+711
+01:10:25,000 --> 01:10:30,200
+patients in the inpatient ward and you probably spend a quarter of your time in clinic. So how do
+
+712
+01:10:30,200 --> 01:10:35,880
+you put some of this stuff into practice? Do you liberally use allopurinol even for patients who
+
+713
+01:10:35,880 --> 01:10:42,360
+have high uric acid but have not developed gout yet? I do. So our data strongly suggests that
+
+714
+01:10:42,360 --> 01:10:49,000
+lowering uric acid could be beneficial. So what I do is the following. So it turns out that allopurinol
+
+715
+01:10:49,000 --> 01:10:54,840
+is not totally safe. There's some people who can develop reactions to allopurinol drug reactions.
+
+716
+01:10:55,480 --> 01:11:01,720
+Especially Asians, about three to four percent of people who are Asian can develop an allergic
+
+717
+01:11:01,720 --> 01:11:08,120
+reaction to allopurinol where they can get rashes and it can be pretty severe. And it's about two
+
+718
+01:11:08,120 --> 01:11:14,120
+percent in African Americans and it's about 0.5 percent in Caucasians. You can test for it. There's
+
+719
+01:11:14,120 --> 01:11:19,960
+a test called the HLA B58 test. But the point of the matter is that no drug is fully safe. Every
+
+720
+01:11:19,960 --> 01:11:27,400
+drug has side effects. So ideally you'd want to really be certain that your drug's going to provide
+
+721
+01:11:27,400 --> 01:11:33,560
+the benefit that you want and you have to consider the risk versus benefits. Now although in animals
+
+722
+01:11:33,560 --> 01:11:39,400
+allopurinol is totally protective or protects a lot against sugar induced metabolic syndrome,
+
+723
+01:11:39,400 --> 01:11:45,320
+the data in humans is suggestive. So there's been for example four pilot studies showing an improvement
+
+724
+01:11:45,320 --> 01:11:51,560
+in insulin resistance with lower anuric acid in humans. All four are positive. There's a lot of
+
+725
+01:11:51,560 --> 01:11:58,200
+trials in kidney disease showing that lower anuric acid may benefit kidney disease. There's data on
+
+726
+01:11:58,200 --> 01:12:04,040
+blood pressure. We had a paper in the JAMA showing that lower anuric acid could improve blood pressure
+
+727
+01:12:04,040 --> 01:12:10,280
+control in adolescence with hyperuricemia. So there's a lot of supporting data. There are some
+
+728
+01:12:10,280 --> 01:12:17,080
+negative studies too but the overall weight is now in favor of lowering uric acid to benefit.
+
+729
+01:12:17,080 --> 01:12:23,560
+What would the target be? So what I do is when I see a patient in clinic I measure the uric acid
+
+730
+01:12:23,560 --> 01:12:31,400
+and currently we know that the risks start to go up when the serum uric acid is over 5.5.
+
+731
+01:12:31,400 --> 01:12:36,200
+So once the serum uric acid is over 5.5 they really start to have increased risk for
+
+732
+01:12:36,840 --> 01:12:41,880
+prediabetes, insulin resistance, hypertension, kidney disease, etc. And what's interesting is
+
+733
+01:12:41,880 --> 01:12:47,800
+most labs like my lab for example doesn't even flag it until it hits about 6.5 as a sort of
+
+734
+01:12:47,800 --> 01:12:53,240
+intermediate risk and it's really not until about 7.5 that it says well this is high risk but of
+
+735
+01:12:53,240 --> 01:12:57,880
+course that's only through the lens of gout I assume. Yes that's right. So if a uric acid comes
+
+736
+01:12:57,880 --> 01:13:04,840
+back really high like 9 or 10 I have no doubt that that based on everything I've done I have no doubt
+
+737
+01:13:04,920 --> 01:13:09,160
+that that's not good. Not only does it increase the risk for gout but it increases the risk for
+
+738
+01:13:09,160 --> 01:13:14,600
+kidney disease and all these things and I talk to the patient about the pros and cons of treatment.
+
+739
+01:13:14,600 --> 01:13:21,000
+I talk about the rash. I tell them to stop the drug if they get a rash and then call me. But I
+
+740
+01:13:21,000 --> 01:13:26,760
+always start alipurinol when the uric acid is like eight or higher and certainly when it's nine or
+
+741
+01:13:26,760 --> 01:13:34,600
+higher. When it's between 5.5 and eight I'll talk to them about the pros and cons but we don't have
+
+742
+01:13:34,600 --> 01:13:40,040
+full proof yet. But I tend to do it especially with patients with kidney disease where the data
+
+743
+01:13:40,040 --> 01:13:45,400
+is probably the strongest to start treating. I'll even do it with uric acid of six and a half for
+
+744
+01:13:45,400 --> 01:13:50,840
+example with chronic kidney disease. But anyway it's worthwhile discussing it with the patient.
+
+745
+01:13:50,840 --> 01:13:55,320
+But outside of the risk of Stevens-Johnson syndrome which you've alluded to, what are the
+
+746
+01:13:55,320 --> 01:14:01,480
+other potential risks of alipurinol? That's by far the big one. Some people will get just a mild rash
+
+747
+01:14:01,480 --> 01:14:07,720
+without true Stevens-Johnson syndrome. There are rare cases where liver function tests may be
+
+748
+01:14:07,720 --> 01:14:14,360
+elevated but it seems to be rare. If you start at a huge dose right away it can increase xanthine
+
+749
+01:14:14,360 --> 01:14:21,400
+levels in the urine. Theoretically there could be risk for xanthine stones but I've never seen it.
+
+750
+01:14:21,400 --> 01:14:27,320
+So it's really the risk of Stevens-Johnson. And do you have to use alipurinol or can you use
+
+751
+01:14:27,320 --> 01:14:33,640
+euloric or other drugs that also lower uric acid? Well the xanthine oxidase inhibitors are
+
+752
+01:14:33,640 --> 01:14:40,200
+the best because the way uric acid works to cause cardiovascular disease and kidney disease and all
+
+753
+01:14:40,200 --> 01:14:45,560
+these things appear to be through its actions inside the cell as we said works on mitochondria
+
+754
+01:14:45,560 --> 01:14:52,920
+and it does all these things. It's not it's work outside the cell so gout is really an extracellular
+
+755
+01:14:52,920 --> 01:14:58,680
+deposition but when you're thinking about uric acid and its biologic effects that's an
+
+756
+01:14:58,680 --> 01:15:05,640
+intracellular action. So xanthine oxidase makes uric acid inside the cell so one of the best ways
+
+757
+01:15:05,640 --> 01:15:11,720
+to reduce intracellular uric acid is to give us xanthine oxidase inhibitor like alipurinol or
+
+758
+01:15:11,720 --> 01:15:17,880
+fiboxestat. Now fiboxestat I think it's probably just as good as alipurinol but there was a big
+
+759
+01:15:17,880 --> 01:15:21,960
+clinical trial that was published in the New England Journal that showed that alipurinol
+
+760
+01:15:21,960 --> 01:15:27,960
+was associated with less cardiovascular risk than fiboxestat. There seemed to be an increased
+
+761
+01:15:27,960 --> 01:15:33,720
+cardiovascular events in the fiboxestat group. Meaning less of a reduction or more events.
+
+762
+01:15:33,720 --> 01:15:37,640
+Well see the problem was there was no placebo group. Oh yeah that's a disaster. Yeah that's
+
+763
+01:15:37,640 --> 01:15:42,760
+a disaster. This is the Vioxx problem with naproxen. Yeah I mean so the problem is
+
+764
+01:15:42,760 --> 01:15:48,920
+alipurinol is less than fiboxestat but there's no placebo group. Theoretically the placebo group
+
+765
+01:15:48,920 --> 01:15:53,080
+would be higher than both of them. Yeah it could be higher than both of them and there's actually
+
+766
+01:15:53,080 --> 01:15:58,680
+evidence that that's probably true but because of the CARES study the way it was designed we don't
+
+767
+01:15:58,680 --> 01:16:05,560
+know. So the FDA is worried about giving fiboxestat to people with cardiovascular problems because
+
+768
+01:16:06,120 --> 01:16:11,720
+they would prefer you to give alipurinol but the trouble is it's not necessarily that fiboxestat
+
+769
+01:16:11,720 --> 01:16:16,920
+is bad it's just that it's not as good as alipurinol. And it's like a hundred thousand times more
+
+770
+01:16:16,920 --> 01:16:22,280
+expensive too. Although it's I think becoming generic now so we may see a change in that.
+
+771
+01:16:23,160 --> 01:16:26,920
+I believe it when I see it and of course the way you trust the generics but that's a whole separate
+
+772
+01:16:26,920 --> 01:16:32,520
+issue. Exactly. So what about sodium restriction going back to how we started the discussion?
+
+773
+01:16:32,520 --> 01:16:36,440
+I'll tell you a story from I may have even told this on the podcast once before but in medical
+
+774
+01:16:36,440 --> 01:16:41,480
+school I remember when we were doing renal physiology we had a great nephrology professor
+
+775
+01:16:41,480 --> 01:16:45,640
+who was teaching something and I think he was quite ahead of his time because this was
+
+776
+01:16:46,200 --> 01:16:51,480
+more than 20 years ago and he was not sort of part of this salt is bad bandwagon even though
+
+777
+01:16:51,480 --> 01:16:56,520
+he was a nephrologist. And I won't do it because I won't do it justice but in a beautiful southern
+
+778
+01:16:56,520 --> 01:17:02,840
+accent he made the point that if you lined up all of the nephrons in the world all the functional
+
+779
+01:17:02,840 --> 01:17:07,320
+units of the kidneys in the world from dumbest to smartest and then all of the nephrologists
+
+780
+01:17:07,320 --> 01:17:12,360
+in the world from dumbest to smartest and you took that dumbest nephron and put it next to the
+
+781
+01:17:12,360 --> 01:17:18,840
+smartest nephrologist it's still smarter. His point being of course like the kidney is a brilliant
+
+782
+01:17:18,840 --> 01:17:26,840
+organ that is exceptional at auto regulation of everything from flow to osmolarity to
+
+783
+01:17:26,840 --> 01:17:33,000
+anion cation exchange. Again his point being he didn't buy this argument that salt is the problem.
+
+784
+01:17:33,000 --> 01:17:36,840
+You're saying something much more nuanced and I want to kind of go back to it because I think
+
+785
+01:17:36,840 --> 01:17:41,880
+there are important clinical implications of it. You're saying no no salt does play a role
+
+786
+01:17:42,440 --> 01:17:48,440
+but it's dose timing bolus concentration that matters. It can also be amplified
+
+787
+01:17:49,160 --> 01:17:56,200
+or mitigated by the state of inflammation. So how do you then translate that information to your
+
+788
+01:17:56,200 --> 01:18:00,520
+patients acknowledging that they're a very select group of people by definition they have kidney
+
+789
+01:18:00,520 --> 01:18:05,400
+disease or they wouldn't be seeing you. So it's the combination of salt and water. So if you don't
+
+790
+01:18:05,400 --> 01:18:10,280
+drink any water as you eat salt you're going to raise your serum sodium you're going to get
+
+791
+01:18:10,360 --> 01:18:15,400
+thirsty and as soon as you're thirsty you've triggered that in itself is a sign that you're
+
+792
+01:18:15,400 --> 01:18:22,280
+already making fructose from the salt. So when you eat salt you're making fructose in your body
+
+793
+01:18:22,280 --> 01:18:28,760
+and the fructose is then driving a lot of effects. Now we know that high salt diets are associated
+
+794
+01:18:28,760 --> 01:18:33,720
+with obesity not just high blood pressure they're associated with the development of diabetes.
+
+795
+01:18:33,720 --> 01:18:40,200
+There's many studies now but high salt looks like it works by producing fructose. So if you drink
+
+796
+01:18:40,360 --> 01:18:46,200
+water with salt the danger of the salt is much less. If you drink water and then eat your pretzel
+
+797
+01:18:46,920 --> 01:18:50,200
+you would be safer than if you ate your pretzel and then drink the water
+
+798
+01:18:50,760 --> 01:18:57,560
+because what triggers it is the rise in salt. And so when you see someone in the clinic what we try
+
+799
+01:18:57,560 --> 01:19:03,480
+to do is to tell them to drink a lot of water and to reduce their salt but it isn't the amount of
+
+800
+01:19:03,480 --> 01:19:08,840
+salt it's the balance of salt and water. Now that can be sometimes challenging for patients in a
+
+801
+01:19:08,840 --> 01:19:14,040
+kidney clinic because that would be one population in which you do have to be mindful of volume.
+
+802
+01:19:14,040 --> 01:19:19,320
+Right but most patients who chronic kidney disease they will excrete water normally or just
+
+803
+01:19:19,320 --> 01:19:25,560
+minimally abnormal and so there's actually clinical trials looking at the evidence that water may slow
+
+804
+01:19:25,560 --> 01:19:31,480
+the progression of kidney disease. It might be working in part by blocking the effects of salt
+
+805
+01:19:31,480 --> 01:19:38,280
+and so forth on the kidney and we experimentally can show that giving water can slow kidney disease
+
+806
+01:19:38,280 --> 01:19:43,640
+progression. So drinking water turns out to be good. Here's another thing it turns out that many
+
+807
+01:19:43,640 --> 01:19:50,920
+animals use fructose to make fat as a means for making water. So when you make fat although there's
+
+808
+01:19:50,920 --> 01:19:56,760
+no water stored in the fat when they burn the fat they make water. So whales don't drink salt water
+
+809
+01:19:56,760 --> 01:20:02,120
+they are fat because when they break down the fat they're making the water we call it metabolic
+
+810
+01:20:02,120 --> 01:20:09,800
+water. So it turns out that fructose drives fat production and in part to preserve water not just
+
+811
+01:20:09,800 --> 01:20:17,720
+energy. So animals will use that fat to provide an energy source but also to provide water. So it
+
+812
+01:20:17,720 --> 01:20:23,720
+turns out that if you take an animal on fructose and you give it a lot of water you can suppress
+
+813
+01:20:24,360 --> 01:20:30,760
+some of the obesity. You can suppress some of the effects of metabolic syndrome and so the old
+
+814
+01:20:30,760 --> 01:20:36,680
+wives tale that drinking six glasses of water a day is good to help keep you skinny is true. It
+
+815
+01:20:36,680 --> 01:20:43,160
+turns out that water suppresses some of the effects of fructose. And does it need to be water? Could
+
+816
+01:20:43,160 --> 01:20:48,520
+it be tea or coffee or something that's equally the osmolarity of water is what serum is about 280?
+
+817
+01:20:48,520 --> 01:20:54,200
+Yep. Okay so anything with the zero osmolarity is good enough? Yes. Technically a diet soda should
+
+818
+01:20:54,200 --> 01:20:58,120
+have a zero osmolarity as well right? Yeah diet soda would work actually. For the record you and
+
+819
+01:20:58,120 --> 01:21:03,160
+I are sitting here drinking just plain water. Right and diet sugars have their own issues.
+
+820
+01:21:03,160 --> 01:21:07,880
+We'll come back to that in a few seconds because that's interesting. So Rick you sort of you toss
+
+821
+01:21:07,880 --> 01:21:13,000
+these little nuggets out there like they're nothing but they sound I mean again just based on the sort
+
+822
+01:21:13,000 --> 01:21:18,600
+of breadth of research you've put into this it almost just seems too good to be true and so profound
+
+823
+01:21:18,600 --> 01:21:22,600
+yet you sort of throw it out there like an after the fact. Well look as long as you drink enough
+
+824
+01:21:22,600 --> 01:21:29,240
+water and don't eat fructose and god forbid don't drink fructose manage your uric acid levels etc etc
+
+825
+01:21:29,240 --> 01:21:34,920
+so you make it seem like a lot of problems could go away from these things. How would you shape
+
+826
+01:21:34,920 --> 01:21:39,080
+that advice for someone with normal kidney disease? Pardon me with normal kidneys. Would
+
+827
+01:21:39,080 --> 01:21:43,480
+you basically just say the same thing or can you be less restrictive with sodium for example?
+
+828
+01:21:43,480 --> 01:21:48,840
+If we could reduce our fructose intake I think it would have a huge huge effect but the problem
+
+829
+01:21:49,400 --> 01:21:54,920
+that most people face is that sugar and high fructose corn syrup are in almost everything.
+
+830
+01:21:54,920 --> 01:22:02,440
+So if you go to the supermarket like 70 percent of processed foods have sugar in it and packaged
+
+831
+01:22:02,440 --> 01:22:07,800
+foods actually 70 percent of packaged foods have sugar or high fructose corn syrup in it so it's
+
+832
+01:22:07,800 --> 01:22:14,920
+very hard to avoid it and here's another problem our bodies can make fructose. So our bodies as I
+
+833
+01:22:14,920 --> 01:22:20,600
+mentioned we can make fructose from a high salt diet we can make fructose if we get dehydrated
+
+834
+01:22:20,600 --> 01:22:26,040
+we can make fructose high uric acid stimulates fructose production. And we're making the fructose
+
+835
+01:22:26,040 --> 01:22:31,320
+out of glucose in all of these situations? Yes high glycemic diets normally if you take an animal
+
+836
+01:22:31,320 --> 01:22:38,440
+and you give it starch they will not really get fat but we all know that french fries which don't
+
+837
+01:22:38,440 --> 01:22:44,600
+have sugar in it they don't have fructose they are fattening but you've got potatoes which raise your
+
+838
+01:22:44,600 --> 01:22:50,440
+glucose and what we showed is that if you just give glucose to an animal the high glucose as it
+
+839
+01:22:50,440 --> 01:22:55,640
+hits the liver induces this enzyme to convert glucose to fructose. Which enzyme is that that
+
+840
+01:22:55,640 --> 01:23:01,640
+converts glucose into fructose? Aldose reductase so when we took mice and we gave them glucose
+
+841
+01:23:01,640 --> 01:23:08,680
+and we were thinking we might not see much because we were believing that fructose is the culprit but
+
+842
+01:23:08,680 --> 01:23:14,120
+over time these animals got really fat they got insulin resistant everything. But you had to
+
+843
+01:23:14,120 --> 01:23:18,920
+over feed them glucose. We put the glucose in their drinking water so they were drinking a
+
+844
+01:23:18,920 --> 01:23:25,080
+lot of glucose but they would eat less chow so we gave them chow and glucose in their drinking water
+
+845
+01:23:25,080 --> 01:23:29,720
+and their chow had it was normal chow it wasn't the high fat high sugar chow no just regular
+
+846
+01:23:29,720 --> 01:23:35,560
+chow and these animals started getting really really fat and when we looked at the portal vein
+
+847
+01:23:36,200 --> 01:23:40,120
+which goes into the liver the glucose levels were high and when we looked in the liver
+
+848
+01:23:41,000 --> 01:23:46,680
+we found that this enzyme was activated it's also activated in diabetics for example because of the
+
+849
+01:23:46,680 --> 01:23:53,240
+high glucose in the blood and when that enzyme got activated it started to make fructose so even
+
+850
+01:23:53,240 --> 01:23:59,080
+though these animals were eating no fructose they were producing fructose in their liver and then
+
+851
+01:23:59,640 --> 01:24:05,880
+when we blocked their fructose metabolism they're eating the same amount of glucose no change
+
+852
+01:24:05,880 --> 01:24:12,360
+exactly the suddenly they're not getting as fat they have no fatty liver they're not insulin
+
+853
+01:24:12,360 --> 01:24:19,000
+resistant. But this suggests Rick that a diet in excess carbohydrate even if it's not high in
+
+854
+01:24:19,000 --> 01:24:24,920
+sugar could lead to fatty liver disease. Yes yeah absolutely if you have that enzyme induced
+
+855
+01:24:24,920 --> 01:24:31,960
+but let's say that you are a young person when you're young this enzyme is really not present
+
+856
+01:24:31,960 --> 01:24:37,960
+in the liver once you're eating sugar though if you eat a lot of sugar it will induce that enzyme.
+
+857
+01:24:37,960 --> 01:24:43,720
+For how long? I don't fully know but let's say that you eat a lot of sugar and you get obese
+
+858
+01:24:43,720 --> 01:24:48,520
+so sugar itself it looks like the induction of this enzyme probably would be reversible
+
+859
+01:24:49,240 --> 01:24:54,600
+within a few weeks but once your uric acid goes up that will keep it elevated. So that's another
+
+860
+01:24:54,600 --> 01:25:00,600
+reason potentially to use allopurinol if necessary in addition to fructose restriction to keep uric
+
+861
+01:25:00,600 --> 01:25:08,840
+acid low is to prevent or mitigate the induction of this enzyme. Oh yeah right so it turns out that
+
+862
+01:25:08,840 --> 01:25:15,320
+if you give a starch or potatoes to a skinny person who does not have all those reductase induced
+
+863
+01:25:16,280 --> 01:25:21,560
+they can eat the potatoes they want. In Ireland back in the 1700s where potato was basically
+
+864
+01:25:21,560 --> 01:25:26,520
+the main thing they were eating there wasn't a lot of obesity but you wait until you eat sugar
+
+865
+01:25:26,520 --> 01:25:33,000
+and then develop the metabolic syndrome now you stop eating sugar but you continue to eat carbs
+
+866
+01:25:33,000 --> 01:25:39,320
+and the carbs are going to continue to activate through the same pathway. So a low carb diet
+
+867
+01:25:40,200 --> 01:25:45,960
+is really great because it's necessary if you're overweight or fasting but that's basically
+
+868
+01:25:45,960 --> 01:25:51,880
+reducing carbs too but a low carb diet when you're overweight is removing the high glycemic carbs
+
+869
+01:25:51,880 --> 01:25:58,520
+that are also driving the disease but it's through fructose. So it seems that fructose reduction
+
+870
+01:25:58,520 --> 01:26:04,360
+obviously comes with its own benefits do you have a sense of how much fructose can be produced in a
+
+871
+01:26:04,360 --> 01:26:11,320
+fructose free intake environment just from glucose is it a meaningful amount? Well we did our study
+
+872
+01:26:11,320 --> 01:26:17,400
+by putting glucose in the drinking water they're getting a lot of glucose we haven't done the study
+
+873
+01:26:17,400 --> 01:26:23,240
+is the one that you're talking about trying to figure out what the range is. I do think that if
+
+874
+01:26:23,240 --> 01:26:28,600
+you just give high glucose alone you probably have to give a lot but if you've already triggered
+
+875
+01:26:28,600 --> 01:26:33,480
+the production of this enzyme aldose reductase you probably don't have to give a lot. What about fat
+
+876
+01:26:33,480 --> 01:26:39,320
+what if you did that same experiment with rats or mice which would be hard because to eat pure fat
+
+877
+01:26:39,320 --> 01:26:44,040
+is difficult but if there was a way that somehow you could make it palatable enough that they could
+
+878
+01:26:44,040 --> 01:26:49,320
+you could overfeed them to the same extent using fat and protein. Let's say they're getting a normal
+
+879
+01:26:49,320 --> 01:26:54,360
+amount of glucose but the overfeed was coming through the fat would that induce any of these
+
+880
+01:26:54,360 --> 01:27:00,920
+properties? In other words is part of this due to an absolute sense of total energy being too high
+
+881
+01:27:01,640 --> 01:27:06,360
+or is this really about a particular carbohydrate? It's definitely about a particular carbohydrate
+
+882
+01:27:06,360 --> 01:27:10,920
+because we've actually done what's called pair feeding where you control how much they eat and
+
+883
+01:27:10,920 --> 01:27:15,640
+you can have your control group. This fructose effect will still as I mentioned cause fatty
+
+884
+01:27:15,640 --> 01:27:19,320
+liver. Explain what pair feeding is for people because it's a clever little tool done in this
+
+885
+01:27:19,320 --> 01:27:26,760
+type of research. So the way fructose works is it works by making you eat more and that's how you
+
+886
+01:27:26,760 --> 01:27:33,640
+gain weight but even when you control so that you don't eat more fructose will not cause weight gain
+
+887
+01:27:33,640 --> 01:27:38,280
+but it will cause fatty liver insulin resistance and diabetes and so forth and the way we can show
+
+888
+01:27:38,280 --> 01:27:44,920
+that is by pair feeding. In pair feeding we give each animal eats the same amount of food so if you
+
+889
+01:27:44,920 --> 01:27:50,920
+give one animal sugar which normally makes it want to eat more because it causes this thing called
+
+890
+01:27:50,920 --> 01:27:55,960
+leptin resistance where they want to eat more but if we don't give them any more food we only give
+
+891
+01:27:55,960 --> 01:28:01,560
+them the same amount as the control then there will be no difference in weight but there will be
+
+892
+01:28:02,120 --> 01:28:08,200
+differences in fatty liver metabolic syndrome and so forth. The sugar industry has used this to
+
+893
+01:28:08,200 --> 01:28:12,920
+their advantage so what they say is okay we're going to look at clinical trials where we've given
+
+894
+01:28:12,920 --> 01:28:18,760
+sugar and we're going to see if sugar causes weight gain but it's only fair to do that if we have it
+
+895
+01:28:18,760 --> 01:28:25,000
+controlled where we control the energy intake to be equal among groups. So they have a control group
+
+896
+01:28:25,000 --> 01:28:30,040
+where they've restricted there's a caloric restriction on both sides so you have a high
+
+897
+01:28:30,040 --> 01:28:36,200
+sugar and a non-high sugar group but it's not where you get to the people get to eat as much as they
+
+898
+01:28:36,200 --> 01:28:40,520
+want. Basically is this problem of not having ad libitum feeding so it's sort of like what the sugar
+
+899
+01:28:40,520 --> 01:28:47,000
+industry is saying is look a calorie is a calorie if I give you a hundred calories of sugar and
+
+900
+01:28:47,000 --> 01:28:52,440
+completely control what you can eat in response to that and compare you to another person who's
+
+901
+01:28:52,440 --> 01:28:56,760
+eating the same number of calories you're really not going to gain weight. Now the problem with that
+
+902
+01:28:56,760 --> 01:29:02,680
+experiment is it's not the real world in the real world you don't have a clamp on your response.
+
+903
+01:29:02,680 --> 01:29:08,520
+Exactly and so when you give sugar to animals they become leptin resistant over time and they
+
+904
+01:29:08,520 --> 01:29:13,720
+lose their ability to control their appetite so then they eat more and so then their weight goes
+
+905
+01:29:13,720 --> 01:29:19,160
+up but the fructose is also doing stuff where even if you control for the weight gain they still get
+
+906
+01:29:19,160 --> 01:29:23,160
+the fatty liver and stuff which the controls don't. Now a second ago you sort of alluded to
+
+907
+01:29:23,160 --> 01:29:27,320
+artificial sweeteners so comparing I mean I'm sure you get this question asked all the time
+
+908
+01:29:27,320 --> 01:29:32,920
+by your patients which is I just really love Coca-Cola is having a diet coke it must be
+
+909
+01:29:32,920 --> 01:29:37,800
+significantly better right I mean there's no fructose in it there's no glucose in it
+
+910
+01:29:37,800 --> 01:29:43,000
+so is there a downside to it? Yeah I think there are downsides but first let me just say the positive
+
+911
+01:29:43,000 --> 01:29:51,880
+side we have taste buds that sense sweet and so when we eat sugar the taste buds are activated
+
+912
+01:29:52,840 --> 01:29:59,880
+and it stimulates this dopamine response in the brain that tells us that we like this sugar. If
+
+913
+01:29:59,880 --> 01:30:05,880
+you actually knock out the sweet taste buds or just knock out the tastes in general animals will
+
+914
+01:30:05,880 --> 01:30:12,120
+still like sugar they will still eat sugar a lot of sugar. How hard is that to do experimentally
+
+915
+01:30:12,120 --> 01:30:18,760
+to knock out the sweet tasting capacity? It's been done and we actually have also done it where we
+
+916
+01:30:18,760 --> 01:30:27,000
+knock out all taste. Can you do it to me? No it's like a genetic knockout but anyway these animals
+
+917
+01:30:27,000 --> 01:30:32,200
+will still like sugar but they won't like artificial sugar so the artificial sugar is really driven by
+
+918
+01:30:32,200 --> 01:30:38,360
+the sweet taste but what makes animal like real sugar it's through its metabolism. I mean it is
+
+919
+01:30:38,360 --> 01:30:44,200
+true if you knock out taste they will tend to eat a little bit less sugar but they actually still
+
+920
+01:30:44,280 --> 01:30:48,040
+develop metabolic syndrome. That's super interesting so you're saying part of our
+
+921
+01:30:48,680 --> 01:30:54,760
+affinity for sugar is not just in our taste buds and in our brain but also in our periphery where
+
+922
+01:30:54,760 --> 01:30:59,640
+the metabolism takes place and the elegant way you demonstrate that is you give something of equal
+
+923
+01:30:59,640 --> 01:31:06,200
+sweetness concentration that's non-nutritive and you completely reduce the appetite for it even
+
+924
+01:31:06,200 --> 01:31:10,280
+though it might have the same central effect it doesn't have the peripheral effect. Probably the
+
+925
+01:31:10,280 --> 01:31:17,400
+sweet taste bud developed to try to encourage us to eat these foods that at the time were survival
+
+926
+01:31:17,400 --> 01:31:25,240
+foods but the food itself the sugar itself stimulates dopamine and other effects independently
+
+927
+01:31:25,240 --> 01:31:33,320
+of the sweet taste whereas an artificial sugar just is activating the sweet taste. Now if you give
+
+928
+01:31:33,880 --> 01:31:40,840
+a mouse or a rat artificial sugar they don't gain weight but if you give them regular sugar they do
+
+929
+01:31:41,640 --> 01:31:48,920
+so there is some evidence that artificial sugars are better than sugar and if a person says to me
+
+930
+01:31:48,920 --> 01:31:56,200
+oh doc I'm afraid to drink this diet coke because it's got chemicals in it I want to drink regular
+
+931
+01:31:56,200 --> 01:32:03,400
+coke because of that that's an error. Regular coke is more dangerous than a diet coke. However
+
+932
+01:32:04,040 --> 01:32:11,160
+there is truth that things like aspartame and sucralose we don't know fully the safety of these.
+
+933
+01:32:11,160 --> 01:32:17,720
+Aspartame when last I checked had been studied more by the FDA than any other molecule ingested
+
+934
+01:32:17,720 --> 01:32:23,560
+by humans. It's hard to make the case that at the small doses that people would consume them.
+
+935
+01:32:23,560 --> 01:32:28,600
+I'm talking about someone who has a serving of this stuff a day. I don't know I've always found
+
+936
+01:32:28,600 --> 01:32:33,480
+that argument that well we don't know the full safety profile of these things to be as like what
+
+937
+01:32:33,480 --> 01:32:37,720
+else do we need on this one. I think aspartame is kind of gross truthfully like I don't really like
+
+938
+01:32:37,720 --> 01:32:42,360
+it that much but I just think it's definitely the lesser of two evils isn't it. It's definitely the
+
+939
+01:32:42,360 --> 01:32:47,960
+lesser of two evils that part's for sure but we don't fully know the safety of some of these like
+
+940
+01:32:47,960 --> 01:32:52,760
+saccharin for example has been associated with little bladder tumors in mice my recollections
+
+941
+01:32:52,760 --> 01:32:58,200
+that aspartame can generate small tiny concentrations of formaldehyde. I think it really comes down to
+
+942
+01:32:58,200 --> 01:33:03,800
+dose. Yes I think it is. I think those studies were really based on rats or rodents consuming
+
+943
+01:33:03,800 --> 01:33:09,560
+doses that simply couldn't be replicated by humans. That's probably true. Nevertheless water is good.
+
+944
+01:33:09,560 --> 01:33:15,560
+Yeah that's generally been my take to people as well is look all things equal by certainly consume
+
+945
+01:33:15,560 --> 01:33:19,960
+water, tea, things like that but yeah there's this lesser of two evils approach but this point you
+
+946
+01:33:19,960 --> 01:33:24,360
+made this is completely news to me and very interesting because certainly much of the
+
+947
+01:33:24,360 --> 01:33:29,400
+neurobiology today would suggest that the response we have to sugar is mostly centrally mediated.
+
+948
+01:33:29,400 --> 01:33:34,440
+The quote-unquote addictive because everyone loves to talk about functional MRI and what happens in
+
+949
+01:33:34,440 --> 01:33:39,400
+your brain when you're eating sugar and all of these other things but I guess I haven't seen
+
+950
+01:33:39,400 --> 01:33:45,480
+this side by side but presumably the fMRI would light up the same for non-nutritive versus like
+
+951
+01:33:45,560 --> 01:33:51,400
+aspartame and sugar correct? Yeah. So let's talk about another taste which is umami. I remember we
+
+952
+01:33:51,400 --> 01:33:57,160
+were having sushi one night when we discussed this. What is umami? What is that taste? So umami is the
+
+953
+01:33:57,160 --> 01:34:03,080
+savory taste. And this is different from salt isn't it? So there's five taste buds. So there's salt,
+
+954
+01:34:03,080 --> 01:34:09,400
+there's sweet and as I mentioned both of these taste buds seem to drive a weight gain. Sugar is
+
+955
+01:34:09,400 --> 01:34:15,640
+by far the fastest. It takes only two months in a laboratory animal and salt takes four months,
+
+956
+01:34:15,640 --> 01:34:22,120
+five months. So high salt generates fructose but it's a much slower process than just eating sugar.
+
+957
+01:34:22,120 --> 01:34:27,160
+Then you have umami which is the savory taste and then you have bitter and sour and the bitter and
+
+958
+01:34:27,160 --> 01:34:33,400
+sour probably developed to help you avoid eating certain foods. So coffee is an example of bitter
+
+959
+01:34:33,400 --> 01:34:39,160
+like a coffee bean or something like a ground? I think so. Yeah okay. Anyway so umami is driven by
+
+960
+01:34:39,240 --> 01:34:47,880
+glutamate but it's markedly enhanced by purines like IMP and even uric acid. So it turns out that
+
+961
+01:34:47,880 --> 01:34:55,800
+umami is sort of a taste receptor for uric acid type foods. Foods that raise uric acid. Now is
+
+962
+01:34:55,800 --> 01:35:03,080
+MSG the purest form of umami that we would eat? Yes. MSG is the primary stimulant and people put
+
+963
+01:35:03,080 --> 01:35:10,920
+it in foods to encourage food intake. Now there's some link of umami with obesity in epidemiologic
+
+964
+01:35:10,920 --> 01:35:18,280
+studies and there are situations where you can give umami type foods and especially if you can
+
+965
+01:35:18,280 --> 01:35:26,920
+do it in a liquid form you can induce obesity. So umami may not be as safe as we think it is. So it's
+
+966
+01:35:26,920 --> 01:35:34,760
+got a lot of good things written about it in the literature. Don't most people view MSG as evil?
+
+967
+01:35:34,760 --> 01:35:39,320
+Yeah I think MSG is viewed as evil. But that seems to be largely unfounded based on my view
+
+968
+01:35:39,320 --> 01:35:43,400
+of the literature. I can't really find evidence that umami is harmful. There's this Chinese
+
+969
+01:35:43,400 --> 01:35:49,160
+restaurant syndrome where people get a warm and a headaches and it's thought to be due to excess of
+
+970
+01:35:49,160 --> 01:35:56,440
+MSG. But foods that are umami rich are often foods that we love. I mean shrimp has umami,
+
+971
+01:35:56,440 --> 01:36:03,880
+Caesar salad, the parmesan and things like that have umami. And so in general people like umami
+
+972
+01:36:03,880 --> 01:36:11,400
+foods and it's certainly in the websites it is often promoted. But if the umami foods have a
+
+973
+01:36:11,400 --> 01:36:17,560
+lot of purines which enhance the umami flavor it actually may raise uric acid and kind of bypass
+
+974
+01:36:17,640 --> 01:36:24,280
+the sugar pathway. And we think that that may turn out to be somewhat of a risk factor too.
+
+975
+01:36:24,280 --> 01:36:29,560
+So do you add this to the list of things that you caution people about? We've already got the
+
+976
+01:36:30,120 --> 01:36:36,920
+pair your salt with water idea, the restrict fructose and please god don't ever drink it.
+
+977
+01:36:37,480 --> 01:36:45,160
+Do you then add the MSG containing high umami foods to that playbook for ways to reduce metabolic
+
+978
+01:36:45,160 --> 01:36:51,720
+disease? I think so. Yeah I think that foods like shrimps and things like that if you eat a lot of
+
+979
+01:36:51,720 --> 01:36:58,760
+them they probably activate this pathway too. We're still trying to learn more about it but it looks
+
+980
+01:36:58,760 --> 01:37:06,360
+like it could be a contributor. I think it's if you rank it number one is is sugar and then
+
+981
+01:37:06,360 --> 01:37:12,440
+everything else is less. High glycemic carbs can be converted to sugar. What I usually say is
+
+982
+01:37:13,080 --> 01:37:21,240
+the big four are bread, potatoes, chips, and rice. Those four are the foods that you should
+
+983
+01:37:21,240 --> 01:37:25,480
+reduce a little bit. Wait chips as in like chips potato chips? Yeah potato chips. So you're giving
+
+984
+01:37:25,480 --> 01:37:31,240
+potatoes two votes out of four. Yeah well our corn chips are you know the kind of things that
+
+985
+01:37:31,240 --> 01:37:38,440
+people put out on their table before you eat dinner. And they coat it with salt which isn't
+
+986
+01:37:38,440 --> 01:37:45,080
+good. Anyway so high glycemic carbs I think really salty foods drink water. I mean that's
+
+987
+01:37:45,080 --> 01:37:53,400
+really important. And umami so for example what makes beer so much more dangerous than other
+
+988
+01:37:53,400 --> 01:38:00,840
+alcohols for inducing obesity is because beer has all this yeast in it, brewer's yeast, which
+
+989
+01:38:00,840 --> 01:38:05,720
+basically is activating umami pathways and it's one of the reasons we like beer. This is that
+
+990
+01:38:05,720 --> 01:38:12,440
+cellular density issue you spoke about. Exactly and so a beer raises uric acid more and there
+
+991
+01:38:12,440 --> 01:38:17,640
+really is this beer belly syndrome and if you look at people who drink a lot of beer it isn't just
+
+992
+01:38:17,640 --> 01:38:23,400
+they get abdominal obesity. They get fatty liver, they get high blood pressure, their triglycerides
+
+993
+01:38:23,400 --> 01:38:30,920
+go up. They basically have metabolic syndrome. Alcohol especially beer can also mimic sugar
+
+994
+01:38:30,920 --> 01:38:36,280
+and it's probably because of the umami component coupled with the alcohol. Those two. This is the
+
+995
+01:38:36,280 --> 01:38:41,080
+part that can sometimes drive a person insane when they're trying to think about all of these
+
+996
+01:38:41,080 --> 01:38:47,240
+things is it's very difficult to provide clear advice to people because there's so many caveats
+
+997
+01:38:47,240 --> 01:38:52,920
+that are required because the dose makes the poison, the speed of delivery, what it's combined
+
+998
+01:38:52,920 --> 01:38:57,000
+with all of these things. I'm using that as a preface to ask a question that I'm sure you get
+
+999
+01:38:57,000 --> 01:39:03,080
+asked a lot which is really a dose question around fructose. So let's ask it in two questions.
+
+1000
+01:39:03,080 --> 01:39:07,880
+If a person is going to drink something in the form of fructose, whether it be fruit juice or
+
+1001
+01:39:07,880 --> 01:39:13,080
+soda or sports drinks, which are from a fructose standpoint all basically the same, is there a
+
+1002
+01:39:13,080 --> 01:39:18,280
+dose of fructose above which you think it really makes no sense under any circumstance or below
+
+1003
+01:39:18,280 --> 01:39:23,240
+which you think once in a while is not the end of the world? I mean personally I would not drink
+
+1004
+01:39:23,240 --> 01:39:27,960
+any liquids that have sugar in it or a fructose or high fructose corn syrup. That's fine. So we're
+
+1005
+01:39:27,960 --> 01:39:32,280
+going to draw a hard line there. Hard line. Okay now what about eating fructose in the form of
+
+1006
+01:39:32,280 --> 01:39:36,280
+fruit? Because remember there's some big ass fruits out there. Like you look at a Fuji apple,
+
+1007
+01:39:36,280 --> 01:39:41,880
+which is my favorite apple. I mean I like these monster Fuji apples so like half the size of my
+
+1008
+01:39:41,880 --> 01:39:46,680
+head or maybe a third the size of my head. That's got to have 30 grams of fructose in it. I don't
+
+1009
+01:39:46,680 --> 01:39:51,880
+think it has that much. Oh really? I really don't. Most apples and that would be a big one,
+
+1010
+01:39:51,880 --> 01:39:56,440
+maybe 10 grams at most I would think. No way. You think more? Well think about it. These are
+
+1011
+01:39:56,440 --> 01:40:00,600
+the really big ones. Yeah yeah I'm not talking about a little Macintosh, I'm talking about a
+
+1012
+01:40:00,600 --> 01:40:05,960
+huge apple and they're so sweet too. So you may be right then. Let's talk about natural fruit.
+
+1013
+01:40:05,960 --> 01:40:12,040
+So we've actually done trials in patients with a low fructose diet with or without natural fruit
+
+1014
+01:40:12,040 --> 01:40:17,400
+supplements and generally speaking natural fruit supplements do not seem to block the benefits of
+
+1015
+01:40:17,400 --> 01:40:22,200
+a low fructose diet. Sorry what does that mean? You mean that if you took a patient and restrict
+
+1016
+01:40:22,200 --> 01:40:27,080
+all fructose except fruit? That's correct. They tend to do okay? They did just as well as the
+
+1017
+01:40:27,080 --> 01:40:31,320
+low fructose alone. And can you quantify how much fruit? Because here's the problem when you're
+
+1018
+01:40:31,320 --> 01:40:35,400
+talking to someone like me Rick, I don't do anything in moderation. So we have these bowls
+
+1019
+01:40:35,400 --> 01:40:40,760
+in my kitchen, they're called manly bowls, which by definition a manly bowl is a bowl that you can
+
+1020
+01:40:40,760 --> 01:40:45,240
+wear on your head like a hat. It will come over your head and when I consume fruit I consume it
+
+1021
+01:40:45,240 --> 01:40:51,000
+in that bowl. Yeah I would be careful. So no manly bowls. Yeah so the data suggests that a single
+
+1022
+01:40:51,000 --> 01:40:56,360
+fruit, maybe not the giant fruit, okay I don't know the last time I had a single fruit. Yeah but a
+
+1023
+01:40:56,360 --> 01:41:01,240
+single fruit has like some fruits like kiwi and lime and lemon have almost no fructose
+
+1024
+01:41:01,960 --> 01:41:07,080
+and they're totally safe and other fruits. Pineapple and stuff. You have a fair amount of
+
+1025
+01:41:07,080 --> 01:41:13,000
+sugar. Berries for example, blueberries have so many good things in it. You can eat a big bowl of
+
+1026
+01:41:13,000 --> 01:41:17,720
+blueberries no problem. Raspberry, strawberries, they're all other berries in general are very
+
+1027
+01:41:17,720 --> 01:41:23,160
+good. Grapes, they have a fair amount of sugar. You eat a bowl of grapes, you're going to probably
+
+1028
+01:41:23,160 --> 01:41:27,080
+raise your uric acid and trigger the activation of this pathway. You eat a bowl of grapes, you
+
+1029
+01:41:27,080 --> 01:41:31,000
+might as well be eating raisins based on what my blood glucose meter tells me. Exactly. It's a
+
+1030
+01:41:31,000 --> 01:41:39,400
+disaster. Yeah what I would recommend is to try to not eat too many fruit at one time. So for example
+
+1031
+01:41:39,400 --> 01:41:44,280
+there was a lady named Nott's, Cheryl Nott's I believe is her name and she's an anthropologist
+
+1032
+01:41:44,280 --> 01:41:50,360
+and she was studying orangutans and there's a time when the massing season where all these fruit trees
+
+1033
+01:41:50,920 --> 01:41:56,680
+bloom and then fruit at the same time and then these orangutans go in there and they won't eat
+
+1034
+01:41:56,680 --> 01:42:02,680
+one fruit. They'll eat 100 fruit at one time. I'm descendants of those orangutans. Me too.
+
+1035
+01:42:03,080 --> 01:42:09,800
+So anyway when they what she did is she would go up and collect the urine off the trees and show
+
+1036
+01:42:09,800 --> 01:42:14,360
+that by measuring things like ketones and so forth she could show that when they're eating the fruit
+
+1037
+01:42:14,360 --> 01:42:20,360
+they were actually impairing fat oxidation and they were storing energy and their weights go way up.
+
+1038
+01:42:20,360 --> 01:42:24,840
+And it's because they ate so many fruit. If you eat one fruit you're not going to do that but if
+
+1039
+01:42:24,840 --> 01:42:30,600
+you eat a huge amount of fruit and get all that fructose it will start to overwhelm the good things
+
+1040
+01:42:30,600 --> 01:42:37,400
+in fruit but there's so many good things in fruit. There's vitamin c, there's epicatechin and flavonols
+
+1041
+01:42:37,400 --> 01:42:43,000
+and potassium and all these things that help fight the effects of fructose. So we generally for
+
+1042
+01:42:43,000 --> 01:42:49,160
+patients that have a non-alcoholic fatty liver disease we tend to restrict them to 10 grams a day
+
+1043
+01:42:49,160 --> 01:42:54,600
+of fructose only in the form of whole fruit. Do you think that's overly stringent or is that reasonable?
+
+1044
+01:42:54,600 --> 01:42:59,640
+I think that's wonderful if they can do it. Yeah it basically comes down to you can have a bowl of
+
+1045
+01:42:59,640 --> 01:43:05,880
+berries. No bananas, no apples, none of the high fructose fruits or even large fruits. How do you
+
+1046
+01:43:05,880 --> 01:43:10,200
+handle this with your kids? You have two kids. They're not that young anymore but they were young
+
+1047
+01:43:10,200 --> 01:43:16,120
+during the time in which you were learning all of this stuff. How did you balance the knowledge that
+
+1048
+01:43:16,120 --> 01:43:21,720
+you have? It sucks when your dad knows more about sugar than almost any human on the planet and you're
+
+1049
+01:43:21,720 --> 01:43:27,560
+a kid and we're wired to want sugar. How did you balance the sane delivery of this knowledge to your
+
+1050
+01:43:27,560 --> 01:43:33,800
+family? So first of all things like birthdays and stuff, I let them have birthday cake but we try to
+
+1051
+01:43:33,800 --> 01:43:40,040
+make sugar-free Splenda type cakes at home. So if we make cookies or cakes at home we try to use
+
+1052
+01:43:40,040 --> 01:43:45,160
+Splenda. Now they're still high carb and there can be chocolate in it occasionally you know so they
+
+1053
+01:43:45,160 --> 01:43:50,440
+do get some exposure to sugar. We don't give them fruit juice and we don't give them soft. They are
+
+1054
+01:43:50,440 --> 01:43:56,280
+not allowed regular soft drinks but they can have a diet soft drink. I have a 12-year-old and a 15-year-old.
+
+1055
+01:43:56,280 --> 01:44:03,480
+What we try to do is not to be so restrictive that it's disruptive but we try to be encouraging
+
+1056
+01:44:03,480 --> 01:44:11,080
+them to understand that sugar is playing a big role in obesity and diabetes and that it's unhealthy
+
+1057
+01:44:11,080 --> 01:44:15,720
+to eat a lot. What age do you think kids start to... I think that makes sense which is to me it's
+
+1058
+01:44:15,720 --> 01:44:20,520
+much more important that you would explain to your kids why you might be putting these rules in place
+
+1059
+01:44:20,520 --> 01:44:24,680
+as opposed to just come down as an authoritarian sort of this is the way it's going to be. At what
+
+1060
+01:44:24,680 --> 01:44:30,520
+age did your kids start to understand that dad wasn't just being a pain but there's a real reason
+
+1061
+01:44:30,520 --> 01:44:36,440
+that he's in the short run asking us to make a sacrifice. Also I've been involved in local school
+
+1062
+01:44:36,440 --> 01:44:40,920
+programs and there's a foundation called Living Closer Foundation that I've worked with where
+
+1063
+01:44:40,920 --> 01:44:46,920
+we've gone into schools and tried to teach children elementary schools to learn from fourth
+
+1064
+01:44:46,920 --> 01:44:52,200
+through sixth grade. We try to teach them how to look at labels on foods to understand the amount
+
+1065
+01:44:52,200 --> 01:45:00,360
+of sugar. We do a game where we have someone come up with a cup of tea and add a spoonful of sugar
+
+1066
+01:45:00,360 --> 01:45:05,720
+to it and the person likes it and then we say okay now we're going to make it like a soft drink and
+
+1067
+01:45:05,720 --> 01:45:10,840
+we put in like eight teaspoons of sugar and it's like you can't drink it but that's the equivalent
+
+1068
+01:45:10,840 --> 01:45:16,600
+of what is in a soft drink of the same volume. By the way do you think the carbonation masks some
+
+1069
+01:45:16,600 --> 01:45:20,520
+of that sugar because when you put it that way which is a great way to do it I've never thought
+
+1070
+01:45:20,520 --> 01:45:26,360
+of that experiment. It's almost grotesque. It is. It's a great way to teach kids about sugar. But do
+
+1071
+01:45:26,360 --> 01:45:30,840
+you think the carbonation makes it a little easier to consume such a high amount of sugar in a soft
+
+1072
+01:45:30,840 --> 01:45:35,560
+drink? I suspect so. I haven't tested it but I suspect that's true. Or the phosphoric acid like
+
+1073
+01:45:35,560 --> 01:45:41,080
+there's something else in there that makes it more palatable. Yeah maybe it's the carbonation
+
+1074
+01:45:41,080 --> 01:45:46,280
+probably is. What about dried fruit? Is that a no-no? You know it was so disappointing when I realized
+
+1075
+01:45:46,280 --> 01:45:51,400
+that dried fruit was the fructose of fruits without the good things in it. So when you make
+
+1076
+01:45:51,400 --> 01:45:59,640
+dried fruit a lot of the good things and natural fruits are lost. It's like pure fructose. It's
+
+1077
+01:45:59,640 --> 01:46:05,160
+disappointing because I love dried fruit but I realize it's not the best food for you. Now if
+
+1078
+01:46:05,160 --> 01:46:10,440
+you're out hiking the mountains and you're spending a lot of energy maybe it's good. Yeah exactly
+
+1079
+01:46:10,440 --> 01:46:14,840
+that's the thing I've always got to kick out of. Two things have amused me to no end. One is trail
+
+1080
+01:46:14,840 --> 01:46:19,560
+mix the other are sports drinks. Trail mix probably makes sense when you're mountaineering.
+
+1081
+01:46:19,560 --> 01:46:24,520
+Sports drinks might make sense when you're a professional athlete but paradoxically most
+
+1082
+01:46:24,520 --> 01:46:29,480
+trail mix is consumed off the trail and most sports drinks are not consumed by athletes
+
+1083
+01:46:29,480 --> 01:46:35,560
+actively playing sports. So again the dose makes the poison context matters. Absolutely true. Well
+
+1084
+01:46:35,560 --> 01:46:41,240
+Rick this has been awesome. I want to be mindful of your time and I know that this is a non-clinical
+
+1085
+01:46:41,240 --> 01:46:45,160
+day for you which means every minute we're talking you're not in your lab and I want you
+
+1086
+01:46:45,160 --> 01:46:49,960
+to get back to the lab. So I want to thank you very much again not just for this discussion today
+
+1087
+01:46:49,960 --> 01:46:55,960
+which for me is super interesting and I think the listeners will agree but much more importantly for
+
+1088
+01:46:55,960 --> 01:47:01,480
+the work you've done you've taken a very different approach to quote unquote the war on sugar. You're
+
+1089
+01:47:01,480 --> 01:47:07,560
+less involved on the policy side of this and the sort of advocacy side of this but I think what your
+
+1090
+01:47:07,560 --> 01:47:15,560
+work has done is created the strongest scientific foundation to the harm of fructose and you've done
+
+1091
+01:47:15,560 --> 01:47:21,480
+it in a largely and I say this in a complementary way but in a largely unceremonious way which is
+
+1092
+01:47:21,480 --> 01:47:25,320
+you've sort of had your head down and a lot of people don't know who you are so I hope that more
+
+1093
+01:47:25,320 --> 01:47:30,840
+people become familiar with your work because your I mean your CV is comical in terms of like
+
+1094
+01:47:30,840 --> 01:47:36,040
+it's like every week you seem to publish something in either journal of medicine. The paper we talked
+
+1095
+01:47:36,120 --> 01:47:40,920
+about yesterday which we can't talk about today because it's not yet we're not there yet. I look
+
+1096
+01:47:40,920 --> 01:47:45,800
+forward to seeing that paper in science hopefully in the next six months but that's an unbelievable
+
+1097
+01:47:45,800 --> 01:47:51,080
+tour de force that almost requires us coming back to have a talk about it. Well thank you very much
+
+1098
+01:47:51,080 --> 01:47:56,680
+those are very kind words. Thank you Rick. Really enjoyable and thank you. Thank you for listening
+
+1099
+01:47:56,680 --> 01:48:01,080
+to this week's episode of The Drive. If you're interested in diving deeper into any topics we
+
+1100
+01:48:01,160 --> 01:48:05,960
+discuss we've created a membership program that allows us to bring you more in-depth exclusive
+
+1101
+01:48:05,960 --> 01:48:11,080
+content without relying on paid ads. It's our goal to ensure members get back much more than
+
+1102
+01:48:11,080 --> 01:48:16,040
+the price of the subscription. Now to that end membership benefits include a bunch of things.
+
+1103
+01:48:16,040 --> 01:48:21,880
+One totally kick ass comprehensive podcast show notes that detail every topic paper person
+
+1104
+01:48:21,880 --> 01:48:26,520
+thing we discuss on each episode. The word on the street is nobody's show notes rival these.
+
+1105
+01:48:27,160 --> 01:48:31,640
+Monthly AMA episodes or Ask Me Anything episodes hearing these episodes completely.
+
+1106
+01:48:32,440 --> 01:48:37,320
+Access to our private podcast feed that allows you to hear everything without having to listen
+
+1107
+01:48:37,320 --> 01:48:43,080
+to spiel's like this. The Qualies which are a super short podcast typically less than five minutes
+
+1108
+01:48:43,080 --> 01:48:47,640
+that we release every Tuesday through Friday highlighting the best questions topics and tactics
+
+1109
+01:48:47,640 --> 01:48:53,080
+discussed on previous episodes of The Drive. This is a great way to catch up on previous episodes
+
+1110
+01:48:53,080 --> 01:48:58,600
+without having to go back and necessarily listen to everyone. Steep discounts on products that I
+
+1111
+01:48:58,600 --> 01:49:03,160
+believe in but for which I'm not getting paid to endorse and a whole bunch of other benefits that
+
+1112
+01:49:03,160 --> 01:49:07,800
+we continue to trickle in as time goes on. If you want to learn more and access these member only
+
+1113
+01:49:07,800 --> 01:49:14,520
+benefits you can head over to PeterAttiaMD.com forward slash subscribe. You can find me on Twitter,
+
+1114
+01:49:14,520 --> 01:49:21,320
+Instagram, and Facebook all with the ID PeterAttiaMD. You can also leave us a review on Apple podcast
+
+1115
+01:49:21,320 --> 01:49:26,840
+or whatever podcast player you listen on. This podcast is for general informational purposes
+
+1116
+01:49:26,840 --> 01:49:30,760
+only. It does not constitute the practice of medicine, nursing, or other professional
+
+1117
+01:49:30,760 --> 01:49:36,680
+healthcare services including the giving of medical advice. No doctor patient relationship
+
+1118
+01:49:36,680 --> 01:49:42,200
+is formed. The use of this information and the materials linked to this podcast is at the user's
+
+1119
+01:49:42,200 --> 01:49:47,320
+own risk. The content on this podcast is not intended to be a substitute for professional
+
+1120
+01:49:47,320 --> 01:49:54,200
+medical advice diagnosis or treatment. Users should not disregard or delay in obtaining medical
+
+1121
+01:49:54,200 --> 01:49:59,320
+advice from any medical condition they have and they should seek the assistance of their healthcare
+
+1122
+01:49:59,320 --> 01:50:05,560
+professionals for any such conditions. Finally, I take conflicts of interest very seriously. For
+
+1123
+01:50:05,560 --> 01:50:12,840
+all of my disclosures and the companies I invest in or advise please visit PeterAttiaMD.com forward
+
+1124
+01:50:12,840 --> 01:50:24,360
+slash about where I keep an up-to-date and active list of such companies.
+

@@ -1,0 +1,4576 @@
+1
+00:00:00,000 --> 00:00:15,600
+Hey everyone, welcome to the Drive podcast. I'm your host, Peter Attia. This podcast,
+
+2
+00:00:15,600 --> 00:00:19,380
+my website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:19,380 --> 00:00:24,360
+longevity into something accessible for everyone. Our goal is to provide the best content in
+
+4
+00:00:24,360 --> 00:00:28,440
+health and wellness, full stop, and we've assembled a great team of analysts to make
+
+5
+00:00:28,440 --> 00:00:32,720
+this happen. If you enjoy this podcast, we've created a membership program that brings you
+
+6
+00:00:32,720 --> 00:00:36,920
+far more in-depth content. If you want to take your knowledge of this space to the next level.
+
+7
+00:00:36,920 --> 00:00:41,560
+At the end of this episode, I'll explain what those benefits are. Or if you want to learn more now,
+
+8
+00:00:41,560 --> 00:00:48,080
+head over to PeterAttiaMD.com forward slash subscribe. Now, without further delay, here's
+
+9
+00:00:48,080 --> 00:00:55,160
+today's episode. My guest today is Dr. Mike Gershon. Mike is a professor of pathology and
+
+10
+00:00:55,160 --> 00:00:59,640
+cell biology at Columbia University, where his research focuses on the neural control of the
+
+11
+00:00:59,640 --> 00:01:04,560
+gastrointestinal tract and the role of serotonin in the gut as a neurotransmitter. Mike earned his
+
+12
+00:01:04,560 --> 00:01:09,080
+medical degree from Cornell University, followed by a postdoctoral fellowship at Oxford. Mike has
+
+13
+00:01:09,080 --> 00:01:13,640
+received numerous awards and honors over the years, published hundreds of peer reviewed papers on the
+
+14
+00:01:13,640 --> 00:01:21,080
+nervous system, and even authored a book on the role of the brain and the GI system. This episode's
+
+15
+00:01:21,080 --> 00:01:24,920
+different from I think a lot of our episodes. Truthfully, I think it comes across more as a
+
+16
+00:01:24,920 --> 00:01:30,560
+bit of a med school lecture, which is how it felt to me. It was really interesting, but I think at
+
+17
+00:01:30,560 --> 00:01:36,360
+the surface, doesn't really come across as highly applicable. I think the reality of it is you just
+
+18
+00:01:36,360 --> 00:01:42,280
+have to get through some of the embryology, anatomy, and neurophysiology of the gut and the
+
+19
+00:01:42,280 --> 00:01:48,600
+brain to understand how these things coexist. I just want to be honest and set expectations.
+
+20
+00:01:48,600 --> 00:01:52,560
+If you're coming into this thinking that this is going to be a podcast that's about how to eat this
+
+21
+00:01:52,560 --> 00:01:58,200
+and not that and affect your gut biome, it's really not about that. This is a much more basic
+
+22
+00:01:58,200 --> 00:02:05,000
+discussion and I mean basic not in simple, but I mean basic in more elemental explanation of how
+
+23
+00:02:05,000 --> 00:02:10,200
+this system works. Truthfully, I learned a lot in this episode, much more than I normally do. A lot
+
+24
+00:02:10,200 --> 00:02:15,160
+of times I go into podcasts knowing the subject matter pretty well and maybe increasing my
+
+25
+00:02:15,160 --> 00:02:20,760
+knowledge by 20% or something like that, but I think this was pretty different. I think what
+
+26
+00:02:20,760 --> 00:02:24,440
+I would just say is rather than give you a blow by blow of everything we talked about here,
+
+27
+00:02:24,440 --> 00:02:29,960
+which would probably take me 20 minutes, I would say go into this assuming you're not going to know
+
+28
+00:02:29,960 --> 00:02:35,240
+much of what we talk about and you'll come out of this with a much greater appreciation for how your
+
+29
+00:02:35,240 --> 00:02:42,880
+gut and your brain are connected. Unfortunately, I think we're only now beginning to think about
+
+30
+00:02:42,880 --> 00:02:49,600
+how to translate that to clinical utility. In other words, I think that we don't yet have all
+
+31
+00:02:49,600 --> 00:02:54,640
+of the insights. I don't come away from this episode saying, oh, all you need to do is eat
+
+32
+00:02:54,640 --> 00:02:58,600
+this and your gut's going to be healthier and if your gut's going to be healthier, then your brain
+
+33
+00:02:58,600 --> 00:03:03,000
+is going to be better or vice versa. Maybe you'll come out the other end of this podcast feeling
+
+34
+00:03:03,000 --> 00:03:07,480
+like you've got it figured out. I certainly don't, but nevertheless, I feel like I have a much better
+
+35
+00:03:07,480 --> 00:03:13,640
+foundational knowledge to evaluate half of the snake oil stuff that is out there, which I mean,
+
+36
+00:03:13,640 --> 00:03:18,320
+I got to be honest with you, most of what's out there on this topic is utter nonsense. Commercial
+
+37
+00:03:18,320 --> 00:03:22,560
+tests that promise miracles that don't make any sense and supplements that just don't make any
+
+38
+00:03:22,560 --> 00:03:27,120
+sense and I think you'll come away from this kind of understanding how difficult it is to try to make
+
+39
+00:03:27,120 --> 00:03:30,680
+the claims that are out there. So without further delay, please enjoy my conversation with Dr. Mike
+
+40
+00:03:30,680 --> 00:03:41,320
+Pershing. Hey, Mike, thanks so much for making time to speak with me today about a subject matter
+
+41
+00:03:41,320 --> 00:03:45,960
+that I know very little about, but know enough to know that it probably matters and I think that's
+
+42
+00:03:45,960 --> 00:03:51,600
+why we're going to talk about it. Okay, I'll do my best. Let's kind of start with what is it that has
+
+43
+00:03:51,600 --> 00:03:57,160
+brought you so much curiosity in an area over what I'm guessing 60 years now is probably how
+
+44
+00:03:57,160 --> 00:04:02,080
+long you've been studying the GI system. Yes, I guess that shows you it's a very difficult
+
+45
+00:04:02,080 --> 00:04:08,160
+subject because I've been studying it for 60 years and there's still more to study. In other words,
+
+46
+00:04:08,160 --> 00:04:13,760
+I haven't gotten very far. Or as the saying goes, the further you get from shore, the deeper the
+
+47
+00:04:13,760 --> 00:04:19,360
+ocean gets, right? I love that. Yes, I haven't heard that before. You know, this is one of those
+
+48
+00:04:19,360 --> 00:04:24,160
+subjects that and I've been thinking a lot about this and trying to figure out how to frame our
+
+49
+00:04:24,160 --> 00:04:31,480
+discussion today, because there's just so much fundamental foundational knowledge that I think is
+
+50
+00:04:31,480 --> 00:04:39,240
+necessary to at least have a basic understanding of before we can get into kind of the nuanced
+
+51
+00:04:39,240 --> 00:04:45,640
+stuff around the GI system. So does it make sense to maybe just start with some of the real basics
+
+52
+00:04:45,840 --> 00:04:54,480
+of the human GI system, including frankly, its embryology, anatomy, vascular supply. And ultimately,
+
+53
+00:04:54,480 --> 00:04:59,840
+I think we're going to want to talk of course, about its nervous system, which is quite distinct
+
+54
+00:04:59,840 --> 00:05:04,640
+and unique relative to even the peripheral nervous system. Would that be a reasonable place to start?
+
+55
+00:05:04,640 --> 00:05:11,480
+Absolutely, it would. All right. Well, let's start with the embryology of this. So what is it that
+
+56
+00:05:11,480 --> 00:05:19,160
+takes place during our development as embryos that leads to the system of the gut? Well, before I
+
+57
+00:05:19,160 --> 00:05:26,440
+mention exactly what that is, let me just define it. Because I think that some people don't really
+
+58
+00:05:26,440 --> 00:05:34,200
+know what we mean by the GI system. So basically, it's a tube, it begins at the mouth, and it ends
+
+59
+00:05:34,200 --> 00:05:44,120
+at the anus. And as TS Eliot said, we are hollow men, and I will add, and women. So the inside of
+
+60
+00:05:44,120 --> 00:05:53,640
+the GI tract is really outside the body. It's internalized external space. If you bleed into
+
+61
+00:05:53,640 --> 00:06:01,880
+your GI tract, you lose blood. It's no longer in you, even if you can't see the blood. So one of the
+
+62
+00:06:01,880 --> 00:06:09,560
+major crises in medicine is hidden bleeding in the GI tract, which can be very damaging, even if
+
+63
+00:06:09,560 --> 00:06:18,280
+you don't see any blood. The inside of your gut is outside of your body. And as such, you can have,
+
+64
+00:06:18,280 --> 00:06:28,840
+and you do have inside the gut, space for the existence of a community of extra organisms that
+
+65
+00:06:28,920 --> 00:06:38,840
+is immense. And so the inside of your gut is dangerous and has to be kept separate from you.
+
+66
+00:06:39,400 --> 00:06:48,120
+So it's a major problem for the GI tract to keep a barrier and a surface to defend the body,
+
+67
+00:06:49,320 --> 00:06:55,720
+and yet allow food to be digested and absorbed and food stuff to come in.
+
+68
+00:06:56,680 --> 00:07:03,480
+So it has to maintain the communication with the lumen, which is what we call the inside of the GI
+
+69
+00:07:03,480 --> 00:07:10,440
+tract, and yet at the same time be protected. That's a really good point, Mike, which is that
+
+70
+00:07:10,440 --> 00:07:15,080
+we think about this all the time when we think about our skin, which is the other part of us
+
+71
+00:07:15,080 --> 00:07:19,560
+that is exposed to the outside world. And I think most people would be familiar with how many
+
+72
+00:07:19,560 --> 00:07:26,520
+bacteria we have colonizing our nasal passages, skin surface, et cetera. I guess most people would
+
+73
+00:07:26,520 --> 00:07:34,120
+probably understand that bacteremia is a bad thing when bacteria enter our body, and they can do so
+
+74
+00:07:34,120 --> 00:07:41,720
+through many of these pathways. It's problematic, but you're right in that the GI tract has a
+
+75
+00:07:41,800 --> 00:07:50,760
+particularly unique challenge, which is it must still do a lot of transmission across its surface,
+
+76
+00:07:51,400 --> 00:07:56,920
+obviously all of nutrients. In that sense, for example, the respiratory system only has to be
+
+77
+00:07:56,920 --> 00:08:03,480
+serving for gas exchange, and not to minimize that, but you could make a case that that's an easier
+
+78
+00:08:03,480 --> 00:08:09,880
+problem to solve to allow gases to exchange, but not to allow organisms to go through. So I think
+
+79
+00:08:09,880 --> 00:08:15,480
+that's a very interesting way to begin this discussion. Of course, I don't want to denigrate
+
+80
+00:08:15,480 --> 00:08:23,000
+the importance of the respiratory tract in an age of COVID. Let me tell you, it's important that gas
+
+81
+00:08:23,000 --> 00:08:29,960
+exchange be easy and proper. Anyway, to get back to the GI tract, the gut has a further problem
+
+82
+00:08:30,520 --> 00:08:37,160
+in that the food we eat is not ready for absorption. It doesn't come in. Food that you eat has to be
+
+83
+00:08:37,160 --> 00:08:44,760
+digested, so that you eat complex products, and then you have to digest it into small molecules
+
+84
+00:08:44,760 --> 00:08:53,960
+that can be absorbed. So that not only does the gut have to absorb a variety of things, it has to
+
+85
+00:08:53,960 --> 00:09:01,000
+have a particularly awful witch's brew to turn the same kind of thing that we're made of
+
+86
+00:09:01,000 --> 00:09:08,520
+into juice, essentially break it down without dissolving the body. The lining of the gut is
+
+87
+00:09:08,520 --> 00:09:15,000
+absolutely remarkable. So it's complex molecules that are not sterile as well, entering a non-sterile
+
+88
+00:09:15,000 --> 00:09:22,200
+environment, and somehow we have to only allow sterile nutritional building blocks to move across
+
+89
+00:09:22,200 --> 00:09:28,280
+the border. Yes, and those nutritional building blocks have to be made from the same kinds of
+
+90
+00:09:28,360 --> 00:09:33,960
+things that we're made out of, which we have to break down and digest. Without breaking down
+
+91
+00:09:33,960 --> 00:09:40,680
+ourselves. Correct, so we don't want to self-digest. It's a major problem, and the gut manages to solve
+
+92
+00:09:40,680 --> 00:09:50,040
+all that. Now you ask where it comes from. Well, during development, the body forms a disc, a flat
+
+93
+00:09:50,040 --> 00:10:00,120
+disc, and that disc undergoes a series of folds from head to toe and from side to side, and the
+
+94
+00:10:00,120 --> 00:10:09,240
+lateral or side folding produces the tube from which the gut forms, and so the flat disc folds
+
+95
+00:10:09,240 --> 00:10:16,920
+around to create an internal space, and that tube becomes the gut. How many weeks, can you remind me
+
+96
+00:10:17,160 --> 00:10:24,520
+post-fertilization, does that fold take place? The folding takes place during the first trimester,
+
+97
+00:10:25,320 --> 00:10:33,800
+and the gut is fully developed during the second trimester, and is between the second and the third
+
+98
+00:10:33,800 --> 00:10:42,760
+trimester when you're born. The gut is modeled and achieves its ability to do the kinds of thing that
+
+99
+00:10:42,760 --> 00:10:51,320
+we were just talking about, digest and absorb. The first part of development is called embryogenesis.
+
+100
+00:10:52,200 --> 00:11:00,920
+That is, the fertilized egg forms the disc, the disc folds, the organs of the body form,
+
+101
+00:11:01,640 --> 00:11:08,280
+and that's the embryonic period. The fetal period follows that, and the fetal period
+
+102
+00:11:08,920 --> 00:11:16,120
+models the organs into their final, or not necessarily final, because some development
+
+103
+00:11:16,120 --> 00:11:22,920
+continues to take place after birth, but appropriate development so that it becomes
+
+104
+00:11:22,920 --> 00:11:31,320
+functional enough to support a baby. In my recollection, which is about 26 years old now,
+
+105
+00:11:31,320 --> 00:11:36,840
+is that when that tube, that fold turns into the tube which will become the entire length of the
+
+106
+00:11:36,840 --> 00:11:41,720
+GI system from, as you said, mouth to anus. There are also these little outpouchings that come
+
+107
+00:11:41,720 --> 00:11:46,280
+along later that become things like the pancreas and the bile duct and things like that, which form
+
+108
+00:11:46,280 --> 00:11:52,360
+other things that drain into the GI system that obviously perform essential functions for digestion.
+
+109
+00:11:53,000 --> 00:11:58,600
+Yes, that same fold gives rise to lots of things, some of which drain into the gut,
+
+110
+00:11:58,600 --> 00:12:03,800
+like the pancreas, the gallbladder, which you mentioned, but it also forms the lungs,
+
+111
+00:12:04,520 --> 00:12:12,680
+which do not drain into the GI system, and the liver, which has a component that drains into the
+
+112
+00:12:12,680 --> 00:12:21,000
+gut through the bile system, but those are all derivatives of the gut. So the foregut forms the
+
+113
+00:12:21,000 --> 00:12:29,400
+stomach, the first part of the small intestine, the lungs, the pharynx, pancreas, gallbladder.
+
+114
+00:12:29,880 --> 00:12:35,400
+The midgut is the business of small intestine, and the first part of the large intestine,
+
+115
+00:12:35,400 --> 00:12:39,640
+and the hindgut is the end of the large intestine.
+
+116
+00:12:40,440 --> 00:12:47,800
+And my recollection, Mike, was that the foregut, midgut, hindgut basically tracked with the three
+
+117
+00:12:48,360 --> 00:12:53,320
+vessels coming off the aorta, the celiac, the superior and inferior mesenteric. Is that correct?
+
+118
+00:12:53,320 --> 00:12:54,360
+That is correct.
+
+119
+00:12:54,360 --> 00:12:58,920
+So maybe tell folks a little bit about that blood supply, what makes it unique,
+
+120
+00:12:58,920 --> 00:13:03,160
+which is, of course, we have a portal system, which is very important. We'll go from there
+
+121
+00:13:03,160 --> 00:13:06,760
+into the nervous system, which is perhaps the most complicated of the bunch.
+
+122
+00:13:07,720 --> 00:13:14,520
+As you've said, the foregut is defined as the part of the gut from the celiac artery.
+
+123
+00:13:14,520 --> 00:13:21,160
+The celiac artery is the first of the, or the most, rostral or anterior or...
+
+124
+00:13:21,160 --> 00:13:22,360
+Closest to the head.
+
+125
+00:13:22,360 --> 00:13:28,360
+Yes. I'm trying to put it into terminology that the entire world can understand. There
+
+126
+00:13:28,360 --> 00:13:36,840
+is also the terminology that the aficionados understand. So the celiac gives rise, or the
+
+127
+00:13:36,840 --> 00:13:44,520
+foregut, the celiac branch supplies the pancreas, the stomach, the first part of the duodenum,
+
+128
+00:13:45,160 --> 00:13:53,800
+and the liver, and the gallbladder. The superior mesenteric artery supplies the midgut,
+
+129
+00:13:53,800 --> 00:14:00,760
+and that's the longest part of the gut, and that goes roughly to the mid-transverse colon.
+
+130
+00:14:00,760 --> 00:14:09,960
+The colon has three parts. It folds. It has an ascending colon, a transverse colon going sideways,
+
+131
+00:14:09,960 --> 00:14:15,080
+and a descending colon, which goes down to the rectum and anus, which is out.
+
+132
+00:14:15,720 --> 00:14:25,320
+The inferior mesenteric supplies the end of the gut. When the celiac gives rise to the stomach
+
+133
+00:14:26,120 --> 00:14:32,840
+and first part of the small intestine's arterial supply, that then breaks into capillaries,
+
+134
+00:14:33,800 --> 00:14:44,520
+absorbs materials from the gut. Those capillaries drain into veins in the gut, and in a unique way,
+
+135
+00:14:45,160 --> 00:14:54,040
+those veins then form large vessels, which then move into the liver. They then break into capillaries,
+
+136
+00:14:54,680 --> 00:15:02,680
+small vessels within the liver called sinusoids. So the venous system that supplies the liver
+
+137
+00:15:03,240 --> 00:15:11,080
+is actually acting like it as if it were an artery, but it begins in the gut. And so the liver
+
+138
+00:15:11,960 --> 00:15:20,200
+depends for its oxygen on blood that the gut has had a first crack at. And to keep the liver going,
+
+139
+00:15:20,840 --> 00:15:29,800
+it gets a second arterial supply from the hepatic artery so that it gets a little bit of arterial
+
+140
+00:15:29,800 --> 00:15:36,680
+blood. And basically the liver is perfused with blood coming from the gut, and when it's about to
+
+141
+00:15:36,760 --> 00:15:46,440
+asphyxiate, a sphincter shuts that down, opens up, and it gets a breath of fresh air or fresh blood
+
+142
+00:15:46,440 --> 00:15:52,040
+and gets some oxygen, and then it goes back to dealing with what it gets from the gut. And the
+
+143
+00:15:52,040 --> 00:16:00,760
+reason it does that is the liver is the first step in the body's ability to use the nutrients
+
+144
+00:16:00,840 --> 00:16:08,040
+that the gut absorbs. So when the gut absorbs fatty acids, the liver turns them into
+
+145
+00:16:09,000 --> 00:16:17,000
+chylomicrons, which can go out and supply energy to the body. So the liver is a major center of
+
+146
+00:16:17,000 --> 00:16:25,720
+metabolism working on products from the gut. So it gets the first crack at what the gut has absorbed.
+
+147
+00:16:26,520 --> 00:16:30,520
+Now how about the nervous system of the gut? How is the gut innervated?
+
+148
+00:16:31,320 --> 00:16:35,640
+Well, as you've said, and I'm glad you've given your audience a warning,
+
+149
+00:16:36,360 --> 00:16:44,120
+it's complex and different. The gut has its own intrinsic nervous system, and I've called that
+
+150
+00:16:44,120 --> 00:16:51,400
+the second brain, and that's the title of the book, by the way. And the reason I called it the second
+
+151
+00:16:51,480 --> 00:16:59,320
+brain is that like the brain in the head, the nervous system of the gut is able to function
+
+152
+00:17:00,280 --> 00:17:09,720
+and control reflexes and behavior independently of any influence from the brain or spinal cord.
+
+153
+00:17:10,520 --> 00:17:19,000
+So it is the only nervous system of the body that can work on its own. So if you completely isolate
+
+154
+00:17:19,800 --> 00:17:28,520
+the gut from the brain and the spinal cord, it will function. You're not dead. Years and years ago,
+
+155
+00:17:29,480 --> 00:17:38,040
+in the days when peptic ulcers were thought to be psychogenic, surgeons used to cut the vagus
+
+156
+00:17:38,040 --> 00:17:45,640
+nerves, which are the major conduits that connect the brain and the gut. And after they cut the
+
+157
+00:17:45,640 --> 00:17:53,400
+vagus nerves, the gut continued to soldier on as it would have to. Unfortunately, it never did
+
+158
+00:17:53,400 --> 00:18:00,360
+all that much to fix peptic ulcer disease, and that turned out to be because peptic ulcer disease
+
+159
+00:18:01,080 --> 00:18:06,920
+is mostly an infectious illness caused by helicobacter pylori.
+
+160
+00:18:07,720 --> 00:18:14,040
+So you're saying before the discovery of H. pylori, it was believed that stress was driving
+
+161
+00:18:14,040 --> 00:18:20,600
+peptic ulcer disease. And the idea was that the central nervous system would communicate
+
+162
+00:18:21,240 --> 00:18:28,120
+the stress to the gut via the vagus nerve. That's correct. Now, that wasn't all wrong.
+
+163
+00:18:29,080 --> 00:18:33,960
+The central nervous system can communicate stress to the gut via the vagus nerve.
+
+164
+00:18:34,840 --> 00:18:41,400
+But that was not the cause of peptic ulcer disease. And it did help to show that the gut could,
+
+165
+00:18:42,040 --> 00:18:48,200
+in fact, be cut off from the brain and still work. But that observation was made long ago.
+
+166
+00:18:49,160 --> 00:18:53,880
+The nervous system of the gut has been known to be present for a long time.
+
+167
+00:18:54,600 --> 00:19:01,320
+It was discovered about the time of the American Civil War. Our back in Germany
+
+168
+00:19:01,880 --> 00:19:09,480
+noticed an extremely large nervous system in the human gut at that time. He didn't know what it did,
+
+169
+00:19:10,280 --> 00:19:19,320
+but later around the turn of the last century, that is 19th to 20th, in what I know to have been
+
+170
+00:19:19,320 --> 00:19:26,840
+a very cold, chilly laboratory in England. The reason I know that is I worked in England. I did
+
+171
+00:19:26,840 --> 00:19:34,360
+my post-doctoral training there. Laboratories were not heated. Even when I was there, we used to crack
+
+172
+00:19:34,360 --> 00:19:41,080
+the ice off the organ bath to get started in the morning. And I'd wear gloves with just
+
+173
+00:19:41,080 --> 00:19:47,480
+fingertips open so you could do experiments. Anyway, at that time, Bayless and Starling
+
+174
+00:19:48,360 --> 00:19:54,120
+cut all the nerves to the intestine of a dog. This is the same Starling from whom we have
+
+175
+00:19:54,120 --> 00:20:01,720
+Starling curves in cardiac physiology? That's the Starling. And so when they cut all the nerves to
+
+176
+00:20:01,720 --> 00:20:08,680
+the gut and then increased pressure inside the gut in the lumen, the gut would respond with the
+
+177
+00:20:08,680 --> 00:20:17,720
+stereotypic behavior of oral contraction, anal relaxation that they called the law of the
+
+178
+00:20:17,720 --> 00:20:26,440
+intestine, which was a name that I liked very much and sounded very poetic in a sense. 17 years later,
+
+179
+00:20:27,400 --> 00:20:33,960
+while armies were paralyzed during the First World War, crossed trenches that cut Europe
+
+180
+00:20:33,960 --> 00:20:43,320
+from the Swiss border on the way down to the English Channel in France and Belgium. Behind
+
+181
+00:20:43,320 --> 00:20:50,840
+the lines in Germany, another German scientist by the name of Trandellen Berg had tuberculosis.
+
+182
+00:20:51,640 --> 00:20:58,360
+And that kept him out of the army, even the German army at that time. But he had to keep busy.
+
+183
+00:20:59,080 --> 00:21:07,160
+So he strung up a loop of guinea pig intestine in vitro, that is in a test tube, on a J-shaped
+
+184
+00:21:07,160 --> 00:21:14,280
+tube. And he blew into the J-shaped tube, which raised the pressure inside the intestine, very
+
+185
+00:21:14,280 --> 00:21:20,680
+much like Bayless and Starling had done. And he found that even in a test tube, when he did that,
+
+186
+00:21:21,240 --> 00:21:28,200
+the gut blew back at him. And it was a very profound observation because it showed that
+
+187
+00:21:28,200 --> 00:21:36,520
+with nothing there but gut, the gut could respond, sense the pressure, and show a coordinated wave
+
+188
+00:21:36,520 --> 00:21:44,920
+of activity in response to it, indicating that the intestinal nervous system is able to function
+
+189
+00:21:44,920 --> 00:21:51,880
+independently of the CNS, the central nervous system. No other nervous system outside the
+
+190
+00:21:51,880 --> 00:21:58,440
+CNS can do that. And even the spinal cord can't do that. It works in conjunction with the brain.
+
+191
+00:21:59,240 --> 00:22:04,760
+How preserved is that, Mike, across other species? Is that kind of a universal finding?
+
+192
+00:22:05,640 --> 00:22:13,480
+Yes. It begins with a little organism called amphioxus, which undergoes metamorphosis,
+
+193
+00:22:13,480 --> 00:22:20,280
+turns into a vertebrate. So it's a vertebrate invention, and all vertebrates have it. You do
+
+194
+00:22:20,280 --> 00:22:28,280
+not find it in invertebrates. So it's a vertebrate invention, and it gets more complex as vertebrates
+
+195
+00:22:28,280 --> 00:22:35,480
+become more complex. So a fish has only one layer of enteric nervous system. Humans have two.
+
+196
+00:22:36,360 --> 00:22:42,600
+Actually, some people would say three. And the two that we have are between which layers? I guess
+
+197
+00:22:42,600 --> 00:22:49,560
+we didn't really finish our GI anatomy. So when you go from the lumen at the very inside all the
+
+198
+00:22:49,560 --> 00:22:56,440
+way out, you have a mucosal layer, a submucosa, a muscular layer. Is that where these different
+
+199
+00:22:56,440 --> 00:23:05,240
+bundles live? Yes. So the lining of the gut is called the mucosa. It has a superficial lining
+
+200
+00:23:05,240 --> 00:23:12,840
+that is in contact with the lumen called an epithelium. Underneath that is a loose nervous
+
+201
+00:23:12,840 --> 00:23:21,720
+system called the lamina propia, but together that's the mucosa. Below that, there's a dense
+
+202
+00:23:21,800 --> 00:23:27,320
+layer of connective tissue, which allows gut to be used for stringing tennis rackets,
+
+203
+00:23:27,960 --> 00:23:35,400
+allows gut to be used to suture material. It's tough. You can't pull it out. The next layer
+
+204
+00:23:36,120 --> 00:23:43,960
+is a circular layer of smooth muscle, another layer of smooth muscle, a second one called the
+
+205
+00:23:43,960 --> 00:23:51,560
+longitudinal layer. And then if it's in the peritoneal cavity, another layer of very thin epithelium.
+
+206
+00:23:52,280 --> 00:23:58,200
+The major parts of the nervous system of the gut are the submucosal plexus,
+
+207
+00:23:58,760 --> 00:24:05,880
+which has the epinim meister, but it's submucosal plexus. And that's in that dense layer of
+
+208
+00:24:06,520 --> 00:24:15,560
+connective tissue. And that's the smaller of the two. The larger one by far is the myenteric plexus,
+
+209
+00:24:15,560 --> 00:24:21,160
+and that is in between the two layers of smooth muscle on the outside of the gut.
+
+210
+00:24:21,720 --> 00:24:31,560
+The two plexuses communicate with one another, and they both really do get input from the central
+
+211
+00:24:31,560 --> 00:24:39,160
+nervous system and speak back to the central nervous system. So although they can function,
+
+212
+00:24:39,160 --> 00:24:46,680
+as I've been emphasizing, independently of control by the brain, in practice they don't.
+
+213
+00:24:47,480 --> 00:24:56,360
+They communicate, and there is constantly a bipolar or two-way communication between the
+
+214
+00:24:56,360 --> 00:25:02,760
+brain and the gut. The gut receives input from the brain and sends back information to the brain.
+
+215
+00:25:04,040 --> 00:25:12,360
+And in that function, bi-directional communication, the brain acts very much like a CEO.
+
+216
+00:25:13,080 --> 00:25:21,000
+That is, it gives general commands. The detail of what the gut actually does, that behavior,
+
+217
+00:25:21,000 --> 00:25:28,280
+is controlled by the bowel itself. Let me try to summarize that. You have these two muscular walls,
+
+218
+00:25:28,280 --> 00:25:34,840
+one of them runs longitudinally, so runs in the direction of the lumen, and one runs orthogonal
+
+219
+00:25:34,840 --> 00:25:40,920
+to that. It runs circularly. This is one of the things I remember from anatomy, was that you have
+
+220
+00:25:41,000 --> 00:25:47,240
+these things where if the circular inner layer contracts, that shrinks the lumen, and the
+
+221
+00:25:47,240 --> 00:25:53,240
+longitudinal one, as it contracts, shortens it along its long axis. And I think that's what permits this
+
+222
+00:25:53,800 --> 00:26:01,000
+remarkable, peristaltic, rhythmic contraction of the gut. Yes, I can talk to you about the behaviors
+
+223
+00:26:01,000 --> 00:26:08,440
+of the gut, but the behavior of the gut is not so simple as to have just one peristaltic movement.
+
+224
+00:26:09,240 --> 00:26:14,040
+When you look at it, it seems to be moving rhythmically, but it's much more complicated
+
+225
+00:26:14,040 --> 00:26:20,680
+than that. It doesn't do that all the time. Interesting. So that first part of the enteric
+
+226
+00:26:20,680 --> 00:26:27,400
+nervous system, which is the myenteric plexus, sits between those two layers, correct? That's correct,
+
+227
+00:26:27,400 --> 00:26:35,400
+yes. And then beneath those muscular layers is when you get into that very tough submucosal layer,
+
+228
+00:26:36,360 --> 00:26:42,920
+and it's between that circular muscular wall and the submucosa that you have, the submucosal plexus.
+
+229
+00:26:42,920 --> 00:26:50,360
+That's absolutely right. And then of course, inside the submucosa, you have the mucosa, and then
+
+230
+00:26:50,360 --> 00:26:55,320
+ultimately the lumen on the very inside with the enterocytes that form the endothelial lining of
+
+231
+00:26:55,320 --> 00:27:00,680
+the gut. Give me a quick sense of the epithelial turnover. What is the, I don't know, median
+
+232
+00:27:00,760 --> 00:27:07,560
+residence time of an epithelial cell in the gut? They vary depending on the type of epithelial cell,
+
+233
+00:27:07,560 --> 00:27:14,360
+but you turn the epithelium over about once a week. Interesting. And when you say it varies,
+
+234
+00:27:14,360 --> 00:27:20,520
+I assume you mean from, say, the proximal jejunum to the ilium to the colon? Is that
+
+235
+00:27:20,520 --> 00:27:26,680
+what you mean in terms of location? No. What I was talking about is that you have certain cells
+
+236
+00:27:26,680 --> 00:27:35,160
+in the lining of the gut, such as a cell called the paneth cell, which is in the base of the crypt,
+
+237
+00:27:35,160 --> 00:27:41,640
+which is getting into the weeds here, but it's a part of the folding of the lining of the gut.
+
+238
+00:27:41,640 --> 00:27:49,960
+But the paneth cell has two major functions. One is that it's defensive, and it puts out
+
+239
+00:27:50,600 --> 00:27:57,160
+a number of antibacterial proteins that keep the lining, particularly of the small intestine,
+
+240
+00:27:58,040 --> 00:28:05,240
+sterile or close to sterile, only a few thousand microorganisms per cubic milliliter. But the
+
+241
+00:28:06,200 --> 00:28:12,680
+large intestine doesn't have those, but it has cells that put out the equivalent kind of
+
+242
+00:28:12,680 --> 00:28:19,560
+antibacterial product that helps to fend off the bacteria from getting too close to the lining of
+
+243
+00:28:19,560 --> 00:28:28,760
+the gut. The other function of the paneth cell is to nurse the stem cells that turn over all of
+
+244
+00:28:28,760 --> 00:28:36,440
+the cells. So the paneth cell lasts perhaps three weeks. You also have in the gut endocrine cells,
+
+245
+00:28:37,160 --> 00:28:42,680
+these endoroendocrine cells that produce hormones that are in the lining of the gut,
+
+246
+00:28:43,480 --> 00:28:49,000
+and they're a little bit longer lasting. The endorocytes that you talked about
+
+247
+00:28:49,560 --> 00:28:54,680
+turn over very rapidly. Well, we're going to come back to those endocrine cells pretty soon,
+
+248
+00:28:54,680 --> 00:28:59,720
+because that's a very big part of this gut-brain connection I want to explore. I do have kind of a
+
+249
+00:28:59,720 --> 00:29:06,040
+random question for you though, Mike, which is, in some ways it's not surprising that the colon
+
+250
+00:29:06,040 --> 00:29:15,640
+is so susceptible to neoplasia, to the formation of cancer, because it has at its surface a cell
+
+251
+00:29:15,640 --> 00:29:21,720
+that turns over so frequently, and therefore it's turning over constantly, and as a result you
+
+252
+00:29:21,720 --> 00:29:28,440
+probably have more and more chances for genetic errors of replication that produce mutations that
+
+253
+00:29:28,440 --> 00:29:35,080
+are oncologic. I find it interesting that the small intestine, which presumably turns over at
+
+254
+00:29:35,080 --> 00:29:42,040
+roughly the same pace, is almost void of cancer. Do you have a thought as to why that's the case?
+
+255
+00:29:43,000 --> 00:29:51,080
+Well, people have speculated on that. One part of the answer is that microbiome, to which the
+
+256
+00:29:51,080 --> 00:29:58,200
+large intestine is exposed, is orders of magnitude larger than that of the small intestine,
+
+257
+00:29:59,160 --> 00:30:06,200
+and the other part of it is that the products that sit in the lumen of the large intestines
+
+258
+00:30:06,200 --> 00:30:12,920
+sit there for much, much longer. Small intestine digests food and it just goes by very fast.
+
+259
+00:30:13,560 --> 00:30:20,600
+So in terms of being exposed to environmental toxins, or toxins produced by organisms, or
+
+260
+00:30:21,560 --> 00:30:28,440
+toxins that are split off from what you eat, the large intestine, which acts as a sewer,
+
+261
+00:30:29,000 --> 00:30:35,160
+really is exposed to very much more. My recollection is most of the nutrient absorption
+
+262
+00:30:35,160 --> 00:30:41,400
+is taking place in the small intestine and that the large intestine is mainly reabsorbing water.
+
+263
+00:30:41,400 --> 00:30:48,120
+Is that right? Yes, but not quite, because what the large intestine does is conserves sodium.
+
+264
+00:30:48,680 --> 00:30:58,680
+So it absorbs sodium and secretes potassium and water follows the sodium as it's coming back into
+
+265
+00:30:58,680 --> 00:31:09,400
+the body. So the colon acquired that function and it enables organisms to live on land. When organisms
+
+266
+00:31:09,400 --> 00:31:17,800
+lived in the water conserving sodium and water was not such a problem, living on land makes itself.
+
+267
+00:31:18,200 --> 00:31:25,880
+The bulk of the water that the gut absorbs, however, is not in the large intestine. It's
+
+268
+00:31:25,880 --> 00:31:30,680
+done in the small intestine together with the bulk of most of what else you absorb.
+
+269
+00:31:31,480 --> 00:31:40,120
+Still the final 100 milliliters or so per day of what you absorb is polished off in the colon,
+
+270
+00:31:40,120 --> 00:31:48,680
+and it is important in maintaining the body's fluid content. If you lose it, as one does in
+
+271
+00:31:48,680 --> 00:31:57,080
+cholera, where cholera toxin turns sodium absorption into chloride secretion, water flows out,
+
+272
+00:31:57,880 --> 00:32:06,200
+and you can die of dehydration in about four hours, and people do with cholera. So it's a great plague.
+
+273
+00:32:06,200 --> 00:32:11,960
+Perhaps three million people a year die of cholera even today. Three million people a year
+
+274
+00:32:11,960 --> 00:32:17,160
+die of cholera today? Correct. I had no idea. Where is this primarily happening? Is this in
+
+275
+00:32:17,160 --> 00:32:24,760
+Africa and Asia? At the moment it is, but there have been major league outbreaks in our hemisphere.
+
+276
+00:32:25,480 --> 00:32:33,800
+One began off the coast of Peru with contaminated crab. That led to cases that were as far north as
+
+277
+00:32:33,800 --> 00:32:41,960
+New Jersey, as people ate contaminated crab. Haiti, of course, is the most famous one. There
+
+278
+00:32:41,960 --> 00:32:49,480
+was a great earthquake in Haiti. It destroyed a lot of their infrastructure. They had a group of
+
+279
+00:32:49,480 --> 00:32:57,000
+peacekeepers from the United Nations from Nepal that was stationed there, and they brought cholera
+
+280
+00:32:57,000 --> 00:33:03,080
+with them, put it into the water system of Haiti. It got into the rivers and streams, and is now
+
+281
+00:33:03,080 --> 00:33:11,000
+endemic in Haiti. So it reduced the population of Haiti considerably, but it is mostly in Asia and
+
+282
+00:33:11,000 --> 00:33:15,880
+Africa. Are there direct treatments for it, or is the only treatment supportive care to prevent
+
+283
+00:33:15,880 --> 00:33:24,520
+dehydration? Well, it's a very simple illness. All one has to do is keep track of the water,
+
+284
+00:33:24,520 --> 00:33:30,120
+so you put a patient on what is known as a cholera cot, a gurney with a hole in the middle,
+
+285
+00:33:30,680 --> 00:33:37,880
+for the anus to be positioned over. You put a bucket under it. The nurse puts a ruler into
+
+286
+00:33:37,880 --> 00:33:45,400
+that bucket periodically to see how much fluid is coming out. You replace it intravenously and orally.
+
+287
+00:33:46,280 --> 00:33:54,280
+The great life-saving discovery was that although cholera blocked the absorption of sodium,
+
+288
+00:33:54,280 --> 00:34:01,160
+it does not block the absorption of glucose in the small intestine. And so adding a little bit
+
+289
+00:34:01,160 --> 00:34:08,760
+of sugar to the fluid that you're using for oral rehydration has saved countless millions of lives,
+
+290
+00:34:08,760 --> 00:34:16,680
+just that simple thing. So antibiotics have no use at all in color, zero. Does the immune system
+
+291
+00:34:16,680 --> 00:34:22,360
+basically, if given enough time, fight it off, and all you're doing is just supporting the hydration
+
+292
+00:34:22,360 --> 00:34:27,720
+status of the person until your immune system kicks in? Correct. I want to go back to something
+
+293
+00:34:27,720 --> 00:34:33,160
+you said earlier. You made a point to talk about the intrinsic innervation, and I realized that
+
+294
+00:34:33,160 --> 00:34:37,640
+there are going to be people listening who might not know the difference between intrinsic and
+
+295
+00:34:37,640 --> 00:34:41,800
+extrinsic neurons. Can you explain what that means in the context of the gut, please?
+
+296
+00:34:42,600 --> 00:34:49,160
+So the intrinsic nervous system of the gut is a term representing the nerve cells that live within
+
+297
+00:34:49,160 --> 00:34:58,040
+the gut. We've described them, the two plexuses. The extrinsic innervation includes the brain,
+
+298
+00:34:58,040 --> 00:35:07,640
+which sends fibers to those neurons, and the sympathetic nervous system, which projects from
+
+299
+00:35:07,640 --> 00:35:16,440
+outside the gut into it. And it also includes the spinal cord and the ganglia associated with the
+
+300
+00:35:16,440 --> 00:35:22,840
+spinal cord, sensory ganglia, and dorsal root, which provide a sensory innervation of the gut.
+
+301
+00:35:23,480 --> 00:35:31,480
+So those are all extrinsic nerves. Intrinsic means that the cell body of the nerve cell resides
+
+302
+00:35:31,480 --> 00:35:39,320
+within the gut. Extrinsic means that the cell body is outside the gut, wherever.
+
+303
+00:35:40,360 --> 00:35:45,960
+Mike, one of the things I'm sure anybody listening to this can appreciate is the incredible pain
+
+304
+00:35:45,960 --> 00:35:51,480
+that one experiences with distension of the bowel. I used to be a general surgeon, so when
+
+305
+00:35:51,480 --> 00:35:58,040
+patients present with bowel obstructions, it can be as painful as a bowel perforation, and it's so
+
+306
+00:35:58,040 --> 00:36:03,560
+important to be able to put a nasogastric tube in them and decompress them. And again, even if you
+
+307
+00:36:03,560 --> 00:36:07,000
+haven't had a bowel obstruction, just if you're bloated or something like that, it can be incredibly
+
+308
+00:36:07,000 --> 00:36:13,720
+uncomfortable. So explain to people how that pain of distension in the gut is being communicated
+
+309
+00:36:13,720 --> 00:36:18,840
+to their brain, where they're obviously conscious of the discomfort. Let me make two points. One is
+
+310
+00:36:18,840 --> 00:36:27,160
+that essentially pressure of the kind that which you're speaking, whether very severe, as you've
+
+311
+00:36:27,160 --> 00:36:35,640
+mentioned, or much less so, the only way the gut feels pain is in response to dilatation or pressure.
+
+312
+00:36:36,520 --> 00:36:44,600
+You can cut the inside of the gut with impunity. So surgeons are constantly doing that, taking
+
+313
+00:36:44,600 --> 00:36:51,720
+biopsies from inside the gut, and that can be done without anesthesia. So it's differently
+
+314
+00:36:51,720 --> 00:36:58,840
+innervated from the point of view of pain than the skin, for example. The skin feels pressure, but it's
+
+315
+00:36:58,840 --> 00:37:09,400
+much less of a painful stimulus than cutting. The gut is exactly the reverse. Most of the fibers
+
+316
+00:37:09,400 --> 00:37:16,440
+that get excited when you press increased pressure are located in the dorsal root ganglia.
+
+317
+00:37:17,240 --> 00:37:25,240
+Those are pain fibers that relay the signal to the brain by way of the spinal cord. The vagus nerve
+
+318
+00:37:26,200 --> 00:37:33,880
+has some pain, but not much. Mostly the vagus nerve carries information back to the brain
+
+319
+00:37:33,880 --> 00:37:40,920
+that has to do with signaling what is called homeostasis, which means we don't know for
+
+320
+00:37:41,560 --> 00:37:48,120
+exactly what it all is, but you need it. Before we leave kind of the anatomy and
+
+321
+00:37:48,200 --> 00:37:53,400
+innervation of the gut, you mentioned the CNS functions kind of like the CEO providing
+
+322
+00:37:54,120 --> 00:38:02,120
+broad instruction, but not necessarily minutia driven operational instructions. Can you give
+
+323
+00:38:02,120 --> 00:38:10,120
+an example of what type of information is conveyed by the CNS and how that information is enacted
+
+324
+00:38:10,120 --> 00:38:18,760
+locally? Let me give you an illustration this way. One of the things we do as scientists is depend
+
+325
+00:38:18,760 --> 00:38:28,120
+for our funding on the NIH, and we send in grant applications in which we try to give our research
+
+326
+00:38:28,920 --> 00:38:36,040
+its best look. Under goes peer review, and then the government decides on the basis of the peer
+
+327
+00:38:36,040 --> 00:38:44,920
+review on two levels, whether to fund it or not. So when I wait to hear how my grant has done on
+
+328
+00:38:44,920 --> 00:38:51,400
+peer review, I become acutely aware of the kind of effect the CNS can have on my gut.
+
+329
+00:38:52,840 --> 00:38:59,800
+After three trips to the John, I will go and open the computer and find out.
+
+330
+00:39:00,760 --> 00:39:06,840
+So what I'm saying is most people can resonate with that because they felt it, this feeling of
+
+331
+00:39:06,840 --> 00:39:15,640
+butterflies, this feeling of tension-induced diarrhea. That is all coming by way of the CNS.
+
+332
+00:39:17,080 --> 00:39:25,800
+Similarly, some people when they're frightened or traveling just completely lose the ability to
+
+333
+00:39:25,960 --> 00:39:32,440
+defecate. They become constipated. I always assumed that that was due to the dehydration
+
+334
+00:39:32,440 --> 00:39:37,160
+of air travel, but it sounds like you're saying there's more to it. There may be, yes, I think
+
+335
+00:39:37,160 --> 00:39:43,880
+there is. Well, what it seems to come to is, for example, the sympathetic nerves can slow the gut
+
+336
+00:39:44,600 --> 00:39:52,840
+and make it less likely to defecate, and that is in response to, as opposed to anxiety,
+
+337
+00:39:53,400 --> 00:40:01,720
+to true fright. So for example, if you're fleeing a foxhole because the enemy is coming,
+
+338
+00:40:02,440 --> 00:40:06,200
+it's best if you don't have to stop to defecate along the way.
+
+339
+00:40:07,080 --> 00:40:11,000
+You've alluded now to the sympathetic and parasympathetic overtone of the CNS.
+
+340
+00:40:11,560 --> 00:40:18,360
+So it communicates that via acetyl-CoA and acetylcholine, things like that. But at the
+
+341
+00:40:18,360 --> 00:40:23,800
+local level, how does the gut receive that message? And then let's use the example of
+
+342
+00:40:23,800 --> 00:40:31,400
+anxiety-induced diarrhea. The actual action taken by the gut is presumably more rapid
+
+343
+00:40:31,400 --> 00:40:37,160
+peristalsis and less absorption? That's correct. And that's all has to do with the
+
+344
+00:40:37,160 --> 00:40:46,040
+enteric nervous system functioning. One theory, which I believe, is that there are nerve cells
+
+345
+00:40:46,040 --> 00:40:53,000
+in the gut called command neurons, and they receive the input from the CNS. So it turns
+
+346
+00:40:53,000 --> 00:41:00,920
+out that the number of fibers in the vagus nerve that are running to the gut are pretty small in
+
+347
+00:41:00,920 --> 00:41:08,600
+humans, three to five thousand. It's been estimated. And the number of nerve cells within the gut are
+
+348
+00:41:08,600 --> 00:41:15,960
+in over a hundred million. So the intrinsics outnumber the extrinsics by three orders of magnitude,
+
+349
+00:41:15,960 --> 00:41:23,160
+if not more. So that raises the question, how do these nerve cells control it? As I've said,
+
+350
+00:41:23,160 --> 00:41:30,920
+as a CEO, they can get to command nerve cells and start reflexes going, keep things moving more
+
+351
+00:41:30,920 --> 00:41:37,240
+rapidly. The gut has a number of different behaviors. It's not just propelling at all times.
+
+352
+00:41:37,240 --> 00:41:42,600
+If the gut were propelling, as I described it with oral contraction, anal relaxation,
+
+353
+00:41:43,400 --> 00:41:49,880
+as it's capable of doing, then social discourse of the kind we're having right now would become
+
+354
+00:41:49,880 --> 00:42:01,480
+impossible. The gut has to sometimes stop. And so one type of behavior is just essentially parisis.
+
+355
+00:42:01,480 --> 00:42:11,480
+The gut stops moving. A second type of behavior that the gut shows is mixing in which it allows
+
+356
+00:42:11,480 --> 00:42:18,680
+the enzymes that it puts out to do digestion. And anyone who's ever taken time in an organic
+
+357
+00:42:18,680 --> 00:42:25,000
+chemistry laboratory will tell you nothing very much happens unless it's stirred. So the gut has
+
+358
+00:42:25,000 --> 00:42:35,080
+a mixing process in which it just goes back and forth, back and forth, no propulsion. And then
+
+359
+00:42:35,080 --> 00:42:43,240
+it's able to sense what goes on. And when digestion has occurred sufficiently, it propels it on.
+
+360
+00:42:44,040 --> 00:42:51,240
+It can also, during night while you're sleeping, a cleaning process goes through the gut
+
+361
+00:42:52,200 --> 00:42:59,000
+in which a wave begins. The stomach goes down the small intestine, down the large intestine,
+
+362
+00:42:59,000 --> 00:43:06,280
+and cleans the gut out. Open sphincters, so the things that would ordinarily be much too big to
+
+363
+00:43:06,280 --> 00:43:16,280
+pass can go through. So a little kid can swallow a paperclip, a dime, sometimes an open pin. And all
+
+364
+00:43:16,280 --> 00:43:23,160
+those things are passed. And miraculously, I don't know how the gut manages it, but if an open safety
+
+365
+00:43:23,160 --> 00:43:31,080
+pin goes in, somehow it manages to propel it all the way down with the small end down and it almost
+
+366
+00:43:31,080 --> 00:43:38,520
+never gets stuck. So let's pivot a bit to appetite. Obviously the gut plays a very important role in
+
+367
+00:43:38,520 --> 00:43:45,080
+the regulation of our appetite. And this, I suspect, is an area where the gut and the brain
+
+368
+00:43:45,960 --> 00:43:50,520
+are in a high level of communication. Can you walk us through what that looks like?
+
+369
+00:43:51,160 --> 00:43:54,920
+And let's assume we're talking about this in a non-pathologic state, because obviously there's
+
+370
+00:43:54,920 --> 00:44:01,080
+going to be things that I assume can hijack this process. A number of factors play into it.
+
+371
+00:44:01,960 --> 00:44:11,080
+Distention of the stomach being one, so that as the stomach is pushed out, it tends to cause
+
+372
+00:44:11,080 --> 00:44:19,800
+satiety and decrease your urge to eat. Another factor is not the level of blood glucose, but the
+
+373
+00:44:19,800 --> 00:44:29,320
+rise of blood glucose, the ascent of it. And these factors are sensed, one by receptors within the
+
+374
+00:44:29,320 --> 00:44:38,200
+gut, which send signals to the brain, and the other are cells within the brain that are chemosensitive
+
+375
+00:44:38,200 --> 00:44:45,480
+and detect nutrients within the gut. Another factor, which you alluded to before, are the
+
+376
+00:44:45,480 --> 00:44:54,120
+endorheal endocrine cells within the gut, which make hormones such as cholecystokinin, which can
+
+377
+00:44:55,080 --> 00:45:02,600
+signal to the brain by going through the blood-brain barrier to be received by neurons
+
+378
+00:45:03,240 --> 00:45:10,840
+leptin within the gut. So there are a large number of hormones, hormone receptors in the brain,
+
+379
+00:45:10,840 --> 00:45:18,600
+that can trigger your urge to eat, as well as nutrients that you absorb, as well as
+
+380
+00:45:19,320 --> 00:45:28,040
+distention of the bowel itself. So that the gut has receptors in it, and the brain has signals
+
+381
+00:45:28,040 --> 00:45:34,520
+within it that trigger the urge to eat. So basically, mechanical and chemical are the two
+
+382
+00:45:34,520 --> 00:45:39,400
+big means through which this is communicated? That's correct. That summarizes it well.
+
+383
+00:45:39,400 --> 00:45:47,640
+So the mechanical are both in the actual stomach, but also in the small bowel? Yes, to a lesser
+
+384
+00:45:47,640 --> 00:45:55,160
+extent. And those are transmitted back from the gut via the vagus nerve? Correct. The glucose
+
+385
+00:45:55,160 --> 00:46:02,920
+rate of change, as opposed to absolute level, is that directly sensed in the CNS? Yes, it is.
+
+386
+00:46:02,920 --> 00:46:07,320
+And that's fine, because of course glucose easily traverses the blood-brain barrier,
+
+387
+00:46:07,320 --> 00:46:14,200
+so the gut doesn't need to be involved in that decision. The blood vessels that provide blood
+
+388
+00:46:14,200 --> 00:46:22,280
+to the brain have transporters that allow certain chemicals from the gut, such as leptin and
+
+389
+00:46:22,280 --> 00:46:30,120
+cholecystokinin, to be transported so that they can affect the CNS directly. Where does ghrelin
+
+390
+00:46:30,120 --> 00:46:37,240
+fit into this? Ghrelin is another hormone from the gut that works in the opposite way to what
+
+391
+00:46:37,240 --> 00:46:42,760
+we've been talking about. I've been talking about things that decrease food absorption. Ghrelin
+
+392
+00:46:43,400 --> 00:46:50,360
+is a gut hormone that promotes it. So what amplifies ghrelin? You mean what makes ghrelin
+
+393
+00:46:50,360 --> 00:46:56,280
+be secreted? Yes. Well, there are certain chemicals in food that you eat that can do that.
+
+394
+00:46:57,160 --> 00:47:04,440
+Mostly it's nutrients that come into the body that suppress, like amino acids and fatty acids,
+
+395
+00:47:04,440 --> 00:47:10,360
+can suppress ghrelin secretion. Does that mean that ghrelin's natural state is to be secreted,
+
+396
+00:47:10,360 --> 00:47:17,400
+and it's the presence of nutrients that simply turn that down? Yes, it's secreted at a constant
+
+397
+00:47:17,400 --> 00:47:25,160
+rate, and it can be upped or downed so that inhibiting it is important to prevent the
+
+398
+00:47:25,160 --> 00:47:31,400
+development of ghrelin effect. And what about the type of meal? So if you took, you know, and this
+
+399
+00:47:31,400 --> 00:47:35,640
+is the kind of stuff that's done, of course, all the time in research models. I think Rudy Leibel
+
+400
+00:47:35,640 --> 00:47:39,880
+and Mike Rosenbaum have done a number of these experiments where you'll take mixed meal shakes
+
+401
+00:47:39,880 --> 00:47:44,440
+versus solids. What are some of the differences in the way that those things would affect
+
+402
+00:47:44,440 --> 00:47:49,960
+satiety? And is it all done purely through change in the speed of absorption, or are there
+
+403
+00:47:49,960 --> 00:47:54,840
+other factors between liquids and solids that might factor into that? Well, there are a number
+
+404
+00:47:54,840 --> 00:48:01,480
+of factors. I just want to mention while we're on it that Rudy Leibel is just across the street.
+
+405
+00:48:01,480 --> 00:48:09,640
+He's a colleague over here of Bonnet, Columbia. The rate at which the stomach empties varies
+
+406
+00:48:09,640 --> 00:48:18,440
+tremendously depending on what you put into it. So for example, if you just eat a saline meal, the
+
+407
+00:48:18,440 --> 00:48:26,920
+stomach will empty much more rapidly than if there's protein in it, and even protein will empty much
+
+408
+00:48:26,920 --> 00:48:36,040
+more rapidly than if there's fat in it. So the stomach senses the nutrients, and the speed at which
+
+409
+00:48:36,040 --> 00:48:43,320
+it empties regulates the dilatation of the stomach and the signal that the stomach is sending back
+
+410
+00:48:43,320 --> 00:48:53,080
+to urge satiety on the brain, which means that if you're eating protein and fat, you will
+
+411
+00:48:53,080 --> 00:49:02,200
+reach satiety much sooner than if you're eating just salt and sugar. In terms of solids, solids
+
+412
+00:49:02,200 --> 00:49:09,960
+do the same. Particles can't get through the pyloric sphincter unless they're ground down
+
+413
+00:49:10,760 --> 00:49:19,960
+to be millimeter or less in diameter, so only tiny things can get into the small intestine.
+
+414
+00:49:20,680 --> 00:49:28,120
+So solids will delay gastric emptying. The stomach has a particular form of behavior,
+
+415
+00:49:28,920 --> 00:49:36,680
+which is amazing when you watch it, but one part of the stomach contracts massively and suddenly
+
+416
+00:49:36,680 --> 00:49:44,280
+and forces the bolus that's in the stomach up against the pyloric sphincter, which is the exit
+
+417
+00:49:44,280 --> 00:49:52,120
+of the stomach, which is shut tight, and this ramming action breaks up solids into the small
+
+418
+00:49:52,120 --> 00:49:58,840
+particles that can get through. At the end of it, if you still have some solids that are too big to
+
+419
+00:49:58,840 --> 00:50:07,000
+reach that level, they can get through, but during sleep when cleaning process operates, and then
+
+420
+00:50:07,000 --> 00:50:15,240
+the sphincter is open. So solids will slow the emptying of the stomach, and anything that slows
+
+421
+00:50:15,320 --> 00:50:22,600
+the emptying of the stomach will tend to induce satiety and reduce the length of time during which
+
+422
+00:50:22,600 --> 00:50:29,320
+you feel hungry and want to eat. The point here you make about the particles needing to be sub-1
+
+423
+00:50:29,320 --> 00:50:34,840
+millimeter to get past the pylorus is kind of remarkable and gives you a sense of how much
+
+424
+00:50:34,840 --> 00:50:40,200
+mechanical digestion the stomach is doing. I mean, the pH must be helping that, but really there's
+
+425
+00:50:40,200 --> 00:50:45,000
+just got to be a lot of mechanical shearing that goes on of food stuff, correct? Absolutely right.
+
+426
+00:50:45,400 --> 00:50:50,120
+The stomach doesn't get its recognition in this story. When you think about how small a sub-millimeter
+
+427
+00:50:50,120 --> 00:50:55,880
+particle is, and yet how big things of food that make it into your stomach are, and to think that
+
+428
+00:50:55,880 --> 00:51:00,520
+it does this without fine instruments, it wouldn't be hard for me to make a bunch of 1 millimeter
+
+429
+00:51:00,520 --> 00:51:06,040
+pieces if you gave me a knife, but it's doing this basically inside a soft reservoir using
+
+430
+00:51:06,040 --> 00:51:12,520
+contraction and acid. And some enzymes. It is a remarkable structure, but you can live without
+
+431
+00:51:12,520 --> 00:51:17,560
+the stomach. Given everything we've just learned about the stomach, let's talk about an operation
+
+432
+00:51:17,560 --> 00:51:22,600
+where we bypass it, right? One of the most successful operations for the treatment of
+
+433
+00:51:22,600 --> 00:51:28,520
+both obesity and type 2 diabetes is a gastric bypass. What happens in a patient, and this is
+
+434
+00:51:28,520 --> 00:51:36,200
+kind of a remarkable operation in the sense that in an instant their upper GI tract is rerouted.
+
+435
+00:51:36,200 --> 00:51:41,880
+It's not like they had months and months to adapt to something new. I mean, there obviously is an
+
+436
+00:51:41,880 --> 00:51:47,240
+adaptation post-op, but it's an immediate change. Explain to folks what's actually happening in that
+
+437
+00:51:47,240 --> 00:51:54,440
+procedure and how it might explain some of the benefits we see most universally in post-obesity
+
+438
+00:51:54,440 --> 00:52:01,880
+and post-type 2 diabetes. Well, for one thing, why does the stomach just put all those little tiny
+
+439
+00:52:01,880 --> 00:52:10,120
+particles through? That's because if they were to get into the small intestine, it would set up
+
+440
+00:52:11,000 --> 00:52:19,080
+a lot of emergency, don't do this kind of apparatus. In other words, satiety, stop eating
+
+441
+00:52:19,080 --> 00:52:29,800
+signals, go into high gear. And what the gastric bypass is doing is it's triggering that emergency
+
+442
+00:52:29,800 --> 00:52:37,960
+procedure so that you're getting that satiety signal a lot. In other words, the kind of thing
+
+443
+00:52:37,960 --> 00:52:46,760
+that the stomach has evolved to keep in reserve is now coming to the foreground. It's no longer
+
+444
+00:52:46,760 --> 00:52:54,200
+there as an emergency to stop eating because I'm getting overwhelmed with signals. Usually you get
+
+445
+00:52:54,200 --> 00:53:01,880
+this because people, as in the Roman Empire when they would overeat, would force the system. The
+
+446
+00:53:01,880 --> 00:53:09,800
+stomach would dilate so much, they just overwhelmed the body and they ignored the signals. And so
+
+447
+00:53:10,760 --> 00:53:17,640
+the small intestine is there to back that up and get them to stop by making eating just so
+
+448
+00:53:17,640 --> 00:53:24,920
+objectionable that it stops. What the gastric bypass is doing is to make eating so objectionable
+
+449
+00:53:24,920 --> 00:53:33,400
+that it stops sooner and you eat much, much less. That's the goal of it. Another way to do this is
+
+450
+00:53:33,400 --> 00:53:40,520
+to put a band on the stomach and interfere with that process of grinding the food down so large
+
+451
+00:53:40,520 --> 00:53:48,360
+particles do come through the banded stomach and the same thing happens. And that would explain,
+
+452
+00:53:48,360 --> 00:53:56,520
+Mike, why both of these procedures can fail if a patient continues to consume very high-calorie
+
+453
+00:53:56,520 --> 00:54:03,160
+liquids. That's right. High-calorie liquids are the way around it. One of the things I always say to
+
+454
+00:54:03,160 --> 00:54:08,120
+people that are trying to lose weight is a pretty obvious insight, but this provides a better
+
+455
+00:54:08,120 --> 00:54:14,760
+mechanistic explanation for why is try not to drink any calories. Drink water, drink tea, drink coffee,
+
+456
+00:54:14,760 --> 00:54:18,520
+etc., but minimize the number of calories that are coming in via liquid, which includes alcohol,
+
+457
+00:54:18,520 --> 00:54:26,680
+by the way. Yes, and last I saw alcohol is a liquid. Let's talk now a little bit about the role
+
+458
+00:54:26,680 --> 00:54:32,680
+of neurodegenerative diseases and the gut. How long have you personally been interested in this
+
+459
+00:54:32,680 --> 00:54:39,240
+connection between diseases of the CNS and the gut? Oh, probably about 30 years or so.
+
+460
+00:54:40,120 --> 00:54:48,040
+I've recently become, if I might digress for just a second, even more interested in the sense that
+
+461
+00:54:48,040 --> 00:54:55,560
+I've discovered with my wife that the gut is a source of infection by varicella zoster virus,
+
+462
+00:54:55,560 --> 00:55:03,400
+which is the virus of chickenpox and shingles. And so shingles of the gut can occur. That can
+
+463
+00:55:03,400 --> 00:55:08,840
+be very, very serious. So I've never heard of that. Let's give people a bit of background on
+
+464
+00:55:08,840 --> 00:55:14,280
+how varicella zoster remains dormant after you have chickenpox and comes back as shingles. I think
+
+465
+00:55:14,280 --> 00:55:19,000
+people are probably somewhat familiar with that, but maybe worth re-explaining. And then of course,
+
+466
+00:55:19,560 --> 00:55:26,120
+bringing in this new idea that you've just brought up. The word that is generally used is latent
+
+467
+00:55:26,120 --> 00:55:33,320
+rather than dormant, but people get the picture. It's because it's essentially there, but not
+
+468
+00:55:33,400 --> 00:55:40,360
+sleeping. It's just quiet. Anyway, so when you get chickenpox, you clear the virus
+
+469
+00:55:41,240 --> 00:55:45,240
+and it forms what is known as an episome in neurons and just sits there
+
+470
+00:55:45,800 --> 00:55:53,320
+latent without causing infection for years and years and years. And essentially all of us die
+
+471
+00:55:53,320 --> 00:55:59,560
+with the virus that gave us chickenpox. It just stays with you for life. For reasons
+
+472
+00:56:00,360 --> 00:56:10,520
+that are unknown and only be speculated upon, they reactivate. And reactivation gives rise to
+
+473
+00:56:10,520 --> 00:56:17,160
+the re-emergence of active virus. And it always starts in a nerve cell because it's been latent
+
+474
+00:56:17,160 --> 00:56:24,360
+in a nerve cell. That's the site of latency. We know the virus becomes latent when it's in dorsal
+
+475
+00:56:24,360 --> 00:56:32,680
+root ganglia because then it goes down the axon or the process from the dorsal root ganglia into
+
+476
+00:56:32,680 --> 00:56:42,200
+the skin and causes a rash. And because you have immunity, it stays just in the nerve and in the
+
+477
+00:56:42,200 --> 00:56:50,120
+skin and doesn't give you a systemic disease like chickenpox was because when you had chickenpox,
+
+478
+00:56:50,120 --> 00:56:57,400
+you had no immunity. So it stays localized. And because the nerve cells die and become extremely
+
+479
+00:56:57,400 --> 00:57:05,160
+active and they're pain nerve cells, it can be an extremely painful rash. In 15% of people in which
+
+480
+00:57:05,160 --> 00:57:13,000
+that happens, there's a condition called postherpetic neuralgia or PHN in which pain persists for years.
+
+481
+00:57:13,720 --> 00:57:20,680
+That is very difficult to treat. And some people are driven to suicide because of this uncontrollable pain.
+
+482
+00:57:21,720 --> 00:57:26,360
+Mike, is that not something that's amenable to nerve killing? You know, for example,
+
+483
+00:57:26,360 --> 00:57:30,840
+they can sclerosis the dorsal root ganglion from which the pain is emanating?
+
+484
+00:57:30,840 --> 00:57:37,240
+No, there's no good at all. It's pathological pain. And the virus isn't there. The nerve cells
+
+485
+00:57:37,240 --> 00:57:44,200
+are no longer causing the pain. It's coming from within the CNS. It's sort of like a phantom limb
+
+486
+00:57:44,200 --> 00:57:50,440
+in which people cut off a limb and people have the feeling the limb is still there, but it's not.
+
+487
+00:57:51,080 --> 00:57:56,920
+So it's very difficult, as I've said, to treat. There are some drugs that do some good like
+
+488
+00:57:56,920 --> 00:58:04,600
+gabapentin, but nothing is wonderful. What is it about the varicella zoster virus that produces
+
+489
+00:58:04,600 --> 00:58:11,240
+this very peculiar inability to die even after the immune system gets ahead of it? Back when I
+
+490
+00:58:11,240 --> 00:58:15,800
+was a kid and you were a kid, we all got chicken pox. I think today they even vaccinate kids,
+
+491
+00:58:15,800 --> 00:58:19,720
+don't they? Yes, my wife developed that vaccine. She's famous for that.
+
+492
+00:58:20,280 --> 00:58:26,680
+Oh, wow. So despite either natural immunity or vaccine induced immunity, when this virus comes
+
+493
+00:58:26,680 --> 00:58:32,040
+into you, it stays, as you said, and remains latent in the dorsal root ganglion. Why is that
+
+494
+00:58:32,040 --> 00:58:37,000
+the case? Why doesn't the immune system completely eradicate it like it does in virtually every other
+
+495
+00:58:37,000 --> 00:58:43,160
+virus we encounter? Because when the virus is in a nerve cell, the immune system can't see it.
+
+496
+00:58:43,160 --> 00:58:47,960
+I see. So this is more of an artifact of where this virus likes to spend its time
+
+497
+00:58:47,960 --> 00:58:54,120
+or where it retreats to maybe is a better way to describe it. Let's call it a sequestered virus,
+
+498
+00:58:54,120 --> 00:59:01,480
+and it sits as a piece of DNA inside of your body and your immune system can't see it because it's
+
+499
+00:59:01,480 --> 00:59:07,160
+not expressed on the surface of the nerve cells that have it. The immune system has a very good
+
+500
+00:59:07,160 --> 00:59:13,720
+look at it when it re-emerges and you attack it, kill the cells in which it re-emerges,
+
+501
+00:59:14,440 --> 00:59:20,440
+but pain can continue in a small number of people, even so. What we've discovered,
+
+502
+00:59:21,000 --> 00:59:29,000
+much to our chagrin, is that the enteric nervous system can be infected by this virus when you
+
+503
+00:59:29,000 --> 00:59:36,440
+have chickenpox or when you get the live virus vaccine. It can establish latency within the
+
+504
+00:59:36,440 --> 00:59:41,960
+intrinsic nervous system of the gut, in the enteric nervous system, and when it re-arises,
+
+505
+00:59:42,680 --> 00:59:51,320
+even if it gets killed by the immune system, it's killing nerve cells. And so you get diseases such
+
+506
+00:59:51,320 --> 00:59:58,200
+as pseudoobstruction in which the gut loses the ability to work and just becomes totally paralyzed,
+
+507
+00:59:58,840 --> 01:00:04,680
+or if the virus emerges and gets into the mucosa, the gut can perforate.
+
+508
+01:00:05,240 --> 01:00:07,560
+And what's the frequency that this happens in?
+
+509
+01:00:07,560 --> 01:00:14,200
+We don't know. It's just been discovered. The most shocking thing that we've just published on with
+
+510
+01:00:14,200 --> 01:00:21,800
+this is that it gets into the nerve cells and re-emerges in the esophagus and causes a disease
+
+511
+01:00:21,800 --> 01:00:29,240
+called acholasia. And the ability of the esophagus to deliver food to the stomach is lost.
+
+512
+01:00:29,800 --> 01:00:33,160
+The esophagus can't open, so you can't swallow it all.
+
+513
+01:00:33,880 --> 01:00:38,920
+And just to be clear, this can occur during primary infection or reinfection,
+
+514
+01:00:38,920 --> 01:00:40,680
+or is this just during reinfection?
+
+515
+01:00:40,680 --> 01:00:42,040
+Just during reinfection.
+
+516
+01:00:42,760 --> 01:00:46,280
+What triggers the reinfection? I mean, I think most people understand that...
+
+517
+01:00:46,280 --> 01:00:51,720
+If I could answer that question, I believe I could get an all-expenses-paid
+
+518
+01:00:51,720 --> 01:00:54,360
+trip to Stockholm in December.
+
+519
+01:00:55,080 --> 01:01:02,280
+And if not there, at a minimum, you would probably get free dinner at Red Lobster every Tuesday for
+
+520
+01:01:02,280 --> 01:01:07,560
+the rest of your life. That's the second prize after the Nobel Prize. Yeah, it's interesting.
+
+521
+01:01:07,560 --> 01:01:11,480
+I mean, we know it's a disease associated with aging, or the reactivation is associated with
+
+522
+01:01:11,480 --> 01:01:15,720
+aging. And we know that things like weakened immune system can see it, I think, in the early
+
+523
+01:01:15,720 --> 01:01:20,040
+days of HIV, we would see patients. A weakened immune system is part of it,
+
+524
+01:01:20,040 --> 01:01:26,040
+and that's how you get to aging. That sets the stage. It seems likely that the virus
+
+525
+01:01:26,840 --> 01:01:33,640
+keeps reactivating periodically throughout your life, and that when you have shingles,
+
+526
+01:01:34,200 --> 01:01:42,040
+just exceed a threshold because the immune system has receded just enough to let it out,
+
+527
+01:01:42,920 --> 01:01:46,200
+reach the clinical threshold. That's the idea.
+
+528
+01:01:46,920 --> 01:01:51,960
+And the current vaccine that we have, Mike, the shingric vaccine, the two-shot separated by six
+
+529
+01:01:51,960 --> 01:01:57,480
+months, this has been kind of a step forward, correct? That has been a giant leap forward.
+
+530
+01:01:57,480 --> 01:02:04,040
+That's been amazing. And the purpose of that vaccine is just to prime our immune system
+
+531
+01:02:04,840 --> 01:02:13,320
+to the virus once again, to either catch it more quickly if it escapes the RG or...
+
+532
+01:02:14,040 --> 01:02:21,480
+Even more important, the enteric dose, it's about 97% effective. Remarkable vaccine.
+
+533
+01:02:22,600 --> 01:02:27,400
+Yeah, I got mine early. I'm not quite 50 yet, but I was like, ah, what the heck am I waiting for?
+
+534
+01:02:27,960 --> 01:02:33,000
+And the other thing I'll tell you is what a kick in the chops that vaccine is. That makes you sick.
+
+535
+01:02:33,640 --> 01:02:39,720
+Actually, interestingly, the older you are when you get it, the less likely you are to be bothered
+
+536
+01:02:39,720 --> 01:02:46,360
+by the injection. I'm reaping the benefits of my young immune system as I get butchered by the
+
+537
+01:02:46,360 --> 01:02:55,640
+shingric shot. What about diseases like autism? Children with autism seem to have, as the severity
+
+538
+01:02:55,640 --> 01:03:01,000
+of their illness goes up, an increase in the prevalence of gastrointestinal illnesses.
+
+539
+01:03:01,000 --> 01:03:06,920
+How well acknowledged is that? Is that loosely accepted or is that now becoming more accepted?
+
+540
+01:03:07,800 --> 01:03:09,160
+It's so accepted. What does that tell us? Right.
+
+541
+01:03:10,120 --> 01:03:13,080
+What can we take from that? What does that suggest potentially?
+
+542
+01:03:13,960 --> 01:03:22,760
+Well, autism is a disease involving probably synaptic transmission. It occurs in the CNS,
+
+543
+01:03:23,640 --> 01:03:29,560
+the well-known behavioral effects. It occurs also in the enteric nervous system
+
+544
+01:03:30,120 --> 01:03:38,920
+with small effects on the GI tract, some of which are constipation but more frequently diarrhea.
+
+545
+01:03:40,040 --> 01:03:44,360
+There also seems to be a higher degree of food sensitivities and allergies, doesn't there?
+
+546
+01:03:44,360 --> 01:03:52,120
+Yes. That's not so well understood, but it does seem to be related to activation of mass cells.
+
+547
+01:03:53,320 --> 01:03:59,480
+Spoken with many parents of kids with autistic children and a lot of them are pretty convinced
+
+548
+01:03:59,720 --> 01:04:05,560
+that if they pay more attention to what their kids eat, they can reduce the severity of their
+
+549
+01:04:05,560 --> 01:04:13,960
+symptoms. This would not seem like an entirely unreasonable idea given the simple observation
+
+550
+01:04:13,960 --> 01:04:21,480
+of this association, correct? It wouldn't seem to be unreasonable, but having said that, I would
+
+551
+01:04:21,480 --> 01:04:29,080
+like to point out to you that there's no regularity to the symptoms that you can point to. It's hard
+
+552
+01:04:29,080 --> 01:04:36,680
+to back it up and people have been unable to produce any sort of rigorous background for that,
+
+553
+01:04:36,680 --> 01:04:42,920
+so that when you put controls and constant observation, you just can't document it.
+
+554
+01:04:43,480 --> 01:04:49,720
+There must be so much variability that it almost seems like you have to be kind of empirical in
+
+555
+01:04:49,720 --> 01:04:54,920
+approach and probably no hate the term, but no one size fits all here, which is stating the obvious,
+
+556
+01:04:55,800 --> 01:05:03,080
+I suppose. I should also point out that the area is a bit fraught because in 1991,
+
+557
+01:05:03,800 --> 01:05:10,200
+a British gastroenterologist by the name of Andrew Wakefield published a study
+
+558
+01:05:10,200 --> 01:05:16,600
+in for a large number of children, not a large numbers. Yeah, it was actually a very small number.
+
+559
+01:05:16,600 --> 01:05:22,280
+We actually did a podcast on this entire subject matter, Mike. Oh, did you? Yeah, yeah. But by all
+
+560
+01:05:22,280 --> 01:05:26,440
+means, go ahead and tell the story because not everyone will have heard that podcast with Brian
+
+561
+01:05:26,440 --> 01:05:35,240
+Deer. Oh, well, he knows much more about it than I do. But in any case, Wakefield associated it with
+
+562
+01:05:35,240 --> 01:05:44,760
+GI inflammation. And his idea was that if you ate gluten containing material, you could produce
+
+563
+01:05:45,640 --> 01:05:53,560
+from what you were eating, what he called endorphins. That is, you'd eat an opiate like material.
+
+564
+01:05:54,280 --> 01:06:00,600
+Magically, the enzymes, the digestive tract would liberate opiate like products.
+
+565
+01:06:01,240 --> 01:06:05,880
+You'd absorb these opiate like substances and they would go to the immature,
+
+566
+01:06:06,680 --> 01:06:15,560
+developing nervous system and cause autism. That is not the case. And his idea was that if you got
+
+567
+01:06:15,560 --> 01:06:23,240
+measles, mumps and rubella vaccine, it would cause the defect in the gut, which could lead to the
+
+568
+01:06:23,240 --> 01:06:34,520
+absorption of these products. That was also incorrect. You can't train an enzyme to cut
+
+569
+01:06:34,520 --> 01:06:41,400
+something differently than the way the genes have programmed it to. So that trypsin looks for
+
+570
+01:06:41,400 --> 01:06:48,760
+particular amino acids and cuts proteins there. It doesn't care what kind of endorphin is sitting
+
+571
+01:06:48,760 --> 01:06:55,560
+somewhere else. Nothing can ever make it cut that out. And then when it gets peptides out,
+
+572
+01:06:56,120 --> 01:07:02,920
+peptides are essentially not absorbed. The only thing that's absorbed are amino acids, maybe
+
+573
+01:07:02,920 --> 01:07:10,600
+dipeptides, tripeptides. So tiny little molecules are absorbed. Yeah, let's make sure people
+
+574
+01:07:10,600 --> 01:07:16,040
+understand the difference there. Amino acids are the building blocks of peptides. A peptide is a
+
+575
+01:07:16,040 --> 01:07:22,680
+string of amino acids, but the amino acid is the smallest functional unit that makes up a protein.
+
+576
+01:07:22,680 --> 01:07:27,400
+So we have these 20 amino acids and you can string them together in thousands and thousands to make
+
+577
+01:07:27,400 --> 01:07:34,440
+complex proteins. But small peptide of 9 to 11 amino acids, for example, would be what the immune
+
+578
+01:07:34,440 --> 01:07:40,280
+system recognizes. And what you're saying, Mike, is from a GI standpoint, they have to be even
+
+579
+01:07:40,280 --> 01:07:45,720
+smaller than an immunogenic peptide if they're only sort of single amino acids or maybe two
+
+580
+01:07:45,720 --> 01:07:51,720
+peptides or two amino acids joined. That's correct. That gets absorbed. But even if there was some
+
+581
+01:07:51,720 --> 01:07:55,800
+miracle happened and they got absorbed, they couldn't get to the blood-brain barrier. They
+
+582
+01:07:55,800 --> 01:08:03,400
+wouldn't, in fact, go past the liver. So I testified, actually, to Congress on that subject.
+
+583
+01:08:04,360 --> 01:08:08,680
+Yeah, it's funny. Now that I think about it, Mike, I think you were actually mentioned in Brian Deere's
+
+584
+01:08:08,680 --> 01:08:15,960
+book. I might have been. There was an exhibit at the Science Museum in London called The Autism
+
+585
+01:08:15,960 --> 01:08:24,280
+Files. And I had a section called Mike's Miracles. And Mike's Miracles had to do with the way I was
+
+586
+01:08:24,280 --> 01:08:31,720
+phrasing it when I testified to Congress. And I was threatened then by Congress.
+
+587
+01:08:31,720 --> 01:08:33,160
+You were threatened?
+
+588
+01:08:33,160 --> 01:08:40,040
+Yes. I was told that if I didn't recant my testimony, I would be charged with perjury.
+
+589
+01:08:40,040 --> 01:08:41,160
+I'm not sure I understand.
+
+590
+01:08:41,720 --> 01:08:50,040
+So I testified at the Congressional Committee on Government Oversight. And the chair of the
+
+591
+01:08:50,040 --> 01:08:57,800
+committee did not like my testimony in a major way. In fact, he had to be restrained from throwing
+
+592
+01:08:57,800 --> 01:09:05,320
+a gavel at me. And after that, when I went cringing into the cloakroom afterward,
+
+593
+01:09:05,960 --> 01:09:10,520
+Congressman Waxman from California came over to me and gave me a high five.
+
+594
+01:09:11,240 --> 01:09:16,920
+Remind me the name I've forgotten now. What was the name of the congressman who was adamant that
+
+595
+01:09:16,920 --> 01:09:18,040
+Wakefield was right?
+
+596
+01:09:19,000 --> 01:09:24,120
+You've got me. I can't believe it. I'm trying to think of the name. I was afraid you were going
+
+597
+01:09:24,120 --> 01:09:25,720
+to ask me that question.
+
+598
+01:09:25,720 --> 01:09:29,640
+Yes. Now this is all kind of coming back to me like a horrible bad dream.
+
+599
+01:09:30,200 --> 01:09:37,240
+His grandson had autism and he was sure he got it from his vaccine. He said he could see this
+
+600
+01:09:37,240 --> 01:09:42,360
+wonderful child develop autism before they even got the needle out of his arm.
+
+601
+01:09:43,160 --> 01:09:48,920
+I know it'll come to one of us as we continue this discussion. Let's talk about serotonin before we
+
+602
+01:09:48,920 --> 01:09:56,840
+go further because serotonin levels are higher in at least a subset of kids with ASD.
+
+603
+01:09:58,120 --> 01:10:03,400
+And most people when they think of serotonin, they associate it with a hormone in the brain
+
+604
+01:10:04,120 --> 01:10:10,600
+that is responsible for mood. Can you say a little bit more about serotonin and in particular the role
+
+605
+01:10:10,600 --> 01:10:11,880
+of serotonin in the gut?
+
+606
+01:10:13,000 --> 01:10:20,280
+Well, serotonin is a molecule that I've been working on since college. I did my senior thesis
+
+607
+01:10:20,280 --> 01:10:27,720
+on serotonin when I graduated from Cornell in 1958, probably when dinosaurs roamed the
+
+608
+01:10:27,720 --> 01:10:36,680
+earth when I was young. In any case, serotonin was discovered actually in the gut.
+
+609
+01:10:36,680 --> 01:10:42,680
+Enterochromosin cells, which are an endocrine cell of the gut, are responsible for making about
+
+610
+01:10:42,680 --> 01:10:50,520
+95 percent of the body serotonin. The brain produces about two to three percent of the body
+
+611
+01:10:50,520 --> 01:10:59,240
+serotonin. So although the brain serotonin is probably what makes life worthwhile by that is
+
+612
+01:10:59,240 --> 01:11:06,440
+living and is responsible for happiness among other things, in terms of amounts it's a little
+
+613
+01:11:06,680 --> 01:11:15,960
+afterthought of evolution. So within the gut, serotonin is made in two places. The bulk of it
+
+614
+01:11:15,960 --> 01:11:23,000
+is made, as I've just said, in the endroendocrine cells, which are the small endocrine cells that
+
+615
+01:11:23,000 --> 01:11:29,880
+are part of the GI epithelium. It's a minor component of the epithelium, but a major component
+
+616
+01:11:29,880 --> 01:11:36,840
+functionally of what the gut does. About 80 percent of the endocrine cells make serotonin.
+
+617
+01:11:37,720 --> 01:11:43,320
+The other source is serotonin containing nerve cells within the enterochromosin system.
+
+618
+01:11:44,280 --> 01:11:51,880
+So it is a neurotransmitter and an endocrine substance in the gut. It's very important in
+
+619
+01:11:51,880 --> 01:12:01,000
+feeling pain in the gut. It's very important in triggering nausea. So in sending signals
+
+620
+01:12:01,000 --> 01:12:06,840
+from the gut to the brain, serotonin is an important transmitting substance.
+
+621
+01:12:08,120 --> 01:12:17,800
+During development, serotonin is very important as a growth factor. The first nerve cells to form
+
+622
+01:12:17,800 --> 01:12:27,400
+in the gut make serotonin. Subsequent nerve cells depend on serotonin, triggers them to develop.
+
+623
+01:12:28,680 --> 01:12:34,920
+So if you knock serotonin out of the nervous system, the gut winds up with too few neurons.
+
+624
+01:12:34,920 --> 01:12:42,040
+It doesn't have enough and it doesn't work very well. If you knock serotonin out of the epithelium,
+
+625
+01:12:42,920 --> 01:12:51,960
+then there's problems signaling back to the brain. The peristalsic reflex is impaired.
+
+626
+01:12:53,000 --> 01:12:59,560
+It's not stopped, but it's impaired because the enteroendocrine cells in the gut can trigger
+
+627
+01:12:59,560 --> 01:13:07,240
+peristaltic waves that are propulsive. But if you lose that, then in order to trigger it, you have
+
+628
+01:13:07,240 --> 01:13:15,000
+to press harder and harder and dilate the gut and get the nervous system to do this directly.
+
+629
+01:13:15,640 --> 01:13:22,120
+It's highly involved within the gut and it also talks to the immune system. So it triggers
+
+630
+01:13:22,120 --> 01:13:28,760
+inflammation. As you might imagine from the amount of it that's in the bowel, it does everything.
+
+631
+01:13:29,640 --> 01:13:36,520
+It's a pan function, multifunctional molecule. Now there's a class of medication, of course,
+
+632
+01:13:36,520 --> 01:13:42,600
+that are used to treat the symptoms of depression and in some cases anxiety. And these medications,
+
+633
+01:13:42,600 --> 01:13:49,720
+SSRIs, prevent the reuptake of serotonin, this neurotransmitter in the brain, presumably leaving
+
+634
+01:13:49,720 --> 01:13:57,080
+more of it around to exert positive effects. What are the effects of SSRIs outside of the CNS?
+
+635
+01:13:57,080 --> 01:14:05,640
+Do they impact the gut specifically? Yes, they tend to cause nausea by enhancing the ability
+
+636
+01:14:05,640 --> 01:14:13,160
+of serotonin to talk back to the brain to trigger nausea. Drugs that are used in cancer chemotherapy
+
+637
+01:14:13,720 --> 01:14:20,520
+also trigger the release of serotonin within the gut and trigger that reflex. Same one.
+
+638
+01:14:21,080 --> 01:14:30,360
+The SSRIs also first make the gut go a little bit faster, but then when the gut keeps doing that,
+
+639
+01:14:30,360 --> 01:14:38,920
+the receptors, that is the molecules upon which serotonin acts, desensitize. One way they do that
+
+640
+01:14:38,920 --> 01:14:46,360
+is to internalize and so they can actually block the effect of serotonin and transit.
+
+641
+01:14:46,360 --> 01:14:53,400
+So in terms of motility, they can make the gut go faster and ultimately they stop the gut
+
+642
+01:14:54,360 --> 01:15:01,720
+and give rise to long-term constipation and have to be stopped. So they're nauseating,
+
+643
+01:15:01,720 --> 01:15:09,880
+they change motility, and during development if you give them to a mouse during fetal development
+
+644
+01:15:09,880 --> 01:15:14,360
+that is given to the mother during fetal development, you get an abnormal nervous
+
+645
+01:15:14,360 --> 01:15:20,840
+system in the mouse's nervous system because of the effect during fetal life.
+
+646
+01:15:21,800 --> 01:15:24,680
+Are SSRIs contraindicated in pregnancy?
+
+647
+01:15:25,400 --> 01:15:32,680
+They are used frequently and in large numbers, large amounts in pregnancy because pregnancy is
+
+648
+01:15:32,680 --> 01:15:39,400
+very often associated with depression. Fortunately, most commonly, postpartum, but even then it's a
+
+649
+01:15:39,400 --> 01:15:47,640
+problem because SSRIs can be communicated to the child in breast milk. But there is evidence that
+
+650
+01:15:47,720 --> 01:15:55,080
+a number of conditions are increased, such as irritable bowel syndrome in the offspring of
+
+651
+01:15:55,080 --> 01:16:02,360
+mothers who are treated with SSRIs during pregnancy. Is that understood by the physicians
+
+652
+01:16:02,360 --> 01:16:07,320
+that prescribe them? And obviously there were going to be scenarios where those risks are worth it.
+
+653
+01:16:07,320 --> 01:16:15,320
+Yeah, people worry about it. But let me tell you, depression is a potentially lethal illness.
+
+654
+01:16:16,280 --> 01:16:22,440
+And if you've got something in which to treat it, sometimes you just have to use it.
+
+655
+01:16:23,560 --> 01:16:27,880
+Yeah, I just wonder if, because there are alternatives, right? I mean SNRIs
+
+656
+01:16:27,880 --> 01:16:31,000
+can also be very efficacious, presumably they don't have the same effect.
+
+657
+01:16:31,880 --> 01:16:39,320
+They do have some of the same effects because the SNRIs, serotonin and norepinephrine,
+
+658
+01:16:39,320 --> 01:16:41,320
+we have taken here, but they're just less.
+
+659
+01:16:41,320 --> 01:16:42,680
+Less serotonin.
+
+660
+01:16:42,680 --> 01:16:49,160
+Not less serotonin, less selective for serotonin. They include norepinephrine as well. So that
+
+661
+01:16:49,160 --> 01:16:54,840
+doesn't get you anywhere. Let's talk a little bit about leaky gut. This is a term I think a lot of
+
+662
+01:16:54,840 --> 01:16:59,480
+people have heard of, and I think they sort of maybe get the gestalt of. But in the context of
+
+663
+01:17:00,040 --> 01:17:06,200
+everything we've been discussing where we now have a pretty clear sense of what these
+
+664
+01:17:06,200 --> 01:17:11,400
+enterocytes are up against on their one side, on the luminal side, they've got just
+
+665
+01:17:12,200 --> 01:17:20,760
+never-ending barrage of toxins, microorganisms, bacteria viruses, food stuff that have to be
+
+666
+01:17:20,760 --> 01:17:26,440
+absorbed. At the same time, they can't be digested by these things. We didn't talk about tight
+
+667
+01:17:26,440 --> 01:17:29,880
+junctions specifically. Do you want to maybe tell people what the tight junctions are that
+
+668
+01:17:29,880 --> 01:17:30,840
+sit between these things?
+
+669
+01:17:32,040 --> 01:17:39,400
+Epithelia are the cells that line cavities. Epithelia have three types of junctions that
+
+670
+01:17:39,400 --> 01:17:48,120
+hold the cells together. One type is called a desmosome or a spot weld, just very tenacious,
+
+671
+01:17:48,840 --> 01:17:55,640
+hard to pull out connection between the cells. Another one is called the tight junction.
+
+672
+01:17:56,600 --> 01:18:04,280
+Tight junction has protein in the membrane on one cell, forms an attraction to the membrane across
+
+673
+01:18:04,280 --> 01:18:12,600
+the cell, transmembrane, and it obliterates the space between two cells. So the function of tight
+
+674
+01:18:12,600 --> 01:18:20,520
+junctions is to prevent material going through the channel between two epithelial cells. It's a plug
+
+675
+01:18:20,520 --> 01:18:26,840
+in the bathtub. There's another junction called an adhesion junction, which is essentially like
+
+676
+01:18:26,840 --> 01:18:34,280
+the spot weld, but it also is contractile. But let's concentrate on the tight junction because
+
+677
+01:18:34,280 --> 01:18:40,680
+that's what we're now talking about. And the more of these tight junctions you have between two
+
+678
+01:18:40,680 --> 01:18:51,400
+epithelial cells, the less leaky or permeable that connection is between them. So anything that
+
+679
+01:18:51,400 --> 01:19:00,360
+interferes with tight junctions can make the channel open and allow material from the lumen
+
+680
+01:19:00,360 --> 01:19:08,760
+to get into the body, but at the same time allow material within the body to get into the lumen.
+
+681
+01:19:09,880 --> 01:19:17,400
+And material going into the lumen is very dangerous because, as I've told you,
+
+682
+01:19:17,960 --> 01:19:24,280
+anything going into the lumen is lost from the body. And so if you open tight junctions
+
+683
+01:19:24,840 --> 01:19:29,160
+in the lining of the gut, you can essentially flow out into your bowel.
+
+684
+01:19:30,040 --> 01:19:36,200
+And Mike, besides the obvious, which would be water or electrolytes, is there ever
+
+685
+01:19:36,200 --> 01:19:42,440
+scenario where nutrients that were actually absorbed now go back into the lumen?
+
+686
+01:19:43,080 --> 01:19:49,800
+Absolutely. And worse than that, protein from the body. It turns out that underneath the lining of
+
+687
+01:19:49,800 --> 01:19:58,360
+the gut, capillaries are very permeable, and there's a lot of protein in the lymph, the fluid,
+
+688
+01:19:58,360 --> 01:20:05,160
+underneath the lining. And so if you open the lining of the gut, that protein gets into the GI
+
+689
+01:20:05,160 --> 01:20:12,760
+tract, and that's a disease called exudative enteropathy. You lose protein, and people with
+
+690
+01:20:12,760 --> 01:20:19,640
+that disease can blow up and look like balloons because edema goes all over the body. It's a
+
+691
+01:20:19,640 --> 01:20:26,360
+terrible thing. So Mike, what would you say is the most common cause of leaky gut? Allergy.
+
+692
+01:20:26,360 --> 01:20:32,840
+Okay, so meaning there is hypersensitivity. That is, the immune system is reacting
+
+693
+01:20:33,400 --> 01:20:39,960
+and causing tight junctions to open. Is this an allergy in the food specifically because the
+
+694
+01:20:39,960 --> 01:20:48,920
+allergen is in the lumen? Not always. For example, bee sting can cause this or can be injected,
+
+695
+01:20:48,920 --> 01:20:55,160
+or some other way that you can get a toxin that can do this. I want to ask a question going back
+
+696
+01:20:55,160 --> 01:20:58,920
+to something you said earlier that I never really have thought about until now, but I've never
+
+697
+01:20:58,920 --> 01:21:03,320
+thought this deeply about the gut. You know when they say a shark, like great white sharks have
+
+698
+01:21:03,320 --> 01:21:07,720
+multiple rows of teeth so that they're kind of constantly just pushing forward so when teeth
+
+699
+01:21:07,720 --> 01:21:12,840
+fall off, you kind of have new ones that have already grown into place. How does this epithelial
+
+700
+01:21:12,840 --> 01:21:20,120
+layer replace itself while preserving the tight junction? We're talking about every week or so
+
+701
+01:21:20,680 --> 01:21:25,320
+these epithelial cells slough off and new ones are present. Does that mean we have
+
+702
+01:21:25,320 --> 01:21:31,560
+several rows of them ready to sort of spring into action already tightly bound to their neighbors?
+
+703
+01:21:31,560 --> 01:21:39,080
+Or how does that happen to preserve the integrity? The gut is arranged lining the small intestine
+
+704
+01:21:39,640 --> 01:21:45,240
+and to a lesser extent the large intestine so that the gut lining is highly folded.
+
+705
+01:21:46,520 --> 01:21:54,520
+And there are projections that come up from the surface of the gut that look like fingers.
+
+706
+01:21:55,320 --> 01:22:02,600
+These are called villi. So most absorption occurs on the surfaces of these villi.
+
+707
+01:22:03,320 --> 01:22:12,360
+Now between the villi there are clefts called crypts and at the base of crypts there are stem cells
+
+708
+01:22:13,080 --> 01:22:19,720
+and the stem cells which live next to this other cell that I mentioned earlier called the paneth
+
+709
+01:22:19,720 --> 01:22:28,280
+cell can give rise to each of the cells that form the villi or line the gut. And there's an
+
+710
+01:22:28,280 --> 01:22:36,360
+escalation of those cells. The progeny of the stem cells keep rising so as new ones form
+
+711
+01:22:37,560 --> 01:22:45,640
+other ones move up. In part the proliferation in the crypt produces a pressure that causes cells
+
+712
+01:22:45,640 --> 01:22:53,240
+to rise as they differentiate but they're also mobile so they crawl a little bit as well. And if
+
+713
+01:22:53,240 --> 01:22:59,880
+you wound the lining of the gut then adjacent cells can crawl over the space and cut it off.
+
+714
+01:23:00,520 --> 01:23:08,680
+At the tips of the villi there's a zone called the extrusion zone and so the cells are born
+
+715
+01:23:09,320 --> 01:23:15,320
+at the base of a crypt climb up the crypt up the villus reach the tip of the villus
+
+716
+01:23:16,520 --> 01:23:24,280
+die and are poofed off at that point. So they stay in contact with one another
+
+717
+01:23:24,280 --> 01:23:32,280
+and the tight junctions are finally lose it when the cells die or the desmosomes and they pop off.
+
+718
+01:23:33,240 --> 01:23:40,200
+So the mechanism of death is called apoptosis so they're programmed to die.
+
+719
+01:23:41,240 --> 01:23:46,520
+We talked about the importance of toxins, allergies, things like that playing a role in
+
+720
+01:23:46,520 --> 01:23:54,600
+leaky and inflamed gut cells. Are there any reputable assays that can identify what these
+
+721
+01:23:54,600 --> 01:24:01,000
+are in an individual that has otherwise vague symptoms? If somebody has a substantially leaky
+
+722
+01:24:01,080 --> 01:24:11,720
+gut you would guess it from making a determination of the serum protein albumin. If the gut is leaking
+
+723
+01:24:12,520 --> 01:24:19,800
+albumin will be low and so if you see a low albumin you can look for it. If you think it's true
+
+724
+01:24:20,840 --> 01:24:30,200
+you can look for an enzyme called alpha 1 antitrypsin. Tripsin is produced by the pancreas
+
+725
+01:24:30,200 --> 01:24:38,840
+antitrypsin blocks it, its action and it gets into the lining into the gut. It should not be
+
+726
+01:24:38,840 --> 01:24:45,480
+absorbed. It's a measurement that will tell you whether the gut is leaking or not. By the way
+
+727
+01:24:45,480 --> 01:24:51,240
+there's an alpha 1 antitrypsin deficiency disease isn't there it's a hereditary condition? Yes.
+
+728
+01:24:51,240 --> 01:24:57,400
+What do those patients present with? Usually vascular and lung disease because there's too
+
+729
+01:24:57,400 --> 01:25:05,720
+much digestive action damaging in those organs. I think I said it wrong. Alpha 1 antitrypsin is on
+
+730
+01:25:05,720 --> 01:25:14,040
+the luminal side, sorry, on the vascular side and if it gets into the stool that's the problem.
+
+731
+01:25:14,040 --> 01:25:20,440
+I see. So we shouldn't be seeing it in the stool? Correct. Do you have to see low albumin to make
+
+732
+01:25:20,440 --> 01:25:26,120
+the diagnosis of leaky gut? Because that's a very significant leaky gut. I mean if a person is
+
+733
+01:25:26,120 --> 01:25:32,680
+exuding protein to the level where it shows up in their serum albumin that would strike me as a
+
+734
+01:25:32,680 --> 01:25:38,120
+lot of leak correct? Correct. Are there milder leaks that don't allow something as massive as
+
+735
+01:25:38,120 --> 01:25:47,240
+albumin to escape but do allow toxins and microorganisms in? That is now getting onto the level
+
+736
+01:25:47,240 --> 01:25:54,920
+of controversy but it has probably not toxins in, at least not to a great extent.
+
+737
+01:25:55,880 --> 01:26:03,080
+Maybe a little bit, yes, and take it back a little bit and you can look for those by giving
+
+738
+01:26:03,960 --> 01:26:13,400
+various peptides or fluorescein or dyes that measure it by oral that should be excluded
+
+739
+01:26:13,400 --> 01:26:20,840
+from the blood and seeing if the fluorescence gets into the blood or you can measure it with
+
+740
+01:26:20,840 --> 01:26:27,400
+certain sugars that should not be absorbed and if the non-absolvable sugar gets into the body,
+
+741
+01:26:28,040 --> 01:26:34,840
+then you assume this is slightly of the kind you're talking about. And do we think that there
+
+742
+01:26:34,840 --> 01:26:41,400
+is a causal relationship between leaky gut and autism spectrum disorder or do we think that
+
+743
+01:26:41,400 --> 01:26:47,240
+these are things that move together for a similar underlying pathology? The problem in
+
+744
+01:26:47,240 --> 01:26:54,760
+the gut in autism spectrum disorder is a disorder of the nervous system. It has nothing to do with
+
+745
+01:26:54,760 --> 01:27:01,480
+leaky gut. That's part of the Wakefield hypothesis, leaky gut, no evidence that that's correct.
+
+746
+01:27:02,440 --> 01:27:07,320
+Let's go back and explain again now that we've talked more about serotonin. What do we think is
+
+747
+01:27:07,320 --> 01:27:14,760
+the relationship between, do we see more leaky gut in ASD? Not really. Let me give you an
+
+748
+01:27:14,760 --> 01:27:26,920
+illustration. My collaborators and I have produced a mouse called G56A. This mouse has a mutation
+
+749
+01:27:26,920 --> 01:27:36,120
+in the serotonin transporter. The serotonin transporter is the protein that you spoke of
+
+750
+01:27:36,120 --> 01:27:46,280
+before that is the target of SSRIs. It is what the SSRIs inhibit and which remove serotonin
+
+751
+01:27:46,280 --> 01:27:55,160
+from the circulation or from the synaptic cleft when it's a neurotransmitter. What this mutation
+
+752
+01:27:55,160 --> 01:28:04,280
+does though is not inhibit CERT but make it more active. So CERT becomes what I like to call the
+
+753
+01:28:04,280 --> 01:28:13,080
+super CERT mouse. This animal has essentially a deficiency of serotonin. It is so effective at
+
+754
+01:28:13,080 --> 01:28:22,040
+inactivating serotonin after its release that it doesn't have a chance to act. So that animal has
+
+755
+01:28:22,760 --> 01:28:32,520
+a smaller nervous system in the gut, too few neurons, and it has slow transit, and it has a
+
+756
+01:28:32,520 --> 01:28:40,840
+problem in the gut. In the brain, it doesn't socially interact with other mice. If you put
+
+757
+01:28:40,840 --> 01:28:48,920
+them in a tube, two mice convene. One with the mutation backs out and lets the other mouse through
+
+758
+01:28:48,920 --> 01:28:56,040
+all the time. And it has repetitive behaviors. It keeps tapping its foot, hitting its head against
+
+759
+01:28:56,040 --> 01:29:05,640
+the side of the cage. So it has central features that look like autism, and it has a GI tract which
+
+760
+01:29:05,640 --> 01:29:16,680
+is abnormal. Abdomenolity is seen in about 2% of patients with ASD. So it was the human abnormality
+
+761
+01:29:16,680 --> 01:29:27,720
+put into mouse. Now it's not the cause of autism, but it's a sort of test case. It's one of the many
+
+762
+01:29:27,720 --> 01:29:36,440
+genes that can give rise to autism. Put into a mouse shows autism and also defect in the gut.
+
+763
+01:29:37,320 --> 01:29:44,360
+The defect in the gut has to do with serotonin and the ability of serotonin to act as a growth
+
+764
+01:29:44,360 --> 01:29:52,200
+factor. So there's a deficiency in terms of numbers of nerve cells in the bowel. In a patient
+
+765
+01:29:52,200 --> 01:30:00,360
+with autism spectrum disorder, similar kinds of things happen. This, by the way, is exactly the
+
+766
+01:30:00,360 --> 01:30:11,480
+opposite effect of giving a mouse during development an SSRI. So if you give a mother SSRI, they get
+
+767
+01:30:11,480 --> 01:30:17,640
+too many nerve cells growing in the gut. If you knock out the transporter, you have too many nerve
+
+768
+01:30:17,640 --> 01:30:24,760
+cells in the gut. And if you make the transporter more active, you have too few. And remind me again
+
+769
+01:30:24,760 --> 01:30:32,520
+the phenotype of the former, and you have in utero exposure to an SSRI. You have too many nerve cells
+
+770
+01:30:32,520 --> 01:30:41,240
+in the gut, and so gut motility becomes defective. I want to talk about bacteria now. We very briefly
+
+771
+01:30:41,240 --> 01:30:45,640
+touched on it earlier, and I knew if I started, I wouldn't stop. And the first time it came up was
+
+772
+01:30:45,640 --> 01:30:50,520
+when we talked about the difference between the colon and the small intestine. And one of the many
+
+773
+01:30:50,520 --> 01:30:56,920
+differences between them, of course, is the flora. Can you give people a sense of how many bacteria
+
+774
+01:30:56,920 --> 01:31:02,760
+exist in the small intestine? And let's start maybe even divide them into three. Let's talk
+
+775
+01:31:02,760 --> 01:31:08,680
+about the proximal small intestine, so the jejunum, the late small intestine, you know, the ilium before
+
+776
+01:31:08,680 --> 01:31:14,280
+it gets to the cecum, and then the colon. What's the relative difference in bacterial colony?
+
+777
+01:31:15,320 --> 01:31:23,800
+The numbers of organisms descend, that is, were assent as you go down the gut, so that you have
+
+778
+01:31:23,880 --> 01:31:31,640
+more of them close to the colon. And it's thought in a large way that stomach acid
+
+779
+01:31:32,520 --> 01:31:40,120
+sterilizes, to a large extent, the food that you eat. Although there are bacteria that can be found,
+
+780
+01:31:40,120 --> 01:31:44,280
+even in the stomach, in the presence of one normal hydrochloric acid,
+
+781
+01:31:45,080 --> 01:31:53,480
+helicobacter pylori, being the prime example of an organism that can survive. But the small intestine
+
+782
+01:31:53,480 --> 01:32:01,320
+then neutralizes stomach acid, but benefits from that acid because very few organisms are dumped
+
+783
+01:32:01,320 --> 01:32:10,440
+into it. The motility of the small intestine and the fact that the smaller numbers of organs come in
+
+784
+01:32:10,440 --> 01:32:18,120
+contribute to keeping the number down as the gut pumps its way on down. In addition, there are
+
+785
+01:32:18,120 --> 01:32:27,480
+cells like paneth cells, which make antibacterial proteins, which are called defensins, which help to
+
+786
+01:32:27,480 --> 01:32:36,120
+keep the lumen of the gut, not sterile, but close to it. As you get closer and closer to the colon,
+
+787
+01:32:36,920 --> 01:32:43,640
+the mechanisms, the numbers of paneth cells decline, gut slows down, and you're getting
+
+788
+01:32:43,640 --> 01:32:51,000
+close to a large number of organisms which live in the colon. And they're separated by the ileocecal
+
+789
+01:32:51,000 --> 01:32:59,960
+sphincter from the colon. When bolus of food gets into the colon, or not just food, it's by then
+
+790
+01:32:59,960 --> 01:33:06,440
+kind, it's been digested. When that material is delivered to the colon, it goes into a region
+
+791
+01:33:07,240 --> 01:33:13,480
+where it will spend some time. And in the colon, there are huge numbers of organisms.
+
+792
+01:33:14,280 --> 01:33:19,480
+Now, the numbers of organisms are about equal in number to the number of cells of the body.
+
+793
+01:33:20,200 --> 01:33:27,400
+We're talking trillions. And you have perhaps tenfold more bacterial genes than you do
+
+794
+01:33:27,400 --> 01:33:33,880
+your own genes in your body. And what are the classes of bacteria? Are these all gram negative?
+
+795
+01:33:34,520 --> 01:33:43,320
+No. A lot of them are gram negative. What they do have in common is that they are almost all anaerobes.
+
+796
+01:33:43,880 --> 01:33:50,280
+That is, they live in the absence of oxygen. And most of them are very hard to culture.
+
+797
+01:33:51,000 --> 01:33:59,480
+And so until relatively recently, we had no idea what a teeming mass of organisms were in there.
+
+798
+01:33:59,480 --> 01:34:06,040
+I mean, people all knew for a long time that the colon still wasn't sterile. And they, people,
+
+799
+01:34:06,040 --> 01:34:13,240
+culture still. But most of the organisms are highly resistant to culture and have been detected
+
+800
+01:34:13,800 --> 01:34:17,000
+through molecular biology. You look for the genes.
+
+801
+01:34:17,880 --> 01:34:22,920
+So now that that's been done, I assume we've done the equivalent of the human genome project
+
+802
+01:34:22,920 --> 01:34:26,920
+for the human colon, there tend to be a few classes of these things, right? I mean,
+
+803
+01:34:26,920 --> 01:34:31,640
+bacteroides is pretty common. Actinobacteria, proteobacteria, I mean,
+
+804
+01:34:31,640 --> 01:34:35,480
+what are the broad categories of these facultative anaerobes and such?
+
+805
+01:34:36,120 --> 01:34:42,120
+Well, there are about 16 different classes, and I can't remember them all. One of the
+
+806
+01:34:42,120 --> 01:34:49,640
+largest of them is the firmicutes. But bifidobacteria and lactobacteria, those tend to be
+
+807
+01:34:50,360 --> 01:34:59,080
+bacteria that we think of as good. Clostridia tend to be organisms that mostly are bad,
+
+808
+01:34:59,080 --> 01:35:08,200
+but not entirely. Some of those bacteria are related to causing cancer. Some of those bacteria
+
+809
+01:35:08,200 --> 01:35:15,960
+are highly protective. And they do stuff for us. For example, one of the things we eat a lot of
+
+810
+01:35:16,600 --> 01:35:25,800
+is fiber, celery, for example, celery or lettuce. We don't digest that. We have no enzymes that can
+
+811
+01:35:25,800 --> 01:35:34,280
+digest that. But we have bacteria in our gut that live on that, and they digest that. And they make
+
+812
+01:35:34,920 --> 01:35:41,720
+short-chain fatty acids from that. And those short-chain fatty acids are solved by the lining
+
+813
+01:35:41,720 --> 01:35:49,800
+of the colon. And our colonic epithelia are dependent on the bacteria to keep going,
+
+814
+01:35:49,800 --> 01:35:55,800
+and they get the bulk of their energy from the bacteria in the gut. The bacteria also make
+
+815
+01:35:55,800 --> 01:36:02,680
+certain vitamins that we can't live without, vitamin K being the most famous of them.
+
+816
+01:36:03,560 --> 01:36:13,400
+So clotting of blood depends on the bacteria. And as you probably know, they also seem to regulate
+
+817
+01:36:14,040 --> 01:36:23,080
+things like mood and obesity. It just strikes me as one of the most poorly understood connections
+
+818
+01:36:24,120 --> 01:36:30,440
+for something that has such a high impact on human health at this point still. Obviously,
+
+819
+01:36:30,520 --> 01:36:35,400
+we know more today than we did 20 years ago, but in many ways, it still feels like this is a bit of
+
+820
+01:36:35,400 --> 01:36:42,200
+a black box. Is that just my ignorance? No, it's our ignorance. So why are we ignorant, you might ask.
+
+821
+01:36:43,160 --> 01:36:48,760
+And the answer is, I've just told you, we can't culture most of those organisms.
+
+822
+01:36:48,760 --> 01:36:55,880
+They are extremely difficult to study. And Mike, pardon my ignorance, I'm not a cell biologist.
+
+823
+01:36:56,680 --> 01:37:01,240
+How much of that difficulty is because they're anaerobic and just logistically,
+
+824
+01:37:01,240 --> 01:37:06,280
+it's more complicated to culture organisms in the absence of oxygen? Or is there something
+
+825
+01:37:06,280 --> 01:37:10,840
+that even goes beyond that? Oh, it goes well beyond that. We don't know the nutrient,
+
+826
+01:37:10,840 --> 01:37:16,520
+not broths and things to which they can live. It's easy enough to make an atmosphere that has
+
+827
+01:37:16,520 --> 01:37:23,640
+no oxygen in it. But it's not so easy to figure out what they need to live. Colon produces a great
+
+828
+01:37:23,640 --> 01:37:31,160
+environment and how to match it is not so easy to figure. This is a very remarkable evolutionary
+
+829
+01:37:31,160 --> 01:37:37,800
+tale and also perhaps the most interesting symbiosis we experience. This strikes me as a
+
+830
+01:37:37,800 --> 01:37:44,840
+more interesting symbiosis than the one we share with bacteria on our skin. Is that a fair statement?
+
+831
+01:37:45,400 --> 01:37:52,440
+I think so because the bacteria are able to get involved with the nervous system
+
+832
+01:37:53,160 --> 01:38:03,160
+in a way that bacteria, the skin, pretty much do not. So for example, the bacteria that are in the gut
+
+833
+01:38:03,160 --> 01:38:10,680
+can activate lining of the epithelial cell for enteroendocrine cells to release serotonin
+
+834
+01:38:10,680 --> 01:38:18,680
+or other chemicals from them. And that can signal by way of the vagus nerves to the brain.
+
+835
+01:38:19,320 --> 01:38:28,040
+Or chemical products that the bacteria make can also trigger nerve signals that send signals back
+
+836
+01:38:28,040 --> 01:38:34,840
+to the brain or even go through the blood-brain barrier to affect the brain. So that experiments
+
+837
+01:38:34,840 --> 01:38:40,680
+can be done for example with mice in which one can breed germ-free mice.
+
+838
+01:38:41,720 --> 01:38:49,080
+Germ-free notobiotic is the term for that. Germ-free animals grow up without any contact or organisms
+
+839
+01:38:49,080 --> 01:38:52,600
+in them. I'm not trying to understand how that's possible Mike. I mean I've heard about it but I've
+
+840
+01:38:52,600 --> 01:38:58,440
+never really understood it. How do you have a germ-free animal? How do you feed it? You're feeding
+
+841
+01:38:58,440 --> 01:39:04,600
+it sterile food into a... and they had to have been born because this would have begun gestationally.
+
+842
+01:39:04,600 --> 01:39:11,480
+That's right. So they're all born by caesarean section. They're fed sterile food and they live
+
+843
+01:39:11,480 --> 01:39:18,600
+in incubators and people handle them with gloves. What's the phenotype of that animal after two
+
+844
+01:39:18,600 --> 01:39:24,840
+years relative to an otherwise identical animal that's born normally and fed normally? Let's go
+
+845
+01:39:24,840 --> 01:39:33,880
+one year. Okay and that tells me something really changes. Yes. So for one thing, the numbers of nerve
+
+846
+01:39:33,880 --> 01:39:40,600
+cells in their gut, their motility, the lining of the gut, they're all different. They're very much
+
+847
+01:39:40,600 --> 01:39:48,680
+more primitive. They have almost no spleen. They have none of the pyre's patches that we, you know,
+
+848
+01:39:48,680 --> 01:39:54,760
+talking to the immune cells. So their immune system must be horrible? Yes. They have no immune system
+
+849
+01:39:55,480 --> 01:40:02,600
+but they have a thymus and so they can develop an immune system in a big hurry if they survive.
+
+850
+01:40:02,600 --> 01:40:09,160
+You take them out and expose them to bacteria. But what you can do with the organisms with the gut
+
+851
+01:40:09,160 --> 01:40:17,800
+is use them as vessels and recolonize the gut with organisms. So for example, if you take those
+
+852
+01:40:17,800 --> 01:40:24,840
+animals and colonize them with bacteria derived from a strain of mice that tend to be lean,
+
+853
+01:40:25,800 --> 01:40:33,720
+you get lean mice derived from those animals. If you colonize them with from a strain of
+
+854
+01:40:33,720 --> 01:40:41,240
+mouse that tends to be fat, those animals grow up to be fat and you can cross strains.
+
+855
+01:40:42,120 --> 01:40:51,400
+So that that seems to indicate that bacteria can determine obesity or lack thereof. Yeah. How do we
+
+856
+01:40:51,560 --> 01:40:57,080
+think this plays out in humans where it's not as extreme? We don't have Darryl humans. But your
+
+857
+01:40:57,080 --> 01:41:01,160
+point is, and I believe there have been some experiments done. You'll have to correct me
+
+858
+01:41:01,160 --> 01:41:06,280
+because I don't follow this literature, but haven't they done some fecal transplants from
+
+859
+01:41:06,280 --> 01:41:14,280
+lean to obese that have at least partially addressed the phenotype? Correct. And also
+
+860
+01:41:14,280 --> 01:41:23,320
+anxiety seems to work in its very similar fashion. But what you have to take with the human is always
+
+861
+01:41:23,320 --> 01:41:28,440
+everything with a grain of salt because the experiments are very difficult to do.
+
+862
+01:41:29,400 --> 01:41:36,040
+And they're all flawed because you can't deal with pure organisms, pure humans,
+
+863
+01:41:36,040 --> 01:41:40,680
+what they're retaining. Do you have any idea how many such transplants have been done
+
+864
+01:41:40,680 --> 01:41:46,120
+where they've done a fecal transplant from a lean to an obese individual? How many times has that
+
+865
+01:41:46,120 --> 01:41:51,400
+been done? Not under a controlled setting. Why do you think that type of research, while admittedly
+
+866
+01:41:51,400 --> 01:41:58,600
+complicated, is technically feasible and has a potential for enormous fecal transplantation
+
+867
+01:41:58,600 --> 01:42:05,080
+in humans? It's not without danger. For sure. Tell people how the procedure works and obviously what
+
+868
+01:42:05,160 --> 01:42:11,720
+the risks are because I believe the only approved use of the therapy is for C. difficile. So you've
+
+869
+01:42:11,720 --> 01:42:18,600
+already alluded to Clostridia before. Yeah, let me just say Clostridium difficile is a normal
+
+870
+01:42:18,600 --> 01:42:25,800
+component of the GI tract. Many, many people have it and it sits there. And with your organisms,
+
+871
+01:42:26,600 --> 01:42:32,520
+one of the major ways that you control the various bacteria is to have other bacteria.
+
+872
+01:42:33,480 --> 01:42:41,960
+And so the bacteria control themselves. There's a competition for how much nutrient is there when
+
+873
+01:42:41,960 --> 01:42:49,720
+they make toxins that affect one another. But people then take antibiotics and the major effect
+
+874
+01:42:49,720 --> 01:42:58,840
+on the human microbiome is an antibiotic. For the most part, we like to think antibiotics are used
+
+875
+01:42:58,840 --> 01:43:06,040
+effectively and appropriately when you have an infection and they're given to you to fix that.
+
+876
+01:43:07,080 --> 01:43:14,200
+Unfortunately, that happens not to be the case. A lot of people are exposed to antibiotics because
+
+877
+01:43:14,200 --> 01:43:22,920
+they're used in agriculture and they're used in agriculture because it was found probably 60 years
+
+878
+01:43:22,920 --> 01:43:33,800
+ago that giving antibiotics will cause animals to grow faster and get bigger faster. And so you can
+
+879
+01:43:33,800 --> 01:43:42,760
+give antibiotics for that reason. You can also keep pigs more safely in small quarters by giving
+
+880
+01:43:42,760 --> 01:43:52,040
+them antibiotics because infections are not wiping them out so badly. This profligate, if I might use
+
+881
+01:43:52,040 --> 01:43:59,240
+the term, use of antibiotics in agriculture, exposes the human population to antibiotics
+
+882
+01:43:59,880 --> 01:44:07,240
+and changes our bacteria in ways that we would never have appreciated. Just to give you an
+
+883
+01:44:07,240 --> 01:44:16,920
+illustration, my son who has now just turned 60 but was young once when he was a child, he got
+
+884
+01:44:17,560 --> 01:44:27,080
+pneumonia. Kids do. And so culture was taken, was found that it was pneumococcal pneumonia. He was
+
+885
+01:44:27,080 --> 01:44:35,160
+too. So he was given penicillin to treat pneumococcal pneumonia. He got an exudative
+
+886
+01:44:35,160 --> 01:44:42,840
+enduropathy for it, his skin peeled off, his teeth came in mottled, his hair changed, his fingernails
+
+887
+01:44:42,840 --> 01:44:52,200
+changed, he was taking baths in oatmeal. We nearly lost him. So he is deathly allergic to penicillin.
+
+888
+01:44:52,760 --> 01:44:59,400
+How the hell did he get to be allergic to penicillin at age two when he never had it?
+
+889
+01:44:59,960 --> 01:45:09,160
+Well, part of the answer was that my wife had a very bad infection and so he had to be bottle fed
+
+890
+01:45:10,120 --> 01:45:16,600
+after the first month of life. And so he had cow's milk for a long time. Nothing
+
+891
+01:45:16,600 --> 01:45:24,600
+wrong with that. Kids always drink cow's milk. But cow's milk is coming now with penicillin in it
+
+892
+01:45:24,600 --> 01:45:30,280
+because the agricultural industry treats penicillin. So he developed an allergy to penicillin.
+
+893
+01:45:31,480 --> 01:45:37,160
+He then got treated with it. So now he doesn't take penicillin anymore. As it turns out,
+
+894
+01:45:37,880 --> 01:45:44,120
+I discovered many years later, I too am allergic to penicillin. That's where he got it from. I
+
+895
+01:45:44,120 --> 01:45:50,040
+apologize to him, but it's a gene. But do you think he would have been less allergic to it
+
+896
+01:45:50,040 --> 01:45:55,640
+despite his susceptibility genetically if he had been breastfed normally? Well, if he'd been
+
+897
+01:45:55,640 --> 01:46:01,240
+breastfed normally, the first time he got penicillin, he would have been sensitized,
+
+898
+01:46:01,240 --> 01:46:07,480
+but he wouldn't already have had the allergy. He behaved as if he was exposed to penicillin
+
+899
+01:46:07,480 --> 01:46:15,080
+because he had been. But in a way we never knew. And lots of kids are getting it. But the major
+
+900
+01:46:15,080 --> 01:46:20,920
+effect of it is that it's affecting a microbiome. But let's go back and explain how a stool
+
+901
+01:46:20,920 --> 01:46:26,520
+transplant works for C. diff. You were also explaining how it's not a zero risk procedure,
+
+902
+01:46:26,520 --> 01:46:31,880
+even though in the case of C. diff, it's life-saving. What happens in C. diff is that
+
+903
+01:46:31,880 --> 01:46:40,840
+patients get antibiotics. It knocks out the bulk of the bacteria. C. diff is resistant,
+
+904
+01:46:40,840 --> 01:46:48,360
+and it emerges as dominant. It produces a toxin. The toxin causes massive diarrhea,
+
+905
+01:46:48,920 --> 01:46:55,800
+and that can wipe you out. Very similar to the way cholera toxin does. It works in a different way.
+
+906
+01:46:55,800 --> 01:47:03,320
+It works on the nervous system, but it's a bad toxin. So to cure C. diff, one takes oral
+
+907
+01:47:03,320 --> 01:47:10,360
+vancomycin is the first step. Vancomycin is an antibiotic to which C. diff is usually sensitive.
+
+908
+01:47:11,160 --> 01:47:15,720
+It hasn't become all that resistant because vancomycin isn't used that much,
+
+909
+01:47:16,600 --> 01:47:24,600
+and it's not absorbed. So it just goes down the gut. But if 25% of patients
+
+910
+01:47:25,480 --> 01:47:30,440
+don't respond to oral vancomycin or C. diff recurs after they take it,
+
+911
+01:47:31,320 --> 01:47:37,960
+and they can't get rid of it, in that case, the only thing that can be done is a fecal transplant.
+
+912
+01:47:37,960 --> 01:47:43,160
+That can be done as an enema, or it can be done as an interacoded capsule now,
+
+913
+01:47:44,120 --> 01:47:51,080
+so that the capsule goes down, bacteria recolonize the antibiotic, wiped out gut.
+
+914
+01:47:51,720 --> 01:47:59,240
+It then suppresses the C. diff. That's life-saving use, and it's approved. Now,
+
+915
+01:47:59,240 --> 01:48:06,760
+what's the difficulty? So you get stool for C. diff treatment that has been very carefully
+
+916
+01:48:06,840 --> 01:48:14,280
+looked at, and one knows that there are no organisms in it that are potentially dangerous.
+
+917
+01:48:15,240 --> 01:48:22,680
+You have perhaps 500 species of organism in your gut that are potentially lethal.
+
+918
+01:48:23,400 --> 01:48:29,400
+So one has to be careful. There used to be people were giving it husband to wife,
+
+919
+01:48:30,120 --> 01:48:37,720
+and people doing this kind of home bruise. We've lost a few patients that way. Not a good thing to
+
+920
+01:48:37,720 --> 01:48:45,240
+do. One has to be very careful when you're doing fecal transplantation. Mike, is there any potential
+
+921
+01:48:45,240 --> 01:48:51,640
+for using synthetic biology to create the microorganisms so that you could control exactly
+
+922
+01:48:52,520 --> 01:48:58,920
+what you're giving people so you could effectively capsulize the exact organisms
+
+923
+01:48:58,920 --> 01:49:05,160
+that people are deficient in and replace those without the risk of providing anything you don't
+
+924
+01:49:05,160 --> 01:49:10,680
+want to be part of the recolonization? I've already told you why that cannot be done,
+
+925
+01:49:11,560 --> 01:49:16,440
+because for the most part, we can't grow these organisms. If you can't grow them,
+
+926
+01:49:16,440 --> 01:49:22,760
+you can't produce them in such a way as to synthesize them. Knowing their genetic sequence,
+
+927
+01:49:22,760 --> 01:49:29,080
+you can't synthesize them if you don't have the media in which to keep them alive once you've
+
+928
+01:49:29,080 --> 01:49:33,880
+synthesized them. That's correct. You have to be able to not only make their DNA, but
+
+929
+01:49:33,880 --> 01:49:39,320
+make their food. Yeah, keep them going. How many people are working on this, Mike? This seems like
+
+930
+01:49:39,320 --> 01:49:46,120
+a really enormous opportunity if the code could be cracked, right? If you could figure out how to
+
+931
+01:49:46,120 --> 01:49:52,440
+support these bacteria in vitro, it does open the door to synthetic biology. It does open the door
+
+932
+01:49:52,440 --> 01:50:00,760
+to basically medicines that are bacteria, right? Well, medicines that either are bacteria or are
+
+933
+01:50:00,760 --> 01:50:07,720
+derived from them. So knowing what the bacteria produce and knowing how they produce it
+
+934
+01:50:08,520 --> 01:50:17,320
+are just as good. So there is a huge amount of modern GI biology going into study of the GI
+
+935
+01:50:17,320 --> 01:50:24,520
+microbiome. Over the past 10 years, it's been the growth industry of the field. One of the things
+
+936
+01:50:24,520 --> 01:50:31,480
+that's very common today is commercial home kits that they're going to tell you what your sequence
+
+937
+01:50:31,480 --> 01:50:38,520
+looks like. This seems to be a field that's really full of a lot of nonsense. So there's been outright
+
+938
+01:50:38,520 --> 01:50:43,480
+frauds, right? There was that company out of UCSF called UBIOM that turned out to be kind of like
+
+939
+01:50:43,480 --> 01:50:49,160
+the Theranos of this space. There seem to be a lot of companies that if you give them a small
+
+940
+01:50:49,160 --> 01:50:53,960
+stool sample, they're going to send you a lengthy report of what your gut biome is. And let's assume
+
+941
+01:50:53,960 --> 01:50:58,280
+that they're even able to do that accurately. Is that a fair assumption? Are they able to provide
+
+942
+01:50:58,280 --> 01:51:03,400
+this information? Are they able to do the sequence and tell you what makes up your gut bacteria?
+
+943
+01:51:04,360 --> 01:51:10,520
+What they give you is the classes of organisms and the percentage of the total bacteria each of the
+
+944
+01:51:10,520 --> 01:51:19,720
+classes represent. And that turns out to be remarkably unuseful. Say more. Well, you need to
+
+945
+01:51:19,720 --> 01:51:29,320
+know species by species at a very, very fine level before you get to be able to really do something
+
+946
+01:51:29,320 --> 01:51:37,720
+with it. To get this class of bacteria in proportion of it's too high in the genome, too high in the...
+
+947
+01:51:37,720 --> 01:51:41,960
+So far too little resolution is being provided by these tests.
+
+948
+01:51:41,960 --> 01:51:50,920
+Correct. You can say you can change anxiety, you can change body form with the microbiome,
+
+949
+01:51:51,720 --> 01:51:58,520
+but to say that you can go look at the microbiome and then determine what that is, is not yet there.
+
+950
+01:51:59,080 --> 01:52:05,480
+You can't just go look at somebody's stool and say what they're consistent. The best of the kits
+
+951
+01:52:05,480 --> 01:52:12,120
+that I know of that do this are the ones that look for cancer. So like cologuard and things like that?
+
+952
+01:52:12,840 --> 01:52:19,480
+Yes. Those are excellent, but even those kits... Let's remind people exactly what cologuard is
+
+953
+01:52:19,480 --> 01:52:28,760
+looking for. As the cells age and undergo apoptosis, this left off into the lumen. And so human DNA
+
+954
+01:52:29,720 --> 01:52:38,520
+is in the lumen of the gut as well as bacterial DNA. And what cologuard does is looks at stool
+
+955
+01:52:38,520 --> 01:52:46,040
+and you can look at the DNA in the stool and look for the genetic signatures of a number of GI
+
+956
+01:52:46,040 --> 01:52:56,120
+cancers. And so about 90% of GI cancer can be picked up effectively by cologuard, which means
+
+957
+01:52:56,120 --> 01:53:03,480
+it's wonderful and it's a great advance, but it doesn't mean you don't have to go also do
+
+958
+01:53:03,480 --> 01:53:09,000
+colonoscopy. Yeah, the goal of colonoscopy is to find it before it's cancer. It's to find the
+
+959
+01:53:09,000 --> 01:53:13,800
+polyp that's going to become cancer, not wait until you have cancer. That's a major point.
+
+960
+01:53:14,440 --> 01:53:21,800
+But if you do have cancer and you find it early in a colonoscopy, that's great. And the problem
+
+961
+01:53:21,960 --> 01:53:27,400
+with cologuard is if you're missing 10% of cancer, you don't want that to happen.
+
+962
+01:53:28,360 --> 01:53:34,200
+It seems to me that cologuard is really a great tool in areas where access is limited,
+
+963
+01:53:34,840 --> 01:53:38,120
+where there might be hesitancy for colonoscopy and things like that. But I agree with you,
+
+964
+01:53:38,120 --> 01:53:43,080
+it's not a substitute for a colonoscopy. So this is an interesting point, Mike, which is basically
+
+965
+01:53:43,080 --> 01:53:50,760
+all of these commercial tests out there that are giving you information about your gut microbiome
+
+966
+01:53:50,760 --> 01:53:55,000
+are not doing it yet at a resolution that's actionable. Is that kind of a fair
+
+967
+01:53:55,000 --> 01:54:01,880
+synthesis of what you've said? Right. And my particular quarrel with them is that because
+
+968
+01:54:01,880 --> 01:54:07,640
+they're not doing it at a level that is sufficiently documented and sufficiently
+
+969
+01:54:08,360 --> 01:54:15,960
+informative for you to be actionable on that information, they cost money abnormally and they
+
+970
+01:54:15,960 --> 01:54:22,840
+change what you do for reasons that are not well documented and you shouldn't be following them yet.
+
+971
+01:54:23,800 --> 01:54:31,640
+Yeah. And a lot of them basically are paired with supplements or probiotics or prebiotics
+
+972
+01:54:32,200 --> 01:54:37,480
+that are supposed to quote unquote fix the defects that are found in the test. Right. Isn't that the
+
+973
+01:54:37,480 --> 01:54:43,640
+RXDX model? That's what they're doing. But what they're really doing is making money.
+
+974
+01:54:44,440 --> 01:54:50,920
+I think they're a con. I don't know enough to draw a strong enough conclusion. I can just say,
+
+975
+01:54:50,920 --> 01:54:57,640
+based on a decade of looking at them in many, many patients who have been adamant about having these
+
+976
+01:54:57,640 --> 01:55:04,760
+tests done, I'm still looking for a great example of where it mattered. I worry also that there is
+
+977
+01:55:04,760 --> 01:55:10,520
+a lot of noise created without a signal. One of the most important things nutritionally that people
+
+978
+01:55:10,600 --> 01:55:19,800
+can do to make sure that they have the optimal flora for their gut. I want to break this into
+
+979
+01:55:19,800 --> 01:55:27,080
+two categories, Mike. The first is just as general health maintenance and the second is after taking
+
+980
+01:55:27,080 --> 01:55:32,840
+antibiotics. So like it or not, we're going to take antibiotics and they're going to save our
+
+981
+01:55:32,840 --> 01:55:38,920
+lives from time to time. I have found myself to be more and more reluctant to take them and I
+
+982
+01:55:39,000 --> 01:55:44,600
+generally tend to resist as long as possible until I have no choice. But I'm going to hold
+
+983
+01:55:44,600 --> 01:55:49,720
+out a long time before I take a Z-pack. If I'm sick, I'm going to really try to make it go. But
+
+984
+01:55:49,720 --> 01:55:53,880
+I think the last time I took antibiotics was for a dental issue where it just required something
+
+985
+01:55:53,880 --> 01:55:59,240
+more significant. So let's start with the general maintenance principle. You're not someone who's
+
+986
+01:55:59,240 --> 01:56:04,600
+taking a lot of antibiotics, but you want to do what's best for your gut. And I assume that
+
+987
+01:56:04,600 --> 01:56:10,520
+nutrition is one of the most important levers we have. To my way of thinking, the best kind of
+
+988
+01:56:10,520 --> 01:56:18,120
+diet is a balanced diet, not one that tries to be like the South Beach or one of those diets
+
+989
+01:56:18,120 --> 01:56:27,080
+whose way. Having a balanced diet with appropriate nutrients, including vitamin C, but not in excess,
+
+990
+01:56:27,080 --> 01:56:32,040
+although won't hurt you to have any excess of vitamin C, but there's no reason to do it.
+
+991
+01:56:32,760 --> 01:56:41,000
+And particularly fiber included is good for your body. So I would be opposed to having particular
+
+992
+01:56:41,000 --> 01:56:49,160
+diets. For example, a cleanse. I like to point out to people that they should consider that the
+
+993
+01:56:49,160 --> 01:56:55,800
+microbiome is something they live with and has evolved with human beings as long as there have
+
+994
+01:56:55,800 --> 01:57:01,480
+been human beings. And cleansing the inside of the gut is not a good thing to be doing.
+
+995
+01:57:01,560 --> 01:57:04,840
+I'm not even sure I really understand what a cleanse is. I've heard so many different variants
+
+996
+01:57:04,840 --> 01:57:10,360
+of it, but certainly one method in which we do some form of a cleanse is a prep for a colonoscopy.
+
+997
+01:57:10,360 --> 01:57:16,760
+How much does that alter the flora of the gut, even though its purpose is really to just mechanically
+
+998
+01:57:16,760 --> 01:57:22,200
+get rid of all stool matter so that the endoscopy can be performed with better visibility? Does that
+
+999
+01:57:22,200 --> 01:57:28,520
+alter the gut flora in a way that doesn't return to normal quickly? No, remarkably little. That
+
+1000
+01:57:28,520 --> 01:57:35,080
+doesn't kill organisms or change the balance between them. What it does is just moves the
+
+1001
+01:57:35,080 --> 01:57:41,320
+mechanical stool out. And so the gastroenterologist is doing a colonoscopy and have a clear view of
+
+1002
+01:57:41,320 --> 01:57:46,680
+what's in you. When people do these dietary cleanses, they're usually drinking a lot of
+
+1003
+01:57:46,680 --> 01:57:54,200
+water with pepper and presumably some nutrients, but they're kind of doing a bowel prep, aren't they?
+
+1004
+01:57:54,200 --> 01:58:00,600
+Some of them are also supplementing it with enemas. And I worry about those people getting
+
+1005
+01:58:00,600 --> 01:58:07,000
+into electrolyte imbalance. I see, but they shouldn't be killing the bacteria. No, they're
+
+1006
+01:58:07,000 --> 01:58:14,280
+not killing the bacteria. But on the other hand, they're not doing their body a favor by eating
+
+1007
+01:58:14,280 --> 01:58:20,840
+strange foods and that kind of thing. You alluded to soluble, pardon me, insoluble fiber earlier,
+
+1008
+01:58:20,840 --> 01:58:24,680
+the things that we can't digest at all in lettuce and celery and things of that nature.
+
+1009
+01:58:25,240 --> 01:58:29,320
+Tell me the importance again of that in the human diet, because there presumably are people who
+
+1010
+01:58:29,320 --> 01:58:35,160
+don't eat much or any insoluble fiber and that's going to clearly change their gut bacteria.
+
+1011
+01:58:35,160 --> 01:58:38,280
+Is there evidence that that is impacting their health negatively?
+
+1012
+01:58:39,080 --> 01:58:45,720
+Not that much has been done on low fiber for negative impact as so much as to show that there
+
+1013
+01:58:45,720 --> 01:58:53,080
+are health benefits of fiber. One of the benefits is that fiber can absorb toxins so that it can
+
+1014
+01:58:53,720 --> 01:59:03,080
+decrease its thought carcinogen effects long-term. It also provides the colon something to chew down
+
+1015
+01:59:03,080 --> 01:59:12,360
+on and is good for motility, keeping the bowel going and in shape. And it also provides
+
+1016
+01:59:12,360 --> 01:59:20,920
+a substrate for the bacteria of the colon for them to chow down on and produce short chain fatty
+
+1017
+01:59:20,920 --> 01:59:28,680
+acids, which are good for the lining of the gut and provide it with its energy metabolism.
+
+1018
+01:59:29,560 --> 01:59:34,760
+By the way, do any of those short chain fatty acids, Mike, make their way into the person to
+
+1019
+01:59:34,760 --> 01:59:38,920
+provide ATP or energy there beyond just the epithelial cells?
+
+1020
+01:59:39,880 --> 01:59:47,480
+Less so, but the answer is yes. They are absorbed. And so to some extent, they can get into the body.
+
+1021
+01:59:47,480 --> 01:59:50,600
+Directly through chylomicrons as regular fatty acids would?
+
+1022
+01:59:50,600 --> 01:59:57,800
+No, no, no, they're very short and they're soluble and they tend, like acetic acid is a
+
+1023
+01:59:57,800 --> 02:00:00,920
+short chain fatty acid. That would be a one carbon.
+
+1024
+02:00:01,800 --> 02:00:08,360
+So fiber sounds like it's going to be the most important nutrient in terms of fueling the bacteria
+
+1025
+02:00:08,440 --> 02:00:14,840
+of the gut, which in turn pay service back to providing energy for the epithelial cells, correct?
+
+1026
+02:00:16,200 --> 02:00:23,560
+Not just fiber. Polysaccharides do as well. They can digest those. Everything that gets down there,
+
+1027
+02:00:23,560 --> 02:00:30,360
+they can live on. It's just that very little of the protein that you eat will get down to the colon.
+
+1028
+02:00:31,320 --> 02:00:37,960
+Then tell me about things like artificial sweeteners or non-nutritive additives to food.
+
+1029
+02:00:38,040 --> 02:00:43,960
+There's been a lot of discussion that, for example, aspartame or other sweeteners that
+
+1030
+02:00:43,960 --> 02:00:51,640
+aren't caloric may still provide some impact on the micro bacteria of the colon.
+
+1031
+02:00:52,360 --> 02:00:53,400
+How well is that understood?
+
+1032
+02:00:54,520 --> 02:01:01,000
+There are bacteria that can metabolize them. And so there are effects on the bacteria.
+
+1033
+02:01:01,640 --> 02:01:07,240
+The net effect of that is I really can't speak to because that's a literature that I find
+
+1034
+02:01:07,960 --> 02:01:14,600
+to be self-contradictory. Some people think they do things. Some people think the effect is negligible.
+
+1035
+02:01:15,480 --> 02:01:20,120
+I haven't spent much time in that literature, but the little time I've spent in it, I've come away
+
+1036
+02:01:20,840 --> 02:01:26,040
+without much of an understanding of how these things are potentially creating an impact.
+
+1037
+02:01:26,600 --> 02:01:31,160
+You mentioned protein already. What do we know about the role of fatty acids in the colon? How
+
+1038
+02:01:31,160 --> 02:01:37,400
+many of them are making their way there? Well, most of the fatty acids that get to the colon
+
+1039
+02:01:37,480 --> 02:01:41,880
+are derived from fiber. In other words, they're not exogenous.
+
+1040
+02:01:41,880 --> 02:01:48,200
+That's true normally, but not always. So, for example, under abnormal conditions
+
+1041
+02:01:49,000 --> 02:01:58,360
+in which bile salts or pancreatic enzymes are deficient, then those fat can get into the colon
+
+1042
+02:01:58,440 --> 02:02:06,040
+and one gets fatty stool. Bacteria can metabolize that. And so in celiac disease,
+
+1043
+02:02:06,760 --> 02:02:14,040
+for example, there's a lot of fat in the stool or in biliary tract disease, there's often a lot of
+
+1044
+02:02:14,040 --> 02:02:22,040
+fat in the stool. The stool is described as greasy and foul smelling because the bacteria do
+
+1045
+02:02:22,040 --> 02:02:28,440
+metabolize it. What about the scenario where a person has taken antibiotics potentially for
+
+1046
+02:02:28,440 --> 02:02:33,560
+a protected course? What can they do to appropriately repopulate their gut?
+
+1047
+02:02:34,120 --> 02:02:41,400
+What a good question. Probably taking appropriate probiotics at the same time they're taking those
+
+1048
+02:02:41,400 --> 02:02:47,480
+antibiotics or afterward is helpful. And what constitutes appropriate probiotics? This is a
+
+1049
+02:02:47,480 --> 02:02:55,480
+world I know very little about. It varies. Some people think that yeast-derived saccharomyces is
+
+1050
+02:02:55,480 --> 02:03:04,920
+good. Some people swear by lactobacilli or bifidobacteria. There is evidence that when you're
+
+1051
+02:03:04,920 --> 02:03:11,240
+taking antibiotics, saccharomyces at the same time, trying to think of the name of the pill
+
+1052
+02:03:11,240 --> 02:03:16,760
+that they sell, it's over the counter. And sorry, just for semantics, what's the difference between
+
+1053
+02:03:16,760 --> 02:03:24,200
+a pro and a prebiotic? Probiotic is defined as an organism that has beneficial effects,
+
+1054
+02:03:24,920 --> 02:03:34,520
+and a prebiotic is defined as a material that will enable the body to grow organisms that have
+
+1055
+02:03:34,520 --> 02:03:41,480
+beneficial effect. So the difference between them is that prebiotic enables you to make your own
+
+1056
+02:03:41,480 --> 02:03:50,280
+healthy organisms, probiotic as you eat them. So for example, I eat activity every day. Now that I've
+
+1057
+02:03:50,280 --> 02:03:59,560
+aged, it fights the problems of aging. So fermented foods are obviously valuable probiotics.
+
+1058
+02:04:00,200 --> 02:04:07,080
+An important point to bear in mind is not just that it's fermented. I mean, all yogurt is fermented,
+
+1059
+02:04:07,080 --> 02:04:15,000
+but that something like activity has bifidobacter animalis in it, which actually gets through,
+
+1060
+02:04:15,880 --> 02:04:21,160
+survives the stomach acid, goes down the GI tract, and comes out in the stool.
+
+1061
+02:04:21,160 --> 02:04:24,520
+And just to be clear, that's anaerobic bacteria or aerobic?
+
+1062
+02:04:25,240 --> 02:04:29,560
+It's an anaerob, but it can get down the gut and survive in the stool.
+
+1063
+02:04:30,440 --> 02:04:35,000
+It's so interesting that we can be eating something anaerobic that it can be in our food, right?
+
+1064
+02:04:35,000 --> 02:04:38,840
+It's added. I guess it's aerobic. It has to be aerobic.
+
+1065
+02:04:38,840 --> 02:04:42,120
+Kind of gets to the challenge of this whole anaerobic problem, right?
+
+1066
+02:04:42,120 --> 02:04:48,840
+Yes, but the organism that's put in, it actually goes through the GI tract and survives.
+
+1067
+02:04:49,400 --> 02:04:57,240
+So the importance of a probiotic is not only that it be there, but that it survive and do something
+
+1068
+02:04:57,240 --> 02:05:02,040
+in the GI tract. How can people navigate this world, Mike? Because this is another one of those
+
+1069
+02:05:02,040 --> 02:05:08,840
+places where there's a lot of opportunity for charlatans to sell you things that, A, don't even
+
+1070
+02:05:08,840 --> 02:05:14,840
+have the colonies that they claim they do, or if they're there, they're dead on arrival, and if
+
+1071
+02:05:14,840 --> 02:05:20,840
+they're not, they don't survive the transit from mouth to colon. I mean, how does one kick the
+
+1072
+02:05:20,840 --> 02:05:31,800
+tires on these things? Well, for one thing is you can trust the FTC and the FDA. So claims cannot be
+
+1073
+02:05:31,800 --> 02:05:41,960
+made for food stuff like a probiotic that are medical unless it has been subjected to actual
+
+1074
+02:05:41,960 --> 02:05:52,280
+tests and pass FDA muster to show efficacy and safety. Most of what they call probiotic, prebiotic,
+
+1075
+02:05:52,280 --> 02:05:59,880
+has not done that. Food stuff then is regulated through the advertising by the FTC.
+
+1076
+02:06:00,520 --> 02:06:09,320
+So I was interestingly called upon to testify at a hearing for a game. I consult for Danin,
+
+1077
+02:06:10,200 --> 02:06:17,240
+and so when I mentioned activity that I take, that doesn't mean that I want to tell everybody
+
+1078
+02:06:17,240 --> 02:06:23,560
+out there that this is better than any other. It's just one I know about. So in any case,
+
+1079
+02:06:24,200 --> 02:06:33,080
+the FTC looked very carefully at the claims made for that product and wanted to see and carefully
+
+1080
+02:06:33,080 --> 02:06:40,920
+evaluated all of the evidence. And in order to make the claims that Danin makes for that product,
+
+1081
+02:06:41,560 --> 02:06:48,680
+they actually have to demonstrate to the FTC that they have the evidence that it does what they say
+
+1082
+02:06:48,680 --> 02:06:56,200
+it does. So they say that if you eat as much as two cups a day of activity, it will cause the GI
+
+1083
+02:06:56,200 --> 02:07:03,880
+tract to speed up. And the answer is it will. And how many colony forming units are provided
+
+1084
+02:07:03,880 --> 02:07:11,160
+in that? I honestly don't know. I can't answer that question. But there are, I think, something
+
+1085
+02:07:11,160 --> 02:07:17,160
+in the order of 10 to the 11th going in. And I'm trying to think of what comes out the other end,
+
+1086
+02:07:17,160 --> 02:07:23,400
+but it's much less. But they do have evidence, at least for that product, that it survives and goes
+
+1087
+02:07:23,400 --> 02:07:28,920
+through. When it comes to getting your GI system back and tracked after a course of antibiotics,
+
+1088
+02:07:28,920 --> 02:07:34,360
+what are the most important elements to look for in the probiotic? Is it lactobacilli then?
+
+1089
+02:07:35,160 --> 02:07:42,040
+Not a specific lactobacillus, just the ability to colonize the GI tract. So saccharomyces
+
+1090
+02:07:42,920 --> 02:07:48,360
+works very well in that case. That's the one I'm trying to think of the trade name for.
+
+1091
+02:07:48,360 --> 02:07:50,840
+We'll figure that out and link to it in our show notes.
+
+1092
+02:07:50,840 --> 02:07:53,880
+It's well known and it's a yeast derived product.
+
+1093
+02:07:53,880 --> 02:07:55,640
+And it's over the counter, not?
+
+1094
+02:07:55,640 --> 02:07:57,000
+Yes, it's over the counter.
+
+1095
+02:07:57,560 --> 02:08:01,320
+Now, by definition, does a probiotic need to be refrigerated?
+
+1096
+02:08:02,120 --> 02:08:06,200
+It just needs to be able to survive. You can take it as a pill.
+
+1097
+02:08:06,760 --> 02:08:09,800
+But even pills don't need to be stored in the refrigerator.
+
+1098
+02:08:09,800 --> 02:08:16,760
+No, they don't. Not necessarily. It depends on which one. So, for example, bifidobacteria
+
+1099
+02:08:16,760 --> 02:08:23,560
+animalus, which is in activity, has to be refrigerated. But so does the activity because
+
+1100
+02:08:23,560 --> 02:08:24,680
+it's yogurt based.
+
+1101
+02:08:25,480 --> 02:08:29,000
+Again, it just seems to me that the big opportunity here is going to come
+
+1102
+02:08:29,640 --> 02:08:36,360
+with kind of the bioengineering that's necessary to grow these bacteria in culture. That seems to
+
+1103
+02:08:36,360 --> 02:08:41,240
+be just an enormous blind spot we still have in this space, both from a diagnostic standpoint,
+
+1104
+02:08:41,240 --> 02:08:42,920
+but also from a therapeutic standpoint.
+
+1105
+02:08:43,800 --> 02:08:52,440
+Absolutely right. And from a point of view of really having what is sort of a fringe popular
+
+1106
+02:08:53,000 --> 02:09:01,800
+economy to a really effective major product so that if you could make an organism and
+
+1107
+02:09:01,800 --> 02:09:09,880
+know exactly what it does and you can make it in scale and give it to people to take it safely,
+
+1108
+02:09:10,680 --> 02:09:11,960
+big time bucks.
+
+1109
+02:09:13,080 --> 02:09:20,280
+Well, Mike, thank you very much for this tour of one of the most probably underappreciated systems
+
+1110
+02:09:20,280 --> 02:09:26,120
+in the human body. We've talked a lot about its unique embryology, very unique innervation.
+
+1111
+02:09:26,680 --> 02:09:34,360
+And of course, perhaps most importantly, its cohabitation with bacteria that basically
+
+1112
+02:09:34,360 --> 02:09:38,520
+outnumber us. As we said, I think at the outset, I can't remember if we talked about this before
+
+1113
+02:09:38,520 --> 02:09:43,880
+we were recording or not, but this really feels like a bit of a black box. And I guess that speaks
+
+1114
+02:09:43,880 --> 02:09:47,720
+to why 60 years later, you're still working just as hard.
+
+1115
+02:09:48,600 --> 02:09:53,080
+That's right. Or as you said, as you get further away from shore, the water gets deeper.
+
+1116
+02:09:53,880 --> 02:09:57,320
+Yeah. Well, the water feels awfully deep right now, Mike. Thank you very much
+
+1117
+02:09:57,320 --> 02:09:59,320
+for your time and your expertise today.
+
+1118
+02:09:59,320 --> 02:09:59,720
+Thank you.
+
+1119
+02:10:03,640 --> 02:10:07,720
+Thank you for listening to this week's episode of The Drive. If you're interested in diving deeper
+
+1120
+02:10:07,720 --> 02:10:11,880
+into any topics we discuss, we've created a membership program that allows us to bring
+
+1121
+02:10:11,880 --> 02:10:17,000
+you more in-depth, exclusive content without relying on paid ads. It's our goal to ensure
+
+1122
+02:10:17,000 --> 02:10:21,800
+members get back much more than the price of the subscription. Now to that end, membership
+
+1123
+02:10:21,800 --> 02:10:27,080
+benefits include a bunch of things. One, totally kick ass comprehensive podcast show notes that
+
+1124
+02:10:27,080 --> 02:10:32,520
+detail every topic, paper, person, thing we discuss on each episode. The word on the street is
+
+1125
+02:10:32,520 --> 02:10:38,120
+nobody's show notes rival these monthly AMA episodes or ask me anything episodes hearing
+
+1126
+02:10:38,120 --> 02:10:44,040
+these episodes completely access to our private podcast feed that allows you to hear everything
+
+1127
+02:10:44,040 --> 02:10:49,160
+without having to listen to spiel's like this. The qualities, which are a super short podcast
+
+1128
+02:10:49,240 --> 02:10:53,320
+that we release every Tuesday through Friday, highlighting the best questions, topics, and
+
+1129
+02:10:53,320 --> 02:10:58,680
+tactics discussed on previous episodes of The Drive. This is a great way to catch up on previous
+
+1130
+02:10:58,680 --> 02:11:04,440
+episodes without having to go back and necessarily listen to everyone. Steep discounts on products
+
+1131
+02:11:04,440 --> 02:11:09,160
+that I believe in, but for which I'm not getting paid to endorse and a whole bunch of other benefits
+
+1132
+02:11:09,160 --> 02:11:13,720
+that we continue to trickle in as time goes on. If you want to learn more and access these member
+
+1133
+02:11:13,720 --> 02:11:20,200
+only benefits, you can head over to PeterAttiaMD.com forward slash subscribe. You can find me on
+
+1134
+02:11:20,200 --> 02:11:26,440
+Twitter, Instagram, and Facebook, all with the ID PeterAttiaMD. You can also leave us a review on
+
+1135
+02:11:26,440 --> 02:11:32,440
+Apple podcast or whatever podcast player you listen on. This podcast is for general informational
+
+1136
+02:11:32,440 --> 02:11:36,840
+purposes only and does not constitute the practice of medicine, nursing, or other professional
+
+1137
+02:11:36,840 --> 02:11:42,760
+healthcare services, including the giving of medical advice. No doctor patient relationship
+
+1138
+02:11:42,840 --> 02:11:48,280
+is formed. The use of this information and the materials linked to this podcast is at the user's
+
+1139
+02:11:48,280 --> 02:11:53,480
+own risk. The content on this podcast is not intended to be a substitute for professional
+
+1140
+02:11:53,480 --> 02:12:00,360
+medical advice, diagnosis, or treatment. Users should not disregard or delay in obtaining medical
+
+1141
+02:12:00,360 --> 02:12:05,000
+advice from any medical condition they have, and they should seek the assistance of their
+
+1142
+02:12:05,000 --> 02:12:10,760
+healthcare professionals for any such conditions. Finally, I take conflicts of interest very
+
+1143
+02:12:10,760 --> 02:12:16,360
+seriously. For all of my disclosures and the companies I invest in or advise, please visit
+
+1144
+02:12:16,360 --> 02:12:26,680
+PeterAttiaMD.com forward slash about where I keep an up-to-date and active list of such companies.
+

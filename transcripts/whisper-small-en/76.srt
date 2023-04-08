@@ -1,0 +1,4928 @@
+1
+00:00:00,000 --> 00:00:10,640
+Hey everyone, welcome to the Peter Attia drive. I'm your host, Peter Attia.
+
+2
+00:00:10,640 --> 00:00:16,000
+The drive is a result of my hunger for optimizing performance, health, longevity, critical thinking,
+
+3
+00:00:16,000 --> 00:00:19,760
+along with a few other obsessions along the way. I've spent the last several years working
+
+4
+00:00:19,760 --> 00:00:23,840
+with some of the most successful top performing individuals in the world. And this podcast
+
+5
+00:00:23,840 --> 00:00:28,600
+is my attempt to synthesize what I've learned along the way to help you live a higher quality,
+
+6
+00:00:28,600 --> 00:00:33,400
+more fulfilling life. If you enjoy this podcast, you can find more information on today's episode
+
+7
+00:00:33,400 --> 00:00:43,480
+and other topics at PeterAttiaMD.com. Hey everybody, welcome to this week's episode
+
+8
+00:00:43,480 --> 00:00:47,560
+of the drive. I'd like to take a couple of minutes to talk about why we don't run ads
+
+9
+00:00:47,560 --> 00:00:51,680
+on this podcast. If you're listening to this, you probably already know, but the two things
+
+10
+00:00:51,680 --> 00:00:57,120
+I care most about professionally are how to live longer and how to live better. I have
+
+11
+00:00:57,120 --> 00:01:02,040
+a complete fascination and obsession with this topic. I practice it professionally and
+
+12
+00:01:02,040 --> 00:01:06,760
+I've seen firsthand how access to information is basically all people need to make better
+
+13
+00:01:06,760 --> 00:01:11,360
+decisions and improve the quality of their lives. Curating and sharing this knowledge
+
+14
+00:01:11,360 --> 00:01:15,560
+is not easy. And even before starting the podcast, that became clear to me. The sheer
+
+15
+00:01:15,560 --> 00:01:20,560
+volume of material published in this space is overwhelming. I'm fortunate to have a great
+
+16
+00:01:20,560 --> 00:01:26,120
+team that helps me continue learning and sharing this information with you. To take one example,
+
+17
+00:01:26,120 --> 00:01:30,440
+our show notes are in a league of their own. In fact, we now have a full-time person that
+
+18
+00:01:30,440 --> 00:01:35,920
+is dedicated to producing those and the feedback has mirrored this. So all of this raises a
+
+19
+00:01:35,920 --> 00:01:41,560
+natural question. How will we continue to fund the work necessary to support this? As
+
+20
+00:01:41,560 --> 00:01:45,880
+you probably know, the tried and true way to do this is to sell ads. But after a lot
+
+21
+00:01:45,880 --> 00:01:51,000
+of contemplation, that model just doesn't feel right to me for a few reasons. Now, the
+
+22
+00:01:51,000 --> 00:01:56,000
+first and most important of these is trust. I'm not sure how you could trust me if I'm
+
+23
+00:01:56,000 --> 00:02:00,040
+telling you about something when you know I'm being paid by the company that makes it
+
+24
+00:02:00,040 --> 00:02:05,480
+to tell you about it. Another reason selling ads doesn't feel right to me is because I
+
+25
+00:02:05,480 --> 00:02:09,640
+just know myself. I have a really hard time advocating for something that I'm not absolutely
+
+26
+00:02:09,640 --> 00:02:14,680
+nuts for. So if I don't feel that way about something, I don't know how I can talk about
+
+27
+00:02:14,680 --> 00:02:19,320
+it enthusiastically. So instead of selling ads, I've chosen to do what a handful of others
+
+28
+00:02:19,320 --> 00:02:25,960
+have proved can work over time, and that is to create a subscriber model for my audience.
+
+29
+00:02:25,960 --> 00:02:31,920
+This keeps my relationship with you both simple and honest. If you value what I'm doing,
+
+30
+00:02:31,920 --> 00:02:36,520
+you can become a member. In exchange, you'll get the benefits above and beyond what's available
+
+31
+00:02:36,520 --> 00:02:41,840
+for free. It's that simple. It's my goal to ensure that no matter what level you choose
+
+32
+00:02:41,840 --> 00:02:48,760
+to support us at, you will get back more than you give. So for example, members will receive
+
+33
+00:02:48,760 --> 00:02:55,480
+full access to the exclusive show notes, including other things that we plan to build upon. These
+
+34
+00:02:55,480 --> 00:02:59,920
+are useful beyond just the podcast, especially given the technical nature of many of our shows.
+
+35
+00:02:59,920 --> 00:03:07,080
+Members also get exclusive access to listen to and participate in the regular Ask Me Anything
+
+36
+00:03:07,080 --> 00:03:13,600
+episodes. That means asking questions directly into the AMA portal and also getting to hear
+
+37
+00:03:13,600 --> 00:03:17,760
+these podcasts when they come out. Lastly, and this is something I'm really excited about,
+
+38
+00:03:17,760 --> 00:03:22,680
+I want my supporters to get the best deals possible on the products that I love. And as
+
+39
+00:03:22,680 --> 00:03:26,800
+I said, we're not taking ad dollars from anyone, but instead what I'd like to do is work with
+
+40
+00:03:26,800 --> 00:03:31,520
+companies who make the products that I already love and would already talk about for free and
+
+41
+00:03:31,520 --> 00:03:39,320
+have them pass savings on to you. Again, the podcast will remain free to all, but my hope
+
+42
+00:03:39,320 --> 00:03:46,240
+is that many of you will find enough value in one, the podcast itself, and two, the additional
+
+43
+00:03:46,240 --> 00:03:51,080
+content exclusive for members. I want to thank you for taking a moment to listen to this. If you
+
+44
+00:03:51,080 --> 00:03:55,720
+learn from and find value in the content I produce, please consider supporting us directly
+
+45
+00:03:55,720 --> 00:04:01,320
+by signing up for a monthly subscription. My guest this week is Kyle Kingsbury. Some of you
+
+46
+00:04:01,320 --> 00:04:06,320
+may recognize Kyle. He's a retired UFC fighter. He's been on the Joe Rogan Experience a number
+
+47
+00:04:06,320 --> 00:04:11,920
+of times. He's currently the director of human optimization at Onnit. I first met Kyle in person
+
+48
+00:04:11,920 --> 00:04:18,800
+during a hunting trip in early 2019, though we had both known about each other prior to that and
+
+49
+00:04:18,800 --> 00:04:23,640
+seen each other in interviews and things like that. We immediately clicked and become very close
+
+50
+00:04:23,640 --> 00:04:28,560
+since that time. Now, in this episode, which truthfully, when you're interviewing people that
+
+51
+00:04:28,560 --> 00:04:34,000
+you know pretty well, you don't really know where you're going to go. Honestly, this episode and this
+
+52
+00:04:34,000 --> 00:04:40,280
+interview went in places I did not expect it to go in and for which I'm incredibly grateful. We
+
+53
+00:04:40,280 --> 00:04:45,280
+could have spent a lot of this time talking about UFC and mixed martial arts and all of those things,
+
+54
+00:04:45,280 --> 00:04:49,000
+and that would have been interesting, but we went to places that Kyle has never talked about
+
+55
+00:04:49,000 --> 00:04:53,640
+publicly. In fact, a couple of things that he hadn't even shared with me privately before. I
+
+56
+00:04:53,640 --> 00:04:59,280
+was incredibly moved by this experience. We talk about his upbringing, playing football, going to
+
+57
+00:04:59,280 --> 00:05:03,800
+JC, then college. We talk about his experience with performance enhancing drugs, something I
+
+58
+00:05:03,800 --> 00:05:08,080
+don't think he's ever really spoken about before. As a little sidebar, we talk about something called
+
+59
+00:05:08,080 --> 00:05:12,480
+the Wizenator, which is about the funniest thing I've ever heard of. Talk about his transition away
+
+60
+00:05:12,480 --> 00:05:17,120
+from football after realizing he wasn't going to make it to the NFL. It's during this piece that
+
+61
+00:05:17,120 --> 00:05:22,320
+Kyle really opens up about this period of depression in his life and his thoughts of suicide that have
+
+62
+00:05:22,320 --> 00:05:28,120
+been somewhat recurrent and had started as early as the age of seven. He talks about his close calls
+
+63
+00:05:28,120 --> 00:05:34,240
+with suicide, his eventual transition into MMA and UFC. We end our talk with a conversation around
+
+64
+00:05:34,240 --> 00:05:39,960
+his experience with ayahuasca towards the end of his UFC career and how that really became the
+
+65
+00:05:39,960 --> 00:05:46,360
+turning point in his own journey towards being more emotionally healthy and frankly, what's
+
+66
+00:05:46,360 --> 00:05:51,040
+enabled him to become a father and become the father that he wishes he could have had.
+
+67
+00:05:51,040 --> 00:05:54,320
+Now, before we get into this conversation, I feel it's really important to have a couple of
+
+68
+00:05:54,320 --> 00:05:58,400
+disclaimers. First, in this conversation, Kyle really opens up about his past depression and
+
+69
+00:05:58,400 --> 00:06:02,880
+his thoughts of suicide and how close he was to it on a number of occasions. It's a very heavy
+
+70
+00:06:02,880 --> 00:06:08,640
+conversation. If you're currently experiencing any thoughts of self-harm or suicide, it is imperative
+
+71
+00:06:08,640 --> 00:06:13,680
+that you seek out medical help immediately. Second, Kyle and I have a very open and honest
+
+72
+00:06:13,680 --> 00:06:19,160
+conversation about psychedelics. The substances we speak about are illegal and by no means are we
+
+73
+00:06:19,160 --> 00:06:24,280
+advocating for anyone to use them or experiment with them. There are physical, physiological,
+
+74
+00:06:24,280 --> 00:06:29,280
+psychological and legal risks around the use of these plans. This conversation is purely
+
+75
+00:06:29,280 --> 00:06:33,960
+informational only. Kyle speaks about his personal experiences and how it has shaped his thinking.
+
+76
+00:06:34,280 --> 00:06:38,720
+So without further delay, please enjoy my conversation with my friend Kyle Kingsbury.
+
+77
+00:06:38,720 --> 00:06:43,240
+Hi, brother. How are you?
+
+78
+00:06:43,240 --> 00:06:44,320
+I'm doing great, brother.
+
+79
+00:06:44,320 --> 00:06:45,320
+Happy Father's Day.
+
+80
+00:06:45,320 --> 00:06:46,560
+Happy Father's Day to you.
+
+81
+00:06:46,560 --> 00:06:51,400
+Thank you. I forgot it was Father's Day when I woke up and my wife left me this beautiful
+
+82
+00:06:51,400 --> 00:06:54,680
+little note on the counter. She had gone out running before I got up and it was like,
+
+83
+00:06:54,680 --> 00:06:59,040
+here's your coffee. It was like the sweetest thing. What did you do for Father's Day today?
+
+84
+00:06:59,040 --> 00:06:59,760
+Because you're not with your boy.
+
+85
+00:06:59,760 --> 00:07:04,520
+No, we head back tomorrow to the bay and we'll get like a Father's Day celebration there. My
+
+86
+00:07:04,520 --> 00:07:09,560
+dad's going to come up from Santa Cruz. So today is just living the dream. I mean,
+
+87
+00:07:09,560 --> 00:07:13,080
+I'm on your podcast. I'm staying at your house. We're going to shoot arrows after this with a
+
+88
+00:07:13,080 --> 00:07:15,640
+couple of great guys. So couldn't ask for much more.
+
+89
+00:07:15,640 --> 00:07:17,920
+So did you grow up in Santa Cruz or San Jose?
+
+90
+00:07:17,920 --> 00:07:20,160
+Right outside San Jose and Cupertino and Sunnyvale.
+
+91
+00:07:20,160 --> 00:07:25,160
+Got it. And you played a ton of sports growing up, I imagine. Was football your big one?
+
+92
+00:07:25,280 --> 00:07:30,320
+Yeah, I wasn't really good. I mean, I got into baseball late, 12. A lot of kids have been
+
+93
+00:07:30,320 --> 00:07:35,600
+playing for a long time. So I just played one year. Football I got into at 10. And I just loved it
+
+94
+00:07:35,600 --> 00:07:42,000
+immediately. Like I was playing. At that point, you had weight classes and age classes. So for my
+
+95
+00:07:42,000 --> 00:07:48,800
+weight and age, it was I think, I don't know, right around 105 to 110 pounds when I was 10.
+
+96
+00:07:48,800 --> 00:07:51,560
+So I was getting like a beanpole. I mean, then-
+
+97
+00:07:51,560 --> 00:07:54,840
+That strikes me as big for a 10 year old, but maybe I'm just comparing it to my daughter.
+
+98
+00:07:55,160 --> 00:07:55,840
+I don't know. At 12-
+
+99
+00:07:55,840 --> 00:07:56,760
+Which is not a good comparison.
+
+100
+00:07:56,760 --> 00:08:02,440
+Maybe it was less, but at 12, we were on the Sunnyvale micro rockets. That was 118. Because
+
+101
+00:08:02,440 --> 00:08:07,000
+I remember that was the last year I could play. We had a running back that weighed the same weight.
+
+102
+00:08:07,000 --> 00:08:12,120
+We both had to cut weight. And he was a great deal shorter than me. So he was just stacked.
+
+103
+00:08:12,840 --> 00:08:15,560
+I didn't fill out till much later, like sophomore year of high school.
+
+104
+00:08:16,200 --> 00:08:18,440
+That's interesting. Kids at 12 cutting weight.
+
+105
+00:08:19,080 --> 00:08:23,080
+Yeah, I'm not sure that's great. We'd get the seeds or something like that that are salted
+
+106
+00:08:23,160 --> 00:08:28,520
+and just suck and spit for hours on the drive out to games, that kind of stuff.
+
+107
+00:08:28,520 --> 00:08:30,600
+So in high school, you played football.
+
+108
+00:08:30,600 --> 00:08:33,000
+Football and wrestling and junior high in high school.
+
+109
+00:08:33,640 --> 00:08:36,200
+Got it. So how'd you decide where you wanted to go for college?
+
+110
+00:08:37,000 --> 00:08:41,000
+I had for a long time wanted to play in the Pac-10. It used to be the Pac-10.
+
+111
+00:08:41,560 --> 00:08:45,240
+I think every kid wants to get out of state when they go, a lot of them want to get out of state
+
+112
+00:08:45,240 --> 00:08:52,360
+when they go to university, as you call it. And you don't want to go too far, obviously.
+
+113
+00:08:52,360 --> 00:08:56,680
+Your parents will throw a fit. My parents would have. But a lot of my good friends that I grew up
+
+114
+00:08:56,680 --> 00:09:00,840
+with, I knew since I was 12 years old, they were like, dude, we're going to ASU. It's amazing.
+
+115
+00:09:00,840 --> 00:09:04,920
+And I had to go to junior college because I was garbage, garbage academically. I didn't resonate
+
+116
+00:09:04,920 --> 00:09:09,240
+a lot with the teachers I had. And you know, we talked about this on my podcast yesterday.
+
+117
+00:09:09,960 --> 00:09:13,560
+Literally, I can count on one hand, everyone that stuck out and took me under their wing and
+
+118
+00:09:13,560 --> 00:09:20,280
+saw something in me more than I saw myself. So going to junior college, I went for one year.
+
+119
+00:09:20,280 --> 00:09:24,840
+And then I realized I can, if I transfer to a different junior college that's right by ASU,
+
+120
+00:09:24,840 --> 00:09:27,640
+my likelihood of getting in is much higher. So that's what I did.
+
+121
+00:09:28,280 --> 00:09:30,920
+So why do you think that is, by the way, that high school didn't resonate?
+
+122
+00:09:31,560 --> 00:09:36,840
+We had a pretty high academic school for a public school. The Wall Street Journal published us as
+
+123
+00:09:36,840 --> 00:09:42,280
+one of the top 10 public schools in the world. And we had a lot of people from China and Asia
+
+124
+00:09:42,280 --> 00:09:47,560
+and India coming over. It's even higher now. It's about, I want to say 70 to 80 percent
+
+125
+00:09:47,560 --> 00:09:51,480
+Asian, including Indian. And the population is what roughly of the high school?
+
+126
+00:09:52,040 --> 00:09:56,760
+It was huge. I mean, I think we had 2,500 people in our graduating class senior year.
+
+127
+00:09:56,760 --> 00:10:00,760
+25, so what, you mean there were 10,000 kids in the entire high school?
+
+128
+00:10:00,760 --> 00:10:04,040
+I don't think so. Maybe that's the wrong number. 2,500 total probably.
+
+129
+00:10:04,040 --> 00:10:06,120
+Okay. Yeah, couldn't have been 10,000.
+
+130
+00:10:07,480 --> 00:10:08,680
+Regardless, that's still unbelievable.
+
+131
+00:10:08,680 --> 00:10:13,720
+They couldn't build whatever the portables. They couldn't get enough portables one year. So we had
+
+132
+00:10:13,720 --> 00:10:17,400
+breached the number that was allowed in the school district and the superintendent gave it an okay.
+
+133
+00:10:17,480 --> 00:10:19,240
+Because his son went to school with us.
+
+134
+00:10:19,240 --> 00:10:22,040
+In a high school that big, you don't actually know everybody in your class?
+
+135
+00:10:22,040 --> 00:10:26,440
+No, there's many, many kids that I didn't know from that. But we kind of, I mean,
+
+136
+00:10:26,440 --> 00:10:29,480
+like any high school, you stick to your core group, that kind of thing. And I was fortunate
+
+137
+00:10:29,480 --> 00:10:34,360
+enough to have those guys all the way through college and after. I'm still close with a lot of them.
+
+138
+00:10:35,160 --> 00:10:39,320
+I mean, obviously knowing you today, you're intellectually curious and thoughtful and stuff,
+
+139
+00:10:39,320 --> 00:10:44,360
+but I always find it interesting when you see people who have kind of gone through a transformation
+
+140
+00:10:44,360 --> 00:10:48,120
+of not resonating with any of that stuff until doing so. But I often wonder, like,
+
+141
+00:10:48,120 --> 00:10:51,160
+was there a precipitating event? Was there a bad experience you had with a teacher or
+
+142
+00:10:51,160 --> 00:10:56,680
+something like that? You know, I wasn't nice in high school or prior to that. I got in trouble
+
+143
+00:10:56,680 --> 00:11:01,880
+from kindergarten on, I'd get into the principal's office, at least three days a week, gotten a lot
+
+144
+00:11:01,880 --> 00:11:07,000
+of fights growing up. I mean, more than the fighting, just mess with the teachers, you know,
+
+145
+00:11:07,000 --> 00:11:12,920
+as a class clown and pretty disruptive. And I enjoyed that. It gave me some sense of control
+
+146
+00:11:12,920 --> 00:11:17,480
+in my environment. I always enjoyed entertaining people and making people laugh. So, like,
+
+147
+00:11:17,480 --> 00:11:23,000
+that checks off every box. If I can start riffing and clowning on people and everyone's laughing
+
+148
+00:11:23,000 --> 00:11:27,640
+and looking at me, then I can get a little attention and maybe be, you know, a little bit
+
+149
+00:11:27,640 --> 00:11:33,240
+of a jerk to the teacher, but it was worth it to me. So, it was actually at ASU, I was taking some
+
+150
+00:11:33,240 --> 00:11:37,880
+psychology courses in sociology and communication where I was like, oh, this shit matters. Like,
+
+151
+00:11:37,960 --> 00:11:42,520
+I will, it doesn't matter if I get a philosophy degree or a communications degree. Like,
+
+152
+00:11:43,240 --> 00:11:47,080
+this is, these are things that I will use the rest of my life. And that was the first time where it
+
+153
+00:11:47,080 --> 00:11:50,680
+really felt that way. You know, a lot of kids complain like, what am I gonna use algebra for?
+
+154
+00:11:50,680 --> 00:11:55,320
+What am I gonna use this for? You know, and I think that having that in college really made
+
+155
+00:11:55,320 --> 00:11:59,320
+me think like, oh, there's a lot to learn. And it's, there's really cool stuff to learn that
+
+156
+00:11:59,320 --> 00:12:04,360
+resonates with me. And in all those classes, I did really well. It was all A's and B's as well for me.
+
+157
+00:12:04,840 --> 00:12:08,840
+So, it's interesting because if it weren't for football, I mean, you jumped through a lot of
+
+158
+00:12:08,840 --> 00:12:12,760
+hoops to get to ASU, you're going to JC's before you get there, right?
+
+159
+00:12:12,760 --> 00:12:14,440
+And a walk on at ASU.
+
+160
+00:12:14,440 --> 00:12:18,760
+Okay, so it begs the question, right? If you weren't athletic, if you were the exact same
+
+161
+00:12:18,760 --> 00:12:22,760
+guy, but you didn't happen to have an ability to play, you know, division one football,
+
+162
+00:12:23,480 --> 00:12:25,080
+what would you have done after high school?
+
+163
+00:12:25,080 --> 00:12:30,840
+Something blue collar for sure. My dad, he had a Silicon Valley shelving was a company he created
+
+164
+00:12:30,920 --> 00:12:34,360
+in the Bay right as the tech boom started. And all these tech companies needed static
+
+165
+00:12:34,360 --> 00:12:38,280
+control shelving. So he was making a lot of money and he would pay me and my sister to
+
+166
+00:12:38,280 --> 00:12:42,760
+build a lot of this stuff. And it was fun for me. It was like giant Erector sets, you know,
+
+167
+00:12:42,760 --> 00:12:47,320
+like we'd we'd play with life size Lego. Yeah, huge stuff. And even you know,
+
+168
+00:12:47,320 --> 00:12:52,040
+like we'd get into a warehouse. And he and I would be drilling into concrete and pounding,
+
+169
+00:12:52,040 --> 00:12:57,320
+you know, giant hammers down to get this stuff anchored. And that was always cool. And it paid
+
+170
+00:12:57,320 --> 00:13:02,440
+really well, but I enjoyed it. So I liked working with my hands there. And he came from a different
+
+171
+00:13:02,440 --> 00:13:08,440
+era, you know, as every dad is, but he always worked on cars, and he knew a lot about things.
+
+172
+00:13:08,440 --> 00:13:12,200
+And then he would kind of shun me from living the same life as him. He was like, No, you're going
+
+173
+00:13:12,200 --> 00:13:15,560
+to go into sales, you're going to make a ton of money, you'll just pay a guy to work on your car,
+
+174
+00:13:15,560 --> 00:13:19,560
+you just pay a guy to fix your house, because he did all that he did construction since he was 20.
+
+175
+00:13:20,360 --> 00:13:24,120
+And I was just laughed at it was like, these are like really usable skills. It's nice to know how
+
+176
+00:13:24,120 --> 00:13:28,120
+to change the oil in your car. You know, like, why aren't you teaching me this stuff? So
+
+177
+00:13:28,680 --> 00:13:32,760
+thankfully, now he's kind of that have had a little bit of success. He's, he's happy to show
+
+178
+00:13:32,760 --> 00:13:36,200
+me those things. Why do you think he felt that way? Where did you grow up? Do you grow up in
+
+179
+00:13:36,200 --> 00:13:40,760
+the same area? He grew up in all my families from Oregon, in the Pacific Northwest, and then they
+
+180
+00:13:40,760 --> 00:13:46,040
+moved to California, my parents met in Alaska, and then moved to California, I think in large part,
+
+181
+00:13:46,040 --> 00:13:51,640
+to be by the sun and to get away from their families. And so you know, I grew up there. And
+
+182
+00:13:52,280 --> 00:13:56,600
+I just think all parents want better for their kids. You know, in that regard, and he saw
+
+183
+00:13:57,960 --> 00:14:01,720
+that as better, you know, financial success, stability, those kind of things as better.
+
+184
+00:14:02,440 --> 00:14:06,040
+And were they upset then in high school when you weren't doing well, academically?
+
+185
+00:14:06,040 --> 00:14:11,640
+Kind of, I mean, they paid attention, and I get in trouble a lot at home. I think for them,
+
+186
+00:14:11,640 --> 00:14:16,520
+it was really hard to kind of wrap their brain around how you can wrangle someone in at that
+
+187
+00:14:16,520 --> 00:14:21,720
+point. Because, you know, they fought a lot growing up. I talked about this before. But
+
+188
+00:14:22,840 --> 00:14:27,880
+one of the books that I really have a lot of love for is Nonviolent Communication
+
+189
+00:14:28,520 --> 00:14:36,440
+by Marshall Rosenberg, who recently passed away. And whatever that is, my childhood was not. So
+
+190
+00:14:36,440 --> 00:14:40,200
+they really didn't know how to communicate with one another. And it was like two rams butting heads
+
+191
+00:14:40,200 --> 00:14:45,400
+all the time. And then they got divorced when I was 13. And from there, that was like the deepest
+
+192
+00:14:45,400 --> 00:14:49,080
+sense of peace I'd ever had because it was less stress on both of them. They didn't know how to
+
+193
+00:14:49,080 --> 00:14:53,320
+communicate with each other. And did you and your sister spend time with both of them? Or you
+
+194
+00:14:53,320 --> 00:14:57,720
+pretty much my mom got full custody, but we'd see my dad every week, you know, twice a week,
+
+195
+00:14:57,720 --> 00:15:01,160
+something like that. And he was still a big part of our lives. And he lived right down the street.
+
+196
+00:15:01,160 --> 00:15:07,000
+So and I wanted to see him more because he was a gentler, kinder dad at that point.
+
+197
+00:15:07,000 --> 00:15:09,800
+Was one of your parents more strict than the other when it came to trying to keep you in
+
+198
+00:15:09,800 --> 00:15:13,800
+line at school? I'd say I went back and forth, you know, and who took the cake there? You know,
+
+199
+00:15:13,800 --> 00:15:20,200
+they had different ways of discipline. But yeah, it was, I don't know, I think they were at a loss,
+
+200
+00:15:20,200 --> 00:15:24,760
+really. But they still they never said, you're not going to go to college like the entire time.
+
+201
+00:15:24,760 --> 00:15:28,760
+It was you're still going to college. I don't give a shit if you have to go to junior college
+
+202
+00:15:28,760 --> 00:15:33,880
+for three years, you're going to go to college. So they were pretty pumped when I got an ASU,
+
+203
+00:15:33,880 --> 00:15:39,160
+which is funny. There was a Simpsons episode where there's the great flood and Ned Flanders
+
+204
+00:15:39,800 --> 00:15:43,960
+is like, Thank you, Lord, you've spared the righteous and damned the wicked.
+
+205
+00:15:43,960 --> 00:15:47,640
+And he sees Homer floating in a raft. And he's like, Looks like heaven's easier to get into
+
+206
+00:15:47,640 --> 00:15:53,640
+than Arizona State. We played that clip all through college. It was it was great. It was
+
+207
+00:15:53,640 --> 00:15:57,880
+a feather in our cap. But yeah, it is it is an easy school to get into. Yeah, but I mean,
+
+208
+00:15:57,880 --> 00:16:02,600
+it's a school that also has a great reputation as well. You get in there and and what ASU has got
+
+209
+00:16:02,600 --> 00:16:06,680
+to be huge. It was massive. It was still I mean, still to this day. And even at that point,
+
+210
+00:16:06,680 --> 00:16:10,440
+when I was there, one of the high most highly populated schools in the country,
+
+211
+00:16:11,320 --> 00:16:18,200
+huge campus, gorgeous campus, hot year around for the most part. And you know, the draw for a
+
+212
+00:16:18,200 --> 00:16:23,320
+young male is that a lot of the ladies there, they can't wear much, they can't hide it, you know,
+
+213
+00:16:23,320 --> 00:16:27,800
+because of the heat. And that was that was definitely there were some good times there for
+
+214
+00:16:27,800 --> 00:16:33,960
+sure. So you walked on. And what position do you play? I was defensive end and defensive tackle.
+
+215
+00:16:33,960 --> 00:16:39,000
+It was probably not probably I was for sure undersized to play the tackle, but too slow to
+
+216
+00:16:39,000 --> 00:16:43,640
+play the end. So it's kind of an in betweener. And thankfully, you were talking about these great
+
+217
+00:16:43,640 --> 00:16:47,080
+teachers that you've had one of them was my strength and conditioning coach actually both
+
+218
+00:16:47,080 --> 00:16:51,560
+strength and conditioning coaches ahead of Arizona State went on to become strength and conditioning
+
+219
+00:16:51,560 --> 00:16:56,280
+coaches in the NFL. And the head of the strength and conditioning department is going to Joe Ken
+
+220
+00:16:56,280 --> 00:17:03,880
+big house power is a kind of his moniker now was then to a big house. He's the only guy in
+
+221
+00:17:03,880 --> 00:17:08,680
+division one football history and the NFL to win strength coach of the year in both division one
+
+222
+00:17:08,680 --> 00:17:13,080
+football and the NFL. And he's the coach, he's the strength coach for the Carolina Panthers.
+
+223
+00:17:13,880 --> 00:17:18,120
+Mark ooyama, he was he went on to become the head strength coach for the 49ers. He's I think
+
+224
+00:17:18,120 --> 00:17:24,280
+he's now with the Vikings. And both those guys really pushed me past whatever limit I thought
+
+225
+00:17:24,280 --> 00:17:29,080
+I had, you know, like if there's a ceiling, they would push me so far past that I just began to
+
+226
+00:17:29,080 --> 00:17:33,240
+realize like there is no ceiling and you were how old when you showed up, you're two years older
+
+227
+00:17:33,320 --> 00:17:38,680
+than the other. Yeah, it was 20. Yeah, it was definitely an impressionable time. And I was
+
+228
+00:17:38,680 --> 00:17:43,720
+still working through a lot, not really knowing how, you know, drinking a lot doing the party
+
+229
+00:17:43,720 --> 00:17:47,160
+thing. We were number one party school in the nation. If that's any claim to fame.
+
+230
+00:17:48,840 --> 00:17:54,200
+One of my friends at med school went to ASU and the stories he told were, I mean, I couldn't,
+
+231
+00:17:54,200 --> 00:17:57,160
+I couldn't fathom what he was talking about. I mean, I was sort of like he was speaking in
+
+232
+00:17:57,160 --> 00:18:02,760
+other language. What did you guys actually do was my well, I mean, I can give one example. They
+
+233
+00:18:02,760 --> 00:18:07,720
+filmed a porno at one of the fraternities that my friends all went to a theater Kai and they
+
+234
+00:18:07,720 --> 00:18:13,640
+actually shut down all fraternities. Like they don't exist there anymore because of that. So
+
+235
+00:18:15,000 --> 00:18:18,760
+there was no extreme you couldn't think of that that didn't happen there. I mean, it was really,
+
+236
+00:18:19,560 --> 00:18:26,360
+it was wild and fun. And I've lost some friends to drug overdoses and many, you know, it was
+
+237
+00:18:26,360 --> 00:18:30,120
+polarized for sure. You know, and there were still people that went there that were, you know, on the
+
+238
+00:18:30,120 --> 00:18:33,400
+grind and they had all their ducks in a row. But I think there was a lot more people just
+
+239
+00:18:33,400 --> 00:18:38,840
+exploring what it felt like to be an adult for the first time. Did you sort of think about this at
+
+240
+00:18:38,840 --> 00:18:43,000
+the time? Like, I'm escaping from something I'm running from something or did you feel like you
+
+241
+00:18:43,000 --> 00:18:49,800
+were running to something? I didn't feel you know, it's funny because in those moments of play and
+
+242
+00:18:49,800 --> 00:18:54,680
+pushing the envelope, it just felt like we're going to tear it up tonight. You know, and it was more
+
+243
+00:18:54,680 --> 00:19:00,280
+of a celebration like I never was an angry drunk. I never never saw myself as leaning heavily on a
+
+244
+00:19:00,280 --> 00:19:04,840
+crutch. I mean, for a whole year in junior college, I would wake up and smoke pot every day, I'd have
+
+245
+00:19:04,840 --> 00:19:09,720
+to wake up my roommate to light the four foot bong for me because I couldn't reach it with my hand.
+
+246
+00:19:09,720 --> 00:19:13,640
+And that's how I'd start the day. And I had all my classes on Tuesday, Thursday schedule. So five
+
+247
+00:19:13,640 --> 00:19:19,480
+days off a week. And even in that whole year, I never thought like I'm overdoing it. It was just
+
+248
+00:19:19,480 --> 00:19:25,320
+the thing to do. And now obviously, that's, it's all much different. But we'll get into plant
+
+249
+00:19:25,320 --> 00:19:29,400
+medicines. But I think that was really where it lifted the veil and showed me how much I was
+
+250
+00:19:29,400 --> 00:19:35,000
+destroying myself without realizing it. When you decide I want to go to ASU to play football,
+
+251
+00:19:35,000 --> 00:19:38,360
+was that a means to an end? Where did you think that was? Was there some thought you had in back
+
+252
+00:19:38,360 --> 00:19:42,520
+of your mind, I might make it to the NFL. Yeah, I always wanted to play in the NFL. That was the
+
+253
+00:19:42,520 --> 00:19:46,840
+light at the end of the tunnel. And I think there was a lot of things driving me for that one, my
+
+254
+00:19:46,840 --> 00:19:52,200
+love of the game, like it was it was my greatest joy. It was my first legal outlet to let off the
+
+255
+00:19:52,200 --> 00:19:57,240
+steam. And because of the positions I played, I really got to you know, it was buttonheads,
+
+256
+00:19:57,240 --> 00:20:03,160
+every single play of every moment I was on the field. Once I got to ASU, I didn't play much,
+
+257
+00:20:03,160 --> 00:20:08,120
+I really was a bench warmer. And at ASU, I had to embrace my role as a secondary guy for the first
+
+258
+00:20:08,120 --> 00:20:12,600
+time in my life. Everyone who makes it to college was an all star in high school, you know, and the
+
+259
+00:20:12,600 --> 00:20:17,240
+jump is even higher to the NFL. And I remember seeing a guy who graduated a year before me who
+
+260
+00:20:17,240 --> 00:20:22,520
+had played, he started every game all four years on defensive line, which if you're a wide receiver,
+
+261
+00:20:22,520 --> 00:20:28,040
+that's fine. But defensive line, that's pretty tough to do that, to start every game your entire
+
+262
+00:20:28,040 --> 00:20:32,120
+and he didn't make it to the NFL. And that was like, oh, shit, all right, maybe I should think
+
+263
+00:20:32,120 --> 00:20:36,840
+about something else. Because even if I get playing time, my senior year, it's pretty unlikely that
+
+264
+00:20:36,840 --> 00:20:41,320
+that's going to happen. And there was a lot of guys going into Arena League and Canada football
+
+265
+00:20:41,320 --> 00:20:47,480
+and things like that. And it was like, I don't know, there was a piece of me that that wanted
+
+266
+00:20:47,480 --> 00:20:52,280
+to be the best or at least play with the best. And if I wasn't going to do that, there was no point.
+
+267
+00:20:52,920 --> 00:20:56,600
+And I think that there was a decision because I could have gotten a scholarship to play at like
+
+268
+00:20:56,600 --> 00:21:00,760
+a D two school or D one double A and I said, No, I'd rather walk on and play with the big boys.
+
+269
+00:21:01,480 --> 00:21:07,560
+So kind of having that mindset going in, I knew I wasn't going to play some subpar level of football,
+
+270
+00:21:07,560 --> 00:21:09,560
+even though I probably could have extended my career there.
+
+271
+00:21:10,360 --> 00:21:13,240
+It's amazing. I think for a lot of people that maybe aren't as familiar with that,
+
+272
+00:21:13,240 --> 00:21:17,880
+what those jumps look like between high school division one and the NFL, I think I was having
+
+273
+00:21:17,880 --> 00:21:23,240
+this with my daughter a while ago. It must have been during the college football season. And I
+
+274
+00:21:23,240 --> 00:21:27,880
+don't remember how it came up. But the point I wanted to make to her was, if you take the very,
+
+275
+00:21:27,880 --> 00:21:32,600
+very, very best team in college football, the team that's going to win the national championship,
+
+276
+00:21:32,600 --> 00:21:36,760
+and you put them against the very, very worst team in the NFL, it would be the biggest blowout
+
+277
+00:21:36,840 --> 00:21:41,720
+in the history of football. I mean, in as many possessions as you could have, that's how many
+
+278
+00:21:41,720 --> 00:21:46,600
+times the NFL team would score. And she just like couldn't understand like how that could happen.
+
+279
+00:21:46,600 --> 00:21:50,760
+And I didn't have a great explanation for I said, I think one, it's just a much tighter
+
+280
+00:21:50,760 --> 00:21:55,240
+selection process. And at the end of the day, once you reach the NFL, you're a professional.
+
+281
+00:21:56,040 --> 00:22:01,320
+And nothing else matters like this is your job. But it is interesting. And it must be sobering
+
+282
+00:22:01,320 --> 00:22:06,840
+to to get there and sort of realize, oh my god, like, even if you're exceptional in college,
+
+283
+00:22:06,840 --> 00:22:11,880
+it doesn't guarantee you get to this next level. Yeah, it doesn't guarantee that you're practice
+
+284
+00:22:11,880 --> 00:22:16,840
+squad. And that's where I was like, damn, and I had a lot of guys from our team did go pro.
+
+285
+00:22:17,960 --> 00:22:21,880
+Some of them played for a few years on practice squad, other guys actually had like decent careers
+
+286
+00:22:21,880 --> 00:22:26,040
+playing starting in the NFL, a couple started for the dolphins, different teams. And it was cool to
+
+287
+00:22:26,040 --> 00:22:30,200
+watch that. But it was like, it didn't seem like there was rhyme or reason to me, because a lot
+
+288
+00:22:30,200 --> 00:22:34,440
+of these guys in college, you know, they were good, and they made progressions, but they just
+
+289
+00:22:34,440 --> 00:22:38,680
+kept getting better. That was the difference. Like they were late bloomers, whatever you want to call
+
+290
+00:22:38,680 --> 00:22:43,720
+it, but they kept improving, kept getting faster, kept learning the routes better, or whatever the
+
+291
+00:22:43,720 --> 00:22:47,880
+position was. And I think a big part of it is they also are the guys that don't get injured as much.
+
+292
+00:22:47,880 --> 00:22:53,720
+I think injury avoidance is such an under appreciated piece of professional sports.
+
+293
+00:22:53,720 --> 00:22:59,160
+I don't know the exact numbers, but you know, the median duration of an NFL player is staggeringly
+
+294
+00:22:59,160 --> 00:23:04,200
+short, it's like three to five years. And so we can sort of celebrate these people that spend 10,
+
+295
+00:23:04,200 --> 00:23:09,240
+15 years in the NFL, but they're such outliers. You know, the name of the game first and foremost,
+
+296
+00:23:09,240 --> 00:23:13,800
+once you're there is just figure out a way to not get hurt. And you talk to Joe Kanner, anybody that's
+
+297
+00:23:13,800 --> 00:23:18,040
+a strength coach, that's all they're focused on. And it's really even in the offseason,
+
+298
+00:23:18,040 --> 00:23:21,880
+they might have periods of time where they're working on guys getting a little faster, or
+
+299
+00:23:21,880 --> 00:23:25,560
+guys getting a little stronger, a little more weight, that kind of thing. But come season,
+
+300
+00:23:25,560 --> 00:23:30,040
+it's just preservation. That's it. Had you done any performance enhancing drugs in high school?
+
+301
+00:23:30,680 --> 00:23:35,480
+No, I mean, I played, actually, my senior year started with testosterone, I had a guy
+
+302
+00:23:36,520 --> 00:23:40,120
+with sustenance 250. And I realized I wanted to play college football. So that was the
+
+303
+00:23:41,080 --> 00:23:45,320
+that was the place like, all right, I got to put on some size, I've weighed about 220.
+
+304
+00:23:45,320 --> 00:23:46,520
+Prior to or after?
+
+305
+00:23:46,520 --> 00:23:47,960
+Prior to and then 230.
+
+306
+00:23:47,960 --> 00:23:48,440
+And you're what?
+
+307
+00:23:48,440 --> 00:23:49,160
+Six, four?
+
+308
+00:23:49,240 --> 00:23:55,480
+Six, yes, extreme half. So that was the time where I think for me, it was about,
+
+309
+00:23:56,120 --> 00:23:59,560
+if I'm going to do this, let's do this. And being thin, you know, it was like, all right,
+
+310
+00:23:59,560 --> 00:24:03,320
+I got to put on some size unless I'm going to change positions entirely. But I enjoyed the
+
+311
+00:24:03,320 --> 00:24:07,720
+positions I played. So let's let's pack on the pounds. And I was pretty disappointed only
+
+312
+00:24:07,720 --> 00:24:12,760
+gaining 10 pounds. But there was, that was a catalyst to what sleep was, you know, and I had
+
+313
+00:24:12,760 --> 00:24:16,680
+my dad telling me like, you got to sleep better, you got to get to bed on time, you can't stay out
+
+314
+00:24:16,680 --> 00:24:20,760
+all night, those kind of things. And, and you got to eat well, you got to eat more. And at that
+
+315
+00:24:20,760 --> 00:24:25,720
+point, it was just a numbers game, you know, it didn't mean eating the food that I eat now is just
+
+316
+00:24:25,720 --> 00:24:30,920
+me eating more, you know, getting more protein and more calories in general. So I think once I
+
+317
+00:24:30,920 --> 00:24:34,680
+started to pay attention to that stuff, that's where I was starting to gain the size.
+
+318
+00:24:35,720 --> 00:24:41,000
+And then throughout junior college was testosterone still kind of the staple of supplementation?
+
+319
+00:24:41,640 --> 00:24:48,360
+Yeah, no doubt. And I gained fairly consistently still kind of undersized. So I think by the end of
+
+320
+00:24:48,360 --> 00:24:53,240
+my junior college, I was about 250, you know, and put that in perspective. I mean, that's big for a
+
+321
+00:24:53,240 --> 00:24:57,000
+lot of people, but there's linebackers that are 250 pounds, plenty of middle linebackers that are
+
+322
+00:24:57,000 --> 00:25:03,960
+that size. So for the position still small. Yeah. And then what's it like when you get to a place
+
+323
+00:25:03,960 --> 00:25:08,280
+like ASU? Not and again, I'm not singling out ASU. I think this is probably true. It has to be true
+
+324
+00:25:08,280 --> 00:25:12,600
+of every Division One school, right? Yeah. And I don't want to come across as Floyd Landis. So I'm
+
+325
+00:25:12,600 --> 00:25:17,080
+not going to paint a picture of what other people are doing. No, no, yeah. Just for yourself. Like
+
+326
+00:25:17,080 --> 00:25:21,880
+what? What was that step up? It was good because I you know, I was introduced to a doctor, a natural
+
+327
+00:25:21,880 --> 00:25:27,240
+path and he'd for better and for worse. And we'll talk about what that worse looks like. He would
+
+328
+00:25:27,240 --> 00:25:31,240
+give me anything that I wanted. Thankfully, we were doing routine blood work to look at something
+
+329
+00:25:31,240 --> 00:25:37,080
+my father who I included on this. We're pretty adamant about. So that's when I first experimented
+
+330
+00:25:37,080 --> 00:25:41,960
+with growth hormone, IGF one, different things. I think when I when I realized I wasn't going to go
+
+331
+00:25:41,960 --> 00:25:47,160
+pro, that was when I started taking a decoderbal and with testosterone. And that was great for
+
+332
+00:25:47,160 --> 00:25:52,040
+inflammation and just feeling better. At that point, it really was like how big can I get? And
+
+333
+00:25:52,040 --> 00:25:56,360
+I still had a ceiling. You know, my senior year I was 268. I couldn't gain a pound more. And I
+
+334
+00:25:56,360 --> 00:26:01,720
+was having just and just give me a sense of dose. How much you were you were mixing decadrone and
+
+335
+00:26:01,720 --> 00:26:06,840
+decipinate 50 50 or like one to one ratio of those? No, it was probably 600 milligrams of
+
+336
+00:26:06,840 --> 00:26:12,680
+test to P and eight and 400 milligrams of decoderbal and you would take a week. It's about a gram total.
+
+337
+00:26:12,680 --> 00:26:16,760
+Yeah, which is just amazing. I want to kind of put this in perspective for listeners.
+
+338
+00:26:16,760 --> 00:26:21,320
+I have a subset of patients who are getting testosterone replacement therapy for, you know,
+
+339
+00:26:21,320 --> 00:26:27,640
+hypogonadism, right? So middle aged guy who's you can't get his testosterone back into a normal
+
+340
+00:26:27,640 --> 00:26:31,800
+range with all the usual stuff beginning by the way with sleep is sort of rule number one. You
+
+341
+00:26:31,800 --> 00:26:36,120
+don't run a place testosterone until a person's sleeping reasonably well. But to put this in
+
+342
+00:26:36,120 --> 00:26:43,320
+perspective, I would say a normal starting dose of testosterone sip. You know, eight is somewhere in
+
+343
+00:26:43,320 --> 00:26:49,080
+the vicinity of 80 to 100 milligrams a week. And we like to divide that twice a week because the
+
+344
+00:26:49,080 --> 00:26:54,520
+half life of sip. You know, it's about three days. So you'll get a smoother dose. A couple of patients
+
+345
+00:26:54,600 --> 00:27:00,120
+will even do it daily. You know, they'll put in sort of with sip in a sip in a sub cue injection
+
+346
+00:27:00,120 --> 00:27:07,560
+and they'll do 10 to 13, 10 to 14 milligrams a day would be sort of a daily dose. And then that's,
+
+347
+00:27:07,560 --> 00:27:11,880
+you know, and you know, it's really interesting, by the way, with that you see no FSHLH suppression.
+
+348
+00:27:12,760 --> 00:27:18,360
+The natural range is about 11 milligrams a day, give or take for men. So that's like where you're,
+
+349
+00:27:18,360 --> 00:27:22,360
+you're kind of mimicking that. Yeah, that's the part that blows my mind is we just discovered
+
+350
+00:27:22,440 --> 00:27:27,720
+this by accident when a patient just on his own decided to start day, like he felt started out
+
+351
+00:27:27,720 --> 00:27:32,520
+doing it injecting once a week and then twice a week and you're cutting the dose down, of course,
+
+352
+00:27:32,520 --> 00:27:37,480
+each time and then he decided, well, daily must give you the most perfectly smooth way to do it.
+
+353
+00:27:37,480 --> 00:27:40,760
+And I said, well, yeah, if you don't mind giving yourself a little shot every day, but it's
+
+354
+00:27:40,760 --> 00:27:46,120
+actually a pretty, the sub cue with the tiny needle is not a big deal. So when we looked at his blood,
+
+355
+00:27:46,120 --> 00:27:49,160
+it was really amazing. He was like, it's the only pace I'd ever seen a testosterone sip. You know,
+
+356
+00:27:49,160 --> 00:27:54,760
+he had normal FSHLH he'd looked like he was not taking exogenous testosterone. And then we tried
+
+357
+00:27:54,760 --> 00:27:58,840
+this with a couple of other patients. And sure enough, that's the case. I think the highest amount
+
+358
+00:27:58,840 --> 00:28:05,240
+of testosterone I've ever prescribed to a patient is probably in the neighborhood of 140 to 160
+
+359
+00:28:05,240 --> 00:28:10,760
+milligrams in a week. And if you're talking, did you say 600 of sip, you need 400 a decade or vice
+
+360
+00:28:10,760 --> 00:28:15,000
+versa, but they're one to one equivalent. So it's a thousand a week, right? Which is, I've seen that
+
+361
+00:28:15,000 --> 00:28:19,000
+a lot in athletes and bodybuilders and stuff like that. What kind of side effects do you have from
+
+362
+00:28:19,080 --> 00:28:22,760
+a dose that high? Well, that's where I capped it, you know, and there's bodybuilders that'll go in
+
+363
+00:28:22,760 --> 00:28:29,240
+the three to five gram a week range. And from what I know, loosely, they likely have more receptor
+
+364
+00:28:29,240 --> 00:28:32,040
+sites and they're going to deal with the side effects, no matter what's coming up for them.
+
+365
+00:28:32,680 --> 00:28:36,280
+I'd get acne and season, but I think it was from the shoulder pads. I never washed those kind of
+
+366
+00:28:36,280 --> 00:28:40,920
+things. So yeah, I'd get acne and stuff like that on the back. I don't know how much that affected
+
+367
+00:28:40,920 --> 00:28:45,720
+my mind because it felt good. And with the amount of training that I was doing, it was a positive.
+
+368
+00:28:45,720 --> 00:28:49,400
+Did you understand what testosterone at the time? I know today you have a much better
+
+369
+00:28:49,400 --> 00:28:54,920
+understanding, of course, but at the time, did you understand what this molecule is doing to
+
+370
+00:28:54,920 --> 00:28:59,640
+transcription factors in your, you know, cells and how it's helping you recover better? Like,
+
+371
+00:28:59,640 --> 00:29:03,800
+or was it were you not? I mean, that's maybe a dumb question. What, what kid in college is
+
+372
+00:29:03,800 --> 00:29:08,440
+thinking of that? But did you just think like, taking this makes me bigger and stronger? Did
+
+373
+00:29:08,440 --> 00:29:12,760
+you have a sense of why? Well, I understood an increased protein synthesis, things like that.
+
+374
+00:29:12,760 --> 00:29:17,160
+I think there was a book called Anabolix 2000 by Dr. William Llewellyn, which is where I started to
+
+375
+00:29:17,160 --> 00:29:21,400
+take a deep dive in it. You know, that's the funny, so Llewellyn's Principles of Pharmacology is one of
+
+376
+00:29:21,400 --> 00:29:26,520
+my favorite books on the entire study of Anabolix. I have like, it's like, you know, the volume.
+
+377
+00:29:26,520 --> 00:29:31,000
+Yeah, it's like a Bible. It's a Bible. And it's, it's long and wide. It's not just thick. Like,
+
+378
+00:29:31,000 --> 00:29:36,920
+it's, it's a really, it's a great place if anybody's looking to do this. No, I can't recommend it
+
+379
+00:29:36,920 --> 00:29:41,240
+highly enough because one of the things I love about Llewellyn is totally unemotional. There's
+
+380
+00:29:41,240 --> 00:29:46,200
+no editorializing, right? It's not like these things are horrible. These things are wonderful.
+
+381
+00:29:46,200 --> 00:29:53,720
+It's like, okay, let's go through every single one of these molecules painfully deep. And we'll just
+
+382
+00:29:53,720 --> 00:29:57,560
+talk about the relative differences, similarities between them, what they do, what they don't do.
+
+383
+00:29:57,560 --> 00:30:01,640
+And yeah, I'm a big, I'd love to meet Llewellyn. I don't know if he, he must be still alive. He's
+
+384
+00:30:01,640 --> 00:30:06,120
+certainly got to be young. He's got to be, he was doing, I think the last one I read was,
+
+385
+00:30:06,600 --> 00:30:09,560
+I think he had 2007 was the last one that I read.
+
+386
+00:30:09,560 --> 00:30:13,640
+I have a more recent one than that. And I've seen pictures of him and he looks like he's young.
+
+387
+00:30:13,640 --> 00:30:18,040
+Funny of mine had like 2011. So like he's for sure still around if he's writing books.
+
+388
+00:30:18,040 --> 00:30:20,760
+He's not on his deathbed, you know, how hard it is to write a book.
+
+389
+00:30:22,520 --> 00:30:26,440
+So you're reading Llewellyn, which is actually kind of interesting. I'm guessing not everybody
+
+390
+00:30:26,440 --> 00:30:31,080
+who's taken testosterone is reading Llewellyn's principles of pharmacology to understand what's
+
+391
+00:30:32,040 --> 00:30:37,400
+going on. One thing I just curious about, you mentioned you were never the nasty drunk, right?
+
+392
+00:30:37,400 --> 00:30:41,240
+You were, so one of the things that people talk about is, well, if you take that much
+
+393
+00:30:41,800 --> 00:30:45,480
+anabolic steroid, you, it must change your mood. Did you experience that?
+
+394
+00:30:45,480 --> 00:30:48,920
+I didn't feel, and that's what I was alluding to with that positive well-being.
+
+395
+00:30:48,920 --> 00:30:53,000
+I couldn't wrap my head around roidridge for the life of me. And then to that note,
+
+396
+00:30:53,720 --> 00:30:58,840
+I began to see like whether the guy was on like five friends that had that particular outcome
+
+397
+00:30:58,920 --> 00:31:04,920
+from anabolic. They were that way without it. They hadn't unpacked their shit to begin with.
+
+398
+00:31:04,920 --> 00:31:08,840
+And that's why whatever amplifiers in them is going to draw that out. Same thing goes with
+
+399
+00:31:08,840 --> 00:31:14,360
+alcohol or anything else. You know, you, you give somebody a little fuel to the fire. And
+
+400
+00:31:14,360 --> 00:31:18,920
+I think it was Wayne Dyer who said, if you squeeze an orange, what do you get? Orange shoes. If
+
+401
+00:31:18,920 --> 00:31:22,600
+somebody squeezes you, what do you get? Well, it's whatever's going to come out of you. Right.
+
+402
+00:31:22,600 --> 00:31:27,800
+And that's, that's the difference. Not that I was all rainbows and fucking clouds in the inside.
+
+403
+00:31:27,800 --> 00:31:31,160
+I still had a lot of work to do, which wouldn't come for years later.
+
+404
+00:31:31,160 --> 00:31:35,080
+That's interesting to see at that dose. Cause I mean, I don't have experience clinically with
+
+405
+00:31:35,080 --> 00:31:41,160
+those doses. I've, I've seen it anecdotally like in cases like yours, but I've, I've never had the
+
+406
+00:31:41,160 --> 00:31:46,520
+ability to clinically observe what happens at what we call suprafysiologic doses, but at
+
+407
+00:31:46,520 --> 00:31:53,320
+physiologic doses, which I have lots of experience with patients, I've never once seen any of these
+
+408
+00:31:53,800 --> 00:31:58,040
+horror show side effects that people talk about. And I've come to the same conclusion,
+
+409
+00:31:58,040 --> 00:32:03,560
+which is steroids are a lot like money. You know, people talk about, well, that guy's a rich asshole.
+
+410
+00:32:03,560 --> 00:32:08,280
+And it's like, I don't think those are necessarily the same thing. He's an asshole who then got a
+
+411
+00:32:08,280 --> 00:32:15,960
+lot of money and that just allowed him to amplify his assholedness. And similarly, like, I think if
+
+412
+00:32:15,960 --> 00:32:22,360
+you take a really aggressive, angry person and you give them more anabolic steroids, you can probably
+
+413
+00:32:22,360 --> 00:32:27,800
+amplify that phenotype, but you don't create that phenotype. That's why I've seen some of the
+
+414
+00:32:27,800 --> 00:32:31,480
+most beautiful people in the world I've seen are some of the wealthiest people as well.
+
+415
+00:32:31,480 --> 00:32:34,920
+Cause they were just happened to be good people. You give them a bunch of money. Now they can
+
+416
+00:32:34,920 --> 00:32:39,560
+amplify their good through that. So yeah, I think, I think of those the same. And it, but, but what's
+
+417
+00:32:39,560 --> 00:32:44,040
+interesting is that at such high doses, my observation, at least anecdotally in you is still
+
+418
+00:32:44,040 --> 00:32:50,440
+the same, which is didn't, didn't it actually seem to be quite positive. This is a topic I'm super
+
+419
+00:32:50,440 --> 00:32:57,960
+interested in because I think that the science on this whole topic is so misunderstood. I think
+
+420
+00:32:57,960 --> 00:33:03,240
+that the fear mongering around these drugs, and by the way, to be really clear, I have no idea if
+
+421
+00:33:03,240 --> 00:33:08,280
+the doses you were taking are safe. My intuition is it's probably not a good idea to be clear.
+
+422
+00:33:08,280 --> 00:33:12,600
+So anybody listening to this who thinks that me having this discussion is somehow endorsing
+
+423
+00:33:12,600 --> 00:33:16,840
+taking a thousand milligrams a week of testosterone and testosterone equivalent is a good idea.
+
+424
+00:33:16,840 --> 00:33:21,960
+I don't think it is, but that's mainly because I don't have data. I don't have long-term data.
+
+425
+00:33:21,960 --> 00:33:26,040
+I've seen short-term data, right? I've seen studies of eight, 12, 16 weeks where you put
+
+426
+00:33:26,040 --> 00:33:30,760
+athletes on those kinds of doses, which is effectively 10 times the normal amount of
+
+427
+00:33:30,760 --> 00:33:37,000
+testosterone. These studies don't find bad outcomes. Of course, you were probably taking
+
+428
+00:33:37,000 --> 00:33:40,680
+it for longer than 16 weeks. And that's my whole point, which is, I don't know how to extrapolate
+
+429
+00:33:40,680 --> 00:33:45,320
+outside of the normal window. But when you start to talk about normal physiologic doses and all the
+
+430
+00:33:45,320 --> 00:33:50,360
+fear-mongering that comes with that stuff, I don't know what it is about our society. We really
+
+431
+00:33:50,360 --> 00:33:56,600
+love to misunderstand things. There was a very famous story that was talked about in that
+
+432
+00:33:56,600 --> 00:34:00,120
+documentary that Mark Bell, or sort of that Chris Bell made. You know the story about that kid?
+
+433
+00:34:00,120 --> 00:34:01,000
+Bigger, stronger, faster.
+
+434
+00:34:01,000 --> 00:34:02,200
+Yeah. I forget the boy's name.
+
+435
+00:34:02,200 --> 00:34:05,800
+He got really depressed when he jumped off because he didn't have post-cycle therapy.
+
+436
+00:34:06,600 --> 00:34:13,160
+Yeah. I would even put a different spin on that, which is, and again, this is, I don't mean to
+
+437
+00:34:13,160 --> 00:34:17,880
+sound unempathetic at all because I know that in the documentary they feature very prominently his
+
+438
+00:34:17,880 --> 00:34:23,240
+father, who's adamant that steroids killed his son. And if I were in his shoes, I think I'd probably
+
+439
+00:34:23,240 --> 00:34:29,080
+say the same thing. But this gets to the point of, I would argue that people who are going to take
+
+440
+00:34:29,080 --> 00:34:35,560
+steroids for non-medical use are probably searching for something anyway. There's a void that's
+
+441
+00:34:35,560 --> 00:34:39,560
+probably trying to be filled there. And in the case of this boy who, I forget his name because of the
+
+442
+00:34:39,560 --> 00:34:43,160
+T. I think it was like Tyler or Taylor or something like that. You know, high school kid,
+
+443
+00:34:43,160 --> 00:34:48,120
+I think he was a baseball player if I recall. You take 10 kids who play high school baseball,
+
+444
+00:34:48,120 --> 00:34:51,960
+there's a subset of them that are going to gravitate towards wanting this. Maybe it's
+
+445
+00:34:51,960 --> 00:34:55,160
+because they want to be better. Maybe they want to be better because they're sort of filling some
+
+446
+00:34:55,160 --> 00:35:00,120
+other void. It's probably that that at least increases their susceptibility to depression
+
+447
+00:35:00,120 --> 00:35:04,520
+and not that, not that the testosterone is causing the depression. That's sort of my view on that.
+
+448
+00:35:04,520 --> 00:35:10,360
+I think that's a bit too nuanced to explain, but it feeds into this discussion of which one's
+
+449
+00:35:10,360 --> 00:35:16,680
+driving the other. And that's why when you look at studies of this stuff where you get the luxury of
+
+450
+00:35:16,680 --> 00:35:21,720
+not having to rely on a person self-selecting into it and instead you can use the process of
+
+451
+00:35:21,720 --> 00:35:27,320
+randomization, I just think these findings just, they never show up in the medical literature of
+
+452
+00:35:27,320 --> 00:35:32,520
+testosterone use. Now you mentioned growth hormone as well. Why growth hormone? What did it offer
+
+453
+00:35:32,600 --> 00:35:36,840
+above testosterone? I think from a recovery standpoint, and I don't know how much of that
+
+454
+00:35:36,840 --> 00:35:42,680
+was placebo effect. And I was taking probably four IUs a day. Which is not that much actually
+
+455
+00:35:42,680 --> 00:35:47,240
+in the big picture, is it? No, but I could feel the side effects, like little tingly fingers in
+
+456
+00:35:47,240 --> 00:35:51,720
+the middle of the night, some level of carpal tunnel. And that's also for sure had to do with
+
+457
+00:35:51,720 --> 00:35:57,320
+the water weight I was carrying and just being a swole for lack of a better word. Did you ever take
+
+458
+00:35:57,320 --> 00:36:01,880
+growth hormone without testosterone? No. So we don't know what growth hormone alone would have
+
+459
+00:36:01,880 --> 00:36:05,960
+felt like. Yeah, but I do remember, I mean, playing defensive line, you get bumps and bruises
+
+460
+00:36:05,960 --> 00:36:09,720
+every day and I rolled my ankle really hard and the next day it was like nothing had ever happened.
+
+461
+00:36:10,440 --> 00:36:15,080
+And I was astonished. I thought I was going to wake up and have blue and purple around my foot
+
+462
+00:36:15,080 --> 00:36:21,000
+for a month. It was a bad, bad sprain. And literally the next day, like there was no swelling.
+
+463
+00:36:21,000 --> 00:36:24,680
+It felt great. I went right back to practice and I could do everything again. So I was like,
+
+464
+00:36:24,680 --> 00:36:28,760
+okay, this is worth a thousand dollars a month. Like it just made perfect sense to me at that
+
+465
+00:36:28,760 --> 00:36:32,760
+point. How did you come up with the money for all this? Was the growth hormone alone a thousand
+
+466
+00:36:32,760 --> 00:36:38,280
+dollars a month? It certainly was. So without, let's just say that part was sponsored.
+
+467
+00:36:41,000 --> 00:36:45,400
+We'll just leave it at that. And the testosterone, while nowhere near as expensive, at the doses
+
+468
+00:36:45,400 --> 00:36:48,920
+you're taken can't be, it's still got to be a couple hundred bucks a month, right? Yeah,
+
+469
+00:36:48,920 --> 00:36:52,680
+especially because it's through a doctor and obviously insurance isn't covering any of that.
+
+470
+00:36:52,680 --> 00:36:56,600
+Now, did you guys get drug tested in college? We did. And I don't know if you remember this,
+
+471
+00:36:56,680 --> 00:37:00,920
+but there was a thing, I think it was, I don't want to get the guy's name wrong. Maybe we can
+
+472
+00:37:00,920 --> 00:37:05,880
+look it up. Ryan, can you look up if it was Ontario Smith that got caught with the Wizenator?
+
+473
+00:37:06,920 --> 00:37:10,680
+So the Wizenator 5000. I forgot about the Wizenator. The old Wizenator.
+
+474
+00:37:13,960 --> 00:37:18,520
+It was so great. I remember going into the weed shop back then. Of course, they didn't have
+
+475
+00:37:18,520 --> 00:37:22,600
+cannabis there. They just had bogs and whatever. And I saw this thing and they had like seven
+
+476
+00:37:22,600 --> 00:37:25,960
+different colors of a penis. Like what the hell is this doing here? And they're like,
+
+477
+00:37:25,960 --> 00:37:29,560
+oh man, that's for your piss test. And I was like, are you serious? Okay. All right. We got
+
+478
+00:37:29,560 --> 00:37:35,080
+confirmation. It was Ontario Smith. He fucked it up for everyone. But you know, I've seen all the
+
+479
+00:37:35,080 --> 00:37:39,880
+different colors and I'm like, huh, so how does it work? You get somebody's clean urine. He's like,
+
+480
+00:37:39,880 --> 00:37:45,240
+no, you don't even have to do that. It comes with synthetic urine. And then there's a Japanese
+
+481
+00:37:45,240 --> 00:37:49,800
+heat pad that sticks to the outside. And then you have the other part of it pressed against
+
+482
+00:37:50,360 --> 00:37:54,680
+your pubic hair or whatever. And then when you're asked to pull it out, you just pull out that one.
+
+483
+00:37:54,760 --> 00:37:58,920
+And it's kind of like, do you remember the toy water weenie back in the eighties? It's got a
+
+484
+00:37:58,920 --> 00:38:03,560
+little click in. It's like surgical tubing you'd fill with water and then squirt people. So anyways,
+
+485
+00:38:03,560 --> 00:38:08,760
+you unclick this thing and just free flows and you can push on it a little bit to get it out. But
+
+486
+00:38:08,760 --> 00:38:14,440
+it's always at like one and a half X, whatever the a hundred milliliter standard is. Does the drug
+
+487
+00:38:14,440 --> 00:38:18,760
+test or not actually look at you voiding? I mean, I had a guy look at my penis and he saw the
+
+488
+00:38:18,760 --> 00:38:23,320
+wizinator, but I had my pants on. He didn't make me drop trowel, you know, whereas what does he do
+
+489
+00:38:23,400 --> 00:38:30,600
+when he sees a purple penis? Well, I have a funny story about that. So my penis,
+
+490
+00:38:30,600 --> 00:38:36,600
+my fake penis didn't look far off. This discussion is taken out of context, is out of control.
+
+491
+00:38:37,800 --> 00:38:43,640
+We'll have him clip this for social. My fake penis looked very similar to my actual penis in
+
+492
+00:38:43,640 --> 00:38:49,800
+terms of color. Loaning that out to one of my teammates, who was half black, didn't go so well
+
+493
+00:38:49,800 --> 00:38:53,960
+for him. Thankfully he said it as long as the test is clean when he got caught, I won't get you in
+
+494
+00:38:53,960 --> 00:38:58,600
+trouble. And of course he got off because he had clean piss. The issue, what we saw with the
+
+495
+00:38:58,600 --> 00:39:04,120
+wizinator in pro sports is that the synthetic urine contained no levels of hormone. So you'd
+
+496
+00:39:04,120 --> 00:39:11,240
+show zero on testosterone, zero sex hormones across the board. So then they know something was up.
+
+497
+00:39:11,240 --> 00:39:18,120
+That would qualify as a positive test. I was kind of rolling the dice with NCAA. I figured at that
+
+498
+00:39:18,120 --> 00:39:21,720
+point I wasn't going to get, you know, what are they going to do? Bust the guy who's fucking third
+
+499
+00:39:21,720 --> 00:39:27,000
+string, barely made travel squad. So yeah, I was rolling the dice there. They make you go to your
+
+500
+00:39:27,000 --> 00:39:31,240
+ankles with your pants or whatever you're wearing. The team guys, they just glanced down, see what
+
+501
+00:39:31,240 --> 00:39:34,280
+you got as long as it's a penis and you're not pulling something out of a cup, you're okay.
+
+502
+00:39:34,920 --> 00:39:38,840
+In other words, there was sort of the, was this the NCAA that was basically turning a blind eye
+
+503
+00:39:38,840 --> 00:39:43,800
+to this then? The team guys. And then the NCAA, they would have you pull your pants down, but they're,
+
+504
+00:39:43,880 --> 00:39:47,240
+you know, I don't, from what I understand, not super weird about it because
+
+505
+00:39:48,600 --> 00:39:52,760
+it wasn't invasive. Like I hear horror stories from, from the guys that are fighting now and
+
+506
+00:39:52,760 --> 00:39:56,680
+have you saw to knock on their door at 3 AM. Yeah. The wizinator is not going to work when
+
+507
+00:39:56,680 --> 00:40:01,880
+you saw that or Wada comes, right? No, not even close. Never would have. I'm amazed. I mean,
+
+508
+00:40:01,880 --> 00:40:05,400
+I've never really thought about this problem specifically, but I'm amazed people haven't
+
+509
+00:40:05,400 --> 00:40:09,800
+come up with artificial bladders and things that are more nuanced. Well, I think it was,
+
+510
+00:40:09,800 --> 00:40:14,200
+what was that movie with the old football movie? I think it was in the nineties with Latimer.
+
+511
+00:40:15,640 --> 00:40:21,240
+Latimer, Jack to the gills. Yeah. He did the oil change where he would pull urine out of his
+
+512
+00:40:21,240 --> 00:40:25,480
+bladder and then have someone else's injected in with a TCC syringe. How can I be blanking on what
+
+513
+00:40:25,480 --> 00:40:30,680
+that was? It wasn't any given Sunday, was it? No. The program. Yeah. Yeah. James Con. Yeah. Yeah.
+
+514
+00:40:31,480 --> 00:40:34,840
+I don't know how often that was going down. I don't think people were going to that, those
+
+515
+00:40:34,840 --> 00:40:40,280
+kind of extremes in college, maybe at higher levels of sport, but is growth hormone detectable
+
+516
+00:40:40,280 --> 00:40:44,760
+on any other tests? It certainly wasn't even something they were testing for in college.
+
+517
+00:40:44,760 --> 00:40:49,960
+I know a couple of people who have had that come up for them in fighting now with you saw to,
+
+518
+00:40:50,760 --> 00:40:55,880
+to what degree that's accurate. I'm not sure. So, you know, a lot of these guys have lawyered up
+
+519
+00:40:55,880 --> 00:41:01,080
+and are fighting it whether or not they were successful or not. I have no idea.
+
+520
+00:41:01,080 --> 00:41:04,840
+So college comes to an end, you sort of realize you're not going to make it to the NFL.
+
+521
+00:41:05,400 --> 00:41:08,520
+What are you thinking about as the next chapter? I was just in the moment. You can model the
+
+522
+00:41:08,520 --> 00:41:12,520
+Wizenator. That's always got to be on the table as an option, a work opportunity.
+
+523
+00:41:13,400 --> 00:41:17,880
+That's all right. That was my next venture. You know, I quit going after my senior year of
+
+524
+00:41:17,880 --> 00:41:22,920
+football and I was really starting to battle my own personal demons at that point, that same doctor.
+
+525
+00:41:22,920 --> 00:41:27,160
+So I talked about the better and worse of having a doctor that would give me anything. He was
+
+526
+00:41:27,160 --> 00:41:32,760
+prescribing me two milligrams Xanax, call them Zany bars because they had the four squares,
+
+527
+00:41:32,760 --> 00:41:38,840
+60 at a time, 10 milligram volume, 60 at a time with five refills on both, 10 milligram.
+
+528
+00:41:38,840 --> 00:41:41,240
+I didn't know that was even legal. Meaning I didn't know that.
+
+529
+00:41:41,240 --> 00:41:42,840
+It's not legal. He went to jail later.
+
+530
+00:41:42,840 --> 00:41:43,240
+Oh, okay.
+
+531
+00:41:44,520 --> 00:41:50,920
+He gone. One of my friends died. So that guy, I'm sure he's out now, but needless to say,
+
+532
+00:41:50,920 --> 00:41:57,240
+also 10 milligrams of Vicodin, 60 at a time, five refills. Now, thankfully for me personally,
+
+533
+00:41:57,240 --> 00:42:01,640
+and I've lost a lot of friends to opiates, it was very hard for me to take a high dose
+
+534
+00:42:01,640 --> 00:42:05,160
+and feel good. I would get nauseated and puke violently. So there was always like this.
+
+535
+00:42:05,160 --> 00:42:06,280
+You had a built-in governor.
+
+536
+00:42:06,280 --> 00:42:12,040
+Yeah, built-in governor when it came to opiates. But having had a lot of stuff that I hadn't worked
+
+537
+00:42:12,040 --> 00:42:16,680
+on internally, and we can dive into that, but it just, these anti-anxiety medications were
+
+538
+00:42:16,680 --> 00:42:23,960
+fucking perfect. I would feel great. There's a euphoria. I'd sleep very well if I was using
+
+539
+00:42:23,960 --> 00:42:28,360
+cocaine or ecstasy, and these are pressed shitty pills, not the type of MDMA we talk about with
+
+540
+00:42:28,360 --> 00:42:33,560
+Rick Doblin, just a whole different ballgame. I'd be up till 5am, then I'd take my Xanax,
+
+541
+00:42:33,560 --> 00:42:36,920
+something like that. And that's, you're playing that roller coaster.
+
+542
+00:42:36,920 --> 00:42:40,760
+So you're already done with football, but you're still like finishing college at this point?
+
+543
+00:42:41,400 --> 00:42:48,120
+And that's when I quit going to school. So I didn't see, I'd finished 95% of my communications
+
+544
+00:42:48,120 --> 00:42:54,120
+classes in sociology. And at that point, in order to stay eligible, I'd switch my degree so many
+
+545
+00:42:54,120 --> 00:42:59,560
+times, there was this bullshit degree called a Bachelor in Interdisciplinary Studies, which is
+
+546
+00:42:59,560 --> 00:43:04,200
+fine. It's like two minors to equal a major. And I enjoyed the coursework. But once I got to my
+
+547
+00:43:04,200 --> 00:43:08,840
+senior year, a lot of the classes became actual BIS classes where you would go in and have to
+
+548
+00:43:08,840 --> 00:43:13,480
+write these long ass papers that you'd present to a potential employer on why it was actually
+
+549
+00:43:13,480 --> 00:43:18,920
+better that you had a basket waving degree and not an actual degree. And I couldn't stand it.
+
+550
+00:43:18,920 --> 00:43:23,240
+Like it was just so fake to me. And really like not enjoying school at that point,
+
+551
+00:43:23,240 --> 00:43:25,480
+not having a reason to be there, not having a reason to stay eligible.
+
+552
+00:43:25,480 --> 00:43:27,640
+Are you taking loans out to be in school at this point?
+
+553
+00:43:27,640 --> 00:43:29,080
+Yeah, yes. Oh, yeah.
+
+554
+00:43:29,080 --> 00:43:32,360
+So you're paying to do this thing that you think is not helpful.
+
+555
+00:43:32,360 --> 00:43:36,600
+Correct. You know, I said I'd take a semester off, my parents didn't really fuss over it.
+
+556
+00:43:37,320 --> 00:43:43,880
+And really got into pills with alcohol and cocaine and ecstasy. And that was something that I've
+
+557
+00:43:43,880 --> 00:43:47,800
+been doing. But because of football keeping me there was a point in time where I knew I had to
+
+558
+00:43:47,800 --> 00:43:53,320
+straighten up each and every year. And really being a fan of the gym and who I was training with,
+
+559
+00:43:53,320 --> 00:43:57,080
+that also would kind of regulate me. So even in the off season, I was still kind of,
+
+560
+00:43:58,520 --> 00:44:05,000
+I was mindful of the debauchery. And then without that, it was mindless debauchery, really.
+
+561
+00:44:05,000 --> 00:44:08,840
+And I was very depressed. I didn't know what I wanted to do from that point on.
+
+562
+00:44:09,800 --> 00:44:16,920
+And probably came to one of the most depressing points in my life. And to give some background
+
+563
+00:44:16,920 --> 00:44:21,560
+from, and I talked about this on a solo podcast I did a long time ago, which for sure, I don't
+
+564
+00:44:21,560 --> 00:44:26,680
+think anyone here has heard it. But from about seven years old on, I had thoughts of suicide.
+
+565
+00:44:27,400 --> 00:44:34,200
+And like pretty vivid, like thinking of my dad's handguns or his rifles, or how I would use a bow
+
+566
+00:44:34,200 --> 00:44:38,760
+and arrow, put it plainly. I remember having a conversation with my dad on the deck of our condo.
+
+567
+00:44:39,320 --> 00:44:43,880
+And I asked him, what would happen if I fell off of this and landed face first in the concrete?
+
+568
+00:44:43,880 --> 00:44:48,200
+And he said, you probably wouldn't die. You just be really messed up from that point on.
+
+569
+00:44:48,760 --> 00:44:51,880
+And but that was me, he didn't realize at the time, it was me checking to see like,
+
+570
+00:44:51,880 --> 00:44:54,040
+can I kill myself by jumping off this fucking balcony?
+
+571
+00:44:54,040 --> 00:44:54,920
+And how old were you? Seven?
+
+572
+00:44:54,920 --> 00:45:03,000
+Seven, yeah, six, seven. And that would circle back. I mean, many times throughout the year,
+
+573
+00:45:03,080 --> 00:45:05,320
+that would circle back. What do you think was at the root of that?
+
+574
+00:45:09,640 --> 00:45:14,760
+It was really hard. It was really hard to see my family fight
+
+575
+00:45:17,480 --> 00:45:26,200
+so often, you know, it was constant. And my little sister is just a year younger than me.
+
+576
+00:45:26,200 --> 00:45:34,040
+And I could feel her shift, I could feel her clothes inside and wall off. And,
+
+577
+00:45:36,120 --> 00:45:39,800
+you know, being the oldest, my dad was the oldest, he was a little bit harder on me than her.
+
+578
+00:45:39,800 --> 00:45:50,200
+And that stuck out. It was just really, I mean, without too many details, it was very, very
+
+579
+00:45:50,200 --> 00:45:55,080
+difficult. And it really felt I think at the root of a lot of depression is this concept that it
+
+580
+00:45:55,080 --> 00:45:59,560
+will never get better. There's no light at the end of the tunnel. There's no way out of this.
+
+581
+00:45:59,560 --> 00:46:05,080
+And that's how I felt most of my childhood was just like, this is not going to get better.
+
+582
+00:46:05,880 --> 00:46:10,120
+I remember when I was 10, my mom said, I'm thinking about divorcing your father. And I said,
+
+583
+00:46:10,120 --> 00:46:14,600
+yes, do it. My sister was in panic. She didn't want her family to get broken apart.
+
+584
+00:46:15,720 --> 00:46:19,560
+But a part of me knew once that happened, like they would be better people for it,
+
+585
+00:46:19,560 --> 00:46:23,640
+because they weren't meant to be together. And it took three more years for that to actually happen.
+
+586
+00:46:24,520 --> 00:46:30,440
+But yeah, it was incredibly difficult. And I think coming to this place now,
+
+587
+00:46:32,200 --> 00:46:37,800
+where once again, I felt like I didn't have any viable option of doing something that was
+
+588
+00:46:37,800 --> 00:46:46,120
+meaningful with my life. And not to mention, from a neurochemistry standpoint, just playing with all
+
+589
+00:46:46,120 --> 00:46:52,760
+the buttons, you know, up, down, up, down, lack of sleep, you had Matthew Walker on three episodes,
+
+590
+00:46:52,760 --> 00:46:56,520
+like I now see that very clearly when I read his book, while we sleep, I was like, well, yeah,
+
+591
+00:46:56,520 --> 00:47:03,400
+no shit, no shit. I was I was messed up in the head. I watched the sun come up many, many nights,
+
+592
+00:47:03,960 --> 00:47:08,520
+in the beautiful double edged sword of an anti anxiety pill is that you feel fucking great while
+
+593
+00:47:08,520 --> 00:47:12,680
+you're on it. And the second you stop taking it, all that unworkthrough stuff is still there.
+
+594
+00:47:13,240 --> 00:47:19,480
+It's just waiting to come up once that chemicals out of your body. And so I had a fight with my
+
+595
+00:47:19,480 --> 00:47:26,920
+girlfriend at the time. And there really was this thought in my head that I'll never be loved,
+
+596
+00:47:26,920 --> 00:47:33,000
+I will never find love. And with that, I took every remaining pill that I had. And I drove up to
+
+597
+00:47:33,880 --> 00:47:39,960
+the top of parking lot seven at Arizona State. Thankfully, a security guard guard saw me pulling
+
+598
+00:47:39,960 --> 00:47:47,000
+up like 2am got out of the car stripped down naked and walked climbed one more flight of stairs and
+
+599
+00:47:47,000 --> 00:47:53,000
+was standing on the edge about ready to jump. And I heard, Hey, what are you doing up there? And I
+
+600
+00:47:53,000 --> 00:47:57,400
+looked back. Actually, let me rewind that I'd been to church growing up, but I didn't consider
+
+601
+00:47:57,400 --> 00:48:02,680
+myself a religious person. Most of that stuff didn't resonate with me at all. Particularly
+
+602
+00:48:02,680 --> 00:48:06,920
+with regarding gay people going to hell, like I was from the Bay Area, that shit really didn't
+
+603
+00:48:06,920 --> 00:48:11,400
+resonate with me. And there was a lot of other things that stood out to me as it didn't, it
+
+604
+00:48:11,400 --> 00:48:15,800
+didn't make sense. Yeah, hypocritical, that kind of stuff. And but as I was standing there before
+
+605
+00:48:15,800 --> 00:48:21,960
+the security guard said anything, that was my first real spiritual experience. Like this, I don't
+
+606
+00:48:21,960 --> 00:48:26,680
+know if it was the chemicals kicking in, but this wash of warmth came throughout my body,
+
+607
+00:48:27,320 --> 00:48:32,760
+from head to toe. And it was the most peace that I had felt ever in my entire life.
+
+608
+00:48:33,480 --> 00:48:36,200
+You think it's because you sensed it might be over?
+
+609
+00:48:37,320 --> 00:48:44,440
+Yeah, it was the time to go. For me, like there was no no reason to stay. And this voice and it
+
+610
+00:48:44,440 --> 00:48:47,720
+might have been a voice in my head, it might have been outside of me. I don't think that's the
+
+611
+00:48:47,720 --> 00:48:59,000
+point. The voice just said, not yet. It's okay. So this guy gets you off the ledge, literally,
+
+612
+00:48:59,720 --> 00:49:05,400
+gets me off the ledge. And I wake up in a hospital with all my family there. They flew out from
+
+613
+00:49:05,400 --> 00:49:11,480
+California, obviously to Arizona. I don't really have a recollection of what happened after that,
+
+614
+00:49:11,480 --> 00:49:17,320
+other than I remember asking my mom, like, why was this male nurse such a dick? And she was like,
+
+615
+00:49:17,320 --> 00:49:23,640
+you weren't very nice to him. You weren't very nice to anyone here. And knowing myself, I just
+
+616
+00:49:23,640 --> 00:49:29,240
+kind of laughed and said, yeah, that's for sure what happened. So I spent about a week in a detox
+
+617
+00:49:29,240 --> 00:49:36,120
+center. They had everything from group therapy to activities. They wanted to wean me off the anxiety
+
+618
+00:49:36,120 --> 00:49:41,160
+medication, knowing how long I'd been on that. And then, like I had mentioned, there was no real
+
+619
+00:49:41,160 --> 00:49:47,000
+problem with the opiates. So they didn't wean that. But they put me on colonopin for the week.
+
+620
+00:49:47,640 --> 00:49:53,480
+And the first dose I took, I remember walking up to the nurse like, I'm fucking high right now.
+
+621
+00:49:53,480 --> 00:49:57,480
+I don't want to be high. I want that. I want to go cold turkey. And they're like, no, it's
+
+622
+00:49:58,040 --> 00:50:01,240
+really important that we wean you because you can have potential side effects here. And I was like,
+
+623
+00:50:01,240 --> 00:50:04,600
+I don't care. I'm not going to take it. I'm telling you right now, I'm not going to take it.
+
+624
+00:50:05,560 --> 00:50:11,080
+So thankfully, they they cut my dose to nothing. That was an interesting time, because there was a
+
+625
+00:50:11,080 --> 00:50:15,800
+lot of people there that had, I mean, not to make comparisons, but people that didn't have all the
+
+626
+00:50:15,800 --> 00:50:20,200
+same opportunities that I had, and didn't look the way that I looked and weren't as young as me or
+
+627
+00:50:20,200 --> 00:50:25,000
+as fit as me or any of the things that I had going on. A lot of them didn't have family there
+
+628
+00:50:25,000 --> 00:50:29,160
+supporting them. My family would come in every day, they were staying in a hotel, they had nothing
+
+629
+00:50:29,160 --> 00:50:35,320
+else to do. But but check out after me. I think at that stage, you know, when you have other people
+
+630
+00:50:35,320 --> 00:50:39,320
+saying like, what are you doing here? You have so much going on. It's like you don't fucking know.
+
+631
+00:50:39,320 --> 00:50:45,560
+And that's, to my point, when someone's depressed, they see through their lens, they don't see through
+
+632
+00:50:45,560 --> 00:50:50,040
+anyone else's lens. It's just like this is water, right? And so you could have everyone on Earth,
+
+633
+00:50:50,040 --> 00:50:53,400
+fucking Obama could show up and say like, look what you have going on for you. And you'd say,
+
+634
+00:50:53,400 --> 00:50:59,640
+you don't know what's going on for me. And that's really how I felt. When I got out, I had a
+
+635
+00:50:59,640 --> 00:51:05,880
+psychologist and a psychiatrist and the psychiatrist, I was pretty adamant that I didn't want to go down
+
+636
+00:51:05,880 --> 00:51:10,760
+the SSRI rabbit hole. I had family members that had done that. And I saw it was just a merry go
+
+637
+00:51:10,760 --> 00:51:14,760
+round of different things. And finally, when they found something that would work, they didn't
+
+638
+00:51:14,760 --> 00:51:21,240
+inevitably have to increase the dosage. So I said no to that. I was prescribed lithium. And I took
+
+639
+00:51:21,240 --> 00:51:27,000
+it for about a week. And I remember thinking like, I am a fucking mute. My whole life, I've
+
+640
+00:51:27,000 --> 00:51:32,280
+been an extrovert. I've enjoyed talking to people. I've walked through public speaking classes in
+
+641
+00:51:32,280 --> 00:51:37,720
+college. Now I'm a mute. There was no high, there was no low. The diagnosis was bipolar.
+
+642
+00:51:37,720 --> 00:51:40,440
+What dose of lithium did they put? They must have put you on a very heavy dose.
+
+643
+00:51:41,240 --> 00:51:45,400
+Probably. I know some, you know, I think we know some people that benefit very greatly from a low
+
+644
+00:51:45,400 --> 00:51:50,200
+dose of that. But at the time, it was like, I can't do this either. And I remember talking to
+
+645
+00:51:50,200 --> 00:51:55,800
+the psychiatrist who actually resonated more with me than the psychologist. I've had great
+
+646
+00:51:55,800 --> 00:51:59,480
+therapists, but that guy wasn't it. Psychiatrist was like, all right, if you don't want to take
+
+647
+00:51:59,480 --> 00:52:05,800
+anything, read these. And he handed me six studies on fish oil in the brain. And that was my first
+
+648
+00:52:05,800 --> 00:52:10,440
+like, okay, from like a holistic standpoint of what supplementation can look like rather than
+
+649
+00:52:10,440 --> 00:52:15,320
+just creatine and testosterone. Maybe there's something to this and started something with
+
+650
+00:52:15,320 --> 00:52:20,840
+fish oil. More importantly than that, started creating space for myself to actually look at
+
+651
+00:52:21,640 --> 00:52:28,040
+my life and just create like a distance from the party atmosphere. Like maybe I can take a break.
+
+652
+00:52:28,680 --> 00:52:33,720
+And with that started to see a shift, started to get goals. Were you back in class at this point?
+
+653
+00:52:33,720 --> 00:52:38,360
+No, I never went back to school, never went back to school. So I'm still a senior at ASU officially.
+
+654
+00:52:39,160 --> 00:52:42,920
+You know, I had fought a lot growing up, like I talked about and I'd watched the UFC from its
+
+655
+00:52:42,920 --> 00:52:48,120
+infancy was a huge fan of pride. I had no intention of becoming a professional fighter,
+
+656
+00:52:48,120 --> 00:52:53,880
+but I knew what I was missing. And what I was missing in football was camaraderie. It was being
+
+657
+00:52:53,880 --> 00:52:59,560
+able to butt heads. It was some physical interaction with another human. And then the training, I would
+
+658
+00:52:59,560 --> 00:53:04,520
+go instead of training with all these guys and having some of the best coaches in the world hyping
+
+659
+00:53:04,520 --> 00:53:09,480
+me up before I lift, I'm lifting by myself a 24 hour fitness. I'm on a fucking treadmill. Like
+
+660
+00:53:09,480 --> 00:53:14,520
+there was no real draw to do that. I felt like a rat on the wheel. Knowing that's something I
+
+661
+00:53:14,520 --> 00:53:18,360
+missed. I wanted to start training in mixed martial arts just for the training, just for the
+
+662
+00:53:18,360 --> 00:53:22,360
+camaraderie, just for the ability to learn something new each day and not really know like,
+
+663
+00:53:23,240 --> 00:53:27,000
+I don't want to have to design my entire workout in the gym. Like, let me go here and learn
+
+664
+00:53:27,000 --> 00:53:33,640
+something brand new and maybe make some friends in the process. And probably three months into that,
+
+665
+00:53:34,440 --> 00:53:38,280
+there was a guy at gym owner out in Arizona who ran rage in the cage was a local,
+
+666
+00:53:38,280 --> 00:53:42,600
+very low level show. And he said, dude, you're big, you're handsome. You played football,
+
+667
+00:53:42,600 --> 00:53:46,840
+you're athletic, fight for me at heavyweight. You don't have to do it one time. If you don't
+
+668
+00:53:46,840 --> 00:53:52,040
+want to do it again, you don't have to. And so I said, all right. In my first two fights,
+
+669
+00:53:52,040 --> 00:53:57,240
+I won in under 30 seconds. I'm not saying I was great or anything like that. And what I am saying
+
+670
+00:53:57,240 --> 00:54:01,720
+is there is a difference between an athlete that comes from division one and a lot of the guys
+
+671
+00:54:01,720 --> 00:54:07,400
+fighting heavyweight at the time. And this was in MMA? Yes, mixed martial arts. And what are the
+
+672
+00:54:07,400 --> 00:54:11,160
+just quickly, what are the rules? What are the parameters? I think everybody's heard of MMA.
+
+673
+00:54:11,160 --> 00:54:15,640
+People sometimes don't understand the difference between MMA and UFC. Like they're sometimes
+
+674
+00:54:15,640 --> 00:54:19,560
+people use these terms synonymously. But let's start with what mixed martial arts means.
+
+675
+00:54:19,560 --> 00:54:25,080
+And analogy I like to use is mixed martial arts is to the UFC as tissues are to Kleenex.
+
+676
+00:54:25,640 --> 00:54:28,680
+And a lot of people will say, can you hand me a tissue? They'll say, pass me a Kleenex,
+
+677
+00:54:28,680 --> 00:54:34,120
+whether it's Kleenex brand or not. So the UFC being the highest level of sport that is mixed
+
+678
+00:54:34,120 --> 00:54:40,280
+martial arts. And then mixed martial arts can have there's there's MMA shows all over the world
+
+679
+00:54:40,280 --> 00:54:47,160
+now at varying levels. But mixed martial arts is the practice of bringing all things together.
+
+680
+00:54:47,160 --> 00:54:51,080
+Typically, they use four to five ounce gloves that are fingerless, you can grab,
+
+681
+00:54:51,720 --> 00:54:55,560
+you can't strike in the back of the head. There used to be varying rules, you know,
+
+682
+00:54:55,560 --> 00:54:59,160
+in pride, you could stomp a guy's face, you could soccer, could guys face while he's on the ground,
+
+683
+00:54:59,160 --> 00:55:02,200
+you can knee a guy's head while he's on all fours, none of that's allowed in the UFC,
+
+684
+00:55:02,840 --> 00:55:05,160
+or in all of North America, to my understanding.
+
+685
+00:55:05,960 --> 00:55:08,840
+Can't what else can you not? Yeah, it's probably easier to say what you can't do.
+
+686
+00:55:08,840 --> 00:55:13,640
+You can't kick to the nuts. Can't pull hair. And a lot of this stuff when when MMA started was
+
+687
+00:55:13,640 --> 00:55:18,200
+allowed, you know, it was no holds barred. What's the what? Where's the genesis of MMA? When did it
+
+688
+00:55:18,200 --> 00:55:22,920
+really first start? I think it's different. You know, for different people, different camps would
+
+689
+00:55:22,920 --> 00:55:27,560
+say it was Bruce Lee different camps would say so they would say jute kundo was the original.
+
+690
+00:55:27,560 --> 00:55:33,560
+Yeah, and kaji Kempo also was different forms of full contact karate kickboxing jiu jitsu.
+
+691
+00:55:34,360 --> 00:55:39,240
+We just had john hackleman on my podcast, and he was a kaji Kempo background out of Hawaii. And now
+
+692
+00:55:39,240 --> 00:55:44,920
+he created Hawaiian Kempo. So there's there's merit in both, you know, but it is that bridging
+
+693
+00:55:44,920 --> 00:55:51,240
+of different forms and the arc of MMA. If you haven't seen it started off as like, this is what
+
+694
+00:55:51,240 --> 00:55:55,000
+I'm good at versus this is what you're good at. It was like the Kuma tan blood sport. So you'd have
+
+695
+00:55:55,000 --> 00:56:00,200
+a boxer against a sumo wrestler. And then, you know, as it progressed, people begin to have more
+
+696
+00:56:00,200 --> 00:56:05,800
+than one trick pony a couple skill sets. So I'm good at defending takedowns, and I'm really good
+
+697
+00:56:05,800 --> 00:56:10,760
+at stand up. So I can stand at bangs brawling brawl, or terms that were being used or I'm a great
+
+698
+00:56:10,760 --> 00:56:14,840
+wrestler. And I can pound you when you're on the ground. So ground and pound became a thing. And
+
+699
+00:56:14,840 --> 00:56:19,880
+then as it's transitioned, and now you have to know everything in any position, because if you have a
+
+700
+00:56:19,880 --> 00:56:24,440
+weakness, it's going to be exploited. And in parallel to this, you've got this Brazilian
+
+701
+00:56:24,440 --> 00:56:29,640
+jiu-jitsu that is being, you know, you've got these incredible gracies and all these other guys
+
+702
+00:56:29,640 --> 00:56:36,520
+over there doing this other form of traditional jiu-jitsu. And when does that start to merge with
+
+703
+00:56:36,520 --> 00:56:40,760
+MMA? Because today, it's almost impossible to distinguish like, it's almost impossible to
+
+704
+00:56:40,760 --> 00:56:45,240
+imagine MMA without Brazilian jiu-jitsu, right? I think right as the UFC came along, that was the
+
+705
+00:56:45,240 --> 00:56:52,200
+point. And when did the UFC come into 93? So it was a different group of ownership. I forget the
+
+706
+00:56:52,200 --> 00:56:57,800
+guy's name, Bob something, but he started the UFC with in large part with the gracies. And they,
+
+707
+00:56:58,920 --> 00:57:03,400
+according to their story, wanted to bring in a guy who wasn't the best, wasn't the most fit,
+
+708
+00:57:03,400 --> 00:57:09,080
+wasn't the strongest. And they brought in hoist Gracie, just to illustrate like this is a technical
+
+709
+00:57:09,080 --> 00:57:13,480
+thing. It's not that he's a gifted athlete. And he's going to do this to you. He's not our best
+
+710
+00:57:13,480 --> 00:57:17,560
+athlete. He's not our best Gracie. And he can still do this to you. I mean, they showed what
+
+711
+00:57:17,560 --> 00:57:21,800
+jiu-jitsu was all about. It was awesome to watch that to see the difference. But now you see even
+
+712
+00:57:21,800 --> 00:57:27,240
+the sport of jiu-jitsu has really progressed. There's guys that focus on that their whole lives
+
+713
+00:57:27,240 --> 00:57:31,480
+and careers and you see them in jiu-jitsu sport competitions. And it's just a whole different
+
+714
+00:57:31,480 --> 00:57:37,240
+level. Their orders of magnitude greater than some of the guys in the UFC. Going back to when
+
+715
+00:57:37,240 --> 00:57:42,200
+you start training in an MMA gym and have these couple of quick fights. At that point in time,
+
+716
+00:57:42,200 --> 00:57:47,720
+outside of your fitness and athleticism strength, etc. Did you have any formal training in boxing,
+
+717
+00:57:47,720 --> 00:57:54,680
+kickboxing, martial arts? It was only wrestling. I had let me correct myself when I was 17. I went
+
+718
+00:57:54,680 --> 00:57:59,400
+with another wrestling teammate of mine. We didn't want to do tracker or any of that spring sports.
+
+719
+00:57:59,400 --> 00:58:05,720
+So we went into AKA American Kickboxing Academy, which is in San Jose. At that time, Frank Shamrock
+
+720
+00:58:05,720 --> 00:58:11,800
+was the coach there. This is today regarded as one of the most prolific training institutes
+
+721
+00:58:11,880 --> 00:58:16,520
+of MMA in the world. Yeah, still to this day. But you just got lucky. It just happened in your
+
+722
+00:58:16,520 --> 00:58:21,000
+backyard. Very fortunate that it literally was in my backyard. And we, you know, the first three
+
+723
+00:58:21,000 --> 00:58:25,560
+months I went there, that was about it. I went there for three months and started training for
+
+724
+00:58:25,560 --> 00:58:30,440
+football again. It was awesome. I loved it. And I was just thinking like, I'm going to learn this
+
+725
+00:58:30,440 --> 00:58:34,680
+stuff so I can kick more ass on the street. You know, that was really it. And it'll keep me in
+
+726
+00:58:34,680 --> 00:58:39,720
+shape and maybe help me be a better wrestler, those kinds of things. But it took some time. I mean,
+
+727
+00:58:39,720 --> 00:58:44,600
+once I got back into fighting, well, once I started fighting professionally and really
+
+728
+00:58:44,600 --> 00:58:49,960
+trying to learn this stuff, in large part, I had forgotten a lot from wrestling and most of the
+
+729
+00:58:49,960 --> 00:58:56,200
+things that I learned at AKA when I was young. So, but also having learned how to be coachable
+
+730
+00:58:56,200 --> 00:59:01,240
+was really just there to absorb as much as I could. And out in Arizona, we had some good guys.
+
+731
+00:59:01,240 --> 00:59:05,560
+It's not at the level that it is now, you know, you have some pretty great gyms out in Arizona
+
+732
+00:59:06,200 --> 00:59:10,360
+these days, but it was still still kind of young in terms of who you train with.
+
+733
+00:59:11,080 --> 00:59:14,600
+I didn't know that I'd fight in the UFC or anything like that. It was just fun for me.
+
+734
+00:59:14,600 --> 00:59:20,360
+And again, you could think for the listener, the UFC is like the NFL. And you have an infinite
+
+735
+00:59:20,360 --> 00:59:24,360
+number of other arena football leagues and all these other sorts of things. And you could be
+
+736
+00:59:24,360 --> 00:59:29,880
+playing in those leagues and maybe one day think you make it to the UFC or the NFL as it were.
+
+737
+00:59:29,880 --> 00:59:34,280
+Yeah. And that was the goal. I mean, or or pride, they were equal, but I, it wasn't my dream to play
+
+738
+00:59:34,280 --> 00:59:39,720
+or fight in Japan for that matter. I would have happily done it, but I just kept going,
+
+739
+00:59:39,720 --> 00:59:45,400
+you know, and I fought often. I wasn't training nearly by the standard I needed to be at. So as
+
+740
+00:59:45,400 --> 00:59:47,640
+I was building this record, were you sustaining at this?
+
+741
+00:59:48,760 --> 00:59:53,880
+Zero. I had no injuries at all. Early on in my career was only when I got to,
+
+742
+00:59:54,440 --> 00:59:59,640
+when I circled back. So I was six and oh, was now fighting in King of the cage, which you could
+
+743
+00:59:59,640 --> 01:00:04,520
+look at as kind of a bridge between the two. Still a massive jump from King of the cage to
+
+744
+01:00:05,160 --> 01:00:09,080
+the UFC. But a lot of guys that fought in the UFC had fought in King of the cages.
+
+745
+01:00:09,080 --> 01:00:10,600
+So how much are you getting paid per fight?
+
+746
+01:00:10,600 --> 01:00:12,040
+A thousand dollars a fight.
+
+747
+01:00:12,040 --> 01:00:14,200
+And how frequently do they let you fight?
+
+748
+01:00:14,200 --> 01:00:19,640
+It was four times a year with the contract. Prior to that, it was $100 a fight in rage in the cage.
+
+749
+01:00:20,200 --> 01:00:23,080
+It's just to give you perspective, $100 to go in and fight.
+
+750
+01:00:23,720 --> 01:00:26,440
+Oh, God. That's even worse than boxing.
+
+751
+01:00:27,000 --> 01:00:31,240
+Yeah, it was. I mean, that's still in the I don't know what it is today. You know,
+
+752
+01:00:31,240 --> 01:00:35,240
+this is still when things were starting or relatively. I mean, it's not like I was
+
+753
+01:00:35,240 --> 01:00:39,880
+fighting in 93. That's when it was starting. Got to six and oh, had a loss. My first loss
+
+754
+01:00:39,880 --> 01:00:43,560
+of my career in King of the cage. What happened in that fight?
+
+755
+01:00:43,560 --> 01:00:48,200
+I really hadn't hadn't trained much for it because it was walking through people. It was almost like
+
+756
+01:00:48,200 --> 01:00:51,960
+Tyson and Buster Douglas, you know, and my coach was trying to get me in there more. And it was
+
+757
+01:00:51,960 --> 01:00:56,600
+like, yeah, whatever, you know, and you think a humbling experiences like I was just had my head
+
+758
+01:00:56,600 --> 01:01:00,200
+in the clouds. I thought I was the shit thought I was going to just walk through people until I got
+
+759
+01:01:00,200 --> 01:01:04,280
+to the UFC, then I'd really have to start training. So I went into a fight. I think it was Laughlin,
+
+760
+01:01:04,280 --> 01:01:08,440
+Nevada, and just got the shit beat out of me. I mean, it was the first time I got stung with a
+
+761
+01:01:08,440 --> 01:01:12,760
+punch, need me in the head. It was Herb Dean who ref the fight. He actually stopped the fight with
+
+762
+01:01:12,760 --> 01:01:17,160
+me on my feet. I was getting beat so bad. I had a really good coach who actually had a
+
+763
+01:01:17,160 --> 01:01:22,600
+fight. It happened in the first round. It was a bad beating. My striking coach trained under
+
+764
+01:01:22,600 --> 01:01:27,800
+Dan and Asanto, who was one of Bruce Lee's main students. So he was a JKD guy. And I learned JKD
+
+765
+01:01:27,800 --> 01:01:32,760
+from one of Dan's six students. That's amazing. Yeah, this guy Vince Perez-Mazzola, incredible
+
+766
+01:01:32,760 --> 01:01:39,720
+human. He basically pulled me aside and he said, look, I can teach you all of this stuff, things
+
+767
+01:01:39,720 --> 01:01:44,840
+that people aren't doing in the UFC. But you need more than me. You need a team. You need training
+
+768
+01:01:44,840 --> 01:01:50,040
+partners. All my training partners fought at 185, a weight class underneath me, or two weight
+
+769
+01:01:50,040 --> 01:01:56,760
+classes underneath me. And he was like, you should go home and train at AKA again. They have a team.
+
+770
+01:01:56,760 --> 01:02:00,200
+They're great. There's many great guys that fight in the UFC and that's where you ultimately want
+
+771
+01:02:00,200 --> 01:02:06,280
+to go now. So you should move home. And at the same time, my strength coach from ASU hit me up,
+
+772
+01:02:06,280 --> 01:02:11,080
+Joe Ken. And he said, Kingsbury, I heard you're fighting right now. You got to go back to AKA.
+
+773
+01:02:11,080 --> 01:02:15,640
+What the fuck are you doing? And I was like, I don't know, coach, I kind of like it here in
+
+774
+01:02:15,640 --> 01:02:20,360
+Arizona. He's like, no, fuck all that. Kane's there. So Kane was the heavyweight wrestler at
+
+775
+01:02:20,360 --> 01:02:28,040
+ASU. He took fifth, I think, in NCAA senior year in nationals. And he's one of the greatest heavy
+
+776
+01:02:28,040 --> 01:02:34,040
+weights of all time. But he was only two and O at AKA at the time. So I moved back in with my dad
+
+777
+01:02:34,040 --> 01:02:39,080
+and started training at AKA, largely just getting my ass beat every day until I could finally get
+
+778
+01:02:39,080 --> 01:02:44,760
+my skills and endurance and everything up to par to be able to hang just to hang with Kane for
+
+779
+01:02:44,760 --> 01:02:51,960
+one round. We were rotating fresh bodies on him. I mean, it was a really hard entry point into what
+
+780
+01:02:51,960 --> 01:02:57,000
+being a real pro looked like. And how did you guys spar? Like, obviously very familiar with
+
+781
+01:02:57,000 --> 01:03:02,600
+boxing where you can spar, you're using slightly larger gloves. You've got headgear, though I don't
+
+782
+01:03:02,600 --> 01:03:08,280
+think headgear does much except prevent cuts. And it's just a little easier to dial back the intensity.
+
+783
+01:03:08,280 --> 01:03:12,840
+But when it comes to elbows, knees, things like that, like how are you sparring basically at 100%
+
+784
+01:03:12,840 --> 01:03:17,640
+all the time? So we weren't using elbows at the time. If you had knee pads, you could knee.
+
+785
+01:03:17,640 --> 01:03:23,320
+Generally, we wouldn't need the head. It was full go. I mean, it was it was a fight three days a
+
+786
+01:03:23,320 --> 01:03:28,120
+week. Monday, Wednesday, Friday, you're in a fight period. Thankfully, that we've seen the sport
+
+787
+01:03:28,120 --> 01:03:32,200
+evolve. And that's not really the case. There's still some smaller gyms and backwoods areas that
+
+788
+01:03:32,200 --> 01:03:37,320
+still spar like that. It was a huge issue in the UFC for a long time. Fighters would get to camp.
+
+789
+01:03:38,280 --> 01:03:42,520
+They'd train like animals that spar as hard as the fight was. And then a week before the fight,
+
+790
+01:03:42,520 --> 01:03:46,840
+they get hurt or the week of the fight, they would get hurt. It was a real issue. And I think it
+
+791
+01:03:46,840 --> 01:03:51,560
+still happens now. But thankfully, people are being more mindful of the approach. And also knowing
+
+792
+01:03:52,760 --> 01:03:57,480
+once you have that level of experience, and you've kind of weeded out who's not going to make it,
+
+793
+01:03:58,040 --> 01:04:03,480
+you can scale back and work technically. You look at things like Muay Thai, which is a form of kick
+
+794
+01:04:03,480 --> 01:04:08,520
+boxing from Thailand. They fight on a weekly basis. So their sparring is just touch and go.
+
+795
+01:04:08,520 --> 01:04:12,520
+It's highly technical, and they're never trying to hurt one another. So I think we're going to
+
+796
+01:04:12,520 --> 01:04:17,080
+start to see that more and more in the sport of mixed martial arts. I did Muay Thai for two years
+
+797
+01:04:17,080 --> 01:04:22,440
+when I was in college. And some of the most painful injuries I had were, you know, blank
+
+798
+01:04:22,440 --> 01:04:30,920
+Shin to Shin contact. My God. That's the only thing that hurt me in in actually inside the octagon in
+
+799
+01:04:30,920 --> 01:04:36,360
+a fight in the UFC was Shin to Shin contact. I could get drilled and actually touch canvas,
+
+800
+01:04:36,360 --> 01:04:41,480
+snap out of it and get back up and I wouldn't have felt the punch. Like a hard rib shot. If I get
+
+801
+01:04:41,480 --> 01:04:44,600
+the wind knocked out of me, that hurts. But the Shin to Shin, that's the one where you're like,
+
+802
+01:04:44,600 --> 01:04:51,000
+wow, I might not be able to walk tonight. Well, I trained I was trained by a guy from Thailand who
+
+803
+01:04:51,960 --> 01:04:55,640
+can I still remember his name to I'd love to I'd love to know what he's up to now. But
+
+804
+01:04:55,640 --> 01:05:01,880
+his name was Eric and his shins were so badly conditioned, meaning so well conditioned for the
+
+805
+01:05:01,880 --> 01:05:07,640
+concept of the sport that you could hit them with not all out, but you could take a baseball bat
+
+806
+01:05:07,640 --> 01:05:13,240
+and somewhat like just gently, not gently, but like with medium force whack his shins and he was
+
+807
+01:05:13,240 --> 01:05:18,040
+unfazed at a level where even if you roll a baseball bat across a normal person's shin at
+
+808
+01:05:18,040 --> 01:05:25,080
+the wrong angle, it's very sensitive. And yeah, I was kind of like, look, I mean, I'm done with
+
+809
+01:05:25,080 --> 01:05:28,520
+trying to be a professional fighter here. I go to college now. I don't think I'm going to
+
+810
+01:05:29,400 --> 01:05:32,920
+do the work that's necessary to make my shins look like Eric's over there.
+
+811
+01:05:33,480 --> 01:05:36,920
+It's just not. I mean, it's just it's true, even though I didn't know much at the time,
+
+812
+01:05:36,920 --> 01:05:42,120
+I sort of knew like that's just the bridge too far right now. But gives you an appreciation about
+
+813
+01:05:42,120 --> 01:05:47,240
+sport. I mean, I used to love I mean, I love Thai boxing, but we would spar mostly with really heavy
+
+814
+01:05:47,240 --> 01:05:51,560
+equipment that would enable us to do this. And we would focus on sort of different types of things.
+
+815
+01:05:51,560 --> 01:05:55,480
+Like there were some days when it was just all going to be low leg sweeps and you were going to
+
+816
+01:05:55,480 --> 01:05:59,320
+be in shin guards and you were really heavily guarded because I always felt the worst thing
+
+817
+01:05:59,320 --> 01:06:04,680
+you could do is train at half speed because then it conditions you to be doing something at half
+
+818
+01:06:04,680 --> 01:06:08,760
+speed. You want to be able to be explosive. So you just have to have more more barrier there when
+
+819
+01:06:08,760 --> 01:06:14,120
+you're doing it. But having never done mixed martial arts, it's just nothing but I have for
+
+820
+01:06:14,120 --> 01:06:19,720
+how you have to be so prolific at so many things. You can be a great striker and I can sort of relate
+
+821
+01:06:19,720 --> 01:06:23,000
+to that because at least I know what those things I know it would be like to be great at that I was
+
+822
+01:06:23,000 --> 01:06:27,480
+never great. But I understand those sports well enough. But then you think you could spend your
+
+823
+01:06:27,480 --> 01:06:31,960
+whole life doing that. And if you're a horrible grappler, you get destroyed. Yeah, and vice versa.
+
+824
+01:06:31,960 --> 01:06:36,440
+That's where it's at now for sure. Yeah, I mean, I think when you look at guys like Daniel Cormier
+
+825
+01:06:36,440 --> 01:06:40,600
+and john jones, anybody who's great in the sport these days, they came in with something already
+
+826
+01:06:40,600 --> 01:06:45,240
+in their back pocket, you know, a lifelong wrestling pedigree, or a lifelong in traditional
+
+827
+01:06:45,240 --> 01:06:49,080
+martial arts pedigree, and then they could just focus on these other things. Because you only have
+
+828
+01:06:49,080 --> 01:06:53,960
+so much bandwidth, there's only so much time in the day to really learn and acquire new skills,
+
+829
+01:06:53,960 --> 01:06:59,400
+to polish them to feel comfortable enough to use that in a fight at full speed with all the pressure
+
+830
+01:06:59,400 --> 01:07:04,440
+of people watching you and pay per view and that kind of stuff going on. It's a lot. And I started
+
+831
+01:07:04,440 --> 01:07:09,320
+kind of late when you consider things. Thankfully, I wasn't missing the athletic background. But from
+
+832
+01:07:09,320 --> 01:07:13,560
+the technical standpoint, I entered the UFC as a white belt in jujitsu. I mean, there was there
+
+833
+01:07:13,560 --> 01:07:18,760
+was gaping holes in my game that remained there until I finished. While this whole new thing is
+
+834
+01:07:18,760 --> 01:07:24,680
+going on, how are you processing or what's the state of your mind with respect to this near death
+
+835
+01:07:24,680 --> 01:07:29,640
+experience you've had? And the culmination of really kind of what's been going on since you
+
+836
+01:07:29,640 --> 01:07:35,240
+were a kid? Like, has this has this now backburnered and sort of been supplanted by a new addiction,
+
+837
+01:07:35,240 --> 01:07:41,640
+so to speak? Yeah, for sure. I think having something to look forward to and train for and
+
+838
+01:07:41,640 --> 01:07:46,520
+really some level of meaning of what I want to do, I didn't obviously know it wasn't going to
+
+839
+01:07:46,520 --> 01:07:50,200
+fight for the rest of my life. I'd already experienced that in football. But this kind
+
+840
+01:07:50,200 --> 01:07:57,000
+of gave me a second go at it as a professional athlete, in that as I was working towards being
+
+841
+01:07:57,000 --> 01:08:01,720
+the best that I possibly could. Those are the things really, they weren't coming up for me
+
+842
+01:08:01,720 --> 01:08:07,080
+because I also had an outlet. If I was feeling weird inside and I go and fucking punch someone's
+
+843
+01:08:07,080 --> 01:08:10,840
+lights out, like that's a good feeling, right? Like it's letting the lead out. It was a great outlet.
+
+844
+01:08:11,480 --> 01:08:17,880
+In tandem, there was a couple catalysts, big catalysts that changed my life forever. One,
+
+845
+01:08:17,880 --> 01:08:22,920
+I started working with a sports psychologist who introduced me to breath work, and some level of
+
+846
+01:08:22,920 --> 01:08:28,360
+mindfulness. And the idea was because I mean, early on in my fight career, there was there was
+
+847
+01:08:28,360 --> 01:08:32,200
+no issues, I had ultimate confidence, I was going to walk through people. But now I'm at the UFC.
+
+848
+01:08:33,000 --> 01:08:39,240
+All these people are are as good, you know, as me, if not better. And that negative monkey mind
+
+849
+01:08:39,240 --> 01:08:45,080
+chatter that comes up, it was nonstop. So how do I control that? And the breath was really my first
+
+850
+01:08:45,080 --> 01:08:50,200
+entry point into quieting my mind and finding some level of stillness at least right before the fight.
+
+851
+01:08:50,200 --> 01:08:51,640
+And this was holotropic?
+
+852
+01:08:51,640 --> 01:08:57,160
+No, we would do various forms of slow breathing, trying to get down into parasympathetic. So at
+
+853
+01:08:57,160 --> 01:09:02,200
+least two to one exhale to inhale, four seconds in seven seconds hold eight seconds out, things like
+
+854
+01:09:02,200 --> 01:09:09,160
+that, or 1010 1010, 10 in 10 out or 10 in 10 whole 10 out. And those were I mean, fairly basic
+
+855
+01:09:09,160 --> 01:09:13,320
+forms of breath work, but I could feel the difference. And practicing that right when I
+
+856
+01:09:13,320 --> 01:09:17,800
+woke up and right before I went to bed helped me sleep at night. Because there was, I mean,
+
+857
+01:09:18,600 --> 01:09:21,800
+it's one thing to say I'll fight a guy on this certain date, but you sign a contract
+
+858
+01:09:22,440 --> 01:09:27,400
+every day up until that date happens. It's very hard to sleep. Cannabis helped me with that too.
+
+859
+01:09:28,040 --> 01:09:32,680
+Specifically THC, not just CBD, but there was a lot that helped me there to actually fall asleep,
+
+860
+01:09:32,680 --> 01:09:37,800
+breath work being a big component of that. The second piece that really was a game changer was
+
+861
+01:09:37,800 --> 01:09:43,320
+a boxing coach that I had who was Native American and Mexican. And he would take me to the reservation
+
+862
+01:09:43,320 --> 01:09:49,560
+to do traditional sweat lodges. So we do the Tim has call before every fight camp started to kind
+
+863
+01:09:49,560 --> 01:09:55,160
+of zero in on what we wanted. And after every fight for healing and reflection. And it wasn't
+
+864
+01:09:55,160 --> 01:09:59,800
+long before I just kind of looked at him and I said, coach, when are we going to use lamadicina?
+
+865
+01:10:00,520 --> 01:10:04,200
+And he just started laughing. And he said, I've been waiting for you to ask. And we started working
+
+866
+01:10:04,200 --> 01:10:08,760
+with psilocybin. Had you ever done it before? I had done it before highly inappropriately,
+
+867
+01:10:08,760 --> 01:10:14,200
+you know, at a house, like, creationally, yeah, at a house party on alcohol and cannabis with a bunch
+
+868
+01:10:14,200 --> 01:10:20,360
+of people I didn't know. And ultimate horror stories, ultimate horror stories. But this is
+
+869
+01:10:20,360 --> 01:10:24,920
+my first real introduction to use intention to have respect and reverence for the plants being used.
+
+870
+01:10:25,720 --> 01:10:31,800
+And in a completely safe and perfect environment, you know, there's no running water, no lights,
+
+871
+01:10:31,800 --> 01:10:37,400
+you're just out in nature, you know, and it's just my coach there watching me and maybe a couple
+
+872
+01:10:37,400 --> 01:10:43,560
+other fighters. And really, that's where I started to begin to uncover some things and really sort,
+
+873
+01:10:44,200 --> 01:10:49,800
+not too much from the childhood, but really getting direction and a true sense of peace inside
+
+874
+01:10:49,800 --> 01:10:55,000
+that was lasting. And at a certain point, I had a friend go down to Peru, he was going to hike
+
+875
+01:10:55,000 --> 01:10:59,000
+Machu Picchu. And I was like, that's awesome, man. Tell me how it goes when you get back.
+
+876
+01:10:59,000 --> 01:11:03,800
+So he actually calls me early and I'm like, aren't you in Peru? And he's like, yeah, yeah,
+
+877
+01:11:03,800 --> 01:11:09,160
+I just got here. But here's the thing, I can either hike Machu Picchu, or I can go do this
+
+878
+01:11:09,160 --> 01:11:13,720
+thing called ayahuasca. It's going to take five days to do either. And I was like, hike Machu Picchu,
+
+879
+01:11:13,720 --> 01:11:16,440
+why are you even calling me? That's why you went there. And he's like, no, you got to look it up.
+
+880
+01:11:17,000 --> 01:11:22,200
+So I went to arrowid.org. I'm not sure if you're familiar with the site. It's got every drug from
+
+881
+01:11:22,200 --> 01:11:26,840
+caffeine to meth in there, including all plant medicines. They give the pharmacology of it,
+
+882
+01:11:26,840 --> 01:11:29,880
+they give the chemistry of it, they give the legality of it, and there's trip reports.
+
+883
+01:11:30,520 --> 01:11:35,400
+So I remember pulling up a trip report from ayahuasca and the first thing it was titled,
+
+884
+01:11:35,400 --> 01:11:41,880
+it said the apex of teacher plans. And I thought, hmm, maybe there is something to this. And so I
+
+885
+01:11:41,880 --> 01:11:46,200
+asked my coach if he would come with me to Peru because I didn't speak Spanish well, and I wanted
+
+886
+01:11:46,280 --> 01:11:51,080
+him there. And he's guided me in every meaningful experience I've had thus far. And he said, I'll
+
+887
+01:11:51,080 --> 01:11:57,480
+bring Peru to us. And we found people that would work with ayahuasca with us locally. And that was
+
+888
+01:11:57,480 --> 01:12:04,600
+an absolute game changer. That's where I mean, it that shifted more things in me on how I perceive
+
+889
+01:12:04,600 --> 01:12:08,600
+the world than anything else in terms of the catalyst for that. And again, you know, like,
+
+890
+01:12:08,600 --> 01:12:13,400
+as we talked about before, it's not to glorify these substances, there's a right way and a wrong
+
+891
+01:12:13,400 --> 01:12:20,120
+way to do anything. But under that guidance in that setting, with that medicine, no doubt,
+
+892
+01:12:20,120 --> 01:12:24,680
+some of the most powerful changes in the way I view consciousness, my spirituality.
+
+893
+01:12:26,280 --> 01:12:29,000
+Were you still fighting while you were experimenting?
+
+894
+01:12:29,000 --> 01:12:34,520
+I was I was introduced, I was fighting when I was using psilocybin when I got introduced ayahuasca,
+
+895
+01:12:34,520 --> 01:12:39,480
+to be clear, I was using psilocybin from then on still to this day. Not often, but yeah,
+
+896
+01:12:39,480 --> 01:12:44,120
+still using psilocybin. When I was introduced ayahuasca, I had just torn my labrum. So it was
+
+897
+01:12:44,120 --> 01:12:48,920
+after a brutal fight in Nottingham, England, where I had my orbital, my left orbital blown out for a
+
+898
+01:12:48,920 --> 01:12:53,880
+second time, and my left eyebrow was fractured from a head kick in that fight. And it was my
+
+899
+01:12:53,880 --> 01:12:59,400
+third loss in a row. I had always said if I get to be a 500 fighter at any level, then I'll quit
+
+900
+01:12:59,400 --> 01:13:04,680
+because it's it's not fucking baseball, you know. And I am taking damage is clearly if somebody can
+
+901
+01:13:04,680 --> 01:13:09,800
+punch me hard enough in the face to break bones, it's taking its toll on my brain. At that point,
+
+902
+01:13:10,440 --> 01:13:14,920
+I had some time off. I mean, I tore my labrum. It's it took me it was a year to fully recover
+
+903
+01:13:14,920 --> 01:13:19,160
+from that. How are you supporting yourself at this point? Are you making enough in the UFC?
+
+904
+01:13:19,160 --> 01:13:23,320
+I was not making enough in the UFC, even when I was fighting. So I lived in my mom's detached
+
+905
+01:13:23,320 --> 01:13:29,160
+garage for probably the last four and a half years I was there. And I worked at a pseudo strip club,
+
+906
+01:13:29,160 --> 01:13:34,680
+it was a bikini bar out in Sunnyvale as a bouncer manager and bartender. And I'd go in
+
+907
+01:13:34,680 --> 01:13:40,200
+twice a week, thankfully, I go on weekends and pull off to 11 hour shifts. Losing sleep, of course,
+
+908
+01:13:40,200 --> 01:13:43,720
+not in the best environment. But I still have a lot of gratitude because that put food on the
+
+909
+01:13:43,720 --> 01:13:48,200
+table the entire time I was fighting. At that point, sponsorships were starting to be pulled,
+
+910
+01:13:48,200 --> 01:13:53,320
+people know, or maybe not. But there was a reebok deal that UFC did, and they no longer allowed us
+
+911
+01:13:53,320 --> 01:13:57,640
+to have our own personal sponsors. So money was being taken out from under our feet, left and
+
+912
+01:13:57,640 --> 01:14:01,080
+right. And it was really important that I had a side job while I was fighting.
+
+913
+01:14:01,880 --> 01:14:04,840
+So the ayahuasca started when you were in this year of the torn labrum?
+
+914
+01:14:04,840 --> 01:14:08,120
+Correct. So you're three, you've lost three. What's your record in total at this point?
+
+915
+01:14:09,080 --> 01:14:16,120
+In the UFC, I was four and four. So winning record overall, but four and four, I think 11 and
+
+916
+01:14:16,120 --> 01:14:21,240
+11 and four at that point. Okay, so you're at a real crossroads, which is am I retiring from this
+
+917
+01:14:21,240 --> 01:14:26,920
+or do I have one more hurrah left in me? Yeah. And I wasn't getting super clear on that from ayahuasca.
+
+918
+01:14:26,920 --> 01:14:30,680
+I don't think it was my intention to make that decision until I had repaired my shoulder and
+
+919
+01:14:30,680 --> 01:14:37,160
+was able to train again. But all of the important things in my life were coming up for me, the deep
+
+920
+01:14:37,160 --> 01:14:44,360
+work. I mean, everything from childhood stuff to how I treated myself with drugs and alcohol,
+
+921
+01:14:44,360 --> 01:14:49,320
+you know, seeing seeing those patterns come up. I remember I was I was in Colombia, getting ready
+
+922
+01:14:49,320 --> 01:14:52,440
+to do it. And they told us we were going to use a plant, they use a lot of different add mixtures,
+
+923
+01:14:52,440 --> 01:14:56,200
+but there was this plant of 1000 ants. They said, Why do you call it that? And it said,
+
+924
+01:14:56,200 --> 01:14:59,560
+Well, we're going to rub it on you in the middle of the night, it feels like 1000 answer biting you.
+
+925
+01:14:59,560 --> 01:15:03,080
+And so I kind of chuckled. And I said, What does it do? They said, You're going to think of a
+
+926
+01:15:03,080 --> 01:15:07,480
+negative emotion that you want to remove could be anger, it could be sadness, could be whatever,
+
+927
+01:15:07,480 --> 01:15:10,920
+just something that keeps coming up for you. And I said, anger, and we got in a long conversation
+
+928
+01:15:10,920 --> 01:15:17,000
+about that. But it also talked before that ceremony about alcohol addiction and cannabis addiction.
+
+929
+01:15:17,560 --> 01:15:23,240
+And immediately, I thought, Oh, this is for everyone else. Like, I'm good. This is for
+
+930
+01:15:23,240 --> 01:15:28,360
+everyone else. And then you know, it does affect a lot of people, you know, and so I just thought
+
+931
+01:15:28,360 --> 01:15:34,040
+of it that way. And then a great chunk of that night was me reliving, puking violently over
+
+932
+01:15:34,040 --> 01:15:38,520
+a railing in my chonies and telling my sister to get away from me. You know, I didn't want people
+
+933
+01:15:38,520 --> 01:15:43,400
+around to see me like that. And I had countless nights like that. And even when I was fighting
+
+934
+01:15:43,400 --> 01:15:48,280
+in the UFC, it was really a polarized way to live in fight camp. I was a perfect little angel,
+
+935
+01:15:48,280 --> 01:15:52,120
+I wouldn't watch TV, I would read every night trying to study things that would help me in
+
+936
+01:15:52,120 --> 01:15:58,280
+fighting from mobility to diet, nutrition, you name it, eating super clean food. And then the
+
+937
+01:15:58,280 --> 01:16:03,640
+second the fight is over, it's whoppers and alcohol and blow and whatever I can get my hands on.
+
+938
+01:16:03,640 --> 01:16:07,160
+So that went back and forth for a while up until this ceremony, I was like, wow,
+
+939
+01:16:08,040 --> 01:16:12,520
+okay, time to scale back outside of camp and really treat myself better.
+
+940
+01:16:12,520 --> 01:16:15,960
+It's so interesting. When you look at the statistics, I'm borrowing a lot of this. So
+
+941
+01:16:15,960 --> 01:16:19,480
+the numbers might might be a little bit off, because it's been a while since I've read it.
+
+942
+01:16:19,480 --> 01:16:23,880
+But maybe you've heard me talk about it in the past. One of the most important books I've ever
+
+943
+01:16:23,880 --> 01:16:28,200
+read in my life is this book called I Don't Want to Talk About It. Did we talk about this in Hawaii?
+
+944
+01:16:28,200 --> 01:16:32,440
+We must have. I think so. Yeah. By Terrence Reel. And he talks so much about the difference
+
+945
+01:16:32,440 --> 01:16:37,400
+between covert and overt depression. So overt depression is what most people think about when
+
+946
+01:16:37,400 --> 01:16:43,960
+they think of depression. It's the person who can't get out of bed, who's weepy, who's unmotivated,
+
+947
+01:16:44,440 --> 01:16:50,680
+overeating, under eating, your classic picture of depression, the person who's sitting there
+
+948
+01:16:50,680 --> 01:16:57,160
+morose in their psychiatrist's office or whatever. And then there's covert depression, which is the
+
+949
+01:16:57,160 --> 01:17:04,280
+same underlying pain, but it manifests itself typically with addiction, anger, aggression,
+
+950
+01:17:04,840 --> 01:17:11,560
+workaholism, all sorts of other things that are numbing this sort of discomfort.
+
+951
+01:17:12,520 --> 01:17:18,200
+And one of the statistics that Terry talks about in the book that just blew my mind,
+
+952
+01:17:18,200 --> 01:17:23,960
+because it's so obvious when he says it, like I didn't think, I guess what I realized was I can't
+
+953
+01:17:23,960 --> 01:17:28,040
+believe I've never thought of this before. But he talks about the stark contrast between men and
+
+954
+01:17:28,040 --> 01:17:33,480
+women. So when you look at, for example, what's the proportion of men in prison versus women in
+
+955
+01:17:33,480 --> 01:17:38,840
+prison? It's something about, you know, it's like 93% of incarcerated people in the United States are
+
+956
+01:17:38,840 --> 01:17:45,160
+men, not women. Rates of alcoholism, you know, it's about 20% in men. And again, I could be
+
+957
+01:17:45,160 --> 01:17:48,680
+directionally, I could be a little bit off, but directionally, it's, you know, it's about three to
+
+958
+01:17:48,680 --> 01:17:55,480
+one in favor of men for alcohol abuse, obviously, you know, nine to one in prison, drug abuse,
+
+959
+01:17:55,480 --> 01:18:01,400
+violence, all of these things are vastly more in men than in women. But when you look at women with
+
+960
+01:18:01,400 --> 01:18:05,400
+clinical diagnosis of depression versus men with a clinical diagnosis of depression, it's the opposite,
+
+961
+01:18:05,400 --> 01:18:10,600
+it's disproportionately men. And he goes through this exercise in his book of adding up the absolute
+
+962
+01:18:10,600 --> 01:18:16,520
+numbers. What's the absolute number of women that are receiving therapy for depression, that have
+
+963
+01:18:16,520 --> 01:18:21,480
+issues with alcohol, drugs, violence, etc, etc, do the same exercise for men, it turns out it's the
+
+964
+01:18:21,480 --> 01:18:26,440
+same number. What's the difference? The difference is the form in which it exists. And this just sort
+
+965
+01:18:26,440 --> 01:18:31,560
+of blew my mind, right, which is all of this time, like, you know, whether it's you me, I think,
+
+966
+01:18:32,120 --> 01:18:38,680
+this is my anger issue, or this is my addiction, or whatever it is, and you realize what's
+
+967
+01:18:38,680 --> 01:18:43,320
+underpinning that is the same pain that in a woman might lead to depression, that we will label in a
+
+968
+01:18:43,320 --> 01:18:47,160
+certain way, and we're not seeing it this way. And so it's kind of listened to your story is so
+
+969
+01:18:47,160 --> 01:18:54,120
+interesting, because I'm just sort of watching the arc of numbing vehicles to numb pain. If it's not
+
+970
+01:18:54,120 --> 01:18:59,800
+this drug, it's the pursuit of this sport. And if it's not that it's this fight, if it's this thing,
+
+971
+01:18:59,800 --> 01:19:06,200
+and it's interesting, just it sounds like the ayahuasca became, along with the psilocybin became
+
+972
+01:19:06,200 --> 01:19:10,920
+one of the first sets of tools, these plants that and I don't put words in your mouth. So if I'm not
+
+973
+01:19:10,920 --> 01:19:15,320
+right, I'm nodding my head yes, right now, as you say, but it sounds like that was the first time
+
+974
+01:19:15,320 --> 01:19:24,200
+when you finally saw through the bullshit of you're on a hedonic loop, a treadmill of one next fix
+
+975
+01:19:24,200 --> 01:19:31,320
+after another. And again, it's so common in men, especially that, like, we're sort of drawn to using
+
+976
+01:19:31,320 --> 01:19:37,640
+our body as a shield, right, like the bigger and stronger and tougher you are, the more that seven
+
+977
+01:19:37,640 --> 01:19:42,920
+year old is not going to hurt, which, again, when you say it that way, it sounds so stupid. But
+
+978
+01:19:42,920 --> 01:19:48,280
+that's because we're now sitting here talking like, like it's a rational thought, and not realizing
+
+979
+01:19:48,280 --> 01:19:53,960
+that there's a wounded kid that had to come up with sort of a set of skills to adapt to a situation.
+
+980
+01:19:54,520 --> 01:19:58,600
+And those adaptations were actually very positive. For the large part, they saved you, right, they
+
+981
+01:19:58,600 --> 01:20:02,920
+prevented you probably from jumping off a balcony when you were seven. But they start to become
+
+982
+01:20:02,920 --> 01:20:07,800
+maladaptive. And it's it to me, this is the stuff that's interesting is this transition from
+
+983
+01:20:07,800 --> 01:20:14,600
+adaptive to maladaptive. And it starts to come crashing down. Yeah, I mean, it peels back layers,
+
+984
+01:20:14,600 --> 01:20:20,680
+they talk about the infinite onion, every time you go. And that's the something. That's something
+
+985
+01:20:20,760 --> 01:20:24,200
+that really resonates with me. You listen to people like Dennis McKenna and Gabra Maté.
+
+986
+01:20:24,920 --> 01:20:29,400
+People I find fascinating is that they've done hundreds of ceremonies, and it's completely
+
+987
+01:20:29,400 --> 01:20:33,720
+unique each time they go. And I say ceremony because of the respect and reverence that's
+
+988
+01:20:33,720 --> 01:20:39,160
+used when they utilize these plants. But it's the fact that if I give enough space between
+
+989
+01:20:39,160 --> 01:20:43,720
+ceremonies, and I come back and have a reason to be there, that's important to me, I'm going to get
+
+990
+01:20:44,600 --> 01:20:49,560
+a lot that has to do with that and maybe even more than what I came for. And that peeling back
+
+991
+01:20:49,640 --> 01:20:56,120
+at the layer really shows such a deep reflection of what's going on inside right now. And it also
+
+992
+01:20:56,120 --> 01:21:03,400
+has shown me the ways that I behave due to how I was programmed. It just blows my mind. We just
+
+993
+01:21:03,400 --> 01:21:08,200
+got back from Sartar, we did another four ayahuasca ceremonies there, about three weeks ago. And
+
+994
+01:21:09,080 --> 01:21:13,960
+each one just took me away took me in a different place. And they were completely unique from one
+
+995
+01:21:13,960 --> 01:21:21,000
+another. And I continue to learn how to work with it. It's continuing to evolve. And listening
+
+996
+01:21:21,000 --> 01:21:26,200
+to guys like Dennis, that will continue on well past 100 ceremonies.
+
+997
+01:21:26,200 --> 01:21:27,720
+Have you had some really negative ones?
+
+998
+01:21:27,720 --> 01:21:28,120
+Negative?
+
+999
+01:21:28,120 --> 01:21:32,440
+And by negative, I want to caveat that by saying highly, highly unpleasant.
+
+1000
+01:21:32,440 --> 01:21:39,160
+Yeah, so I'll all happy to jump into this. One of the hardest nights of my life was in Colombia.
+
+1001
+01:21:39,160 --> 01:21:45,320
+And ayahuasca has a visual component where you can have quote unquote visions in a dreamlike
+
+1002
+01:21:45,320 --> 01:21:51,720
+state. Oftentimes, they're very personal, what you see. There was a night where I had none of that
+
+1003
+01:21:51,720 --> 01:21:56,440
+and all of the purgative effects of ayahuasca. So I shit water violently, barely made it to the
+
+1004
+01:21:56,440 --> 01:22:01,400
+bathroom the entire night, didn't sleep one minute, puked violently the whole night. It was incredibly
+
+1005
+01:22:01,400 --> 01:22:06,520
+hard, but it was in many ways cleaning me out. And that's, I think, what I needed at that point.
+
+1006
+01:22:06,520 --> 01:22:12,280
+Now that's physiologically unbearable. But have you had, I mean, I've had one experience on ayahuasca
+
+1007
+01:22:12,280 --> 01:22:15,400
+that was emotionally unbearable.
+
+1008
+01:22:15,400 --> 01:22:16,280
+And I'm gonna get right.
+
+1009
+01:22:16,280 --> 01:22:18,280
+Yeah, yeah. Those are the ones that interest me.
+
+1010
+01:22:19,720 --> 01:22:24,840
+Having had a night like that, generally speaking, for the most part, and I've done now 26 ceremonies
+
+1011
+01:22:24,840 --> 01:22:30,920
+with ayahuasca, there would be some level of back and forth. So if I had a really challenging time
+
+1012
+01:22:30,920 --> 01:22:35,240
+physically, I could purge and then I'd feel euphoria. If I had some challenge emotionally,
+
+1013
+01:22:35,240 --> 01:22:41,960
+maybe I'm reliving some hard memory from my past, I would see within the same time span,
+
+1014
+01:22:41,960 --> 01:22:46,920
+you know, within I don't know, 30 minutes, that that other side of that coin and see the beauty
+
+1015
+01:22:46,920 --> 01:22:51,160
+in it and realize all the things that it gave me and understand it with a new perspective.
+
+1016
+01:22:52,520 --> 01:22:59,320
+My second to last night in Costa Rica recently at Sultara was for sure the hardest night of my life.
+
+1017
+01:22:59,320 --> 01:23:04,920
+I had my first dose early on and didn't feel a whole lot. And it was very peaceful. And then
+
+1018
+01:23:04,920 --> 01:23:11,640
+I asked for a second dose and it was my intention for healing. And I remember asking, then you can
+
+1019
+01:23:11,640 --> 01:23:16,520
+argue one way or another what how much intention plays a role in this, I think it plays a huge role.
+
+1020
+01:23:17,080 --> 01:23:22,920
+But I remember opening the door to any and all emotional and mental healing. And if there's
+
+1021
+01:23:22,920 --> 01:23:28,360
+anything left from my childhood, because now I'm 37, I've done a number of ceremonies with ayahuasca
+
+1022
+01:23:28,360 --> 01:23:33,240
+and even higher number with psilocybin and other MDMA of many things. And I've worked through a
+
+1023
+01:23:33,240 --> 01:23:37,400
+great deal of stuff with my childhood. So I didn't think there was a whole lot left. And I just asked
+
+1024
+01:23:37,400 --> 01:23:42,120
+like, if there's anything remaining from my childhood, please show me. It was fucking
+
+1025
+01:23:42,120 --> 01:23:48,440
+everything. It was the entire night I made it back to the room, ceremony had ended. And it kicked off
+
+1026
+01:23:48,440 --> 01:23:56,680
+into a whole second ceremony. And it was almost unbearable at many points. I remember just begging
+
+1027
+01:23:56,680 --> 01:24:01,560
+for mercy, like, please, I've seen enough. Let's let's we can run this back a different time, like
+
+1028
+01:24:01,560 --> 01:24:06,760
+any trying to rationalize or beg for a way out. So I wouldn't have to keep seeing this and to
+
+1029
+01:24:06,760 --> 01:24:14,520
+end up in a just a small picture of this. Sometimes if I was to have a vision, it's like
+
+1030
+01:24:14,520 --> 01:24:18,440
+watching from the third person or watching a movie and I can see from a different lens.
+
+1031
+01:24:18,440 --> 01:24:23,240
+This was like reliving it for the first time through your lens through my lens first person,
+
+1032
+01:24:23,240 --> 01:24:28,840
+like it was happening to me, the exact same feelings I was feeling as a six or seven year
+
+1033
+01:24:28,920 --> 01:24:35,240
+old or 15 year old in that moment, all the fear of my father, my mom screaming at me an inch from
+
+1034
+01:24:35,240 --> 01:24:42,680
+my face and spit flying into my mouth. Things like just it was in and it's so real, but it just
+
+1035
+01:24:42,680 --> 01:24:48,840
+kept going and going and going. And I realized, holy shit, like all that's still there. Finally,
+
+1036
+01:24:48,840 --> 01:24:53,640
+as the sun came up, I just kind of surrendered to it. And that's one of these cornerstones
+
+1037
+01:24:54,360 --> 01:24:59,240
+that I've learned through working with the plants is you're not in control. I'm not in control.
+
+1038
+01:24:59,240 --> 01:25:04,120
+Anytime I do these things, I can I have some level of direction, but really what I'm being shown is
+
+1039
+01:25:04,120 --> 01:25:09,720
+for me, it's not happening to me. So the ability to surrender that and let go of trying to change it
+
+1040
+01:25:09,720 --> 01:25:14,360
+really helped. And then having a degree of gratitude from my parents knowing they were
+
+1041
+01:25:14,360 --> 01:25:18,280
+doing the best they could with what they could at that time. And also seeing how hard it was for
+
+1042
+01:25:18,280 --> 01:25:23,000
+them growing up. And then seeing my son, that's really where it shifted. So we have a four year
+
+1043
+01:25:23,000 --> 01:25:29,720
+old son named Bear and seeing him and realizing like that's where it ends. Like that's where it
+
+1044
+01:25:29,720 --> 01:25:35,320
+ends. We all want to do better for our kids than what we were given. And then it applies to
+
+1045
+01:25:35,320 --> 01:25:41,560
+everything from finances to education to what kind of person they become. But knowing that
+
+1046
+01:25:42,440 --> 01:25:46,920
+he will never experience what I experienced or what my dad experienced and my granddad experienced,
+
+1047
+01:25:46,920 --> 01:25:53,240
+that generational pain is going to be gone with him. And seeing that I had so much gratitude
+
+1048
+01:25:54,200 --> 01:25:59,320
+for him and just knowing like, oh, okay, this breaks here. Like that was really cool. And second,
+
+1049
+01:25:59,320 --> 01:26:04,680
+I thought that it all washed away and I felt euphoria and I felt gratitude. And I just, it was
+
+1050
+01:26:06,200 --> 01:26:10,280
+for sure the hardest night of my life and one of the most beautiful in the end by far.
+
+1051
+01:26:11,320 --> 01:26:15,640
+There's not much to add to that because it's funny. I had made a note on my page to kind of
+
+1052
+01:26:15,640 --> 01:26:21,800
+come back to this point. All I had written down was break cycle son. Do you feel that part of your
+
+1053
+01:26:21,800 --> 01:26:27,800
+edge is gone as a result of this journey? Yeah, there was a fire that was in you before that was
+
+1054
+01:26:27,800 --> 01:26:33,720
+partially constructive, partially destructive. And you sort of were balancing those two things.
+
+1055
+01:26:33,720 --> 01:26:37,080
+There were moments when the destructive side was winning and then there were moments when the,
+
+1056
+01:26:37,080 --> 01:26:42,120
+you know, constructive side is winning. But it's hard to look at most professional fighters and
+
+1057
+01:26:42,120 --> 01:26:47,560
+not realize how much pain unfortunately is at the root of why they're doing what they're doing.
+
+1058
+01:26:47,560 --> 01:26:53,400
+It's very difficult, I think, to put yourself in the position of getting in a ring and fighting.
+
+1059
+01:26:53,400 --> 01:26:56,600
+I know this because I did it. You've done it. You've done it professionally. I never did it
+
+1060
+01:26:56,600 --> 01:27:01,560
+professionally. There's so much pain that predisposes a person to be willing to do that.
+
+1061
+01:27:01,560 --> 01:27:04,200
+Now I'm sure there are exceptions to this. I'm sure there were like people with the
+
+1062
+01:27:04,200 --> 01:27:09,160
+most wonderful childhoods who have ended up becoming fighters. But I used to study boxing
+
+1063
+01:27:09,720 --> 01:27:16,200
+at a level that would border on me getting an honorary PhD for it. And I can't actually think
+
+1064
+01:27:16,200 --> 01:27:21,720
+of an example of a professional boxer that I'd studied who wasn't fueled by some awful thing
+
+1065
+01:27:21,720 --> 01:27:25,720
+that had happened to them. You know, it can be something little, but oftentimes it was not
+
+1066
+01:27:25,720 --> 01:27:32,280
+right. Oftentimes it was generational and misery. Do you sort of feel a bit remote now from that
+
+1067
+01:27:32,280 --> 01:27:36,680
+sport in the way? I mean, I'm sure you still enjoy it. But do you also, I mean, is your
+
+1068
+01:27:36,680 --> 01:27:40,680
+relationship with it complicated as a result of this new insight or these new insights?
+
+1069
+01:27:40,680 --> 01:27:47,800
+I mean, I for sure have let go for a long time after retiring. I retired five years ago
+
+1070
+01:27:48,840 --> 01:27:55,320
+this month, actually. And I knew I wasn't going to fight again, but I still love the sport. I wanted
+
+1071
+01:27:55,320 --> 01:28:00,040
+to watch every fight. Never missed a fight. Trained. I didn't do striking because I knew
+
+1072
+01:28:00,040 --> 01:28:03,640
+that would lead me to fighting again. But I did a lot of jujitsu, competed in a couple of times.
+
+1073
+01:28:04,440 --> 01:28:08,680
+I think now I would call myself a casual fan. You know, I still have all the guys that I used to
+
+1074
+01:28:08,680 --> 01:28:13,480
+train with at AKA, I'll watch them when they fight. It's on ESPN a lot now. So I'll watch that too,
+
+1075
+01:28:13,480 --> 01:28:18,440
+if it's on TV. But I don't like scheduled stuff like, oh man, there's someone so fighting. I got
+
+1076
+01:28:18,440 --> 01:28:22,440
+to stop everything. You know, like if I catch it great, if I don't, it's not a big deal to me.
+
+1077
+01:28:23,080 --> 01:28:27,640
+It didn't necessarily change the way I look at fighting. I have a lot of gratitude for what
+
+1078
+01:28:27,640 --> 01:28:32,120
+fighting gave me and what fighting taught me. And I feel very fortunate that I retired at 32 years
+
+1079
+01:28:32,120 --> 01:28:38,600
+old. And retired without the catastrophic injuries that many people leave with. Yeah, yeah.
+
+1080
+01:28:38,600 --> 01:28:42,600
+And that's huge. You know, I want to be able to read to my son and any, all of our children and
+
+1081
+01:28:42,600 --> 01:28:49,880
+then chase them around and play and be the dad I want to be, you know, but with that chip on my
+
+1082
+01:28:49,880 --> 01:28:53,880
+shoulder, yeah, that's for sure washed away. I mean, I remember when I first started fighting,
+
+1083
+01:28:53,880 --> 01:28:58,120
+I just wanted to, there's a line in Fight Club, and forgive me if you've heard me talk about this
+
+1084
+01:28:58,120 --> 01:29:03,320
+before, but there's a line of Fight Club where Edward Norton's character beats the shit out of
+
+1085
+01:29:03,320 --> 01:29:08,280
+Jared Leto, the blonde guy. And Brad Pitt looks at Edward Norton. He says, what the fuck is wrong
+
+1086
+01:29:08,280 --> 01:29:12,440
+with you? And he just says, I just wanted to destroy something beautiful. And that's it. Like
+
+1087
+01:29:12,440 --> 01:29:17,080
+that resonated with me. I wanted to beat the shit out of people. And over time that shifted to I
+
+1088
+01:29:17,080 --> 01:29:23,720
+just want to be the best version of myself. And then now I see that still being the case, but it's
+
+1089
+01:29:23,720 --> 01:29:27,960
+from a much different lens. Like what being the best version of myself is applies to so many
+
+1090
+01:29:27,960 --> 01:29:32,200
+more things outside of athleticism. And I think that's a likely transition for people who have
+
+1091
+01:29:32,920 --> 01:29:36,840
+started to age and whatever, you know, there's a lot of older people like, Oh, you have an age,
+
+1092
+01:29:36,840 --> 01:29:43,160
+you're 37. But I feel different than when I was 27. Sure. 37 year old athletes and old athlete.
+
+1093
+01:29:43,160 --> 01:29:50,440
+So you're not even halfway done life. And yet the last four or five years have probably been some of
+
+1094
+01:29:50,440 --> 01:29:56,280
+the most important. Not that it's necessarily productive or constructive. Do you ever ask
+
+1095
+01:29:56,280 --> 01:29:59,080
+yourself the question, like, what do you think you'd be doing right now? If you hadn't had this
+
+1096
+01:29:59,080 --> 01:30:04,600
+fortuitous set of events, meeting the right boxing coach, being introduced to the plant medicine and
+
+1097
+01:30:05,560 --> 01:30:09,640
+being able to sort of extract from it what it gives you. Cause I don't think the plants aren't
+
+1098
+01:30:09,640 --> 01:30:17,240
+neat. They don't give you little turnkey, just take this. It's all okay. It's really messy.
+
+1099
+01:30:17,240 --> 01:30:22,120
+It's really messy work. And it's as much about the work you do before and after is it is what you do
+
+1100
+01:30:23,080 --> 01:30:27,720
+under the direct influence of the plant. But, but if you hadn't been as lucky as you've been to
+
+1101
+01:30:27,720 --> 01:30:33,080
+experience that, I mean, what's a 37 year old former UFC fighter doing who hasn't worked through
+
+1102
+01:30:33,080 --> 01:30:37,640
+the issues you had? Because there's a lot of those guys out there. I mean, this isn't about the UFC.
+
+1103
+01:30:37,640 --> 01:30:42,040
+This is like maybe someone who's never thrown a punch in their life, but they're still suffering
+
+1104
+01:30:42,040 --> 01:30:47,880
+from the same pain. Yeah. A lot of, I mean, I think the cliche thing to say is debtor in jail.
+
+1105
+01:30:47,960 --> 01:30:53,240
+I don't think that applies to me. I think I really turned the corner, but I wouldn't say it's far
+
+1106
+01:30:53,240 --> 01:30:56,680
+fetched to think that I'd still be fighting in some low level show getting the shit kicked out
+
+1107
+01:30:56,680 --> 01:31:02,280
+of me losing brain cells. I for sure wouldn't be with Natasha, my wife. I mean, in many ways,
+
+1108
+01:31:03,000 --> 01:31:06,520
+we were together for about a year before we did ayahuasca for the first time. And
+
+1109
+01:31:06,520 --> 01:31:13,640
+like that changed the course of our relationship. It unpacked so much of the arguing that we had
+
+1110
+01:31:13,640 --> 01:31:18,920
+allowed me to see things in myself that she could, but I could not. And vice versa. As we
+
+1111
+01:31:18,920 --> 01:31:25,880
+grew as individuals, we grew together in our relationship. And there's no way that would
+
+1112
+01:31:25,880 --> 01:31:30,520
+have worked out. How do I just continue to fight and treat myself the way that it was, you know?
+
+1113
+01:31:30,520 --> 01:31:35,720
+And so I think that's, that's a pretty, if I look at probabilities, that's probably,
+
+1114
+01:31:35,720 --> 01:31:39,800
+probably the highest probability is that I'd still be fighting somewhere, making peanuts
+
+1115
+01:31:40,680 --> 01:31:43,640
+and taking my life. And getting hurt. Yeah. Getting hurt regularly.
+
+1116
+01:31:44,840 --> 01:31:48,280
+How does all this sort of shape the way you think about raising your son?
+
+1117
+01:31:48,920 --> 01:31:54,200
+Because you alluded to the most important point a moment ago, which is if nothing else, the cycle
+
+1118
+01:31:54,200 --> 01:31:59,480
+of pain and the, and, and shame and trauma and all that stuff, at least it stops with, with you now
+
+1119
+01:31:59,480 --> 01:32:04,920
+to bear. But what else do you think about as far as like, cause now it's beyond not just having
+
+1120
+01:32:04,920 --> 01:32:09,480
+him be hurt, but showing him something that maybe. Yeah. Well, can I give him, you know,
+
+1121
+01:32:09,480 --> 01:32:14,280
+in the world? And I think a lot of things fascinate me. People talk shit about the paleo diet and
+
+1122
+01:32:14,280 --> 01:32:19,080
+that's fine. And what did paleo man actually eat and all that? And yeah, I get it. I get it from
+
+1123
+01:32:19,080 --> 01:32:24,280
+both sides, but to think through the lens of how our ancestors lived, that fascinates me.
+
+1124
+01:32:24,280 --> 01:32:28,680
+This is a giant test and it's a huge test of what we're doing now with everything that's in
+
+1125
+01:32:28,680 --> 01:32:33,480
+the modern world. It's being done for the very first time. What are the ways that we can kind
+
+1126
+01:32:33,480 --> 01:32:37,720
+of reconnect to our roots and still live in the modern world? And I think when I think about
+
+1127
+01:32:37,720 --> 01:32:42,120
+things like that, what are the most important pieces that I've learned and what are the most
+
+1128
+01:32:42,120 --> 01:32:47,240
+important pieces that I'm learning about now, I want him to have some degree of confidence.
+
+1129
+01:32:47,240 --> 01:32:51,560
+And I think martial arts is really good for that. I don't necessarily want him to fight,
+
+1130
+01:32:51,560 --> 01:32:55,640
+but that's his decision. And it'll always be his decision. Even if he says,
+
+1131
+01:32:55,640 --> 01:32:59,640
+fuck martial arts, I want to play piano. And that's totally cool. I have to let go of that.
+
+1132
+01:33:00,440 --> 01:33:06,120
+But still giving him the ability to trial these things and see what he enjoys. He loves, I mean,
+
+1133
+01:33:06,120 --> 01:33:13,080
+he's athletic, me and my wife are both athletes. So it's not confusing to me, but he's doing
+
+1134
+01:33:13,080 --> 01:33:18,520
+jujitsu now. It's pretty early, but it's kind of the equivalent of tumbling or gymnastics.
+
+1135
+01:33:18,520 --> 01:33:23,560
+And he absolutely loves it. And our Russell time is probably the most fun. We have a hundred
+
+1136
+01:33:23,560 --> 01:33:27,960
+square feet of MMA mats in our living room. So we can do yoga, we can roll, we can do whatever,
+
+1137
+01:33:28,680 --> 01:33:34,600
+and rough house. And we can play soccer or frisbee, and those are all things that he loves,
+
+1138
+01:33:34,600 --> 01:33:38,760
+but he doesn't love anything as much as wrestling me. So like, and getting him into jujitsu now,
+
+1139
+01:33:39,560 --> 01:33:42,920
+it's pretty cool to see that. I don't know how long that's going to last. It really doesn't matter.
+
+1140
+01:33:44,360 --> 01:33:50,440
+Getting back to this ancestral stuff, I think it's critical that we at least try to find some
+
+1141
+01:33:50,440 --> 01:33:55,880
+rite of passage, especially for our young men to bring them into adulthood. And I think that
+
+1142
+01:33:56,760 --> 01:34:00,920
+Ben Greenfield's buddy, Tim Corcoran, he's doing a lot of good stuff. He has these wilderness
+
+1143
+01:34:00,920 --> 01:34:05,720
+survival camps for father and son. When the kids are old enough, he takes them out there and they're
+
+1144
+01:34:06,520 --> 01:34:12,040
+solo, or they're in a small group and it's just him kind of watching over. And they learn how to
+
+1145
+01:34:12,040 --> 01:34:15,720
+build fires. They learn how to feel safe in the environment. They learn how to forage wild mushrooms
+
+1146
+01:34:15,720 --> 01:34:19,880
+and different things that they can survive on. And I think that's an incredible piece,
+
+1147
+01:34:20,760 --> 01:34:25,640
+taking it a step further. And again, if we're having that conversation with the DEA sitting
+
+1148
+01:34:25,720 --> 01:34:31,400
+on the couch, I don't know that I'd say this, but I think it's a very strong likelihood that I'll be
+
+1149
+01:34:31,400 --> 01:34:36,760
+taking him to the Amazon or maybe not me, maybe Uncle Aubrey will, or somebody else. Because
+
+1150
+01:34:36,760 --> 01:34:41,080
+oftentimes that was the case in rite of passage. The kids would have to leave their parents and go
+
+1151
+01:34:41,080 --> 01:34:47,000
+off with the elders, the aunties, the uncles, and go through their work. And I think having a close
+
+1152
+01:34:47,000 --> 01:34:51,480
+uncle like that, who also has experience with these things, taking him to the Amazon for a
+
+1153
+01:34:51,560 --> 01:34:55,400
+rite of passage with something like ayahuasca would be really transformative and powerful for him.
+
+1154
+01:34:56,040 --> 01:34:59,480
+And to most people hearing about this for the first time, they're going to be like,
+
+1155
+01:34:59,480 --> 01:35:06,120
+that's fucking nonsense. You're right, you lost me here. But I know quite a few people
+
+1156
+01:35:06,920 --> 01:35:13,640
+who are some of the most beautiful humans I've ever met that did that. Perongi being one of them.
+
+1157
+01:35:13,640 --> 01:35:19,160
+He's an incredible musician, one of the most kindhearted people I've ever met. And his first
+
+1158
+01:35:19,880 --> 01:35:26,200
+ceremony was when he was 11. So it's not to say that happens for everyone. But again, if you
+
+1159
+01:35:26,200 --> 01:35:31,000
+understand set and setting and who are really good practitioners, and that's something I say a lot of
+
+1160
+01:35:31,000 --> 01:35:35,880
+times is there's black belts, and there's white belts in martial arts, there's black belts,
+
+1161
+01:35:35,880 --> 01:35:39,880
+teaching ayahuasca and white belts teaching. And there's everything in between. And some people
+
+1162
+01:35:39,880 --> 01:35:42,840
+spend a week in the Amazon and come back and say, I'm going to give this to all my friends and
+
+1163
+01:35:42,840 --> 01:35:49,000
+everyone I know. And it can have really bad consequences from that. So, you know, having a
+
+1164
+01:35:49,000 --> 01:35:53,000
+place that that has been vetted, at least by somebody you respect and know, I think is critical
+
+1165
+01:35:53,000 --> 01:35:58,200
+when it comes to these things. Because, as Aubrey says, you're performing psychic surgery. And that
+
+1166
+01:35:58,200 --> 01:36:04,520
+done incorrectly can leave some really lasting damage. But correctly, it can be everything that
+
+1167
+01:36:04,520 --> 01:36:10,280
+I see in it. Everything that Dennis sees in it. Yeah. And anyone listening to this who has not yet
+
+1168
+01:36:10,280 --> 01:36:14,840
+read Michael Pollan's how to change your mind to have such a great storyteller and a great writer,
+
+1169
+01:36:14,840 --> 01:36:19,960
+take on such an important topic. I think it's hard to come away from that without realizing
+
+1170
+01:36:19,960 --> 01:36:24,520
+that there's there's a lot here that we need to understand better. But the promise is enormous.
+
+1171
+01:36:25,240 --> 01:36:28,680
+Yeah, yeah. And we do need to understand it better. There's no doubt.
+
+1172
+01:36:29,560 --> 01:36:35,160
+Under those circumstances, I think I can give to him a lot of things. You remember being in high
+
+1173
+01:36:35,160 --> 01:36:39,800
+school thinking, maybe you didn't because you had boxing, but I remember being in high school
+
+1174
+01:36:39,800 --> 01:36:44,040
+thinking like nothing is more important than this than how I'm perceived by my peers,
+
+1175
+01:36:44,760 --> 01:36:49,880
+status, things like that popularity, who my friends are, what kind of girl I'm going to date,
+
+1176
+01:36:49,880 --> 01:36:54,840
+and like, when the world ends, I went up on graduation day, what am I going to do and those
+
+1177
+01:36:54,840 --> 01:36:59,640
+kind of things. And there's a lot of weight and heaviness to that environment, especially now when
+
+1178
+01:36:59,640 --> 01:37:04,120
+you see kids that are glued to their iPad, and you got eight year olds with cell phones and things
+
+1179
+01:37:04,120 --> 01:37:09,240
+like that. It's, it's really hard to get them to unplug and to see the big picture. And I think,
+
+1180
+01:37:10,280 --> 01:37:14,920
+I think a medicine like that could be really important to reconnect them to what matters and
+
+1181
+01:37:14,920 --> 01:37:19,960
+you get them to see with a wider lens to things that matter to them. At that point in time,
+
+1182
+01:37:19,960 --> 01:37:22,120
+I think it could be a great tool for young people.
+
+1183
+01:37:22,920 --> 01:37:27,880
+It's amazing. How has your relationship come full circle with your parents? I mean, is that
+
+1184
+01:37:27,880 --> 01:37:31,640
+is it just this incredible place of forgiveness? Is it still difficult?
+
+1185
+01:37:31,640 --> 01:37:35,720
+It's funny you say that because right after this ceremony, or series of ceremonies in
+
+1186
+01:37:35,720 --> 01:37:40,120
+Atsultara in Costa Rica, my wife and I flew back to the Bay Area where our sons being watched by
+
+1187
+01:37:40,120 --> 01:37:44,760
+my family. And then we all flew out to Puerto Vallarta for a family vacation. And there's a
+
+1188
+01:37:44,760 --> 01:37:49,560
+famous quote from Terrence, I think it's Terrence McKenna. No, it's Rhonda's where if you think you're
+
+1189
+01:37:49,560 --> 01:37:54,600
+enlightened, spend a week with your family. It's like, fuck man, I went from one ceremony to the
+
+1190
+01:37:54,600 --> 01:38:01,640
+next. And it came with its own set of challenges for sure. But as far as my relationship goes,
+
+1191
+01:38:01,640 --> 01:38:07,720
+I have a great deal of compassion for them. I've also learned from the medicines that everyone
+
+1192
+01:38:07,720 --> 01:38:14,360
+walks their own path. It's not up for me to decide how or when they should learn their lessons. And
+
+1193
+01:38:14,360 --> 01:38:19,960
+just as it was the case with me and my wife, I can't always see what's going on where I'm
+
+1194
+01:38:20,280 --> 01:38:25,400
+fucking up. Everyone has a blind spot. So somebody that's close to you might be able to see what's
+
+1195
+01:38:25,400 --> 01:38:29,400
+going on in you better than you can. And it certainly was the case in my relationship.
+
+1196
+01:38:30,600 --> 01:38:35,720
+And I can see all the faults that my parents have that they don't see. But it's not up to me to
+
+1197
+01:38:35,720 --> 01:38:40,520
+decide that they will learn their own lessons at their own pace. And they may go to the grave
+
+1198
+01:38:40,520 --> 01:38:44,200
+without having learned some lessons. That's okay, I'm for sure going to do the same thing.
+
+1199
+01:38:44,200 --> 01:38:47,960
+But that compassion, to me, that's one of the most powerful parts of the story is to feel
+
+1200
+01:38:47,960 --> 01:38:53,480
+and experience empathy for another person who may have indirectly or directly hurt you.
+
+1201
+01:38:54,280 --> 01:38:58,120
+And to realize, wow, they didn't mean to hurt me, or even if they did mean to hurt me, which is not
+
+1202
+01:38:58,120 --> 01:39:03,240
+the case, I think, in your situation. But this is the set of circumstances for them. And that sounds
+
+1203
+01:39:03,240 --> 01:39:07,960
+crazy, right? That sounds like we should accept horrible things that people have done to us. But
+
+1204
+01:39:07,960 --> 01:39:14,520
+in reality, what's your choice? Yeah. And something that I've gathered too is forgiveness has very
+
+1205
+01:39:14,520 --> 01:39:18,520
+little to do with the person I'm forgiving. It has everything to do with taking that fucking
+
+1206
+01:39:18,520 --> 01:39:25,000
+weighted vest off of me. Because I'm held down by that. Whatever anger or pain or resentment that I
+
+1207
+01:39:25,000 --> 01:39:29,000
+feel towards another person, the longer I hold on to that, they might not even fucking know,
+
+1208
+01:39:29,000 --> 01:39:33,880
+it might not be on their radar. But I'm keeping that in me. And it's affecting the way that I go
+
+1209
+01:39:33,880 --> 01:39:39,480
+through the world. So if I can release that, what greater gift can I give to myself, let alone the
+
+1210
+01:39:39,480 --> 01:39:45,640
+other person I'm forgiving? Well, I want to thank you for being so open about such difficult topics.
+
+1211
+01:39:45,640 --> 01:39:48,600
+There were a whole bunch of other things I thought we were going to talk about that were super nerdy
+
+1212
+01:39:48,600 --> 01:39:52,680
+and sciencey and stuff. But I get to talk about that stuff all the time. I thought this was far
+
+1213
+01:39:52,680 --> 01:39:56,360
+more interesting, far more valuable. And I honestly, I think more people will find this
+
+1214
+01:39:56,360 --> 01:40:00,440
+resonance. So I really appreciate it. Awesome, brother. Thanks for having me. Happy Father's Day.
+
+1215
+01:40:00,440 --> 01:40:06,120
+Yeah, happy Father's Day, brother. You can find all of this information and more at
+
+1216
+01:40:06,120 --> 01:40:10,760
+peteratiamd.com forward slash podcast. There you'll find the show notes,
+
+1217
+01:40:10,760 --> 01:40:16,840
+readings and links related to this episode. You can also find my blog at peteratiamd.com.
+
+1218
+01:40:16,840 --> 01:40:21,240
+Maybe the simplest thing to do is to sign up for my subjectively non-lame once a week email,
+
+1219
+01:40:21,240 --> 01:40:25,080
+where I'll update you on what I've been up to, the most interesting papers I've read,
+
+1220
+01:40:25,080 --> 01:40:28,920
+and all things related to longevity, science, performance, sleep, etc.
+
+1221
+01:40:29,640 --> 01:40:35,000
+On social, you can find me on Twitter, Instagram, and Facebook, all with the ID peteratiamd,
+
+1222
+01:40:35,000 --> 01:40:38,840
+but usually Twitter is the best way to reach me to share your questions and comments.
+
+1223
+01:40:38,840 --> 01:40:43,080
+Now for the obligatory disclaimer. This podcast is for general informational purposes only and
+
+1224
+01:40:43,080 --> 01:40:47,320
+does not constitute the practice of medicine, nursing, or other professional healthcare
+
+1225
+01:40:47,320 --> 01:40:53,000
+services, including the givings of medical advice. And note, no doctor-patient relationship is formed.
+
+1226
+01:40:53,720 --> 01:40:58,520
+The use of this information and the materials linked to the podcast is at the user's own risk.
+
+1227
+01:40:58,520 --> 01:41:03,000
+The content of this podcast is not intended to be a substitute for professional medical advice,
+
+1228
+01:41:03,000 --> 01:41:07,800
+diagnoses, or treatment. Users should not disregard or delay in obtaining medical advice
+
+1229
+01:41:07,800 --> 01:41:12,280
+for any medical condition they have and should seek the assistance of their healthcare professionals
+
+1230
+01:41:12,280 --> 01:41:17,800
+for any such conditions. Lastly, and perhaps most importantly, I take conflicts of interest
+
+1231
+01:41:17,800 --> 01:41:22,520
+very seriously for all of my disclosures, the companies I invest in and or advise,
+
+1232
+01:41:22,520 --> 01:41:29,880
+please visit peteratiamd.com forward slash about.
+

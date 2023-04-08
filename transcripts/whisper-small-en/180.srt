@@ -1,0 +1,352 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hey, everyone. Welcome to the Drive podcast. I'm your host, Peter Attia.
+
+2
+00:00:07,000 --> 00:00:09,000
+Hey, Peter.
+
+3
+00:00:09,000 --> 00:00:11,000
+Hey, Bob.
+
+4
+00:00:11,000 --> 00:00:13,000
+Are you ready for another AMA?
+
+5
+00:00:13,000 --> 00:00:15,000
+Sure am, man.
+
+6
+00:00:15,000 --> 00:00:29,000
+Okay. I think we're going to get to maybe one big topic here. We've got a bunch of questions around one topic, but I think we can distill it down into, can you do a deep dive on testosterone?
+
+7
+00:00:29,000 --> 00:00:37,000
+Testosterone or testosterone replacement therapy? And can you do it in under six hours?
+
+8
+00:00:37,000 --> 00:00:54,000
+I think it'll be tight, but I think we can do it. Yeah, super interesting topic and one that probably just generates almost as much confusion as the hormone replacement therapy question does on the female side.
+
+9
+00:00:55,000 --> 00:01:05,000
+So we've already had a great podcast that debunks a lot of the myths around hormone replacement therapy for perimenopausal and postmenopausal women.
+
+10
+00:01:05,000 --> 00:01:15,000
+And I think in some ways this will be the equivalent podcast for testosterone replacement therapy in men.
+
+11
+00:01:16,000 --> 00:01:27,000
+So I think with that said, what this will not be is kind of a review of nonstop case studies of how it's done in the real world.
+
+12
+00:01:27,000 --> 00:01:39,000
+I think we'll reserve that for a subsequent podcast, probably in the form of an AMA, but remains to be seen because I think sometimes there are multiple ways to go about doing this.
+
+13
+00:01:40,000 --> 00:02:05,000
+But I think for the purpose of trying to get through an enormous body of literature, I think we'll reserve this to sort of what testosterone is, how it works, what's the kind of epidemiology of testosterone deficiency, i.e. what does it look like by decade, what are the implications of that, what are the benefits of replacement, and what are the risks of replacement.
+
+14
+00:02:05,000 --> 00:02:11,000
+If we can get through that today, I will be delighted, but we'll see. I know it's ambitious.
+
+15
+00:02:11,000 --> 00:02:23,000
+Me too. Yeah. And I think that the hormone replacement therapy is a good example here where I think with HRT, a lot of women worry about, I think it was breast cancer risk, and we've talked a lot about that.
+
+16
+00:02:24,000 --> 00:02:37,000
+And here with TRT, a lot of the questions were, is TRT right for me if I'm worried about cardiovascular disease or prostate cancer, and there's a lot of sort of call it controversy about that stuff. So it'd be good to dig into it.
+
+17
+00:02:38,000 --> 00:02:51,000
+And I know that for this one, you sent me over some slides the other day. I think that was helpful, and I think it will be helpful for the people, hopefully watching this.
+
+18
+00:02:52,000 --> 00:03:06,000
+I think this is definitely another one of those things where it's fine to listen, but I think the level of detail will lend itself to being able to actually see what's going on both in figures and tables as we sort of draw things out of the literature.
+
+19
+00:03:07,000 --> 00:03:13,000
+So take it away, Bob. Okay. So the first question is pretty basic. What is testosterone?
+
+20
+00:03:14,000 --> 00:03:29,000
+So testosterone is a hormone, and it's a steroid hormone. So it's derived from the cholesterol family, as many hormones are. And it's synthesized in a number of steps.
+
+21
+00:03:30,000 --> 00:03:37,000
+I'll be honest with you, I don't actually remember anymore how many steps it takes to create testosterone out of cholesterol.
+
+22
+00:03:38,000 --> 00:03:45,000
+But what's really important is that it exerts its effect through a binding to an androgen receptor.
+
+23
+00:03:46,000 --> 00:04:04,000
+So because it is a hydrophobic molecule, it basically makes its way into the cell easily. It diffuses into the cell quite simply, meaning it doesn't require a channel or a receptor on the cell membrane to make its way inside.
+
+24
+00:04:05,000 --> 00:04:10,000
+Now we'll talk in a moment about how it's transported in the blood, but actually, let's talk about that now.
+
+25
+00:04:11,000 --> 00:04:29,000
+So as we've talked about a lot with respect to lipids and lipoproteins, you know, cholesterol can't make its way through the bloodstream the way glucose can or the way electrolytes can, you know, for example, sodium, potassium, and those things, because they're soluble in water, they're therefore soluble in the bloodstream in plasma.
+
+26
+00:04:30,000 --> 00:04:37,000
+And they don't need chaperone or carrier proteins, but cholesterol does. And that's, of course, why it travels in things called lipoproteins.
+
+27
+00:04:38,000 --> 00:04:53,000
+And similarly, testosterone needs to be bound primarily to carrier proteins. And there are really two dominant carrier proteins that bind testosterone and carry it around.
+
+28
+00:04:54,000 --> 00:05:09,000
+One is called sex hormone binding globulin, or SHBG for short, and the other is albumin. And directionally speaking, SHBG is responsible for about two thirds of the carrying capacity, whereas albumin is about one third.
+
+29
+00:05:10,000 --> 00:05:20,000
+But what's important is knowing that it's only the unbound portion of testosterone that is able to actually exert the biological influence.
+
+30
+00:05:21,000 --> 00:05:33,000
+So we pay very special attention to how much testosterone is quote unquote free. And free is defined as the testosterone that is neither bound to SHBG or albumin.
+
+31
+00:05:33,000 --> 00:05:47,000
+Whereas there's another term that many people who have had a blood test may notice something called bioavailable testosterone. And that's the portion that is unbound to SHBG, but remains bound to albumin or is free.
+
+32
+00:05:48,000 --> 00:06:06,000
+In other words, free testosterone, which is a tiny amount, it's typically one to two, maybe 3% of total testosterone is that which is completely unbound. Whereas bioavailable includes that tiny fraction, plus the much larger fraction that is bound to albumin.
+
+33
+00:06:07,000 --> 00:06:24,000
+I would say from a clinical standpoint, I find that symptoms track more with free testosterone than bioavailable. But honestly, they're close enough in terms of their prediction of what's going on.
+
+34
+00:06:25,000 --> 00:06:40,000
+That if you're using a lab that relies on one versus the other, it's probably okay. The lab that we use uses total testosterone, of course, but free testosterone. And it's really the free number that we're paying most attention to.
+
+35
+00:06:41,000 --> 00:06:59,000
+So let's go back to how testosterone works. So it makes its way into the cell. And then it binds to an androgen receptor and this receptor is outside of the nucleus. It undergoes this conformational change and it causes things called heat shock proteins to be dislocated.
+
+36
+00:07:00,000 --> 00:07:20,000
+They get transported into the cell and then something called a dimerization takes place. And that's just a fancy way of saying a new molecule is created by the fusion and it doesn't have to be covalent. It can be non covalent, but the fusion of two molecules that look very much alike.
+
+37
+00:07:21,000 --> 00:07:40,000
+So this androgen receptor dimer now makes its way into the nucleus and binds with kind of something called a hormone response element. And that's what actually turns on and off gene transcription. And that's effectively what testosterone is doing.
+
+38
+00:07:41,000 --> 00:08:01,000
+It is up or down regulating genes that are responsible for a number of things, but the most obvious of these are kind of the anabolic or growth characteristics. Now there's something else I think worth mentioning here, Bob, which is the presence of another hormone here called dihydrotestosterone or DHT.
+
+39
+00:08:02,000 --> 00:08:16,000
+Now DHT is anywhere from, oh, I don't know, I think it's about three to six times more powerful than testosterone and by powerful I just mean has a greater binding affinity for the androgen receptor.
+
+40
+00:08:17,000 --> 00:08:31,000
+And so DHT is something that is converted from testosterone using an enzyme called 5 alpha reductase, which I think we're going to get to that later, Bob. So I'm probably not going to go into much detail on that now.
+
+41
+00:08:32,000 --> 00:08:49,000
+I think that that's probably as much as I want to say on this topic only because we could go a lot deeper into it, but I'm not sure it really adds much value to the clinical questions that we're going to want to get to unless there's anything else that you have seen with respect to questions that people have about this.
+
+42
+00:08:50,000 --> 00:08:59,000
+Not a lot of questions about that. More around the practical stuff, like what is low T and what happens if you replace it.
+
+43
+00:09:00,000 --> 00:09:10,000
+Okay. It's probably worth also saying just something about how the body regulates this at a macro level. And I think you have a slide on that. Do you mind pulling that up?
+
+44
+00:09:11,000 --> 00:09:16,000
+Yes. Let's see here. Okay. Pulling it up. Hypothalamic, pituitary, gonadal axis.
+
+45
+00:09:17,000 --> 00:09:30,000
+Okay. So in this schematic, you can see basically the feedback loop that exists. So obviously you have the central nervous system, but specifically the hypothalamus.
+
+46
+00:09:31,000 --> 00:09:41,000
+And the hypothalamus in response to low testosterone will secrete gonadotropin releasing hormone.
+
+47
+00:09:42,000 --> 00:09:59,000
+It secretes that to another part of the endocrine system called the pituitary gland, which is divided into two pieces, an anterior and a posterior. So in the anterior pituitary gland, in response to gonadotropin releasing hormone, two other hormones are released.
+
+48
+00:10:00,000 --> 00:10:10,000
+And these are hormones that most people might even be familiar with because you'll see them on the blood test. One is called LH or luteinizing hormone. The other is called FSH or follicle stimulating hormone.
+
+49
+00:10:11,000 --> 00:10:26,000
+So LH and FSH are released from the anterior pituitary gland into the bloodstream and their targets are two specific types of cells in the testes. One of them is called the sirtuli cell and one of them is called the latic cell.
+
+50
+00:10:27,000 --> 00:10:41,000
+Now the sirtuli cell is responsible for secreting growth factors that further stimulate the latic cell and LH directly acts on the latic cell and the net result of this is the production of testosterone.
+
+51
+00:10:41,000 --> 00:11:03,000
+And as you can see in this figure, it's actually a little more sophisticated, right? There's more going on here. So the androgens that are produced by the latic cell testosterone can undergo what's called aromatization, which is the process by which they are turned into estrogens using specific enzymes that will sort of not get into at the moment.
+
+52
+00:11:03,000 --> 00:11:32,000
+But an obvious byproduct of testosterone creation is the co-creation of estradiol. Now, I guess the most important thing I want to say on this figure is that when testosterone is low, the feedback cycle to the brain ultimately is to ramp up the secretion of LH and FSH.
+
+53
+00:11:33,000 --> 00:11:46,000
+Conversely, when testosterone is high, the signal that's sent back is to inhibit the production of these things. So this is a very important point to understand clinically.
+
+54
+00:11:46,000 --> 00:12:03,000
+If a person is supplementing with testosterone, it is usually very obvious to tell this from their blood work because they have unmeasurable levels of LH and FSH and usually high levels of testosterone.
+
+55
+00:12:03,000 --> 00:12:17,000
+Now, at some point, this becomes a permanent issue. In other words, at some point, if a person is taking exogenous testosterone for long enough, their body will lose the ability to make its own.
+
+56
+00:12:17,000 --> 00:12:26,000
+Now, I think we'll come back to that a little bit later, but I just want to point out that this is a regulated process through a feedback loop.
+
+57
+00:12:26,000 --> 00:12:38,000
+And another way to look at this sort of clinically is when you see patients who have relatively high LH and high FSH but low testosterone.
+
+58
+00:12:38,000 --> 00:12:55,000
+So in that situation, high LH, high FSH, low testosterone, the problem is usually in the testes. Conversely, when you see low testosterone but low LH and low FSH, the problem is usually central,
+
+59
+00:12:55,000 --> 00:13:03,000
+meaning there's something in the brain that isn't working. And of course, I'm being a little tongue in cheek when I say that because it's not really the brain that's not working.
+
+60
+00:13:03,000 --> 00:13:21,000
+But there's something in that pathway either at the GNRH level or at the pituitary level. And I will say that the most common thing that we see clinically that results in that picture, i.e. low testosterone but with an inappropriately low LH and FSH,
+
+61
+00:13:21,000 --> 00:13:32,000
+is sleep deprivation and hypercorticellemia, i.e. lots of stress. So those are unfortunately kind of ubiquitous clinical situations.
+
+62
+00:13:32,000 --> 00:13:46,000
+We see a lot of people that have insufficient sleep or insufficient quality of sleep and or high levels of cortisol and stress, which by the way, are difficult to disentangle sometimes from poor sleep.
+
+63
+00:13:46,000 --> 00:14:04,000
+And that can result in the brain not sending the right signal to the testes. But that's important from a clinical perspective because how we treat low testosterone when we do make the decision to treat it is highly dependent on being able to differentiate between those two paths.
+
+64
+00:14:04,000 --> 00:14:10,000
+Any other questions that have come up on that particular topic, Bob?
+
+65
+00:14:10,000 --> 00:14:12,000
+No, I think that's it.
+
+66
+00:14:12,000 --> 00:14:16,000
+Okay. So where to next?
+
+67
+00:14:16,000 --> 00:14:31,000
+So next we have the questions of, okay, so what constitutes low testosterone? And I think you just made a distinction there, but maybe just from a clinical level for looking at numbers wise, if somebody's looking at a panel, what is low testosterone?
+
+68
+00:14:31,000 --> 00:14:49,000
+Well, so this is interesting. I will say that most of the literature focuses on low total testosterone. And I think that's probably because it's more commonly measured, it's easier to measure, and it's basically the one thing that's always going to be measured.
+
+69
+00:14:49,000 --> 00:15:07,000
+Whereas I think not all the time are physicians also measuring free testosterone or bioavailable testosterone. Again, my bias is to measure free testosterone because that's actually the testosterone that makes its way into the cell.
+
+70
+00:15:07,000 --> 00:15:22,000
+But if you pull up the table that looks at total testosterone levels, we'll get a sense at how wide the range is across all age groups.
+
+71
+00:15:22,000 --> 00:15:37,000
+Thank you for listening to today's sneak peek AMA episode of The Drive. If you're interested in hearing the complete version of this AMA, you'll want to become a member. We created a membership program to bring you more in-depth exclusive content without relying on paid ads.
+
+72
+00:15:37,000 --> 00:15:52,000
+Membership benefits are many, and beyond the complete episodes of the AMA each month, they include the following. Ridiculously comprehensive podcast show notes that detail every topic, paper, person, and thing we discuss on each episode of The Drive.
+
+73
+00:15:52,000 --> 00:16:06,000
+Access to our private podcast feed. The Qualies, which are a super short podcast, typically less than five minutes, released every Tuesday through Friday, which highlight the best questions, topics, and tactics discussed on previous episodes of The Drive.
+
+74
+00:16:06,000 --> 00:16:16,000
+This is particularly important for those of you who haven't heard all of the back episodes. It becomes a great way to go back and filter and decide which ones you want to listen to in detail.
+
+75
+00:16:16,000 --> 00:16:25,000
+Really steep discount codes for products I use and believe in, but for which I don't get paid to endorse, and benefits that we continue to add over time.
+
+76
+00:16:25,000 --> 00:16:32,000
+If you want to learn more and access these member-only benefits, head over to PeterAttiaMD.com forward slash subscribe.
+
+77
+00:16:32,000 --> 00:16:42,000
+Lastly, if you're already a member but you're hearing this, it means you haven't downloaded our member-only podcast feed, where you can get the full access to the AMA and you don't have to listen to this.
+
+78
+00:16:43,000 --> 00:16:48,000
+You can download that at PeterAttiaMD.com forward slash members.
+
+79
+00:16:48,000 --> 00:16:54,000
+You can find me on Twitter, Instagram, and Facebook, all with the ID PeterAttiaMD.
+
+80
+00:16:54,000 --> 00:16:59,000
+You can also leave us a review on Apple Podcasts or whatever podcast player you listen on.
+
+81
+00:16:59,000 --> 00:17:10,000
+This podcast is for general informational purposes only and does not constitute the practice of medicine, nursing, or other professional healthcare services, including the giving of medical advice.
+
+82
+00:17:11,000 --> 00:17:13,000
+No doctor-patient relationship is formed.
+
+83
+00:17:13,000 --> 00:17:18,000
+The use of this information and the materials linked to this podcast is at the user's own risk.
+
+84
+00:17:18,000 --> 00:17:25,000
+The content on this podcast is not intended to be a substitute for professional medical advice, diagnosis, or treatment.
+
+85
+00:17:25,000 --> 00:17:37,000
+Users should not disregard or delay in obtaining medical advice from any medical condition they have, and they should seek the assistance of their healthcare professionals for any such conditions.
+
+86
+00:17:38,000 --> 00:17:40,000
+Finally, I take conflicts of interest very seriously.
+
+87
+00:17:40,000 --> 00:17:52,000
+For all of my disclosures and the companies I invest in or advise, please visit PeterAttiaMD.com forward slash about where I keep an up-to-date and active list of such companies.
+
+88
+00:18:07,000 --> 00:18:10,000
+Thank you.
+

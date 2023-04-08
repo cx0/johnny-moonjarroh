@@ -1,0 +1,4276 @@
+1
+00:00:00,000 --> 00:00:07,320
+Hey everyone, welcome to the Peter Attia drive.
+
+2
+00:00:07,320 --> 00:00:10,600
+I'm your host, Peter Attia.
+
+3
+00:00:10,600 --> 00:00:15,960
+The drive is a result of my hunger for optimizing performance, health, longevity, critical thinking,
+
+4
+00:00:15,960 --> 00:00:17,960
+along with a few other obsessions along the way.
+
+5
+00:00:17,960 --> 00:00:21,520
+I've spent the last several years working with some of the most successful top performing
+
+6
+00:00:21,520 --> 00:00:23,140
+individuals in the world.
+
+7
+00:00:23,140 --> 00:00:27,560
+And this podcast is my attempt to synthesize what I've learned along the way to help you
+
+8
+00:00:27,560 --> 00:00:29,840
+live a higher quality, more fulfilling life.
+
+9
+00:00:29,840 --> 00:00:34,400
+If you enjoy this podcast, you can find more information on today's episode and other topics
+
+10
+00:00:34,400 --> 00:00:36,400
+at PeterAttiaMD.com.
+
+11
+00:00:36,400 --> 00:00:47,240
+Hi everybody, welcome to episode two of five in the week of day spring.
+
+12
+00:00:47,240 --> 00:00:52,940
+This episode we cover lipoprotein basics, what's lipoproteins and lipids 101.
+
+13
+00:00:52,940 --> 00:00:56,820
+We talk about Goffman and the ultra centrifuge and how we came up with these whole ideas
+
+14
+00:00:56,820 --> 00:00:58,760
+of densities of lipoproteins.
+
+15
+00:00:58,760 --> 00:01:04,200
+We get into very specifics around the lipoprotein structure, their function and their metabolism.
+
+16
+00:01:04,200 --> 00:01:09,000
+We talk about how to measure the lipoprotein and the cholesterol content and what NMR is
+
+17
+00:01:09,000 --> 00:01:11,880
+and how it has changed the game a little bit.
+
+18
+00:01:11,880 --> 00:01:16,660
+We get into the distinctions between LDL cholesterol, LDL particle number and APO B. There is some
+
+19
+00:01:16,660 --> 00:01:21,480
+confusion here amongst physicians and presumably amongst patients.
+
+20
+00:01:21,480 --> 00:01:23,480
+So hopefully that will clear that up.
+
+21
+00:01:23,480 --> 00:01:28,360
+We get into the biochemistry of lipids and then we talk about sterols specifically as
+
+22
+00:01:28,360 --> 00:01:31,200
+a more broad category.
+
+23
+00:01:31,200 --> 00:01:37,800
+Now before we could measure anything to do with lipoproteins, if my memory serves me
+
+24
+00:01:37,800 --> 00:01:43,720
+correctly, it would have been the late 40s, very early 50s when the first assays were developed,
+
+25
+00:01:43,720 --> 00:01:47,960
+maybe it was 1951, that could actually just measure total cholesterol.
+
+26
+00:01:47,960 --> 00:01:53,760
+So you would take plasma from a patient, you would presumably in an assay break down all
+
+27
+00:01:53,760 --> 00:01:57,560
+of the lipoproteins and just aggregate the total amount of cholesterol and you would
+
+28
+00:01:57,560 --> 00:02:01,660
+yield that number which still amazingly shows up on a panel today.
+
+29
+00:02:01,660 --> 00:02:05,800
+You go and get a blood test and it might say your total cholesterol is 200 milligrams per
+
+30
+00:02:05,800 --> 00:02:06,800
+deciliter.
+
+31
+00:02:06,800 --> 00:02:09,060
+Am I correct?
+
+32
+00:02:09,060 --> 00:02:10,060
+That was the early 50s maybe?
+
+33
+00:02:10,060 --> 00:02:14,800
+No, I think they were analyzing cholesterol long before that because that's a molecule
+
+34
+00:02:14,800 --> 00:02:19,840
+you can take blood and dissolve whatever you got to dissolve and cholesterol appears.
+
+35
+00:02:19,840 --> 00:02:23,000
+So they had cholesterol measurements for a long, long time.
+
+36
+00:02:23,000 --> 00:02:26,880
+It's like the first lipid anybody could ever measure.
+
+37
+00:02:26,880 --> 00:02:32,120
+What you're talking about in the 50s is where John Hoffman discovered that, hey, wait a
+
+38
+00:02:32,120 --> 00:02:37,000
+minute, there are no lipids floating around in plasma because lipids are incredibly hydrophobic.
+
+39
+00:02:37,000 --> 00:02:38,340
+Your plasma is water.
+
+40
+00:02:38,340 --> 00:02:41,140
+You can't have lipids circulating in plasma.
+
+41
+00:02:41,140 --> 00:02:46,260
+So lipids obviously have to be within what I call water soluble lipid transportation
+
+42
+00:02:46,260 --> 00:02:51,520
+vehicles and that turns out of course to be a lipoprotein, a protein-wrapped collection
+
+43
+00:02:51,520 --> 00:02:57,800
+of hydrophobic and amphipathic lipids that just wouldn't be in your plasma unless they're
+
+44
+00:02:57,800 --> 00:02:59,440
+attached to a protein.
+
+45
+00:02:59,440 --> 00:03:00,440
+Peter mentioned albumin.
+
+46
+00:03:00,440 --> 00:03:01,440
+It's a protein.
+
+47
+00:03:01,440 --> 00:03:07,040
+So lipids can attach to albumin and be circulated around and other type proteins but albumin
+
+48
+00:03:07,040 --> 00:03:09,180
+is the most frequent protein in the blood.
+
+49
+00:03:09,180 --> 00:03:10,560
+So it serves as a carrier.
+
+50
+00:03:10,560 --> 00:03:16,480
+I think an albumin can carry like 17 molecules of cholesterol, a few of phospholipids too.
+
+51
+00:03:16,480 --> 00:03:18,040
+So it's a player out there.
+
+52
+00:03:18,040 --> 00:03:20,280
+We got a ton of albumin in our plasmas.
+
+53
+00:03:20,280 --> 00:03:23,440
+You'd be shocked to find out how much cholesterol is in it.
+
+54
+00:03:23,440 --> 00:03:25,120
+Not quite as much as in lipids.
+
+55
+00:03:25,120 --> 00:03:26,800
+Albumin is kind of an amazing protein.
+
+56
+00:03:26,800 --> 00:03:27,800
+It'll carry hormones.
+
+57
+00:03:27,800 --> 00:03:29,840
+It'll carry just about anything.
+
+58
+00:03:29,840 --> 00:03:30,840
+It's remarkable.
+
+59
+00:03:30,840 --> 00:03:35,800
+And it has everything to do with osmotic pressures and things like that.
+
+60
+00:03:35,800 --> 00:03:42,960
+So albumin is kind of an essential protein to say the least, performing many, many functions.
+
+61
+00:03:42,960 --> 00:03:48,300
+But when John Hoffman, a physicist by the way who had, physicists have been playing
+
+62
+00:03:48,300 --> 00:03:54,100
+with ultracenta fuge for a long time separating their radioactive particles and stuff, he
+
+63
+00:03:54,100 --> 00:04:01,380
+somehow wound up separating lipoproteins or saw things floating around in a centrifuge
+
+64
+00:04:01,380 --> 00:04:06,340
+test tube that he then identified as the lipoproteins.
+
+65
+00:04:06,340 --> 00:04:11,860
+So if you learn nothing else today, learn the first thing is lipids for the most part
+
+66
+00:04:11,860 --> 00:04:16,660
+go nowhere in the human body unless they're a passenger inside a lipoprotein.
+
+67
+00:04:16,660 --> 00:04:22,620
+Because if you believe there are a lot of lipid associated diseases, and I certainly
+
+68
+00:04:22,620 --> 00:04:28,580
+believe atherosclerosis, you cannot have atherosclerosis without a starol and lipid being in your arterial
+
+69
+00:04:28,580 --> 00:04:29,660
+wall.
+
+70
+00:04:29,660 --> 00:04:36,420
+And I know that arterial wall didn't over synthesize starols, creating a starol buildup.
+
+71
+00:04:36,420 --> 00:04:38,500
+Somebody had it delivered of starols there.
+
+72
+00:04:38,500 --> 00:04:41,980
+And that of course turns out to be a lipoprotein.
+
+73
+00:04:42,620 --> 00:04:47,420
+One of the places a lipoprotein should never deliver starols to, to any serious degree
+
+74
+00:04:47,420 --> 00:04:50,460
+of course is your arterial wall intima.
+
+75
+00:04:50,460 --> 00:04:55,460
+So being a Jersey guy, one of my standard jokes on a lecture circuit was atherosclerosis
+
+76
+00:04:55,460 --> 00:05:02,020
+is just the evidence of illegal dumping where a lipoprotein instead of bringing lipids to
+
+77
+00:05:02,020 --> 00:05:06,180
+wherever it's supposed to be bringing it was bringing starols to the arterial wall.
+
+78
+00:05:06,180 --> 00:05:09,940
+And over decades, you got a problem.
+
+79
+00:05:09,940 --> 00:05:13,940
+You know, it could do it for a few days, six months, you're not going to die of atherosclerotic
+
+80
+00:05:13,940 --> 00:05:14,940
+disease.
+
+81
+00:05:14,940 --> 00:05:16,500
+So when did it become clear?
+
+82
+00:05:16,500 --> 00:05:21,260
+So Hoffman figures out by first principles basically, he imputes that there's got to
+
+83
+00:05:21,260 --> 00:05:27,420
+be something that is transporting this very, very hydrophobic molecule through plasma.
+
+84
+00:05:27,420 --> 00:05:31,940
+It doesn't, you know, I mean, it's easy in retrospect to make light of what an observation
+
+85
+00:05:31,940 --> 00:05:34,940
+that is, but the next observation would be it would lead to be spherical.
+
+86
+00:05:34,940 --> 00:05:35,940
+Right?
+
+87
+00:05:35,940 --> 00:05:39,220
+I mean, it's to optimize the volume in which you could transport.
+
+88
+00:05:39,220 --> 00:05:40,500
+It would have to be spherical.
+
+89
+00:05:40,500 --> 00:05:43,820
+You're a mathematician, a volume of the sphere, the third power of the radius.
+
+90
+00:05:43,820 --> 00:05:48,100
+So if you're going to devise a transportation vehicle, a sphere is better than a flatbed
+
+91
+00:05:48,100 --> 00:05:49,420
+truck, you know.
+
+92
+00:05:49,420 --> 00:05:54,540
+So how long was it until, I mean, I know the answer to this question, but I just have to
+
+93
+00:05:54,540 --> 00:05:55,540
+sort of tee it up.
+
+94
+00:05:55,540 --> 00:05:59,060
+Who then went on to figure out these things occur in different densities?
+
+95
+00:05:59,060 --> 00:06:00,060
+It's not just one.
+
+96
+00:06:00,060 --> 00:06:03,620
+There's not just one spherical molecule that's transporting these things.
+
+97
+00:06:03,620 --> 00:06:04,860
+This is a beautiful story, right?
+
+98
+00:06:04,860 --> 00:06:06,060
+It was Hoffman.
+
+99
+00:06:06,060 --> 00:06:11,340
+He noticed that they're, and they weren't calling them April B and April A, they weren't
+
+100
+00:06:11,340 --> 00:06:13,660
+particles at the day, but they were different densities.
+
+101
+00:06:13,660 --> 00:06:14,660
+They were gigantic.
+
+102
+00:06:14,660 --> 00:06:19,300
+So explain what you mean by density because this term, you know, we talk, everyone knows
+
+103
+00:06:19,300 --> 00:06:22,740
+low density, low proton, high density, low proton, but tell me where that terminology
+
+104
+00:06:22,740 --> 00:06:24,140
+actually came from.
+
+105
+00:06:24,140 --> 00:06:28,180
+Well, I think it has to do with water has a certain density.
+
+106
+00:06:28,180 --> 00:06:31,620
+So it's whether things float in water or sink in water.
+
+107
+00:06:31,620 --> 00:06:35,980
+We know rocks sink if we throw it in a pond, so they're very dense things.
+
+108
+00:06:35,980 --> 00:06:38,700
+Whereas other things float on top of water.
+
+109
+00:06:38,700 --> 00:06:41,940
+They obviously are less dense than water is.
+
+110
+00:06:41,940 --> 00:06:44,680
+So everything is relative to water there.
+
+111
+00:06:44,680 --> 00:06:48,980
+So if you establish what you think is the density of water, things that float.
+
+112
+00:06:48,980 --> 00:06:55,140
+So when he separated these things in a centrifuge, the lipoproteins or these fatballs that didn't
+
+113
+00:06:55,140 --> 00:06:59,140
+move at all were obviously very buoyant.
+
+114
+00:06:59,140 --> 00:07:02,020
+Some sunk just a little bit.
+
+115
+00:07:02,020 --> 00:07:04,980
+So they were less buoyant, but still pretty buoyant.
+
+116
+00:07:04,980 --> 00:07:08,780
+And some went right to the bottom of the test tube, obviously incredibly dense.
+
+117
+00:07:08,780 --> 00:07:17,500
+And it turns out what makes a lipoprotein buoyant is a ratio of its lipid fat content.
+
+118
+00:07:17,500 --> 00:07:23,460
+Cause I think we all know fat floats on water or proteins check out the molecular weights
+
+119
+00:07:23,460 --> 00:07:25,020
+of proteins really heavy.
+
+120
+00:07:25,020 --> 00:07:28,140
+They sink, so they're the rocks.
+
+121
+00:07:28,140 --> 00:07:34,060
+So your density of a specific particle here, lipoprotein particle is going to be related
+
+122
+00:07:34,060 --> 00:07:37,820
+to its lipid content versus its protein content.
+
+123
+00:07:37,820 --> 00:07:42,660
+So our big monsters that are delivering, as I told you, triglycerides, but have a lot
+
+124
+00:07:42,660 --> 00:07:47,900
+of phospholipids on their thing, they have some proteins, but they have so much lipids
+
+125
+00:07:47,900 --> 00:07:48,900
+they float.
+
+126
+00:07:48,900 --> 00:07:50,380
+They're the buoyant ones.
+
+127
+00:07:50,380 --> 00:07:54,140
+And as they lose the lipids, they become smaller.
+
+128
+00:07:54,140 --> 00:07:59,260
+They might lose a few proteins as they shrink, but they're really using the lipids.
+
+129
+00:07:59,260 --> 00:08:02,860
+But they're fundamentally concentrating protein as they get smaller.
+
+130
+00:08:02,860 --> 00:08:06,420
+Because when you go from chylomicron, even though they're not the same lineage, so I
+
+131
+00:08:06,420 --> 00:08:09,060
+want to be very careful, you'll explain this in detail.
+
+132
+00:08:09,060 --> 00:08:13,140
+You do not go from a chylomicron to a VLDL to an IDL to an LDL to an HDL.
+
+133
+00:08:13,140 --> 00:08:16,140
+There are three separate lineages I just described.
+
+134
+00:08:16,140 --> 00:08:23,020
+But in size, they loosely track as the smaller they get, the more they've concentrated protein.
+
+135
+00:08:23,020 --> 00:08:28,060
+Within every category of lipoproteins, you talk chylomicrons, which intestinally produce
+
+136
+00:08:28,060 --> 00:08:31,420
+VLDLs, hepatic produce.
+
+137
+00:08:31,420 --> 00:08:35,940
+And the classic teaching is as VLDLs become smaller, you call them intermediate density
+
+138
+00:08:35,940 --> 00:08:43,460
+and low density, we now know the liver can produce an LDL without making a VLDL first.
+
+139
+00:08:43,460 --> 00:08:49,060
+High densities which form themselves in the things sort of go the opposite way, whereas
+
+140
+00:08:49,060 --> 00:08:55,100
+the VLDLs and Chylos come out as big fat monsters and lose lipids and become smaller and denser.
+
+141
+00:08:55,100 --> 00:09:00,420
+The HDL as it gathers lipids becomes bigger and more buoyant.
+
+142
+00:09:00,420 --> 00:09:06,580
+But within every class of lipoproteins, you're going to have a heterogeneous range of densities
+
+143
+00:09:06,580 --> 00:09:10,620
+from big species to small species.
+
+144
+00:09:10,620 --> 00:09:15,140
+And this is why to me, I like to tease because you always hear people talk about the small
+
+145
+00:09:15,140 --> 00:09:17,180
+dense LDL.
+
+146
+00:09:17,180 --> 00:09:21,620
+Within every lipoprotein classification, the smaller particle is always more dense than
+
+147
+00:09:21,620 --> 00:09:23,740
+the, so that's a redundant thing.
+
+148
+00:09:23,740 --> 00:09:25,660
+Just tell me dense LDL, just say smaller.
+
+149
+00:09:25,660 --> 00:09:29,500
+I know it has to be dense or if it's dense, I know it has to be small compared to its
+
+150
+00:09:29,500 --> 00:09:33,540
+sister particles within that family or so.
+
+151
+00:09:33,540 --> 00:09:40,540
+Somehow small has only been applied more frequently to LDLs because that's the killer one or HDL
+
+152
+00:09:40,540 --> 00:09:43,700
+is, oh my god, you want to have the big HDLs.
+
+153
+00:09:43,700 --> 00:09:48,540
+Another joke that's turned out, but for a long this while, if you don't have big HDLs,
+
+154
+00:09:48,540 --> 00:09:50,620
+you're in big trouble or so.
+
+155
+00:09:50,620 --> 00:09:53,660
+And if you've got the small LDLs, you're in the biggest trouble.
+
+156
+00:09:53,660 --> 00:09:57,020
+That basically turns out to be because if you have small LDLs, you need a ton of them
+
+157
+00:09:57,020 --> 00:09:58,940
+to carry whatever your lipid load is.
+
+158
+00:09:58,940 --> 00:10:04,740
+So you've got a super high LDL particle concentration if you have small LDLs.
+
+159
+00:10:04,740 --> 00:10:11,380
+And that's more related to its pathology per se than the size, not that that won't
+
+160
+00:10:11,380 --> 00:10:14,740
+cause certain functional characteristics of the LDL.
+
+161
+00:10:14,740 --> 00:10:18,220
+But the LDL, the kylos come out big and they shrink.
+
+162
+00:10:18,220 --> 00:10:25,780
+Now the reason though that differentiate kylo microns and the LDLs, IDLs and LDLs is they
+
+163
+00:10:25,780 --> 00:10:30,860
+have a lot of apoproteins on their surface, which they do lose as they shrink.
+
+164
+00:10:30,860 --> 00:10:35,580
+But there's one protein they never lose and it's the one that has the most massive molecular
+
+165
+00:10:35,580 --> 00:10:41,180
+weight, apo-hyperprotein B. So that's why they are never going to be as dense as an
+
+166
+00:10:41,180 --> 00:10:46,780
+HDL particle because an HDL doesn't have this monstrosity high molecular weight, APoB, on
+
+167
+00:10:46,780 --> 00:10:47,780
+it.
+
+168
+00:10:47,780 --> 00:10:50,620
+It's got other things, far less lipids.
+
+169
+00:10:50,620 --> 00:10:57,340
+But to some, the LDLs, IDLs, VLDs are always going to be way more buoyant because they
+
+170
+00:10:57,340 --> 00:11:03,380
+do have a little bit of an anchor on them, creating titter densities that APoB.
+
+171
+00:11:03,380 --> 00:11:07,820
+And it's the only, as you study apoproteins, there are probably up to 20 to 30 of them
+
+172
+00:11:07,820 --> 00:11:13,660
+now, all of which have certain functions that it sort of directs a lipoprotein down which
+
+173
+00:11:13,660 --> 00:11:16,500
+path it's going, a catabolic path.
+
+174
+00:11:16,500 --> 00:11:24,220
+The only apoprotein, by the way, get definitions out the way, apoprotein, apolipoprotein, lipoprotein.
+
+175
+00:11:24,220 --> 00:11:27,780
+An apoprotein is the protein your cell makes.
+
+176
+00:11:27,780 --> 00:11:33,340
+Once it binds two lipids, it's called an apolipoprotein and of course the whole particle itself is
+
+177
+00:11:33,340 --> 00:11:34,540
+called a lipoprotein.
+
+178
+00:11:34,540 --> 00:11:36,300
+So let me re-synthesize that.
+
+179
+00:11:36,300 --> 00:11:41,980
+The lipoprotein is the spherical structure whose membrane is made up of mostly these
+
+180
+00:11:41,980 --> 00:11:44,780
+phospholipids but also other lipids.
+
+181
+00:11:44,780 --> 00:11:49,060
+The apoprotein is the thing that kind of gives it its signature.
+
+182
+00:11:49,060 --> 00:11:56,940
+So for example, the chylomicron has a B48, the IDL, VLDL, and LDL have a B100, etc.
+
+183
+00:11:56,940 --> 00:11:59,660
+That's just called the apoprotein.
+
+184
+00:11:59,660 --> 00:12:04,860
+Once the apoprotein, and I assume it's covalently bound to the lipoprotein, that becomes the
+
+185
+00:12:04,860 --> 00:12:06,740
+apolipoprotein.
+
+186
+00:12:06,740 --> 00:12:10,140
+And we abbreviate that apo fill in the blank.
+
+187
+00:12:10,140 --> 00:12:11,140
+Yeah.
+
+188
+00:12:11,140 --> 00:12:15,740
+So if I took a VLDL particle and later on I'll tell you, boy, on a VLDL you're going
+
+189
+00:12:15,740 --> 00:12:24,980
+to find apo C1, apo C2, apo C3, apo A5, and including apo B. But it's going to lose everything
+
+190
+00:12:24,980 --> 00:12:27,060
+but apo B as it's transferred.
+
+191
+00:12:27,060 --> 00:12:30,060
+It'll lose most of the other ones because they're transferable.
+
+192
+00:12:30,060 --> 00:12:34,180
+They can jump on different lipoprotein if they so desire to.
+
+193
+00:12:34,180 --> 00:12:36,000
+Apo B never does.
+
+194
+00:12:36,000 --> 00:12:40,700
+For a bunch of reasons, it provides the structural integrity to that particle throughout its
+
+195
+00:12:40,700 --> 00:12:41,980
+existence.
+
+196
+00:12:41,980 --> 00:12:49,180
+But apo B turns out to be the ligand for receptors that internalize those particles when your
+
+197
+00:12:49,180 --> 00:12:50,620
+body don't need them anymore.
+
+198
+00:12:50,620 --> 00:12:53,060
+So the LDL receptor that everybody knows about-
+
+199
+00:12:53,060 --> 00:12:57,660
+So the ligand just for some people listening, it's like the key that fits into the lock.
+
+200
+00:12:57,660 --> 00:13:00,980
+If the receptor is the lock, the ligand is the key.
+
+201
+00:13:00,980 --> 00:13:03,060
+In biology, that's sort of how everything works.
+
+202
+00:13:03,060 --> 00:13:04,620
+The key has to fit the lock.
+
+203
+00:13:04,620 --> 00:13:05,620
+Correct.
+
+204
+00:13:05,620 --> 00:13:08,940
+And if it didn't, then that lipoprotein is going to stay in your plasma and probably
+
+205
+00:13:08,940 --> 00:13:12,500
+wind up going somewhere where it's going to create a pathological state.
+
+206
+00:13:12,500 --> 00:13:18,980
+So when was it figured out that apo lipoproteins are going to come and go, but there's one
+
+207
+00:13:18,980 --> 00:13:22,900
+of these ones that not only always stays, but you have one?
+
+208
+00:13:22,900 --> 00:13:29,460
+Because that's a big deal, the realization that apo B100, if you knew that concentration,
+
+209
+00:13:29,460 --> 00:13:32,140
+you had a proxy for how many particles you had.
+
+210
+00:13:32,140 --> 00:13:33,140
+Yeah.
+
+211
+00:13:33,140 --> 00:13:36,820
+So Goffman certainly figured out there were proteins involved here, but he wasn't applying
+
+212
+00:13:36,820 --> 00:13:38,620
+that nomenclature to them and everything.
+
+213
+00:13:39,300 --> 00:13:45,340
+Guys who further, a few years further down the road, Fredrickson, Levy and Lees started-
+
+214
+00:13:45,340 --> 00:13:47,220
+We've talked about those with Ron Krauss.
+
+215
+00:13:47,220 --> 00:13:54,100
+I never realized there are some very important structural and functional proteins on these
+
+216
+00:13:54,100 --> 00:13:58,180
+particles that we better start investigating and giving names to.
+
+217
+00:13:58,180 --> 00:14:01,740
+So their research led to the identification of all them.
+
+218
+00:14:01,740 --> 00:14:10,620
+And ultimately, I mean, we know now the amino acid breakdown of every darn apoprotein that's
+
+219
+00:14:10,620 --> 00:14:13,300
+in our body or on our particles and everything.
+
+220
+00:14:13,300 --> 00:14:20,260
+So it just, when one research invents a little bit of the story, other ones pick up the pieces
+
+221
+00:14:20,260 --> 00:14:25,780
+and start further elaborating on it with different studies and technology improves and some of
+
+222
+00:14:25,780 --> 00:14:32,220
+these things that were not a saleable at one point become that you can measure them and
+
+223
+00:14:32,220 --> 00:14:34,100
+identify their structure and everything.
+
+224
+00:14:34,100 --> 00:14:36,300
+So it's one of these evolutionary things.
+
+225
+00:14:36,300 --> 00:14:42,660
+And it just made such perfect sense too, because we knew these particles are changing.
+
+226
+00:14:42,660 --> 00:14:45,460
+So they're undergoing catabolic processes.
+
+227
+00:14:45,460 --> 00:14:48,060
+Why? What's doing that?
+
+228
+00:14:48,060 --> 00:14:54,020
+And then all of a sudden you figure out that these ligands, these apoproteins are keys to
+
+229
+00:14:54,020 --> 00:14:56,060
+various receptors.
+
+230
+00:14:56,060 --> 00:15:01,980
+Some of those receptors pull the particle next to where the expression of a lipid dissolving
+
+231
+00:15:01,980 --> 00:15:03,940
+enzyme or lipase.
+
+232
+00:15:03,940 --> 00:15:07,060
+And it starts to all make perfect sense to you.
+
+233
+00:15:07,060 --> 00:15:13,460
+So over time, we've identified numerous of these enzymes that can catabolize lipoproteins,
+
+234
+00:15:13,460 --> 00:15:18,420
+numerous of the receptors that temporarily bind these particles in place so they can
+
+235
+00:15:18,420 --> 00:15:20,860
+undergo this thing.
+
+236
+00:15:20,860 --> 00:15:26,420
+Is that lipidate fill the particles with the lipids or delipidatum?
+
+237
+00:15:26,420 --> 00:15:30,020
+So if you're listening to this and you're confused at this point, it's okay.
+
+238
+00:15:30,020 --> 00:15:33,860
+One, there's going to be killer show notes, but more importantly, we're going to take
+
+239
+00:15:33,860 --> 00:15:35,700
+a step back now.
+
+240
+00:15:35,700 --> 00:15:36,780
+I'm a guy listening to this.
+
+241
+00:15:36,780 --> 00:15:38,220
+I'm a girl listening to this.
+
+242
+00:15:38,220 --> 00:15:43,860
+All I know is every time I go to the doctor, he or she gets a blood test and it spits out
+
+243
+00:15:43,860 --> 00:15:44,860
+the following.
+
+244
+00:15:44,860 --> 00:15:46,580
+Total cholesterol equals this.
+
+245
+00:15:46,580 --> 00:15:49,460
+LDL, and they won't even, it'll be worse.
+
+246
+00:15:49,460 --> 00:15:51,700
+It'll say LDL equals this.
+
+247
+00:15:51,700 --> 00:15:53,020
+HDL equals this.
+
+248
+00:15:53,020 --> 00:15:54,260
+Triglyceride equals this.
+
+249
+00:15:54,260 --> 00:15:58,060
+And maybe it will say non-HDL equals this.
+
+250
+00:15:58,060 --> 00:16:00,820
+What do those things mean in relation to everything you just said?
+
+251
+00:16:00,820 --> 00:16:01,820
+Yeah.
+
+252
+00:16:01,820 --> 00:16:07,940
+First of all, the misinformation on labeling lipid metrics is one of the things that Miracle
+
+253
+00:16:07,940 --> 00:16:09,900
+hasn't given me a stroke yet.
+
+254
+00:16:09,900 --> 00:16:11,220
+I do a lot of peer review.
+
+255
+00:16:11,220 --> 00:16:13,620
+I'm going to, I want to associate editors.
+
+256
+00:16:13,620 --> 00:16:14,940
+That's why we're fasting you, Tom.
+
+257
+00:16:14,940 --> 00:16:20,140
+Journal of clinical lipidology, and I will reject a paper instantly that uses improper
+
+258
+00:16:20,140 --> 00:16:22,020
+lipid metrics.
+
+259
+00:16:22,020 --> 00:16:26,980
+Don't tell me your, the LDL is this because LDL is a low density lipoprotein.
+
+260
+00:16:26,980 --> 00:16:29,100
+It's not a laboratory metric.
+
+261
+00:16:29,100 --> 00:16:33,940
+You want to tell me what the LDL cholesterol is, the LDL particle number is, the lipidomics
+
+262
+00:16:33,940 --> 00:16:36,100
+of an LDL is the LDL oxidizer.
+
+263
+00:16:36,100 --> 00:16:37,100
+Not great.
+
+264
+00:16:37,100 --> 00:16:39,620
+We do have assays that will measure that.
+
+265
+00:16:39,620 --> 00:16:42,140
+So let's please all you.
+
+266
+00:16:42,900 --> 00:16:45,860
+Identify yourself as an ignoramus.
+
+267
+00:16:45,860 --> 00:16:49,060
+And like I've told this to many of the top lipidologists in the country who lecture,
+
+268
+00:16:49,060 --> 00:16:52,140
+stop telling people what's your LDL.
+
+269
+00:16:52,140 --> 00:16:54,140
+Ask them what is your LDL cholesterol?
+
+270
+00:16:54,140 --> 00:16:59,220
+What's your, if we don't all talk the talk, you're never going to understand the process.
+
+271
+00:16:59,220 --> 00:17:05,060
+So this patient almost assuredly is talking about total cholesterol, LDL cholesterol,
+
+272
+00:17:05,060 --> 00:17:07,100
+HDL cholesterol, and non-HDL cholesterol.
+
+273
+00:17:07,100 --> 00:17:08,100
+Yeah.
+
+274
+00:17:08,100 --> 00:17:11,660
+So I'll give you a quick, and by the way, Peter did mention something very quickly before
+
+275
+00:17:11,660 --> 00:17:16,700
+I just wanted to expand and he talked about, hey, APOB100, APOB48.
+
+276
+00:17:16,700 --> 00:17:24,020
+APOB is a giant structural, non-transferable, APOProtein that's on chylomicrons or VLDLs.
+
+277
+00:17:24,020 --> 00:17:30,820
+The intestinal machinery that synthesizes a chylomicron makes a certain type of APOB
+
+278
+00:17:30,820 --> 00:17:34,780
+and the APOB that is made in the liver makes a much bigger APOB.
+
+279
+00:17:34,780 --> 00:17:37,300
+It has a higher molecular weight.
+
+280
+00:17:37,300 --> 00:17:42,700
+So they knew the APOB that's being made in the intestine is much smaller.
+
+281
+00:17:42,700 --> 00:17:48,300
+So it turns out to be that the APOB in the intestine is 48% of the molecular weight of
+
+282
+00:17:48,300 --> 00:17:50,740
+the hepatic-produced APOB.
+
+283
+00:17:50,740 --> 00:17:56,900
+If you get into genetic APOB, you'll see APOB31 that has 31% of the molecular weight
+
+284
+00:17:56,900 --> 00:17:59,220
+of what's considered a normal APOB.
+
+285
+00:17:59,220 --> 00:18:06,380
+So when you hear APOB48, that should identify it as an intestinal-produced APOB particle
+
+286
+00:18:06,380 --> 00:18:09,020
+and a liver would be an APOB48.
+
+287
+00:18:09,020 --> 00:18:14,860
+And LDLs that come out of the liver should have APOB100 on it like the VLDL or VLDL,
+
+288
+00:18:14,860 --> 00:18:19,420
+it becomes an LDL, the APOB100 is still there or so.
+
+289
+00:18:19,420 --> 00:18:22,540
+Just keep, if you hear 148, what does that mean?
+
+290
+00:18:22,540 --> 00:18:24,680
+It sort of tells us the origin.
+
+291
+00:18:24,680 --> 00:18:28,980
+We are going to be talking about nuclear magnetic resonance and one of the parameters that used
+
+292
+00:18:28,980 --> 00:18:33,980
+to give you a lot on, less so nowadays, is VLDL particle concentration.
+
+293
+00:18:33,980 --> 00:18:39,380
+When you analyze the lipoprotein using nuclear magnetic resonance, it cannot tell the difference
+
+294
+00:18:39,380 --> 00:18:44,740
+between a chylomicron and a VLDL because NMR doesn't measure the proteins.
+
+295
+00:18:44,740 --> 00:18:49,980
+It's hey, that's a very big particle, so it has to be a VLDL or chylose.
+
+296
+00:18:49,980 --> 00:18:50,980
+Most of your big particles are VLDLs.
+
+297
+00:18:50,980 --> 00:18:51,980
+But if you're fasted.
+
+298
+00:18:51,980 --> 00:18:57,640
+Yeah, and even in a postprandial state, chylomicrons have half-lives in minutes, they're gone.
+
+299
+00:18:57,640 --> 00:19:03,580
+So the vast majority of VLDL particle number via NMR is still VLDL part of it.
+
+300
+00:19:03,580 --> 00:19:04,580
+There could be some powers in it.
+
+301
+00:19:04,580 --> 00:19:06,300
+All right, but I want to go back to our lady.
+
+302
+00:19:06,300 --> 00:19:10,100
+So her total cholesterol is 190 milligrams per deciliter.
+
+303
+00:19:10,100 --> 00:19:14,860
+So total cholesterol, remember my premise that lipids go nowhere in the body unless
+
+304
+00:19:14,860 --> 00:19:16,540
+they're within a lipoprotein.
+
+305
+00:19:16,540 --> 00:19:21,900
+It's not exactly true, but for today's purposes, that is true and certainly understanding lipid
+
+306
+00:19:21,900 --> 00:19:23,860
+metrics, that's true.
+
+307
+00:19:23,860 --> 00:19:30,180
+So total cholesterol would be the laboratory has separated all your lipoproteins from the
+
+308
+00:19:30,180 --> 00:19:35,020
+serum and they're take how much cholesterol is in this serum tube.
+
+309
+00:19:35,020 --> 00:19:38,260
+So where would that cholesterol be that they're analyzing?
+
+310
+00:19:38,260 --> 00:19:43,620
+Well, it would be found in, if there were any chylomicrons there that were hanging around
+
+311
+00:19:43,620 --> 00:19:49,020
+or maybe they didn't fast, some of it would be chylomicron cholesterol.
+
+312
+00:19:49,020 --> 00:19:54,020
+Some of it would certainly be VLDL cholesterol, a lesser amount because there's just so many,
+
+313
+00:19:54,020 --> 00:19:57,500
+so fewer of them would be intermediate density cholesterol particles.
+
+314
+00:19:57,500 --> 00:20:03,940
+And the rest would be in either LDL particles, low density lipoproteins or the high density
+
+315
+00:20:03,940 --> 00:20:06,060
+lipoproteins.
+
+316
+00:20:06,060 --> 00:20:10,220
+There are other types of LDL particles called LpA, which we'll talk about.
+
+317
+00:20:10,220 --> 00:20:13,260
+So total cholesterol is all of the cholesterol.
+
+318
+00:20:13,260 --> 00:20:17,700
+It is every single lipoprotein that's in a deciliter of your plasma.
+
+319
+00:20:17,700 --> 00:20:19,940
+And that is directly measured.
+
+320
+00:20:19,940 --> 00:20:20,940
+It is not computed.
+
+321
+00:20:20,940 --> 00:20:21,940
+That's an assay.
+
+322
+00:20:21,940 --> 00:20:22,940
+That is not a calculation.
+
+323
+00:20:22,940 --> 00:20:23,940
+That is assayed.
+
+324
+00:20:24,380 --> 00:20:28,340
+Anyway, there's always a coefficient of variability.
+
+325
+00:20:28,340 --> 00:20:29,580
+That's inaccurate.
+
+326
+00:20:29,580 --> 00:20:34,140
+And so if you want to use cholesterol for anything nowadays, because let's face it,
+
+327
+00:20:34,140 --> 00:20:37,420
+that was the first parameter looked at in the epidemic.
+
+328
+00:20:37,420 --> 00:20:42,060
+And they certainly correlated total cholesterol levels with the risk for heart disease.
+
+329
+00:20:42,060 --> 00:20:44,160
+But think about what I just told you.
+
+330
+00:20:44,160 --> 00:20:47,900
+It's the cholesterol within all the lipoproteins.
+
+331
+00:20:47,900 --> 00:20:53,860
+What is the, if you counted particles, what is the most numerous particles in your bloodstream?
+
+332
+00:20:53,860 --> 00:20:55,220
+The ApoB particles.
+
+333
+00:20:55,220 --> 00:21:00,020
+Well, actually the HDLs are more, but they're so small they don't carry much cholesterol.
+
+334
+00:21:00,020 --> 00:21:05,900
+So most of your, if you want to put a parentheses around it, atherogenic cholesterol would
+
+335
+00:21:05,900 --> 00:21:07,940
+be within your ApoB particles.
+
+336
+00:21:07,940 --> 00:21:14,020
+So if you want to ascribe any use to total cholesterol, it's a real poor man's ApoB
+
+337
+00:21:14,020 --> 00:21:15,020
+level.
+
+338
+00:21:15,020 --> 00:21:20,460
+In general, most people with very high total cholesterol levels will have a very high ApoB
+
+339
+00:21:20,460 --> 00:21:21,460
+level.
+
+340
+00:21:21,460 --> 00:21:25,220
+That's the real reason they're at risk for atherosclerosis, because those are the particles.
+
+341
+00:21:25,220 --> 00:21:26,220
+Yeah.
+
+342
+00:21:26,220 --> 00:21:30,740
+I mean, the original epidemiology basically said, you know, you have to sort of applaud
+
+343
+00:21:30,740 --> 00:21:34,660
+them for doing the best they could with the tools they had, but let's take total cholesterol,
+
+344
+00:21:34,660 --> 00:21:37,580
+which is at the time, the only thing we could measure clinically.
+
+345
+00:21:37,580 --> 00:21:43,380
+Let's take the patients who were in the top 5% and the patients in the bottom 5%.
+
+346
+00:21:43,380 --> 00:21:46,620
+Was there a difference in their risk of MI?
+
+347
+00:21:46,620 --> 00:21:47,620
+And the answer was yes.
+
+348
+00:21:47,620 --> 00:21:48,620
+Correct.
+
+349
+00:21:48,620 --> 00:21:53,620
+It could be another at least decade until Framingham.
+
+350
+00:21:53,620 --> 00:21:56,060
+This is kind of an interesting story, right?
+
+351
+00:21:56,060 --> 00:22:02,740
+Part of the story got ignored in Framingham was that low HDL cholesterol and high triglyceride
+
+352
+00:22:02,740 --> 00:22:07,540
+turned out to be four times more predictive of MI than high LDL cholesterol.
+
+353
+00:22:07,540 --> 00:22:13,900
+And again, this is still crude measurements, but that sort of didn't come back into, people
+
+354
+00:22:13,900 --> 00:22:17,420
+didn't come back to try to explain why that might be the case until Jerry Reivan had sort
+
+355
+00:22:17,420 --> 00:22:19,140
+of done his work on metabolic syndrome.
+
+356
+00:22:19,140 --> 00:22:20,860
+But I also realized I'm going to get us off topic.
+
+357
+00:22:20,860 --> 00:22:22,800
+I want to go back to this other question.
+
+358
+00:22:22,800 --> 00:22:25,940
+So we've just explained what 190 milligrams per deciliter means.
+
+359
+00:22:25,940 --> 00:22:30,500
+When it says HDL, it really means HDL cholesterol as evidenced by the units.
+
+360
+00:22:30,500 --> 00:22:34,740
+So those will either be measured in millimole or milligrams per deciliter.
+
+361
+00:22:34,740 --> 00:22:37,060
+That's a direct assay or an indirect assay.
+
+362
+00:22:37,060 --> 00:22:38,060
+Yeah.
+
+363
+00:22:38,060 --> 00:22:40,940
+So Framingham, of course, did measure total cholesterol.
+
+364
+00:22:40,940 --> 00:22:42,540
+It was easily, they always did it.
+
+365
+00:22:42,540 --> 00:22:47,100
+They measure triglycerides too, although they really had no clue what they, where they
+
+366
+00:22:47,100 --> 00:22:49,660
+related to us, but it was measurable glycerides.
+
+367
+00:22:49,660 --> 00:22:51,980
+They called it glycerides back then.
+
+368
+00:22:51,980 --> 00:22:56,380
+And they did have a direct assay for HDL cholesterol.
+
+369
+00:22:56,380 --> 00:23:01,900
+They, you know, you could also measure, you know, you can centrifuge particles.
+
+370
+00:23:01,900 --> 00:23:06,060
+You can take out the LDL fraction and analyze how much cholesterol is in them.
+
+371
+00:23:06,060 --> 00:23:07,900
+That's theoretically the gold standard.
+
+372
+00:23:07,900 --> 00:23:11,780
+You can separate the HDL part, but that's too time consuming.
+
+373
+00:23:11,780 --> 00:23:13,260
+Nobody's got ultra centrifuges.
+
+374
+00:23:13,260 --> 00:23:19,380
+So to have real world tests, chemists had to develop direct assays.
+
+375
+00:23:19,380 --> 00:23:22,020
+So HDL assays were developed real early on.
+
+376
+00:23:22,020 --> 00:23:27,740
+So Framingham could not only measure total cholesterol, they could measure, directly
+
+377
+00:23:27,740 --> 00:23:29,740
+measure, not calculate HDL cholesterol.
+
+378
+00:23:29,740 --> 00:23:34,780
+What they could not measure, and it took a long time, was LDL cholesterol.
+
+379
+00:23:34,780 --> 00:23:37,300
+Without ultra centrifugation.
+
+380
+00:23:37,300 --> 00:23:39,220
+Without ultra centrifugation, correct.
+
+381
+00:23:39,220 --> 00:23:44,260
+In the 70s, somebody came up with a formula that here's a way of at least estimating
+
+382
+00:23:44,260 --> 00:23:51,940
+or calculating LDL, which took fire because by the 70s, they realize the most numerous
+
+383
+00:23:51,940 --> 00:23:56,020
+atherogenic lipoprotein were the low density lipoprotein.
+
+384
+00:23:56,020 --> 00:24:02,500
+So as Framingham started calculating LDL cholesterol, they, whoa, this is the story here.
+
+385
+00:24:02,500 --> 00:24:03,500
+So they calculate.
+
+386
+00:24:03,500 --> 00:24:07,940
+So just to be clear, what they're doing is they're directly measuring total cholesterol
+
+387
+00:24:07,940 --> 00:24:10,220
+because you can just do that off serum.
+
+388
+00:24:10,220 --> 00:24:12,060
+They precipitate out the HDL, right?
+
+389
+00:24:12,060 --> 00:24:17,580
+So you could measure the HDL without ultra centrifugation and you could measure triglycerides.
+
+390
+00:24:17,580 --> 00:24:25,820
+So now the formula for estimating LDL cholesterol became total cholesterol minus HDL cholesterol
+
+391
+00:24:25,820 --> 00:24:28,240
+minus triglycerides over five.
+
+392
+00:24:28,240 --> 00:24:29,940
+Why the triglycerides over five?
+
+393
+00:24:29,940 --> 00:24:30,940
+Yeah.
+
+394
+00:24:30,940 --> 00:24:35,820
+So Friedel-Wahl put two and two together and realized, hey, total cholesterol is in essence
+
+395
+00:24:35,820 --> 00:24:42,340
+LDL cholesterol plus LDL cholesterol plus HDL cholesterol A equals B plus C plus D.
+
+396
+00:24:42,340 --> 00:24:46,740
+So if I know parameter A and I know parameter D and I know parameters, say I can figure
+
+397
+00:24:46,740 --> 00:24:47,900
+out what parameters C is.
+
+398
+00:24:47,900 --> 00:24:52,700
+And so what he did was he said, I'm going to ignore chylomicron and IDL and LP little
+
+399
+00:24:52,700 --> 00:24:57,420
+A. Well, LP little A was at that point probably being not even, it was being included in the
+
+400
+00:24:57,420 --> 00:24:58,420
+LDL.
+
+401
+00:24:58,420 --> 00:24:59,420
+Yeah.
+
+402
+00:24:59,420 --> 00:25:03,900
+They were basically counted as, the, the collos are counted as VLDLs and the IDL is counted
+
+403
+00:25:03,900 --> 00:25:04,900
+as LDL.
+
+404
+00:25:04,980 --> 00:25:05,980
+Okay.
+
+405
+00:25:05,980 --> 00:25:13,020
+So therefore if I know the HDL cholesterol and I know the total cholesterol, if I only
+
+406
+00:25:13,020 --> 00:25:19,820
+knew VLDL cholesterol, I could easily calculate what your LDL cholesterol was.
+
+407
+00:25:19,820 --> 00:25:24,980
+So then it becomes, you have to know what is a VLDL particle.
+
+408
+00:25:24,980 --> 00:25:30,860
+And at least if you have a physiologically normal VLDL particle, most of those lipids
+
+409
+00:25:30,860 --> 00:25:33,100
+are in the core of the particle.
+
+410
+00:25:33,100 --> 00:25:37,860
+No triglycerides on the surface, no cholesterol ester on the surface.
+
+411
+00:25:37,860 --> 00:25:43,000
+If I only knew the composition of these particles, I could figure out.
+
+412
+00:25:43,000 --> 00:25:50,420
+So they came to the realization that on average a physio, at least in the 1970s, a VLDL particle
+
+413
+00:25:50,420 --> 00:25:55,700
+composition had five times more triglyceride than it did cholesterol.
+
+414
+00:25:55,700 --> 00:26:00,180
+And virtually in a fasting state, all of the triglycerides are not in HDL.
+
+415
+00:26:00,180 --> 00:26:02,100
+They're not in LDL.
+
+416
+00:26:02,100 --> 00:26:05,460
+They're not measuring column icons because you're in a VLDL.
+
+417
+00:26:05,460 --> 00:26:10,860
+So cholesterol in a VLDL has to be triglycerides divided by five because there's one fifth
+
+418
+00:26:10,860 --> 00:26:13,860
+as much cholesterol in a VLDL particle.
+
+419
+00:26:13,860 --> 00:26:17,200
+So VLDL cholesterol is triglycerides divided by five.
+
+420
+00:26:17,200 --> 00:26:22,420
+So now if I have HDL cholesterol, VLDL cholesterol, total cholesterol, you do the math, you're
+
+421
+00:26:22,420 --> 00:26:23,620
+a mathematician, Peter.
+
+422
+00:26:23,620 --> 00:26:28,180
+It's very easy to, aha, this is what your LDL cholesterol is.
+
+423
+00:26:28,180 --> 00:26:31,900
+Even as they calculated that and they applied it to clinical trial data, correlations are
+
+424
+00:26:31,900 --> 00:26:33,780
+very, very good.
+
+425
+00:26:33,780 --> 00:26:39,940
+And they knew that's probably where the money is because of our APOB particles, the particles
+
+426
+00:26:39,940 --> 00:26:44,980
+that are the ones delivering these sterols to the artery wall, the overwhelming majority
+
+427
+00:26:44,980 --> 00:26:50,740
+of them, 95% at the lowest end, 90% are LDL particles.
+
+428
+00:26:50,740 --> 00:26:52,460
+It's where the money is.
+
+429
+00:26:52,460 --> 00:26:59,620
+We need a metric of LDL and the calculated LDL C was earliest introduction to that.
+
+430
+00:26:59,620 --> 00:27:05,020
+Now down the road, people have developed direct assays of LDL cholesterol.
+
+431
+00:27:05,020 --> 00:27:10,980
+But you know what, turns out it's not that much more accurate than the calculated VLDL
+
+432
+00:27:10,980 --> 00:27:15,280
+cholesterol unless as you start to go up, up, up in triglycerides, that calculation
+
+433
+00:27:15,280 --> 00:27:16,280
+falters.
+
+434
+00:27:16,280 --> 00:27:20,700
+Which is something we're seeing more and more of today than we saw in the original framing
+
+435
+00:27:20,700 --> 00:27:21,700
+him.
+
+436
+00:27:21,700 --> 00:27:25,140
+Dad who said, oh boy, if your triglycerides get above 400, don't use that calculation.
+
+437
+00:27:25,140 --> 00:27:26,140
+It's ridiculous.
+
+438
+00:27:26,140 --> 00:27:31,580
+So they actually developed a direct LDL C to give us an LDL cholesterol metric and people
+
+439
+00:27:31,580 --> 00:27:38,380
+with triglycerides of 800, 1200, 4,000 where now you know what their LDL cholesterol is.
+
+440
+00:27:38,380 --> 00:27:40,800
+Whereas the formula would be useless there.
+
+441
+00:27:40,800 --> 00:27:46,700
+We now know that formula starts to become kind of erroneous at somewhere between a trigger
+
+442
+00:27:46,700 --> 00:27:54,220
+150 and 200 and the higher you go above 200, be careful with a calculated LDL cholesterol
+
+443
+00:27:54,220 --> 00:27:58,260
+and rely on direct LDL C.
+
+444
+00:27:58,260 --> 00:27:59,980
+And here's what nobody realizes.
+
+445
+00:27:59,980 --> 00:28:07,740
+The only value that calculated or directly measured LDL cholesterol brings to the table
+
+446
+00:28:07,740 --> 00:28:14,780
+is it's a better poor man's estimate of your LDL particle concentration than is total cholesterol.
+
+447
+00:28:14,780 --> 00:28:20,420
+So an LDL cholesterol would correlate better with APO-B or LDL particle concentration than
+
+448
+00:28:20,420 --> 00:28:22,660
+would a total cholesterol.
+
+449
+00:28:22,660 --> 00:28:27,260
+Down the road a little bit we've come to the realization that if we get another calculation
+
+450
+00:28:27,260 --> 00:28:33,380
+called non-HCL cholesterol that even better correlates with APO-B or LDL particle concentration
+
+451
+00:28:33,380 --> 00:28:35,700
+than does LDL cholesterol.
+
+452
+00:28:35,700 --> 00:28:38,760
+So that's why that's the new thing that's involved.
+
+453
+00:28:38,760 --> 00:28:43,420
+We also, thanks to your, I know you spent a little time down in Hopkins, some of the
+
+454
+00:28:43,420 --> 00:28:48,420
+lipid guys down there have invented a much better calculated LDL cholesterol, which they're
+
+455
+00:28:48,420 --> 00:28:55,100
+trying to get incorporated rather than the older calculation, the Frito-Wald that we've
+
+456
+00:28:55,100 --> 00:28:59,340
+been using forever and most labs entirely use nowadays or so.
+
+457
+00:28:59,340 --> 00:29:06,220
+So NMR, which is, you know, my first exposure to NMR was in high school when we were taking
+
+458
+00:29:06,220 --> 00:29:10,420
+organic chemistry and you learned that we had these tests.
+
+459
+00:29:10,420 --> 00:29:14,880
+I still remember how fun these tests were where they would show you an NMR spectroscopy
+
+460
+00:29:14,880 --> 00:29:20,000
+and you had to figure out what the molecule was by knowing where those spikes were.
+
+461
+00:29:20,000 --> 00:29:27,060
+So was Jim Otvos the guy that first figured out that you could use that stuff to actually
+
+462
+00:29:27,060 --> 00:29:29,600
+count the number of these APO-Bs?
+
+463
+00:29:29,600 --> 00:29:36,920
+Yeah, I think Otvos was certainly one of the early pioneers and over father time, the real
+
+464
+00:29:36,920 --> 00:29:42,800
+pioneer who evaluated lipids and lipoprotein using nuclear magnetic resonance spectroscopy.
+
+465
+00:29:42,800 --> 00:29:48,980
+He knew that lipids would emit specific spectral signals that he could analyze and through
+
+466
+00:29:48,980 --> 00:29:55,180
+very complex mathematics, turn them into a variety of lipoprotein metrics, including
+
+467
+00:29:55,180 --> 00:30:00,160
+you can do an NMR LDL cholesterol level and LDL triglyceride level.
+
+468
+00:30:00,160 --> 00:30:04,080
+In the future, that's one of the ways we're going to be measuring phospholipids on various
+
+469
+00:30:04,080 --> 00:30:09,080
+lipoproteins is NMR spectroscopy because as Peter says, every lipid has a different
+
+470
+00:30:09,080 --> 00:30:13,200
+spectral signal and if you know what you're doing, you can look at a spectral signal and
+
+471
+00:30:13,200 --> 00:30:17,480
+know what its molecular composition is and everything.
+
+472
+00:30:17,480 --> 00:30:23,000
+So Jim turned it into, you know, as we had all these lipid metrics that we're talking
+
+473
+00:30:23,000 --> 00:30:27,720
+about, cholesterol, even triglyceride metrics, deep down the guys know these are just poor
+
+474
+00:30:27,720 --> 00:30:34,160
+man's way, easily assayable ways of quantifying lipoproteins and it's a quantification that
+
+475
+00:30:34,160 --> 00:30:36,640
+matters in many cases or so.
+
+476
+00:30:36,640 --> 00:30:42,480
+So we have, it turns out in the long run, it's the number of APO-B particles that primarily
+
+477
+00:30:42,480 --> 00:30:47,520
+is what forces it into the artery wall, very little L, I mean, or other factors, but that's
+
+478
+00:30:47,520 --> 00:30:48,520
+the number.
+
+479
+00:30:48,520 --> 00:30:54,760
+But when was that pathophysiology first stumbled upon that it even mattered how many of these
+
+480
+00:30:54,760 --> 00:30:59,600
+particles you have versus, so let's just take out the estimates and let's assume that
+
+481
+00:30:59,600 --> 00:31:04,240
+you have the ability to measure the total cholesterol concentration within an LDL particle,
+
+482
+00:31:04,240 --> 00:31:08,520
+which is what's showing up when someone gets a blood test and it says direct, when it says
+
+483
+00:31:08,520 --> 00:31:11,980
+LDLC direct, that means they've actually measured it.
+
+484
+00:31:11,980 --> 00:31:19,360
+So now it's better than Friederwald's estimation, but that's different from if you have an NMR
+
+485
+00:31:19,360 --> 00:31:25,160
+where it says LDL-P nanomole per liter and that's counting the number of those particles.
+
+486
+00:31:25,160 --> 00:31:28,920
+So one is the number of particles, the other is the amount of cholesterol contained within
+
+487
+00:31:28,920 --> 00:31:29,920
+them.
+
+488
+00:31:29,920 --> 00:31:35,760
+We'll get to what a revisiting of Mesa and Framingham made unambiguously clear, which
+
+489
+00:31:35,760 --> 00:31:38,520
+is one of those predicts better than the other.
+
+490
+00:31:38,520 --> 00:31:43,200
+But was that really the realization that it was a gradient driven process by number or
+
+491
+00:31:43,200 --> 00:31:48,420
+was that understood beforehand or at least hypothesized beforehand and then more verified
+
+492
+00:31:48,420 --> 00:31:49,640
+by the experimental evidence?
+
+493
+00:31:49,640 --> 00:31:54,500
+No, early on they discovered it was the ApoB particles going into the artery wall and delivering
+
+494
+00:31:54,500 --> 00:32:00,220
+these sterols and everything that set off this maladaptive inflammatory process that
+
+495
+00:32:00,220 --> 00:32:04,160
+led to a whole other area of investigation or so.
+
+496
+00:32:04,160 --> 00:32:11,680
+So the particle number data came once they sort of identified a way of assaying particle
+
+497
+00:32:11,680 --> 00:32:17,160
+numbers and they almost evolved that this maybe ApoB came a little bit first, but then
+
+498
+00:32:17,160 --> 00:32:23,580
+Jim Opphos' work on LDL particles came at the same time and it clearly became evidence
+
+499
+00:32:23,580 --> 00:32:33,060
+that ApoB is a better risk factor and remember there is one ApoB on every VLDL, IDL and LDL
+
+500
+00:32:33,060 --> 00:32:39,480
+but 95% of the ApoB particles are LDL so ApoB is just a way for the labs to report to you
+
+501
+00:32:39,480 --> 00:32:42,260
+what an LDL particle concentration is.
+
+502
+00:32:42,260 --> 00:32:48,980
+Opphos identified an LDL particle concentration using these methyl signals coming out of the
+
+503
+00:32:48,980 --> 00:32:54,620
+methyl groups that are on cholesterol, ester and triglycerides and phospholipids and translated
+
+504
+00:32:54,620 --> 00:33:03,260
+into a particle number that wow, either ApoB or LDL particle number correlates a lot better
+
+505
+00:33:03,260 --> 00:33:07,380
+with clinical events or the presence of atherosclerosis.
+
+506
+00:33:07,380 --> 00:33:13,020
+You'd have an event but if we do some imaging we see plaque in your wall then does the cholesterol
+
+507
+00:33:13,020 --> 00:33:14,460
+measurement per cell.
+
+508
+00:33:14,460 --> 00:33:21,080
+So it's not a surrogate of particle, they are particle measurements, ApoB or LDL-P. So
+
+509
+00:33:21,080 --> 00:33:24,780
+ApoB is an LDL particle metric.
+
+510
+00:33:24,780 --> 00:33:30,780
+What too many people get lost at, hey, VLDL particles are an ApoB particle so VLDLs are
+
+511
+00:33:30,780 --> 00:33:35,660
+part, there's no doubt that VLDLs can get in the artery wall and contribute to it but
+
+512
+00:33:35,660 --> 00:33:37,300
+it's like a minor.
+
+513
+00:33:37,300 --> 00:33:42,340
+The number of VLDLs that get into the artery wall are infinitesimal, the number of kylos
+
+514
+00:33:42,340 --> 00:33:46,140
+that get in are infinitesimal compared to the number of LDL particles.
+
+515
+00:33:46,140 --> 00:33:52,540
+So yet are all bad guys and a VLDL per particle have significantly more cholesterol molecules
+
+516
+00:33:52,540 --> 00:33:58,560
+in it than an LDL but there are just so many more LDLs that collectively the LDLs deliver
+
+517
+00:33:58,560 --> 00:34:00,220
+more cholesterol to that artery wall.
+
+518
+00:34:00,220 --> 00:34:01,220
+I'm going to go back and do one more.
+
+519
+00:34:01,220 --> 00:34:07,700
+ApoB by the way gives us no information on VLDLs, it's an LDL particle metric.
+
+520
+00:34:07,700 --> 00:34:09,260
+You can't use it for anything else.
+
+521
+00:34:09,260 --> 00:34:14,140
+So don't call me up and say my ApoB is high because I got too many VLDL particles unless
+
+522
+00:34:14,140 --> 00:34:21,220
+you have a rare lipid disorder where there are no LDL particles to type 3 this beta lipoproteinemia.
+
+523
+00:34:21,220 --> 00:34:27,300
+That's the only time an ApoB is measuring it's a VLDL measurement or a remnant measurement.
+
+524
+00:34:27,300 --> 00:34:34,220
+That's not an LDL measurement but in everybody else ApoB, LDLP those are the tests you need
+
+525
+00:34:34,220 --> 00:34:39,220
+because although they correlate very well with LDL cholesterol if they're both high
+
+526
+00:34:39,220 --> 00:34:44,920
+in a given person, that person's at terrible risk but as you well know and probably because
+
+527
+00:34:44,920 --> 00:34:53,780
+of the metabolic makeup of our existing humans at least around throughout the world now is
+
+528
+00:34:53,780 --> 00:35:00,180
+some people have very high ApoB, LDLP, very good LDL cholesterol, some people have high
+
+529
+00:35:00,180 --> 00:35:04,580
+LDL cholesterol, perfect ApoB, LDL particle counts.
+
+530
+00:35:04,580 --> 00:35:09,540
+When those metrics agree they're said to be concordant.
+
+531
+00:35:09,540 --> 00:35:10,540
+Hey use them both.
+
+532
+00:35:10,540 --> 00:35:14,840
+Either one will give you the same information but what happens if you get a patient where
+
+533
+00:35:14,840 --> 00:35:20,900
+they don't agree these metrics in virtually every single trial ever looked at the risk
+
+534
+00:35:20,900 --> 00:35:25,780
+follows the particle metric more than the cholesterol metric.
+
+535
+00:35:25,780 --> 00:35:32,120
+So the only way to know who is discordant with a cholesterol metric and an ApoB or an
+
+536
+00:35:32,120 --> 00:35:35,460
+LDL particle metric is to do both of them.
+
+537
+00:35:35,460 --> 00:35:40,600
+You could also say hey if I'm just doing ApoB or an LDL particle count I don't even need
+
+538
+00:35:40,600 --> 00:35:44,640
+lipids and I'd agree with you except I think there is value in knowing what a triglyceride
+
+539
+00:35:44,640 --> 00:35:46,620
+is for other reasons.
+
+540
+00:35:46,620 --> 00:35:52,360
+So that's the real key and if you ever go to a doctor and you're told I'm very happy
+
+541
+00:35:52,360 --> 00:35:57,120
+because your LDL cholesterol is normal say well so am I doc but by the way what was the
+
+542
+00:35:57,120 --> 00:36:02,680
+ApoB or LDL particle count and if the doctor didn't do it you demanded do it instantly
+
+543
+00:36:02,680 --> 00:36:05,760
+because otherwise you don't know your lipid related risk.
+
+544
+00:36:05,760 --> 00:36:09,720
+Yeah we're going to upset a lot of doctors here because I've already and you've already
+
+545
+00:36:09,720 --> 00:36:14,280
+been in the business of that where people will hear you talk or something or read something
+
+546
+00:36:14,280 --> 00:36:16,980
+you've written or something I've written and they'll go to their doctor and say hey
+
+547
+00:36:16,980 --> 00:36:22,820
+I want my LDL P or my ApoB and the doctor says that's nonsense you know fill in the
+
+548
+00:36:22,820 --> 00:36:26,780
+blank TBD blah blah blah blah blah and it puts patients in an awkward position.
+
+549
+00:36:26,780 --> 00:36:30,580
+I mean I really feel bad about this because especially on depending on what country they
+
+550
+00:36:30,580 --> 00:36:34,580
+live in at least in the United States I think anybody can go to lab core directly and get
+
+551
+00:36:34,580 --> 00:36:39,340
+the assay without a physician's prescription but it upsets me I think the patients even
+
+552
+00:36:39,340 --> 00:36:43,500
+have to do that it upsets me that something that is such an important metric.
+
+553
+00:36:43,560 --> 00:36:48,840
+I would list LDL P as one of the five most important metrics I've talked about this that
+
+554
+00:36:48,840 --> 00:36:55,900
+every patient should know their LDL P or ApoB and that that wouldn't be sort of fundamentally
+
+555
+00:36:55,900 --> 00:37:00,700
+a part of screening somebody for disease and that a patient would get into a position where
+
+556
+00:37:00,700 --> 00:37:05,160
+they're having to argue with their doc about that is disconcerting and look hopefully this
+
+557
+00:37:05,160 --> 00:37:10,800
+is sort of why I do these podcasts is I think it's just as much to help physicians say look
+
+558
+00:37:10,800 --> 00:37:13,780
+just because I didn't learn this in my training doesn't mean I don't need to sort of pick
+
+559
+00:37:13,780 --> 00:37:14,780
+it up today.
+
+560
+00:37:14,780 --> 00:37:22,700
+Amen and I'm sad there's so much what I consider inferior lipid care being administered by
+
+561
+00:37:22,700 --> 00:37:27,420
+healthcare professionals in the United States but there's nothing I can do about that is
+
+562
+00:37:27,420 --> 00:37:32,500
+try and teach them one at a time or expose my writings and other people's writings and
+
+563
+00:37:32,500 --> 00:37:39,700
+the data on this as much as I can and is tragic with public health problem number one or number
+
+564
+00:37:39,700 --> 00:37:47,720
+two that this is lag so far behind in part retarded by guidelines and third party payers
+
+565
+00:37:47,720 --> 00:37:53,440
+who just don't want to pay for different metrics and other reasons behind it but a big part
+
+566
+00:37:53,440 --> 00:37:55,200
+is they don't understand it.
+
+567
+00:37:55,200 --> 00:37:57,280
+You have had cardiologists call you up.
+
+568
+00:37:57,280 --> 00:38:04,240
+I have had being recognized as maybe in northern New Jersey one of the hey hey Tom you know
+
+569
+00:38:04,240 --> 00:38:09,360
+you told my patient that you know what I said about LDL cholesterol doesn't matter
+
+570
+00:38:09,360 --> 00:38:14,060
+because you've done an LDL particle and you put you know not everybody believes that or
+
+571
+00:38:14,060 --> 00:38:16,060
+they give you some horseshit like that.
+
+572
+00:38:16,060 --> 00:38:24,420
+I said I'm on my desk hey doctor would you like 200 manuscripts delivered to your desktop
+
+573
+00:38:24,420 --> 00:38:29,580
+tomorrow I'll do it if you promise me you'll read them every single so you know it is what
+
+574
+00:38:29,580 --> 00:38:30,580
+it is.
+
+575
+00:38:30,580 --> 00:38:35,880
+I think the internet is help people in certain ways I think the internet is confuse people
+
+576
+00:38:35,880 --> 00:38:40,860
+in a lot of ways too because there are people out there who what we just talked about it's
+
+577
+00:38:40,860 --> 00:38:46,380
+pretty much fat who become deniers of the particle concentrations because whatever else
+
+578
+00:38:46,380 --> 00:38:52,180
+they're exposing as their way to cure heart disease somehow aggravates LDL particle count
+
+579
+00:38:52,180 --> 00:38:57,260
+they just choose to ignore it and look are there people with high LDL particle counts
+
+580
+00:38:57,260 --> 00:39:01,660
+who don't somehow yeah they're out there but the overwhelming amount of literature
+
+581
+00:39:01,660 --> 00:39:08,700
+says the odds or if you keep this for 20-30 years you're going down until somebody does
+
+582
+00:39:08,700 --> 00:39:14,340
+a serious study showing there are people who can escape this you're playing with fire to
+
+583
+00:39:14,340 --> 00:39:19,380
+ignore an elevated LDL particle count APOB I don't have a way of identifying who who
+
+584
+00:39:19,380 --> 00:39:23,740
+might have a high metric there is somehow protected against atherosclerosis.
+
+585
+00:39:23,740 --> 00:39:27,540
+Well I have lots of thoughts on this myself but and maybe we'll come back to it but I
+
+586
+00:39:27,540 --> 00:39:32,940
+and I think we've gone back and forth we had this fun email string a while ago with you
+
+587
+00:39:32,940 --> 00:39:37,780
+Ron me Alan I think Josh Knowles was on it as well where we just you guys were the first
+
+588
+00:39:37,780 --> 00:39:43,180
+people to be exposed to my new model which is the necessary but not sufficient sufficient
+
+589
+00:39:43,180 --> 00:39:47,940
+but not necessary neither necessary nor sufficient causalities because you can actually have
+
+590
+00:39:47,940 --> 00:39:53,280
+causal metrics that fit each of those buckets but we'll we'll digress and come back to that
+
+591
+00:39:53,280 --> 00:39:58,560
+I want to go back to one semantic thing you use the word sterile a lot I'm very comfortable
+
+592
+00:39:58,560 --> 00:40:03,440
+with it I want to make sure the listener knows the difference between a sterile a stan all
+
+593
+00:40:03,440 --> 00:40:07,520
+a zoo sterile a phytosterol we're gonna I think we're gonna touch on this later so let's
+
+594
+00:40:07,520 --> 00:40:12,920
+just hammer out the semantics right well cholesterol of course is the molecule we all fare because
+
+595
+00:40:12,920 --> 00:40:18,680
+it's been drummed into our head that cholesterol in an arterial wall is where what is plaque
+
+596
+00:40:18,680 --> 00:40:25,160
+it's a cholesterol core and that cholesterol can cause impaired vascular biology resulting
+
+597
+00:40:25,160 --> 00:40:31,040
+in clinical events so what is cholesterol and we certainly in Peter's notes here you're
+
+598
+00:40:31,040 --> 00:40:36,920
+gonna have pictures of the cholesterol structure and it's got four rings it's an aromatic compound
+
+599
+00:40:36,920 --> 00:40:45,440
+and off the fifth ring is a little tail sticking out which is a carbon chain so the precursor
+
+600
+00:40:45,440 --> 00:40:53,560
+molecule is called the storane so you have the the rings the four rings and you may or may not
+
+601
+00:40:53,560 --> 00:41:00,760
+have this tail sticking off of the 17th carbon in the fourth ring so all of the bonds are saturated
+
+602
+00:41:00,760 --> 00:41:09,800
+that is called the storane so if you unsaturated one double bond in that storane it's called the
+
+603
+00:41:10,280 --> 00:41:17,800
+storane and if you then stick a hydroxy group on the third carbon in the first ring it's called the
+
+604
+00:41:17,800 --> 00:41:24,920
+storol it's an alcohol because you got a hydroxy group now sticking out hydroxy being OH oxygen
+
+605
+00:41:24,920 --> 00:41:32,800
+yeah excuse me correct so you'll see the pictures in my illustrated diagrams there and that little
+
+606
+00:41:32,800 --> 00:41:38,800
+tail that sticks out on the other end of the molecule has a lot to do with what exactly type
+
+607
+00:41:38,800 --> 00:41:45,680
+of storol that is and how it will function in a cell or in a cell membrane or so so cholesterol
+
+608
+00:41:45,680 --> 00:41:51,680
+would be this four ring structure three of the rings have six carbons in it the fourth ring has
+
+609
+00:41:51,680 --> 00:41:58,240
+five carbons in it you have this tail sticking off of carbon 17 it goes out and cholesterol that's
+
+610
+00:41:58,240 --> 00:42:04,920
+a totally saturated tail every bond in it is the saturated fatty acid and then on the three position
+
+611
+00:42:05,280 --> 00:42:12,720
+you'd have this OH group the hydroxy group by the way since OH is sort of soluble in water that part
+
+612
+00:42:12,720 --> 00:42:17,920
+of the cholesterol molecule is soluble in water whereas that carbon chain sticking out so pure
+
+613
+00:42:17,920 --> 00:42:24,320
+lipid that's all carbon that's not soluble in water so when cholesterol does exist in a surface
+
+614
+00:42:24,320 --> 00:42:31,280
+membrane like a cell membrane or lipoprotein it's it orients itself so the hydroxy group is sticking
+
+615
+00:42:31,280 --> 00:42:36,800
+out in that allopathic tail is sticking into the core of the particle or so now the cholesterol
+
+616
+00:42:36,800 --> 00:42:41,600
+it's in the middle of the particle oh that the hydroxy group can't be in the middle of the
+
+617
+00:42:41,600 --> 00:42:50,920
+particle that's water so they stick a really long chain fatty acid they replace the hydroxy group
+
+618
+00:42:50,920 --> 00:42:56,840
+with a long chain or really any chain fatty acid mostly it's a long chain so you a storified
+
+619
+00:42:56,840 --> 00:43:01,240
+cholesterol remember I told you attaching a fatty acid to something is called the stir so
+
+620
+00:43:01,240 --> 00:43:07,160
+cholesterol which is the active form of cholesterol that can be changed into a hormonal bile salt or
+
+621
+00:43:07,160 --> 00:43:15,040
+function in a cell membrane becomes a storage form of cholesterol or a lipid core transportable
+
+622
+00:43:15,040 --> 00:43:23,160
+form of cholesterol called cholesterol now it's YL it's not OL ester and we abbreviate that as CE so
+
+623
+00:43:23,240 --> 00:43:30,640
+free cholesterol is either going to be abbreviated as a C or an FC and cholesterol ester it's very
+
+624
+00:43:30,640 --> 00:43:35,280
+difficult if I wanted to if I'm an adrenal gland and I got some cholesterol ester stored and I want
+
+625
+00:43:35,280 --> 00:43:40,040
+to make a hormone because I need cluster I have to deesterify that cholesterol ester to free
+
+626
+00:43:40,040 --> 00:43:44,920
+cholesterol if the liver has cholesterol ester storage poles and it does and it wants to make a
+
+627
+00:43:44,920 --> 00:43:50,680
+bile acid it has to deesterify cholesterol ester cholesterol is stored in huge quantities
+
+628
+00:43:50,680 --> 00:43:56,080
+and fat cells as cholesterol ester and it would have to be deesterified to be utilized to do
+
+629
+00:43:56,080 --> 00:44:00,520
+something else or so one little story I'll just tell before we get to the stan halls and all the
+
+630
+00:44:00,520 --> 00:44:06,280
+other stuff is one of my prouder moments in front of Bob Kaplan was when you sent an email like this
+
+631
+00:44:06,280 --> 00:44:11,360
+a couple months ago you sent this an email and you said see if you can spot the error in this figure
+
+632
+00:44:11,360 --> 00:44:17,320
+and it was like a figure that had a million things on it and I was like oh I'm not getting up until I
+
+633
+00:44:17,320 --> 00:44:23,680
+figure out where the mistake is and sure enough somewhere in there it took me about 10 minutes the
+
+634
+00:44:23,680 --> 00:44:27,640
+illustrator had written because this was out of a paper something they had written cholesterol
+
+635
+00:44:27,640 --> 00:44:35,040
+OL ester instead of cholesterol YL ester and and and when I responded to you and you responded in
+
+636
+00:44:35,040 --> 00:44:41,360
+the affirmative I was like I've got my stripes and that figure he's talking about came out of one of
+
+637
+00:44:41,360 --> 00:44:46,280
+the productions for the company that I work for we develop educational pieces for physicians and I
+
+638
+00:44:46,320 --> 00:44:51,960
+obviously drew it in labeled it but you send it off to medical illustrator who formats it for the
+
+639
+00:44:51,960 --> 00:44:58,240
+PDF or whatever and cholesterol cholesterol and they make the mistake even though I sent in the
+
+640
+00:44:58,240 --> 00:45:02,160
+picture where it was properly labeled because I had a heart attack the first time I saw and we've
+
+641
+00:45:02,160 --> 00:45:07,640
+since changed that but somehow Peter got a hold of an older version or something that probably even I
+
+642
+00:45:07,640 --> 00:45:13,320
+sent out and didn't recognize initially but yeah so it is cholesterol ester anything that's
+
+643
+00:45:13,320 --> 00:45:19,080
+esterified becomes a YL so you'll see lipids this discussion illustrates one of the challenges of
+
+644
+00:45:19,080 --> 00:45:25,960
+lipidology which is I find this to be certainly among the two or three most complicated subject
+
+645
+00:45:25,960 --> 00:45:30,360
+matters I've ever tried to master and again no one masters anything in life I mean that's sort of
+
+646
+00:45:30,360 --> 00:45:37,600
+the beauty of this you haven't mastered this but this journey of trying to learn it I am constantly
+
+647
+00:45:37,600 --> 00:45:43,800
+humbled by how hard it is it's just so goddamn complicated well that's true especially you want
+
+648
+00:45:43,800 --> 00:45:48,600
+to take it to the nth degree but you need to invest yourself in some degree of education to
+
+649
+00:45:48,600 --> 00:45:54,840
+at least be competent in today's a world or so so you have to know some of this stuff well and
+
+650
+00:45:54,840 --> 00:46:00,160
+that's something you have to be willing to learn some of this chemistry I mean you have to steep
+
+651
+00:46:00,160 --> 00:46:06,920
+yourself in biochemistry and understand the because the significance becomes enormous one double bond
+
+652
+00:46:07,040 --> 00:46:12,960
+in one of these things completely changes its properties and not to say that that's not true
+
+653
+00:46:12,960 --> 00:46:19,640
+in general in biochemistry but it's much easier to talk about blood pressure or to talk about
+
+654
+00:46:19,640 --> 00:46:26,000
+elevated levels of uric acid or insulin or glucose without getting into that level of minutia it is
+
+655
+00:46:26,000 --> 00:46:31,120
+not possible to discuss lipids without that that is the problem with a lot of people are spouting
+
+656
+00:46:31,120 --> 00:46:35,520
+off on the internet and elsewhere but always they just don't have an understanding of the
+
+657
+00:46:35,520 --> 00:46:40,880
+complexity of how this all works and fits together and why what you just said is wrong
+
+658
+00:46:40,880 --> 00:46:47,040
+because there's something going on stoichiometrically that you haven't even considered or so to finish
+
+659
+00:46:47,040 --> 00:46:53,640
+the sterile so a steroid is a sterile it's got another keto group stuck on it some place look
+
+660
+00:46:53,640 --> 00:46:59,360
+at all the hormones you'll see a double bond with oxygen attached but a stan all is you take and
+
+661
+00:46:59,360 --> 00:47:05,880
+let's take cholesterol as a stan all or a sterile and remember cholesterol at the third carbons in
+
+662
+00:47:05,880 --> 00:47:11,560
+OH group there's a double bond at carbon 5 to 6 in their first ring and then there's that tail
+
+663
+00:47:11,560 --> 00:47:20,120
+at carbon 17 if I desaturated cholesterol the double bond at C5 and 6 disappears that's called
+
+664
+00:47:20,120 --> 00:47:28,280
+cholesterol cholesterol it's a stan all a stan all essentially a saturated sterile changes the
+
+665
+00:47:28,280 --> 00:47:33,800
+characteristics of that my cholesterol free cholesterol can be readily absorbed in your
+
+666
+00:47:33,800 --> 00:47:40,960
+intestinal wall stanels cannot be absorbed and it's kind of funny our liver to get rid of our
+
+667
+00:47:40,960 --> 00:47:46,320
+body to get rid of cholesterol but sends it to the liver the liver sends it through the bile to
+
+668
+00:47:46,320 --> 00:47:53,080
+the intestinal pool is free cholesterol and your intestines more than capable of just reabsorbing
+
+669
+00:47:53,080 --> 00:47:59,240
+that cholesterol that delivers trying to evict except our little friendly microbes down there
+
+670
+00:47:59,240 --> 00:48:06,680
+in the gut convert a ton of the biliaryx redo cholesterol into a stan all called cholesterol
+
+671
+00:48:06,680 --> 00:48:13,760
+or there's an isoform of it called coprosten al it's a stan all cannot be reabsorbed so you poop
+
+672
+00:48:13,760 --> 00:48:19,560
+it away and that's how the body gets rid of cholesterol it changes a lot of it to a stan all
+
+673
+00:48:19,560 --> 00:48:25,360
+anthropologists have been measuring specimens for coprosten all that tells them humans live there
+
+674
+00:48:25,360 --> 00:48:34,080
+because they find that in certain specimens and that human had to excrete it you know so a stan all
+
+675
+00:48:34,080 --> 00:48:40,680
+is simply a saturate that adds other applications because hey if stan all cannot be absorbed and I
+
+676
+00:48:40,720 --> 00:48:46,880
+would like to have a metric of whether you're absorbing cholesterol or not if I measured
+
+677
+00:48:46,880 --> 00:48:54,440
+cholesterol in your blood shouldn't be there to any appreciable degree because you can't absorb it
+
+678
+00:48:54,440 --> 00:49:01,240
+if it is elevated in your blood for whatever reason and we now know why your intestine just
+
+679
+00:49:01,240 --> 00:49:08,960
+absorbed that cholesterol and if it's absorbing cholesterol which it tends not to what is it
+
+680
+00:49:08,960 --> 00:49:16,960
+absorbing in humongous excess cholesterol so cholesterol serves as a biomarker of are you or
+
+681
+00:49:16,960 --> 00:49:21,840
+are you not or what degree of cholesterol absorption is going on in your intestines and
+
+682
+00:49:21,840 --> 00:49:28,200
+the last thing Peter did mention he said phytosterols he called it a zoosterol I call
+
+683
+00:49:28,200 --> 00:49:33,720
+it zoology so I call it a zoosterol so I don't know who's right on that I'm gonna go with your
+
+684
+00:49:33,720 --> 00:49:39,080
+right yeah I'm just gonna give you that and I do have a degree in zoology when I went to
+
+685
+00:49:39,080 --> 00:49:44,320
+college and I was one of my majors and you're wearing just so everyone knows you're wearing
+
+686
+00:49:44,320 --> 00:49:48,560
+your Rutgers t-shirt right now as well from college which is perfect I wouldn't be here without
+
+687
+00:49:48,560 --> 00:49:53,500
+the euro Rutgers that's medical school is inconsequential I learned everything in Rutgers
+
+688
+00:49:53,500 --> 00:50:01,080
+pre-med at least the biochemistry and the physiology anyway so phytosterols what plants
+
+689
+00:50:01,080 --> 00:50:06,000
+are full of stearls their cell membranes are not cholesterol those there are some plants that do
+
+690
+00:50:06,000 --> 00:50:10,760
+have cholesterol and most do not but they have stearls that if I show you here's cholesterol
+
+691
+00:50:10,760 --> 00:50:14,360
+and here's what's in this plant you would think you're showing me a lot of cholesterol but if
+
+692
+00:50:14,360 --> 00:50:19,760
+you look closely you'd see that tail that's coming out of carbon-17 is constructed a little
+
+693
+00:50:19,760 --> 00:50:25,440
+differently or wait a minute if there's another double bond in one of those rings in there so
+
+694
+00:50:25,440 --> 00:50:30,840
+it looks like cholesterol but it's close but it's really not and since it was made in a plant
+
+695
+00:50:31,080 --> 00:50:36,960
+collectively let's call them phytosterols but we hopefully all eat a few vegetables during the day
+
+696
+00:50:36,960 --> 00:50:43,760
+so you're eating phytosterols unless you're a total non you don't need any vegetables and they get in
+
+697
+00:50:43,760 --> 00:50:50,000
+even in other things even you're eating shrimp and stuff fishy phytoplankton and stuff so there's
+
+698
+00:50:50,000 --> 00:50:57,440
+phytosterols and bunch of foods but your body knows the only sterile I need to function is
+
+699
+00:50:57,440 --> 00:51:04,360
+cholesterol I don't need any plant stearls why would I want a human to ever absorb the plant stearl
+
+700
+00:51:04,360 --> 00:51:10,360
+they would get in a way could they even be toxic you know so evolution must have figured out they
+
+701
+00:51:10,360 --> 00:51:18,680
+were so evolution made sure our intestine did not absorb phytosterols why to me it tells me there's
+
+702
+00:51:18,680 --> 00:51:23,520
+a certain level of which phytosterols are toxic well this becomes interesting because I had a
+
+703
+00:51:23,520 --> 00:51:29,240
+disagreement with a physician recently who jointly takes care of one of my patients because
+
+704
+00:51:29,240 --> 00:51:34,240
+the physician wanted to put this patient on phytosterol supplements because this physician
+
+705
+00:51:34,240 --> 00:51:40,080
+became convinced that it was such an elegant way to lower cholesterol it turns out about 10 to 15
+
+706
+00:51:40,080 --> 00:51:45,640
+percent of people in whom you give massive doses of phytosterols you do indeed lower their cholesterol
+
+707
+00:51:45,640 --> 00:51:51,360
+this physician felt that was a good idea I felt otherwise for reasons you'll explain I'm sure and
+
+708
+00:51:51,360 --> 00:51:58,600
+needless to say after a long discussion we agreed to stop the phytosterols yes and again to me the
+
+709
+00:51:58,600 --> 00:52:03,440
+best argument with that is if your evolution thought we need a phytosterols your intestine
+
+710
+00:52:03,440 --> 00:52:08,120
+would be encouraged to absorb phytosterols if somehow they brought some miraculous property
+
+711
+00:52:08,120 --> 00:52:12,880
+to the human body that enhance survival you'd want them in there and everybody's now plants
+
+712
+00:52:12,880 --> 00:52:17,360
+carry a lot of great stuff we're only talking about the sterile it's in the plant the phytosterol
+
+713
+00:52:17,360 --> 00:52:23,320
+other ingredients in plants do get absorbed and probably are good for you but not phytosterols
+
+714
+00:52:23,320 --> 00:52:27,840
+well there's data to show that phytosterols on a per molecule basis are probably more
+
+715
+00:52:27,840 --> 00:52:33,160
+atherogenic than cholesterol there certainly is that data there but again the people who just
+
+716
+00:52:33,160 --> 00:52:38,960
+so focused on lowering LDL cholesterol don't even entertain it won't even look at it or you dismiss
+
+717
+00:52:38,960 --> 00:52:43,800
+it as nonsense you know and it's never going to be studied in a proper type of trial that you'd
+
+718
+00:52:43,800 --> 00:52:48,880
+have to study it in you know so and as Peter just hinted if you're not a hyper absorber of
+
+719
+00:52:48,880 --> 00:52:53,200
+sterols probably giving a phytosterol supplement is good because it does compete with cholesterol
+
+720
+00:52:53,200 --> 00:52:59,360
+firms so you will absorb less cholesterol and maybe that's one way of lowering LDL cholesterol
+
+721
+00:52:59,360 --> 00:53:04,680
+but I would say who cares but it you would get a little bit of APO B reduction in certain people
+
+722
+00:53:04,680 --> 00:53:08,520
+with that but if you're a hyper absorber I'm polluting your body with something that evolution
+
+723
+00:53:08,520 --> 00:53:14,480
+didn't want in your body why would I do that so I beg anybody who's a big advocate of supplementing
+
+724
+00:53:14,480 --> 00:53:20,520
+phytosterols please monitor phytosterols in the bloodstream that's how you identify oh my god
+
+725
+00:53:20,520 --> 00:53:25,200
+you're the one person I absolutely should not be given this to and I can send you a lot of data
+
+726
+00:53:25,200 --> 00:53:31,240
+Peter's talking about showing you phytosterol toxicity in humans and stuff so and when we say
+
+727
+00:53:31,240 --> 00:53:36,040
+someone's a hyper absorber I mean you and I have both written about this ad nauseam so we'll link
+
+728
+00:53:36,040 --> 00:53:41,240
+to it rather than get into a diatribe but we're basically talking about and your analogy is my
+
+729
+00:53:41,240 --> 00:53:46,320
+favorite I've always borrowed it outright stole it I'd hopefully I've always given you credit you
+
+730
+00:53:46,320 --> 00:53:51,380
+got a ticket taker in the bar Neiman pixie one like one transporter he lets everybody in if you
+
+731
+00:53:51,380 --> 00:53:55,720
+can fill in the door yeah he lets any sterile and if you can fit through the door you're coming in
+
+732
+00:53:55,720 --> 00:54:01,480
+but then you've got this ATP binding cassette g5 g8 and that's the bouncer that's the enforcer
+
+733
+00:54:01,480 --> 00:54:06,520
+that's the one who in theory probably informed by Alex are is making some sort of decision about
+
+734
+00:54:06,520 --> 00:54:11,800
+you're a good guy you're a bad guy you got to go you got to stay when someone is genetically a
+
+735
+00:54:11,800 --> 00:54:19,040
+hyper absorber is the quote-unquote defect more on the the ticket taker or on the bouncer turns out
+
+736
+00:54:19,040 --> 00:54:25,560
+that it's both because now when we talk about absorption let's face it there's a million molecules
+
+737
+00:54:25,560 --> 00:54:29,800
+that can be absorbed by your intestine we're talking about sterile absorption right now and
+
+738
+00:54:29,800 --> 00:54:36,080
+cholesterol is a key ingredient for human life so evolution not only gave every cell in your body
+
+739
+00:54:36,080 --> 00:54:41,960
+the wherewithal to synthesize cholesterol it allowed your intestine to absorb cholesterol
+
+740
+00:54:41,960 --> 00:54:47,640
+because it certainly didn't want any cellular deficiency of cholesterol which has nothing to
+
+741
+00:54:47,640 --> 00:54:53,240
+do with plasma cholesterol by the way you can have an LDL C of three and have perfect cellular
+
+742
+00:54:53,240 --> 00:55:02,840
+cholesterol metrics so as evidenced by the hyper functioning PCSK9 patients so this Neiman
+
+743
+00:55:02,840 --> 00:55:11,720
+pixi one like protein in our proximal intestine recognizes sterols and there's a sterile domain
+
+744
+00:55:11,720 --> 00:55:17,000
+on here that binds tightly to sterols but it binds most tightly to cholesterol because cholesterol
+
+745
+00:55:17,000 --> 00:55:23,720
+has that structure it has a less avid binding to a phytosterol and it has minimal binding to a
+
+746
+00:55:23,720 --> 00:55:29,400
+stan all now ultimately it'll bind to all of them but cholesterol gets the first preference to be
+
+747
+00:55:29,400 --> 00:55:35,480
+pulled into the enterocyte xenosterol as I call it rather than phytosterol xenon meaning other
+
+748
+00:55:35,480 --> 00:55:42,440
+star all a star all other than cholesterol I would get in secondarily and a stan all they get in but
+
+749
+00:55:42,440 --> 00:55:50,200
+at much less concentrations so now the enterocyte has this sterile you just absorbed now the
+
+750
+00:55:50,200 --> 00:55:55,560
+enterocytes position is I gotta get this to the rest of the body so I have to take this sterile
+
+751
+00:55:55,560 --> 00:56:01,640
+and put it in a chylomicron that I'm gonna make or I could also efflux any sterile out to a baby HDL
+
+752
+00:56:01,640 --> 00:56:07,320
+that's looking for sterols I can lipidate an HDL so that's how sterols get out of the intestine
+
+753
+00:56:07,320 --> 00:56:13,400
+or the intestine can say we don't need any more sterols I'm getting rid of you and that's where
+
+754
+00:56:13,400 --> 00:56:20,920
+the bouncer comes in so these ATP binding cassette transporters ATP binding cassette transporters are
+
+755
+00:56:20,920 --> 00:56:27,640
+a sterile efflux membrane transporter so and this is important to distinguish because and again it
+
+756
+00:56:27,640 --> 00:56:32,520
+might be confusing but the diagrams will make it easier there's two effluxes you've referred to
+
+757
+00:56:32,520 --> 00:56:38,680
+there's an efflux on luminal side and then an efflux back into the body both of them are leaving
+
+758
+00:56:38,680 --> 00:56:43,560
+an enterocyte one ends up leaving the body if it goes out the ATP binding is that it's going into
+
+759
+00:56:43,560 --> 00:56:49,320
+the lumen it's being excreted with stool if you efflux on the other side of the cell into either
+
+760
+00:56:49,320 --> 00:56:54,200
+the chylomicron or into the HDL you're actually putting it right back into circulation and that
+
+761
+00:56:54,200 --> 00:56:59,160
+is such a crucial point here I'm glad you elucidated on that more so yeah remember we're talking about
+
+762
+00:56:59,160 --> 00:57:04,680
+the enterocyte like the liver and enterocytes have a lot of things they can do with sterols
+
+763
+00:57:04,680 --> 00:57:09,400
+so they can get rid of it or they can even use it remember enterocytes have cell membranes they
+
+764
+00:57:09,400 --> 00:57:15,160
+need some cholesterol for their own cell membranes and everything so they can ship it out a body needs
+
+765
+00:57:15,160 --> 00:57:22,120
+cholesterol in a chylomicron they can lipidate in HDL or they can return it to the lumen of the gut
+
+766
+00:57:22,200 --> 00:57:29,080
+where it'll go out your rear end so these abc g5 or ga transporters as you're called then it's a
+
+767
+00:57:29,080 --> 00:57:35,800
+heterodimer so you have one of each well efflux and they also have different affinities so unlike
+
+768
+00:57:35,800 --> 00:57:41,960
+the neem and pic which really wants cholesterol to come in less so phytostarols and not so stanols
+
+769
+00:57:41,960 --> 00:57:47,880
+which tells me evolution didn't want those other products in your body the abc transformer or
+
+770
+00:57:47,880 --> 00:57:55,320
+exporters they number one evict phytostarols first that's another evolutionary happenstance
+
+771
+00:57:55,320 --> 00:58:01,480
+to me that tells me the body evolution didn't want phytostarols in your damn body because why is it
+
+772
+00:58:01,480 --> 00:58:07,160
+giving you a phytostarol efflux protein in your intestine and the liver has it too just in case
+
+773
+00:58:07,160 --> 00:58:11,880
+a phytostarol ever makes it as far as the liver it gets evicted back to the bile it'll go back to
+
+774
+00:58:11,880 --> 00:58:19,000
+your intestine so second in line for exportation would be a stanol and third would be cholesterol
+
+775
+00:58:19,560 --> 00:58:28,520
+so your ability to absorb cholesterol is a happy working relationship between the expression of
+
+776
+00:58:28,520 --> 00:58:36,600
+your neem and pic c1 like protein and your abc g5 ga transporters so technically if you even had a
+
+777
+00:58:37,240 --> 00:58:41,480
+good normal degree of absorption but you couldn't evict any storals because you got a
+
+778
+00:58:41,480 --> 00:58:46,840
+loss of function of an abc g5 or g8 you're going to be a hyper absorber because then the only way
+
+779
+00:58:46,840 --> 00:58:52,360
+those storals can get out of the anthracite is in a column micron or in an HDL and by the way when
+
+780
+00:58:52,360 --> 00:58:58,120
+you do measure these phytostarols in the blood people it's like when you measure cholesterol in
+
+781
+00:58:58,120 --> 00:59:02,200
+the blood do you understand i've already told you where that cholesterol man it's the cholesterol
+
+782
+00:59:02,200 --> 00:59:09,400
+within all the lipoproteins so if i'm measuring cytosterol stig masterol campesterol which are
+
+783
+00:59:09,400 --> 00:59:15,640
+some of the names of the 50 phytosterols that are in our plant products what am i measuring
+
+784
+00:59:15,640 --> 00:59:22,360
+well since the vast majority of lipoproteins are LDLs i'm measuring LDL cytosterol LDL cholesterol
+
+785
+00:59:22,360 --> 00:59:27,880
+like i'm measuring LDL cholesterol so you're measuring there but god forbid that particle
+
+786
+00:59:27,880 --> 00:59:34,520
+invades an artery wall the sterols go with it and one last intriguing part of this story which
+
+787
+00:59:34,520 --> 00:59:38,920
+better put the fear of god of phytosterols into you that evolution didn't want it in
+
+788
+00:59:38,920 --> 00:59:43,080
+so it gave you a protein that will not absorb phytosterols if it's working right it gave you a
+
+789
+00:59:43,080 --> 00:59:49,640
+protein that immediately vix phytosterols but for any storol to go in a column micron what does it
+
+790
+00:59:49,640 --> 00:59:56,440
+have to be a storified how does the intestine storify cholesterol into cholesterol ester which
+
+791
+00:59:56,440 --> 01:00:02,760
+is what makes up a giant part of the core of a column micron there's an astarifying enzyme
+
+792
+01:00:02,760 --> 01:00:10,600
+acyl cholesterol acyltransferase a cat guess what is the favorite ligand for a cat cholesterol
+
+793
+01:00:10,600 --> 01:00:17,480
+guess what is not a favorite ligand for a cat phytosterols so they you just don't astarify
+
+794
+01:00:17,480 --> 01:00:21,720
+phytoster which retards them getting into your body and you know the real way to get in
+
+795
+01:00:22,280 --> 01:00:30,520
+that abca1 efflux transporter which is what lipidates a baby HDL parto it's not abcg5g8
+
+796
+01:00:31,160 --> 01:00:37,960
+abca1 exports storols into baby HDL and just for the listener again you're saying abc what you're
+
+797
+01:00:37,960 --> 01:00:43,240
+saying is ATP binding cassette so when they hear you say abc that's what you're referring to it's
+
+798
+01:00:43,240 --> 01:00:48,600
+an energy driven process so some of that phytosterols you're measuring in the blood are in HDL
+
+799
+01:00:48,600 --> 01:00:54,920
+particles also so that's the way they get in and i always make and you'd have to do a study improve
+
+800
+01:00:54,920 --> 01:01:00,040
+it we're going to be talking about HDL dysfunction suppose i measured phytosterols in your HDL and
+
+801
+01:01:00,040 --> 01:01:06,200
+it's very high it's probably a type of dysfunctional HDL particle you know so there's all sorts of
+
+802
+01:01:06,200 --> 01:01:10,840
+intriguing it would also you know not to get too esoteric but that would also suggest enterocyte
+
+803
+01:01:10,840 --> 01:01:15,640
+dysfunction because the enterocyte should also quote unquote know better that that's not the
+
+804
+01:01:15,640 --> 01:01:22,600
+direction of efflux i want it is but it's relying on the abcg5g8 to efflux it then it wouldn't even
+
+805
+01:01:22,600 --> 01:01:28,840
+get to an abca1 to efflux it on the other side and a cat is not going to starify it if it's all
+
+806
+01:01:28,840 --> 01:01:33,240
+being evicted really very little it would wind up being a starified and the last part of this
+
+807
+01:01:33,240 --> 01:01:39,160
+puzzle as peter thought you have a gut lumen side and you got a plasma side or a lymphatic side
+
+808
+01:01:39,160 --> 01:01:47,320
+which is where kalamikrons exit we probably talk about it somewhere today is this crazy process
+
+809
+01:01:47,320 --> 01:01:51,960
+they used to call reverse cholesterol transport which is another one of these idiotic terms that
+
+810
+01:01:51,960 --> 01:01:57,640
+should have disappeared a long time ago at least if you think it's mediated by solely by HDL high
+
+811
+01:01:57,640 --> 01:02:03,640
+density lipoproteins that's the part that's got to change a big pathway of how does the body get
+
+812
+01:02:03,640 --> 01:02:07,800
+rid of cholesterol we're all told oh it brought it back to the liver and the liver will get rid of
+
+813
+01:02:07,800 --> 01:02:13,640
+it in a certain way guess what a ton of it is just brought directly right back to the intestine
+
+814
+01:02:13,640 --> 01:02:19,160
+and the cholesterol in the particle or the particle itself finds its way into the enterocyte
+
+815
+01:02:19,160 --> 01:02:25,800
+through and then the enterocyte has another supply of sterols all of a sudden that it didn't absorb
+
+816
+01:02:25,800 --> 01:02:31,560
+and so what it then will do with that sterile what it wants it can efflux it through abc g5g
+
+817
+01:02:31,560 --> 01:02:38,360
+into your gut lumen and you can poop it away so the process of a lipoprotein or some other
+
+818
+01:02:38,360 --> 01:02:45,160
+trafficker albumin red blood cells bringing cholesterol back to the small intestine bypassing
+
+819
+01:02:45,160 --> 01:02:53,240
+the liver gets right out into your stool is called trans intestinal cholesterol efflux abbreviated as
+
+820
+01:02:53,240 --> 01:02:58,840
+tice and it's a major reverse cholesterol transport pathway now do we have a sense because
+
+821
+01:02:58,840 --> 01:03:03,160
+we're going to talk about direct and indirect rct in a moment i think that might as well this is
+
+822
+01:03:03,160 --> 01:03:09,640
+as good a foray into that as any do you have a sense of how much cholesterol is being reverse
+
+823
+01:03:09,640 --> 01:03:15,320
+transported so to speak through tice versus the sum total of direct and non-direct reverse
+
+824
+01:03:15,320 --> 01:03:20,600
+cholesterol transport yeah this has been studied even dynamically but you know the real small
+
+825
+01:03:20,600 --> 01:03:27,320
+studies and it probably varies individually depending on the complexity of your lipid and
+
+826
+01:03:27,320 --> 01:03:33,640
+lipoprotein transportation systems or so some in some people it's probably 20 percent and other
+
+827
+01:03:33,640 --> 01:03:40,280
+people it's been reported as high as 60 percent so it varies a lot but it's a major player it's not
+
+828
+01:03:40,280 --> 01:03:46,440
+this infinitesimal minor baby pathway that's inconsequential except in some rat in a laboratory
+
+829
+01:03:46,440 --> 01:03:52,520
+or something it's this has been proven in humans now they're i just read it's part of the review
+
+830
+01:03:52,520 --> 01:03:58,440
+process and a really cool article coming out in a journal clinical lipidology where because of some
+
+831
+01:03:58,440 --> 01:04:02,920
+biliary surgery the guy had the only way cholesterol gets out of this person's body was through the
+
+832
+01:04:02,920 --> 01:04:09,720
+intestine and he did so he shows you the body can get rid of cholesterol without a biliary system how
+
+833
+01:04:09,720 --> 01:04:13,880
+many articles do you review a year there's two things when you're an associate editor
+
+834
+01:04:14,520 --> 01:04:21,480
+the main editor will say here here's a submitted paper do you think this is pretty good if so send
+
+835
+01:04:21,480 --> 01:04:26,200
+it out to four or five reviewers they will send their review to you and then you make your decision
+
+836
+01:04:26,200 --> 01:04:31,880
+and send it to me and i'll make the ultimate decision but then also i'm also just a reviewer
+
+837
+01:04:31,880 --> 01:04:36,280
+where another associate editor would say i think tom knows a lot about this subject i'll ask him
+
+838
+01:04:36,280 --> 01:04:43,000
+would he please review this article to me so uh i don't know i probably get about 15 articles a year
+
+839
+01:04:43,080 --> 01:04:48,520
+where i'm the associate editor and probably double that where you're one of the reviewers are just
+
+840
+01:04:48,520 --> 01:04:53,880
+one of several reviewers or so but that's still about 50 papers a year that are coming across
+
+841
+01:04:53,880 --> 01:04:59,480
+and i am blessed at my stage of the game to have a job where i do have i don't have to see patients
+
+842
+01:04:59,480 --> 01:05:05,640
+anymore i'm not traveling throughout the united states a hundred times a year on flights doing
+
+843
+01:05:05,640 --> 01:05:12,600
+lectures here they're in everywhere so i am blessed in my current position or my true health
+
+844
+01:05:12,600 --> 01:05:19,560
+diagnostic peter probably when you hear this the first time you'll get a list of my who i work for
+
+845
+01:05:19,560 --> 01:05:24,600
+and who i don't that's the only company i work for nowadays and i'm their scientific academic
+
+846
+01:05:24,600 --> 01:05:31,000
+advisor so my job is to stay on top of the literature know all this stuff and explain it
+
+847
+01:05:31,000 --> 01:05:36,040
+so i have the freedom every day to spend time reading and edging and part of my education
+
+848
+01:05:36,600 --> 01:05:41,880
+anybody who's a reviewer or an editor with other you'll learn a lot doing that because i i don't
+
+849
+01:05:41,880 --> 01:05:45,880
+know everything that's sent to me for review but i'll sure as heck know where to go and get well
+
+850
+01:05:45,880 --> 01:05:50,840
+there's a small group of us that are very lucky we're having dinner with jamie underberg tonight
+
+851
+01:05:50,840 --> 01:05:55,400
+but you know jamie said there's like this group of like 10 people that you always send out the
+
+852
+01:05:55,400 --> 01:06:01,400
+most interesting papers to and about a year ago i had forwarded a number of these onto bob
+
+853
+01:06:01,400 --> 01:06:07,720
+caplin and he was like hey can you put me on this email too and i i mean we'll have to think about a
+
+854
+01:06:07,720 --> 01:06:13,000
+way for you to create a special group where because it strikes me that there's a broader
+
+855
+01:06:13,000 --> 01:06:17,960
+group of people who would actually like to get the once a week email from tom with the most
+
+856
+01:06:17,960 --> 01:06:23,080
+interesting lipid paper i've read this week yeah i think the best way of doing that is
+
+857
+01:06:23,640 --> 01:06:29,400
+somehow contacting me at dr lipid or so i mean you put a lot of this stuff out on twitter yeah
+
+858
+01:06:29,400 --> 01:06:34,360
+i do so you can research it but you don't get the commentary because your emails are sometimes so
+
+859
+01:06:34,360 --> 01:06:38,920
+great because what you'll do is you'll say look i know all of you aren't going to read this 12 page
+
+860
+01:06:38,920 --> 01:06:45,400
+paper here's like a 300 word summary of what you would learn and then that like for me to read that
+
+861
+01:06:45,400 --> 01:06:51,880
+then open the paper it's like it's quick and it's just the number one i really don't want to get
+
+862
+01:06:51,960 --> 01:06:56,360
+i don't know how many people listen to peter's podcast but it's immense i don't want 4 000 emails
+
+863
+01:06:56,360 --> 01:07:04,200
+to mars and there's two things as part of that email one would be my interpretation of something
+
+864
+01:07:04,200 --> 01:07:10,280
+which is fine that's day springs of no but maybe we can i can attach pdfs to it that i might to an
+
+865
+01:07:10,280 --> 01:07:15,000
+isolated friend yeah because of copyrights yeah yeah that's that's that's probably the bigger issue
+
+866
+01:07:15,000 --> 01:07:21,480
+that's part of an issue also so if it's open access great and if it is i've probably tweeted it and
+
+867
+01:07:22,040 --> 01:07:27,640
+you best bet and look people aren't afraid to ask me questions i mean a lot of them are asking
+
+868
+01:07:27,640 --> 01:07:32,760
+i and i ignore them but i will answer it my twitter followers no you're legitimate no
+
+869
+01:07:33,320 --> 01:07:40,360
+either direct message you yeah yeah all right so if i don't then uh there's a reason okay so let's
+
+870
+01:07:40,360 --> 01:07:46,760
+get back to the business of lipids here so we've done a pretty good job explaining one side of the
+
+871
+01:07:46,840 --> 01:07:52,280
+equation at how cholesterol is regulated a joe austerel would be cholesterol it's the only
+
+872
+01:07:52,280 --> 01:07:59,800
+sterile we the animal kingdom produces yes yeah yeah cholesterol is the joe yeah okay so the other
+
+873
+01:07:59,800 --> 01:08:05,400
+end of this regulatory pathway so we've described the reabsorption side pretty well there's a
+
+874
+01:08:05,400 --> 01:08:11,240
+synthetic side which you've alluded to obviously by making the statements that hey every cell in
+
+875
+01:08:11,240 --> 01:08:17,080
+the body can make cholesterol and most of the time it's sufficient for its needs obviously
+
+876
+01:08:17,080 --> 01:08:22,600
+exceptions well i'll let you explain what the exceptions are to that there are certain scenarios
+
+877
+01:08:22,600 --> 01:08:27,640
+and certain cells where they actually do need cholesterol from other tissues but let's just go
+
+878
+01:08:27,640 --> 01:08:32,520
+back to this synthetic stuff just briefly because i don't want to give anybody too much headache
+
+879
+01:08:33,320 --> 01:08:41,320
+how do we make cholesterol very complexly it's a multi-stage process 20 to 30 individual steps
+
+880
+01:08:41,320 --> 01:08:47,000
+where one molecule is changing into another into another and at the end of the day cholesterol is
+
+881
+01:08:47,000 --> 01:08:52,680
+made and it starts very small it's basically acetyl-CoA acetyl-CoA it's two carbon two carbon
+
+882
+01:08:52,680 --> 01:08:59,560
+chain molecule that keeps growing in length because cholesterol has 37 carbons in it so it has to grow
+
+883
+01:09:00,200 --> 01:09:06,200
+through much of that growth it's just a linear structure and at a certain point this linear
+
+884
+01:09:06,200 --> 01:09:12,920
+structure is long enough that it bends and changes into a sterile configuration lanoestral being the
+
+885
+01:09:12,920 --> 01:09:18,600
+first sterile that appears in the cholesterol synthesis chain by the way if i wanted a lab and
+
+886
+01:09:19,160 --> 01:09:26,280
+labs with liquid chromatography and mass spec could give you a lano cost a lano sterile
+
+887
+01:09:26,280 --> 01:09:30,680
+measurement and if it was up hey you're over synthesizing cholesterol that's not the one they
+
+888
+01:09:30,680 --> 01:09:37,560
+focus on they pick a more downstream a cholesterol precursor to do that but even you could pick some
+
+889
+01:09:37,560 --> 01:09:42,680
+of the earlier ones and they do serve as markers of cholesterol synthesis you know now the
+
+890
+01:09:42,680 --> 01:09:47,160
+cholesterol synthetic pathway is bifurcated tell me a little bit about that so once you
+
+891
+01:09:47,880 --> 01:09:54,920
+go through squalene and then that bends into a ring structure lanoestral has to become cholesterol
+
+892
+01:09:54,920 --> 01:10:00,840
+so lanoestral and there's cross talk between the pathways but it has one or two pathways that
+
+893
+01:10:00,840 --> 01:10:06,600
+it's going to go down and at the end of the day both pathways you'll wind up with cholesterol
+
+894
+01:10:06,600 --> 01:10:12,280
+and no good pathways don't come with names so they do what are the names of these pathways yeah
+
+895
+01:10:12,280 --> 01:10:19,560
+mr facetious yes well my favorite of course is the block pathway because if you die and i told
+
+896
+01:10:19,960 --> 01:10:26,680
+he was a twitter picture i put up recently he won the nobel prize for discovering this pathway
+
+897
+01:10:26,680 --> 01:10:31,160
+in cholesterol so it's probably important they give you a nobel prize for discovering this
+
+898
+01:10:31,160 --> 01:10:36,680
+pathway of cholesterol synthesis so the block pathway would be lanoestral goes through a lot
+
+899
+01:10:36,680 --> 01:10:46,600
+of precursors and becomes something called desmostral desmostral looks exactly like cholesterol
+
+900
+01:10:46,600 --> 01:10:53,320
+except in carbon 24 there's a double bond there's no double bonds in that tail that's on
+
+901
+01:10:53,320 --> 01:10:59,480
+the cholesterol molecule so if i just saturate that double bond and desmostral i change it into
+
+902
+01:10:59,480 --> 01:11:04,760
+cholesterol and of course there's a specific enzyme that does that if you inhibit can i guess it
+
+903
+01:11:05,640 --> 01:11:09,720
+yes if it's just so people can understand what these enzymes mean so i remember learning this
+
+904
+01:11:09,720 --> 01:11:16,120
+in in college all right so med school not college enzymes always end in ace right now you just told
+
+905
+01:11:16,200 --> 01:11:21,080
+me it was carbon 24 so it's it's probably going to have something to have it's going to have a 24
+
+906
+01:11:21,080 --> 01:11:26,600
+in there well and we often throw deltas into these things because delta denotes the position
+
+907
+01:11:26,600 --> 01:11:33,080
+of the bond and did you say that desmostral has a double bond at 24 and it has to be saturated
+
+908
+01:11:33,080 --> 01:11:40,120
+saturated so it would probably be something like a delta 24 saturate or desaturate correct all right
+
+909
+01:11:40,120 --> 01:11:43,960
+so that would be the enzyme so when you say that when you rattle that off it sounds crazy and
+
+910
+01:11:43,960 --> 01:11:47,640
+intimidating but it's logical right it is and this is why what you were talking about before
+
+911
+01:11:47,640 --> 01:11:54,360
+you really have to notice stuff or you might not be able and the presence or the expression or the
+
+912
+01:11:54,360 --> 01:11:59,480
+lack of expression at that enzyme is gonna are you going to use that pathway if you're using that
+
+913
+01:11:59,480 --> 01:12:03,800
+and you don't convert desmostral into cholesterol you're going to have a lot of desmostral in your
+
+914
+01:12:03,800 --> 01:12:08,920
+system are there consequences to that there's a human disease called desmostral or also instead
+
+915
+01:12:08,920 --> 01:12:13,640
+if it occurs in utero that kid ain't coming out alive or if he does he ain't living for more than
+
+916
+01:12:13,640 --> 01:12:19,400
+a few days and is that disease a genetic deficiency in the enzyme delta 2040 saturated it is yeah now
+
+917
+01:12:19,400 --> 01:12:24,600
+there's another pathway ln nostril doesn't and what determines what it is if you've got a double bond
+
+918
+01:12:24,600 --> 01:12:30,920
+at that 24 because it's going to go through that pathway now there's a ln nostril has another
+
+919
+01:12:30,920 --> 01:12:36,920
+pathway that goes through that's going to wind up with cholesterol and the pre-calorissoral the pen
+
+920
+01:12:36,920 --> 01:12:41,400
+ultimate as we call it the next to the last cholesterol molecule in that chain is something
+
+921
+01:12:41,400 --> 01:12:49,960
+called ln nostril some people call it lathe stearl i call it ln nostril l-a-t-h-o stearl and that is
+
+922
+01:12:49,960 --> 01:12:56,120
+called the canned dutch russell pathway obviously after the guys who discovered that by the way they
+
+923
+01:12:56,120 --> 01:13:01,160
+didn't get the nobel prize for some reason even though that was i think the nobel committee said
+
+924
+01:13:01,160 --> 01:13:05,720
+we already gave one of these things out and also that you can only have three people receive a
+
+925
+01:13:05,720 --> 01:13:11,720
+nobel prize oh so that would be two yeah so whatever everybody else i guess who worked in
+
+926
+01:13:11,720 --> 01:13:18,600
+blocks lab got no credit so but anyway uh so it's the canned dutch russell pathway so and it's kind
+
+927
+01:13:18,600 --> 01:13:25,080
+of interesting because in most people both pathways exist and there are some ways of jumping from one
+
+928
+01:13:25,080 --> 01:13:30,200
+pathway to another so at the end of the day you're going to make cholesterol or so but if you want to
+
+929
+01:13:30,200 --> 01:13:35,400
+start interfering with these pathways there are specific enzymes in each pathway that maybe that's
+
+930
+01:13:35,800 --> 01:13:40,200
+would be something you could play with or maybe if you're building too much of something there's a
+
+931
+01:13:40,200 --> 01:13:45,640
+lack of expression of that enzyme in you which maybe has consequences maybe it doesn't so it's
+
+932
+01:13:45,640 --> 01:13:52,360
+all important to know but some of this may be tissue specific one of the things i know it's a
+
+933
+01:13:52,360 --> 01:13:57,800
+big topic of yours and i hope we get into today is the brain everything i've talked about cholesterol
+
+934
+01:13:57,800 --> 01:14:02,280
+today that we're measuring in the blood has zero to do with cholesterol in the brain
+
+935
+01:14:02,280 --> 01:14:08,520
+cholesterol lipidology in the brain is might as well be in another different body it has nothing
+
+936
+01:14:08,520 --> 01:14:13,800
+to do with what the cholesterol is going on in the rest of your body the brain makes every
+
+937
+01:14:13,800 --> 01:14:21,800
+cholesterol molecule it needs and therefore there are no LDL particles delivering cholesterol to
+
+938
+01:14:21,800 --> 01:14:27,800
+your brain so again if with super aggressive and to be clear this is because the LDL particle
+
+939
+01:14:28,440 --> 01:14:33,000
+just doesn't fit through the blood-brain barrier correct even htls where a little bit of their
+
+940
+01:14:33,000 --> 01:14:37,720
+cholesterol might get into it's de-lipidated through these abc things and some of that might
+
+941
+01:14:37,720 --> 01:14:45,240
+work its way in inconsequential amount the apo b is i guess too big the brain doesn't make apo b so
+
+942
+01:14:45,240 --> 01:14:50,360
+but the central nervous system has to traffic lipids from brain cells to peripheral nerve cells
+
+943
+01:14:51,160 --> 01:14:59,480
+apo e is the protein transporter in the brain so cholesterol or any stroller is attached to apo e
+
+944
+01:14:59,480 --> 01:15:05,000
+in the brain and that's how it it traffics around there or so and again i got nothing to do with the
+
+945
+01:15:05,000 --> 01:15:11,720
+apo e that's involved with whatever lipoproteins are doing in your the rest of your body also
+
+946
+01:15:11,720 --> 01:15:16,360
+so just understand it but obviously i want to come this is such an important topic but i absolutely
+
+947
+01:15:16,440 --> 01:15:20,760
+want to come back because i'm glad you brought it up but that said at the moment i would love to go
+
+948
+01:15:20,760 --> 01:15:26,600
+back to the synthetic stuff so you've got each cell in the body can basically start with the most
+
+949
+01:15:27,160 --> 01:15:32,920
+simple carbon subunit which is a two carbon subunit acetyl-CoA and through a process of carbon
+
+950
+01:15:32,920 --> 01:15:41,720
+fixation go on to make these very complicated four-ringed structures they first and foremost the
+
+951
+01:15:41,720 --> 01:15:47,960
+cell uses these things they make the important part of the cell membrane and if anyone organelle
+
+952
+01:15:47,960 --> 01:15:52,920
+membranes and deposit that's right so everything from the Golgi apparatus to the ER to this movie
+
+953
+01:15:52,920 --> 01:15:58,360
+or ruffier etc you also you don't have to be i think a biochemist who look at a picture of a
+
+954
+01:15:58,360 --> 01:16:07,080
+molecule like cortisol estrogen testosterone and i think you could show a four-year-old
+
+955
+01:16:07,080 --> 01:16:11,400
+picture of those and then a molecule of cholesterol and they would be like hey those look similar
+
+956
+01:16:11,400 --> 01:16:16,360
+yeah it's like maybe i look like my mother and father or they did they have a an origin or did
+
+957
+01:16:16,360 --> 01:16:23,320
+they come from that so sure so certain cells can certainly transform cholesterol into reproductive
+
+958
+01:16:23,320 --> 01:16:30,040
+hormones or adrenal cortical hormones certain cells hepatocytes can transform cholesterol into a bile
+
+959
+01:16:30,040 --> 01:16:35,720
+acid i don't think there's any other cell that can change cholesterol into anything else so when
+
+960
+01:16:35,720 --> 01:16:41,000
+people talk about cholesterol metabolism there is no cholesterol metabolism it can be converted
+
+961
+01:16:41,000 --> 01:16:47,560
+into something in specific tissues but it can be excreted that's it there's no other way your body
+
+962
+01:16:47,560 --> 01:16:54,280
+can handle so do we is there any evidence that we use cholesterol for energy zero why there's no
+
+963
+01:16:54,840 --> 01:17:02,120
+energy is really coming out of the saturated the fats that have the most no double bonds that's
+
+964
+01:17:02,120 --> 01:17:08,360
+the most they're carrying the most ATP cholesterol is not producing energy cholesterol cannot be
+
+965
+01:17:08,360 --> 01:17:13,560
+metabolized and produce ATP in the process i mean to me that's the bigger issue right i think
+
+966
+01:17:13,560 --> 01:17:18,040
+some people get confused about this it's not that there isn't energy in a carbon-carbon bond or a
+
+967
+01:17:18,040 --> 01:17:22,840
+carbon-hydrogen bond because that's exactly what's being liberated in the metabolism of a fatty acid
+
+968
+01:17:22,840 --> 01:17:29,240
+the point is we don't have the enzymatic machinery to undergo the chemical process of breaking down
+
+969
+01:17:29,240 --> 01:17:35,080
+those bonds and liberating the chemical energy into electrical energy can't metabolize cholesterol
+
+970
+01:17:35,080 --> 01:17:40,040
+cholesterol ester which carries that fat can be de-esterified but your cells aren't making
+
+971
+01:17:40,040 --> 01:17:46,520
+cholesterol ester the liver is the intestine is but the adipocytes are my hypothesis for why that's
+
+972
+01:17:46,520 --> 01:17:50,840
+the case which could be entirely bullshit and i'm just making it up but it that's what hypotheses
+
+973
+01:17:50,840 --> 01:17:56,040
+are their guesses is that it would have been evolutionarily dangerous if we could have
+
+974
+01:17:56,040 --> 01:18:02,760
+metabolized cholesterol because in periods of fasting which we all did evolutionarily the last
+
+975
+01:18:02,840 --> 01:18:07,880
+thing you want your body doing is going after cell membranes and hormones as a source of energy so i
+
+976
+01:18:07,880 --> 01:18:15,000
+think it's actually a very deliberate design quote i use design in quotes to say hey no matter what
+
+977
+01:18:15,000 --> 01:18:20,280
+your cholesterol and your hormones are off limits during starvation and instead we evolved this other
+
+978
+01:18:20,280 --> 01:18:25,640
+remarkable pathway of ketosis which takes an ample substrate of fats and goes down the path of
+
+979
+01:18:25,640 --> 01:18:31,480
+metabolizing those and actually saving our muscle from the catabolic destruction that we would
+
+980
+01:18:31,480 --> 01:18:36,760
+undergo if we couldn't undergo ketosis this is the brilliance of peter it to me that he can
+
+981
+01:18:37,320 --> 01:18:42,120
+come up with what sounds like a super plausible thing see i'm not smart entirely bullshit so i
+
+982
+01:18:42,120 --> 01:18:46,280
+can tell you how to sell got cholesterol what it can do with it but he's figured out what sounds
+
+983
+01:18:46,280 --> 01:18:52,360
+like a really plausible reason and everybody's so worried about depleting cholesterol in the plasma
+
+984
+01:18:52,360 --> 01:18:56,360
+is measured by LDL cholesterol which has nothing to do with anything because actually there's more
+
+985
+01:18:56,360 --> 01:19:00,760
+cholesterol in your red blood cells than their own lipoproteins and you're not making that zero
+
+986
+01:19:00,760 --> 01:19:07,720
+by any means by using lipid drugs or something so but you can't deplete a cell of cholesterol beyond
+
+987
+01:19:07,720 --> 01:19:11,960
+a certain amount so you're going to scrub cellular function and you can't put too much cholesterol
+
+988
+01:19:11,960 --> 01:19:17,800
+in itself because it'll crystallize and kill that cell so that's why it's so tightly regulated
+
+989
+01:19:17,800 --> 01:19:25,080
+synthesis it influx and efflux now are there cells under certain circumstances for whatever reason
+
+990
+01:19:25,080 --> 01:19:30,200
+you can't make enough cholesterol yeah there there are pediatric disorders where if you don't
+
+991
+01:19:30,200 --> 01:19:34,600
+synthesize cholesterol things happen to you and utero well the other thing we see this in and i
+
+992
+01:19:34,600 --> 01:19:38,680
+didn't i don't even know why i started noticing this but this is one of the things i used to do
+
+993
+01:19:38,680 --> 01:19:43,480
+in residency that used to kind of piss off some of the attendings is i would do little experiments
+
+994
+01:19:43,480 --> 01:19:47,000
+and it was always a measurement experiment so it wasn't like i was putting a patient at risk other
+
+995
+01:19:47,000 --> 01:19:53,160
+than a few more milliliters of blood were being drawn but i remember once happening on a finding
+
+996
+01:19:53,160 --> 01:19:59,320
+which was maybe by accident i had checked a lipid panel on a patient in the icu and i saw
+
+997
+01:19:59,320 --> 01:20:02,760
+something interesting and i kept rechecking it in other patients over and over again i kept seeing
+
+998
+01:20:02,760 --> 01:20:08,600
+this which was anytime a patient was having a SERS response that's capital s irs systemic
+
+999
+01:20:08,600 --> 01:20:15,480
+inflammatory response syndrome so this is the vaso you know metabolic response to sepsis
+
+1000
+01:20:15,480 --> 01:20:22,920
+infection trauma you name it enormous drop in hdl cholesterol and i think we could look at that
+
+1001
+01:20:22,920 --> 01:20:28,440
+today and say it's very likely that what we were seeing was in that period of profound physiologic
+
+1002
+01:20:28,440 --> 01:20:35,240
+stress the body is greatly ramping up its hormone production leukocorticoids and it's and others
+
+1003
+01:20:35,240 --> 01:20:39,880
+and that would be one of the situations where cells were actually you know hdl was now delivering
+
+1004
+01:20:39,880 --> 01:20:43,960
+cholesterol to the adrenal glands in a period of you know because that's about the most physiologically
+
+1005
+01:20:43,960 --> 01:20:48,520
+stressful thing that an organism can respond to again i don't know if that's been documented but
+
+1006
+01:20:48,520 --> 01:20:53,000
+it seems to me pretty logical that that would be a at least the most plausible explanation for why
+
+1007
+01:20:53,000 --> 01:20:58,760
+hdl could plummet in patients who are going through that degree of stress yes and by the way it's the
+
+1008
+01:20:58,760 --> 01:21:06,280
+reason you never do an all lipid profile in an acute situation because a lot of lipids are going
+
+1009
+01:21:06,280 --> 01:21:12,840
+to be transiently changed or so here but peter's right we know this for a lot of reasons clearly
+
+1010
+01:21:13,560 --> 01:21:18,840
+the your steroidogenic tissues need cholesterol to make their steroid hormones be they reproductive
+
+1011
+01:21:18,840 --> 01:21:25,960
+organs or your adrenal cortex and in the situations peter's talking about cortisone is a pretty
+
+1012
+01:21:25,960 --> 01:21:33,240
+useful hormone to have around or other mineralocorticoids and things like that are so so clearly
+
+1013
+01:21:33,240 --> 01:21:39,480
+the those organs those tissues are going to need a lot of cholesterol pools to make all that
+
+1014
+01:21:39,480 --> 01:21:43,640
+so they they turn up their synthesis rates so they make a lot of cholesterol
+
+1015
+01:21:44,280 --> 01:21:51,160
+but they would also tune up their hey let's gather some exogenous cholesterol so to speak
+
+1016
+01:21:51,160 --> 01:21:57,640
+so those cells would up regulate ldl receptors and that's a case where there's a tissue that
+
+1017
+01:21:57,640 --> 01:22:03,400
+might under certain circumstances pull in ldl particles full of cholesterol ester they would
+
+1018
+01:22:03,400 --> 01:22:10,520
+de-astarify it and use it but in a physiologic person who's not in one of these acute situations
+
+1019
+01:22:10,520 --> 01:22:15,160
+the adrenal gland most of the time just makes all the cholesterol it needs but if it needs a
+
+1020
+01:22:15,160 --> 01:22:22,440
+secondary source that's why you have hdl's hdl's have a half-life of five days one of the reasons
+
+1021
+01:22:22,440 --> 01:22:28,360
+they circulate for five days is it's a floating plasma reservoir of cholesterol for tissues that
+
+1022
+01:22:28,360 --> 01:22:34,200
+might actually need cholesterol now my nose cell that i talked about before doesn't need
+
+1023
+01:22:34,200 --> 01:22:39,480
+hdl's or anybody else to deliver cholesterol to it no other cell does except those
+
+1024
+01:22:39,480 --> 01:22:45,320
+steroidogenic tissues in other words to be really clear and specific you're sloughing off endothelial
+
+1025
+01:22:45,320 --> 01:22:51,720
+cells in your nose every day well you have to replace them the lion's share of the cholesterol
+
+1026
+01:22:51,720 --> 01:22:57,800
+requirement is to make a cell membrane it's just it has the machinery it has the machinery within
+
+1027
+01:22:57,800 --> 01:23:04,520
+the nucleus to produce that just as it's producing other structural proteins right so and this is what
+
+1028
+01:23:04,520 --> 01:23:09,800
+people just translate low cholesterol plasma measurements to think you're screwing up cells
+
+1029
+01:23:09,800 --> 01:23:14,760
+throughout the body and you're not yeah this is one of the challenges that i've never come up with
+
+1030
+01:23:14,760 --> 01:23:20,840
+a great way to explain this idea of flux which is you do a lipid measurement at a moment in time
+
+1031
+01:23:20,840 --> 01:23:26,200
+you're getting a snapshot of what's in the plasma at a moment in time which doesn't give you two
+
+1032
+01:23:26,200 --> 01:23:30,440
+pieces of information how is it changing over time and what's the movement or the velocity
+
+1033
+01:23:30,440 --> 01:23:33,400
+and secondly it gives you no insight into what's happening in the cell
+
+1034
+01:23:34,040 --> 01:23:39,000
+or what's happening in the endothelium for that matter and instead that's the nature of
+
+1035
+01:23:39,000 --> 01:23:43,880
+lipidology is you have to be able to extrapolate to these other things by indirect measurements
+
+1036
+01:23:43,880 --> 01:23:50,440
+it gives you zero insight the only usability of plasma measurements are as surrogates of
+
+1037
+01:23:51,320 --> 01:23:57,880
+lipoprotein defining whether you have apo b apo a1 particles and we know too many apo b particles
+
+1038
+01:23:57,880 --> 01:24:05,240
+your over time at big risk at increased risk for atherosclerotic disease or events
+
+1039
+01:24:05,960 --> 01:24:12,760
+otherwise why even measuring lipids in the plasma tells you nothing and what we're talking about you
+
+1040
+01:24:12,760 --> 01:24:19,160
+call it influxy flux and that nails it down but it's cholesterol homeostasis or sterile homeostasis
+
+1041
+01:24:19,720 --> 01:24:27,400
+and your body has evolved a lot of ways to do interesting too and say that a crisis is going
+
+1042
+01:24:27,400 --> 01:24:33,240
+on adrenal needs continued it's not just hey you're you cured yourself in 12 hours overnight
+
+1043
+01:24:33,240 --> 01:24:39,400
+you survived whatever and if that catastrophic process was ongoing HDLs eventually would run
+
+1044
+01:24:39,400 --> 01:24:43,320
+out of cholesterol you just said your HDL cholesterol level is plummeting and it's been
+
+1045
+01:24:43,320 --> 01:24:49,160
+documented many times so the HDL all of a sudden has to go back and start grabbing
+
+1046
+01:24:49,160 --> 01:24:55,880
+cholesterol molecules from some other tissue and get it to the steroidogenic tissue in the number
+
+1047
+01:24:56,920 --> 01:25:01,640
+mega place where HDLs get most of their lipidation as it goes right back to the liver and gets
+
+1048
+01:25:01,640 --> 01:25:07,080
+lipidated or what is the biggest cholesterol storage organ in the body not the liver your
+
+1049
+01:25:07,080 --> 01:25:12,280
+adipocytes everybody thinks adipocytes are just stirring triglycerides they're a massive
+
+1050
+01:25:12,280 --> 01:25:18,440
+storage organ so baby HDLs that are depleted they run back to the adipocytes which express
+
+1051
+01:25:18,440 --> 01:25:24,760
+this ABCA1 transporter that pumps out all their cholesterol to an HDL which boom right back to the
+
+1052
+01:25:24,760 --> 01:25:31,960
+adrenal gland bounces back and forth like a ping pong ball you can find all of this information and
+
+1053
+01:25:31,960 --> 01:25:37,640
+more at peteratiamd.com forward slash podcast there you'll find the show notes readings and
+
+1054
+01:25:37,640 --> 01:25:44,120
+links related to this episode you can also find my blog and the nerd safari at peteratiamd.com
+
+1055
+01:25:44,120 --> 01:25:48,760
+what's a nerd safari you ask just click on the link at the top of the site to learn more maybe
+
+1056
+01:25:48,760 --> 01:25:53,080
+the simplest thing to do is to sign up for my subjectively non-lame once a week email where
+
+1057
+01:25:53,080 --> 01:25:57,640
+i'll update you on what i've been up to the most interesting papers i've read and all things related
+
+1058
+01:25:57,640 --> 01:26:03,480
+to longevity science performance sleep etc on social you can find me on twitter instagram and
+
+1059
+01:26:03,480 --> 01:26:09,000
+facebook all with the id peteratia md but usually twitter is the best way to reach me to share your
+
+1060
+01:26:09,000 --> 01:26:13,960
+questions and comments now for the obligatory disclaimer this podcast is for general informational
+
+1061
+01:26:13,960 --> 01:26:18,680
+purposes only and does not constitute the practice of medicine nursing or other professional health
+
+1062
+01:26:18,680 --> 01:26:24,200
+care services including the giving of medical advice and note no doctor patient relationship
+
+1063
+01:26:24,200 --> 01:26:29,480
+is formed the use of this information and the materials linked to the podcast is at the user's
+
+1064
+01:26:29,480 --> 01:26:33,640
+own risk the content of this podcast is not intended to be a substitute for professional
+
+1065
+01:26:33,640 --> 01:26:39,480
+medical advice diagnosis or treatment users should not disregard or delay in obtaining medical advice
+
+1066
+01:26:39,480 --> 01:26:43,960
+for any medical condition they have and should seek the assistance of their health care professionals
+
+1067
+01:26:43,960 --> 01:26:49,800
+for any such conditions lastly and perhaps most importantly i take conflicts of interest very
+
+1068
+01:26:49,800 --> 01:26:57,320
+seriously for all of my disclosures the companies i invest in and or advise please visit peteratiamd.com
+
+1069
+01:26:57,320 --> 01:27:01,240
+forward slash about
+

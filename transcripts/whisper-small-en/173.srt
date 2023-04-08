@@ -1,0 +1,748 @@
+1
+00:00:00,000 --> 00:00:05,280
+Hey everyone, welcome to the drive podcast. I'm your host Peter Attia.
+
+2
+00:00:05,280 --> 00:00:12,840
+Hello Peter. Hey Bob, how are you man?
+
+3
+00:00:12,840 --> 00:00:19,200
+I'm doing well, how are you? I'm great. Okay, you ready for an AMA?
+
+4
+00:00:19,200 --> 00:00:26,600
+I am. I saw the agenda. It's very aggressive. Yeah. Yeah. Ambicious.
+
+5
+00:00:26,600 --> 00:00:31,480
+Oh I like it. Yes. Yeah, to say the least. I don't know if we'll get through everything,
+
+6
+00:00:31,480 --> 00:00:40,440
+but we did get a lot of follow-up questions on CGM based on our previous, actually I think
+
+7
+00:00:40,440 --> 00:00:44,840
+it was the previous AMA where we talked about glucose. We talked about mean glucose, glucose
+
+8
+00:00:44,840 --> 00:00:52,560
+variability and glucose spikes. And then we also had that Sunday email on CGM and non diabetics.
+
+9
+00:00:52,680 --> 00:00:57,400
+It was related to a JAMA perspective talking about it. So there's a bunch of questions on that.
+
+10
+00:00:57,400 --> 00:01:06,200
+Okay. We also have a couple of questions on Aura, the sleep wearable, the Aura ring. We've got some
+
+11
+00:01:06,200 --> 00:01:11,400
+exercise related questions and we may work in one or two additional questions if we have time.
+
+12
+00:01:11,400 --> 00:01:19,480
+How's that sound? I think it sounds like a good, good list. Okay. So Peter, since we have a lot of
+
+13
+00:01:19,520 --> 00:01:25,040
+CGM related questions, one of the things that I've heard you talk about is you have a framework for
+
+14
+00:01:25,040 --> 00:01:29,640
+interventions that I think will be really helpful in laying the foundation for how you think about
+
+15
+00:01:29,640 --> 00:01:35,120
+CGM and their use in different populations. So can you start off by telling us a little bit
+
+16
+00:01:35,120 --> 00:01:41,840
+about that framework? Yeah. So again, it doesn't pertain to CGM specifically. It pertains to
+
+17
+00:01:41,840 --> 00:01:48,880
+anything that comes across my plate. And the first time I actually contemplated this was
+
+18
+00:01:48,880 --> 00:01:54,880
+really when I started kind of trying to look critically at the data around meditation. So
+
+19
+00:01:54,880 --> 00:02:01,320
+this was probably about maybe eight to 10 years ago. But anyway, it basically asks a series of
+
+20
+00:02:01,320 --> 00:02:07,240
+questions. So the first question is what is the risk of harm from doing this thing? So that's a
+
+21
+00:02:07,240 --> 00:02:15,520
+direct question. So if you do X, how high is the probability of harm? The second question is
+
+22
+00:02:16,000 --> 00:02:25,120
+obviously the contrapositive of that. If you do X, what is the probability of benefit? And then
+
+23
+00:02:25,120 --> 00:02:29,240
+the third question, and by the way, before I go to the third question, those first two questions
+
+24
+00:02:29,240 --> 00:02:35,040
+are so obvious that they're almost not worth stating. And of course, that's mirrored in the
+
+25
+00:02:35,040 --> 00:02:43,480
+way the FDA organizes drug trials, right? So a drug trial is organized first by, well, after you
+
+26
+00:02:43,480 --> 00:02:49,000
+get through the preclinical data, the animal work, after the IND has been filed, your first trial in
+
+27
+00:02:49,000 --> 00:02:55,280
+humans, which is called a phase one trial, is looking at harm. I mean, it's typically a small
+
+28
+00:02:55,280 --> 00:03:04,280
+trial with dose escalation that is only trying to understand if as you escalate the dose, do you see
+
+29
+00:03:04,280 --> 00:03:10,640
+an increase in side effects? Very occasionally, you see some benefits in a phase one trial. And if
+
+30
+00:03:10,640 --> 00:03:14,480
+you do, that's interesting, but you generally can't take it to the bank because the study is
+
+31
+00:03:14,480 --> 00:03:20,800
+so small. And generally, it's quite homogeneous. So that's when you move on to phase two studies,
+
+32
+00:03:20,800 --> 00:03:27,440
+which are geared towards efficacy, i.e. is this thing doing good? And of course, if the phase two
+
+33
+00:03:27,440 --> 00:03:34,280
+trial is positive, you move to a much larger trial called a phase three trial, which really doubles
+
+34
+00:03:34,280 --> 00:03:39,800
+down on efficacy. Of course, both of these trials will continue to be able to pick up any signal of
+
+35
+00:03:39,800 --> 00:03:46,960
+harm. So you're always in the spirit of trying to capture that. But the real point here is you're
+
+36
+00:03:46,960 --> 00:03:52,360
+raising the bar, so to speak, for what you're demanding of this. So again, what's the risk of
+
+37
+00:03:52,360 --> 00:03:58,800
+harm? What's the probability of benefit are two obvious questions. I think the third question then
+
+38
+00:03:58,800 --> 00:04:05,960
+is what's the opportunity cost of this intervention? And I feel like I've talked about this on a
+
+39
+00:04:05,960 --> 00:04:14,160
+previous podcast before, and maybe it was even one of ours. But there was this device that you
+
+40
+00:04:14,160 --> 00:04:24,320
+would listen to, and it would supposedly put you in a trance. And the company that was proposing
+
+41
+00:04:24,320 --> 00:04:29,640
+this thing had all sorts of theoretical benefits from using it. If you listen to this device,
+
+42
+00:04:29,640 --> 00:04:35,280
+you are less likely to get breast cancer and all of these other things. So was there any
+
+43
+00:04:35,280 --> 00:04:42,960
+harm in this device? As far as I could tell, no. I really didn't think that listening to this
+
+44
+00:04:42,960 --> 00:04:52,480
+device was harmful in any way. Was there any benefit of this device? Certainly not to the extent that
+
+45
+00:04:52,480 --> 00:04:58,920
+they made claims. That said, I had tried the device because a friend of mine bought it for me. And I
+
+46
+00:04:58,920 --> 00:05:03,240
+have to admit, it was the most relaxing thing I'd ever done. In fact, virtually every time I tried
+
+47
+00:05:03,280 --> 00:05:08,040
+it, I fell asleep. So maybe there was some good in that, maybe there was some bad in that. If it
+
+48
+00:05:08,040 --> 00:05:14,940
+was a daytime nap and you could speak to the disadvantages of daytime napping. But there was
+
+49
+00:05:14,940 --> 00:05:20,240
+an opportunity cost to it. And I don't just mean financial. So the device was pretty expensive. I
+
+50
+00:05:20,240 --> 00:05:24,240
+want to say it was like a thousand bucks if you were going to buy the thing. A thousand bucks is
+
+51
+00:05:24,240 --> 00:05:29,720
+no trivial sum of money for anyone. So that's obviously something that has to be weighed
+
+52
+00:05:29,720 --> 00:05:33,880
+against what else could be done with an opportunity cost. But the other thing you have to keep in
+
+53
+00:05:33,880 --> 00:05:40,680
+mind is their prescription for use was two 20 minute sessions a day, much along the lines of
+
+54
+00:05:40,680 --> 00:05:47,600
+like transcendental meditation, which is similar, but has much better data. And that's where I kind
+
+55
+00:05:47,600 --> 00:05:52,880
+of thought, well, there's a problem because for most people who are super busy, 40 minutes a day
+
+56
+00:05:52,880 --> 00:06:01,920
+for very questionable benefit didn't make a lot of sense. If it came at the expense of other things
+
+57
+00:06:01,920 --> 00:06:09,600
+that undoubtedly had benefit, such as could that be 40 minutes a day of actual meditation? Could
+
+58
+00:06:09,600 --> 00:06:15,280
+that be 40 additional minutes a day of sleep? Could that be 40 minutes a day of exercise? All things
+
+59
+00:06:15,280 --> 00:06:21,880
+that I would point to as having far greater evidence in favor of. So I think anytime you're
+
+60
+00:06:21,880 --> 00:06:28,760
+thinking about doing something, you want to kind of go through that. And those are especially
+
+61
+00:06:28,760 --> 00:06:36,400
+important questions to be asking when the answer is not readily apparent from RCTs that have
+
+62
+00:06:36,400 --> 00:06:45,640
+generally already answered one and two. Now remember, many RCTs are the easiest RCTs to do
+
+63
+00:06:45,640 --> 00:06:50,640
+or the ones that are based on pharmacology. And they're generally addressing one and two,
+
+64
+00:06:50,640 --> 00:06:54,360
+but they're not really addressing three because there really isn't much of an opportunity cost
+
+65
+00:06:54,360 --> 00:07:01,280
+of taking a pill outside of the economic cost, but the time cost of it is relatively low. Of
+
+66
+00:07:01,280 --> 00:07:06,720
+course, when it comes to RCTs that are more intervention based, such as exercise, yes,
+
+67
+00:07:07,920 --> 00:07:12,760
+you want to be able to think about this. But as you look to something like CGM in the case
+
+68
+00:07:12,760 --> 00:07:19,400
+of non-diabetics, this framework to me is very helpful because at this time we don't have great
+
+69
+00:07:19,400 --> 00:07:26,880
+RCTs to point to that say in people who are not yet diabetic, there is a benefit to using CGM.
+
+70
+00:07:26,880 --> 00:07:32,680
+So again, as you go through that, you ask yourself the question, what is the risk of harm? And again,
+
+71
+00:07:32,680 --> 00:07:40,400
+when we talk about CGM specifically, I think the risk of harm is very low. If we were going to
+
+72
+00:07:40,400 --> 00:07:44,720
+sort of speculate what could be harmful about it, well, I think the most obvious thing that comes to
+
+73
+00:07:44,720 --> 00:07:52,080
+my mind is anxiety that it can stoke, right? It can create obsession in someone. And certainly I
+
+74
+00:07:52,080 --> 00:07:57,400
+can speak to that personally. I don't think personally I've found it harmful, but I could
+
+75
+00:07:57,400 --> 00:08:03,320
+absolutely understand it. And I frankly think we have some patients in whom I've never recommended
+
+76
+00:08:03,320 --> 00:08:08,040
+it. So for example, we have some patients who have a history of eating disorders. These are
+
+77
+00:08:08,040 --> 00:08:14,120
+patients I would not in any way, shape or form advocate the use of CGM. I think it's yet another
+
+78
+00:08:14,160 --> 00:08:22,600
+tool that can create a negative cycle around obsession. Is there any chance of it doing good?
+
+79
+00:08:22,600 --> 00:08:26,880
+Well, I mean, I think I've already made the case for that. I think there's ample chance for it
+
+80
+00:08:26,880 --> 00:08:34,520
+doing good on two fronts, right? The first front is what I call insight-based good, which is
+
+81
+00:08:34,520 --> 00:08:42,640
+teaching you what your carbohydrate tolerance is. That's what the tool is for. And then secondly,
+
+82
+00:08:42,760 --> 00:08:49,400
+what I would call behavioral good or behavior modification, which is effectively a strapped
+
+83
+00:08:49,400 --> 00:08:55,680
+on version of the Hawthorne effect. So when you're wearing a CGM, you're basically utilizing a tool
+
+84
+00:08:55,680 --> 00:09:03,120
+that is monitoring you. And there is no shortage of data to support the idea that when people are
+
+85
+00:09:03,120 --> 00:09:09,720
+asked to monitor food intake, they make changes in the right direction. So if I said to you, Bob,
+
+86
+00:09:10,440 --> 00:09:17,320
+I want you to record everything you eat for the next month and track it in a food diary,
+
+87
+00:09:17,320 --> 00:09:23,040
+are you going to make better food choices than you are making now? And the answer is unequivocally
+
+88
+00:09:23,040 --> 00:09:29,800
+yes. You are going to do that. Which is also, not to pile on, I guess this is the first time
+
+89
+00:09:29,800 --> 00:09:34,800
+I'm mentioning observational epidemiology so far, at least for this episode, but that's one of the
+
+90
+00:09:34,840 --> 00:09:39,440
+challenges right there with food frequency questionnaires is that they start asking them
+
+91
+00:09:39,440 --> 00:09:44,800
+to ask them what foods they're eating or they ask them what foods they ate. And oftentimes,
+
+92
+00:09:44,800 --> 00:09:49,240
+just that by asking, they're changing their behavior. And so you're not really getting
+
+93
+00:09:49,240 --> 00:09:51,600
+an accurate representation of what they ate previously.
+
+94
+00:09:51,600 --> 00:09:57,560
+Right. So that's a problem that plagues epidemiology, but you can use that to your
+
+95
+00:09:57,560 --> 00:10:04,200
+advantage, right? And we do that stuff clinically, right? This is how you create accountability for
+
+96
+00:10:04,200 --> 00:10:09,400
+patients. You say, look, we're going to check in once a day and I just want you to tell me what
+
+97
+00:10:09,400 --> 00:10:15,800
+you ate. And even if you provide no other instruction, which is, oh, I want you to have
+
+98
+00:10:15,800 --> 00:10:19,560
+this many grams of protein and this many grams of carbs and this many grams of fat. No, no, even if
+
+99
+00:10:19,560 --> 00:10:24,320
+you don't go to that level, if you just say, I just want you to tell me what you ate, that level of
+
+100
+00:10:24,320 --> 00:10:28,040
+accountability immediately changes a person's behavior. And that's an example of how you can
+
+101
+00:10:28,040 --> 00:10:35,800
+use that to your benefit. So is that sort of a, I guess I'll get to the third point, which is
+
+102
+00:10:35,800 --> 00:10:41,040
+opportunity costs. So what's the opportunity cost of one of these devices? Well, I think hands down
+
+103
+00:10:41,040 --> 00:10:46,800
+the biggest opportunity cost is the economic cost. These things are not cheap. And if you are not
+
+104
+00:10:46,800 --> 00:10:51,840
+diabetic, you are not going to have your insurance company cover one of these devices. So there are
+
+105
+00:10:51,840 --> 00:10:58,640
+no shortage of companies out there that are repurposing and repackaging CGM. So there are
+
+106
+00:10:58,640 --> 00:11:06,080
+really three companies that make CGM's in the clinical grade. So there's Medtronic, Abbott and
+
+107
+00:11:06,080 --> 00:11:13,520
+Dexcom. And again, by way of full disclosure, I consult with Dexcom, not on their CGM business,
+
+108
+00:11:13,520 --> 00:11:18,280
+but actually on a part of their business that deals with other analytes. So other things that
+
+109
+00:11:18,280 --> 00:11:24,680
+you could measure. So actually don't really interact much on the CGM side. But those three
+
+110
+00:11:24,680 --> 00:11:30,520
+companies make CGM's. And then there are lots of companies like Levels and Super Sapiens that
+
+111
+00:11:30,520 --> 00:11:38,200
+people have heard of who are plugging in those CGM's into their apps to help users with their
+
+112
+00:11:38,200 --> 00:11:45,800
+goals, be it weight loss or otherwise. Well, they're not cheap. I'm trying to remember what
+
+113
+00:11:45,800 --> 00:11:52,760
+the cost is the monthly. I mean, I feel like the daily cost of CGM is about 10 bucks. And there's
+
+114
+00:11:52,760 --> 00:11:57,000
+probably cheaper ways to get it if you're buying your CGM on eBay or if it's a little bit expired,
+
+115
+00:11:57,000 --> 00:12:03,960
+but directionally speaking, it's about a $10 a day habit. And that adds up, right? Call it
+
+116
+00:12:03,960 --> 00:12:09,720
+$3,500 a year. That's a huge expense, assuming you need it every minute of every day. And I don't
+
+117
+00:12:09,720 --> 00:12:13,840
+think you do. I think you can gain a lot of insight using these things periodically. I don't
+
+118
+00:12:13,840 --> 00:12:18,240
+think this is something you need to be tethered to every minute of every day. There are some people
+
+119
+00:12:18,240 --> 00:12:23,840
+like me who enjoy that, not going to lie. I've been wearing CGM for almost six years. It never
+
+120
+00:12:23,840 --> 00:12:32,000
+gets old to me. I continue to find insights that just provide value. And more than anything else,
+
+121
+00:12:32,000 --> 00:12:37,520
+it's really the behavioral tool. And that might make me a mental midget. I might just be a guy
+
+122
+00:12:37,520 --> 00:12:42,240
+that is such a simple plebe that having that little CGM on my arm is what keeps me away from
+
+123
+00:12:42,240 --> 00:12:47,040
+the ice cream in the freezer and the cookies in the pantry. But if you saw my freezer and you saw
+
+124
+00:12:47,040 --> 00:12:51,600
+my pantry, you would certainly understand why I stand to benefit from using CGM.
+
+125
+00:12:52,320 --> 00:12:59,920
+Well, I think you mentioned this in the article or the Sunday post about how the percentages change
+
+126
+00:12:59,920 --> 00:13:04,560
+with when you talk about how much insight you're getting, say, in the first 30 days versus long
+
+127
+00:13:04,560 --> 00:13:09,680
+term, whether it's a motivational or behavioral tool and how those can shift. But I also want
+
+128
+00:13:09,680 --> 00:13:14,240
+to mention that when I was at UVM, I was getting my undergrad and I was studying nutrition that,
+
+129
+00:13:15,280 --> 00:13:20,480
+to your point about ice cream in the freezer, I remember for one of our courses that we were
+
+130
+00:13:20,480 --> 00:13:24,480
+taking, we started doing a food log or food diary. And I remember at the time I was eating,
+
+131
+00:13:24,480 --> 00:13:29,200
+I don't know why I got into this, but actually you probably will know why. I was eating a pint
+
+132
+00:13:29,200 --> 00:13:33,280
+of Ben and Jerry's chocolate chip cookie dough just religiously. Like I would just-
+
+133
+00:13:33,280 --> 00:13:38,080
+Is a pint the one that's this big? Like the little one? Is that a pint?
+
+134
+00:13:38,160 --> 00:13:44,000
+Yeah, that's the 16 answer. Yeah. But I think that's the only thing that Ben and Jerry's comes in.
+
+135
+00:13:44,000 --> 00:13:46,160
+Okay. And you were eating one of those a day?
+
+136
+00:13:46,160 --> 00:13:52,000
+I was eating one of those a day after dinner and it was just like a, yeah, whatever kind of habit.
+
+137
+00:13:52,880 --> 00:13:58,160
+Then I was doing the food log and I had to keep a food log. And that's how I kicked that,
+
+138
+00:13:58,160 --> 00:14:00,880
+if you want to call it a habit, that's how I kicked the Ben and Jerry's habit. I said,
+
+139
+00:14:00,880 --> 00:14:04,800
+okay, I'm going to have to write for the, I think it's two days during the week and one
+
+140
+00:14:04,800 --> 00:14:08,720
+day during the weekend that I had to do it. And that's typically what they do for food diaries.
+
+141
+00:14:08,720 --> 00:14:14,480
+And you just log everything you eat, real time, over 24 hours for like a Monday and a Thursday
+
+142
+00:14:14,480 --> 00:14:20,560
+and a Saturday. And I remember I kicked that habit, but it reminds me of the stuff that
+
+143
+00:14:20,560 --> 00:14:26,000
+some of these things are behavioral tools may be in disguise. But I think you mentioned something
+
+144
+00:14:26,000 --> 00:14:30,240
+like 90, 10. Yeah, yeah. And that's sort of what I tell patients. Because look, a lot of our patients
+
+145
+00:14:30,240 --> 00:14:33,920
+are like, Hey, Peter, what do you think? I mean, do you think I should do this? And my answer for
+
+146
+00:14:33,920 --> 00:14:38,480
+most of them is, yeah, I think you should. I think everybody deserves a three month trial of CGM,
+
+147
+00:14:38,480 --> 00:14:45,040
+again, notwithstanding a handful of patients who I think have contraindications. And I typically
+
+148
+00:14:45,040 --> 00:14:50,960
+say, look, it's going to start out as about 90, 10, 90% of this is going to be insight. Like you're
+
+149
+00:14:50,960 --> 00:14:59,040
+going to be going, holy cow, I can't believe, fill in the blank. And only 10% of it is going to be
+
+150
+00:14:59,040 --> 00:15:03,760
+changing your behavior through this Hawthorne effect. I said, by the end of that 90 days,
+
+151
+00:15:03,760 --> 00:15:11,360
+that's going to flip. Again, it depends on how much insight you look to extract. But directionally,
+
+152
+00:15:12,320 --> 00:15:15,840
+within about three months, you're going to be like, you know what, I've sort of figured out the
+
+153
+00:15:15,840 --> 00:15:22,960
+effect of grapes. And the difference between like, you know, a grapefruit and a banana, like I've
+
+154
+00:15:22,960 --> 00:15:28,320
+kind of got that dialed. And I've also figured out that, you know, I can eat a ton of carbs after I
+
+155
+00:15:28,320 --> 00:15:33,920
+work out. But if I eat a ton of carbs before bed, totally different effect on my blood glucose
+
+156
+00:15:33,920 --> 00:15:42,960
+and overnight in the morning. But the shift is you start to gamify it a little bit. So yeah,
+
+157
+00:15:42,960 --> 00:15:47,840
+again, I guess that's sort of what I would say on my framework for how to think about these things.
+
+158
+00:15:48,800 --> 00:15:55,760
+Okay. So the related questions to CGM, I've got actually just mentioned grapes. So this person
+
+159
+00:15:55,760 --> 00:16:00,080
+says my glucose spikes when I eat some fruits, but not others. Do you know why this happens? And
+
+160
+00:16:00,080 --> 00:16:06,000
+does it mean that I should avoid fruits that spike my glucose? Thank you for listening to today's
+
+161
+00:16:06,000 --> 00:16:10,640
+sneak peek AMA episode of The Drive. If you're interested in hearing the complete version of
+
+162
+00:16:10,640 --> 00:16:16,000
+this AMA, you'll want to become a member. We created a membership program to bring you more
+
+163
+00:16:16,000 --> 00:16:22,160
+in-depth exclusive content without relying on paid ads. Membership benefits are many and beyond
+
+164
+00:16:22,160 --> 00:16:27,200
+the complete episodes of the AMA each month. They include the following ridiculously
+
+165
+00:16:27,200 --> 00:16:32,800
+comprehensive podcast show notes that detail every topic, paper, person, and thing we discuss
+
+166
+00:16:32,800 --> 00:16:39,120
+on each episode of The Drive. Access to our private podcast feed, the Qualies, which were a super short
+
+167
+00:16:39,120 --> 00:16:44,240
+podcast, typically less than five minutes, released every Tuesday through Friday, which highlight the
+
+168
+00:16:44,240 --> 00:16:49,760
+best questions, topics, and tactics discussed on previous episodes of The Drive. This is particularly
+
+169
+00:16:49,760 --> 00:16:55,040
+important for those of you who haven't heard all of the back episodes. It becomes a great way to
+
+170
+00:16:55,040 --> 00:16:59,920
+go back and filter and decide which ones you want to listen to in detail. Really steep discount
+
+171
+00:16:59,920 --> 00:17:05,280
+codes for products I use and believe in, but for which I don't get paid to endorse, and benefits
+
+172
+00:17:05,280 --> 00:17:10,400
+that we continue to add over time. If you want to learn more and access these member-only benefits,
+
+173
+00:17:10,400 --> 00:17:17,040
+head over to PeterAttiaMD.com forward slash subscribe. Lastly, if you're already a member,
+
+174
+00:17:17,040 --> 00:17:21,120
+but you're hearing this, it means you haven't downloaded our member-only podcast feed where
+
+175
+00:17:21,120 --> 00:17:26,080
+you can get the full access to the AMA and you don't have to listen to this. You can download
+
+176
+00:17:26,080 --> 00:17:33,920
+that at PeterAttiaMD.com forward slash members. You can find me on Twitter, Instagram, and Facebook,
+
+177
+00:17:33,920 --> 00:17:40,480
+all with the ID PeterAttiaMD. You can also leave us a review on Apple Podcasts or whatever podcast
+
+178
+00:17:40,480 --> 00:17:46,000
+player you listen on. This podcast is for general informational purposes only and does not constitute
+
+179
+00:17:46,000 --> 00:17:50,640
+the practice of medicine, nursing, or other professional healthcare services, including
+
+180
+00:17:50,640 --> 00:17:56,800
+the giving of medical advice. No doctor-patient relationship is formed. The use of this information
+
+181
+00:17:56,800 --> 00:18:02,560
+and the materials linked to this podcast is at the user's own risk. The content on this podcast
+
+182
+00:18:02,560 --> 00:18:08,880
+is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Users
+
+183
+00:18:08,880 --> 00:18:15,200
+should not disregard or delay in obtaining medical advice from any medical condition they have, and
+
+184
+00:18:15,280 --> 00:18:20,800
+they should seek the assistance of their healthcare professionals for any such conditions. Finally,
+
+185
+00:18:20,800 --> 00:18:26,320
+I take conflicts of interest very seriously. For all of my disclosures and the companies I invest in
+
+186
+00:18:26,320 --> 00:18:33,920
+or advise, please visit PeterAttiaMD.com forward slash about where I keep an up-to-date and active
+
+187
+00:18:33,920 --> 00:18:44,960
+list of such companies.
+

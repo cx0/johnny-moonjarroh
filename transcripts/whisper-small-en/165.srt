@@ -1,0 +1,432 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hey everyone, welcome to the Drive podcast. I'm your host Peter Attia.
+
+2
+00:00:05,000 --> 00:00:10,000
+Hello Peter.
+
+3
+00:00:10,000 --> 00:00:13,000
+Hey Bob.
+
+4
+00:00:13,000 --> 00:00:14,000
+How's it going?
+
+5
+00:00:14,000 --> 00:00:16,000
+It's going well man.
+
+6
+00:00:16,000 --> 00:00:18,000
+Ready for an AMA?
+
+7
+00:00:18,000 --> 00:00:20,000
+Ready as always.
+
+8
+00:00:20,000 --> 00:00:26,000
+Alright, so in this case we got great questions about glucose.
+
+9
+00:00:26,000 --> 00:00:29,000
+And we aggregated a bunch. I think it would be good to do a deep dive.
+
+10
+00:00:29,000 --> 00:00:34,000
+I'm going to go through a couple of questions here and see what you think.
+
+11
+00:00:34,000 --> 00:00:40,000
+So the first question is more of a statement than a question.
+
+12
+00:00:40,000 --> 00:00:46,000
+I've heard Peter talk about how fasting glucose and even HPA1C measurements can often be misleading.
+
+13
+00:00:46,000 --> 00:00:52,000
+And how he favors OGTT, which is short for Original Gangster Time Trial.
+
+14
+00:00:52,000 --> 00:00:53,000
+That's right.
+
+15
+00:00:53,000 --> 00:00:59,000
+Okay, perfect. I think it might be oral glucose tolerance test with insulin measurements.
+
+16
+00:00:59,000 --> 00:01:04,000
+And also wearing a CGM to get a better sense of glucose homeostasis.
+
+17
+00:01:04,000 --> 00:01:11,000
+My understanding is that OGTTs and CGM's are typically reserved for people with diabetes.
+
+18
+00:01:11,000 --> 00:01:13,000
+So he's got the following questions.
+
+19
+00:01:13,000 --> 00:01:18,000
+Why does Peter find these tests useful in quote unquote healthy people?
+
+20
+00:01:18,000 --> 00:01:21,000
+What is Peter looking for when assessing someone's glucose levels?
+
+21
+00:01:21,000 --> 00:01:24,000
+What does he like and hate to see?
+
+22
+00:01:24,000 --> 00:01:28,000
+How does Peter define normal versus abnormal control of glucose?
+
+23
+00:01:28,000 --> 00:01:32,000
+If I'm not diabetic, do I have anything to worry about here?
+
+24
+00:01:32,000 --> 00:01:38,000
+And there's another question that was, are you able to do a breakdown of what you look for on different people's CGM data?
+
+25
+00:01:38,000 --> 00:01:41,000
+And what you would advise to improve their numbers?
+
+26
+00:01:41,000 --> 00:01:44,000
+Similar to the AMA you did on lab tests.
+
+27
+00:01:44,000 --> 00:01:46,000
+Alright, so I'm going to pause you right there Bob.
+
+28
+00:01:46,000 --> 00:01:49,000
+And I want you to just answer this question for me honestly.
+
+29
+00:01:50,000 --> 00:01:53,000
+Did you pay this person to ask these questions?
+
+30
+00:01:55,000 --> 00:01:57,000
+Asking for a friend.
+
+31
+00:01:57,000 --> 00:02:08,000
+I mean, seriously, like these are the perfect questions, the most salient questions, the most important questions.
+
+32
+00:02:09,000 --> 00:02:20,000
+And this might become by extension then one of the most important AMAs we do in terms of the aggregate impact it could have on health and longevity.
+
+33
+00:02:20,000 --> 00:02:37,000
+Because these questions really get at the root of where I think, I hate to use this term, but for lack of a better word, where the mainstream medical system is just so out of sync with what I believe the future of medicine is going to be.
+
+34
+00:02:37,000 --> 00:02:41,000
+So let's take a step back on all of this for a second.
+
+35
+00:02:44,000 --> 00:02:52,000
+Type 2 diabetes has a definition and it is defined as having a hemoglobin A1C concentration greater than 6.5%.
+
+36
+00:02:53,000 --> 00:03:00,000
+And that corresponds to an average blood glucose, God, I should know this, but the fact that I pay so little attention to it tells you why I don't even know it.
+
+37
+00:03:01,000 --> 00:03:08,000
+I believe it corresponds to an average blood glucose of approximately 130 milligrams per deciliter.
+
+38
+00:03:10,000 --> 00:03:17,000
+And of course, the way it works is it measures the concentration of glycosylated hemoglobin.
+
+39
+00:03:18,000 --> 00:03:24,000
+So it's taking out red blood cells and it's looking at how much glucose is stuck to them.
+
+40
+00:03:24,000 --> 00:03:34,000
+And obviously the more glucose that is stuck to them, the more you can infer that the average concentration of glucose is higher during the period of a red blood cells life.
+
+41
+00:03:35,000 --> 00:03:53,000
+But of course, this is potentially misleading because if a red blood cell has a very short life, for example, I see this in a couple of my patients, including a patient who's recovering from prostate cancer who still has some GI bleeding issues, but it's not.
+
+42
+00:03:54,000 --> 00:03:58,000
+It's patients with gastritis, et cetera, but women with a heavy menstrual period.
+
+43
+00:03:59,000 --> 00:04:03,000
+So people who are losing significant amounts of blood have a higher turnover red blood cells.
+
+44
+00:04:04,000 --> 00:04:06,000
+They're going to have an artificially low hemoglobin A1C.
+
+45
+00:04:07,000 --> 00:04:22,000
+Conversely, people who have red blood cells that stick around a very long time, people with a microcytic pattern, meaning they have very small red blood cells that are less likely to get chewed up in the splenic system,
+
+46
+00:04:22,000 --> 00:04:25,000
+which is where we ultimately kind of break down red blood cells.
+
+47
+00:04:26,000 --> 00:04:36,000
+They're going to have an artificially elevated hemoglobin A1C because their red blood cells are living longer on average than the typical person, which is about 90 days.
+
+48
+00:04:37,000 --> 00:04:40,000
+So that's one reason why I'm not a huge fan of hemoglobin A1C.
+
+49
+00:04:41,000 --> 00:04:54,000
+But the broader point here is that I find it unhelpful to simply say if your hemoglobin A1C is above 6.5 and you have type 2 diabetes, you have quote unquote a disease.
+
+50
+00:04:55,000 --> 00:04:58,000
+If it is below 6.5, you are normal.
+
+51
+00:04:59,000 --> 00:05:05,000
+Or even if we go one step further and say, well, there's a pre-diabetes, which is defined as 5.7 to 6.4.
+
+52
+00:05:06,000 --> 00:05:18,000
+And those people we have to watch out for, but anybody at 5.6 and down is completely normal, as though there's some enormous difference between 5.6 and 5.7 or 6.4 and 6.5.
+
+53
+00:05:19,000 --> 00:05:27,000
+So while on the one hand I understand the need to simplify things, I think oversimplification is erroneous, and I think we should view these as a continuum.
+
+54
+00:05:28,000 --> 00:05:33,000
+So glucose at the average level is a continuum.
+
+55
+00:05:34,000 --> 00:05:41,000
+And as the person who asked the question noted, I am a far greater proponent of CGM.
+
+56
+00:05:42,000 --> 00:05:50,000
+Now, Bob, I don't know if you're wondering what this thing on my arm is, but in case you are, this is a CGM. This is a continuous glucose monitor.
+
+57
+00:05:51,000 --> 00:05:56,000
+And as its name suggests, it measures glucose continuously.
+
+58
+00:05:56,000 --> 00:06:04,000
+And while I do not have diabetes, and while most of my patients don't have diabetes, many of them, along with I, wear this device.
+
+59
+00:06:04,000 --> 00:06:18,000
+And I think what we'll get into today is the why, right? So what are the metrics we're tracking here, and what are we describing as ideal and optimal as opposed to acceptable along those metrics?
+
+60
+00:06:21,000 --> 00:06:25,000
+Anything else I can say broad strokes before we jump into the nuts and bolts of this, Bob?
+
+61
+00:06:26,000 --> 00:06:30,000
+I think that covers another question about the continuous glucose monitor.
+
+62
+00:06:30,000 --> 00:06:38,000
+Wondering if it's like streaming, or does it actually take measurements every like certain period of time? Does it like take a measurement every few minutes?
+
+63
+00:06:38,000 --> 00:06:43,000
+Yeah, so actually I thought it would be helpful, Bob, to just sort of show you and obviously listeners kind of what this looks like.
+
+64
+00:06:43,000 --> 00:06:50,000
+So it connects to your phone, and every five minutes it is spitting out a number.
+
+65
+00:06:50,000 --> 00:06:58,000
+And so if you look at it in a 24-hour fashion, when you turn your phone on your side, you get sort of the 24-hour tracing.
+
+66
+00:06:58,000 --> 00:07:10,000
+So for my last 24 hours, I've averaged about 90 milligrams per deciliter, and my variability has been about 9 or 10 milligrams per deciliter, or my standard deviation.
+
+67
+00:07:11,000 --> 00:07:16,000
+My peak level has been, let me see, I have to go back and look.
+
+68
+00:07:16,000 --> 00:07:26,000
+My peak was 102, and by extension then I've had no peaks above 140. That's going to come up later on.
+
+69
+00:07:26,000 --> 00:07:37,000
+So obviously if my peak was 102, I was never above 140. And my nadir was 77. So range of 77 to 102.
+
+70
+00:07:37,000 --> 00:07:53,000
+So anyway, that's the kind of data you get out of these things. And obviously they have reports that will spit out your average blood glucose over one day, seven day, 14 days, 30 days, 60 days, 90 days, et cetera, along with the standard deviation and things like that.
+
+71
+00:07:53,000 --> 00:08:00,000
+And the way these things work, of course, is they're not actually measuring in the blood. They're measuring in the interstitial fluid.
+
+72
+00:08:01,000 --> 00:08:12,000
+And that, of course, is the remarkable technology, right? It's that it's able to impute what the glucose level is in the blood without actually having to sample the blood. That's the magic of these things.
+
+73
+00:08:12,000 --> 00:08:25,000
+And knowing you, I suspect I already know the answer, but I'll ask it anyway. Have you looked at your CGM and compared, say, your three-month data to your HBA1C?
+
+74
+00:08:26,000 --> 00:08:42,000
+Of course. Yeah. And there's no comparison. So because I actually have something called beta thalassemia minor, or I carry the trait for beta thalassemia, I have tiny little red blood cells, or as my roommate in med school, Matt McCormick used to call it, shite for blood.
+
+75
+00:08:43,000 --> 00:08:54,000
+So the size of my red blood cells is very small. So my mean corpuscular volume and mean corpuscular hematocrit are very low.
+
+76
+00:08:54,000 --> 00:09:06,000
+I'm not anemic because I make up for it by having a lot of them. So I have a lot of red blood cells. They're just all very small. So I have kind of normal hemoglobin hematocrit oxygen carrying capacity.
+
+77
+00:09:07,000 --> 00:09:22,000
+But my hemoglobin A1C always runs high. I've measured it as high as 5.8. The lowest I've ever had measured is 5.1.
+
+78
+00:09:23,000 --> 00:09:46,000
+But any time I've measured it, if I go and look at my, because I've been wearing CGM for almost six years now, if I go and check my A1C versus my trailing 90-day CGM, it almost always suggests that the hemoglobin A1C is higher by 0.5 to 0.8.
+
+79
+00:09:47,000 --> 00:10:01,000
+So if I measure a 5.7 on the hemoglobin A1C, it's overstating my blood glucose, and it should really be about a 5.1 or a 5.2. Does that make sense?
+
+80
+00:10:01,000 --> 00:10:02,000
+Yeah.
+
+81
+00:10:03,000 --> 00:10:15,000
+And we see the opposite in some people, right? We have some patients where their CGM is actually showing us a much higher level of average blood glucose than what their hemoglobin A1C predicts.
+
+82
+00:10:16,000 --> 00:10:29,000
+So it's important to understand hemoglobin A1C is a measurement that predicts average blood glucose. CGM actually gives you average blood glucose, and you can reverse engineer and impute at A1C.
+
+83
+00:10:30,000 --> 00:10:35,000
+It's obviously the latter that is much more interesting because you're directly measuring the variable of interest.
+
+84
+00:10:36,000 --> 00:10:42,000
+Yeah, it's amazing. I mean, it's amazing technology. It's, you know, the difference between like a snapshot and a movie.
+
+85
+00:10:43,000 --> 00:10:56,000
+Yeah, entirely. And again, I mean, from when I started wearing these things nearly six years ago, I thought, I don't know why everyone in the world isn't wearing it, you know, notwithstanding the cost and the logistics of it.
+
+86
+00:10:57,000 --> 00:11:07,000
+And the obvious reason why everyone wasn't wearing it was their cost prohibitive. And, you know, certainly back then they were quite involved, but they're getting better and better and better.
+
+87
+00:11:08,000 --> 00:11:23,000
+And I'd like to believe that there will be a day when you go to your first visit at your doctor, they actually, you know, or prior to your first visit with your doctor, they send you, they mail you a CGM and you wear it for 30 days.
+
+88
+00:11:23,000 --> 00:11:40,000
+And that data is looked at by your doctor and your doctor. By the time you arrive in the office, he or she has that information. And, you know, instead of looking at an A1C or a fasting glucose, they can really look at what your glucose excursions have looked like over a period of time in the real world.
+
+89
+00:11:41,000 --> 00:11:56,000
+And they do that with, I guess, if things look fishy, but they'll do it with a sphygmomanometer, like they'll send you home with a blood pressure monitor and you'll take it every, you know, so often, maybe three times a day or whatever it is to get a look at your blood pressure that way.
+
+90
+00:11:57,000 --> 00:12:08,000
+Right. We do that with our patients. Most of our patients, there's a particular blood pressure monitor we fancy and we have them keep it at home. We have a special log. We have a, you know, a method that we want them to go to.
+
+91
+00:12:08,000 --> 00:12:28,000
+We have a, you know, a method that we want them to go about doing it, recording it, and then we'll track that as well. Unfortunately, in the wearable space, blood pressure is still far from primetime. We've tried a bunch of the wearables in that space and have not been impressed yet. But I actually think we're going to, I think there's going to be wearables in the blood pressure space soon.
+
+92
+00:12:29,000 --> 00:12:46,000
+So, okay. So where do you want to start on this? Because I know that part of the question that was posed is what are the metrics that we track? But I want to go back and sort of state my thesis, right? Or call it my hypothesis, I guess.
+
+93
+00:12:46,000 --> 00:13:15,000
+My hypothesis is that outside of the formal diagnosis of type 2 diabetes, so now I'm referring to what the person asking the question called as quote unquote normal people. And it's important that we leave quotes on that because I'm going to argue that that term has no meaning. But in the non-diabetic, which may be a better way to describe it, population, what is my argument? My argument is the following.
+
+94
+00:13:17,000 --> 00:13:34,000
+Lower average blood glucose is better. So, you know, a hemoglobin A1c of 5.1 is better than a hemoglobin A1c of 5.5, even though neither of those people are anywhere near having type 2 diabetes.
+
+95
+00:13:35,000 --> 00:13:53,000
+Two, the more you can minimize glucose variability, the better. And of course glucose variability is very difficult to measure without a CGM. Using a CGM, the standard deviation is the obvious mathematical tool to do that. And lower is better.
+
+96
+00:13:54,000 --> 00:14:08,000
+So, stated another way, if you have two people who both have an average glucose of 100 milligrams per deciliter, which by the way corresponds to about a hemoglobin A1c of 5 to 5.1, which would be excellent.
+
+97
+00:14:09,000 --> 00:14:18,000
+And one of them has a standard deviation of 10 milligrams per deciliter, and the other one has a standard deviation of 20, the person with the lower one is better off.
+
+98
+00:14:19,000 --> 00:14:38,000
+Second, pardon me, third, minimizing glucose peaks is important, irrespective of the first two things I said, average glucose and variability. Although obviously the more peaks you have, it's going to all things equal push up glucose and it will certainly increase variability.
+
+99
+00:14:38,000 --> 00:14:53,000
+But I would argue specifically that glucose peaks are problematic and that we want to minimize them. And so getting a little bit ahead of myself, what are the three metrics we are constantly tracking in our patients and what am I constantly tracking in myself?
+
+100
+00:15:38,000 --> 00:15:49,000
+So, for those of you who haven't heard all of the back episodes, it becomes a great way to go back and filter and decide which ones you want to listen to in detail.
+
+101
+00:15:50,000 --> 00:15:58,000
+Really steep discount codes for products I use and believe in, but for which I don't get paid to endorse and benefits that we continue to add over time.
+
+102
+00:15:58,000 --> 00:16:15,000
+If you want to learn more and access these member only benefits, head over to PeterAttiaMD.com forward slash subscribe. Lastly, if you're already a member but you're hearing this, it means you haven't downloaded our member only podcast feed where you can get the full access to the AMA and you don't have to listen to this.
+
+103
+00:16:15,000 --> 00:16:32,000
+You can download that at PeterAttiaMD.com forward slash members. You can find me on Twitter, Instagram, Facebook, all with the ID PeterAttiaMD. You can also leave us a review on Apple Podcast or whatever podcast player you listen on.
+
+104
+00:16:32,000 --> 00:16:45,000
+This podcast is for general informational purposes only and does not constitute the practice of medicine, nursing, or other professional healthcare services, including the giving of medical advice. No doctor-patient relationship is formed.
+
+105
+00:16:45,000 --> 00:16:58,000
+The use of this information and the materials linked to this podcast is at the user's own risk. The content on this podcast is not intended to be a substitute for professional medical advice, diagnosis, or treatment.
+
+106
+00:16:59,000 --> 00:17:10,000
+Users should not disregard or delay in obtaining medical advice from any medical condition they have and they should seek the assistance of their healthcare professionals for any such conditions.
+
+107
+00:17:11,000 --> 00:17:25,000
+Finally, I take conflicts of interest very seriously. For all of my disclosures and the companies I invest in or advise, please visit PeterAttiaMD.com forward slash about where I keep an up-to-date and active list of such companies.
+
+108
+00:17:28,000 --> 00:17:35,000
+Thank you.
+

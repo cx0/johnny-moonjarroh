@@ -1,0 +1,5656 @@
+1
+00:00:00,000 --> 00:00:15,600
+Hey everyone, welcome to the Drive podcast. I'm your host, Peter Attia. This podcast,
+
+2
+00:00:15,600 --> 00:00:19,380
+my website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:19,380 --> 00:00:24,360
+longevity into something accessible for everyone. Our goal is to provide the best content in
+
+4
+00:00:24,360 --> 00:00:28,440
+health and wellness, full stop, and we've assembled a great team of analysts to make
+
+5
+00:00:28,440 --> 00:00:32,720
+this happen. If you enjoy this podcast, we've created a membership program that brings you
+
+6
+00:00:32,720 --> 00:00:36,920
+far more in-depth content if you want to take your knowledge of this space to the next level.
+
+7
+00:00:36,920 --> 00:00:41,560
+At the end of this episode, I'll explain what those benefits are, or if you want to learn more now,
+
+8
+00:00:41,560 --> 00:00:48,080
+head over to PeterAttiaMD.com forward slash subscribe. Now, without further delay, here's
+
+9
+00:00:48,080 --> 00:00:55,960
+today's episode. My guest this week is Ned David. Ned is the president of Unity Biotechnology,
+
+10
+00:00:56,120 --> 00:01:00,640
+a company that he co-founded in 2011. In this episode, we're going to talk a little bit about
+
+11
+00:01:00,640 --> 00:01:06,640
+Unity, but more importantly, we talk about the science upon which Unity is developed,
+
+12
+00:01:06,640 --> 00:01:12,400
+and that is the science of senescence or cellular senescence. We begin this episode by putting that
+
+13
+00:01:12,400 --> 00:01:17,000
+into context. I think if you're interested in the space of longevity, you're listening to this
+
+14
+00:01:17,000 --> 00:01:21,400
+podcast, you've undoubtedly heard the term senescence, but it might not mean much to you.
+
+15
+00:01:21,880 --> 00:01:27,240
+I think what Ned does a great job of here is explaining not just senescence, but where it
+
+16
+00:01:27,240 --> 00:01:33,400
+fits in the overall lattice, if you will, of all of the different cellular processes that occur
+
+17
+00:01:33,400 --> 00:01:39,400
+during aging. Where does it fit in with the role of mTOR inhibition, caloric restriction,
+
+18
+00:01:39,400 --> 00:01:46,520
+mitochondrial dysfunction, stem cell exhaustion, methylation of DNA and epigenetic change, all of
+
+19
+00:01:46,520 --> 00:01:51,560
+these sorts of things. We also talk quite a bit about Ned's background as a serial entrepreneur in
+
+20
+00:01:51,560 --> 00:01:57,560
+biotechnology. Ned is at least partly responsible for the development of a number of FDA approved
+
+21
+00:01:57,560 --> 00:02:02,680
+compounds, and he talks openly about what he learned good, bad, and indifferent along the way,
+
+22
+00:02:02,680 --> 00:02:07,240
+and how that helped him at the beginning of this process of creating this company,
+
+23
+00:02:07,240 --> 00:02:12,760
+Unity, define sort of the jugular questions that needed to be addressed as sort of a proof of
+
+24
+00:02:12,760 --> 00:02:15,760
+principle. In fact, I found that part of the discussion most interesting, and I think you'll
+
+25
+00:02:16,160 --> 00:02:20,240
+know what I'm talking about when we get to that part of the episode, because I found that exercise
+
+26
+00:02:20,240 --> 00:02:26,560
+that he and his co-founders went through between about 2011, 2015, to be some of the most
+
+27
+00:02:26,560 --> 00:02:32,640
+interesting thinking around this idea of company creation. Ned is a prolific innovator. I think
+
+28
+00:02:32,640 --> 00:02:39,120
+when he was about 30, he was named to the top 100 innovators in the world by MIT Technology Reviews.
+
+29
+00:02:39,120 --> 00:02:43,840
+He holds a PhD from Cal Berkeley, and he got his undergrad degree in molecular biology at Harvard.
+
+30
+00:02:43,840 --> 00:02:49,440
+So without getting into too much more of the details of this, please enjoy my discussion with Ned David.
+
+31
+00:02:55,200 --> 00:02:59,680
+Ned, awesome to see you today. Thank you for coming by. Oh, thank you for having me. I feel
+
+32
+00:02:59,680 --> 00:03:04,800
+like I haven't seen you in person in way too long. Is this true? We tried to get you to come to dinner.
+
+33
+00:03:04,800 --> 00:03:10,080
+Oh, God, I feel horrible about that. Yes, sorry. Yeah, you were distracted. It's all good. No,
+
+34
+00:03:10,080 --> 00:03:13,840
+you know what I was doing? You were doing a podcast. I was doing a podcast that I thought
+
+35
+00:03:13,840 --> 00:03:20,320
+would take two and a half hours. It ended up taking six hours. That must have been an intense
+
+36
+00:03:20,320 --> 00:03:25,280
+experience. It was a very intense experience, and I felt horrible after. I'm sorry. So I owe you an
+
+37
+00:03:25,280 --> 00:03:30,320
+apology for that. It's okay. We love you. There's so much I want to talk with about you. In fact,
+
+38
+00:03:30,320 --> 00:03:35,680
+I've been bugging you for about a year to come on the podcast, because what I was hoping we could do,
+
+39
+00:03:35,680 --> 00:03:39,360
+and we can never do it when there's a microphone in front of us, but was sort of reproduce at
+
+40
+00:03:39,360 --> 00:03:45,520
+dinner conversation that we would have ordinarily, which would be pick some topic and we go way off
+
+41
+00:03:45,520 --> 00:03:51,120
+on a tangent about it. It could be energy. It could be biotech. It could be whatever.
+
+42
+00:03:51,680 --> 00:03:56,400
+But some of the most interesting discussions we've had over the past five years have been around
+
+43
+00:03:56,400 --> 00:04:05,280
+longevity, something that we both share an interest in. God, it's been probably nine years since you
+
+44
+00:04:06,000 --> 00:04:10,800
+talked to me about what became that which you're doing today. Is that about right?
+
+45
+00:04:10,800 --> 00:04:16,800
+Yeah, that's about right. It was 2011 towards the end. Yeah, actually, we're in December now,
+
+46
+00:04:16,800 --> 00:04:22,160
+so it's actually been somewhat more than eight years. So I want to talk a lot about your work.
+
+47
+00:04:22,160 --> 00:04:25,920
+You're always a guy who's got a lot of hats on. Right now, you're mostly wearing one hat,
+
+48
+00:04:25,920 --> 00:04:31,040
+and that's a hat that puts you squarely at the center of a pretty big circle with a bunch of
+
+49
+00:04:31,120 --> 00:04:37,360
+folks working at a company called Unity Biotech, which we'll certainly get to. But I think for
+
+50
+00:04:37,360 --> 00:04:43,680
+listeners to really understand what you do today, what your company does, they need to sort of
+
+51
+00:04:43,680 --> 00:04:48,880
+understand the journey you've gone through over the past several years and how that's sort of
+
+52
+00:04:48,880 --> 00:04:52,960
+shaped your thinking about an interesting problem. You're a serial entrepreneur, and we will likely
+
+53
+00:04:52,960 --> 00:04:58,640
+discuss some of that in your background. But let's just start with how you think about this problem
+
+54
+00:04:58,640 --> 00:05:02,960
+that I think about, which is how do we help people live longer? How do we help people live
+
+55
+00:05:02,960 --> 00:05:06,000
+better? How do you define that, by the way? I don't want to impose my definitions on you.
+
+56
+00:05:06,000 --> 00:05:14,160
+What is longevity to you? Well, longevity for me would be being able to live without the indignities
+
+57
+00:05:14,160 --> 00:05:20,720
+that I've witnessed, we all witness in our lives, all of these features of aging that seem to be
+
+58
+00:05:20,720 --> 00:05:27,840
+inescapable. So my father, for example, he has profound degenerative disc disease, which makes
+
+59
+00:05:27,920 --> 00:05:33,520
+him functionally immobile. It defines his life. My stepfather died of Alzheimer's at 87.
+
+60
+00:05:34,640 --> 00:05:41,680
+That defined the final chapter of his life. So I've been up close to these things in other people.
+
+61
+00:05:41,680 --> 00:05:46,480
+In addition, we all, and you and I are now, I'm a little older than you, I'm in my 50s now,
+
+62
+00:05:47,040 --> 00:05:53,440
+we are witnessing these changes in ourselves. And for me, longevity would be the ability to use
+
+63
+00:05:54,400 --> 00:06:03,600
+what I know how to do, which is science and biology, and be able to change how we get to live our lives,
+
+64
+00:06:04,160 --> 00:06:10,000
+to be free of these indignities. And I think it's something that we can do and we are doing it.
+
+65
+00:06:10,640 --> 00:06:17,040
+And so for me, it sort of began as a dream, but now we're generating human data that says
+
+66
+00:06:17,040 --> 00:06:23,360
+this, we can actually do this. So I remember when this started, Ned, circa 2011, how you read
+
+67
+00:06:23,680 --> 00:06:30,240
+steeped yourself in this field, which at the time was kind of new. You had already done a number of
+
+68
+00:06:30,240 --> 00:06:37,920
+interesting things in biology that had led to the development of drugs, but none quite in this space.
+
+69
+00:06:37,920 --> 00:06:43,280
+I mean, I literally remember many nights I'd be driving home and we'd be talking on the phone and
+
+70
+00:06:43,280 --> 00:06:47,840
+you would be telling me about things that you had just read about. And I saw this paper and it's 10
+
+71
+00:06:47,840 --> 00:06:52,320
+years old, but it was almost like you were going through a second postdoc or something, getting up
+
+72
+00:06:52,320 --> 00:06:57,120
+to speed in this. I've always liked the way you sort of explained your evolution of thought there.
+
+73
+00:06:57,120 --> 00:07:02,800
+Do you want to maybe for the listeners, give them a sense of how you developed a framework around this?
+
+74
+00:07:02,800 --> 00:07:04,880
+About sort of aging biology.
+
+75
+00:07:04,880 --> 00:07:07,520
+Yeah, why do we age and what can you do about it ultimately?
+
+76
+00:07:07,520 --> 00:07:13,920
+So maybe it's helpful for me to just create some context. And so the way I think about this and the
+
+77
+00:07:13,920 --> 00:07:20,880
+way I explain it to people that are new to this or people that aren't scientists is I always talk
+
+78
+00:07:20,880 --> 00:07:26,080
+about there are these sort of three principles that if you remember nothing else from listening,
+
+79
+00:07:26,080 --> 00:07:30,320
+if you're awakened two weeks from now in the middle of the night, it's these three principles
+
+80
+00:07:30,320 --> 00:07:37,280
+that I think are a good way to think about this. And the first principle is that aging is not a
+
+81
+00:07:37,280 --> 00:07:45,200
+rigid thing. So it's this flexible, malleable thing. And nature has throughout evolutionary
+
+82
+00:07:45,200 --> 00:07:51,120
+history sort of bent and twisted aging for its own purposes to create creatures that have very
+
+83
+00:07:51,120 --> 00:07:57,040
+different lifespans. And this kind of takes us to the second principle, which is that nature has
+
+84
+00:07:57,040 --> 00:08:05,120
+done this with these control knobs. These are sort of biochemical systems that nature twists.
+
+85
+00:08:05,120 --> 00:08:11,280
+And these systems are now something we're learning. And this takes us to the third principle
+
+86
+00:08:11,280 --> 00:08:16,480
+to turn as people that do drug hunting like us. And so it's these three principles that
+
+87
+00:08:16,480 --> 00:08:21,920
+nature is flexible or that aging is a flexible thing. And nature has then bent and twisted
+
+88
+00:08:22,480 --> 00:08:28,080
+control knobs to make it flexible, and that these are turnable stuff. So if you take those three
+
+89
+00:08:28,080 --> 00:08:36,640
+principles as the context, you may ask, well, why do we as scientists, why do I believe these things
+
+90
+00:08:36,640 --> 00:08:44,880
+are true? So if you just look outside at nature and creatures across phylogenetic history,
+
+91
+00:08:45,600 --> 00:08:52,800
+you see very similar creatures with very different lifespans. So if you take the hard clam,
+
+92
+00:08:52,800 --> 00:08:57,760
+so this is this thing you can eat at a clam bake. If you don't eat it, it will live about 40 years.
+
+93
+00:08:58,400 --> 00:09:05,920
+And it has a deep ocean dwelling relative called a quahog that lives at least 500 years. And
+
+94
+00:09:06,640 --> 00:09:11,520
+these are very similar creatures. They look very much the same. And no one really knows how long
+
+95
+00:09:11,520 --> 00:09:16,880
+this quahog lives. This 500 year thing was just because that was what the age of the wreck off
+
+96
+00:09:16,880 --> 00:09:22,800
+of which it was pulled was. So these are very similar creatures on the order of 12 fold
+
+97
+00:09:22,800 --> 00:09:30,080
+different lifespan. Similar story, if you flip over to, let's say the order of rodents. Actually,
+
+98
+00:09:30,080 --> 00:09:33,840
+let's not even go to rodents. Let's just talk about mammals, because that's us. Of course,
+
+99
+00:09:33,840 --> 00:09:38,480
+rodents are mammals too, but we are mammals as humans. So if you look at the shortest living
+
+100
+00:09:38,480 --> 00:09:42,880
+mammal, which is this thing called the tiny shrew lives less than a year. And then you look at the
+
+101
+00:09:42,880 --> 00:09:48,000
+longest living mammal. So it's called the bowhead whale. And again, no one knows how long a bowhead
+
+102
+00:09:48,000 --> 00:09:54,400
+whale actually lives. So the estimate is at least 200 years. So again, you've got this 200 fold
+
+103
+00:09:54,400 --> 00:10:00,720
+difference at least in creatures that kind of have the same biochemistry or both mammals. Now,
+
+104
+00:10:00,720 --> 00:10:04,880
+if you flip over to rodents, it's the same phenomenon. Okay, you can take a field mouse,
+
+105
+00:10:04,880 --> 00:10:10,640
+which can live somewhere between two and three years. And then you find this naked mole rat,
+
+106
+00:10:10,640 --> 00:10:17,600
+which is this very unusual looking subterranean creature that's blind and hairless. This creature
+
+107
+00:10:17,600 --> 00:10:21,440
+lives 10 times longer lives on the order of even more than 10 times longer lives on the order of
+
+108
+00:10:21,440 --> 00:10:29,200
+30 years if it doesn't die of some trauma. And again, these are these are in the same order.
+
+109
+00:10:29,200 --> 00:10:35,120
+And so these are closely related creatures, very, very different lifespans. So nature has clearly
+
+110
+00:10:35,120 --> 00:10:41,760
+gone to town on this and created these marvelous examples of disparate lifespan, but sort of the
+
+111
+00:10:41,760 --> 00:10:47,440
+same creature, the same biochemistry. So this kind of takes us to this idea of that nature has done
+
+112
+00:10:47,440 --> 00:10:55,120
+this. How has it done this? It's done it with these control knobs. And I'll walk through why
+
+113
+00:10:55,200 --> 00:11:03,200
+we thought they were control knobs and how we turn them. So the first control knob that got discovered
+
+114
+00:11:03,200 --> 00:11:08,080
+molecularly was the work of Cynthia Kenyon. And this was a paper that blew me away. I was a first
+
+115
+00:11:08,080 --> 00:11:12,320
+year in graduate school, maybe second year. And Cynthia published a paper that was pretty
+
+116
+00:11:12,320 --> 00:11:20,480
+heretical at the time. And the paper showed that you could knock down the function of a single gene
+
+117
+00:11:20,480 --> 00:11:25,120
+in a worm C. elegans. So it's about a millimeter size little worm. And when you knock down the
+
+118
+00:11:25,120 --> 00:11:30,720
+function of this thing, it doubled the animal's lifespan. And this was a wild result. Because at
+
+119
+00:11:30,720 --> 00:11:35,360
+the time, aging was thought of as this kind of decay process. But the notion that you could
+
+120
+00:11:35,360 --> 00:11:39,520
+essentially break the function of something or at least make it function a lot less well,
+
+121
+00:11:40,080 --> 00:11:47,200
+and double the lifespan of a creature was just a total mind warp for me and other people. Just like,
+
+122
+00:11:47,200 --> 00:11:51,600
+oh my gosh, you can dent something and it gets better. Now what's happened in the intervening
+
+123
+00:11:52,400 --> 00:11:56,800
+decades, this has been repeated in flies, it's even repeated in mice, you can knock down the
+
+124
+00:11:56,800 --> 00:12:02,080
+function of a single gene and calorie restrict an animal. And you can double its lifespan. That's
+
+125
+00:12:02,080 --> 00:12:08,800
+like you or me living to 160. Okay, because this is a creature with really similar biochemistry to
+
+126
+00:12:08,800 --> 00:12:15,840
+ourselves. So this just said that you could take single genes, turn them and do radical things to
+
+127
+00:12:15,840 --> 00:12:21,760
+lifespan. Now in fairness, with Cynthia's work in C elegans, I always felt that it wasn't the best
+
+128
+00:12:22,560 --> 00:12:29,280
+model to extrapolate from because of the division stopping at the germ cell. And therefore,
+
+129
+00:12:29,280 --> 00:12:34,240
+if you take DAF2 and DAF16 and project them forward to mammals, I don't think we've seen
+
+130
+00:12:34,240 --> 00:12:38,880
+the same magnitude of reduction with attenuation of those, have we? No. And maybe it's worth,
+
+131
+00:12:38,880 --> 00:12:43,120
+rather you explaining it than me, do you want to tell folks what DAF2 and DAF16 do just to bring
+
+132
+00:12:43,120 --> 00:12:48,240
+them along for the ride? So these were genes that were discovered in Cynthia's screen as
+
+133
+00:12:48,960 --> 00:12:56,240
+receptors and transcription factors associated with what we now talk about as the IGF-1 receptor
+
+134
+00:12:56,240 --> 00:13:03,440
+signaling pathway. And if you go in, so this is something that now has been explored in great
+
+135
+00:13:03,440 --> 00:13:10,800
+detail in mice, for example. And the analogous knockdowns in mice of the receptors don't produce
+
+136
+00:13:10,800 --> 00:13:16,960
+the same degree of longevity that you can produce in a worm. Now interestingly, a paper published
+
+137
+00:13:16,960 --> 00:13:22,400
+somewhat recently, this was near Barzilay and actually Pedro Beltran who I work with now,
+
+138
+00:13:22,400 --> 00:13:28,000
+with an antibody that antagonizes the IGF-1 receptor. Yeah. It extends life, but there's
+
+139
+00:13:28,000 --> 00:13:34,960
+a sex difference. So it only benefits the females. And it's not something that translates perfectly,
+
+140
+00:13:35,520 --> 00:13:42,960
+but I think that's not the interesting piece in terms of the whole story of what we're learning
+
+141
+00:13:42,960 --> 00:13:47,920
+about aging. It was to us and to me, it was, oh my gosh, you can damage the function of a single gene.
+
+142
+00:13:48,640 --> 00:13:53,680
+The fact that it still works in mammals is remarkable. The fact that it works less,
+
+143
+00:13:53,680 --> 00:14:00,640
+it's not as cool, it's a little bit of a bummer. But to me, it was really the DAF2, DAF16
+
+144
+00:14:01,440 --> 00:14:06,000
+observation that opened up the field and said that there were these knobs that you could turn
+
+145
+00:14:06,000 --> 00:14:11,040
+and you could get these radical impacts on longevity. And the additive value of DAF16 plus
+
+146
+00:14:11,040 --> 00:14:16,720
+caloric restriction was also very interesting in Cynthia's worms. And I actually thought that that
+
+147
+00:14:16,720 --> 00:14:22,640
+was perhaps the most extrapolable insight to mammals. But to your point, it was a proof of
+
+148
+00:14:22,640 --> 00:14:29,360
+concept, right? It was, this thing is malleable. Yeah. And to me, at the time, it was just like,
+
+149
+00:14:29,760 --> 00:14:35,440
+as though the mask tipped a little bit and you could see the face underneath like, oh my gosh,
+
+150
+00:14:35,440 --> 00:14:42,240
+there's something almost programmatic going along here as opposed to just this idea that you just
+
+151
+00:14:42,240 --> 00:14:49,920
+decay. And that was exciting. And that paper stuck with me for several decades. It was not something
+
+152
+00:14:49,920 --> 00:14:55,360
+that I chose to work on. Although I became friends with Cynthia at some point in the early 2000s and
+
+153
+00:14:55,360 --> 00:14:59,440
+we continue to be friends and talk all the time. But that particular biology is not,
+
+154
+00:14:59,440 --> 00:15:04,000
+it's more of a marker people use now, as opposed to something that people are actively trying to
+
+155
+00:15:04,000 --> 00:15:10,560
+perturb. So going back to this question about of knobs, this goes to our, this third principle,
+
+156
+00:15:10,560 --> 00:15:17,680
+which is that we can turn some of these knobs. The first knob actually that got turned in a
+
+157
+00:15:17,680 --> 00:15:26,160
+super aggressive way goes way back to the 1930s. And it was this guy at Cornell named Clive McKay.
+
+158
+00:15:26,160 --> 00:15:32,480
+And he had a colony of rodents. And this is shortly after the great depression. And his lab
+
+159
+00:15:32,480 --> 00:15:38,400
+didn't have a ton of money. And in an effort to keep portions of his colony alive, he fed some
+
+160
+00:15:38,400 --> 00:15:44,560
+of the animals all the time. And then other animals he fed infrequently. And what happened
+
+161
+00:15:44,560 --> 00:15:51,360
+was not what he expected. The animals that were restricted with food lived longer. And it was the
+
+162
+00:15:51,360 --> 00:15:57,760
+first times ever got experimentally demonstrated, albeit by accident. And for me, that was the first
+
+163
+00:15:57,760 --> 00:16:05,200
+time that scientists had sort of set out all for a very funny reason and turned a knob that extended
+
+164
+00:16:05,200 --> 00:16:12,320
+life. And it brought forward this idea that as we live, aging or your biology is making a decision
+
+165
+00:16:12,320 --> 00:16:19,440
+about the rate at which you are aging. Now flash forward several decades, a molecule is discovered
+
+166
+00:16:19,440 --> 00:16:24,640
+on Easter Island made by soil bacteria. It's one of your favorite molecules, rapamycin. Now the aging
+
+167
+00:16:24,640 --> 00:16:31,440
+effects of rapamycin were not figured out until about 2003. And then the awesome work of David
+
+168
+00:16:31,440 --> 00:16:38,080
+Sabatini eventually linked this caloristriction observation from decades and decades earlier
+
+169
+00:16:38,640 --> 00:16:44,480
+to rapamycin. And it turns out that rapamycin and caloristriction are both turning the same
+
+170
+00:16:44,480 --> 00:16:50,320
+control knob. And this is pretty wild because biology typically only invents a few ways to do
+
+171
+00:16:50,320 --> 00:16:55,680
+things. And what was really neat was the way in which these two totally different approaches
+
+172
+00:16:55,680 --> 00:17:02,720
+were both touching the same biology. So it's my belief that this biology, so there's this complex
+
+173
+00:17:02,720 --> 00:17:09,360
+called mTOR, which is this megadalton complex. It's this master decision maker of whether or not
+
+174
+00:17:09,360 --> 00:17:14,160
+we are choosing to divide and make more biomass because there's enough resources, or are we
+
+175
+00:17:14,160 --> 00:17:20,320
+choosing to fight another day. And this biology that rapamycin and caloristriction and restriction
+
+176
+00:17:20,320 --> 00:17:27,600
+of various other things like methionine is the single best validated biology across labs, across
+
+177
+00:17:27,600 --> 00:17:34,800
+species. And one of my co-workers, who's a sort of incredibly brilliant, but cynical guy, always
+
+178
+00:17:34,800 --> 00:17:40,080
+says, if you want to know what the real biology is, it's the stuff that works in every lab no
+
+179
+00:17:40,080 --> 00:17:46,000
+matter who's doing it. Okay. Rapamycin and caloristriction definitely have that feature.
+
+180
+00:17:46,000 --> 00:17:51,040
+It works in all these labs. Did you know that I tried to get a personalized license plate
+
+181
+00:17:51,040 --> 00:17:57,360
+for rapamycin and they got rejected by the DMV in California because rapamycin is a drug
+
+182
+00:17:57,360 --> 00:18:04,160
+and you can't have a license plate that's a drug. So then I tried again in vain to get rapalogue
+
+183
+00:18:04,160 --> 00:18:09,120
+as a license plate. And I got thwarted again because apparently someone at the DMV was smart
+
+184
+00:18:09,120 --> 00:18:14,480
+enough to Google rapalogue and figure out that it's an analog of rapamycin, which is also a drug.
+
+185
+00:18:14,480 --> 00:18:19,360
+And I got the same rejection letter from the DMV. I would just assume knowing you would have done
+
+186
+00:18:19,360 --> 00:18:26,640
+rapaman, which sounds vaguely like a supervillain. Okay. But now we didn't go stop there. I'll tell
+
+187
+00:18:26,640 --> 00:18:31,760
+you over dinner what I eventually went with. Okay. Gotcha. So anyway, there's this mTOR thing,
+
+188
+00:18:31,760 --> 00:18:37,680
+which is the best validated control knob. The next knob that got turned is this thing with
+
+189
+00:18:37,680 --> 00:18:42,240
+young blood. So this is something that's sort of popularized if you watch things like Silicon
+
+190
+00:18:42,240 --> 00:18:48,000
+Valley, but this goes back a ways. But the first time that the lifespan effects of this were
+
+191
+00:18:48,000 --> 00:18:53,200
+demonstrated was in the 1970s. And so what you do is you take two animals, one's young and one's
+
+192
+00:18:53,200 --> 00:18:59,280
+old, and you literally suture them together. And their circulatory systems join. And it's not a
+
+193
+00:18:59,840 --> 00:19:05,360
+giant mental leap to imagine that crap in old people is bad for you. So the old blood would be
+
+194
+00:19:05,360 --> 00:19:10,960
+bad for the young. The awesome result was that stuff in the young was good for the old and it
+
+195
+00:19:10,960 --> 00:19:16,160
+could extend life by as much as 15%. These are with animals that are sutured together, which is
+
+196
+00:19:16,160 --> 00:19:21,360
+not exactly an optimal way to live. So that tells you that's another knob. There's stuff in young
+
+197
+00:19:21,360 --> 00:19:27,360
+blood that is able to exert biology and do good things. And I think that's going to be an area
+
+198
+00:19:27,360 --> 00:19:33,040
+that will be fruitful. The next sort of control knobs we've learned about, so mitochondria age.
+
+199
+00:19:33,040 --> 00:19:39,280
+So mitochondria are the descendants of ancient bacteria. So they have their own DNA, they have
+
+200
+00:19:39,280 --> 00:19:46,320
+their own genomes and mitochondria live really hard life. And so their mutation rate of their
+
+201
+00:19:46,320 --> 00:19:52,160
+own DNA is somewhere between a hundred and a thousand fold faster than our nuclear mutation
+
+202
+00:19:52,160 --> 00:19:59,280
+rate. So their DNA just gets all chewed up. And as a consequence, by the time you are in your 70s,
+
+203
+00:19:59,280 --> 00:20:05,200
+you can go into a human being and look in their colonic crypts. And on the order of half of the
+
+204
+00:20:05,200 --> 00:20:11,760
+cells in their colonic crypts don't have functional mitochondria. They can't utilize oxygen to make
+
+205
+00:20:11,760 --> 00:20:17,600
+energy or do all the other things that mitochondria do that are important. And so that's something
+
+206
+00:20:17,600 --> 00:20:22,960
+that we've learned that is clearly a part of this aging story. Another thing that could be a knob,
+
+207
+00:20:22,960 --> 00:20:28,720
+and this is an area of some intense debate these days, is this thing called the methylation clock.
+
+208
+00:20:28,720 --> 00:20:35,760
+So this is this ever ticking clock in which these methyl groups, this is a little carbon atom with
+
+209
+00:20:35,760 --> 00:20:44,400
+three hydrogens around it, are attached or detached over time to the various Cs in your GATC
+
+210
+00:20:44,400 --> 00:20:49,280
+code. And when you're young, there's essentially these five methyl Cs, these methyl groups on your
+
+211
+00:20:49,280 --> 00:20:55,360
+DNA. It's like a crisp pegboard where everything's lined up perfectly and you've got areas where
+
+212
+00:20:55,360 --> 00:21:03,520
+they are and crisp areas where they are not. And gene expression is not noisy. And as we get old,
+
+213
+00:21:03,520 --> 00:21:07,840
+it's like someone drops the pegboard and suddenly you've got methylations where you're not supposed
+
+214
+00:21:07,840 --> 00:21:13,040
+to have them and you're missing them in other places. And it looks as though that might, and
+
+215
+00:21:13,040 --> 00:21:19,120
+I stress the word might, give rise to sort of noisy gene expression. And the metaphor I often
+
+216
+00:21:19,120 --> 00:21:23,920
+think of for this is imagine you have a vinyl LP if you're old enough to know what that is,
+
+217
+00:21:23,920 --> 00:21:28,720
+or hip enough to know what that is, it's going to be hip to your thing now, and you play an LP a lot.
+
+218
+00:21:28,720 --> 00:21:35,200
+The actual act of playing that LP takes the little knobs and grooves and wears them down so
+
+219
+00:21:35,200 --> 00:21:43,520
+the LP doesn't sound as good. And it's possible that the act of being alive and that aging actually
+
+220
+00:21:43,520 --> 00:21:50,320
+is modifying these little methyl groups in such a fashion as to cause aging. No one knows if these
+
+221
+00:21:50,320 --> 00:21:55,440
+changes in this epigenetic clock are the cause of features of aging or the result of features of
+
+222
+00:21:55,440 --> 00:22:00,560
+aging or even a little bit of both. And that's going to be a super interesting area of biology.
+
+223
+00:22:00,560 --> 00:22:05,200
+Yeah, I've spoken with David Sinclair quite a bit about this. He uses an analogy that's
+
+224
+00:22:05,200 --> 00:22:10,000
+similar but has a couple differences, which is the methylation could be thought of as the
+
+225
+00:22:10,000 --> 00:22:15,280
+scratches one gets in a CD surface. And the question of course being, can you restore the
+
+226
+00:22:15,280 --> 00:22:20,560
+CD back to its original form if you have that master template? And that's not exactly the same
+
+227
+00:22:20,560 --> 00:22:24,480
+as the analogy you've used, but it certainly speaks to the music and the disc.
+
+228
+00:22:24,480 --> 00:22:28,320
+Yeah, it's interesting. So I always think of CDs getting scratched because you're negligent.
+
+229
+00:22:29,040 --> 00:22:32,080
+Right, as opposed to just putting them in the CD player and using them.
+
+230
+00:22:32,080 --> 00:22:37,280
+And so there's a nuance. I mean, it's funny, those two metaphors may even, as you know,
+
+231
+00:22:37,280 --> 00:22:41,040
+may speak to different intuitions between me and David about what's going on here.
+
+232
+00:22:41,680 --> 00:22:47,040
+But I don't really have an intuition. I'm sort of reporting out what's sort of known and what it's
+
+233
+00:22:47,040 --> 00:22:51,920
+going to be just very exciting to see when we can actually do experiments that can tease this apart
+
+234
+00:22:51,920 --> 00:22:58,800
+and ask questions like, if you take these methylation groups away, do you in fact start
+
+235
+00:22:59,360 --> 00:23:03,760
+making cells that are younger functionally? And that's going to be an awesome experiment.
+
+236
+00:23:04,560 --> 00:23:08,560
+David did an experiment recently and I think you have to be a little cautious with interpretation.
+
+237
+00:23:09,200 --> 00:23:17,360
+So twice in our lives, we press a factory reset, you are methylome. So you do it once
+
+238
+00:23:17,360 --> 00:23:24,000
+at conception. And so a bunch of gene products get made, which erase and reset your methylome
+
+239
+00:23:24,000 --> 00:23:31,600
+back to day zero because you're now an embryo and the program is beginning again. Now, a few weeks
+
+240
+00:23:31,600 --> 00:23:37,200
+into your life, it happens a second time, but only in a little bit of your cells.
+
+241
+00:23:37,200 --> 00:23:41,280
+Yeah. So let's explain that. So when you start at conception, you have one cell.
+
+242
+00:23:42,240 --> 00:23:44,480
+It goes through about 50 divisions.
+
+243
+00:23:44,480 --> 00:23:48,960
+So I don't know exactly. So are you talking about when we do the second reset? First of all,
+
+244
+00:23:48,960 --> 00:23:52,000
+it's different in humans and mice. And I apologize. I don't know.
+
+245
+00:23:52,000 --> 00:23:53,520
+But it's some relatively small number.
+
+246
+00:23:53,520 --> 00:23:58,400
+It's a small number and it happens within, I believe it's weeks in the human. I think it's
+
+247
+00:23:58,400 --> 00:24:02,480
+a little over a week in a mouse, but anyone out there that works on this, and I have friends I
+
+248
+00:24:02,480 --> 00:24:09,360
+could call, but not right the second. What happens is there's a second wave of these gene products
+
+249
+00:24:09,360 --> 00:24:15,360
+that are made and for a second time in your life and the only second time in your life,
+
+250
+00:24:16,000 --> 00:24:23,120
+you will reset because now you are making germ cells for your children and they are
+
+251
+00:24:23,120 --> 00:24:27,840
+kept in a special spot in your sex organs until you make babies.
+
+252
+00:24:27,840 --> 00:24:31,280
+So those are the only two times that this factory reset gets pressed.
+
+253
+00:24:31,280 --> 00:24:35,120
+And then going back to where I was saying you have to be a little cautious with interpretation.
+
+254
+00:24:35,120 --> 00:24:42,560
+We now know how to do this artificially. So we can express four factors called the Yamanaka
+
+255
+00:24:42,560 --> 00:24:48,320
+factors. And these four factors by themselves, if you express them in cells, it's super inefficient,
+
+256
+00:24:49,040 --> 00:24:57,680
+but one in every few thousand cells you can cause to become a reset cell with a prime.
+
+257
+00:24:57,680 --> 00:25:01,520
+When did Yamanaka do this? This is in our lifetime. I mean, this is quite recent.
+
+258
+00:25:01,520 --> 00:25:04,960
+Yeah. He got the Nobel prize. I, at last, I don't have the date. I know a lot about
+
+259
+00:25:05,040 --> 00:25:09,760
+actually how he isolated them. I just don't know the precise dates, but basically he did this.
+
+260
+00:25:09,760 --> 00:25:16,240
+It was a beautiful experiment with Yamanaka did. He initially identified genes that candidate list
+
+261
+00:25:16,240 --> 00:25:22,240
+of genes that were turned on in this sort of embryological state. And then he started using,
+
+262
+00:25:22,240 --> 00:25:27,440
+he was delivering the genes in various combinations. He ultimately wound up paired down to about two
+
+263
+00:25:27,440 --> 00:25:34,400
+dozen. And then he then would take various pairwise combinations and figured out how few he could do
+
+264
+00:25:34,400 --> 00:25:39,920
+and still managed to turn on one of these embryonic genes. And he managed to weed it down
+
+265
+00:25:39,920 --> 00:25:45,520
+to four and he got the Nobel prize for them. And so what's happened in the intervening years is
+
+266
+00:25:45,520 --> 00:25:52,320
+there's been some efforts to see, could you actually impose features of youth? Because it's
+
+267
+00:25:52,320 --> 00:25:58,720
+sort of a simple minded leap to say, Oh, if you look embryonic, that's young in fact, and I think
+
+268
+00:25:58,720 --> 00:26:03,200
+that's the little dangerous leap. Right. Just because you don't have the methyl groups on your
+
+269
+00:26:03,200 --> 00:26:09,680
+DNA doesn't mean they translate into the phenotype that is youth. That's correct. What I think you do
+
+270
+00:26:09,680 --> 00:26:16,400
+when you do Yamanaka four factor reprogramming is it's a self fate decision. You've entered a very
+
+271
+00:26:16,400 --> 00:26:23,120
+unique cellular state. Now it just so happens to have things that are in common with youth. And so
+
+272
+00:26:23,120 --> 00:26:27,840
+I think that when you do a reprogramming event and you were able to exert something that looks like
+
+273
+00:26:27,840 --> 00:26:33,840
+youthful biology, you may have actually just created new young stem cells that are able to
+
+274
+00:26:33,840 --> 00:26:40,240
+somehow pick up the music developmentally and participate. That's sort of different than youth.
+
+275
+00:26:41,200 --> 00:26:46,400
+It's a bit of a sort of cell transplant, sort of thing, although done by the delivery of genes.
+
+276
+00:26:47,120 --> 00:26:54,080
+So anyway, this whole question about this methyl clock is something that it's an intense area of
+
+277
+00:26:54,080 --> 00:26:59,520
+interest in the biological community. It's evolving a lot. There's a bunch of labs that
+
+278
+00:26:59,520 --> 00:27:03,920
+are working on this and it's going to be a very interesting next five years to see where this
+
+279
+00:27:03,920 --> 00:27:10,640
+drops out. We sort of covered a bunch of things. We've talked about. Yeah, you've got mTOR reduction
+
+280
+00:27:10,640 --> 00:27:16,080
+slash caloric restriction, loss of the circulating youth factors, mitochondrial dysfunction,
+
+281
+00:27:16,080 --> 00:27:22,160
+methylation clock, which sort of ties into sort of stem cell exhaustion. And then we've got another
+
+282
+00:27:22,160 --> 00:27:28,400
+big one. What I wanted to do was I've spent the last now just a little over eight years working on
+
+283
+00:27:28,400 --> 00:27:34,240
+one of these last knobs that we know how to turn, which is cellular senescence. But I wanted to
+
+284
+00:27:35,040 --> 00:27:43,760
+place that particular knob in the context of the others because I don't want to sort of overhype
+
+285
+00:27:43,760 --> 00:27:49,360
+this idea. But I do want to explain why I've dedicated a large chunk of my life on planet
+
+286
+00:27:49,360 --> 00:27:54,240
+Earth to this. Because if you look at all of these aging mechanisms and these knobs that I've
+
+287
+00:27:54,240 --> 00:28:02,000
+described, they all play a role in this. We don't yet know what the sort of underlying primordial
+
+288
+00:28:02,000 --> 00:28:08,080
+clock that ticks that makes us age. What we do know is that you have a series of these component
+
+289
+00:28:08,080 --> 00:28:13,680
+mechanisms that work collectively and they create this phenomenon that we call aging. And I want to
+
+290
+00:28:13,680 --> 00:28:19,840
+talk about cellular senescence now because I work on it because of all of the mechanisms,
+
+291
+00:28:20,400 --> 00:28:28,240
+it strikes me and struck me as the simplest mechanism to perturb and make medicines
+
+292
+00:28:28,800 --> 00:28:34,000
+that you can use to treat human beings. And I'll get into why that is in a sec, but I'll just tell
+
+293
+00:28:34,000 --> 00:28:41,120
+you about the knob. So we all begin life as a single cell at conception. And then over the arc
+
+294
+00:28:41,120 --> 00:28:49,760
+of our lives, we, the single cell, will divide as many as 50 times. And on the road to 50 divisions,
+
+295
+00:28:50,320 --> 00:28:55,280
+the cells that make us up will encounter some form of stress they cannot resolve. They will
+
+296
+00:28:55,280 --> 00:28:59,680
+pull an emergency brake and they will stop dividing forever. And we call this state,
+
+297
+00:28:59,680 --> 00:29:05,120
+when you do this, we call cells that do this a senescent cell. And this is something that we've,
+
+298
+00:29:05,120 --> 00:29:12,160
+we find these cells in all of the tissues we've examined. And these cells, they're a very small
+
+299
+00:29:12,160 --> 00:29:19,200
+number most of the time. Typically it's on the order of hovering around 1% or less. Now in some
+
+300
+00:29:19,200 --> 00:29:23,760
+disease states we have looked at that number is dramatically higher. And I'll talk about that a
+
+301
+00:29:23,760 --> 00:29:29,120
+little bit later. Children don't have these cells. Now they can make them, but they don't accumulate
+
+302
+00:29:29,120 --> 00:29:35,840
+and we don't know why, but as we age, these cells accumulate. Now, before the work of my
+
+303
+00:29:36,640 --> 00:29:41,680
+collaborators and my co-founders at the company I work at, no one knew if these
+
+304
+00:29:42,880 --> 00:29:49,520
+accumulating senescent cells were good for you, bad for you, or neither. And so my two co-founders,
+
+305
+00:29:49,520 --> 00:29:55,920
+and now almost a decade of collaborators, Judy Campisi at the Buck Institute and Jan
+
+306
+00:29:55,920 --> 00:30:01,600
+Vandersen at the Mayo Clinic, both of their laboratories genetically engineered mice,
+
+307
+00:30:01,600 --> 00:30:06,080
+where we could eliminate senescent cells from these animals whenever we want it.
+
+308
+00:30:06,800 --> 00:30:14,960
+And for the first time we got to ask what happens. And what happens is pretty eye popping. So normally
+
+309
+00:30:14,960 --> 00:30:19,600
+I carry this picture around on my iPhone, so I always show people this is what I work on, but
+
+310
+00:30:19,600 --> 00:30:25,840
+essentially by a podcast you have to use a little bit of imagination. So imagine two animals,
+
+311
+00:30:25,840 --> 00:30:31,200
+siblings, born within seconds of each other from the same mom. These are animals that are 24 months
+
+312
+00:30:31,200 --> 00:30:38,400
+old, so it's kind of equivalent to a 70 year old person. And one of these littermates is blind,
+
+313
+00:30:38,400 --> 00:30:44,000
+it's osteoporotic, it's frail, it has kidney dysfunction, it has cardiac dysfunction, it looks
+
+314
+00:30:44,000 --> 00:30:50,000
+visibly old. It's littermate from whom we eliminated senescent cells from midlife until it
+
+315
+00:30:50,960 --> 00:30:58,720
+dies. This animal lives on average about 30% longer, which is cool. But what's more awesome
+
+316
+00:30:58,720 --> 00:31:06,320
+than that is that when this animal dies and when it's similarly treated animals die, they die with
+
+317
+00:31:06,320 --> 00:31:14,640
+many of the features of aging either absent or reduced. And that is awesome. So we're trying
+
+318
+00:31:14,640 --> 00:31:18,880
+to do it unity, the company I work at. Now before you say something interesting you said, which is
+
+319
+00:31:18,960 --> 00:31:24,480
+they have this knockout of senescence that only occurs in midlife. No, what we do is we insert
+
+320
+00:31:24,480 --> 00:31:30,160
+into every cell of that animal's body, we genetically engineer the animals, so that we can administer a
+
+321
+00:31:30,160 --> 00:31:36,320
+drug weekly which kills senescent cells within that animal. But do you begin that administration
+
+322
+00:31:36,320 --> 00:31:40,400
+at midlife? And what happens if you begin that administration at birth? We have not done that
+
+323
+00:31:40,400 --> 00:31:45,520
+experiment in large part because we don't see senescent cells at birth. I see, is there a chance
+
+324
+00:31:45,600 --> 00:31:51,600
+that those animals would prematurely get cancer if we eradicated their ability to create stem cells
+
+325
+00:31:51,600 --> 00:31:57,840
+at the beginning of life? Didn't Judith have some data that suggested the importance of senescence
+
+326
+00:31:57,840 --> 00:32:03,440
+early on as a sort of break against cancer as well? So you bring up a really important
+
+327
+00:32:04,160 --> 00:32:08,880
+point that I should clarify. So whenever I tell people about this result, people often ask,
+
+328
+00:32:08,880 --> 00:32:14,880
+this is an important system. Why are you messing with it? So it turns out the ability to make
+
+329
+00:32:14,960 --> 00:32:20,240
+senescent cells is vitally important to our survival. So if you genetically engineer a mouse
+
+330
+00:32:20,240 --> 00:32:26,560
+that cannot make senescent cells, this animal is born normally. It's got 10 fingers and 10 toes,
+
+331
+00:32:26,560 --> 00:32:32,000
+but it statistically winds up full of tumors before it's in reproductive age. So it tells you
+
+332
+00:32:32,000 --> 00:32:38,400
+that this emergency break, the cellular senescent system, is an anti-cancer system. And you do not
+
+333
+00:32:38,480 --> 00:32:44,960
+want to mess with the emergency break. You have to leave it alone. And so in the experiment I
+
+334
+00:32:44,960 --> 00:32:51,040
+described where we eliminate these cells, we don't touch the break. We allow the break to pull
+
+335
+00:32:51,040 --> 00:32:59,760
+completely. And for the cell cycle to stop, we only show up after. Now, I think it's still a
+
+336
+00:32:59,760 --> 00:33:03,520
+reasonable question. You'd say, dude, it's like this is an anti-cancer system and you're kind
+
+337
+00:33:03,520 --> 00:33:08,320
+of screwing around with it. Are you sure this is okay? Let's take a step way back. So in medical
+
+338
+00:33:08,320 --> 00:33:14,880
+school, we spent all this time learning about different cellular insults. And perhaps the most
+
+339
+00:33:15,440 --> 00:33:21,840
+obvious one, and the one we could use as an example, is DNA damage. So when a cell's DNA is damaged,
+
+340
+00:33:21,840 --> 00:33:28,160
+presumably its first choice is, can I fix this? But if a cell's fate is such that it can't repair
+
+341
+00:33:28,160 --> 00:33:34,720
+its DNA, that's sort of when it has this bifurcated pathway of going down the pathway of apoptosis,
+
+342
+00:33:35,280 --> 00:33:40,000
+which means for the listener that it has a programmed form of cell death. So it basically
+
+343
+00:33:40,640 --> 00:33:46,400
+kills itself in a programmatic structured way. Or it goes down this pathway that you've described,
+
+344
+00:33:46,400 --> 00:33:51,200
+which is senescence, effectively saying, I will no longer do anything. I'm still alive,
+
+345
+00:33:51,760 --> 00:33:56,640
+but I don't grow anymore. I don't replicate. I don't reproduce anymore. My DNA is dysfunctional.
+
+346
+00:33:57,200 --> 00:34:03,520
+As we'll talk about, I suspect it still does things. It still secretes factors that wreak havoc.
+
+347
+00:34:03,520 --> 00:34:08,720
+But is that a fair assessment that I've just made of using an example of a cell with DNA
+
+348
+00:34:08,720 --> 00:34:15,680
+damage? Has that sort of choice? It does. And we don't understand how cells make the choice
+
+349
+00:34:15,680 --> 00:34:21,280
+between the two. I was going to ask you that. Do we have any sense of what sways that decision?
+
+350
+00:34:22,000 --> 00:34:29,520
+Well, I'll tell you some anecdotes. So what we do is we in the lab will irradiate cells or treat
+
+351
+00:34:29,600 --> 00:34:34,720
+them with a DNA damaging agent. These are both things that... Yeah, known things that destroy DNA.
+
+352
+00:34:34,720 --> 00:34:40,560
+So we have a setting on our irradiator, which does both. So it both causes cells to die.
+
+353
+00:34:41,120 --> 00:34:46,880
+And then 99% of the cells that remain will enter senescence. So you know that all those cells in
+
+354
+00:34:46,880 --> 00:34:52,800
+the dish got the same radiation. They're all the same clone of the cell. Yet some of them chose
+
+355
+00:34:52,800 --> 00:34:58,000
+death and some of them chose senescence. I think it's a really interesting question for us to try
+
+356
+00:34:58,000 --> 00:35:03,680
+to understand about why did some die and why did some live? Presumably it's driven by some
+
+357
+00:35:03,680 --> 00:35:08,960
+explicit cell state at the time. Is there a way post hoc to examine the DNA damage of the cells
+
+358
+00:35:08,960 --> 00:35:14,480
+that died and compared to the DNA damage of the cells that underwent senescence? Because presumably
+
+359
+00:35:14,480 --> 00:35:20,080
+the actual DNA damage is going to be stochastically distributed across those cells. And even though
+
+360
+00:35:20,080 --> 00:35:23,920
+they are the same cells receiving the same radiation, they probably undergo different
+
+361
+00:35:24,000 --> 00:35:30,400
+degrees of DNA damage. And could it be something as simple as if you damage this portion of the DNA,
+
+362
+00:35:31,120 --> 00:35:34,720
+you lose the ability to undergo apoptosis, but you still retain the ability to undergo
+
+363
+00:35:34,720 --> 00:35:39,200
+senescence or vice versa? Yeah, I mean, you have to be a little tricky because if you're... So
+
+364
+00:35:39,840 --> 00:35:44,800
+the challenge with asking cells that died, what happened is that it requires a bit of a cellular
+
+365
+00:35:44,800 --> 00:35:50,080
+seance. Okay. I have a cellular Ouija board. No, I'm just kidding. Yeah. Since we've been talking
+
+366
+00:35:50,080 --> 00:35:54,880
+about this, as I've been thinking creatively, there are these... There's moments on the order
+
+367
+00:35:54,880 --> 00:36:01,440
+of minutes to hours after the insult happens in which the cell is going through its pre-death
+
+368
+00:36:01,440 --> 00:36:05,840
+throws. And you still don't know which direction it's going to go? This is not something I've ever
+
+369
+00:36:05,840 --> 00:36:10,160
+seen studied. So this could be something that just outside of my personal experience, but I just
+
+370
+00:36:10,160 --> 00:36:16,160
+think about what we do every day in which we insult cells in an effort to make cells become
+
+371
+00:36:16,160 --> 00:36:20,560
+senescent, but a portion of them choose death. There's got to be a dozen postdocs thinking about
+
+372
+00:36:20,560 --> 00:36:25,680
+this problem, right? Yeah. You'd have to be in a hardcore apoptosis. The thing is, you'd want to be
+
+373
+00:36:25,680 --> 00:36:31,280
+in a apoptosis lab. I don't know who is actually working on this problem. It's a pretty interesting
+
+374
+00:36:31,280 --> 00:36:36,000
+problem though. I think the way you'd want to get at it would be, you might want to be looking
+
+375
+00:36:36,000 --> 00:36:42,400
+quantitatively. For example, if you had some sort of die that could tell you how much DNA damage a
+
+376
+00:36:42,400 --> 00:36:47,920
+cell got, you had some sort of high content imaging, and you could look down at a plate and say,
+
+377
+00:36:48,480 --> 00:36:55,360
+oh, these guys that accumulated in the minutes of radiation three times more of the... They
+
+378
+00:36:55,360 --> 00:36:59,440
+incorporated three times more of the die. These are the guys that chose death. You could do something
+
+379
+00:36:59,440 --> 00:37:03,680
+like that. And so then you don't need a seance. You just need somebody. It's kind of a, I guess,
+
+380
+00:37:03,680 --> 00:37:07,920
+it's more of like a cellular death watch. There's ways that you could start to get at that. It's
+
+381
+00:37:07,920 --> 00:37:12,080
+kind of cool. Sorry to take us off that track, but now let's focus on the guys that didn't
+
+382
+00:37:12,080 --> 00:37:18,640
+undergo apoptosis. So you've got all these cells that have undergone some insult and they've now
+
+383
+00:37:18,640 --> 00:37:23,520
+committed to sort of a celibate life. They're not going to reproduce anymore. And if they just left
+
+384
+00:37:23,520 --> 00:37:27,840
+it at that, it wouldn't be such a problem. It's this other thing they do that's problematic,
+
+385
+00:37:27,840 --> 00:37:34,080
+which is they sort of poison the well for cells around them that are otherwise not damaged. Is
+
+386
+00:37:34,080 --> 00:37:39,040
+that a fair assessment of senescence? That is. So in fact, early on in the history of this field,
+
+387
+00:37:40,000 --> 00:37:45,920
+which we can get into in a little bit, it was a real theoretical problem. How could something
+
+388
+00:37:45,920 --> 00:37:52,320
+that's 1% of your cells damage the function of 99% of your cells? Well, as it turns out,
+
+389
+00:37:52,320 --> 00:37:59,920
+these cells have a very active secreter that my co-founder Judy Campisi discovered in 2008. And
+
+390
+00:37:59,920 --> 00:38:06,880
+it's, this is the means by which these cells exert bad biology. They secrete into the micro environment
+
+391
+00:38:06,880 --> 00:38:15,920
+around them all this crap that distorts tissue function. And that is how these cells contribute
+
+392
+00:38:15,920 --> 00:38:21,280
+both to features of natural aging as well as very particular diseases of aging is via the
+
+393
+00:38:21,280 --> 00:38:27,200
+secreter called the SASP, which stands for senescence associated secretory phenotype. And I know it's a
+
+394
+00:38:27,200 --> 00:38:33,760
+mouthful, but well, SASP is pretty cool. Yeah. And so it's really a paracrine feature. So in medicine,
+
+395
+00:38:33,760 --> 00:38:39,760
+we learn about endocrine versus paracrine versus exocrine features. But paracrine is when a gland
+
+396
+00:38:39,760 --> 00:38:47,200
+can actually secrete its hormone. And it goes directly to the tissue that it's operating on
+
+397
+00:38:47,200 --> 00:38:51,440
+without having to even pass through the circulation and go around like the way, for example,
+
+398
+00:38:51,440 --> 00:38:57,520
+insulin, when it's secreted by the pancreas becomes systemic, but this paracrine effect is to secrete
+
+399
+00:38:57,520 --> 00:39:04,320
+it and poison your neighbor right next to you. And I guess your point now explains why if you
+
+400
+00:39:04,320 --> 00:39:10,320
+don't have the ability to undergo senescence, that would be bad because you take all those cells that
+
+401
+00:39:10,320 --> 00:39:16,800
+are damaged that for whatever reason, don't choose the apoptotic pathway are now, they should be
+
+402
+00:39:16,800 --> 00:39:21,360
+celibate, but they're not and they keep reproducing. And that's why you might be born looking normal,
+
+403
+00:39:21,360 --> 00:39:25,680
+but as you accumulate injury and insult, boom, you're going to develop into tumors. But that's
+
+404
+00:39:25,680 --> 00:39:29,920
+very different from saying, we're going to let you undergo senescence, but we might potentially
+
+405
+00:39:29,920 --> 00:39:35,440
+block your ability to cause toxicity after the fact or other means of targeting those cells.
+
+406
+00:39:35,440 --> 00:39:38,240
+I mean, there's many ways to do this, but yeah. Well, let me just go back to this whole thing,
+
+407
+00:39:38,240 --> 00:39:44,720
+which is that cancer thing. So we know that if you can't make cells become senescent, you
+
+408
+00:39:45,280 --> 00:39:52,560
+dramatically increase tumors in mice. And that's a powerful lesson about what not to do,
+
+409
+00:39:52,560 --> 00:40:00,160
+which is don't mess with the underlying biology here. Showing up after, however, is a pretty cool
+
+410
+00:40:00,160 --> 00:40:05,280
+idea. And the fact that this paper, and I'll come back to how I got involved in all this, but
+
+411
+00:40:05,920 --> 00:40:14,960
+the fact that eliminating these cells can produce a series of youth effects while not increasing
+
+412
+00:40:14,960 --> 00:40:20,320
+cancer risk was very awesome. And it was actually kind of a theoretical validation of the picture
+
+413
+00:40:20,320 --> 00:40:26,240
+in our minds about how this was all working. So it might be useful to actually sort of at this
+
+414
+00:40:26,240 --> 00:40:31,120
+moment, sort of talk a little bit about the history of where this actually all came from.
+
+415
+00:40:31,120 --> 00:40:35,280
+And then we'll come back to what we're doing with this now and how we're making medicines based on
+
+416
+00:40:35,280 --> 00:40:41,040
+it. But I think it's always helpful to place what you're doing in historical context. So this whole
+
+417
+00:40:41,120 --> 00:40:50,960
+idea of cellular senescence traces itself back to the early 1960s. There was a very clever guy
+
+418
+00:40:50,960 --> 00:40:55,520
+named Leonard Hayflick, who I've actually had the pleasure of meeting very randomly on an airplane.
+
+419
+00:40:56,240 --> 00:41:03,520
+But at the time in the early 1960s, it was widely believed that cells from us, from mammals,
+
+420
+00:41:04,080 --> 00:41:11,680
+could have infinite capacity to divide. And this was made famous by Alexis Carell, who goes back
+
+421
+00:41:11,680 --> 00:41:16,480
+decades before that. The leaders in the field all believed this. And it turns out this was the
+
+422
+00:41:16,480 --> 00:41:24,240
+result of the fact that the food that was being fed to these cells, which was derived from chickens,
+
+423
+00:41:24,960 --> 00:41:31,520
+was contaminated with chicken cells. So every time cells were fed food, they were also fed
+
+424
+00:41:31,600 --> 00:41:36,560
+other cells. And it gave this impression that these cells were dividing forever. And this Leonard
+
+425
+00:41:36,560 --> 00:41:40,720
+Hayflick showed up and... And for someone listening who's listening to this thinking,
+
+426
+00:41:40,720 --> 00:41:46,560
+how can years, decades of dogma come from such sloppiness? It is important to understand that
+
+427
+00:41:46,560 --> 00:41:51,440
+they're basically relying on light microscopes. Today, you wouldn't make that mistake because
+
+428
+00:41:51,440 --> 00:41:57,040
+you'd be able to look at the DNA of the different cells and realize that, hey, these are chicken
+
+429
+00:41:57,040 --> 00:42:03,280
+cells, those are mouse cells, et cetera. But it's a beautiful example of both how far biology has
+
+430
+00:42:03,280 --> 00:42:10,800
+come, but also how the simplest mistakes can lead to catastrophic misinterpretation. I write about
+
+431
+00:42:10,800 --> 00:42:15,040
+this in my book, this story. And I remember the first time I came across it like you, I was sort
+
+432
+00:42:15,040 --> 00:42:19,600
+of like... My first thought was, how the hell is that possible? But then upon further reflection,
+
+433
+00:42:19,600 --> 00:42:23,840
+you're imposing too much of your current worldview on the problem.
+
+434
+00:42:23,840 --> 00:42:28,960
+Yeah, I think it's important to show a little bit of compassion as you have by pointing out
+
+435
+00:42:28,960 --> 00:42:35,440
+the limitations of their technology at the time and the context that they were living in. What's
+
+436
+00:42:35,440 --> 00:42:40,720
+funny is I will report an interesting mistake that turns out we ordered from ATCC what we thought
+
+437
+00:42:40,720 --> 00:42:44,560
+were mouse cells and they were rat. And as a consequence, they weren't behaving properly.
+
+438
+00:42:44,560 --> 00:42:49,120
+This is about a year ago. So these types of things are still happening.
+
+439
+00:42:49,120 --> 00:42:52,880
+So Hayflick turns over this 60 year belief basically.
+
+440
+00:42:52,880 --> 00:43:00,880
+And so he published this paper in 1961 and it's pretty heretical. And he coins this term,
+
+441
+00:43:00,880 --> 00:43:06,720
+he said, he calls them senescent cells, meaning cells that lose the ability to divide in culture.
+
+442
+00:43:06,720 --> 00:43:12,080
+And he says something very prophetic. He says, this may contribute to features of aging.
+
+443
+00:43:12,080 --> 00:43:14,720
+Isn't that sort of like Watson and Crick's DNA?
+
+444
+00:43:14,720 --> 00:43:17,280
+Yeah, the thing about it does suggest a means for replication.
+
+445
+00:43:18,240 --> 00:43:19,440
+The most understated.
+
+446
+00:43:19,440 --> 00:43:24,480
+Yeah, exactly. Which I love these things. Here's the great story is that when I ran into Leonard
+
+447
+00:43:24,480 --> 00:43:32,000
+Hayflick at the Portland airport, having gotten off the plane, I pull out my phone and I show him,
+
+448
+00:43:32,000 --> 00:43:37,200
+he's very old now, and I show him a picture of the mice with and without senescent cells,
+
+449
+00:43:37,200 --> 00:43:43,840
+the term he functionally coined. And I said, this is what happened when we delete these cells
+
+450
+00:43:43,840 --> 00:43:50,560
+that you said may cause aging. And it was just a mind warp for him. He hadn't heard of the paper
+
+451
+00:43:50,560 --> 00:43:57,920
+at the time. The paper had been out for six years. He was very old. Then his daughter walks up who
+
+452
+00:43:57,920 --> 00:44:02,640
+lives in Portland. And she thinks you're accosting him or something. No, it was immediately clear
+
+453
+00:44:02,640 --> 00:44:09,200
+that we were your fans. Exactly. We were fanboys. And I show her the picture and I said, this is
+
+454
+00:44:09,200 --> 00:44:14,560
+where your dad's work went. She was like, oh my God. And then she turns to her dad and said,
+
+455
+00:44:14,560 --> 00:44:19,280
+dad, you realize what this is, right? And so there was this moment. It was one of these great
+
+456
+00:44:19,280 --> 00:44:25,440
+moments where you get to see this person who really architected this major insight in biology,
+
+457
+00:44:25,440 --> 00:44:31,760
+confronted with the historical result right to his face and watching him trying to process it all.
+
+458
+00:44:32,320 --> 00:44:36,000
+It was pretty neat. Anyway, so that's the kind of the backstory of where this all came from.
+
+459
+00:44:36,000 --> 00:44:45,280
+Now flash forward decades. Now, Judy Campisi was the first individual to find a marker that we
+
+460
+00:44:45,280 --> 00:44:52,160
+could look at in vivo. This was about 1995. So you could actually figure out because senescence
+
+461
+00:44:52,160 --> 00:44:57,840
+was something that you did in plates, like plastic plates in an incubator. But it was
+
+462
+00:44:57,840 --> 00:45:02,480
+Judy who figured out the first biomarker where you go into a living creature into a tissue and say,
+
+463
+00:45:02,560 --> 00:45:07,600
+aha, there are senescent cells. It was the first time we got to know how many there are, right?
+
+464
+00:45:07,600 --> 00:45:12,720
+It's not a lot. And her work really asked, it raised this larger question, which I mentioned
+
+465
+00:45:12,720 --> 00:45:22,640
+earlier, which is how can so few cells do so much bad for so many cells? And it wasn't until 2008
+
+466
+00:45:22,640 --> 00:45:27,600
+when Judy described for the first time this thing that I mentioned earlier called the SASP, the so
+
+467
+00:45:27,600 --> 00:45:34,720
+called senescence associated secretory phenotype that are how these cells exert bad stuff. And it's
+
+468
+00:45:34,720 --> 00:45:39,520
+over a hundred factors that have been characterized that these cells make now that drive their negative
+
+469
+00:45:39,520 --> 00:45:45,760
+biology. Now, it turns out that a lot of what we know about the SASP was all figured out in cell
+
+470
+00:45:45,760 --> 00:45:51,760
+culture and plastic. And what we've been working on the last eight years is doing a lot of this
+
+471
+00:45:51,760 --> 00:45:56,560
+more in vivo. And it turns out the SASP is very different in different tissues. It turns out to
+
+472
+00:45:56,560 --> 00:46:00,640
+be very different from different cells within those tissues and different disease states.
+
+473
+00:46:00,640 --> 00:46:06,160
+Give folks some of the, I mean, I know there are so many of the SASPs, but what's a handful of
+
+474
+00:46:06,160 --> 00:46:11,120
+things that they have in their playbook? How do they sort of wreak this havoc on their peers?
+
+475
+00:46:11,120 --> 00:46:16,800
+So if you look at the sort of the totality of the SASP, everything that's been labeled a SASP
+
+476
+00:46:16,800 --> 00:46:24,160
+factor, what you will see are kind of usual suspects of badness. Okay. So things like TNF alpha,
+
+477
+00:46:24,160 --> 00:46:28,720
+which is the target of the most successful drug in the world today, you know, Humira,
+
+478
+00:46:28,720 --> 00:46:36,160
+it's an anti TNF drug. You see a factor like veg F alpha, the target of things like Lucentis
+
+479
+00:46:36,160 --> 00:46:41,360
+and ILEA multi multi billion dollar drugs for the treatment of diseases of the eye and also
+
+480
+00:46:41,360 --> 00:46:46,960
+using cancer, but that's a sort of a separate thing. So those are both SASP factors that are
+
+481
+00:46:46,960 --> 00:46:53,280
+the targets of existing massive drugs. There's also some SASP factors that have been clinically
+
+482
+00:46:53,280 --> 00:46:58,160
+validated. So there's one called CTGF, which if you make an antibody against that, you have
+
+483
+00:46:58,160 --> 00:47:03,440
+efficacy in a rare lung disease. That's pro-fibrotic that we now know is driven by senescence.
+
+484
+00:47:04,160 --> 00:47:08,160
+And that's not a marketed drug yet, but it makes the same point, which is antibody.
+
+485
+00:47:08,160 --> 00:47:12,000
+But we're taking a step back from this. I mean, let's put some broader strokes on this.
+
+486
+00:47:12,560 --> 00:47:17,680
+Inflammation would result from SASP, right? So there's lots of things that go out there that
+
+487
+00:47:17,680 --> 00:47:23,120
+basically tell immune cells, Hey, let's recruit you to this area. You mentioned fibrosis. What
+
+488
+00:47:23,120 --> 00:47:28,640
+other types of broad destructive categories of things go on out there? And I'm fascinated by
+
+489
+00:47:28,640 --> 00:47:36,480
+this work because it's just a little counterintuitive. I totally get the, and again, this is
+
+490
+00:47:36,480 --> 00:47:41,280
+just my need to teleologicalize everything if that's even a word, but it totally makes sense
+
+491
+00:47:41,280 --> 00:47:47,200
+why senescence exists. It's a little harder for me to accept the breadth of its destructive capacity
+
+492
+00:47:47,200 --> 00:47:52,720
+to its peers. My general thinking about teleological discussions. I know you and I could debate this
+
+493
+00:47:52,720 --> 00:47:57,040
+all night long, which is get over it. Yeah. Because these things are not testable,
+
+494
+00:47:57,040 --> 00:48:03,120
+any teleological explanation should be evaluated solely on its entertainment value. Okay. Right.
+
+495
+00:48:03,920 --> 00:48:09,120
+But that's not why we're here. I will say that there's an idea that is also teleological, but
+
+496
+00:48:09,120 --> 00:48:15,920
+which I use and is a framework that I think is helpful. So many things that we see in aging
+
+497
+00:48:15,920 --> 00:48:20,640
+biology in particular, they're kind of head scratchers. Like, why is the system doing this?
+
+498
+00:48:20,720 --> 00:48:25,680
+This seems bad for the individual. Didn't evolution get a vote? Isn't that the whole
+
+499
+00:48:25,680 --> 00:48:33,040
+point of evolution? Well, it turns out that features of aging are manifest post reproductively.
+
+500
+00:48:33,040 --> 00:48:36,480
+Oh yeah. No, no. I don't think there's going to be an evolutionary explanation for this for
+
+501
+00:48:36,480 --> 00:48:43,920
+exactly that reason. So is your argument that this occurred, call it stochastically,
+
+502
+00:48:43,920 --> 00:48:47,520
+and evolution was never there to fix it or catch it. So it's just a random muck?
+
+503
+00:48:47,520 --> 00:48:53,440
+No, it's actually something it's a cooler idea. So it turns out these decisions, if you want to
+
+504
+00:48:53,440 --> 00:48:58,160
+call them that these seemingly irrational decisions made by evolution, of course, evolution doesn't
+
+505
+00:48:58,160 --> 00:49:04,480
+make decisions. It's a votes with the survival of a species to reproduce or an organism to reproduce.
+
+506
+00:49:06,000 --> 00:49:12,880
+Many of these so-called decisions are things which benefit the young.
+
+507
+00:49:12,880 --> 00:49:16,400
+Yeah. So it's basically, let's get the post reproductive folks out of the way to
+
+508
+00:49:16,400 --> 00:49:21,760
+conserve resources for the young. I don't think anything so active or sort of sinister. I think
+
+509
+00:49:21,760 --> 00:49:28,320
+mostly it's, let's take cellular senescence, for example, it's an awesome mechanism to block tumor
+
+510
+00:49:28,320 --> 00:49:34,800
+formation in young, reproductively competent organisms. So if you can make more of those
+
+511
+00:49:34,800 --> 00:49:39,360
+organisms to make more babies, I guess I'm not arguing the senescence, it's the SASP that I'm
+
+512
+00:49:39,360 --> 00:49:44,160
+struggling with. Right. Well, so it turns out this is interesting. So it turns out the SASP does some
+
+513
+00:49:44,160 --> 00:49:51,360
+other things that are useful. So a paper published by Judy Campisi again, and Marco DiMaria,
+
+514
+00:49:51,360 --> 00:49:56,240
+who is a professor in the Netherlands now, they got interested in wound healing. And what they
+
+515
+00:49:56,240 --> 00:50:02,240
+demonstrated was that if you make a wound in an animal, a week or two after you make a laceration
+
+516
+00:50:02,240 --> 00:50:10,560
+wound at the wound site, you will see an accumulation of senescent cells. And they are dumping SAS
+
+517
+00:50:10,560 --> 00:50:18,480
+factors into the wound. And the question Judy and Marco asked was, is this important? And so in this
+
+518
+00:50:18,480 --> 00:50:23,760
+experiment, they went in and they eliminated senescent cells in the course of wound healing. And
+
+519
+00:50:23,760 --> 00:50:30,240
+what they saw was that the wound closed less well, and more slowly. And it suggested that the SASP
+
+520
+00:50:30,240 --> 00:50:35,600
+had another role wasn't just well, the SASP, this is a role for the SASP here. Its role was to
+
+521
+00:50:35,600 --> 00:50:41,440
+facilitate wound closure, which if you think about it for most organisms in a naturally evolving
+
+522
+00:50:41,440 --> 00:50:46,240
+ecosystem is super fricking important. And so essentially senescence got co-opted into
+
+523
+00:50:46,880 --> 00:50:53,440
+suppressing tumors in one case, and in a very different case was co-opted into helping heal
+
+524
+00:50:53,440 --> 00:51:00,960
+wound. And so I think that what you see in these diseases of aging is often the sort of
+
+525
+00:51:00,960 --> 00:51:07,280
+unintended consequences of a system that was absolutely awesome for the young at the expense
+
+526
+00:51:07,280 --> 00:51:12,960
+of the old. One metaphor for this that I sort of like is that, let's say you innocently write a
+
+527
+00:51:12,960 --> 00:51:19,440
+computer program to fill your bathtub. It also unintentionally becomes a computer program designed
+
+528
+00:51:19,440 --> 00:51:23,600
+to overflow your apartment. It wasn't why you wrote it, but it is the net effect.
+
+529
+00:51:23,600 --> 00:51:28,720
+Yeah, no, that's an interesting point. Certainly, things that favor wound healing could be quite
+
+530
+00:51:28,720 --> 00:51:34,400
+beneficial. Some have even argued that LpA, lipoprotein, apolipoproteinA, which is attached
+
+531
+00:51:34,400 --> 00:51:40,720
+to an LDL, so it makes this thing called LpA, has very potent prothrombotic properties. And even
+
+532
+00:51:40,720 --> 00:51:47,520
+though it's wildly atherosclerotic, you could argue, well, frankly, that's a very favorable
+
+533
+00:51:47,520 --> 00:51:51,920
+phenotype to carry for most of our evolution. It's only recently that we need to concern
+
+534
+00:51:51,920 --> 00:51:57,040
+ourselves with atherosclerosis, but there was certainly an era where having a prothrombotic
+
+535
+00:51:57,120 --> 00:52:04,080
+factor to help you in periods of trauma would far outweigh the tail effect of knocking off a few
+
+536
+00:52:04,080 --> 00:52:09,360
+elders who managed to survive and die of aortic stenosis or atherosclerosis. So that's an
+
+537
+00:52:09,360 --> 00:52:11,760
+interesting tidbit with respect to the wound stuff. I wasn't aware of that.
+
+538
+00:52:11,760 --> 00:52:17,360
+By the way, the other example of this LpA is a perfect comparator to the whether or not either
+
+539
+00:52:17,360 --> 00:52:23,360
+of these teleological explanations matters not. The point is that those are the same logic.
+
+540
+00:52:23,360 --> 00:52:27,840
+So let's go back to something you said at the outset, which you've now given us enough to put
+
+541
+00:52:27,840 --> 00:52:34,080
+in context. You said, look, you went on this journey of thinking through final common pathways
+
+542
+00:52:34,080 --> 00:52:40,720
+of aging. You arrived at this mTOR-CR thing probably matters a whole heck of a lot. In fact,
+
+543
+00:52:40,720 --> 00:52:45,360
+it seems to be the only one that works across organisms, across labs, no ifs, ands, or buts.
+
+544
+00:52:45,360 --> 00:52:51,200
+You've got this loss of circulating youth factors. Clearly, something is happening to mitochondria
+
+545
+00:52:51,200 --> 00:52:57,200
+as we age that is very problematic. We clearly see this observation of methylation, whether it's
+
+546
+00:52:57,200 --> 00:53:02,720
+causal or not, is unclear. We get a sense of what's happening to stem cells, exhausting, and
+
+547
+00:53:02,720 --> 00:53:10,240
+senescent cells. Your view, which you very briefly touched on, is the first four things I mentioned
+
+548
+00:53:11,120 --> 00:53:18,640
+are probably harder to drug than the last one. Is that a fair summation of how you arrived at this?
+
+549
+00:53:18,640 --> 00:53:23,920
+Yeah, that's how I wound up focusing the last eight years of what myself and my colleagues have
+
+550
+00:53:23,920 --> 00:53:30,320
+been working on was that. It was how do we make medicines that target a fundamental mechanism of
+
+551
+00:53:30,320 --> 00:53:38,480
+aging? I was not clever enough or knowledgeable enough, or both, to figure out how to do mTOR
+
+552
+00:53:38,480 --> 00:53:44,000
+and CR. I mean, there are a lot of people who are trying that by trying to get more and more
+
+553
+00:53:44,000 --> 00:53:48,400
+selective molecules, but it was not an area where I had anything creative to add. But the
+
+554
+00:53:48,400 --> 00:53:54,080
+backstory of how I kind of got involved in this was I was sitting around actually in the Calgary
+
+555
+00:53:54,080 --> 00:53:59,520
+Airport. A lot of these important things are happening in airports, okay, for some reason.
+
+556
+00:53:59,520 --> 00:54:05,120
+And I was eating french fries. And in this 20-minute interval of french fry consumption,
+
+557
+00:54:05,120 --> 00:54:09,200
+five different people sent me the same PDF, and they were subject lines like,
+
+558
+00:54:10,000 --> 00:54:15,360
+holy shit, you have to read this. This has to be your next company. And I opened up the paper,
+
+559
+00:54:15,360 --> 00:54:21,760
+and right on the front page was a figure showing these two animals, siblings, one of which had
+
+560
+00:54:21,760 --> 00:54:26,240
+senescence cells, the other one. These are the mice you talked about earlier. Yes. This was
+
+561
+00:54:26,240 --> 00:54:30,400
+Jan or this was Judy. Were they collaborating at the time? They were collaborating, though. Judy
+
+562
+00:54:30,400 --> 00:54:36,160
+was not on this particular paper. And this paper was not exactly the same mice I described. So it
+
+563
+00:54:36,160 --> 00:54:41,840
+had a very similar or the same means of senescence cell elimination, but there was a difference.
+
+564
+00:54:41,840 --> 00:54:50,400
+This is 2011. These animals also contained a mutation where they made less, far less,
+
+565
+00:54:50,400 --> 00:54:55,920
+of a protein called BubR1, which is an anaphase checkpoint protein. So this is a protein that
+
+566
+00:54:55,920 --> 00:55:00,320
+makes sure that your chromosomes line up on the spindle and it sort of is like a bit of a school
+
+567
+00:55:00,320 --> 00:55:04,880
+master. It sort of says, you're not dividing until everything's lined up. And so if you don't have
+
+568
+00:55:04,880 --> 00:55:10,720
+BubR1, you just blow right through the checkpoint and you become polyploid. And Jan van der Senn,
+
+569
+00:55:10,720 --> 00:55:16,640
+my other co-founder and long-term collaborator, he created this animal thinking this animal was going
+
+570
+00:55:16,640 --> 00:55:21,040
+to get tons of cancer because he was a cancer researcher. So let's just make sure we understand
+
+571
+00:55:21,040 --> 00:55:26,800
+why that's the case. If BubR1 is there to make sure your spindles line up, it means that you
+
+572
+00:55:26,800 --> 00:55:31,120
+should not be able to divide until all your chromatin is perfectly aligned. Everything is
+
+573
+00:55:31,120 --> 00:55:36,240
+in perfect tip top order and you're ready to undergo mitosis. That's right. So if you take away
+
+574
+00:55:36,240 --> 00:55:43,120
+your master, a lot of faulty division should follow. That's correct. So Jan's hypothesis is
+
+575
+00:55:43,120 --> 00:55:48,880
+we either attenuate or knock out BubR1, we should get a lot of cancer. That's right. Okay. What
+
+576
+00:55:48,880 --> 00:55:54,240
+happened? That wasn't what happened. The animals were super polyploid, meaning that they wound up
+
+577
+00:55:54,240 --> 00:56:00,400
+with super weird numbers of chromosomes, too many, too few, all that good stuff. The animals aged
+
+578
+00:56:00,400 --> 00:56:06,880
+quickly. So the animals wound up full of senescent cells. Okay. So there was something about having
+
+579
+00:56:06,880 --> 00:56:15,680
+very wrong numbers of chromosomes and all of the effects of that that caused the animals to be full
+
+580
+00:56:15,680 --> 00:56:22,000
+of senescent cells and to age very rapidly, have features of aging that were on set very rapidly
+
+581
+00:56:22,000 --> 00:56:28,000
+and die. So it accelerated the speed with which the record played, but it didn't change the music.
+
+582
+00:56:28,720 --> 00:56:32,480
+In other words, they didn't die sooner because they got cancer. They just died sooner because
+
+583
+00:56:32,480 --> 00:56:38,400
+they sped up their aging. We don't know the answer to that. So these animals are extremely sick
+
+584
+00:56:38,400 --> 00:56:44,560
+animals. So trying to make a larger statement, I think it's too much to say with an animal like that
+
+585
+00:56:44,560 --> 00:56:53,040
+of the whole record metaphor. What I can say with, I think conviction is that clearly a whole bunch
+
+586
+00:56:53,040 --> 00:56:58,480
+of things that go along with being old happened very quickly in these animals. And these animals
+
+587
+00:56:58,480 --> 00:57:04,880
+die very quickly. They look visibly old. For me, it was an experiment that suggested that
+
+588
+00:57:06,080 --> 00:57:10,960
+it was consistent with the notion that the senescent cells were actually driving these
+
+589
+00:57:10,960 --> 00:57:16,000
+features of aging. And what's so cool about this paper and why it caught so many people's attention,
+
+590
+00:57:16,000 --> 00:57:22,160
+even though there was a somewhat earlier paper that Jan Alsud did that for many allowed one to
+
+591
+00:57:22,160 --> 00:57:26,080
+draw the same inference, but it just didn't smell like a drug. I won't get into that paper today,
+
+592
+00:57:26,080 --> 00:57:31,920
+but what was so compelling was that you added senescent cells through this mutation that gave
+
+593
+00:57:31,920 --> 00:57:38,400
+rise to the production of less bub R1 protein. And then you eliminated those cells or a subset of
+
+594
+00:57:38,400 --> 00:57:45,440
+those cells with this insert into the DNA of every cell of that animal. And you could ameliorate
+
+595
+00:57:46,240 --> 00:57:50,720
+a subset of the effects of senescent cells. Now you didn't get rid of all the senescent cells.
+
+596
+00:57:50,880 --> 00:57:54,720
+By the way, interestingly, the animals don't live longer in that particular mutant because it's so
+
+597
+00:57:54,720 --> 00:57:59,600
+sick when you eliminate the cells, but a whole bunch of the features of aging, for example,
+
+598
+00:57:59,600 --> 00:58:06,640
+their bent spines, their organ atrophy, their cataracts in their eyes. These were all severely
+
+599
+00:58:06,640 --> 00:58:17,440
+blunted when the senescent cells were eliminated. And when I saw this paper, I thought this feels
+
+600
+00:58:17,440 --> 00:58:27,440
+like a drug. You just eliminate cells that are driving bad things. And so I contacted Jan and
+
+601
+00:58:27,440 --> 00:58:33,200
+Mayo Clinic and 72 hours later we had agreed to meet and a little time after that I set up the
+
+602
+00:58:33,200 --> 00:58:42,880
+company. But this was a observation in a mutant animal. And I remember the sort of early blogosphere
+
+603
+00:58:43,520 --> 00:58:49,760
+talking about how this paper didn't mean anything. And this was exaggerating the role of senescence
+
+604
+00:58:49,760 --> 00:58:58,560
+in humans and it's a mouse and all this stuff. But to me it really felt important. Now it was a
+
+605
+00:58:58,560 --> 00:59:06,560
+long way between that paper and when you could ever credibly claim there could be a drug discovery
+
+606
+00:59:06,560 --> 00:59:14,240
+program based on it. And we spent the next four years in stealth mode asking for biological
+
+607
+00:59:14,240 --> 00:59:22,400
+questions. And I had some very patient investors who gave us sort of a spoon fed or dropper fed
+
+608
+00:59:22,400 --> 00:59:27,200
+money into the company. We did not have lots of excess resources, but I will confess that some of
+
+609
+00:59:27,200 --> 00:59:32,720
+the best times in my life have been under resource constraint because your decision making is very
+
+610
+00:59:32,720 --> 00:59:37,520
+high quality because every single resource decision matters. So we had four questions we
+
+611
+00:59:37,520 --> 00:59:41,760
+were trying to ask an answer. And the first question and none of this stuff got answered in
+
+612
+00:59:41,760 --> 00:59:49,200
+the first 2011 paper was do senescent cells contribute to natural aging as opposed to some
+
+613
+00:59:49,200 --> 00:59:57,120
+genetically contrived mouse. Second question, could we find a disease, any human disease that we could
+
+614
+00:59:57,120 --> 01:00:03,280
+model in an animal where we could eliminate senescent cells and take that disease and either
+
+615
+01:00:03,280 --> 01:00:12,400
+stop it or even better send it backwards. Third question, could we find a molecule that could
+
+616
+01:00:13,520 --> 01:00:20,800
+trigger the elimination of senescent cells from a living creature safely? And last question,
+
+617
+01:00:21,520 --> 01:00:27,760
+which is, was getting rid of these cells safe? We know that kids don't have them, but that doesn't
+
+618
+01:00:27,760 --> 01:00:32,000
+mean that getting rid of them from an adult, like what if adults need them for some reason when kids
+
+619
+01:00:32,000 --> 01:00:38,320
+don't. So that was a formal question that really was on our minds. Now today I look at question four
+
+620
+01:00:38,320 --> 01:00:43,360
+and realize that it's not an equivalence between children and adults because of the following
+
+621
+01:00:43,360 --> 01:00:50,560
+reason. We know that if you prevent kids from being able to make them horrible things happen,
+
+622
+01:00:50,640 --> 01:00:55,200
+we don't know that if kids make them and you nuke them, horrible things happen, which is what
+
+623
+01:00:55,200 --> 01:00:59,840
+you're trying to do with adults, correct? We don't know that. Those could be two different things.
+
+624
+01:00:59,840 --> 01:01:04,960
+Yeah. So kids naturally nuke them. So we know kids can make them because you can do experiments
+
+625
+01:01:04,960 --> 01:01:08,880
+in young animals and they make senescent cells and then senescent cells are gone. So in effect,
+
+626
+01:01:09,760 --> 01:01:14,080
+that is your living breathing experiment right there. That's right. The superpower of kids is
+
+627
+01:01:14,080 --> 01:01:19,200
+the ability to make them, which prevents the replication of a cell that shouldn't replicate.
+
+628
+01:01:19,200 --> 01:01:24,400
+And then it has the good sense to get rid of it before it harms anyone. The adult retains the
+
+629
+01:01:24,400 --> 01:01:29,840
+ability to make it, but keeps it around. I want to go back to your second question. It seems obvious
+
+630
+01:01:29,840 --> 01:01:34,640
+now. Your second question, just for the listener, if I recall was, could we find the right disease
+
+631
+01:01:34,640 --> 01:01:39,920
+in which to study this? Could we find any disease? Because if you think about it, that first mouse,
+
+632
+01:01:40,480 --> 01:01:46,720
+oh, the first and second mouse experiments that John did both 2008 and then 2011 publications in
+
+633
+01:01:46,720 --> 01:01:52,800
+nature, those weren't diseases the way. Right. They were sort of poly death conditions. Well,
+
+634
+01:01:52,800 --> 01:01:57,200
+they were sort of like this animal has these features of being old. They weren't things that
+
+635
+01:01:57,200 --> 01:02:02,640
+the FDA would label a disease like a bent spine, like who's going to develop a drug for that?
+
+636
+01:02:02,640 --> 01:02:08,640
+But your intuition was, of course, you can't study lifespan here. It has to be health span related
+
+637
+01:02:08,640 --> 01:02:16,000
+because if you have an interest in taking this to humans, mortality is a very difficult endpoint.
+
+638
+01:02:16,000 --> 01:02:19,360
+Yeah. That's not the way we develop drugs. I mean, unless you're tackling conditions that
+
+639
+01:02:19,360 --> 01:02:23,040
+kill people quickly, mortality is a reasonable endpoint for cancer and heart disease drugs.
+
+640
+01:02:23,040 --> 01:02:28,560
+Sure. So in fact, I would even make us even ruthlessly more practical. We wanted to find
+
+641
+01:02:28,560 --> 01:02:33,920
+very diseases of being old diseases, things that the FDA has regulatory paths for and
+
+642
+01:02:34,800 --> 01:02:41,200
+endpoints that you can get drugs approved on. And so we wanted to do that. And that's what we did.
+
+643
+01:02:41,200 --> 01:02:45,440
+So tell me about number one. Number one, again, we take that for granted today,
+
+644
+01:02:45,440 --> 01:02:48,800
+but it was a very reasonable question eight years ago, right?
+
+645
+01:02:48,800 --> 01:02:52,400
+Yeah. So again, Jan van der Zent to the rescue here.
+
+646
+01:02:52,400 --> 01:02:57,760
+So Ned, at this point, it's just you and Jan and Judy.
+
+647
+01:02:58,400 --> 01:03:05,360
+So it was myself, Jan van der Zent, Judy Campisi, and a guy named Da Hong Jo, who helped us discover
+
+648
+01:03:05,440 --> 01:03:11,440
+one of the early synthetic molecules. Also, Darren Baker, who's a professor at tomato clinic,
+
+649
+01:03:11,440 --> 01:03:19,520
+was also instrumental. He was first author on the 2011 paper. And he also was the first author on
+
+650
+01:03:19,520 --> 01:03:25,360
+the paper I'm about to describe as it relates to question one, which is how did we figure out that
+
+651
+01:03:25,360 --> 01:03:32,640
+senescence was driving features of natural aging? And so that was what Darren Baker and Jan van
+
+652
+01:03:32,640 --> 01:03:39,600
+der Zent spent the next few years after 2011 doing. And that paper took five years before
+
+653
+01:03:39,600 --> 01:03:47,920
+published in 2016. And what they did in this paper was they took natural mice, mostly natural,
+
+654
+01:03:48,640 --> 01:03:54,400
+they contain one difference was we mated into natural mice, that same construct, that piece of
+
+655
+01:03:54,400 --> 01:03:58,960
+DNA that was wound up in every cell of their body. So we could eliminate senescence cells whenever we
+
+656
+01:03:58,960 --> 01:04:05,360
+want it. And so now we got to do that in a very slow multi year experiment. But these were naturally
+
+657
+01:04:05,360 --> 01:04:13,520
+aging creatures. And that paper took as a half decade to happen. And when we got that result,
+
+658
+01:04:13,520 --> 01:04:18,800
+which was in 2016, we managed to also ask the other three questions by then. But that was really the
+
+659
+01:04:19,440 --> 01:04:24,880
+trigger for us de-stealthing the effort and speaking openly about what we were doing. Because
+
+660
+01:04:25,600 --> 01:04:29,760
+if it didn't contribute to natural aging, and it didn't cause a particular disease of aging,
+
+661
+01:04:29,760 --> 01:04:34,720
+and we couldn't find molecules, there was no company. So you basically were processing question
+
+662
+01:04:34,720 --> 01:04:40,720
+one, and 234 in parallel. That's correct. We had a small team was a relatively virtual for a few
+
+663
+01:04:40,720 --> 01:04:47,040
+years, we were just living at arch the venture fund. And then we moved and we got too big,
+
+664
+01:04:47,040 --> 01:04:52,080
+we moved up to the Buck Institute. So we were camped out right over Judy's lab, or a floor up
+
+665
+01:04:52,160 --> 01:04:59,200
+and a few doors over. No pun intended. Yeah. And we essentially went to town with a small group,
+
+666
+01:04:59,200 --> 01:05:06,160
+it was just a few people supported very intimately by Jan's group, with Darren's support and with
+
+667
+01:05:06,160 --> 01:05:10,240
+Judy's group. And so we had this sort of virtual research group where every week we'd get together
+
+668
+01:05:10,240 --> 01:05:15,040
+and review all the data for each of the four questions. And we had work streams for each of
+
+669
+01:05:15,040 --> 01:05:20,000
+questions one through four. And it was a great time. So I want to kind of pause on this journey
+
+670
+01:05:20,000 --> 01:05:25,280
+and take a parallel or orthogonal journey for a moment, because I suspect that at least one
+
+671
+01:05:25,280 --> 01:05:31,120
+person listening and likely more also have some sort of entrepreneurial bent in them. And as it
+
+672
+01:05:31,120 --> 01:05:37,200
+pertains to biology or biotechnology, I think I'd love to figure out a way to extract from you
+
+673
+01:05:37,200 --> 01:05:41,600
+some of the lessons that you've learned along the way. You've done this over and over and over again
+
+674
+01:05:41,600 --> 01:05:47,360
+in many companies. And I'm just sort of wondering what, well, let's start with a broad question.
+
+675
+01:05:47,360 --> 01:05:52,080
+You've already alluded to the fact that you enjoyed that period of time, right? It was really
+
+676
+01:05:52,080 --> 01:05:56,400
+less of a company and more of a lab at that point. It was sort of a virtual postdoc that you guys were
+
+677
+01:05:56,400 --> 01:06:02,960
+doing. Yeah. It was a coalition of the willing doing an incredibly hard project. And it was far
+
+678
+01:06:02,960 --> 01:06:06,160
+more likely that we were going to fail than succeed. Well, that's actually the question
+
+679
+01:06:06,160 --> 01:06:11,840
+I wanted to pose to you. So we don't talk enough about sort of what the graveyard looks like of
+
+680
+01:06:11,840 --> 01:06:18,960
+these ideas gone wrong. It's quite possible that 2011 to 2016, you spent all of that time working
+
+681
+01:06:18,960 --> 01:06:24,000
+on something and it didn't work. In fact, that would be the expected outcome of this type of
+
+682
+01:06:24,000 --> 01:06:30,240
+endeavor. But that said, no one goes into something with a belief that it's going to fail. Without
+
+683
+01:06:30,240 --> 01:06:35,360
+getting too much into the rose colored glasses that inevitably bias our ability to look back,
+
+684
+01:06:36,080 --> 01:06:43,040
+what proof points did you look to to say there's a biological plausibility here that if it wasn't
+
+685
+01:06:43,040 --> 01:06:47,760
+there would have had you less likely to consider it. And if you can, Ned, try to answer it in a broad
+
+686
+01:06:47,760 --> 01:06:52,160
+enough way that it would be applicable to other endeavors that maybe don't deal with senescent
+
+687
+01:06:52,160 --> 01:06:56,880
+cells. In other words, I'm asking this through the lens of somebody who's considering finishing their
+
+688
+01:06:56,880 --> 01:07:01,360
+lab or finishing their time in their lab or even graduating from undergrad and wanting to join a
+
+689
+01:07:01,360 --> 01:07:06,800
+company, how can they think through handicapping the odds of success, which you've done a number
+
+690
+01:07:06,800 --> 01:07:14,720
+of times. So the approach I take to a bold idea like this idea of making drugs that eliminates
+
+691
+01:07:14,720 --> 01:07:21,600
+senescent cells is I try to picture, it's a simple, beautiful idea. I try to picture the end state.
+
+692
+01:07:22,240 --> 01:07:28,800
+Like what does this look like at the end? And then I say, okay, I can see this in my mind. And then
+
+693
+01:07:28,800 --> 01:07:36,560
+I say, well, what are the existential risks to that beautiful, simple dream? And I try to write
+
+694
+01:07:36,560 --> 01:07:45,440
+them down in the most primitive way I can. And so those four questions, they were the four risks,
+
+695
+01:07:45,440 --> 01:07:49,440
+which is that senescent cells don't contribute to natural aging. I'll use this particular example,
+
+696
+01:07:49,440 --> 01:07:53,360
+and I'll back out in a sec. That was a risk. They don't contribute to natural aging. They don't
+
+697
+01:07:53,360 --> 01:07:58,640
+cause a particular disease of aging. You can never find a molecule to eliminate or eliminating the
+
+698
+01:07:58,800 --> 01:08:02,960
+ones that are not safe. And those were the four risks we came up with. And you can apply this
+
+699
+01:08:04,160 --> 01:08:12,080
+risk to a beautiful, simple idea in any technological endeavor that I've been involved in.
+
+700
+01:08:12,080 --> 01:08:18,960
+What's nice about that is one of those is a very clear market risk. Three of those are biologic or
+
+701
+01:08:18,960 --> 01:08:23,840
+technology risks. Your second question is actually a market risk question. In other words, if number
+
+702
+01:08:23,840 --> 01:08:29,760
+one worked, so if number one is this absolutely explains natural aging, if number three was true,
+
+703
+01:08:30,320 --> 01:08:34,080
+you could come up with a molecule that could block it. And number four was true, you could do so
+
+704
+01:08:34,080 --> 01:08:39,920
+safely, but there was no way there was a regulatory pathway that was going to allow you to go from A
+
+705
+01:08:39,920 --> 01:08:46,160
+to B because hook spine disease was never going to show up on the FDA's list of druggable things
+
+706
+01:08:46,160 --> 01:08:51,600
+to think about. It's not to say that it couldn't work, but now you've taken on an enormous regulatory
+
+707
+01:08:51,600 --> 01:08:59,040
+risk that would be almost crushing to any one company. So what I'm hearing you say is embedded
+
+708
+01:08:59,040 --> 01:09:04,480
+in your questions was actually a very thoughtful risk analysis that reverse engineered success.
+
+709
+01:09:04,480 --> 01:09:11,840
+I think so. It turned out to be a good way for us to focus ourselves. How long did it take you guys
+
+710
+01:09:11,840 --> 01:09:16,000
+to come up with those four questions? Because it was just five of you if I did my math right.
+
+711
+01:09:16,000 --> 01:09:21,440
+There was a few orbiting. So my long-term business partner, Keith Leonard, he was at the time
+
+712
+01:09:21,600 --> 01:09:27,200
+we'd founded a previous company together and he was still being the CEO of that company where I'd
+
+713
+01:09:27,200 --> 01:09:31,840
+previously been the chief science officer, but he was involved in this and a few other just very
+
+714
+01:09:31,840 --> 01:09:38,880
+smart people that I will pull into these things. I need very simple thinkers for this sort of thing
+
+715
+01:09:38,880 --> 01:09:46,720
+because you must in a very disciplined way distill out to these primitive risks that can animate
+
+716
+01:09:46,720 --> 01:09:53,200
+behavior over many years. They have to be durable. If you can summon the discipline and
+
+717
+01:09:53,200 --> 01:10:00,400
+the simplicity to distill the next say four to five years of your life down to call it two to
+
+718
+01:10:00,400 --> 01:10:05,840
+four risks, because any more than that and your life gets too complicated. And then you can build
+
+719
+01:10:05,840 --> 01:10:12,880
+work plans that systematically remove each of those risks or do not remove them. But at least
+
+720
+01:10:12,880 --> 01:10:18,000
+identify them. Yeah, identify them and then build plans. Everything we did at the company
+
+721
+01:10:18,000 --> 01:10:24,560
+for four years, everything was those four risks. That was it. And the money we raised was pretty
+
+722
+01:10:24,560 --> 01:10:31,120
+paltry at the time. It was all budgeted around those four risks. And whenever I go after a new
+
+723
+01:10:31,120 --> 01:10:38,720
+thing, I always try to just go back to that simple, beautiful idea and then say, can I write down the
+
+724
+01:10:38,800 --> 01:10:44,000
+risks to this beautiful idea? Then you build plans from them and then you build budgets and then you
+
+725
+01:10:44,000 --> 01:10:50,160
+politely ask people for money, which by the way, almost no one would provide because this idea
+
+726
+01:10:50,160 --> 01:10:56,320
+seems relatively preposterous at the time. The people that stepped forward were people like Bob
+
+727
+01:10:56,320 --> 01:11:04,640
+Nelson from Arch, who has been a visionary across decades of biotech. And it was he who when I
+
+728
+01:11:04,720 --> 01:11:10,480
+explained this to him very rapidly said, yeah, let's do this. There are some other people at
+
+729
+01:11:10,480 --> 01:11:16,320
+Arch like Christina Burrow who was very supportive early on. So that really was the prime anchor
+
+730
+01:11:16,320 --> 01:11:20,960
+early on in the life of the company and animated all of our behavior. And that was four years of
+
+731
+01:11:20,960 --> 01:11:26,240
+my life. How long did it take you guys to define those questions now? Because the way you rattled
+
+732
+01:11:26,240 --> 01:11:31,760
+them off, they're so logical, they're so obvious. But my guess is those were not immediately
+
+733
+01:11:31,760 --> 01:11:36,640
+apparent to you in 2011, that those were the four things that had to be wrestled to the ground.
+
+734
+01:11:36,640 --> 01:11:42,240
+No, we kind of did know them. Really? Yeah. So it's funny, I recently went through the early,
+
+735
+01:11:42,240 --> 01:11:47,920
+I was looking through some old files and I found an old PowerPoint where there was six risks.
+
+736
+01:11:47,920 --> 01:11:53,200
+And it was clear that we'd done some kind of pruning down to the most primitive because I'm
+
+737
+01:11:53,200 --> 01:11:58,160
+kind of a tyrant when it comes down to like, we must have the simplest plan sort of thing.
+
+738
+01:11:58,640 --> 01:12:04,000
+So there had been some pruning, but I know that we initially generated the list of a half dozen or
+
+739
+01:12:04,000 --> 01:12:10,080
+so. And then over a period of weeks, I think we managed to just in a disciplined way,
+
+740
+01:12:10,080 --> 01:12:16,560
+shear them down to this relatively streamlined plan. Now, did you learn this the hard way? Was
+
+741
+01:12:16,560 --> 01:12:22,960
+there a time when you went down the path of trying to do something, lacked this discipline,
+
+742
+01:12:22,960 --> 01:12:28,640
+and found yourself sort of looking back sometime later thinking we wasted time,
+
+743
+01:12:28,640 --> 01:12:32,480
+we wasted money. We didn't pursue this as linearly as we could have.
+
+744
+01:12:32,480 --> 01:12:37,360
+Absolutely. No one really taught me this. This is something I sort of learned a bit on the fly,
+
+745
+01:12:38,320 --> 01:12:45,120
+kind of in the eras in which I was building companies like Okeijin and Kaitheira. So those
+
+746
+01:12:45,120 --> 01:12:51,760
+were all early 2000s. So Okeijin was 2003, Kaitheira was around 2005. My first company,
+
+747
+01:12:51,760 --> 01:12:57,120
+which I founded my last year of graduate school, we were strategy free. This was a high throughput
+
+748
+01:12:57,120 --> 01:13:02,160
+structural biology company called Sieriks. And we never had any of these intellectual tools.
+
+749
+01:13:02,800 --> 01:13:08,240
+And so these were tools that were really developed through feeling as though we wasted time,
+
+750
+01:13:08,240 --> 01:13:14,080
+which is your most valuable resource. And you wasted people's money, which was also valuable
+
+751
+01:13:14,080 --> 01:13:20,240
+resource. And the net effect of this has been now this disciplined streamlining of idea and risk.
+
+752
+01:13:20,800 --> 01:13:24,320
+Yeah, so it's something that just picked up over time. And now it's reflexive. And
+
+753
+01:13:24,320 --> 01:13:30,080
+everybody in my group, everyone thinks this way. And so whenever a new thing comes up, immediately
+
+754
+01:13:30,080 --> 01:13:34,560
+everyone goes to the board and starts writing out risks, and then starts writing out, well,
+
+755
+01:13:34,560 --> 01:13:38,640
+this is the de-risking plan for this, this, and this. And okay, that means it's 18 months,
+
+756
+01:13:38,640 --> 01:13:43,120
+and this is kind of the budget. Do you think that that type of thinking is productive or
+
+757
+01:13:43,120 --> 01:13:49,280
+counterproductive in academia? It's clearly productive in industry. If you tomorrow decided,
+
+758
+01:13:49,920 --> 01:13:55,760
+I want to go back and start a lab and go back to Berkeley and apply for a grant. Would you
+
+759
+01:13:55,760 --> 01:14:00,000
+encourage your graduate students and postdocs to think that way? Or would you modify the thinking
+
+760
+01:14:00,000 --> 01:14:05,440
+slightly? I would be modified. But I think there is kind of value to this. I think in any setting
+
+761
+01:14:05,440 --> 01:14:10,880
+where you have a problem or a technological thing you're trying to solve, which is being explicit
+
+762
+01:14:10,880 --> 01:14:17,120
+about the failure modes, even if you're in an academic setting. And I'm speaking specifically
+
+763
+01:14:17,120 --> 01:14:21,360
+of biology or something akin to it. Like I can't talk to you about math or something,
+
+764
+01:14:22,160 --> 01:14:28,880
+because I think it drives a certain degree of honesty when things are failing. So you know what
+
+765
+01:14:28,880 --> 01:14:34,000
+to see. And so if you're looking out for this isn't working, this isn't working, and only this
+
+766
+01:14:34,000 --> 01:14:40,800
+is working, and all three have to work for this project to go, you can make a go no go decision
+
+767
+01:14:40,800 --> 01:14:46,320
+in an academic setting and pivot to another project because there's no end of creative
+
+768
+01:14:46,320 --> 01:14:50,880
+ideas that you could be working on. They're limitless. And so the important thing is to
+
+769
+01:14:50,880 --> 01:14:56,800
+conserve your most valuable resource, which is your time. And so I encourage my academic friends,
+
+770
+01:14:56,800 --> 01:15:02,960
+some of whom listen and some of whom do not, to think similarly and to take a sort of portfolio
+
+771
+01:15:02,960 --> 01:15:09,280
+approach to academic projects, which is it's okay to prosecute this question for 18 months, but
+
+772
+01:15:09,280 --> 01:15:13,040
+there are certain things we want to have in 18 months. And if you do not have them,
+
+773
+01:15:13,040 --> 01:15:18,480
+we make a formal go no go decision. Meanwhile, you had two other projects going. And so what
+
+774
+01:15:18,480 --> 01:15:21,680
+you need is only one to raise its hand and say, I'm working.
+
+775
+01:15:21,680 --> 01:15:26,720
+Yeah, that was super helpful. Let's go back to kind of, you now have the answer to these four
+
+776
+01:15:26,720 --> 01:15:32,080
+questions. Is it safe to say there are still a number of ways to do this? In other words,
+
+777
+01:15:32,080 --> 01:15:37,840
+if you know that senescence is a natural part of aging, if you know that there are specific
+
+778
+01:15:37,840 --> 01:15:43,920
+diseases for which it plays a role, if you know that there are molecules that can be developed
+
+779
+01:15:43,920 --> 01:15:49,120
+that can target it, and you know that it can be done safely, that third question really has many
+
+780
+01:15:49,120 --> 01:15:57,200
+heads. You can have molecules that kill senescent cells, you could have molecules that target the
+
+781
+01:15:57,200 --> 01:16:02,960
+factors they secrete, presumably there are other ways you could machinate around this. Had you
+
+782
+01:16:02,960 --> 01:16:07,760
+fixated early on, you alluded to it that killing cells is something we really know how to do pretty
+
+783
+01:16:07,760 --> 01:16:11,600
+well in biology. Was that the path you guys run from the beginning? Or was that a pivot?
+
+784
+01:16:11,600 --> 01:16:16,320
+Early on, we honored the possibility that we could either eliminate the cells, because that's what
+
+785
+01:16:16,320 --> 01:16:23,520
+was achieved genetically, and was our proof of concept. But we could also come up with ways to
+
+786
+01:16:24,160 --> 01:16:30,080
+reduce the pathological sass that these cells were creating. It wasn't so much as a pivot,
+
+787
+01:16:30,080 --> 01:16:34,800
+but a decision to go one way rather than the other. Because in the beginning, we thought you
+
+788
+01:16:34,800 --> 01:16:41,360
+could do either. And the decision was driven by a simple idea, which is that were you to make
+
+789
+01:16:41,360 --> 01:16:48,960
+molecules that would simply suppress the secretions of the cells, but not remove the source of all of
+
+790
+01:16:48,960 --> 01:16:53,680
+these factors, you'd have a drug you had to take all the time. And the cool thing about eliminating
+
+791
+01:16:53,680 --> 01:16:58,000
+senescence- And it also assumes you know all the factors. Your approach strikes me as the more
+
+792
+01:16:58,000 --> 01:17:02,320
+logical approach, but there are companies doing the other approach, correct? Yeah, well, you could
+
+793
+01:17:02,320 --> 01:17:06,720
+take the position that any antibody therapeutic against one of these pro-inflammatories in the
+
+794
+01:17:06,720 --> 01:17:11,120
+SASP is just such an approach. But actually, I was saying something a little bit more-
+
+795
+01:17:11,120 --> 01:17:12,080
+I understand your point though.
+
+796
+01:17:12,080 --> 01:17:18,240
+Primordial. I was suggesting, if you understood, for example, the regulatory mechanism that makes
+
+797
+01:17:18,240 --> 01:17:24,960
+the cell decide to secrete all of these factors, and you targeted that, then hey, what you've done
+
+798
+01:17:24,960 --> 01:17:30,160
+is you've shut down the secretion, the cells sit in there not dividing, how bad can it be?
+
+799
+01:17:30,160 --> 01:17:35,920
+But what motivated us was this would be a drug you would have to take all the time. And what we
+
+800
+01:17:35,920 --> 01:17:40,960
+thought was so neat about the idea of making a molecule that could eliminate senescent cells,
+
+801
+01:17:42,080 --> 01:17:48,480
+which we then named, we called them senolytic molecules, if you could make a senolytic molecule,
+
+802
+01:17:48,480 --> 01:17:55,920
+you could dose it once. And once you eliminate senescent cells, the cells are not there anymore.
+
+803
+01:17:55,920 --> 01:18:02,160
+So these are not drugs you take every day, every week, or every month, these might be dosed once a
+
+804
+01:18:02,160 --> 01:18:07,840
+year until your body makes more senescent cells. And in fact, which maybe we can talk about later,
+
+805
+01:18:08,480 --> 01:18:12,880
+in our human clinical data, what we show is that when we eliminate senescent cells
+
+806
+01:18:13,440 --> 01:18:20,320
+from the painful knee joint of a human being with osteoarthritis, a single administration
+
+807
+01:18:20,320 --> 01:18:26,080
+of a senolytic medicine, eliminates pain dramatically in these humans for as long as
+
+808
+01:18:26,080 --> 01:18:30,160
+we've looked. And so the cells, we don't know if the cells have come back, but we don't think
+
+809
+01:18:30,160 --> 01:18:34,800
+they've come back by that time. This sort of validates the notion that you can now have a
+
+810
+01:18:34,800 --> 01:18:40,320
+drug that's far safer because what kills most drugs actually is the fact that they're unsafe.
+
+811
+01:18:40,320 --> 01:18:44,880
+That generally is a result of treatment again and again and again. If you don't have to do that,
+
+812
+01:18:44,880 --> 01:18:49,840
+if you can go in once, surgically eliminate the cells, I mean, surgically, metaphorically here,
+
+813
+01:18:49,920 --> 01:18:54,720
+it's not surgical. You can make a safer drug, at least theoretically. And that's why we went
+
+814
+01:18:54,720 --> 01:19:03,200
+that direction. So there's another big challenge here, which is how do you identify which cells
+
+815
+01:19:03,200 --> 01:19:08,800
+are the senescent cells in vivo when you don't have the luxury you've had in the animal lab,
+
+816
+01:19:08,800 --> 01:19:13,760
+which is you get to label those cells, you get to put big targets on them. What was the proof of
+
+817
+01:19:13,840 --> 01:19:22,080
+concept that you could go into an organism and without the luxury of having the senescent cells
+
+818
+01:19:22,080 --> 01:19:26,880
+raise their hand and say, here we are metaphorically, actually send out snipers to get them.
+
+819
+01:19:27,600 --> 01:19:34,880
+Deep profiling of human tissues for senescence exists, but it's few and far between. And so
+
+820
+01:19:35,600 --> 01:19:40,800
+we undertook a study and this is after we demonstrated in animals that osteoarthritis,
+
+821
+01:19:40,800 --> 01:19:47,280
+which is the second most prevalent disease of aging and the primary reason it hurts to be old.
+
+822
+01:19:47,280 --> 01:19:52,480
+What's the first, by the way? Type 2 diabetes. Interesting. So what we did is we knew from
+
+823
+01:19:52,480 --> 01:19:58,880
+animals that if we could induce surgical trauma to an animal's knee, a mouse, and we eliminated
+
+824
+01:19:58,880 --> 01:20:03,120
+senescent cells, that we could eliminate pain and actually repair cartilage in a mouse.
+
+825
+01:20:03,120 --> 01:20:07,360
+Wait a second. That's counterintuitive. I know. That's what's so cool. Well,
+
+826
+01:20:07,360 --> 01:20:12,160
+it's counterintuitive because of the experiment you shared with me earlier that Judith's group did.
+
+827
+01:20:12,160 --> 01:20:16,160
+I think it was Judith's group that did this looking at wound healing. You would think if senescent
+
+828
+01:20:16,160 --> 01:20:23,200
+cells were necessary for wound healing, they would be necessary for the non-pathologic healing of
+
+829
+01:20:23,200 --> 01:20:29,040
+cartilage following surgical trauma. And they may be. So our theory about what's going on in
+
+830
+01:20:29,040 --> 01:20:34,240
+osteoarthritis, and this is just one of the ideas we entertain here. And I can explain what data we
+
+831
+01:20:34,240 --> 01:20:39,760
+have that supports this notion is that senescent cells accumulate at sites of osteoarthritis.
+
+832
+01:20:40,320 --> 01:20:47,920
+In fact, they may be trying to heal. Got it. But unlike in the skin, they literally fall off
+
+833
+01:20:47,920 --> 01:20:53,520
+in the context of healing, the cells remain and essentially continue to sound the alarm
+
+834
+01:20:53,520 --> 01:20:58,640
+over and over and over again. And we think it could be giving a sort of flawed attempt at wound
+
+835
+01:20:58,640 --> 01:21:03,840
+healing that could be driving the pathophysiology of disease. And the margin for error, sorry to
+
+836
+01:21:03,840 --> 01:21:09,120
+interrupt, is much smaller in a joint. In other words, you don't have to heal a wound perfectly
+
+837
+01:21:09,120 --> 01:21:14,720
+to achieve a functional outcome that is perfect. You might not have a cosmetically perfect outcome,
+
+838
+01:21:14,720 --> 01:21:18,720
+but functionally, you could have a hypertrophic scar, you could have a keloid, you could have
+
+839
+01:21:18,720 --> 01:21:24,240
+this, you could have that, but you've closed the barrier to the outside world. But inside of a
+
+840
+01:21:24,240 --> 01:21:30,720
+joint, it's a very delicate balance of one cell layer too many. And all of a sudden you have a
+
+841
+01:21:30,800 --> 01:21:34,720
+different outcome than you had prior to the insult. Coupled with everything you said,
+
+842
+01:21:34,720 --> 01:21:37,440
+I mean, that's all of these things factor together, I suppose.
+
+843
+01:21:37,440 --> 01:21:45,280
+So what we were able to show in animals was that when we induced trauma by cutting the ACL,
+
+844
+01:21:45,280 --> 01:21:50,080
+which is known to be risk factor for human osteoarthritis of the knee, we got something
+
+845
+01:21:50,080 --> 01:21:53,840
+that looked like osteoarthritis and we eliminated senescent cells either genetically
+
+846
+01:21:54,720 --> 01:22:00,480
+or with our drug, which we've now taken into human beings, we could, in this trauma induced
+
+847
+01:22:00,560 --> 01:22:05,280
+setting. And sorry, that genetic mouse, just to be sure, that's a mouse that has a genetic
+
+848
+01:22:05,280 --> 01:22:10,080
+tag for senescent cells that's easy to turn off. That's correct. Okay. One aside question,
+
+849
+01:22:10,080 --> 01:22:14,720
+is there a mouse model of osteoarthritis that comes from overweight or obesity?
+
+850
+01:22:14,720 --> 01:22:20,560
+No. Is that the most common cause of osteoarthritis in humans? It's a comorbidity. I'm not aware that
+
+851
+01:22:20,560 --> 01:22:25,920
+anyone's established causality, but it would make some sense that it could be causal because of
+
+852
+01:22:25,920 --> 01:22:30,960
+weight-bearing this. Interesting. So the animal model for osteoarthritis is an ACL injury, which
+
+853
+01:22:30,960 --> 01:22:35,360
+is still true in humans, but it's- There are a few different models for osteoarthritis. And so
+
+854
+01:22:35,360 --> 01:22:40,560
+really, one of the things we've learned is that when you attempt to model disease, there are lots
+
+855
+01:22:40,560 --> 01:22:46,080
+of off the shelf models that people have built for things like osteoarthritis because they're
+
+856
+01:22:46,080 --> 01:22:52,480
+making a painkiller. So they do things like hurt the animal's knee and then give it a painkiller.
+
+857
+01:22:52,480 --> 01:23:00,400
+How relevant is that to osteoarthritis in a human? It's not. You inject iodoacetate into the joint.
+
+858
+01:23:00,400 --> 01:23:05,040
+It hurts like hell, and then you give them painkillers. So we had to search around for
+
+859
+01:23:06,080 --> 01:23:11,040
+models that happened fast because that's the way we do experiments in which senescence played a
+
+860
+01:23:11,040 --> 01:23:16,720
+role in the ACLT model. So this was work we did collaboratively with Jennifer Elisif, who's a
+
+861
+01:23:16,720 --> 01:23:23,760
+professor at Johns Hopkins of bioengineering. And she was someone, an old friend, and she'd been
+
+862
+01:23:23,760 --> 01:23:27,680
+thinking about osteoarthritis and had the model in her lab. And I called her up one day and I said,
+
+863
+01:23:28,480 --> 01:23:34,160
+we have this crazy idea. We think that senescent cells could be driving this disease. Do you want
+
+864
+01:23:34,160 --> 01:23:40,240
+to try to figure this out with us? And she was an awesome collaborator. Some of the first
+
+865
+01:23:40,240 --> 01:23:46,000
+senolytic molecules we found, we shared with her and she had her model in operation. And very
+
+866
+01:23:46,000 --> 01:23:49,840
+quickly in her laboratory, we were able to demonstrate the senolytic molecules that we
+
+867
+01:23:49,840 --> 01:23:56,880
+had identified at the Buck Institute in Judy's group. One of them was active in Jennifer's model
+
+868
+01:23:56,880 --> 01:24:00,960
+of osteoarthritis. And so for the first time, we actually had a disease, a human disease,
+
+869
+01:24:00,960 --> 01:24:05,840
+the second most prevalent disease of aging. The primary reason it hurts to be old, I can't
+
+870
+01:24:05,920 --> 01:24:10,800
+overstate that enough. It's like being in pain sucks and this is the reason old people are in
+
+871
+01:24:10,800 --> 01:24:17,520
+pain mostly. And we could drive that disease backwards in a mouse. So we were just overjoyed
+
+872
+01:24:17,520 --> 01:24:22,400
+by this because we could achieve it genetically, which says it's really senescent cells. And the
+
+873
+01:24:22,400 --> 01:24:26,880
+second thing is we could also achieve the same result with a drug-like molecule. It was the
+
+874
+01:24:26,880 --> 01:24:32,320
+confluence of those two results that convinced us, this is really cool. It seems that we got the idea
+
+875
+01:24:32,320 --> 01:24:36,560
+right. How does the drug actually target the senescent cell when you don't have the luxury
+
+876
+01:24:36,560 --> 01:24:43,200
+of a genetic tag? We spent the first, remember that was question three of the big four questions.
+
+877
+01:24:43,760 --> 01:24:50,240
+We spent the first two and a half years of this whole effort searching fruitlessly and not finding
+
+878
+01:24:50,240 --> 01:24:57,200
+a senolytic molecule. And the first molecule we identified followed swiftly by the second,
+
+879
+01:24:57,200 --> 01:25:01,360
+and then a series of others that were very related to the second one. The first molecule
+
+880
+01:25:01,360 --> 01:25:08,960
+we identified was a MDM2 P53 interaction inhibitor. And so normally MDM2 is this
+
+881
+01:25:08,960 --> 01:25:13,760
+ubiquitin ligase. So it walks around and it's like a meter maid who goes around marking cars
+
+882
+01:25:13,760 --> 01:25:19,600
+with chalk for getting a parking ticket. But what MDM2 does is it walks around and it marks proteins
+
+883
+01:25:19,600 --> 01:25:25,520
+with a little molecule called ubiquitin and it marks them for destruction. And P53 is one of its
+
+884
+01:25:25,520 --> 01:25:31,680
+client proteins. And so if you break up the interaction between MDM2 and P53, P53 doesn't
+
+885
+01:25:31,680 --> 01:25:38,080
+get marked for destruction. So it's concentration in the cell goes up. And discovered in Judy's lab
+
+886
+01:25:38,080 --> 01:25:42,800
+by a few people, including Remy Marten-LaBerge, who was a postdoc in Judy's lab at the time,
+
+887
+01:25:43,920 --> 01:25:49,360
+he discovered that when you did this to senescent cells, senescent cells died preferentially.
+
+888
+01:25:49,360 --> 01:25:52,720
+By the way, is there anything on the outside of a senescent cell that identifies it?
+
+889
+01:25:52,800 --> 01:25:55,440
+There are some things on the inside and we've been searching.
+
+890
+01:25:55,440 --> 01:26:03,040
+But it's not like you have an antibody or anything that would render it externally identified.
+
+891
+01:26:03,600 --> 01:26:08,800
+We are searching now and we don't have any universal external marker of senescent cells.
+
+892
+01:26:08,800 --> 01:26:13,440
+We do have some that we just haven't talked about openly yet in various disease states where the
+
+893
+01:26:13,440 --> 01:26:19,600
+senescent cells in a disease state have a marker that's on the outside. We've not found and people
+
+894
+01:26:19,600 --> 01:26:24,240
+like Ned Sharpless have been searching for over a decade for such a marker.
+
+895
+01:26:24,240 --> 01:26:29,280
+Wow. So just to add to the complexity of the biology, if you were on a little mini nano
+
+896
+01:26:29,280 --> 01:26:34,560
+spaceship and you were inside the joint of a person with osteoarthritis, you wouldn't be
+
+897
+01:26:34,560 --> 01:26:39,760
+able to look out and see which of the cells are actually senescent and which ones are
+
+898
+01:26:40,480 --> 01:26:45,440
+normal, which ones are simply injured. You wouldn't be able to make that distinction.
+
+899
+01:26:45,440 --> 01:26:49,600
+So even if you had a special gun to shoot senescent cells, you wouldn't know which cells
+
+900
+01:26:49,600 --> 01:26:52,480
+to shoot based on just the observation of the cell.
+
+901
+01:26:52,480 --> 01:26:57,600
+Optically, no. Now, if you had a little bit of a sniffer, eyes would not be useful if you were
+
+902
+01:26:57,600 --> 01:27:04,000
+very small. A nose, however, would be useful. So if you could just sort of swim up the gradient
+
+903
+01:27:04,000 --> 01:27:08,480
+of pro-inflammatory and pro-fibrotic markers, you would find yourself.
+
+904
+01:27:08,480 --> 01:27:09,360
+You'd find your source.
+
+905
+01:27:09,360 --> 01:27:13,200
+Yeah. Right. So I do think that the little mini spaceship things often very
+
+906
+01:27:13,280 --> 01:27:16,000
+illuminating to think about biology. I use that a lot.
+
+907
+01:27:16,000 --> 01:27:17,920
+Your drug then targets P53.
+
+908
+01:27:17,920 --> 01:27:23,120
+Oh, that's right. Yeah. So, so P53 goes up in these cells. So it doesn't target P53. It actually
+
+909
+01:27:23,120 --> 01:27:26,560
+binds on the MDM2 side, thereby kicking,
+
+910
+01:27:26,560 --> 01:27:27,680
+Relieving.
+
+911
+01:27:27,680 --> 01:27:28,720
+Yeah. Yeah. So, okay.
+
+912
+01:27:28,720 --> 01:27:36,480
+And then, so P53 goes up in concentration. The senescent cells die selectively. And then,
+
+913
+01:27:36,560 --> 01:27:44,000
+and this turned out to work very well in our trauma osteoarthritis models. And another very
+
+914
+01:27:44,000 --> 01:27:47,920
+cool result, and this is something else that Jennifer did wound up in our Nature paper,
+
+915
+01:27:47,920 --> 01:27:55,600
+our Nature Medicine paper in 2017, was Jennifer got knees from patients undergoing total knee
+
+916
+01:27:55,600 --> 01:27:59,440
+arthroplasty. So these are people that don't need their knees anymore because they're getting a
+
+917
+01:27:59,440 --> 01:28:05,760
+metal one. And she would take the cartilage at the site of the osteoarthritic lesion,
+
+918
+01:28:06,400 --> 01:28:11,440
+and she would digest out the exocerular matrix. And she'd take the cells, the cells that actually
+
+919
+01:28:11,440 --> 01:28:16,880
+make your cartilage, and she would grow them in 3D culture. And she would either expose those
+
+920
+01:28:17,760 --> 01:28:24,640
+little blobs of baby cartilage to either vehicle or our drug that's now in phase two clinical
+
+921
+01:28:24,640 --> 01:28:30,560
+trials in humans. And she observed something awesome, which is that exposure to the drug
+
+922
+01:28:30,560 --> 01:28:34,800
+eliminated senescent cells that were very prevalent from this site of damage.
+
+923
+01:28:34,800 --> 01:28:39,680
+You talked earlier about how you might see one to two percent senescent cells in an organism,
+
+924
+01:28:39,680 --> 01:28:44,800
+but when you talk about a very local spot of damage like that, how highly concentrated were they?
+
+925
+01:28:44,800 --> 01:28:48,160
+So it's a little hard because I'll tell you a slightly different number because
+
+926
+01:28:48,720 --> 01:28:53,280
+the cartilage stuff, so basically it's very, there are a lot of them at the site where you
+
+927
+01:28:53,280 --> 01:28:59,680
+have the osteoarthritic injury and you go millimeters away and then it drops way down.
+
+928
+01:28:59,680 --> 01:29:04,480
+So it's more puncta of it in that setting. If you look at the synovial membrane, which is,
+
+929
+01:29:04,480 --> 01:29:07,920
+I'll talk to you about another study we did in humans where we actually counted
+
+930
+01:29:07,920 --> 01:29:12,800
+senescent cells in patients with osteoarthritis, the number hovers around one to two percent,
+
+931
+01:29:13,600 --> 01:29:18,800
+even in patients with osteoarthritis, but it scales with you have more senescent cells when
+
+932
+01:29:18,800 --> 01:29:23,520
+you have more disease. And when you say, do you mean synovial fluid? Like if you did a joint
+
+933
+01:29:23,520 --> 01:29:26,880
+aspiration on somebody with osteoarthritis, you're saying one to two percent of the cells
+
+934
+01:29:26,880 --> 01:29:31,040
+in the synovial fluid is senescent? So we actually did tell you, I'll come back to this a little bit
+
+935
+01:29:31,040 --> 01:29:35,840
+later. Let me just finish up and then we'll immediately flip to that. Sorry. Okay. Is that
+
+936
+01:29:35,840 --> 01:29:41,840
+we did this experiment where we soaked the cartilage from the patients that had osteoarthritis
+
+937
+01:29:41,840 --> 01:29:47,920
+in our drug and eliminated senescent cells. But another really cool thing is they started
+
+938
+01:29:47,920 --> 01:29:53,840
+growing cartilage in the plastic dish. So these are cells that came from that sick person's knee.
+
+939
+01:29:54,480 --> 01:30:00,080
+They had the capacity to make cartilage, but they just didn't. But once you eliminated the cells,
+
+940
+01:30:00,080 --> 01:30:05,360
+all of a sudden they were producing cartilage again. And so that was super cool. We have yet
+
+941
+01:30:05,360 --> 01:30:10,800
+to prove in a human being that this drug can grow cartilage when it's still in your knee.
+
+942
+01:30:11,440 --> 01:30:17,760
+But that experiment is kind of cool because it suggests that you have this innate capacity
+
+943
+01:30:17,840 --> 01:30:24,640
+if you were unburdened by these cells and their bad stuff they're making. So this next question
+
+944
+01:30:24,640 --> 01:30:29,120
+about how many senescent cells do you have in the disease? I'll tell you why I'm asking the question,
+
+945
+01:30:29,120 --> 01:30:34,160
+which is not just general curiosity. It's really to get a question of how difficult is it to target
+
+946
+01:30:34,160 --> 01:30:39,840
+these things in vivo. Are they ubiquitous enough that you can whack these things with an injection?
+
+947
+01:30:39,840 --> 01:30:42,880
+Because obviously when you're doing this in a person, you're not going to have the luxury of
+
+948
+01:30:42,880 --> 01:30:47,600
+taking their knee out to do it. That's sort of the etiology of my question. So I'll tell you a
+
+949
+01:30:47,680 --> 01:30:53,440
+little bit of what we've done in the clinic. So in human beings, we have eliminated senescent cells
+
+950
+01:30:54,320 --> 01:31:02,240
+from patients' knees with a single injection of this drug. And we can not only eliminate or
+
+951
+01:31:02,240 --> 01:31:08,080
+dramatically reduce pain, but we can also eliminate factors that senescent cells are making.
+
+952
+01:31:08,640 --> 01:31:13,680
+So the quick answer to your question is that this molecule is safe enough, selective enough,
+
+953
+01:31:13,680 --> 01:31:19,200
+and potent enough that we can do it. So it doesn't just work in a plastic dish,
+
+954
+01:31:19,200 --> 01:31:23,760
+but it works actually within the knee of a patient suffering from osteoarthritis.
+
+955
+01:31:23,760 --> 01:31:28,400
+So this was your phase one trial with your first agent. This is the 101?
+
+956
+01:31:28,400 --> 01:31:29,040
+Yeah, that's right.
+
+957
+01:31:29,600 --> 01:31:35,760
+I've seen the phase one data maybe explain a little bit of what was done. Phase one for
+
+958
+01:31:35,760 --> 01:31:42,080
+people who aren't familiar with drug studies is mostly to ensure safety, but sometimes you'll see
+
+959
+01:31:42,080 --> 01:31:45,600
+efficacy. Sometimes you'll see that the drug actually does something beneficial, and that's
+
+960
+01:31:45,600 --> 01:31:51,040
+a bonus if you can see both efficacy and safety. But you're typically escalating the dose, and
+
+961
+01:31:51,680 --> 01:31:56,480
+again, you want to see if more drug leads to more toxicity. But if there's efficacy and the
+
+962
+01:31:56,480 --> 01:32:02,400
+efficacy improves with dose, that makes you a bit more confident that it's not the placebo effect
+
+963
+01:32:02,400 --> 01:32:06,080
+or not the effect of the vehicle that you use to deliver the drug.
+
+964
+01:32:06,080 --> 01:32:13,680
+That's correct. So the experiment we did, and this was all the result of what we saw in animals,
+
+965
+01:32:13,680 --> 01:32:17,840
+that was a result of what we saw in a phase zero study in which we went into patients with
+
+966
+01:32:17,840 --> 01:32:24,160
+osteoarthritis, no drugs, but we biopsy little bits of their synovial membrane and counted
+
+967
+01:32:24,160 --> 01:32:28,720
+senescent cells. And we saw that the more senescent cells they had, the worse osteoarthritis they had,
+
+968
+01:32:28,720 --> 01:32:33,040
+the more bone deformation they had in the knee, the more pain they had.
+
+969
+01:32:33,840 --> 01:32:40,080
+So emboldened by these results, we then took the drug to humans. And as you noted,
+
+970
+01:32:40,080 --> 01:32:46,400
+phase one studies are typically for safety. We realized though, that we couldn't really do the
+
+971
+01:32:46,400 --> 01:32:52,080
+right safety study in patients that didn't have a senescent cell burden. Because if you're asking
+
+972
+01:32:52,080 --> 01:32:56,480
+the question, is it safe to eliminate senescent cells from an osteoarthritic knee, you need to
+
+973
+01:32:56,480 --> 01:33:03,120
+have the cells to eliminate. And so that was our kind of logic in the design. And so the way we did
+
+974
+01:33:03,120 --> 01:33:08,480
+the study was 48 patients where we did a three to one randomization, meaning three people would get
+
+975
+01:33:08,480 --> 01:33:14,800
+drug versus one person getting placebo. And as you noted, we stepped up in dose and it was a single
+
+976
+01:33:14,800 --> 01:33:21,920
+dose of the drug at day zero injected into the knees of patients with painful osteoarthritis.
+
+977
+01:33:21,920 --> 01:33:27,920
+And we then followed these patients for three months. And we checked in with them every week,
+
+978
+01:33:27,920 --> 01:33:33,520
+and they checked in with themselves every day on a little iPhone device. And we monitored their
+
+979
+01:33:33,520 --> 01:33:38,160
+pain. And the investigators were blinded as well. Oh, yes. It's called a double blind study, which
+
+980
+01:33:38,160 --> 01:33:45,280
+means nobody knows who's got drug, who's got placebo or what dose of drug you were on. So there's 12
+
+981
+01:33:45,280 --> 01:33:51,760
+placebos, 36 treatments, treated patients, and those 36 treated patients were about six per dose.
+
+982
+01:33:51,760 --> 01:33:57,280
+They were six per dose. Yeah. So we had six dose levels. And so they were marched up from
+
+983
+01:33:57,280 --> 01:34:03,200
+essentially a group of a series of doses, three of them, which we based on some modeling we did
+
+984
+01:34:03,200 --> 01:34:08,400
+in cell culture, we thought would be sub pharmacologically active doses. So we thought
+
+985
+01:34:08,400 --> 01:34:13,760
+they'd be semi inactive or inactive entirely. And then we moved into the dose range where we thought
+
+986
+01:34:13,760 --> 01:34:20,000
+we'd be doing biology in the knee. And we saw what happened. And we asked the patients, they had
+
+987
+01:34:20,000 --> 01:34:23,920
+once a week meetings with their physician where they answered questionnaires about their pain,
+
+988
+01:34:24,640 --> 01:34:29,360
+about their functional state. Then every day they would go and they'd enter on a little iPhone
+
+989
+01:34:29,360 --> 01:34:34,000
+device, they answer one question, which is how much pain am I in on a scale of one to 10. And
+
+990
+01:34:34,880 --> 01:34:41,840
+what we saw when we unblinded the data was that there was a dose dependent meaning as you go up
+
+991
+01:34:41,840 --> 01:34:48,000
+in dose, you get more and more pain reduction and durable impact in pain. For as long as we
+
+992
+01:34:48,000 --> 01:34:53,600
+looked, when you got to three months, the pain is not returning. It's completely flat. Do you
+
+993
+01:34:53,600 --> 01:34:57,920
+remember what the placebo group experienced? How much of a reduction in pain did they achieve
+
+994
+01:34:57,920 --> 01:35:02,720
+relative to their baseline? It depends on which of the end points we're using. But I'll just
+
+995
+01:35:02,720 --> 01:35:09,920
+summarize by saying that injections into the knee placebo effect is a big deal. In fact,
+
+996
+01:35:09,920 --> 01:35:14,320
+if you did not see a placebo effect that looked like other clinical trials, you would scratch
+
+997
+01:35:14,320 --> 01:35:19,840
+your head and wonder what's wrong. We saw a very similar placebo effect to what is seen with the
+
+998
+01:35:19,840 --> 01:35:25,920
+injection of steroids into the knee. And that was actually good. Meaning if you do a trial with
+
+999
+01:35:25,920 --> 01:35:30,960
+steroids and with saline, for example, you saw the same placebo effect. You didn't see the same
+
+1000
+01:35:30,960 --> 01:35:35,440
+effect as you saw with steroids. Correct. You see the placebo groups in a steroid trial.
+
+1001
+01:35:35,440 --> 01:35:36,480
+Had comparable benefits.
+
+1002
+01:35:36,480 --> 01:35:42,160
+Looked like the placebo effect in our trial. And that is something that one must, the placebo
+
+1003
+01:35:42,160 --> 01:35:49,280
+effects in pain studies is absolutely important. But what we saw was that we vastly exceeded
+
+1004
+01:35:49,280 --> 01:35:55,280
+anything looking like the placebo effect. So in fact, at our highest dose of drug, again,
+
+1005
+01:35:55,280 --> 01:35:59,520
+because it's a phase one study, the N number of patients was small at the highest dose.
+
+1006
+01:36:00,320 --> 01:36:05,920
+We saw patients who were entering, so this is this scale of one to 10 thing. Okay. It's actually
+
+1007
+01:36:05,920 --> 01:36:11,440
+zero to 10 patients were entering on average at about a 6.2 and at the highest dose, they were
+
+1008
+01:36:11,440 --> 01:36:16,480
+dropping to just over one. Is that comparable to what patients experience with steroids? I know
+
+1009
+01:36:16,480 --> 01:36:20,560
+it's not apples to apples. And by the way, it's a reason it's not apples to apples that I actually
+
+1010
+01:36:20,560 --> 01:36:25,440
+learned on this clinical study. The reason you don't compare across studies is that different
+
+1011
+01:36:25,440 --> 01:36:30,080
+studies in rural different patients, different inclusion, exclusion criteria, even if you use
+
+1012
+01:36:30,080 --> 01:36:36,880
+the very same clinical instrument, it's really not an apples to apples comparison. That said,
+
+1013
+01:36:36,880 --> 01:36:41,920
+okay, the effect looks very large in terms of what we are doing in terms of approaching
+
+1014
+01:36:42,560 --> 01:36:47,680
+our highest dose, getting some patients close to pain-free. Now, I know that the phase one trial
+
+1015
+01:36:47,680 --> 01:36:53,680
+was a three month study. What's the average duration that patients have now been since their
+
+1016
+01:36:53,680 --> 01:36:58,640
+injections? I don't have the answer to that question. We are not monitoring the patients
+
+1017
+01:36:58,640 --> 01:37:03,440
+in that study going forward because we didn't consent them for that. What we are doing now is
+
+1018
+01:37:03,440 --> 01:37:10,560
+we're actively dosing patients in our phase two study. So presumably the duration will be extended
+
+1019
+01:37:10,560 --> 01:37:16,720
+in phase two. That's right. So because we only went three months in the phase one study and we
+
+1020
+01:37:16,720 --> 01:37:21,920
+didn't consent patients to keep watching them, we really wanted to answer this question, which is
+
+1021
+01:37:21,920 --> 01:37:26,160
+if you eliminate senescent cells from somebody's knee, how long does the pain stay away?
+
+1022
+01:37:26,960 --> 01:37:33,360
+And so the phase two study goes out to six months, so it's 24 weeks, and we're trying to replicate
+
+1023
+01:37:33,360 --> 01:37:39,520
+the phase one study as much as we can. So we're using the same clinical instruments to measure
+
+1024
+01:37:39,520 --> 01:37:45,440
+pain and function. We're similar dose levels. So we're doing placebo, a half-meg, two-migs,
+
+1025
+01:37:45,440 --> 01:37:51,440
+four-migs, which was the highest dose that we explored in the phase one study. And it's 45
+
+1026
+01:37:51,440 --> 01:37:57,920
+patients per dose level as opposed to six. So we should have sufficient statistical power to
+
+1027
+01:37:57,920 --> 01:38:04,720
+really see this really clearly. And in terms of the criteria of the patients that are coming in,
+
+1028
+01:38:04,720 --> 01:38:10,560
+they have to have painful osteoarthritis of the knee. And so there is a score, this thing called
+
+1029
+01:38:10,560 --> 01:38:16,000
+the NRS, which is this numerical rating scale. This is this zero to 10, so it's an 11-point scale.
+
+1030
+01:38:16,640 --> 01:38:20,720
+And you have to be between a four and a nine. And are these patients that typically have
+
+1031
+01:38:20,720 --> 01:38:27,120
+already tried corticosteroids and only achieved limited or short-term response? Like I'm trying
+
+1032
+01:38:27,120 --> 01:38:31,600
+to understand clinically, somebody listening to this, who should and shouldn't be excited about
+
+1033
+01:38:31,600 --> 01:38:37,920
+this type of work on the horizon? So I think all of us should be excited about this work,
+
+1034
+01:38:37,920 --> 01:38:42,800
+because not only is this a solution, so if our phase two replicates the phase one,
+
+1035
+01:38:42,800 --> 01:38:51,040
+and which we all hope and believe it ought to, not only is this a means to treat the primary
+
+1036
+01:38:51,040 --> 01:38:57,440
+reason it hurts to be old, but it's a read-through to this whole idea of medicine, which is could you
+
+1037
+01:38:57,440 --> 01:39:03,840
+treat diseases of aging by eliminating these cells at sites of disease? This is just the beginning of
+
+1038
+01:39:03,840 --> 01:39:07,360
+something. Well, let me go back and make sure I understand a few things, because I'm already
+
+1039
+01:39:07,360 --> 01:39:11,120
+doing what you're doing, I think, which is sort of extrapolating to the what it means.
+
+1040
+01:39:11,120 --> 01:39:16,640
+Is radiographic evidence a way, because you can certainly look at a person's knee on an x-ray and
+
+1041
+01:39:16,640 --> 01:39:22,800
+examine the loss of cartilage and appreciate an osteoarthritic knee. You could do the same thing
+
+1042
+01:39:22,800 --> 01:39:29,200
+on an MRI. Do you know if the reverse is true? Do you know if the level of cartilage that's making
+
+1043
+01:39:29,200 --> 01:39:35,440
+its way back into the knee as a result of the loss of senescent cells is radiographically evident as
+
+1044
+01:39:35,440 --> 01:39:42,400
+well? Or is it possible that some of the amelioration of pain is due to the reduction of the
+
+1045
+01:39:42,400 --> 01:39:47,280
+circulating factors there, but not so much an increase in the structural integrity of the knee?
+
+1046
+01:39:47,840 --> 01:39:54,080
+So what we saw in terms of the speed of pain resolution in the phase one was that within
+
+1047
+01:39:54,720 --> 01:40:00,800
+two weeks of the injection, you achieved most of your pain reduction. So it seems pretty
+
+1048
+01:40:00,800 --> 01:40:06,800
+implausible to me that that is the result of a structural change to your joint. It seems far
+
+1049
+01:40:06,800 --> 01:40:12,720
+more likely that this is the result of getting rid of factors that are driving pain acutely.
+
+1050
+01:40:12,720 --> 01:40:17,040
+And it's possible, like my questions are probably so ignorant, and I'm sure there's some orthopedic
+
+1051
+01:40:17,040 --> 01:40:22,400
+surgeon listening to this cringing. We would assume that some of the pain that people experience in
+
+1052
+01:40:22,400 --> 01:40:27,040
+osteoarthritis is due to the structural part of this, but your evidence would suggest that at least
+
+1053
+01:40:27,040 --> 01:40:31,600
+part of the pain is not. It's consistent with that idea, but who's to say? So we're going to
+
+1054
+01:40:31,600 --> 01:40:36,800
+know because we're also doing MRI and x-ray in the phase two study. And so we're going to be able to
+
+1055
+01:40:36,800 --> 01:40:43,600
+not only follow pain, but we will follow structure as well. But we have no idea if you will see
+
+1056
+01:40:43,600 --> 01:40:48,720
+improvements in the structure of the joint over what time scale you would see changes and
+
+1057
+01:40:48,720 --> 01:40:53,280
+improvements to the structure of the joint. This is the cool thing about doing cutting edge biology
+
+1058
+01:40:53,280 --> 01:40:57,760
+in clinical science. I mean, I would love to take a group of patients if resources were no object,
+
+1059
+01:40:57,760 --> 01:41:01,520
+and we could continue to be absolutely sure of the safety of this. You know, you imagine
+
+1060
+01:41:01,520 --> 01:41:06,960
+take a bunch of people our age and you do a bunch of T2 weighted images, MRIs of their spine, and you
+
+1061
+01:41:06,960 --> 01:41:16,240
+look at these signal loss L4, L5, L5, S1 discs. Many people our age, myself certainly, have these
+
+1062
+01:41:16,240 --> 01:41:22,240
+blown out blackened discs that just aren't taking up water. Yeah, I have them. Yeah. It would be very
+
+1063
+01:41:22,240 --> 01:41:27,360
+interesting to note if you did directed injections of synolytic agents like this, if you could restore
+
+1064
+01:41:27,360 --> 01:41:33,600
+this signal, could you, by eradicating enough senescent cell, create an environment where the
+
+1065
+01:41:33,600 --> 01:41:38,640
+existing cell could proliferate into a healthy enough place where it takes up water? Something
+
+1066
+01:41:38,640 --> 01:41:44,480
+as simple as that, that again, it's a slippery slope in the spine to go after indications because
+
+1067
+01:41:44,480 --> 01:41:48,960
+it's not as clean as the knee, I don't think. But again, just a great proof of concept.
+
+1068
+01:41:48,960 --> 01:41:53,840
+Yeah, I will say that I suffer from degenerative disc disease. It's, well, everyone does at some
+
+1069
+01:41:53,840 --> 01:41:59,680
+point, but it's particularly prevalent in my family. There was a result I did not mention earlier
+
+1070
+01:41:59,680 --> 01:42:05,840
+from mice, that when we eliminate senescent cells from mice, from midlife until death, and we
+
+1071
+01:42:06,400 --> 01:42:15,600
+do x-ray on their spines, we see a 41% improvement in the maintenance of the intervertebral disc
+
+1072
+01:42:15,600 --> 01:42:21,200
+volume. Now, do you see a restoration or a reduction in decline? We only measured reduction
+
+1073
+01:42:21,200 --> 01:42:27,520
+in decline, so we do not know if you could see restoration. So that's still an unknown question
+
+1074
+01:42:27,520 --> 01:42:33,440
+in the senescent space. Absolutely. So it's possible you, me, and all the other folks that are
+
+1075
+01:42:33,440 --> 01:42:39,280
+in the senior category here won't necessarily reap the benefits nearly as much as the people like
+
+1076
+01:42:39,280 --> 01:42:45,280
+your kid, my kid right now, where you figure this out and when you're 20, you start to prophylactically
+
+1077
+01:42:45,600 --> 01:42:51,280
+take these things to reduce the glide rate of decline. That might be true structurally,
+
+1078
+01:42:51,280 --> 01:42:56,720
+but I would say that what we saw in our phase one study was you can take people with Frank,
+
+1079
+01:42:57,520 --> 01:43:02,880
+painful osteoarthritis of the knee, dose them, and two weeks later they have profound pain reduction
+
+1080
+01:43:02,880 --> 01:43:07,920
+at the highest dose. So that tells you that you are taking a big feature of that disease,
+
+1081
+01:43:07,920 --> 01:43:12,800
+the one that you get to feel on a minute to minute basis, and you are sending it backwards.
+
+1082
+01:43:12,800 --> 01:43:17,200
+Now, whether or not that becomes a structural change is something we hope to understand in
+
+1083
+01:43:17,200 --> 01:43:21,440
+the phase two study. And the other thing we, I guess, don't understand, and it might take even
+
+1084
+01:43:21,440 --> 01:43:27,120
+more than a phase two study to understand, is with corticosteroids we have problems, which is
+
+1085
+01:43:27,840 --> 01:43:33,680
+excessive use of corticosteroids is not a viable option. No. They themselves become destructive
+
+1086
+01:43:33,680 --> 01:43:39,040
+and or potentially lose efficacy over time, and so they're a great once in a while tool,
+
+1087
+01:43:39,040 --> 01:43:43,680
+but not a great maintenance tool. It will be interesting to know if this, if you become
+
+1088
+01:43:43,680 --> 01:43:51,520
+tachyphylactic to this, or if the efficacy increases with use as you start to increase
+
+1089
+01:43:51,520 --> 01:43:57,520
+the amount of cartilage laying tissue that exists, and you tip the battle in favor of the chondrocyte
+
+1090
+01:43:57,520 --> 01:44:03,120
+over the senescent cell. Yeah, that would be the kind of prediction one would make from the simple,
+
+1091
+01:44:03,120 --> 01:44:07,600
+sort of zero order prediction would be that, I think. Is there an example in biopharmacology
+
+1092
+01:44:07,600 --> 01:44:13,360
+where the good guy ends up winning with progressive dosing? Oh, I would say oncology.
+
+1093
+01:44:13,360 --> 01:44:18,320
+If you think about cancer as a gain of function. Only in the cancers that don't spread though,
+
+1094
+01:44:18,320 --> 01:44:21,840
+but that's sort of, that almost seems binary, doesn't it? I guess you're right. I guess you
+
+1095
+01:44:21,840 --> 01:44:27,200
+could say that. So because if you think of cancer as a sort of pitted battle between you, the organism,
+
+1096
+01:44:27,760 --> 01:44:32,480
+and cancer, which is sort of a gain of function, separate organism based on you living in you,
+
+1097
+01:44:32,480 --> 01:44:38,240
+but not you, when you successfully treat cancer through the elimination of those cells,
+
+1098
+01:44:38,880 --> 01:44:44,880
+the good guy won. Yeah, I guess that's true some of the time, but most of the time that's not true.
+
+1099
+01:44:44,880 --> 01:44:48,560
+It's sort of a tautology, right? It's true when it's true, but when it's not, it's not, but most
+
+1100
+01:44:48,560 --> 01:44:52,720
+of the time it's not true is the problem. But it could certainly be the case here. There's certainly
+
+1101
+01:44:52,720 --> 01:44:58,640
+a case, but even if the worst case scenario is you need a drug injected every six months or every 12
+
+1102
+01:44:58,640 --> 01:45:04,560
+months, it's certainly interesting. Let's go one step further because this is obviously a critical
+
+1103
+01:45:04,560 --> 01:45:10,480
+piece of health span. In fact, you could argue that along with cognition, there's no more important
+
+1104
+01:45:10,480 --> 01:45:16,960
+piece of health span than the structural integrity of your body as you age. Have you, in your leisure
+
+1105
+01:45:16,960 --> 01:45:23,040
+time, had the ability to think about how this might impact lifespan vis-a-vis atherosclerosis,
+
+1106
+01:45:23,040 --> 01:45:29,920
+cancer, or other diseases that actually shorten life? Well, we know that atherosclerosis is another
+
+1107
+01:45:29,920 --> 01:45:35,600
+disease in which senescence plays a role. Now, we're not currently working on that. One of the
+
+1108
+01:45:35,600 --> 01:45:39,600
+things you may have noticed is that osteoarthritis, the way we approach the disease, even though it
+
+1109
+01:45:39,600 --> 01:45:46,400
+affects many of the 360 joints in your body, we treat the local version of the disease with local
+
+1110
+01:45:46,400 --> 01:45:53,680
+therapy. Atherosclerosis is about as systemic as it gets. And Jan van der Zinn at Mayo Clinic
+
+1111
+01:45:53,680 --> 01:45:58,000
+published a paper. Actually, it was Jan van der Zinn, the guy named a very excellent young scientist
+
+1112
+01:45:58,000 --> 01:46:04,080
+named Bennett Childs. And this is a paper in Science in which he showed in Rodents that
+
+1113
+01:46:04,640 --> 01:46:12,960
+senescent cells accumulate in the atherosclerotic plaques that form in a high-fat diet mouse,
+
+1114
+01:46:13,840 --> 01:46:19,360
+which is a model that can predict, say, statin efficacy to some extent, although it exaggerates
+
+1115
+01:46:19,360 --> 01:46:24,240
+it somewhat compared to the human case. And what Bennett showed, these plaques are full of senescent
+
+1116
+01:46:24,240 --> 01:46:29,520
+cells. And if you eliminate those cells, what are the cells that have become senescent? What's their
+
+1117
+01:46:29,520 --> 01:46:35,280
+origin? So they appear to be macrophage in origin. I see. So it's not the endothelial cell. Well,
+
+1118
+01:46:35,280 --> 01:46:40,080
+no, there's three cell types. It's basically there's a senescent endothelium. There is a
+
+1119
+01:46:40,160 --> 01:46:46,480
+myofibroblastic type of cell that's in there. And then there are macrophages. So it's all three.
+
+1120
+01:46:46,480 --> 01:46:51,360
+It's basically the barrier, the immune cell that came to the rescue and the fibroblasts that
+
+1121
+01:46:51,360 --> 01:46:55,760
+attempted to repair the damage. Yeah, all of them. And when you eliminate these senescent cells,
+
+1122
+01:46:55,760 --> 01:47:01,600
+either genetically or with a drug, first of all, you can reduce plaque volume, which is cool. But
+
+1123
+01:47:01,600 --> 01:47:06,880
+what might even be cooler is that, and again, it's in a mouse. And so you just gotta wonder,
+
+1124
+01:47:06,880 --> 01:47:12,720
+what is that really saying about the pathophysiology of the human disease? But there is this
+
+1125
+01:47:14,080 --> 01:47:21,120
+fibrotic cap that forms on the surface of an atherosclerotic plaque. And one of the ideas in
+
+1126
+01:47:21,120 --> 01:47:28,960
+the literature is that the thinning of that plaque gives rise to a unstable plaque that is
+
+1127
+01:47:28,960 --> 01:47:36,560
+clinically dangerous and that interventions that can thicken that plaque might be a therapy,
+
+1128
+01:47:36,560 --> 01:47:41,120
+because you could take a plaque that you have and now convert it into something clinically
+
+1129
+01:47:41,120 --> 01:47:47,120
+more innocuous. And what Jan showed was that genetically and with drug that he can thicken
+
+1130
+01:47:47,120 --> 01:47:52,880
+the plaques of atherosclerotic plaques in a mouse. That would seem to counter the idea that you could
+
+1131
+01:47:52,880 --> 01:47:56,640
+lessen plaque volume. Do you have to pick between one of those two strategies? Because typically,
+
+1132
+01:47:56,640 --> 01:48:00,560
+if you thicken the plaque, wouldn't you likely increase the volume? No. So if you look at the
+
+1133
+01:48:00,800 --> 01:48:08,000
+relative partitioning of how much of the plaque volume is the cap, and then how much is this
+
+1134
+01:48:09,440 --> 01:48:19,280
+lipid deposit with macrophages in it, eyeballing it, 90% is this kind of lipid-y macrophage blob.
+
+1135
+01:48:19,280 --> 01:48:26,240
+And then there's this thin little veneer on top that is the cap. And so the thickening of that
+
+1136
+01:48:26,240 --> 01:48:31,200
+cap doesn't dramatically contribute to the overall volume of the atherosclerotic plaque,
+
+1137
+01:48:31,200 --> 01:48:35,760
+at least in a mouse. But both are happening. You're thickening the cap and reducing the
+
+1138
+01:48:36,560 --> 01:48:43,840
+subendithelial portion of the reducing the femme salins. So the ATHRO is a very tough
+
+1139
+01:48:43,840 --> 01:48:51,840
+place to do drug development. I mean, we've seen the PCSK9 story has been a multi-billion dollar
+
+1140
+01:48:51,840 --> 01:48:56,400
+battle that has given rise to relatively moderate uptake of those drugs.
+
+1141
+01:48:56,400 --> 01:48:58,640
+I could argue that's just due to the cost of the drug.
+
+1142
+01:48:58,640 --> 01:49:04,240
+It's also the fact that it's a relative cost issue going up against statins. So switching
+
+1143
+01:49:04,240 --> 01:49:08,640
+people and all this sort of thing, but it's not been, it's caused a sort of downward pressure
+
+1144
+01:49:08,640 --> 01:49:15,520
+on people's enthusiasm for doing cardiovascular drug discovery. Because now we have to, you're not
+
+1145
+01:49:15,520 --> 01:49:20,080
+using surrogate markers anymore, you're using outcome studies, you're actually following people
+
+1146
+01:49:20,080 --> 01:49:26,240
+until they die or have a serious cardiac event. Do you see an application here in oncology? I mean,
+
+1147
+01:49:26,240 --> 01:49:31,200
+it seems like there should be. Well, it's an area of interest of ours. So one of the things we saw
+
+1148
+01:49:31,200 --> 01:49:37,520
+in Jan van der Zent's 2016 paper was that these mice from whom we eliminated senescent cells from
+
+1149
+01:49:37,520 --> 01:49:45,520
+midlife until death, they had the same cancer prevalence. So 85% of them die of lymphoma with
+
+1150
+01:49:45,520 --> 01:49:50,880
+and without senescent cells. The difference is that when you eliminate the cells, the animals
+
+1151
+01:49:50,880 --> 01:49:58,720
+from whom these cells were eliminated get cancer 30% later in their lives. So you have to kind of
+
+1152
+01:49:59,280 --> 01:50:04,160
+head scratch for a moment. Like what does that mean? And if I recall, you said they got a 30%
+
+1153
+01:50:04,160 --> 01:50:09,600
+lifespan extension. Yeah. So you basically created centenarians, you just phase shifted chronic
+
+1154
+01:50:09,600 --> 01:50:15,200
+disease by a third. And some of the diseases were just dramatically reduced. So the effects
+
+1155
+01:50:15,200 --> 01:50:20,160
+on kidney function, the age effects of kidney function were reduced dramatically, cataracts were
+
+1156
+01:50:20,160 --> 01:50:25,120
+reduced dramatically. So there's a whole bunch of behavior stuff that we don't know what that means.
+
+1157
+01:50:25,120 --> 01:50:30,960
+But these animals seem to preserve features of youthful behavior. Their spinal lord lord doses
+
+1158
+01:50:30,960 --> 01:50:36,800
+looks youthful. So there's a whole set of things. But one of the things that people often ask about
+
+1159
+01:50:36,800 --> 01:50:43,040
+the experiment is, do they die of different things when you live 30% longer? And the answer is no,
+
+1160
+01:50:43,040 --> 01:50:48,000
+they die of the same thing mostly. Now that could have to do with the fact that it's mice and these
+
+1161
+01:50:48,000 --> 01:50:51,920
+lab strains of mice. Yeah, they just get cancer like crazy. And it's less interesting to me that
+
+1162
+01:50:51,920 --> 01:50:56,160
+it's how much lymphoma they get. It's more interesting to me that you could phase shift it.
+
+1163
+01:50:56,160 --> 01:51:04,000
+So we don't know why that is. But an explanation that makes some sense to me is that there is
+
+1164
+01:51:04,000 --> 01:51:10,240
+something perverse that senescent cells do to the tissue microenvironment. So this system, which is
+
+1165
+01:51:10,240 --> 01:51:18,880
+an anti cancer system in the young, could become a pro cancer system in the old by doing something
+
+1166
+01:51:18,880 --> 01:51:26,320
+to the tumor microenvironment that makes it more amenable to tumor genesis. And that would be
+
+1167
+01:51:26,320 --> 01:51:31,760
+consistent what you see where the rate of tumor formation across the animal's life is unchanged,
+
+1168
+01:51:31,760 --> 01:51:37,920
+but its ability to take root is delayed. So you could imagine applications in oncology,
+
+1169
+01:51:37,920 --> 01:51:42,800
+but you would require something in which you had some sort of highly sort of tumor prone
+
+1170
+01:51:42,800 --> 01:51:48,240
+situation where you could intervene in it. There's also an idea where if you could make cells
+
+1171
+01:51:48,240 --> 01:51:54,160
+senescent, which is what chemotherapy does in many cases, and then do a sort of a two hit strategy
+
+1172
+01:51:54,160 --> 01:51:59,920
+where you drive the cells into senescence, and then you exploit a senescence associated, you know,
+
+1173
+01:51:59,920 --> 01:52:05,680
+Achilles heel. So it could be a strategy in which you deliberately are trying to drive tumor cells
+
+1174
+01:52:05,760 --> 01:52:12,320
+into senescence and then killing them. And then there are a series of cancers that we think that
+
+1175
+01:52:12,320 --> 01:52:17,680
+are age associated that may be essentially the product of a highly senescent environment.
+
+1176
+01:52:18,400 --> 01:52:23,520
+So cancers of the skin, what if you could or cancers of the say the bladder or something
+
+1177
+01:52:23,520 --> 01:52:29,440
+like this, these things that older people get, could you go in and eliminate senescent cells
+
+1178
+01:52:29,440 --> 01:52:35,280
+and change trajectory of disease? That's an idea. That's very cool that you could think about. But I
+
+1179
+01:52:35,360 --> 01:52:43,200
+would say that the most powerful read through from our results so far in humans are these other
+
+1180
+01:52:43,200 --> 01:52:50,480
+diseases of aging for which we have no treatments. So let us take something like the dry version of
+
+1181
+01:52:50,480 --> 01:52:56,720
+macular degeneration. This is a disease for which there is no treatment. And it's eight fold more
+
+1182
+01:52:56,720 --> 01:53:01,840
+prevalent than the wet disease that you can treat with anti-veg S. This is a disease that appears to
+
+1183
+01:53:01,840 --> 01:53:06,080
+have senescence associated with it. What's the distribution of those two? So people that have age
+
+1184
+01:53:06,080 --> 01:53:11,760
+associated macular degeneration, one in eight has the wet disease. And only that one out of eight
+
+1185
+01:53:11,760 --> 01:53:18,720
+people is treatable with the anti-veg F antibodies. Seven out of eight of those people are untreatable.
+
+1186
+01:53:18,720 --> 01:53:24,640
+Now that disease, the dry disease moves more slowly, but it makes you just as blind. And so that is an
+
+1187
+01:53:24,640 --> 01:53:29,760
+area in which senescence and senolytic medicines may play a role, but we'll have to find out in
+
+1188
+01:53:29,760 --> 01:53:36,880
+the clinic. And next year we are going with our first molecules into the eye. Do you have an animal
+
+1189
+01:53:36,880 --> 01:53:43,200
+model for that? No. So you have animal models of the wet disease and our molecules work in that
+
+1190
+01:53:43,200 --> 01:53:49,120
+model. And so you could say that that's pretty neat. This is a giant opportunity, but I'm
+
+1191
+01:53:49,120 --> 01:53:52,640
+personally attracted. First of all, I just want to say that when we talked about the four risks,
+
+1192
+01:53:52,640 --> 01:53:59,200
+defined your work stream for four years, we live in a different risk set. So if you think about it,
+
+1193
+01:53:59,200 --> 01:54:05,120
+the chapter one of this entire effort really was demonstrated in a human being that eliminating
+
+1194
+01:54:05,120 --> 01:54:10,720
+senescent cells could take a feature of aging that otherwise was untreatable and sent it backwards.
+
+1195
+01:54:10,720 --> 01:54:16,240
+Our phase one study, certainly if the phase two replicates, that was the end of chapter one. And
+
+1196
+01:54:16,240 --> 01:54:21,520
+we're sort of living in this chapter two moment where we're seeing how broad can we make this
+
+1197
+01:54:21,520 --> 01:54:27,840
+work. And if you think about what risks live in chapter two, for me, and I think anybody, it would
+
+1198
+01:54:27,840 --> 01:54:33,920
+be that the risk is you have your biological disease hypothesis wrong. And animal models,
+
+1199
+01:54:33,920 --> 01:54:38,560
+they only ask an answer the questions they're built to ask an answer. And the only way you get
+
+1200
+01:54:38,560 --> 01:54:43,840
+to really ask an answer the question you want to ask is in the clinical setting in human beings.
+
+1201
+01:54:45,040 --> 01:54:49,760
+So the way I think about diseases of the eyes, you have a series of these untreatable diseases
+
+1202
+01:54:49,760 --> 01:54:53,840
+that make you blind, where we think senescence could play a role. And we're going to explore
+
+1203
+01:54:53,840 --> 01:54:59,120
+each of these in the clinic. So essentially being able to ask in the relevant setting,
+
+1204
+01:54:59,760 --> 01:55:05,200
+that can we intervene in these diseases of aging, using the very same approach that we took
+
+1205
+01:55:05,840 --> 01:55:12,960
+to osteoarthritis, albeit with different drugs. Now you won't be doing a real phase one here,
+
+1206
+01:55:12,960 --> 01:55:16,960
+you're going to go directly into a phase two, right? So this is something that we haven't
+
+1207
+01:55:16,960 --> 01:55:23,200
+really talked about yet. But notionally, we're going to be going into patients, because obviously
+
+1208
+01:55:23,280 --> 01:55:27,760
+your eye is something that's super, super important and you can't mess with it. We're
+
+1209
+01:55:27,760 --> 01:55:33,360
+going to be going into a very select population first, demonstrating safety and then branching
+
+1210
+01:55:33,360 --> 01:55:38,640
+outwards into multiple diseases of the eye. How do you deliver the vehicle? Is it an injection?
+
+1211
+01:55:38,640 --> 01:55:42,400
+Yeah, so it's very similar to clinical practice for anti-veg.
+
+1212
+01:55:42,400 --> 01:55:43,760
+Anti-veg after delivery.
+
+1213
+01:55:43,760 --> 01:55:48,560
+So it goes right into the vitreous fluid of the eye. And our drug then takes up,
+
+1214
+01:55:48,560 --> 01:55:53,600
+we actually know exactly where the drug goes into the various sub compartments within the eye.
+
+1215
+01:55:53,600 --> 01:55:59,120
+And we know where senescent cells are in these different diseases and our drug gets there. And
+
+1216
+01:55:59,760 --> 01:56:05,680
+the clinical hypothesis is that one or more of these essentially progressive diseases of the
+
+1217
+01:56:05,680 --> 01:56:09,280
+aging eye, when we eliminate the cells will stop.
+
+1218
+01:56:09,280 --> 01:56:13,040
+And can you speak about the drug? What is it targeting? It's not targeting p53?
+
+1219
+01:56:13,040 --> 01:56:18,400
+No. So we have two molecules that we're advancing toward the clinic. Both of them are inhibitors of
+
+1220
+01:56:18,400 --> 01:56:26,000
+the BCL2 protein family. So these are molecules that inhibit inhibitors of apoptosis. So they
+
+1221
+01:56:26,000 --> 01:56:32,640
+cause cells to enter programmed cell death. But interestingly, we've shown in animals that they
+
+1222
+01:56:32,640 --> 01:56:40,240
+don't cause that to happen in normal healthy eyes. They only target cells that have been damaged by
+
+1223
+01:56:40,240 --> 01:56:44,720
+the disease process and the stress associated with disease process. And so-
+
+1224
+01:56:44,720 --> 01:56:45,680
+Why is that?
+
+1225
+01:56:45,680 --> 01:56:53,200
+There's something about, so senescent cells when they enter the state, do a variety of things. They
+
+1226
+01:56:53,200 --> 01:56:59,680
+turn up proteins that are pro apoptosis and they also turn up proteins in terms of their expression
+
+1227
+01:56:59,680 --> 01:57:05,280
+that are anti apoptosis. So what we do is we go in with a drug and just give a little shove in one
+
+1228
+01:57:05,280 --> 01:57:05,920
+direction.
+
+1229
+01:57:05,920 --> 01:57:12,480
+I see. But you're saying if you give that same shove to someone who has not up regulated or
+
+1230
+01:57:12,480 --> 01:57:15,680
+down regulated either of those factors, it doesn't seem to matter too much.
+
+1231
+01:57:15,680 --> 01:57:21,120
+Yeah. And so we have a beautiful experiment in mouse where we have a disease condition,
+
+1232
+01:57:22,320 --> 01:57:29,120
+and we have a normal condition. Mice are identical, but for this. And we put the drug in and we can
+
+1233
+01:57:29,120 --> 01:57:36,080
+see the drug molecularly going in and engaging its target. So because it actually breaks up to
+
+1234
+01:57:36,080 --> 01:57:40,160
+proteins that are stuck together. And you can see in these animals, both of them are equally
+
+1235
+01:57:40,160 --> 01:57:46,880
+engaging target, but the apoptosis program only turns on in the disease state. And it was a pretty
+
+1236
+01:57:46,880 --> 01:57:52,960
+awesome result because you can see the selectivity of the molecules in a living creature's eye.
+
+1237
+01:57:52,960 --> 01:57:57,280
+Does that same molecule work in the osteoarthritic scenario?
+
+1238
+01:57:57,280 --> 01:58:03,520
+No. So we couldn't get it to work either in the trauma models in mice. We couldn't get it to work
+
+1239
+01:58:03,520 --> 01:58:08,880
+when we took the cartilage out of human needs. It didn't work there either. And so it never raised
+
+1240
+01:58:08,880 --> 01:58:09,520
+its hand.
+
+1241
+01:58:09,920 --> 01:58:12,080
+What do you think that says about the biology?
+
+1242
+01:58:12,080 --> 01:58:21,520
+There's something about cells and their fate that determines which apoptosis vulnerability
+
+1243
+01:58:21,520 --> 01:58:28,160
+you have. They have different Achilles heels. And we don't understand mechanistically why that is.
+
+1244
+01:58:28,960 --> 01:58:35,440
+We've sort of figured this out empirically and picked molecules based on their behavior
+
+1245
+01:58:35,440 --> 01:58:40,720
+against the cells that we find to be senescent in these human diseases.
+
+1246
+01:58:40,720 --> 01:58:47,840
+So 15 years from now or 20 years from now, we will likely look back and companies like Unity,
+
+1247
+01:58:47,840 --> 01:58:55,360
+and presumably there will be many like Unity, you will have an entire suite of targets. You will say,
+
+1248
+01:58:55,360 --> 01:59:01,440
+well, here's the playbook in this type of cell or this scenario going after the anti-anti-apoptotic
+
+1249
+01:59:01,440 --> 01:59:06,400
+pathway is the way to go. In this case, we're going to go after P53. And you might have a dozen
+
+1250
+01:59:06,400 --> 01:59:11,680
+of these different targets. Well, we're not sure yet. I think it's too early to say how this is
+
+1251
+01:59:11,680 --> 01:59:15,520
+going to play out. Oh, so you don't think it's a fait accompli. I mean, you think it might be that
+
+1252
+01:59:15,520 --> 01:59:20,320
+there's a very small number of ways to go about doing this? I doubt that. I doubt it will be
+
+1253
+01:59:20,320 --> 01:59:27,040
+dozens though. I think it's going to be a small number. I think it'll be context specific. I think
+
+1254
+01:59:27,840 --> 01:59:34,320
+there'll be super creative ways that we and others come up with to exploit these different
+
+1255
+01:59:34,320 --> 01:59:39,440
+vulnerabilities. I don't think biology is going to have made 24 different keys to this lock.
+
+1256
+01:59:39,440 --> 01:59:45,600
+They think it's going to make a half dozen. And we actively search for these. It's just interesting
+
+1257
+01:59:45,600 --> 01:59:51,200
+to me that you can turn one key and get a benefit. I mean, think about how often that doesn't work.
+
+1258
+01:59:51,200 --> 01:59:59,200
+Think of the futility of that in chemotherapy, where you target this one piece of cell cycle
+
+1259
+01:59:59,200 --> 02:00:08,000
+replication and very quickly the cell mutates away around that drug. So cancer is incredibly hard,
+
+1260
+02:00:08,000 --> 02:00:16,400
+okay? Because cancer exploits the single best tool biology has, which is variation. Cancer cells can
+
+1261
+02:00:16,400 --> 02:00:23,360
+divide and mutate and become anything to avoid death. They live under selective pressure,
+
+1262
+02:00:23,360 --> 02:00:31,200
+particularly in the context of drug. Senescent cells can't divide by definition. So their ability
+
+1263
+02:00:31,200 --> 02:00:37,600
+to access variation is dramatically reduced. Now that's not to say that there couldn't still be
+
+1264
+02:00:37,600 --> 02:00:43,840
+selection without division, but boy, it's way harder when you can't make a million progenate
+
+1265
+02:00:43,840 --> 02:00:47,840
+with tiny variants and test them all in parallel, which is what cancer does.
+
+1266
+02:00:47,840 --> 02:00:50,880
+Yeah. It's sort of funny, isn't it? Cancer is the ultimate A-B tester.
+
+1267
+02:00:51,840 --> 02:00:58,320
+We like to think of senescent cells as cancer cells that can't divide. I've heard that said
+
+1268
+02:00:58,320 --> 02:01:00,800
+semi-humorously, but that's actually really neat.
+
+1269
+02:01:00,800 --> 02:01:02,320
+Right. Which is sort of funny because it's like,
+
+1270
+02:01:02,320 --> 02:01:07,200
+tape the top 100 most valuable traits of cancer and take away 99 of them.
+
+1271
+02:01:08,720 --> 02:01:10,640
+By the way, I was saying that in some joking.
+
+1272
+02:01:10,640 --> 02:01:11,760
+No, I understand. Yeah.
+
+1273
+02:01:11,760 --> 02:01:15,440
+In the sense that senescent cells become senescent. Well, first of all, in vivo,
+
+1274
+02:01:15,440 --> 02:01:20,320
+we don't often know why they became senescent, but one of the mechanisms by which cells can
+
+1275
+02:01:20,320 --> 02:01:27,200
+become senescent is activation of a cancer causing gene. But that could be very rare event
+
+1276
+02:01:27,200 --> 02:01:34,560
+compared to mitochondrial failure or high concentration glucose or telomere shortening.
+
+1277
+02:01:34,560 --> 02:01:38,080
+I mean, I was going to actually ask you exactly about that example, which is,
+
+1278
+02:01:38,080 --> 02:01:44,640
+do we have any reason to believe that the increase in age associated type two diabetes
+
+1279
+02:01:44,640 --> 02:01:49,440
+could be resulting from some sort of pancreatic senescence where beta cells
+
+1280
+02:01:49,440 --> 02:01:54,400
+become less and less robust due to senescent beta cells in the proximity?
+
+1281
+02:01:54,400 --> 02:02:00,320
+There is some data in support of senescence in that cellular niche, but it's very complicated
+
+1282
+02:02:00,320 --> 02:02:06,080
+biology. And there's even some talk about compensatory mechanism where senescent cells
+
+1283
+02:02:06,080 --> 02:02:11,360
+actually may improve the function of some of those cells within the niche. It's an area of
+
+1284
+02:02:11,360 --> 02:02:17,600
+intense literature debate. The other challenge we have there is we don't have good models in animals
+
+1285
+02:02:17,600 --> 02:02:22,480
+of studying this. And so it's been hard for us to get our heads around. What I will say about type
+
+1286
+02:02:22,480 --> 02:02:31,600
+two diabetes in humans is that there was a large meta analysis of a genome-wide association studies
+
+1287
+02:02:32,400 --> 02:02:40,080
+looking for the genetic correlation between grievous illness of aging and loci. Where did
+
+1288
+02:02:40,080 --> 02:02:48,320
+these mutations map? And what you saw is that one of the very big peaks for diseases of aging maps
+
+1289
+02:02:48,320 --> 02:02:54,880
+into the control system for the establishment of cellular senescence. This P14 Arf locus.
+
+1290
+02:02:55,680 --> 02:03:00,160
+And you look at this is where this very important gene that people use for senescence all the time
+
+1291
+02:03:00,160 --> 02:03:06,720
+called P16, which is this part of the emergency break. Its gene lives in this locus. And what you
+
+1292
+02:03:06,720 --> 02:03:13,520
+see is diseases like type two diabetes, mutations that give rise to that live there. Mutations that
+
+1293
+02:03:13,520 --> 02:03:20,720
+give rise to late onset Alzheimer's live there. Frailty lives there. Atherosclerosis lives there.
+
+1294
+02:03:20,720 --> 02:03:28,480
+So a whole bunch of these diseases where we saw phenotypes in mice, you see a natural genetic
+
+1295
+02:03:28,480 --> 02:03:34,480
+variation of humans also shows a kind of tie-in to senescence. And so type two diabetes caught my
+
+1296
+02:03:34,480 --> 02:03:40,080
+eye there because you see that in the GWAS studies. And lastly, what about Alzheimer's disease? We have
+
+1297
+02:03:40,080 --> 02:03:47,760
+to believe that astrocytes are losing some functionality to protect neurons, right? So
+
+1298
+02:03:47,760 --> 02:03:56,160
+this is what my group works on. And it's something that animates a lot of us at the company. We know
+
+1299
+02:03:56,160 --> 02:04:01,440
+that astrocytes or glia, just call them glial cells. So if you guys don't know what glia is,
+
+1300
+02:04:01,440 --> 02:04:06,320
+that's actually derived from the word glue. So this is the cells that are not your neurons
+
+1301
+02:04:06,320 --> 02:04:10,880
+in your brain that seem to hold the rest of it together. Which outnumber neurons tremendously.
+
+1302
+02:04:10,880 --> 02:04:15,440
+Vastly. I think the number is on the order of 10 to 1. 8 to 10 to 1 or something like that.
+
+1303
+02:04:15,440 --> 02:04:20,880
+Guys got to look that number up, but it's on that order of magnitude. And what was known before we
+
+1304
+02:04:20,880 --> 02:04:26,800
+got involved was that as human beings aged, there's a dramatic increase in senescent glial
+
+1305
+02:04:26,800 --> 02:04:33,040
+cells, specifically astrocytes and microglia, which are the sort of macrophages of the brain.
+
+1306
+02:04:33,040 --> 02:04:38,640
+And stuff we've been working on, if we've been looking at that trend in rodents, and we see a
+
+1307
+02:04:38,640 --> 02:04:45,600
+very similar trend. Now, we have not talked about doing on this yet, because it's still early days,
+
+1308
+02:04:45,680 --> 02:04:51,840
+but it's hard to imagine that the pro-inflammatory environment created by this vast number of
+
+1309
+02:04:51,840 --> 02:04:58,960
+senescent glial cells is good for you. One needs to ask the question, what would happen if you could
+
+1310
+02:04:58,960 --> 02:05:04,240
+eliminate senescent glial cells? Would that enhance cognition? Would it harm cognition?
+
+1311
+02:05:04,240 --> 02:05:09,040
+And this is something that we are actively looking into. But all of the work we've done over the last
+
+1312
+02:05:09,040 --> 02:05:15,600
+eight years, everything going from the mutant animals to the wild type animals to human data
+
+1313
+02:05:15,600 --> 02:05:21,760
+in osteoarthritis, and now moving into human data soon within the eye, it would just be very hard to
+
+1314
+02:05:21,760 --> 02:05:30,800
+imagine that senescence is not playing a role in aspects of cognition loss as we age. And this is
+
+1315
+02:05:30,800 --> 02:05:38,080
+something when I think about why we do what we do, that is something that there could be very few
+
+1316
+02:05:38,080 --> 02:05:42,960
+greater contributions that myself and my colleagues could make than making a contribution
+
+1317
+02:05:42,960 --> 02:05:50,480
+there, because it has been an unsolved problem and a scourge to humanity. I mean, do you get the sense
+
+1318
+02:05:50,480 --> 02:05:53,840
+that doing what you've done now, it would be very difficult for you to go back in time and do
+
+1319
+02:05:53,840 --> 02:05:57,920
+something like Kythera over again? And I'm not saying that to be critical or in any way, shape,
+
+1320
+02:05:57,920 --> 02:06:02,640
+or form. I'm just saying like, I mean, maybe tell people what Kythera did. That was a very successful
+
+1321
+02:06:02,640 --> 02:06:07,680
+company for you, but there's no comparing the nature of the two problems you're trying to solve.
+
+1322
+02:06:08,480 --> 02:06:12,160
+Actually, thank you for actually pulling me out of what would otherwise be a kind of like
+
+1323
+02:06:12,720 --> 02:06:18,880
+overly sort of sappy discussion about contribution. Okay, so Kythera is actually a total kind of
+
+1324
+02:06:18,880 --> 02:06:23,680
+opposite sort of thing. And Kythera was a company myself and two co-founders founded
+
+1325
+02:06:23,680 --> 02:06:30,800
+now almost 15 years ago. It's about as opposite as you can get from doing unity. And so it was
+
+1326
+02:06:30,800 --> 02:06:36,240
+basically this idea that all this biology that's been explored for oncology and inflammatory
+
+1327
+02:06:36,240 --> 02:06:44,400
+disease, taking molecules from that and applying it to the biology of aesthetics. And we did this,
+
+1328
+02:06:44,960 --> 02:06:49,840
+and I had these great business partners that continue to be partners with me today.
+
+1329
+02:06:49,840 --> 02:06:56,480
+One of them is Keith Leonard, who's CEO at Unity and very close friend. And he's been my big brother
+
+1330
+02:06:56,480 --> 02:07:02,560
+for 15 years and continues as of this morning, calling me and giving me feedback on things. And
+
+1331
+02:07:02,720 --> 02:07:09,360
+the reason I did Kythera was it was sort of a cute idea, but it was mostly because of people,
+
+1332
+02:07:09,360 --> 02:07:15,360
+was these guys said, hey, let's do something together. And it was a great decision, because
+
+1333
+02:07:15,920 --> 02:07:21,200
+I learned so much in a sense because, so the drug we ultimately got approved, we took four things
+
+1334
+02:07:21,200 --> 02:07:25,840
+into the clinic, and one out of the four things worked. And it was a molecule that causes fat
+
+1335
+02:07:25,840 --> 02:07:32,240
+cells to explode. So we went from an in vitro observation all the way to a launched commercial
+
+1336
+02:07:32,240 --> 02:07:38,800
+product called Kybella, you can go get it, you're dermatologist. And Allergan acquired the company.
+
+1337
+02:07:39,360 --> 02:07:44,880
+And it was a great learning experience of just how to develop pharmaceuticals in something that
+
+1338
+02:07:44,880 --> 02:07:53,360
+didn't have historical resonance at all. And so it was a great moment where the stakes weren't as high
+
+1339
+02:07:54,160 --> 02:07:59,440
+whether you succeeded or failed. And as a consequence, it allowed you to hone your skills
+
+1340
+02:07:59,440 --> 02:08:06,640
+of kind of making really high quality decisions on risk and making drug development decisions in a
+
+1341
+02:08:06,640 --> 02:08:11,680
+way that's actually frankly, a little more dispassionate. And it was a great growth experience for me.
+
+1342
+02:08:11,680 --> 02:08:16,400
+I mean, is it safe to say that if you had not had the experience at Kythera,
+
+1343
+02:08:16,400 --> 02:08:20,400
+because then you would have been coming from a cajun, right? Basically, yeah. Would you have had a
+
+1344
+02:08:20,960 --> 02:08:25,040
+more difficult time doing what you and the early co-founders did at Unity?
+
+1345
+02:08:25,040 --> 02:08:31,360
+It would have been impossible. I would have none of the intellectual or emotional toolkit to do
+
+1346
+02:08:31,360 --> 02:08:35,840
+what we did. I mean, that whole risk thing, that was stuff we built. I mean, it was a little bit
+
+1347
+02:08:35,840 --> 02:08:43,120
+when we put together a cajun, but it had become a kind of ritualized practice by the time we were
+
+1348
+02:08:43,120 --> 02:08:50,240
+doing Kythera projects, this dimensionalization of risk and creating work plans based on it.
+
+1349
+02:08:50,400 --> 02:08:55,600
+And so, yeah, I would say that there would be no Unity without there being Kythera.
+
+1350
+02:08:55,600 --> 02:08:59,280
+Last question, Ned. I actually have two questions for you. I'm sorry that I think about it.
+
+1351
+02:08:59,280 --> 02:09:06,080
+First question is, what advice do you give for a person who's studying science and trying to
+
+1352
+02:09:06,080 --> 02:09:12,640
+decide between the entrepreneurial pathway that you've been on versus a more academic pathway?
+
+1353
+02:09:12,640 --> 02:09:16,640
+What would you offer them as an insight or a set of questions that they could pose to themselves
+
+1354
+02:09:16,640 --> 02:09:22,880
+to further delineate that? Well, I would say two things. First, don't create a false choice.
+
+1355
+02:09:24,400 --> 02:09:29,120
+I have friends that are academics that have founded as many companies as I have.
+
+1356
+02:09:30,560 --> 02:09:36,160
+I do from time to time have career jealousy over some of the freedoms and some of the
+
+1357
+02:09:36,160 --> 02:09:40,960
+responsibilities, frankly, that they have as people who have academic appointments.
+
+1358
+02:09:40,960 --> 02:09:46,320
+There are wonderful things that you can do from the seat of academia in company creation if you
+
+1359
+02:09:46,400 --> 02:09:52,480
+are so lucky and so positioned to do so. So first, don't fall into this idea of a false choice. And
+
+1360
+02:09:52,480 --> 02:09:58,160
+I see people do that, I think, out of some emotional discomfort, this desire to just move
+
+1361
+02:09:58,160 --> 02:10:04,400
+and confuse action with progress. And I'd say just slow down, take a deep breath, don't rush,
+
+1362
+02:10:04,400 --> 02:10:12,000
+you have your life. That'd be the first thing. The second thing is animate what you do with a single
+
+1363
+02:10:12,000 --> 02:10:20,000
+beautiful idea. So something that moves you, that literally gives you goosebumps, that weird
+
+1364
+02:10:20,000 --> 02:10:25,520
+tingling sensation when you think about it, when you think how cool it is, and oh my god, if we
+
+1365
+02:10:25,520 --> 02:10:33,360
+could actually make this work. I mean, few things in life rival that feeling when a hard fought
+
+1366
+02:10:33,360 --> 02:10:39,520
+battle for data that was 18 to 24 months and the experiment finally works, and you're looking at
+
+1367
+02:10:39,520 --> 02:10:44,560
+the data and you feel like the future taking root in the present. The only thing I can compare it to
+
+1368
+02:10:45,200 --> 02:10:53,120
+is love from your kids. That is the only thing that has the same emotional gravitas. Finally,
+
+1369
+02:10:53,120 --> 02:10:58,560
+third thing, learn from people that are better than you, that are more experienced than you,
+
+1370
+02:10:58,560 --> 02:11:04,480
+that will have patience with you. I mean, the Kythera experience was that. I mean,
+
+1371
+02:11:04,480 --> 02:11:10,880
+good heavens, I was, I may still be sort of unemployable in normal corporate settings.
+
+1372
+02:11:11,600 --> 02:11:19,280
+Yet the people there saw that I knew how to do certain things and I learned from them and I
+
+1373
+02:11:19,280 --> 02:11:26,800
+learned how to do the things that allowed us to build unity because people were patient and took
+
+1374
+02:11:26,800 --> 02:11:33,440
+time to teach. I learned from real experts and I don't claim to be an expert at much of anything,
+
+1375
+02:11:34,000 --> 02:11:38,880
+but I do claim to have a deep appreciation for learning from people who are better and more
+
+1376
+02:11:38,880 --> 02:11:42,640
+skilled than myself. So three things. Well, I'm going to leave it at that. I was going to ask you
+
+1377
+02:11:42,640 --> 02:11:46,800
+another question, but I think this was the more interesting question and so we'll leave it at that
+
+1378
+02:11:46,800 --> 02:11:51,760
+and grateful, Ned, for the time that you've set aside today to talk about this stuff. I think this
+
+1379
+02:11:51,760 --> 02:11:56,080
+is a super interesting topic. When I think about the pillars of longevity, going back to your
+
+1380
+02:11:56,080 --> 02:12:01,920
+initial framework, which is things that inhibit tor, things that target mitochondrial function,
+
+1381
+02:12:01,920 --> 02:12:07,840
+things that may set back the methylation clock, slow down time in that regard in this problem.
+
+1382
+02:12:07,840 --> 02:12:13,120
+It's not a zero sum game and it's very likely we need to be pursuing all of these strategies
+
+1383
+02:12:13,120 --> 02:12:19,760
+in parallel, but the data so far with respect to a very tangible problem like osteoarthritis is
+
+1384
+02:12:19,760 --> 02:12:24,400
+pretty exciting. So I suspect there's going to be a lot of people listening to this who are going to
+
+1385
+02:12:25,120 --> 02:12:29,840
+be very eager to follow the results of the technology that you guys are trying to bring
+
+1386
+02:12:29,840 --> 02:12:34,480
+to market along with presumably some others down the line. Thank you, Peter. It's been really a
+
+1387
+02:12:34,480 --> 02:12:40,480
+treat and an honor to share this with you and I've always and shall always, I love your questions.
+
+1388
+02:12:40,480 --> 02:12:46,000
+They're awesome. Thank you. Thank you for listening to this week's episode of The Drive. If you're
+
+1389
+02:12:46,000 --> 02:12:50,720
+interested in diving deeper into any topics we discuss, we've created a membership program that
+
+1390
+02:12:50,720 --> 02:12:55,840
+allows us to bring you more in-depth, exclusive content without relying on paid ads. It's our
+
+1391
+02:12:55,840 --> 02:13:00,960
+goal to ensure members get back much more than the price of this subscription. Now to that end,
+
+1392
+02:13:00,960 --> 02:13:05,840
+membership benefits include a bunch of things. One, totally kick ass comprehensive podcast
+
+1393
+02:13:05,840 --> 02:13:11,440
+show notes that detail every topic, paper, person, thing we discuss on each episode. The word on the
+
+1394
+02:13:11,440 --> 02:13:17,760
+street is nobody's show notes rival these. Monthly AMA episodes or ask me anything episodes, hearing
+
+1395
+02:13:17,760 --> 02:13:23,680
+these episodes completely. Access to our private podcast feed that allows you to hear everything
+
+1396
+02:13:23,680 --> 02:13:28,800
+without having to listen to spiel's like this. The QALYs, which are a super short podcast,
+
+1397
+02:13:28,800 --> 02:13:32,640
+typically less than five minutes that we release every Tuesday through Friday,
+
+1398
+02:13:32,640 --> 02:13:37,200
+highlighting the best questions, topics, and tactics discussed on previous episodes of The Drive.
+
+1399
+02:13:37,200 --> 02:13:41,920
+This is a great way to catch up on previous episodes without having to go back and necessarily
+
+1400
+02:13:41,920 --> 02:13:47,440
+listen to everyone. Steep discounts on products that I believe in, but for which I'm not getting
+
+1401
+02:13:47,440 --> 02:13:52,240
+paid to endorse and a whole bunch of other benefits that we continue to trickle in as time
+
+1402
+02:13:52,320 --> 02:13:56,160
+goes on. If you want to learn more and access these member only benefits, you can head over
+
+1403
+02:13:56,160 --> 02:14:03,360
+to PeterAttiaMD.com forward slash subscribe. You can find me on Twitter, Instagram, and Facebook,
+
+1404
+02:14:03,360 --> 02:14:09,920
+all with the ID PeterAttiaMD. You can also leave us a review on Apple Podcast or whatever podcast
+
+1405
+02:14:09,920 --> 02:14:15,440
+player you listen on. This podcast is for general informational purposes only. It does not constitute
+
+1406
+02:14:15,440 --> 02:14:20,160
+the practice of medicine, nursing, or other professional healthcare services, including
+
+1407
+02:14:20,160 --> 02:14:25,360
+the giving of medical advice. No doctor-patient relationship is formed. The use of this
+
+1408
+02:14:25,360 --> 02:14:31,040
+information and the materials linked to this podcast is at the user's own risk. The content
+
+1409
+02:14:31,040 --> 02:14:36,800
+on this podcast is not intended to be a substitute for professional medical advice, diagnosis, or
+
+1410
+02:14:36,800 --> 02:14:43,040
+treatment. Users should not disregard or delay in obtaining medical advice from any medical
+
+1411
+02:14:43,040 --> 02:14:47,600
+condition they have, and they should seek the assistance of their healthcare professionals
+
+1412
+02:14:47,600 --> 02:14:53,280
+for any such conditions. Finally, I take conflicts of interest very seriously. For all of my
+
+1413
+02:14:53,280 --> 02:15:00,560
+disclosures and the companies I invest in or advise, please visit PeterAttiaMD.com forward slash
+
+1414
+02:15:00,560 --> 02:15:05,520
+about where I keep an up-to-date and active list of such companies.
+

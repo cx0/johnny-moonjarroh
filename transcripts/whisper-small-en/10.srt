@@ -1,0 +1,4012 @@
+1
+00:00:00,000 --> 00:00:10,640
+Hey everyone, welcome to the Peter Attia drive. I'm your host, Peter Attia.
+
+2
+00:00:10,640 --> 00:00:16,000
+The drive is a result of my hunger for optimizing performance, health, longevity, critical thinking,
+
+3
+00:00:16,000 --> 00:00:19,760
+along with a few other obsessions along the way. I've spent the last several years working
+
+4
+00:00:19,760 --> 00:00:23,840
+with some of the most successful top performing individuals in the world. And this podcast
+
+5
+00:00:23,840 --> 00:00:28,600
+is my attempt to synthesize what I've learned along the way to help you live a higher quality,
+
+6
+00:00:28,600 --> 00:00:33,400
+more fulfilling life. If you enjoy this podcast, you can find more information on today's episode
+
+7
+00:00:33,400 --> 00:00:36,280
+and other topics at PeterAttiaMD.com.
+
+8
+00:00:41,720 --> 00:00:46,360
+In this podcast, I'll be speaking with Matt Caberlin at the University of Washington.
+
+9
+00:00:46,360 --> 00:00:51,400
+I met Matt about a year and a half, maybe two years ago through David Sabatini, who some of you
+
+10
+00:00:51,400 --> 00:00:55,960
+may be familiar with just based on all of his remarkable work around mTOR and Rapa Mison.
+
+11
+00:00:56,760 --> 00:01:00,920
+Matt's recognized globally for his research in the biology of aging. He got his PhD
+
+12
+00:01:01,480 --> 00:01:07,240
+from MIT in the lab of Lenny Garante, who's produced a number of notable folks in this field.
+
+13
+00:01:07,240 --> 00:01:11,880
+He went on to his post-doc at the University of Washington. And after completing his post-doc,
+
+14
+00:01:11,880 --> 00:01:17,160
+he has remained there and continues to run a fantastic lab. In this episode, we're going to
+
+15
+00:01:17,160 --> 00:01:22,360
+talk about his experience as the director of the Dog Aging Project, which as its name suggests,
+
+16
+00:01:22,360 --> 00:01:26,520
+focuses on the animal model of dogs for its research. Now, of course, this is really
+
+17
+00:01:26,520 --> 00:01:32,360
+interesting because while fruit flies and yeast and mice are interesting, dogs are obviously much
+
+18
+00:01:32,360 --> 00:01:37,720
+closer to us. And of course, these dogs, because they're pets generally, have something really
+
+19
+00:01:37,720 --> 00:01:43,720
+unique to us that virtually no other research animal has, which is they share our environment.
+
+20
+00:01:43,720 --> 00:01:48,360
+And this puts them in a pretty unique spot that even the rhesus monkeys studied in the
+
+21
+00:01:48,360 --> 00:01:53,640
+NIA Wisconsin Project didn't have going for them. Now, if you haven't already done so,
+
+22
+00:01:53,640 --> 00:01:59,080
+I'd recommend listening to the podcast that I did with David Sabatini, because that will get you
+
+23
+00:01:59,080 --> 00:02:04,360
+some of the background on mTOR and Rapa Mison. I think we get a little technical in this podcast,
+
+24
+00:02:04,360 --> 00:02:08,600
+but I suspect it's something that if you've listened to that other one with Sabatini,
+
+25
+00:02:08,600 --> 00:02:11,560
+you'll have the background to follow. And we talk about a bunch of other things that people seem to
+
+26
+00:02:11,560 --> 00:02:16,520
+be interested in as well beyond Rapa Mison and aging. We also talk about NAD, probably get into
+
+27
+00:02:16,520 --> 00:02:20,920
+Sirtuins a little bit. The other thing I really enjoy about speaking with Matt, and I had so many
+
+28
+00:02:20,920 --> 00:02:25,160
+discussions with Matt over meals and stuff where I think to myself after, man, I wish that was
+
+29
+00:02:25,160 --> 00:02:29,080
+recorded because one, I want to be able to hear it again. And two, it's the kind of stuff that
+
+30
+00:02:29,080 --> 00:02:33,560
+people are always asking me. And I think Matt just has such an amazing way of thinking about this
+
+31
+00:02:33,560 --> 00:02:38,280
+stuff. Matt's work is really remarkable because it's actually focusing on health span. It's easier
+
+32
+00:02:38,280 --> 00:02:42,760
+in some ways to study health span because you can study it over a shorter period of time. And in
+
+33
+00:02:42,760 --> 00:02:47,560
+particular, when you look at the cardiomyopathy model, meaning it's a type of heart failure that
+
+34
+00:02:47,560 --> 00:02:52,040
+dogs experience, and you look at how Rapa Mison can improve ejection fraction, you can get these
+
+35
+00:02:52,040 --> 00:02:56,680
+answers in a really quick period of time. In fact, much quicker than I think Matt even expected. And
+
+36
+00:02:56,680 --> 00:03:01,000
+we talk of course about cancer, heart disease, and Alzheimer's disease. So if you're interested in
+
+37
+00:03:01,000 --> 00:03:04,600
+Rapa Mison, if you're interested in mTOR, if you're interested in longevity, I think you're going to
+
+38
+00:03:04,600 --> 00:03:09,880
+find this interview very interesting. It was actually recorded initially in December of 2017
+
+39
+00:03:09,880 --> 00:03:15,320
+as part of the interview series I was doing for my book. And we may at some point throw up the
+
+40
+00:03:15,320 --> 00:03:20,360
+video as well. You can find a lot more information in the show notes of course. And without further
+
+41
+00:03:20,360 --> 00:03:29,320
+delay, here's my conversation with the remarkable Matt Caperly. Matt, thank you so much for being
+
+42
+00:03:29,320 --> 00:03:35,000
+here. It's really fantastic to be able to talk with you in this format. I've been a huge fan of
+
+43
+00:03:35,000 --> 00:03:41,160
+your work for many years now. Obviously I know quite a bit about your background, but I think
+
+44
+00:03:41,160 --> 00:03:45,080
+it'd be great for the listeners to kind of get a sense of, you know, what did you study in college?
+
+45
+00:03:45,080 --> 00:03:49,400
+How did you end up doing your PhD? Where did you do it? And most of all, why did it get you where you are?
+
+46
+00:03:49,400 --> 00:03:55,320
+Sure. So I got undergraduate degrees in biochemistry and mathematics at Western Washington
+
+47
+00:03:55,320 --> 00:04:02,520
+University. And then I went to graduate school at MIT, the biology department there. And my background
+
+48
+00:04:02,520 --> 00:04:06,840
+up till that point had been in biophysical chemistry. So I really went to graduate school
+
+49
+00:04:06,840 --> 00:04:12,280
+thinking I was going to work on structural biology or x-ray crystallography or something like that.
+
+50
+00:04:12,280 --> 00:04:18,520
+And I heard a seminar by Lenny Granty, who I ended up doing my PhD thesis with during my first
+
+51
+00:04:18,520 --> 00:04:24,920
+semester at MIT, where he started talking about how his lab had begun working on the genetics of
+
+52
+00:04:24,920 --> 00:04:30,120
+aging and trying to understand, you know, what are the factors that influence the rate of aging? And
+
+53
+00:04:30,200 --> 00:04:36,520
+this was in yeast. That's what his lab worked on at that point. And it was really almost like an
+
+54
+00:04:36,520 --> 00:04:42,200
+aha moment where it just clicked with me that it was really fascinating that you could use
+
+55
+00:04:42,200 --> 00:04:49,000
+genetics and molecular biology and biochemistry to study something as complicated and fundamental as
+
+56
+00:04:49,000 --> 00:04:54,520
+the biology of aging. And so I got fascinated by the topic. I ended up going and talking to Lenny
+
+57
+00:04:55,000 --> 00:05:00,920
+and then subsequently doing my thesis research with him. So it was really that moment of hearing
+
+58
+00:05:00,920 --> 00:05:05,880
+him talk my first year in graduate school that got me interested in aging. And that's what I've been
+
+59
+00:05:05,880 --> 00:05:11,320
+fascinated by and passionate about since then. And so then I went on and did a postdoc with Stan
+
+60
+00:05:11,320 --> 00:05:15,640
+Fields at the University of Washington, also working on aging, and then ultimately started
+
+61
+00:05:15,640 --> 00:05:20,600
+my own lab. So it's been almost two decades now that I've been working on this problem.
+
+62
+00:05:20,600 --> 00:05:25,640
+And if my memory serves me correctly, when you were in Lenny's lab, who's obviously no stranger
+
+63
+00:05:25,640 --> 00:05:31,000
+to probably people who are listening to this, you worked on sirtuins, correct? Yeah. So my thesis
+
+64
+00:05:31,000 --> 00:05:38,200
+work was actually the work that first showed that if you activated or overexpressed a sirtuin,
+
+65
+00:05:38,200 --> 00:05:43,400
+in this case it was sirtu, the founding member of the sirtuins in yeast, that you could extend
+
+66
+00:05:43,400 --> 00:05:49,800
+lifespan and slow aging. And obviously we were very excited about that, especially when a postdoc who
+
+67
+00:05:49,880 --> 00:05:55,240
+was in the lab at that time, Heidi Tissenbaum, about a year later, showed that you could also
+
+68
+00:05:55,800 --> 00:06:01,320
+overexpressed the worm version of sirtu and extend lifespan in C. elegans. And so that was really
+
+69
+00:06:01,320 --> 00:06:08,280
+the first example of a conserved genetic modifier of lifespan across two widely
+
+70
+00:06:08,280 --> 00:06:13,800
+evolutionarily divergent organisms. Because it was a relatively similar version of sirtu. Yeah.
+
+71
+00:06:13,800 --> 00:06:19,080
+So more different than the DAF stuff that we saw in C. elegans versus the IGF that we would see in
+
+72
+00:06:19,080 --> 00:06:25,640
+some of the higher mammals. Right. So at that time we knew that DAF2 could extend lifespan in
+
+73
+00:06:25,640 --> 00:06:29,560
+C. elegans. I don't think we knew it was working that similar mechanism. That's right. Yeah.
+
+74
+00:06:30,520 --> 00:06:36,200
+Now I think one of the things that makes your work so interesting is that you work on dogs. Right.
+
+75
+00:06:36,200 --> 00:06:41,720
+How did you end up doing that? Yeah. So that's relatively new in my career. It was about four
+
+76
+00:06:41,720 --> 00:06:46,520
+years ago when Daniel Promislow moved from the University of Georgia to the University of
+
+77
+00:06:46,520 --> 00:06:55,000
+Washington. And Daniel had started thinking about dogs as a model to understand how genetic
+
+78
+00:06:55,000 --> 00:07:00,520
+and environmental factors influence the aging process. And I'm a dog person. I've always had
+
+79
+00:07:00,520 --> 00:07:05,560
+dogs. I have three dogs now. That qualifies. Yeah. Right. And I had never really made the
+
+80
+00:07:05,560 --> 00:07:13,320
+connection between dogs as companion animals and dogs as a model for understanding aging until I
+
+81
+00:07:13,320 --> 00:07:18,200
+talked with Daniel about this. And through those conversations it occurred to me that not only could
+
+82
+00:07:18,200 --> 00:07:26,440
+we understand genetic and environmental modifiers of aging but our pets could actually serve as a
+
+83
+00:07:26,440 --> 00:07:33,080
+transformative next step in testing some of these things that we know work in laboratory mammals
+
+84
+00:07:33,080 --> 00:07:38,360
+like mice but have never yet been taken outside of the laboratory. And so it was really that sort of
+
+85
+00:07:38,360 --> 00:07:43,960
+connection in my mind about three years ago that propelled me to really move forward with the dog
+
+86
+00:07:43,960 --> 00:07:50,840
+aging project. One major goal of which is to actually do this to take some of the interventions
+
+87
+00:07:50,840 --> 00:07:56,200
+that we know extend lifespan and slow aging in the laboratory and test whether they have that effect
+
+88
+00:07:56,200 --> 00:08:02,600
+in the real world in a larger mammal that's also very socially relevant. I think that that's an
+
+89
+00:08:02,600 --> 00:08:08,760
+important aspect of this. People love their dogs. If we can actually slow aging in people's pets
+
+90
+00:08:08,760 --> 00:08:14,280
+that's going to have a huge impact both on the quality of life for the pets and the owners
+
+91
+00:08:14,280 --> 00:08:18,200
+but also the way that people think about the biology of aging. They're going to believe it a
+
+92
+00:08:18,200 --> 00:08:23,960
+lot more if they see that their dog is living longer and aging more slowly than just reading
+
+93
+00:08:23,960 --> 00:08:28,760
+an article in the New York Times or wherever. Right. Right. And it's you know I sort of when I
+
+94
+00:08:28,760 --> 00:08:34,280
+talk about this I generally talk about these four classes of eukaryotes going from you know
+
+95
+00:08:34,280 --> 00:08:39,480
+yeast to flies worms and mammals but usually when we talk about mammals we're talking about mice.
+
+96
+00:08:40,200 --> 00:08:44,840
+Absolutely. They have a couple of problems at least right. One problem is they're generally
+
+97
+00:08:44,840 --> 00:08:48,920
+especially if they're inbred I mean they're homozygous at all low size so right you have to
+
+98
+00:08:48,920 --> 00:08:53,800
+question their applicability to us in terms of their susceptibility to disease. But then the
+
+99
+00:08:53,800 --> 00:09:00,840
+second point which you alluded to which I think the dogs might be the first quote unquote laboratory
+
+100
+00:09:00,840 --> 00:09:05,080
+study that gets out of this is they don't live in our environment. Right. The mice that is right.
+
+101
+00:09:05,080 --> 00:09:10,120
+Right. So so so the dog truly lives in the environment you and I live in which
+
+102
+00:09:10,680 --> 00:09:14,840
+at least in theory should be the environment we care most about preventing aging in. That's right.
+
+103
+00:09:14,840 --> 00:09:20,520
+I think I think that environmental variation is hugely important. The genetics is also important
+
+104
+00:09:20,520 --> 00:09:25,720
+and dogs are so there's there's a couple of things that are worth mentioning. Dogs have some
+
+105
+00:09:25,720 --> 00:09:34,440
+of that same genetic homogeneity if you look within individual purebred breeds. But we also have
+
+106
+00:09:35,240 --> 00:09:40,520
+many purebred breeds that are widely divergent both genetically and morphologically. All you have
+
+107
+00:09:40,520 --> 00:09:46,200
+to do is look at a chihuahua on a Great Dane right to see that divergence. But we also have this really
+
+108
+00:09:46,200 --> 00:09:51,240
+interesting and complex mixed breed population that's a combination of all these different
+
+109
+00:09:51,240 --> 00:09:56,360
+genetic variants that each breed has. So so we have kind of the best of both worlds in the sense
+
+110
+00:09:56,360 --> 00:10:02,280
+that if you want to do a study in a relatively genetically restricted background you can do it
+
+111
+00:10:02,280 --> 00:10:06,760
+in a specific breed or set of breeds. But if you want to capture that genetic variation all you have
+
+112
+00:10:06,760 --> 00:10:11,800
+to do is look in the mixed breed dogs. But the environmental part of this I think is probably
+
+113
+00:10:11,800 --> 00:10:16,680
+the most important from what are we going to learn from dogs that we can't learn from mice
+
+114
+00:10:16,680 --> 00:10:21,720
+perspective. As you said dogs really share our environment to a greater extent than any other
+
+115
+00:10:21,720 --> 00:10:27,720
+animal maybe with the exception of cats. And so they're drinking the same water. In fact may not
+
+116
+00:10:27,720 --> 00:10:31,800
+even be drinking the same water. Most people maybe drink it worse. Yeah right are not going to give
+
+117
+00:10:31,800 --> 00:10:36,040
+their dog bottled water right. But they're breathing the same air. If you smoke they're
+
+118
+00:10:36,040 --> 00:10:40,440
+experiencing that or someone in the house smokes they're experiencing that secondhand smoke. So
+
+119
+00:10:40,440 --> 00:10:45,720
+they really do capture most of our environment. The diet is about the only place where dogs don't
+
+120
+00:10:45,720 --> 00:10:51,720
+quite have the same sort of nutritional diversity that people do. But with the exception of diet
+
+121
+00:10:51,720 --> 00:10:56,840
+the environment is pretty close. Now we have a pretty good idea of how we die. Right I could
+
+122
+00:10:56,840 --> 00:11:01,720
+actuarially map out how you and I are going to die based on our age and a whole bunch of other factors.
+
+123
+00:11:02,520 --> 00:11:07,000
+Again it's probably an oversimplification because of this species diversification. But as a general
+
+124
+00:11:07,000 --> 00:11:13,480
+rule how do dogs die. Yeah so I'll make one quick comment on that. First of all that I think you're
+
+125
+00:11:13,480 --> 00:11:20,520
+right that we do know what diseases most often kill people. And that's important information.
+
+126
+00:11:20,520 --> 00:11:25,320
+I'm not sure it's the most important information because what people die from does not always
+
+127
+00:11:25,320 --> 00:11:31,320
+equate to what they die with. Especially today most people are dying with chronic diseases and
+
+128
+00:11:31,320 --> 00:11:36,840
+multiple comorbidities. Right. So just because you may die from heart disease it doesn't mean
+
+129
+00:11:36,840 --> 00:11:42,040
+that you didn't have kidney disease or something moving towards kidney disease or diabetes. So I
+
+130
+00:11:42,040 --> 00:11:47,560
+think it's important to appreciate that there are that you can have multiple diseases and only one
+
+131
+00:11:47,560 --> 00:11:55,000
+of them is probably going to kill you. Having said that it is useful to think about do dogs die from
+
+132
+00:11:55,560 --> 00:12:00,760
+and with the same age related diseases that people do. And the answer is in general the
+
+133
+00:12:00,760 --> 00:12:05,880
+equivalency is pretty good. So dogs get all of the same age related diseases that people do. They
+
+134
+00:12:05,880 --> 00:12:13,720
+don't get them at the same frequency necessarily. So one big difference is in dogs there's actually
+
+135
+00:12:13,720 --> 00:12:19,560
+relatively little vascular disease which is a major killer in people. So specifically
+
+136
+00:12:19,560 --> 00:12:24,920
+atherosclerosis whether it be peripherally or cardiovascularly doesn't seem to be as prevalent.
+
+137
+00:12:24,920 --> 00:12:29,880
+Does not seem to be as prevalent. But there are breeds that die from from heart disease
+
+138
+00:12:29,880 --> 00:12:37,000
+and certain forms of heart disease. Cancer is probably the most common cause of death in dogs
+
+139
+00:12:37,000 --> 00:12:41,720
+and big dogs tend to get more cancers than small dogs. But across all dogs cancer is probably the
+
+140
+00:12:41,720 --> 00:12:46,520
+number one cause of death. Kidney disease is a major cause of death in dogs. Is the etiology
+
+141
+00:12:46,520 --> 00:12:52,760
+of that kidney disease related to blood pressure? Is it related to some other nephrotic syndrome
+
+142
+00:12:52,760 --> 00:12:57,160
+that's otherwise unidentified? I don't know the answer to that. Yeah I don't I don't have the
+
+143
+00:12:57,160 --> 00:13:01,480
+veterinary background to answer that. One of the things that's interesting in dogs is that there's
+
+144
+00:13:01,480 --> 00:13:06,600
+seems to be a little bit of a debate whether dogs really get Alzheimer's disease. They clearly get
+
+145
+00:13:07,240 --> 00:13:11,880
+dementia some dogs do and they clearly show cognitive decline. It's not completely clear
+
+146
+00:13:11,880 --> 00:13:16,200
+whether they get what would be clinically diagnosed as Alzheimer's disease in people.
+
+147
+00:13:16,200 --> 00:13:21,240
+Apparently they do accumulate a beta in the brain whether they get the plaques and tangles still
+
+148
+00:13:21,240 --> 00:13:25,240
+seems to be a little bit up in the air and there are people studying that. But at least at the level
+
+149
+00:13:25,240 --> 00:13:31,240
+of cognitive dysfunction and dementia it's clear that dogs experience that with age as well. So
+
+150
+00:13:31,240 --> 00:13:36,440
+for the most part they do develop the same age related diseases. The increase in risk for those
+
+151
+00:13:36,440 --> 00:13:41,800
+diseases goes up essentially exponentially just like in people. But the relative prevalence of
+
+152
+00:13:41,800 --> 00:13:47,640
+specific diseases is not always the same and can also be breed dependent. So there it is certainly
+
+153
+00:13:47,640 --> 00:13:54,280
+the case that within purebred dogs different breeds have different predispositions to certain
+
+154
+00:13:54,280 --> 00:13:58,840
+diseases which is exactly what you'd expect based on the genetics. So basically they're probably
+
+155
+00:13:58,840 --> 00:14:04,040
+getting a little more cancer significantly more renal failure as a proximate cause of death as
+
+156
+00:14:04,040 --> 00:14:07,960
+opposed to dying with renal insufficiency which to your point I think a lot of humans do. They're
+
+157
+00:14:07,960 --> 00:14:12,120
+getting a lot of heart disease but it sounds like it's more cardiomyopathy and or valvular disease
+
+158
+00:14:12,120 --> 00:14:17,720
+but not atherosclerotic or ischemic disease. And they unfortunately die of accidents just as humans
+
+159
+00:14:17,720 --> 00:14:22,520
+do which would still probably be in the top four for humans and dogs I'm guessing. Yeah and actually
+
+160
+00:14:22,520 --> 00:14:28,680
+that's an interesting point you're right. What I haven't seen great data on is the age distribution
+
+161
+00:14:28,680 --> 00:14:34,760
+of death due to trauma. I suspect it's going to be mostly younger dogs but I don't know for sure. So
+
+162
+00:14:34,760 --> 00:14:39,000
+that's actually an interesting question. It is absolutely true. The other thing that is worth
+
+163
+00:14:39,000 --> 00:14:45,800
+noting about dogs is it's actually the case that most pet dogs don't die from an age related disease.
+
+164
+00:14:45,800 --> 00:14:50,440
+They die from euthanasia which is a difference between dogs and people. Yes that's a great point.
+
+165
+00:14:51,400 --> 00:14:57,640
+Well let's turn the discussion now to what you do about this. I've been a big fan of rapamycin and
+
+166
+00:14:57,640 --> 00:15:04,680
+tor and that entire pathway for several years now. It's become almost an obsession. If one can have
+
+167
+00:15:04,680 --> 00:15:10,680
+an obsession that's not pathologic. And I think what attracted me to your work a couple of years
+
+168
+00:15:10,680 --> 00:15:16,200
+ago probably David Sabatini pointed me in your direction. So maybe three years ago it was actually
+
+169
+00:15:16,280 --> 00:15:24,520
+after the manic paper came out in 2014. Yeah 2014. Really interesting look at the human data.
+
+170
+00:15:24,520 --> 00:15:30,200
+I want to come back to that paper as it relates to immune function and stuff but maybe give us a
+
+171
+00:15:30,200 --> 00:15:37,880
+sense of how you decided that the next logical step was to actually test the god molecule as I
+
+172
+00:15:37,880 --> 00:15:44,680
+like to call it. Rapamycin in this context. In dogs yeah. Yeah so again this was all happening
+
+173
+00:15:44,680 --> 00:15:52,120
+about three years ago when I first sort of made the leap to thinking that we could test interventions
+
+174
+00:15:52,120 --> 00:15:57,240
+in dogs. And actually that's not at least for me was not an immediate it wasn't immediately
+
+175
+00:15:57,240 --> 00:16:01,640
+obvious to me that we should. So you really have to think as soon as you start talking about
+
+176
+00:16:02,360 --> 00:16:08,040
+bringing trial of a drug out of the lab and into the real world whether it's the human clinic or
+
+177
+00:16:08,040 --> 00:16:13,960
+the veterinary clinic in the context of aging you really have to start to think about safety
+
+178
+00:16:13,960 --> 00:16:19,800
+and side effects right because there is a very low tolerance for side effects when you're talking
+
+179
+00:16:19,800 --> 00:16:24,840
+about treating a healthy person or dog. So that was the first thing that I had to really
+
+180
+00:16:25,400 --> 00:16:30,360
+come to grips with is could we do this safely and especially you were thinking we're not going to
+
+181
+00:16:30,360 --> 00:16:33,880
+take dogs that are already sick. That's right. We were going to take healthy dogs. That's right. I
+
+182
+00:16:33,880 --> 00:16:40,920
+mean for me as somebody who is fundamentally interested in the biology of aging the intent
+
+183
+00:16:40,920 --> 00:16:46,760
+is to slow aging in people before they get sick right to keep them healthy longer. So in many
+
+184
+00:16:46,760 --> 00:16:52,840
+ways it's it's the opposite of traditional medical approach biomedical research right where normally
+
+185
+00:16:53,480 --> 00:16:58,520
+historically we wait until people are sick and then we try to cure their disease. This is the
+
+186
+00:16:58,520 --> 00:17:04,680
+reverse of that right. So that's right. So so because we are talking about intervening in a healthy
+
+187
+00:17:05,240 --> 00:17:11,080
+person or a dog the tolerance for side effects from a regulatory perspective or even just
+
+188
+00:17:11,080 --> 00:17:16,680
+public perception is very low when you're talking about a healthy person. Now you know the way I
+
+189
+00:17:16,680 --> 00:17:22,520
+view that first of all I think that is we need as a society and and within the scientific community
+
+190
+00:17:22,520 --> 00:17:28,680
+to have a discussion about this because I think that we need to recognize that a healthy
+
+191
+00:17:29,240 --> 00:17:34,280
+70 year old is not the same as a healthy 30 year old right. And we know what's going to happen if
+
+192
+00:17:34,280 --> 00:17:39,240
+we don't do anything about aging. So my personal view is that there should be a tolerance for some
+
+193
+00:17:39,240 --> 00:17:47,000
+level of risk if the outcome is going to be 10 percent 20 percent 30 percent more time spent
+
+194
+00:17:47,000 --> 00:17:52,040
+in good health. That's that's a discussion that we haven't had either at the regulatory level or at
+
+195
+00:17:52,040 --> 00:17:57,800
+the society wide level. But I think we need to have. So I digress a little bit but I had to know
+
+196
+00:17:57,800 --> 00:18:02,120
+I think I think that's one of the most important points you could make and I sort of think a lot
+
+197
+00:18:02,120 --> 00:18:05,960
+about this because my colleague and I were discussing this the other day which was you know
+
+198
+00:18:05,960 --> 00:18:09,400
+you take this oath at the end of medical school the Hippocratic oath when you first thing you learn
+
+199
+00:18:09,400 --> 00:18:14,520
+to say is first do no harm. And I think the spirit of that is excellent but I also think it's highly
+
+200
+00:18:14,520 --> 00:18:21,080
+impractical in a world where it forces you into binary thinking which is we will only undertake
+
+201
+00:18:21,080 --> 00:18:26,920
+interventions that are guaranteed to have no harm and otherwise we will do nothing regardless of the
+
+202
+00:18:26,920 --> 00:18:31,560
+outcome which of course is not practical. We live in a probabilistic world where the probability of
+
+203
+00:18:31,560 --> 00:18:35,800
+harm is not zero or one but rather it's a continuum between zero and one and you really
+
+204
+00:18:35,800 --> 00:18:40,280
+need to take a risk adjusted approach. That's right. To outcome. So I mean I think that's a
+
+205
+00:18:40,280 --> 00:18:44,600
+yeah that's exactly right. So I had to kind of go through that thought process in my own head though
+
+206
+00:18:44,600 --> 00:18:52,120
+and especially thinking about moving into pet dogs where because of the way that that many people
+
+207
+00:18:52,120 --> 00:18:57,800
+feel about their pet dogs you have to be as sure as you can that you're not going to hurt anybody's
+
+208
+00:18:57,800 --> 00:19:04,280
+pet. They like them more than their friends. Yeah absolutely right. Yeah people love their dogs.
+
+209
+00:19:04,280 --> 00:19:08,360
+A lot of people feel similarly about their dogs as they do about their kids right. So you kind of
+
+210
+00:19:08,360 --> 00:19:13,240
+think that's kind of the way I thought about it is could we do this in somebody's child. And so with
+
+211
+00:19:13,240 --> 00:19:18,840
+rapamycin there is a perception out there that I don't share but there's a perception out there
+
+212
+00:19:18,840 --> 00:19:24,040
+that rapamycin has lots of side effects based mostly on the human clinical literature. Which to
+
+213
+00:19:24,040 --> 00:19:28,840
+be clear is generally in transplant patients. Transplant patients taking high doses and taking
+
+214
+00:19:28,840 --> 00:19:33,880
+lots of other drugs. Yeah so sick people taking a high dose of rapamycin in combination with other
+
+215
+00:19:33,880 --> 00:19:38,360
+medications. Right. And it does have side effects. There's no question about that but one of the
+
+216
+00:19:38,360 --> 00:19:43,640
+things that's come out of my own research and other research in the field is that the both the
+
+217
+00:19:43,640 --> 00:19:52,120
+benefits and the side effects are strongly linked to dose. So one question was is there a dose of
+
+218
+00:19:52,120 --> 00:19:58,360
+rapamycin that will have beneficial effects in the context of healthy aging without significant
+
+219
+00:19:58,360 --> 00:20:03,800
+side effects. That was an unknown. I think that we're getting to the point where we're pretty sure
+
+220
+00:20:03,800 --> 00:20:07,560
+that that's the case. At least you can get some of the benefits of rapamycin and we can talk more
+
+221
+00:20:07,560 --> 00:20:12,520
+about the data that support that. But at that point it really wasn't really wasn't clear. And
+
+222
+00:20:12,520 --> 00:20:18,680
+when you say the dose do you think that the peak or the trough play a bigger role in toxicity. Yeah
+
+223
+00:20:18,680 --> 00:20:25,720
+so that's that's still an unknown but I think the data that are out there suggest that the trough
+
+224
+00:20:25,720 --> 00:20:31,880
+levels are most strongly correlated with side effects. Now what is most strongly related to
+
+225
+00:20:31,880 --> 00:20:37,560
+health span or lifespan. There's no data as far as I know. And this is an area where I think there's
+
+226
+00:20:37,560 --> 00:20:43,640
+a lot of work that could be done and should be done exploring more broadly even in laboratory
+
+227
+00:20:43,640 --> 00:20:51,000
+animals and mice. The sort of dose response and dose timing space for where do you get the
+
+228
+00:20:51,000 --> 00:20:56,680
+biggest effects on lifespan or specific measures of health. Where don't you get any effects. Can
+
+229
+00:20:56,680 --> 00:21:02,120
+you uncouple say the improvements in heart function from the improvements in immune function
+
+230
+00:21:02,120 --> 00:21:06,840
+by changing the dose or the timing. There really has been very little done on that. Now maybe for
+
+231
+00:21:06,840 --> 00:21:10,920
+the listener who's not familiar with the pharmacokinetic discussion let's explain maybe
+
+232
+00:21:10,920 --> 00:21:16,120
+trough and peak. How do we think about those dose. Yeah so when you give a medication to a
+
+233
+00:21:16,120 --> 00:21:21,480
+rapamycin pill when a person takes a rapamycin pill there will be a rapid increase in the levels
+
+234
+00:21:21,480 --> 00:21:26,040
+of the drug in the blood. And if they don't take another dose then the drug will start to get
+
+235
+00:21:26,040 --> 00:21:30,760
+cleared and it will go down. And so if you're taking a pill every day as soon as you take the
+
+236
+00:21:30,760 --> 00:21:34,680
+pill the blood levels go up and then it starts to get cleared and then the next day you take the
+
+237
+00:21:34,680 --> 00:21:39,160
+pill it goes up and then it starts to get cleared. So if you were to take the pill every other day
+
+238
+00:21:39,880 --> 00:21:44,760
+it would go down further before you get that spike again. So the spike the top of the spike
+
+239
+00:21:44,760 --> 00:21:50,840
+is the peak level the bottom before you take the next dose is the trough. And so the little bit of
+
+240
+00:21:50,840 --> 00:21:57,000
+data that's available and again there's not much data for different doses of rapamycin in people
+
+241
+00:21:57,560 --> 00:22:03,400
+who are not also taking other drugs. So the combination here is both dose and rapamycin
+
+242
+00:22:03,400 --> 00:22:08,920
+as a monotherapy. And so really the only study that I know of that looked at this really at all
+
+243
+00:22:09,560 --> 00:22:14,440
+actually didn't even use rapamycin they used a derivative of rapamycin called RAD001 or
+
+244
+00:22:14,440 --> 00:22:19,720
+Everalymus that's the manic study that we talked about. So there's really no good data in people
+
+245
+00:22:19,720 --> 00:22:26,360
+on different doses of rapamycin as a monotherapy in healthy people. So we're kind of stuck looking
+
+246
+00:22:26,440 --> 00:22:34,600
+at the data that we have. So in Joan's study with Everalymus or RAD001 they gave the medication to
+
+247
+00:22:34,600 --> 00:22:42,680
+healthy elderly people and they tested three dose and delivery combinations. So one of them was I
+
+248
+00:22:42,680 --> 00:22:48,440
+believe 20 milligrams once a week one of them was five milligrams once a week and one of them was
+
+249
+00:22:48,440 --> 00:22:55,480
+one milligram a day. Right and this was looking in the context of immune function as measured by a
+
+250
+00:22:55,480 --> 00:23:02,120
+flu vaccine response. So the outcomes were that I think at all three doses they saw evidence for
+
+251
+00:23:02,120 --> 00:23:07,960
+improved vaccine response which was consistent with prior data in mice that immune function is
+
+252
+00:23:07,960 --> 00:23:13,560
+improved by rapamycin. Pause for a moment that's still a bit counterintuitive to the layperson.
+
+253
+00:23:13,560 --> 00:23:18,520
+When I say the layperson I mean like the layperson who still thinks about rapamycin. Or actually lots
+
+254
+00:23:18,520 --> 00:23:24,200
+of physicians. Sure because we think of this as an immune suppressant and yet they took this drug
+
+255
+00:23:24,200 --> 00:23:29,800
+in monotherapy under a different dosing schedule than a transplant patient would take it and we saw
+
+256
+00:23:29,800 --> 00:23:35,320
+an improvement in their T cell function. The same cells that we tend to knock out in a transplant
+
+257
+00:23:35,320 --> 00:23:39,880
+patient. Right yeah so let's come back to that because that I think is that's an important issue
+
+258
+00:23:39,880 --> 00:23:45,880
+but it's complicated. Just to come back to the the trough levels and side effects so they saw evidence
+
+259
+00:23:45,880 --> 00:23:51,800
+for efficacy with every delivery method although they got I think the best efficacy at the five
+
+260
+00:23:52,200 --> 00:23:57,480
+once a week but they also had the lowest side effects and the most side effects were the ones
+
+261
+00:23:57,480 --> 00:24:02,360
+every day or the 20s once a week. I think it was in the 20s once a week but I can't remember for sure.
+
+262
+00:24:02,360 --> 00:24:06,840
+It was pretty comparable. So the first thing to say is none of the side effects were bad by
+
+263
+00:24:06,840 --> 00:24:11,400
+clinical standards. None of the people dropped out of the study because they were taking the drug
+
+264
+00:24:11,400 --> 00:24:16,600
+which is I think a pretty good indication for how tolerable the drug is. So even though they did
+
+265
+00:24:16,600 --> 00:24:22,440
+detect some side effects they really were not serious. They weren't even serious enough that
+
+266
+00:24:22,440 --> 00:24:27,000
+they were uncomfortable and people stopped taking the drug. So I think that that's really the only
+
+267
+00:24:27,000 --> 00:24:32,440
+evidence that we have that I know of that it's really the trough levels that drive side effects.
+
+268
+00:24:32,440 --> 00:24:39,800
+So I kind of think that's probably true but I'm not confident and I really think we need more data
+
+269
+00:24:39,800 --> 00:24:43,560
+to know for sure. It's certainly true in other classes of drugs and when you look at
+
+270
+00:24:43,560 --> 00:24:48,440
+gentamicin for example and the ototoxicity or nephrotoxicity it's a trough problem not a peak
+
+271
+00:24:48,440 --> 00:24:53,160
+problem. Right. That's why you have to make sure the patients clear it before you redose it.
+
+272
+00:24:53,160 --> 00:24:57,560
+So there's there are other reasons to believe that as well. Yeah. So now coming back to this immune
+
+273
+00:24:57,560 --> 00:25:02,040
+function question. There was a washout. There was. So there's a couple things again there to
+
+274
+00:25:02,040 --> 00:25:10,360
+consider. So the data suggesting that rapamycin can act as an immunosuppressant again is almost
+
+275
+00:25:10,360 --> 00:25:16,360
+exclusively based on very well I shouldn't say very high doses higher doses than were tested in
+
+276
+00:25:17,000 --> 00:25:23,560
+the Novartis study in people who are also taking other drugs that probably are true immunosuppressants.
+
+277
+00:25:23,560 --> 00:25:28,760
+Typically at least two if not three other drugs. That's right. So it's really not clear to what
+
+278
+00:25:28,760 --> 00:25:36,360
+extent rapamycin as a monotherapy in healthy people has immunosuppressive properties and the
+
+279
+00:25:36,360 --> 00:25:42,280
+data in mice I would say is mixed. It really seems to be the case then for some forms of
+
+280
+00:25:42,280 --> 00:25:49,720
+immune challenge at high doses rapamycin can enhance susceptibility to infection for other
+
+281
+00:25:49,720 --> 00:25:54,520
+forms of immune challenge it enhances function. But again those studies are almost always done
+
+282
+00:25:54,520 --> 00:25:59,880
+at very high doses of the drug that are even much higher than you would give to a person. So it's
+
+283
+00:25:59,880 --> 00:26:05,800
+it's an unknown. Now what seems to be the case both in mice and people is that short term
+
+284
+00:26:05,800 --> 00:26:12,760
+treatment with rapamycin in an old mouse or an old person followed by a two week washout where
+
+285
+00:26:12,760 --> 00:26:18,600
+they stop taking the drug when you then test immune function at least as measured by a vaccine
+
+286
+00:26:18,600 --> 00:26:27,480
+response you get a better response. So one model would be that the treatment with rapamycin is
+
+287
+00:26:27,480 --> 00:26:35,640
+restoring immune function in an aged animal probably through enhanced stem cell function
+
+288
+00:26:35,640 --> 00:26:40,840
+although I don't I think that that hasn't really been demonstrated clearly and you might need that
+
+289
+00:26:40,840 --> 00:26:46,200
+washout period if there is an immunosuppressive effect you might need that washout period to be
+
+290
+00:26:46,200 --> 00:26:50,600
+able to see that rejuvenation in immune function. Again that's really speculative though because
+
+291
+00:26:50,600 --> 00:26:56,920
+nobody's done. In Jones paper did they do I'm sure they didn't actually know that I think about it
+
+292
+00:26:56,920 --> 00:27:00,040
+they didn't have enough people in the study would have been very interesting to have seen the immune
+
+293
+00:27:00,040 --> 00:27:06,040
+challenge without the washout. Yeah they didn't do that. Now I was just going to say nobody's done it in either mice or in people.
+
+294
+00:27:06,040 --> 00:27:13,000
+That actually would be a fairly easy experiment to do in mice. The problem is you would never get an NIH study
+
+295
+00:27:13,000 --> 00:27:18,120
+section to fund that experiment because we already kind of know the answer that it that rapamycin works.
+
+296
+00:27:18,120 --> 00:27:23,160
+They wouldn't be viewed as an even though it's really important from a translational perspective
+
+297
+00:27:23,160 --> 00:27:28,200
+it wouldn't be viewed as innovative or important enough for somebody to fund a grant to do it.
+
+298
+00:27:28,200 --> 00:27:33,560
+So it's it's an unknown and I don't know how long it'll be till we actually get the answer for that question.
+
+299
+00:27:33,560 --> 00:27:41,160
+Now bringing it back to the dogs one of the challenges of course in leaping from mice to dogs is
+
+300
+00:27:41,160 --> 00:27:47,560
+mortality becomes difficult to study. You have an animal that lives a lot longer whereas mice you know
+
+301
+00:27:47,560 --> 00:27:55,080
+you can get a longevity answer in you know months if you select them correctly and dogs if you want to study them for true
+
+302
+00:27:55,080 --> 00:28:01,160
+heart outcome of you know death. So you pick a proxy. Well you can. Yeah yeah I'm saying I'm
+
+303
+00:28:01,160 --> 00:28:07,960
+saying like the shortest path would be let's look at organ function or something else. Right so what we did
+
+304
+00:28:07,960 --> 00:28:15,240
+so we've done one study where it was a 10-week study of rapamycin in middle-aged healthy companion
+
+305
+00:28:15,240 --> 00:28:21,960
+dogs and we chose heart function as our short-term measure and that again was based on mouse data where
+
+306
+00:28:21,960 --> 00:28:28,120
+two different actually three different labs now have shown that if you take a 20 to 24-month-old
+
+307
+00:28:28,120 --> 00:28:33,080
+mouse that's maybe the that's like a 40-year-old no it's more like a 60 to 65-year-old person
+
+308
+00:28:33,080 --> 00:28:38,840
+that if you just look at the heart of a 24-month-old mouse compared to let's say a six-month-old mouse
+
+309
+00:28:38,840 --> 00:28:44,680
+you can see declines in heart function just like you can in people and and the parameters that have
+
+310
+00:28:44,680 --> 00:28:50,760
+been studied with the respect to rapamycin specifically are mostly measures of left ventricular
+
+311
+00:28:50,760 --> 00:28:55,720
+function so ejection fraction fractional shortening things like that and this is done by echocardiography
+
+312
+00:28:55,720 --> 00:29:00,760
+so it's relatively non-invasive so you can see a decline in function with age and what what has
+
+313
+00:29:00,760 --> 00:29:07,320
+been seen now in three independent studies is that six to ten weeks of treatment with rapamycin is
+
+314
+00:29:07,320 --> 00:29:14,280
+enough to cause those measures of heart function in the old mouse to go back about halfway to what
+
+315
+00:29:14,280 --> 00:29:19,160
+you would see in a young mouse so it doesn't bring you all the way back to a teenager but it
+
+316
+00:29:19,160 --> 00:29:23,880
+gets you back to you know maybe a 35-year-old heart if you're doing the sort of mouse to human
+
+317
+00:29:23,880 --> 00:29:28,600
+equivalency and just to be clear that was how many weeks so the studies have varied is between six
+
+318
+00:29:28,600 --> 00:29:33,960
+and ten weeks all of them saw improvements it's not clear whether you get bigger improvements by
+
+319
+00:29:33,960 --> 00:29:38,840
+longer treatments so it's kind of in that range and did these animals also require a washout to
+
+320
+00:29:38,840 --> 00:29:44,040
+see the benefit no no washout so these are measures of heart function taken while the mice are still
+
+321
+00:29:44,040 --> 00:29:51,640
+on the rapamycin and these animals were dosed daily so yes all three of those studies used the
+
+322
+00:29:51,640 --> 00:29:56,440
+encapsulated rapamycin in the diet so they were getting the drug daily and it was not and this is
+
+323
+00:29:56,440 --> 00:30:01,720
+where it gets a little bit complicated because i'd say 85 percent of the studies on aging or age
+
+324
+00:30:01,720 --> 00:30:07,560
+related functional measures in mice with rapamycin have been done with an encapsulated form of
+
+325
+00:30:07,560 --> 00:30:13,720
+rapamycin in the diet we call it e-rapa and so that's different from a pill right because mice
+
+326
+00:30:13,720 --> 00:30:18,440
+are going to eat throughout the night so they're probably not experiencing exactly the same
+
+327
+00:30:18,440 --> 00:30:22,920
+pharmacokinetics that you would experience from a pill or the other kinds of experiments that
+
+328
+00:30:22,920 --> 00:30:27,240
+people have done in mice have been injections where you get you know this rapid peak in the drug
+
+329
+00:30:27,240 --> 00:30:31,720
+and then a pretty steep drop off as the drug starts to get cleared and nobody's ever done the
+
+330
+00:30:31,720 --> 00:30:38,200
+like the 24-hour measures of rapamycin blood level on the mice getting e-rapa so i don't know
+
+331
+00:30:38,200 --> 00:30:42,440
+how different it is but it's probably different in the sense that it's probably a more stable
+
+332
+00:30:43,000 --> 00:30:47,240
+level of rapamycin in the blood for a longer period of time i mean i would expect that the
+
+333
+00:30:47,800 --> 00:30:51,640
+e-rapa animals are going to have lower peaks and higher troughs i mean that would be that would be
+
+334
+00:30:51,640 --> 00:30:56,600
+the expectation yes but i don't know that anybody's ever really carefully looked at that so having
+
+335
+00:30:56,600 --> 00:31:03,480
+said that i think all three of the studies that looked at heart function in mice used the e-rapa
+
+336
+00:31:03,480 --> 00:31:09,240
+and it was a pretty low dose of the the how many milligrams per kilogram it's 14 parts per million
+
+337
+00:31:09,960 --> 00:31:15,080
+food i don't remember off the top of my head what that works out to in milligrams per kilogram
+
+338
+00:31:15,080 --> 00:31:22,440
+i feel like it's in the about the two range wow but much well yeah but again you have to you have
+
+339
+00:31:22,440 --> 00:31:27,960
+to keep in mind that you can't translate the dosing across species very well two milligrams
+
+340
+00:31:27,960 --> 00:31:31,960
+per kilogram in a mouse is not going to be the same as two milligrams per kilogram in a person
+
+341
+00:31:31,960 --> 00:31:35,800
+or it doesn't happen because the dogs and the humans i suspect are probably a lot closer than the
+
+342
+00:31:36,520 --> 00:31:39,960
+you would think so although i don't know that there's actually good evidence to
+
+343
+00:31:39,960 --> 00:31:43,800
+to support that so certainly in terms of body size if you're talking about a bigger dog they're
+
+344
+00:31:43,800 --> 00:31:48,200
+they're closer in terms of metabolism of the drug though that i imagine could vary it's
+
+345
+00:31:48,200 --> 00:31:53,800
+hepatically clear species i don't know that's a good question i'm pretty sure it's not really
+
+346
+00:31:53,800 --> 00:32:01,720
+p450 yeah it's if it's going to be in the liver so how did you ultimately come up with both a
+
+347
+00:32:01,800 --> 00:32:07,960
+dose and a schedule of delivery for your first trial so this again goes back to this question
+
+348
+00:32:07,960 --> 00:32:14,440
+that i was asking myself about can we do this safely and there's very little data in dogs on
+
+349
+00:32:14,440 --> 00:32:21,080
+rapamycin at all and just like in people there's almost none on rapamycin as a monotherapy in
+
+350
+00:32:21,080 --> 00:32:28,280
+healthy animals so i started you know basically digging and talking to as many veterinarians as
+
+351
+00:32:28,280 --> 00:32:34,680
+i could to find out what was known and i was very fortunate to actually be able to get in touch with
+
+352
+00:32:34,680 --> 00:32:41,320
+a veterinary group at the university of tennessee who was studying rapamycin in dogs who had had
+
+353
+00:32:41,320 --> 00:32:47,880
+hemangiosarcoma of the spleen and so they had done the pharmacokinetics and had developed a dosing
+
+354
+00:32:47,880 --> 00:32:56,840
+strategy that they feel is extending life expectancy in dogs who have had hemangiosarcoma of the spleen
+
+355
+00:32:56,840 --> 00:33:01,080
+and where they weren't seeing side effects and they had had some of their dogs on rapamycin for
+
+356
+00:33:01,080 --> 00:33:06,760
+more than a year so so we were pretty confident or i was pretty confident after talking to them
+
+357
+00:33:06,760 --> 00:33:12,120
+that if we took their dosing strategy that were unlikely to see any significant side effects over
+
+358
+00:33:12,120 --> 00:33:16,920
+a 10-week period and so i said that cardiac function was the functional endpoint that we
+
+359
+00:33:16,920 --> 00:33:22,120
+were using really the goal of that 10-week study though was to confirm this is a phase one basically
+
+360
+00:33:22,120 --> 00:33:25,560
+that we could do this that we could get people to participate they would actually give their
+
+361
+00:33:25,640 --> 00:33:30,280
+dog the medication and that we didn't see any significant side effects so i was pretty confident
+
+362
+00:33:30,280 --> 00:33:36,440
+that based on their dosing and delivery protocol we at least wouldn't see any severe side effects
+
+363
+00:33:36,440 --> 00:33:41,800
+in a 10-week period. Did the nih fund that study? Well not directly so we got a little bit of nih
+
+364
+00:33:41,800 --> 00:33:47,480
+money because we have one of these nathan shock centers of excellence in the biology of aging and
+
+365
+00:33:47,480 --> 00:33:54,040
+we had a small amount it was on the order of a few tens of thousands of dollars left over from
+
+366
+00:33:54,040 --> 00:34:00,120
+the prior year and so i asked uh Felipe Sierra who's the head of the division of aging biology
+
+367
+00:34:00,120 --> 00:34:05,320
+at nih if we could use that surplus specifically for this project and he was he was kind enough to
+
+368
+00:34:05,320 --> 00:34:09,240
+to agree to that but it wasn't we didn't write a grant and get a grant. But you sort of bootstrap
+
+369
+00:34:09,240 --> 00:34:15,480
+this thing. Yeah so actually i paid for this study mostly out of funds that i had gotten because i
+
+370
+00:34:15,480 --> 00:34:20,280
+was recruited to get a job somewhere else and as part of my retention package the university of
+
+371
+00:34:20,280 --> 00:34:24,920
+washington gave me some money that i could spend on whatever i wanted to and i thought this was a
+
+372
+00:34:24,920 --> 00:34:29,800
+good way to spend the money. So what did that 10-week study show? Right so first of all i'll go back
+
+373
+00:34:29,800 --> 00:34:33,880
+to the dosing before i tell you that. Oh that's right yeah yeah. So so i talked to this group the
+
+374
+00:34:33,880 --> 00:34:42,600
+university of tennessee and so their strategy was 0.1 milligrams per kilogram given three times a week.
+
+375
+00:34:42,600 --> 00:34:49,000
+Okay. Monday, Wednesday, Friday and that made sense to me in light of the what we were just
+
+376
+00:34:49,000 --> 00:34:53,800
+talking about from the manic paper where it seems like if you give an extra day to let the trough
+
+377
+00:34:53,800 --> 00:34:57,800
+levels get down it made intuitive sense that that might also. Yeah you can reduce toxicity. Yeah so i don't
+
+378
+00:34:57,800 --> 00:35:03,080
+know that that's the case but but it made sense and so that was the dosing strategy that we went
+
+379
+00:35:03,080 --> 00:35:09,080
+with for our highest dose and then we also tested a dose that was half of that so 0.05 milligrams
+
+380
+00:35:09,080 --> 00:35:14,600
+per kilogram again monday wednesday friday. So we enrolled dogs into this study this was a very
+
+381
+00:35:14,600 --> 00:35:22,120
+small study all from at a private veterinary specialty clinic in the seattle area and so the
+
+382
+00:35:22,120 --> 00:35:28,200
+dogs had to be at least 40 pounds and at least six years old and they could not have any pre-existing
+
+383
+00:35:28,920 --> 00:35:33,880
+condition. So again this is a study of healthy aging we wanted healthy dogs coming into the
+
+384
+00:35:33,880 --> 00:35:40,920
+study. Six years old because at that weight range we figured that that would be you know roughly the
+
+385
+00:35:40,920 --> 00:35:47,080
+human equivalent of 55 years maybe big dogs age faster than small dogs so that's why we had the
+
+386
+00:35:47,080 --> 00:35:52,520
+weight criteria. So we wanted to have a population where we expected there would be the potential for
+
+387
+00:35:52,520 --> 00:35:59,160
+some age-related functional decline but that we wouldn't get a high proportion of dogs. Yeah you
+
+388
+00:35:59,160 --> 00:36:02,920
+don't be too close to the edge of the cliff. That's right that we're really sick. So one thing we
+
+389
+00:36:02,920 --> 00:36:10,120
+we found though that was unexpected was that about 20 percent of dogs in that age and weight range
+
+390
+00:36:10,120 --> 00:36:14,680
+actually have asymptomatic heart disease that you will see if you give them an echocardiogram
+
+391
+00:36:14,680 --> 00:36:20,520
+but you won't detect from a stethoscope exam and that was in hindsight it kind of makes sense right
+
+392
+00:36:20,520 --> 00:36:26,040
+again heart function is going to go down with age and where you decline like what is the clinical
+
+393
+00:36:26,040 --> 00:36:33,240
+threshold that we call disease is sort of a moving target sometimes right. If a vet with a stethoscope
+
+394
+00:36:33,240 --> 00:36:37,400
+takes a heart murmur and then they give the dog an echocardiogram and they see regurgitation they'll
+
+395
+00:36:37,400 --> 00:36:41,480
+call that heart disease. If they don't hear a heart murmur nobody's going to give their dog an
+
+396
+00:36:41,480 --> 00:36:46,840
+echocardiogram right it's expensive. Yeah and I'm not a cardiologist but I can't imagine the day
+
+397
+00:36:46,840 --> 00:36:53,080
+would ever come where using a stethoscope I could detect you know a low EF like to the tone of right
+
+398
+00:36:53,080 --> 00:36:58,040
+yeah I mean unless you would not get that no no it's really the regurgitation that they're hearing
+
+399
+00:36:58,040 --> 00:37:03,080
+as a heart murmur and and that was most of most of the dogs that we ended up having to exclude
+
+400
+00:37:03,160 --> 00:37:09,000
+we had to exclude because they had a pre-existing value of regurgitation that came out from the
+
+401
+00:37:09,000 --> 00:37:14,440
+echocardiogram but this was actually a discussion that we had to have with the cardiologist you know
+
+402
+00:37:14,440 --> 00:37:21,080
+the cardiologist initially went into the study with the feeling that if there's any regurgitation
+
+403
+00:37:21,080 --> 00:37:27,240
+that's beyond trivial that that's heart disease and so when we started to see dog after dog show
+
+404
+00:37:27,240 --> 00:37:32,040
+up with this level of regurgitation we had to have this discussion what's normal aging versus
+
+405
+00:37:32,040 --> 00:37:36,920
+disease right and right and so just because of the way that the protocol was written we ended up
+
+406
+00:37:36,920 --> 00:37:41,880
+having to exclude about 20 percent of dogs because they had underlying heart disease so so we had 40
+
+407
+00:37:41,880 --> 00:37:47,000
+dogs come into the study for their first exam that was our target number we ended up having 24 go all
+
+408
+00:37:47,000 --> 00:37:51,720
+the way through the study most three groups two doses plus a placebo yeah yeah and they ended up
+
+409
+00:37:51,720 --> 00:37:57,000
+not being evenly distributed and in part this was this was because in part is because it was my
+
+410
+00:37:57,000 --> 00:38:01,080
+first clinical trial that I'd ever done and I didn't didn't plan for the fact that we would
+
+411
+00:38:01,080 --> 00:38:07,720
+have to exclude as many dogs as we did so the way it ended up was we had eight eight placebo 11 high
+
+412
+00:38:07,720 --> 00:38:14,120
+dose and five medium lower dose yeah right that went all the way through we only had one dog leave
+
+413
+00:38:14,120 --> 00:38:18,280
+the study and that was because the owner just stopped giving their dog the medication and we
+
+414
+00:38:18,280 --> 00:38:24,040
+had one dog where the owner gave their dog the wrong amount of the medication which ironically
+
+415
+00:38:24,040 --> 00:38:29,320
+enough wrong in which direction low so the dog was randomized into the high rapamycin group and
+
+416
+00:38:29,320 --> 00:38:35,320
+ended up getting one quarter of the expected dose so other than that there was fantastic
+
+417
+00:38:35,320 --> 00:38:40,360
+compliance all of the owners did what they were supposed to came in for their exams so the main
+
+418
+00:38:41,000 --> 00:38:47,720
+outcomes of this study were one there was no evidence for increased side effects so the owners
+
+419
+00:38:47,720 --> 00:38:52,120
+filled out weekly surveys that there was a long list of the dogs didn't fill them yeah well you
+
+420
+00:38:52,120 --> 00:38:57,560
+never know there was a long list of did your dog experience any of these things and then there were
+
+421
+00:38:57,560 --> 00:39:03,000
+a couple of just open-ended questions you know do you feel like you observed any positive changes
+
+422
+00:39:03,000 --> 00:39:08,920
+or negative changes in health did the group in tennessee see the apthos ulcers in their dogs
+
+423
+00:39:08,920 --> 00:39:13,480
+because that seems to be i remember as a resident when we would give rapamycin
+
+424
+00:39:13,480 --> 00:39:18,280
+to the kidney transplant patients i mean the biggest complaint by far was those apthos ulcers
+
+425
+00:39:18,280 --> 00:39:23,720
+yeah and we didn't again in hindsight we we probably should have done a better job of looking
+
+426
+00:39:23,800 --> 00:39:29,400
+but we did not have any evidence that that that was happening the only thing that initially i
+
+427
+00:39:29,400 --> 00:39:36,120
+thought that maybe we were detecting that was because we had several owners then this was while
+
+428
+00:39:36,120 --> 00:39:41,880
+the study was still blinded so i didn't know which dogs were which at this point we had several owners
+
+429
+00:39:41,880 --> 00:39:47,960
+report that their dog was drinking a lot more water and a couple of them actually came in for
+
+430
+00:39:47,960 --> 00:39:53,560
+urinalysis and stuff like that and so i thought maybe that that could be like a dog's response
+
+431
+00:39:53,560 --> 00:39:57,560
+if they have sores on the inside of their mouth and they're uncomfortable maybe that would be the
+
+432
+00:39:57,560 --> 00:40:02,120
+sort of the canine equivalent of how they would respond to that as it turns out though when we
+
+433
+00:40:02,120 --> 00:40:07,400
+unblinded the study that reported observation of increased water consumption was equally spread
+
+434
+00:40:07,400 --> 00:40:11,480
+between the placebo and rapamycin group so i don't know if that's happening in dogs that's
+
+435
+00:40:11,480 --> 00:40:17,240
+something we'll look at in the next phase so again for all of the side effects though that we
+
+436
+00:40:17,240 --> 00:40:23,400
+surveyed owners on no difference between treated and untreated the blood chemistry showed no
+
+437
+00:40:23,400 --> 00:40:27,800
+significant changes with rapamycin which was actually a little bit surprising did you do a
+
+438
+00:40:27,800 --> 00:40:33,080
+glucose tolerance test we did not do any we did not do a glucose tolerance test in part because
+
+439
+00:40:33,080 --> 00:40:39,400
+we wanted to keep the the number of assays that we were asking the owners to subject their dogs to
+
+440
+00:40:39,400 --> 00:40:44,680
+as small as possible make it as non non-invasive as possible for the animals we did get blood
+
+441
+00:40:44,680 --> 00:40:51,080
+chemistry at at week you know before randomization at week three and at week 11 so within one week
+
+442
+00:40:51,080 --> 00:40:55,640
+of coming out of the study and we saw improvements in heart function now i will say it's a small
+
+443
+00:40:55,640 --> 00:41:00,520
+cohort they were on sort of a borderline of statistical significance so two of the three
+
+444
+00:41:00,520 --> 00:41:05,560
+measures that we had as our primary end points the three measures were ejection fraction fractional
+
+445
+00:41:05,560 --> 00:41:09,960
+shortening and e to a ratio and again that was just coming directly from the mouse studies two
+
+446
+00:41:09,960 --> 00:41:15,640
+of those three were statistically significant one was p value of 0.06 yeah but i mean you must
+
+447
+00:41:15,640 --> 00:41:21,160
+have been underpowered on absolutely anything absolutely yeah it's amazing you saw i agree i
+
+448
+00:41:21,160 --> 00:41:27,480
+agree yeah so i think the way i view this is it's it's about the most positive outcome that that we
+
+449
+00:41:27,480 --> 00:41:33,000
+could have hoped for clearly needs to be replicated but at least the changes are going in the right
+
+450
+00:41:33,000 --> 00:41:38,440
+direction and an interesting couple of interesting things when you actually look at the heart data
+
+451
+00:41:38,440 --> 00:41:44,600
+it very much looks like the dogs on rap mice and they got the biggest benefits were the ones that
+
+452
+00:41:44,600 --> 00:41:49,480
+started with the lowest function which is not surprising but that also is encouraging because
+
+453
+00:41:49,480 --> 00:41:54,280
+that's that's kind of what you'd expect right the dogs that have undergone a greater age related
+
+454
+00:41:54,280 --> 00:41:59,080
+decline are likely to be the ones that are going to get the biggest benefit from a treatment that's
+
+455
+00:41:59,080 --> 00:42:03,480
+actually affecting that so that was really encouraging and then we actually had one
+
+456
+00:42:03,480 --> 00:42:10,440
+doberman pincher in the study and this turned out to be interesting because doberman pinchers as a
+
+457
+00:42:10,440 --> 00:42:18,040
+breed are highly prone to dilated cardiomyopathy something like 60 65 percent of doberman pinchers
+
+458
+00:42:18,040 --> 00:42:22,920
+will develop dilated cardiomyopathy as they get older i wasn't really aware of this literature
+
+459
+00:42:22,920 --> 00:42:30,440
+going into the study um but it turns out that many doberman pincher owners will actually give their
+
+460
+00:42:30,440 --> 00:42:37,480
+dogs echocardiograms or electrocardiograms routinely as they're getting older to try to detect
+
+461
+00:42:38,200 --> 00:42:43,640
+dilated cardiomyopathy as early as possible and this the owner of this dog didn't tell us this
+
+462
+00:42:43,640 --> 00:42:47,880
+before she came into the study had actually been aware of this and was giving her dog
+
+463
+00:42:47,880 --> 00:42:54,680
+echocardiograms before coming into the study that dog had low cardiac function but it was not yet to
+
+464
+00:42:54,680 --> 00:43:00,040
+the point where it was clinically diagnosed as dilated cardiomyopathy so our cardiologist in
+
+465
+00:43:00,040 --> 00:43:06,680
+the study also not knowing the dog's history of of having prior echoes did not flag the dog as
+
+466
+00:43:06,680 --> 00:43:11,480
+needing to be excluded so the dog was randomized it just happened to be randomized into the higher
+
+467
+00:43:11,480 --> 00:43:16,840
+rapamycin dose and its function was that was one of the dogs where we saw the largest improvement
+
+468
+00:43:16,840 --> 00:43:22,120
+in function what is interesting about that is the owner then after the study was over
+
+469
+00:43:22,120 --> 00:43:26,200
+continued to get echocardiograms every three months and has shared that information with us
+
+470
+00:43:26,200 --> 00:43:31,320
+and so it's really it's an n of one but it's a really fascinating sort of case study because
+
+471
+00:43:31,320 --> 00:43:36,680
+you can see the dog's cardiac function declining then the dog comes into the study gets rapamycin
+
+472
+00:43:36,680 --> 00:43:41,960
+it shoots up it's quite a dramatic increase and then within about what was the increase in ef do
+
+473
+00:43:41,960 --> 00:43:47,400
+you remember i don't remember i don't want to say the exact number because i don't remember it sounds
+
+474
+00:43:47,400 --> 00:43:52,280
+like it was a big deal it was from the borderline of being a cult dilated cardiomyopathy up at least
+
+475
+00:43:52,360 --> 00:43:57,720
+10 10 percent 10 percent yeah 10 absolute percent that's right that's enormous yeah well
+
+476
+00:43:57,720 --> 00:44:02,600
+inked back into the normal range yeah and has that patient or that patient has that woman shared with
+
+477
+00:44:02,600 --> 00:44:08,200
+you what the resulting decline in ef has been since the trial so about i've got the data out
+
+478
+00:44:08,200 --> 00:44:12,600
+to about six months and and we're just now trying to reconnect with her to see if if she has
+
+479
+00:44:12,600 --> 00:44:18,040
+additional data that she'll share with us by about six months out the ejection fraction and
+
+480
+00:44:18,040 --> 00:44:23,160
+fractional shortening were back right at the point when the dog came into the study and at
+
+481
+00:44:23,160 --> 00:44:29,400
+that point her cardiologist diagnosed the dog is called dcm so so clearly going down the path to
+
+482
+00:44:29,400 --> 00:44:34,840
+dilated cardiomyopathy so the million dollar question in a study like that or in a case like
+
+483
+00:44:34,840 --> 00:44:43,560
+that is if you had to guess what would be the ideal way to take care of that dog to delay the
+
+484
+00:44:43,560 --> 00:44:50,120
+onset of cardiomyopathy as long as possible would it be just keep this dog on that dose three times
+
+485
+00:44:50,120 --> 00:44:56,840
+a week in perpetuity would it be give the dog a 10-week holiday 10 on 10 off 10 on 10 off right so
+
+486
+00:44:56,840 --> 00:45:02,520
+it's clearly 10 on every six months is just a seesaw if everything is working the way that
+
+487
+00:45:02,520 --> 00:45:07,480
+that yeah we think it is yeah my guess is that the default there would be to keep the dog on the
+
+488
+00:45:07,480 --> 00:45:12,840
+drug unless you start to see side effects right so so continue to monitor by echoes every three months
+
+489
+00:45:13,320 --> 00:45:17,640
+and unless you see side effects or unless you see something else that makes you worried that rap
+
+490
+00:45:17,640 --> 00:45:23,880
+my son is is having a negative effect just keep the dog on on the drug but you know it's an
+
+491
+00:45:23,880 --> 00:45:29,080
+unknown as to whether we would eventually see side effects at that dose because you know as I said
+
+492
+00:45:29,080 --> 00:45:34,280
+the only data that I know of is that university of Tennessee group yeah where they did have some
+
+493
+00:45:34,280 --> 00:45:39,960
+dogs that survived more than a year and continued to take the drug those dogs you know as I said had
+
+494
+00:45:39,960 --> 00:45:44,520
+had hemangiosarcoma of the spleen they'd had surgeries you know they were very sick coming
+
+495
+00:45:44,520 --> 00:45:49,240
+into that study and so I don't know even if there were mild side effects that you would really be
+
+496
+00:45:49,240 --> 00:45:53,960
+able to yeah to tease that apart from everything else that's going on with those dogs there are
+
+497
+00:45:53,960 --> 00:46:00,600
+other larger mammal studies that are going on correct with rapamycin specifically so there are
+
+498
+00:46:00,600 --> 00:46:05,880
+well so so there are research studies in the context of aging in marmosets they're very small
+
+499
+00:46:05,880 --> 00:46:09,720
+and and very early but but those are being done at the university of
+
+500
+00:46:10,520 --> 00:46:16,200
+san antonio yeah texas san antonio the bar shop institute and then there are a variety of cancer
+
+501
+00:46:16,200 --> 00:46:24,360
+studies in dogs with rapamycin so there's a large study of rapamycin for osteosarcoma in dogs and
+
+502
+00:46:24,360 --> 00:46:31,880
+then there are a few smaller clinical trials but I don't know of any other large animal studies in
+
+503
+00:46:31,880 --> 00:46:36,920
+the context of aging anti-agent yeah yeah now I want to obviously come back to the anti-aging
+
+504
+00:46:36,920 --> 00:46:43,160
+and the dogs but on the cancer topic there are some data that are actually suggesting
+
+505
+00:46:44,360 --> 00:46:51,880
+that the increase in autophagy that one might see with rapamycin which one would expect to see
+
+506
+00:46:51,880 --> 00:46:58,680
+at least with m torque one inhibition might be paradoxically not ideal in the active setting of
+
+507
+00:46:58,680 --> 00:47:05,320
+cancer right so I guess my first question is are you swayed by those data and if so
+
+508
+00:47:06,200 --> 00:47:12,120
+what would be the teleologic explanation yeah so I'll say I'm not swayed much I think it's I think
+
+509
+00:47:12,120 --> 00:47:17,400
+that those kind of data are important to be aware of I think one of the real challenges in the
+
+510
+00:47:17,400 --> 00:47:22,680
+autophagy field is that not everybody that we can't measure it well I was any one of them yeah
+
+511
+00:47:22,680 --> 00:47:28,520
+beside the fact that we can't we don't really know how to measure it I think as a as a community
+
+512
+00:47:28,520 --> 00:47:33,480
+we really don't know what we mean when we say that autophagy is increased or decreased different
+
+513
+00:47:33,480 --> 00:47:41,000
+people use different markers or measures for for autophagy so my view is that one of the things
+
+514
+00:47:41,000 --> 00:47:48,680
+that can happen not just for cancers but for lots of different pathologies is one of the ways that
+
+515
+00:47:48,680 --> 00:47:56,520
+cells try to deal with many different forms of stress in particular protein misfolding but also
+
+516
+00:47:56,520 --> 00:48:03,000
+other forms of stress is to turn up autophagy so I think that autophagy some markers of autophagy
+
+517
+00:48:03,000 --> 00:48:11,320
+going up can be a response to a pathological condition also what often happens is that
+
+518
+00:48:11,960 --> 00:48:16,280
+response of turning up autophagy does not lead to productive autophagy so you actually get an
+
+519
+00:48:16,280 --> 00:48:21,080
+accumulation of autophagosomes because they don't ever make it all the way through the process
+
+520
+00:48:21,080 --> 00:48:25,720
+and so depending on how you're measuring autophagy what you really might be detecting is a block
+
+521
+00:48:26,680 --> 00:48:31,560
+at the late stages of autophagy and what you're seeing is you're measuring a backlog that's right
+
+522
+00:48:31,560 --> 00:48:37,800
+so it's not necessarily the case that more autophagy is bad in that context it's the failure to
+
+523
+00:48:37,800 --> 00:48:42,200
+actually the through bring it through to completion and again I don't have a lot of data to support
+
+524
+00:48:42,280 --> 00:48:49,080
+this my intuition is that at least for some diseases one of the things that rapamycin does
+
+525
+00:48:49,080 --> 00:48:55,000
+and I don't really understand the molecular biology here it seems to alleviate that block
+
+526
+00:48:55,000 --> 00:48:59,400
+so you actually get productive autophagy working again and again I don't know exactly how that
+
+527
+00:48:59,400 --> 00:49:04,760
+works but that's what it seems to me is happening and so we have seen some evidence for this in
+
+528
+00:49:04,760 --> 00:49:10,520
+mitochondrial disease in the brain where if we look in the brain we can see these sort of massive
+
+529
+00:49:10,520 --> 00:49:15,640
+autophagosomes that are trying to digest mitochondria that can't do it while the disease
+
+530
+00:49:15,640 --> 00:49:21,720
+is progressing and somehow rapamycin fixes that so I think you have to be cautious in interpreting
+
+531
+00:49:21,720 --> 00:49:29,160
+an increase in autophagic markers in a disease as necessarily meaning that increased autophagy is
+
+532
+00:49:29,160 --> 00:49:33,640
+causing or contributing to that disease and it could be the case that depending on how you
+
+533
+00:49:33,640 --> 00:49:39,240
+activate autophagy it could be detrimental or it could be beneficial and so there's really two
+
+534
+00:49:39,240 --> 00:49:47,480
+different questions the first would be if you take a patient with cancer and you inhibit mTOR
+
+535
+00:49:48,760 --> 00:49:57,640
+is it not helpful because the tumor has already evolved so much to be outside of mTOR's purview
+
+536
+00:49:58,840 --> 00:50:04,680
+or is it it's actually harmful and that's of course separate from the option that could be helpful
+
+537
+00:50:04,680 --> 00:50:13,560
+right so my understanding of the clinical and the literature in humans is that for most cancers
+
+538
+00:50:14,200 --> 00:50:20,280
+once it's reached the point of diagnosis that rapamycin is disappointing in its effectiveness
+
+539
+00:50:20,280 --> 00:50:25,000
+it's not particularly effective that's not true for all cancers but for most cancers it has not
+
+540
+00:50:25,000 --> 00:50:30,600
+been as effective as you might expect given that we know that activation of mTOR is common
+
+541
+00:50:31,560 --> 00:50:37,400
+when you get high proliferation and then turning down mTOR should stop that. Turn off the proliferation.
+
+542
+00:50:37,400 --> 00:50:42,360
+Yeah so I think I think you're probably right that at least part of the story is that one of
+
+543
+00:50:42,360 --> 00:50:49,720
+the steps in the progression to cancer is evolving to ignore the break of turning down mTOR
+
+544
+00:50:49,720 --> 00:50:54,760
+so rapamycin may not be effective there. I think it's a complicated system though because the
+
+545
+00:50:54,840 --> 00:51:00,440
+effects of rapamycin on the immune system could have beneficial effects in terms of cancer or
+
+546
+00:51:00,440 --> 00:51:05,560
+detrimental effects so we know that immune surveillance is probably the most important
+
+547
+00:51:05,560 --> 00:51:10,200
+anti-cancer mechanism or certainly one of the most important anti-cancer mechanisms and we know that
+
+548
+00:51:10,200 --> 00:51:15,560
+immune function goes down with age that's probably one of the reasons why most cancers are age related
+
+549
+00:51:15,560 --> 00:51:21,480
+so if you can boost age-related immune function with rapamycin enhance immune surveillance that's
+
+550
+00:51:21,480 --> 00:51:27,560
+going to have a potent anti-cancer mechanism and again this is my guess my guess is that's why we
+
+551
+00:51:27,560 --> 00:51:37,640
+see in the studies in mice that cancers are pushed back during aging by rapamycin. On the other hand
+
+552
+00:51:37,640 --> 00:51:42,520
+if the dose of rapamycin is high enough that you're actually inhibiting immune function that
+
+553
+00:51:42,520 --> 00:51:48,200
+could be that could promote cancers and there's not a lot of data yet so we did one study in my
+
+554
+00:51:48,200 --> 00:51:52,680
+lab where we gave mice I think it's the highest dose that's ever been given in the context of an
+
+555
+00:51:52,680 --> 00:51:57,960
+aging study this was a daily injection of eight milligrams per kilogram so as we call it the party
+
+556
+00:51:57,960 --> 00:52:03,640
+dose yeah right right and so this was a study where we only gave the mice rapamycin for three
+
+557
+00:52:03,640 --> 00:52:09,080
+months so this was from 20 to 23 months and then we stopped the treatment and what was interesting
+
+558
+00:52:09,080 --> 00:52:14,920
+there was we got completely different effects in male mice versus female mice the male mice
+
+559
+00:52:15,000 --> 00:52:21,400
+lived 60% longer after the end of treatment they had better muscle function they got less cancer
+
+560
+00:52:21,400 --> 00:52:28,040
+the female mice had no difference in lifespan the mice that got rapamycin or didn't get rapamycin
+
+561
+00:52:28,040 --> 00:52:34,040
+but they died with I want to say from but it's hard to say for sure what a mouse dies from they
+
+562
+00:52:34,040 --> 00:52:38,680
+died with very different types of cancers so the female mice that had gotten this high dose of
+
+563
+00:52:38,680 --> 00:52:46,760
+rapamycin for three months all had aggressive hematopoietic cancers whereas about I think it
+
+564
+00:52:46,760 --> 00:52:52,200
+was about 30 or 40 percent of the vehicle treated mice so in black six that's not an uncommon cancer
+
+565
+00:52:52,200 --> 00:52:59,160
+to get but none of the rapamycin treated mice had non-hematopoietic cancers whereas like 60 percent
+
+566
+00:52:59,160 --> 00:53:03,480
+of the mice that didn't get rapamycin now the 2009 study that kicked all this off actually showed a
+
+567
+00:53:03,480 --> 00:53:08,440
+greater survival benefit in the female mice didn't it that's right so I think and again this is a guess
+
+568
+00:53:08,440 --> 00:53:13,640
+because I don't actually have the data to back it up my guess is that because we pushed the dose so
+
+569
+00:53:13,640 --> 00:53:20,200
+high we might have actually taken it too far in the female so one school of thought is that female
+
+570
+00:53:20,200 --> 00:53:25,240
+mice at least we don't know if this is true in any other organism female mice are more sensitive to
+
+571
+00:53:25,240 --> 00:53:31,960
+rapamycin and that could either be that they don't clear the drug as quickly or that for whatever
+
+572
+00:53:31,960 --> 00:53:38,840
+reason in female mice the same amount of rapamycin has a greater mTOR inhibitory effect but that's
+
+573
+00:53:38,840 --> 00:53:43,240
+one school of thought and I kind of think that's right so at lower doses of the drug you see a
+
+574
+00:53:43,240 --> 00:53:47,560
+bigger lifespan benefit in females than in males did you repeat that experiment at like four
+
+575
+00:53:47,560 --> 00:53:52,600
+megs per gig or something different we haven't we haven't we should so we did do we just need an
+
+576
+00:53:52,600 --> 00:53:56,920
+infinite pool of money I agree to do all of these like just to answer all these questions
+
+577
+00:53:56,920 --> 00:54:00,120
+figure out the most important questions yeah and I think the dose response is really important
+
+578
+00:54:00,200 --> 00:54:05,480
+we did do a lower dose for three months as well and there we saw increases in lifespan in both
+
+579
+00:54:05,480 --> 00:54:10,520
+males and females roughly the same magnitude so it was that dose was nine times higher than what
+
+580
+00:54:10,520 --> 00:54:16,200
+the ITP tested wow so one of the things that's interesting though is as you go higher in dose
+
+581
+00:54:16,200 --> 00:54:21,400
+so three times higher than what they originally tested the females still live a little bit longer
+
+582
+00:54:21,400 --> 00:54:26,680
+but the difference between males and females the gap has closed quite a bit so I think that females
+
+583
+00:54:26,680 --> 00:54:31,880
+for whatever reason at a given concentration of rapamycin are just more affected by that
+
+584
+00:54:31,880 --> 00:54:38,120
+amount of the drug and I think what we did in our high dose study is we just pushed it a little too
+
+585
+00:54:38,120 --> 00:54:44,600
+far we pushed it to the point where rapamycin did something probably to the immune system
+
+586
+00:54:44,600 --> 00:54:51,000
+that that allowed these immune cancers to to escape surveillance or become hyperproliferative and again
+
+587
+00:54:51,000 --> 00:54:55,880
+I'm not I'm not a cancer biologist I'm not an immunologist so I don't I don't have a good
+
+588
+00:54:55,880 --> 00:55:00,120
+feel for what the mechanism is I can tell you what the observation is and that's that all of
+
+589
+00:55:00,120 --> 00:55:06,200
+those animals had aggressive hematopoietic cancers when they got this three months of rapamycin
+
+590
+00:55:06,200 --> 00:55:11,240
+just out of curiosity more B cell or T cell do you recall I don't recall it's in the paper
+
+591
+00:55:11,240 --> 00:55:14,200
+we could look it up because there's an opportunity here to do the reverse right I mean there's an
+
+592
+00:55:14,200 --> 00:55:18,840
+opportunity to take right now we're seeing just an unbelievable amount of activity in adoptive cell
+
+593
+00:55:18,840 --> 00:55:23,720
+therapy and or even when you just talk about like checkpoint inhibitors and things like that like
+
+594
+00:55:23,800 --> 00:55:27,640
+it makes you wonder are there ways to make these things better maybe the checkpoint's the wrong
+
+595
+00:55:27,640 --> 00:55:31,560
+example because you might get more autoimmunity but but certainly when you talk about adoptive
+
+596
+00:55:31,560 --> 00:55:39,160
+cell therapy anything that could boost either you know cda function or inhibit the regs or something
+
+597
+00:55:39,160 --> 00:55:44,600
+there might be ways like it almost makes you wonder if using rapamycin in a different manner
+
+598
+00:55:44,600 --> 00:55:49,160
+in combination with immune-based therapy right might make more sense yeah no I think there's
+
+599
+00:55:49,160 --> 00:55:53,480
+a lot that could be done there for sure part of the reason why we haven't explored this
+
+600
+00:55:53,480 --> 00:55:57,560
+in more detail of one reason is again as I said I'm not a cancer biologist so it's not that's not
+
+601
+00:55:57,560 --> 00:56:00,920
+the thing I'm most interested in I think it's really interesting biology but it's not the thing
+
+602
+00:56:00,920 --> 00:56:06,840
+I'm most interested in but I also feel like because the dose that we gave was so high that again
+
+603
+00:56:06,840 --> 00:56:13,480
+thinking translationally about rapamycin as as a drug in the context of aging my feeling is that
+
+604
+00:56:13,480 --> 00:56:19,640
+what we've uncovered here is not going to be relevant at the doses that we would think about
+
+605
+00:56:19,640 --> 00:56:24,360
+giving to you yeah yeah yeah so that's why I haven't really spent a lot of my time trying to
+
+606
+00:56:24,360 --> 00:56:29,240
+figure out what's going on there but I think certainly in the context of cancer immune
+
+607
+00:56:29,240 --> 00:56:35,640
+therapies I think we do need to think a little bit more about how effective those kinds of therapies
+
+608
+00:56:35,640 --> 00:56:42,600
+are going to be in the elderly and maybe something like rapamycin could help could actually enhance
+
+609
+00:56:42,600 --> 00:56:47,800
+the ability of those I mean this question you posed when when David Sabatini Tim Farris and
+
+610
+00:56:47,800 --> 00:56:52,920
+Nav Chindel and I were in Easter Island a year ago over a year ago this might have been our
+
+611
+00:56:52,920 --> 00:57:00,760
+favorite meal time discussion which is what best explains the increase in cancer incidence with age
+
+612
+00:57:01,320 --> 00:57:06,120
+being in other words what would the primary driver be the reduction in immune surveillance
+
+613
+00:57:06,120 --> 00:57:12,440
+or the length of time to accumulate mutations or the frequency of mutations like I mean yeah it's
+
+614
+00:57:12,440 --> 00:57:16,440
+not an obvious answer and I don't think it has to be just one no it's almost all those things are
+
+615
+00:57:16,600 --> 00:57:22,520
+working together yeah yeah I certainly over the last few years have come to think that the decline
+
+616
+00:57:22,520 --> 00:57:27,880
+in immune function is it's certainly more important than I had initially thought that that's my I mean
+
+617
+00:57:27,880 --> 00:57:32,280
+I secretly want that to be the biggest driver because I think we have a better chance to control
+
+618
+00:57:32,280 --> 00:57:36,600
+that yeah than some of the other ones and I think it probably is that would be my guess and I and
+
+619
+00:57:36,600 --> 00:57:42,280
+I also think it kind of makes sense that if you have an immune system that's functioning the way
+
+620
+00:57:42,280 --> 00:57:47,480
+it's supposed to you can actually deal with the mutation accumulation because your immune system
+
+621
+00:57:47,480 --> 00:57:55,160
+is going to clear those before they become yeah problems so now let's go back to the anti-aging
+
+622
+00:57:55,160 --> 00:58:03,720
+thesis right which is we're going to take healthy dogs eventually healthy people we want to reduce
+
+623
+00:58:03,720 --> 00:58:08,280
+the rate of decline is probably the best way to think about it right so we have a deterioration
+
+624
+00:58:08,920 --> 00:58:13,080
+in organ function okay all right one of the things that's been surprising to me again over
+
+625
+00:58:13,080 --> 00:58:19,480
+the last few years is the different ways that rapamycin not only seems to delay the decline
+
+626
+00:58:19,480 --> 00:58:27,080
+but it seems to make things better there clearly seems to be in at least some organs a rejuvenating
+
+627
+00:58:27,080 --> 00:58:31,560
+function and I suspect that's mostly stem cell mediated but again the mechanisms haven't been
+
+628
+00:58:31,560 --> 00:58:35,720
+worked out yet so we've already talked about immune function you can take an old immune system and
+
+629
+00:58:35,720 --> 00:58:40,040
+make it work more like a young immune system we've talked about cardiac function you can take an old
+
+630
+00:58:40,040 --> 00:58:44,920
+heart you make it work more like a young heart there's some evidence from David's lab that
+
+631
+00:58:44,920 --> 00:58:51,080
+intestinal stem cells okay can be rejuvenated by rapamycin we've recently published that alveolar
+
+632
+00:58:51,080 --> 00:58:56,520
+bone levels so in the mouth the bone around the teeth can be rejuvenated back to a more youthful
+
+633
+00:58:56,520 --> 00:59:03,160
+level by short-term treatment with rapamycin so there are now multiple different places in the
+
+634
+00:59:03,160 --> 00:59:09,560
+body at least in mice where you actually see functional improvements back to a more youthful
+
+635
+00:59:09,560 --> 00:59:14,840
+state and so I don't think rapamycin is going to do that for everything but at least for tissues
+
+636
+00:59:14,840 --> 00:59:21,880
+and organs where stem cell senescence plays a big role I suspect that rapamycin can have not just
+
+637
+00:59:21,880 --> 00:59:27,480
+an effect on delaying declines but actually bring things partially back towards a more youthful
+
+638
+00:59:27,480 --> 00:59:32,040
+functional state what's the best available evidence for that centrally in the cns
+
+639
+00:59:33,160 --> 00:59:41,080
+that's a good question so there are studies on cognitive function in mice showing that that you
+
+640
+00:59:41,080 --> 00:59:47,720
+can improve cognitive function in aged animals I believe at least one of those started the
+
+641
+00:59:47,720 --> 00:59:53,720
+treatment late in life and saw improvements in cognitive function and then in all of the major
+
+642
+00:59:53,720 --> 00:59:58,840
+alzheimer's disease mouse models you can the literature is a little bit mixed there's at least
+
+643
+00:59:58,840 --> 01:00:04,520
+evidence that you can wait until the pathology of the disease is set in you see the a beta
+
+644
+01:00:04,520 --> 01:00:08,360
+accumulated you see the functional deficits in terms of cognitive function you can start
+
+645
+01:00:08,360 --> 01:00:13,800
+the treatment and you can improve things and on post-mortem are you seeing an actual reduction
+
+646
+01:00:14,360 --> 01:00:19,880
+again yeah you are so I mean we haven't done this this is the work of several other labs in the ad
+
+647
+01:00:19,880 --> 01:00:25,160
+area yes so again the data is a little bit mixed so there are a couple of papers out there where
+
+648
+01:00:25,160 --> 01:00:30,680
+they they see that you can get really robust benefits if you start rapamycin treatment early
+
+649
+01:00:30,680 --> 01:00:35,880
+but they didn't see benefits in the ad models when you started late and then there are studies that
+
+650
+01:00:35,880 --> 01:00:42,040
+that did see declines in aggregation increased autophagy and functional improvements even when
+
+651
+01:00:42,040 --> 01:00:47,560
+you start like staggering if you could take an animal and ultimately of course a human who's
+
+652
+01:00:47,560 --> 01:00:54,280
+already accumulating ab and tau yeah and even just halting that is a big deal there's one drug
+
+653
+01:00:54,280 --> 01:00:59,240
+right in you know the yeah you're now you're going right into my biggest pet peeve right now
+
+654
+01:00:59,240 --> 01:01:04,360
+which is why there hasn't been or isn't a current rapamycin trial for alzheimer's disease but I
+
+655
+01:01:04,360 --> 01:01:09,080
+think you're right and I and again three years ago if somebody had asked me will rapamycin is it
+
+656
+01:01:09,080 --> 01:01:13,720
+likely to have any benefit in somebody who's been diagnosed with ad I would have probably said no
+
+657
+01:01:13,720 --> 01:01:19,560
+I come around to thinking that there's at least a reasonable chance that it cannot just halt
+
+658
+01:01:20,360 --> 01:01:24,920
+progression but it could actually make well especially if you you know one of our colleagues
+
+659
+01:01:24,920 --> 01:01:29,800
+is a neurologist here named Richard Isaacson and he runs the largest alzheimer's prevention clinic
+
+660
+01:01:29,800 --> 01:01:34,280
+in the country at Cornell you know Richard's thesis which I think makes a ton of sense is
+
+661
+01:01:35,000 --> 01:01:39,240
+again I think other people share this view is you want to catch people while they just have the
+
+662
+01:01:39,240 --> 01:01:43,640
+first signs of mild cognitive impairment sure absolutely and your ability to actually impact
+
+663
+01:01:43,640 --> 01:01:49,720
+them is enormous and and so the question is why aren't those people being considered for clinical
+
+664
+01:01:49,720 --> 01:01:54,360
+trials when we all already know that these other agents aren't really doing anything right yeah I
+
+665
+01:01:54,360 --> 01:02:00,600
+agree I think that if I was going to design a clinical trial for alzheimer's disease or dementia
+
+666
+01:02:00,600 --> 01:02:06,120
+with rapamycin that I thought had the best chance of success that would be the target population
+
+667
+01:02:06,120 --> 01:02:11,960
+those trials are harder to do in some ways because they're longer right and not everybody moves from
+
+668
+01:02:11,960 --> 01:02:18,760
+MCI to to full-blown AD at the same rate and we don't have at least my understanding is we still
+
+669
+01:02:18,760 --> 01:02:23,880
+really don't have great predictive biomarkers of how fast that's going to happen in an individual
+
+670
+01:02:23,880 --> 01:02:27,720
+but that would be the that would be the study that would have the best chance of working
+
+671
+01:02:27,720 --> 01:02:34,200
+having said that I still think there's a decent chance in somebody who's you know already gotten
+
+672
+01:02:34,200 --> 01:02:40,040
+to the point where where they will be diagnosed as having alzheimer's disease serious functional
+
+673
+01:02:40,040 --> 01:02:45,400
+deficits there's a chance that rapamycin could make things better now I get the practical reasons
+
+674
+01:02:45,400 --> 01:02:50,440
+for why people don't want to try a risky clinical trial it's expensive if you fail you know your
+
+675
+01:02:50,440 --> 01:02:55,560
+then your drug gets a bad reputation all of that so I understand why people are hesitant to do that
+
+676
+01:02:55,560 --> 01:02:59,800
+trial I think there's actually a pretty good chance it would especially if you can combine it I mean
+
+677
+01:02:59,800 --> 01:03:05,720
+I think you know Richard often talks about and and others do as well that one of our failures in
+
+678
+01:03:05,720 --> 01:03:11,320
+Alzheimer's is we consider it a single disease I agree it's as naive as saying John has cancer oh
+
+679
+01:03:11,320 --> 01:03:15,720
+well gosh that's the end of his life well don't you want to know what kind of cancer first or maybe
+
+680
+01:03:15,720 --> 01:03:20,040
+what mutation so similarly but broadly speaking and this is a gross oversimplification if you
+
+681
+01:03:20,040 --> 01:03:25,320
+consider the metabolic version of Alzheimer's disease the vascular version of Alzheimer's
+
+682
+01:03:25,320 --> 01:03:31,080
+disease and then the sort of toxin clearance impaired version of the disease to me I'm
+
+683
+01:03:31,080 --> 01:03:36,520
+generally most optimistic about the metabolic one so the variant of this disease that seems to be
+
+684
+01:03:36,520 --> 01:03:42,200
+mostly due to a failure of energy metabolism in the brain that also strikes me as the one that's
+
+685
+01:03:42,200 --> 01:03:48,840
+most amenable to certain systemic therapies as well right if you improve insulin sensitivity
+
+686
+01:03:48,840 --> 01:03:53,880
+if you improve glucose disposal if you reduce hypercordicillemia if you you can actually through
+
+687
+01:03:53,880 --> 01:03:59,960
+nutrition exercise sleep a number of other things start to modulate that that strikes me as the one
+
+688
+01:04:00,040 --> 01:04:03,640
+where you want to at least take your first shot at adding Rapa I think you're probably right
+
+689
+01:04:03,640 --> 01:04:08,840
+although again with Rapa mycen because we know that it is effective at for example turning up
+
+690
+01:04:08,840 --> 01:04:13,480
+autophagy it might also be it might work in the harder ones yeah that's a harder but I agree I
+
+691
+01:04:13,480 --> 01:04:18,360
+tend to agree with you I think that's a good point I also want to add that I actually think the
+
+692
+01:04:18,360 --> 01:04:23,560
+biggest problem with the way that the scientific community has thought about Alzheimer's disease
+
+693
+01:04:23,560 --> 01:04:31,000
+aside from considering it to be one disease is not really recognizing that it's a disease of aging
+
+694
+01:04:31,000 --> 01:04:38,360
+I really think that one of the reasons why the preclinical research has been disappointing at
+
+695
+01:04:38,360 --> 01:04:44,280
+developing therapies for Alzheimer's disease is because very rarely have people approach that
+
+696
+01:04:45,160 --> 01:04:51,560
+from the perspective that this is a disease of aging and so something that can affect the mouse
+
+697
+01:04:51,560 --> 01:04:58,200
+models of Alzheimer's disease when we create this disease in young mice may not work the same way in
+
+698
+01:04:58,200 --> 01:05:03,160
+in an in an aged person or an aged animal and that's one of the things that also makes me
+
+699
+01:05:03,160 --> 01:05:09,640
+optimistic about Rapa mycen is we already know that it hits the hallmarks of aging and it also
+
+700
+01:05:09,640 --> 01:05:15,400
+seems to be effective in these Alzheimer's disease models so that makes me think that it's acting at
+
+701
+01:05:15,400 --> 01:05:20,920
+a sort of a more fundamental level to target the molecular causes of this disease well especially
+
+702
+01:05:20,920 --> 01:05:27,320
+look I mean if you can regenerate a cardiac myocyte from its stem cell it's not an impossible
+
+703
+01:05:27,320 --> 01:05:32,040
+thought that you could regenerate neurologic stem cells absolutely and this is again an area which
+
+704
+01:05:32,040 --> 01:05:35,640
+which I mean 20 years ago we would have said that's impossible it's metaphysically impossible
+
+705
+01:05:35,640 --> 01:05:40,520
+right going back to the dogs for a moment I again I'm not familiar with dog literature
+
+706
+01:05:40,520 --> 01:05:46,440
+what is the fasting literature look like in dogs there's not a lot that I'm aware of either and I
+
+707
+01:05:46,440 --> 01:05:51,080
+think that kind of makes sense so you know first of all you have to differentiate the literature
+
+708
+01:05:51,080 --> 01:05:57,880
+in laboratory colonies from companion companion dogs there's probably not much in companion dogs
+
+709
+01:05:57,880 --> 01:06:06,440
+I don't know of true fasting experiments in like beetle so we can't use like the fasted versions as
+
+710
+01:06:07,080 --> 01:06:12,600
+proxies for what we would hope to see on the Rapa dogs which is the way they sort of did it in mice
+
+711
+01:06:12,680 --> 01:06:16,920
+right they sort of said well you know we know that if you calorically restrict this mouse
+
+712
+01:06:16,920 --> 01:06:20,760
+this strain of mouse under this degree of caloric restriction can expect as much of a longevity
+
+713
+01:06:20,760 --> 01:06:26,440
+boost and oh lo and behold rapamycin is probably even better than that right although from a
+
+714
+01:06:26,440 --> 01:06:31,640
+metabolic perspective I think it's still unclear even in mice whether rapamycin and caloric
+
+715
+01:06:31,640 --> 01:06:37,240
+restriction are working through the same mechanism and this is this is this is actually another area
+
+716
+01:06:37,240 --> 01:06:43,560
+where there haven't been a lot of good experiments done so there's a portion of the field that argues
+
+717
+01:06:43,560 --> 01:06:48,040
+strongly that that caloric restriction and rapamycin are completely different which to my
+
+718
+01:06:48,040 --> 01:06:53,960
+mind is absurd I mean we know that one of the main things that caloric restriction does is it
+
+719
+01:06:53,960 --> 01:06:58,040
+inhibits mTOR right and we know that rapamycin inhibits mTOR so they're not fundamentally
+
+720
+01:06:58,040 --> 01:07:03,000
+different so I think they are overlapping but distinct not everything that caloric restriction
+
+721
+01:07:03,000 --> 01:07:08,680
+does is going to be mimicked by rapamycin and vice versa having said that when you look at the gene
+
+722
+01:07:08,680 --> 01:07:14,920
+expression profile or the metabolic profile they don't look all that similar at least at the low
+
+723
+01:07:14,920 --> 01:07:20,120
+doses of rapamycin and so I think it's it's a little bit unclear you're right lifespan they both
+
+724
+01:07:20,120 --> 01:07:26,440
+extend lifespan rapamycin might actually extend lifespan across a broader genetic background
+
+725
+01:07:26,440 --> 01:07:30,600
+than caloric restriction but when you get beyond that I think it's still an unknown whether there
+
+726
+01:07:30,600 --> 01:07:35,640
+are you know say are there metabolic signatures that are common to both that might therefore be
+
+727
+01:07:35,640 --> 01:07:39,560
+more likely to be causal I think I think we don't know the answer so another what you're really
+
+728
+01:07:39,560 --> 01:07:45,160
+getting at is probably the next thought I had subconsciously which is could we use calorically
+
+729
+01:07:45,160 --> 01:07:51,400
+restricted animals to develop a metabolic signature as the gold standard for how we would then
+
+730
+01:07:51,400 --> 01:07:56,600
+titrate rapamycin both in dose and frequency I don't know of any evidence to support that
+
+731
+01:07:56,760 --> 01:08:01,480
+would be a stretch yeah I mean it might be possible but there just isn't much good data out there at
+
+732
+01:08:01,480 --> 01:08:07,880
+this point I do feel like if we want to put the resources into trying to identify predictive
+
+733
+01:08:07,880 --> 01:08:13,400
+signatures which I absolutely think we should do I think the the metabolome is probably the place to
+
+734
+01:08:13,400 --> 01:08:18,920
+to go and the serum metabolome makes a lot of sense so that would be where I would look
+
+735
+01:08:18,920 --> 01:08:25,080
+nobody's really done it well part of the problem is the data that's out there for rapamycin is again
+
+736
+01:08:25,080 --> 01:08:30,840
+all at that very low dose that the ITP tested originally we know that suboptimal for lifespan
+
+737
+01:08:30,840 --> 01:08:36,360
+it's quite likely that the effects that the lowest dose of rapamycin are having on metabolism
+
+738
+01:08:36,360 --> 01:08:41,400
+are going to be relatively modest compared to higher doses so you the changes might be there
+
+739
+01:08:41,400 --> 01:08:46,600
+but they might be so subtle that you're not going to detect them in a sort of high throughput
+
+740
+01:08:46,600 --> 01:08:51,080
+screening approach so so I think there's a lot we don't know but that would be where I would
+
+741
+01:08:51,800 --> 01:08:58,440
+put my effort in trying to identify serum metabolomic signature yep of rapamycin that
+
+742
+01:08:58,440 --> 01:09:03,640
+we could then correlate with the effects on function in a variety of different tissues as
+
+743
+01:09:03,640 --> 01:09:07,640
+well as life yeah because I mean I think as wonderful as it would be to just wave magic
+
+744
+01:09:07,640 --> 01:09:11,160
+ones and have biopsies of tissue it's just not going to be I mean we're not going to take
+
+745
+01:09:11,160 --> 01:09:16,520
+cardiac biopsies yeah right so you if you're looking for predictive signatures you can do
+
+746
+01:09:16,520 --> 01:09:20,840
+those experiments initially in mice but you really have to think about is this something
+
+747
+01:09:20,840 --> 01:09:26,200
+that's reasonable to do in a person or a dog and have you looked at the gut biome and the
+
+748
+01:09:26,200 --> 01:09:31,560
+dog at all a little bit so so we did a study in mice this was that that study I referred to
+
+749
+01:09:31,560 --> 01:09:35,640
+previously where we treated them for three months with either the high high dose or the the high but
+
+750
+01:09:35,640 --> 01:09:41,560
+not as high dose yeah and we did look at the fecal microbiome and we saw quite dramatic changes
+
+751
+01:09:41,560 --> 01:09:47,640
+there some of which are interesting and so that's that's an area that we would love to pursue I've
+
+752
+01:09:47,640 --> 01:09:52,040
+tried to get a grant to do that and so far haven't been successful through NIH but it hasn't been
+
+753
+01:09:52,040 --> 01:09:57,080
+done in dogs yet has not been done in dogs so we have a little bit of preliminary data from our
+
+754
+01:09:57,080 --> 01:10:02,440
+phase one study and we're seeing changes in the microbiome there as well so far the data that
+
+755
+01:10:02,440 --> 01:10:07,960
+we've got in dogs is not the sort of comprehensive metagenomic approach where we sequence everything
+
+756
+01:10:07,960 --> 01:10:12,120
+that's there it's more of a standard veterinary approach where they they have sort of broad
+
+757
+01:10:12,120 --> 01:10:17,000
+classifications of different types of microbes and there are definitely changes with rapamycin
+
+758
+01:10:17,000 --> 01:10:24,280
+it looks it's very early but it looks as though at least in dogs that have a a bad microbiome a
+
+759
+01:10:24,280 --> 01:10:29,800
+dysbiosis in their microbiome which can be defined clinically from this test there were two dogs that
+
+760
+01:10:29,800 --> 01:10:35,080
+we've looked at that started out with a bad microbiome they were in the rapamycin group
+
+761
+01:10:35,080 --> 01:10:39,720
+they were better by the end of the study obviously don't know if that's meaningful or not so so there
+
+762
+01:10:39,720 --> 01:10:44,920
+are changes in the dogs but it's really too early for us to know whether they look like the mice
+
+763
+01:10:44,920 --> 01:10:50,040
+and or whether that is going to either be predictive or potentially play a role in some
+
+764
+01:10:50,040 --> 01:10:55,160
+of the effects of rapamycin it is definitely the case though in both dogs and mice and i'm sure
+
+765
+01:10:55,160 --> 01:11:01,320
+this will be true in people as well that rapamycin has a large effect on the composition of the gut
+
+766
+01:11:01,320 --> 01:11:06,760
+microbiome i suspect that will also be true for other compartments in the body like the oral
+
+767
+01:11:06,760 --> 01:11:11,400
+microbiome maybe even the skin microbiome nobody's looked yet so that there's a lot to be done there
+
+768
+01:11:11,400 --> 01:11:15,800
+i also don't necessarily think that's going to be unique to rapamycin i think that lots of drugs
+
+769
+01:11:15,800 --> 01:11:19,960
+that we take yeah food will change that and absolutely diet and it's not clear if that's the
+
+770
+01:11:19,960 --> 01:11:24,280
+effect or the cause of it yeah so one of the reasons why i think that there's reason to think
+
+771
+01:11:24,280 --> 01:11:27,720
+that at least some of the changes in the microbiome could be causal for some of the effects of
+
+772
+01:11:27,720 --> 01:11:35,240
+rapamycin is that one of the things we saw in our mouse study was a pretty profound increase in a
+
+773
+01:11:35,880 --> 01:11:42,680
+bacterium called segmented filamentous bacteria or sfb in the rapamycin treated mice it turns out
+
+774
+01:11:42,680 --> 01:11:49,880
+if you look in the literature there are links between sfb and diabetes and obesity and also
+
+775
+01:11:49,880 --> 01:11:57,160
+between sfb and t helper cell maturation so it could be the the case that changes that rapamycin
+
+776
+01:11:57,160 --> 01:12:03,800
+is having on this specific bacterium as well as other bacteria are then having effects both on
+
+777
+01:12:03,800 --> 01:12:10,360
+potentially nutrient utilization and uptake but also direct effects on say immune function i mean
+
+778
+01:12:10,360 --> 01:12:17,400
+the intestine is an important immune compartment the bacteria are physically right there these sfb
+
+779
+01:12:17,400 --> 01:12:23,160
+actually form filaments directly associated with the intestinal cells so it certainly could be the
+
+780
+01:12:23,160 --> 01:12:29,320
+case that there are signals being sent back and forth that rapamycin is modifying by through
+
+781
+01:12:29,320 --> 01:12:33,640
+modification of the composition of the microbiome and that that's affecting immune function
+
+782
+01:12:33,640 --> 01:12:38,040
+adiposity all sorts of different possibilities so like i said that's something we're really
+
+783
+01:12:38,040 --> 01:12:41,720
+interested in in testing so there's like an infinite number of things i want to know right
+
+784
+01:12:41,720 --> 01:12:46,520
+yeah there's this company out there that's looking at duodenal ablation to ameliorate diabetes and
+
+785
+01:12:46,520 --> 01:12:50,280
+the data are actually really interesting so interesting in fact that when i first saw them
+
+786
+01:12:50,280 --> 01:12:54,360
+i thought this has got to be nonsense what's not clear is the durability and the economics of it
+
+787
+01:12:54,600 --> 01:13:00,520
+just from a scientific standpoint they're doing these ablations of the duodenal mucosa and they're
+
+788
+01:13:00,520 --> 01:13:06,200
+seeing like immediate step function changes in insulin sensitivity arguing in fact that this
+
+789
+01:13:06,200 --> 01:13:11,400
+may be the mechanism by which the rue and y gastric bypass is ameliorating type 2 diabetes
+
+790
+01:13:11,400 --> 01:13:17,160
+it's basically taking this dysfunctional duodenum out of the loop and just saying we're going
+
+791
+01:13:17,160 --> 01:13:21,160
+jejunum to jejunum or you know stomach to jejunum to jejunum basically it's really
+
+792
+01:13:21,160 --> 01:13:25,640
+interesting so this is another area that i've gotten interested in and and we haven't really
+
+793
+01:13:25,640 --> 01:13:32,120
+dove into it yet much but i i think there is there's clearly uh literature growing in
+
+794
+01:13:32,760 --> 01:13:40,040
+all of the model organisms that with aging there is a decline in intestinal barrier function
+
+795
+01:13:40,040 --> 01:13:45,800
+and that at least in flies that seems to be causal for death so in other words it's strongly
+
+796
+01:13:45,800 --> 01:13:51,240
+correlated and there are ways every way that extends lifespan also seems to improve this
+
+797
+01:13:51,240 --> 01:13:56,440
+intestinal barrier dysfunction and i've been thinking and we have again a little bit of data
+
+798
+01:13:56,440 --> 01:14:01,000
+suggesting that rapamycin might actually have an effect on this age-related decline in intestinal
+
+799
+01:14:01,000 --> 01:14:05,960
+barrier function and why would a loss of intestinal barrier function be important well i mean one thing
+
+800
+01:14:05,960 --> 01:14:14,200
+that happens we know this happens is that you tend to see an increased level of microbial proteins
+
+801
+01:14:14,200 --> 01:14:21,960
+and dna in the circulatory system with age that causes a inflammatory response that may contribute
+
+802
+01:14:21,960 --> 01:14:27,960
+to the sort of systemic increase in inflammation that we see during aging so the loss of intestinal
+
+803
+01:14:27,960 --> 01:14:34,200
+barrier function may actually drive to some extent the inflammaging the increase in inflammation with
+
+804
+01:14:34,200 --> 01:14:39,160
+aging or at least contribute to it and so anything that you can do that is going to improve that
+
+805
+01:14:39,880 --> 01:14:44,360
+will potentially have an effect on systemic inflammation and that again could be another way
+
+806
+01:14:44,360 --> 01:14:51,800
+that rapamycin is sort of impacting the entire body in addition to the effects of rapamycin when
+
+807
+01:14:51,800 --> 01:14:56,520
+it gets to a cell and inhibits emitter in that cell and whether that's through changes in the
+
+808
+01:14:56,520 --> 01:15:01,960
+microbiome you know or changes in intestinal stem cell like zavatini has shown right there's lots of
+
+809
+01:15:01,960 --> 01:15:07,240
+possible ways that it could be working but i do believe that this decline in intestinal barrier
+
+810
+01:15:07,240 --> 01:15:13,320
+function with age probably is contributing to this sort of increase in in systemic inflammation
+
+811
+01:15:13,320 --> 01:15:17,960
+that we see during aging and there it's very clear that that happens in in people and in non-human
+
+812
+01:15:17,960 --> 01:15:23,880
+primates as well during aging now talking about people again i don't hold out much hope that
+
+813
+01:15:23,880 --> 01:15:31,720
+there's going to be an anti-aging trial in humans using rapamycin or a rapalog you know watching
+
+814
+01:15:31,720 --> 01:15:37,160
+how much difficulty it is to even try to get that study done with metformin which i mean is
+
+815
+01:15:37,160 --> 01:15:40,920
+about the most inert you know it's like you might as well just do it with drinking water right and
+
+816
+01:15:40,920 --> 01:15:45,240
+we're going to randomize you to seltzer versus flat water here so the real question is for the
+
+817
+01:15:45,240 --> 01:15:51,000
+people who want to be on the tip of the spear you're not going to have a gold-plated stamped rct
+
+818
+01:15:51,000 --> 01:15:58,760
+you're going to have to triangulate from everything else many roads point to your work and more
+
+819
+01:15:58,760 --> 01:16:04,840
+importantly what your follow-up work will look like right so again i realize that to try to secure
+
+820
+01:16:04,840 --> 01:16:12,120
+funding to do this from nih is slightly more complicated than trying to get bipartisan support
+
+821
+01:16:12,120 --> 01:16:17,960
+on health care but if we took the economics out of the equation if if there was a 10 to 20 million
+
+822
+01:16:17,960 --> 01:16:23,960
+dollar pool at the national institutes of aging said you know dr caberlin we want to we want the
+
+823
+01:16:23,960 --> 01:16:30,920
+definitive work on how to extend the life of dogs knowing that that's probably the best thing
+
+824
+01:16:30,920 --> 01:16:35,800
+we're going to get right towards humans what do those experiments look like right so so the study
+
+825
+01:16:35,800 --> 01:16:43,400
+that we want to do is a five-year study with rapamycin and and certainly this is scalable
+
+826
+01:16:43,400 --> 01:16:49,400
+right so so what we have designed is a study with rapamycin there are other interventions
+
+827
+01:16:49,400 --> 01:16:54,040
+coming down the pipeline that i think have the potential to be as effective as rapamycin so this
+
+828
+01:16:54,040 --> 01:16:59,960
+doesn't necessarily as long as you can do it safely in pet dogs yeah you can test any intervention
+
+829
+01:16:59,960 --> 01:17:05,960
+and one of the things that i am now convinced is owners are enthusiastic about participating in
+
+830
+01:17:05,960 --> 01:17:10,120
+these kinds of studies we've had more than 6 000 people sign up through our website with no
+
+831
+01:17:10,120 --> 01:17:14,840
+advertising at all to participate in the rapamycin trial in human clinical trials which i'm more
+
+832
+01:17:14,840 --> 01:17:19,880
+familiar with recruiting cost is a is an enormous cost it doesn't cost anything you get free
+
+833
+01:17:19,880 --> 01:17:24,840
+recruitment right right so having said that the study we would like to do is a five-year study
+
+834
+01:17:24,840 --> 01:17:30,520
+in dogs starting treatment at middle age so again the dogs would come in you know at least
+
+835
+01:17:30,520 --> 01:17:35,160
+six years old we might push that up to seven or eight years old and they there would probably be
+
+836
+01:17:35,160 --> 01:17:41,160
+a weight limiter like i talked about before because again big dogs age faster so let's just say 40
+
+837
+01:17:41,160 --> 01:17:47,240
+pounds six years old at least six years old so there will be dogs anywhere from six to 10 or 11
+
+838
+01:17:47,240 --> 01:17:57,560
+bring in 450 500 dogs or enough dogs to get 450 all the way through the study and look at not just
+
+839
+01:17:57,560 --> 01:18:04,280
+lifespan but lifespan is actually a really important metric here right lifespan is certainly
+
+840
+01:18:04,280 --> 01:18:08,680
+still the gold standard in the aging field if we want to convince the scientific community that
+
+841
+01:18:08,680 --> 01:18:12,760
+this is affecting aging it darn well better increased lifespan yep it's also important to
+
+842
+01:18:12,760 --> 01:18:18,440
+owners for obvious reasons and i think because as we talked about euthanasia is really what most dogs
+
+843
+01:18:18,440 --> 01:18:23,000
+die from because the dog gets sick enough that the owner and the veterinarian decide that it's time
+
+844
+01:18:23,000 --> 01:18:29,480
+to put the dog down yeah i think lifespan is actually a really good metric of health span
+
+845
+01:18:29,480 --> 01:18:34,360
+in dogs because most of the time that's not an easy decision right absolutely owners are not
+
+846
+01:18:34,360 --> 01:18:38,520
+going to put their dog down usually especially owners who want to participate in a study like
+
+847
+01:18:38,520 --> 01:18:43,240
+this unless that dog is really sick so i actually think lifespan is really maybe more important in
+
+848
+01:18:43,240 --> 01:18:49,400
+dogs as an outcome measure than it is in mice so lifespan is one of the key end points that we want
+
+849
+01:18:49,400 --> 01:18:56,840
+to look at and then we want to look as broadly as we can at functional measures of aging that we
+
+850
+01:18:57,560 --> 01:19:02,360
+know are important in dogs and so this goes way back to what we were talking about before what
+
+851
+01:19:02,360 --> 01:19:07,320
+do dogs get sick with as they get older so heart function we will definitely look at in part
+
+852
+01:19:07,320 --> 01:19:12,040
+because that's what our preliminary data yeah you showed that with a handful of dogs we have good
+
+853
+01:19:12,040 --> 01:19:17,640
+evidence that we can detect and expect to detect improvements in cardiac function activity so one
+
+854
+01:19:17,640 --> 01:19:22,920
+of the nice things about dogs is you can put a gps tracker on their collar and get very quantitative
+
+855
+01:19:22,920 --> 01:19:29,560
+measures of activity as the sensor technology improves it might be feasible to use a microchip
+
+856
+01:19:29,560 --> 01:19:34,520
+instead of a gps tracker on the collar to also get some physiological or just draw a fitbit on
+
+857
+01:19:34,520 --> 01:19:38,120
+their wrist you know yeah right well i mean that's really what the trackers are right of course but
+
+858
+01:19:38,120 --> 01:19:43,080
+it would be nice to get some physiological measures in sort of continuous real time if we
+
+859
+01:19:43,080 --> 01:19:46,760
+can so far the sensor technology isn't quite there at least that's my understanding but
+
+860
+01:19:46,760 --> 01:19:52,360
+well at least get activity and that'll give us a measure both of things like arthritis so dogs
+
+861
+01:19:52,360 --> 01:19:57,960
+that have arthritis are going to be less active and also muscle function and also how how well
+
+862
+01:19:57,960 --> 01:20:02,120
+are they feeling again a dog is more likely to be active if it feels well now obviously that's
+
+863
+01:20:02,120 --> 01:20:06,040
+confounded a little bit by whether the owner takes the dog for a walk but i still think total
+
+864
+01:20:06,040 --> 01:20:10,040
+activity is an important thing and is this a three group study in your mind so the study
+
+865
+01:20:10,040 --> 01:20:15,320
+that we're designing now is three groups it doesn't have to be but the three groups are a placebo
+
+866
+01:20:15,320 --> 01:20:21,640
+group uh short term group so six month or year long treatment and then the continuous treatment
+
+867
+01:20:21,640 --> 01:20:27,640
+group the reason for doing that again comes back to the mouse data in part because we as i mentioned
+
+868
+01:20:27,640 --> 01:20:32,600
+we've published that a short term treatment in mice is enough to give you large benefits on
+
+869
+01:20:32,600 --> 01:20:38,280
+lifespan and at least some measures of health and also because again as we're thinking about
+
+870
+01:20:38,280 --> 01:20:44,840
+ultimately bringing this to people it's easier to envision a transient or
+
+871
+01:20:44,840 --> 01:20:50,600
+intermittent treatment than it is a continuous for the rest of your life sort of treatment so it'd be
+
+872
+01:20:50,600 --> 01:20:56,520
+single dosing again that's the way we have the study designed now i can see a rationale for doing
+
+873
+01:20:56,600 --> 01:21:01,960
+three months on three months off or some some variation on that we felt that the simplest
+
+874
+01:21:01,960 --> 01:21:06,920
+thing to do first so you know it's always a balance between getting as much information as
+
+875
+01:21:06,920 --> 01:21:11,720
+you can from a study like this and doing things that are going to be where the complexity isn't
+
+876
+01:21:11,720 --> 01:21:17,240
+so great that it yeah your power analysis could give you a right so the design that we're working
+
+877
+01:21:17,240 --> 01:21:23,000
+with now is uh one year on and then the rest of the time off and so those so we'll get so you'll
+
+878
+01:21:23,000 --> 01:21:27,640
+have one group that's five years on one group that's one on four off and then placebo that's
+
+879
+01:21:27,640 --> 01:21:32,840
+right blinded across the board it's all going to be a randomized double blind trial right in
+
+880
+01:21:32,840 --> 01:21:40,760
+addition to lifespan and heart function and activity will track cancer incidence probably kidney
+
+881
+01:21:40,760 --> 01:21:45,880
+function get routine blood chemistry on the dogs probably every six months we'll ask the owners
+
+882
+01:21:45,880 --> 01:21:52,680
+owners to bring their dogs in get echocardiograms collect serum for metabolomics and feces for
+
+883
+01:21:52,760 --> 01:21:58,440
+microbiome so what would that study that you just described cost if you could complete so let's say
+
+884
+01:21:58,440 --> 01:22:03,320
+you had to screen 600 dogs to complete 450 which would actually be pretty good yeah attrition so
+
+885
+01:22:03,320 --> 01:22:09,640
+it would run about five million that's about the the budget for that study some of that depends on
+
+886
+01:22:09,640 --> 01:22:15,080
+what we can ultimately get the rapamycin for so because right now it's the street values about
+
+887
+01:22:15,080 --> 01:22:21,000
+the lowest we've been able to find is about seven dollars a milligram yeah now it may be possible if
+
+888
+01:22:21,000 --> 01:22:25,320
+we have a large study that we can identify a supplier that would cut us a deal for for less
+
+889
+01:22:25,320 --> 01:22:30,920
+but and the drugs are actually a pretty large amount of the budget yeah the veterinary costs
+
+890
+01:22:30,920 --> 01:22:36,040
+are the other large expenditure again the nice thing about companion dogs it's unlike a study in
+
+891
+01:22:36,040 --> 01:22:40,840
+mice in the lab is they live with their owners we don't pay cage costs and things like that
+
+892
+01:22:40,840 --> 01:22:47,640
+the other major costs are going to be for the analysis the analysis and also we need people
+
+893
+01:22:48,360 --> 01:22:53,480
+to be able to communicate with the owners retention will be important i don't think it's
+
+894
+01:22:53,480 --> 01:22:58,920
+going to be as hard as it is for some clinical trials just based on our experience even though
+
+895
+01:22:58,920 --> 01:23:04,040
+it was a short-term trial the owners that came into the short-term trial they were extremely
+
+896
+01:23:04,040 --> 01:23:08,600
+this will be easier than communicating with patients in a trial i think so yeah and there's
+
+897
+01:23:08,600 --> 01:23:12,280
+actually i mean it's kind of funny but there's actually data that dog owners are more likely to
+
+898
+01:23:12,280 --> 01:23:16,280
+give their dog a prescription medication than they are to take their own prescription medication so
+
+899
+01:23:16,280 --> 01:23:20,280
+we would not doubt that for a second so yeah so the owners that come into this study are highly
+
+900
+01:23:20,280 --> 01:23:24,760
+motivated and some of them are extremely disappointed after the study ends when they
+
+901
+01:23:24,760 --> 01:23:29,960
+find out their dog was in the placebo group so but there is a communication component to this where
+
+902
+01:23:29,960 --> 01:23:34,120
+we have to keep the owners engaged maintain communication we'll be sending out regular
+
+903
+01:23:34,120 --> 01:23:38,520
+surveys but needs to go beyond the surveys that would these all have to be dogs that live in the
+
+904
+01:23:38,520 --> 01:23:43,640
+northwest they'd have to be able to come in in fact they almost certainly would not be so the way that
+
+905
+01:23:43,640 --> 01:23:49,400
+we're planning the study now is that we will partner with five to seven veterinary schools
+
+906
+01:23:49,400 --> 01:23:53,560
+around the united states oh that's great and that actually there's lots of reasons why that's
+
+907
+01:23:53,560 --> 01:23:58,920
+that that makes sense right but veterinary cardiologists there's there's not a huge population
+
+908
+01:23:58,920 --> 01:24:03,080
+of veterinary cardiologists out there so if we were to try and do a study like this in the seattle
+
+909
+01:24:03,080 --> 01:24:09,480
+area i don't think that we have the enough veterinary cardiologists to actually do the
+
+910
+01:24:09,480 --> 01:24:13,960
+just the cardiology part of the study so fortunately you know veterinarians are very
+
+911
+01:24:13,960 --> 01:24:19,560
+enthusiastic about participating in projects like this and we have collaborators lined up at the vet
+
+912
+01:24:19,560 --> 01:24:24,920
+schools around the country so it will probably be five or seven sites obviously all of those sites
+
+913
+01:24:24,920 --> 01:24:31,000
+have to have veterinary cardiology but almost any major veterinary school is going to have that and
+
+914
+01:24:31,000 --> 01:24:38,200
+we prefer to work with veterinary schools that are in a suburban or urban area some veterinary
+
+915
+01:24:38,200 --> 01:24:42,040
+schools like like our school in the state of washington is all the way on the other side of
+
+916
+01:24:42,040 --> 01:24:46,520
+the state from seattle it's kind of out in the middle of nowhere so that makes it harder to get
+
+917
+01:24:46,520 --> 01:24:53,160
+owners to actually bring their dogs there yeah so our lead veterinarian is at texas anm veterinary
+
+918
+01:24:53,160 --> 01:24:58,600
+college and so she would be the head clinical person on the study and that would probably be
+
+919
+01:24:58,600 --> 01:25:04,280
+the site that the other veterinary sites coordinate with yeah well matt i could sit here and have this
+
+920
+01:25:04,360 --> 01:25:08,520
+discussion for another two hours it's fun stuff to talk about it it is and i really appreciate
+
+921
+01:25:08,520 --> 01:25:12,920
+your time and your insights i think the work you're doing is certainly what i would consider
+
+922
+01:25:12,920 --> 01:25:17,720
+to be among the bodies of work that are at that tip of the spear because i i guess i don't have
+
+923
+01:25:17,720 --> 01:25:22,200
+a lot of hope we're going to get the answer to this question directly i think it's going to be
+
+924
+01:25:22,200 --> 01:25:29,880
+an indirect triangulation of of data and and i think to be able to do this in companion dogs that
+
+925
+01:25:29,880 --> 01:25:35,000
+live in our environment is going to be a really important thing so let's see if we can get that
+
+926
+01:25:35,000 --> 01:25:40,920
+study done yeah i also want to i mean i think it's also important to at least note the impact of a
+
+927
+01:25:40,920 --> 01:25:46,760
+study like this would have on public perception right i mean i think in the absence of any data
+
+928
+01:25:46,760 --> 01:25:51,400
+and then the little bit of data we got from the phase one study the amount of media attention
+
+929
+01:25:51,400 --> 01:25:56,440
+that we've got yeah i've heard you on npr talking about this with tarry gross right has been huge
+
+930
+01:25:56,440 --> 01:26:03,640
+and so i tend to agree with you that it's going to be challenging to generate enthusiasm for a
+
+931
+01:26:03,640 --> 01:26:09,080
+double blind placebo controlled clinical trial of rapamycin for healthy aging in people challenging
+
+932
+01:26:09,080 --> 01:26:14,520
+is probably not even a strong enough word but i think we do need to or we should at least not
+
+933
+01:26:14,520 --> 01:26:20,680
+underestimate the potential impact if we're successful at accomplishing this in people's pets
+
+934
+01:26:20,680 --> 01:26:26,760
+that that will have on public perception as well as perception among the broader scientific
+
+935
+01:26:26,760 --> 01:26:34,200
+community i do feel like the field of aging research still has a bit of a reputation problem
+
+936
+01:26:34,200 --> 01:26:39,880
+among the broader scientific community part of that is historical part of that is because there
+
+937
+01:26:39,880 --> 01:26:44,920
+are some fringe elements that get a lot of attention but that aren't scientifically credible
+
+938
+01:26:44,920 --> 01:26:51,400
+i think that actually being able to show in dogs living in the human environment that we can modify
+
+939
+01:26:51,400 --> 01:26:57,000
+aging will have an impact not just on the public in terms of i'm sure we'll get lots of media
+
+940
+01:26:57,000 --> 01:27:03,320
+attention but also among scientists who might actually say okay aging research has arrived i
+
+941
+01:27:03,320 --> 01:27:08,040
+think that's happening already i think the tame trial has actually been mostly a positive in that
+
+942
+01:27:08,040 --> 01:27:12,600
+sense or the proposed tame trial i should say but i think we still have some work for the listener
+
+943
+01:27:12,920 --> 01:27:18,200
+the targeting aging with metformin yeah which is i mean i support that study i think that it's
+
+944
+01:27:18,200 --> 01:27:23,720
+probably the right first study in this area because as you've already said metformin we we
+
+945
+01:27:23,720 --> 01:27:29,000
+know that it's very safe at least as far as as a drug you might consider for a study like this
+
+946
+01:27:29,000 --> 01:27:35,560
+it's very safe there's very good human data suggesting that that diabetics taking metformin
+
+947
+01:27:35,560 --> 01:27:41,400
+not only have less diabetes but they have fewer other age-related diseases so i think the human
+
+948
+01:27:41,480 --> 01:27:45,640
+data is pretty compelling the downside to metformin and i think one of the reasons why
+
+949
+01:27:46,200 --> 01:27:51,000
+it has been a struggle to get that study funded is that i think there's a perception that we
+
+950
+01:27:51,000 --> 01:27:55,800
+already know about metformin it's not going to be completely surprising given the literature that's
+
+951
+01:27:55,800 --> 01:28:00,680
+out there if it does have relatively small effects on other age-related diseases and then i also think
+
+952
+01:28:00,680 --> 01:28:05,560
+it probably isn't going to have that large of an effect i could be wrong i hope i'm wrong but again
+
+953
+01:28:05,560 --> 01:28:12,360
+my view of the literature that's out there is that metformin probably has modest effects but
+
+954
+01:28:12,360 --> 01:28:18,680
+they're not going to be 20 increase in lifespan and rejuvenation of heart function and immune
+
+955
+01:28:18,680 --> 01:28:23,960
+function so yeah i agree so so i think that that's probably the downside to that study but but again
+
+956
+01:28:23,960 --> 01:28:31,080
+because we're also battling this perception of resistance to the potential for side effects when
+
+957
+01:28:31,160 --> 01:28:36,680
+you're talking about treating healthy elderly people that's probably the right way to design
+
+958
+01:28:36,680 --> 01:28:40,200
+this first study the other thing about the tame trial though is it's not being done in healthy
+
+959
+01:28:40,200 --> 01:28:44,600
+elderly people right the people that they're enrolling have to have at least one age-related
+
+960
+01:28:44,600 --> 01:28:50,680
+disease and it can't be diabetes so even that is really not the gold standard study that we'd all
+
+961
+01:28:50,680 --> 01:28:55,960
+like to see whether it's metformin or rapamycin or you know something else we've got some work to do
+
+962
+01:28:55,960 --> 01:28:59,960
+to get to where we can actually do that study and maybe the path forward is that you know as you
+
+963
+01:28:59,960 --> 01:29:06,920
+said individuals who are willing to kind of come together and do these sort of self experiments
+
+964
+01:29:06,920 --> 01:29:13,800
+if you can do it in a rigorous way where you're actually measuring the things that needs to be a
+
+965
+01:29:13,800 --> 01:29:20,840
+model system right that allows it so that if you and i and bob and rick and john do it we're you
+
+966
+01:29:20,840 --> 01:29:27,160
+know the downside to that kind of a model is that it's it's still going to be hard to convince just
+
+967
+01:29:27,160 --> 01:29:31,960
+the scientific community the way that it is no it's much harder to convince them that it's real
+
+968
+01:29:31,960 --> 01:29:37,880
+having said that if the effects are robust and you see it over and over and over and multiple people
+
+969
+01:29:37,880 --> 01:29:42,040
+we'll get there eventually so so that may be the path that we end up taking you know i'm not betting
+
+970
+01:29:42,040 --> 01:29:48,040
+on that path i'm betting on the path that you're describing as being the shortest distance between
+
+971
+01:29:48,040 --> 01:29:54,680
+these two points and i hope that as we start to do more of these studies in dogs and and also the
+
+972
+01:29:54,680 --> 01:30:01,560
+preclinical stuff in mice as we start to find functional measures that are improved over a
+
+973
+01:30:01,560 --> 01:30:06,760
+relatively short time frame that people will start to do some of these clinical trials that are
+
+974
+01:30:06,760 --> 01:30:12,520
+feasible in people i mean you could i mean novartis has already done it right you can do a clinical
+
+975
+01:30:12,520 --> 01:30:19,720
+trial where you treat healthy elderly people for six weeks eight weeks ten weeks and look at a
+
+976
+01:30:19,720 --> 01:30:24,840
+functional outcome and so if it's the case that rapamycin rejuvenates immune function and
+
+977
+01:30:24,840 --> 01:30:31,080
+rejuvenates cardiac function and and delays or restores alveolar bone levels in the mouth right
+
+978
+01:30:31,080 --> 01:30:37,160
+those are clinical endpoints that are impactful and could be studied in a short clinical trial so
+
+979
+01:30:37,160 --> 01:30:42,440
+we may get a few of those that will kind of build this body of evidence that rapamycin is having a
+
+980
+01:30:42,440 --> 01:30:47,400
+similar effect in people again the hard part is there's not a lot of money in rapamycin so i don't
+
+981
+01:30:47,400 --> 01:30:52,840
+know who's going to fund those trials that's the challenge so we we need to identify so either it's
+
+982
+01:30:52,840 --> 01:30:58,520
+going to be rapamycin derivatives that are under patent like novartis has developed and now rest
+
+983
+01:30:58,520 --> 01:31:04,040
+or bio is further developing or it's going to be alternative funding sources whether that's
+
+984
+01:31:04,040 --> 01:31:11,160
+foundations or wealthy individuals who recognize the potential impact of this work and are willing
+
+985
+01:31:11,160 --> 01:31:15,800
+to to fund a clinical trial to actually start to look at some of this. Matt thanks again this
+
+986
+01:31:15,880 --> 01:31:19,000
+is super interesting and best of luck with your continued work. Thank you.
+
+987
+01:31:21,320 --> 01:31:26,840
+You can find all of this information and more at peteratiamd.com forward slash podcast there you'll
+
+988
+01:31:26,840 --> 01:31:32,280
+find the show notes readings and links related to this episode you can also find my blog and the
+
+989
+01:31:32,280 --> 01:31:38,120
+nerd safari at peteratiamd.com what's a nerd safari you ask just click on the link at the top of the
+
+990
+01:31:38,120 --> 01:31:43,080
+site to learn more maybe the simplest thing to do is to sign up for my subjectively non-lame once
+
+991
+01:31:43,160 --> 01:31:47,640
+a week email where i'll update you on what i've been up to the most interesting papers i've read
+
+992
+01:31:47,640 --> 01:31:53,160
+and all things related to longevity science performance sleep etc on social you can find
+
+993
+01:31:53,160 --> 01:31:58,840
+me on twitter instagram and facebook all with the id peteratia md but usually twitter is the best
+
+994
+01:31:58,840 --> 01:32:03,000
+way to reach me to share your questions and comments now for the obligatory disclaimer this
+
+995
+01:32:03,000 --> 01:32:07,960
+podcast is for general informational purposes only and does not constitute the practice of medicine
+
+996
+01:32:07,960 --> 01:32:13,080
+nursing or other professional health care services including the giving of medical advice
+
+997
+01:32:13,080 --> 01:32:18,680
+and note no doctor patient relationship is formed the use of this information and the materials
+
+998
+01:32:18,680 --> 01:32:23,320
+linked to the podcast is at the user's own risk the content of this podcast is not intended to be
+
+999
+01:32:23,320 --> 01:32:28,760
+a substitute for professional medical advice diagnosis or treatment users should not disregard
+
+1000
+01:32:28,760 --> 01:32:33,080
+or delay in obtaining medical advice for any medical condition they have and should seek the
+
+1001
+01:32:33,080 --> 01:32:38,440
+assistance of their health care professionals for any such conditions lastly and perhaps most
+
+1002
+01:32:38,440 --> 01:32:43,320
+importantly i take conflicts of interest very seriously for all of my disclosures the companies
+
+1003
+01:32:43,320 --> 01:32:52,360
+i invest in and or advise please visit peteratiamd.com forward slash about
+

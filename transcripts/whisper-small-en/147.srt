@@ -1,0 +1,4448 @@
+1
+00:00:00,000 --> 00:00:15,600
+Hey everyone, welcome to the Drive podcast. I'm your host, Peter Attia. This podcast,
+
+2
+00:00:15,600 --> 00:00:19,380
+my website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:19,380 --> 00:00:24,360
+longevity into something accessible for everyone. Our goal is to provide the best content in
+
+4
+00:00:24,360 --> 00:00:28,440
+health and wellness, full stop, and we've assembled a great team of analysts to make
+
+5
+00:00:28,440 --> 00:00:32,720
+this happen. If you enjoy this podcast, we've created a membership program that brings you
+
+6
+00:00:32,720 --> 00:00:36,920
+far more in-depth content. If you want to take your knowledge of this space to the next level
+
+7
+00:00:36,920 --> 00:00:41,560
+at the end of this episode, I'll explain what those benefits are. Or if you want to learn more now,
+
+8
+00:00:41,560 --> 00:00:48,080
+head over to PeterAttiaMD.com forward slash subscribe. Now, without further delay, here's
+
+9
+00:00:48,080 --> 00:00:55,800
+today's episode. My guest this week is Dr. Hussein Yazin. Hussein is an associate professor in the
+
+10
+00:00:55,800 --> 00:01:01,360
+Department of Medicine at the Keck School of Medicine at USC. His lab has focused for almost a
+
+11
+00:01:01,360 --> 00:01:07,400
+decade now on lipid metabolism and nutrition and the effect these have on cognition and the risk
+
+12
+00:01:07,400 --> 00:01:13,720
+of developing Alzheimer's disease, paying specific attention to the ApoE4 allele. Many of you listening
+
+13
+00:01:13,720 --> 00:01:19,480
+to this podcast will no doubt be familiar with ApoE4 genotypes. We've spoken about this at great
+
+14
+00:01:19,480 --> 00:01:26,680
+length in a number of podcasts. This is really the deep dive into E4, what the implications are.
+
+15
+00:01:26,680 --> 00:01:32,360
+I actually wanted to speak with Hussein after we were part of a journal club where he presented a
+
+16
+00:01:32,360 --> 00:01:37,880
+couple of papers that he authored that were simply beyond fascinating. It was definitely one of the
+
+17
+00:01:37,880 --> 00:01:43,640
+deepest dives I'd ever seen into the inner workings of EPA and DHA's role in the brain. Now,
+
+18
+00:01:43,640 --> 00:01:48,760
+we do get to that near the end of the podcast, but I realize that it's important for people to really
+
+19
+00:01:48,760 --> 00:01:55,560
+understand a lot about the brain. I would consider this a fundamental core coursework on
+
+20
+00:01:55,560 --> 00:02:01,080
+brain biology. We really explain the architecture of the brain, the energy systems of the brain,
+
+21
+00:02:01,720 --> 00:02:05,480
+and what goes wrong, what are the various things that go wrong, because it's not just one thing
+
+22
+00:02:05,480 --> 00:02:12,840
+as a person develops Alzheimer's disease. Then we get into what ApoE is and then why we might have
+
+23
+00:02:12,920 --> 00:02:19,000
+these three different variants or isoforms of it, E2, E3, and E4, and what turns out to be different
+
+24
+00:02:19,000 --> 00:02:22,440
+depending on which of those you have. The obvious thing, of course, is your risk for Alzheimer's
+
+25
+00:02:22,440 --> 00:02:29,240
+disease, but why? We have a little side tangent that goes into the role of EPA in cardiovascular
+
+26
+00:02:29,240 --> 00:02:35,640
+disease with or without DHA, and then bring it back to this discussion around the role of DHA
+
+27
+00:02:35,640 --> 00:02:41,480
+in Alzheimer's disease and also what some of the specific things that we understand to date
+
+28
+00:02:41,560 --> 00:02:45,320
+with respect to patients that have E4 and what they can do to reduce risk. I'm going to give you
+
+29
+00:02:45,320 --> 00:02:49,480
+a warning upfront. Unfortunately, if you're anything like me, you're going to come away from
+
+30
+00:02:49,480 --> 00:02:55,560
+this episode. I think frustrated that our state of knowledge is still so pedestrian, but nevertheless,
+
+31
+00:02:55,560 --> 00:03:00,600
+this is a very important discussion and I certainly learned a lot in it and it will actually have an
+
+32
+00:03:00,600 --> 00:03:05,160
+impact on how I think about taking care of my patients. So without further delay, please enjoy
+
+33
+00:03:05,160 --> 00:03:16,120
+my conversation with Hussein Yazim. Hussein, thanks so much for making time to sit down today.
+
+34
+00:03:16,120 --> 00:03:20,200
+I'm really looking forward to this. Obviously, I had the pleasure of doing Journal Club with you
+
+35
+00:03:20,200 --> 00:03:24,600
+a few weeks ago, which is what made me realize we needed to do this for a much broader audience.
+
+36
+00:03:25,240 --> 00:03:29,560
+Let's go back to the beginning a little bit though. I'm curious as to what got you interested
+
+37
+00:03:29,560 --> 00:03:35,240
+in this space. I know you grew up in Lebanon. Did you do medical school there as well as college?
+
+38
+00:03:35,880 --> 00:03:42,120
+Yeah. Thank you, Peter, for the invitation. I'm happy to be part of your show. Yes, I grew up in
+
+39
+00:03:42,120 --> 00:03:47,400
+Beirut, Lebanon. That's my medical school. And then shortly after moved to the US to
+
+40
+00:03:48,360 --> 00:03:56,040
+do some residency training and followed by a fellowship. And then I got to where I am right
+
+41
+00:03:56,040 --> 00:04:01,960
+now. Tell me a little bit about that path. Your fellowship was in what? I trained in endocrinology.
+
+42
+00:04:02,600 --> 00:04:09,240
+I come from a family with strong heart disease and diabetes. So I decided to sub-specialize in
+
+43
+00:04:10,600 --> 00:04:15,960
+lipid disorders. And I studied lipids for a good of two to three years before
+
+44
+00:04:17,080 --> 00:04:23,160
+I had the opportunity to study brain lipids and I switched from blood lipids to the brain.
+
+45
+00:04:23,960 --> 00:04:30,840
+Well, this is a topic that I think a lot of people are interested in because I remember 10 years ago
+
+46
+00:04:32,040 --> 00:04:39,240
+when you would check an APOE genotype on somebody, it was a very unusual thing to do.
+
+47
+00:04:39,960 --> 00:04:44,760
+Today, it's not as unusual. It's probably still not incredibly common that people are walking
+
+48
+00:04:44,760 --> 00:04:50,280
+around knowing their APOE genotype, but it's certainly, I mean, it seems a log order more
+
+49
+00:04:50,280 --> 00:04:55,240
+common than it was a decade ago. And I suspect a decade from now, that might be one of the genes
+
+50
+00:04:55,240 --> 00:05:01,000
+that kind of everybody knows about themselves. So where do you think is a good place to start?
+
+51
+00:05:01,000 --> 00:05:07,960
+I think this topic is complicated enough that it probably warrants at least some discussion of
+
+52
+00:05:08,600 --> 00:05:13,640
+what makes up the brain. Like we talk about neuronal cells, we talk about glial cells. Can
+
+53
+00:05:13,640 --> 00:05:19,000
+you maybe help explain the architecture of the brain so that as we get into the different types
+
+54
+00:05:19,000 --> 00:05:24,680
+of cells, what a blood brain barrier means, where CSF resides, these things will become
+
+55
+00:05:24,680 --> 00:05:28,600
+important in this discussion. And I think we should assume that most people listening don't
+
+56
+00:05:28,600 --> 00:05:36,040
+necessarily understand those things. Sure. So you first asked about the APOE genotype and
+
+57
+00:05:37,000 --> 00:05:44,520
+I have seen in my practice calls, I would say even monthly from people who did 23andMe and found out
+
+58
+00:05:44,520 --> 00:05:53,320
+that they are E4 carriers and they wanted to know more. So I not uncommonly get calls to figure out
+
+59
+00:05:53,320 --> 00:05:59,880
+what is it that I have APOE4, what does that mean for my brain? You typically see in the report
+
+60
+00:06:00,760 --> 00:06:05,560
+some discussion that they are at an increased risk of Alzheimer's disease and people are
+
+61
+00:06:05,560 --> 00:06:12,680
+interested to figure out if there's anything they can do. So yes, APOE4 will be something important
+
+62
+00:06:12,680 --> 00:06:19,480
+to deal with. Now regarding the brain itself, the brain is a unique compartment that is mostly a
+
+63
+00:06:19,480 --> 00:06:27,800
+lipid organ. So by weight, the brain contains a large amount of lipids from cholesterol, which is
+
+64
+00:06:27,800 --> 00:06:36,600
+a sterol, to different forms of fatty acids. And the brain is largely composed of three types of
+
+65
+00:06:36,600 --> 00:06:42,040
+cells, although it's much more than that. But the main cells are the neurons, which are responsible
+
+66
+00:06:42,040 --> 00:06:49,960
+for firing and forming synapses, which regulate how the brain functions. The neurons cannot do
+
+67
+00:06:49,960 --> 00:06:57,000
+their own function had it not been for helper cells. And these include in general glial cells.
+
+68
+00:06:57,880 --> 00:07:05,080
+Glial cells could be astrocytes and these are cells which are tightly associated with neurons
+
+69
+00:07:05,160 --> 00:07:12,760
+and they regulate the energy, storage, production, and so forth that the neuron would need to keep
+
+70
+00:07:12,760 --> 00:07:20,680
+firing. Astrocytes have a lot of functions but they're mostly viewed as taking up glucose or
+
+71
+00:07:20,680 --> 00:07:28,920
+fat and providing substrates that the neuron could use to be able to generate ATP and keep firing.
+
+72
+00:07:29,560 --> 00:07:35,240
+And then you've got the glial cells, the micro glial cells, which have gained a lot of traction
+
+73
+00:07:35,240 --> 00:07:40,520
+in the last decade or so because they have been linked to neurodegenerative diseases such as
+
+74
+00:07:40,520 --> 00:07:48,200
+Alzheimer's disease. And glial cells are immune cells responsible for cleaning up, whether it's
+
+75
+00:07:48,200 --> 00:07:56,280
+going to be a beta or an infection. These immune cells have the responsibility of making sure that
+
+76
+00:07:56,280 --> 00:08:01,880
+the house is in order. There's also the oligodendrocytes and other kinds of cells
+
+77
+00:08:02,760 --> 00:08:06,680
+but those three cells are the main type of cells that we study in the brain.
+
+78
+00:08:07,640 --> 00:08:15,240
+The brain is surrounded by a blood-brain barrier and this is an important concept because the
+
+79
+00:08:15,240 --> 00:08:21,640
+brain is protected from the outside of the brain and for a good reason. The brain needs to have a
+
+80
+00:08:21,640 --> 00:08:27,640
+stable environment to be able to function. The blood-brain barrier regulates what gets in and out
+
+81
+00:08:27,640 --> 00:08:35,160
+of the brain and stands as a barrier to prevent toxic proteins, infectious organisms, and other
+
+82
+00:08:35,160 --> 00:08:42,360
+things from getting free access. The blood-brain barrier separates the blood vessels and the blood
+
+83
+00:08:42,360 --> 00:08:49,320
+inside the blood vessels from the brain and it's composed of capillary cells. These are endothelial
+
+84
+00:08:49,320 --> 00:08:59,000
+cells which have a lining of tight junctions. These are very tight in the sense that they would
+
+85
+00:08:59,000 --> 00:09:07,000
+act as a barrier, followed by pericytes which surround those endothelial cells and these are
+
+86
+00:09:07,000 --> 00:09:13,560
+supporting cells for the endothelium to maintain the integrity of the blood-brain barrier and around
+
+87
+00:09:13,560 --> 00:09:19,960
+those you have the neural cells or wall cells which make up the matrix surrounding those two
+
+88
+00:09:19,960 --> 00:09:26,280
+cell types and maintains the integrity as well of the blood-brain barrier. So you've got this
+
+89
+00:09:26,920 --> 00:09:34,200
+elaborate system that is designed to protect the brain and to maintain a stable environment.
+
+90
+00:09:34,840 --> 00:09:41,320
+Now finally cerebrospinal fluid is in a simplistic way the sewage system of the brain.
+
+91
+00:09:42,120 --> 00:09:46,200
+When the brain receives its metabolites, its nutrients from the circulation,
+
+92
+00:09:46,920 --> 00:09:54,520
+it crosses the blood-brain barrier through the junction of the endothelial cells into brain cells
+
+93
+00:09:55,560 --> 00:09:59,720
+that is a fluid surrounding brain cells that we call the interstitial fluid.
+
+94
+00:10:00,680 --> 00:10:05,640
+Brain cells will take up whatever they need, whether it's an astrocyte, a microglia, or a neuron,
+
+95
+00:10:06,280 --> 00:10:12,200
+and produce some byproducts. One of the commonly studied byproducts are A-beta proteins which are
+
+96
+00:10:12,200 --> 00:10:20,040
+accumulating in diseases like Alzheimer's. Those byproducts will then get cleared into the CSF.
+
+97
+00:10:20,040 --> 00:10:27,720
+The CSF or cerebrospinal fluid, as I mentioned before, is a form of a system that allows drainage
+
+98
+00:10:28,680 --> 00:10:37,800
+from the brain cells from the interstitial fluid. It's run by a pump. That pump is in a system known
+
+99
+00:10:37,800 --> 00:10:46,040
+as the choroid plexus. The choroid plexus will be pumping clear water-like fluid into the CSF,
+
+100
+00:10:46,600 --> 00:10:53,480
+and this motion of movement of the fluid throughout the brain washes the brain off. At some point,
+
+101
+00:10:54,200 --> 00:11:01,400
+the choroid plexus interferes with the blood circulation to clear off these metabolites
+
+102
+00:11:01,400 --> 00:11:09,960
+from the CSF back into the blood for excretion. So if we take A-beta amyloid peptides, for example,
+
+103
+00:11:09,960 --> 00:11:15,880
+they're produced by the neuron as the neuron is firing. These are peptides which come off the
+
+104
+00:11:15,880 --> 00:11:23,000
+membrane of a neuron, and then they leak into the CSF, and then from the CSF they get into the blood,
+
+105
+00:11:23,560 --> 00:11:29,800
+and the blood clears those A-beta peptides through the liver or other organs.
+
+106
+00:11:30,680 --> 00:11:39,160
+This constant CSF activity is critical for maintaining the sewage system of the brain in
+
+107
+00:11:39,160 --> 00:11:45,080
+order. So I hope I have addressed some of the questions that you were asking.
+
+108
+00:11:45,080 --> 00:11:50,840
+Yeah, absolutely. We can even talk about some illnesses that occur that get in the way of this.
+
+109
+00:11:50,840 --> 00:11:56,600
+For example, sometimes children are born with abnormalities that make it very difficult for
+
+110
+00:11:56,600 --> 00:12:05,080
+them to clear CSF, or children can be born with malformations that obstruct the flow of CSF,
+
+111
+00:12:05,080 --> 00:12:08,520
+and they develop conditions where some of these compartments within the brain
+
+112
+00:12:09,240 --> 00:12:14,200
+expand and enlarge, and it's a very intricate system. In situations like that, for example,
+
+113
+00:12:14,200 --> 00:12:18,680
+you have to come up with other ways to drain the system, and some of these children require shunts,
+
+114
+00:12:18,680 --> 00:12:24,120
+where you have to place an exogenous tube into their brain and drain it into their abdomen or
+
+115
+00:12:24,120 --> 00:12:30,120
+something like that. It's all such an amazing organ. I remember I had one rotation in general
+
+116
+00:12:30,120 --> 00:12:35,800
+surgery where we did a month of neurosurgery, and it is quite remarkable when you're operating on
+
+117
+00:12:35,800 --> 00:12:43,480
+the brain and you remove the Dura, the brain is a bloodless organ. So it looks unlike any other
+
+118
+00:12:43,480 --> 00:12:47,320
+organ, like when you're operating on the kidney and you get right down to the kidney, you still
+
+119
+00:12:47,320 --> 00:12:52,760
+see the sort of pulp-like redness of the kidney, or the lung, or the liver, any of these other
+
+120
+00:12:52,760 --> 00:12:58,280
+organs, but the brain is quite distinct in that it doesn't have that, and once that Dura is peeled
+
+121
+00:12:58,280 --> 00:13:04,200
+back and you see it bathing in this CSF, it looks unusually sterile, which is not to say, of course,
+
+122
+00:13:04,200 --> 00:13:09,240
+as you cut into the parenchyma, you wouldn't get blood, but at that level, it's not. You mentioned
+
+123
+00:13:09,240 --> 00:13:14,200
+something earlier, and I want to just make sure we put it in context, which is that by weight,
+
+124
+00:13:14,200 --> 00:13:20,520
+the brain is disproportionately lipid-laden relative to other organs. So let's make sure
+
+125
+00:13:20,520 --> 00:13:27,560
+people understand what that means. Every cell in our body has a bilayer of cholesterol that makes
+
+126
+00:13:27,560 --> 00:13:32,120
+up its cell membrane. That's what allows it to have fluidity. That's what allows it to hold
+
+127
+00:13:32,680 --> 00:13:41,400
+transporters across its cell membrane, etc. How does, say, a cardiac myocyte, the muscle cell of a
+
+128
+00:13:41,400 --> 00:13:49,880
+heart, differ in terms of its lipid content from either the neuron or the astrocyte or the microglia?
+
+129
+00:13:49,880 --> 00:13:58,520
+What is it about these cells in the brain that structurally requires such an abundance of lipid
+
+130
+00:13:58,520 --> 00:14:05,240
+and cholesterol? That's a fundamentally important question, and it actually begs to ask perhaps a
+
+131
+00:14:05,240 --> 00:14:11,240
+slightly different question. How is the brain functionally different than a myocyte? And
+
+132
+00:14:12,360 --> 00:14:19,800
+one way to look at this question is to understand that the brain operates by firing. So you're
+
+133
+00:14:19,800 --> 00:14:26,600
+looking at perhaps an electric system where you have wires connected to each other, and these
+
+134
+00:14:26,600 --> 00:14:34,200
+wires have to fire constantly. And by firing, you need electricity to move from one piece of the
+
+135
+00:14:34,200 --> 00:14:42,520
+wire to the other. This requires specific cables. In our modern-day language, you need a form of
+
+136
+00:14:42,520 --> 00:14:49,880
+fiber optics or high-speed wiring that allows this firing to happen in instantaneous
+
+137
+00:14:50,920 --> 00:15:00,680
+manners, and it's carefully regulated and separated by location, by speed, and by changes in a micro
+
+138
+00:15:00,680 --> 00:15:09,800
+environment. To be able to achieve this delicate and elaborate map of wires attached to each other,
+
+139
+00:15:10,680 --> 00:15:17,320
+you need lipids. Specifically, for example, if we're talking about a neuron, we're talking about
+
+140
+00:15:17,320 --> 00:15:24,280
+myelin. If we're talking about synapse, we're talking about a synaptosome. That's a synapse
+
+141
+00:15:24,280 --> 00:15:32,280
+body. The synaptosome by itself, to be able to conduct and depolarize, meaning to change the
+
+142
+00:15:32,280 --> 00:15:37,720
+electric potential across the cell membrane, it requires a certain environment of lipids
+
+143
+00:15:38,440 --> 00:15:45,240
+that allows it to do the signaling, allows the glutamate or glutamine to go inside the cell,
+
+144
+00:15:45,880 --> 00:15:52,040
+and then release certain mediators to open certain channels, for example, calcium channels.
+
+145
+00:15:52,920 --> 00:15:59,560
+So this particular environment necessitates that you have an elaborate system of lipids
+
+146
+00:16:00,440 --> 00:16:08,120
+that facilitate this process. This is a very taxing system, meaning that to be able to
+
+147
+00:16:08,120 --> 00:16:13,080
+constantly talk to me through this podcast, you would need an immense amount of ATP.
+
+148
+00:16:14,200 --> 00:16:19,640
+The extraction of glucose and the utilization of lipids is adapted to be able to answer this
+
+149
+00:16:20,280 --> 00:16:27,400
+this particular environment. In contrast, a cardiac myocyte, outside of its being regulated by
+
+150
+00:16:28,200 --> 00:16:34,840
+the foci that regulates heartbeats in the atria and so forth, the AV node and other areas,
+
+151
+00:16:34,840 --> 00:16:42,840
+the cardiac myocyte is simply a mechanical cell that has to pump all the time to be able to maintain
+
+152
+00:16:42,920 --> 00:16:49,320
+a certain pressure and blood flow. So that environment by itself requires strong
+
+153
+00:16:49,320 --> 00:16:56,680
+cytoskeletal elements such as actin or myosin that are efficiently packaged for pumping
+
+154
+00:16:57,560 --> 00:17:03,320
+and may require less lipids than the wiring that we discussed in the brain.
+
+155
+00:17:04,040 --> 00:17:10,600
+Yeah, so I think that's a very elegant way to explain that basically every cell in the body,
+
+156
+00:17:10,600 --> 00:17:16,680
+whether it be, as you said, a myocyte in the heart, or a cell in the kidney, or a cell in
+
+157
+00:17:16,680 --> 00:17:22,200
+the liver, or a cell in the lung, or a cell of skeletal muscle, all of those things have a
+
+158
+00:17:22,200 --> 00:17:31,000
+function that is contractile, gas exchange, filtration, something like that. The brain's
+
+159
+00:17:31,000 --> 00:17:40,120
+entire function is electron potentials and electricity. So it would make sense, as you said,
+
+160
+00:17:40,680 --> 00:17:44,840
+that every facet of the brain has to be optimized for signal transduction.
+
+161
+00:17:45,400 --> 00:17:52,040
+And that includes not just the myelination of the sheaths in the neurons, but even all of the other
+
+162
+00:17:52,040 --> 00:17:59,160
+cells that would facilitate for rapid potential and recurrence of normal electron gradients.
+
+163
+00:18:00,280 --> 00:18:04,120
+The brain, I mean, I think there's a statistic that we all learn in medical school, right, it weighs
+
+164
+00:18:04,120 --> 00:18:10,440
+about 2% of our body weight, and yet is probably responsible for something on the order of 20% of
+
+165
+00:18:10,440 --> 00:18:17,800
+our energy consumption. Again, you've provided a very elegant explanation for why that's the case.
+
+166
+00:18:17,800 --> 00:18:25,640
+Why is it that this tiny, tiny organ is so energy demanding? How does the brain utilize energy?
+
+167
+00:18:26,280 --> 00:18:31,640
+So what, let's talk a little bit about how substrate makes its way to the brain. And let's
+
+168
+00:18:31,640 --> 00:18:38,760
+contrast it just very quickly with, you know, pick a myocyte in your leg, right? It can take glucose
+
+169
+00:18:38,760 --> 00:18:45,320
+out of circulation. It can either with or without insulin bring that glucose molecule through a
+
+170
+00:18:45,320 --> 00:18:53,400
+Glut4 transmitter directly into the cytoplasm. It can, depending on the speed at which it requires ATP,
+
+171
+00:18:53,400 --> 00:18:58,760
+it can very rapidly take that to pyruvate and ultimately to lactate, or it can more slowly
+
+172
+00:18:58,760 --> 00:19:04,120
+take the pyruvate into the mitochondria and generate more ATP there. It can do the same
+
+173
+00:19:04,120 --> 00:19:09,560
+thing with fatty acids. Of course, with fatty acids, it's going to go from an acetyl CoA pathway
+
+174
+00:19:09,560 --> 00:19:17,000
+into the mitochondria and take these two carbon units into ATP. So the muscles have lots of options
+
+175
+00:19:17,000 --> 00:19:23,000
+for fuel. Even in a case of starvation, they can use ketones, but basically glucose, fatty acids,
+
+176
+00:19:23,000 --> 00:19:28,920
+lactate, all of these things are fuels. And they go directly to the cell. And then within the cell,
+
+177
+00:19:28,920 --> 00:19:34,920
+you have aerobic and anaerobic pathways, if you're talking about glycolysis, you sort of alluded to
+
+178
+00:19:34,920 --> 00:19:40,760
+it already, but the brain already has one thing that makes it an extra step, which is there's a
+
+179
+00:19:40,760 --> 00:19:46,760
+blood brain barrier. So it's not even like the glucose goes directly there through the capillary.
+
+180
+00:19:46,760 --> 00:19:52,760
+So how does the brain extract energy from circulation? And how does it differ from the
+
+181
+00:19:52,760 --> 00:19:59,400
+rest of the body in its fuel partitioning? I would say that I am not an expert in this field,
+
+182
+00:19:59,400 --> 00:20:05,720
+but I'll give you my two cents. This is a complex question. And I would beg to help the listeners
+
+183
+00:20:05,720 --> 00:20:11,880
+understand that this is a complex topic that even as we speak, there's a huge gap in knowledge.
+
+184
+00:20:12,680 --> 00:20:19,560
+But my understanding is that the brain prefers glucose as the predominant source of energy.
+
+185
+00:20:19,560 --> 00:20:29,000
+And that by itself is regulated differently than the rest of the body. The rest of the body
+
+186
+00:20:29,000 --> 00:20:35,720
+have a system by which insulin regulates specific transporters known as glute fours, as you mentioned.
+
+187
+00:20:36,760 --> 00:20:45,400
+And glute four allows an insulin dependent mechanism to enter glucose into pumping muscles
+
+188
+00:20:45,480 --> 00:20:54,680
+or adipocytes. And that responds to the outside environment, meaning you can induce glute four
+
+189
+00:20:54,680 --> 00:21:02,440
+expression by exercising. You can induce glute four expression by changes in body weight.
+
+190
+00:21:03,320 --> 00:21:09,880
+At the blood brain barrier, glute four plays a minor to no role in glucose uptake. The blood
+
+191
+00:21:09,960 --> 00:21:18,040
+brain barrier, in contrast, has a predominance of glute ones. Glute one expression is not controlled
+
+192
+00:21:18,840 --> 00:21:25,640
+by what you eat. It's not controlled by how you exercise to a large extent. And it's not controlled
+
+193
+00:21:25,640 --> 00:21:32,040
+by the same mechanisms that govern insulin regulated glucose signaling, partly because
+
+194
+00:21:32,040 --> 00:21:40,600
+your brain cannot be moody in its choices. It has to have a constant supply of glucose.
+
+195
+00:21:41,640 --> 00:21:47,160
+Now, glute one expression can be regulated and it's largely regulated to protect the brain.
+
+196
+00:21:48,040 --> 00:21:55,720
+Meaning if you are faced with a situation that is systemic hyperglycemia such as type 2 diabetes,
+
+197
+00:21:56,360 --> 00:22:01,560
+the brain protects itself by reducing glute one expression at the blood brain barrier.
+
+198
+00:22:02,040 --> 00:22:09,640
+The opposite holds true. If you are, for some reason, going through a prolonged fasting period
+
+199
+00:22:10,280 --> 00:22:17,320
+where you're dipping into glycogen stores and you're hypoglycemic, the brain up regulates
+
+200
+00:22:17,320 --> 00:22:24,280
+glute one at the blood brain barrier to extract as much as possible all the glucose in your
+
+201
+00:22:24,360 --> 00:22:32,680
+circulation to maintain a relatively constant amount of glucose in the brain. Now, during
+
+202
+00:22:32,680 --> 00:22:39,400
+physiological states, the glucose in the brain is relatively not, does not fluctuate that much,
+
+203
+00:22:39,400 --> 00:22:43,400
+although it does fluctuate, but it doesn't fluctuate as much as that in plasma.
+
+204
+00:22:44,440 --> 00:22:50,120
+During diseased states, such as Alzheimer's, for example, leakage or destruction of the
+
+205
+00:22:50,120 --> 00:22:56,120
+blood brain barrier associates with destruction in the glute one transporters and the brain now
+
+206
+00:22:56,120 --> 00:23:03,000
+struggles in capturing glucose from the system, which leads to a whole new cascade that we might
+
+207
+00:23:03,000 --> 00:23:09,320
+argue is a diseased cascade. It's compensatory, but it's responding to a glucose shortage.
+
+208
+00:23:10,280 --> 00:23:15,640
+So in that regards, glucose regulation in the brain differs from the circulation.
+
+209
+00:23:16,440 --> 00:23:23,800
+Now, another fundamental aspect to understand is that the brain is not efficient in utilizing fat
+
+210
+00:23:23,800 --> 00:23:30,040
+as a source of ATP. One thing that you notice after you dissect the brain is that you don't find,
+
+211
+00:23:30,040 --> 00:23:37,800
+you don't find fat depots that you find in your adipose tissue. Yes, it's a fatty organ,
+
+212
+00:23:37,800 --> 00:23:45,400
+but there aren't really storage sites of fat. It does not store fat. To a large extent,
+
+213
+00:23:45,400 --> 00:23:50,760
+there are lipid droplets in the brain, but they are more dynamic than the adipose tissue that we
+
+214
+00:23:50,760 --> 00:24:00,600
+have outside. And it prefers not to use fat as a source of ATP. It prefers to use fat to integrate
+
+215
+00:24:00,600 --> 00:24:06,680
+into the myelin sheath or the synoptosome to regulate membrane fluidity to help with depolarization.
+
+216
+00:24:08,120 --> 00:24:14,200
+Nevertheless, when the brain goes through crises and they can't use glucose, they have a mechanism
+
+217
+00:24:14,200 --> 00:24:20,920
+to extract ATP from fat. But the result is a price tag. The result is oxidative stress.
+
+218
+00:24:21,880 --> 00:24:26,840
+The brain has a complicated system, as we mentioned before, that consists of astrocytes and neurons
+
+219
+00:24:26,840 --> 00:24:33,000
+and glial cells and all sorts of stuff. And they have partitioned their roles. A neuron
+
+220
+00:24:33,560 --> 00:24:41,240
+is like your athlete who needs to run a marathon at a certain speed. Now, for that athlete to
+
+221
+00:24:41,240 --> 00:24:49,560
+succeed, he needs to have water bottles staged at every juncture or a mile. He used to have helpers
+
+222
+00:24:49,560 --> 00:24:56,600
+with towels, helpers with whatever it is for the athlete to be able to do the whole 23 mile if it's
+
+223
+00:24:56,600 --> 00:25:05,880
+a marathon. Astrocytes, the helper cells of neurons, would take up the glucose and process it to make
+
+224
+00:25:05,880 --> 00:25:11,720
+lactate and then shuttle the lactate into the neuron because the neuron says, I can digest
+
+225
+00:25:11,720 --> 00:25:19,000
+lactate more efficiently than the glucose and I can produce ATP with less damage. So the neuronal
+
+226
+00:25:19,000 --> 00:25:26,440
+favorite food is lactate and not glucose. But glucose gets into the astrocyte where it is
+
+227
+00:25:26,440 --> 00:25:34,760
+shuttled and changed into lactate. When glucose is no longer there, and we're talking about
+
+228
+00:25:34,760 --> 00:25:41,960
+prolonged fasting and glycogen depletion, the brain becomes very efficient in extracting ketone
+
+229
+00:25:41,960 --> 00:25:47,800
+bodies through the blood-brain barrier to maintain its firing and to avoid someone from getting into
+
+230
+00:25:47,800 --> 00:25:57,000
+a coma-like state. So, in a nutshell, to summarize what I just said, the brain does its best to
+
+231
+00:25:57,000 --> 00:26:05,720
+regulate its glucose content that is not dependent on insulin signaling. Number two, the brain
+
+232
+00:26:05,720 --> 00:26:13,720
+prefers glucose and not fat as a source of energy. And number three, when glucose is not available,
+
+233
+00:26:13,720 --> 00:26:20,120
+it extracts all the ketone bodies that are produced from fatty acid oxidation outside the brain to
+
+234
+00:26:20,120 --> 00:26:26,040
+maintain itself going. So a couple of other things to follow up on that. So actually, I didn't realize
+
+235
+00:26:26,040 --> 00:26:31,960
+that Glute-1 was basically regulated by peripheral glucose concentration. That's actually super
+
+236
+00:26:31,960 --> 00:26:38,360
+interesting. And I also didn't realize that the neurons were getting their lactate from the
+
+237
+00:26:38,360 --> 00:26:48,120
+astrocytes. So I assume the implication of that is as the astrocytes take glucose to make pyruvate,
+
+238
+00:26:48,120 --> 00:26:54,040
+to make lactate, the astrocytes are keeping the ATP from that process rendered to themselves
+
+239
+00:26:54,040 --> 00:26:59,480
+while transporting or donating the lactate to the neuron. Is that what's happening?
+
+240
+00:27:00,040 --> 00:27:05,240
+Yeah. And then what about the microglial cells? Are they using glucose or are they using the
+
+241
+00:27:05,240 --> 00:27:12,280
+residual lactate? I don't know what the source of energy for microglial cells. I am not sure
+
+242
+00:27:12,280 --> 00:27:18,680
+how they use that energy production. And do you have a sense just broadly what the distribution
+
+243
+00:27:18,680 --> 00:27:25,160
+is of ATP consumption between the glial cells and the neurons? I mean, I know that the glial
+
+244
+00:27:25,160 --> 00:27:30,600
+cells grossly outnumber the neurons in terms of the numbers of cells, but do you have a sense,
+
+245
+00:27:30,600 --> 00:27:36,840
+is it like a 50-50 division of energy consumption? I don't know. I don't want to provide an inaccurate
+
+246
+00:27:36,840 --> 00:27:43,000
+response, so I don't know. Okay. So we have a pretty good handle on what's going on here now.
+
+247
+00:27:43,720 --> 00:27:48,600
+You've done a great job, I think, giving us a primer on both the structure of the brain
+
+248
+00:27:48,600 --> 00:27:56,040
+and now energy. So let's get into this idea of what is ApoE? And let's talk about it not as a
+
+249
+00:27:56,040 --> 00:28:00,920
+gene right now, but let's talk about it as an ApoLipa protein, and then we can talk about the
+
+250
+00:28:00,920 --> 00:28:06,120
+genetics of it later. But what is this thing called ApoE? Your interest is also in cardiovascular
+
+251
+00:28:06,120 --> 00:28:11,880
+disease. This is a podcast in which we talk a lot about it, so we can even contrast for the listener
+
+252
+00:28:11,880 --> 00:28:16,440
+what ApoB is. Most people listening to this are very familiar with what ApoB is, this ApoLipa
+
+253
+00:28:16,440 --> 00:28:23,320
+protein that wraps lipoproteins and defines a subclass of them that morphologically distinct
+
+254
+00:28:23,320 --> 00:28:30,440
+that lineage of the VLDL to the IDL to the LDL. But what's ApoE? What is that ApoLipa protein?
+
+255
+00:28:30,440 --> 00:28:36,440
+That's a fascinating question, and that has been the focus of my own research for the past
+
+256
+00:28:36,440 --> 00:28:45,240
+six or seven years. So ApoE is, I like to give analogies, if you don't mind. Do you like music?
+
+257
+00:28:45,880 --> 00:28:51,880
+Sure. Before COVID, how often do you go listen to an orchestra playing the
+
+258
+00:28:51,880 --> 00:28:58,920
+mat or any of the fancy places? And New York has beautiful music too. Well, I'm not a fancy music
+
+259
+00:28:58,920 --> 00:29:02,840
+guy, but I like to go to concerts prior to COVID, but I don't know if that'll fit in with the
+
+260
+00:29:02,840 --> 00:29:10,440
+analogy. Well, the analogy I was trying to make is that for an orchestra to play efficiently,
+
+261
+00:29:10,440 --> 00:29:18,280
+it needs conductors. My father asked me a few months ago, and he's by no means a musician or
+
+262
+00:29:19,000 --> 00:29:24,040
+any of you have never played a music instrument, but he was telling me, what is that conductor
+
+263
+00:29:24,040 --> 00:29:29,800
+doing? I mean, can't they play without the conductor? So if I were to ask you, and if you
+
+264
+00:29:29,800 --> 00:29:35,480
+allow me a minute to sit in your shoes, what is the conductor doing? That's a great question.
+
+265
+00:29:35,480 --> 00:29:40,680
+First of all, I would assume he is vital. And secondly, I would assume that he is somehow
+
+266
+00:29:40,680 --> 00:29:47,640
+managing the timing of all of the different sections within the orchestra. And not just
+
+267
+00:29:47,640 --> 00:29:54,360
+the timing, but if one is crescendoing and the other is decrescendoing. So I suspect there's just
+
+268
+00:29:54,440 --> 00:30:00,360
+many more moving pieces that say a rock band where you have one guitar, one bass, one drum,
+
+269
+00:30:00,360 --> 00:30:06,200
+maybe a keyboard and a singer. Absolutely. And in the lipoprotein orchestra,
+
+270
+00:30:07,000 --> 00:30:14,680
+A-Pole B would be one of the principal players. Let's assume it's your violinist. A-Pole A would
+
+271
+00:30:14,680 --> 00:30:20,120
+be your piano player. And you need both. Sometimes you need the violinist to run the show,
+
+272
+00:30:20,920 --> 00:30:27,880
+and you need piano for certain pieces. But what puts the orchestra together in the peripheral
+
+273
+00:30:27,880 --> 00:30:35,240
+circulation, largely two conductors in this case, A-Pole and A-Pole C-3. What A-Pole E and A-Pole C-3
+
+274
+00:30:35,240 --> 00:30:42,360
+do is that they regulate the speed of which things are happening. They're different than A-Pole B,
+
+275
+00:30:43,320 --> 00:30:48,920
+because you can argue they're promiscuous. A-Pole B is matted to LDL particles,
+
+276
+00:30:48,920 --> 00:30:56,040
+maybe to some extent, VLDL, LDL, and this whole pipeline. A-Pole A1, to a large extent,
+
+277
+00:30:56,040 --> 00:31:03,400
+is matted to the HDL family of particles. Now A-Pole E and A-Pole C-3, also known as exchangeable
+
+278
+00:31:03,400 --> 00:31:11,400
+lipoproteins, are not. They can jump from different populations of lipoproteins. And by taking
+
+279
+00:31:11,400 --> 00:31:16,920
+different roles, they can decide whether a lipoprotein is going to stay in the circulation,
+
+280
+00:31:17,000 --> 00:31:23,720
+and that would be your A-Pole C-3, or get cleared, and that would be your A-Pole. So this is a
+
+281
+00:31:23,720 --> 00:31:29,400
+simplified version, because I think in real life it's way more complex. But the reason why A-Pole
+
+282
+00:31:29,400 --> 00:31:36,280
+has been elusive and difficult to study is because of its multiple roles, and it appears on HDL,
+
+283
+00:31:36,280 --> 00:31:42,600
+it can appear on LDL, it can appear on IDL, it can appear on VLDL, it changes whether you're
+
+284
+00:31:42,600 --> 00:31:49,320
+fasting or postprandial, and it determines to some extent the fate of your lipoprotein.
+
+285
+00:31:49,880 --> 00:31:54,840
+So if we take a second to imagine, you know, what happens after we drink a milkshake.
+
+286
+00:31:55,640 --> 00:32:01,000
+So when you drink a milkshake, you're absorbing all the fat from the milk, and you're packaging
+
+287
+00:32:01,000 --> 00:32:08,840
+it into chylomicrons, which are known to carry A-Pole B48. A-Pole B48 will then have to circulate
+
+288
+00:32:09,400 --> 00:32:16,280
+and eventually get cleared by forming remnants. As A-Pole B48, the chylomicron,
+
+289
+00:32:16,280 --> 00:32:22,840
+containing particles circulating, it starts changing its A-Pole lipoprotein composition.
+
+290
+00:32:23,720 --> 00:32:31,800
+In the beginning, it would have a larger amount of A-Pole C-3, which would maintain it from getting
+
+291
+00:32:31,800 --> 00:32:39,320
+lipolized. And at some point, when it gets to a certain size, HDL will donate the A-Pole
+
+292
+00:32:40,040 --> 00:32:46,920
+and allow that remnant to get taken up by an A-Pole receptor into the liver.
+
+293
+00:32:48,120 --> 00:32:54,600
+Typical A-Pole receptors include LRP1. That also happens with VLDL particles.
+
+294
+00:32:55,320 --> 00:33:01,640
+When they are produced, when they are large, they acquire an A-Pole C-3 that blocks lipoprotein
+
+295
+00:33:01,640 --> 00:33:09,400
+lipase. And as they shrink in size, A-Pole C-3 will fall off, A-Pole would get reassembled,
+
+296
+00:33:09,400 --> 00:33:17,560
+and that will assist this VLDL particle of getting cleared. One of the fundamental aspects of
+
+297
+00:33:17,560 --> 00:33:24,280
+metabolic syndrome is an inefficient process where these particles are the A-Pole's and
+
+298
+00:33:24,360 --> 00:33:31,160
+the A-Pole C-3s are not as mobile, and you end up having an A-Pole C-3 enriched small dense LDL
+
+299
+00:33:31,160 --> 00:33:39,240
+particle that is not cleared. So we're talking now about A-Pole in the blood. So that A-Pole
+
+300
+00:33:39,240 --> 00:33:44,840
+in the blood has maybe a different role than the A-Pole in the brain.
+
+301
+00:33:44,840 --> 00:33:51,880
+By the way, before we go to the brain, Hussein, I'm very familiar with A-Pole C-3 in the scenarios
+
+302
+00:33:51,880 --> 00:33:57,800
+you've described it, and frankly, I'm quite hopeful that in the near future, we'll have A-Pole
+
+303
+00:33:57,800 --> 00:34:05,480
+C-3 assays in the periphery as an increase in our armamentarium as we try to use biomarkers
+
+304
+00:34:05,480 --> 00:34:10,840
+to better understand cardiovascular disease risk. And can A-Pole C-3 levels be a part of residual
+
+305
+00:34:10,840 --> 00:34:15,880
+risk? Once you've minimized A-Pole B, will A-Pole C-3 tell us something above and beyond it? And as
+
+306
+00:34:15,880 --> 00:34:21,800
+you said, it tracks so closely with insulin resistance and metabolic syndrome. I'm less
+
+307
+00:34:21,800 --> 00:34:29,240
+familiar with A-Pole in the periphery and wasn't actually aware of just how promiscuous it was.
+
+308
+00:34:29,240 --> 00:34:33,080
+It seems to have affinity for a number of receptors at the liver. Doesn't it also have
+
+309
+00:34:33,080 --> 00:34:38,920
+affinity for the LDL receptor itself? It does have an affinity for the LDL receptor, but its
+
+310
+00:34:38,920 --> 00:34:45,800
+affinity is higher for LRP1, which is one of the LDL receptor family members. Yeah, A-Pole
+
+311
+00:34:46,360 --> 00:34:52,040
+is a bit more complicated than the rest of the lipoproteins because it can take many shapes and
+
+312
+00:34:52,040 --> 00:34:58,520
+forms, and the affinities can change based on lipid binding. It has two arms, an N-terminus,
+
+313
+00:34:58,520 --> 00:35:04,120
+a C-terminus. Typically, the N-terminus binds to the receptor, and the C-terminus is buried
+
+314
+00:35:04,120 --> 00:35:11,880
+inside the lipid core of a lipoprotein particle. It can dislodge and become lipid-free, or it can
+
+315
+00:35:12,440 --> 00:35:18,760
+lipidate. These interactions are critical to our understanding of how A-Pole functions.
+
+316
+00:35:19,720 --> 00:35:26,600
+The reason why we've had an investment in science in A-Pole largely is due to A-Pole4, because that
+
+317
+00:35:27,400 --> 00:35:34,040
+mutation that substitutes the arginine, the cysteine with the arginine, changes how A-Pole
+
+318
+00:35:34,040 --> 00:35:41,560
+folds and unfolds and starts to carry in weapons. Now, we can measure the concentration of A-Pole
+
+319
+00:35:41,560 --> 00:35:47,800
+B in the circulation. We can measure the concentration of A-Pole A in circulation.
+
+320
+00:35:47,800 --> 00:35:57,240
+And in fact, as you said, A-Pole B is so predictably linked to LpA, VLDL, IDL, and LDL
+
+321
+00:35:57,240 --> 00:36:03,400
+that we effectively use A-Pole concentration as a surrogate for LDL concentration, and we
+
+322
+00:36:03,400 --> 00:36:11,080
+effectively use A-Pole1 concentration as a surrogate for HDL concentration. What does A-Pole
+
+323
+00:36:11,080 --> 00:36:16,520
+concentration mean? I mean, to my knowledge, there is no commercial assay to measure A-Pole
+
+324
+00:36:16,520 --> 00:36:22,760
+concentration in the periphery, but should you measure it in the lab, what would it tell you?
+
+325
+00:36:23,480 --> 00:36:30,120
+It's like asking me, what instrument does the conductor play? Does he?
+
+326
+00:36:31,320 --> 00:36:35,800
+Not at the time he's conducting. He plays them all, I suppose, but indirectly.
+
+327
+00:36:36,440 --> 00:36:44,280
+Right. So the A-Pole concentration is elusive because it doesn't matter what the concentration
+
+328
+00:36:44,280 --> 00:36:51,080
+is. That doesn't tell you the same amount of information that A-Pole B or A-Pole A1 does.
+
+329
+00:36:51,880 --> 00:36:58,520
+There is a one-to-one correlation ratio between every A-Pole B particle and every LDL particle.
+
+330
+00:36:58,520 --> 00:37:05,000
+So you're really closely estimating how much LDL particles there is by measuring A-Pole B.
+
+331
+00:37:06,120 --> 00:37:11,320
+A-Pole A is a little bit more complex. It's not one-to-one, it could be one-to-four,
+
+332
+00:37:11,320 --> 00:37:18,760
+but you can estimate with every four A-Pole A1, A-Pole lipoproteins, one HDL particle.
+
+333
+00:37:19,480 --> 00:37:28,600
+Now, when we talk about A-Pole, what are we talking about? A-Pole HDL, A-Pole free, A-Pole VLDL,
+
+334
+00:37:28,600 --> 00:37:35,640
+A-Pole ideal, A-Pole LDL. So if you have at one given concentration tons of A-Pole on HDL,
+
+335
+00:37:35,640 --> 00:37:41,320
+you have a completely different phenotype than if you have it on VLDL. Because as we mentioned with
+
+336
+00:37:41,320 --> 00:37:47,560
+the conductor is trying to now make all the orchestra work, they have to stretch themselves
+
+337
+00:37:47,640 --> 00:37:53,160
+and they have to make the violinist play harder, or they have to make the piano pick up at certain
+
+338
+00:37:53,160 --> 00:37:59,480
+point. You can't make an assessment of the function of A-Pole by just measuring its concentrations.
+
+339
+00:38:00,040 --> 00:38:07,000
+And to some extent that holds true for A-Pole C3, although A-Pole C3 at extremes of measurements
+
+340
+00:38:07,000 --> 00:38:12,920
+is more predictable and could be useful toward understanding residual risk in metabolic diseases,
+
+341
+00:38:12,920 --> 00:38:21,880
+but A-Pole is more elusive. So what is A-Pole, again, the A-Pole lipoprotein? We'll wait until
+
+342
+00:38:21,880 --> 00:38:26,360
+we understand this a bit better before we get down to the genetic isoforms. What is A-Pole
+
+343
+00:38:26,360 --> 00:38:32,440
+doing in the brain? How does the conductor regulate things in the brain? Oh, so that conductor
+
+344
+00:38:32,440 --> 00:38:40,280
+analogy may not hold because we don't have our traditional LDL, VLDL in the brain. We only have
+
+345
+00:38:41,080 --> 00:38:49,480
+A-Pole lipoprotein particles that you may argue are completely different than what you're finding
+
+346
+00:38:49,480 --> 00:38:56,760
+in plasma. Some group of scientists believe that A-Pole lipoproteins in the brain are HDL,
+
+347
+00:38:57,320 --> 00:39:03,080
+but that by itself also is not accurate. They could have the size of HDL, but the composition
+
+348
+00:39:03,080 --> 00:39:11,720
+might be very different. So A-Pole in the brain is not facilitating clearance of lipids or the rate
+
+349
+00:39:11,720 --> 00:39:20,280
+by which lipolysis is happening. Its role in the brain is largely supporting the astrocytes. So
+
+350
+00:39:20,280 --> 00:39:29,400
+astrocytes are supporting neurons, but for astrocytes to support neurons, they need a mechanism that can
+
+351
+00:39:29,400 --> 00:39:36,520
+efficiently cross-talk different cell types, and A-Pole happens to be able to do many different
+
+352
+00:39:36,520 --> 00:39:46,360
+things. For example, an A-Pole in a glial cell can regulate through the exchange of lipids how
+
+353
+00:39:46,360 --> 00:39:53,480
+inflammatory the glial cell is going to be. An A-Pole in an astrocyte can take out cholesterol
+
+354
+00:39:53,480 --> 00:40:00,280
+from the astrocyte and give it through an LRP1-mediated uptake in the neuron to the neuron itself.
+
+355
+00:40:01,320 --> 00:40:07,640
+ApoE's are notorious for being robust. One of the earliest studies I have done, maybe seven,
+
+356
+00:40:07,640 --> 00:40:14,440
+eight years ago, was cutting the nerve of a rat model, and at that point we did a mass spec
+
+357
+00:40:14,440 --> 00:40:19,720
+experiment and found out one of the largest changes in hundreds, if not thousands, of proteins after
+
+358
+00:40:19,720 --> 00:40:28,280
+you just take a neuron and cut it, are drastic changes in A-Pole. A-Pole exponentially goes up
+
+359
+00:40:28,280 --> 00:40:36,200
+after damage. Whether it's a stroke, whether it's an artificial severing of a nerve, A-Pole will be
+
+360
+00:40:36,200 --> 00:40:44,200
+released at very high rates to make sure repair is going to happen. A-Pole uses its flexibility,
+
+361
+00:40:44,200 --> 00:40:51,000
+structural flexibility to transport lipids, uses its structural flexibility to regulate what
+
+362
+00:40:51,000 --> 00:40:59,480
+receptors and transporters the cell can actually express. One fundamental difference between A-Pole
+
+363
+00:40:59,480 --> 00:41:08,200
+B and A-Pole is that A-Pole B, once it's taken up by a liver cell, typically goes and gets a lysosomal
+
+364
+00:41:08,200 --> 00:41:16,360
+degradation pathway, and that biology by Goldstein and others have led to therapies including
+
+365
+00:41:16,360 --> 00:41:21,480
+statins and later PCSK9 inhibitors because A-Pole B can get degraded in the lysosome.
+
+366
+00:41:22,280 --> 00:41:27,400
+And if you can figure out how A-Pole B is degraded, you can make a medication. Now one fundamental
+
+367
+00:41:27,400 --> 00:41:32,920
+difference about A-Pole B from A-Pole E is that A-Pole E to a large extent escapes degradation,
+
+368
+00:41:33,640 --> 00:41:39,000
+and once it's taken up by a liver cell or an astrocyte or a neuron, it recycles back.
+
+369
+00:41:40,040 --> 00:41:46,200
+So it's a notorious A-Pole lipoprotein that can get inside the cell and then outside the cell,
+
+370
+00:41:46,200 --> 00:41:53,160
+recycling most of the time. And by recycling, maybe the conducted analogy or the thermostat
+
+371
+00:41:53,160 --> 00:41:59,560
+analogy works. It controls or fine-tunes how much lipids there is in the cell, and it fine-tunes
+
+372
+00:42:00,360 --> 00:42:03,640
+a lot of different pathways which are tied to lipid metabolism,
+
+373
+00:42:04,440 --> 00:42:10,840
+most importantly the inflammatory pathway. Now I assume the blood-brain barrier prevents
+
+374
+00:42:10,840 --> 00:42:18,920
+peripheral A-Pole from entering the brain and vice versa? The dogma says yes, but our research,
+
+375
+00:42:18,920 --> 00:42:23,320
+recent research suggests that A-Pole E4 but not A-Pole E3 might be able to slip.
+
+376
+00:42:23,960 --> 00:42:29,000
+Slip through all of those tight junctions? No, not through the tight junctions. The affinity
+
+377
+00:42:29,000 --> 00:42:36,200
+of A-Pole E4 to the LRP1 is quite higher than A-Pole E3 and A-Pole E2, and LRP1 is expressed
+
+378
+00:42:36,200 --> 00:42:41,080
+at the blood-brain barrier. So it could hack the system and get through the endothelial LRP1
+
+379
+00:42:41,080 --> 00:42:46,040
+into the brain. And do we have a sense of what the half-life is of A-Pole? I mean A-Pole,
+
+380
+00:42:46,040 --> 00:42:51,240
+as you said, is a relatively short half-life. I mean it's even without medication, it's life,
+
+381
+00:42:51,240 --> 00:42:56,040
+it's residence time and circulation is probably less than a week before it's going to get
+
+382
+00:42:56,040 --> 00:43:00,200
+recycled vis-a-vis the liver. How long is A-Pole hanging around?
+
+383
+00:43:00,200 --> 00:43:04,440
+That's a complicated question. The answer to that is which particle are we talking about?
+
+384
+00:43:04,440 --> 00:43:10,520
+Well, I'm actually saying the A-Pole itself in any form, whether it be free or bound to something
+
+385
+00:43:10,520 --> 00:43:15,640
+else, the actual A-Pole can, it sounds like what you're saying is it can be around for a very long
+
+386
+00:43:15,640 --> 00:43:21,720
+period of time and take multiple forms. Yeah, so if it's a lipid-free form, A-Pole can be rapidly
+
+387
+00:43:21,720 --> 00:43:28,760
+excreted or disappeared from the circulation. If it's bound to HDL, it tends to hang longer.
+
+388
+00:43:29,320 --> 00:43:36,120
+If it's bound to VLDL, it tends to hang out less because VLDL clearance rates are faster than
+
+389
+00:43:36,120 --> 00:43:45,320
+that of HDL. And this is a manage, so A-Pole is converting those properties to the lipoprotein
+
+390
+00:43:45,320 --> 00:43:52,200
+that's actually going to. All right, let's now talk a bit about the genetics that regulate
+
+391
+00:43:52,200 --> 00:44:00,920
+these different isoforms because A-Pole is a protein that exists in different forms and
+
+392
+00:44:00,920 --> 00:44:07,320
+that's not true of all of our genes. Now, thousands and thousands of years ago, say hundreds of
+
+393
+00:44:07,320 --> 00:44:11,960
+thousands of years ago, there was really only one isoform to the best of our knowledge, correct?
+
+394
+00:44:11,960 --> 00:44:18,840
+And that's the one that today we give the moniker E4 to, is that correct? That's right.
+
+395
+00:44:18,840 --> 00:44:25,320
+So just for the sake of argument, a couple hundred thousand years ago, all of our ancestors had one
+
+396
+00:44:25,320 --> 00:44:30,440
+version of this gene, so you had two copies of the E4 because you have two copies of every gene.
+
+397
+00:44:31,240 --> 00:44:39,480
+And what do we believe was the reason for that? I mean, presumably evolution has strong pressure.
+
+398
+00:44:39,480 --> 00:44:45,960
+Do we have a sense of what an A-Pole E4, well, actually before we do that, Hussein, let's ask
+
+399
+00:44:45,960 --> 00:44:52,200
+maybe the more relevant question, which is when did that change and what was the next isoform to
+
+400
+00:44:52,200 --> 00:44:57,720
+show up and do we have a sense of why? So I'm not an evolutionary biologist to give you
+
+401
+00:44:57,720 --> 00:45:03,160
+accurate responses, but I can probably ask the first question better than the second question.
+
+402
+00:45:03,160 --> 00:45:10,120
+And I think fundamentally I was alluding to in a few minutes ago to an important inflammatory
+
+403
+00:45:10,120 --> 00:45:20,040
+function for A-Pole E. A-Pole E is capable of turning a cell into an acute inflammatory state,
+
+404
+00:45:20,040 --> 00:45:26,440
+especially glial cells or immune cells, such as the macrophage. When the cell expresses A-Pole E,
+
+405
+00:45:27,240 --> 00:45:36,280
+it changes quite substantially its lipid content and it might be better equipped to become an
+
+406
+00:45:36,280 --> 00:45:46,120
+inflamed cell or the opposite. When the cell exchanges A-Pole E, it's also better equipped
+
+407
+00:45:46,120 --> 00:45:53,240
+to be a less inflamed cell. I know these are contradicting statements, but you have to realize
+
+408
+00:45:53,240 --> 00:45:59,640
+that A-Pole E can regulate things. You know, you can turn your thermostat on and off. It's not
+
+409
+00:46:00,360 --> 00:46:04,840
+one thing or the other. It could be in different forms depending on the situation,
+
+410
+00:46:04,840 --> 00:46:12,120
+on the interaction, on the time. It can flip because of its structural flexibility. Now A-Pole E4,
+
+411
+00:46:12,120 --> 00:46:20,920
+which is our ancestral variant, has a greater capacity to aggregate than A-Pole E3 and A-Pole E2.
+
+412
+00:46:21,880 --> 00:46:29,160
+This aggregation means that they're not suspended in solution favors a strong inflammatory response.
+
+413
+00:46:30,280 --> 00:46:39,480
+So when A-Pole E4 starts aggregating inside a microglia, it makes an acute inflammatory response
+
+414
+00:46:39,480 --> 00:46:48,760
+much more efficient and much more directed toward what the microglia is fighting. So let's step back
+
+415
+00:46:49,000 --> 00:46:55,080
+and imagine that we are 300,000 to 200,000 years ago. And then out of every 10, 20 births,
+
+416
+00:46:55,800 --> 00:47:02,600
+few are surviving and the others are dying. From peripheral sepsis, from other forms of infection,
+
+417
+00:47:03,400 --> 00:47:13,480
+we know now that A-Pole E4 women had a better chance of giving child births and protection from
+
+418
+00:47:13,560 --> 00:47:21,240
+peripheral sepsis compared to non-E4 women in the slums of Brazil or in certain areas in Africa.
+
+419
+00:47:22,600 --> 00:47:33,240
+We know that based on studies that E4 confers some form of an advantage. We also know that those who
+
+420
+00:47:33,240 --> 00:47:41,240
+have had E4 may have had better luck surviving not only parasitic infections. So in certain
+
+421
+00:47:41,240 --> 00:47:49,480
+countries in Nigeria, people who have had the E4 and is anophilia tend to be much healthier
+
+422
+00:47:49,480 --> 00:47:59,480
+than E4 carriers without is anophilia. And more importantly, non-E4 carriers with is anophilia.
+
+423
+00:47:59,480 --> 00:48:07,000
+So if you are living in a place where parasites are common and they're constantly testing your
+
+424
+00:48:07,000 --> 00:48:13,400
+immune system, you are much better off carrying the A-Pole E4 allele than not.
+
+425
+00:48:14,200 --> 00:48:19,000
+Locally, the macrophage is much better equipped to deal with the parasite. And importantly,
+
+426
+00:48:19,000 --> 00:48:26,600
+your brain is much better equipped to deal with whether it's TB, meningitis, and the mother would
+
+427
+00:48:26,600 --> 00:48:34,360
+be better equipped to fight a septic event during childbirth. So from that perspective,
+
+428
+00:48:34,360 --> 00:48:42,120
+ApoE4 is our ancestral gene. Now what happened over the last few hundred thousand years,
+
+429
+00:48:42,760 --> 00:48:49,720
+perhaps maybe over the last few hundred years, and let's not go far, we turned from a septic
+
+430
+00:48:49,720 --> 00:48:57,320
+environment to gradually an aseptic environment. And the second change that happened is that we've
+
+431
+00:48:57,320 --> 00:49:02,760
+prolonged our lifespan. And I know that you have a deal interest in aging. So we have now,
+
+432
+00:49:03,560 --> 00:49:08,920
+it's surprising to me reading from history books that just a hundred years ago, we're not talking
+
+433
+00:49:08,920 --> 00:49:14,360
+a hundred thousand years ago, a hundred years ago, the mean age was something of the 47. Am I
+
+434
+00:49:14,360 --> 00:49:18,760
+making things up? Does that make sense to you? It depends on where you look, but it was a little
+
+435
+00:49:18,760 --> 00:49:23,640
+more than 47, a hundred years ago in the developed world. But you're right. I mean, I think about,
+
+436
+00:49:23,640 --> 00:49:30,760
+you could say about a hundred to 150 years ago was really when we saw a big uptick in lifespan.
+
+437
+00:49:30,760 --> 00:49:37,000
+Right. So if that's the case, and let's assume we're not talking about the the kings and queens
+
+438
+00:49:37,000 --> 00:49:42,840
+in England, and let's talk about those people living in Nigeria or in Africa, anywhere you
+
+439
+00:49:42,840 --> 00:49:49,800
+or in Brazil. And let's imagine that these people have several milestones that they have to go
+
+440
+00:49:49,800 --> 00:49:55,960
+through to be able to survive to their next decade. And you would notice two things. One,
+
+441
+00:49:55,960 --> 00:50:04,280
+that APU-E4 carriers are surviving better. Two, that you're not seeing a disadvantage of APU-E4,
+
+442
+00:50:04,280 --> 00:50:12,120
+because these people are not living to 80. Some of them would probably die at 50 or 60 or 70,
+
+443
+00:50:12,120 --> 00:50:21,240
+but certainly they may not have the resources to make it to 96. So what happens to E4 carriers
+
+444
+00:50:21,320 --> 00:50:27,400
+when they're dying at 60 or 65? I mean, what I'm trying to say is, what doesn't happen to APU-E4
+
+445
+00:50:27,400 --> 00:50:34,680
+carriers when they're dying at 65? They don't get Alzheimer's. In that regards, it might provide
+
+446
+00:50:34,680 --> 00:50:43,320
+a plausible explanation of why this ancestral gene worked for us in the past, but may not work for us
+
+447
+00:50:43,880 --> 00:50:50,840
+in this modern aging population. It's always been confusing to me why there was any evolutionary
+
+448
+00:50:50,840 --> 00:51:00,040
+pressure to create variants of E3 and E2, because the best of my reading is that the E3 showed up
+
+449
+00:51:00,040 --> 00:51:07,960
+about 50,000 years ago, and E2 showed up about 10,000 years ago. And again, from a functional
+
+450
+00:51:07,960 --> 00:51:14,200
+standpoint, 10,000, 50,000, and 100,000 are basically the same. Nobody was really living
+
+451
+00:51:14,200 --> 00:51:21,400
+long enough to recoup the benefit of Alzheimer's disease risk reduction going from 300,000 years
+
+452
+00:51:21,400 --> 00:51:26,440
+ago to 50,000 to 10,000. No, I would look at that from a different perspective. I would,
+
+453
+00:51:26,440 --> 00:51:31,080
+again, no anthropologist, and my knowledge is really as mediocre as any of your readers or listeners.
+
+454
+00:51:31,960 --> 00:51:38,840
+I would look at it as mass movement and change in environment. From 200,000 years to 100,000 years
+
+455
+00:51:38,840 --> 00:51:44,280
+ago, there was mass movement from the African continents all the way to Europe, and that was
+
+456
+00:51:44,840 --> 00:51:52,840
+associated with a drastic change in diet. My understanding is that there was a heavily
+
+457
+00:51:52,840 --> 00:52:00,280
+favored meat consumption, including fish, in the rift valleys in Africa and in the savannas. And
+
+458
+00:52:00,280 --> 00:52:06,040
+when they moved to a plant-based diet in Northern Europe and where they started farming, I think
+
+459
+00:52:06,120 --> 00:52:14,120
+that put pressure on APOE4 and allowed APOE3 and APOE2 to be more successful. And this is a
+
+460
+00:52:14,120 --> 00:52:21,720
+slightly different twist because APOE4, as much as it's very strong against inflammation, it thrives
+
+461
+00:52:21,720 --> 00:52:30,840
+on a specific dietary lipid-providing environment. And remember that APOE4, one of the fundamental
+
+462
+00:52:30,920 --> 00:52:37,480
+aspects that we learned from Alzheimer's is that APOE4 makes Glute 1 less successful at the
+
+463
+00:52:37,480 --> 00:52:46,280
+blood-brain barrier. So what APOE4 does, it somehow tells the brain, you know, I don't want you to be
+
+464
+00:52:46,280 --> 00:52:54,360
+eating sugar all the time. You have to be more resilient and rely on fat. And again, this is a
+
+465
+00:52:54,440 --> 00:53:02,840
+hypothesis. This is not based on true hard science, but the idea is that our ancestral APOE4
+
+466
+00:53:03,480 --> 00:53:12,200
+diets matched APOE4. And then when they moved to a plant-based diet, the effect of APOE4 on Glute 1
+
+467
+00:53:12,200 --> 00:53:18,120
+was now counterintuitive. Now there's more carbohydrates and you want something that
+
+468
+00:53:18,120 --> 00:53:23,960
+will help Glute 1 and not oppose it. And APOE3 and APOE2 would actually favor a more robust
+
+469
+00:53:23,960 --> 00:53:29,640
+Glute 1 expression of the blood-brain barrier, which means they favor a more glucose utilization
+
+470
+00:53:29,640 --> 00:53:38,440
+of the brain. So when did it first become apparent, either to epidemiologists or neurologists or
+
+471
+00:53:38,440 --> 00:53:46,680
+anybody else studying it for that matter, that these three isoforms predicted a very different
+
+472
+00:53:46,760 --> 00:53:54,920
+risk of Alzheimer's disease in modern humans? The story is we're in the late 80s and this is a time
+
+473
+00:53:55,640 --> 00:54:02,200
+where genetics is gaining traction. You know, I recently watched a very nice series, I think,
+
+474
+00:54:02,200 --> 00:54:10,040
+on PBS Masterpieces discussing how a revolution in genetic fingerprinting changed how we do policing,
+
+475
+00:54:10,040 --> 00:54:15,720
+figured out who is guilty and who's not. And that happened. What's interesting is that this
+
+476
+00:54:15,720 --> 00:54:24,680
+science was happening between 81 and 84. So around 1988-89, a researcher at Duke by the name of
+
+477
+00:54:24,680 --> 00:54:31,880
+Alan Rosas was running an Alzheimer's group and had access to a very robust, at that time robust
+
+478
+00:54:31,880 --> 00:54:38,360
+enough, obviously now it's not robust at all, but he had the ability to genetically profile a large
+
+479
+00:54:38,360 --> 00:54:46,040
+number of common variants of people dying with and without Alzheimer's. At that point in time,
+
+480
+00:54:46,840 --> 00:54:53,960
+he publishes a case series, a few hundreds, with and without Alzheimer's and identifies that
+
+481
+00:54:54,600 --> 00:55:00,920
+patients with Alzheimer's had substantially higher ApoE4 compared to non-Alzheimer's. And,
+
+482
+00:55:00,920 --> 00:55:07,240
+you know, remember that we have known ApoE4 since the 60s. So this is not a new discovery,
+
+483
+00:55:07,240 --> 00:55:12,520
+but we didn't know anything about ApoE4 and Alzheimer's disease until that time.
+
+484
+00:55:13,320 --> 00:55:19,320
+So he meets a lot of backlash because the prevailing hypothesis at that time is that Alzheimer's
+
+485
+00:55:20,040 --> 00:55:25,480
+is amyloid accumulating and leading to the amyloid cascade hypothesis where you form
+
+486
+00:55:25,480 --> 00:55:31,400
+amyloid plaques and then you get taut angles. And the field at that point was heavily vested in this
+
+487
+00:55:31,400 --> 00:55:40,040
+amyloid hypothesis. So Alan Rosas later on, a few years later, publishes a larger study,
+
+488
+00:55:40,040 --> 00:55:47,720
+which contains now longitudinal follow-up people, you know, progressing to disease and confirms the
+
+489
+00:55:47,720 --> 00:55:54,600
+observation that if you are an ApoE4 carrier, chances of getting Alzheimer's are substantially
+
+490
+00:55:54,600 --> 00:56:00,440
+higher than if you are a non-ApoE4 carrier. And we're talking about late onset Alzheimer's disease,
+
+491
+00:56:00,440 --> 00:56:07,880
+the most common form, which happens after the age of 60. So at that time, Alan Rosas cemented
+
+492
+00:56:07,880 --> 00:56:16,360
+his name as among those who identified the association of ApoE4 with AD. Do you have a
+
+493
+00:56:17,000 --> 00:56:22,360
+rough sense at the time, and I think it's probably quite different today, but do you have a broad
+
+494
+00:56:22,360 --> 00:56:32,600
+sense at the time of what the hazard ratios were of E44 versus 34 versus 33? I don't think the
+
+495
+00:56:32,600 --> 00:56:39,240
+hazard ratios would change substantially in a matter of two to three decades. So what we know
+
+496
+00:56:39,240 --> 00:56:46,520
+now is that if you have two copies of ApoE4, your chance of getting Alzheimer's increases 12 fold.
+
+497
+00:56:47,480 --> 00:56:53,960
+If you have one copy of ApoE4, your chance of having Alzheimer's increases anywhere from two to
+
+498
+00:56:53,960 --> 00:57:01,800
+four fold. And what does that matter, by the way, if it's a four, two, or a four, three? Yeah, so four,
+
+499
+00:57:01,800 --> 00:57:07,640
+three means you have one copy of ApoE4. And the question becomes a little difficult when you have
+
+500
+00:57:08,280 --> 00:57:14,360
+two, four, because two is supposed to be protective. Those who have ApoE2 are protected
+
+501
+00:57:14,360 --> 00:57:20,280
+from getting Alzheimer's disease. So the two, four carriers sometimes behave as four, sometimes
+
+502
+00:57:20,280 --> 00:57:26,200
+behave as two, and this might have to do with how well these proteins are getting expressed inside
+
+503
+00:57:26,200 --> 00:57:35,080
+the cells. And potentially other genes as well, like Tom40 or FGF and things like that that seem
+
+504
+00:57:35,080 --> 00:57:40,360
+to also play a role here, but or frankly, things that we haven't understood, like you see families
+
+505
+00:57:40,360 --> 00:57:48,120
+with a very involved family history, and they might only have one copy of the E4, but it's,
+
+506
+00:57:48,120 --> 00:57:52,360
+it's a, it behaves in a very virulent way. I mean, you see the same thing in cardiovascular disease
+
+507
+00:57:52,360 --> 00:57:59,160
+where some families have LP little a, and the level is not particularly high, but it still behaves
+
+508
+00:57:59,160 --> 00:58:06,040
+very aggressively. And you'll see other families where LP little a is, I mean, astronomically high,
+
+509
+00:58:06,040 --> 00:58:12,920
+and yet they seem largely spared of premature atherosclerosis. Correct. So I think one way to
+
+510
+00:58:13,480 --> 00:58:20,840
+rephrase the question is, how do we explain that not all ApoE4 carriers have the same risk of
+
+511
+00:58:20,840 --> 00:58:27,720
+Alzheimer's disease? And that's largely seen by ethnicity. So people who live in Nigeria,
+
+512
+00:58:27,720 --> 00:58:33,640
+for example, the risk of having Alzheimer's disease is substantially less than people who
+
+513
+00:58:33,640 --> 00:58:42,440
+live in the US or in Japan. The Hispanic Latino Latinx population carrying an E4 does not produce
+
+514
+00:58:42,440 --> 00:58:50,920
+the same risk of AD compared to white people or Japanese people carrying the ApoE4. So how do we
+
+515
+00:58:50,920 --> 00:58:57,720
+explain that? And that's a fundamentally important question. And as you just alluded to or noted,
+
+516
+00:58:58,360 --> 00:59:05,160
+ApoE4 is part of a gene locus that in other words, it's part of a haplotype.
+
+517
+00:59:05,880 --> 00:59:13,480
+That's a section of a chromosome where a bunch of gene variants are getting co-inherited.
+
+518
+00:59:14,040 --> 00:59:22,200
+They are within the same locus. So ApoE4 is found on chromosome 19. Around ApoE4 is approximately
+
+519
+00:59:22,200 --> 00:59:29,960
+20 to 30 different gene variants that happen to be co-inherited with ApoE4. And the description
+
+520
+00:59:29,960 --> 00:59:36,680
+between these gene variants are described by what we call linkage disequilibrium. If the
+
+521
+00:59:36,680 --> 00:59:43,800
+linkage disequilibrium is closer to one, it means every time you have ApoE4, let's assume now we're
+
+522
+00:59:43,800 --> 00:59:50,280
+talking about the long version of Tom40, you can have the long version of Tom40 expressed with it.
+
+523
+00:59:51,080 --> 00:59:57,480
+Now that linkage disequilibrium is what differs between ethnicities and can largely also explain
+
+524
+00:59:58,200 --> 01:00:05,640
+why certain ethnicities develop disease and certain don't. So as humans or generations are
+
+525
+01:00:05,640 --> 01:00:13,400
+getting interbred and crossed, the fidelity of this linkage disequilibrium can start getting
+
+526
+01:00:13,400 --> 01:00:19,640
+breached. Meaning now you can start introducing the short version of Tom40 next to ApoE4.
+
+527
+01:00:19,640 --> 01:00:27,720
+Or you can start introducing another version of ApoC1 or ApoC2 or ApoC3. All these are in the
+
+528
+01:00:27,720 --> 01:00:36,840
+same location as the ApoE, together with again another 20 to 30 other genes. So that doesn't
+
+529
+01:00:36,840 --> 01:00:42,600
+diminish the importance of ApoE4, but tells us that ApoE4 by itself may not be sufficient to
+
+530
+01:00:42,600 --> 01:00:48,200
+provide disease. It has to be in an environment that promotes its pathogenicity.
+
+531
+01:00:49,000 --> 01:00:56,840
+And all things equal, from a clinical perspective, we are more worried when someone of Asian or
+
+532
+01:00:56,840 --> 01:01:05,800
+Caucasian ethnicity has it versus someone of Latin or African descent. Is that a fair assessment?
+
+533
+01:01:05,800 --> 01:01:11,800
+Again, it's an oversimplification, but just based on the epidemiology and also based on frankly,
+
+534
+01:01:12,520 --> 01:01:18,280
+potentially what you said earlier, which is the origin of the gene. This is a gene that
+
+535
+01:01:19,160 --> 01:01:26,120
+takes its roots very early in our ancestry and offered an important protection.
+
+536
+01:01:27,080 --> 01:01:32,200
+And potentially by the time we migrated to a more northern climate, some of that protection
+
+537
+01:01:32,200 --> 01:01:38,840
+was less necessary. Again, that's a teleologic sort of hand waving rationalization. But is that
+
+538
+01:01:39,000 --> 01:01:46,760
+a safe assessment that everything you're saying risk is just going to be higher in Caucasians and Asians?
+
+539
+01:01:47,640 --> 01:01:53,800
+I wouldn't go with a blank statement. Maybe in general, yes, but maybe there are what we call
+
+540
+01:01:54,520 --> 01:01:59,320
+either gene-gene interactions or gene environment interactions that have to take into account.
+
+541
+01:01:59,320 --> 01:02:06,520
+Let me give you a simple example. In a Colombian study, they show that ApoE4 by itself may not
+
+542
+01:02:06,600 --> 01:02:13,000
+substantially increase the risk of Alzheimer's disease, but since diabetes is prevalent in a
+
+543
+01:02:13,000 --> 01:02:19,560
+certain city in Colombia, diabetics who were ApoE4 carriers had substantial increase in AD risk
+
+544
+01:02:19,560 --> 01:02:26,360
+compared to diabetics alone or ApoE4 carriers alone. And this is an example of a gene by
+
+545
+01:02:26,360 --> 01:02:34,440
+environment interaction. So just to be sure we got that right, E4 with diabetes was higher risk
+
+546
+01:02:34,440 --> 01:02:41,960
+than E4 without diabetes and higher risk than diabetes without E4. Yes. By way of comparison,
+
+547
+01:02:41,960 --> 01:02:48,760
+do you recall what the risk was of E4 without diabetes to diabetes without E4, which was second?
+
+548
+01:02:48,760 --> 01:02:53,160
+I don't recall the numbers, but I can tell you they were not striking at all. So when I actually
+
+549
+01:02:53,160 --> 01:03:01,480
+looked at the data, the E4 risk by itself seemed barely above non-E4 carriers. So if you looked at
+
+550
+01:03:01,480 --> 01:03:08,040
+it and you'd say, this is a healthy Colombian who's farming all day long, lean, and they have
+
+551
+01:03:08,040 --> 01:03:14,440
+absolutely no metabolic diseases, the E4 is doing nothing. Yeah. You mentioned something earlier
+
+552
+01:03:14,440 --> 01:03:18,200
+that I thought was super fascinating. I want to come back to it, which is some of the diet
+
+553
+01:03:18,200 --> 01:03:23,000
+interactions. So let's go back to where you left it, which was when talking about it through the
+
+554
+01:03:23,000 --> 01:03:29,480
+lens of the E4 carrier. The first thing you mentioned is, look, E4 makes GLUT1 less successful
+
+555
+01:03:29,480 --> 01:03:34,760
+at the blood-brain barrier. And you've already established for us that GLUT1 is basically
+
+556
+01:03:34,760 --> 01:03:40,520
+regulated by peripheral glucose concentration. Its purpose is to make sure that when glucose is
+
+557
+01:03:41,320 --> 01:03:46,440
+in low abundance, the brain gets first dibs on it, and that when glucose is in overly high
+
+558
+01:03:46,440 --> 01:03:51,960
+abundance, the brain is protected from it. So now you have an E4, you have a person who's an E4
+
+559
+01:03:51,960 --> 01:03:58,840
+variant, they're less sensitive to that mechanism. Presumably that means in an environment richer in
+
+560
+01:03:58,840 --> 01:04:05,800
+glucose, they're less able to appropriately partition fuel. Is that a safe assessment?
+
+561
+01:04:05,800 --> 01:04:12,360
+Yes. You can argue that in an environment that is rich of glucose, or maybe in a different term,
+
+562
+01:04:12,360 --> 01:04:20,680
+an insulin resistant environment, E4 carriers are less capable of regulating by many mechanisms in
+
+563
+01:04:20,680 --> 01:04:26,520
+gluting GLUT1, the fluctuations in glucose, and they're more susceptible to disease. But by no
+
+564
+01:04:26,520 --> 01:04:33,160
+means this is a restricted relationship of APOE4 to GLUT1, because we also know from studies that
+
+565
+01:04:33,160 --> 01:04:39,320
+we have done in others, that APOE4 also affect the transporters that transport omega-3 fatty
+
+566
+01:04:39,320 --> 01:04:44,440
+acids into the brain. Now we're going to come to that in a moment, because that of course is,
+
+567
+01:04:44,440 --> 01:04:50,840
+I mean, in many ways, one of the most interesting things to now talk about. But before we go there,
+
+568
+01:04:50,840 --> 01:04:59,560
+I do want to come back to this idea of, do we have an understanding of type 2 diabetes, which is
+
+569
+01:04:59,560 --> 01:05:04,600
+simply a very extreme version of insulin resistance and metabolic dysregulation, does it
+
+570
+01:05:04,600 --> 01:05:13,640
+disproportionately then, I hate to use the word, but punish carriers of APOE4 versus E3 versus E2?
+
+571
+01:05:13,720 --> 01:05:18,440
+Is that clearly established in the epidemiology? I don't think so.
+
+572
+01:05:21,160 --> 01:05:28,200
+I wouldn't look at it as type 2 diabetes is a distinct disease that punishes APOE4, because type
+
+573
+01:05:28,200 --> 01:05:34,280
+2 diabetes to me is a syndrome, not a disease. So what are we talking about? And it's frankly a
+
+574
+01:05:34,280 --> 01:05:39,160
+pretty significant spectrum for that matter. Correct. So are we talking about an individual
+
+575
+01:05:39,160 --> 01:05:44,760
+who is consuming a large amount of carbohydrates who gets type 2 diabetes? Are we talking about
+
+576
+01:05:44,760 --> 01:05:52,840
+APOE4 itself? Because as you probably may know, APOE4 by itself creates a system with aging that
+
+577
+01:05:52,840 --> 01:06:01,720
+makes an individual insulin resistant. So in one regards, APOE4 could be a factor for why a certain
+
+578
+01:06:01,720 --> 01:06:09,080
+person may get type 2 diabetes. So in that regards, APOE4 is not conspiring with type 2 diabetes
+
+579
+01:06:09,080 --> 01:06:16,760
+it might be behind type 2 diabetes. So you have to look at type 2 diabetes from a more individualized
+
+580
+01:06:17,560 --> 01:06:24,360
+causal, what's causing type 2 diabetes here? Is it the diet? Is it genetics? And how is APOE4
+
+581
+01:06:24,360 --> 01:06:32,280
+interacting with this phenotype is probably more complicated than an A1c and the genotype
+
+582
+01:06:32,280 --> 01:06:38,280
+in the large population. Because when you look deep enough into these studies, you find quite
+
+583
+01:06:38,280 --> 01:06:45,240
+a bit of discordant results that makes it hard to explain. You sort of alluded to it earlier that
+
+584
+01:06:46,040 --> 01:06:53,960
+the E4 carriers as they migrated, ancestrally say out of Africa or even out of South America,
+
+585
+01:06:54,680 --> 01:06:59,720
+were primarily consuming a diet lower in carbohydrates, presumably higher in protein
+
+586
+01:06:59,720 --> 01:07:09,000
+and fat. Do we have any reason to believe today that there is a rationale for matching diet to
+
+587
+01:07:09,000 --> 01:07:18,440
+genotype? So right now in major studies that looked at APOE4 dietary patterns in the Western world,
+
+588
+01:07:19,160 --> 01:07:24,440
+they don't differ by genotype. So if you're looking at the US or Europe, an APOE4 carrier
+
+589
+01:07:25,000 --> 01:07:29,880
+may well likely be eating a similar diet, a non-carrier. Now would that lead to the same
+
+590
+01:07:29,880 --> 01:07:35,400
+detrimental effect? Yeah, sorry. My question is less about the existing dietary pattern and more
+
+591
+01:07:35,400 --> 01:07:42,360
+of the prospective ask of is there a reason to change dietary pattern to produce a better outcome?
+
+592
+01:07:42,920 --> 01:07:50,440
+Yes, of course. So this is part of what we're studying is how does APOE4 interact with the
+
+593
+01:07:50,440 --> 01:07:58,360
+diet and how that interaction can change disease processes. And what we know is that the first
+
+594
+01:07:58,360 --> 01:08:04,360
+concept that your listeners should be aware of is that APOE4 is a disease of aging.
+
+595
+01:08:05,000 --> 01:08:07,240
+Do you mean Alzheimer's disease is a disease of aging?
+
+596
+01:08:07,240 --> 01:08:13,320
+Or? Alzheimer's disease is a disease of aging, but APOE4 risk of developing Alzheimer's and aging
+
+597
+01:08:13,320 --> 01:08:22,040
+related diseases is fundamentally based on the aged model. Younger 35 year olds, APOE4 carriers,
+
+598
+01:08:22,040 --> 01:08:30,520
+to my knowledge, do not have frank presentations of a disease. A younger APOE4 carrier who could
+
+599
+01:08:30,520 --> 01:08:36,840
+be myself or you or anybody else could be fully functional. It's only when you hit a certain age
+
+600
+01:08:36,840 --> 01:08:45,160
+that APOE4 carriers start to have problems and not all of them. So the majority of APOE4 carriers,
+
+601
+01:08:45,160 --> 01:08:51,720
+you may argue, are surviving, they're striving, they're doing okay. So there's only a subset of
+
+602
+01:08:51,720 --> 01:08:57,560
+APOE4 carriers who are aging and getting disease. So then the question is, who are these people?
+
+603
+01:08:57,560 --> 01:09:03,000
+How do we explain them? Is it only generics or is there a dietary genetic interaction?
+
+604
+01:09:03,800 --> 01:09:10,520
+And I think the answer to this question has to do with what is happening with these people as they
+
+605
+01:09:10,520 --> 01:09:19,000
+age. Are they developing other diseases? Are they, for example, we know that an APOE4 carriers who
+
+606
+01:09:19,000 --> 01:09:24,520
+happen to be the victim of a traumatic brain injury has much worse outcomes than that without
+
+607
+01:09:24,520 --> 01:09:31,400
+traumatic brain injury. We know that an APOE4 carrier possibly with type 2 diabetes may have
+
+608
+01:09:31,480 --> 01:09:37,880
+worse outcomes than an APOE4 carrier without. But again, as I mentioned to you, this is a little bit
+
+609
+01:09:37,880 --> 01:09:44,200
+more complicated because not all type 2 diabetes is the same. We know that an APOE4 carrier who
+
+610
+01:09:44,920 --> 01:09:50,120
+may have a second head could be a genetic second head. They're inheriting another protein that
+
+611
+01:09:50,120 --> 01:09:56,440
+increases the risk of Alzheimer's disease. Now their path toward disease is much more accelerated.
+
+612
+01:09:57,400 --> 01:10:03,640
+So what we also know is that as we age, our ability, ourselves,
+
+613
+01:10:04,440 --> 01:10:12,920
+lose the ability to regenerate and to sustain a certain status. And that is associated with
+
+614
+01:10:13,480 --> 01:10:21,720
+lapses in energy production. That is associated with several complications, which include at the
+
+615
+01:10:21,800 --> 01:10:31,000
+blood-brain barrier, a reduced ability to express those Glut1 transporters, Omega-3 transporters,
+
+616
+01:10:31,000 --> 01:10:39,240
+and even ketone body transporters. So the aging APOE4 individual who has second and third heads
+
+617
+01:10:40,200 --> 01:10:47,000
+is now straining the brain and leading to an environment where in this situation
+
+618
+01:10:47,640 --> 01:10:55,000
+the diet may make a difference. Another angle to look at this question is there are certain diets
+
+619
+01:10:55,000 --> 01:10:59,480
+and you know coming from the cardiovascular background, we both agree that there are certain
+
+620
+01:10:59,480 --> 01:11:08,680
+diets that can accelerate aging or create a form of stress that can be the second head that APOE4
+
+621
+01:11:08,680 --> 01:11:16,120
+carriers are exposed to accelerate toward an aging brain that is diseased. I know the answers
+
+622
+01:11:16,120 --> 01:11:26,920
+may not be crystal clear, but the diet interaction with APOE4 is contingent upon aging and a second
+
+623
+01:11:26,920 --> 01:11:35,480
+or a third head. But what seems interesting and what you just said to me is a big part of the
+
+624
+01:11:35,480 --> 01:11:43,800
+manner in which APOE4 transmits its risk to the individual is through an energy crisis.
+
+625
+01:11:44,680 --> 01:11:51,400
+Much of what you said had to do with substrate. It had to do with reducing
+
+626
+01:11:52,280 --> 01:12:00,520
+the utilization of and or access to substrate. Is that a fair assessment? That is one hypothesis.
+
+627
+01:12:00,520 --> 01:12:07,800
+It's a prevailing energy hypothesis that links APOE4 with disease and aging. There are other
+
+628
+01:12:07,800 --> 01:12:16,040
+hypotheses which do not have to be exclusive of this hypothesis, meaning that you could also have
+
+629
+01:12:16,680 --> 01:12:24,440
+an energy slash inflammation differences that predispose APOE4 to neuroinflammation
+
+630
+01:12:25,480 --> 01:12:33,400
+and that by itself could lead to an accelerated disease pathway. You could also have an APOE4
+
+631
+01:12:34,040 --> 01:12:39,000
+backslash. It could be a vascular component here as well. Yeah, a vascular or leakage component.
+
+632
+01:12:39,000 --> 01:12:43,720
+There's a group at USC where I work that has shown that there is leakage in the
+
+633
+01:12:43,720 --> 01:12:49,320
+blood-brain barrier allowing toxins to get into the brain and shrink cells. That is by itself
+
+634
+01:12:50,360 --> 01:12:57,240
+non-exclusively related to the dietary or the inflammation. We do not want to say,
+
+635
+01:12:57,240 --> 01:13:01,320
+this is it and that's only it. It is plausible that there are multiple heads,
+
+636
+01:13:01,400 --> 01:13:06,040
+but you could look at it from different angles. Well, not only that, I mean those hits are
+
+637
+01:13:06,040 --> 01:13:11,880
+synergistic and in the wrong direction. If you have leaky blood-brain barrier and you're more
+
+638
+01:13:11,880 --> 01:13:18,520
+predisposed to inflammation, which again, as you pointed out, was very helpful 300,000 years ago
+
+639
+01:13:18,520 --> 01:13:23,880
+when we were fraught with parasites, you now have two hits within the same hit, which is you're more
+
+640
+01:13:23,880 --> 01:13:28,840
+likely to get toxins across the blood-brain barrier, which is bad in and of itself. Then secondly,
+
+641
+01:13:28,840 --> 01:13:33,400
+you're more likely to have an overreactive immune response to it. If you couple that
+
+642
+01:13:33,400 --> 01:13:39,240
+with say a third hit of neuronal energy starvation, these things begin to circle.
+
+643
+01:13:40,600 --> 01:13:48,680
+Let's pivot for a moment now to another enormous area of focus for you, which is the role of omega
+
+644
+01:13:48,680 --> 01:13:54,200
+3 fatty acids. This is such an interesting topic. There's nobody listening to this who hasn't heard
+
+645
+01:13:54,200 --> 01:13:58,760
+of omega 3 fatty acids. Even if they haven't heard of them in exactly those terms, people have
+
+646
+01:13:58,760 --> 01:14:05,640
+certainly heard the terms EPA and DHA. There's no shortage of confusion about these things.
+
+647
+01:14:06,520 --> 01:14:10,200
+I guess for the odd person who maybe just doesn't know exactly what we're talking about, can you
+
+648
+01:14:10,200 --> 01:14:17,000
+give just a brief overview of what EPA and DHA are and why we spend so much time and energy
+
+649
+01:14:17,000 --> 01:14:22,360
+trying to study and understand their role in human health? There isn't really a short answer
+
+650
+01:14:22,360 --> 01:14:28,520
+to a complicated question like this one, but in a nutshell, when you break down the components of
+
+651
+01:14:28,520 --> 01:14:37,080
+the brain, you find that a significant portion, in some studies 50 or 40 percent of the brain is
+
+652
+01:14:37,080 --> 01:14:47,800
+composed of polyunsaturated fatty acids such as DHA, EPA, and arachidonic acid AA. The EPA, DHA,
+
+653
+01:14:48,360 --> 01:14:55,880
+and add to that alpha linoleic acid ALA are known as omega 3s. In contrast, arachidonic acid is in
+
+654
+01:14:55,880 --> 01:15:04,440
+omega 6. So the brain is highly enriched in both omega 3s and omega 6s, and you contemplate why.
+
+655
+01:15:05,160 --> 01:15:10,680
+Why do we have so much of these fatty acids in the brain? And the fundamental answer has to do
+
+656
+01:15:10,680 --> 01:15:18,920
+with membrane fluidity. Having polyunsaturated fatty acids in neuronal membrane facilitates
+
+657
+01:15:18,920 --> 01:15:25,080
+to a large extent the neuronal firing that we just talked about in the beginning. So this
+
+658
+01:15:25,080 --> 01:15:32,600
+composition of fat allows the brain or the neurons to conduct their work very efficiently.
+
+659
+01:15:33,480 --> 01:15:40,680
+So DHA is the predominant building block, the most commonly found omega 3 in the brain.
+
+660
+01:15:41,480 --> 01:15:48,920
+EPA is not that common. DHA or docosa hexanoic acid is given that name because of the number
+
+661
+01:15:48,920 --> 01:15:57,240
+of fatty acids and the number of double bonds. It's six. EPA has five of, and we're talking about
+
+662
+01:15:57,880 --> 01:16:05,800
+the location of the double bonds in the structure of DHA or EPA. EPA is not very abundant
+
+663
+01:16:07,240 --> 01:16:13,160
+in the brain, but that doesn't mean it's not very important. EPA is less abundant but has
+
+664
+01:16:13,160 --> 01:16:21,640
+perhaps stronger anti-inflammatory effects than DHA. There is limited interconversion between DHA
+
+665
+01:16:21,640 --> 01:16:30,680
+and EPA, but DHA can become EPA. And also EPA can become DHA, but that process is also limited.
+
+666
+01:16:31,480 --> 01:16:37,240
+The reason people talk about omega 3s and they make a big deal out of it is because the human
+
+667
+01:16:37,240 --> 01:16:43,400
+body doesn't have an efficient system to make them from scratch. In fact, you can't make them
+
+668
+01:16:43,400 --> 01:16:49,800
+from scratch. If you want to make them, you need a precursor known as alpha-alinoic acids or ALA
+
+669
+01:16:50,680 --> 01:16:58,360
+by a group of desaturases. ALA can get transformed into DHA and EPA. However, it is widely believed
+
+670
+01:16:58,360 --> 01:17:08,280
+that only 0.5% of DHA and EPA are made from conversion of ALA. That number though, you have
+
+671
+01:17:08,280 --> 01:17:14,120
+to take it with a grain of salt because there might be evidence that in diets vegetarians or
+
+672
+01:17:14,120 --> 01:17:19,720
+vegans who do not eat fish, that conversion rate may actually be much higher. But despite that,
+
+673
+01:17:19,720 --> 01:17:27,560
+that conversion rate has not been documented to exceed 5%. So at the most, 5% of DHA and EPA
+
+674
+01:17:27,560 --> 01:17:35,880
+can come from ALA, although most people argue that it's only 0.5%. So what does that mean for us?
+
+675
+01:17:36,440 --> 01:17:43,960
+If we can't make DHA and EPA and we rely on diet to get them, what does it mean that we are not
+
+676
+01:17:43,960 --> 01:17:51,560
+getting them? So what I've just alluded to is the US diet. And you probably know as much as I do
+
+677
+01:17:51,560 --> 01:18:01,320
+even more that the US diet is not enriched in DHA or EPA. The consumption of DHA and EPA in the US,
+
+678
+01:18:01,320 --> 01:18:08,280
+I can give you an example, DHA is averaging 100 milligrams per day, is low. That consumption
+
+679
+01:18:09,080 --> 01:18:17,880
+may not provide enough omega-3s to the brain. And the question is, does that result in disease?
+
+680
+01:18:18,840 --> 01:18:28,600
+And the answer is likely, yes. Now what we don't know is the supplementing people with omega-3s
+
+681
+01:18:28,600 --> 01:18:35,960
+make a difference. And the answer to that question is, at this point we don't know that that makes a
+
+682
+01:18:35,960 --> 01:18:44,120
+difference. Simply because research on supplements have not panned out. It's very conflicted. There
+
+683
+01:18:44,200 --> 01:18:50,360
+are positive studies, there are negative studies, and the supplements themselves are quite distinct
+
+684
+01:18:50,360 --> 01:18:56,520
+and different in production and concentrations and quantities and qualities. So I know I have
+
+685
+01:18:56,520 --> 01:19:02,280
+alluded to a lot of different aspects of this field, but the answer to your question is that
+
+686
+01:19:02,280 --> 01:19:09,320
+these omega-3 fatty acids are important for the brain. We can't make them efficiently and we're
+
+687
+01:19:09,400 --> 01:19:16,440
+not consuming enough of them. And as you also alluded to, when we supplement them, they can come
+
+688
+01:19:16,440 --> 01:19:23,800
+in various forms, right? We can get them from microalgae, which tend to be triglyceride based.
+
+689
+01:19:24,360 --> 01:19:31,800
+We can refine them from fish oils directly, which are ethyl esters, or they can come from
+
+690
+01:19:31,800 --> 01:19:38,200
+krill oils, which are phospholipid based. Does that sound about right? Yes, yes. You can get
+
+691
+01:19:38,200 --> 01:19:44,440
+omega-3s from all these sources. It basically has to be marine. I mean, that's sort of the bottom
+
+692
+01:19:44,440 --> 01:19:52,040
+line is it has to have some sort of tie to algae or microalgae either being consumed by other
+
+693
+01:19:52,040 --> 01:19:57,640
+things like fish. And it's funny, I sort of remember many years ago reading something very
+
+694
+01:19:57,640 --> 01:20:04,680
+interesting that explained why EPA and DHA had to have some sort of a marine origin predominantly,
+
+695
+01:20:04,680 --> 01:20:10,920
+and it had to do with the formation of the third carbon double bond. And I can't remember any more
+
+696
+01:20:10,920 --> 01:20:16,280
+than that. Does that ring a bell, anything about this? I can tell you that the complexity of the
+
+697
+01:20:16,280 --> 01:20:23,000
+structural distribution of these double bonds requires a certain machinery to make them that
+
+698
+01:20:23,000 --> 01:20:31,480
+is present in algae. Now, why wouldn't other species make it? I don't know. Yeah, it had to do exactly
+
+699
+01:20:31,560 --> 01:20:39,560
+with the very, very complex carbon fixation that only algae could do. Let's start with what we know.
+
+700
+01:20:40,280 --> 01:20:46,840
+You have a pretty good sense that people who have higher levels of EPA and DHA from consumption of
+
+701
+01:20:46,840 --> 01:20:55,080
+fish have better outcomes than people who don't. Do we know that pretty well? I don't know. I honestly
+
+702
+01:20:55,080 --> 01:21:03,960
+don't know if this is very clear. What my knowledge is, is that the opposite might be closer to truth,
+
+703
+01:21:04,680 --> 01:21:14,280
+meaning that people who don't eat at all fish or seafood or omega-3 rich diets might be at a higher
+
+704
+01:21:14,280 --> 01:21:20,360
+increased risk of disease as opposed to the other statement, which means people who eat a lot of them
+
+705
+01:21:20,360 --> 01:21:26,360
+have less disease. So what I'm trying to point out is that there could be a deficiency state that
+
+706
+01:21:26,360 --> 01:21:32,200
+predisposes somebody to disease, but once you meet that threshold, you may or may not get much more
+
+707
+01:21:32,200 --> 01:21:39,000
+benefit. Yeah. So in other words, you can get scurvy from insufficient vitamin C, but there's
+
+708
+01:21:39,000 --> 01:21:44,680
+probably little evidence to suggest that supplementing vitamin C offers health protection and benefit
+
+709
+01:21:44,680 --> 01:21:49,000
+beyond the RDA. Yes. By the way, for what it's worth, I believe that's true with vitamin C. I
+
+710
+01:21:49,000 --> 01:21:56,120
+think there's no evidence to suggest it's helpful in massive doses. Nevertheless, there's been no
+
+711
+01:21:56,120 --> 01:22:02,840
+shortage of attempts to study this question, and there have been some significant studies that have
+
+712
+01:22:02,840 --> 01:22:08,680
+gone to great lengths to do this. Now, although we're talking about the brain, you are no stranger
+
+713
+01:22:08,680 --> 01:22:15,720
+to the heart. So can we pivot for a moment to talk about a very interesting study published
+
+714
+01:22:15,720 --> 01:22:23,240
+probably about 18 months ago that looked at a very high dose of EPA, four grams, in individuals
+
+715
+01:22:23,240 --> 01:22:28,920
+with elevated triglycerides and a number of other risks. And I have to be honest with you, to my
+
+716
+01:22:28,920 --> 01:22:35,240
+surprise, produced kind of an amazing outcome. It was not what I expected. Of course, I'm speaking
+
+717
+01:22:35,240 --> 01:22:40,040
+about the REDUCE-IT study. Do you want to give people just a quick overview of that study and
+
+718
+01:22:40,040 --> 01:22:46,200
+what it found and what your thoughts are on that study? So the background is some Japanese studies
+
+719
+01:22:46,200 --> 01:22:55,800
+over a decade ago has suggested that a certain EPA to arachidonic acid ratio was associated with
+
+720
+01:22:55,800 --> 01:23:03,880
+substantially less cardiovascular disease in certain regions in Japan. And there were some trials
+
+721
+01:23:03,880 --> 01:23:12,120
+in Japan at that point that have attempted supplementing EPA, and the results were positive,
+
+722
+01:23:12,840 --> 01:23:18,200
+but they were not conclusive. So they were using something around two grams of EPA,
+
+723
+01:23:18,840 --> 01:23:24,840
+and they found out some trends which were very exciting, but again, they were not strong enough
+
+724
+01:23:24,840 --> 01:23:33,480
+to make an official recommendation. So somehow this led to a concerted effort in the US to try
+
+725
+01:23:33,480 --> 01:23:42,840
+to answer this question. Can we give high doses of EPA to mimic this ratio that they found in Japan
+
+726
+01:23:43,480 --> 01:23:51,560
+of EPA consumption and translate into less cardiovascular events? So it became an interesting
+
+727
+01:23:51,560 --> 01:24:00,280
+question to pursue, and the REDUCE-IT investigators decided to go ahead and run a large
+
+728
+01:24:00,280 --> 01:24:08,600
+multi-center trial where they gave four grams of pure EPA, and they selected people who they
+
+729
+01:24:08,600 --> 01:24:13,640
+thought would benefit the most from this intervention, and those included people with
+
+730
+01:24:13,640 --> 01:24:20,360
+diabetes, high triglycerides, because EPA is known to lower triglycerides, and they monitored them for
+
+731
+01:24:20,360 --> 01:24:27,320
+cardiovascular events over a period of a few years. And they found out that compared to their placebo
+
+732
+01:24:27,320 --> 01:24:35,000
+arm, those who were given four grams of EPA per day did substantially better. The study had one
+
+733
+01:24:35,560 --> 01:24:45,160
+flaw, and I don't know if it's a fatal flaw or not, I think that needs to be figured out. The placebo
+
+734
+01:24:45,160 --> 01:24:53,000
+in that arm was not your typical placebo. So typically when you do omega-3 or fatty acid
+
+735
+01:24:53,000 --> 01:24:59,720
+intervention trials, the most common placebo is corn oil, soybean oil, and in this case,
+
+736
+01:25:00,280 --> 01:25:06,920
+so they used mineral oil, and they were criticized at the time of publication whether EPA indeed
+
+737
+01:25:07,720 --> 01:25:13,880
+reduced cardiovascular events or did mineral oil increase cardiovascular events. Before we leave
+
+738
+01:25:13,880 --> 01:25:21,720
+that, let's understand that a bit more. So corn oil, safflower, canola, those are more E6 than E3.
+
+739
+01:25:21,720 --> 01:25:26,520
+They have a little bit of ALA in them, and they still have some monounsaturated fats in them, but
+
+740
+01:25:26,520 --> 01:25:32,200
+is it safe to say that they're probably more than 50% omega-6? Yes, but the concentrations given in
+
+741
+01:25:32,200 --> 01:25:39,400
+them is not high. The concentration of E6 is really a low amount. These people are not consuming
+
+742
+01:25:39,400 --> 01:25:45,960
+grams of E6. And what's mineral oils breakdown? What's it formed from? I mean, my only interaction
+
+743
+01:25:46,040 --> 01:25:51,560
+with mineral oil is to polish my cutting board, you know, or to make sure my cutting board doesn't
+
+744
+01:25:51,560 --> 01:25:58,360
+get too dry. Yeah, I mean, to be honest with you, I don't know. But all of this came after the fact.
+
+745
+01:25:58,360 --> 01:26:03,960
+We've never considered in our trials mineral oil because it was never an option, and it was very
+
+746
+01:26:03,960 --> 01:26:10,760
+obscure that that mineral oil was chosen in that trial to be the placebo. And I don't think they
+
+747
+01:26:10,760 --> 01:26:15,400
+even thought about this until the study was published. And then people started asking.
+
+748
+01:26:16,280 --> 01:26:20,600
+I see. Yeah. And I mean, I think mineral oil, frankly, is totally different. I mean,
+
+749
+01:26:20,600 --> 01:26:26,120
+I don't, it's probably more resembles like a petroleum based product or something like that.
+
+750
+01:26:26,120 --> 01:26:30,360
+I don't think it's like a fatty acid in the sense that corn oil is or anything like that.
+
+751
+01:26:30,920 --> 01:26:35,720
+Yeah, that is odd that they would use that. But they were given presumably four grams of
+
+752
+01:26:35,720 --> 01:26:42,760
+mineral oil every day as well in a placebo. Right. And I think the decision to make or to
+
+753
+01:26:42,760 --> 01:26:49,960
+create mineral oil as the placebo at that point in time was not thought of from a health perspective,
+
+754
+01:26:49,960 --> 01:26:58,360
+but mostly from maybe what's available or economic or matching the taste of the intervention itself.
+
+755
+01:26:58,360 --> 01:27:04,760
+So there was indeed thinking about what would happen if you added so much mineral oil.
+
+756
+01:27:05,480 --> 01:27:09,800
+In a study like this one. And I think the investigators have regretted that decision,
+
+757
+01:27:09,800 --> 01:27:15,560
+but in hindsight is always 20, 20. Yeah. And it's certainly a plausible explanation,
+
+758
+01:27:15,560 --> 01:27:23,640
+given just how significant the effect was in reduce it. I mean, it was wasn't the absolute
+
+759
+01:27:23,640 --> 01:27:28,600
+risk reduction, something on the order of 4% or something like that. I mean, it was
+
+760
+01:27:29,160 --> 01:27:33,640
+an exit. It was certainly on par with what you see in some of the most potent drug trials.
+
+761
+01:27:33,640 --> 01:27:41,800
+Yes. Yes. And this was surprising. And what's important is in science, you always have to be
+
+762
+01:27:41,800 --> 01:27:49,560
+skeptical and you always need to find whether any particular study can be replicated or not before
+
+763
+01:27:50,440 --> 01:27:57,240
+you make strong recommendations and adopt any drastic change in how you are consuming certain
+
+764
+01:27:57,240 --> 01:28:03,480
+things or whether it's a medication or a diet or a supplement. So the company was able to make
+
+765
+01:28:03,560 --> 01:28:12,360
+very strong claims that high doses of EPA are important addition to the standard management of
+
+766
+01:28:12,360 --> 01:28:17,560
+diabetes, cardiovascular disease, atherosclerosis at the time of its publication, and even urged
+
+767
+01:28:17,560 --> 01:28:25,720
+the FDA to add that indication, which the FDA appeared to agree to. But at the same time,
+
+768
+01:28:26,360 --> 01:28:33,560
+other studies were going on the pipeline to confirm, although they did not use the same
+
+769
+01:28:33,560 --> 01:28:41,080
+identical ethyl ester EPA, because that is perhaps patented by the company that made
+
+770
+01:28:41,800 --> 01:28:47,000
+that particular drug. And I don't want to mention any particular drug in the show because I'm not
+
+771
+01:28:47,000 --> 01:28:52,440
+trying to promote anything. So long story short, what we have learned from the American Heart
+
+772
+01:28:52,440 --> 01:28:58,520
+Association a few months ago is that high doses of EPA did not translate into cardiovascular
+
+773
+01:28:59,240 --> 01:29:07,160
+benefit when compared to corn oil or the other standard form of. Now you're referring to the
+
+774
+01:29:07,160 --> 01:29:15,960
+strength trial, correct? Yes. Now, was that a high dose of EPA or was that EPA and DHA combined?
+
+775
+01:29:15,960 --> 01:29:22,280
+It was predominantly a high dose EPA, although I think there was DHA in it. The predominant form
+
+776
+01:29:22,280 --> 01:29:30,680
+that was given was EPA. And what was the dose? That was four grams omega three. Yeah, I think
+
+777
+01:29:30,680 --> 01:29:35,240
+you're right. I think it was probably about three grams and one gram is my recollection.
+
+778
+01:29:35,800 --> 01:29:40,600
+Yeah, I can look at them. I do not want to give your listeners any inaccurate information. So if
+
+779
+01:29:40,600 --> 01:29:45,640
+you like, we could just look up, but it was a predominantly EPA supplement. Yeah. And as you
+
+780
+01:29:45,640 --> 01:29:50,840
+said, when compared to a corn oil, that study showed essentially zero difference between them.
+
+781
+01:29:51,560 --> 01:29:57,720
+So again, what's different, right? So it begs the question, is the mineral oil the problem in the
+
+782
+01:29:57,720 --> 01:30:06,280
+first study was the dose not correct through or the ratio of three to one of EPA to DHA?
+
+783
+01:30:06,920 --> 01:30:12,040
+Is it simply irrelevant? To your point earlier, maybe these people didn't have a deficiency
+
+784
+01:30:12,600 --> 01:30:18,360
+and supplementing to excess made no difference. The other thing is these were relatively sick
+
+785
+01:30:18,360 --> 01:30:23,560
+patients, right? These were patients that I can't recall off the top of my head what the
+
+786
+01:30:23,560 --> 01:30:27,560
+strength patients looked like. But if they were anything like the reduce it patients,
+
+787
+01:30:27,560 --> 01:30:32,360
+which I remember more, I mean, almost 80% of these patients had type two diabetes,
+
+788
+01:30:32,360 --> 01:30:38,760
+all of them had dyslipidemia. So the other argument is, is four years of treating patients
+
+789
+01:30:38,760 --> 01:30:43,960
+that are at high, high risk of major adverse cardiac event, enough time to steer the shift.
+
+790
+01:30:43,960 --> 01:30:50,360
+Are you better off treating people in their forties for two decades to try to mitigate that risk?
+
+791
+01:30:50,360 --> 01:30:54,920
+And I think, frankly, that question probably becomes even more interesting from the standpoint
+
+792
+01:30:54,920 --> 01:31:00,920
+of brain health and heart health, right? Where we have fewer options. Let me tell you that how I
+
+793
+01:31:00,920 --> 01:31:07,480
+think about this, and it may or may not make sense to you or to your readers. When we're talking
+
+794
+01:31:07,480 --> 01:31:13,800
+about reduce it or EPA, are we talking about a supplement or are we talking about a drug?
+
+795
+01:31:14,280 --> 01:31:18,120
+In the case of reduce it, it's a drug. I mean, that's a pharmaceutical prescribed drug.
+
+796
+01:31:18,840 --> 01:31:23,160
+Right. So this distinction is important because if we're talking about a drug,
+
+797
+01:31:23,800 --> 01:31:29,560
+then we are thinking about the cascade. We're thinking of you give a status, you inhibit
+
+798
+01:31:29,560 --> 01:31:36,120
+HMG coa reductase, you decrease the expression of the L or you increase the expression of the LDL
+
+799
+01:31:36,120 --> 01:31:43,160
+receptor in the liver, and then you suck cholesterol circulating by LDL or VLDL particles,
+
+800
+01:31:43,160 --> 01:31:49,960
+and you excrete it. You lower LDL cholesterol. You decrease small dense on atherogenic LDL
+
+801
+01:31:49,960 --> 01:31:55,960
+cholesterol particles that translate into less atherosclerosis. And then this translates into
+
+802
+01:31:55,960 --> 01:32:02,520
+less cardiovascular events. This is the prevailing hypothesis of how we view statins work. Now,
+
+803
+01:32:02,520 --> 01:32:09,960
+if I were to ask you, how does EPA work? How does it reduce cardiovascular events? And if we can
+
+804
+01:32:10,040 --> 01:32:15,800
+come up with a cascade similar to that of statins, I think we can argue that you could use HIDO's EPA
+
+805
+01:32:15,800 --> 01:32:23,080
+as a drug. But if we're stuttering and we can't really map the actual cycle, we might be fishing
+
+806
+01:32:23,080 --> 01:32:29,560
+for results. Yeah. And it's also interesting when, I mean, I don't think this analysis has been done,
+
+807
+01:32:29,560 --> 01:32:37,880
+but it would be a clever study would be like a pairing study where you take the same patients,
+
+808
+01:32:37,880 --> 01:32:46,360
+of course, and you pair one group to phenofibrate to another with HIDO's EPA such that they get
+
+809
+01:32:46,360 --> 01:32:51,880
+equal reduction of triglycerides and you ask the question, does that make a difference? In other
+
+810
+01:32:51,880 --> 01:32:57,000
+words, how much of this benefit, if any, comes from the triglyceride reduction, which all things
+
+811
+01:32:57,000 --> 01:33:02,360
+equal, is going to lower APO-B concentration as you reduce the lipid carrying capacity of lipoprotein.
+
+812
+01:33:03,320 --> 01:33:07,640
+And is that the mechanism? Now, again, that's more of a thought experiment. I can't imagine
+
+813
+01:33:07,640 --> 01:33:15,000
+anybody would go and do the actual study of trilipix versus vicepa, but you're right. We don't
+
+814
+01:33:15,000 --> 01:33:23,640
+have a very clear mechanistic pathway for why this would make sense. One possibility, although I'm
+
+815
+01:33:23,640 --> 01:33:29,720
+not trying to be against or for EPA, I'm just trying to think out loud, one possibility is that
+
+816
+01:33:29,720 --> 01:33:37,560
+EPA has potent anti-inflammatory effects. And it is plausible that EPA, not by any triglyceride
+
+817
+01:33:37,560 --> 01:33:44,360
+lowering potential, but by a local anti-inflammatory effect on the plaques, has resulted in less plaque
+
+818
+01:33:44,360 --> 01:33:50,280
+rupture and less events. But again, these are all ideas because we don't fully understand what
+
+819
+01:33:50,280 --> 01:33:56,440
+happened and why they did get substantial reduction in the events. Now, this is irrelevant because,
+
+820
+01:33:56,440 --> 01:34:02,280
+you know, to me, I don't study right now cardiovascular disease and I'm not trying to
+
+821
+01:34:02,280 --> 01:34:11,720
+understand exactly an application for EPA on patients at risk of heart disease. But my lab
+
+822
+01:34:11,720 --> 01:34:18,760
+is more interested in figuring out a link between omega-3s and the brain. And the reason why I
+
+823
+01:34:18,760 --> 01:34:24,040
+brought to reduce it, or we brought this example of high dose EPA and cardiovascular disease,
+
+824
+01:34:24,040 --> 01:34:31,560
+is to contrast completely different systems. Unlike cardiovascular disease, where you have a
+
+825
+01:34:31,560 --> 01:34:36,360
+very well described process where you have a plaque that ruptures and you get an event,
+
+826
+01:34:37,160 --> 01:34:44,760
+your typical Alzheimer's dementia is often a chronic low-grade slow process that happens over
+
+827
+01:34:44,760 --> 01:34:53,800
+years and that eventually manifests in loss of function of daily activities, cognitive deficits,
+
+828
+01:34:53,800 --> 01:35:03,080
+and so forth. The role of DHA in this disease is more closer to the analogy that you used with
+
+829
+01:35:03,080 --> 01:35:11,400
+scurvy. In landmark studies done decades ago at NIH, they showed when you took a mouse model and
+
+830
+01:35:11,400 --> 01:35:17,720
+you deprived the pregnant mice from DHA completely, and then you looked at her
+
+831
+01:35:17,720 --> 01:35:25,960
+offsprings, they found that these baby litters, the offsprings of the mouse, had a condition that
+
+832
+01:35:25,960 --> 01:35:32,760
+we call microcephaly, where the brain failed to form and develop and was very small. When you
+
+833
+01:35:32,760 --> 01:35:38,280
+looked under the microscope, you found out that these neurons formed from a DHA deficient diet
+
+834
+01:35:39,880 --> 01:35:47,080
+were not making enough synapses under the microscope compared to neurons who were exposed
+
+835
+01:35:47,160 --> 01:35:54,440
+to a deficient or a non-deficient or a regular child diet when the mother was nursing or having
+
+836
+01:35:54,440 --> 01:36:03,960
+the children in utero. So that by itself told us that DHA deficiency is detrimental to the function
+
+837
+01:36:03,960 --> 01:36:13,800
+of the brain. Now we also know from many studies that in humans during development not having
+
+838
+01:36:14,360 --> 01:36:21,160
+enough polyunsaturated fatty acids, whether it's lactating breast milk or in the diet itself,
+
+839
+01:36:21,800 --> 01:36:27,320
+was associated with poorer outcomes in school. And these are large studies published in the 90s,
+
+840
+01:36:28,040 --> 01:36:36,200
+which have led the FDA in 2001 or 2002, I believe, to agree to the recommendation of supplementing
+
+841
+01:36:36,200 --> 01:36:45,080
+infant formula with both DHA and arachidonic acid AA. So any listeners who has bought
+
+842
+01:36:45,080 --> 01:36:51,080
+infant formula or any have used infant formula and if they look at the actual formula, they see the
+
+843
+01:36:51,080 --> 01:37:01,080
+tag DHA and AA fortified. So the concept that there is something called DHA or EPA or omega-3
+
+844
+01:37:01,720 --> 01:37:09,560
+deficiency exists is probably solid. Now what's less known or more confusing or more difficult
+
+845
+01:37:09,560 --> 01:37:19,720
+to ascertain is that what age range does this deficiency make the largest impact and how does
+
+846
+01:37:19,720 --> 01:37:24,600
+aging affect that deficiency question? So to put this question in a different perspective,
+
+847
+01:37:25,560 --> 01:37:32,680
+the brain develops rapidly from conception to possibly three to five years. And by the age of
+
+848
+01:37:32,680 --> 01:37:39,400
+six, the human brain is almost fully developed. And then you start slowly accreting. Accretion
+
+849
+01:37:39,400 --> 01:37:46,440
+refers to the tension of lipids and material such as protein in the structure of the brain,
+
+850
+01:37:46,440 --> 01:37:51,720
+where it's not exchanging with plasma anymore or blood. So it's kind of stuck in the brain.
+
+851
+01:37:52,440 --> 01:37:58,440
+So the accretion of lipids or omega-3s in the brain slows considerably between the ages of
+
+852
+01:37:58,440 --> 01:38:05,480
+six all the way to 12 and 13. And then beyond that, the pools are relatively stable and expansion of
+
+853
+01:38:05,480 --> 01:38:12,760
+brain size is very slow. And then after certain age cutoffs like 60s and above, you start seeing
+
+854
+01:38:12,760 --> 01:38:20,040
+the opposite where atrophy starts to happen with aging. So we can clearly visualize that figure and
+
+855
+01:38:20,040 --> 01:38:27,240
+grasp the concept that during rapid accretion of lipids, it's really important for babies and
+
+856
+01:38:27,880 --> 01:38:33,160
+kids to get exposed to enough omega-3s to allow the brain to fully develop. And that doesn't have
+
+857
+01:38:33,160 --> 01:38:39,560
+to be supplementation. That could well be a good diet. Now what happens between the ages of six
+
+858
+01:38:39,560 --> 01:38:47,240
+and 60 is quite elusive, meaning that what happens to a population that is 35 that is
+
+859
+01:38:47,240 --> 01:38:56,200
+completely not consuming any omega-3s? Are they in any diseased states? And I can't point out a
+
+860
+01:38:56,200 --> 01:39:03,960
+single large study that can say yes. All what I can point out too is a myriad of small studies
+
+861
+01:39:04,520 --> 01:39:11,320
+which show discrepant results. Some studies suggest that are subtle cognitive impairments.
+
+862
+01:39:11,320 --> 01:39:17,480
+Other studies suggest anxiety disorders, mood disorders, depression. But other studies don't
+
+863
+01:39:17,480 --> 01:39:26,120
+find these associations. So that tells us that the role of omega-3 in the diet between the ages of
+
+864
+01:39:27,160 --> 01:39:33,560
+six and 60 is more difficult to understand. Now that doesn't mean it's not important.
+
+865
+01:39:33,560 --> 01:39:40,040
+Is there any scenario in which having lower consumption of EPA and DHA is beneficial in
+
+866
+01:39:40,040 --> 01:39:47,080
+those small studies? Or is this basically a difference of neutral to negative?
+
+867
+01:39:48,040 --> 01:39:53,640
+I think it's the latter, neutral to negative. But I think the concept that I haven't discussed yet,
+
+868
+01:39:53,640 --> 01:39:59,320
+but might be important to understand, is that the half-life of lipids in the brain
+
+869
+01:39:59,320 --> 01:40:05,720
+is quite different than the half-life of lipids in different compartments in the body. So for
+
+870
+01:40:05,800 --> 01:40:13,240
+example, if you take DHA or EPA and you study after somebody is injected or consumed, labeled
+
+871
+01:40:13,240 --> 01:40:20,040
+DHA or EPA, how long does it take for the DHA or EPA to disappear from blood? You understand that
+
+872
+01:40:20,040 --> 01:40:25,800
+it takes a matter of weeks. Within three to six weeks that dose will disappear and the opposite
+
+873
+01:40:25,800 --> 01:40:32,600
+is true. It takes three to six weeks for the dose to reach plateauing or saturation kinetics after
+
+874
+01:40:32,600 --> 01:40:40,520
+being fed a maximal dose of DHA or EPA. So that has to do with the half-life of these lipids on
+
+875
+01:40:41,080 --> 01:40:48,920
+the transporting proteins such as HDL. So HDL may define the half-life because it's going to be the
+
+876
+01:40:48,920 --> 01:40:55,080
+major carrier of phospholipids. Now when we talk about other compartments such as the brain,
+
+877
+01:40:55,080 --> 01:41:01,880
+that may not be the case. The amount of time that DHA hangs out in neuronal membranes is
+
+878
+01:41:01,880 --> 01:41:09,160
+substantially longer than the amount of time that DHA hangs out on the surface of a phospholipid on
+
+879
+01:41:09,160 --> 01:41:15,800
+HDL or with an albumin carrier and blood. And you know if we think about this more deeply,
+
+880
+01:41:15,800 --> 01:41:21,800
+that makes sense. We do not want brains that are fluctuating with DHA and AA. We want a stable
+
+881
+01:41:22,760 --> 01:41:29,400
+depot of lipids that does not dramatically fluctuate. So what does that mean? That means
+
+882
+01:41:29,400 --> 01:41:35,880
+if you took somebody in a trial where they're not consuming DHA or EPA and then you gave them
+
+883
+01:41:35,880 --> 01:41:41,880
+high doses of DHA and EPA and you know if you look at these trials they range anywhere from 12 weeks
+
+884
+01:41:41,880 --> 01:41:47,640
+to a year and the majority are three months or six months, it's not surprising that these trials
+
+885
+01:41:47,640 --> 01:41:53,240
+are finding not much. And in fact when they find something, most of the time it's either a gut
+
+886
+01:41:53,240 --> 01:41:59,000
+effect or an inflammatory effect because some of these omega-3s have anti-inflammatory effects.
+
+887
+01:41:59,880 --> 01:42:06,360
+So that presents a distinct challenge to the omega-3 field is that we may not have the resources to do
+
+888
+01:42:06,360 --> 01:42:14,360
+a five or a ten year study. But we are privy to epidemiology studies which can give us a longer
+
+889
+01:42:14,920 --> 01:42:21,720
+vision of what happens to those who consume enough omega-3s versus those who don't consume
+
+890
+01:42:21,720 --> 01:42:28,040
+omega-3s at all. And then I'll just layer in the question to bring it back to our discussion of APOE,
+
+891
+01:42:28,760 --> 01:42:37,080
+do we have a flavor to add to this which is how does everything you say change in the context of
+
+892
+01:42:37,080 --> 01:42:44,280
+APOE type, if at all? It does. So this is what my lab is particularly interested in solving,
+
+893
+01:42:44,280 --> 01:42:51,080
+which is what is the best diet that we can give an APOE for a carrier to actually prevent cognitive
+
+894
+01:42:51,080 --> 01:42:58,600
+decline. So we've been doing studies to examine this from multiple angles and one of the studies
+
+895
+01:42:58,600 --> 01:43:05,160
+that we found is that we took younger 35 year old APOE4 carriers and injected them with labeled DHA
+
+896
+01:43:05,160 --> 01:43:11,400
+into their blood. And we estimated how much DHA is getting into the brain using a PET scan.
+
+897
+01:43:12,520 --> 01:43:20,040
+And what we found is that younger APOE4 carriers had greater uptake of DHA in their brain compared
+
+898
+01:43:20,040 --> 01:43:28,280
+to non-carriers, meaning that a younger cognitively normal APOE4 carrier is sucking all the DHA it can
+
+899
+01:43:28,280 --> 01:43:37,560
+take from blood to maintain a certain form of cognitive profile, to maintain your normal
+
+900
+01:43:37,560 --> 01:43:46,600
+cognitive behavior. And APOE4 carriers love the DHA it's seeing in blood and the brain of an
+
+901
+01:43:46,600 --> 01:43:53,480
+E4 carrier is on fire. It's firing more and it is using the DHA that is sucked from the blood.
+
+902
+01:43:53,480 --> 01:43:58,760
+And that could probably provide us some deep insights about our ancestors and their diets. I
+
+903
+01:43:58,760 --> 01:44:04,680
+mean we know that APOE4 carrier rate is highest in Africa. We know that E4 carriers in Africa were
+
+904
+01:44:04,680 --> 01:44:12,040
+consuming possibly more fish and meat than E4 carriers in Asia or E4 carriers in Europe. So
+
+905
+01:44:12,040 --> 01:44:18,760
+in that regard we looked at epidemiology studies and found you know a relatively large epidemiology
+
+906
+01:44:18,760 --> 01:44:27,960
+study from Finland suggesting that E4 carriers who consumed a good amount of fatty fish combined with
+
+907
+01:44:27,960 --> 01:44:35,720
+red leafy vegetables antioxidants, when you looked at these individuals two decades or more into the
+
+908
+01:44:35,720 --> 01:44:43,160
+future when they were 60, those who were consuming the highest amounts of omega-3s from fish and other
+
+909
+01:44:43,160 --> 01:44:49,400
+sources in the diet had substantially and significantly less disease than those who were not.
+
+910
+01:44:50,680 --> 01:45:00,520
+So to us that gave us insights that perhaps the younger APOE4 brain loves to consume omega-3s.
+
+911
+01:45:01,480 --> 01:45:07,240
+Now I hope the story ends here and you know that that gives us a nice recommendation but it doesn't
+
+912
+01:45:07,880 --> 01:45:14,840
+because we were continuously studying APOE4 carriers across the age spectrum and what we
+
+913
+01:45:14,840 --> 01:45:23,000
+found is that after a certain age and I would say this goes anywhere from 55 to 70, the ability of
+
+914
+01:45:23,000 --> 01:45:29,640
+the APOE4 brain to capture APOE4 from blood gets compromised and this happens around the same time.
+
+915
+01:45:30,520 --> 01:45:35,640
+That the GLUT1 receptors are compromised. This happens around the same time that the blood
+
+916
+01:45:35,640 --> 01:45:40,280
+brain barrier itself starts to get compromised because you have to imagine that the blood
+
+917
+01:45:40,280 --> 01:45:46,760
+brain barrier is tightly coupled so when it starts disintegrating your GLUT1s are not working,
+
+918
+01:45:47,320 --> 01:45:53,560
+your omega-3 transporters are not working. So what does that mean? So we were part of a large
+
+919
+01:45:53,560 --> 01:45:58,680
+randomized clinical trial where patients with mild Alzheimer's disease were fed
+
+920
+01:45:59,560 --> 01:46:05,720
+high doses of DHA versus placebo over a period of a year and a half and what that trial found
+
+921
+01:46:05,720 --> 01:46:13,960
+is that in this trial two grams of omega-3s had no effect on everyone, zero effect. The trial was
+
+922
+01:46:13,960 --> 01:46:21,240
+negative, was published in 2010 in JAMA and the lead author was Joe Quinn. When we looked at that
+
+923
+01:46:21,240 --> 01:46:29,080
+trial we tried to understand how the APOE4 affected the response and in that trial APOE4
+
+924
+01:46:29,080 --> 01:46:34,520
+carriers had zero response and non-carriers appeared to improve on the primary outcome,
+
+925
+01:46:34,520 --> 01:46:41,800
+the ADAS-COG and on the secondary outcome which is the MLSE. So in that trial APOE4 carriers were
+
+926
+01:46:41,800 --> 01:46:48,120
+less likely to respond than non-carriers. And again the age of those participants was what?
+
+927
+01:46:48,120 --> 01:46:50,680
+These people were between 65 and 80.
+
+928
+01:46:50,680 --> 01:46:54,760
+Got it. And was that DHA only or EPA and DHA in that two grams?
+
+929
+01:46:54,760 --> 01:46:55,960
+That was DHA only.
+
+930
+01:46:56,520 --> 01:47:02,360
+And what you said earlier about the young people massively assimilating DHA, was that also shown
+
+931
+01:47:02,360 --> 01:47:04,200
+with EPA or only DHA?
+
+932
+01:47:04,200 --> 01:47:10,520
+We were only studying DHA. For the main reason is that the DHA is the main omega-3 that makes the
+
+933
+01:47:10,520 --> 01:47:16,120
+building blocks of synapses in the brain and EPA more behaves as a signaling molecule that's
+
+934
+01:47:16,120 --> 01:47:21,960
+anti-inflammatory. So an application for EPA in the brain may be quite different than DHA.
+
+935
+01:47:21,960 --> 01:47:28,120
+So if you're more focused on vascular disease and perhaps the small embolic or thrombotic
+
+936
+01:47:28,120 --> 01:47:33,800
+atherosclerotic strokes then an EPA application may make more sense. But if you're looking at
+
+937
+01:47:33,800 --> 01:47:39,720
+the synapse and what it requires to form neurotransmission we think from a DHA perspective.
+
+938
+01:47:40,600 --> 01:47:45,000
+So what you just described fits with the previous observation which is
+
+939
+01:47:45,000 --> 01:47:52,440
+there may be a critical window in which DHA is essential and once you're outside of that window
+
+940
+01:47:53,080 --> 01:47:59,000
+you lose the ability to integrate or assimilate DHA at about the same time your blood-brain
+
+941
+01:47:59,000 --> 01:48:05,800
+barrier is failing and your ability to regulate even glucose is beginning to diminish.
+
+942
+01:48:05,800 --> 01:48:12,360
+Absolutely. So you hit it right on. We are actively doing a large trial that we have called
+
+943
+01:48:12,360 --> 01:48:18,440
+Prevent E4 to partially address this question. If we took younger April E4 carriers before they have
+
+944
+01:48:19,320 --> 01:48:27,000
+dementia or before they have clinical symptoms can we show any effect on the brain? And we had this
+
+945
+01:48:27,000 --> 01:48:33,160
+immensely challenging question of should we look at 30 to 40 year olds or should we look at
+
+946
+01:48:33,160 --> 01:48:42,120
+55 to 70 year olds? And in 2017 we made the decision to look at the 55 to 70 year olds because
+
+947
+01:48:42,120 --> 01:48:47,800
+those people do cognitively decline with time. So we have the opportunity within two to three years
+
+948
+01:48:47,800 --> 01:48:54,920
+to figure out if they're dropping. If we did this trial in a 35 year old we may end up with a futile
+
+949
+01:48:54,920 --> 01:49:01,160
+study because neither arm would change. So we are running a big risk though. It is plausible that
+
+950
+01:49:01,160 --> 01:49:07,640
+between the ages of 55 and 70 you're still too late. So where do you hold this? Where do you go?
+
+951
+01:49:07,640 --> 01:49:13,720
+E4 is unknown but Prevent E4 is ongoing. It started in 2019 and unfortunately now because of
+
+952
+01:49:13,720 --> 01:49:19,160
+Covid we had to hold and Los Angeles had a substantial share of Covid cases. So we have
+
+953
+01:49:19,160 --> 01:49:25,640
+we had to hold recruitment in the last six months but hopefully you know we hope to open recruitment
+
+954
+01:49:25,640 --> 01:49:31,480
+again in the next few months. The study will possibly wrap up in 2023 and get published
+
+955
+01:49:31,480 --> 01:49:38,520
+between 2024 and 2025. So that's an ongoing effort where we're giving two grams high dose DHA
+
+956
+01:49:39,240 --> 01:49:45,160
+based on a pilot study that we have done before showing that you need higher doses of DHA to get
+
+957
+01:49:45,160 --> 01:49:51,000
+into the brain. In APOE 4 carriers who do not have cognitive disease yet they may have mild
+
+958
+01:49:51,000 --> 01:49:57,080
+disease but definitely not dementia. And to see whether APOE you know high dose DHA supplementation
+
+959
+01:49:57,160 --> 01:50:02,600
+can slow down the progression of disease in this population. So again of course the experiment that
+
+960
+01:50:02,600 --> 01:50:09,960
+can't be done is taking the 35 year old E4 carriers putting them on DHA for the rest of their lives
+
+961
+01:50:10,680 --> 01:50:16,520
+because you're basically giving them DHEA at the time when you know they can assimilate it and
+
+962
+01:50:16,520 --> 01:50:20,920
+following them for long enough to see a hard outcome which is is there a meaningful reduction
+
+963
+01:50:20,920 --> 01:50:27,400
+in the actual disease we care about studying. Since that experiment can't be done and will
+
+964
+01:50:27,400 --> 01:50:32,600
+never be done we then have to basically think about this through the lens of this is a question
+
+965
+01:50:32,600 --> 01:50:37,400
+that medicine does not have a tool to solve through the neat package called the clinical trial.
+
+966
+01:50:37,960 --> 01:50:44,760
+Yeah the way to approach this problem would actually be finding surrogate biomarkers that
+
+967
+01:50:44,840 --> 01:50:52,360
+you believe and trust that will hold long and behold. For example we now maybe in the last five
+
+968
+01:50:52,360 --> 01:50:59,880
+years have finally agreed that LDL cholesterol is a good target to lower for cardiovascular disease
+
+969
+01:50:59,880 --> 01:51:05,320
+prevention. Although every now and then you'd get somebody who shows you lower LDL cholesterol may
+
+970
+01:51:05,320 --> 01:51:11,000
+not translate into cardiovascular events but for the most of people in the field agree that lowering
+
+971
+01:51:11,000 --> 01:51:17,400
+an LDL cholesterol by a statin or by azetamide or by any other measurement can associate with
+
+972
+01:51:17,400 --> 01:51:25,320
+less atherosclerosis. Can we find a biomarker in 35-45 year old individuals a brain biomarker
+
+973
+01:51:25,960 --> 01:51:31,880
+where if you change it you would convince most people that this may protect you against dementia
+
+974
+01:51:31,880 --> 01:51:37,800
+or cognitive decline a couple of decades. That's a fundamentally important question that needs to
+
+975
+01:51:37,800 --> 01:51:44,120
+be tackled because without brain biomarkers we may not be able to answer these complicated questions.
+
+976
+01:51:45,080 --> 01:51:50,440
+I mean I'm a bit skeptical that we're going to find anything anytime soon that fits exactly
+
+977
+01:51:50,440 --> 01:51:56,600
+that description and I think it's worth noting that one of the first drugs ever approved to lower
+
+978
+01:51:56,600 --> 01:52:03,640
+LDL did so but did not reduce events. I'm blanking on the name of the drug but it actually
+
+979
+01:52:04,440 --> 01:52:11,000
+was a drug that inhibited the enzyme that converted desmosterol to cholesterol. I think
+
+980
+01:52:11,000 --> 01:52:17,640
+it's something called delta 60 saturase or something and in doing so it did lower cholesterol
+
+981
+01:52:17,640 --> 01:52:22,520
+and by extension LDL cholesterol although frankly at the time they probably only looked at total
+
+982
+01:52:22,520 --> 01:52:29,560
+cholesterol but events actually went up presumably because desmosterol went up so much and acted as
+
+983
+01:52:29,640 --> 01:52:35,880
+a sterile that had the same oxidizing properties. In the end you know events matter but you're right
+
+984
+01:52:35,880 --> 01:52:41,880
+look most drugs today that lower ApoB also reduce events but in the absence of such a biomarker
+
+985
+01:52:42,520 --> 01:52:45,880
+or functional study you know it doesn't have to be a biomarker I guess if you had
+
+986
+01:52:46,440 --> 01:52:50,120
+you know an imaging study or a functional study that you know could matter you know
+
+987
+01:52:50,120 --> 01:52:55,720
+hippocampal volume if we believe that that was sensitive enough but absent that it still comes
+
+988
+01:52:55,720 --> 01:53:02,680
+down to a question of what's the asymmetry of risk on each side right so option one is do nothing
+
+989
+01:53:03,720 --> 01:53:10,760
+option two is either through diet or supplement take a given amount of DHA what is the downside
+
+990
+01:53:10,760 --> 01:53:15,320
+of the latter what is the downside of the former I think those are questions that we have to spend
+
+991
+01:53:15,320 --> 01:53:20,760
+more time thinking about because I don't think that clinical trials can give us answers to some
+
+992
+01:53:20,840 --> 01:53:27,000
+of the most important questions facing disease prevention yeah and so this is exactly where
+
+993
+01:53:27,000 --> 01:53:33,240
+diseases like Alzheimer's disease or vascular dementia or any form of dementia represents a deep
+
+994
+01:53:33,240 --> 01:53:38,840
+painstaking challenge compared to atherosclerosis where you can have an event within a couple of
+
+995
+01:53:38,840 --> 01:53:46,920
+years and still see an effect on plaque reduction lower event rates whether it's MI or amputations
+
+996
+01:53:46,920 --> 01:53:52,360
+or strokes dementia on the other hand is much more subtle much more complicated and requires
+
+997
+01:53:53,400 --> 01:53:59,960
+completely new set of tools and as we speak there's a massive amount of brain imaging studies
+
+998
+01:53:59,960 --> 01:54:06,360
+from functional MRIs to PET scans that are looking at different tracers including amyloid
+
+999
+01:54:06,360 --> 01:54:11,640
+and tau which to date have not really panned out in the AD field but with the premise that we can
+
+1000
+01:54:11,640 --> 01:54:17,960
+find a biomarker that if you can modulate can predict something a decade later so one more
+
+1001
+01:54:17,960 --> 01:54:22,920
+thing that I just want to share with you before we wrap up is that you know my lab has also done
+
+1002
+01:54:22,920 --> 01:54:27,720
+very exciting studies that will be published in the next two to three months showing that the
+
+1003
+01:54:27,720 --> 01:54:37,560
+older apoE4 brain once it gets into the dementia stage starts upregulating enzymes that facilitates
+
+1004
+01:54:37,560 --> 01:54:45,000
+its own auto digestion because of the failure in utilizing glucose as a source of energy
+
+1005
+01:54:45,640 --> 01:54:52,280
+we find that enzymes like phospholipase A2 are upregulated and activated in the apoE4 brain
+
+1006
+01:54:53,080 --> 01:55:01,080
+to perhaps extract fatty acids from its own myelin sheath to produce ATP and that tells us
+
+1007
+01:55:01,720 --> 01:55:08,360
+about that the recommendations that we should give the younger apoE4 carrier may be completely
+
+1008
+01:55:08,360 --> 01:55:14,600
+different than a recommendation that we give an older apoE4 carrier who is in a state of energy
+
+1009
+01:55:14,600 --> 01:55:20,520
+deprivation and energy failure say a little bit more about that I mean you're talking about someone
+
+1010
+01:55:20,520 --> 01:55:26,680
+who now actually is in the stages of early cognitive decline who presumably I mean when
+
+1011
+01:55:26,680 --> 01:55:33,560
+you say auto digesting I mean you're referring to an enzymatic degradation of the cell
+
+1012
+01:55:34,440 --> 01:55:41,320
+yes so what we did is in the last three years we've looked at enzymes that control omega 3s
+
+1013
+01:55:41,320 --> 01:55:48,280
+and omega 6s in the brain and we found out that a specific enzyme known as phospholipase A2
+
+1014
+01:55:48,280 --> 01:55:54,680
+which is the calcium dependent version of phospholipase A2 is strongly upregulated in
+
+1015
+01:55:55,240 --> 01:56:01,560
+Alzheimer disease brains who carry the apoE4 genotype compared to
+
+1016
+01:56:02,840 --> 01:56:10,040
+non-alzheimer disease brains who carry the apoE4 genotype so we had access to a large database of
+
+1017
+01:56:10,040 --> 01:56:15,960
+brain tissues from rush rush has one of the largest Alzheimer disease research centers in the country
+
+1018
+01:56:16,520 --> 01:56:24,600
+and we looked at many enzymes and stumbled across CPLA2 and showed that CPLA2 is hyper activated
+
+1019
+01:56:24,760 --> 01:56:32,200
+or phosphorylated in E4AD brains so you've got the apoE4 carriers who developed AD as opposed to
+
+1020
+01:56:32,200 --> 01:56:39,560
+the apoE4 carrier who died without AD and we found that the apoE4 AD brain activates these
+
+1021
+01:56:39,560 --> 01:56:48,120
+enzymes which take away fatty acids from the phospholipid membrane and then perhaps
+
+1022
+01:56:48,120 --> 01:56:55,320
+degrades the fatty acid to be used for many reasons to us the most obvious reason why you
+
+1023
+01:56:55,320 --> 01:57:01,560
+are extracting fatty acids from phospholipid is possibly to generate ATP now there is a side effect
+
+1024
+01:57:01,560 --> 01:57:06,760
+to doing that and that would be neuroinflammation and oxidative stress and i assume that this is
+
+1025
+01:57:06,760 --> 01:57:13,400
+something you're not seeing in the non-E4 carrier who is in this in the comparable stage of dementia
+
+1026
+01:57:14,040 --> 01:57:20,360
+we are not seeing the same pattern of activation in a non-E4 carrier who has a comparable state of
+
+1027
+01:57:20,360 --> 01:57:24,840
+dementia that's correct now there's a lot of people out there who are talking about things
+
+1028
+01:57:24,840 --> 01:57:30,360
+like ketone supplementation so not using not necessarily using ketosis in its nutritional
+
+1029
+01:57:30,360 --> 01:57:36,760
+or starvation form but even using exogenous ketones as a supplemental fuel is there any
+
+1030
+01:57:36,760 --> 01:57:44,040
+reason to believe that that or a nutritional approach to ketosis would be a benefit to somebody
+
+1031
+01:57:44,040 --> 01:57:50,920
+with E4 especially when they're in that second wave or is the answer well by anything that's
+
+1032
+01:57:50,920 --> 01:57:54,840
+going to prevent glucose from getting into the brain sufficiently is probably going to prevent
+
+1033
+01:57:54,840 --> 01:58:00,520
+ketones from getting there too you have you know fantastic insights and questions so i think
+
+1034
+01:58:01,400 --> 01:58:08,120
+people have thought about ketone meals ketone body meals for treatment of dementia and the
+
+1035
+01:58:08,120 --> 01:58:14,120
+largest studies to date have shown that E4 carriers once they have the disease are reluctant
+
+1036
+01:58:14,120 --> 01:58:19,880
+or less likely to benefit from the supplementation compared to non-carriers and exactly to your point
+
+1037
+01:58:20,440 --> 01:58:25,960
+it is possible that the degenerating blood-brain barrier is compromising the transport of ketone
+
+1038
+01:58:25,960 --> 01:58:33,080
+bodies the same way it has compromised glucose and the same way it has compromised omega-3 fatty
+
+1039
+01:58:33,080 --> 01:58:41,240
+acids so that makes us think that the aging Alzheimer's disease brain is a late stage that
+
+1040
+01:58:41,240 --> 01:58:47,640
+is refractory to the unless you are trying to fix the fundamental issue that is related to
+
+1041
+01:58:47,640 --> 01:58:54,520
+nutrient transport by a medication or an intervention dietary interventions at this stage
+
+1042
+01:58:54,520 --> 01:59:01,240
+may not be very effective and highlights the importance of getting the right intervention
+
+1043
+01:59:01,240 --> 01:59:07,240
+before you get to that stage to prevent it from happening i hate being asked questions like i'm
+
+1044
+01:59:07,240 --> 01:59:12,760
+about to ask you so forgive me but you know that everybody listening to this and by definition
+
+1045
+01:59:12,760 --> 01:59:17,320
+about 25 percent of these people listening to this are going to be a carrier of at least one
+
+1046
+01:59:17,320 --> 01:59:23,720
+variant of E4 so this is a very relevant question what do you recommend to people let's just limit
+
+1047
+01:59:23,720 --> 01:59:29,480
+this to people who are you know have no stage of disease i mean you've certainly made the case for
+
+1048
+01:59:29,480 --> 01:59:36,280
+dha yeah so i don't recommend omega-3 supplementation for a simple reason we don't have the evidence to
+
+1049
+01:59:36,280 --> 01:59:44,520
+sub to actually support once we publish or others publish high quality evidence supporting going to
+
+1050
+01:59:44,520 --> 01:59:50,840
+to a pharmacy and picking up a supplement until that happens i don't think we have the evidence
+
+1051
+01:59:50,920 --> 01:59:57,000
+to support omega-3 supplements but what i do recommend though is for people to take at least
+
+1052
+01:59:57,000 --> 02:00:03,080
+one serving of fatty fish per week we know from epidemiology apoE4 carriers who consume
+
+1053
+02:00:03,880 --> 02:00:10,200
+one serving of fatty fish per week may be providing enough omega-3s to their brains
+
+1054
+02:00:10,200 --> 02:00:16,520
+and helping themselves long term is there anything else that you have learned in your travels
+
+1055
+02:00:16,520 --> 02:00:22,840
+vis-a-vis exercise other things within nutrition i know that's not the focus of your research but
+
+1056
+02:00:22,840 --> 02:00:28,760
+do we know anything about the E4 carriers being more benefited if such a term exists
+
+1057
+02:00:28,760 --> 02:00:33,320
+through exercise i mean we know the importance of exercise in Alzheimer's prevention is enormous
+
+1058
+02:00:33,320 --> 02:00:40,040
+but do we know if E4s bend one way or the other in that wind we don't have high quality randomized
+
+1059
+02:00:40,040 --> 02:00:47,480
+clinical trials but we may have some epidemiology studies Morris and his team at WashU have shown
+
+1060
+02:00:47,480 --> 02:00:54,600
+in a PET study this is an imaging study where you scan amyloid load in the brain that apoE4 carriers
+
+1061
+02:00:54,600 --> 02:01:02,120
+who exercise has have less amyloid plaque buildup compared to apoE4 carriers who do not exercise
+
+1062
+02:01:02,840 --> 02:01:08,600
+now again we would need an intervention to demonstrate that but as we discussed in a minute
+
+1063
+02:01:09,320 --> 02:01:17,000
+it's very difficult to find younger apoE4 carriers put them in a lifestyle intervention and then
+
+1064
+02:01:17,640 --> 02:01:23,880
+look at the outcome three to four to a decade later logistically it's complicated and expensive
+
+1065
+02:01:24,440 --> 02:01:33,400
+we also know from a Swedish group that looked at multiple factors of what determines pathology in
+
+1066
+02:01:33,400 --> 02:01:39,880
+apoE4 carriers and they concluded that a high level of education hypertension control
+
+1067
+02:01:40,760 --> 02:01:47,960
+protected apoE4 carriers from dementia compared to apoE4 carriers who had less education and
+
+1068
+02:01:47,960 --> 02:01:55,640
+worse blood pressure control so to answer your question i think if you knew at birth that you
+
+1069
+02:01:55,640 --> 02:02:03,160
+had apoE4 if your parents knew and you have the ethnicity the risk the family history the best
+
+1070
+02:02:03,160 --> 02:02:09,480
+advice that we have is to maintain an adequate omega-3 consumption from fatty fish not supplements
+
+1071
+02:02:10,120 --> 02:02:16,840
+to make sure that the blood pressure is controlled and to make sure that there is some at least
+
+1072
+02:02:16,840 --> 02:02:25,560
+minimal amount of exercise carried out throughout the lifespan to provide a modifiable element to
+
+1073
+02:02:25,560 --> 02:02:32,360
+the apoE4 and when we talk about modifying apoE4 risk we often are referring to modifying the
+
+1074
+02:02:32,360 --> 02:02:39,000
+vascular effects of apoE4 so not only will you get cardiovascular benefit but you will also get
+
+1075
+02:02:39,880 --> 02:02:46,520
+brain benefit because the blood vessels in Alzheimer's disease have as much of a role as
+
+1076
+02:02:46,520 --> 02:02:52,440
+the actual neurons and astrocytes and so forth. Hussein this has been very interesting again i
+
+1077
+02:02:52,440 --> 02:02:56,520
+think a lot of people are going to find this to be relevant to themselves or to people that they
+
+1078
+02:02:56,520 --> 02:03:03,000
+care about i won't lie it's a little frustrating that we're still so early in the in the study of
+
+1079
+02:03:03,000 --> 02:03:08,680
+this something that is so relevant and i believe probably quite preventable if we had a better sense
+
+1080
+02:03:08,680 --> 02:03:14,120
+of what the interventions were and i think you're absolutely right biomarkers and or other functional
+
+1081
+02:03:14,120 --> 02:03:19,720
+imaging studies would really speed things up if we could do clinical trials in two years and get
+
+1082
+02:03:19,720 --> 02:03:24,200
+answers we'd be a lot better often if we had to study people over the course of their lifetime
+
+1083
+02:03:24,200 --> 02:03:29,560
+or rely on epidemiology which is fraught with so many challenges that make it very difficult to
+
+1084
+02:03:29,560 --> 02:03:35,480
+disentangle causal relationships but nevertheless this has been illuminating and i thank you greatly
+
+1085
+02:03:35,480 --> 02:03:40,200
+for your your generosity of time and effort absolutely thank you for inviting me it was a
+
+1086
+02:03:40,200 --> 02:03:44,600
+pleasure talking to you thank you for listening to this week's episode of the drive if you're
+
+1087
+02:03:44,600 --> 02:03:49,320
+interested in diving deeper into any topics we discuss we've created a membership program that
+
+1088
+02:03:49,320 --> 02:03:54,600
+allows us to bring you more in-depth exclusive content without relying on paid ads it's our goal
+
+1089
+02:03:54,600 --> 02:03:59,960
+to ensure members get back much more than the price of the subscription now to that end membership
+
+1090
+02:03:59,960 --> 02:04:05,240
+benefits include a bunch of things one totally kick ass comprehensive podcast show notes that
+
+1091
+02:04:05,240 --> 02:04:11,160
+detail every topic paper person thing we discuss on each episode the word on the street is nobody's
+
+1092
+02:04:11,160 --> 02:04:17,000
+show notes rival these monthly ama episodes or ask me anything episodes hearing these episodes
+
+1093
+02:04:17,000 --> 02:04:22,760
+completely access to our private podcast feed that allows you to hear everything without having
+
+1094
+02:04:22,760 --> 02:04:28,120
+to listen to spiel's like this the qualities which are a super short podcast that we release
+
+1095
+02:04:28,120 --> 02:04:33,000
+every tuesday through friday highlighting the best questions topics and tactics discussed on previous
+
+1096
+02:04:33,000 --> 02:04:38,280
+episodes of the drive this is a great way to catch up on previous episodes without having to go back
+
+1097
+02:04:38,280 --> 02:04:44,200
+and necessarily listen to everyone steep discounts on products that i believe in but for which i'm not
+
+1098
+02:04:44,200 --> 02:04:48,840
+getting paid to endorse and a whole bunch of other benefits that we continue to trickle in
+
+1099
+02:04:48,840 --> 02:04:53,000
+as time goes on if you want to learn more and access these member-only benefits you can head
+
+1100
+02:04:53,000 --> 02:05:00,360
+over to peteratiamd.com forward slash subscribe you can find me on twitter instagram and facebook
+
+1101
+02:05:00,360 --> 02:05:06,920
+all with the id peteratiamd you can also leave us a review on apple podcast or whatever podcast
+
+1102
+02:05:06,920 --> 02:05:12,600
+player you listen on this podcast is for general informational purposes only does not constitute the
+
+1103
+02:05:12,600 --> 02:05:18,040
+practice of medicine nursing or other professional health care services including the giving of
+
+1104
+02:05:18,040 --> 02:05:23,560
+medical advice no doctor patient relationship is formed the use of this information and the
+
+1105
+02:05:23,560 --> 02:05:29,400
+materials linked to this podcast is at the user's own risk the content on this podcast is not
+
+1106
+02:05:29,400 --> 02:05:35,640
+intended to be a substitute for professional medical advice diagnosis or treatment users should
+
+1107
+02:05:35,640 --> 02:05:41,560
+not disregard or delay in obtaining medical advice from any medical condition they have
+
+1108
+02:05:41,560 --> 02:05:46,280
+and they should seek the assistance of their health care professionals for any such conditions
+
+1109
+02:05:46,920 --> 02:05:51,160
+finally i take conflicts of interest very seriously for all of my disclosures and the
+
+1110
+02:05:51,160 --> 02:05:58,360
+companies i invest in or advise please visit peteratiamd.com forward slash about
+
+1111
+02:05:58,360 --> 02:06:11,400
+where i keep an up-to-date and active list of such companies
+
+1112
+02:06:11,560 --> 02:06:21,400
+are
+

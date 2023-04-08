@@ -1,0 +1,808 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hey, everyone. Welcome to the Drive podcast. I'm your host, Peter Attia.
+
+2
+00:00:05,000 --> 00:00:10,000
+Hey, Nick, how are you doing today?
+
+3
+00:00:10,000 --> 00:00:12,000
+I'm doing good. How are you doing?
+
+4
+00:00:12,000 --> 00:00:16,000
+Very well. Very well. We're going to do things a little different today, huh?
+
+5
+00:00:16,000 --> 00:00:23,000
+Yeah, we have a little different setup for this one. So what happened was back in February 2021,
+
+6
+00:00:23,000 --> 00:00:29,000
+you and Bob did an AMA where you looked at one specific topic that was covered on multiple podcasts,
+
+7
+00:00:29,000 --> 00:00:36,000
+in particular, the Shulman episode, and kind of went back and tried to simplify that conversation around insulin resistance.
+
+8
+00:00:36,000 --> 00:00:41,000
+And what we heard from subscribers was a lot of people really enjoyed that type of podcast.
+
+9
+00:00:41,000 --> 00:00:48,000
+We had a lot of requests to do more of it. And so what we did for this one is we just kind of been collecting a ton of questions
+
+10
+00:00:48,000 --> 00:00:58,000
+around kind of the science of aging and in particular, three geo protective molecules that I know we see the most questions come through.
+
+11
+00:00:58,000 --> 00:01:04,000
+And I know you hear the most from your patients, which is NAD, Rabomison, Metformin.
+
+12
+00:01:04,000 --> 00:01:12,000
+I mean, we had no shortage of podcasts on this with Matt Caberman, Steve Osted, Nierbarzilai, Joan Manik, David Sinclair,
+
+13
+00:01:12,000 --> 00:01:17,000
+Lloyd Klikstein, David Savantini, you kind of name it. We've had a ton of podcasts on it.
+
+14
+00:01:17,000 --> 00:01:23,000
+So what we did is kind of compile all those questions in hopes of kind of having a one stop shop
+
+15
+00:01:23,000 --> 00:01:29,000
+for people to really understand these topics and how they can think about them just with these molecules
+
+16
+00:01:29,000 --> 00:01:32,000
+and then also in the future as new information comes out.
+
+17
+00:01:32,000 --> 00:01:37,000
+So that's kind of what we're looking at today, which leads us to a little bit of a different thing we're doing,
+
+18
+00:01:37,000 --> 00:01:45,000
+which is in addition to me asking you questions, we also thought there'd be no better person to ask back on the podcast
+
+19
+00:01:45,000 --> 00:01:51,000
+for the third time than Matt Caberman. And we reached out to Matt and he graciously said yes.
+
+20
+00:01:51,000 --> 00:01:56,000
+And so we're kind of doing a three person AMA today, which we've never done before.
+
+21
+00:01:56,000 --> 00:02:01,000
+So we'll see how it goes. But thank you, Matt, for joining us for this one.
+
+22
+00:02:01,000 --> 00:02:03,000
+Yeah. Thanks for having me back. Looking forward to it.
+
+23
+00:02:03,000 --> 00:02:13,000
+You know, this is an ambitious way to go about this. And truthfully, when we first kicked around this idea a couple of weeks ago,
+
+24
+00:02:13,000 --> 00:02:18,000
+you know, my vote was to talk exclusively about NAD and its precursors.
+
+25
+00:02:18,000 --> 00:02:27,000
+I felt that there was so much information there that to try to do anything beyond that would frankly be counterproductive.
+
+26
+00:02:27,000 --> 00:02:34,000
+We just wouldn't be able to cover it in the depth. Now, Matt, you had very strong feelings that as much detail as we want to go into
+
+27
+00:02:34,000 --> 00:02:42,000
+around NAD and its precursors, NR and NMN, you really felt strongly that we needed to look at rapamycin and metformin.
+
+28
+00:02:42,000 --> 00:02:43,000
+What was your rationale for that?
+
+29
+00:02:43,000 --> 00:02:54,000
+Yeah. Well, I mean, I think, you know, as Nick said, those three molecules often get talked about together in the field and by people who are following the field as,
+
+30
+00:02:54,000 --> 00:02:58,000
+you know, certainly three of the leading candidates for JARA protectors.
+
+31
+00:02:58,000 --> 00:03:08,000
+And so I think there's some value in almost a compare and contrast between the three and really take a look at the sort of state of the data that we've got today
+
+32
+00:03:09,000 --> 00:03:16,000
+so that you can really sort of understand, you know, what is the evidence for each of these classes of molecules?
+
+33
+00:03:16,000 --> 00:03:24,000
+You know, maybe where are some of the challenges as we think about moving from the laboratory into the real world, into the clinic in terms of testing them.
+
+34
+00:03:24,000 --> 00:03:37,000
+So I thought it would be helpful to at least cover those three classes of molecules together so that we can kind of take a look and compare them against each other.
+
+35
+00:03:37,000 --> 00:03:41,000
+Well, you won. I lost. No, I'm kidding. So I agree with that logic.
+
+36
+00:03:41,000 --> 00:03:42,000
+We're all winners here, Peter.
+
+37
+00:03:42,000 --> 00:03:49,000
+Yeah. So I think we will do that. So Nick, where do you want to start this thing?
+
+38
+00:03:49,000 --> 00:03:57,000
+Yeah. So as we were thinking about it, I think what we need to do is just answer some general questions around aging and studies of aging,
+
+39
+00:03:57,000 --> 00:04:05,000
+because I think that's going to be really helpful for people as they hear what you and Matt have to say to break down NAD, rapamycin, metformin.
+
+40
+00:04:06,000 --> 00:04:17,000
+And so maybe what we'll start with is just if you know you can remind people at the like the highest level, are there any biomarkers of aging that we can look at when we look at these molecules?
+
+41
+00:04:17,000 --> 00:04:25,000
+Well, certainly what I would say is when you contrast aging with a field like lipidology, our hands are a little bit tied.
+
+42
+00:04:26,000 --> 00:04:37,000
+So if your objective is to lower APO-B because APO-B plays a causative role in atherosclerotic cardiovascular disease, you have the perfect biomarker.
+
+43
+00:04:37,000 --> 00:04:48,000
+It's APO-B. So even though you have multiple different ways that drugs can go about lowering that, they can inhibit synthesis primarily, they can increase clearance, they can impute absorption, all these things.
+
+44
+00:04:49,000 --> 00:04:55,000
+You have a very clear biomarker that you can track. And of course, that's true for a number of drugs.
+
+45
+00:04:56,000 --> 00:05:09,000
+But when it comes to this field of aging, it really is difficult. And I'm guessing, Matt, that there are going to be some people who will argue that we have remarkable biomarkers for aging.
+
+46
+00:05:10,000 --> 00:05:17,000
+And then you'll have others, and I'm probably more in this camp, that would argue, actually, we don't really have any good biomarkers for aging. Where do you sit on this, Matt?
+
+47
+00:05:17,000 --> 00:05:27,000
+Yeah, I mean, I think you're right. And I think one of the things that you have to consider is really what do you want a biomarker to do?
+
+48
+00:05:28,000 --> 00:05:43,000
+I mean, I think we're obviously talking about biomarkers of biological aging. And so what I think you really want is something you can measure that is predictive at either the individual or the population level of future health outcomes.
+
+49
+00:05:43,000 --> 00:05:53,000
+You know, mortality, certainly, but also functional outcomes, disease risk, things like that. So, you know, I think at one level, we absolutely have biomarkers, right?
+
+50
+00:05:54,000 --> 00:06:01,000
+We can look at each other and, to some extent, come up with somewhat of a precise measure of biological age, right?
+
+51
+00:06:02,000 --> 00:06:09,000
+We can look at two people who are the same chronological age, and humans are actually pretty good at estimating, you know, who's in better health.
+
+52
+00:06:09,000 --> 00:06:19,000
+So we've evolved to do that. So there must be these underlying molecular biochemical signatures that we can find that are predictive of that.
+
+53
+00:06:20,000 --> 00:06:29,000
+And, you know, I think it's a work in progress. So this has been ongoing since the 1980s, trying to find these molecular biomarkers of aging. And it's still a work in progress.
+
+54
+00:06:29,000 --> 00:06:39,000
+It's an interesting time, as you suggested, where we have some candidates now, and certainly there are people in the field who are very optimistic.
+
+55
+00:06:40,000 --> 00:06:52,000
+Some would argue maybe overly optimistic about how well those candidates work. And it's also an interesting time because we're starting to see commercialization of these, you know, so-called aging clocks that are being sold to the general public.
+
+56
+00:06:52,000 --> 00:07:00,000
+And again, you know, I think you can have a debate about what the evidence is that these things are actually measuring biological aging. Are they doing it accurately?
+
+57
+00:07:01,000 --> 00:07:19,000
+But certainly I think I feel like we're closer than we were 15 or 20 years ago, but we're still a ways off from that sort of definition that I gave of having something that you can measure that in a predictive way at either the individual or the population level, you know, really tells you with any level of precision
+
+58
+00:07:19,000 --> 00:07:22,000
+what the biological aging trajectory is.
+
+59
+00:07:23,000 --> 00:07:39,000
+Yeah. And so I think the example you gave is a pretty good one about just the eyeball test, right? So if you took two people who are 50 years old and looked at them and one had lots of muscle mass and great posture and, you know, looked like a physical specimen of health.
+
+60
+00:07:40,000 --> 00:08:02,000
+And the other one was sort of slumped over, maybe morbidly obese. You know, you take the exact opposite of that. It's probably the case that the fitter person would look younger. And even if you could look at their face and see the same number of wrinkles and assume that they're, well, they're probably the same age, you would still predict sort of a younger biologic age of that person.
+
+61
+00:08:02,000 --> 00:08:16,000
+So you're right. There's something in the Gestalt that's pretty obvious, but truthfully, at least for me, what would be really valuable would be blood based biomarkers potentially more elaborate.
+
+62
+00:08:16,000 --> 00:08:29,000
+But let's start with the blood where you could do interventions for a short period of time. And if in fact those interventions would, if continued, lead to better lifespan or health span.
+
+63
+00:08:30,000 --> 00:08:46,000
+And let's just keep it simple and say lifespan, they would show up. So for example, if you took an individual and you calorie restricted them for three months. So you took them down to 70% of their weight maintenance caloric intake.
+
+64
+00:08:46,000 --> 00:08:55,000
+You would like to think that there would be some set of biomarkers that would suggest an improvement in their lifespan. What do you think about that idea, Matt?
+
+65
+00:08:55,000 --> 00:09:06,000
+Yeah, so I mean, I agree completely with you that from a pragmatic perspective and a usefulness perspective, that's exactly what we want. And I think that's what the field has been searching for for a long time.
+
+66
+00:09:06,000 --> 00:09:23,000
+It's a complicated question that you're asking though, because I think it's one thing to hypothesize that there are going to be molecular biomarkers that reflect aging, biological age.
+
+67
+00:09:23,000 --> 00:09:38,000
+Those are not necessarily going to be the same biomarkers that reflect rate of aging. And what you're talking about a short term readout almost has to reflect rate of aging or even potentially the speculative reversal of biological aging.
+
+68
+00:09:38,000 --> 00:09:52,000
+And so my only point is those may not actually be the same markers for each of those classes. So I certainly believe that there will be signatures of intervention response that are predictive of efficacy.
+
+69
+00:09:52,000 --> 00:10:07,000
+I'm not sure that it's going to be the same as the signatures of biological age. And this is actually, it's actually a really interesting area because I think if you had asked me 15 or 20 years ago when I was really getting started in this field,
+
+70
+00:10:07,000 --> 00:10:18,000
+the kinds of interventions, you mentioned caloric restriction, that's kind of the gold standard that we've been studying for many, many years, are those slowing aging or reversing aging?
+
+71
+00:10:18,000 --> 00:10:41,000
+I would have answered their slowing aging, right? They are decreasing the rate of decline or damage accumulation. What's been really interesting and I think exciting over the last 10 years or so is the observation that at least some of these interventions reverse many of the molecular changes that go along with aging and in many cases, the functional changes that go along with aging.
+
+72
+00:10:41,000 --> 00:10:56,000
+So you talked about blood biomarkers. I agree with you. That's a great, that would be great if we had blood biomarkers. I am actually a big fan of functional biomarkers. So looking at organ function, tissue function, that's harder to do in people than it is in laboratory animals in some ways.
+
+73
+00:10:56,000 --> 00:11:06,000
+But I really feel like, you know, those are telling us something fundamental about future health outcomes that you can almost take to the bank, right?
+
+74
+00:11:06,000 --> 00:11:16,000
+There's still some stochasticity involved. There's still some luck with staying alive. But if you can make somebody's heart function better, their brain function better, you got to feel pretty good about that.
+
+75
+00:11:16,000 --> 00:11:29,000
+And if you can make multiple organs and tissues function better with the same intervention, I think you can make a case that you are in fact modulating some underlying biology of aging as opposed to only the biology of that tissue and organ.
+
+76
+00:11:29,000 --> 00:11:42,000
+Yeah. And frankly, Matt, that's, I mean, that's exactly what we do in clinical practice. The reality of it is, and we'll talk about these things, but, you know, I'm not looking at epigenetic clocks, right? I'm just not.
+
+77
+00:11:42,000 --> 00:11:54,000
+How do I know if we're moving or how do I believe? I guess you'll never really know if you're going to talk about this with some humility. But what gives me great confidence that we're moving in the right direction with a patient?
+
+78
+00:11:54,000 --> 00:12:09,000
+It's basically when all of those functional things improve. So if VO2 max improves, muscle mass improves, strength improves, cardiovascular efficiency improves, phenotypic markers of disease improve, right?
+
+79
+00:12:09,000 --> 00:12:21,000
+So glucose disposal, insulin signaling, APO-B lipid markers, inflammatory markers. So are those, maybe those are just biomarkers of aging. I mean, they're certainly my crude version of those things.
+
+80
+00:12:21,000 --> 00:12:38,000
+And again, some of those are things you measure in blood. Some of those are things that you measure noninvasively. Some of those things are imaging related. I think, you know, until someone comes up with better tools, this is basically how I think about this problem.
+
+81
+00:12:38,000 --> 00:12:45,000
+But let's talk a little bit about epigenetic clocks because they sure are getting a lot of attention.
+
+82
+00:12:45,000 --> 00:12:51,000
+You want to maybe tell folks what they are specifically, how they work and what they're aspiring to do?
+
+83
+00:12:51,000 --> 00:13:04,000
+Sure. So just take a step back. I mean, I think, you know, the word epigenetics actually means a lot, right? I mean, it can mean anything that is inherited that's not at the level of your DNA sequence.
+
+84
+00:13:04,000 --> 00:13:15,000
+But mostly when people talk about epigenetic clocks, which what they're specifically talking about are chemical modifications either to the DNA or to the histones that pack the DNA.
+
+85
+00:13:15,000 --> 00:13:21,000
+And these chemical modifications control gene expression. So things like methylation and acetylation.
+
+86
+00:13:21,000 --> 00:13:34,000
+And so what has been observed in laboratory animals and in humans is that there are changes in these epigenetic marks that happen in a predictable way with age.
+
+87
+00:13:34,000 --> 00:13:41,000
+And there are tens of thousands of these marks that can be measured, you know, at any given time in a cell.
+
+88
+00:13:41,000 --> 00:13:51,000
+And that you can create algorithms that predict the age-related changes in these epigenetic marks with a pretty high degree of accuracy.
+
+89
+00:13:51,000 --> 00:14:06,000
+So you can sample a subset of these specific chemical changes and come up with an algorithm that within, you know, plus or minus five years will predict a person or an animal's chronological age.
+
+90
+00:14:06,000 --> 00:14:11,000
+And that works really well. And that seems to work really well in every organism where people have looked.
+
+91
+00:14:11,000 --> 00:14:17,000
+All the way from very early development up into old age, you can create these predictive algorithms.
+
+92
+00:14:17,000 --> 00:14:23,000
+And so what the idea that has emerged from that is that you can do that at the population level.
+
+93
+00:14:23,000 --> 00:14:35,000
+And then if you identify individuals whose chronological age doesn't match up really perfectly well with their epigenetic age, in other words, they lie off of that best fit line,
+
+94
+00:14:35,000 --> 00:14:41,000
+that those people may be biologically younger or older than their chronological age.
+
+95
+00:14:41,000 --> 00:14:55,000
+And so that's where this idea of these epigenetic clocks has come from, is you then, at least in principle, can predict a person's biological age depending on how well they fit the best fit line for this algorithm.
+
+96
+00:14:55,000 --> 00:15:08,000
+And I think that the evidence in support of that comes mostly from longitudinal studies in humans where you can create a training set and a test set and you know what the future outcomes were for some of these people.
+
+97
+00:15:08,000 --> 00:15:11,000
+They've been sampled, you know, let's say over 20 years.
+
+98
+00:15:11,000 --> 00:15:21,000
+And indeed, you can see a relationship between the people whose predicted biological epigenetic age, say, is younger than their chronological age.
+
+99
+00:15:21,000 --> 00:15:28,000
+And then when you look at them 20 years later, they have a lower likelihood of developing specific diseases or potentially of dying.
+
+100
+00:15:28,000 --> 00:15:36,000
+So I think that's the case that can be made for these epigenetic clocks, that they are telling you something about future risk.
+
+101
+00:15:36,000 --> 00:15:40,000
+I think in my view, the limitation to these epigenetic clocks, there's several.
+
+102
+00:15:40,000 --> 00:15:43,000
+One is that there are about two dozen of them.
+
+103
+00:15:43,000 --> 00:15:49,000
+And honestly, I can't tell from the way people argue with each other which are the best and which aren't.
+
+104
+00:15:50,000 --> 00:16:04,000
+But I think more what concerns me is nobody has ever done what I would view as the definitive experiment, which is to actually show in the same individual or in the same population that you can actually predict future health outcomes.
+
+105
+00:16:04,000 --> 00:16:09,000
+Now, some people will argue that the longitudinal data, you know, makes that not necessary.
+
+106
+00:16:09,000 --> 00:16:13,000
+I think there are a couple of reasons why I don't agree with that.
+
+107
+00:16:13,000 --> 00:16:20,000
+One big one is that the environment that we live in as humans has changed dramatically over the last three decades.
+
+108
+00:16:20,000 --> 00:16:25,000
+And we know that environment plays a huge role in epigenetic modifications.
+
+109
+00:16:25,000 --> 00:16:31,000
+And so the epigenetic marks that were most relevant for health outcomes 30 years ago might not be the most relevant today.
+
+110
+00:16:31,000 --> 00:16:33,000
+So that's one.
+
+111
+00:16:33,000 --> 00:16:38,000
+The other is this is actually a pretty easy experiment to do in mice, and it really bothers me that nobody has done it.
+
+112
+00:16:38,000 --> 00:16:40,000
+Yeah, I was going to ask you that, Matt.
+
+113
+00:16:40,000 --> 00:16:47,000
+So how many times is someone doing a mouse study that is going to the end of life?
+
+114
+00:16:47,000 --> 00:16:50,000
+I mean, like as we sit here speaking, right?
+
+115
+00:16:50,000 --> 00:16:58,000
+Like, so why do we not have the definitive lifespan study for each of these epigenetic clocks?
+
+116
+00:16:58,000 --> 00:16:59,000
+I think that's a legitimate question.
+
+117
+00:16:59,000 --> 00:17:00,000
+I don't know the answer.
+
+118
+00:17:00,000 --> 00:17:04,000
+I mean, people will tell you that, you know, the clocks aren't as good in mice.
+
+119
+00:17:04,000 --> 00:17:06,000
+And look, it should be doable.
+
+120
+00:17:06,000 --> 00:17:09,000
+And honestly, it should have been done three, four years ago.
+
+121
+00:17:09,000 --> 00:17:14,000
+So I think that's a, you know, it's a black hole in the literature that hasn't been filled yet.
+
+122
+00:17:14,000 --> 00:17:22,000
+And just to be explicit, I mean, I think the experiment you want to do, right, is you take a cohort of mice at, say, 20 months,
+
+123
+00:17:22,000 --> 00:17:29,000
+you measure their epigenetic age in blood, you do a few interventions that we know should extend lifespan, right?
+
+124
+00:17:29,000 --> 00:17:33,000
+You measure their epigenetic age in blood six months later.
+
+125
+00:17:33,000 --> 00:17:34,000
+You do it six months later.
+
+126
+00:17:34,000 --> 00:17:42,000
+And then you see at an individual and population level what the survival is, and you can do end of life pathology.
+
+127
+00:17:42,000 --> 00:17:50,000
+And so if the clocks are working, you should absolutely be able to detect that signature well in advance of end of life, right?
+
+128
+00:17:50,000 --> 00:17:55,000
+And I think that would, you know, if somebody did that experiment and it worked, I would be convinced.
+
+129
+00:17:55,000 --> 00:18:02,000
+That would make me really be a believer, you know, in the epigenetic clocks, particularly if you could do it at the individual level.
+
+130
+00:18:02,000 --> 00:18:03,000
+But it hasn't been done yet.
+
+131
+00:18:03,000 --> 00:18:06,000
+So, you know, so I think it's a little bit unclear.
+
+132
+00:18:06,000 --> 00:18:08,000
+That's a big ask to do it at the individual level.
+
+133
+00:18:08,000 --> 00:18:10,000
+I think it is one thing to do it at the population level.
+
+134
+00:18:10,000 --> 00:18:13,000
+But, you know, the question is how will it port to the individual level?
+
+135
+00:18:13,000 --> 00:18:20,000
+The other thing that's we use this term, and you've already alluded to this, we use this term kind of broadly.
+
+136
+00:18:20,000 --> 00:18:29,000
+But sometimes when a person says epigenetic clock, they mean literally a set of biomarkers that look at methylation patterns on DNA.
+
+137
+00:18:30,000 --> 00:18:45,000
+And other times when people say epigenetic clock, they mean an algorithm that looks at 15 biomarkers that can include obviously the methylation pattern on DNA, but can include things like vitamin D level, fasting glucose level, you know, sort of traditional biomarkers.
+
+138
+00:18:45,000 --> 00:18:48,000
+Do you have a point of view on the difference between these?
+
+139
+00:18:48,000 --> 00:18:50,000
+Well, I think what you just said is accurate, right?
+
+140
+00:18:50,000 --> 00:18:52,000
+They're different. They're measuring different things.
+
+141
+00:18:52,000 --> 00:19:11,000
+You know, my personal intuition is that the clocks, so I would call that more of a general aging clock, a putative aging clock, I guess I should say, that the putative aging clocks that incorporate things beyond epigenetics are much more likely to actually work in a useful way in humans.
+
+142
+00:19:11,000 --> 00:19:26,000
+And I think one reason to believe that is if you look at what people call the hallmarks of aging, right, these sort of famous nine things, molecular, conserved processes that seem to contribute to aging, only one of them is epigenetics.
+
+143
+00:19:26,000 --> 00:19:34,000
+And so I think you run the risk with the epigenetic clocks that you're only informing on a subset of the biological aging processes.
+
+144
+00:19:34,000 --> 00:19:40,000
+And if you look more broadly, you're much more likely to get a holistic picture at the whole individual level.
+
+145
+00:19:40,000 --> 00:19:48,000
+I want to come back to something you said, though. You said it's kind of a heavy lift or a hard ask to get these clocks to work at the individual level.
+
+146
+00:19:48,000 --> 00:19:53,000
+That may be true, but I think in order for them to be useful, that's what you want, right?
+
+147
+00:19:53,000 --> 00:19:56,000
+Oh, yeah, yeah, yeah. Sorry, sorry. And that's exactly right.
+
+148
+00:19:56,000 --> 00:20:03,000
+The fact that it is so hard to be, that would be so hard to do, speaks to exactly why you would love to see it done.
+
+149
+00:20:03,000 --> 00:20:04,000
+Yeah.
+
+150
+00:20:34,000 --> 00:20:49,000
+So I would agree with you about the epigenetic marks, like methylation specifically.
+
+151
+00:20:49,000 --> 00:20:57,000
+I'm a little bit more optimistic that you can create the kind of more broad aging clock or aging signature,
+
+152
+00:20:58,000 --> 00:21:07,000
+But do you think it can be done out of an existing collection of biomarkers, or do you think we're going to have to go deeper into the proteome and metabolome to find things we don't even know exist yet?
+
+153
+00:21:07,000 --> 00:21:13,000
+In other words, find other molecules that we basically haven't identified yet.
+
+154
+00:21:13,000 --> 00:21:15,000
+I don't know. I honestly don't know.
+
+155
+00:21:15,000 --> 00:21:21,000
+It wouldn't surprise me if, just given the state of knowledge today, that there are a subset of the proteome,
+
+156
+00:21:21,000 --> 00:21:35,000
+I honestly don't know. It wouldn't surprise me if, just given the state of knowledge today, that there are a subset of the things that people in the field are thinking about that can actually be extremely predictive at the individual level.
+
+157
+00:21:35,000 --> 00:21:37,000
+It's never going to be perfect. You can always do better.
+
+158
+00:21:37,000 --> 00:21:45,000
+But all of the things you mentioned, all of the functional outcomes that we know are important for health, there is underlying biology that drives that.
+
+159
+00:21:46,000 --> 00:21:55,000
+And I think we've got, certainly an incomplete, but a pretty good idea of what a lot of the processes are that are driving that loss of function and that degeneration.
+
+160
+00:21:55,000 --> 00:22:08,000
+So I don't know. Time will tell. But I feel like the candidates we've got are pretty good, and they may not be as precise as you can get if you can do a full functional workup on a person.
+
+161
+00:22:08,000 --> 00:22:21,000
+But they might be good enough to tell you some information about likely efficacy of lifestyle changes or drug interventions or things that people might want to incorporate to potentially maximize their health span.
+
+162
+00:22:21,000 --> 00:22:29,000
+Now, last point on this before we kind of get into sort of the more substantive attempts to answer some questions.
+
+163
+00:22:30,000 --> 00:22:45,000
+One of the things I'm always mindful of here, and I've seen this a lot with early cancer screening diagnostic companies, is changing the definition of what something means in order to fit a diagnostic test.
+
+164
+00:22:45,000 --> 00:22:58,000
+Right? So I've seen this. I've been pitched on these so many times, literally at least three if not four times, where a company comes along and says, hey, we've got a biomarker that is an early detection of cancer.
+
+165
+00:22:58,000 --> 00:23:12,000
+And I say, OK, show me the data. And they say, look at this sample set where we predicted so many cancers in patients and we have zero false positives and we have zero false negatives.
+
+166
+00:23:12,000 --> 00:23:22,000
+So I look at their test and I say, well, these are a whole bunch of positives in people that don't have cancer. And they said, no, no, no, no. They have early cancer.
+
+167
+00:23:23,000 --> 00:23:32,000
+I said, well, what do you mean by that? Well, they have cancer, but it's only a few thousand cancer cells. And I said, but do you know if those people go on to get cancer?
+
+168
+00:23:32,000 --> 00:23:40,000
+Because, you know, clinically relevant cancer is about a billion cells. That's when it would be, you know, one square centimeter. And they say, no, it doesn't matter.
+
+169
+00:23:41,000 --> 00:23:54,000
+This person has cancer. And I said, well, look, if a person has a thousand cancer cells in their body, we have no idea if that means they're going to get cancer or if their immune system is going to come along and mop the floor with that cancer.
+
+170
+00:23:54,000 --> 00:24:06,000
+So to tell me you have no false positives just because you captured those is a little bit like moving the goalpost or, you know, what's the, you know, you shoot the arrow at the side of the barn and you go and draw the target after.
+
+171
+00:24:07,000 --> 00:24:21,000
+So I see a little bit of the same thing going on with biologic age clocks where there's we're pairing an age clock with a supplement or an intervention and we're tuning them to each other. Does that make sense?
+
+172
+00:24:22,000 --> 00:24:34,000
+Yeah. You know, I agree. I agree completely. And I think, you know, it's something certainly something I'm concerned about. I think a fair number of scientists in the field are concerned about is the commercial commercialization of these aging clocks.
+
+173
+00:24:35,000 --> 00:24:53,000
+And, you know, so you mentioned pairing it with the supplements. That's even a step further. But I think even selling to to the general public the idea that with some level of accuracy, we can measure your biological age and you should take action based on that, you know, is dishonest.
+
+174
+00:24:54,000 --> 00:25:06,000
+It's just frankly dishonest. Now, some people will argue that it's, you know, it's a necessary evil in the sense that one, it, you know, broadens the appeal of the field to the general public.
+
+175
+00:25:07,000 --> 00:25:18,000
+And two, it's causing people to make healthy lifestyle choices. You know, maybe when you measure your biological age and it tells you you're 10 years older than your chronological age, you start exercising or you eat better.
+
+176
+00:25:18,000 --> 00:25:29,000
+Maybe that's true. I don't know that that's necessarily true, but it's still dishonest to claim to people that anyone is able to with any precision measure your biological age.
+
+177
+00:25:30,000 --> 00:25:41,000
+And there are lots and lots of companies doing that. So to me, that's a problem to begin with. It becomes a bigger problem when the same companies are then also selling a product that they claim will reverse your biological age.
+
+178
+00:25:41,000 --> 00:25:52,000
+That's just snake oil. I don't know any other way to say it. It's just snake oil. And it's, you know, honestly, the FDA should step in and do something about it, in my opinion.
+
+179
+00:25:53,000 --> 00:26:01,000
+So I think that was a really good overview kind of around the question of why there's so much complexity around the idea of aging biomarkers.
+
+180
+00:26:02,000 --> 00:26:13,000
+And so maybe what would be really helpful for people is knowing all of that. How do we think about that when we look at these studies that look at geo protective molecules?
+
+181
+00:26:14,000 --> 00:26:24,000
+So people who aren't in the field don't do these studies day in, day out, aren't always looking at this. A lot of them are going to be kind of wondering, okay, what does that mean as we look at this?
+
+182
+00:26:24,000 --> 00:26:41,000
+So maybe you both can talk about kind of what the takeaway is from everything we just discussed, as well as when we look at studies and models and mice and yeast or humans, whoever that may be, maybe run through one of the strengths, the limitations, how to think about those things.
+
+183
+00:26:42,000 --> 00:26:50,000
+Thank you for listening to today's sneak peek AMA episode of The Drive. If you're interested in hearing the complete version of this AMA, you'll want to become a member.
+
+184
+00:26:51,000 --> 00:26:57,000
+We created a membership program to bring you more in-depth exclusive content without relying on paid ads.
+
+185
+00:26:58,000 --> 00:27:03,000
+Membership benefits are many and beyond the complete episodes of the AMA each month, they include the following.
+
+186
+00:27:04,000 --> 00:27:12,000
+Ridiculously comprehensive podcast show notes that detail every topic, paper, person, and thing we discuss on each episode of The Drive.
+
+187
+00:27:13,000 --> 00:27:26,000
+Access to our private podcast feed, the Qualies, which are a super short podcast, typically less than five minutes, released every Tuesday through Friday, which highlight the best questions, topics, and tactics discussed on previous episodes of The Drive.
+
+188
+00:27:27,000 --> 00:27:36,000
+This is particularly important for those of you who haven't heard all of the back episodes, becomes a great way to go back and filter and decide which ones you want to listen to in detail.
+
+189
+00:27:37,000 --> 00:27:45,000
+Really steep discount codes for products I use and believe in, but for which I don't get paid to endorse, and benefits that we continue to add over time.
+
+190
+00:27:46,000 --> 00:27:53,000
+If you want to learn more and access these member-only benefits, head over to PeterAttiaMD.com forward slash subscribe.
+
+191
+00:27:53,000 --> 00:28:03,000
+Lastly, if you're already a member but you're hearing this, it means you haven't downloaded our member-only podcast feed where you can get the full access to the AMA and you don't have to listen to this.
+
+192
+00:28:04,000 --> 00:28:09,000
+You can download that at PeterAttiaMD.com forward slash members.
+
+193
+00:28:10,000 --> 00:28:15,000
+You can find me on Twitter, Instagram, and Facebook, all with the ID PeterAttiaMD.
+
+194
+00:28:16,000 --> 00:28:20,000
+You can also leave us a review on Apple Podcasts or whatever podcast player you listen on.
+
+195
+00:28:20,000 --> 00:28:31,000
+This podcast is for general informational purposes only and does not constitute the practice of medicine, nursing, or other professional healthcare services, including the giving of medical advice.
+
+196
+00:28:32,000 --> 00:28:34,000
+No doctor-patient relationship is formed.
+
+197
+00:28:35,000 --> 00:28:39,000
+The use of this information and the materials linked to this podcast is at the user's own risk.
+
+198
+00:28:40,000 --> 00:28:46,000
+The content on this podcast is not intended to be a substitute for professional medical advice, diagnosis, or treatment.
+
+199
+00:28:47,000 --> 00:28:58,000
+Users should not disregard or delay in obtaining medical advice from any medical condition they have, and they should seek the assistance of their healthcare professionals for any such conditions.
+
+200
+00:28:59,000 --> 00:29:01,000
+Finally, I take conflicts of interest very seriously.
+
+201
+00:29:02,000 --> 00:29:13,000
+For all of my disclosures and the companies I invest in or advise, please visit PeterAttiaMD.com forward slash about where I keep an up-to-date and active list of such companies.
+
+202
+00:29:16,000 --> 00:29:17,000
+Thank you.
+

@@ -1,0 +1,4744 @@
+1
+00:00:00,000 --> 00:00:15,640
+Hey everyone, welcome to the Drive podcast. I'm your host, Peter Attia. This podcast,
+
+2
+00:00:15,640 --> 00:00:19,400
+my website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:19,400 --> 00:00:24,400
+longevity into something accessible for everyone. Our goal is to provide the best content in
+
+4
+00:00:24,400 --> 00:00:28,480
+health and wellness, full stop, and we've assembled a great team of analysts to make
+
+5
+00:00:28,480 --> 00:00:32,760
+this happen. If you enjoy this podcast, we've created a membership program that brings you
+
+6
+00:00:32,760 --> 00:00:36,960
+far more in-depth content. If you want to take your knowledge of the space to the next level.
+
+7
+00:00:36,960 --> 00:00:41,600
+At the end of this episode, I'll explain what those benefits are. Or if you want to learn more now,
+
+8
+00:00:41,600 --> 00:00:48,160
+head over to PeterAttiaMD.com forward slash subscribe. Now, without further delay, here's
+
+9
+00:00:48,160 --> 00:00:55,800
+today's episode. I guess this week is Dan Rader. Dan is a professor of molecular medicine at the
+
+10
+00:00:55,800 --> 00:01:00,280
+Perlman School of Medicine at the University of Pennsylvania, where he conducts translational
+
+11
+00:01:00,280 --> 00:01:07,200
+research on lipoprotein metabolism and atherosclerosis. The particular focus on the metabolism and most
+
+12
+00:01:07,200 --> 00:01:14,400
+importantly, function of high density lipoproteins, HDLs. Dan has received numerous awards and has
+
+13
+00:01:14,400 --> 00:01:18,560
+been elected to the American Society of Clinical Investigation, the Association of American
+
+14
+00:01:18,560 --> 00:01:22,760
+Physicians, and the National Academy of Medicine. He also currently serves on the board of directors
+
+15
+00:01:22,880 --> 00:01:27,600
+of the International Society of Atherosclerosis, the board of external experts at the National
+
+16
+00:01:27,600 --> 00:01:33,600
+Heart, Lung, and Blood Institute, and the advisory board for the clinical research of the NIH. In
+
+17
+00:01:33,600 --> 00:01:39,000
+this episode, we focus our entire conversation around high density lipoproteins or HDLs. Now,
+
+18
+00:01:39,000 --> 00:01:44,520
+as any listener of this podcast will know, we have no shortage of content around lipids. We
+
+19
+00:01:44,520 --> 00:01:50,360
+focus a lot of that energy on the ApoB side of the family. That is, to some extent, VLDLs and,
+
+20
+00:01:50,360 --> 00:01:54,760
+of course, LPLitLA, which is a subset of LDL. However, this is the first time we're doing a
+
+21
+00:01:54,760 --> 00:02:02,000
+dedicated podcast on HDLs. Now, the reason for that, in other words, the reason for that disparity
+
+22
+00:02:02,000 --> 00:02:08,200
+is largely because HDL biology is so much more complex and we know so much less. I mean, at the
+
+23
+00:02:08,200 --> 00:02:12,280
+highest level, I think people generally think of HDL as, quote unquote, the good cholesterol, but
+
+24
+00:02:12,280 --> 00:02:17,440
+you've no doubt heard me rail on the stupidity of such a designation. But there is clearly something
+
+25
+00:02:17,440 --> 00:02:24,160
+good about HDLs as in the lipoproteins, not the cholesterol. And in this discussion, we really
+
+26
+00:02:24,160 --> 00:02:31,000
+talk about everything from the biology of the HDL, its genesis, its origin, its metabolism, its
+
+27
+00:02:31,000 --> 00:02:37,080
+life cycle, and, of course, its function. We also talk about why it has been so complicated to use
+
+28
+00:02:37,080 --> 00:02:42,920
+pharmacologic interventions on the HDL side of the equation to impact atherosclerosis. Conversely,
+
+29
+00:02:43,000 --> 00:02:48,160
+of course, it's been the easiest thing, I would say, in medicine and perhaps the greatest success
+
+30
+00:02:48,160 --> 00:02:52,440
+of modern medicine, especially as it comes to cardiovascular disease, has been our ability to
+
+31
+00:02:52,440 --> 00:02:57,960
+manipulate the ApoB side of the equation as opposed to the ApoA side of the equation. That's one thing
+
+32
+00:02:57,960 --> 00:03:02,320
+that's going to be important here when we get into the terminology. When we talk about ApoA in the
+
+33
+00:03:02,320 --> 00:03:08,120
+context of HDLs, we're talking about ApoA as in a big A, which has no bearing whatsoever to Apo
+
+34
+00:03:08,120 --> 00:03:13,840
+little A, the thing that, of course, defines an LP little A. But I digress, that is simply one of
+
+35
+00:03:13,840 --> 00:03:18,560
+the many details we get into. So, as I said, we're going to talk here about the genesis of the HDL,
+
+36
+00:03:18,560 --> 00:03:22,880
+the structure, its metabolism. We talk about the differences between HDLs, LDLs, the difference
+
+37
+00:03:22,880 --> 00:03:29,480
+between the HDL measurements. So what exactly is HDL cholesterol versus ApoA concentration versus HDL
+
+38
+00:03:29,480 --> 00:03:33,960
+particle number? We talk about the idea that having a high HDL means you don't need to worry
+
+39
+00:03:33,960 --> 00:03:37,280
+about cardiovascular disease and how that's obviously going to be bunk. I'm just going to
+
+40
+00:03:37,280 --> 00:03:41,880
+let the cat out of the bag on that one. We speak about CTEP inhibitors, which are a class of drug
+
+41
+00:03:41,880 --> 00:03:47,400
+that have been repeatedly used to try to increase HDL cholesterol with the hopes that that would
+
+42
+00:03:47,400 --> 00:03:52,400
+reduce cardiovascular disease. And finally, we end the conversation around some of the new thinking
+
+43
+00:03:52,400 --> 00:03:55,760
+around HDL and neurodegenerative disease, something again, I learned a lot about. So,
+
+44
+00:03:55,760 --> 00:04:06,400
+without further delay, please enjoy my conversation with Dan Grader. Well, Dan, thank you so much for
+
+45
+00:04:06,520 --> 00:04:11,840
+making time to join us on the podcast today. Tom Dayspring really recommended you highly. And
+
+46
+00:04:11,840 --> 00:04:17,360
+anytime Tom Dayspring says to me, you should have so and so on the podcast to talk about anything
+
+47
+00:04:17,360 --> 00:04:22,880
+that has to do with lipids, I immediately pay attention. Tom's an amazing guy. Now, in particular,
+
+48
+00:04:22,880 --> 00:04:29,360
+the subject matter I want to explore with you today is probably the area of lipidology that I
+
+49
+00:04:29,520 --> 00:04:38,080
+personally am the least familiar with. And that has to do with kind of one half of the lipid family.
+
+50
+00:04:38,080 --> 00:04:42,960
+I explain this to patients as they're broadly speaking two families, the ApoB family and the
+
+51
+00:04:42,960 --> 00:04:49,000
+ApoA family. We spend obviously so much more time talking about the ApoB family based on, I think,
+
+52
+00:04:49,000 --> 00:04:54,080
+two things. One is our clearer understanding of it and two, the direct and causal relationship to
+
+53
+00:04:54,080 --> 00:04:58,880
+pathology. But I often sort of waffle a bit when I'm talking about the ApoA side of the house.
+
+54
+00:04:59,600 --> 00:05:03,840
+That's really why I'm excited to be sitting down with you today. But perhaps for the person
+
+55
+00:05:03,840 --> 00:05:08,880
+listening to this who doesn't even understand what a lipoprotein is yet, never mind what the
+
+56
+00:05:08,880 --> 00:05:14,000
+two families are that we're talking about, can you take it back to the beginning for where do
+
+57
+00:05:14,000 --> 00:05:19,680
+these things fit into the broader architecture of our existence? Lipoproteins are these big complexes
+
+58
+00:05:19,680 --> 00:05:25,680
+that really are evolved to transport lipids within the blood. Lipids are like oil. They don't mix
+
+59
+00:05:25,760 --> 00:05:31,040
+well with water. Oil droplets float to the top of a puddle. We wouldn't be able to transport lipids
+
+60
+00:05:31,040 --> 00:05:36,160
+in the blood if we hadn't evolved a mechanism to do that. And lipoproteins are basically the
+
+61
+00:05:36,160 --> 00:05:41,600
+mechanism to do that. As their names suggest, they're lipoproteins. They have lipid in the core,
+
+62
+00:05:42,160 --> 00:05:48,400
+and then they have proteins that dot the surface. That allows them to be transported in very
+
+63
+00:05:49,040 --> 00:05:55,200
+complex and sophisticated ways within the bloodstream in terms of how they're metabolized,
+
+64
+00:05:55,200 --> 00:05:59,600
+in terms of the receptors they bind to, and in terms of the specific proteins and lipids that
+
+65
+00:05:59,600 --> 00:06:04,080
+they carry. You've talked a lot about ApoB lipoproteins. I've listened to several of those
+
+66
+00:06:04,080 --> 00:06:11,120
+podcasts. They're really fabulous. And of course, the ApoB lipoproteins really primarily transport,
+
+67
+00:06:11,120 --> 00:06:18,880
+or evolve to transport triglycerides as a source of energy, both from the gut to adipose and muscle
+
+68
+00:06:18,880 --> 00:06:24,800
+and heart, as well as from the liver during times when we're fasting. You've talked a lot about that
+
+69
+00:06:24,800 --> 00:06:30,000
+and, as you pointed out, they are very important in terms of causal relationship to atherosclerotic
+
+70
+00:06:30,000 --> 00:06:35,120
+cardiovascular disease. HDL, which we're going to be talking about today, is also a lipoprotein.
+
+71
+00:06:35,120 --> 00:06:41,200
+It's a very complex lipoprotein. It doesn't have this key protein, ApoB. That's what differentiates
+
+72
+00:06:41,200 --> 00:06:45,200
+them. That's why we often refer to the ApoB-containing lipoproteins, and then HDL is the
+
+73
+00:06:45,200 --> 00:06:49,760
+other half, as you said. And HDL really is characterized by a different protein called
+
+74
+00:06:49,760 --> 00:06:56,560
+ApoA1. HDL also transports lipids, especially cholesterol and some other complex lipids,
+
+75
+00:06:56,560 --> 00:07:01,280
+and we'll be getting into that more. But essentially, lipoproteins are lipid transport
+
+76
+00:07:01,280 --> 00:07:05,280
+vehicles within the blood and really evolve to do that function.
+
+77
+00:07:05,280 --> 00:07:09,120
+A couple of things I'll just throw in for folks, again, maybe new to some of this,
+
+78
+00:07:09,120 --> 00:07:15,120
+which is all of this stuff we're talking about is so important in terms of these lipoproteins,
+
+79
+00:07:15,120 --> 00:07:20,560
+because unlike glucose, electrolytes, things that we kind of take for granted that are water
+
+80
+00:07:20,560 --> 00:07:26,080
+soluble, we use our circulatory system as the freeway to move these things around.
+
+81
+00:07:26,720 --> 00:07:31,760
+And unfortunately, as you said, because of the insolubility of both cholesterol,
+
+82
+00:07:31,760 --> 00:07:36,080
+triglyceride, lipids, et cetera, we have to come up with this more complicated system.
+
+83
+00:07:36,080 --> 00:07:41,120
+I think the second thing I'll throw in just for folks, because it could get confusing with the
+
+84
+00:07:41,120 --> 00:07:45,440
+nomenclature, when you talk about ApoA, I want to make sure people understand we're not talking
+
+85
+00:07:45,440 --> 00:07:52,000
+about LPa, which has another ApoA, so maybe just clarify for folks the difference between those two,
+
+86
+00:07:52,000 --> 00:07:56,320
+because we'll do our best to not talk about ApoA today at all.
+
+87
+00:07:57,120 --> 00:08:04,640
+Yeah, LPa is really important, not the topic of today's discussion. I think, as Peter already
+
+88
+00:08:04,640 --> 00:08:10,880
+said, the main thing to remember is that that A is lowercase, whereas the A we're talking about
+
+89
+00:08:10,880 --> 00:08:16,240
+today is uppercase. I know it sounds crazy, it's just the way things evolved historically,
+
+90
+00:08:16,240 --> 00:08:23,760
+but we're talking about ApoA, uppercase A, and the most important one has a 1 after it, so ApoA1.
+
+91
+00:08:23,760 --> 00:08:31,200
+So you're going to hear us refer to ApoA1 a lot, totally different than the LPa, which is also an
+
+92
+00:08:31,200 --> 00:08:37,120
+important topic, but not for today. Yeah, it's a shame that the lipid community back in the 60s,
+
+93
+00:08:37,120 --> 00:08:44,800
+70s, and 80s didn't hire kind of a PR firm to sort of help with the naming of this stuff, because it is,
+
+94
+00:08:44,800 --> 00:08:50,000
+hands down, some of the most complicated nomenclature, and if they realized back then,
+
+95
+00:08:50,000 --> 00:08:54,640
+I'm half joking, that it wouldn't be a bad idea for patients to actually understand this stuff,
+
+96
+00:08:54,640 --> 00:08:59,120
+I think we could have done better. Okay, so you've already alluded to kind of different
+
+97
+00:08:59,120 --> 00:09:05,440
+ApoA's and ApoA1, again, that's Apo capital A dash Roman numeral one is the most important,
+
+98
+00:09:05,440 --> 00:09:09,680
+but let's go back even further than that. So again, not to draw the ApoBs into this again,
+
+99
+00:09:09,680 --> 00:09:15,120
+but we kind of technically now have these two lineages of ApoBs, right? We have the ApoB100,
+
+100
+00:09:15,120 --> 00:09:20,640
+and virtually all of the time that we say ApoB, we really mean ApoB100, and that's to contrast it
+
+101
+00:09:20,640 --> 00:09:27,120
+with ApoB48, the one that you kind of alluded to very briefly as transporting chylomicrons from
+
+102
+00:09:27,120 --> 00:09:31,520
+the gut for the use of energy. Can you talk a little bit about the, or not a little bit,
+
+103
+00:09:31,520 --> 00:09:37,600
+maybe a lot a bit, about the genesis of the high density lipoprotein? What is its parent?
+
+104
+00:09:37,600 --> 00:09:43,360
+Where is it formed? And how does it move through its evolution such that, you know, when we're
+
+105
+00:09:43,360 --> 00:09:47,680
+measuring HDL cholesterol, something we'll talk about in a minute, we have a sense of where it
+
+106
+00:09:47,680 --> 00:09:53,200
+came from in the same way that we understand the LDLs, IDLs, and LDLs. With all due respect to the
+
+107
+00:09:53,200 --> 00:09:58,720
+ApoB community, and I'm part of that community too, I would say the metabolism of HDL is perhaps
+
+108
+00:09:58,720 --> 00:10:02,880
+an order of magnitude even more complex. And that's obviously what we're going to be working
+
+109
+00:10:02,880 --> 00:10:07,040
+our way through today. So I'll start relatively simplistically, and then Peter, I know you'll
+
+110
+00:10:07,040 --> 00:10:12,640
+lead me to increasingly more detail about the process. And by the way, I don't think anyone's
+
+111
+00:10:12,640 --> 00:10:18,880
+going to disagree with that, Dan. I don't think anybody who spent even a modicum of time looking
+
+112
+00:10:18,880 --> 00:10:23,520
+at this literature, it is hands down the most confusing stuff in the lipid space.
+
+113
+00:10:24,160 --> 00:10:30,800
+Again, I'll start with ApoA1 as the key protein with HDL. The analogy is to ApoB, as Peter alluded
+
+114
+00:10:30,800 --> 00:10:36,960
+to. Although one big difference is ApoB, as your listeners know, ApoB stays with that particle
+
+115
+00:10:36,960 --> 00:10:43,520
+throughout its lifetime. So it gets made by the intestine as B48, or the liver as B100. It stays
+
+116
+00:10:43,520 --> 00:10:48,640
+with that particle. There's one molecule of this huge ApoB protein, and that it basically then
+
+117
+00:10:48,640 --> 00:10:55,040
+ultimately gets taken up mostly by the liver after its time in the blood. ApoA1 is also made
+
+118
+00:10:55,040 --> 00:11:01,600
+by the intestine and the liver. There's some parallelism there. It also is a core protein,
+
+119
+00:11:01,600 --> 00:11:10,320
+essentially, of HDL. But unlike ApoB, there are several molecules of ApoA1 on any given HDL
+
+120
+00:11:10,320 --> 00:11:15,200
+particle. We'll probably talk more about that, but anywhere from one to four, maybe in some cases a
+
+121
+00:11:15,200 --> 00:11:22,560
+little bit more. And also ApoA1 doesn't stay with the particle. It can exchange onto other types of
+
+122
+00:11:22,560 --> 00:11:28,240
+mostly HDL particles, but even sometimes onto ApoB containing lipoproteins. What we've really
+
+123
+00:11:28,240 --> 00:11:34,800
+learned in the last decade or so is that ApoA1 is put into the blood by either the intestinal
+
+124
+00:11:34,800 --> 00:11:41,120
+enterocyte or the hepatocyte in the liver as more or less a free protein. So it's secreted as a
+
+125
+00:11:41,120 --> 00:11:48,000
+protein. One of the first steps that has to happen for HDL to be formed is that HDL, once it comes
+
+126
+00:11:48,000 --> 00:11:54,560
+out of the cell, engages with a key transport protein called ApoA1. And Peter, stop me if I'm
+
+127
+00:11:54,560 --> 00:12:01,280
+already getting too detailed. ApoA1, we'll come back to that. Which its role, ApoA1's role, is to
+
+128
+00:12:01,280 --> 00:12:08,000
+take lipid, cholesterol and other types of lipids called phospholipids, from the cell and export
+
+129
+00:12:08,000 --> 00:12:15,520
+them to the newly secreted ApoA1. So ApoA1 has to acquire lipid, particularly phospholipid and
+
+130
+00:12:15,520 --> 00:12:22,800
+cholesterol, soon after it's been secreted in order for the so-called nascent or early HDL to start
+
+131
+00:12:22,800 --> 00:12:28,080
+forming. We'll come back to this when we talk about genetics, but we know this because humans
+
+132
+00:12:28,080 --> 00:12:35,840
+that lack ABCA1 have virtually undetectable HDL. And that is because they cannot, they make plenty
+
+133
+00:12:35,840 --> 00:12:42,320
+of ApoA1, but they cannot protect that ApoA1 with lipid once it's secreted and it goes out like a
+
+134
+00:12:42,320 --> 00:12:47,440
+rocket from the blood. Basically can't, almost can't measure it in the blood. So that's the first step
+
+135
+00:12:47,440 --> 00:12:54,160
+in terms of HDL biogenesis, if you will. What other phenotype do those patients have? So in the absence
+
+136
+00:12:54,160 --> 00:13:02,400
+of cholesterol accumulating in what would be an HDL, does it end up where more of it ends up in the LDL
+
+137
+00:13:02,400 --> 00:13:08,160
+or back in the liver? Where does it go? This is the value of studying these very rare human genetic
+
+138
+00:13:08,160 --> 00:13:14,480
+disorders. And it just tells us a lot about what specific proteins or genes are doing. This disorder,
+
+139
+00:13:14,480 --> 00:13:18,880
+which we can talk about the history, it's a fascinating history, it's called Tangier disease.
+
+140
+00:13:18,880 --> 00:13:24,160
+It's named for a small flat bizarre island in the middle of the Chesapeake Bay, where the first
+
+141
+00:13:24,160 --> 00:13:31,280
+patient was discovered. This disorder is primarily associated with accumulation of cholesterol in
+
+142
+00:13:31,280 --> 00:13:37,840
+macrophages throughout the body. So tonsils, spleen, places where there are a lot of macrophages,
+
+143
+00:13:37,840 --> 00:13:42,720
+the cholesterol really builds up. And they have huge sort of orange colored tonsils, they have
+
+144
+00:13:42,720 --> 00:13:46,960
+big spleens that sometimes rupture, they have big livers because there are a lot of macrophages and
+
+145
+00:13:46,960 --> 00:13:52,880
+macrophage-like cells in the liver. And they also have some neurologic type issues, especially
+
+146
+00:13:52,880 --> 00:13:58,320
+neuropathy, which maybe we'll leave to later when we start talking about HDL and its relationship to
+
+147
+00:13:58,320 --> 00:14:03,520
+the nervous system. They may or may not have some increased risk of atherosclerotic cardiovascular
+
+148
+00:14:03,520 --> 00:14:09,200
+disease, but as we'll talk about that relationship between HDL and atherosclerosis is quite complex.
+
+149
+00:14:09,200 --> 00:14:14,160
+This disorder has helped to inform that a little bit. Another sort of structural question, Dan,
+
+150
+00:14:14,160 --> 00:14:20,800
+if you were to take a quasi-mature garden variety HDL particle, and again, it's more complicated
+
+151
+00:14:20,800 --> 00:14:26,640
+there because of what we're talking about, and put it next to a comparable LDL particle,
+
+152
+00:14:27,360 --> 00:14:31,840
+what's the difference in size and can you explain a little bit why they come up with this different
+
+153
+00:14:31,840 --> 00:14:36,400
+name of high versus low density? What specifically is that referring to? That's a great question.
+
+154
+00:14:36,400 --> 00:14:40,400
+Again, this is a historical artifact of how lipoproteins were discovered and named.
+
+155
+00:14:40,400 --> 00:14:47,040
+First of all, HDLs are much smaller, I would say, in the neighborhood of 1 5th to 1 10th the size
+
+156
+00:14:47,040 --> 00:14:52,720
+of an LDL, and of course much yet smaller than triglyceride rich lipoproteins. Lipoproteins have
+
+157
+00:14:52,720 --> 00:14:59,040
+lipid. As I mentioned earlier, lipid floats, so lipids create buoyancy to particles. The way
+
+158
+00:14:59,040 --> 00:15:06,400
+lipoproteins were discovered is that when you subject plasma to spinning, the lipoproteins spin
+
+159
+00:15:06,400 --> 00:15:12,560
+to the top. They spin to the top at different rates under different forces. The low density
+
+160
+00:15:12,560 --> 00:15:18,720
+lipoproteins have more lipid or bigger, more lipid. They spin to the top more easily. The
+
+161
+00:15:18,720 --> 00:15:23,840
+high density lipoproteins still have lipid. They do spin, but they don't spin quite as quickly or
+
+162
+00:15:23,840 --> 00:15:29,680
+easily, so they're higher density than the low. Then in another artifact of the history, Peter,
+
+163
+00:15:30,480 --> 00:15:36,320
+after low density was discovered, something even lighter that spun up even more easily was
+
+164
+00:15:36,320 --> 00:15:41,040
+discovered. Of course, if low was already taken, so that had to be called very low.
+
+165
+00:15:42,720 --> 00:15:46,240
+There's the very low density lipoproteins that you've also talked about at length.
+
+166
+00:15:46,240 --> 00:15:50,960
+Then finally, the chylomicrons, the huge ones that come from the intestine, they're just so light
+
+167
+00:15:50,960 --> 00:15:55,440
+and so buoyant that instead of calling them very, very, very low, they were just given the name
+
+168
+00:15:55,440 --> 00:16:02,880
+chylomicrons. How long does an HDL particle last? Does it mean the same thing given that it's
+
+169
+00:16:02,880 --> 00:16:09,440
+transferring its ApoA in a way that makes it a little different from, as you said, the way the
+
+170
+00:16:09,440 --> 00:16:16,640
+VLDL to IDL to LDL always stay with one lipoprotein ApoB that allows us to track its life.
+
+171
+00:16:17,280 --> 00:16:22,880
+Before we get into how HDL is removed from the blood, could I take a little bit more time to
+
+172
+00:16:22,880 --> 00:16:25,120
+explain what happens after that? Absolutely.
+
+173
+00:16:25,120 --> 00:16:30,800
+ApoA1, quote unquote, nascent HDL particle gets formed because there's actually a bunch of stuff
+
+174
+00:16:30,800 --> 00:16:35,680
+that has to happen first before we start talking about how the HDL then gets removed from the blood.
+
+175
+00:16:36,560 --> 00:16:43,040
+The ApoA1, or what we call the nascent HDL, has ApoA1, has phospholipids, and it has what I'm
+
+176
+00:16:43,040 --> 00:16:47,840
+going to call free cholesterol. This is a concept that you may or may not have addressed before,
+
+177
+00:16:47,840 --> 00:16:54,560
+I can't remember, which is cholesterol itself as a molecule can have a fatty acid attached to it.
+
+178
+00:16:54,560 --> 00:16:59,520
+When you attach a fatty acid to a hydroxyl moiety on the cholesterol molecule,
+
+179
+00:16:59,520 --> 00:17:06,880
+you create what we call a cholesterol ester. The cholesterol ester is even more hydrophobic
+
+180
+00:17:06,880 --> 00:17:12,720
+or oily than the free cholesterol because it has this additional fatty acid sticking off it,
+
+181
+00:17:12,720 --> 00:17:21,200
+which is obviously oil. It's absolutely critical for the HDL maturation process to have this fatty
+
+182
+00:17:21,200 --> 00:17:27,760
+acid attached to the cholesterol after the nascent HDL has been formed. There's another key enzyme
+
+183
+00:17:27,760 --> 00:17:33,360
+that is responsible for that, so-called lecithin cholesterol acyltransferase. It's the last time
+
+184
+00:17:33,360 --> 00:17:39,040
+I'm going to say that, I'm just going to call it LCAT, that's its nickname, LCAT, L-C-A-T. So LCAT
+
+185
+00:17:39,040 --> 00:17:44,480
+rides on the HDL particle, on that nascent particle, it takes a fatty acid from one of the
+
+186
+00:17:44,480 --> 00:17:50,480
+phospholipids on the particle, and it transfers that fatty acid to the cholesterol and creates
+
+187
+00:17:50,480 --> 00:17:56,480
+the cholesterol ester. Remember, that cholesterol ester is more oily, it actually then moves to
+
+188
+00:17:56,480 --> 00:18:00,640
+sort of the center of the particle because it wants to be by itself and not interacting with
+
+189
+00:18:00,640 --> 00:18:06,320
+the water, and it starts to form the core of the HDL particle. So the core of the mature, what I'll
+
+190
+00:18:06,320 --> 00:18:12,160
+call the mature HDL particle, is basically cholesterol esters that are entirely dependent
+
+191
+00:18:12,160 --> 00:18:17,840
+on LCAT for their formation. Another rare condition are people who lack LCAT genetically,
+
+192
+00:18:18,640 --> 00:18:24,800
+and as you might maybe expect from what I just said, people who lack LCAT who can't do that
+
+193
+00:18:24,800 --> 00:18:30,800
+process of esterifying the cholesterol, have extremely low levels of HDL, not quite as low
+
+194
+00:18:30,800 --> 00:18:37,840
+as Tanger disease, but very low, and simply can't form the mature HDL particles that we see in most
+
+195
+00:18:37,840 --> 00:18:43,360
+people. So again, we learn very important things about the key role of that enzyme. That ultimately
+
+196
+00:18:43,360 --> 00:18:49,760
+leads to the mature particle that then is really what we're measuring as HDL cholesterol in people,
+
+197
+00:18:49,760 --> 00:18:54,320
+is this mature HDL particle where most of the cholesterol we're measuring is the cholesterol
+
+198
+00:18:54,640 --> 00:18:59,360
+in the core. Just to make sure we're clear on semantics, when you say that those folks have
+
+199
+00:18:59,360 --> 00:19:08,400
+very low HDL, you mean low HDL cholesterol or a low concentration of ApoA1 or any of the ApoAs?
+
+200
+00:19:08,400 --> 00:19:13,520
+They have low HDL cholesterol. So again, Tanger disease, HDL cholesterol is one,
+
+201
+00:19:14,640 --> 00:19:20,480
+virtually undetectable. LCAT deficiency, HDL cholesterol is 10. Also, as we'll talk about,
+
+202
+00:19:20,480 --> 00:19:26,240
+quite low compared to normal. They also have low ApoA1 levels. And part of that is because
+
+203
+00:19:26,240 --> 00:19:33,520
+part of the metabolism of ApoA1, which is where you were going, is that it's affected by the mature
+
+204
+00:19:33,520 --> 00:19:39,200
+HDL and the cholesterol in the core. So when you don't make that cholesterol ester, that ApoA1
+
+205
+00:19:39,200 --> 00:19:44,640
+is much more rapidly removed from the blood. It's not the normal metabolism. And it basically,
+
+206
+00:19:44,720 --> 00:19:51,440
+the kidney sees that ApoA1, which doesn't have much cholesterol on it and actually filters it
+
+207
+00:19:51,440 --> 00:19:56,720
+and degrades it. Not surprisingly, the biggest issue with L-cat deficient patients is they get
+
+208
+00:19:56,720 --> 00:20:01,440
+renal disease. There's a serious progressive chronic kidney disease in these patients that
+
+209
+00:20:01,440 --> 00:20:06,400
+leads usually to kidney transplant related to something around the lipid metabolism in the
+
+210
+00:20:06,400 --> 00:20:11,680
+kidney as a result of the lack of L-cat activity and esterification of cholesterol.
+
+211
+00:20:11,680 --> 00:20:17,360
+Before we go deeper on this, I just want to ask if there are any insights we have or how parallel
+
+212
+00:20:17,360 --> 00:20:24,640
+is this system in other mammals, whether it be primates, dogs, mice, et cetera. Because obviously,
+
+213
+00:20:24,640 --> 00:20:30,000
+a lot of these animals have a very different ApoB side of the equation. I'm curious as to how
+
+214
+00:20:30,000 --> 00:20:35,120
+similar they are on this front. No, it's a great question. ApoA1 is pretty highly conserved
+
+215
+00:20:35,120 --> 00:20:42,000
+certainly among mammals. In many lower level mammals, the primary lipoprotein is HDL.
+
+216
+00:20:42,000 --> 00:20:48,240
+That clearly includes ApoA1. I'll just take mice, obviously a major model system for human,
+
+217
+00:20:48,240 --> 00:20:55,200
+for biomedical research. Mice, I'd say 90% of cholesterol in the blood of mice is in HDL,
+
+218
+00:20:55,200 --> 00:21:01,680
+even more than 90% in a normal mouse. That is the primary lipoprotein in mice. It's true for dogs.
+
+219
+00:21:01,680 --> 00:21:07,920
+It's true for really all mammalian species. Once you start getting below mammals, things change a
+
+220
+00:21:07,920 --> 00:21:13,040
+little bit in terms of the lipoprotein metabolism. Probably we won't get into that today. There's
+
+221
+00:21:13,040 --> 00:21:21,120
+even HDL-type particles in much lower species leading to one of the thoughts that HDL is like
+
+222
+00:21:21,120 --> 00:21:29,200
+the primordial lipoprotein and that the ApoB system evolved subsequently, but that HDL probably very
+
+223
+00:21:29,280 --> 00:21:35,360
+early evolved as a transport mechanism for lipids within circulatory systems in lower level species.
+
+224
+00:21:36,480 --> 00:21:42,640
+This to me is one of the most interesting teleologic slash evolutionary questions, which is,
+
+225
+00:21:43,360 --> 00:21:49,680
+was God just pissed off at us? Is that why we as humans have ApoB? I've never really heard a
+
+226
+00:21:49,680 --> 00:21:57,120
+convincing explanation for why humans have ApoB when it seems that every other species
+
+227
+00:21:57,120 --> 00:22:03,920
+gets away without it. As you said, if a mouse or a primate or a dog who clearly have similar
+
+228
+00:22:03,920 --> 00:22:13,360
+energetic requirements can use their ApoAs, i.e. HDLs, for lipid transport and energy mobilization,
+
+229
+00:22:14,000 --> 00:22:19,200
+why did we need to evolve with this particle that in the short term really doesn't cause us any
+
+230
+00:22:19,200 --> 00:22:24,880
+trouble, of course, but long enough it doesn't. One answer might simply be that evolution had no
+
+231
+00:22:24,880 --> 00:22:31,760
+concern for the longevity of our species, which is pretty true, but there is some other short-term
+
+232
+00:22:31,760 --> 00:22:38,480
+benefit from ApoB that maybe outweighs the long-term death that it brings our species via ASCVD.
+
+233
+00:22:38,480 --> 00:22:44,400
+I do want to be clear. Mice, dogs, pigs, rabbits, they all make ApoB in both the gut and the liver,
+
+234
+00:22:44,400 --> 00:22:50,000
+so it's not that these species don't have ApoB. The differences in terms of looking at the steady
+
+235
+00:22:50,000 --> 00:22:56,320
+state plasma levels is that their ApoB system is just really markedly revved up. They take care of
+
+236
+00:22:56,320 --> 00:23:00,080
+their business. They just must clear it up a certain way. And they make it, and it serves a
+
+237
+00:23:00,080 --> 00:23:06,640
+similar role in terms of transporting triglycerides as a source of energy to tissues in the body that
+
+238
+00:23:06,640 --> 00:23:12,720
+need energy and to adipose tissue for storing it. It's just that the rate at which they do that is
+
+239
+00:23:12,720 --> 00:23:17,280
+much more efficient, whereas in humans, for reasons we could talk about but aren't totally clear,
+
+240
+00:23:17,280 --> 00:23:22,160
+but certainly have to do partly with our lifestyle. Humans are not nearly as efficient
+
+241
+00:23:22,160 --> 00:23:28,640
+at clearing the ApoB containing lipoproteins, and they hang around, especially as LDL,
+
+242
+00:23:28,640 --> 00:23:33,040
+as a byproduct of this metabolism in a way that then ultimately leads to, of course,
+
+243
+00:23:33,040 --> 00:23:38,560
+atherosclerotic vascular disease. We do need ApoB. Honestly, mammals evolved ApoB because,
+
+244
+00:23:39,200 --> 00:23:45,440
+one, we have to be able to efficiently capture fats in the diet for energy purposes,
+
+245
+00:23:45,840 --> 00:23:50,720
+and very efficiently. That's what the chylomicrons allow us to do. And during fasting, which, of
+
+246
+00:23:50,720 --> 00:23:56,160
+course, in evolution sometimes lasted a long time, we have to be very parsimonious about
+
+247
+00:23:56,160 --> 00:24:02,320
+parceling out that available fat we have in our adipose stores back out to heart and muscle to be
+
+248
+00:24:02,320 --> 00:24:07,040
+able to have as a source of energy. That's what ApoB 100 in the liver does. We need these,
+
+249
+00:24:07,040 --> 00:24:11,680
+especially in evolution, the latter. We need it very substantially. But now, unfortunately,
+
+250
+00:24:11,680 --> 00:24:17,200
+in the modern times, the ApoB system is mostly a problem, not something we need.
+
+251
+00:24:17,200 --> 00:24:21,680
+I think the way you stated it earlier is obviously more accurate, and perhaps I want to just make
+
+252
+00:24:21,680 --> 00:24:25,680
+sure I'm restating it without being quite as tongue-in-cheek. It's really not that we don't
+
+253
+00:24:25,680 --> 00:24:30,800
+need ApoB. It's that we could be clearing it at a much greater and more efficient rate
+
+254
+00:24:31,360 --> 00:24:38,640
+than we are, and we could more mimic primates and other mammals and walk around with an ApoB
+
+255
+00:24:38,640 --> 00:24:44,640
+concentration of, call it 20 milligrams per deciliter instead of 100 milligrams per deciliter,
+
+256
+00:24:44,640 --> 00:24:49,840
+a five-fold difference, which is about, that's the difference between getting atherosclerosis
+
+257
+00:24:49,840 --> 00:24:53,520
+in our lifetime and never getting atherosclerosis in our lifetime.
+
+258
+00:24:53,520 --> 00:24:54,080
+I agree with that.
+
+259
+00:24:54,080 --> 00:24:57,920
+And that's the interesting thing, because even absent the, quote unquote,
+
+260
+00:24:57,920 --> 00:25:03,840
+lifestyle things that will raise ApoB, it just occurs with aging. Peter Libby has written about
+
+261
+00:25:03,840 --> 00:25:09,280
+this very eloquently, and children neonates have ApoB concentrations that are just like those of
+
+262
+00:25:09,280 --> 00:25:16,080
+these other animals. And all things equal as we age, ApoB just goes up, that concentration goes up,
+
+263
+00:25:16,080 --> 00:25:21,440
+as you say. We're less efficient in the way we clear ApoB from circulation. Anyway, it's a
+
+264
+00:25:21,440 --> 00:25:25,840
+fascinating topic, and I know not what we're going to talk about today because it's one of speculation,
+
+265
+00:25:25,840 --> 00:25:29,520
+and we could speculate, but there are actually lots of things today that we don't have to speculate
+
+266
+00:25:29,600 --> 00:25:33,840
+about as it comes to ApoA and HDL. I want to go back to kind of the nomenclature a little bit,
+
+267
+00:25:33,840 --> 00:25:38,560
+because I know I'm still kind of confused on some of this, and I think it's going to be a little
+
+268
+00:25:38,560 --> 00:25:42,080
+challenging because we're sometimes talking about Roman numerals, and we're sometimes talking about
+
+269
+00:25:42,080 --> 00:25:50,240
+numbers. But is there just an ApoA1 and 2 in the Roman numeral lipoprotein, Apo lipoprotein cover?
+
+270
+00:25:50,240 --> 00:25:51,520
+No. So it goes to two, three.
+
+271
+00:25:51,520 --> 00:25:59,040
+The two other ApoAs that at least we know about or we talk about are ApoA4 and ApoA5.
+
+272
+00:25:59,520 --> 00:26:04,560
+Don't ask me what happened to ApoA3. That's a mystery I've never been able to solve.
+
+273
+00:26:06,160 --> 00:26:12,080
+But anyway, it's another one of those. ApoA4, we don't really know what it does. ApoA5,
+
+274
+00:26:12,080 --> 00:26:17,760
+I can't remember if you've talked about, but ApoA5 has a very important role in stimulating
+
+275
+00:26:17,760 --> 00:26:23,680
+lipoprotein lipase and in the metabolism of triglyceride-rich lipoproteins. It rides on
+
+276
+00:26:23,680 --> 00:26:29,200
+HDL, but it also rides on triglyceride-rich lipoproteins. And people who lack ApoA5,
+
+277
+00:26:29,760 --> 00:26:34,480
+have really high triglycerides and are also at major risk for atherosclerotic vascular disease.
+
+278
+00:26:34,480 --> 00:26:39,360
+So anyway, again, maybe not the topic for today, but it does illustrate one point, Peter, maybe
+
+279
+00:26:39,360 --> 00:26:45,760
+that I'll make, which is that HDL as a molecule, as a lipoprotein, I think of as a platform.
+
+280
+00:26:45,760 --> 00:26:54,400
+It's a platform for all sorts of proteins and lipids that get transported by HDL in the blood
+
+281
+00:26:54,400 --> 00:27:01,120
+and then transfer off HDL to other things, to ApoB-containing lipoproteins. So my example of
+
+282
+00:27:01,120 --> 00:27:08,640
+ApoA5, it's named ApoAA because it was discovered on HDL, but its primary role in metabolism is
+
+283
+00:27:08,640 --> 00:27:14,880
+triglyceride-rich lipoprotein metabolism. ApoA5 is basically kept within the blood and stored,
+
+284
+00:27:14,880 --> 00:27:21,680
+if you will, on HDL. But then when we eat a fatty meal, it transfers off to the triglyceride-rich
+
+285
+00:27:21,680 --> 00:27:26,800
+lipoproteins and it serves a role of promoting the hydrolysis of the triglycerides. So I think
+
+286
+00:27:26,800 --> 00:27:32,960
+that's a general concept for HDL that maybe we'll keep coming back to is this platform for all
+
+287
+00:27:32,960 --> 00:27:38,320
+sorts of things that are doing different things that involve not only lipid metabolism, but
+
+288
+00:27:38,320 --> 00:27:45,200
+host defense and other things that it evolved to do as a platform for transporting things within
+
+289
+00:27:45,200 --> 00:27:51,280
+the blood. Which I think explains, at least in part, the complexity of this system is
+
+290
+00:27:51,280 --> 00:27:56,080
+it's much more dynamic than what we see on the ApoB side. The ApoB side, as you said,
+
+291
+00:27:56,720 --> 00:28:01,280
+it's a very monogamous relationship, right? I mean, you sort of get your ApoB in the liver and
+
+292
+00:28:01,280 --> 00:28:05,200
+it's with you for life and you're not swapping, you're not trading, you're not increasing or
+
+293
+00:28:05,200 --> 00:28:10,720
+decreasing, you're just marching through life. And the HDL is maybe the monogamy wasn't the best
+
+294
+00:28:10,720 --> 00:28:13,520
+example because now I don't know what to come up with here because it's not just polygamy,
+
+295
+00:28:13,520 --> 00:28:18,080
+it's even more complicated than that. As you said, it's swapping, it's moving things around,
+
+296
+00:28:18,720 --> 00:28:23,360
+it's carrying things that it doesn't really use, but loaning them out. It is indeed a complicated
+
+297
+00:28:23,360 --> 00:28:29,040
+system. The next thing that seems to add a lot of confusion, at least to me, is some of the
+
+298
+00:28:29,040 --> 00:28:35,120
+nomenclature around the numbering of the HDL particles. And I bring this up in part because
+
+299
+00:28:35,680 --> 00:28:40,000
+various commercial labs, someone listening to this goes out and gets a really fancy,
+
+300
+00:28:40,000 --> 00:28:45,840
+fancy blood test. We use Boston Heart Labs with our patients. I know that this is something you
+
+301
+00:28:45,840 --> 00:28:52,800
+see with a number of other labs. It might say things like HDL1, HDL2, HDL3. What's the relationship
+
+302
+00:28:52,800 --> 00:29:01,760
+between that nomenclature and the ApoA1, ApoA2, ApoA4, et cetera? This is ridiculously complex.
+
+303
+00:29:01,760 --> 00:29:05,120
+The short answer to your question is actually, believe it or not, there's no relationship. So,
+
+304
+00:29:05,120 --> 00:29:11,840
+the numbering of the Apo-Lipar proteins or the ApoA-Lipar proteins, 1, 2, 4, 5, is totally
+
+305
+00:29:11,840 --> 00:29:17,920
+independent of the numbering of the HDL particles, like especially HDL2 and HDL3, which are the
+
+306
+00:29:17,920 --> 00:29:25,120
+classic two main, quote, subclasses of HDL. These are different sizes and different densities of HDL
+
+307
+00:29:25,120 --> 00:29:32,080
+that, again, were isolated by centrifugation and by their flotation properties. HDL2 is bigger. HDL3
+
+308
+00:29:32,080 --> 00:29:40,480
+is a little smaller. HDL2 has mostly four molecules of ApoA1. HDL3 has mostly three
+
+309
+00:29:40,480 --> 00:29:45,200
+molecules of ApoA1, but those threes don't have anything to do with each other. Then,
+
+310
+00:29:45,200 --> 00:29:48,640
+to make things more complicated, there are other ways of subfractionating
+
+311
+00:29:48,640 --> 00:29:55,280
+lipoproteins. I know you've discussed, like the NMR type methodology, that don't use HDL2 and HDL3,
+
+312
+00:29:55,280 --> 00:30:02,000
+which frankly is a little outmoded now, but use things like very large HDL, large HDL, medium HDL,
+
+313
+00:30:02,000 --> 00:30:09,120
+small HDL, very small HDL. HDL certainly comes in a whole series of sizes and densities
+
+314
+00:30:09,120 --> 00:30:14,000
+that can be isolated by these different methodologies. There's been a cottage industry,
+
+315
+00:30:14,000 --> 00:30:21,040
+as you know, Peter, of trying to relate these different fractions of HDL to cardiovascular risk
+
+316
+00:30:21,040 --> 00:30:26,720
+in a way that might give us some advantages in terms of trying to predict risk. We can come back
+
+317
+00:30:26,720 --> 00:30:34,640
+to that, but I would say in general, I'm not very compelled that fractionating HDLs gives much
+
+318
+00:30:34,720 --> 00:30:39,920
+clinically valuable information that allows us to predict risk. In contrast, I just want to say,
+
+319
+00:30:39,920 --> 00:30:47,440
+in contrast to the ApoB-containing lipoproteins, whether it's ApoB, but I think the smaller,
+
+320
+00:30:47,440 --> 00:30:53,040
+denser LDL particles do have a relationship to increased risk, as you've discussed in the past.
+
+321
+00:30:53,040 --> 00:30:59,440
+But I think the HDL fractionation is fascinating for understanding HDL biology and metabolism,
+
+322
+00:30:59,440 --> 00:31:02,640
+but is relatively unimportant from a clinical relevant standpoint.
+
+323
+00:31:03,120 --> 00:31:07,200
+I'm actually glad to hear you say that because I was wondering if I need to be changing
+
+324
+00:31:07,200 --> 00:31:16,320
+our clinical practice. In about 2016, we basically stopped paying attention to any of the HDL
+
+325
+00:31:16,320 --> 00:31:23,520
+fractionation metrics. Really, it had to go out of our way to make sure that the lab was not running
+
+326
+00:31:23,520 --> 00:31:28,720
+those because in some areas, we're running complicated labs. We were saying, look, we don't
+
+327
+00:31:28,800 --> 00:31:34,240
+want any of this stuff. A, we don't want the additional cost of it, but more importantly,
+
+328
+00:31:34,240 --> 00:31:39,520
+we don't think it's clinically actionable. We still get labs from other doctors who
+
+329
+00:31:39,520 --> 00:31:42,880
+might've seen our patients in the past and they're chock full of these things,
+
+330
+00:31:42,880 --> 00:31:44,320
+to which I don't know what to do with them.
+
+331
+00:31:45,200 --> 00:31:48,720
+While we're on this topic of HDLs fractionation, unless you want to ask me another question.
+
+332
+00:31:48,720 --> 00:31:49,120
+No, no, go ahead.
+
+333
+00:31:49,120 --> 00:31:56,080
+I wonder if I could use this as a springboard to continuing this complex saga of the metabolism
+
+334
+00:31:56,080 --> 00:32:02,560
+of HDLs once they're formed and once they have cholesterol ester. The reason we have this whole
+
+335
+00:32:03,840 --> 00:32:12,560
+set of different size and density HDLs is because of the complex metabolism that occurs on the HDLs
+
+336
+00:32:12,560 --> 00:32:18,640
+once they're in the blood, once they've been made mature HDLs. I want to give you maybe a couple
+
+337
+00:32:18,640 --> 00:32:26,080
+examples of that. One is that HDLs are acted upon by so-called lipases and you've talked a
+
+338
+00:32:26,080 --> 00:32:31,280
+lot about lipoprotein lipase. It's critically important for triglyceride metabolism and energy
+
+339
+00:32:31,280 --> 00:32:36,720
+metabolism. Lipoprotein lipase has two other very close cousins that I don't think you've talked
+
+340
+00:32:36,720 --> 00:32:41,040
+nearly as much about appropriately because they're more HDL related. One is called
+
+341
+00:32:41,040 --> 00:32:47,760
+hepatic lipase and what is called endothelial lipase. We actually first reported a long time
+
+342
+00:32:47,840 --> 00:32:53,280
+ago endothelial lipase as a member of this family. Both of these lipases, they're made in different
+
+343
+00:32:53,280 --> 00:32:58,960
+places as their names suggest, but both of them fundamentally chew on HDL, specifically the
+
+344
+00:32:58,960 --> 00:33:06,640
+phospholipids on HDL and result in modification of the phospholipid composition of the HDL particle
+
+345
+00:33:06,640 --> 00:33:12,080
+in a way that does different things. It certainly changes the sizes of the HDLs and they contribute
+
+346
+00:33:12,080 --> 00:33:17,440
+to this distribution of different sizes. It changes the protein composition of the HDLs in
+
+347
+00:33:17,440 --> 00:33:23,200
+ways that we don't fully understand and almost certainly has other important biological effects
+
+348
+00:33:23,200 --> 00:33:27,840
+that we don't fully understand, but of course these evolve for some reason, one of which I'm
+
+349
+00:33:27,840 --> 00:33:32,080
+going to get back to later when we talk about the central nervous system. So that's one. The
+
+350
+00:33:32,080 --> 00:33:38,480
+lipases are really critical for HDL metabolism. There's also this protein that I know you've had
+
+351
+00:33:38,480 --> 00:33:43,600
+some discussion about, cholesterol ester transfer protein. Happy to go into more detail and I'm sure
+
+352
+00:33:43,600 --> 00:33:49,360
+we will because it's very relevant to HDL, but just for the metabolism part of it, this so-called
+
+353
+00:33:49,360 --> 00:33:55,360
+CETP, cholesterol ester transfer protein, essentially transfers cholesterol esters between
+
+354
+00:33:55,360 --> 00:34:02,880
+apoB-containing lipoproteins and HDL and it's a major modifier of the HDL particle in terms of
+
+355
+00:34:02,880 --> 00:34:10,560
+its size and composition. We know this because people who lacked CETP have hugely elevated HDL
+
+356
+00:34:10,560 --> 00:34:17,040
+cholesterol levels, big time, like over 100. That really told us that cholesterol ester transfer
+
+357
+00:34:17,040 --> 00:34:23,680
+protein siphons cholesterol out of HDL and when you don't have it, you have a lot more cholesterol
+
+358
+00:34:23,680 --> 00:34:29,920
+in HDL and just point back to our previous discussion of mice. Mice don't have CETP.
+
+359
+00:34:29,920 --> 00:34:34,640
+So among the differences, one of the things is that mice have a lot more HDL cholesterol relative
+
+360
+00:34:34,640 --> 00:34:40,240
+date would be because they lack this CETP protein. I mean, I know we're going to come back to this,
+
+361
+00:34:40,240 --> 00:34:45,840
+but I just, I worry that for the listener, this would be an opportunity missed if we don't dive
+
+362
+00:34:45,840 --> 00:34:52,560
+into CTEP a little bit because of the following. If we take a step back, a listener is going to be
+
+363
+00:34:52,560 --> 00:34:57,840
+saying, Peter, Dan, what the hell are you guys talking about? Like I am so lost. The only thing
+
+364
+00:34:57,920 --> 00:35:03,600
+I know is when I go to the doctor, the doctor says my good cholesterol is high. I'm in good shape.
+
+365
+00:35:04,240 --> 00:35:11,360
+So let's do this. Let's hit pause for one sec and acknowledge that a standard lipid panel spits out
+
+366
+00:35:11,360 --> 00:35:17,520
+a bunch of numbers, total cholesterol, LDL cholesterol, HDL cholesterol. And if you're lucky,
+
+367
+00:35:18,080 --> 00:35:22,720
+VLDL cholesterol, non HDL cholesterol and triglycerides, that's basically the standard
+
+368
+00:35:22,720 --> 00:35:29,600
+metric. If the lab is competent and they're using direct measurements, your HDL cholesterol,
+
+369
+00:35:29,600 --> 00:35:36,240
+LDL cholesterol and VLDL cholesterol should sum to your total cholesterol. And of course, your
+
+370
+00:35:36,240 --> 00:35:42,320
+non HDL cholesterol should be the same number as your total cholesterol, less your HDL cholesterol.
+
+371
+00:35:42,960 --> 00:35:51,040
+Want to pause and also insert that with nomenclature, HDL is not a laboratory metric. It is a LIPA
+
+372
+00:35:51,040 --> 00:35:59,360
+protein. The laboratory metric is HDL cholesterol, HDL C, or if using NMR, HDL P, HDL particle number.
+
+373
+00:35:59,360 --> 00:36:05,120
+Or APO A1, an analogy to measuring APOB. Exactly. The units that you've been throwing around,
+
+374
+00:36:05,120 --> 00:36:10,320
+of course, are the HDL cholesterol. A moment ago, you said, hey, people who are deficient in CTEP
+
+375
+00:36:10,320 --> 00:36:15,440
+could have HDLs over 100. Of course, that means HDL cholesterol over 100 milligrams per deciliter.
+
+376
+00:36:15,440 --> 00:36:21,520
+Now, there is an observation that goes back probably to the late 70s, right? I mean,
+
+377
+00:36:21,520 --> 00:36:27,200
+it probably goes back to late 70s, early 80s, which is in some of the earliest Framingham cohorts,
+
+378
+00:36:28,000 --> 00:36:34,880
+which observed the risk of ASCVD in five cities. We don't need to go into what Framingham did in
+
+379
+00:36:34,880 --> 00:36:44,160
+the first cohort. But what came out of that was higher HDL cholesterol was better than lower HDL
+
+380
+00:36:44,160 --> 00:36:50,240
+cholesterol. In fact, that was four times greater if my memory serves correctly as a predictor of
+
+381
+00:36:50,240 --> 00:36:56,400
+ASCVD than high LDL cholesterol was a negative predictor. Am I remembering that correctly?
+
+382
+00:36:56,400 --> 00:36:57,600
+Yeah, that's about right. Yep.
+
+383
+00:36:58,400 --> 00:37:05,040
+By now, we're talking about 82, 83, 84. This has been a long time since I've looked at this stuff,
+
+384
+00:37:05,040 --> 00:37:11,600
+but it emerges that, hey, high HDL cholesterol seems to be positively associated with outcomes.
+
+385
+00:37:12,160 --> 00:37:16,320
+And obviously, that's a big part of why HDL cholesterol became known as good cholesterol
+
+386
+00:37:16,320 --> 00:37:21,120
+and LDL cholesterol became known as bad cholesterol. We'll obviously talk about why those terms are
+
+387
+00:37:21,120 --> 00:37:28,080
+inaccurate. But it wasn't long until companies, drug companies were saying, hey, wait a minute,
+
+388
+00:37:29,120 --> 00:37:35,760
+we know that if CTEP is inhibited, this enzyme is inhibited, HDL cholesterol goes up. That must
+
+389
+00:37:35,760 --> 00:37:42,400
+be a good thing, right? That led directly from this observation I mentioned that people who lack
+
+390
+00:37:42,400 --> 00:37:49,120
+CTEP genetically have these hugely elevated levels of HDL. One directly from the other. Well, gosh,
+
+391
+00:37:49,120 --> 00:37:56,960
+that must mean that if we could pharmacologically inhibit the CTEP, it would be a way to raise HDL.
+
+392
+00:37:56,960 --> 00:38:01,920
+And of course, as you know, that absolutely turned out to be the case. But the story goes beyond that.
+
+393
+00:38:01,920 --> 00:38:07,040
+So the first company to do this was Pfizer, right? Wasn't the first CTEP inhibitor?
+
+394
+00:38:07,040 --> 00:38:10,640
+The first CTB inhibitor, Torcetribib, was from Pfizer, correct?
+
+395
+00:38:10,640 --> 00:38:16,400
+And that was, you could take a skeptical view of the trial, which was Lipitor was about to go off
+
+396
+00:38:16,400 --> 00:38:24,320
+patent. And so they came up with a trial that was Lipitor by itself versus Lipitor combined
+
+397
+00:38:24,320 --> 00:38:30,640
+with the CTEP inhibitor. And I remember actually, this was probably early 2000s, right? Thinking,
+
+398
+00:38:30,640 --> 00:38:34,080
+oh, this is super, I mean, this was back when I was in my surgical residency. So I was
+
+399
+00:38:34,640 --> 00:38:38,480
+only tangentially interested in this, right? It wasn't my field. But interesting in that I knew
+
+400
+00:38:38,480 --> 00:38:42,880
+my family history for ASCVD was high, so I was paying attention. And I remember thinking, well,
+
+401
+00:38:42,880 --> 00:38:46,800
+God, this has got to be great, right? You got one drug that's going to lower LDL-C,
+
+402
+00:38:46,800 --> 00:38:52,640
+one that's going to raise HDL-C. This is a can't miss drug. And then in September of 2006,
+
+403
+00:38:52,640 --> 00:38:56,720
+lo and behold, not only did it not get better, it was slightly worse, right?
+
+404
+00:38:56,720 --> 00:39:02,160
+Yeah, bombshell. So first, I want to emphasize, the genetics did predict what happened. That is,
+
+405
+00:39:02,160 --> 00:39:07,600
+pharmacologic inhibition of CTP is extraordinarily effective at raising HDL a lot. In fact,
+
+406
+00:39:07,600 --> 00:39:13,200
+putting people kind of over 100 HDL cholesterol, like the folks who lack CTP. But you're absolutely
+
+407
+00:39:13,200 --> 00:39:18,320
+right. There's a lot of excitement about that. A lot of excitement about HDL is the good cholesterol.
+
+408
+00:39:18,320 --> 00:39:25,280
+And that trial, the first of several with different CTP inhibitors, not only didn't show benefit,
+
+409
+00:39:25,280 --> 00:39:31,040
+but showed an actual adverse effect. Now, it has to be said that in retrospect,
+
+410
+00:39:31,040 --> 00:39:35,120
+we're pretty sure that adverse effect, more people, literally more people died.
+
+411
+00:39:35,680 --> 00:39:42,320
+That adverse effect was due to off-target effects of the drug, not due to CTP inhibition itself.
+
+412
+00:39:42,880 --> 00:39:48,480
+So that drug, of course, was discarded, but it didn't kill the field because the idea was, well,
+
+413
+00:39:48,480 --> 00:39:53,440
+that was just a bad drug. Let's get a clean CTP inhibitor and see what that really does. I don't
+
+414
+00:39:53,440 --> 00:39:57,680
+know if you want to ask me questions or I can continue the story. Yeah. Let's go down that path
+
+415
+00:39:57,680 --> 00:40:04,400
+because it's still a little, it got progressively less murky as time went on, but let's go down the
+
+416
+00:40:04,400 --> 00:40:11,120
+path of the evolution of CTP inhibitors, which let's be honest, it's for what, we're almost
+
+417
+00:40:11,120 --> 00:40:17,840
+15, well, actually 16 years post the halting of that trial and the discarding of that drug.
+
+418
+00:40:17,840 --> 00:40:20,800
+And we still don't have a CTP inhibitor on the market, right?
+
+419
+00:40:21,440 --> 00:40:25,680
+We don't. There is still a CTP inhibitor that's in development, which I'll get to,
+
+420
+00:40:25,680 --> 00:40:30,080
+but there is certainly not one on the market. As you know, Peter, and certainly probably many of
+
+421
+00:40:30,080 --> 00:40:37,760
+our listeners do, three additional CTP inhibitors were then taken into late-stage clinical development,
+
+422
+00:40:37,760 --> 00:40:44,080
+including large cardiovascular outcome trials. To summarize the results of that, one of them was just
+
+423
+00:40:44,080 --> 00:40:49,680
+flat, didn't do anything, didn't hurt people, but didn't help. A second one was stopped early because
+
+424
+00:40:49,680 --> 00:40:55,760
+it really didn't look like it was doing anything, helping. And the third one was followed through
+
+425
+00:40:55,760 --> 00:41:03,440
+and did show about a disappointing 9% reduction in cardiovascular events. But I also want to point
+
+426
+00:41:03,440 --> 00:41:10,960
+out that it lowered LDL and ApoB pretty well also. 9%, given that you also lowered LDL and ApoB
+
+427
+00:41:10,960 --> 00:41:17,040
+was not exactly exciting and that drug was not taken further in terms of approval. I have to say
+
+428
+00:41:17,040 --> 00:41:22,400
+one other thing that's just fascinating for sort of our field and maybe in general. One of these
+
+429
+00:41:22,400 --> 00:41:28,480
+drugs, dalcetrapib, that failed in its clinical trial, a detailed genetic study was done post-hoc.
+
+430
+00:41:29,360 --> 00:41:35,840
+And there were individuals who were found to have a particular genetic variant that looked like on
+
+431
+00:41:35,840 --> 00:41:44,000
+post-hoc analysis that group actually benefited from the drug. And that led to a subsequent attempt
+
+432
+00:41:44,000 --> 00:41:50,720
+to do another trial focused specifically on people of that genotype with the CTP inhibitor,
+
+433
+00:41:50,720 --> 00:41:56,960
+which was just reported out really within the last year as a negative trial. That CTP inhibitor
+
+434
+00:41:56,960 --> 00:42:02,720
+actually had two different trials, one in kind of a very focused precision medicine way, but it still
+
+435
+00:42:02,720 --> 00:42:10,560
+didn't produce any benefit. This has been a long saga of using CTP inhibition to raise HDL
+
+436
+00:42:11,120 --> 00:42:16,960
+as a way to reduce risk. And as we're going to be talking about more, it really is one of the key
+
+437
+00:42:16,960 --> 00:42:24,240
+planks that has led to, I think, what is now rock solid, which is HDL cholesterol itself, the HDL
+
+438
+00:42:24,240 --> 00:42:30,960
+cholesterol itself is not directly and causally protective against atherosclerotic cardiovascular
+
+439
+00:42:30,960 --> 00:42:35,280
+disease. There's a lot of nuances there, which we'll come back to, but I feel pretty confident
+
+440
+00:42:35,280 --> 00:42:41,440
+making that statement. And I just think there's a great opportunity to also talk about why it's so
+
+441
+00:42:41,440 --> 00:42:47,840
+important to have hard outcome trials in the field of cardiovascular medicine. I think it's true in
+
+442
+00:42:47,840 --> 00:42:53,360
+all medicine, but let's go back and think about the first lipid lowering drug introduced in the
+
+443
+00:42:53,360 --> 00:42:59,840
+United States in, God, about 1950, right? Maybe 1959, something like that, right? So try Panerol,
+
+444
+00:42:59,840 --> 00:43:04,560
+which I can never remember the name of the enzyme, but it's the enzyme that converts
+
+445
+00:43:04,560 --> 00:43:09,680
+desmossterel to cholesterol in the cholesterol synthetic pathway. Believe it or not, this is a
+
+446
+00:43:09,680 --> 00:43:15,680
+sign of my aging, Dan. I used to know the names of these enzymes. It was like, and it's not delta-24
+
+447
+00:43:15,680 --> 00:43:20,800
+desaturase, but it's a cousin or derivative, isn't it? But anyway, so you had this drug,
+
+448
+00:43:20,800 --> 00:43:25,840
+triperinol, that inhibited that enzyme and lo and behold, it lowered cholesterol. Now, this was
+
+449
+00:43:25,840 --> 00:43:29,600
+for the listener, this is back in the day before we knew anything about the sub fractions of
+
+450
+00:43:29,600 --> 00:43:34,960
+cholesterol. So we just knew from some of the early work of Ansel Keys that if you looked at
+
+451
+00:43:34,960 --> 00:43:39,200
+very, very high levels of total cholesterol and compared that to people who had very,
+
+452
+00:43:39,200 --> 00:43:44,720
+very low levels of total cholesterol, there was a difference in outcome, cardiovascular outcomes.
+
+453
+00:43:44,720 --> 00:43:48,800
+This was an observed finding. There was no intervention to test that. So this drug came
+
+454
+00:43:48,800 --> 00:43:53,760
+along and it really lowered total cholesterol and it likely would have been lowering LDL cholesterol
+
+455
+00:43:53,760 --> 00:43:59,600
+and APOB. It basically got approved on the basis of that without of course the hard outcome. So it
+
+456
+00:43:59,600 --> 00:44:05,520
+gets approved, it goes into circulation and it's really only after it was approved, gosh, probably
+
+457
+00:44:05,520 --> 00:44:12,000
+what, eight to 10 years later that they had enough post surveillance data to say, you know what,
+
+458
+00:44:12,000 --> 00:44:18,240
+this drug is lowering cholesterol all right, but it's actually increasing mortality, cardiovascular
+
+459
+00:44:18,240 --> 00:44:23,840
+mortality. Drug was pulled off the market. I don't know what is known about the why, but I
+
+460
+00:44:23,840 --> 00:44:30,160
+know Tom Dayspring and I have speculated that it was probably the desmosterol spike that was causing
+
+461
+00:44:30,160 --> 00:44:34,240
+the problem. So you might've been trading one problem for a worse problem. Are you familiar
+
+462
+00:44:34,240 --> 00:44:39,360
+with that drug or that story? Only peripherally, but of course there's been a ton of research in
+
+463
+00:44:39,360 --> 00:44:45,120
+desmosterol really over the last several years. We now, based on that, that the plausibility of
+
+464
+00:44:45,120 --> 00:44:50,080
+the fact that the adverse effects were related to increasing this nostril I think is quite real.
+
+465
+00:44:50,080 --> 00:44:56,320
+That very well may be the explanation. By the way, this is a totally tangent off-topic point, but
+
+466
+00:44:56,320 --> 00:45:04,240
+it's become quite in vogue to use clomaphene or clomid for testosterone replacement in men. And
+
+467
+00:45:04,240 --> 00:45:10,560
+the reason for it is A, it's quite effective. So if you give clomaphene, you are telling the
+
+468
+00:45:10,560 --> 00:45:16,800
+pituitary to make a lot of LH and FSH, which of course is telling the testes to make a lot of
+
+469
+00:45:16,800 --> 00:45:22,960
+testosterone. This would certainly in the short term have the advantage of preserving testicular
+
+470
+00:45:22,960 --> 00:45:29,040
+function, unlike giving exogenous testosterone, which suppresses testicular function. And I think
+
+471
+00:45:29,040 --> 00:45:34,720
+for short term use, it probably isn't a bad thing. It's an off-label use of course for clomaphene.
+
+472
+00:45:34,720 --> 00:45:40,160
+And we used to do it for this purpose, right? So if a guy was still considering reproduction
+
+473
+00:45:40,160 --> 00:45:45,520
+or we were considering this a ridge treatment between testosterone, we would use it. But
+
+474
+00:45:46,240 --> 00:45:51,040
+because we always measure desmosterol, lithosterol, compensatorol, cytosterol, these sterols when we
+
+475
+00:45:51,040 --> 00:45:56,640
+measure our patients' cholesterol levels, we noticed how high the desmosterol levels were getting in
+
+476
+00:45:56,640 --> 00:46:03,520
+those patients. And we figured out pretty quickly it was the clomid that was doing this. And it
+
+477
+00:46:03,520 --> 00:46:08,960
+would reverse, but it could take a year to return desmosterol levels to normal after you stopped the
+
+478
+00:46:09,040 --> 00:46:15,440
+clomid. So about four years ago, once we put two and two together, we stopped using clomid. But it's
+
+479
+00:46:15,440 --> 00:46:20,000
+interesting to me that the use of that hormone has gone through the roof. There are now like
+
+480
+00:46:20,000 --> 00:46:26,160
+clomid clinics opening up. And I don't understand why someone, and we've done a lit search. I don't
+
+481
+00:46:26,160 --> 00:46:30,000
+understand, we just need to write this up. I think at some point. Yeah, it's fascinating.
+
+482
+00:46:30,000 --> 00:46:34,400
+Because I don't understand why someone hasn't put the two and two together, especially long-term
+
+483
+00:46:34,400 --> 00:46:38,560
+use. Again, I don't think using clomid for a couple of years is going to be problematic. And
+
+484
+00:46:38,560 --> 00:46:43,440
+I certainly don't think it's problematic for women using it for IVF. When I think about a guy
+
+485
+00:46:43,440 --> 00:46:49,040
+being on this for 10 years, and I'm talking desmosterol levels going up by 20 fold,
+
+486
+00:46:49,600 --> 00:46:55,920
+that would be concerning. And we went back and tried to see if we could find out how high the
+
+487
+00:46:55,920 --> 00:47:02,720
+desmosterol levels were in the triparinol trials, not trials, but in the levels that if anybody had
+
+488
+00:47:02,720 --> 00:47:07,520
+pulled serum or saved serum from those subways, we couldn't find it. So we don't really know how high
+
+489
+00:47:07,520 --> 00:47:12,400
+it was, but the assumption has to be that that drug and clomifene both interfere with the same
+
+490
+00:47:12,400 --> 00:47:16,960
+enzyme. Really fascinating. I would encourage you to write that up. So what's the point of that
+
+491
+00:47:16,960 --> 00:47:21,440
+whole long-winded story? The point of that long-winded story is things can make a lot of sense
+
+492
+00:47:22,080 --> 00:47:26,800
+until they don't, right? That's for sure. Before we leave CTP inhibition though, I do want to just
+
+493
+00:47:26,800 --> 00:47:32,720
+remind your listeners that there is still one CTP inhibitor, obocetrapid, that is still in clinical
+
+494
+00:47:32,720 --> 00:47:39,040
+development. What differentiates it, it's much more effective at lowering LDL and ApoB. We now
+
+495
+00:47:39,040 --> 00:47:45,600
+no longer think that raising HDL cholesterol with CTP inhibition is going to help you. We don't think
+
+496
+00:47:45,600 --> 00:47:50,080
+it hurts you, but we don't think it's going to help you. But we do think that there's still merit.
+
+497
+00:47:50,080 --> 00:47:55,120
+Of course, we know there's merit to raising LDL cholesterol and ApoB. You mean lowering. I'm sorry,
+
+498
+00:47:55,120 --> 00:48:00,240
+lowering. Perhaps this CTP inhibitor could be part of the armamentarium to do that. So we'll see. Stay
+
+499
+00:48:00,240 --> 00:48:07,120
+tuned. Now, Dan, maybe this was naive of me, but after the third failure of a CTP inhibitor,
+
+500
+00:48:07,680 --> 00:48:13,040
+my very crude interpretation is not unique. I'm sure a lot of people have speculated this,
+
+501
+00:48:13,920 --> 00:48:22,960
+is that if at least part of the benefit of HDL involves stuff we're going to talk about, right?
+
+502
+00:48:22,960 --> 00:48:28,960
+Delipidation, reverse cholesterol transport, all of those things. And you slap a CTP inhibitor on
+
+503
+00:48:29,040 --> 00:48:35,760
+one of those particles, thereby making it harder for the particle to efflux its cholesterol to get
+
+504
+00:48:35,760 --> 00:48:40,000
+rid of its cholesterol, which is why you now measure much higher HDL cholesterol, which on the surface
+
+505
+00:48:40,000 --> 00:48:45,920
+looks good. That could actually be problematic. In other words, if you see a lot of people in a room,
+
+506
+00:48:45,920 --> 00:48:50,320
+it might be tempting to conclude that there's something awesome going on in that room.
+
+507
+00:48:50,960 --> 00:48:55,440
+But what you don't know if you can't measure all the ins and outs is it might be that those people
+
+508
+00:48:55,440 --> 00:48:59,440
+are all stuck in the room because the door is locked. I know that's a bit of a crude analogy,
+
+509
+00:48:59,440 --> 00:49:05,200
+but is there any merit to that sort of thinking around the different ways in which one might
+
+510
+00:49:05,200 --> 00:49:09,840
+boost HDL cholesterol and how some of those could actually be deleterious if they prevent function?
+
+511
+00:49:10,880 --> 00:49:15,840
+There absolutely is, but I think it's probably not relevant to CTP for reasons we can return to,
+
+512
+00:49:15,840 --> 00:49:20,000
+but it is relevant to another protein that I think now's a good time to introduce,
+
+513
+00:49:20,000 --> 00:49:25,360
+which is another key protein, a receptor that is basically the major HDL receptor.
+
+514
+00:49:25,360 --> 00:49:30,480
+Essentially the equivalent of the LDL receptor, but for HDL, and it's known as SRB1,
+
+515
+00:49:31,680 --> 00:49:38,800
+another unfortunate nomenclature. SRB1 is a receptor that basically is on a lot of cells,
+
+516
+00:49:38,800 --> 00:49:44,640
+but the liver is the most important with regard to HDL. It essentially binds the HDL particle,
+
+517
+00:49:44,640 --> 00:49:49,360
+basically sucks the cholesterol ester out of the HDL particle, and then releases the
+
+518
+00:49:49,920 --> 00:49:55,680
+cholesterol depleted HDL back into the circulation to go back around and do whatever it's doing.
+
+519
+00:49:55,680 --> 00:50:01,520
+So the analogy I like to use, Peter, is that of garbage trucks. So a very simplistic view of HDL,
+
+520
+00:50:01,520 --> 00:50:06,160
+which we're going to return to because it's much more nuanced, is that HDL to a certain extent
+
+521
+00:50:06,160 --> 00:50:12,480
+functions like garbage trucks that are picking up things trash in places where you don't want it,
+
+522
+00:50:12,480 --> 00:50:21,280
+and returning it to the liver, dumping it off via SRB1, and then going back now empty to do more
+
+523
+00:50:21,280 --> 00:50:26,720
+of its role. Again, it's more complicated than that, but that's an analogy. So this brings me
+
+524
+00:50:26,720 --> 00:50:33,280
+back to SRB1. So there are humans who lack SRB1. What do you think the problem is? Very high HDL.
+
+525
+00:50:33,280 --> 00:50:38,880
+They have very high HDLs. They have very high HDLs because they can't unload the dump trucks,
+
+526
+00:50:39,760 --> 00:50:46,080
+but they actually have increased risk of heart disease because they are not efficiently
+
+527
+00:50:46,080 --> 00:50:52,800
+unloading that HDL. So very similar to your analogy of the locked room, you're not clearing the HDL
+
+528
+00:50:52,800 --> 00:50:57,680
+and doing that normal process of recycling the trucks back to the periphery to do what they
+
+529
+00:50:57,680 --> 00:51:03,600
+need to do. And so that's, I think, our best example of this concept of constipation of the system,
+
+530
+00:51:04,320 --> 00:51:10,800
+leading to high HDL but paradoxically to increase risk. And of course, the analogy would be that,
+
+531
+00:51:10,800 --> 00:51:15,280
+not the analogy, but the interpretation that would be, you would never want to develop an SRB1
+
+532
+00:51:15,280 --> 00:51:22,000
+inhibitor. Yes, it would raise HDL quite a lot, but it wouldn't protect against heart disease and
+
+533
+00:51:22,000 --> 00:51:28,880
+probably would hurt people. Yeah, I remember the first time Tom shared a case study with me of a
+
+534
+00:51:28,880 --> 00:51:35,120
+patient with presumably defective, not necessarily completely absent, but SRB1. And
+
+535
+00:51:35,760 --> 00:51:39,440
+this was one of those things where you could tell just reading the journal, it must have been 40
+
+536
+00:51:39,440 --> 00:51:43,920
+years old, but her LDL cholesterol was whatever it was, 100 milligrams per deciliter. Her HDL
+
+537
+00:51:43,920 --> 00:51:48,880
+cholesterol was like 150 milligrams per deciliter. So she had quote unquote high cholesterol,
+
+538
+00:51:49,600 --> 00:51:55,360
+but initially people assumed it was not of concern because the fraction that was HDL cholesterol was
+
+539
+00:51:55,440 --> 00:51:59,520
+what was contributing to it. And of course, on further exam, I mean, she had very, very advanced
+
+540
+00:51:59,520 --> 00:52:05,120
+atherosclerosis for a woman her age. Yep, exactly. We don't see this often. I can tell you that I
+
+541
+00:52:05,120 --> 00:52:10,400
+have not yet seen a case of that. Now, admittedly, my practice is not large, but we're certainly
+
+542
+00:52:10,400 --> 00:52:18,560
+looking for it when we see people with high HDL cholesterol, typically north of 90. I guess we
+
+543
+00:52:18,560 --> 00:52:22,960
+should talk about this as well, but we can do that in a moment after this question, which is why is
+
+544
+00:52:22,960 --> 00:52:26,880
+there a sex difference between these two? Because there is quite a significant sex difference
+
+545
+00:52:26,880 --> 00:52:32,400
+between men and women in terms of HDL cholesterol. But at what point, Dan, as a clinician, do you
+
+546
+00:52:32,400 --> 00:52:36,640
+start to worry about that? And if there are doctors or patients listening to this, when would you
+
+547
+00:52:36,640 --> 00:52:42,560
+recommend that somebody go and get checked out for a genetic deficiency there? SRB1 deficiency
+
+548
+00:52:42,560 --> 00:52:47,200
+is not common. I completely agree with you. Huge project we've had for a long time now is
+
+549
+00:52:47,200 --> 00:52:52,240
+essentially collecting people or consenting people with extreme high HDL with the goal of trying to
+
+550
+00:52:52,240 --> 00:52:57,840
+find what the underlying genetic cause is. And I will tell you that that's how we found a few of
+
+551
+00:52:57,840 --> 00:53:03,760
+these SRB1 folks, but most of them don't have any identifiable gene that we can point to and say,
+
+552
+00:53:03,760 --> 00:53:08,480
+here's the smoking gun. Here's why your HDL is high. HDL is very heritable, meaning that there's
+
+553
+00:53:08,480 --> 00:53:13,920
+a lot of genetic determinants of HDL, but it's more about so-called polygenic inheritance where
+
+554
+00:53:13,920 --> 00:53:19,200
+multiple different genes, including SRB1, but not major genetic defects, just sort of more common
+
+555
+00:53:19,200 --> 00:53:23,520
+variants, but many others, like some of the things we've been talking about, including a CTP and
+
+556
+00:53:23,520 --> 00:53:29,760
+ABCA1, all contribute to the heritability of the HDL cholesterol. But to get back to the clinical
+
+557
+00:53:29,760 --> 00:53:36,080
+implications, my view at this point, we can talk more about the data. It's pretty clear that
+
+558
+00:53:36,800 --> 00:53:43,680
+high HDL is not uniformly associated with protection. And there are certain circumstances
+
+559
+00:53:43,680 --> 00:53:48,000
+where that's true, especially if it's extremely high. Perhaps we'll get back to this, but there's
+
+560
+00:53:48,080 --> 00:53:53,120
+a fair amount of evidence now, including a recent paper that individuals of African ancestry who
+
+561
+00:53:53,120 --> 00:53:58,560
+tend to have higher HDLs anyway, that the high HDLs are not as protective or maybe not even HDL is
+
+562
+00:53:58,560 --> 00:54:05,200
+that well associated with risk. So my clinical advice to anyone with high HDL is not go get
+
+563
+00:54:05,200 --> 00:54:10,080
+yourself sequenced to find out if you're deficient in SRB1. The odds of that are extremely low,
+
+564
+00:54:10,720 --> 00:54:19,680
+but never use a high HDL as a reason for not using a statin or some other LDL lowering or
+
+565
+00:54:19,680 --> 00:54:23,520
+preventive therapy. That is, you should never be dissuaded from doing what you would have
+
+566
+00:54:23,520 --> 00:54:28,160
+otherwise done in that patient just because their HDL is high. Does that make sense?
+
+567
+00:54:28,160 --> 00:54:32,880
+Yeah, absolutely makes sense. And I have a very short paragraph in my book that'll be coming out
+
+568
+00:54:32,880 --> 00:54:41,200
+in a while where I cite two Mendelian randomizations that really look at this in some detail. I think
+
+569
+00:54:41,200 --> 00:54:45,120
+I've explained Mendelian randomization before on the podcast, but it's always worth, I think,
+
+570
+00:54:45,120 --> 00:54:49,840
+a short explanation again, in case you haven't heard it. This is basically a technique where
+
+571
+00:54:50,640 --> 00:54:58,720
+you look for genes that impact traits that you are interested in. So in this case, because as you
+
+572
+00:54:58,720 --> 00:55:04,960
+pointed out, HDL is very genetic. That means that there are sets of genes that we would identify
+
+573
+00:55:04,960 --> 00:55:10,480
+that predispose people to having very high versus very low HDL cholesterol. And because those genes
+
+574
+00:55:10,480 --> 00:55:17,600
+are randomly occurring, you can look at that as though it's a natural experiment. And you can look
+
+575
+00:55:17,600 --> 00:55:24,880
+at based on the natural occurring spreading or scattering of those genes, how are outcomes
+
+576
+00:55:24,880 --> 00:55:34,400
+effective? And it turns out that low HDL cholesterol is not causally linked to atherosclerosis,
+
+577
+00:55:34,960 --> 00:55:41,760
+and high HDL cholesterol, genetically high, is not causally linked to protection from ASCVD.
+
+578
+00:55:42,400 --> 00:55:48,160
+So I think those are very important findings, and I think it speaks to why, as you say, you can't
+
+579
+00:55:48,160 --> 00:55:53,200
+use high HDL cholesterol as a reason to not treat in the presence of other risk factors.
+
+580
+00:55:53,200 --> 00:55:59,200
+I completely agree. It's interesting, though, that that persists, isn't it? I do find this to be
+
+581
+00:56:00,160 --> 00:56:06,800
+probably top three most vexing discussions I have with other physicians, which is, I know his LDL
+
+582
+00:56:06,800 --> 00:56:13,680
+cholesterol is 140 milligrams per deciliter, but God, I mean, his HDL is 80. I mean, his ratio,
+
+583
+00:56:13,680 --> 00:56:19,760
+I mean, that's when they say the ratio of total cholesterol to HDL or LDL to HDL is such and such,
+
+584
+00:56:19,760 --> 00:56:23,520
+and therefore I don't need to treat. I mean, it makes me wish I had hair to pull out.
+
+585
+00:56:25,040 --> 00:56:28,800
+You're absolutely right, and I'll just reiterate, high HDL is never a reason not to treat someone
+
+586
+00:56:28,800 --> 00:56:33,120
+who would have otherwise merited treatment. I do want to make clear, though, there are lots of
+
+587
+00:56:33,120 --> 00:56:37,920
+people who are on the fence about whether to start a statin, who have LDLs that are kind of borderline
+
+588
+00:56:37,920 --> 00:56:42,800
+or even not that terribly high. And of course, we look at the whole patient, we look at the risk,
+
+589
+00:56:42,800 --> 00:56:48,640
+we look at their calculated risk, other risk factors. But I'll just say that a low HDL
+
+590
+00:56:49,360 --> 00:56:52,480
+in the setting of someone who you're generally on the fence about treating,
+
+591
+00:56:53,200 --> 00:56:58,560
+perhaps could contribute to tilting toward, yes, I'm going to treat this person. In other words,
+
+592
+00:56:58,560 --> 00:57:04,480
+a low HDL, at least in most populations, again, I think individuals of African ancestry, perhaps
+
+593
+00:57:04,480 --> 00:57:08,720
+we have to be a little bit more careful about using HDL as a predictor. Maybe we'll come back
+
+594
+00:57:08,720 --> 00:57:16,320
+to that. Otherwise, I think a low HDL can be used not absolutely, but relatively to tilt toward
+
+595
+00:57:16,400 --> 00:57:20,480
+being more aggressive, but only in the context of the overall risk profile.
+
+596
+00:57:20,480 --> 00:57:27,040
+And obviously part of that, Dan, has to do with the relationship between low HDL cholesterol,
+
+597
+00:57:27,040 --> 00:57:32,560
+if my memory serves me correctly, it's the HDL two fraction and the association with that and insulin
+
+598
+00:57:32,560 --> 00:57:38,800
+resistance. So there's no question that a phenotype, and as you point out, and we should come back to
+
+599
+00:57:38,800 --> 00:57:43,600
+this, we don't even do this calculation for African-American patients because we've long observed
+
+600
+00:57:43,600 --> 00:57:49,840
+it's not helpful, but in non-African-American patients, the ratio of triglyceride to HDL
+
+601
+00:57:49,840 --> 00:57:55,360
+cholesterol when both are in milligrams per deciliter is reasonably associated with insulin
+
+602
+00:57:55,360 --> 00:57:59,040
+resistance. And the higher that ratio, the more insulin resistant they are. And obviously that
+
+603
+00:57:59,040 --> 00:58:05,200
+ratio is driven up by an increase in triglycerides and a reduction in HDL cholesterol. Why is it that,
+
+604
+00:58:05,200 --> 00:58:10,240
+I mean, we've spent hours on this podcast talking about why insulin resistance would lead to or be
+
+605
+00:58:10,240 --> 00:58:15,440
+associated with high triglycerides. We haven't done the opposite or the reverse of that. What is
+
+606
+00:58:15,440 --> 00:58:22,640
+it about IR that drives down HDL two? I'll just say first though, that one of the other analogies I
+
+607
+00:58:22,640 --> 00:58:29,600
+like to make is that HDL cholesterol, while not causally related to disease, is sort of like an
+
+608
+00:58:29,600 --> 00:58:38,080
+HBA1C for cardiovascular risk factors. It's an integrator of information related to insulin
+
+609
+00:58:38,080 --> 00:58:45,200
+resistance, related to triglycerides, related to inflammation, that in one number, in most people,
+
+610
+00:58:45,200 --> 00:58:50,080
+when it's low, it's telling you something about cardiovascular risk, even though itself it isn't
+
+611
+00:58:50,080 --> 00:58:55,360
+directly impacting on risk. So in answer to your question, I think one of the big issues with HDL
+
+612
+00:58:55,360 --> 00:59:01,680
+cholesterol is that it's an inverse barometer of triglyceride efficiency of triglyceride
+
+613
+00:59:01,680 --> 00:59:07,520
+metabolism. And again, we talked about efficiency earlier. You can only learn so much from measuring
+
+614
+00:59:07,520 --> 00:59:13,520
+a fasting triglyceride after a 12-hour overnight fast. It's useful. It's the way we do it in terms
+
+615
+00:59:13,520 --> 00:59:21,120
+of lipid panels. But a lot happens after a fatty meal, and a lot of that action is basically over
+
+616
+00:59:21,120 --> 00:59:26,880
+in most people by 12 hours. Some people are extraordinarily effective at clearing their
+
+617
+00:59:26,880 --> 00:59:32,800
+dietary fat and even their liver-derived fat, like mice. Others are not so effective, but their
+
+618
+00:59:32,800 --> 00:59:38,320
+fasting triglycerides may not necessarily even reflect that. The HDL cholesterol does reflect
+
+619
+00:59:38,320 --> 00:59:44,640
+that. There's a complex, as we discussed earlier, complex frequent interaction and exchange between
+
+620
+00:59:44,640 --> 00:59:50,800
+triglyceride-rich lipoproteins and HDL, with the net effect being the higher the triglycerides at
+
+621
+00:59:50,800 --> 00:59:57,600
+any given time, the lower the HDL is as a result of the complex interactions. So if you can picture,
+
+622
+00:59:57,600 --> 01:00:02,080
+we do a lot of these experiments where we bring in people and we give them a high-fat milkshake.
+
+623
+01:00:02,080 --> 01:00:06,000
+We draw blood multiple time points after that milkshake, and we measure triglycerides and all
+
+624
+01:00:06,000 --> 01:00:11,200
+sorts of other things. People differ a lot in their response to that high-fat milkshake challenge.
+
+625
+01:00:11,840 --> 01:00:18,880
+The higher that triglyceride goes, the area under the curve, the lower the HDLs are. That relationship
+
+626
+01:00:18,880 --> 01:00:24,800
+is extraordinarily strong. So just like HbA1c, that HDL cholesterol is sort of reading out
+
+627
+01:00:25,520 --> 01:00:32,320
+the 24-hour triglyceride metabolism much better than the overnight fasting triglyceride
+
+628
+01:00:32,320 --> 01:00:37,680
+measurement is. That's sort of why HbA1c is better than fasting glucose. That's the analogy.
+
+629
+01:00:38,240 --> 01:00:42,320
+First of all, I've never heard that before, and that might be if I learn nothing else on this
+
+630
+01:00:42,320 --> 01:00:47,200
+podcast, Dan. That is hands down the most amazing thing I have learned, not just today, but I'm
+
+631
+01:00:47,200 --> 01:00:51,920
+going to go out on a limb and say this week, potentially this month. That is super fascinating.
+
+632
+01:00:51,920 --> 01:00:57,760
+First of all, people on this podcast have probably heard me gripe over the lack of integral
+
+633
+01:00:57,760 --> 01:01:03,360
+functions in biology. My background, of course, in math and engineering, we love integrals. As
+
+634
+01:01:03,360 --> 01:01:10,880
+imperfect as the A1c is, as you said, it is an integrator, and it's so hard to find integrators.
+
+635
+01:01:11,440 --> 01:01:17,040
+Ferritin sort of does it a little bit for iron, but not nearly as well. The holy grail, of course,
+
+636
+01:01:17,040 --> 01:01:21,280
+would be to find an integral of something like mTOR activity or something like that.
+
+637
+01:01:21,760 --> 01:01:26,320
+I've never before been presented with or confronted with this. I want to make sure
+
+638
+01:01:26,320 --> 01:01:30,640
+we all understand this a little bit better. There's a couple of things that you've said there. One is,
+
+639
+01:01:31,280 --> 01:01:35,280
+if you stick an IV in a person's arm, let's just do that to go easy on them. We're going to just
+
+640
+01:01:35,280 --> 01:01:40,560
+be able to draw blood continuously or call it every five minutes without poking them. You bring
+
+641
+01:01:40,560 --> 01:01:44,960
+them into a lab fasted. You measure their HDL cholesterol. You measure their trigs. Let's just
+
+642
+01:01:44,960 --> 01:01:49,360
+say they show up in the morning fasted. Their trigs are 100 milligrams per deciliter. HDL is
+
+643
+01:01:49,360 --> 01:01:52,880
+50 milligrams per deciliter. Most people would look at that and say, oh, that's great. Person
+
+644
+01:01:52,880 --> 01:02:00,080
+looks super healthy. You give them a high fat shake, and 30 minutes in, you just start measuring
+
+645
+01:02:00,080 --> 01:02:05,520
+every couple of minutes the concentration of those two things. I think most people somewhat familiar
+
+646
+01:02:05,520 --> 01:02:10,560
+with metabolism would not be surprised to learn that the triglycerides will go through the roof.
+
+647
+01:02:10,560 --> 01:02:16,160
+As an aside, anybody who has accidentally done a blood draw with their doctor after eating a meal
+
+648
+01:02:16,160 --> 01:02:20,080
+when it was supposed to be fasting will be familiar with this. We see this from time to
+
+649
+01:02:20,080 --> 01:02:24,800
+time when patients make mistakes. They have a big fat breakfast before the blood draw and you get
+
+650
+01:02:24,800 --> 01:02:29,760
+their trigs back in their 400 or 500 milligrams per deciliter. Highly variable from person to person,
+
+651
+01:02:29,760 --> 01:02:34,880
+just to be clear. Highly meal dependent as well. Exactly. Very much depends on what the meal is.
+
+652
+01:02:35,520 --> 01:02:39,280
+In this experiment though, you're specifically giving them something to elicit the biggest
+
+653
+01:02:39,280 --> 01:02:45,520
+triglyceride response. In the example I gave Dan, let's say triglycerides go 100, 125, 150,
+
+654
+01:02:46,000 --> 01:02:50,080
+all the way up to 400 before they start to come down. That generates an area. You could integrate
+
+655
+01:02:50,080 --> 01:02:56,000
+that on the curve. Can you give realistic ideas or values for what the HDL cholesterol would do
+
+656
+01:02:56,000 --> 01:03:02,400
+during that period of time? The HDL cholesterol definitely dips during that time in a way that's
+
+657
+01:03:02,400 --> 01:03:07,360
+proportional to, roughly proportional to the triglyceride levels, but not anywhere near the
+
+658
+01:03:07,360 --> 01:03:11,760
+same degree of magnitude. Right. Simply because it's starting lower and you have a constraint
+
+659
+01:03:11,760 --> 01:03:17,440
+bottom versus no constraint top. Starting lower, but also the dynamics of its turnover are very
+
+660
+01:03:17,440 --> 01:03:24,640
+different. I think the key point here is HDL is not just an integrator sort of acutely over that
+
+661
+01:03:24,640 --> 01:03:33,120
+meal, but chronically in your example, the HDL cholesterol might go from 40 to 38 or 37,
+
+662
+01:03:33,120 --> 01:03:38,960
+which doesn't sound like a lot after that one meal, but the repeated meals that that individual
+
+663
+01:03:38,960 --> 01:03:45,040
+is eating that are high fat and that repeated triglyceride excursion has a more chronic effect,
+
+664
+01:03:45,040 --> 01:03:51,760
+a little like glucose and HbA1c that keeps taking the HDL down over time until you get to kind of
+
+665
+01:03:51,760 --> 01:03:58,320
+a new steady state. So the cute effect on the HDL is real. It's modest. The chronic effect on the HDL
+
+666
+01:03:58,320 --> 01:04:04,880
+of that abnormal postprandial triglyceride metabolism is quite substantial. And that's why
+
+667
+01:04:04,880 --> 01:04:10,400
+HDL is a good, as you say, integrator of this effect. And actually what you just said, Dan,
+
+668
+01:04:10,400 --> 01:04:16,880
+is kind of what I was hoping to go to next, which is if everything I said were true, that might not
+
+669
+01:04:16,880 --> 01:04:22,400
+be enough to explain the full integral function because it probably captures some of what's
+
+670
+01:04:22,400 --> 01:04:28,720
+happening outside of the meal. Just as hemoglobin A1c doesn't only reflect what would be captured
+
+671
+01:04:28,720 --> 01:04:34,240
+in an oral glucose tolerance test, it captures what's happening over 90 straight days when you're
+
+672
+01:04:34,240 --> 01:04:39,440
+eating, when you're not eating. Exactly. And that's also why there's a very strong statistical
+
+673
+01:04:39,440 --> 01:04:46,000
+relationship between fasting triglycerides and the HDL. So the fasting triglycerides themselves
+
+674
+01:04:46,000 --> 01:04:51,440
+are still affecting HDL metabolism. It's just that the postprandial part is also a key component.
+
+675
+01:04:52,400 --> 01:05:00,560
+So let's then again, just one more time, sort of reiterate the lagging nature of HDL cholesterol
+
+676
+01:05:01,200 --> 01:05:08,080
+through HDL biology to what's happening with the efficiency of maybe for lack of a better word,
+
+677
+01:05:08,640 --> 01:05:15,760
+lipid partitioning. The lagging nature, meaning the integrating over time? Yeah, exactly. Let's
+
+678
+01:05:15,760 --> 01:05:21,840
+use an example. So you've got a person who is exercising. And so you have two people who are
+
+679
+01:05:21,840 --> 01:05:27,920
+similar except that one is very insulin resistant and one is quite insulin sensitive. The insulin
+
+680
+01:05:27,920 --> 01:05:32,160
+resistant person is going to have a higher level of insulin. All things equal, they're going to
+
+681
+01:05:32,160 --> 01:05:39,120
+have a more difficult time oxidizing free fatty acid. So as energy demand goes up from the muscle,
+
+682
+01:05:39,120 --> 01:05:43,360
+they're going to be more likely to utilize glycogen as opposed to utilizing triglyceride.
+
+683
+01:05:43,360 --> 01:05:48,240
+So at any point in time, you might measure differences in glucose, differences in lactate.
+
+684
+01:05:48,240 --> 01:05:51,920
+You might, well, you would see lactate as well, but differences in triglyceride level. You might
+
+685
+01:05:51,920 --> 01:05:56,800
+also notice more fat in the liver or some fat in the liver of the insulin resistant person,
+
+686
+01:05:56,800 --> 01:06:01,520
+none in the insulin sensitive person. Into that situation, even when they're not eating,
+
+687
+01:06:01,520 --> 01:06:08,160
+they're quite different physiologically. What is the HDL discerning or doing in those two scenarios
+
+688
+01:06:08,160 --> 01:06:14,320
+that's being reflected in the ongoing integral function of it? The simplest, most direct model
+
+689
+01:06:14,320 --> 01:06:19,920
+is that the HDL is reflecting the 24 hour excursions in triglycerides, like we were just talking about.
+
+690
+01:06:20,560 --> 01:06:28,480
+I think what you may be getting at is there are almost certainly other components of metabolism
+
+691
+01:06:28,480 --> 01:06:33,840
+that the HDL is integrating and reflecting, particularly in the complex insulin resistance
+
+692
+01:06:33,840 --> 01:06:38,640
+world. We know insulin resistance has a lot of effects other than affecting triglycerides.
+
+693
+01:06:39,200 --> 01:06:45,760
+And insulin resistance, I'm sure, has effects that are affecting and are reflected by
+
+694
+01:06:46,320 --> 01:06:52,880
+a lowering of HDL. What I can't tell you is exactly what those are. That's an area that is
+
+695
+01:06:52,880 --> 01:06:58,080
+still a topic of investigation. I will give you one hypothesis though, and one that maybe I think
+
+696
+01:06:58,080 --> 01:07:04,800
+has some merit. As you know, adiponectin is an adipokine secreted by fat that has an inverse
+
+697
+01:07:04,800 --> 01:07:09,840
+relationship to insulin resistance. So basically people who are insulin resistant have lower levels
+
+698
+01:07:09,920 --> 01:07:16,800
+and people who are more insulin sensitive. And adiponectin itself appears to have some direct
+
+699
+01:07:16,800 --> 01:07:22,640
+effect on HDL metabolism in the right direction. We could talk about it possibly by tweaking the
+
+700
+01:07:22,640 --> 01:07:28,080
+liver in ways that then the liver affects HDL. So where I'm really going with this, although I have
+
+701
+01:07:28,080 --> 01:07:34,320
+to say the data still are not completely solid, is that another way that insulin resistance
+
+702
+01:07:34,880 --> 01:07:42,480
+is impacting on HDL is through adiponectin secretion affecting HDL metabolism in a way
+
+703
+01:07:42,480 --> 01:07:46,720
+that's completely different than the triglyceride hypothesis that I just put forth. You follow me?
+
+704
+01:07:47,280 --> 01:07:51,600
+Yeah. And it's funny. We used to measure adiponectin and leptin levels.
+
+705
+01:07:51,600 --> 01:07:55,040
+Again, one of those things I sort of stopped measuring. Do you think that that's a helpful
+
+706
+01:07:55,040 --> 01:07:58,560
+biomarker independently? And should that be something that's back on our plate?
+
+707
+01:07:59,360 --> 01:08:02,800
+Absolutely fascinating to try to put together these metabolic pathways
+
+708
+01:08:02,800 --> 01:08:08,320
+in terms of its utility as a clinical marker? I guess I'd have to be a little bit skeptical.
+
+709
+01:08:09,280 --> 01:08:12,400
+I'm not quite sure how I would use it in terms of guiding clinical care.
+
+710
+01:08:12,960 --> 01:08:17,120
+I mean, I think that was sort of where we ended up, which was, look, we get more actionable
+
+711
+01:08:17,120 --> 01:08:24,160
+insight out of other metrics. Okay. That was really interesting. And again, before we leave
+
+712
+01:08:24,160 --> 01:08:28,640
+the pharmacoside of this, can we talk for a moment about niacin? Oh, sure. It's been a while
+
+713
+01:08:28,640 --> 01:08:34,240
+since niacin came up on a podcast, but this is an interesting drug because it clearly raises HDL
+
+714
+01:08:34,240 --> 01:08:39,680
+cholesterol and it lowers APOB, doesn't it? It does. It lowers triglycerides. It lowers APOB.
+
+715
+01:08:39,680 --> 01:08:45,680
+It lowers LDL. All modestly, but really. Peter, niacin, I just chuckled because niacin is one
+
+716
+01:08:45,680 --> 01:08:50,640
+of these areas where we as lipidologists and me personally have to really eat a bit of crow.
+
+717
+01:08:50,640 --> 01:08:58,160
+There was a time when I prescribed niacin to a lot of patients with primarily the idea that it was
+
+718
+01:08:58,160 --> 01:09:04,080
+the only thing we had to raise HDL. This was in an era where HDL is the good cholesterol and raising
+
+719
+01:09:04,080 --> 01:09:09,680
+it must be good, right? I also told myself, well, niacin does lower triglycerides. It lowers APOB.
+
+720
+01:09:09,680 --> 01:09:15,360
+It lowers LDL. It also, as I'm sure you know, modestly lowers LP little a as well.
+
+721
+01:09:15,360 --> 01:09:21,200
+About 15% lowering of it. Yeah, 15, 20%. It basically was like, this is a nice broad spectrum
+
+722
+01:09:21,200 --> 01:09:26,000
+lipid lowering drug that, you know, not in place of, but on top of a statin for certain people who
+
+723
+01:09:26,000 --> 01:09:31,520
+had certain lipid profiles, mostly high triglycerides, low HDL, it has to be providing some benefit,
+
+724
+01:09:31,520 --> 01:09:36,640
+even in the absence of, as you pointed out, the clinical trials that really are a cornerstone of
+
+725
+01:09:36,640 --> 01:09:42,640
+cardiovascular medicine. Well, the clinical trials, you know, got done. The high trial, which
+
+726
+01:09:42,640 --> 01:09:48,800
+was a very well done trial, which frankly just didn't show much benefit of niacin, a blow to us,
+
+727
+01:09:48,800 --> 01:09:53,360
+but the field comes up with reasons why that trial may not have been right. Bottom line is,
+
+728
+01:09:53,440 --> 01:09:59,360
+one more trial run by Merck with a drug that also helped to potentially address some of the issues
+
+729
+01:09:59,360 --> 01:10:06,000
+with niacin was done. Very large trial, very well powered trial. And that also had really
+
+730
+01:10:06,000 --> 01:10:12,560
+minimal or very disappointing effects on reducing cardiovascular events. Essentially those two trials
+
+731
+01:10:12,560 --> 01:10:17,200
+killed niacin. So over the next, you know, year as patients would come back, I would have the
+
+732
+01:10:17,200 --> 01:10:21,840
+discussions that maybe you've had discussions with patients too like this, you know, that niacin I
+
+733
+01:10:21,840 --> 01:10:26,720
+put you on, you know, eight years ago that you've been taking religiously despite the question that
+
+734
+01:10:26,720 --> 01:10:31,120
+it causes when you take it. I really think I have to tell you that I'm not sure you need to take it
+
+735
+01:10:31,120 --> 01:10:36,800
+anymore. And it was a humbling experience to basically have a drug that I had prescribed
+
+736
+01:10:36,800 --> 01:10:42,560
+quite a lot basically to tell patients that I don't think that in retrospect, this is helping
+
+737
+01:10:42,560 --> 01:10:47,760
+you much. I do have a subset of patients who are so wedded to their niacin that despite that,
+
+738
+01:10:47,760 --> 01:10:51,520
+they haven't wanted to stop. But the vast majority of my patients have stopped their niacin.
+
+739
+01:10:52,080 --> 01:10:56,240
+And what's the mechanism by which niacin raised HDL cholesterol?
+
+740
+01:10:57,040 --> 01:11:01,040
+I think one is certainly triglyceride lowering, like we were talking about earlier,
+
+741
+01:11:02,000 --> 01:11:07,680
+but probably not just that because the increases in HDL were somewhat disproportionate to what
+
+742
+01:11:07,680 --> 01:11:11,600
+you'd predict from the triglyceride lowering. Although again, with the complexity, it's a little
+
+743
+01:11:11,600 --> 01:11:17,680
+hard to make that calculation. So there probably is some other mechanism. And to this day, I don't
+
+744
+01:11:17,760 --> 01:11:22,400
+think we really understand it. We tried for a while to try to figure that out. Niacin is a
+
+745
+01:11:22,400 --> 01:11:28,080
+very complex drug. Of course, we're talking about niacin here in pharmacologic dosing,
+
+746
+01:11:28,080 --> 01:11:34,320
+not in the kind of vitamin dosing. We don't really know. I think it's fair to say how niacin raises
+
+747
+01:11:34,320 --> 01:11:40,720
+HDL beyond its triglyceride lowering effect. It's not a drug we used much, if at all. But
+
+748
+01:11:40,720 --> 01:11:46,960
+the few times we did, I was actually really amazed at how much it raised HDL cholesterol.
+
+749
+01:11:46,960 --> 01:11:51,120
+I mean, it wasn't uncommon to go from 50 milligrams per deciliter to 90 milligrams per
+
+750
+01:11:51,120 --> 01:11:57,440
+deciliter on a strong dose. Let's shift gears for a second and talk about something that we briefly
+
+751
+01:11:57,440 --> 01:12:01,440
+touched on, but I think we now want to go into a little bit more detail. If everything we've
+
+752
+01:12:01,440 --> 01:12:07,040
+talked about so far is somewhat complicated, I actually think for me at least this next part,
+
+753
+01:12:07,040 --> 01:12:13,760
+especially the RCT stuff, gets complicated. So let's talk about what HDL lipidation,
+
+754
+01:12:13,760 --> 01:12:19,600
+delipidation, and reverse cholesterol transport are, because this is really where we start to
+
+755
+01:12:19,600 --> 01:12:25,040
+get into some of the sophistication of the HDL and even the interaction with other cells like
+
+756
+01:12:25,040 --> 01:12:29,440
+macrophages and things like that. I'll start and then you can kind of lead me along because this
+
+757
+01:12:29,440 --> 01:12:35,920
+can get quite complicated. Maybe just to orient you, Dan, why don't we start with, unless you have
+
+758
+01:12:35,920 --> 01:12:39,440
+a better way to do it, I'm totally open, but if you're looking for a goalpost to start in,
+
+759
+01:12:39,440 --> 01:12:44,960
+do you want to start with a foam cell stuck in an artery wall or is there a different place
+
+760
+01:12:44,960 --> 01:12:50,320
+you'd want to start the discussion? That's a good idea. So many of your listeners know that a core
+
+761
+01:12:50,320 --> 01:12:57,520
+concept in atherosclerotic vascular disease is the macrophage that's taken up lipids and is now a
+
+762
+01:12:57,520 --> 01:13:02,320
+so-called foam cell, meaning it looks foamy under a microscope because it has all this lipid and when
+
+763
+01:13:02,320 --> 01:13:09,360
+you stain tissues, the lipids become like bubbles within the cells and they look foamy. The foam cell
+
+764
+01:13:10,000 --> 01:13:16,800
+the lipid loaded macrophage is a core pathologic feature of atherosclerotic vascular disease.
+
+765
+01:13:16,800 --> 01:13:21,600
+It's also the first thing you see. So careful studies that have really looked at vascular
+
+766
+01:13:22,240 --> 01:13:29,040
+tissues in children and teenagers and young adults on the way up, you basically see lipid loaded
+
+767
+01:13:29,040 --> 01:13:34,080
+macrophages accumulating in the sub-entimal space, in the intimal space in the large vessels,
+
+768
+01:13:34,080 --> 01:13:40,480
+before you start seeing some of the more complex features of infiltration of other leukocytes and
+
+769
+01:13:40,480 --> 01:13:44,640
+extracellular matrix and all the stuff that ultimately comes to complex atherosclerotic plaque.
+
+770
+01:13:44,640 --> 01:13:48,960
+There's been a strong belief for a long time that this is one of the core initiators of the process
+
+771
+01:13:49,520 --> 01:13:54,400
+and I think that's probably true. An analogy would be like with Alzheimer's, the A-beta being kind of
+
+772
+01:13:54,400 --> 01:14:00,400
+the core initiator of the process leading to much more complex pathology. So macrophages have very
+
+773
+01:14:01,040 --> 01:14:08,160
+well-established mechanisms for ridding themselves of cholesterol. Keep in mind, no cell except the
+
+774
+01:14:08,160 --> 01:14:15,680
+liver cell has the ability to metabolize cholesterol to other sterile species. Only the liver can do
+
+775
+01:14:15,680 --> 01:14:21,280
+that. Cells can make plenty of cholesterol but the only way cells can deal with their cholesterol
+
+776
+01:14:21,280 --> 01:14:27,120
+is to quote efflux the cholesterol, to push the cholesterol out of the cell and get rid of it.
+
+777
+01:14:27,120 --> 01:14:33,040
+So if you think at the whole body level, all of the body is making cholesterol but that cholesterol
+
+778
+01:14:33,040 --> 01:14:38,960
+ultimately has to come out of those cells into something. This is where HDL comes in and ultimately
+
+779
+01:14:38,960 --> 01:14:44,880
+get back to the liver where the liver then can metabolize it or directly excrete it into the bile
+
+780
+01:14:44,880 --> 01:14:49,680
+then it goes out the intestine in the feces. So all cells have to be able to do this and all cells
+
+781
+01:14:49,680 --> 01:14:54,560
+in fact have the ability to push cholesterol out of their cells but macrophages really have to do
+
+782
+01:14:54,560 --> 01:15:00,640
+it. That is because macrophages are like kind of the dump truck of the body. They're picking up
+
+783
+01:15:00,640 --> 01:15:06,080
+not only LDLs and lipoproteins with cholesterol, they're scavenging cells, dead scales,
+
+784
+01:15:06,080 --> 01:15:11,360
+apoptotic cells and of course all those cells have lots of cholesterol. So macrophages need very,
+
+785
+01:15:11,360 --> 01:15:18,000
+very effective ways to rid themselves of cholesterol and they do have effective ways of doing that.
+
+786
+01:15:18,000 --> 01:15:23,280
+When those pathways get overcome or less efficient, the macrophage then builds up
+
+787
+01:15:23,280 --> 01:15:27,680
+cholesterol and becomes the kind of foam cell that we're talking about. Macrophages have
+
+788
+01:15:27,680 --> 01:15:32,960
+transporters. They have a very abundant amount of this ABCA1 that we talked about earlier.
+
+789
+01:15:33,520 --> 01:15:38,960
+Earlier we talked about it in the gut and the liver. Now I'm saying that macrophages have ABCA1.
+
+790
+01:15:38,960 --> 01:15:44,480
+ABCA1 is one of the, not the only, way that macrophages rid themselves of cholesterol.
+
+791
+01:15:44,480 --> 01:15:51,760
+If you recall, the main acceptor of cholesterol via ABCA1 transporting out of a cell is APOA1.
+
+792
+01:15:52,400 --> 01:15:58,480
+This led now quite a long time ago to the general paradigm that macrophage foam cells
+
+793
+01:15:59,040 --> 01:16:03,520
+are building up cholesterol because they're not getting rid of it effectively and that one of the
+
+794
+01:16:03,520 --> 01:16:09,920
+best ways to get rid of it would be to promote these efflux pathways via ABCA1 and other
+
+795
+01:16:09,920 --> 01:16:17,600
+transporters that are being driven by APOA1 to HDL, which then by my garbage truck analogy,
+
+796
+01:16:17,600 --> 01:16:23,120
+the garbage truck, i.e. the HDL, is picking it up in the periphery like the blood vessel
+
+797
+01:16:23,120 --> 01:16:27,920
+and returning it to the liver, dumping it off in the liver, and then going back and doing its job
+
+798
+01:16:27,920 --> 01:16:35,280
+again. This process of quote efflux, cholesterol efflux from macrophages and frankly other cells,
+
+799
+01:16:35,840 --> 01:16:41,520
+particularly in the blood vessel wall, has been for a long time now thought of as a key
+
+800
+01:16:42,400 --> 01:16:47,920
+process that would help to protect against the early initiation and progression of the
+
+801
+01:16:47,920 --> 01:16:51,280
+atherosclerotic plaque. Peter, that was long, but that's the start.
+
+802
+01:16:51,840 --> 01:16:55,280
+Well, and I think that's, look, let's just make sure everybody's interested in what we're talking
+
+803
+01:16:55,280 --> 01:17:01,760
+about here, which is when we really talk about the positive valence of HDL as a particle,
+
+804
+01:17:02,480 --> 01:17:09,120
+it's because of this, right? In large part, this is a big piece of the positive association,
+
+805
+01:17:09,120 --> 01:17:13,360
+presumably, or negative association, depending on the direction of HDL. We might see,
+
+806
+01:17:13,920 --> 01:17:19,440
+as we've been talking about it, it really now speaks to function. Part of the problem it would
+
+807
+01:17:19,440 --> 01:17:28,560
+appear is that very crude metrics like the amount of cholesterol in an HDL or even the number of HDL
+
+808
+01:17:28,560 --> 01:17:34,080
+particles or the size of an HDL particle, those are basically the only things we can measure,
+
+809
+01:17:34,080 --> 01:17:41,920
+clinically at least, those are so crude and so far removed from providing any quantification
+
+810
+01:17:41,920 --> 01:17:48,400
+of the process you just described that I suspect in part, that's why we are stuck in a way that
+
+811
+01:17:48,400 --> 01:17:56,400
+we are not on the ApoB side of the ledger because so much of the damage caused by ApoB is simply
+
+812
+01:17:56,400 --> 01:18:01,280
+captured in the number of them, given the stochastic nature with which they enter artery walls and get
+
+813
+01:18:01,280 --> 01:18:05,520
+retained. Would you agree with that assessment? I would absolutely agree with that. So this process
+
+814
+01:18:05,520 --> 01:18:12,160
+of cholesterol reflux, as the ideas evolved, is, if you will, the first step in this broader
+
+815
+01:18:12,160 --> 01:18:16,960
+physiologic process that Peter briefly referred to that we call reverse cholesterol transport,
+
+816
+01:18:16,960 --> 01:18:23,200
+or RCT, different than a randomized control trial. If forward cholesterol transport is basically the
+
+817
+01:18:23,200 --> 01:18:28,800
+cholesterol coming out of the liver into VLDL and LDL and then depositing in tissues like the
+
+818
+01:18:28,800 --> 01:18:35,360
+artery, the reverse transport is the picking up of the cholesterol, putatively via ApoA1 and HDL,
+
+819
+01:18:35,920 --> 01:18:42,720
+and returning it back to the liver. This process of reverse cholesterol transport, plausibly,
+
+820
+01:18:42,720 --> 01:18:48,240
+and I think some data, at least in animal models, is related to protection against atherosclerosis.
+
+821
+01:18:48,240 --> 01:18:53,520
+That is, the more effective you are at the integrated process of not only picking up the
+
+822
+01:18:53,520 --> 01:18:59,120
+cholesterol via efflux, but effectively returning the cholesterol to the liver for excretion,
+
+823
+01:18:59,840 --> 01:19:05,760
+the more you would protect against atherosclerosis, as the theory goes. I'll just remind you about our
+
+824
+01:19:05,760 --> 01:19:11,200
+example with SRB1. That's the terminal, sort of one of the terminal steps where the HDL is dumping
+
+825
+01:19:11,200 --> 01:19:17,280
+off the cholesterol. If you interrupt that process, your HDL goes up, but the process of
+
+826
+01:19:17,280 --> 01:19:23,600
+reverse cholesterol transport is being constipated, and therefore there's increased risk of atherosclerotic
+
+827
+01:19:23,600 --> 01:19:29,840
+cardiovascular disease. One of the great goals of the field has been, can we promote that first
+
+828
+01:19:29,840 --> 01:19:36,880
+step of the process? Can we figure out a way to promote the driving of the efflux process
+
+829
+01:19:36,880 --> 01:19:42,720
+from the macrophages and maybe other cells in the atherosclerotic plaque to acceptors like HDL
+
+830
+01:19:43,360 --> 01:19:50,240
+in order to protect or maybe even regress atherosclerotic plaque, shrink it, as a way of
+
+831
+01:19:50,240 --> 01:19:55,600
+trying to reduce risk? I'll just say that as we move into this next phase of complexity,
+
+832
+01:19:56,160 --> 01:20:01,840
+I think what's pretty clear is it's not the mature HDL particle. When we measure HDL cholesterol,
+
+833
+01:20:01,840 --> 01:20:06,960
+that's what we're measuring, is the cholesterol in the mature particle. That's almost certainly
+
+834
+01:20:07,040 --> 01:20:12,640
+not the particle that is driving this first step of the efflux of the cholesterol from the foam
+
+835
+01:20:12,640 --> 01:20:19,920
+cell and the macrophage. That's maybe why simplistically raising HDL cholesterol, like with
+
+836
+01:20:19,920 --> 01:20:26,240
+CTP inhibition, doesn't actually reduce atherosclerotic cardiovascular disease events.
+
+837
+01:20:26,240 --> 01:20:32,400
+But are there other ways more creatively that we might be able to drive that process? Also,
+
+838
+01:20:32,400 --> 01:20:38,160
+to Peter's earlier functional point, might it be that different people, even with identical HDL
+
+839
+01:20:38,160 --> 01:20:44,560
+cholesterol levels, have different function of their HDL? One person with an HDL cholesterol of 50
+
+840
+01:20:45,200 --> 01:20:50,480
+might have something about their HDL pathway that is super functional at driving efflux,
+
+841
+01:20:51,040 --> 01:20:56,320
+whereas another person with the same HDL cholesterol doesn't do nearly as well. If we
+
+842
+01:20:56,320 --> 01:21:02,480
+could measure function efficiently, might we have a better way of assessing risk and maybe
+
+843
+01:21:02,480 --> 01:21:09,200
+even targeting interesting therapies more so than just measuring this fairly not so dynamic measure
+
+844
+01:21:09,200 --> 01:21:13,040
+of HDL cholesterol itself? There's more to say there, Peter, but I'll turn it back over to you.
+
+845
+01:21:13,040 --> 01:21:17,760
+Well, no, I mean, I think you illustrate the very important distinction between static biomarkers
+
+846
+01:21:17,760 --> 01:21:23,200
+and dynamic biomarkers. We have very few dynamic biomarkers, an OGTT and old glucose tolerance,
+
+847
+01:21:23,280 --> 01:21:31,120
+dynamic biomarker in a sense, but most things are very static and static things allow us to miss
+
+848
+01:21:31,120 --> 01:21:37,440
+flux. So that example you gave of two people whose HDL cholesterol is both 50 milligrams per
+
+849
+01:21:37,440 --> 01:21:44,800
+deciliter. We have no clue what the velocity through the HDL is. In one of those cases,
+
+850
+01:21:44,800 --> 01:21:50,560
+it could be a bump on a log and the HDL is not really doing a heck of a lot. And in the other,
+
+851
+01:21:50,640 --> 01:21:54,080
+that could be the busiest beaver on the face of the earth, just transporting lipid
+
+852
+01:21:54,720 --> 01:21:58,240
+out of foam cells right back to the liver back and forth, back and forth, back and forth. And
+
+853
+01:21:58,240 --> 01:22:02,880
+that could be the most industrious little guy on the block. And you could be in a totally different
+
+854
+01:22:02,880 --> 01:22:07,920
+risk situation as a result of that. So going back to the RCT, how often is it happening
+
+855
+01:22:08,480 --> 01:22:15,760
+that an ApoB, white-bearing lipoprotein, let's just call it an LDL, is floating around, so not
+
+856
+01:22:15,760 --> 01:22:22,000
+yet in artery wall, but on his way there, presumably. And an HDL come along and they collide
+
+857
+01:22:22,720 --> 01:22:27,520
+in the artery itself and delipidation takes place. So the HDL says, hey, I'm going to take some of
+
+858
+01:22:27,520 --> 01:22:32,480
+your cholesterol away and take it back to the liver now, which by the way, LDLs do as well. I
+
+859
+01:22:32,480 --> 01:22:36,320
+mean, LDLs are obviously carrying cholesterol back to the liver. But not as a reverse cholesterol
+
+860
+01:22:36,320 --> 01:22:41,040
+transport process, but yeah. The scenario I described, does that occur often? No, I don't
+
+861
+01:22:41,040 --> 01:22:47,600
+think so. In fact, as we discussed earlier with CTP, the directional flux of cholesterol in the
+
+862
+01:22:47,600 --> 01:22:53,920
+blood is more from HDL to ApoB containing lipoproteins rather than the other way around.
+
+863
+01:22:53,920 --> 01:22:58,720
+So I'm pretty comfortable in saying, I don't think that what you just outlined is a way that HDL,
+
+864
+01:22:58,720 --> 01:23:03,440
+HDL doesn't directly delipid, ideal. No, no, I think it's more about if it's happening at all.
+
+865
+01:23:03,440 --> 01:23:08,160
+I want to say all this is couched in, this is the paradigm that we're dealing with,
+
+866
+01:23:08,160 --> 01:23:11,120
+but where there's still a lot of uncertainty about it. But if it's happening at all,
+
+867
+01:23:11,120 --> 01:23:16,640
+it's really more that something about HDL or something, ApoA1, is more interacting with cells
+
+868
+01:23:16,640 --> 01:23:22,000
+to promote efflux of cholesterol rather than with other lipoproteins like ApoB containing lipoproteins.
+
+869
+01:23:22,720 --> 01:23:28,240
+What do you think the future could look like here in terms of commercial assays to measure
+
+870
+01:23:28,240 --> 01:23:31,760
+HDL function? I know that we're a long way away from that, so maybe I should start with something
+
+871
+01:23:32,320 --> 01:23:38,720
+even more basic, which is, what would it take in the lab to measure HDL functionality
+
+872
+01:23:38,720 --> 01:23:43,760
+if resources were unconstrained? No, that's where I wanted to go. So first, I want to say that
+
+873
+01:23:43,760 --> 01:23:48,320
+several years ago with this concept of reverse cholesterol transport as a dynamic process,
+
+874
+01:23:48,960 --> 01:23:55,680
+we developed an assay in mice that simply speaking involved taking cholesterol loaded macrophages
+
+875
+01:23:55,680 --> 01:24:01,280
+with labeled cholesterol, injecting them into the mice, and then following that label all the way
+
+876
+01:24:01,280 --> 01:24:07,840
+through the HDL to the liver to the gut to the feces. And we called that integrated reverse
+
+877
+01:24:07,840 --> 01:24:13,600
+cholesterol transport. And we showed in a variety of different genetic and pharmacologic approaches
+
+878
+01:24:13,600 --> 01:24:18,960
+that when you tweak that process either up or down, it mirrored the effect of that process on
+
+879
+01:24:18,960 --> 01:24:23,280
+atherosclerosis. What I'm really trying to say is something that promoted that process and made it
+
+880
+01:24:23,280 --> 01:24:28,720
+more efficient also reduced atherosclerosis, something that constipated that process,
+
+881
+01:24:28,720 --> 01:24:32,640
+increased atherosclerosis. It gave us a lot of confidence, frankly, it gave the field a lot of
+
+882
+01:24:32,640 --> 01:24:38,640
+confidence that integrated measure of reverse cholesterol transport is actually relevant to
+
+883
+01:24:38,640 --> 01:24:44,240
+atherosclerotic cardiovascular disease, at least in mice. So that brings me to humans. We can't do
+
+884
+01:24:44,240 --> 01:24:49,200
+the type of experiment I just described in humans. It's not feasible as a research or as a clinical
+
+885
+01:24:49,200 --> 01:24:55,760
+assay. So we thought long and hard about how can we start to think about doing this in people and
+
+886
+01:24:55,760 --> 01:25:02,000
+developed what I'll call an ex vivo cholesterol reflux assay, where the concept is we took
+
+887
+01:25:02,000 --> 01:25:07,680
+someone's blood or plasma, we isolated the HDL specifically, we got rid of the ApoB-contained
+
+888
+01:25:07,680 --> 01:25:13,840
+lipoproteins, and then put that on cells that were labeled with cholesterol and we measured the
+
+889
+01:25:13,840 --> 01:25:19,920
+effectiveness by which that HDL removed cholesterol from cells. What kind of cells did? And what we
+
+890
+01:25:19,920 --> 01:25:26,720
+found, as I think you know, is we were really struck with how different individuals HDLs were
+
+891
+01:25:26,720 --> 01:25:32,080
+at their ability to extract cholesterol from cells, even with the same HDL cholesterol level.
+
+892
+01:25:32,080 --> 01:25:38,800
+And it sort of affirmed this concept that HDL cholesterol is not really telling us or informing
+
+893
+01:25:38,800 --> 01:25:43,760
+us on the efficiency of the function of HDL, at least in this case, the function defined as the
+
+894
+01:25:43,760 --> 01:25:49,440
+ability to extract cholesterol from cells. And so we went on to use that in larger numbers of
+
+895
+01:25:49,440 --> 01:25:56,400
+individuals and showed that actually that was much more predictive of risk of coronary heart disease
+
+896
+01:25:56,400 --> 01:26:01,360
+than just measuring HDL cholesterol, even when you controlled for HDL cholesterol statistically.
+
+897
+01:26:01,360 --> 01:26:06,640
+And many others have shown the same thing. So I think it's pretty well established at this point
+
+898
+01:26:06,640 --> 01:26:13,520
+that this so-called cholesterol reflux capacity measurement of HDL is a better marker or predictor
+
+899
+01:26:13,520 --> 01:26:19,280
+of risk than just measuring HDL cholesterol, consistent with the idea that function is
+
+900
+01:26:19,280 --> 01:26:25,120
+important and that perhaps if we could increase function, we could maybe have a mechanism for
+
+901
+01:26:25,120 --> 01:26:29,680
+reducing risk. Now, Peter, you asked about the clinical apoligibility of that assay. You know,
+
+902
+01:26:29,680 --> 01:26:35,920
+I get asked all the time by patients and referring doctors, can you measure my patient's HDL function?
+
+903
+01:26:36,640 --> 01:26:41,120
+There's a lot of effort in this regard. Full disclosure, I was part of starting a little
+
+904
+01:26:41,200 --> 01:26:45,600
+company now several years ago called Vassar Strategies. And Vassar Strategies does do
+
+905
+01:26:46,240 --> 01:26:52,960
+this measurement in a very reproducible sort of way, mostly related to biomedical biopharma research.
+
+906
+01:26:52,960 --> 01:26:57,120
+But there is a lot of interest in trying to bring this clinically. And there are other
+
+907
+01:26:57,120 --> 01:27:00,880
+assays that are being developed. You know, when you're using radioactivity, it's a little,
+
+908
+01:27:00,880 --> 01:27:05,760
+you know, it's cumbersome for a high throughput clinical assay. And others are developing assays
+
+909
+01:27:05,760 --> 01:27:11,920
+that are cleaner and simpler and faster and cheaper. I think there's a chance we could have
+
+910
+01:27:11,920 --> 01:27:17,760
+a more widely available clinical assay to us for this purpose within the next, say, two to three
+
+911
+01:27:17,760 --> 01:27:22,160
+years. Right now, it's still under development. Two follow up questions there, Dan. One is just
+
+912
+01:27:22,160 --> 01:27:28,800
+a technical question on the assay. What type of cell are you using to measure the efflux capacity?
+
+913
+01:27:29,440 --> 01:27:34,800
+Well, when we first sort of pioneered this work, we used a mouse macrophage cell line
+
+914
+01:27:34,800 --> 01:27:41,600
+called the J774 cell. We have done it with human macrophages as well, and so have others. We like
+
+915
+01:27:41,600 --> 01:27:46,320
+to think that the macrophage is the most relevant cell type for reasons we discussed. Yeah, that's
+
+916
+01:27:46,320 --> 01:27:52,560
+the answer. And then I guess the second question is using the hypothetical, but probably somewhat
+
+917
+01:27:52,560 --> 01:28:00,000
+real example of we'll take 100 people that have an HDL cholesterol that's about the same. We do this
+
+918
+01:28:00,000 --> 01:28:05,920
+assay and we rank order them in effectiveness. You're saying that that rank order of effectiveness
+
+919
+01:28:05,920 --> 01:28:13,200
+correlates directly to risk. Are you saying directly related to risk by proxy, i.e. other
+
+920
+01:28:13,200 --> 01:28:18,480
+measurements like insulin resistance, ApoB, or are you saying actual outcomes? The first study we did
+
+921
+01:28:18,480 --> 01:28:23,280
+and published was cross-sectional with clinical coronary disease. So basically it was calcium
+
+922
+01:28:23,280 --> 01:28:29,040
+scores or things like that. An association cross-sectionally with prevalent disease. Then we basically said
+
+923
+01:28:29,040 --> 01:28:35,200
+we need to know if this is predictive of incident disease, events that occur. So we went to colleagues
+
+924
+01:28:35,200 --> 01:28:39,840
+who did the Eric Norfolk study, which you're probably familiar with, a very large prospective
+
+925
+01:28:39,840 --> 01:28:45,760
+study in the UK, in Europe. They provided samples and we measured this in a very large number, many
+
+926
+01:28:45,760 --> 01:28:51,680
+thousands of samples in a baseline in people who had been followed for 10 plus years. And we showed
+
+927
+01:28:51,680 --> 01:28:57,120
+even in that setting that the efflux capacity was predictive of incident cardiovascular events. So
+
+928
+01:28:57,120 --> 01:29:02,000
+yes, these are hard events, not just proxies like measurement of coronary calcium, for example.
+
+929
+01:29:02,560 --> 01:29:09,840
+Which is, again, fascinating. How well does that prediction hold up if you corrected for other
+
+930
+01:29:09,840 --> 01:29:15,840
+things that could be measured in the blood, such as insulin resistance, triglyceride, or ApoB?
+
+931
+01:29:16,720 --> 01:29:21,040
+We did do these statistical analyses correcting for clinical risk factors, including, of course,
+
+932
+01:29:21,120 --> 01:29:27,760
+HGL cholesterol itself. We corrected for things like BMI and presence of diabetes, dichotomous
+
+933
+01:29:27,760 --> 01:29:33,200
+presence of diabetes. If memory serves, we didn't attempt to correct for a sophisticated marker of
+
+934
+01:29:33,200 --> 01:29:37,120
+insulin resistance, like HOMA or anything, because I'm not sure we even had that data.
+
+935
+01:29:37,120 --> 01:29:42,400
+So your point is well taken. At some point, is this causal or is it still associative,
+
+936
+01:29:42,400 --> 01:29:46,320
+but just even better associative because it correlates with things even better than HGL
+
+937
+01:29:46,320 --> 01:29:50,560
+cholesterol? And I think that's why we need, of course, interventional studies that actually test
+
+938
+01:29:50,560 --> 01:29:56,720
+the hypothesis. Well, or even could we use it, there could be a hybrid there, right? Which is,
+
+939
+01:29:56,720 --> 01:30:03,360
+it's absolutely causal, but because it's so difficult and complex to initiate at scale,
+
+940
+01:30:04,320 --> 01:30:15,200
+what if we use AI to figure out that it's equivalent to a new metric that is a composite
+
+941
+01:30:15,200 --> 01:30:19,760
+metric of things that we can measure as biomarkers, if that makes sense. I hear what you're saying,
+
+942
+01:30:19,760 --> 01:30:25,280
+and that would be a great thing to think about. In our paper in Epic Northfolk, we did correlations
+
+943
+01:30:25,280 --> 01:30:28,880
+of the efflux capacity with lots of different things. Frankly, I have to go back and look at
+
+944
+01:30:28,880 --> 01:30:33,040
+that and remind myself if we had like fasting insulin or anything, because I think that starts
+
+945
+01:30:33,040 --> 01:30:38,320
+to get more at the insulin resistance component. But you're absolutely right. We may be able to find
+
+946
+01:30:38,880 --> 01:30:44,480
+markers that in composite would predict efflux capacity rather than having to measure the efflux
+
+947
+01:30:44,480 --> 01:30:48,960
+capacity itself. I'm not convinced we'll be able to do that, but I think that it's a good thought.
+
+948
+01:30:49,840 --> 01:30:57,760
+The analogy that comes to mind is certain labs use a series of NMR metrics to predict insulin
+
+949
+01:30:57,760 --> 01:31:01,600
+resistance, which I've always found not that interesting, frankly, because we can measure
+
+950
+01:31:01,600 --> 01:31:07,040
+insulin resistance so easily that using NMR to add another insulin resistance metric,
+
+951
+01:31:07,040 --> 01:31:13,680
+it seems a bit backwards. But the idea was they were able to basically look at the NMR spectra of
+
+952
+01:31:13,760 --> 01:31:19,840
+all the lipoproteins and impute a composite metric that came back. So if you could do that
+
+953
+01:31:19,840 --> 01:31:23,920
+in the other direction, which would actually be the valuable direction, it could be amazing. In
+
+954
+01:31:23,920 --> 01:31:31,120
+other words, if there was an HDL function score built out of X, Y, and Z, anything else before
+
+955
+01:31:31,120 --> 01:31:36,160
+we leave the topic of kind of measurement, we haven't really talked about the NMR side of the
+
+956
+01:31:36,160 --> 01:31:41,680
+equation. That's probably a bias because we don't use NMR, but clearly there are labs out there that
+
+957
+01:31:41,680 --> 01:31:47,520
+will count the number of HDL particles and spit out an HDL P. Anything you want to say about HDL P
+
+958
+01:31:47,520 --> 01:31:54,480
+or anything like that? Yeah, the overall number of particles is obviously correlated with HDL
+
+959
+01:31:54,480 --> 01:31:58,800
+cholesterol, but is a different measure because HDL cholesterol is just that amount of cholesterol
+
+960
+01:31:58,800 --> 01:32:03,600
+carried in the HDL, whereas the particles are more analogous to sort of measuring APO B,
+
+961
+01:32:03,600 --> 01:32:09,360
+the meaning total particle number. I think the data on balance suggests that HDL particle number
+
+962
+01:32:09,360 --> 01:32:16,480
+is a little bit better than HDL cholesterol at predicting risk. We haven't formally compared
+
+963
+01:32:16,480 --> 01:32:22,080
+HDL particle to cholesterol efflux capacity, the functional measurement. Fundamentally,
+
+964
+01:32:22,080 --> 01:32:27,680
+it's another static measure though. And so while it has maybe some limited predictive value,
+
+965
+01:32:27,680 --> 01:32:32,880
+I don't think it takes us that much further in terms of trying to get at where we're really
+
+966
+01:32:32,880 --> 01:32:38,000
+trying to go, is better predictions of risk, particularly in a setting where we might want to
+
+967
+01:32:38,000 --> 01:32:42,880
+intervene to actually try to reduce risk. Let's talk about something you mentioned
+
+968
+01:32:42,880 --> 01:32:46,080
+kind of in passing a couple of times. Peter, before we leave this topic though,
+
+969
+01:32:46,080 --> 01:32:52,560
+I do think it's important to remind your listeners that this concept of promoting the efflux and
+
+970
+01:32:52,560 --> 01:33:00,720
+reverse cholesterol transport pathway is being tested with another intervention called CSL112.
+
+971
+01:33:00,720 --> 01:33:06,400
+It's a form of APOA1 that's been complexed with lipids in a so-called recombinant HDL particle
+
+972
+01:33:07,040 --> 01:33:12,480
+is being tested for impact on cardiovascular outcomes in the setting of acute coronary
+
+973
+01:33:12,480 --> 01:33:20,240
+syndromes. So people have come in, been randomized to four weekly injections of this APOA1 containing
+
+974
+01:33:20,240 --> 01:33:26,320
+recombinant particle, which is very effective at promoting cholesterol efflux based on all the work
+
+975
+01:33:26,320 --> 01:33:32,080
+that's been done, with the idea being that this may directly impact the plaque and impact on
+
+976
+01:33:32,080 --> 01:33:41,040
+cardiovascular events. So this is, I would say, the closest thing we have to a formal test of the
+
+977
+01:33:41,040 --> 01:33:47,040
+cholesterol efflux hypothesis as an intervention in terms of whether it will reduce risk. Those of
+
+978
+01:33:47,040 --> 01:33:53,200
+us in the field are on the edges of our seats, it'll be a little while to really see what this
+
+979
+01:33:53,200 --> 01:33:59,360
+trial shows. I do think it's going to be interesting either way. So earlier, Dan, you mentioned kind of
+
+980
+01:33:59,440 --> 01:34:05,360
+briefly the association of plasma APOA1 and HDL cholesterol with neurodegenerative diseases,
+
+981
+01:34:05,360 --> 01:34:09,840
+such as dementia or Alzheimer's disease. I don't know if it extends to Parkinson's or Lewy body.
+
+982
+01:34:09,840 --> 01:34:15,360
+What do we know about that? Well, this is, I think, a fascinating new area of HDL biology
+
+983
+01:34:16,080 --> 01:34:20,320
+that has a number of components and that's still being investigated. I want to maybe
+
+984
+01:34:21,120 --> 01:34:26,960
+start by bringing in APOE. We haven't talked about APOE. APOE clearly has a role in APOE
+
+985
+01:34:26,960 --> 01:34:32,720
+containing lipoprotein metabolism and mediating the uptake of those remnant particles into the
+
+986
+01:34:32,720 --> 01:34:37,840
+liver. Can you actually explain this a bit more because most people hearing this are going to
+
+987
+01:34:37,840 --> 01:34:44,160
+think of APOE the gene and of course the gene for APOE people are going to be familiar with. It
+
+988
+01:34:44,160 --> 01:34:49,520
+exists in three isoforms, two, three, and four, but of course these things combined. So you have
+
+989
+01:34:49,520 --> 01:34:56,400
+six combinations of an APOE genotype and of course the gene codes for a protein. So I mean, I assume
+
+990
+01:34:56,400 --> 01:35:00,880
+everybody has the same APOE protein. You're going to have different amounts of it and different
+
+991
+01:35:00,880 --> 01:35:04,640
+potentially functionality depending on the combination of which gene produced it.
+
+992
+01:35:05,200 --> 01:35:11,520
+Exactly. APOE is possibly one of the most fascinating genes and proteins in human biology
+
+993
+01:35:11,520 --> 01:35:17,680
+in terms of its roles and the isoform issue and its relationship to disease. So as you point out,
+
+994
+01:35:17,680 --> 01:35:22,880
+there are three common isoforms of APOE, APOE3 being the so-called wild type or the most common.
+
+995
+01:35:23,520 --> 01:35:30,640
+You know, in lipidology we focused a lot on APOE2 because if you inherited two copies of APOE2,
+
+996
+01:35:31,520 --> 01:35:38,560
+that form of APOE is defective in binding to the LDL receptor and the other receptors that mediate
+
+997
+01:35:38,560 --> 01:35:44,560
+uptake of remnant lipoproteins, both chylomicron remnants and BLDL remnants. And therefore, if you
+
+998
+01:35:44,560 --> 01:35:52,560
+homozygous for APOE2, you're at risk for so-called, again, the terminology is bad, type 3 hyperlipidemia.
+
+999
+01:35:53,840 --> 01:35:58,080
+Which is basically a remnant clearance disorder. These individuals can't clear their remnants
+
+1000
+01:35:58,080 --> 01:36:02,400
+appropriately. They get high triglycerides and cholesterol. They also are at increased risk of
+
+1001
+01:36:02,400 --> 01:36:05,920
+atherosclerotic cardiovascular disease. It's a classic lipidology thing.
+
+1002
+01:36:05,920 --> 01:36:10,880
+And these patients require Fena fibrates to bring down the LDL and triglyceride?
+
+1003
+01:36:10,880 --> 01:36:15,600
+They respond to a lot of the standard LDL lowering therapies like statin and azetamide. They even
+
+1004
+01:36:15,600 --> 01:36:22,480
+respond to PCS-G9 inhibition. But sometimes we have to add on fibrates as well to maximally
+
+1005
+01:36:22,560 --> 01:36:27,440
+control them. Depends on how severe they are. And yet those people, and by the way, that's the only
+
+1006
+01:36:27,440 --> 01:36:35,360
+genotype I've never seen. It's much more rare than the 4-4 homozygotes. But the 2-2 would come with
+
+1007
+01:36:35,360 --> 01:36:40,240
+about a 20% risk reduction, relative risk reduction in Alzheimer's disease. But paradoxically comes at
+
+1008
+01:36:40,240 --> 01:36:46,800
+this higher risk of ASCVD. Exactly. So comes at higher risk of lipid disorder in ASCVD. But that's
+
+1009
+01:36:46,800 --> 01:36:51,760
+exactly why I brought up APOE in response to your comment about neurodegenerative disease.
+
+1010
+01:36:51,760 --> 01:36:58,000
+So as probably a lot of people know who are listening, the APOE4, as you just pointed out,
+
+1011
+01:36:58,000 --> 01:37:04,080
+the APOE4 form, which is present in about 25% of people. So it's quite common. And even in the
+
+1012
+01:37:04,080 --> 01:37:10,240
+homozygous form, certainly plenty of people out there who have both two copies, is in a dose
+
+1013
+01:37:10,240 --> 01:37:16,800
+dependent way the major genetic risk factor for Alzheimer's disease. No question about it. And as
+
+1014
+01:37:16,800 --> 01:37:23,200
+you said, Peter, APOE2, which is bad for your lipids in the blood, is actually protective against
+
+1015
+01:37:23,200 --> 01:37:30,320
+Alzheimer's. It's absolutely fascinating biologically. There has been so much work to try to understand
+
+1016
+01:37:30,320 --> 01:37:38,000
+how APOE is interfacing with Alzheimer's disease. So APOE is made in the brain. It's made by cell
+
+1017
+01:37:38,000 --> 01:37:43,680
+types like microglia in the brain. And it's a lipid binding protein that transports lipids.
+
+1018
+01:37:43,680 --> 01:37:47,760
+And now we know from genetics of Alzheimer's that there are lots of other lipid genes that are
+
+1019
+01:37:47,760 --> 01:37:53,760
+related to Alzheimer's. So the story starts with the fact that APOE made in the brain is somehow
+
+1020
+01:37:53,760 --> 01:37:59,040
+impacting on Alzheimer's risk. And if you have this form of APOE4, and especially if you have
+
+1021
+01:37:59,040 --> 01:38:05,040
+two forms of APOE4, you are at very substantially increased risk of Alzheimer's for reasons that
+
+1022
+01:38:05,840 --> 01:38:10,320
+we still don't fully understand. But as a lipidologist, I think it has something to do with
+
+1023
+01:38:10,320 --> 01:38:16,160
+lipid transport in the brain. So that brings me to HDL. The APOE in the CSF and in the brain
+
+1024
+01:38:16,800 --> 01:38:22,800
+is mostly made there. The newer developments that are relevant to APOE1 and HDL are that
+
+1025
+01:38:23,360 --> 01:38:32,320
+there is clearly APOE1 in the brain and in the CSF. APOE1 is not made in the brain. So APOE1
+
+1026
+01:38:32,320 --> 01:38:38,400
+gets there somehow through the blood, which I'll come back to. But there's now quite a lot of
+
+1027
+01:38:38,400 --> 01:38:46,000
+observational data that strongly suggests that APOE1 is protective against neurodegenerative
+
+1028
+01:38:46,000 --> 01:38:52,320
+disease. Now this is associative data. It doesn't prove causality. But the reason I think it's
+
+1029
+01:38:52,880 --> 01:38:58,880
+plausible is that two of the major genetic risk factors for Alzheimer's that are expressed in the
+
+1030
+01:38:58,880 --> 01:39:07,520
+brain are ABCA1. Remember that lipid transporter, that rid cells of cholesterol, and that APOE1
+
+1031
+01:39:07,520 --> 01:39:16,400
+interacts with and promotes? And ABCA7, a very close relative of ABCA1 that structurally looks
+
+1032
+01:39:16,400 --> 01:39:22,000
+very similar and that we don't know exactly what it does, but I think it's a safe bet that it's
+
+1033
+01:39:22,000 --> 01:39:28,480
+transporting some sort of lipid to something in the extracellular space, whether that's APOE1 or APOE
+
+1034
+01:39:28,480 --> 01:39:36,720
+or something else. So the plausibility of APOE1 being protective against neurodegenerative disease,
+
+1035
+01:39:36,720 --> 01:39:42,480
+particularly Alzheimer's, is quite high. And frankly, there's a lot of work to be done to try
+
+1036
+01:39:42,480 --> 01:39:48,400
+to figure it out. There's one other point I'll make, which is the blood levels of APOE1 and the
+
+1037
+01:39:48,400 --> 01:39:53,040
+CSF levels of APOE1 and the relatively small number of studies that have measured both in the
+
+1038
+01:39:53,040 --> 01:39:59,520
+same people are not that well correlated. So it's not simply a matter of if you have a high level
+
+1039
+01:39:59,520 --> 01:40:05,440
+of APOE1 in the blood, that's going to generate a high level of APOE1 in the CSF. So what that
+
+1040
+01:40:05,440 --> 01:40:12,480
+probably means is the processes that are happening that get the APOE1 across the blood-brain barrier
+
+1041
+01:40:13,200 --> 01:40:18,640
+are highly regulated processes that, a little like the cholesterol efflux story, probably differ from
+
+1042
+01:40:18,640 --> 01:40:22,560
+person to person and aren't directly being driven by the level of APOE1 in the blood.
+
+1043
+01:40:23,200 --> 01:40:28,640
+Where I'm really going with this is this concept that if we could figure out how that happened,
+
+1044
+01:40:28,640 --> 01:40:33,120
+if we could somehow promote more APOE1 going into the brain, into the CSF,
+
+1045
+01:40:34,320 --> 01:40:39,920
+the data suggests that that might be a very interesting opportunity to blunt or reduce
+
+1046
+01:40:39,920 --> 01:40:47,520
+risk of Alzheimer's. I find it fascinating, as you can tell. Dan, do we know if this relationship is
+
+1047
+01:40:47,520 --> 01:40:55,040
+stronger or weaker as a function of APOE genotype? Is the effect more pronounced? Do we have enough
+
+1048
+01:40:55,040 --> 01:40:59,280
+data to parse out that type of relationship? So I'll give you an example. Yeah, that's a really
+
+1049
+01:40:59,280 --> 01:41:05,440
+super question. And I don't think we have big enough data sets yet to be able to parse it out
+
+1050
+01:41:05,440 --> 01:41:10,160
+in terms of by APOE genotype to figure that out. But I have to go back and look for that, but I
+
+1051
+01:41:10,160 --> 01:41:17,200
+don't think we know that yet. Do you have any idea why labs have not developed what would be very easy
+
+1052
+01:41:17,200 --> 01:41:22,320
+to do, which is just a commercial assay for APOE concentration? There's certainly some data to
+
+1053
+01:41:22,320 --> 01:41:29,040
+suggest that APOE concentration might be more relevant than APOE genotype, although of course
+
+1054
+01:41:29,040 --> 01:41:33,600
+it's highly influenced by APOE genotype. But you could almost think of it as a gene expression
+
+1055
+01:41:33,600 --> 01:41:40,240
+measurement, a crude measurement of gene expression for APOE. Is that something that you've seen or
+
+1056
+01:41:40,240 --> 01:41:44,960
+used even in the lab? You're talking about APOE in the blood, right? Yes. Not in the CSF, just to be
+
+1057
+01:41:44,960 --> 01:41:50,960
+clear. There are automated assays for APOE. We run one routinely in our lab. I think it's not a
+
+1058
+01:41:51,040 --> 01:41:56,320
+clinically used assay. No, I've never even seen a CLIA-based assay for it. Right. I think mostly
+
+1059
+01:41:56,320 --> 01:42:01,120
+because it isn't that helpful in the limited studies that have been done, which admittedly
+
+1060
+01:42:01,120 --> 01:42:05,920
+maybe aren't as voluminous as they should be. It isn't that really helpful in terms of predicting
+
+1061
+01:42:05,920 --> 01:42:10,720
+cardiovascular risk. Total plasma APOE. Oh, I was thinking more for neurodegenerative disease.
+
+1062
+01:42:10,720 --> 01:42:17,680
+Has that been looked at? Oh, well, I didn't say it, but the levels of APOE in the CSF and the
+
+1063
+01:42:17,680 --> 01:42:22,400
+levels of APOE in the blood for the few studies that have measured both in the same people also
+
+1064
+01:42:22,400 --> 01:42:27,600
+do not correlate much at all. You would need CSF APOE if you wanted to do anything with this.
+
+1065
+01:42:27,600 --> 01:42:32,160
+Exactly. That's what I'm getting at. You would need to be able to do it. I would not be surprised if
+
+1066
+01:42:32,160 --> 01:42:37,760
+someone develops an assay for APOE concentration in the CSF as a clinical tool, because there I
+
+1067
+01:42:37,760 --> 01:42:46,640
+think that might be highly relevant. Interesting. So here we have basically HDL potentially being
+
+1068
+01:42:46,720 --> 01:42:56,640
+protective in the brain and presumably doing so via APOE1 potentially offsetting some of the APOE
+
+1069
+01:42:56,640 --> 01:43:02,240
+problem, APOE being, as I think one of our previous guests referred to as kind of the
+
+1070
+01:43:02,240 --> 01:43:08,480
+general contractor of cholesterol in the brain. Does HDL do anything with nitric oxide? I think
+
+1071
+01:43:08,480 --> 01:43:13,920
+I remember reading something about promoting sort of endothelial NOS activity, nitric oxide
+
+1072
+01:43:13,920 --> 01:43:20,080
+synthase activity. Is that a major issue? There's been a variety of other quote functions that HDL
+
+1073
+01:43:20,080 --> 01:43:24,240
+has been reported to do, which I think are absolutely real. Their relevance to human
+
+1074
+01:43:24,240 --> 01:43:29,040
+disease and pathophysiology I think are less clear. But one example is what you just said. So
+
+1075
+01:43:29,680 --> 01:43:35,280
+a couple of investigators, most notably Phil Schall and Dallas has shown very clearly and
+
+1076
+01:43:35,280 --> 01:43:42,320
+beautifully in cells and mice that HDL can promote nitric oxide production in a way that would be
+
+1077
+01:43:42,320 --> 01:43:46,240
+expected to be beneficial, both in terms of blood pressure lowering and maybe protection
+
+1078
+01:43:46,240 --> 01:43:51,520
+against atherosclerosis. And that SOB1, the receptor we've been talking about, is also
+
+1079
+01:43:51,520 --> 01:43:57,280
+present on endothelial cells and mediates at least part of that effect of HDL. It's a fascinating
+
+1080
+01:43:57,280 --> 01:44:03,520
+observation that is absolutely, I think, solid. Translating that observation to relevance in
+
+1081
+01:44:03,520 --> 01:44:07,920
+humans I think is challenging, but I think plausible. Another, we've been talking about
+
+1082
+01:44:07,920 --> 01:44:13,600
+insulin resistance. I'm sure you're aware of the data that suggests that HDL can interact
+
+1083
+01:44:13,600 --> 01:44:18,800
+directly with skeletal muscle in a way that promotes insulin sensitivity. No, I'm not.
+
+1084
+01:44:19,680 --> 01:44:25,280
+Fascinating work. Again, I put it in the same category of solid in terms of what it's been
+
+1085
+01:44:25,280 --> 01:44:30,720
+able to show. Mechanistically, a little bit unclear and relevance to human disease and
+
+1086
+01:44:30,720 --> 01:44:36,320
+physiology I think is still a little bit unclear. These are just two of the other types of things
+
+1087
+01:44:36,400 --> 01:44:41,440
+that HDL has been shown to do that would be putatively beneficial but are of uncertain
+
+1088
+01:44:41,440 --> 01:44:48,640
+relevance to real human disease. It's even more sort of removed than that because even if we knew
+
+1089
+01:44:49,360 --> 01:44:56,080
+mechanistically that this were sound, we're still back in the same area we are with ASCVD. In ASCVD,
+
+1090
+01:44:56,080 --> 01:45:02,080
+there's really very little ambiguity about the utility of HDL, the beneficial utility of HDL.
+
+1091
+01:45:02,320 --> 01:45:08,800
+Yet we're standing here with our hands in front of us saying, well, what can we do about it
+
+1092
+01:45:08,800 --> 01:45:16,480
+clinically as a physician, as a patient? What do I get to do about this knowledge that HDLs
+
+1093
+01:45:16,480 --> 01:45:23,200
+are helpful particles when I can't measure the manner in which they do their job? The only
+
+1094
+01:45:23,200 --> 01:45:29,760
+things that I can measure are as useless to me as my eye color basically. Then we're expanding into
+
+1095
+01:45:29,760 --> 01:45:33,360
+and look what they can do in muscles and look what they can do in insulin sensitivity and look
+
+1096
+01:45:33,360 --> 01:45:37,280
+what they can potentially do in the brain. It really comes back full circle to how we open
+
+1097
+01:45:37,280 --> 01:45:44,960
+the discussion, Dan, which is this is such a complicated area of biology that I would guess
+
+1098
+01:45:44,960 --> 01:45:50,560
+it has to be considered the next frontier of the lipid space. When we take a step back and put
+
+1099
+01:45:50,560 --> 01:45:55,760
+ASCVD in the context of cancer and neurodegenerative diseases, so these are the big three
+
+1100
+01:45:55,760 --> 01:46:02,240
+killers in the modern world. We know so much more about ASCVD and we have so many more tools to
+
+1101
+01:46:02,240 --> 01:46:06,320
+effectively treat it. We know a bit about these other diseases, but in the case of Alzheimer's,
+
+1102
+01:46:06,320 --> 01:46:10,960
+we don't have a single tool to do anything about it. In the case of cancer, most of our tools do
+
+1103
+01:46:10,960 --> 01:46:16,480
+nothing. 90% of the tools do nothing, i.e. they barely extend median survival but don't cure
+
+1104
+01:46:16,480 --> 01:46:22,240
+people. But in ASCVD, we can really move the needle. Yet you could argue half of the field,
+
+1105
+01:46:22,240 --> 01:46:28,000
+we still know nothing about. Is there going to be a renaissance, you think, or are we up against
+
+1106
+01:46:28,000 --> 01:46:34,000
+some technical limitation on this inability to measure function? I say that in a practical way.
+
+1107
+01:46:34,000 --> 01:46:38,480
+I mean, yes, I think you're already measuring function in the lab, but is this a bridge too
+
+1108
+01:46:38,480 --> 01:46:44,800
+far for the clinician? Well, I'm going to separate that into using a measurement of function for risk
+
+1109
+01:46:44,800 --> 01:46:51,200
+prediction and then the implications for intervening therapeutically. I think that HDL
+
+1110
+01:46:51,200 --> 01:46:58,480
+function, say, cholesterol efflux, has the ability to allow us to more specifically assign risk
+
+1111
+01:46:59,120 --> 01:47:05,600
+better than just measuring HDL cholesterol. I think realistically we need a good reproducible,
+
+1112
+01:47:05,600 --> 01:47:13,760
+easy to run, automatable assay that then is tested in large numbers of people and shown to predict
+
+1113
+01:47:13,760 --> 01:47:19,440
+risk better than HDL cholesterol itself. I feel like knowing what I know is going on in terms of
+
+1114
+01:47:19,440 --> 01:47:24,640
+developing those assays, that there's a decent chance that we're going to get there. But it's
+
+1115
+01:47:24,640 --> 01:47:28,320
+not just the development of the assay, which actually there are several assays now that are,
+
+1116
+01:47:28,320 --> 01:47:34,560
+but it's the proving that the measurement actually enhances risk prediction enough,
+
+1117
+01:47:34,560 --> 01:47:39,040
+not just incrementally, but enough to make it actually worth doing in clinical practice.
+
+1118
+01:47:39,040 --> 01:47:44,400
+I think there's a, I'm not going to say 100%, but I think there's a more than 50% chance
+
+1119
+01:47:44,400 --> 01:47:49,280
+that we're going to see at least some assay come out that will allow us to do that. And then it
+
+1120
+01:47:49,280 --> 01:47:55,440
+will be, frankly, physicians like yourself and like Tom Dayspring who pick up that assay and
+
+1121
+01:47:55,440 --> 01:47:59,920
+start using it in their patients and start trying to get a sense for whether it's useful in the
+
+1122
+01:47:59,920 --> 01:48:05,840
+context of a sophisticated preventive clinical practice. I think with regard to intervention,
+
+1123
+01:48:05,840 --> 01:48:10,960
+the study I talked about is huge in terms of this. Let's just assume that that study is
+
+1124
+01:48:10,960 --> 01:48:17,680
+positive. Four infusions, weekly infusions, significantly reduces cardiovascular events
+
+1125
+01:48:17,680 --> 01:48:23,040
+in patients with ACS after 90 days. If that study is positive, if you think about that,
+
+1126
+01:48:23,040 --> 01:48:30,080
+the implications for that product, but more importantly for the field that showing that
+
+1127
+01:48:30,080 --> 01:48:36,720
+actually triggering cholesterol efflux via infusion of that particle, that type of particle,
+
+1128
+01:48:36,720 --> 01:48:41,920
+that will rejuvenate the field of cholesterol efflux and reverse cholesterol transport as a
+
+1129
+01:48:41,920 --> 01:48:48,080
+therapeutic target for intervention. I think if that trial is not positive, I think the concept
+
+1130
+01:48:48,080 --> 01:48:55,680
+of intervening around HDL and reverse cholesterol transport for purposes of ASCVD is probably past
+
+1131
+01:48:55,680 --> 01:49:01,360
+recovery. That would be my view. And even that CTP inhibitor that I mentioned that's still in
+
+1132
+01:49:01,360 --> 01:49:06,480
+development, it's really more about reducing APLB than it is about raising HDL. When does that trial
+
+1133
+01:49:06,480 --> 01:49:12,080
+read out, the function trial? I should have refreshed my memory on that. I just can't remember.
+
+1134
+01:49:12,080 --> 01:49:18,080
+Where is it being done? How many centers? Roughly. It's a global study. There are centers in US and
+
+1135
+01:49:18,080 --> 01:49:23,360
+Australia and Europe. It's a classic global large cardiovascular outcome trial. I think the leaders
+
+1136
+01:49:23,360 --> 01:49:28,080
+of the trial I think are in Boston. Remind me, does it have a fancy acronym yet? Yes. And I'm
+
+1137
+01:49:28,080 --> 01:49:33,120
+embarrassed to say that I'm not quite coming up with that either. We will figure that out and it
+
+1138
+01:49:33,120 --> 01:49:37,680
+will be in the show notes. If I could just follow up on your next frontier comment. I don't think
+
+1139
+01:49:37,680 --> 01:49:43,520
+HDL per se is the next frontier, but I do think lipid metabolism in the brain is one of the next
+
+1140
+01:49:43,520 --> 01:49:50,320
+frontiers. I really do. With regard to neurodegenerative disease, but also other brain function, I say that
+
+1141
+01:49:50,320 --> 01:49:56,480
+as a long-term lipidologist who is focused primarily on the blood. So I admit my biases
+
+1142
+01:49:56,480 --> 01:50:01,440
+and looking for things that we can apply as lipidologists our expertise to. But I do think
+
+1143
+01:50:02,000 --> 01:50:07,680
+understanding lipid metabolism in the brain and its relationship to disease, the brain is of course
+
+1144
+01:50:07,680 --> 01:50:14,480
+the most lipid rich organ of any organ in the body, has been an under investigated area that we have
+
+1145
+01:50:14,480 --> 01:50:19,360
+a lot to do. But where I think we're going to be uncovering some very interesting things that
+
+1146
+01:50:19,360 --> 01:50:24,560
+with luck have implications for therapeutic intervention to prevent neurodegenerative disease.
+
+1147
+01:50:25,360 --> 01:50:30,800
+Dan, it's hard to go anywhere from here. That is, I mean, both exciting and important in ways that
+
+1148
+01:50:30,800 --> 01:50:36,560
+are rarely captured even in the subject matter. So I want to thank you for taking a subject matter
+
+1149
+01:50:36,560 --> 01:50:42,640
+that is so complicated that I've largely shied away from really doing anything on it in the AMA
+
+1150
+01:50:42,640 --> 01:50:48,080
+series that we do and so eloquently describing it and really using if someone's listening to this
+
+1151
+01:50:48,080 --> 01:50:51,120
+and this is the first podcast they've ever listened to of ours, they might think, oh my god,
+
+1152
+01:50:51,120 --> 01:50:55,680
+that podcast is too technical. But I think for regular listeners, they will appreciate that
+
+1153
+01:50:55,680 --> 01:51:01,120
+you really did a great job simplifying a very complicated subject matter and certainly did a
+
+1154
+01:51:01,120 --> 01:51:05,200
+better job than I would have ever been able to do, not simply because I don't know as much,
+
+1155
+01:51:05,200 --> 01:51:09,680
+but because the ease with which you were able to speak about this is impressive. So
+
+1156
+01:51:09,680 --> 01:51:12,640
+thank you for taking the time. Thank you for doing that. And most importantly, of course,
+
+1157
+01:51:12,640 --> 01:51:16,560
+thank you for your work in this field. We, I think collectively, look forward to seeing how
+
+1158
+01:51:16,560 --> 01:51:20,640
+things shake out over the next decade. Thanks very much, Peter. I really enjoyed it.
+
+1159
+01:51:20,640 --> 01:51:24,720
+Thank you for listening to this week's episode of The Drive. If you're interested in diving deeper
+
+1160
+01:51:24,720 --> 01:51:28,880
+into any topics we discuss, we've created a membership program that allows us to bring
+
+1161
+01:51:28,880 --> 01:51:34,000
+you more in-depth, exclusive content without relying on paid ads. It's our goal to ensure
+
+1162
+01:51:34,000 --> 01:51:38,800
+members get back much more than the price of the subscription. Now to that end, membership
+
+1163
+01:51:38,800 --> 01:51:44,080
+benefits include a bunch of things. One, totally kick ass comprehensive podcast show notes that
+
+1164
+01:51:44,160 --> 01:51:49,600
+detail every topic, paper, person, thing we discuss on each episode. The word on the street is
+
+1165
+01:51:49,600 --> 01:51:55,200
+nobody's show notes rival these monthly AMA episodes or ask me anything episodes hearing
+
+1166
+01:51:55,200 --> 01:52:01,120
+these episodes completely access to our private podcast feed that allows you to hear everything
+
+1167
+01:52:01,120 --> 01:52:06,240
+without having to listen to spiel's like this. The qualities, which are a super short podcast
+
+1168
+01:52:06,240 --> 01:52:10,320
+that we release every Tuesday through Friday, highlighting the best questions, topics and
+
+1169
+01:52:10,320 --> 01:52:14,880
+tactics discussed on previous episodes of The Drive. This is a great way to catch up
+
+1170
+01:52:14,880 --> 01:52:18,800
+on previous episodes without having to go back and necessarily listen to everyone.
+
+1171
+01:52:19,360 --> 01:52:24,800
+Steep discounts on products that I believe in, but for which I'm not getting paid to endorse,
+
+1172
+01:52:24,800 --> 01:52:28,960
+and a whole bunch of other benefits that we continue to trickle in as time goes on. If you
+
+1173
+01:52:28,960 --> 01:52:33,680
+want to learn more and access these member only benefits, you can head over to PeterAttiaMD.com
+
+1174
+01:52:33,760 --> 01:52:40,320
+forward slash subscribe. You can find me on Twitter, Instagram, and Facebook, all with the ID
+
+1175
+01:52:40,320 --> 01:52:46,320
+Peter Attia MD. You can also leave us a review on Apple podcast or whatever podcast player you
+
+1176
+01:52:46,320 --> 01:52:51,840
+listen on. This podcast is for general informational purposes only and does not constitute the practice
+
+1177
+01:52:51,840 --> 01:52:56,880
+of medicine, nursing or other professional healthcare services, including the giving of
+
+1178
+01:52:56,880 --> 01:53:02,400
+medical advice. No doctor patient relationship is formed. The use of this information and the
+
+1179
+01:53:02,400 --> 01:53:07,840
+materials linked to this podcast is at the user's own risk. The content on this podcast
+
+1180
+01:53:07,840 --> 01:53:13,040
+is not intended to be a substitute for professional medical advice, diagnosis, or treatment.
+
+1181
+01:53:13,680 --> 01:53:19,760
+Users should not disregard or delay in obtaining medical advice from any medical condition they
+
+1182
+01:53:19,760 --> 01:53:25,120
+have, and they should seek the assistance of their healthcare professionals for any such conditions.
+
+1183
+01:53:25,760 --> 01:53:30,000
+Finally, I take conflicts of interest very seriously for all of my disclosures and the
+
+1184
+01:53:30,000 --> 01:53:37,200
+companies I invest in or advise. Please visit PeterAttiaMD.com forward slash about
+
+1185
+01:53:37,200 --> 01:53:47,920
+where I keep an up to date and active list of such companies.
+
+1186
+01:54:00,000 --> 01:54:06,000
+Thank you.
+

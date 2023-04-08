@@ -1,0 +1,5284 @@
+1
+00:00:00,000 --> 00:00:15,640
+Hey everyone. Welcome to the Drive podcast. I'm your host, Peter Attia. This podcast, my
+
+2
+00:00:15,640 --> 00:00:19,380
+website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:19,380 --> 00:00:24,360
+longevity into something accessible for everyone. Our goal is to provide the best content in
+
+4
+00:00:24,360 --> 00:00:28,440
+health and wellness, full stop, and we've assembled a great team of analysts to make
+
+5
+00:00:28,440 --> 00:00:32,720
+this happen. If you enjoy this podcast, we've created a membership program that brings you
+
+6
+00:00:32,720 --> 00:00:36,920
+far more in-depth content. If you want to take your knowledge of this space to the next level.
+
+7
+00:00:36,920 --> 00:00:41,560
+At the end of this episode, I'll explain what those benefits are. Or if you want to learn more now,
+
+8
+00:00:41,560 --> 00:00:48,080
+head over to PeterAttiaMD.com forward slash subscribe. Now, without further delay, here's
+
+9
+00:00:48,080 --> 00:00:54,640
+today's episode. My guest this week is Dr. Mark Hyman. Mark is a family physician,
+
+10
+00:00:54,640 --> 00:00:59,560
+a New York Times bestselling author and the director of the Cleveland Clinic Center for
+
+11
+00:00:59,560 --> 00:01:04,600
+Functional Medicine. It turns out we're going to talk about pretty much none of that today.
+
+12
+00:01:04,600 --> 00:01:11,800
+We talk almost exclusively on his new book, which is due out tomorrow called Food Fix,
+
+13
+00:01:11,800 --> 00:01:17,040
+How to Save Our Health, Our Economy, Our Communities, and Our Planet One Bite at a
+
+14
+00:01:17,040 --> 00:01:22,480
+Time. And if that sounds like a mouthful, it's because it is a mouthful. This is a kind of
+
+15
+00:01:22,480 --> 00:01:29,840
+staggering topic. And even by the standards of this podcast, it's probably too much for one
+
+16
+00:01:29,840 --> 00:01:37,840
+episode. Mark basically lays out a thesis that if you fix the food system, you fix a lot of problems.
+
+17
+00:01:37,840 --> 00:01:43,760
+So it's not a one-fer, it's not a two-fer, it's like somewhere between a three-fer and a four-fer.
+
+18
+00:01:43,760 --> 00:01:48,760
+We don't spend a lot of time talking about the health consequences of fixing food,
+
+19
+00:01:49,160 --> 00:01:53,320
+although we open our discussion with that talking about the health impact of food. We talk a little
+
+20
+00:01:53,320 --> 00:01:59,000
+bit about gut health, but we spend more of our time probably speaking about some of the social
+
+21
+00:01:59,000 --> 00:02:04,440
+consequences and the environmental consequences. And of course, it ultimately does come down to
+
+22
+00:02:04,440 --> 00:02:10,200
+health at the individual level. We do get a lot into agriculture, energy usage around food. We
+
+23
+00:02:10,200 --> 00:02:16,040
+talk a lot about the impact on climate. We also talk quite a lot about GMO, the strength of the
+
+24
+00:02:16,040 --> 00:02:21,800
+evidence for and against it. We go through a lot of the policy ideas around how one might fix
+
+25
+00:02:21,800 --> 00:02:26,040
+the food system. And actually we close with a nice anecdote of an explanation that I thought
+
+26
+00:02:26,040 --> 00:02:31,800
+Mark provided that was pretty interesting around the difference between food in Europe and North
+
+27
+00:02:31,800 --> 00:02:36,200
+America. Many people, myself included, have commented on this, which is, why is it that
+
+28
+00:02:36,200 --> 00:02:40,840
+when you go to Europe, you seem to be able to eat with impunity things that in the United States
+
+29
+00:02:40,840 --> 00:02:45,800
+just feel like they're about to kill you. Anyway, this is a really interesting episode.
+
+30
+00:02:45,800 --> 00:02:51,960
+I learned a lot in preparing for it. And truthfully, I still feel like there's a lot I just
+
+31
+00:02:51,960 --> 00:02:56,360
+don't understand in this system. There's probably a lot I need to go back and get smarter on.
+
+32
+00:02:56,920 --> 00:03:01,720
+There are so many big numbers in this type of a discussion that the scale
+
+33
+00:03:02,600 --> 00:03:07,880
+doesn't make sense at times when you start to think about what it means to feed the world
+
+34
+00:03:07,880 --> 00:03:14,040
+and how making changes in that system can have enormous knock on effects for both good and bad.
+
+35
+00:03:14,040 --> 00:03:18,520
+So without further delay, please enjoy my discussion with Mark Hyman. And we may end
+
+36
+00:03:18,520 --> 00:03:22,840
+up revisiting this topic with other guests. Should people find this interesting?
+
+37
+00:03:28,280 --> 00:03:31,800
+Hey Mark, thanks for coming over, man. No, I'm so happy to be here. It's beautiful.
+
+38
+00:03:31,800 --> 00:03:35,960
+Chickens running around and everything. Ben is in the freezer, my kind of place.
+
+39
+00:03:36,040 --> 00:03:39,400
+Yeah, yeah, yeah. It's in keeping with a lot of what we're going to talk about today. I think,
+
+40
+00:03:39,400 --> 00:03:44,760
+Mark, a lot of people would associate you with other topics that we might get into,
+
+41
+00:03:44,760 --> 00:03:50,200
+functional medicine, the role of toxins in the environment, certainly food, but from the
+
+42
+00:03:50,200 --> 00:03:55,160
+standpoint of health, what to eat. But what we're talking about today is actually something that
+
+43
+00:03:55,160 --> 00:03:59,960
+when you first mentioned to me, you were working on this book. Actually, at the time you were
+
+44
+00:03:59,960 --> 00:04:03,480
+putting the finishing touches on it about a year ago, I was like, wow, that's definitely something
+
+45
+00:04:03,480 --> 00:04:07,320
+I want to understand more. So I can't wait to kind of have this discussion with you today.
+
+46
+00:04:07,320 --> 00:04:12,360
+And that is basically how food is made, how food is delivered and how food is consumed and what
+
+47
+00:04:12,360 --> 00:04:17,480
+the impacts of that are. I mean, what made you decide to tackle a problem of this magnitude,
+
+48
+00:04:17,480 --> 00:04:22,840
+which is not just a scientific problem, but it's a political problem. Totally. It's a religious
+
+49
+00:04:22,840 --> 00:04:27,000
+problem if we're going to be brutally honest. I mean, the nutrition religion. Yes, exactly.
+
+50
+00:04:27,640 --> 00:04:31,800
+So it's about as complicated as a topic as one would go after.
+
+51
+00:04:31,800 --> 00:04:36,600
+It is. And I think as a doctor, seeing patients day after day for 30 years
+
+52
+00:04:37,640 --> 00:04:43,880
+as a functional medicine doctor, my focus is on why. Why are my patients so sick? And not always,
+
+53
+00:04:43,880 --> 00:04:49,160
+but the majority of them, it has some relationship to food. And then I began to wonder, well,
+
+54
+00:04:49,160 --> 00:04:54,520
+I could sit here all day bailing the bucket and the boat with a hole in it, but I have to figure
+
+55
+00:04:54,520 --> 00:04:58,520
+out why they're eating the food they're eating. And then you're going to think about it and go
+
+56
+00:04:58,520 --> 00:05:02,520
+upstream and well, the food they're eating is caused by the food system. And I'm like, well,
+
+57
+00:05:02,520 --> 00:05:07,080
+why do we have the food system we have? Well, our food policies. And then I'm like, why do we have
+
+58
+00:05:07,080 --> 00:05:11,880
+our food policies? It's the food industry that influences our government policies through
+
+59
+00:05:11,880 --> 00:05:18,920
+lobbying and other influences that they do across the spectrum of society to drive their products
+
+60
+00:05:18,920 --> 00:05:23,640
+to the market and sell them, which are predominantly killing us. I mean, there's 11 million people that
+
+61
+00:05:23,640 --> 00:05:28,120
+die every year from eating ultra processed food and not enough for the good food. And I think it's
+
+62
+00:05:28,120 --> 00:05:31,480
+an underestimate. So basically the answer to the question is I realized I couldn't treat my
+
+63
+00:05:31,480 --> 00:05:34,760
+patients in my office or in the hospital or the clinic. I had to go to where the source of the
+
+64
+00:05:34,760 --> 00:05:41,800
+problem was. Yeah. And I want to sort of put this in context, which is the evolution of this. The
+
+65
+00:05:42,600 --> 00:05:51,240
+domestication of crops, the institutionalization of agriculture has for, we're going to demonize
+
+66
+00:05:51,240 --> 00:05:54,840
+it a little bit here, but the reality of it is it's been kind of a remarkable transformation.
+
+67
+00:05:54,840 --> 00:06:00,360
+It would certainly be akin to the printing press when you think about step function changes in our
+
+68
+00:06:00,360 --> 00:06:07,640
+civilization, when we went from hunter gatherers to an agricultural society. So I want to be careful
+
+69
+00:06:07,640 --> 00:06:13,000
+that we're not just sort of saying the answer is agriculture is the end of the. The agriculture is
+
+70
+00:06:13,000 --> 00:06:21,880
+a solution if we do it right. Yeah. So let's start with what you see as the sort of main pillars of
+
+71
+00:06:21,880 --> 00:06:29,640
+the problem. How did we get to a point where the food environment is toxic? Because that's
+
+72
+00:06:29,640 --> 00:06:34,360
+effectively what you're saying, right? If you eat on default, you're going to probably eat the wrong
+
+73
+00:06:34,360 --> 00:06:39,080
+things. Yeah. It goes deeper than that. The food system as a whole, as I began to dig in this rabbit
+
+74
+00:06:39,080 --> 00:06:42,760
+hole, I realized it wasn't just causing chronic disease, but it was causing most of the global
+
+75
+00:06:42,760 --> 00:06:47,720
+crises that we're thinking about in silos that are all connected. And I'll just sort of quickly
+
+76
+00:06:47,720 --> 00:06:50,920
+lay them out and it'd be good to go over them in detail as we go through the podcast. But
+
+77
+00:06:51,480 --> 00:06:55,800
+clearly food is the biggest driver of chronic disease affecting six out of 10 people.
+
+78
+00:06:55,800 --> 00:07:01,160
+It's clearly the biggest driver of economic stress in this country in our $22 trillion debt,
+
+79
+00:07:01,160 --> 00:07:06,360
+one third of all Medicare expenses over diabetes alone, and one third of all of our federal
+
+80
+00:07:06,360 --> 00:07:10,680
+budget is Medicare. If it was a company, it would be the biggest company in the world at a trillion
+
+81
+00:07:10,680 --> 00:07:17,480
+dollars annually. It's also driving climate change. A food system end to end and we'll unpack it,
+
+82
+00:07:17,560 --> 00:07:21,320
+is the number one cause of climate change more than fossil fuels. It's causing massive
+
+83
+00:07:21,320 --> 00:07:26,040
+environmental degradation, including loss of biodiversity, plant species, animal species,
+
+84
+00:07:26,040 --> 00:07:31,960
+livestock species. It's driving social injustice in many ways through how it affects our kids'
+
+85
+00:07:31,960 --> 00:07:37,400
+cognitive development and ability to learn. And there's huge academic achievement gaps.
+
+86
+00:07:37,400 --> 00:07:42,360
+It leads to massive health disparities because poor communities are more affected by these
+
+87
+00:07:42,360 --> 00:07:47,960
+foods and are more targeted by them. It affects even behavior, violence, conflict. We see such a
+
+88
+00:07:47,960 --> 00:07:53,160
+device of society today. Why do we have that? 40 years ago, it wasn't like that. And I think
+
+89
+00:07:53,160 --> 00:07:58,200
+our diet has changed so radically, not just in the last 10,000 years, but in the last 40 years
+
+90
+00:07:58,200 --> 00:08:02,280
+with the advent of massive amounts of ultra-processed food. And that's driving
+
+91
+00:08:02,280 --> 00:08:09,240
+cognitive behavioral issues, violence, suicide, conflict, and even threatens our national security
+
+92
+00:08:09,240 --> 00:08:14,520
+because 70% of military recruits are unfit to fight and are rejected. So we've got these global
+
+93
+00:08:14,520 --> 00:08:18,600
+problems that are affecting us. And then of course that leads to massive political instability
+
+94
+00:08:18,600 --> 00:08:22,920
+because of our food system of climate refugees, because the food system is driving climate.
+
+95
+00:08:22,920 --> 00:08:26,600
+What is that going to do? I mean, think about it. We had a million Syrian refugees
+
+96
+00:08:26,600 --> 00:08:31,800
+and that created a global crisis. The UN estimates that within a decade or a few decades, we're going
+
+97
+00:08:31,800 --> 00:08:37,480
+to have 200 to a billion climate refugees. That's unimaginable. So how do we begin to sort of grapple
+
+98
+00:08:37,480 --> 00:08:41,560
+with these problems and think about the solutions? And the beauty is since they're all connected by
+
+99
+00:08:41,560 --> 00:08:46,200
+food, they can all be solved by going to the root and fixing our food system. And that's the leverage
+
+100
+00:08:46,200 --> 00:08:50,840
+we have, which is so exciting to me because it's not, oh, doom and gloom, the world's ending. It's,
+
+101
+00:08:50,840 --> 00:08:55,720
+yeah, we identify the problem, how it's connected, think of it as a system, and then be able to solve
+
+102
+00:08:55,720 --> 00:09:00,360
+the problem by going to the root and dealing with these issues collectively. So which one of those
+
+103
+00:09:00,360 --> 00:09:05,000
+would you like to start with? Would you like to start with sort of the impact of processed food
+
+104
+00:09:05,000 --> 00:09:09,240
+on health, which is probably not one that we need to spend a lot of time on? I don't think there's
+
+105
+00:09:09,240 --> 00:09:16,200
+many people that would debate that, are there? Oh, you'd be surprised. I mean, there's 12 billion
+
+106
+00:09:16,200 --> 00:09:22,200
+dollars spent by the food industry on nutrition, quote, research that confuses people, muddies the
+
+107
+00:09:22,200 --> 00:09:26,840
+waters, declares that Gatorade is a great sports drink and that sugar doesn't cause obesity and
+
+108
+00:09:26,840 --> 00:09:31,640
+that, I mean, I could go on and on. People are confused and certainly our political leaders
+
+109
+00:09:31,640 --> 00:09:35,400
+certainly don't get this. And I think when you think of our healthcare system, it certainly
+
+110
+00:09:35,400 --> 00:09:39,000
+doesn't get that food is medicine. Do you really think that political leaders, I know you've spent
+
+111
+00:09:39,000 --> 00:09:43,160
+some time interacting with said folks, do you really think they don't get it or do you think
+
+112
+00:09:43,160 --> 00:09:48,520
+that they're just in a difficult position, which is how do you appease all of these constituents?
+
+113
+00:09:48,520 --> 00:09:54,760
+On the one hand, a lot of the bills get paid by the entities that endorse these agendas. And on
+
+114
+00:09:54,760 --> 00:09:58,760
+the other end, they probably have empathy for the damage that's done. I mean, do you actually think
+
+115
+00:09:58,760 --> 00:10:04,040
+there's a lack of awareness? I do. I mean, forget about politicians, academics, doctors,
+
+116
+00:10:04,040 --> 00:10:09,880
+health professionals have no clue how powerful food is to heal disease. I mean, they get that if you
+
+117
+00:10:09,880 --> 00:10:13,640
+eat too much, you're going to get fat, right? But that's about it. Or if you eat too much carbs,
+
+118
+00:10:13,640 --> 00:10:17,800
+maybe now, maybe you'll get diabetes, but not even that. I mean, the American Diabetes Association
+
+119
+00:10:18,440 --> 00:10:23,400
+is still telling people to eat a lot of carbohydrates. I think we have a real lack of
+
+120
+00:10:23,400 --> 00:10:28,280
+understanding of the power of food to cause disease and the power of food to cure disease.
+
+121
+00:10:28,280 --> 00:10:33,480
+And so there's a real gap in that. I think it's starting to become in the public awareness that
+
+122
+00:10:33,480 --> 00:10:37,240
+food is medicine, that there's a food is medicine working group in Congress, Cleveland Clinic,
+
+123
+00:10:37,240 --> 00:10:41,400
+where I work now is a food is medicine initiative. There's hospitals around the country. They're
+
+124
+00:10:41,400 --> 00:10:45,640
+talking about this. It's more the exception than the rule. So I do think people don't understand
+
+125
+00:10:45,640 --> 00:10:50,520
+the magnitude. I mean, if you say to a politician, what is the biggest killer on the planet? They're
+
+126
+00:10:50,520 --> 00:10:55,880
+going to go smoking or lack of exercise or maybe they're going to get this being overweight,
+
+127
+00:10:55,880 --> 00:11:01,000
+but they don't get that it's the ultra processed food that kills more people than smoking,
+
+128
+00:11:01,000 --> 00:11:05,880
+violence, wars, everything else. So I mean, I think if there was a disease like Ebola or
+
+129
+00:11:05,880 --> 00:11:10,280
+Zika that was killing 11 million people a year, I mean, people would be talking about it. And it's
+
+130
+00:11:10,280 --> 00:11:15,400
+just not in the conversation that's happening. Even for example, Medicare, Medicare for all,
+
+131
+00:11:15,400 --> 00:11:20,120
+has anybody said the reason we have the trouble with Medicare is because people are eating bad
+
+132
+00:11:20,120 --> 00:11:23,800
+food and that we need to fix the food? They're no saying, let's get Medicare for all. Let's
+
+133
+00:11:23,800 --> 00:11:27,560
+repeal Obamacare. I mean, those aren't the solutions. It's like that would be a disaster
+
+134
+00:11:27,560 --> 00:11:31,560
+if we had Medicare for all because everybody's sick and it's just going to bankrupt the country
+
+135
+00:11:31,560 --> 00:11:36,520
+unless we fix why they're sick in the first place. What do you think it is about processed foods
+
+136
+00:11:36,520 --> 00:11:42,120
+that are particularly difficult metabolically for our species? Historically, we ate 800 different
+
+137
+00:11:42,120 --> 00:11:46,760
+species of plants, a lot of roots and tubers, 100 grams of fiber a day. Now in the average American,
+
+138
+00:11:46,760 --> 00:11:53,160
+it's about eight grams, which is nothing. And we had a very complex diet, which was very difficult
+
+139
+00:11:53,160 --> 00:11:57,000
+to obtain sugar. You got lucky if you found a honey thing. I mean, I remember reading this
+
+140
+00:11:57,000 --> 00:12:01,000
+article about these Nepalese honey hunters where they have to climb up a hundred feet
+
+141
+00:12:01,000 --> 00:12:06,040
+into the trees with a burning bush and it's like, if you had to climb a tree with a burning bush to
+
+142
+00:12:06,040 --> 00:12:11,480
+get a cookie, you probably wouldn't eat so many cookies. And I think it's just become so easy for
+
+143
+00:12:11,480 --> 00:12:17,640
+us to have this abundance of sugar and flour and refined foods. And the good intentions that were
+
+144
+00:12:17,640 --> 00:12:22,200
+there in the post-war period that led to the development of industrial agriculture were to
+
+145
+00:12:22,200 --> 00:12:27,640
+provide a lot of starchy, abundant calories to feed the hungry and solve real hunger issues
+
+146
+00:12:27,640 --> 00:12:32,120
+around the world. And I think that was a good thing, but there was unintended consequences of
+
+147
+00:12:32,120 --> 00:12:37,800
+the intensive chemical agriculture that we're using, intensive fertilizer use, and the commodity
+
+148
+00:12:37,800 --> 00:12:42,360
+products, which are wheat, corn, soy, and rice in some other areas of the world that are driving
+
+149
+00:12:42,360 --> 00:12:47,800
+this obesity epidemic. So our biology isn't adapted to eating highly refined foods, which
+
+150
+00:12:47,800 --> 00:12:52,680
+essentially is most of what we're eating now. It's 60% of our calories and every 10% of your
+
+151
+00:12:52,680 --> 00:12:58,520
+calories that's ultra processed food, your risk of death goes up by 14%. So it's not something
+
+152
+00:12:58,520 --> 00:13:01,480
+our bodies like, it's something you're adapted to. And then of course there's all the other stuff
+
+153
+00:13:01,480 --> 00:13:06,920
+in there that may be problematic like refined soybean oil or food additives or chemicals that
+
+154
+00:13:06,920 --> 00:13:11,960
+are in our food that have all sorts of metabolic consequences like BPA or other metabolic toxins
+
+155
+00:13:11,960 --> 00:13:16,120
+that are consumed within the food we're eating. So it's complicated. It's sugar and starch and
+
+156
+00:13:16,120 --> 00:13:19,560
+flour are the big drivers, but there's all these other components. And then who knows what's
+
+157
+00:13:19,560 --> 00:13:24,920
+happening with pesticides and glyphosate affecting our microbiome. I mean, it's such a complex web
+
+158
+00:13:24,920 --> 00:13:30,440
+of different factors that alter our metabolic pathways that drives disease. And just kind of
+
+159
+00:13:30,440 --> 00:13:35,000
+digging into this a little bit more, how much of it do you think is the energy balance and the
+
+160
+00:13:35,000 --> 00:13:39,240
+dysregulation of energy balance that comes from these processed foods? So there are certainly
+
+161
+00:13:39,240 --> 00:13:43,240
+people out there that would argue that part of the trouble with processed food is it sort of
+
+162
+00:13:43,240 --> 00:13:50,600
+hijacks our energy homeostatic systems. So if you put a human in an environment akin to what
+
+163
+00:13:50,600 --> 00:13:56,440
+our ancestors evolved in, there was enough auto feedback and regulation that you sort of
+
+164
+00:13:56,440 --> 00:14:00,440
+maintained energy balance. You would eat more when you needed to eat more, you would eat less
+
+165
+00:14:00,440 --> 00:14:04,520
+when you needed to eat less. One of the drawbacks of processed food, if not the biggest drawback,
+
+166
+00:14:04,520 --> 00:14:09,960
+is it sort of hijacks that system. And if you cut the feedback out of that loop, they're eating when
+
+167
+00:14:09,960 --> 00:14:14,120
+they don't really need additional energy. Do you think that's the biggest issue or do you think
+
+168
+00:14:14,120 --> 00:14:21,720
+it's the void of nutrient that then creates sort of an abundance of junk calorie as the body
+
+169
+00:14:21,720 --> 00:14:26,680
+search for nutrients? Do you think it's this loss of fiber? Probably both. I mean, kids who are iron
+
+170
+00:14:26,680 --> 00:14:31,160
+deficient eat dirt. It's called pica. And it's well known that if you're looking for nutrients,
+
+171
+00:14:31,160 --> 00:14:35,240
+you're just going to eat anything. So that may be part of it. I think the main part of it is,
+
+172
+00:14:35,320 --> 00:14:41,880
+and you've talked about this a lot, is the ways in which these refined starches and sugars affect
+
+173
+00:14:41,880 --> 00:14:47,560
+your biology. They raise insulin, which has a cascading effect of fat storage in your belly,
+
+174
+00:14:47,560 --> 00:14:53,240
+which is a dangerous fat. It leads to increased hunger, affects your brain chemistry. It actually
+
+175
+00:14:53,240 --> 00:14:57,880
+locks the fat in the fat cells so they can't get out. So it gets like a one-way turnstile that gets
+
+176
+00:14:57,880 --> 00:15:04,040
+in but can't get out. And it slows your metabolism. So you're in this cascade of vicious cycles. So
+
+177
+00:15:04,040 --> 00:15:07,080
+you're talking about energy balance. I think most people when they hear that think about calories
+
+178
+00:15:07,080 --> 00:15:11,960
+and calories out, I think I both understand that it's more complex than that, that there's different
+
+179
+00:15:11,960 --> 00:15:19,000
+effects of food on your biology independent of calories. In a lab, all calories are the same.
+
+180
+00:15:19,000 --> 00:15:27,160
+750 calories of Coke is the same as 750 calories of broccoli. But to get 750 calories of soda,
+
+181
+00:15:27,160 --> 00:15:33,400
+you'd have a big gulp, which is 40, 60 spoons of sugar. And 750 calories of broccoli is 21
+
+182
+00:15:33,400 --> 00:15:37,800
+cups of broccoli with 35 grams of fiber and no sugar. Profoundly different effects on your
+
+183
+00:15:37,800 --> 00:15:43,000
+biology, same calories. But we don't really appreciate that medicine. And most of our current
+
+184
+00:15:43,000 --> 00:15:47,320
+thinking about weight loss is focused on calories in, calories out. It suits the food industry
+
+185
+00:15:47,320 --> 00:15:51,960
+because they go, well, it's all about moderation. There's no good or bad calories. It's exercise
+
+186
+00:15:51,960 --> 00:15:56,200
+more, eat less. Like that's their mantra. And it serves them to sell more of their junk food as
+
+187
+00:15:56,200 --> 00:16:01,000
+long as it's part of a Pope balanced diet. But the truth is that these foods affect our brain
+
+188
+00:16:01,080 --> 00:16:06,120
+chemistry and create all sorts of metabolic issues that are incredibly difficult. And I was
+
+189
+00:16:06,120 --> 00:16:09,240
+chatting with my friend David Perlmutter who just wrote a book called Brainwash where he's talking
+
+190
+00:16:09,240 --> 00:16:15,560
+about, he's a neurologist where the prefrontal cortex and the amygdala are uncoupled with an
+
+191
+00:16:15,560 --> 00:16:19,320
+inflammatory diet, which is what we're eating most of us in America and around the world.
+
+192
+00:16:19,320 --> 00:16:24,280
+What that means is that the adult in the room, the prefrontal cortex, which is the decision maker
+
+193
+00:16:24,280 --> 00:16:30,360
+that understands the consequences of its behavior is not talking to the impulse part of your brain,
+
+194
+00:16:30,360 --> 00:16:33,640
+the fight or flight part of your brain, the pleasure seeking part of your brain. So there's
+
+195
+00:16:33,640 --> 00:16:38,200
+this disconnection and your decisions are not in your best interest. And that's why we have so much
+
+196
+00:16:38,840 --> 00:16:42,920
+bad behavior and conflict and so forth, because we're eating this inflammatory diet that's
+
+197
+00:16:42,920 --> 00:16:47,240
+literally disregulating our brain. So the adult in the room is asleep.
+
+198
+00:16:47,880 --> 00:16:53,240
+Say a bit more about that. What is it about the diet that could be inflammatory and how could one
+
+199
+00:16:53,240 --> 00:16:59,240
+measure the consequences of that? Because is it possible that two people could consume the exact
+
+200
+00:16:59,240 --> 00:17:03,160
+same subpar diet and have very different inflammatory responses?
+
+201
+00:17:03,160 --> 00:17:07,000
+Yeah, sure. I mean, there is a, listen, if people are eating junk food and processed food, their
+
+202
+00:17:07,000 --> 00:17:10,360
+metabolism, whatever they look like, whether they're overweight or not, is not going to be as
+
+203
+00:17:10,360 --> 00:17:14,520
+good as someone who's eating a whole foods unprocessed diet. But there is a lot of genetic
+
+204
+00:17:14,520 --> 00:17:19,880
+variability, but you can actually measure inflammation in response to diet through various
+
+205
+00:17:19,880 --> 00:17:25,160
+biomarkers. There's new panels of sort of looking at the inflammasome, which is really cool. It's
+
+206
+00:17:25,160 --> 00:17:29,320
+more than just a CRP or a CED rate, which are blood tests you can do to look at inflammation.
+
+207
+00:17:29,320 --> 00:17:33,400
+And the ways in which it causes, particularly it was talking about insulin, it also drives this
+
+208
+00:17:33,400 --> 00:17:41,160
+visceral belly fat, which is a basically metabolic fire that starts in these cells and it spreads
+
+209
+00:17:41,160 --> 00:17:45,400
+inflammation throughout the body. So just the nature of eating sugar and processed food drives
+
+210
+00:17:45,400 --> 00:17:51,160
+up inflammation. If a patient has normal biomarkers through the lens of all of those things,
+
+211
+00:17:51,160 --> 00:17:55,480
+their interleukins and C-rective protein, fibrinogen, if all of those things were normal,
+
+212
+00:17:56,120 --> 00:18:01,480
+would you still think that there's potentially an inflammatory response that's coming through
+
+213
+00:18:01,480 --> 00:18:08,040
+their diet? The question is how sensitive are our current tools for assessing the immune response
+
+214
+00:18:08,040 --> 00:18:15,160
+to food? And I think they're pretty crappy. And I think there's more and more lab diagnostic
+
+215
+00:18:15,160 --> 00:18:18,680
+measures that are coming about that are going to help us look at that. I was talking to someone
+
+216
+00:18:18,680 --> 00:18:23,160
+from the Buck Institute of Aging last week and he said, yeah, there's a whole new panel of
+
+217
+00:18:23,160 --> 00:18:28,120
+inflammatory biomarkers that are much more specific and much more sensitive and it enabled
+
+218
+00:18:28,120 --> 00:18:31,960
+us to have a look at the inflammatory response that's happening in the body related to aging
+
+219
+00:18:31,960 --> 00:18:36,840
+or diet or anything else. How much of that inflammatory response do you think is mediated
+
+220
+00:18:36,840 --> 00:18:42,040
+by permeability in the gut specifically versus, because I have to be honest with you Mark, this
+
+221
+00:18:42,040 --> 00:18:47,720
+is an area that I've never understood. It gets talked about a lot. There's lots of hand waving.
+
+222
+00:18:47,720 --> 00:18:53,080
+Sometimes I see it certainly in patients. I mean, when we see subtle elevations in fibrinogen and
+
+223
+00:18:53,080 --> 00:18:58,760
+or C-reactive protein or at least two of the interleukins, we usually put patients on elimination
+
+224
+00:18:58,760 --> 00:19:03,800
+diets till we find out what the culprit was and we're trying to basically titrate symptoms versus
+
+225
+00:19:03,800 --> 00:19:09,400
+these biomarkers. But I find that to be staggeringly crude. And to your point, I don't know what we're
+
+226
+00:19:09,400 --> 00:19:14,760
+missing and I don't know what's true, true and unrelated. And then of course it gets back to the
+
+227
+00:19:14,760 --> 00:19:21,240
+question of what's the mechanism of this. And so one potential mechanism is that the permeability
+
+228
+00:19:21,240 --> 00:19:28,920
+of the gut is altered. And if bacteria that could normally not translocate across the lining of the
+
+229
+00:19:28,920 --> 00:19:33,880
+gut do so, that would certainly be a reason for inflammation. A, do you think that that's a
+
+230
+00:19:33,880 --> 00:19:37,880
+prevalent source of it? Oh yeah, huge. I mean, all our guts are messed up and there's a whole
+
+231
+00:19:37,880 --> 00:19:42,840
+phenomenon called metabolic endotoxemia. It's been well described and studied. And the fact that your
+
+232
+00:19:42,840 --> 00:19:47,000
+gut microbiome has a huge role in regulation of weight independent of calories. So they literally
+
+233
+00:19:47,000 --> 00:19:52,040
+can take the poop out of a skinny rat into a fat rat and make them skinny and vice versa. They've
+
+234
+00:19:52,040 --> 00:19:58,120
+done in humans. I think the way in which it works is that your microbiome is regulated by what you
+
+235
+00:19:58,120 --> 00:20:05,640
+eat. A lot of fiber, prebiotics, the phytonutrients, the phytochemicals, the polyphenols all affect the
+
+236
+00:20:05,640 --> 00:20:11,000
+quality of the garden you have growing inside of you. And you can get a lot of nasty weeds in there.
+
+237
+00:20:11,000 --> 00:20:15,240
+When that starts to happen, they start to disrupt the gut microbiome. They disrupt the lining of the
+
+238
+00:20:15,240 --> 00:20:20,600
+gut. They cause what we call leaky gut on top of everything else, which is our low fiber diet,
+
+239
+00:20:20,600 --> 00:20:26,200
+high sugar, processed food, increases bad bugs in the gut, antibiotics, acid blockers,
+
+240
+00:20:26,200 --> 00:20:31,080
+anti-inflammatory drugs, hormones, all screw up our gut. And of course, toxins, environmental
+
+241
+00:20:31,080 --> 00:20:36,120
+toxins, glyphosate is super toxic to the microbiome. And so all these things that we know and those
+
+242
+00:20:36,200 --> 00:20:41,320
+things we don't know are disrupting the microbiome. And when that happens, the lining of the gut
+
+243
+00:20:41,320 --> 00:20:46,360
+becomes slightly damaged, the biofilms get disrupted, and you end up absorbing bacterial
+
+244
+00:20:46,360 --> 00:20:51,000
+products, bacterial toxins, as well as food antigens, things that we should normally tolerate,
+
+245
+00:20:51,000 --> 00:20:55,640
+and start to create an inflammatory response. And 60% of your immune system is in your gut.
+
+246
+00:20:55,640 --> 00:21:01,160
+And what's really striking to me, Peter, is the discovery that many of our metabolites in our
+
+247
+00:21:01,160 --> 00:21:05,800
+blood, probably a third or more, may be from microbiome. In other words, when you check your
+
+248
+00:21:05,800 --> 00:21:11,320
+blood tests, we're checking human analytes. But when you actually start to do some more sophisticated
+
+249
+00:21:11,320 --> 00:21:16,040
+metabolic testing and metabolism, you find all these things that aren't human, that come from
+
+250
+00:21:16,040 --> 00:21:20,760
+bacteria that are regulating your immune system, that are activating your mitochondria, that are
+
+251
+00:21:20,760 --> 00:21:24,840
+regulating your DNA, that are affecting your brain chemistry, affecting your mood, affecting
+
+252
+00:21:24,840 --> 00:21:29,320
+all sorts of diseases. So this is like a really exciting area. And I think getting people's
+
+253
+00:21:29,320 --> 00:21:35,080
+microbiome sorted often happens when you shift to a whole foods, plant-rich diet, not plant-based,
+
+254
+00:21:35,080 --> 00:21:40,840
+but plant-rich. How can one measure these things? I mean, one of the things that I've found difficult
+
+255
+00:21:40,840 --> 00:21:48,200
+is finding valid commercial tests that can enable patients or physicians to understand if they're
+
+256
+00:21:48,200 --> 00:21:53,800
+in this sort of regulated state. I mean, to me, the black box is when someone comes in and says,
+
+257
+00:21:53,800 --> 00:22:00,520
+I have gut dysbiosis or I have poor gut health. And they may be right, but it's very different
+
+258
+00:22:00,520 --> 00:22:06,760
+than someone who says, I have type 2 diabetes, where we have really clear ways to diagnose it.
+
+259
+00:22:06,760 --> 00:22:12,680
+We kind of have some understanding what the pathophysiology is here. This is much more squishy.
+
+260
+00:22:13,240 --> 00:22:20,920
+And frankly, there's an enormous disconnect between people like you and sort of the
+
+261
+00:22:20,920 --> 00:22:26,920
+stuffy upper-lipped gastroenterologist who makes his or her living in the gut,
+
+262
+00:22:26,920 --> 00:22:32,120
+but doesn't necessarily sort of see the problem this way, right? They're looking at different
+
+263
+00:22:32,120 --> 00:22:37,240
+problems. You know, honestly, Peter, the evidence has become so overwhelming that mainstream medicine
+
+264
+00:22:37,240 --> 00:22:41,000
+is bought into this whole microbiome story. And Cleveland Clinic, for example, they're studying
+
+265
+00:22:41,000 --> 00:22:45,560
+the microbiome and heart disease and arthritis and cancer. And it's like, they just got a $12
+
+266
+00:22:45,560 --> 00:22:50,040
+million grant from the NIH to study the microbiome and heart disease, which is pretty amazing.
+
+267
+00:22:50,760 --> 00:22:54,920
+And yet, if you go to your doctor and say, is there any evidence that I should be on this
+
+268
+00:22:54,920 --> 00:22:59,000
+probiotic or this? Yeah, they don't know. The clinical translation is challenging. So I'm
+
+269
+00:22:59,000 --> 00:23:03,560
+somebody who's been practicing functional medicine for 30 years and the gut has been the number one
+
+270
+00:23:03,560 --> 00:23:10,040
+focus of our ability to really move diseases in a powerful way. And they used to call me Dr. C
+
+271
+00:23:10,040 --> 00:23:14,200
+every poop because I've done literally tens of thousands of stool tests and I've looked at all
+
+272
+00:23:14,200 --> 00:23:19,240
+the different ones. And you're looking at a moving target. You're looking at an ecosystem. And so,
+
+273
+00:23:20,040 --> 00:23:25,400
+we look at a lot of different biomarkers to assess what's going on in the gut. Is there adequate
+
+274
+00:23:25,400 --> 00:23:31,160
+pancreatic enzyme function? Looking at pancreatic elastase, are there absorption issues? Looking at
+
+275
+00:23:31,160 --> 00:23:37,080
+fecal fats? Are there inflammatory markers in there? For example, Calprotectin or eosinophil
+
+276
+00:23:37,080 --> 00:23:42,440
+protein X, which are standard markers to look at inflammation in the gut. What's your IGA levels,
+
+277
+00:23:42,440 --> 00:23:47,800
+your antibody levels? And then we look at indicators of dysregulated gut microbiome,
+
+278
+00:23:47,800 --> 00:23:52,600
+such as short chain fatty acids, which are essentially produced by good bacteria that are
+
+279
+00:23:52,600 --> 00:23:56,520
+the fuel for the gut and have anti-cancer properties, anti-inflammatory properties.
+
+280
+00:23:57,080 --> 00:24:02,440
+And those can be low like butyrate and we can see that. Then we look at sort of different microbiome
+
+281
+00:24:02,440 --> 00:24:08,520
+characteristics using DNA or PCR analysis through the micro RNAs. And that allows us to see, for
+
+282
+00:24:08,520 --> 00:24:13,400
+example, if there's low acromancia, which is a very important bacteria that regulates your biofilm,
+
+283
+00:24:13,400 --> 00:24:17,240
+that regulates immunity, that's linked to autoimmune disease and cardiometabolic diseases,
+
+284
+00:24:17,240 --> 00:24:22,840
+cancer treatment therapy risk. So we can modify those things. And then we look at culture, we look
+
+285
+00:24:22,840 --> 00:24:28,120
+at other kinds of testing for parasites. It's PCR testing. So there's a lot of things that we look at
+
+286
+00:24:28,120 --> 00:24:32,840
+and get a gestalt. It changed over time, but you can see if someone's got a good gut or
+
+287
+00:24:32,840 --> 00:24:40,360
+okay gut or a terrible gut. So if you take a patient who is both symptomatic and by some
+
+288
+00:24:40,360 --> 00:24:47,960
+consolation of tests has a quote unquote bad gut, what percentage of those are quote unquote fixable
+
+289
+00:24:47,960 --> 00:24:55,400
+by subtraction? So you take things out of their diet or addition, you add more of certain food
+
+290
+00:24:55,400 --> 00:25:00,840
+to their diet or the third choice would be intervention based where you have to use
+
+291
+00:25:00,840 --> 00:25:07,320
+sort of supplements and antibiotics or probiotics or things like that. So that's an oversimplified
+
+292
+00:25:07,320 --> 00:25:11,160
+look at this. But if there's three levers you have, which means take something out of their food,
+
+293
+00:25:11,720 --> 00:25:16,840
+add something to their food or add a different type of food or then use a bigger gun like a
+
+294
+00:25:16,840 --> 00:25:21,960
+supplement, how do those tools fit into this treatment? Well, functional medicine is a very
+
+295
+00:25:22,520 --> 00:25:28,600
+organized framework for addressing gut dysfunction called the 5R program. The first R is to remove,
+
+296
+00:25:28,600 --> 00:25:33,480
+remove things that shouldn't be there, whether it's foods that are triggering a problem like
+
+297
+00:25:33,480 --> 00:25:39,560
+gluten, which affects permeability or dairy, grains for some people, remove bad bugs. So if
+
+298
+00:25:39,560 --> 00:25:44,840
+you have a parasite, I mean, I just had a patient who had a common parasite. She had stomach issues
+
+299
+00:25:44,840 --> 00:25:48,920
+for 20 years. She was always waking up feeling like crap. I gave her a linear, which is an
+
+300
+00:25:48,920 --> 00:25:53,160
+anti-parasitic medication, six days she says she's never felt better. So sometimes you just need to
+
+301
+00:25:53,160 --> 00:25:58,440
+do that and maybe bacterial overgrowth you have, maybe there's yeast overgrowth. You need to address
+
+302
+00:25:58,440 --> 00:26:02,920
+that. And so that's the first step. The second step is to replace what might be missing. So fiber,
+
+303
+00:26:03,000 --> 00:26:08,120
+prebiotics, enzymes, various things that may be needing to support the system. And sometimes
+
+304
+00:26:08,120 --> 00:26:12,280
+that's just through food, but sometimes that's also supplements. Sure. You can take prebiotic
+
+305
+00:26:12,280 --> 00:26:17,160
+fibers and prebiotic foods like plantain and artichokes and all kinds of different foods.
+
+306
+00:26:17,160 --> 00:26:21,560
+And then re-inoculate, which would be provide probiotics where necessary. And that can be
+
+307
+00:26:21,560 --> 00:26:25,480
+through foods like fermented foods or can be through probiotic supplements. And those are,
+
+308
+00:26:25,480 --> 00:26:29,000
+that's still sort of a wild west, but there are things that up there that really work.
+
+309
+00:26:29,000 --> 00:26:33,400
+And then to replace what's missing. So maybe there's nutrients that the body needs to heal,
+
+310
+00:26:33,400 --> 00:26:38,600
+things like glutamine, vitamin A, fish oil, maybe even things like butyrate and replace things that
+
+311
+00:26:38,600 --> 00:26:42,680
+might be needed for healing the gut. Like polyphenols, for example, are a wonderful thing
+
+312
+00:26:42,680 --> 00:26:47,640
+you can get from food, pomegranate, cranberries, green tea, et cetera, that have powerful, great
+
+313
+00:26:47,640 --> 00:26:50,920
+effects on the microbiome that we didn't really appreciate. So we thought it was prebiotic and
+
+314
+00:26:50,920 --> 00:26:55,960
+probiotic, but it turns out the polyphenols in plant foods are super helpful for the gut microbiome.
+
+315
+00:26:55,960 --> 00:27:01,080
+And then the last R is to restore, which means to sort of restore your nervous system because
+
+316
+00:27:01,080 --> 00:27:05,080
+you need to sort of deal with the way in which your stress level and everything affects your gut
+
+317
+00:27:05,080 --> 00:27:09,480
+and your gut microbiome. You can get a leaky gut just from stress, for example. So working on all
+
+318
+00:27:09,480 --> 00:27:13,480
+those in a systematic way that's personalized is really the approach. There's no sort of,
+
+319
+00:27:13,480 --> 00:27:19,560
+oh, take this or do that, it's going to work. So bringing it back to what you started this point.
+
+320
+00:27:19,560 --> 00:27:20,600
+Yeah, we got down with the rabbit hole.
+
+321
+00:27:20,760 --> 00:27:26,520
+Yeah, well, it's such an interesting topic. You've laid out basically the enormous health
+
+322
+00:27:26,520 --> 00:27:30,760
+consequences of eating poorly. Six out of 10 Americans have a chronic disease, four out of
+
+323
+00:27:30,760 --> 00:27:35,160
+10 have two or more. In 10 years, 83 million Americans are not three or more, which is
+
+324
+00:27:35,160 --> 00:27:40,200
+bankrupting our country. And one in two Americans has prediabetes or type two diabetes. These
+
+325
+00:27:40,200 --> 00:27:44,680
+statistics are staggering. 75% of us are overweight. Most states now have 40% obesity
+
+326
+00:27:44,680 --> 00:27:48,120
+rates. I mean, when I graduated medical school, there wasn't a single state that had a 20%
+
+327
+00:27:48,200 --> 00:27:53,000
+obesity rate now. Everybody's got 30 or almost 40. These are massive things that are happening
+
+328
+00:27:53,000 --> 00:27:56,600
+at a scale that we've never seen in human history that we haven't been equipped to deal with,
+
+329
+00:27:56,600 --> 00:28:00,680
+that we haven't really thought of how to address, and it's like we're trying to scramble to fix it.
+
+330
+00:28:00,680 --> 00:28:07,240
+And you certainly in the book talk about how there are racial differences in terms of the
+
+331
+00:28:07,240 --> 00:28:14,200
+susceptibility to the bad policy, which we'll get to down the line. Is there also sort of racial
+
+332
+00:28:14,200 --> 00:28:19,480
+variability and discrepancy in the actual physiology in response to this? There's clearly
+
+333
+00:28:20,040 --> 00:28:26,600
+economic health disparities. Health disparities are a result of targeted marketing from the food
+
+334
+00:28:26,600 --> 00:28:31,480
+industry that are driving various problems, or obviously the food swamps and the food deserts
+
+335
+00:28:31,480 --> 00:28:35,880
+and food apartheid, all of that is true. But genetically, there's certain segments of the
+
+336
+00:28:35,880 --> 00:28:41,160
+population that are much more likely when they are in an abundance of sugar and flour
+
+337
+00:28:41,160 --> 00:28:45,720
+to get diabetes and obesity. And that includes Native Americans, probably the worst,
+
+338
+00:28:46,440 --> 00:28:52,520
+African Americans, Latinos, and of course, the people from the South Pacific, and even Indians
+
+339
+00:28:52,520 --> 00:28:57,400
+from India, Chinese, and Asians often are at much higher risk, even at lower body rates. So
+
+340
+00:28:58,280 --> 00:29:03,160
+this is really a global problem, and that's why we're seeing 80% of the world's type 2 diabetics
+
+341
+00:29:03,160 --> 00:29:08,840
+in the developing world. Is there any country or government in particular that seems more
+
+342
+00:29:08,840 --> 00:29:15,320
+attuned to this problem than the American government? Many, in fact, most. Chile, for
+
+343
+00:29:15,320 --> 00:29:20,360
+example, was seeing massive obesity rates in kids and adults, healthcare costs staggering for that
+
+344
+00:29:20,360 --> 00:29:26,040
+country. And again, we're inundated by all the processed food from the food industry and soda
+
+345
+00:29:26,040 --> 00:29:31,480
+industry. And it took a doctor who was elected to the Senate, who was vice president of the Senate,
+
+346
+00:29:32,040 --> 00:29:35,960
+and a doctor who was elected president, Michelle Bachelet, who was a pediatrician,
+
+347
+00:29:35,960 --> 00:29:42,280
+to stand up and say enough and put in a set of regulations to try to stop the onslaught of
+
+348
+00:29:43,080 --> 00:29:47,720
+these conditions on their population driven by the food industry. So they did a number of things.
+
+349
+00:29:47,720 --> 00:29:54,040
+One, they put in an 18% soda tax. Two, they put on warning labels on the front of bad food. So
+
+350
+00:29:54,040 --> 00:29:59,640
+on your Frosted Flakes cereal box, there's black warning labels. They eliminated any cartoon
+
+351
+00:29:59,640 --> 00:30:07,720
+characters from all the kids' food. So no Tony the Tiger, no Toucan Sam on Fruit Loops. They
+
+352
+00:30:07,720 --> 00:30:11,640
+eliminated any processed food from schools and they made the school lunches healthy. They
+
+353
+00:30:11,640 --> 00:30:16,840
+eliminated any advertising on junk food from six in the morning till 10 at night so kids wouldn't
+
+354
+00:30:16,840 --> 00:30:22,360
+see it. And then they measured these outcomes based on that and they see tremendous improvements. And
+
+355
+00:30:22,360 --> 00:30:26,920
+it was surprising to me. I talked to Barry Pockin, who's from UNC, who worked with them on developing
+
+356
+00:30:27,720 --> 00:30:32,200
+and Michael Bloomberg, I think gave him $30 million to assess the impact and so forth. So
+
+357
+00:30:32,200 --> 00:30:38,840
+they're studying this. And even more than the 18% soda tax, the restriction of food marketing
+
+358
+00:30:38,840 --> 00:30:45,000
+and the warning label and so forth had a fourfold increased benefit compared to the soda tax,
+
+359
+00:30:45,000 --> 00:30:49,560
+which is being heavily fought here. There's incredible opposition to any limiting
+
+360
+00:30:49,560 --> 00:30:54,120
+of marketing to kids. And the saying it's the breach of the First Amendment and free speech
+
+361
+00:30:54,200 --> 00:30:59,080
+and so forth. The First Amendment doesn't have to keep our responsibility to protect our children.
+
+362
+00:30:59,080 --> 00:31:03,560
+If a foreign nation was doing to our kids what the food industry is and our government is who
+
+363
+00:31:03,560 --> 00:31:08,920
+has policies, we'd go to war to protect our kids and we just sort of sit back and let this happen.
+
+364
+00:31:08,920 --> 00:31:12,200
+It's interesting. I'm not a constitutional expert, which would be such an overstatement.
+
+365
+00:31:12,920 --> 00:31:14,920
+I know nothing about the constitution. There is a constitution.
+
+366
+00:31:14,920 --> 00:31:21,720
+I know. My understanding of the First Amendment is provided the advertising is quote unquote
+
+367
+00:31:21,720 --> 00:31:28,040
+honest. It is constitutional. And that's a gray area because if you say fruit loops are part of
+
+368
+00:31:28,040 --> 00:31:32,920
+a healthy breakfast, how do we know that's honest? I can't help but think about the analogous
+
+369
+00:31:32,920 --> 00:31:39,000
+situation, which is tobacco. And what I think most people don't know, and it's possible I'm wrong,
+
+370
+00:31:39,000 --> 00:31:43,320
+but I believe everything I'm about to say is correct. Because at one point I knew this story well.
+
+371
+00:31:44,120 --> 00:31:49,880
+When the surgeon general came out with his declaration of the harm of tobacco, which was
+
+372
+00:31:49,880 --> 00:31:55,960
+in about the mid sixties, and that was the peak of smoking in the United States. I believe something
+
+373
+00:31:55,960 --> 00:32:02,040
+to the tune of 50, 55% of people over the age of 18 smoked cigarettes. At the time the surgeon
+
+374
+00:32:02,040 --> 00:32:07,000
+general came out and said definitively cigarettes are causing lung cancer. A number of things took
+
+375
+00:32:07,000 --> 00:32:11,960
+place that got us to where we are today, which is somewhere below 20% of people. Last time I looked,
+
+376
+00:32:11,960 --> 00:32:18,520
+it was about 18% of adults smoked. Yeah, a lawsuit is what worked. Well, but here's a big one. A big
+
+377
+00:32:18,520 --> 00:32:25,080
+one was the removal of advertising. But here's the part that I was surprised to learn. It was
+
+378
+00:32:25,080 --> 00:32:33,080
+voluntary on the part of tobacco. In other words, the tobacco industry was not banned from advertising.
+
+379
+00:32:33,080 --> 00:32:40,440
+What the policy makers said is the law is now that every time a tobacco commercial airs,
+
+380
+00:32:40,440 --> 00:32:47,800
+it must be followed by an anti-tobacco commercial. So they didn't ban tobacco, they added anti-tobacco.
+
+381
+00:32:47,800 --> 00:32:51,800
+So every time you have a McDonald's commercial, you say how bad the food is, it's going to kill you,
+
+382
+00:32:51,800 --> 00:32:57,080
+right? I think that's not a bad idea. Well, what's interesting is the anti-tobacco ads were so
+
+383
+00:32:57,080 --> 00:33:03,720
+devastating that the tobacco industry voluntarily withdrew its ads. They were getting hurt so bad
+
+384
+00:33:03,720 --> 00:33:07,800
+by the anti-tobacco ads that they said enough is enough. And that's to this day, we don't have
+
+385
+00:33:07,800 --> 00:33:13,800
+tobacco ads on television. So A, someone needs to fact check that to make sure I have that story
+
+386
+00:33:13,800 --> 00:33:19,640
+correct, but I believe it is correct. And secondly, if it is, it at least suggests another angle to
+
+387
+00:33:19,640 --> 00:33:25,000
+this problem, which is rather than go down the First Amendment fight, maybe great. Okay. I love
+
+388
+00:33:25,000 --> 00:33:28,360
+that idea. Keep all the commercials you want on, but we're going to come up with something different.
+
+389
+00:33:28,360 --> 00:33:33,720
+Now, of course, it's like a drug ad. You can eat this soda, but it's going to cause obesity,
+
+390
+00:33:33,720 --> 00:33:39,720
+diabetes, cancer, dementia, and kill you early. Fine. Maybe that's a good idea. Yeah. And of course,
+
+391
+00:33:39,720 --> 00:33:44,760
+tobacco is the easiest thing to demonize because you just show somebody a hole in their throat
+
+392
+00:33:44,760 --> 00:33:48,840
+after they've had throat cancer or a black lung or a corpse. I mean, there's so many grotesque
+
+393
+00:33:48,840 --> 00:33:53,240
+ways that you can make the point that are more difficult with food. A lip cigarette. Yeah, yeah,
+
+394
+00:33:53,240 --> 00:33:59,640
+exactly. But nevertheless, I've always found that to be a very powerful point because it's true that
+
+395
+00:33:59,640 --> 00:34:06,200
+eventually taxes were introduced into tobacco and they turned out to be quite powerful. Additional
+
+396
+00:34:06,200 --> 00:34:12,760
+measures in 1989 was also a big step when secondhand smoking became well enough understood that they
+
+397
+00:34:12,760 --> 00:34:18,520
+banned tobacco in airplanes and things like that. But I wonder how much of a playbook there is there
+
+398
+00:34:18,520 --> 00:34:25,720
+on tobacco to copy. Well, there is, but guess what? The food industry is copying tobacco's playbook
+
+399
+00:34:25,720 --> 00:34:31,800
+to slow or stall or stop this. And one of the most egregious things was something they've picked up
+
+400
+00:34:31,800 --> 00:34:38,200
+recently, which is from the tobacco playbook. There have been soda taxes that passed predominantly
+
+401
+00:34:38,200 --> 00:34:43,880
+in the 2016 election in California and other States. And the soda industry is a Vietnamese
+
+402
+00:34:43,880 --> 00:34:50,120
+opposed to this. They passed in California. They spent about $38 million avoiding these taxes
+
+403
+00:34:50,120 --> 00:34:55,480
+against these taxes. Bloomberg and the Arnold Foundation spent about 20 million and it didn't
+
+404
+00:34:55,480 --> 00:35:00,680
+pass. I mean, it did, taxes did pass and it freaked out the soda company. So the American Beverage
+
+405
+00:35:00,680 --> 00:35:05,720
+Association essentially went and tried subversive tactics. So they went to California where most of
+
+406
+00:35:05,720 --> 00:35:11,880
+these taxes were passed and they put in a ballot measure, which was designed to prohibit local
+
+407
+00:35:11,880 --> 00:35:17,800
+taxes unless there was a two thirds majority, meaning you couldn't fund your school, your police
+
+408
+00:35:17,800 --> 00:35:22,520
+department, your fire department, your cleanup, road cleanup, unless there was a two thirds majority.
+
+409
+00:35:23,400 --> 00:35:29,960
+That would hamper local governments dramatically. And they spent millions of dollars pushing this
+
+410
+00:35:29,960 --> 00:35:33,960
+ballot measure, even though it had nothing to do with food. And at the last minute before the
+
+411
+00:35:33,960 --> 00:35:37,800
+election, they went to Governor Brown, who's probably the most liberal governor in the history
+
+412
+00:35:37,800 --> 00:35:42,200
+of the United States, Governor Moonbeam. And they said, look, we'll pull this measure, but you have
+
+413
+00:35:42,200 --> 00:35:50,040
+to put in place a preemptive law that prohibits any future taxes on soda or junk food. And it
+
+414
+00:35:50,040 --> 00:35:54,520
+happened all behind closed doors, completely co-opted the government, impression them to do
+
+415
+00:35:54,520 --> 00:35:59,240
+something that they didn't want to do. And they're doing this in state after state after state. And
+
+416
+00:35:59,240 --> 00:36:04,120
+this is exactly what tobacco did. So we can say, oh, they're not bad actors are trying to do things
+
+417
+00:36:04,120 --> 00:36:09,000
+that good. They're making water, they're making low sugar beverages. They know exactly what they're
+
+418
+00:36:09,000 --> 00:36:12,040
+doing and they have an existential threat and they're trying to fight it in every way possible.
+
+419
+00:36:12,040 --> 00:36:18,120
+That's just one example. There's another funny example, which is an initiative called the Global
+
+420
+00:36:18,120 --> 00:36:24,600
+Energy Balance Network Gurn or something like this. Right. Yeah. Yeah. On a hot O'Connor, I believe
+
+421
+00:36:24,600 --> 00:36:29,880
+played a pretty important role at the New York times exposing this for what the sham it was.
+
+422
+00:36:29,880 --> 00:36:33,400
+Do you want to tell people a little bit about the Global Energy Balance Network? So the whole idea
+
+423
+00:36:33,400 --> 00:36:38,600
+of this is that energy balance is the mantra of the food industry. And what that means is all
+
+424
+00:36:38,600 --> 00:36:42,760
+calories are the same. Soda calories, broccoli calories, no difference. So it's just a matter
+
+425
+00:36:42,760 --> 00:36:48,600
+of balance, calories in, calories out, moderation, et cetera, et cetera. And so they essentially
+
+426
+00:36:48,600 --> 00:36:54,200
+run Apple bomb, who was one of the top BPs at Coca-Cola put together a strategy because you saw
+
+427
+00:36:54,200 --> 00:37:01,480
+the vilification of soda and all these horrible outcries against sugar that were unmet by enough
+
+428
+00:37:01,480 --> 00:37:05,400
+aggressive force from the sugar industry and the soda industry. And she said, look, let's start
+
+429
+00:37:05,400 --> 00:37:08,680
+with something called the Global Energy Balance Network. She found a bunch of scientists who she
+
+430
+00:37:08,680 --> 00:37:13,400
+could co-op, paid them lots of money, funded their research to actually promote the idea that all
+
+431
+00:37:13,400 --> 00:37:18,120
+calories are the same. Like James Hill, for example, who was part of an NIH study, legitimate
+
+432
+00:37:18,120 --> 00:37:23,400
+scientist, but completely co-opted and they funded about 20 million and they built the website. They
+
+433
+00:37:23,400 --> 00:37:27,960
+organized this messaging and the talking points and they did it all sort of behind the scenes.
+
+434
+00:37:27,960 --> 00:37:32,600
+And when there was discovery and so the FOIA Freedom of Information Act, it was a public
+
+435
+00:37:32,600 --> 00:37:36,360
+university, we got all the data. It was really clear how they were behind the scenes, manipulating
+
+436
+00:37:36,360 --> 00:37:41,880
+all this to fund millions of dollars of corrupt research to prove their point and tell a different
+
+437
+00:37:41,880 --> 00:37:47,160
+story. And then as soon as the New York Times article came out overnight, it was disbanded
+
+438
+00:37:47,160 --> 00:37:52,200
+saying it's run out of resources. I mean, come on, Coca-Cola has what billions and millions of dollars
+
+439
+00:37:52,600 --> 00:37:57,240
+over here. They have plenty of resources and the whole thing collapsed because of investigative
+
+440
+00:37:57,240 --> 00:38:01,800
+journalism. But it just goes to show how these food companies are co-opting scientists,
+
+441
+00:38:01,800 --> 00:38:07,720
+co-opting professional associations, co-opting social groups, co-opting the government, putting
+
+442
+00:38:07,720 --> 00:38:12,680
+forth front groups and spinning all kinds of misinformation in a very coordinated strategic
+
+443
+00:38:12,680 --> 00:38:19,640
+strategy to disrupt public opinion, to confuse the public and to allow their shenanigans to keep
+
+444
+00:38:19,720 --> 00:38:28,440
+going. Is the opposition to this industry that you can't fight this at the individual level? In
+
+445
+00:38:28,440 --> 00:38:33,960
+other words, it has to be solved structurally because of the economic disparity. Let me ask
+
+446
+00:38:33,960 --> 00:38:40,760
+the question another way. Why not focus all of the efforts on helping people understand so they can
+
+447
+00:38:40,760 --> 00:38:45,480
+make the informed choice, which is if you have to have a Coke, make it a diet Coke. That may not be
+
+448
+00:38:45,560 --> 00:38:51,480
+as good either. Yeah, but using that as an example, right? But in other words, do we really believe
+
+449
+00:38:52,280 --> 00:38:56,840
+that this has to be solved at the level that seems almost unwinnable, which is
+
+450
+00:38:57,480 --> 00:39:02,280
+fighting an unethical opponent with infinite resources? I mean, that's a very dangerous
+
+451
+00:39:02,280 --> 00:39:05,880
+combination. Yeah, well, look what happened to tobacco. I mean, think about this country.
+
+452
+00:39:05,880 --> 00:39:13,560
+But you don't need tobacco to live, right? The advantage that you would have as an anti-tobacco
+
+453
+00:39:13,560 --> 00:39:20,920
+crusade person is the ground is not muddied by the notion that tobacco is part of a group
+
+454
+00:39:20,920 --> 00:39:26,760
+called food that you need to live. Although it depends how you define food. Our Fruit Loops food,
+
+455
+00:39:26,760 --> 00:39:31,400
+I don't think so. I mean, they're a highly industrialized processed product. But they still
+
+456
+00:39:31,400 --> 00:39:36,520
+fit into this bucket of food. They do. And therefore they sort of they ride a little bit of the coattails
+
+457
+00:39:36,520 --> 00:39:42,200
+of they're still riding on the, hey, we're putting B vitamins in these things and they're fortified
+
+458
+00:39:42,200 --> 00:39:47,480
+and all this other sort of nonsense. So you're asking is do we need just a grassroots effort to
+
+459
+00:39:47,480 --> 00:39:52,600
+focus on individual choice and action or do we need a public policy change? Well, and I wouldn't
+
+460
+00:39:52,600 --> 00:39:56,280
+even ask it as either or because the obvious answer to that would be you could do both. I guess what
+
+461
+00:39:56,280 --> 00:40:01,880
+I'm getting at is would you be better off putting more effort into sort of the grassroots campaign?
+
+462
+00:40:01,880 --> 00:40:06,840
+It's complicated. When you think of the big changes that happened in policy in this country,
+
+463
+00:40:06,840 --> 00:40:13,160
+the abolition, I mean, there were a few people running people on the underground railroad and
+
+464
+00:40:13,160 --> 00:40:18,280
+pushing for abolition back in the early 1800s. And it took decades and decades for change. But
+
+465
+00:40:18,280 --> 00:40:24,600
+eventually, our entire agricultural and economic system collapse that was founded on slavery and
+
+466
+00:40:24,600 --> 00:40:29,480
+it was reimagined and rebuilt. And I think look at women's rights, same thing, gay rights, civil
+
+467
+00:40:29,480 --> 00:40:34,360
+rights, all those things are things that were really starting on the periphery through grassroots
+
+468
+00:40:34,360 --> 00:40:37,960
+movements, but had to push Congress to make different laws. And I think that's what has to
+
+469
+00:40:37,960 --> 00:40:43,400
+happen. But I think we have to be smart about it as well. I mean, yes, consumers make a difference.
+
+470
+00:40:43,400 --> 00:40:47,640
+That's why we're seeing General Mills commit a million acres to regenerative ag. It's why we're
+
+471
+00:40:47,640 --> 00:40:53,240
+seeing big companies nextly reformulating their products and why there's sustainable regenerative
+
+472
+00:40:53,240 --> 00:40:57,640
+ag initiatives at Danone. I mean, these companies are starting to see that the consumers want
+
+473
+00:40:57,640 --> 00:41:00,920
+different things and they're starting to shift their product lines. They're starting to shift
+
+474
+00:41:00,920 --> 00:41:04,840
+their focus on how their supply chain works and where they get and source their products to
+
+475
+00:41:04,840 --> 00:41:09,480
+regenerative agriculture. So I do believe that the individual has a huge impact through their
+
+476
+00:41:10,120 --> 00:41:14,600
+vote with what they're eating, their fork with their wallet, and of course, even with their vote
+
+477
+00:41:14,600 --> 00:41:19,480
+and their voice. And I think we don't use a ladder enough. That has to all happen. And unfortunately,
+
+478
+00:41:20,040 --> 00:41:24,520
+I do believe that individual choice matters. Yes, we can all have compost piles. We can have community
+
+479
+00:41:24,520 --> 00:41:28,120
+gardens. We can have a garden in our backyard. We can choose to eat, we generally meet. We can
+
+480
+00:41:28,120 --> 00:41:34,760
+be like you, Peter, and go hunting our wild deer. I mean, I'm jealous, but that alone is not enough
+
+481
+00:41:34,760 --> 00:41:40,600
+because there are structural problems that are not solvable unless we change how we grow food,
+
+482
+00:41:41,160 --> 00:41:47,720
+what we grow, how we process, distribute, market, sell, eat, and waste it. And if we don't deal with
+
+483
+00:41:47,720 --> 00:41:52,040
+every aspect along that food chain, we're really not going to solve this problem. And we haven't
+
+484
+00:41:52,040 --> 00:41:56,600
+really talked about it yet, but things like climate change are an increasingly important
+
+485
+00:41:56,600 --> 00:42:01,400
+part of the conversation about food. And that is something that's just not in the radar. Like,
+
+486
+00:42:01,400 --> 00:42:06,440
+how does fixing food fix climate? It does. It's actually one of the only ways to really reverse
+
+487
+00:42:06,440 --> 00:42:11,000
+climate change. Let's talk about that. Some people don't think climate change is real. They call it
+
+488
+00:42:11,000 --> 00:42:14,520
+weather. I mean, whatever you want to call it, there's stuff happening. We're having a million
+
+489
+00:42:14,520 --> 00:42:20,040
+acres flooded in the Midwest, cropland that's destroying farmers' livelihood. We're seeing
+
+490
+00:42:20,040 --> 00:42:24,760
+increasing weather patterns of hurricanes and wildfires in Australia and California. We're
+
+491
+00:42:24,760 --> 00:42:29,880
+seeing melting of 3 trillion tons of ice from the Antarctica. These are just undeniable facts.
+
+492
+00:42:29,880 --> 00:42:34,840
+Can I give you my two cents on this? Yeah. I think the term climate change, global warming,
+
+493
+00:42:34,840 --> 00:42:41,960
+were sort of in retrospect not the best ways to describe this phenomenon. And climate volatility
+
+494
+00:42:41,960 --> 00:42:46,360
+would have been a better way to have explained it because one, it's actually more accurate.
+
+495
+00:42:47,000 --> 00:42:53,240
+And two, it provides a better explanation for what you're describing. Because when you say
+
+496
+00:42:53,240 --> 00:42:57,080
+global warming is a problem, well, then how do you explain a record cold year?
+
+497
+00:42:57,720 --> 00:43:03,720
+It's the high highs, the low lows, and the frequency with which they're cycling,
+
+498
+00:43:03,720 --> 00:43:08,600
+both through hurricanes, fires, things like that. So I wish we could have gone back in time and said,
+
+499
+00:43:08,600 --> 00:43:13,160
+look, the problem is climate volatility. Yeah, it's instability. 2019 was the hottest year on
+
+500
+00:43:13,160 --> 00:43:18,040
+record rather than 2016 in human history. So all of us can feel it. We know it. And I think,
+
+501
+00:43:18,840 --> 00:43:22,920
+so the question is, why is it happening? And what's the cause of it? And clearly,
+
+502
+00:43:22,920 --> 00:43:27,880
+most people think it's fossil fuels and taking up all the carbon that was stored in the earth's
+
+503
+00:43:27,880 --> 00:43:32,920
+crust and burning it and releasing that carbon through fossil fuels. And that's a big part of it,
+
+504
+00:43:32,920 --> 00:43:38,040
+maybe a third, but half of it comes from our food system through all sorts of different mechanisms.
+
+505
+00:43:38,040 --> 00:43:44,280
+One, deforestation, you lose the carbon capture from the trees. The soil destruction from
+
+506
+00:43:44,280 --> 00:43:49,800
+destructive agriculture, which we have, which essentially is a method of industrial growing of
+
+507
+00:43:49,800 --> 00:43:54,920
+food that tills the soil, which disrupts the normal organic matter, causes soil erosion,
+
+508
+00:43:54,920 --> 00:44:00,040
+releases carbon, the environment. It also, when you look at the soil as an issue itself,
+
+509
+00:44:00,040 --> 00:44:05,480
+it's probably the biggest cause and the biggest solution to fixing climate change. And most people
+
+510
+00:44:05,480 --> 00:44:11,720
+don't think about that. They think about oil, not soil, but a third to 40% of all the carbon
+
+511
+00:44:11,720 --> 00:44:19,160
+in the atmosphere today that's causing climate volatility is from the loss of soil. That's a
+
+512
+00:44:19,160 --> 00:44:24,840
+staggering amount. Explain how that's the case. Yeah, well, the soil, when it's alive and has
+
+513
+00:44:24,840 --> 00:44:30,920
+living matter and carbon in the soil, organic matter, which is carbon, it can hold three times
+
+514
+00:44:30,920 --> 00:44:35,880
+the amount of carbon that's in the atmosphere today, which is a trillion tons of carbon.
+
+515
+00:44:35,880 --> 00:44:41,480
+It can hold three trillion tons. The UN estimated that if we take two million of the
+
+516
+00:44:41,480 --> 00:44:47,560
+five million degraded hectares of land around the world and we intensively use regenerative
+
+517
+00:44:47,560 --> 00:44:53,240
+agriculture, which I'll explain in a minute, and restore the soil, we could stop climate change and
+
+518
+00:44:53,240 --> 00:44:57,800
+delay the progression for about 20 years. And it would cost $300 billion, which is essentially what
+
+519
+00:44:57,800 --> 00:45:03,240
+we pay every year for diabetes in America through Medicare. And it's basically the amount of budget
+
+520
+00:45:03,240 --> 00:45:08,280
+for the total global military spend for just two months or 60 days. So this is a solvable problem.
+
+521
+00:45:08,920 --> 00:45:14,440
+And the reason that the soil is such an issue is that it basically takes when the grasses are on
+
+522
+00:45:14,440 --> 00:45:18,520
+there and the plants are on there, it sucks the carbon out of the environment. Can you explain
+
+523
+00:45:18,520 --> 00:45:23,880
+the difference between soil and dirt? Yeah, soil is alive. Soil has all kinds of bugs in it,
+
+524
+00:45:23,880 --> 00:45:30,120
+mycorrhizal fungi, it has all kinds of bacteria, it has all kinds of carbon in it from the plants,
+
+525
+00:45:30,200 --> 00:45:36,680
+and it holds a huge amount of water. For example, for every 1% organic matter, it can hold 27,000
+
+526
+00:45:36,680 --> 00:45:40,280
+gallons of water, which would prevent floods and droughts, which it does and creates more
+
+527
+00:45:40,280 --> 00:45:45,320
+resilient farms. Explain that again. When you have soil, it's like a sponge. So when it rains,
+
+528
+00:45:45,880 --> 00:45:51,240
+instead of the rain running off or running through, gets stored like a sponge in the soil
+
+529
+00:45:51,240 --> 00:45:55,240
+so that you don't need to irrigate, that you don't have to worry about floods and droughts.
+
+530
+00:45:55,240 --> 00:45:59,640
+Now, the reason we had so much of these floods and these flooded farm fields in the Midwest was
+
+531
+00:45:59,640 --> 00:46:03,800
+because these soils are just dead and you have to do more and more fertilizer. So we're killing
+
+532
+00:46:03,800 --> 00:46:08,120
+the soil by using fertilizer, by pesticides, herbicides, tilling, not using cover crops,
+
+533
+00:46:08,120 --> 00:46:13,320
+not using crop rotations, not using animals in an integrated way to actually create more soil.
+
+534
+00:46:13,880 --> 00:46:18,600
+And everything we're doing is just destroying the soil. When you have a live soil, when you have
+
+535
+00:46:18,600 --> 00:46:22,360
+the ability of these plants to suck out carbon dioxide, because they breathe carbon dioxide,
+
+536
+00:46:22,360 --> 00:46:25,560
+that's what plants do. They breathe out oxygen, which we breathe, and it's a vicious, I mean,
+
+537
+00:46:25,640 --> 00:46:30,600
+a beautiful virtuous cycle. And the carbon dioxide from the atmosphere gets pulled through
+
+538
+00:46:30,600 --> 00:46:37,320
+the plants into the soil and stays there. And you can build soil simply by using this technology
+
+539
+00:46:37,320 --> 00:46:41,720
+and integrating animals that poop and pee. So I don't think I was aware of that. I'll put my
+
+540
+00:46:41,720 --> 00:46:47,480
+ignorance on full display. I always assumed that the majority of the carbon that came in,
+
+541
+00:46:47,480 --> 00:46:54,360
+that the plant brought in through the photocell, was for carbon fixation, which was creating
+
+542
+00:46:54,360 --> 00:46:59,320
+bio matter. So in other words, carbon and oxygen are coming in the form of carbon dioxide. That
+
+543
+00:46:59,320 --> 00:47:05,480
+carbon is being fixated to other carbons. That's how we make hydrocarbons within the plants.
+
+544
+00:47:05,480 --> 00:47:06,440
+Yeah, carbohydrates.
+
+545
+00:47:06,440 --> 00:47:10,360
+That's right. And then the oxygen is being released. But I didn't realize that there was
+
+546
+00:47:10,360 --> 00:47:12,840
+any carbon dioxide stored in soil.
+
+547
+00:47:12,840 --> 00:47:16,920
+Yeah. And if you look at the mechanism, it goes into the plant, but it also goes into the roots.
+
+548
+00:47:16,920 --> 00:47:21,080
+And so you've got this incredible root system and you've got micro isofungi that are fed off.
+
+549
+00:47:21,160 --> 00:47:26,440
+I see. So you're just saying the hydrocarbon within the roots of the plant is the storage,
+
+550
+00:47:26,440 --> 00:47:29,640
+not in the soil per se, not in the actual dirt and bacteria.
+
+551
+00:47:29,640 --> 00:47:35,160
+No, no. Then it gets eaten by the bacteria, eaten by this massive micro isofungi, and it creates
+
+552
+00:47:35,160 --> 00:47:42,040
+a lot of necrotic dead, but like actually organic matter. It's an incredibly rich living organism,
+
+553
+00:47:42,040 --> 00:47:47,160
+and dirt is just dead. Dirt doesn't hold water. It doesn't have much carbon in it. It doesn't have
+
+554
+00:47:47,240 --> 00:47:50,680
+much nutrients. And in order to actually to extract the nutrients from the plants,
+
+555
+00:47:50,680 --> 00:47:55,880
+you have to have organic matter, which allows this and bacteria and all these micro isofungi,
+
+556
+00:47:55,880 --> 00:48:01,720
+which make the nutrients in the soil available to the plant. And since we are growing food in dirt,
+
+557
+00:48:01,720 --> 00:48:08,280
+we see 50% less nutrient density of even healthy food. Like broccoli has less minerals than it did
+
+558
+00:48:08,280 --> 00:48:12,920
+50 years ago. So you have all these complicated factors that are driving the destruction of our
+
+559
+00:48:12,920 --> 00:48:17,240
+soil. Fertilizer is another one. I don't think people really understand the fertilizer story.
+
+560
+00:48:17,240 --> 00:48:22,920
+There's 400 billion pounds of fertilizer used everywhere in the world. It's a seven-fold
+
+561
+00:48:22,920 --> 00:48:28,120
+increase over the last 40 years because they're two thirds as effective. The way you make fertilizer
+
+562
+00:48:28,120 --> 00:48:33,720
+is a chemically intensive process that uses energy. It's one of the biggest utilizers of energy and
+
+563
+00:48:33,720 --> 00:48:40,360
+the number one utilizer of fracking produced natural gas, which I didn't even know. So when
+
+564
+00:48:40,360 --> 00:48:45,960
+you look at the fertilizers, they use more natural gas than Exxon. And in order to make the gas,
+
+565
+00:48:45,960 --> 00:48:52,200
+they use more fertilizer than Exxon produces. So they use more energy than Exxon produces.
+
+566
+00:48:52,200 --> 00:48:57,560
+Yes, they use more natural gas than Exxon uses. So the Yara and Mosaic, these big fertilizer
+
+567
+00:48:57,560 --> 00:49:04,120
+companies are making fertilizer using this intensive energy process that needs natural gas.
+
+568
+00:49:04,120 --> 00:49:09,560
+When you frack, you actually release methane from these methane leaks that come out of these
+
+569
+00:49:09,560 --> 00:49:14,920
+fracking wells. Recently, there's one in Ohio that you could see from space. And that actually
+
+570
+00:49:14,920 --> 00:49:21,240
+is about a quarter of all methane-releasing gas in the environment today, which is as much as
+
+571
+00:49:21,240 --> 00:49:27,560
+factory farm cows. And that's from growing plants. Do you know what percent of, I don't know the
+
+572
+00:49:27,560 --> 00:49:31,640
+numbers anymore, but there was a day when the United States was consuming 20 million barrels
+
+573
+00:49:31,640 --> 00:49:37,000
+of oil and oil equivalent per day. It's probably a bit less than that today. Do you know what amount
+
+574
+00:49:37,000 --> 00:49:43,080
+of that is in the production, transport, consumption of food? Oh, yeah, sure. One fifth
+
+575
+00:49:43,080 --> 00:49:48,760
+of all our oil consumption is for the food system. That's more than all cars, planes, boats,
+
+576
+00:49:49,320 --> 00:49:53,800
+transportation combined. So it's a staggering amount of oil and part of it is-
+
+577
+00:49:53,800 --> 00:49:55,640
+It can't be combined though, because those-
+
+578
+00:49:55,640 --> 00:49:57,880
+No, combined. All transportation combined-
+
+579
+00:49:57,880 --> 00:50:00,440
+Is less than one fifth of our total oil consumption?
+
+580
+00:50:00,440 --> 00:50:05,400
+Mm-hmm. Because a lot of it's industry and other things. So yeah, it's pretty staggering.
+
+581
+00:50:05,400 --> 00:50:06,440
+And so the fracking-
+
+582
+00:50:06,440 --> 00:50:12,920
+So 20% of our energy utilization is to make fertilizer, deliver seed, harvest-
+
+583
+00:50:12,920 --> 00:50:15,720
+Yeah, pesticides, herbicides, all come from fossil fuels.
+
+584
+00:50:15,720 --> 00:50:16,200
+Stribute.
+
+585
+00:50:16,200 --> 00:50:19,960
+So the fertilizer starting gets even worse because once you, now you have all the gas you're using,
+
+586
+00:50:19,960 --> 00:50:23,320
+the methane release from that, when you put on the soil, it kills the soil.
+
+587
+00:50:23,880 --> 00:50:27,000
+And sorry, the purpose of fertilizer is to provide-
+
+588
+00:50:27,000 --> 00:50:27,400
+Nitrogen.
+
+589
+00:50:27,400 --> 00:50:28,680
+Generally nitrogen phosphorus, right?
+
+590
+00:50:28,680 --> 00:50:30,520
+Nitrogen, yes, nitrogen to the plants.
+
+591
+00:50:30,520 --> 00:50:34,120
+So again, just taking a step back for the biochemistry understanding of this.
+
+592
+00:50:34,120 --> 00:50:36,280
+I think plant biology by the way is so incredible.
+
+593
+00:50:36,280 --> 00:50:36,920
+Great.
+
+594
+00:50:36,920 --> 00:50:40,600
+Because I don't think people appreciate the significance of carbon fixation,
+
+595
+00:50:40,600 --> 00:50:47,160
+how complicated a chemical reaction it is to take carbon and join it to carbon like a plant can do.
+
+596
+00:50:47,160 --> 00:50:50,600
+So, I mean, it's very energy intensive, which is why it requires sunlight.
+
+597
+00:50:50,600 --> 00:50:56,360
+So you've got this photosynthetic thing. But basically plants need carbon,
+
+598
+00:50:56,360 --> 00:50:59,480
+which they're getting from the air. They need nitrogen and phosphorus,
+
+599
+00:50:59,480 --> 00:51:03,720
+which they're getting from their soil and they need energy and water,
+
+600
+00:51:04,440 --> 00:51:07,800
+which they're getting from the environment. And then they make biomass.
+
+601
+00:51:07,800 --> 00:51:08,840
+Yeah, exactly.
+
+602
+00:51:08,840 --> 00:51:12,360
+So the fertilizer is where we give them the nitrogen and the phosphorus, correct?
+
+603
+00:51:12,360 --> 00:51:16,920
+Yes, but most of the fertilizer that was growing plants historically came from
+
+604
+00:51:16,920 --> 00:51:20,920
+either nitrogen fixing plants like the legumes or from the animals.
+
+605
+00:51:20,920 --> 00:51:24,360
+The reason we have 50 feet of topsoil in some areas in this country,
+
+606
+00:51:25,080 --> 00:51:28,600
+150 years ago, is because of all millions of bison running around.
+
+607
+00:51:28,600 --> 00:51:33,720
+There was like bison and elk and all these ruminants that were running around in big herds,
+
+608
+00:51:33,720 --> 00:51:37,400
+chomping things down, moving on to the next spot, peeing and pooping, digging the thing,
+
+609
+00:51:37,400 --> 00:51:41,400
+saliva makes the grass grow. So it's this beautiful symbiotic system that built
+
+610
+00:51:41,400 --> 00:51:45,800
+literally tens of feet of topsoil. And it's not that we have too many cows, it's how we're growing.
+
+611
+00:51:45,800 --> 00:51:48,760
+I mean, I think it's worth pausing for a moment to explain for folks.
+
+612
+00:51:48,760 --> 00:51:51,880
+I'll try to do it quickly. There was a day, believe it or not, like 10 years ago when
+
+613
+00:51:51,880 --> 00:51:55,160
+I was obsessed with understanding agriculture. So everything I'm saying is 10 years old.
+
+614
+00:51:55,160 --> 00:52:01,400
+So you can correct me if I'm wrong. But basically, if you use corn as the model system,
+
+615
+00:52:01,400 --> 00:52:07,320
+and you look at the only metric that really matters, which is bushels per acre per year,
+
+616
+00:52:07,320 --> 00:52:15,560
+yield, it all comes down to yield. Basically, from the Civil War to about the end of World War II,
+
+617
+00:52:16,280 --> 00:52:22,040
+if you look at crop yield and you see the plot, it was about 20 bushels per acre per year.
+
+618
+00:52:22,600 --> 00:52:27,800
+So every acre could produce 20 bushels of corn per year. Obviously, it fluctuated quite a bit
+
+619
+00:52:27,800 --> 00:52:33,480
+from year to year, but it was a largely horizontal jagged line from about the end of the Civil War
+
+620
+00:52:33,480 --> 00:52:38,520
+to the end of World War II. And then something really interesting happens. At the end of World
+
+621
+00:52:38,520 --> 00:52:48,200
+War II, that line just turns up and just almost in a linear fashion rises to 200 bushels per acre
+
+622
+00:52:48,200 --> 00:52:54,040
+per year. And I think what a lot of people erroneously assume is, oh, it's the goddamn GMO.
+
+623
+00:52:54,040 --> 00:52:59,000
+Well, actually, no, not at all. GMO didn't even kick in until that number was 160.
+
+624
+00:52:59,000 --> 00:53:06,360
+It was nitrogen-based fertilizer, crop rotation, industrial farming, meaning the ability to actually
+
+625
+00:53:06,360 --> 00:53:12,680
+use machines to not just have a farmer out there doing something. It was selective breeding,
+
+626
+00:53:12,680 --> 00:53:18,440
+crossing. So it was a bunch of things that came in. Then basically, GMO has put a 10%
+
+627
+00:53:18,440 --> 00:53:21,720
+plus up on that from a yield perspective. Maybe, maybe. That's debatable.
+
+628
+00:53:21,720 --> 00:53:28,120
+So yeah, anyway, the point here is this process really began in earnest about 70 years ago.
+
+629
+00:53:28,120 --> 00:53:33,720
+And prior to 70 years ago, it's been remarkably flat. So of course, this goes back to something
+
+630
+00:53:33,720 --> 00:53:39,240
+you said earlier, which is post-World War II, we had to figure out how to feed a bunch of people.
+
+631
+00:53:39,240 --> 00:53:44,840
+And 20 bushels per acre per year was not cutting it. We're now 10 times the yield,
+
+632
+00:53:45,400 --> 00:53:47,400
+as you're pointing out, at quite a cost.
+
+633
+00:53:47,400 --> 00:53:48,280
+At quite a cost, yeah.
+
+634
+00:53:48,280 --> 00:53:53,960
+So the question then is, I mean, you talk about in your book how we're wasting a third of the food
+
+635
+00:53:53,960 --> 00:54:00,520
+produced. So we don't really need 2200 bushels per acre per year if we stop wasting. Have you
+
+636
+00:54:00,520 --> 00:54:05,000
+figured out or at least calculated what you think the sweet spot is, which is if you were to back
+
+637
+00:54:05,000 --> 00:54:12,120
+off the aggressive yield measures, not waste, how much of the benefit could you recapture that was
+
+638
+00:54:12,120 --> 00:54:16,200
+there when, for example, we used animals as our fertilizer?
+
+639
+00:54:16,200 --> 00:54:21,240
+That's right. There's sort of a fallacy in the idea that we can't produce the same amount of
+
+640
+00:54:21,240 --> 00:54:25,880
+food using regenerative methods. I think that's been disproven.
+
+641
+00:54:25,880 --> 00:54:31,320
+Do you believe, in other words, there is 200 bushels per acre per year using regenerative methods?
+
+642
+00:54:31,320 --> 00:54:34,760
+Well, let me just share a quick story. Now I want to share this story and I'm going to come back to
+
+643
+00:54:34,840 --> 00:54:38,360
+the fertilizer and talk about the rest of the different aspects that are causing climate change.
+
+644
+00:54:38,360 --> 00:54:44,280
+I think people need to understand that. There's a guy named Gabe Brown who was a North Dakota farmer,
+
+645
+00:54:44,280 --> 00:54:50,840
+5,000 acre farm, devastated by hail, devastated by weather, and was about to go bankrupt and then
+
+646
+00:54:50,840 --> 00:54:56,200
+decided he wanted to try regenerative agriculture. And many years ago, he started it. And now he says
+
+647
+00:54:56,200 --> 00:55:02,040
+he's built 29 inches of soil. He uses no chemical inputs, makes his own fertilizer from the animals
+
+648
+00:55:02,040 --> 00:55:06,840
+and the plants that he plants, the nitrogen fixing plants. He produces more food, better
+
+649
+00:55:06,840 --> 00:55:14,040
+quality food, and makes 20 times as much money as his neighbor. So in terms of productivity,
+
+650
+00:55:14,040 --> 00:55:18,200
+a regenerative farm is far more productive. And I think there's this fallacy that we need
+
+651
+00:55:18,200 --> 00:55:23,160
+green revolution, we need industrial agriculture to feed the world. That's really been disproven.
+
+652
+00:55:23,160 --> 00:55:29,160
+And I think that's the mantra of Big Ag. It's the mantra of Monsanto and now, which is bare,
+
+653
+00:55:29,160 --> 00:55:33,960
+and a lot of these big agrochemical companies that are trying to push their products on the
+
+654
+00:55:33,960 --> 00:55:37,640
+marketplace. And so I think we have to sort of be smart about going, wait a minute, it's not just
+
+655
+00:55:37,640 --> 00:55:42,680
+about trying to sort of go back to some old form of agriculture that isn't going to produce the
+
+656
+00:55:42,680 --> 00:55:47,240
+yields. No, I think this is not what was done. This is a sort of a new way of thinking. It combines
+
+657
+00:55:47,240 --> 00:55:52,040
+organic, but it also goes beyond that. And the reason is it sort of interrupts all these problems
+
+658
+00:55:52,040 --> 00:55:56,520
+that are actually driving climate change. So we talked about the fertilizer. Once you put it on
+
+659
+00:55:56,520 --> 00:56:02,840
+the soil, it damages the soil and it releases nitrous oxide, which is 300 times more potent
+
+660
+00:56:02,840 --> 00:56:06,840
+of greenhouse gas than carbon dioxide. So you're getting all the fracking, you're getting the
+
+661
+00:56:06,840 --> 00:56:11,720
+destruction of the soil on top of that. It's like a triple threat. As a backend side effect,
+
+662
+00:56:11,720 --> 00:56:16,360
+all that runs off into the river streams and lakes and goes into the oceans and has created dead
+
+663
+00:56:16,360 --> 00:56:20,920
+zones in 400 areas around the world the size of Europe. There's one the size of New Jersey in the
+
+664
+00:56:20,920 --> 00:56:27,160
+Gulf of Mexico that kills 212,000 metric tons of fish every year. It's a lot of gumbo and sushi.
+
+665
+00:56:27,720 --> 00:56:33,320
+And there's 400 of those around the world that are feeding 500 billion people. So this is what
+
+666
+00:56:33,320 --> 00:56:38,360
+fertilizer does alone. And then of course you have deforestation, the soil erosion, so forth.
+
+667
+00:56:38,360 --> 00:56:45,960
+And why is that not a problem when the fertilizer is coming from an organic nitrogen source versus
+
+668
+00:56:45,960 --> 00:56:50,600
+an inorganic one? Well, of course, right. So an organic nitrogen source poop goes in there and
+
+669
+00:56:51,560 --> 00:56:57,400
+nitrogen fixing plants and it stays in the soil as opposed to running off through this degraded soil
+
+670
+00:56:57,400 --> 00:57:01,720
+into the river stream. So is the issue the fertilizer or the nature of the soil that can't
+
+671
+00:57:01,720 --> 00:57:08,040
+hold the fertilizer? It's both. In order to get dirt to produce plants, you need to put on huge
+
+672
+00:57:08,040 --> 00:57:13,080
+amounts of fertilizer. Like I said, the increase in the use of fertilizer is seven fold compared
+
+673
+00:57:13,080 --> 00:57:18,680
+to 40 years ago. So if I'm understanding what you're saying, the problem with fertilizer
+
+674
+00:57:19,560 --> 00:57:25,640
+is it allows us to be lazy and rely less on healthy soil and because you can dump fertilizer
+
+675
+00:57:25,640 --> 00:57:31,640
+on dirt and eventually grow. Beating a dead horse. But if you actually want the healthiest soil
+
+676
+00:57:31,640 --> 00:57:38,360
+possible, you will get your nitrogen contribution from an element that stays within the ecosystem
+
+677
+00:57:38,360 --> 00:57:41,000
+of the soil because it's a part of it. And therefore you're not going to have the runoff.
+
+678
+00:57:41,000 --> 00:57:44,360
+Is that accurate? Exactly. And so you've got deforestation, you've got damage to soil and all
+
+679
+00:57:44,360 --> 00:57:49,080
+the ways we talked about and you've got transportation, refrigeration, processing,
+
+680
+00:57:49,080 --> 00:57:54,280
+distribution, those all cost energy and then food waste, which is a big cost. So how do you estimate
+
+681
+00:57:54,280 --> 00:57:59,320
+that? That is a staggering number that a third of our food is wasted. That is just what the sort of
+
+682
+00:57:59,320 --> 00:58:04,120
+conventional assessments are around food waste in the world. It's not in my opinion, it's what the
+
+683
+00:58:04,120 --> 00:58:07,640
+UN says. But I mean, what's the methodology by which one calculates that? Good question. I don't
+
+684
+00:58:07,720 --> 00:58:11,560
+know the answer to that question, but that's a good question. But I think it's a generally
+
+685
+00:58:11,560 --> 00:58:15,960
+accepted thing. It's between 30 to 40%. It's different for different reasons in the developing
+
+686
+00:58:15,960 --> 00:58:19,880
+world versus here. We throw out food in our kitchen, they have lose food in the food chain
+
+687
+00:58:19,880 --> 00:58:24,680
+because of lack of storage and transportation, refrigeration. So you've got all these causes
+
+688
+00:58:25,320 --> 00:58:31,400
+which add up to about 50% of climate change. And by shifting how we grow food and focusing on
+
+689
+00:58:31,400 --> 00:58:37,320
+regenerative agriculture, which specifically means regenerating soil and ecosystems, in other words,
+
+690
+00:58:37,320 --> 00:58:41,560
+increasing the amount of organic matter in the soil, increasing water retention, using crop
+
+691
+00:58:41,560 --> 00:58:48,040
+rotations, using cover crops so there's no bare soil, so using animals in very specific
+
+692
+00:58:48,040 --> 00:58:52,840
+grazing patterns that mimics nature to actually intensively graze the land and move the animals
+
+693
+00:58:52,840 --> 00:58:56,760
+around to actually stimulate the growth of the plants, stimulate the soil and so forth. So
+
+694
+00:58:56,760 --> 00:59:02,120
+all those techniques could be easily applied and are done in literally millions of acres around
+
+695
+00:59:02,120 --> 00:59:06,840
+the world with great benefit and high productivity and mitigating climate at the same time.
+
+696
+00:59:07,320 --> 00:59:12,520
+What's the obstacle to it? The obstacle is you've got a $15 trillion food industry that's
+
+697
+00:59:12,520 --> 00:59:18,120
+dependent on the products of industrial farming and is actually selling the seeds, it's selling
+
+698
+00:59:18,120 --> 00:59:22,440
+the fertilizer, it's selling the pesticides and herbicides, it's selling all the...
+
+699
+00:59:22,440 --> 00:59:27,240
+Is it the convenience? For example, when you talk about the gentleman you alluded to earlier
+
+700
+00:59:27,240 --> 00:59:30,120
+who basically switched, how many acres does he have?
+
+701
+00:59:30,120 --> 00:59:31,000
+5,000.
+
+702
+00:59:31,000 --> 00:59:35,080
+5,000 acres and he switched over to fully regenerative. Sounds like he's increased his
+
+703
+00:59:35,080 --> 00:59:36,200
+profitability.
+
+704
+00:59:36,200 --> 00:59:38,840
+Dramatically and resilience.
+
+705
+00:59:38,840 --> 00:59:44,200
+Has that increase in profitability come through higher price, higher volume or lower cost?
+
+706
+00:59:44,840 --> 00:59:50,280
+I mean, these farmers lose an average in this country about $1,600 a year. That's their net,
+
+707
+00:59:50,280 --> 00:59:51,960
+is minus $1,600 a year.
+
+708
+00:59:51,960 --> 00:59:52,840
+Per acre.
+
+709
+00:59:52,840 --> 00:59:57,880
+No, per farm. Like if you're a farmer, the average farmer, according to the USDA and other statistics,
+
+710
+00:59:58,680 --> 01:00:01,960
+loses money every year. He's making money because...
+
+711
+01:00:01,960 --> 01:00:02,920
+On the subsidies.
+
+712
+01:00:02,920 --> 01:00:03,480
+What do you mean?
+
+713
+01:00:03,800 --> 01:00:07,080
+Is the only reason he can make a living because of the subsidy?
+
+714
+01:00:07,080 --> 01:00:08,120
+This guy in North Dakota?
+
+715
+01:00:08,120 --> 01:00:10,440
+No, no, no, no. The farmer who's losing $1,600 a year.
+
+716
+01:00:10,440 --> 01:00:12,840
+Yeah, I mean, they have write-offs and subsidies and so forth. I mean,
+
+717
+01:00:12,840 --> 01:00:16,760
+Trump just bailed them out for $20 billion, which is almost as much as all the subsidies
+
+718
+01:00:16,760 --> 01:00:21,800
+that exist in the country annually, which is a lot of money. And the farmers struggle and they're
+
+719
+01:00:21,800 --> 01:00:26,200
+caught between basically the big ag and the government. The government's saying, you need
+
+720
+01:00:26,200 --> 01:00:30,920
+to produce these foods, here's the money to support you to do it. But that money then goes
+
+721
+01:00:30,920 --> 01:00:36,280
+to buy the seed from Monsanto or the glyphosate from Monsanto or the other agrochemicals and
+
+722
+01:00:36,280 --> 01:00:40,200
+fertilizer from Yara. So they're taking... They're just sort of the pass-through of the money from
+
+723
+01:00:40,200 --> 01:00:45,000
+the government to big ag and the industry. And that's the problem. Whereas this guy,
+
+724
+01:00:45,000 --> 01:00:49,160
+Gabe Brown in North Dakota, he doesn't have to buy seed. He doesn't have to buy fertilizer.
+
+725
+01:00:49,160 --> 01:00:52,920
+He doesn't have to buy glyphosate. He doesn't have to buy pesticides. He doesn't eat a lot
+
+726
+01:00:52,920 --> 01:00:58,920
+of irrigation because his soil holds so much water. He has a diverse ecosystem of animals and plants
+
+727
+01:00:58,920 --> 01:01:03,240
+that he can grow and sell and make a profit that's more than the others. And how long would
+
+728
+01:01:03,240 --> 01:01:07,640
+it take someone like him to make that transition? So it's about three to five years, depending. So
+
+729
+01:01:07,640 --> 01:01:12,040
+we need a massive effort for supporting and transforming our agricultural system to a
+
+730
+01:01:12,040 --> 01:01:15,720
+regenerative ag. And there's groups that are working on this like Kiss the Ground and
+
+731
+01:01:15,720 --> 01:01:19,080
+Carbon Underground that are consulting with governments around the world to help them
+
+732
+01:01:19,080 --> 01:01:24,280
+understand this. And the UN gets this. There's a huge report called Climate Change and Land Use
+
+733
+01:01:24,280 --> 01:01:30,840
+that came out in August 2019, which laid these problems out and how we are degrading our land
+
+734
+01:01:30,840 --> 01:01:35,640
+that's contributing to climate. And the solution is multifaceted, but includes restoring these
+
+735
+01:01:35,640 --> 01:01:41,400
+degraded lands. And people say, oh, we can't do this at scale. It's too expensive. The truth is,
+
+736
+01:01:41,400 --> 01:01:46,200
+if you look at all the conservation land in this country, if you look at all the conservation land
+
+737
+01:01:46,200 --> 01:01:50,040
+in this country, if you look at degraded lands that aren't being used properly, if you look at
+
+738
+01:01:50,120 --> 01:01:54,760
+land that's used to grow corn and soy for factory farm animals, that could be converted. And we
+
+739
+01:01:54,760 --> 01:01:59,400
+can literally double the amount of cows we produce every year on regenerative farms than we do now.
+
+740
+01:01:59,400 --> 01:02:03,160
+Not that we should, not that we need all that meat, but I'm just saying the argument that it's
+
+741
+01:02:03,160 --> 01:02:07,080
+not scalable, that it's not cost effective, it's just not true. And the truth is you can say you
+
+742
+01:02:07,080 --> 01:02:11,560
+can be vegan, fine, but we should all grow more plants. But there's a lot of land on the planet,
+
+743
+01:02:11,560 --> 01:02:17,560
+about 40% of the arable land, you can't grow food for humans. So these animals upcycle
+
+744
+01:02:18,040 --> 01:02:23,000
+inedible food and put it into a form that we can eat that's extremely nutrient dense. There's a
+
+745
+01:02:23,000 --> 01:02:27,320
+beautiful symbiotic ecosystem here. And you don't have to eat the animals if you don't want to,
+
+746
+01:02:27,320 --> 01:02:31,000
+I don't care, but they're needed for the regeneration of soil.
+
+747
+01:02:31,000 --> 01:02:36,200
+Who has done the most comprehensive life cycle assessment on this transformation as you describe
+
+748
+01:02:36,200 --> 01:02:40,120
+it? So how many acres are there of agricultural land in the United States, approximately?
+
+749
+01:02:40,120 --> 01:02:43,240
+Oh, good, Lord, I should know that. I don't, it's a lot of millions.
+
+750
+01:02:43,400 --> 01:02:44,360
+It's a lot of millions.
+
+751
+01:02:44,360 --> 01:02:50,840
+So if you take that number and on a per acre basis do the calculation of over five years,
+
+752
+01:02:50,840 --> 01:02:57,320
+everybody transitions to a more regenerative, appropriately rotated, covered ag position.
+
+753
+01:02:57,960 --> 01:03:03,720
+How many tons of CO2 can be sequestered per acre under those scenarios?
+
+754
+01:03:03,720 --> 01:03:11,160
+A lot. So the book called Drawdown is a wonderful explanation of the top solutions that exist today
+
+755
+01:03:11,160 --> 01:03:16,520
+that don't need to be invented that can draw down carbon out of the environment. And collectively,
+
+756
+01:03:16,520 --> 01:03:20,280
+the food solutions, Paul Hawken, yeah, he's a good friend of mine.
+
+757
+01:03:20,280 --> 01:03:23,080
+Yeah, actually, I'd like to interview him. He looks like someone who would be interesting
+
+758
+01:03:23,080 --> 01:03:24,040
+to interview on this topic.
+
+759
+01:03:24,040 --> 01:03:27,000
+Yeah, he's coming up with a new book called Regenerate, which is how do we regenerate
+
+760
+01:03:27,000 --> 01:03:31,880
+our health, regenerate the soil and so forth. And unexpectedly found that the food solutions
+
+761
+01:03:31,880 --> 01:03:37,960
+were the top solutions to fixed climate change that aren't really being implemented. And it's
+
+762
+01:03:37,960 --> 01:03:42,840
+been estimated that this much investment in billions results in this much value in trillions
+
+763
+01:03:42,840 --> 01:03:47,480
+and it reduces carbon by this many gigatons. And it's all in the book. So the calculation
+
+764
+01:03:47,480 --> 01:03:52,120
+has been done, the analysis has been done. And I think it's been estimated by some that we could
+
+765
+01:03:52,120 --> 01:03:56,840
+draw down anywhere from 30% to 100% of all the carbon that's been released since the Industrial
+
+766
+01:03:56,840 --> 01:04:01,000
+Revolution if we can scale this up. What's the biggest counter argument to this?
+
+767
+01:04:01,000 --> 01:04:05,720
+There isn't any. I mean, I think the argument is we need to have industrial agriculture to
+
+768
+01:04:05,720 --> 01:04:09,880
+feed the world. That's the mantra. It's like calories are all the same. It's that same mantra
+
+769
+01:04:09,880 --> 01:04:14,600
+that isn't science-based, but that suits the needs of agrochemical and agribusiness.
+
+770
+01:04:14,600 --> 01:04:19,160
+But there's no one that's got a pushback argument that says, no, these calculations are overly
+
+771
+01:04:19,160 --> 01:04:23,720
+optimistic and you would introduce a new problem if you do this.
+
+772
+01:04:23,720 --> 01:04:29,000
+Of course, there are people all the time who are trying to refute this. And whether it's
+
+773
+01:04:29,000 --> 01:04:33,240
+agribusiness or even the vegan communities come out and say regenerative agriculture is not going
+
+774
+01:04:33,240 --> 01:04:38,280
+to solve a problem. People like Pat Brown from Impossible Foods has been really clearly stating
+
+775
+01:04:38,280 --> 01:04:42,120
+that we need to get rid of all meat, that even regenerative meat doesn't work in terms of
+
+776
+01:04:42,120 --> 01:04:46,680
+protecting the environment. And he quotes various studies that were, I do analyze in my book Food
+
+777
+01:04:46,680 --> 01:04:51,640
+Fix, talk about how they're flawed and actually miss a lot of the data. So I think it does take
+
+778
+01:04:51,640 --> 01:04:56,200
+time to create regenerative agriculture. It does take effort. But once you do it, there's an
+
+779
+01:04:56,200 --> 01:05:01,400
+incredible value chain that gets put in place. And there are countries that are understanding
+
+780
+01:05:01,400 --> 01:05:08,280
+this. We take out of the earth a lot of natural capital, about $125 trillion a year of resources
+
+781
+01:05:08,280 --> 01:05:12,840
+and soil and everything else that we steal from the earth. We don't put it back and it's running
+
+782
+01:05:12,840 --> 01:05:17,640
+out. How much did you say? 125 trillion. And the global GDP is probably 80 to 90 trillion.
+
+783
+01:05:17,640 --> 01:05:19,480
+I was about to say that's more than the global GDP.
+
+784
+01:05:19,480 --> 01:05:24,200
+Yeah, which is about 80 to 90, right? It's more than that every year. And there's a lot of people
+
+785
+01:05:24,200 --> 01:05:28,760
+working on this. For example, there's a private equity company called Farmland LP that's buying
+
+786
+01:05:28,760 --> 01:05:33,160
+up conventional farms, converting them to regenerative agriculture and moving those farms
+
+787
+01:05:33,160 --> 01:05:39,240
+from single digit profits to high double digit. Their first fund had a 67% return. And when they
+
+788
+01:05:39,240 --> 01:05:45,960
+look at the benefit they provide to the environment, we call ecosystem services. That's the $125
+
+789
+01:05:45,960 --> 01:05:52,040
+million of ecosystem services, the natural capital we borrow. They add $21 million of value on their
+
+790
+01:05:52,040 --> 01:05:57,320
+farms versus a similar amount of conventional farms would actually steal $8 million of value
+
+791
+01:05:57,400 --> 01:06:02,120
+from the earth. And countries like Costa Rica are paying for ecosystem services for their farmers
+
+792
+01:06:02,120 --> 01:06:06,760
+or paying them to produce more soil to actually conserve water, to increase biodiversity, which
+
+793
+01:06:06,760 --> 01:06:08,440
+we haven't even talked about, which is a whole other topic.
+
+794
+01:06:08,440 --> 01:06:12,600
+I want to get to it. Let's see. Talk to me a little bit about, it's funny, Pat Brown was one
+
+795
+01:06:12,600 --> 01:06:16,760
+of my professors in medical school. Oh, geez. Okay. So I mean, I don't know if a lot of people
+
+796
+01:06:16,760 --> 01:06:24,440
+realized what a prominent scientist Pat was. And if you look at the type of work Pat did in the 90s,
+
+797
+01:06:25,240 --> 01:06:30,120
+I mean, it's not inconceivable. He could have gone down the path of a Nobel prize.
+
+798
+01:06:30,120 --> 01:06:33,400
+Yeah. I mean, they're a smart guy, but the challenge is you don't have to vilify
+
+799
+01:06:34,280 --> 01:06:37,000
+people wanting to do regenerative agriculture. Yeah. And I was just going to say, I don't know
+
+800
+01:06:37,000 --> 01:06:42,280
+anything about Pat. I know very little about their philosophy around why they've created the,
+
+801
+01:06:42,280 --> 01:06:44,840
+is it the impossible burger? There's two of these out there. One's-
+
+802
+01:06:44,840 --> 01:06:47,800
+Beyond burger, beyond meat and impossible burger.
+
+803
+01:06:47,800 --> 01:06:49,480
+Okay. And I can never get the two of them straight, but-
+
+804
+01:06:49,480 --> 01:06:53,880
+I mean, one is pea based, which is the beyond meat and one is GMO soy based, which is-
+
+805
+01:06:53,960 --> 01:06:56,040
+And that's up the GMO one must be Pat's.
+
+806
+01:06:56,040 --> 01:06:59,400
+If you look at the light, you last about a life cycle analysis, Qantas, which is an
+
+807
+01:06:59,400 --> 01:07:03,560
+independent life cycle analysis company did an analysis of the impossible burger compared to
+
+808
+01:07:04,360 --> 01:07:09,800
+regenerally raised beef burger. And the impossible burger was far better than a
+
+809
+01:07:09,800 --> 01:07:14,760
+conventional factory farm burger, but it added three and a half kilos of carbon for every burger
+
+810
+01:07:14,760 --> 01:07:16,200
+you ate. Which one did?
+
+811
+01:07:16,200 --> 01:07:17,400
+The impossible burger.
+
+812
+01:07:17,400 --> 01:07:18,120
+So say that again.
+
+813
+01:07:18,120 --> 01:07:21,560
+So the impossible burger was better than a factory farm burger by far,
+
+814
+01:07:21,560 --> 01:07:26,200
+but it still added three and a half kilos of carbon to the environment for every burger.
+
+815
+01:07:26,200 --> 01:07:30,200
+A regenerally raised burger, including methane, everything, all the inputs,
+
+816
+01:07:30,200 --> 01:07:33,880
+took out three and a half kilos of carbon. Meaning you'd have to eat
+
+817
+01:07:33,880 --> 01:07:38,600
+one regenerally raised beef burger to offset the carbon emissions of a impossible burger.
+
+818
+01:07:39,240 --> 01:07:43,480
+So I'm not against plant-based meats, but I think we can't overstate the importance of-
+
+819
+01:07:43,480 --> 01:07:47,720
+And what, by comparison, what was the factory farm burger? Do you remember how much carbon was added?
+
+820
+01:07:47,720 --> 01:07:49,960
+Three and a half kilos of carbon were removed-
+
+821
+01:07:49,960 --> 01:07:50,840
+No, no, no. Sorry, the factory farm-
+
+822
+01:07:50,920 --> 01:07:55,560
+The factory, oh, it was a lot. It was like 50 or it was a lot. It was significantly less.
+
+823
+01:07:56,360 --> 01:08:01,080
+But still, it's not the only answer. When you think about scaling up impossible burgers on a
+
+824
+01:08:01,080 --> 01:08:06,520
+GMO monocrop soy field using tons of glyphosate, which has all sorts of harmful consequences,
+
+825
+01:08:07,240 --> 01:08:11,960
+causing soil erosion to the way we farm, damaging the waterways, damaging everything else. I mean,
+
+826
+01:08:11,960 --> 01:08:15,000
+just it doesn't even add up, right? So let's do it right.
+
+827
+01:08:15,000 --> 01:08:18,440
+So let's talk a little bit about GMO. This is a loaded topic.
+
+828
+01:08:19,240 --> 01:08:23,480
+Again, I think people don't understand what it means. And that's sort of, I want to talk about
+
+829
+01:08:23,480 --> 01:08:28,760
+it, but I also want to just put it in context for people so that we understand what GM means
+
+830
+01:08:28,760 --> 01:08:36,280
+and why it came about. So we go back to the 1940s, we had growing old maize on 20 bushels
+
+831
+01:08:36,280 --> 01:08:40,920
+per acre per year. Well, we got to remember that used to be something called Tia-cente.
+
+832
+01:08:40,920 --> 01:08:45,720
+That was like this little tiny, silly crop that was the size of our finger. And it had like four
+
+833
+01:08:45,720 --> 01:08:50,920
+little kernels on it. That's where corn came from. So I was explaining this to my kids the
+
+834
+01:08:50,920 --> 01:08:55,400
+other day, because we were, my kids are obsessed with gardening and stuff. And I was saying, look,
+
+835
+01:08:55,400 --> 01:09:01,160
+there's four things about a plant that really matter. If you're planting crops, yield matters.
+
+836
+01:09:01,160 --> 01:09:06,840
+How much do you have? Product profile. I mean, is it good to eat or not? Yeah. Or in the case of
+
+837
+01:09:06,840 --> 01:09:11,960
+Tia-cente, it had a lousy product profile because it just had four kernels on it. Harvestability.
+
+838
+01:09:11,960 --> 01:09:16,200
+The other problem with Tia-cente is the little kernels would always fall off it. You actually
+
+839
+01:09:16,200 --> 01:09:20,920
+wanted the kernels to stay on the thing so you could harvest the whole plant. And crop protection.
+
+840
+01:09:20,920 --> 01:09:28,040
+Can you keep it away? Can you keep the critters away from it? So GMO has had by far its greatest
+
+841
+01:09:28,040 --> 01:09:37,000
+impact in crop protection. The BT insertion is basically what allowed Roundup Ready crops to be
+
+842
+01:09:37,000 --> 01:09:41,080
+resistant to glyphosate. We'll use the terms glyphosate. The BC is for the cotton, right?
+
+843
+01:09:41,080 --> 01:09:44,200
+Oh yeah. Yeah. It's pesticide resistant. Yeah, pesticide resistant. So there's a glyphosate
+
+844
+01:09:44,200 --> 01:09:49,160
+resistance that, and we'll use, like I said, we'll use glyphosate and Roundup interchangeably.
+
+845
+01:09:49,160 --> 01:09:54,440
+But if you could basically genetically modify a plant to be resistant to the thing that you use
+
+846
+01:09:54,440 --> 01:09:59,320
+to kill the pest, you can use that thing liberally, right? I mean, for all the promise of GMO,
+
+847
+01:09:59,320 --> 01:10:04,920
+basically the only two inventions have been the BT pesticides. The BT and the glyphosate resistance.
+
+848
+01:10:04,920 --> 01:10:09,960
+Yeah. That's it. And that's led to massive increases in the use of pesticides.
+
+849
+01:10:09,960 --> 01:10:16,280
+The first point to make here is most of the yield gains came long before this. So obviously you do
+
+850
+01:10:16,280 --> 01:10:21,480
+get some yield gain with crop protection. So there's an overlap, but virtually all of it came
+
+851
+01:10:21,480 --> 01:10:26,920
+before this. All of the harvestability, to my knowledge, there's been no GM addition to
+
+852
+01:10:26,920 --> 01:10:32,760
+harvestability and no GM addition to product profile. Although some might argue that it's
+
+853
+01:10:32,760 --> 01:10:39,000
+low hanging fruit. For example, I know Monsanto was very aggressively looking at trying to
+
+854
+01:10:40,120 --> 01:10:45,000
+engineer tomatoes that could grow in brackish water. And that way you would obviously open up
+
+855
+01:10:45,000 --> 01:10:50,120
+the ability to grow it in areas that where you don't have fresh water. Okay. So with all of that
+
+856
+01:10:50,120 --> 01:10:55,160
+said, the next question for the person to be thinking about that you're going to take us through
+
+857
+01:10:55,160 --> 01:11:02,840
+is there are at least two things about GM that could be problematic. The first is it could be
+
+858
+01:11:02,840 --> 01:11:09,640
+problematic that you are eating an organism that now has a gene that looks different from the
+
+859
+01:11:09,640 --> 01:11:15,400
+gene that we evolved to consume it. In other words, it now makes different proteins that it
+
+860
+01:11:15,400 --> 01:11:20,360
+didn't make that are foreign. And cause food is information. So how is that different information
+
+861
+01:11:20,360 --> 01:11:23,960
+affecting your biology and how's it regulating the different body functions? I don't think we
+
+862
+01:11:23,960 --> 01:11:31,560
+know much about that. The second thing that could be harmful about GM is that by its very success,
+
+863
+01:11:31,560 --> 01:11:37,000
+it enables the use of chemicals in a higher concentration than you would be able to use them
+
+864
+01:11:37,000 --> 01:11:41,400
+in the absence of GM. And we'll use Roundup or glyphosate as the poster child for that.
+
+865
+01:11:42,440 --> 01:11:47,080
+Can you talk through both of those and what the state of the evidence is for the harm of GM?
+
+866
+01:11:47,080 --> 01:11:53,320
+Because it should be noted that what you're about to say is that the backdrop or stands at odds with
+
+867
+01:11:53,320 --> 01:11:58,920
+what the USDA would tell us, what the National Association of Scientists would tell us, which is
+
+868
+01:11:58,920 --> 01:12:04,440
+GMO is safe. Feel free to consume it liberally. And so tell us where you think that might be
+
+869
+01:12:04,440 --> 01:12:08,360
+questionable. Well, there's a bunch of issues there. First is it's a large uncontrolled experiment
+
+870
+01:12:08,360 --> 01:12:14,680
+on humanity. Just like Crisco was invented in 1911 as this great new invention was in our food supply
+
+871
+01:12:14,680 --> 01:12:20,360
+for, I don't know, 80 or 90 years more before people were like, wait a minute, this isn't good
+
+872
+01:12:20,360 --> 01:12:24,760
+for us. It's killing hundreds of thousands of people a year. Let's get it out. So we don't know.
+
+873
+01:12:24,760 --> 01:12:29,800
+I think there's animal studies that looks concerning. There's various issues. I think
+
+874
+01:12:29,800 --> 01:12:35,800
+in terms of the use of these chemicals, there's two issues there. One is the plants are
+
+875
+01:12:35,800 --> 01:12:42,040
+increasingly mutating to be resistant to these substances. So you need more pesticides and more
+
+876
+01:12:42,040 --> 01:12:46,120
+glyphosate to do the same job. So there's all these weeds that are becoming resistant to glyphosate
+
+877
+01:12:46,120 --> 01:12:49,000
+that they're trying to fight. And then that's a problem because we're using more and more of
+
+878
+01:12:49,000 --> 01:12:54,360
+these chemicals. Europe followed a different path. It didn't allow GMO foods, didn't allow any of
+
+879
+01:12:54,440 --> 01:12:59,480
+that. And so what the comparative analysis of agriculture in the US versus Europe was no
+
+880
+01:12:59,480 --> 01:13:05,080
+difference in yields and far less use of pesticides and herbicides. It sort of didn't fulfill its
+
+881
+01:13:05,080 --> 01:13:10,360
+promise of yields and decreased use of chemicals. It was transient. I believe there was a transient
+
+882
+01:13:10,360 --> 01:13:15,720
+reduction in pesticide use until we started to see resistance. Is that correct? Yeah. And we're
+
+883
+01:13:15,720 --> 01:13:19,800
+using more and more of these chemicals. And glyphosate is 70% of the agrochemicals used on
+
+884
+01:13:19,800 --> 01:13:25,240
+the planet. It's increasingly being linked to harmful human effects. So forget about the
+
+885
+01:13:25,240 --> 01:13:29,000
+insertion of the gene as an issue. We know that these chemicals are harmful to this. Do we know
+
+886
+01:13:29,000 --> 01:13:34,680
+this? This is an important point. Yeah. I mean, aside from the litigation, which is not a scientific
+
+887
+01:13:34,680 --> 01:13:39,640
+judgment, it's a traditional judgment, but there's 14,000 lawsuits around glyphosate. There's been
+
+888
+01:13:39,640 --> 01:13:43,560
+billion dollar settlements. A friend of mine's a lawyer is involved with those lawsuits. He told
+
+889
+01:13:43,560 --> 01:13:49,240
+me that on Discovery, they found that the Trump administration said to Monsanto, now bear, we have
+
+890
+01:13:49,240 --> 01:13:54,680
+your back. And the EPA recently is trying to shut down any further lawsuits on glyphosate,
+
+891
+01:13:54,680 --> 01:14:00,040
+which is fascinating because it's sort of disclosed emails. And I think the effects on animal studies
+
+892
+01:14:00,040 --> 01:14:03,240
+are really clear. I just read a study in epigenetics in glyphosate where they looked at
+
+893
+01:14:03,240 --> 01:14:08,440
+interventional studies on rats, where they looked at giving the generation zero glyphosate and
+
+894
+01:14:08,440 --> 01:14:15,880
+infected their grand rats in multiple ways through prostate disease, cancer, various things.
+
+895
+01:14:15,880 --> 01:14:19,800
+But we've seen this before, Mark. I mean, we've seen lots of things where in the lab,
+
+896
+01:14:19,800 --> 01:14:25,320
+they're using doses that are significantly higher than the human exposure and or laboratory animals
+
+897
+01:14:25,320 --> 01:14:28,600
+behave differently than humans. Okay, fine. But are we willing to take that risk? I know it's
+
+898
+01:14:28,600 --> 01:14:33,080
+another study where glyphosate disrupts the microbiome in significant ways in animals. And
+
+899
+01:14:33,080 --> 01:14:38,600
+the dose that's in one impossible burger is 110 times the dose that was used in the animal studies
+
+900
+01:14:38,600 --> 01:14:42,680
+to totally disrupt the microbiome of the rats. But do we know how bioavailable it is and how
+
+901
+01:14:42,680 --> 01:14:49,480
+much it remains? Well, it's on the food. I mean, I try to eat organic. I try to eat non-GMO. Like I
+
+902
+01:14:49,480 --> 01:14:55,400
+travel, I'm not perfect. And I did my urine test to look at my glyphosate levels. And I was shocked.
+
+903
+01:14:55,400 --> 01:15:00,200
+I have a 50th percentile glyphosate in my urine. How do we do this test? You could pee in a bucket
+
+904
+01:15:00,200 --> 01:15:04,760
+and you send it into the lab. Great Plains Lab has this test available and you can check your
+
+905
+01:15:04,760 --> 01:15:10,360
+glyphosate levels. I was shocked. And I think most of us are sort of walking toxic dumps. And if you
+
+906
+01:15:10,360 --> 01:15:17,480
+looked at average fat biopsy of a human, it's full of DDT, dioxin, pesticides. It's pretty
+
+907
+01:15:17,480 --> 01:15:22,760
+bad. So I think we are still in an uncontrolled experiment. So your view is basically to take the
+
+908
+01:15:22,760 --> 01:15:27,640
+precautionary principle, which is look, we may never know this definitively. There's enough
+
+909
+01:15:28,360 --> 01:15:32,920
+suggestion that this could be harmful through animal models or other things like that. I mean,
+
+910
+01:15:32,920 --> 01:15:36,840
+for example, I mean, again, I'm just, I'm pushing back not because I don't necessarily agree with
+
+911
+01:15:36,920 --> 01:15:41,240
+you on a personal level and make a lot of the same choices myself. You're not sprinkling glyphosate
+
+912
+01:15:41,240 --> 01:15:47,000
+on your salads. You know, I stopped a couple of weeks ago. I used, I just, I love the taste of glyphosate.
+
+913
+01:15:47,000 --> 01:15:51,000
+You're like putting it all over your lawn. But again, I always think it's important to sort of
+
+914
+01:15:51,560 --> 01:15:57,800
+at least let people understand when something is where our level of confidence is very high versus
+
+915
+01:15:57,800 --> 01:16:02,920
+modest, but there's a precautionary approach to take out of it. In other words, I feel much more
+
+916
+01:16:02,920 --> 01:16:09,880
+comfortable saying tobacco is causally responsible for lung cancer than I feel saying glyphosate is
+
+917
+01:16:09,880 --> 01:16:13,800
+causally responsible for human disease. I just don't, I just haven't been convinced by the data.
+
+918
+01:16:13,800 --> 01:16:19,240
+If it was the only way to grow food, fine. We deal with the risk. It's not, it's not the best way.
+
+919
+01:16:19,240 --> 01:16:24,760
+It's not the most effective way. And there is potential risk. And there's real concern about
+
+920
+01:16:24,760 --> 01:16:29,400
+our industrial agricultural system on the earth and soil biodiversity. And also,
+
+921
+01:16:29,400 --> 01:16:32,520
+I sort of interrupted you when you were about to make a point about biodiversity.
+
+922
+01:16:32,520 --> 01:16:36,920
+That was something I learned recently. Yeah, it's an important issue. But before I get to that,
+
+923
+01:16:36,920 --> 01:16:41,240
+I just want to finish this thought about how this industrial system has sort of usurped
+
+924
+01:16:41,240 --> 01:16:45,640
+small farmholders, which are the majority of farmers that feed the majority of the world.
+
+925
+01:16:45,640 --> 01:16:51,960
+And these farmers are getting squeezed by these big ag companies are coming in and saying they're
+
+926
+01:16:51,960 --> 01:16:56,360
+going to improve their livelihood, but then forced them to buy their seed, forced them to buy their
+
+927
+01:16:56,360 --> 01:17:02,520
+chemicals. And there's increasing suicides and terrible economic consequences from these
+
+928
+01:17:02,520 --> 01:17:06,920
+farmers around the world because they're not able to maintain a livelihood doing what they're doing.
+
+929
+01:17:06,920 --> 01:17:11,960
+So it's not just that it's an issue around health. It's also an issue around squeezing a lot of the
+
+930
+01:17:11,960 --> 01:17:15,400
+people who do grow most of the food in the world. So it's another issue I talked about in the book.
+
+931
+01:17:15,400 --> 01:17:19,560
+Before we leave that then, do you know what the median farm is in the United States
+
+932
+01:17:19,560 --> 01:17:24,760
+in terms of acreage? I don't. I did know, but I don't, I can't keep all the facts in my head.
+
+933
+01:17:24,760 --> 01:17:29,480
+And what is approximately most farmers in the world, it's like less than five acres is most of
+
+934
+01:17:29,480 --> 01:17:33,000
+the farmers in the world that feed most of the world. Does that include the United States?
+
+935
+01:17:33,720 --> 01:17:37,240
+No. We're more industrial. Yeah. More industrial. Yeah. For sure. I mean,
+
+936
+01:17:37,240 --> 01:17:42,040
+either less and less farms for you and for farmers, it's increasing all the time, bigger and bigger
+
+937
+01:17:42,040 --> 01:17:45,880
+farms. I mean, girl, but said it under Nixon, go big or go home. In doing the research for your
+
+938
+01:17:45,880 --> 01:17:51,400
+bookmark, did you spend any time with these farmers and did you sense in them a degree of
+
+939
+01:17:51,480 --> 01:17:56,520
+dissatisfaction or let down with this promise of big ag that came about 20 years ago?
+
+940
+01:17:56,520 --> 01:18:00,040
+Oh my God. Yeah. I think more and more farmers are thinking about this. There was an article
+
+941
+01:18:00,040 --> 01:18:03,880
+in Time Magazine where all the Democratic candidates in Iowa were going out of the farms
+
+942
+01:18:03,880 --> 01:18:07,720
+and the farmers were like, look, our livelihoods are being destroyed. We're having floods. We're
+
+943
+01:18:07,720 --> 01:18:12,040
+not able to grow food. The system isn't working. We want to explore regenerative agriculture. So
+
+944
+01:18:12,600 --> 01:18:16,760
+it's definitely happening, not because they're hippies who want to go back to the land. It's
+
+945
+01:18:16,760 --> 01:18:21,640
+happening just from an economic imperative and the way to restore and save their farms.
+
+946
+01:18:21,640 --> 01:18:26,440
+But do farmers feel captive now to Monsanto and Pioneer and these other companies?
+
+947
+01:18:26,440 --> 01:18:30,760
+They do. They have a system and they don't have a way to get out of it. So they're in a vicious
+
+948
+01:18:30,760 --> 01:18:35,160
+cycle. They've got all this capital and their equipment. They're stuck in this vicious cycle
+
+949
+01:18:35,160 --> 01:18:39,880
+of growing the same crops and they have no way out. So we do need a bridge for these people and we do
+
+950
+01:18:39,880 --> 01:18:44,680
+need mechanisms through government and private equity and others to actually help fund the
+
+951
+01:18:44,760 --> 01:18:49,240
+transition. I think, like I said, the UN said $300 billion, boom, we could solve the problem
+
+952
+01:18:49,240 --> 01:18:53,880
+of climate change and give us 20 years more runway to solve the bigger issues.
+
+953
+01:18:53,880 --> 01:18:59,960
+So it's a massive effort that could actually transform our quality of our food, quality of
+
+954
+01:18:59,960 --> 01:19:05,320
+our soils, save our water, increase biodiversity, which we'll talk about, and so many of our global
+
+955
+01:19:05,320 --> 01:19:10,200
+problems just starting at the seed. So back to biodiversity. So what that means is that we talk
+
+956
+01:19:10,200 --> 01:19:15,960
+about extinction of species, but it's not just some frog in the Amazon. We've lost 90% of our
+
+957
+01:19:15,960 --> 01:19:22,200
+edible plant species. Basically 60% of our calories comes from corn and wheat and rice and soy,
+
+958
+01:19:22,200 --> 01:19:27,400
+and mostly from 12 species. We've lost 90% of our edible plant species, half of all our livestock
+
+959
+01:19:27,400 --> 01:19:31,240
+species. There's a lot of weird animals all over the place and you travel to foreign countries,
+
+960
+01:19:31,240 --> 01:19:35,800
+you see these weird cows and weird pigs and weird goats and they all look different. Now they're
+
+961
+01:19:35,800 --> 01:19:42,040
+all the same that we produce in this country. And we have lost 75% of our pollinator species,
+
+962
+01:19:42,040 --> 01:19:47,240
+which our agriculture depends, which Einstein said, if we lose bees from the face of the earth,
+
+963
+01:19:47,240 --> 01:19:52,120
+humans have four years left to live, which may be true or not, but it's an existential threat.
+
+964
+01:19:52,120 --> 01:19:57,720
+Butterflies, pollinators all damaged also by these pesticides and chemicals that are indiscriminate
+
+965
+01:19:57,720 --> 01:20:03,800
+in what they kill. They were basically nerve gases that were produced in World War I and II that were
+
+966
+01:20:03,800 --> 01:20:08,680
+factories retooled to produce agrochemicals. That's what the bombs were. I mean, how Timothy
+
+967
+01:20:08,680 --> 01:20:15,560
+McVeigh bombed in Oklahoma, that building was through going to a farm store and buying nitrogen
+
+968
+01:20:15,560 --> 01:20:19,960
+fertilizer and turning into a bomb. That's where it actually came from. So these chemicals that
+
+969
+01:20:19,960 --> 01:20:24,920
+we use in the soil, the methods of farming destroy the ecosystems, both from all those,
+
+970
+01:20:24,920 --> 01:20:28,520
+but also the biodiversity of the soil, the organism, the soil that are so critical,
+
+971
+01:20:28,520 --> 01:20:34,520
+the mycorrhizal fungi, the bacteria, the nematodes, the worms, all these different animals that live
+
+972
+01:20:34,520 --> 01:20:39,800
+in the soil that are necessary to actually create food and to create sustainable agriculture. And
+
+973
+01:20:39,800 --> 01:20:44,760
+so I think we're sort of asleep to the idea that we're sort of running out of soil, running out of
+
+974
+01:20:44,760 --> 01:20:48,920
+these biodiverse animals that are essential for our health and our survival. I mean, coral reefs,
+
+975
+01:20:48,920 --> 01:20:53,960
+I mean, with climate change, we're destroying all the coral reefs. And again, 500 billion people
+
+976
+01:20:53,960 --> 01:21:00,440
+depend on these coral reefs for food. So how would one go about moving the needle on this?
+
+977
+01:21:00,440 --> 01:21:04,280
+Well, I'm trying, I'm trying. So I wrote the book Food Fix, How to Save Our Health, Our Economy,
+
+978
+01:21:04,280 --> 01:21:08,280
+Our Communities, and Our Planet, one by at a time in order to lay out the problem and lay out the
+
+979
+01:21:08,280 --> 01:21:12,440
+solutions. And they're multifaceted. They're what citizens can do, they're what can happen in
+
+980
+01:21:12,440 --> 01:21:16,040
+business innovation, like I mentioned. We're going to come back and talk about an example around food
+
+981
+01:21:16,040 --> 01:21:19,960
+waste. And they're what policymakers need to do. And there needs to be the political will, but it's
+
+982
+01:21:19,960 --> 01:21:23,720
+really tough. So can we start at the bottom of that? And let me ask you another couple of
+
+983
+01:21:23,720 --> 01:21:30,440
+questions. What does organic really mean when it comes to plant or meat? If a person says,
+
+984
+01:21:31,080 --> 01:21:35,640
+okay, Mark, you've definitely convinced me that I want to be more mindful of what I'm buying.
+
+985
+01:21:35,640 --> 01:21:41,480
+Let's just assume that this is a person who has the economic flexibility to make the food choices
+
+986
+01:21:41,480 --> 01:21:46,120
+that might even increase their budget on groceries. So first of all, what does it mean when you go to
+
+987
+01:21:46,120 --> 01:21:50,200
+the grocery store and you see two boxes of strawberries, one's organic, one's not?
+
+988
+01:21:50,200 --> 01:21:55,320
+Well, organic is a certification that's delivered by the government that means no antibiotics,
+
+989
+01:21:55,320 --> 01:22:02,760
+no pesticides, no herbicides, and has to be certified that it's clean of all of that. However,
+
+990
+01:22:02,760 --> 01:22:07,720
+it doesn't certify the method of growing the food. So Michael Pollan, his book, Omnivore's
+
+991
+01:22:07,720 --> 01:22:12,200
+Lemma, talked about industrial organic. So if you have these massive monocrop lettuce fields,
+
+992
+01:22:12,280 --> 01:22:15,720
+you're doing tillage, you're not doing cover crops, you're not doing crop rotations,
+
+993
+01:22:16,360 --> 01:22:21,800
+you're also not super helping the soil. It's better than industrial farming, but it's not
+
+994
+01:22:21,800 --> 01:22:27,000
+fully regenerative. Regenerative is a method of farming that actually includes organic,
+
+995
+01:22:27,000 --> 01:22:31,080
+but goes beyond it. And there is now a regenerative organic certification, which you can look up,
+
+996
+01:22:31,080 --> 01:22:36,600
+and I talk about in my book. But the chemicals and the pesticides that we consume have an impact on
+
+997
+01:22:36,680 --> 01:22:42,120
+our health. It's been estimated that pesticide exposure just in children is responsible for
+
+998
+01:22:42,120 --> 01:22:49,000
+an average loss of seven IQ points or 41 million IQ points in kids. So there's a lot of brain power
+
+999
+01:22:49,000 --> 01:22:53,480
+that's killed, and not to mention how many per kid. I think it's like seven IQ points. There's
+
+1000
+01:22:53,480 --> 01:22:57,720
+literally millions of pounds of these pesticides and herbicides that are in our food supply and
+
+1001
+01:22:57,720 --> 01:23:02,040
+our water. And some plants have more than others. So I'm on the board of the Environmental Working
+
+1002
+01:23:02,040 --> 01:23:08,360
+Group, and they produce a really great guide called the Dirty Dozen and the Clean 15. So you can
+
+1003
+01:23:08,360 --> 01:23:12,920
+look at that list, and if you're having economic issues or whatever, you can say, well, strawberries
+
+1004
+01:23:12,920 --> 01:23:17,960
+are the worst thing I could buy if they're not organic. Whereas, you know, banana or an avocado,
+
+1005
+01:23:18,520 --> 01:23:22,680
+maybe not a big deal if it's not organic. So you can look at that list and go,
+
+1006
+01:23:22,680 --> 01:23:26,920
+I'm going to save money by buying organic of the things that are the worst contaminated,
+
+1007
+01:23:26,920 --> 01:23:31,960
+and I can cheat on the other ones that are not. And it's part of that because in the case of
+
+1008
+01:23:31,960 --> 01:23:35,960
+bananas and avocado, you're eating what's inside and not outside. Whereas in the strawberry,
+
+1009
+01:23:35,960 --> 01:23:41,800
+it's like got this surface that you collect it all. Celery is terrible. Never have anything
+
+1010
+01:23:41,800 --> 01:23:48,520
+but organic celery, for example. In meat, besides not using hormones in the animals and not giving
+
+1011
+01:23:48,520 --> 01:23:52,920
+them antibiotics, is there anything else that comes in the distinction of organic meat?
+
+1012
+01:23:53,560 --> 01:24:00,680
+Again, it's not using the inputs that are chemical inputs that are on the corn that you have or the
+
+1013
+01:24:00,680 --> 01:24:05,400
+soil that they have. So that's good. But again, it doesn't mean that they couldn't be fed organic
+
+1014
+01:24:05,400 --> 01:24:10,280
+corn that's still grown in ways that are destroying the soil. So we really have to sort of think more
+
+1015
+01:24:10,280 --> 01:24:14,920
+nuanced about what that means. That's why regenerative is sort of organic plus, you know,
+
+1016
+01:24:14,920 --> 01:24:20,360
+it's like a whole next level. How ubiquitous is that regenerative organic label? It's not.
+
+1017
+01:24:20,360 --> 01:24:24,040
+It's not. It's not. It's not even a label yet. There's just a proposal for a regenerative organic
+
+1018
+01:24:24,040 --> 01:24:28,120
+certification. And yet there are farms who are doing this, and there's ways to regulate it and
+
+1019
+01:24:28,120 --> 01:24:32,040
+measure it. And I think the government's going to be able to sort of put out field service workers
+
+1020
+01:24:32,040 --> 01:24:36,600
+to measure soil, to measure these things, to look at is it regenerative. And places like Mariposa
+
+1021
+01:24:36,600 --> 01:24:41,480
+Ranch in California, you can buy half a cow with a bunch of friends and it's eight bucks a pound,
+
+1022
+01:24:41,480 --> 01:24:45,880
+which for a four-ounce serving is less than you'd pay for McDonald's hamburger. So you can, with
+
+1023
+01:24:45,880 --> 01:24:50,280
+little ingenuity and effort, you can actually start to sort of find how to get these things.
+
+1024
+01:24:50,280 --> 01:24:54,600
+But it's the demand that's going to increase. And that's why, for example, General Mills and
+
+1025
+01:24:54,600 --> 01:24:59,160
+Danone and Nestle and Pepsi even are looking at how do we get our supply chain to be more
+
+1026
+01:24:59,160 --> 01:25:03,000
+regenerative and how are we going to move that needle. It's kind of exciting to me.
+
+1027
+01:25:03,000 --> 01:25:09,080
+Is there anything else a consumer can do absent the types of bigger changes that you're pushing
+
+1028
+01:25:09,080 --> 01:25:14,840
+for and hoping for? I mean, I think being really focused on what you eat and where it comes from,
+
+1029
+01:25:14,840 --> 01:25:18,520
+buying at local farmers markets, joining a community supported agriculture,
+
+1030
+01:25:18,520 --> 01:25:21,960
+looking for regenerative sources online, buying things together with friends.
+
+1031
+01:25:22,040 --> 01:25:25,880
+What are the resources people can use to find those things? Are these centralized in any way?
+
+1032
+01:25:25,880 --> 01:25:30,200
+Yeah, they're on my book, Food Fix. And they're on our website.
+
+1033
+01:25:30,200 --> 01:25:31,000
+What's the URL?
+
+1034
+01:25:31,480 --> 01:25:37,560
+Foodfixbook.com. And there's a video on there and five steps to heal the planet and yourself. And
+
+1035
+01:25:37,560 --> 01:25:43,560
+there's an action guide that is good for citizens, businesses, governments, and so forth. So that it
+
+1036
+01:25:43,560 --> 01:25:48,840
+says, what can you do? And so, yes, you can vote with your fork and all the ways I just mentioned.
+
+1037
+01:25:48,840 --> 01:25:52,120
+You can be active in your community. Maybe you should have a compost pile. I'm talking about
+
+1038
+01:25:52,120 --> 01:25:55,240
+that, but you can be active to sort of have community garden to get it.
+
+1039
+01:25:55,240 --> 01:25:59,720
+You know, my son for his fifth birthday, it's like, okay, what do you want, Reese?
+
+1040
+01:25:59,720 --> 01:26:01,480
+He wanted a compost box. All right. There you go.
+
+1041
+01:26:01,480 --> 01:26:05,960
+You know how hard it was to find one? You couldn't go to Home Depot and get one. You couldn't go to
+
+1042
+01:26:05,960 --> 01:26:09,880
+the local garden store. Like it took... Really? They have them on Amazon. You can buy them and
+
+1043
+01:26:09,880 --> 01:26:13,720
+have them shipped to you. I think ultimately, it sounds silly. I think ultimately we did that,
+
+1044
+01:26:13,720 --> 01:26:17,480
+but I was, I think with kids, sometimes it's fun to take them to the place and get the thing.
+
+1045
+01:26:18,040 --> 01:26:20,040
+I was amazed how hard it was to get a big compost.
+
+1046
+01:26:20,040 --> 01:26:24,760
+You don't even need that. I just put a little fence, a little kind of some two by fours and
+
+1047
+01:26:24,760 --> 01:26:28,920
+built a little box and you just throw it in my backyard and just throw it in there year after
+
+1048
+01:26:28,920 --> 01:26:35,240
+year. And I've got like tons of feet of this dark, rich soil, like a humus that goes on the garden.
+
+1049
+01:26:35,240 --> 01:26:40,120
+It's great. If you want to be politically active, you can go in your municipality and say to your
+
+1050
+01:26:40,120 --> 01:26:43,960
+local government, say, look, let's have a composting law. Let's make it mandatory,
+
+1051
+01:26:43,960 --> 01:26:47,960
+like San Francisco did. You can't go and throw your garbage in San Francisco anymore.
+
+1052
+01:26:49,560 --> 01:26:53,240
+I just don't know if I want to do anything San Francisco is doing. I gotta be honest with you.
+
+1053
+01:26:53,240 --> 01:26:58,280
+No, whatever. But I mean, France, if you have mandatory composting there and if you don't,
+
+1054
+01:26:58,280 --> 01:27:02,760
+you get a fine, you go to jail. In Massachusetts, they passed a law that if you make a ton of
+
+1055
+01:27:02,760 --> 01:27:07,480
+organic waste every week, you can't throw it out in the landfill. And they actually created
+
+1056
+01:27:07,480 --> 01:27:11,880
+innovation there. There's people coming up like dairy farmers are making less money struggling.
+
+1057
+01:27:11,960 --> 01:27:16,600
+The dairy farmer creates these anaerobic digesters, which gets food waste. They get
+
+1058
+01:27:16,600 --> 01:27:20,200
+about a hundred tons of food waste every week in this one farm from like Whole Foods and other
+
+1059
+01:27:20,200 --> 01:27:26,120
+grocery stores. They put in their manure from the animals. It basically combusts in this digester,
+
+1060
+01:27:26,120 --> 01:27:30,280
+produces electricity for 1500 homes and makes the farmer an extra hundred grand a year.
+
+1061
+01:27:30,920 --> 01:27:35,560
+And it's a win-win-win for everybody. To me, I always feel like that's the better. Whether
+
+1062
+01:27:35,560 --> 01:27:40,360
+that particular example works at scale or not, I have no idea. But it seems to me the we're going
+
+1063
+01:27:40,360 --> 01:27:45,960
+to put you in jail if you don't compost approach is the wrong approach versus the let's economically
+
+1064
+01:27:45,960 --> 01:27:52,600
+incentivize you to do this thing differently. And I worry that there's too much emphasis on the
+
+1065
+01:27:52,600 --> 01:27:58,120
+punishment side of things. I don't think humans work that way. And it's also a slippery slope
+
+1066
+01:27:58,120 --> 01:28:04,840
+because the government doesn't exactly have a track record of great competence. So for everything
+
+1067
+01:28:04,920 --> 01:28:10,360
+that they do right, they're probably doing three things wrong. And therefore, I mean, again, I don't
+
+1068
+01:28:10,360 --> 01:28:15,400
+want to sound like too much of a libertarian anti-nanny state guy, but I feel like I kind of need to
+
+1069
+01:28:15,400 --> 01:28:20,920
+sound like the libertarian anti-nanny state guy when it comes to these things. Because the government,
+
+1070
+01:28:20,920 --> 01:28:26,520
+as you point out, is a big part of the reason we got in this mess. And to quote Einstein again,
+
+1071
+01:28:26,520 --> 01:28:30,840
+and I might be bastardizing this quote, but the same level of consciousness that produced
+
+1072
+01:28:30,840 --> 01:28:35,000
+these problems will be incapable of solving them. That's true. But we do have a lot of regulations
+
+1073
+01:28:35,000 --> 01:28:40,920
+that protect citizens, right? We have seatbelt laws and emission controlled laws and cars. We have
+
+1074
+01:28:40,920 --> 01:28:46,440
+baby seats and all sorts of things that we mandated that now people accept. And we have airbags, which
+
+1075
+01:28:46,440 --> 01:28:51,000
+the industry didn't like, and seatbelts, which they hated. And we just sort of accept that. And I think
+
+1076
+01:28:51,000 --> 01:28:55,720
+there's a role for government in actually helping incentivize the right thing. And I think the law
+
+1077
+01:28:55,720 --> 01:29:00,360
+making it not okay for big companies to throw out all their waste in a landfill. And the reason to
+
+1078
+01:29:00,520 --> 01:29:05,160
+back up a little on that is food waste, incredible problem. Like we said, 30 to 40% of all food
+
+1079
+01:29:05,160 --> 01:29:10,520
+producers wasted. If it was grown on landmass, it would require the entire country of China
+
+1080
+01:29:10,520 --> 01:29:15,480
+to grow all that food that we throw out. The average family throws out about a pound a day
+
+1081
+01:29:15,480 --> 01:29:21,400
+or about $1,800 a year of food. And if it were a country in terms of the greenhouse gases that get
+
+1082
+01:29:21,400 --> 01:29:26,120
+produced when you throw it in landfills and it rots and emits methane, it would be the third largest
+
+1083
+01:29:26,200 --> 01:29:31,320
+emitter of greenhouse gases after the US and China. And it's about $2 trillion of resources
+
+1084
+01:29:31,320 --> 01:29:36,120
+that we waste in throwing out all the food. And we produce more than a food for 10 billion people
+
+1085
+01:29:36,120 --> 01:29:41,160
+on the planet. It's just not equitably distributed. It's a big problem to solve and nobody's for it.
+
+1086
+01:29:41,160 --> 01:29:47,880
+Even Trump administration has created a food waste initiative with the EPA, the FDA, and the USDA. And
+
+1087
+01:29:47,880 --> 01:29:53,320
+they basically like, oh, it's the FDA, the EPA, yeah, and USDA to actually deal with the food waste
+
+1088
+01:29:53,320 --> 01:29:58,280
+issue. So I think each of us can stop that. That's an easy thing to do. And there's a lot of other
+
+1089
+01:29:58,280 --> 01:30:02,760
+things we can do to get involved in our political process through being involved in communicating
+
+1090
+01:30:02,760 --> 01:30:06,760
+with your Congressman senators or something called the Food Policy Action Group, which is
+
+1091
+01:30:06,760 --> 01:30:11,000
+foodpolicyaction.org that rates your senators and congressmen on their voting records on food and
+
+1092
+01:30:11,000 --> 01:30:16,520
+ag policy. So you can see, and they can, they've literally unseated congressmen who are doing bad
+
+1093
+01:30:16,520 --> 01:30:20,760
+things and voting the wrong way around food and policy issues that people care about. So there's
+
+1094
+01:30:20,760 --> 01:30:28,200
+a lot of things we can do as individuals. USDA, what's their role in this? Oh my God,
+
+1095
+01:30:28,200 --> 01:30:32,200
+you have another couple of hours. I go through all this in the book, but just at the high level,
+
+1096
+01:30:32,760 --> 01:30:38,200
+the USDA is responsible for a number of different food and ag policies that are the majority of the
+
+1097
+01:30:38,200 --> 01:30:43,320
+things that are going on. Our dietary guidelines, which are messed up. Our school lunch guidelines,
+
+1098
+01:30:43,320 --> 01:30:48,760
+which are messed up. Our SNAP program or food stamp program, which is 75 billion a year. It's
+
+1099
+01:30:48,760 --> 01:30:53,080
+one of our biggest government programs that feeds 46 million Americans, including one in four kids
+
+1100
+01:30:53,080 --> 01:30:57,640
+who are food insecure. Great idea, but there's no nutrition guidelines in that. So there are
+
+1101
+01:30:57,640 --> 01:31:03,080
+$7 billion a year just in soda that we spend, about 30 billion servings a year. You can buy
+
+1102
+01:31:03,080 --> 01:31:09,240
+soda with food stamps? Oh yeah, of course you can buy anything except alcohol and cooked food. So
+
+1103
+01:31:09,240 --> 01:31:13,320
+you can buy a two liter bottle of soda, but you can't buy rotisserie chicken in the grocery store.
+
+1104
+01:31:13,400 --> 01:31:22,120
+And 75% of the food stamps is junk food or soda. That's about a $730 billion program, which is
+
+1105
+01:31:22,120 --> 01:31:27,960
+massive over a period of 10 years. And so there's no nutrition guidelines in there. And so you've got
+
+1106
+01:31:27,960 --> 01:31:34,200
+all these government programs, plus the crop insurance and agricultural supports that support
+
+1107
+01:31:34,200 --> 01:31:39,400
+an industrial agricultural system. And those are harmful in sense. So if you have a big soy and
+
+1108
+01:31:39,400 --> 01:31:43,720
+corn farm and you want to grow a whole bunch of veggies, you can't, even if you want to,
+
+1109
+01:31:43,720 --> 01:31:48,760
+because you will get penalized and not get your crop insurance. So farmers are disincentivized
+
+1110
+01:31:48,760 --> 01:31:52,360
+from growing fruits and vegetables. And the government tells us on the one hand to eat half
+
+1111
+01:31:52,360 --> 01:31:57,720
+of our plate as fruits and vegetables, but less than half a percent of industrial supports,
+
+1112
+01:31:57,720 --> 01:32:01,960
+of agricultural supports from the government are for fruits and vegetables. So it's like,
+
+1113
+01:32:01,960 --> 01:32:07,080
+basically, if we were eating what the government actually funded in agricultural supports,
+
+1114
+01:32:07,080 --> 01:32:13,240
+we'd be having a giant corn fritter, deep fried in soybean oil. And it's like, that's not exactly
+
+1115
+01:32:13,240 --> 01:32:17,960
+what we should be eating. That's a very powerful image, Mark, is that not that necessarily the
+
+1116
+01:32:17,960 --> 01:32:25,320
+USDA's recommendations on nutrition are correct, but even if you took that as an aspiration,
+
+1117
+01:32:25,320 --> 01:32:30,520
+it's interesting to note that the funding doesn't align with that. So how does the USDA respond to
+
+1118
+01:32:30,520 --> 01:32:34,520
+that, especially because it's not a subtle, they're not off by a little bit. They're off by an order
+
+1119
+01:32:34,600 --> 01:32:39,800
+of magnitude. A quarter of less than a half a percent versus 50%. So what is their response to
+
+1120
+01:32:39,800 --> 01:32:46,120
+that? I don't know. I just think it's just the right hand is not talking the left hand. And so
+
+1121
+01:32:46,680 --> 01:32:49,960
+there's all these disparate policies. I was working with Tim Ryan and my friend Dariah
+
+1122
+01:32:49,960 --> 01:32:56,440
+Mazafarian from Harvard Tufts to get an analysis by the government accountability office to look
+
+1123
+01:32:56,440 --> 01:33:01,720
+at what our disparate policies were doing to our public health and to our economic health as a
+
+1124
+01:33:01,720 --> 01:33:07,080
+nation because they're all cross purposes. We say, don't drink soda, eat healthy diet,
+
+1125
+01:33:07,080 --> 01:33:12,680
+so forth with dietary guidelines, but then we pay for 75 billion a year in junk food for the poor.
+
+1126
+01:33:12,680 --> 01:33:16,920
+How does that make sense? And so I think we have all these government agencies, which the FDA that
+
+1127
+01:33:16,920 --> 01:33:21,880
+has confusing food labels or that allows antibiotics in our animal feed or that allows
+
+1128
+01:33:21,880 --> 01:33:26,280
+substances that are banned in other countries to be, they're toxic to be in our food supply like
+
+1129
+01:33:26,280 --> 01:33:31,880
+Azodicarbonamide, which is basically a softener for flower products for bread. I mean, if you use
+
+1130
+01:33:31,880 --> 01:33:38,440
+that in Singapore, you get a $450,000 fine and you go to jail for 15 years. I mean, Singapore is
+
+1131
+01:33:38,440 --> 01:33:44,840
+Singapore, but still like it's not even allowed. And we have the FDA, the FTC, which regulates the
+
+1132
+01:33:44,840 --> 01:33:49,000
+airwaves allows all this unrestricted marketing to kids. So you've got all these different agencies
+
+1133
+01:33:49,000 --> 01:33:52,920
+that are working cross purposes that aren't coordinated and aren't creating a coherent food
+
+1134
+01:33:52,920 --> 01:33:57,960
+policy. So we need a national food policy. We need activism to change some of these food policies
+
+1135
+01:33:57,960 --> 01:34:02,760
+and support regenerative ag and to reform food stamps and dysfunctional policies to reform
+
+1136
+01:34:02,760 --> 01:34:07,640
+school lunches and to actually help advance in healthcare food as medicine. All these things
+
+1137
+01:34:07,640 --> 01:34:12,520
+can be done. And I'm actually working on a campaign with some extraordinary people who are
+
+1138
+01:34:13,240 --> 01:34:17,800
+launching a nonprofit and an advocacy group, otherwise known as a lobby group for the good
+
+1139
+01:34:17,800 --> 01:34:22,440
+guys to start to work on these issues in Washington. Because while it may seem like
+
+1140
+01:34:22,440 --> 01:34:26,680
+nothing can be done, I think behind the scenes a lot can be done. And I think there are a lot of
+
+1141
+01:34:26,680 --> 01:34:31,400
+these issues are bipartisan issues. I just think people are ready for this. There's a movement and
+
+1142
+01:34:31,400 --> 01:34:35,480
+a readiness around the country and even in Washington to address these issues. I mean,
+
+1143
+01:34:35,480 --> 01:34:40,360
+I just gave a talk at somewhere and someone knew one of the centers from Maine and they called me
+
+1144
+01:34:40,360 --> 01:34:44,440
+the next day and was like, what can you help with this? And I said, well, 70% of the military recruits
+
+1145
+01:34:44,440 --> 01:34:49,800
+are unfit to fight and 70% of the evacuations from Afghanistan and Iraq were not for more
+
+1146
+01:34:49,800 --> 01:34:54,440
+injuries, but were for obesity related injuries and the soldiers. And then they want to figure
+
+1147
+01:34:54,440 --> 01:34:58,680
+this out. So I am hopeful because I see that despite all these issues, people are waking up
+
+1148
+01:34:58,680 --> 01:35:04,920
+to these problems. I see these big food companies like Nestle, Denone, Unilever, and so forth,
+
+1149
+01:35:04,920 --> 01:35:09,240
+General Mills actually starting to take on these issues. I mean, they still are part of the problem,
+
+1150
+01:35:09,240 --> 01:35:14,920
+but they are trying to move their super tankerships and it takes a while, but I do see room for hope.
+
+1151
+01:35:14,920 --> 01:35:19,480
+I see business innovations, food and act tech companies are billions and billions are flowing
+
+1152
+01:35:19,480 --> 01:35:23,160
+into these areas for innovation, which is all a good thing. What do you think are the
+
+1153
+01:35:23,880 --> 01:35:29,640
+top three changes? If you were foods are, and you had to rank order sort of the biggest,
+
+1154
+01:35:29,640 --> 01:35:35,080
+are there three things that could make 70% of the difference? Yes, I would immediately transform
+
+1155
+01:35:35,080 --> 01:35:41,240
+healthcare reimbursement to focus on food as medicine through paying for food for those who
+
+1156
+01:35:41,240 --> 01:35:45,640
+are food insecure, for reimbursing fruit and vegetable prescriptions, for making food a
+
+1157
+01:35:45,640 --> 01:35:50,360
+central part of the government. And that would include having all the government is probably
+
+1158
+01:35:50,360 --> 01:35:55,880
+the biggest food purchaser in the country. Have them only purchase food that is going to promote
+
+1159
+01:35:55,880 --> 01:36:01,320
+health and not disease. I would then secondly, reform these dysfunctional food policies. I would
+
+1160
+01:36:01,320 --> 01:36:06,440
+transform SNAP, transform school lunches, transform the dietary guidelines to be science-based.
+
+1161
+01:36:06,440 --> 01:36:11,960
+And lastly, I would actually support Regenerabag in every way possible through government policies
+
+1162
+01:36:11,960 --> 01:36:16,040
+and through business innovations, incentives and other things. So those three pillars,
+
+1163
+01:36:16,040 --> 01:36:21,080
+one fixing food is medicine into the healthcare system and reimbursement policies and in every
+
+1164
+01:36:21,080 --> 01:36:26,760
+government institution, reforming dysfunctional government food policies and supporting Regenerabag.
+
+1165
+01:36:26,760 --> 01:36:32,040
+And that's really the whole agenda of the Food Fix campaign. We've sort of glossed over it a
+
+1166
+01:36:32,040 --> 01:36:37,000
+little bit, but I guess no discussion on this would be complete without coming back to maybe
+
+1167
+01:36:37,000 --> 01:36:44,680
+some of the confusion that exists around a plant-based diet exclusively as a solution for, and let's
+
+1168
+01:36:44,680 --> 01:36:50,600
+put aside the health issues for a moment, because there's obviously lots to debate around whether
+
+1169
+01:36:50,600 --> 01:36:56,120
+animal-based products have deleterious health consequences. And let's put aside also the sort
+
+1170
+01:36:56,120 --> 01:37:02,920
+of egregious cruelty to animals that takes place under farmed conditions. And factory farming should
+
+1171
+01:37:02,920 --> 01:37:08,040
+be banned period, full stop. Yeah, I don't think anybody that spent any time actually going and
+
+1172
+01:37:08,040 --> 01:37:12,920
+watching how animals are harvested in that way would disagree with that. So let's instead focus
+
+1173
+01:37:12,920 --> 01:37:17,320
+on specifically the environmental concerns. You've already talked about it a little bit,
+
+1174
+01:37:17,320 --> 01:37:21,320
+but can you say a bit more about it? Yeah, you know, this interesting report came out
+
+1175
+01:37:21,400 --> 01:37:26,600
+called the Eat Lancet report, which was very well-intentioned and had a lot of great
+
+1176
+01:37:26,600 --> 01:37:32,280
+science in it that talked about how we link climate and diet and food and what is a healthy
+
+1177
+01:37:32,280 --> 01:37:36,520
+diet and how do you define that. There's a lot of great science in there. There were challenges
+
+1178
+01:37:36,520 --> 01:37:41,720
+though, because some of the language in there was really driven through the food industry,
+
+1179
+01:37:41,720 --> 01:37:47,560
+and a lot of the sponsors for that were Big Food and Big Ag. One of the, for example,
+
+1180
+01:37:47,560 --> 01:37:52,680
+messages is we need to grow more plants, more grains and more beans through something called
+
+1181
+01:37:52,680 --> 01:38:00,440
+sustainable intensification or climate smart agriculture. These are buzzwords sort of like
+
+1182
+01:38:00,440 --> 01:38:07,800
+clean coal, which sound good, but when you look behind the curtain, who funds those organizations?
+
+1183
+01:38:07,800 --> 01:38:12,920
+60% of the members of climate smart agriculture are the fertilizer companies. Sustainable
+
+1184
+01:38:12,920 --> 01:38:17,720
+intensification means using more and more chemical inputs on farms in the developing
+
+1185
+01:38:17,720 --> 01:38:24,280
+world to grow more grains and beans. That's not the solution. And lastly, without animals integrated
+
+1186
+01:38:24,280 --> 01:38:31,480
+into regenerative agricultural systems, you cannot restore soil in the way we need to restore it as
+
+1187
+01:38:31,480 --> 01:38:35,240
+fast as we need to restore it. It's just a scientific fact. So what you... Is that based on
+
+1188
+01:38:35,240 --> 01:38:39,880
+the need for the, basically the transfer of nitrogen through the animal? Pooping, peeing,
+
+1189
+01:38:40,520 --> 01:38:47,160
+digging, the saliva makes the plants grow. It's a whole symbiotic ecosystem. And when used properly,
+
+1190
+01:38:47,160 --> 01:38:53,320
+not over grazing, but proper management, which is called holistic management or managed grazing or
+
+1191
+01:38:53,320 --> 01:38:58,520
+adapted multi-padded grazing, there's a science to it. You can dramatically increase soil. So it
+
+1192
+01:38:58,520 --> 01:39:03,240
+takes like, I think a thousand years to get three centimeters of soil, naturally. Gabe Brown in North
+
+1193
+01:39:03,240 --> 01:39:08,760
+Dakota got 29 inches of soil just through these methods that are sort of supercharged methods.
+
+1194
+01:39:08,840 --> 01:39:13,400
+They're like sort of agriculture 2.0. It's not about going back to old waste. It's about inventing
+
+1195
+01:39:13,400 --> 01:39:17,720
+new ways, using all the science to actually grow soil. Because a lot of, I mean, through human
+
+1196
+01:39:17,720 --> 01:39:22,520
+history, we were destructive. I mean, we would grow food on land and we would deplete the land
+
+1197
+01:39:22,520 --> 01:39:26,680
+and we'd move to the next plot of land. Problem is now we're running the land. There's no more
+
+1198
+01:39:26,680 --> 01:39:31,960
+place to go. So I think we absolutely need to actually scale this regenerative agriculture
+
+1199
+01:39:31,960 --> 01:39:36,920
+model in order to solve all these global issues. Can regenerative ag be superimposed on fallow
+
+1200
+01:39:36,920 --> 01:39:41,880
+land? Yeah, then people are basically taking degraded land, which is almost desert and turning
+
+1201
+01:39:41,880 --> 01:39:47,480
+it back into lush fields and lush agricultural practices. So when those people say we have to
+
+1202
+01:39:47,480 --> 01:39:52,280
+be vegan to save the planet, it's actually not accurate. Whether you eat meat or not is a personal
+
+1203
+01:39:52,280 --> 01:39:58,120
+choice, a moral choice. If you think it's a health choice, fine. But whether or not you believe in
+
+1204
+01:39:58,120 --> 01:40:03,960
+eating meat or not, from an environmental, from a regenerative, from an climate standpoint, we must
+
+1205
+01:40:03,960 --> 01:40:09,000
+have animals integrated into the process in order to restore soil, which is the biggest carbon sink.
+
+1206
+01:40:09,000 --> 01:40:13,160
+So the take home message here for people is there are a lot of ways to fix climate change,
+
+1207
+01:40:13,160 --> 01:40:19,720
+but the quickest, fastest, and most effective and scalable way, and using ancient carbon capture
+
+1208
+01:40:19,720 --> 01:40:25,240
+technology that is more effective than anything that exists today is free, called photosynthesis.
+
+1209
+01:40:25,880 --> 01:40:30,600
+It's basically sun and carbon dioxide in the air. We can solve a lot of the global issues we have.
+
+1210
+01:40:30,760 --> 01:40:34,040
+So Mark, how are you spending your time today? You wear a ton of hats.
+
+1211
+01:40:34,040 --> 01:40:34,040
+
+
+1212
+01:40:34,040 --> 01:40:40,280
+Yeah. I mean, you're involved in the education of functional medicine at the Cleveland Clinic.
+
+1213
+01:40:40,280 --> 01:40:43,800
+You commute there and back from your home in New York. You're obviously very involved in this
+
+1214
+01:40:43,800 --> 01:40:48,520
+initiative. What does the pie graph look like of how you allocate your time?
+
+1215
+01:40:48,520 --> 01:40:53,320
+Well, I'm always doing the same thing in my mind. I'm trying to end the need and the suffering
+
+1216
+01:40:53,320 --> 01:40:59,240
+through the power of functional medicine, systems thinking, and sort of restoring communities and
+
+1217
+01:40:59,320 --> 01:41:04,520
+behavioral change through that. And this is just part of that story. Like I said,
+
+1218
+01:41:04,520 --> 01:41:09,160
+there's so much suffering that's unnecessary, whether it's chronic disease or poverty or
+
+1219
+01:41:09,160 --> 01:41:14,440
+mental illness or kids struggling with learning in schools or violence. These are all needless
+
+1220
+01:41:14,440 --> 01:41:18,680
+suffering. If we have the solutions, then we need to focus on them. And as I began, began at the
+
+1221
+01:41:18,680 --> 01:41:23,480
+beginning, talk about, as I sort of went down the rabbit hole of why are my patients sick,
+
+1222
+01:41:23,480 --> 01:41:27,720
+I came to this bigger conclusion that unless we deal with the systems issues, unless we go
+
+1223
+01:41:27,720 --> 01:41:33,320
+upstream, we're just going to be treading water or bailing a sinking boat. And the acceleration
+
+1224
+01:41:33,320 --> 01:41:38,680
+of these problems is so big that I feel like I'm focusing more and more on these bigger issues in
+
+1225
+01:41:38,680 --> 01:41:42,920
+order to solve them. So yes, I write books and I feel like this is my last one for a while,
+
+1226
+01:41:42,920 --> 01:41:47,160
+but like to write books and teach and speak and do all these things, have clinics.
+
+1227
+01:41:47,160 --> 01:41:52,360
+But at the end of the day, this is an existential threat. And once you've seen it, you can't unsee
+
+1228
+01:41:52,360 --> 01:41:56,680
+it. I just were researching the book for the last two and a half years. I just sort of was shocked
+
+1229
+01:41:56,760 --> 01:42:01,640
+by a lot of things that I learned that are not really common knowledge, even with really
+
+1230
+01:42:01,640 --> 01:42:05,960
+educated people. If I go in a room of highly educated people and say, what's the number one
+
+1231
+01:42:05,960 --> 01:42:10,280
+source of climate change? They're not going to say food, but when you actually unpack it,
+
+1232
+01:42:10,280 --> 01:42:14,600
+that's the biggest threat. Well, Mark, thank you very much for making the time today. And more
+
+1233
+01:42:14,600 --> 01:42:18,600
+importantly, of course, for doing this work and bringing it to our attention. This is an area that
+
+1234
+01:42:18,600 --> 01:42:24,600
+I have become increasingly interested in. And my views are kind of constantly evolving. I mean,
+
+1235
+01:42:24,600 --> 01:42:32,280
+I think there was a day when I didn't question the health of GMO. I'll just share with you an
+
+1236
+01:42:32,280 --> 01:42:39,720
+anecdote, which is when I went to Europe a year ago, I just made the glib observation, which was
+
+1237
+01:42:40,360 --> 01:42:46,520
+sort of the bread, the pasta, all of the food that I ate in Europe, which I actually went out of my
+
+1238
+01:42:46,520 --> 01:42:52,680
+way to eat, did not seem to produce the same effect as it did here. And that was actually kind of the
+
+1239
+01:42:52,760 --> 01:42:57,720
+thin end of the wedge in my mind that said, what's going on? What is the difference between the crops
+
+1240
+01:42:57,720 --> 01:43:05,080
+that they are using in Europe? And it's funny because it reminded me of my childhood because
+
+1241
+01:43:05,080 --> 01:43:09,720
+when I was a kid, we used to go to Egypt every year. And because my parents are from and I've
+
+1242
+01:43:09,720 --> 01:43:16,760
+got my mom each year and usually spend two months there. And I remember the way bread tasted there.
+
+1243
+01:43:16,760 --> 01:43:22,120
+It had a very distinct taste that you'll never taste, even if you buy like pita bread or other
+
+1244
+01:43:22,120 --> 01:43:26,840
+Middle Eastern bread here in the US, it tastes very different. And I remember sort of having
+
+1245
+01:43:26,840 --> 01:43:31,560
+those neurons tickled again when I was in Europe going out of my way. Because most of the previous
+
+1246
+01:43:31,560 --> 01:43:35,400
+times I'd gone to Europe, I kind of don't eat that sort of stuff. But on this trip, I was like,
+
+1247
+01:43:35,400 --> 01:43:39,560
+hey, I'm going to win in Rome. So yeah, tell me about what you think those four differences are.
+
+1248
+01:43:39,560 --> 01:43:43,320
+So you're talking about wheat products, right? So what's happened to wheat is that we've
+
+1249
+01:43:44,040 --> 01:43:50,680
+hybridized the wheat to make it extremely drought resistant and hardy. And it's called dwarf wheat.
+
+1250
+01:43:50,680 --> 01:43:57,720
+And the guy who invented Norman Borlaug won the Nobel Prize and increased in yields. But what was
+
+1251
+01:43:57,720 --> 01:44:03,240
+sort of the unintended consequences is the starch in there is called amylopectin A. It's a super
+
+1252
+01:44:03,240 --> 01:44:07,320
+starch, raises your blood sugar more than regular sugar. So one, it's basically just like eating
+
+1253
+01:44:07,320 --> 01:44:14,760
+sugar worse. Two, when they breed plants, it's not like humans, you get 23 pairs of chromosomes,
+
+1254
+01:44:14,760 --> 01:44:20,280
+one from your mom, one from your dad, 46 chromosomes in plants is 46 plus 46. It was like 92.
+
+1255
+01:44:20,280 --> 01:44:24,040
+And so there's extra proteins that are formed and there are many more gliding proteins,
+
+1256
+01:44:24,040 --> 01:44:29,000
+which are inflammatory and more active in terms of causing disruptions in the gut. So they're
+
+1257
+01:44:29,000 --> 01:44:34,200
+more likely to cause leaky gut inflammation. The third thing is they spray wheat, even though it's
+
+1258
+01:44:34,200 --> 01:44:42,200
+not a GMO food plant, they spray it with glyphosate at harvest. Why? Because it defoliates the plants,
+
+1259
+01:44:42,200 --> 01:44:46,360
+it gets rid of all the sort of leaves and stuff. So it makes it easier to harvest. So right at
+
+1260
+01:44:46,360 --> 01:44:51,400
+harvest, they spray this with glyphosate and your Cheerios have more glyphosate than vitamin A and
+
+1261
+01:44:51,400 --> 01:44:56,280
+vitamin D they're adding their per amount of weight. So even if you buy organic wheat?
+
+1262
+01:44:56,280 --> 01:45:01,240
+Organic wheat, no. Organic wheat could still be the dwarf wheat. And then lastly, this is
+
+1263
+01:45:01,240 --> 01:45:05,480
+interesting, maybe five reasons. But second to last, the calcium propionate, which is a
+
+1264
+01:45:05,480 --> 01:45:11,320
+preservative, is added to the wheat in this country and it's known to cause toxic neurological
+
+1265
+01:45:11,320 --> 01:45:16,680
+effects, behavioral hyperactivity, and even linked to autism. In fact, when you give babies
+
+1266
+01:45:16,680 --> 01:45:21,160
+breast milk, it increases butyrate, which is an impactful short chain fat in the gut that makes
+
+1267
+01:45:21,160 --> 01:45:26,360
+your gut healthy. When you have formula, it causes high propionate levels, which can cause neurotoxic
+
+1268
+01:45:26,360 --> 01:45:31,240
+effects. And in animal models, it has caused autism if you put propionate in rats' brains.
+
+1269
+01:45:31,240 --> 01:45:35,480
+And then lastly, in Europe, they have different methods of making them. But here it's like quick,
+
+1270
+01:45:35,480 --> 01:45:39,880
+quick, quick, quick. They want it to level and rise in a couple of hours. There it can take overnight,
+
+1271
+01:45:39,960 --> 01:45:43,880
+12 hours, 14 hours, and it tastes very different. And it's a very different structure and it does
+
+1272
+01:45:43,880 --> 01:45:48,120
+different things to the gluten and so forth. So there's a lot of reasons that that happens, but
+
+1273
+01:45:48,120 --> 01:45:53,080
+I would say over and over, I see this happen with my patients who can't eat this stuff here and they
+
+1274
+01:45:53,080 --> 01:45:57,080
+go over there and there's no GMO over there. It's a complex web of things.
+
+1275
+01:45:57,080 --> 01:46:02,120
+Can one make bread here in the US on their own using wheat, like an actual wheat that comes from
+
+1276
+01:46:02,120 --> 01:46:07,400
+Europe? Sure. You could, or you could get heirloom wheats, like ankhorn wheat, which is very different.
+
+1277
+01:46:07,400 --> 01:46:12,120
+Or now there's new forms of wheat, like kerns of wheat by Wes Jackson was developed in the Midwest.
+
+1278
+01:46:12,120 --> 01:46:17,400
+It has incredibly deep roots. It's a perennial wheat, super nutrient dense, really amazing,
+
+1279
+01:46:17,400 --> 01:46:21,880
+amazing product. So there's incredible grains out there that I was talking to my friend,
+
+1280
+01:46:21,880 --> 01:46:25,560
+Jeff Bland the other day, who's developing this company. And he's working with this guy
+
+1281
+01:46:26,120 --> 01:46:31,960
+to develop these phytochemical rich foods, super foods. And he got a bunch of things from the USDA,
+
+1282
+01:46:31,960 --> 01:46:36,840
+a bunch of seeds. And one packet came in, it was like 4, 3, 2 on 6 or something. He's like,
+
+1283
+01:46:36,920 --> 01:46:40,520
+what's this? I don't know what this is. And they sent it to him by accident. And it was this
+
+1284
+01:46:40,520 --> 01:46:47,560
+Himalayan buckwheat, which apparently is one of the most protein rich, low glycemic, phytochemical
+
+1285
+01:46:47,560 --> 01:46:53,480
+dense, hearty super food on the planet. And they're now, they have this sort of seed because, and
+
+1286
+01:46:53,480 --> 01:46:56,440
+they're not selling it, distributing it, but they couldn't give it back. So he's like literally
+
+1287
+01:46:56,440 --> 01:47:00,760
+taking this packet of seeds and turning it into a whole business, which is pretty amazing. So
+
+1288
+01:47:00,760 --> 01:47:05,000
+there's a lot of stuff out there that we could use. It's much better for us, but we just kind of
+
+1289
+01:47:05,000 --> 01:47:09,480
+homogenized our food supply and we've taken out all, like I said, we eat 800 species of plants
+
+1290
+01:47:09,480 --> 01:47:14,120
+before when your hunter gathers. Our bodies need all those different phytochemicals and nutrients
+
+1291
+01:47:14,120 --> 01:47:19,400
+and minerals and so forth and vitamins to actually run itself. And we're now just in this
+
+1292
+01:47:19,400 --> 01:47:24,200
+sort of nutrient devoid diet, even if we're eating organic stuff, if it's not grown in good soils,
+
+1293
+01:47:24,200 --> 01:47:28,840
+if it's hybridized plants, it's just not great. I always say eat weird food. So I always try to
+
+1294
+01:47:28,840 --> 01:47:34,120
+eat weird food. I gotta tell you, I'm hungry right now. I know. All right, Mark. Well,
+
+1295
+01:47:34,120 --> 01:47:39,160
+thanks very much. Sure. Thanks a lot, Peter. Have me. Thank you for listening to this week's
+
+1296
+01:47:39,160 --> 01:47:43,480
+episode of The Drive. If you're interested in diving deeper into any topics we discuss,
+
+1297
+01:47:43,480 --> 01:47:48,200
+we've created a membership program that allows us to bring you more in-depth, exclusive content
+
+1298
+01:47:48,200 --> 01:47:53,400
+without relying on paid ads. It's our goal to ensure members get back much more than the price
+
+1299
+01:47:53,400 --> 01:47:58,760
+of this subscription. Now to that end, membership benefits include a bunch of things. One, totally
+
+1300
+01:47:58,760 --> 01:48:04,360
+kick ass comprehensive podcast show notes that detail every topic, paper, person, thing we discuss
+
+1301
+01:48:04,360 --> 01:48:10,840
+on each episode. The word on the street is nobody's show notes rival these. Monthly AMA episodes or
+
+1302
+01:48:10,840 --> 01:48:16,120
+Ask Me Anything episodes, hearing these episodes completely. Access to our private podcast feed
+
+1303
+01:48:16,120 --> 01:48:21,560
+that allows you to hear everything without having to listen to spiel's like this. The Qwally's,
+
+1304
+01:48:21,560 --> 01:48:26,360
+which are a super short podcast, typically less than five minutes that we release every Tuesday
+
+1305
+01:48:26,360 --> 01:48:31,000
+through Friday, highlighting the best questions, topics, and tactics discussed on previous episodes
+
+1306
+01:48:31,000 --> 01:48:35,960
+of The Drive. This is a great way to catch up on previous episodes without having to go back and
+
+1307
+01:48:35,960 --> 01:48:41,720
+necessarily listen to everyone. Steep discounts on products that I believe in, but for which I'm not
+
+1308
+01:48:41,720 --> 01:48:46,440
+getting paid to endorse, and a whole bunch of other benefits that we continue to trickle in
+
+1309
+01:48:46,440 --> 01:48:50,520
+as time goes on. If you want to learn more and access these member-only benefits, you can head
+
+1310
+01:48:50,600 --> 01:48:57,960
+over to PeterAttiaMD.com forward slash subscribe. You can find me on Twitter, Instagram, and Facebook,
+
+1311
+01:48:57,960 --> 01:49:04,520
+all with the ID PeterAttiaMD. You can also leave us a review on Apple Podcasts or whatever podcast
+
+1312
+01:49:04,520 --> 01:49:10,040
+player you listen on. This podcast is for general informational purposes only. It does not constitute
+
+1313
+01:49:10,040 --> 01:49:14,680
+the practice of medicine, nursing, or other professional healthcare services, including
+
+1314
+01:49:14,680 --> 01:49:20,840
+the giving of medical advice. No doctor-patient relationship is formed. The use of this information
+
+1315
+01:49:20,840 --> 01:49:26,600
+and the materials linked to this podcast is at the user's own risk. The content on this podcast
+
+1316
+01:49:26,600 --> 01:49:32,920
+is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Users
+
+1317
+01:49:32,920 --> 01:49:39,240
+should not disregard or delay in obtaining medical advice from any medical condition they have, and
+
+1318
+01:49:39,320 --> 01:49:44,840
+they should seek the assistance of their healthcare professionals for any such conditions. Finally,
+
+1319
+01:49:44,840 --> 01:49:50,360
+I take conflicts of interest very seriously. For all of my disclosures and the companies I invest in
+
+1320
+01:49:50,360 --> 01:49:57,960
+or advise, please visit PeterAttiaMD.com forward slash about where I keep an up-to-date and active
+
+1321
+01:49:57,960 --> 01:50:09,000
+list of such companies.
+

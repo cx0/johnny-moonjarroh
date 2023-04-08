@@ -1,0 +1,5728 @@
+1
+00:00:00,000 --> 00:00:15,640
+Hey everyone, welcome to the Drive podcast. I'm your host, Peter Attia. This podcast,
+
+2
+00:00:15,640 --> 00:00:19,400
+my website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:19,400 --> 00:00:24,400
+longevity into something accessible for everyone. Our goal is to provide the best content in
+
+4
+00:00:24,400 --> 00:00:28,480
+health and wellness, full stop, and we've assembled a great team of analysts to make
+
+5
+00:00:28,480 --> 00:00:32,760
+this happen. If you enjoy this podcast, we've created a membership program that brings you
+
+6
+00:00:32,760 --> 00:00:36,960
+far more in-depth content. If you want to take your knowledge of the space to the next level.
+
+7
+00:00:36,960 --> 00:00:41,600
+At the end of this episode, I'll explain what those benefits are. Or if you want to learn more now,
+
+8
+00:00:41,600 --> 00:00:48,160
+head over to PeterAttiaMD.com forward slash subscribe. Now without further delay, here's
+
+9
+00:00:48,160 --> 00:00:54,920
+today's episode. My guest this week is Erin Mikos. Erin is an internationally known leader
+
+10
+00:00:54,920 --> 00:01:00,560
+in preventative cardiology, women's cardiovascular health, and cardiobstetrics. She's an associate
+
+11
+00:01:00,560 --> 00:01:04,320
+professor of medicine in the division of cardiology at Johns Hopkins School of Medicine,
+
+12
+00:01:04,320 --> 00:01:08,080
+the joint appointment in the department of epidemiology at the Johns Hopkins Bloomberg
+
+13
+00:01:08,080 --> 00:01:12,720
+School of Public Health. She's also the director of women's cardiovascular health and the associate
+
+14
+00:01:12,720 --> 00:01:18,360
+director of preventative cardiology with the Johns Hopkins Center of Prevention of Cardiovascular
+
+15
+00:01:18,360 --> 00:01:23,760
+Disease. This is an episode that covers a topic that is obviously valuable to understand given
+
+16
+00:01:23,880 --> 00:01:28,760
+that atherosclerotic cardiovascular disease is the number one cause of death worldwide. And while
+
+17
+00:01:28,760 --> 00:01:32,800
+as the topic we've covered in detail in the podcast before, I think it's an important episode
+
+18
+00:01:32,800 --> 00:01:38,000
+because we focus this conversation around cardiovascular disease and lipids specifically
+
+19
+00:01:38,000 --> 00:01:43,840
+through the lens of female biology. We discussed the prevalence of ASCVD in females as they age,
+
+20
+00:01:43,840 --> 00:01:49,440
+the importance of making interventions early in life, the risk of ASCVD over the course of lifetime,
+
+21
+00:01:49,440 --> 00:01:54,080
+as opposed to the traditional view, which is to only really consider 10 year risk. We then probe
+
+22
+00:01:54,080 --> 00:01:58,680
+the ins and outs of CVD, lipids, and various lipid lowering medications across a female's lifetime,
+
+23
+00:01:58,680 --> 00:02:05,560
+including the premenopausal state changes during the perimenopausal state, pregnancy, and menopause
+
+24
+00:02:05,560 --> 00:02:10,680
+and beyond. We also touch on a number of other subjects that affect a female's risk of ASCVD,
+
+25
+00:02:10,680 --> 00:02:16,080
+specifically polycystic ovarian syndrome, contraceptives, GLP1 agonist nutrition, metabolic
+
+26
+00:02:16,120 --> 00:02:23,040
+health, familial hypercholesterolemia, statins, stress, HRT, and more. So without further delay,
+
+27
+00:02:23,040 --> 00:02:34,120
+please enjoy my conversation with Dr. Erin Mikos. Thanks so much for making time, Erin. Look forward
+
+28
+00:02:34,120 --> 00:02:37,360
+to this discussion. We have a lot to talk about, but before we do it, there's one thing I wanted
+
+29
+00:02:37,360 --> 00:02:43,440
+to just check. Going through your bio, I realize when did you do your residency in medicine? Because
+
+30
+00:02:43,440 --> 00:02:52,200
+you also did that at Hopkins, correct? Yes. So I've been at Hopkins 22 years. I did residency 2000
+
+31
+00:02:52,200 --> 00:02:57,800
+to 2003, and then stayed on for cardiology fellowship and then joined the faculty. So I've
+
+32
+00:02:57,800 --> 00:03:04,360
+been on faculty over 15 years now. I did my general surgery there. I was there from 01 to 06,
+
+33
+00:03:04,360 --> 00:03:10,920
+which made me realize the probability we haven't passed each other somewhere in the emergency room
+
+34
+00:03:10,920 --> 00:03:16,880
+during residency is exceedingly low, right? I'm sure we must have interacted because I was there
+
+35
+00:03:16,880 --> 00:03:22,240
+all during that time, overlapped with my residency and my fellowship. I always am amazed when I run
+
+36
+00:03:22,240 --> 00:03:25,620
+into people who I know I was there with. And there are certain medicine residents I remember
+
+37
+00:03:25,620 --> 00:03:30,360
+very well, but just by coincidence, you're always in the ER together, but obviously it's a huge
+
+38
+00:03:30,360 --> 00:03:35,400
+program. So when you went into medicine, did you know you wanted to do cardiology? When I went into
+
+39
+00:03:35,640 --> 00:03:41,800
+medicine, I did in college, actually didn't know that I was going to go into medicine. You know,
+
+40
+00:03:41,800 --> 00:03:45,840
+there's no doctors in my family. So I'm the first one. So I didn't really know what a career in
+
+41
+00:03:45,840 --> 00:03:50,760
+medicine would be about. So I started out my undergrad studies at Northwestern as a molecular
+
+42
+00:03:50,760 --> 00:03:56,040
+biology major. Through that I interacted with so many pre-med students who are my classmates. And
+
+43
+00:03:56,040 --> 00:04:01,480
+their enthusiasm about entering the field was really contagious. And I was doing a lot of bench
+
+44
+00:04:01,560 --> 00:04:06,600
+science, which is really a good experience. I think anybody entering science and medicine should have
+
+45
+00:04:06,600 --> 00:04:12,520
+some bench lab work experience. But I began to long for more direct clinical research with direct
+
+46
+00:04:12,520 --> 00:04:18,840
+patient exposure. So kind of late, I switched to being pre-med kind of my last year of undergrad
+
+47
+00:04:18,840 --> 00:04:24,520
+and applied actually to both the PhD and medical programs. And then when I started medical school,
+
+48
+00:04:24,520 --> 00:04:29,800
+I really fell in love with cardiology, even as a medical student before medicine residency.
+
+49
+00:04:29,800 --> 00:04:36,760
+I have a real interest in diet and nutrition and exercise and lifestyle. And we think that over
+
+50
+00:04:36,760 --> 00:04:42,200
+90% of cardiovascular disease is due to preventable, modifiable risk factors. And there's, you know,
+
+51
+00:04:42,200 --> 00:04:47,480
+so much we can do for prevention. And this is why I really love being a preventive cardiologist.
+
+52
+00:04:47,480 --> 00:04:51,880
+So when I entered medicine residency, I already had my eye towards cardiology fellowship.
+
+53
+00:04:52,680 --> 00:04:55,400
+You did the full three years of medicine and then you did three years of cards.
+
+54
+00:04:55,400 --> 00:04:56,840
+I did four years of cards.
+
+55
+00:04:56,840 --> 00:04:57,320
+Oh, you did?
+
+56
+00:04:57,320 --> 00:04:59,000
+So no, I was on the slow track.
+
+57
+00:04:59,000 --> 00:05:00,200
+You were on the slow track.
+
+58
+00:05:00,200 --> 00:05:04,520
+I did three years of residency, which is standard. And then our cardiology fellowship program was
+
+59
+00:05:04,520 --> 00:05:11,720
+four years because we emphasize research. So I did two years of research on a T32 program
+
+60
+00:05:11,720 --> 00:05:16,360
+and cardiovascular epidemiology. And that's where I got my master's in health science.
+
+61
+00:05:17,000 --> 00:05:24,600
+You said something at the outset that I completely agree with. And I feel like sometimes I'm banging
+
+62
+00:05:24,600 --> 00:05:29,080
+my head against the wall trying to make this point. You said, correct me if I misquote you,
+
+63
+00:05:29,080 --> 00:05:34,920
+but something to the effect of 90% of cardiovascular disease is preventable when you consider
+
+64
+00:05:34,920 --> 00:05:38,360
+modifiable risk factors. Was that kind of the gist of what you said?
+
+65
+00:05:39,080 --> 00:05:45,720
+Yeah, that's the data from the inner heart study that 90% of mild cardiomyvarction risk was due to
+
+66
+00:05:45,720 --> 00:05:52,040
+preventable risk factors. One of the things I tell my patients is that both in the United States and
+
+67
+00:05:52,040 --> 00:05:57,560
+globally, ASCVD is the leading cause of death. In fact, I was surprised somewhat recently,
+
+68
+00:05:57,560 --> 00:06:02,760
+like in the last year, to realize how much bigger the gap is between ASCVD and cancer
+
+69
+00:06:02,760 --> 00:06:07,640
+globally than in the US. It's number one in both. But when you look at the entire world,
+
+70
+00:06:07,640 --> 00:06:12,760
+I believe it's about 18 and a half to 19 million deaths attributed to ASCVD versus about 10 or 11
+
+71
+00:06:12,760 --> 00:06:17,960
+million to cancer. It's almost 2x delta. And when you take into account what you just said,
+
+72
+00:06:18,680 --> 00:06:25,160
+that between smoking, hypertension, and controlling APO-B, you could basically turn
+
+73
+00:06:25,160 --> 00:06:30,280
+that into a disease that would barely rank on the top 10. Does it surprise you that this doesn't
+
+74
+00:06:30,280 --> 00:06:35,560
+get more attention? Yeah, it surprises me. And I'm also really concerned that we're reversing
+
+75
+00:06:35,560 --> 00:06:42,120
+these trends. The first statin, lobostatin, was approved in 1987. After that, along with
+
+76
+00:06:42,120 --> 00:06:47,400
+efforts in smoking cessation and blood pressure treatment, there was a significant decline in
+
+77
+00:06:47,400 --> 00:06:52,760
+cardiovascular disease mortality in men. During this time, unfortunately, CBD mortality was rising
+
+78
+00:06:52,760 --> 00:06:57,640
+in women till around the year 2000 when this came to attention that we need to prevent cardiovascular
+
+79
+00:06:57,640 --> 00:07:02,840
+disease in women as well. And after that time, there was dramatic decline in cardiovascular
+
+80
+00:07:02,840 --> 00:07:10,040
+disease mortality in women and continued decline in men. But unfortunately, in recent years,
+
+81
+00:07:10,040 --> 00:07:16,280
+we are no longer making these strides in progress anymore. In fact, we're no longer even stagnated.
+
+82
+00:07:16,280 --> 00:07:21,160
+There's been a frank uptick in cardiovascular disease mortality in both men and women
+
+83
+00:07:21,160 --> 00:07:26,840
+due to the epidemics of obesity and diabetes and cardiometabolic diseases. In fact,
+
+84
+00:07:26,840 --> 00:07:32,760
+cardiovascular disease mortality is on the rise in younger women. And when you look at rates of
+
+85
+00:07:32,760 --> 00:07:39,800
+change, the fastest growing heart disease death rate is in middle-aged women age 45 to 64. So,
+
+86
+00:07:39,800 --> 00:07:45,240
+this is a particular group that needs more focused attention. So, we really need to double down on our
+
+87
+00:07:45,240 --> 00:07:51,080
+preventive efforts. And it's really disheartening to see that we're no longer making the progress
+
+88
+00:07:51,080 --> 00:07:55,960
+that we used to. So, if these trends are not overturned, you know, heart disease is set to
+
+89
+00:07:55,960 --> 00:08:01,080
+overtake cancer as the leading cause of death in younger women as well. I'm really glad you
+
+90
+00:08:01,080 --> 00:08:04,760
+made that point because when you look at what these things called in our practice, we have these
+
+91
+00:08:04,760 --> 00:08:09,640
+things called death bars, which is just an analysis that shows mortality sliced and diced in different
+
+92
+00:08:09,640 --> 00:08:13,640
+ways. But, you know, sometimes a graph just says things in a way that it's harder to describe in
+
+93
+00:08:13,640 --> 00:08:18,840
+words. And one of the things that does emerge from this analysis is that in middle-aged cancer
+
+94
+00:08:18,840 --> 00:08:24,200
+is still the biggest killer. And, of course, overall cardiovascular disease is, and in old age
+
+95
+00:08:24,200 --> 00:08:29,800
+cardiovascular disease and neurodegenerative disease dominate. But what you said is very
+
+96
+00:08:29,800 --> 00:08:35,560
+distressing if indeed now cardiovascular disease would eclipse cancer in even middle age.
+
+97
+00:08:35,560 --> 00:08:39,960
+So, overall, and focus on women's health, so cardiovascular disease is the leading cause of
+
+98
+00:08:39,960 --> 00:08:45,960
+death in women. You know, women more often fear breast cancer, which is a terrible disease. My
+
+99
+00:08:45,960 --> 00:08:51,960
+mother had breast cancer, but far more women are likely to die of cardiovascular disease than
+
+100
+00:08:51,960 --> 00:08:57,720
+cancer. But notably, you know, in younger individuals under the age of 65, cancer is
+
+101
+00:08:57,720 --> 00:09:02,920
+still the leading cause of death in women. But one of my studies that we published in the European
+
+102
+00:09:02,920 --> 00:09:08,600
+Heart Journal, we track death rates in younger women under the age of 65 in the US looking at
+
+103
+00:09:08,600 --> 00:09:16,200
+CDC wonder data over a 20-year period from 1999 to 2019. And we showed during this time that
+
+104
+00:09:16,200 --> 00:09:21,800
+actually cancer mortality has been declining in younger women, which is a good thing. But since
+
+105
+00:09:21,800 --> 00:09:28,280
+2010, heart disease mortality is no longer declining and is factually rising in these
+
+106
+00:09:28,280 --> 00:09:34,920
+younger women at 0.5% per year. So, it's actually narrowing the gap between cancer deaths and heart
+
+107
+00:09:34,920 --> 00:09:40,360
+disease deaths in the younger female population as well. So, if these trends are not overturned,
+
+108
+00:09:40,360 --> 00:09:45,000
+as I mentioned, you know, heart disease is set to overtake cancer as the leading cause of death in
+
+109
+00:09:45,000 --> 00:09:50,840
+younger women, which is really discouraging considering that we have so many more tools now
+
+110
+00:09:50,840 --> 00:09:55,240
+for prevention. And what was also really disheartening, I don't know if you saw this American Heart
+
+111
+00:09:55,240 --> 00:10:01,320
+Association survey that was published in 2021, but the American Heart Association has sent out
+
+112
+00:10:01,320 --> 00:10:06,040
+surveys over the years to women about their awareness of heart disease being the leading
+
+113
+00:10:06,040 --> 00:10:13,080
+cause of death in women. And back in 2009, you know, 65% of women reported that they knew that
+
+114
+00:10:13,080 --> 00:10:18,920
+heart disease was the leading cause of death. But in 2019, the more recent data, 10 years later,
+
+115
+00:10:18,920 --> 00:10:24,280
+only 44% of women reported that heart disease was the leading cause of death in women. They were
+
+116
+00:10:24,280 --> 00:10:30,120
+more likely to report cancer as the leading cause of death. So, this lack of awareness is worrisome,
+
+117
+00:10:30,120 --> 00:10:36,040
+and it was particularly prominent among non-Hispanic black women and among Hispanic women,
+
+118
+00:10:36,040 --> 00:10:41,320
+and also among the younger women demographic that we're talking about, who arguably we can do the
+
+119
+00:10:41,320 --> 00:10:46,280
+most for primordial prevention would be most effective if started earlier. I also think
+
+120
+00:10:46,280 --> 00:10:51,240
+there's kind of an emotional thing to this, which is even if you don't pose the question directly,
+
+121
+00:10:51,240 --> 00:10:56,840
+like a multiple choice question, I just find in speaking with my female patients, so young female
+
+122
+00:10:56,840 --> 00:11:04,840
+patients, I think there's a greater fear of breast cancer than ASCVD, even though the mortality from
+
+123
+00:11:04,840 --> 00:11:10,280
+heart disease is somewhere between eight and 10 times greater than that of breast cancer. It's
+
+124
+00:11:10,280 --> 00:11:16,600
+amazing to think that they would be more afraid of something that has a log lower difference in
+
+125
+00:11:16,600 --> 00:11:20,760
+mortality. What do you think explains that? And again, you can answer this both through a personal
+
+126
+00:11:20,760 --> 00:11:24,680
+lens through the experience with your mother, but also professionally given what you study.
+
+127
+00:11:24,920 --> 00:11:30,760
+I think there's still this lingering notion that somehow heart disease is a man's disease.
+
+128
+00:11:31,320 --> 00:11:36,280
+The problem is, women have historically been under enrolled in randomized clinical trials.
+
+129
+00:11:36,280 --> 00:11:42,600
+So, we previously had limited data on efficacy and safety of therapies in women. So, both women
+
+130
+00:11:42,600 --> 00:11:48,120
+think that they're at lower risk than they really are, but also clinicians. So, clinicians, even when
+
+131
+00:11:48,120 --> 00:11:53,400
+given the same 10-year estimated risk or burden or risk factors, clinicians are more likely
+
+132
+00:11:53,400 --> 00:12:00,520
+to perceive women to being at lower risk, and this leads to under treatment. And particularly,
+
+133
+00:12:00,520 --> 00:12:06,280
+I see this with women who have FH, amylo-hypokalestralemia, who are under treated,
+
+134
+00:12:06,280 --> 00:12:13,160
+because on average in the non-FH population, women tend to develop cardiovascular disease about 10
+
+135
+00:12:13,160 --> 00:12:18,520
+years later than men, somehow thought that premenopausal women of reproductive years are
+
+136
+00:12:18,520 --> 00:12:26,280
+somehow protected. But we don't see this in FH. FH affects 1 in 250 individuals. It's autosomal
+
+137
+00:12:26,280 --> 00:12:31,960
+dominant, which means women are equally affected as men, and it's associated with a 20-fold increased
+
+138
+00:12:31,960 --> 00:12:39,800
+risk of CBD. Women with FH have an earlier onset of ASCVD about 20 to 30 years earlier than women
+
+139
+00:12:39,800 --> 00:12:46,520
+without FH, and they continue to be under treated. But notably, in the FH population, women have the
+
+140
+00:12:46,520 --> 00:12:54,120
+same age, early age of onset, as CBD as men do. So, they are not protected. They don't have this
+
+141
+00:12:54,120 --> 00:12:59,720
+premenopausal advantage, and it's still really disheartening to me to see that these women who
+
+142
+00:12:59,720 --> 00:13:06,680
+have very high genetic risk are not being treated because of concerns about pregnancy, which you can
+
+143
+00:13:06,680 --> 00:13:12,520
+talk about our management around there. But it's better to even have short interruptions in treatment
+
+144
+00:13:12,520 --> 00:13:18,200
+than to let these women who have genetically high, very high LDLs be marinating in this
+
+145
+00:13:18,200 --> 00:13:24,760
+atherogenesis for decades and decades untreated, which, you know, dooms them to earlier onset
+
+146
+00:13:24,760 --> 00:13:30,360
+morbidity and mortality if not treated. Let's put some of these numbers to folks. I don't know if
+
+147
+00:13:30,360 --> 00:13:36,040
+these are still the correct data, but the last time I looked, this was sort of a directionally
+
+148
+00:13:36,040 --> 00:13:42,200
+correct. We use 65 as the dividing line between quote-unquote young and old, and the data basically
+
+149
+00:13:42,200 --> 00:13:47,240
+suggested that if you consider all the people who are going to suffer a major adverse cardiac
+
+150
+00:13:47,240 --> 00:13:52,520
+event in their life, and you consider men and ask the question, what fraction of men will experience
+
+151
+00:13:52,520 --> 00:13:57,240
+their first event? Of the men who experience a major adverse cardiac event in life, what fraction
+
+152
+00:13:57,240 --> 00:14:04,200
+will experience it before the age of 65? The answer was fully half. Again, this is to dispel the notion
+
+153
+00:14:04,200 --> 00:14:08,200
+that cardiovascular disease is an old person disease, because I don't think most people would
+
+154
+00:14:08,200 --> 00:14:14,680
+consider someone who's 60 years old to be old by today's standards. And even in women, to your point,
+
+155
+00:14:14,680 --> 00:14:22,280
+who have this time shift of about one decade, still one third of women who will experience a major
+
+156
+00:14:22,280 --> 00:14:27,400
+adverse cardiac event in their life will do so before the age of 65. Those were the data about
+
+157
+00:14:27,400 --> 00:14:32,360
+five or six years ago. Do you believe that that is still the case? Yes, unfortunately. You know,
+
+158
+00:14:32,360 --> 00:14:37,880
+women of reproductive age are still at risk for ASCBD. They may be lower risk on average,
+
+159
+00:14:37,880 --> 00:14:44,120
+but they're still at risk, and they're less likely to be treated. You know, when you look at the data
+
+160
+00:14:44,120 --> 00:14:49,080
+from like the YUMMI, Young Myocardial Infarction cohort, before the onset of their myocardial
+
+161
+00:14:49,080 --> 00:14:54,520
+infarction, you know, women were less likely to have been treated and perceived to be at lower risk.
+
+162
+00:14:54,520 --> 00:14:59,080
+So this is really concerning about the under treatment of women and this presumption that
+
+163
+00:14:59,080 --> 00:15:04,280
+they're lower risk. We know that smoking and diabetes, in addition to the FH, as I mentioned,
+
+164
+00:15:04,280 --> 00:15:12,040
+also eliminate any premenopausal advantage. It's not only really the magnitude of LDL elevation,
+
+165
+00:15:12,040 --> 00:15:18,520
+but it's the duration of exposure. So even exposure to mild or moderately elevated LDL
+
+166
+00:15:18,520 --> 00:15:25,000
+for a sufficient number of years has increased the risk of ASCBD to an earlier onset compared to
+
+167
+00:15:25,000 --> 00:15:32,920
+individuals who have had lifetime low LDL. And so by waiting to treat individuals until later of life,
+
+168
+00:15:32,920 --> 00:15:39,640
+you know, you've left atherosclerosis propagate unchecked during this time. It's never too late
+
+169
+00:15:39,640 --> 00:15:43,720
+to implement prevention, but prevention is better implemented when started earlier.
+
+170
+00:15:43,720 --> 00:15:47,800
+Yeah, there's two ways I try to explain this to patients, and usually at least one of them works.
+
+171
+00:15:47,800 --> 00:15:52,920
+So sometimes patients will come in with some recollection of calculus, and you can remind them
+
+172
+00:15:52,920 --> 00:15:57,640
+about the area under the curve and the integral, and you can sort of explain that an enormous
+
+173
+00:15:57,720 --> 00:16:03,320
+driver of atherosclerosis is indeed exposure to APO-B. On my podcast, the listeners are very
+
+174
+00:16:03,320 --> 00:16:07,720
+astute. They understand that we're really talking about APO-B, which includes of course LDL, but also
+
+175
+00:16:07,720 --> 00:16:14,520
+VLDL, et cetera. And we say, look, it's really the time is the X axis and APO-B concentration is the
+
+176
+00:16:14,520 --> 00:16:21,320
+Y axis. You want to minimize the area under that curve. And to your point, that means starting
+
+177
+00:16:21,320 --> 00:16:27,960
+earlier and lowering APO-B or LDL cholesterol more. And the longer you wait, the more it puts
+
+178
+00:16:27,960 --> 00:16:33,720
+the burden on you to really lower that APO-B. So if that doesn't resonate, I think the other
+
+179
+00:16:33,720 --> 00:16:38,360
+way that resonates with people is to think about saving for retirement, which is in an
+
+180
+00:16:38,360 --> 00:16:43,480
+ideal world, you'd start saving in your twenties and you wouldn't have to save an enormous amount
+
+181
+00:16:43,480 --> 00:16:47,560
+if you were saving in your twenties, but you'd be chipping away at it and building up your coffers
+
+182
+00:16:47,560 --> 00:16:52,520
+and generating a slow and steady incremental return and letting the effective compounding
+
+183
+00:16:52,520 --> 00:16:57,640
+take its toll. Of course, if you wait until you're 40 or 50, you're going to have to be more
+
+184
+00:16:57,640 --> 00:17:02,360
+aggressive in your savings and you're going to also require a higher rate of compounded return
+
+185
+00:17:02,360 --> 00:17:06,520
+if you want to have the same amount when you retire. And of course, if you wait until you're
+
+186
+00:17:06,520 --> 00:17:10,840
+60, it doesn't mean that you can't have some sort of financial independence in your seventies, but boy,
+
+187
+00:17:11,480 --> 00:17:15,240
+you've got to really sock away a lot of money and you've got to really hope for some
+
+188
+00:17:15,240 --> 00:17:19,720
+pretty impressive returns in the stock market. And so usually somewhere between those two
+
+189
+00:17:20,600 --> 00:17:25,560
+explanations, people start to understand what you're saying and what people like Peter Libby
+
+190
+00:17:25,560 --> 00:17:30,520
+have said, which is it's time exposure to APO-B. Do you get the sense that it also works that way
+
+191
+00:17:30,520 --> 00:17:35,960
+with blood pressure and some of the other really clear causative agents for ASCVD?
+
+192
+00:17:35,960 --> 00:17:41,720
+Yes. You know, you wouldn't take someone who has a younger adult who has a systolic blood pressure
+
+193
+00:17:41,720 --> 00:17:48,600
+of 160 and say, oh, you know, your 10 year risk is low in the next 10 years because you're only
+
+194
+00:17:48,600 --> 00:17:53,240
+30. So, you know, we're not going to treat you. We're going to let this high blood pressure continue
+
+195
+00:17:53,240 --> 00:17:59,000
+on and damage your arteries and cause, you know, silent vascular damage. No, you would treat a 30
+
+196
+00:17:59,000 --> 00:18:04,600
+year old who have elevated blood pressure. So this problem with these 10 year risk in younger adults
+
+197
+00:18:04,600 --> 00:18:10,600
+is that, yes, younger adults are going to have a lower short term risk over the next 10 years,
+
+198
+00:18:10,600 --> 00:18:18,520
+but they have a high lifetime risk and that we do them a disservice by ignoring these high values
+
+199
+00:18:18,520 --> 00:18:24,200
+because they haven't crossed some kind of theoretical 10 year threshold with the exception
+
+200
+00:18:24,200 --> 00:18:31,000
+of guidelines say, well, FH, we treat if it's above 190, but a lot of patients have mild to moderate
+
+201
+00:18:31,000 --> 00:18:37,240
+elevated cholesterol in younger age years that is not being treated. You know, I tell my patients,
+
+202
+00:18:37,240 --> 00:18:42,120
+I'm not just concerned about preventing a heart attack in the next 10 years. I want to prevent
+
+203
+00:18:42,120 --> 00:18:47,000
+them from having a heart attack over the next 40 years. And so this is where we need to have much
+
+204
+00:18:47,000 --> 00:18:52,680
+more focus on prevention. And this does emphasize the role of lifestyle as well and healthy dietary
+
+205
+00:18:52,680 --> 00:18:58,360
+changes and really healthy lifestyle should really begin in utero. You just took a real page out of
+
+206
+00:18:58,360 --> 00:19:04,280
+Alan Snyderman's JAMA paper from a few years ago where he really just took aim at this ridiculous
+
+207
+00:19:04,280 --> 00:19:10,280
+notion of 10 year risk being remotely helpful in young people. One of the exercises I like to do
+
+208
+00:19:10,280 --> 00:19:15,720
+with patients is take them to the Mesa risk calculator page and basically demonstrate for
+
+209
+00:19:15,720 --> 00:19:20,920
+them how much it's driven by age. If you go to the lowest end of that calculator, which I think is 40
+
+210
+00:19:20,920 --> 00:19:28,840
+or 45, there's almost no variable you can put in there that gets you to a high enough 10 year risk
+
+211
+00:19:29,400 --> 00:19:34,600
+that you would trigger treatment. Five percent 10 year risk. Okay, now we need to act. Conversely,
+
+212
+00:19:34,600 --> 00:19:40,040
+at a high enough age, there's almost no variable you can put in there for which the risk is low
+
+213
+00:19:40,040 --> 00:19:45,160
+enough. In other words, age is the biggest driver of risk. How do you think we got here? Because
+
+214
+00:19:45,160 --> 00:19:51,720
+you've clearly, I think, identified the jugular issue, which is the time horizon of risk.
+
+215
+00:19:52,600 --> 00:19:59,560
+And yet somehow when it comes to lipids, we stick to it. And yet when it comes to smoking and blood
+
+216
+00:19:59,560 --> 00:20:04,760
+pressure, we don't. We treat the causative agent when we're dealing with blood pressure and smoking,
+
+217
+00:20:04,760 --> 00:20:09,720
+and yet we somehow ignore the causative agent of APO-B when we're talking about lipids and focus
+
+218
+00:20:09,720 --> 00:20:15,240
+instead on time horizon. Well, I think part of the problem is randomized clinical trials do serve as
+
+219
+00:20:15,240 --> 00:20:19,560
+our primary evidence base for guideline recommendations. And they're very, very important.
+
+220
+00:20:19,560 --> 00:20:25,960
+But randomized clinical trials are expensive. And so you run them over generally a short time
+
+221
+00:20:25,960 --> 00:20:30,920
+period, five years, and you want to enroll high risk people that are going to have events over
+
+222
+00:20:30,920 --> 00:20:37,000
+the next five years. You really can't feasibly do a randomized clinical trial for decades and decades.
+
+223
+00:20:37,000 --> 00:20:43,400
+And so by nature, these lower risk individuals in younger adults are not included in these trials.
+
+224
+00:20:43,400 --> 00:20:50,040
+And then it comes down to the fact that we don't have data specifically for treatment in this
+
+225
+00:20:50,040 --> 00:20:56,200
+population. But I definitely hone down on lifestyle changes, particularly in younger adults. And I
+
+226
+00:20:56,200 --> 00:21:00,120
+think we're going to get into women's specific factors a little bit later and talk about
+
+227
+00:21:00,120 --> 00:21:06,520
+pregnancy. But high adverse lipid panel, elevated triglycerides, elevated total cholesterol,
+
+228
+00:21:06,520 --> 00:21:10,680
+and chronic hypertension and obesity, these cardiometabolic risk factors.
+
+229
+00:21:10,680 --> 00:21:16,920
+If women are entering pregnancy in poor cardiometabolic health, which the data shows that
+
+230
+00:21:16,920 --> 00:21:22,120
+there's been an increase in this, they're more likely to have these adverse pregnancy outcomes
+
+231
+00:21:22,120 --> 00:21:28,120
+like preeclampsia and gestational diabetes that not only increase their risk of short term
+
+232
+00:21:28,120 --> 00:21:35,640
+complications at delivery, but also impact their risk even decade or more after their index pregnancy.
+
+233
+00:21:35,640 --> 00:21:39,960
+Really, we need a shift improvement in cardiometabolic health earlier in life,
+
+234
+00:21:39,960 --> 00:21:42,840
+which means in young adults and women of reproductive age.
+
+235
+00:21:43,560 --> 00:21:48,200
+I agree with that completely. And I want to come back to it in more detail. But I still feel like
+
+236
+00:21:48,200 --> 00:21:55,320
+there is a double standard going back to what we talked about earlier in that we don't have a study
+
+237
+00:21:55,800 --> 00:22:03,160
+that says not smoking if you're aged 30 to 40 is going to reduce your risk of cardiovascular
+
+238
+00:22:03,160 --> 00:22:08,600
+disease. But yet there's not a physician out there that doesn't recommend smoking cessation
+
+239
+00:22:08,600 --> 00:22:15,560
+to a person the minute they pick up a cigarette. Why? It's because we've identified causality.
+
+240
+00:22:15,560 --> 00:22:20,600
+Once you identify causality, that's all that matters. The same is true with blood pressure.
+
+241
+00:22:20,600 --> 00:22:27,160
+We don't have a hypertensive study that looked at people aged 25 to 35 or 35 to 45, where we
+
+242
+00:22:27,160 --> 00:22:31,240
+reduced blood pressure and showed a dramatic reduction in events because they probably weren't
+
+243
+00:22:31,240 --> 00:22:37,080
+going to have the events in the time horizon of the study. And so the reason it's very easy for
+
+244
+00:22:37,080 --> 00:22:44,600
+any physician to treat hypertension in a 35 year old is because they're treating the causal agent.
+
+245
+00:22:44,600 --> 00:22:49,720
+And that's where I'm frustrated, Aaron, is we have the same level of causality for APO-B.
+
+246
+00:22:49,720 --> 00:22:55,080
+There is no ambiguity about this. And yet we somehow have this double standard where we
+
+247
+00:22:55,080 --> 00:23:02,280
+ignore the causal agent. I agree with you. We have overwhelming evidence that LDL is a causal factor
+
+248
+00:23:02,280 --> 00:23:07,560
+in atherosclerosis. We have data from observational studies, from genetic studies, from
+
+249
+00:23:07,560 --> 00:23:13,320
+interventional trials. It meets all the criteria for a causal factor. You just asked me to speculate
+
+250
+00:23:14,520 --> 00:23:20,520
+I'm not sure why that there hasn't been a greater uptick about treating in younger ages. And this
+
+251
+00:23:20,520 --> 00:23:24,520
+focus on 10 year risk scores, I'll point out though in randomized clinical trials, none of the
+
+252
+00:23:24,520 --> 00:23:30,920
+randomized clinical trials enrolled people on the basis of a 10 year cut point. The pooled cohort
+
+253
+00:23:30,920 --> 00:23:37,160
+equation has never been tested in a randomized clinical fashion about treating people based on
+
+254
+00:23:37,160 --> 00:23:42,920
+a full cohort equation cut point versus another cut point that was never been tested. The trials
+
+255
+00:23:42,920 --> 00:23:48,200
+have specific enrollment criteria and they really weren't based on 10 year risk scores. They were
+
+256
+00:23:48,200 --> 00:23:53,800
+based on other factors. And so this over-reliance on 10 year risk scores. But I will say that we
+
+257
+00:23:53,800 --> 00:24:00,440
+have made some progress. And I was really pleased. I was a co-author on the 2019 ACCAJ primary
+
+258
+00:24:00,440 --> 00:24:06,600
+prevention guidelines. We do acknowledge the limitations of these 10 year risk scores. They
+
+259
+00:24:06,600 --> 00:24:12,920
+can both overestimate risk in certain populations, such as older adults and those with higher
+
+260
+00:24:12,920 --> 00:24:18,360
+socioeconomic status. And they can underestimate risk in other populations, such as those with more
+
+261
+00:24:18,360 --> 00:24:24,360
+social deprivation and these other unique risk factors that are not captured in these 10 year risk
+
+262
+00:24:24,360 --> 00:24:28,920
+score. And so they acknowledge this, they still feel like you should do some kind of risk assessment
+
+263
+00:24:28,920 --> 00:24:34,680
+as a starting point and very low risk individuals, less than 5% 10 year risk lifestyle may be enough
+
+264
+00:24:34,680 --> 00:24:39,880
+and high risk individuals above 20% 10 year risk. You don't want to use your high intensity stat in
+
+265
+00:24:39,880 --> 00:24:46,040
+the lower LDL by 50% or more. But they do allow more room now for the borderline intermediate risk
+
+266
+00:24:46,040 --> 00:24:51,720
+to consider these risk enhancing factors of which April B and like portal A are some of them. But I
+
+267
+00:24:51,720 --> 00:24:56,120
+also was really pleased that they've acknowledged these female specific factors that we'll talk
+
+268
+00:24:56,120 --> 00:25:02,520
+more about early menopause and adverse pregnancy outcomes like preeclampsia. And so the presence of
+
+269
+00:25:02,520 --> 00:25:07,560
+these risk enhancers and those of borderline intermediate risk would favor the initiation of
+
+270
+00:25:07,560 --> 00:25:13,000
+statins. And then if there is still uncertainty about risk, even after you estimate 10 year risk
+
+271
+00:25:13,000 --> 00:25:17,640
+and consider those risk enhancing factors, you can get a coronary artery calcium score
+
+272
+00:25:18,200 --> 00:25:23,400
+to help refine risk a little bit better and guide shared decision making. So my practice, I use a
+
+273
+00:25:23,400 --> 00:25:29,080
+lot of coronary calcium scoring and particularly for elevated score, I'll even treat individuals
+
+274
+00:25:29,080 --> 00:25:33,880
+similar to secondary prevention population. But we know that even that doesn't work very well in
+
+275
+00:25:33,880 --> 00:25:39,160
+the younger population that we're talking about less than 40 because it takes time for plaque to
+
+276
+00:25:39,160 --> 00:25:46,360
+calcify. And so a zero calcium score, a young adult isn't as reassuring as a zero score in an
+
+277
+00:25:46,360 --> 00:25:50,920
+older adult. You know, they get they might be at low risk the short term for sure, but they may
+
+278
+00:25:50,920 --> 00:25:57,880
+still have a lifetime risk. We've gone back and forth in our practice about how to use calcium
+
+279
+00:25:57,880 --> 00:26:01,880
+scores and I think come to the same conclusion you have, right? Which is that in a young patient,
+
+280
+00:26:01,880 --> 00:26:06,600
+frankly, I would say younger than 50 truthfully, I don't know that a zero calcium score tells me
+
+281
+00:26:06,600 --> 00:26:10,440
+much. First of all, we know that 15% of zero calcium scores are false negatives. Anyway,
+
+282
+00:26:10,440 --> 00:26:15,480
+if you do a CTA, a CT angiogram listener, you're going to see a calcification that was missed
+
+283
+00:26:15,480 --> 00:26:20,600
+because the CTA has much finer slices than the CAC, or you're going to see soft plaque. In fact,
+
+284
+00:26:20,920 --> 00:26:28,520
+one series found that I think almost 2% of zero scores on CACs actually had hemodynamically
+
+285
+00:26:28,520 --> 00:26:33,880
+significant lesions on CTA. Even if you put aside the false positives or the false negatives,
+
+286
+00:26:33,880 --> 00:26:39,880
+rather, to your point, the physiology of the disease tells us that's the wrong metric to
+
+287
+00:26:39,880 --> 00:26:46,200
+care about. It's more interesting, I suppose, when you have perfectly clean CTAs in 70 year olds with
+
+288
+00:26:46,280 --> 00:26:51,640
+hyperlipidemia to which you can say, well, look, clearly this person has other factors that are
+
+289
+00:26:51,640 --> 00:26:56,200
+protective. We might not understand what they are and this is a patient in whom aggressive
+
+290
+00:26:56,200 --> 00:27:00,440
+treatment probably isn't necessary, especially if they don't feel that if the patient themselves
+
+291
+00:27:00,440 --> 00:27:04,760
+doesn't want it. Let's now talk about this thing that you've brought up on two occasions, which I
+
+292
+00:27:04,760 --> 00:27:08,840
+think is really important if I'm understanding you correctly, which is if we think about the lack of
+
+293
+00:27:08,840 --> 00:27:13,240
+progress or the regression in progress, I guess, that's been made over the past decade.
+
+294
+00:27:13,960 --> 00:27:18,360
+Am I understanding you correctly that it has been less about a reduction in treatment
+
+295
+00:27:18,920 --> 00:27:24,360
+for the preventative measures of ASCVD and more about the increase in the background
+
+296
+00:27:24,360 --> 00:27:28,040
+metabolic dysfunction or have both of these things been happening together?
+
+297
+00:27:28,680 --> 00:27:33,640
+Both of these things have been happening together. In terms of treatment, individuals are still
+
+298
+00:27:33,640 --> 00:27:38,600
+undertreated. We see this over and over again in registries. If you look at even the highest risk
+
+299
+00:27:38,600 --> 00:27:44,360
+patients, that's just those with ASCVD from the gold registry in the US and the Santorini
+
+300
+00:27:44,360 --> 00:27:50,520
+registry in Europe, patients are not at goal with their LDL and they're undertreated. In the gold
+
+301
+00:27:50,520 --> 00:27:59,320
+registry of US patients with ASCVD, more than two-thirds remained with an LDL above 70. We can
+
+302
+00:27:59,320 --> 00:28:04,360
+argue that maybe they should have been up there. LDL is as low as 55, but we even use a threshold
+
+303
+00:28:04,360 --> 00:28:11,000
+of 70 as the goal for initiating a non-statin therapy to a statin. Two-thirds were above this
+
+304
+00:28:11,000 --> 00:28:17,480
+goal and over a two-year period, only 17% had their lipid lowering therapy intensified.
+
+305
+00:28:17,480 --> 00:28:22,840
+There's this credible inertia. Patients are not at goal. The use of combination therapy,
+
+306
+00:28:22,840 --> 00:28:28,120
+including PCS-canine inhibitors, is very underutilized. There's something like 6% in this cohort.
+
+307
+00:28:29,000 --> 00:28:34,920
+We're certainly not treating with the tools that we have, which is really disheartening.
+
+308
+00:28:34,920 --> 00:28:41,240
+But also on the backdrop of this, we've all seen the US maps about the epidemic of obesity.
+
+309
+00:28:41,960 --> 00:28:47,560
+Along with that comes diabetes and other disorders related to insulin resistance,
+
+310
+00:28:47,560 --> 00:28:53,800
+including worrisome trends with increasing maternal mortality, rising rates of gestational
+
+311
+00:28:53,800 --> 00:29:00,040
+diabetes, which is increasing worldwide. The cardio metabolic health of the US population
+
+312
+00:29:00,040 --> 00:29:06,200
+is getting worse over time. We're shifting more morbidity to younger and younger age groups,
+
+313
+00:29:06,200 --> 00:29:12,680
+which is not a good thing at all and likely going to affect anticipated life expectancy trends to
+
+314
+00:29:12,680 --> 00:29:18,760
+reverse. Aaron, obviously, these trends that you're observing, the increase in obesity,
+
+315
+00:29:18,760 --> 00:29:22,600
+the increase in insulin resistance, the increase in type 2 diabetes,
+
+316
+00:29:22,600 --> 00:29:26,840
+although you didn't state it, it's embedded within here, the increase in naphthal D and
+
+317
+00:29:26,840 --> 00:29:30,680
+NASH, the increase, as you said, in gestational diabetes. I mean, all of these things are
+
+318
+00:29:30,680 --> 00:29:35,160
+basically growing out of metabolic syndrome. You could argue now, I don't know the latest stats,
+
+319
+00:29:35,160 --> 00:29:38,680
+but do you know what fraction of people in the United States now have metabolic syndrome?
+
+320
+00:29:38,680 --> 00:29:43,640
+I don't know. I've had my head for metabolic syndrome, but it's huge. We know that diabetes
+
+321
+00:29:43,640 --> 00:29:50,280
+rates are certainly going up with over one in 10 US adults having diabetes. And many with diabetes
+
+322
+00:29:50,280 --> 00:29:55,560
+don't even know that they have it. So there's a latency and diagnosis. So this is all really
+
+323
+00:29:55,560 --> 00:29:59,560
+alarming trends, especially when we have a lot of therapies we can do for prevention.
+
+324
+00:30:00,120 --> 00:30:04,920
+But of course, one of the most important prevention therapies I can prescribe for my patients is
+
+325
+00:30:04,920 --> 00:30:11,320
+lifestyle changes. Even modest weight loss can have a pretty significant impact on proglycerides
+
+326
+00:30:11,320 --> 00:30:15,880
+and blood pressure reduction. So it's always important that we can talk about all the new
+
+327
+00:30:15,880 --> 00:30:20,680
+exciting therapies we have for weight loss, like the GLP1 receptor agonist and the dual agonist,
+
+328
+00:30:20,680 --> 00:30:26,920
+but really still emphasizing healthy lifestyle from childhood is still such an important
+
+329
+00:30:26,920 --> 00:30:32,360
+strategy for prevention. So we know it's multifaceted. I don't think any serious
+
+330
+00:30:32,360 --> 00:30:37,560
+commentator on this will point to one thing and say that's the culprit for why we're seeing this
+
+331
+00:30:37,560 --> 00:30:45,720
+epidemic. But how do you rank order these things? So what is the causative driver in your mind for
+
+332
+00:30:45,960 --> 00:30:53,560
+weight loss? How much of that do you think lies at the feet of lower exercise levels versus
+
+333
+00:30:53,560 --> 00:30:59,480
+food availability, hyperpallatability, specific elements within the diet? How do you start to
+
+334
+00:30:59,480 --> 00:31:04,280
+disentangle this? Because I think without some level of granularity there, it becomes difficult
+
+335
+00:31:04,280 --> 00:31:07,720
+to say lose weight. An overweight person shows up and you tell them to lose weight. That's not a
+
+336
+00:31:07,720 --> 00:31:12,040
+particularly helpful insight. So in other words, to prescribe something insightful, we have to have
+
+337
+00:31:12,120 --> 00:31:17,480
+some sense of what the etiology is. So how do you think about that? First of all, I'm trying to
+
+338
+00:31:17,480 --> 00:31:23,160
+prevent or reverse the trends of obesity on a population basis. And so we put too much
+
+339
+00:31:23,160 --> 00:31:29,160
+blame on the individual, but we have major societal and population problems with the
+
+340
+00:31:29,160 --> 00:31:36,600
+easy access to poor quality food, these highly processed foods that are extremely palatable,
+
+341
+00:31:36,600 --> 00:31:42,920
+but contain a lot of saturated fats and other additives and sugars. The way our jobs are
+
+342
+00:31:42,920 --> 00:31:51,160
+structured to be more sedentary and long commute times, having access to safe places to exercise
+
+343
+00:31:51,160 --> 00:31:57,880
+and having time to do so and the increased stress levels in life. I mean, there's so many social
+
+344
+00:31:57,880 --> 00:32:03,080
+determinants of health that have led to this problem. And there's huge parts of the country
+
+345
+00:32:03,080 --> 00:32:08,520
+where there's food deserts, where there's not access to fruits and vegetables or food swamps
+
+346
+00:32:08,520 --> 00:32:14,520
+that are just really only available, cheap and easy foods are these highly processed packaged foods.
+
+347
+00:32:14,520 --> 00:32:20,360
+So as individuals, we do have some responsibility for our own life choices. Larger issues should be
+
+348
+00:32:20,360 --> 00:32:26,440
+placed in regulation and policy on a population level. And then, you know, once an individual is
+
+349
+00:32:26,440 --> 00:32:32,520
+already obese, it's much harder than to lose weight. We certainly talk about lifestyle changes,
+
+350
+00:32:32,520 --> 00:32:40,600
+but obesity is far more complicated. There is all kinds of hormonal regulations, and it's not just
+
+351
+00:32:40,600 --> 00:32:47,240
+as easy as calories in, calories out. The good news for these individuals is that at least now,
+
+352
+00:32:47,240 --> 00:32:54,760
+we do have some new pharmacological agents that are beneficial in weight loss that do not have
+
+353
+00:32:54,760 --> 00:33:00,040
+cardiovascular harm, like some of the older weight loss drugs, and may actually be
+
+354
+00:33:00,040 --> 00:33:05,160
+cardiovascularly beneficial. We know the GLP1 receptor agonist, at least in patients with type
+
+355
+00:33:05,160 --> 00:33:09,880
+2 diabetes, you know, reduces the risk of major adverse cardiovascular events and stroke.
+
+356
+00:33:09,880 --> 00:33:15,080
+And so while we do have an outcome trial ongoing right now in persons who were overweight and
+
+357
+00:33:15,080 --> 00:33:20,920
+obese, but without diabetes with the GLP1 receptor agonist, I'm anticipating this will also be
+
+358
+00:33:20,920 --> 00:33:26,280
+beneficial for cardiovascular disease. So we have new options to treat obesity, but really trying to
+
+359
+00:33:26,280 --> 00:33:31,320
+focus on prevention of obesity in the first place, because it's certainly not feasible to treat
+
+360
+00:33:31,320 --> 00:33:36,760
+two thirds of US adults are overweight and obese. The statistics are astronomical,
+
+361
+00:33:36,760 --> 00:33:41,240
+they're astounding. So we really need to focus on population interventions.
+
+362
+00:33:41,800 --> 00:33:46,600
+Which GLP1 agonist are we looking at now? Is it semiglutide or trisepatide?
+
+363
+00:33:47,240 --> 00:33:53,160
+So they're different. So semiglutide is a GLP1 receptor agonist, at least in patients in type
+
+364
+00:33:53,160 --> 00:34:00,040
+2 diabetes. We have cardiovascular outcome data for the injectable, the subcutaneous dose.
+
+365
+00:34:00,040 --> 00:34:07,480
+There is an outcome data ongoing for the oral formulation, but we don't have that data yet.
+
+366
+00:34:07,480 --> 00:34:13,720
+So usually I prescribe the injectable form. Now, so receptor bide is a new kid on the block.
+
+367
+00:34:13,720 --> 00:34:21,000
+It's a dual agonist, a GIP, GLP1 receptor agonist. This has been approved also for
+
+368
+00:34:21,000 --> 00:34:28,360
+diabetes, although the outcome trial for diabetes is ongoing, the CIRM-out outcome trial.
+
+369
+00:34:28,360 --> 00:34:35,400
+But it also has been evaluated for weight loss and really showed dramatic weight loss,
+
+370
+00:34:35,400 --> 00:34:41,560
+up to 50 pounds in the highest dose, which is really remarkable. We can't compare trials
+
+371
+00:34:41,560 --> 00:34:44,600
+head to head because they were not compared head to head, but in the STEP trials with
+
+372
+00:34:44,680 --> 00:34:51,720
+semiglutide, there was about a 30 or so pound weight loss. So triseptebide is not yet FDA
+
+373
+00:34:51,720 --> 00:34:57,800
+approved for weight management, although it will likely have this indication soon, but it was,
+
+374
+00:34:57,800 --> 00:35:04,600
+it is approved for type 2 diabetes. Semiglutide is approved for both type 2 diabetes for reduction
+
+375
+00:35:04,600 --> 00:35:08,920
+in major adverse cardiovascular events, but it also has a separate weight loss indication
+
+376
+00:35:09,480 --> 00:35:17,080
+for persons who are obese with BMI above 30 or overweight with a BMI over 27 in the setting of
+
+377
+00:35:17,080 --> 00:35:22,600
+one or more obesity related cardiovascular risk factors who need additional weight management
+
+378
+00:35:22,600 --> 00:35:28,280
+after diet and lifestyle attempts. So we have new agents now, which is really exciting, but getting
+
+379
+00:35:28,280 --> 00:35:34,120
+back to we need to do in a larger population to reverse the overall trends of obesity.
+
+380
+00:35:34,120 --> 00:35:39,400
+Before we leave the GLP1 agonist and the dual receptor agonist, what is your best guess as to
+
+381
+00:35:39,400 --> 00:35:44,760
+the mechanism by which they also reduce cardiac events if it indeed is beyond weight loss? In
+
+382
+00:35:44,760 --> 00:35:49,320
+other words, do you think it's all due to the benefits of weight loss, which of course bring
+
+383
+00:35:49,320 --> 00:35:53,240
+with it an improvement in metabolic health, or do you think there's something specific there
+
+384
+00:35:53,240 --> 00:35:57,080
+that's going on? And I would ask the same question eventually, although we don't have to discuss it
+
+385
+00:35:57,080 --> 00:36:03,800
+now with SGLT2 inhibitors. The GLP1 receptor agonist, I don't know that we fully understand
+
+386
+00:36:03,800 --> 00:36:09,800
+all of the benefits on the mechanisms for benefits, but we know that the benefits of
+
+387
+00:36:09,800 --> 00:36:15,800
+reducing major adverse cardiovascular events are independent of its A1C lowering. These are
+
+388
+00:36:15,800 --> 00:36:21,240
+interesting agents that in persons with elevated glucose, such as diabetes, they lower blood
+
+389
+00:36:21,240 --> 00:36:26,680
+glucose. But in persons who don't have elevated glucose, such as those with who are overweight
+
+390
+00:36:26,760 --> 00:36:35,160
+obese who don't have diabetes, GLP1s don't cause hypoglycemia solo agents. So they only lower blood
+
+391
+00:36:35,160 --> 00:36:40,520
+glucose in a glucose dependent fashion. But the benefit on base reduction, which has been shown
+
+392
+00:36:40,520 --> 00:36:45,800
+to persons with type 2 diabetes, is independent of A1C lowering. It may in part be related to
+
+393
+00:36:45,800 --> 00:36:52,120
+favorable changes and other risk factors, such as reduction in blood pressure and weight loss.
+
+394
+00:36:52,120 --> 00:36:58,760
+There's improvement in the lipid panel. It's being investigated also in NAFLD as well. There
+
+395
+00:36:58,760 --> 00:37:05,480
+may be anti-inflammatory effects. There may be anti-atherescrotic effects. There also may be some
+
+396
+00:37:05,480 --> 00:37:12,120
+effects in the kidney. We do see a reduction in albinuria with these agents as well. So there
+
+397
+00:37:12,120 --> 00:37:18,920
+really an interesting class of drugs. So let's now turn our attention to specifically the physiology
+
+398
+00:37:18,920 --> 00:37:25,000
+of women as it pertains to lipids and ASCVD. So I think we should maybe to make it easier,
+
+399
+00:37:25,000 --> 00:37:31,080
+at least start with premenopausal women. What's happening in a woman's body when she's 25,
+
+400
+00:37:31,080 --> 00:37:38,840
+that's different from a man's body when he's 25 as it pertains to sex hormones and the interaction,
+
+401
+00:37:38,840 --> 00:37:43,720
+therefore with lipids and other factors that impact the simmering process of ASCVD?
+
+402
+00:37:44,360 --> 00:37:49,320
+Sure. First, I just wanted to give a broad statement. I'm glad that we're having this
+
+403
+00:37:49,320 --> 00:37:55,160
+discussion about lipids in women and ASCVD in women because there are differences. Women are
+
+404
+00:37:55,160 --> 00:38:01,880
+not smaller men or have unique risk factors. Even among traditional risk factors, diabetes and
+
+405
+00:38:01,880 --> 00:38:07,720
+smoking confer a greater relative risk in women than in men. And then women have unique risk factors
+
+406
+00:38:07,720 --> 00:38:12,120
+that we'll talk more about throughout their lifespan that men do not related to menarchy
+
+407
+00:38:12,120 --> 00:38:17,800
+when earlier late and polycystic ovary syndrome and infertility, spontaneous pregnancy loss,
+
+408
+00:38:17,800 --> 00:38:23,960
+parity, adverse pregnancy outcomes like preeclampsia, lack of breastfeeding and early menopause.
+
+409
+00:38:23,960 --> 00:38:28,600
+And in addition, chronic inflammatory conditions like rheumatoid arthritis and lupus are more
+
+410
+00:38:28,600 --> 00:38:34,200
+prevalent in women. So women have these unique risk factors that are female specific or female
+
+411
+00:38:34,200 --> 00:38:39,320
+predominant. And cardiovascular disease also can be different in women, which is why we need more
+
+412
+00:38:39,320 --> 00:38:45,640
+trials in women. Women are more likely to have ischemia with non obstructive coronary disease
+
+413
+00:38:45,640 --> 00:38:50,440
+from coronary microvascular dysfunction or coronary vasospasm. They're more likely to have
+
+414
+00:38:50,440 --> 00:38:55,800
+SCAD, spontaneous coronary artery dissection and more likely to have stress cardiomyopathy than men.
+
+415
+00:38:55,800 --> 00:39:00,040
+So we really need more data about treating cardiovascular disease in women.
+
+416
+00:39:00,040 --> 00:39:05,560
+But let's talk about the life cycle that you alluded to in the beginning with your question.
+
+417
+00:39:06,200 --> 00:39:13,160
+Estradiol is the predominant female sex hormone in women of reproductive age that seems to have
+
+418
+00:39:13,160 --> 00:39:18,920
+the beneficial effects with lowering LDL and conferring some cardiovascular protective properties.
+
+419
+00:39:19,560 --> 00:39:25,320
+But I should mention there's actually three types of estrogen. So estradiol, which is the predominant
+
+420
+00:39:25,320 --> 00:39:31,720
+one in women in childbearing age, and this is the most potent form of estrogen. So estradiol is E2.
+
+421
+00:39:31,720 --> 00:39:40,120
+So estriol E3 is the main estrogen produced during pregnancy. And then estrone E1 is the only estrogen
+
+422
+00:39:40,120 --> 00:39:46,280
+produced after menopause. It's also the weakest estrogen. So you know, starting with puberty,
+
+423
+00:39:46,280 --> 00:39:52,120
+puberty is a process that starts in the brain. So the hypothalamus in the brain suddenly begins
+
+424
+00:39:52,120 --> 00:40:00,200
+secreting gonadotropin releasing hormone or GNRH. FSH and LH levels gradually increase during puberty,
+
+425
+00:40:00,280 --> 00:40:05,000
+which stimulate the follicle maturation and estrogen production and the ovaries,
+
+426
+00:40:05,000 --> 00:40:10,280
+and also the secondary sex characteristics like breast changes and changes in body composition.
+
+427
+00:40:10,280 --> 00:40:13,560
+This gets to the point where then there's the onset of menarche or the first men's
+
+428
+00:40:13,560 --> 00:40:20,360
+yeast. And so this is typically, you know, around age 12. And it's important to note that, you know,
+
+429
+00:40:20,360 --> 00:40:25,240
+I treat adult patients, but why I even ask adult women about the onset of menarche
+
+430
+00:40:25,240 --> 00:40:32,600
+is because both early menarche before the age of 11 and also late menarche after the age of 17 has
+
+431
+00:40:32,600 --> 00:40:38,360
+been associated with increased cardiovascular disease risk later in life. And there's likely
+
+432
+00:40:38,360 --> 00:40:44,040
+hormonal and adipokine and cardiometabolic imprinting that's related to this. There's
+
+433
+00:40:44,040 --> 00:40:50,680
+lots of factors related to the onset of menarche, but both socioeconomic and environmental factors
+
+434
+00:40:50,680 --> 00:40:57,960
+as well as genetic factors. But elevated BMI is a risk factor for early onset menarche, which is why
+
+435
+00:40:57,960 --> 00:41:03,160
+again, it's so important that we think about healthy lifestyle starting in childhood.
+
+436
+00:41:03,160 --> 00:41:08,360
+And I'll talk a little bit now about the menstrual cycle, because many people don't know, but the
+
+437
+00:41:08,360 --> 00:41:13,000
+lipids do change throughout the menstrual cycle difference in little cholesterol, you know, as
+
+438
+00:41:13,000 --> 00:41:18,280
+much as 10 to 12 milligrams or deciliter difference. And so while most women are reproductive age who
+
+439
+00:41:18,280 --> 00:41:24,440
+have lower LDL, this is not probably clinically significant in terms of atherogenesis. It does
+
+440
+00:41:24,440 --> 00:41:30,360
+matter when thinking about the timing of measuring a lipid panel during the menstrual cycle. I think
+
+441
+00:41:30,360 --> 00:41:38,520
+that's important to note. So during the menstrual cycle, you have the hypothalamus is releasing GNRH,
+
+442
+00:41:38,520 --> 00:41:44,760
+which causes the pituitary gland to release FSH. So FSH is acting on the ovaries to mature the
+
+443
+00:41:44,760 --> 00:41:50,840
+follicles. And that the follicles of the ovaries is what secretes estradiol. And so estradiol causes
+
+444
+00:41:50,840 --> 00:41:56,840
+the maturation of the egg and the thickening of the uterus lining and preparation for a fertilized
+
+445
+00:41:56,840 --> 00:42:03,080
+egg implant. And then the increased estradiol triggers the release of LH, which induces ovulation
+
+446
+00:42:03,080 --> 00:42:09,320
+and release of the egg. And so ovulation ends the follicular phase. And then after ovulation,
+
+447
+00:42:09,320 --> 00:42:15,800
+you're in the luteal phase where estradiol with progestin prepare the womb for implantation. But
+
+448
+00:42:15,800 --> 00:42:21,560
+if the egg isn't fertilized, the corpus luteum, which is secreting the progesterone breaks down.
+
+449
+00:42:21,560 --> 00:42:27,240
+So this leads to a drop in progesterone level in the beginning of the menstrual period. What does
+
+450
+00:42:27,240 --> 00:42:34,200
+this mean for lipids? So after menses, you know, total cholesterol and LDL increase rapidly after
+
+451
+00:42:34,200 --> 00:42:39,400
+menses. And so they really peak during this follicular phase. And then this is followed by
+
+452
+00:42:39,400 --> 00:42:45,320
+a decline in the luteal phase, which corresponds to the rise in the peak concentration of estrogen
+
+453
+00:42:45,320 --> 00:42:51,240
+and progesterone. So when estradiol is the highest in the menstrual cycle, this leads to the fall in
+
+454
+00:42:51,240 --> 00:42:58,760
+total cholesterol and LDL. HDL is highest around ovulation. Triglycerides didn't really have a
+
+455
+00:42:58,760 --> 00:43:04,040
+consistent pattern during the menstrual cycle. So there isn't specific guidance. And so just to
+
+456
+00:43:04,040 --> 00:43:11,160
+make sure I understood that, Erin, the difference between the peak and nadir of LDL cholesterol
+
+457
+00:43:11,160 --> 00:43:15,000
+is about 10 to 12 milligrams per deciliter, or is that total cholesterol?
+
+458
+00:43:15,000 --> 00:43:22,840
+That was total cholesterol, but it mirrors the difference in LDL as well. So this was a study that
+
+459
+00:43:22,840 --> 00:43:32,520
+published on average, total cholesterol may go from 158 to 168, where LDL on average went from
+
+460
+00:43:32,520 --> 00:43:40,120
+97 to 102. So, you know, they're not dramatic changes, which is why we don't worry about this
+
+461
+00:43:40,120 --> 00:43:45,320
+too much in women of reproductive ages who don't have a lipid disorder. But it's, you know,
+
+462
+00:43:45,320 --> 00:43:52,200
+interesting to note. But if a woman is very high risk, like has ASCBD, and we're trying to target
+
+463
+00:43:52,200 --> 00:43:58,440
+these really intensive thresholds, like LDL is less than 70 or even lower, it's useful to know
+
+464
+00:43:58,440 --> 00:44:02,920
+that they do change throughout the menstrual cycle. So while there's no specific guidance around this,
+
+465
+00:44:02,920 --> 00:44:09,720
+you know, I generally recommend clinicians measure the lipid panel during the menses so that it's
+
+466
+00:44:09,720 --> 00:44:14,680
+ideally measured, monitored and compared at the same time during the menstrual cycle. So usually
+
+467
+00:44:14,680 --> 00:44:20,360
+the menses is easiest to benchmark to. We do that when we're concerned with, as women become
+
+468
+00:44:20,360 --> 00:44:25,080
+perimenopausal and we want to start getting a sense of what's happening, we always use day five.
+
+469
+00:44:25,080 --> 00:44:29,960
+So if the initiation of menses, even if it's spotting is day one, but we always just pick day
+
+470
+00:44:29,960 --> 00:44:35,720
+five. And that way we have a really consistent view specifically of FSH and estradiol, progesterone
+
+471
+00:44:35,720 --> 00:44:42,120
+is zero at that time. But the FSH and the estradiol really give us a sense of how close she's
+
+472
+00:44:42,120 --> 00:44:46,360
+probably getting to menopause. And then we correlate that with symptoms to sort of start
+
+473
+00:44:46,360 --> 00:44:50,760
+to think about initiating HRT, but as a whole other topic, which I'm sure we'll get to.
+
+474
+00:44:50,760 --> 00:44:55,000
+You know, in terms of lipid panel, it's good to be measuring around the same time each month. So if
+
+475
+00:44:55,000 --> 00:45:00,760
+you're following the serial lipid panels in a woman for a reason, so timing it around day five,
+
+476
+00:45:00,760 --> 00:45:05,720
+especially if you're measuring other hormones. But yeah, so FSH would be at the highest during
+
+477
+00:45:05,720 --> 00:45:11,800
+the early follicular page and then declines after ovulation where LH is low during the early
+
+478
+00:45:11,800 --> 00:45:17,560
+follicular phase and then peaks around an ovulation, which stimulates the egg to be released.
+
+479
+00:45:17,560 --> 00:45:22,520
+At this point in a woman's life, she still enjoys this for all intents and purposes,
+
+480
+00:45:22,520 --> 00:45:31,080
+decade advantage over men in terms of ASCBD risk. So a 40 year old woman who is still
+
+481
+00:45:31,080 --> 00:45:37,880
+ovulating is at a cardiovascular standpoint is a 30 year old man. Is that directionally what we
+
+482
+00:45:37,880 --> 00:45:44,040
+would say prior to menopause? Yeah, I mean, on average, and again, people are not averages,
+
+483
+00:45:44,040 --> 00:45:51,640
+people are individuals, but on average, there is a about 10 year offset of ASCBD in women
+
+484
+00:45:51,640 --> 00:45:57,480
+developing it later than men. And this may be because we'll talk about when we get to menopause,
+
+485
+00:45:57,480 --> 00:46:02,920
+you know, with the loss of estradiol after menopause, LDL levels rise after menopause.
+
+486
+00:46:02,920 --> 00:46:09,400
+And so that women may have higher LDLs a little bit later in life. You know, many women's tell me,
+
+487
+00:46:09,400 --> 00:46:13,720
+oh, you know, I've always had good lipid levels. And now they're higher, you know, after menopause.
+
+488
+00:46:13,720 --> 00:46:19,640
+And so when we get back to what we started with about the integration of duration of LDL exposure
+
+489
+00:46:19,640 --> 00:46:25,080
+in terms of cholesterol years, they may have had lower number of cholesterol years during their
+
+490
+00:46:25,080 --> 00:46:29,640
+childbearing years and then higher levels later in life. And that might be why they have this
+
+491
+00:46:29,640 --> 00:46:36,360
+offset. But again, you don't see this in FH, and we don't see this as well in diabetes. And so each
+
+492
+00:46:36,360 --> 00:46:43,320
+person is an individual. And so we do women a disservice when we presume that all women somehow
+
+493
+00:46:43,320 --> 00:46:48,520
+are lower risk or protected during their menopausal years, because we started out this podcast talking
+
+494
+00:46:48,520 --> 00:46:54,600
+about that we absolutely see myocardial events, not just things like SCAD, but we see actual
+
+495
+00:46:54,600 --> 00:47:01,000
+atherosclerotic myocardial infarction events in younger women too. So they're at lower risk,
+
+496
+00:47:01,000 --> 00:47:07,000
+but not zero risk. And so we take each person as an individual. And then there are things we need
+
+497
+00:47:07,000 --> 00:47:13,880
+to consider related to contraception and PCOS that can also affect the lipid profile as well.
+
+498
+00:47:13,880 --> 00:47:17,800
+Let's take each of those then, because I think they're both incredibly fascinating and highly
+
+499
+00:47:17,800 --> 00:47:22,920
+prevalent. So let's start with PCOS. Tell folks what it is, maybe what the prevalence is, what we
+
+500
+00:47:22,920 --> 00:47:27,640
+think the etiology is, and of course, what the impact is on metabolic health and ultimately lipids.
+
+501
+00:47:28,360 --> 00:47:34,120
+So polycystic ovary syndrome or PCOS is the most common endocrine abnormality of women of
+
+502
+00:47:34,120 --> 00:47:40,120
+reproductive age. Estimates are about 5% to 13% of women in the general population. And it does
+
+503
+00:47:40,120 --> 00:47:46,600
+affect women of all race ethnicities. It's categorized sort of by this triad of hyperandrogenism,
+
+504
+00:47:47,240 --> 00:47:54,440
+ovulatory dysfunction, so irregular menses or anovulatory cycles, and polycystic ovary
+
+505
+00:47:54,440 --> 00:48:00,040
+morphology. So just having cysts in the ovary in itself is not enough for the diagnosis. You need
+
+506
+00:48:00,040 --> 00:48:06,680
+to have these other criteria. It is a heterogeneous disorder in that there are differences in risk
+
+507
+00:48:06,680 --> 00:48:12,280
+with PCOS. But really, if you talk about the classical PCOS that has the hyperandrogen form,
+
+508
+00:48:12,280 --> 00:48:17,480
+this seems to be the one that is the most strongly linked with cardiovascular risk and the
+
+509
+00:48:17,480 --> 00:48:23,720
+cardiometabolic phenotype. So we really think that insulin resistance is hallmarking under the
+
+510
+00:48:23,720 --> 00:48:28,920
+pathogenesis of this, that there is molecular defects and insulin activities and PCOS that
+
+511
+00:48:28,920 --> 00:48:34,440
+leads to impaired glucose tolerance and glucose insulin resistance and hyperinsulinemia.
+
+512
+00:48:35,160 --> 00:48:42,200
+Studies have shown that about 95% of obese women with PCOS and about 75% of lean women with PCOS
+
+513
+00:48:42,200 --> 00:48:49,880
+has insulin resistance. So there is a lean PCOS phenotype. While most women with PCOS do have an
+
+514
+00:48:49,880 --> 00:48:56,120
+elevated body mass index, not all women have an elevated body mass index. But this insulin
+
+515
+00:48:56,120 --> 00:49:01,800
+resistance is probably driving a lot of the cardiometabolic complications, so elevations
+
+516
+00:49:01,800 --> 00:49:08,200
+in blood pressure and dyslipidemia patterns. So we see this, the triad of dyslipidemia with the
+
+517
+00:49:08,200 --> 00:49:15,560
+elevated LDL, elevated triglycerides, and low HDL, this metabolic syndrome pattern. PCOS is
+
+518
+00:49:15,560 --> 00:49:20,920
+associated with hypertension and insulin hypertension, and this is actually independent of BMI,
+
+519
+00:49:20,920 --> 00:49:27,720
+but obesity increases the risk and makes the risk greater. And there is an association not only with
+
+520
+00:49:27,720 --> 00:49:32,440
+increased subclinical atherosclerosis. I recently published a meta-analysis where we showed that
+
+521
+00:49:32,440 --> 00:49:37,560
+women with PCOS were twofold more likely to have coronary calcium. They're also more likely to have
+
+522
+00:49:37,560 --> 00:49:42,520
+parotid plaque, but they're also associated with increased cardiovascular disease later in life.
+
+523
+00:49:43,080 --> 00:49:49,240
+And the variable estimates have varied across studies, and this is likely because how PCOS was
+
+524
+00:49:49,240 --> 00:49:55,240
+defined and how cardiovascular disease was defined. And so they're not quite consistent across every
+
+525
+00:49:55,240 --> 00:50:01,960
+study, but on average about 30 to 50% increased risk that we saw in an umbrella review of a
+
+526
+00:50:01,960 --> 00:50:08,040
+meta-analysis of future cardiovascular risk. Now there's a little bit of debate about whether PCOS
+
+527
+00:50:08,040 --> 00:50:16,120
+is causally related to CVD. This excess risk that we see seems to be more of women during reproductive
+
+528
+00:50:16,120 --> 00:50:23,160
+age. Once women's already after menopause, having a prior history of PCOS doesn't seem to confer the
+
+529
+00:50:23,160 --> 00:50:29,320
+same level of risk, and likely because of all of the increased risk after the menopause transition
+
+530
+00:50:29,320 --> 00:50:36,040
+with the low estradiol and the more androgen phenotype after menopause probably outweighs or
+
+531
+00:50:36,040 --> 00:50:42,040
+overshadows any prior risk related to PCOS. But there does seem to be this long-term risk, but when
+
+532
+00:50:42,040 --> 00:50:48,520
+you look at Mendelian randomization studies, that does suggest that the elevated testosterone,
+
+533
+00:50:48,520 --> 00:50:54,040
+the hyperandrogen, the obesity, the higher insulin levels, insulin resistance, and lower levels of
+
+534
+00:50:54,040 --> 00:51:00,520
+sexual rebinding globulin do appear to have a causal relationship with PCOS based on genetics.
+
+535
+00:51:00,520 --> 00:51:06,440
+And so it may be that these are the mediating factors that link PCOS with future cardiovascular
+
+536
+00:51:06,440 --> 00:51:10,920
+disease risk. Obviously there's an enormous impact on fertility. Are multiple pregnancies
+
+537
+00:51:10,920 --> 00:51:16,040
+associated with an increased risk of ASCVD or decreased risk based on the estrogen? PCOS
+
+538
+00:51:16,040 --> 00:51:23,000
+is associated with infertility, and this is one of the mainstay of treatment of women PCOS who are
+
+539
+00:51:23,000 --> 00:51:27,640
+not wanting to become pregnant, of course, is oral contraceptives to kind of reduce the
+
+540
+00:51:27,640 --> 00:51:35,160
+hyperandrogenism. We recently published, though, a study looking at national data of pregnancies
+
+541
+00:51:35,160 --> 00:51:40,760
+at delivery, and we did show that women, you know, with PCOS who did become pregnant, you know, they
+
+542
+00:51:40,760 --> 00:51:46,760
+were at greater risk for preeclampsia and many gestational diabetes and many cardiovascular
+
+543
+00:51:46,760 --> 00:51:52,360
+complications compared to women with PCOS. So it's important to, you know, note that not only are
+
+544
+00:51:52,360 --> 00:51:57,080
+they at increased risk, have decreased fertility and trouble getting pregnant, but once they do
+
+545
+00:51:57,080 --> 00:52:02,680
+become pregnant, they are at increased risk of cardiovascular complications and delivery.
+
+546
+00:52:02,680 --> 00:52:07,960
+So it's really important with PCOS, again, that we optimize healthier lifestyle and weight
+
+547
+00:52:07,960 --> 00:52:13,720
+management may be really important to mitigate some of the cardiometabolic risk. I'm interested,
+
+548
+00:52:13,720 --> 00:52:18,440
+you know, in women who are not trying to become pregnant or not pregnant, GLP1 receptor agonists
+
+549
+00:52:18,440 --> 00:52:22,680
+may be promising to help with the weight management and the insulin resistance, you know,
+
+550
+00:52:22,680 --> 00:52:28,920
+we talked about that class of drugs, and even statin therapy may reduce some of the testosterone
+
+551
+00:52:28,920 --> 00:52:35,000
+or the androgen associated risk. So that's what PCOS, but I think that you asked about parity in
+
+552
+00:52:35,000 --> 00:52:41,720
+general. So when you look at parity or the number of live births, there does seem to be a J point,
+
+553
+00:52:41,720 --> 00:52:47,880
+J shape relationship with higher parity, particularly more than four or five live births,
+
+554
+00:52:47,880 --> 00:52:52,920
+being associated with subsequent risk of cardiovascular disease. The reason for this
+
+555
+00:52:52,920 --> 00:52:59,080
+is not quite known. I showed in the MESA study that women who had a histogram multiparty, you know,
+
+556
+00:52:59,080 --> 00:53:04,840
+were much more likely to be in poor cardiovascular health later in life, middle aged, older age,
+
+557
+00:53:04,840 --> 00:53:11,160
+compared to less parous women. You know, women tend to gain weight with each pregnancy,
+
+558
+00:53:11,160 --> 00:53:17,480
+but there may be also dysregulation of adipokines that sets the stage for later
+
+559
+00:53:17,480 --> 00:53:22,440
+cardiometabolic complications. And so this is why it's really important that we try to optimize
+
+560
+00:53:22,440 --> 00:53:28,920
+women's cardiometabolic health before pregnancy and enter pregnancy between pregnancies to try
+
+561
+00:53:28,920 --> 00:53:34,120
+to prevent these long term complications. So I mean, I wouldn't tell a woman that they can't
+
+562
+00:53:34,120 --> 00:53:39,080
+become pregnant a certain number of times, but I would really try to work with them to try to
+
+563
+00:53:39,080 --> 00:53:42,840
+optimize their cardiometabolic health. I feel like your intuition is right there,
+
+564
+00:53:42,840 --> 00:53:49,480
+Aaron. I've always found the epidemiology on number of pregnancies and disease X to be
+
+565
+00:53:49,480 --> 00:53:55,640
+completely full of confounders, such to the point that I think the epi provides no insight.
+
+566
+00:53:56,120 --> 00:54:00,600
+Whereas I think the confounder you mentioned is the most obvious one, right? Which is the more
+
+567
+00:54:00,600 --> 00:54:06,680
+pregnancies a woman has, the more likely you could believe that she's having difficulty getting back
+
+568
+00:54:06,680 --> 00:54:12,520
+to her pre never pregnant state of metabolic health, not just weight, but overall metabolic
+
+569
+00:54:12,520 --> 00:54:17,720
+health. And that would strike me as a greater risk factor. Again, I, one can't know this without
+
+570
+00:54:17,720 --> 00:54:21,960
+randomization. We're obviously not going to have that. So it probably shouldn't factor into
+
+571
+00:54:21,960 --> 00:54:25,880
+decision making. I will mention that there are a couple of studies. So the problem is most
+
+572
+00:54:25,880 --> 00:54:30,840
+epidemiology studies don't ask men the parody history. They don't ask men these questions,
+
+573
+00:54:30,840 --> 00:54:34,760
+you know, they only ask them of women, but there were a couple of studies where they assess
+
+574
+00:54:34,760 --> 00:54:40,680
+number of children and men and parody is actually a risk factor for CBD and men too.
+
+575
+00:54:40,680 --> 00:54:48,040
+So this likely gets to your point about compounding by social economic factors and cultural factors,
+
+576
+00:54:48,040 --> 00:54:54,200
+education factors that might lead a family to have more children rather than less. But the risk does
+
+577
+00:54:54,200 --> 00:54:59,640
+seem to be a little greater in women suggesting that there may be some true biological effects,
+
+578
+00:54:59,640 --> 00:55:04,760
+maybe weight mediated beyond just confounding my social economic and cultural factors.
+
+579
+00:55:05,320 --> 00:55:10,280
+Let's talk about the impact of oral contraceptives, even outside of the case of PCOS. So if you have
+
+580
+00:55:10,280 --> 00:55:16,280
+a young woman who wants to use OCs as a form of birth control, what is the impact that that,
+
+581
+00:55:16,280 --> 00:55:22,840
+if any, has on her lifelong risk of a CVD via the, let's just say she's going to go on it for a
+
+582
+00:55:22,840 --> 00:55:29,800
+decade, age 25 to 35, and then have kids 35 to 40, and then goes through menopause at 50.
+
+583
+00:55:29,800 --> 00:55:35,880
+Is there some impact that that decade being on an OCP has on her down the line?
+
+584
+00:55:35,880 --> 00:55:41,800
+You know, women of reproductive age may be initiated on contraception for various reasons.
+
+585
+00:55:41,800 --> 00:55:48,360
+So it's not just pregnancy prevention, but maybe for treatment of menstrual cycle disorders, PCOS,
+
+586
+00:55:49,000 --> 00:55:53,960
+acne, there's lots of reasons why they might start oral contraceptive therapy.
+
+587
+00:55:55,160 --> 00:56:01,640
+The risk likely depends so much based on formulation and type. So we can't link
+
+588
+00:56:01,640 --> 00:56:07,800
+all contraceptives in one bin. Oral combined hormonal contraceptives, the older formulations
+
+589
+00:56:07,800 --> 00:56:13,720
+had much higher doses of estrogen. And so estrogen can increase triglyceride levels.
+
+590
+00:56:13,720 --> 00:56:17,960
+It can lower LDL, which is a good thing, but it can increase triglyceride levels.
+
+591
+00:56:18,360 --> 00:56:24,440
+What's the net effect, Aaron, on ApoB? Because certainly the analysis I've seen suggest that
+
+592
+00:56:24,440 --> 00:56:29,320
+once you correct for ApoB, triglycerides below 400 milligrams per deciliter really don't mean
+
+593
+00:56:29,320 --> 00:56:33,560
+anything. Obviously above that level, you have to start worrying about pancreatitis, but that
+
+594
+00:56:33,560 --> 00:56:37,560
+ApoB was capturing that risk. And it's interesting, of course, if you're only looking at LDL-C and
+
+595
+00:56:37,560 --> 00:56:44,040
+triglyceride, it's possible that a rise in triglyceride is problematic because that could
+
+596
+00:56:44,040 --> 00:56:50,200
+actually raise ApoB as you now have to obviously increase the potential number of both cholesterol
+
+597
+00:56:50,200 --> 00:56:54,120
+and triglyceride trafficking particles. I'm guessing that analysis isn't done, but do you
+
+598
+00:56:54,120 --> 00:56:59,240
+have an intuition around it? No, I mean, of course, pregnancy also increases triglyceride levels a lot
+
+599
+00:56:59,240 --> 00:57:04,520
+too, as we'll talk about. So preventing an unwanted pregnancy outweighs any slight change,
+
+600
+00:57:04,520 --> 00:57:09,720
+risk for these lipid changes with oral combined contraceptives. I think the changes are relatively
+
+601
+00:57:10,360 --> 00:57:16,760
+modest, especially since we're using typically now the lower estrogen formulations because it's
+
+602
+00:57:16,760 --> 00:57:21,960
+really the more estrogen that a combined hormonal contraceptive contains has the greater impact of
+
+603
+00:57:21,960 --> 00:57:25,400
+increased triglycerides. So I don't have that number for you because it really depends on the
+
+604
+00:57:25,400 --> 00:57:32,520
+formulation. It's unlikely to have much impact in most women, but women who already have high
+
+605
+00:57:32,520 --> 00:57:39,240
+baseline triglycerides to begin with, it can trigger severe hypertaglyceridemia above 500.
+
+606
+00:57:39,240 --> 00:57:45,080
+So this probably would not be the agent you'd want to use if your patient already had high
+
+607
+00:57:45,080 --> 00:57:51,960
+triglycerides. Now, the transdermal combined oral hormonal contraceptives, the patch, is less likely
+
+608
+00:57:51,960 --> 00:57:57,480
+to cause clinically relevant elevations and triglycerides. There's, of course, other types
+
+609
+00:57:57,480 --> 00:58:03,160
+of contraceptives, and very high risk women with established cardiovascular disease or women who
+
+610
+00:58:03,240 --> 00:58:10,280
+have FH, who have very high LDL levels. These tier one methods, the long acting reversible methods
+
+611
+00:58:10,280 --> 00:58:16,040
+like the IUD and the implant are safe and effective for most women who even have high
+
+612
+00:58:16,040 --> 00:58:22,840
+risk, who have established cardiovascular conditions. The progesterone based ones like the
+
+613
+00:58:22,840 --> 00:58:31,720
+Marina with the progesterone releasing IUD system, they can marginally, associated with lower HDL,
+
+614
+00:58:31,720 --> 00:58:38,600
+but usually these revert back to pre-insertion levels by one year. Most of the time for the IUDs,
+
+615
+00:58:38,600 --> 00:58:44,520
+the triglycerides and LDL and the cholesterol ratios remain pretty stable. So I really don't
+
+616
+00:58:44,520 --> 00:58:50,840
+think that the lipid changes are so much impacted by that, and that's why we do tend to recommend
+
+617
+00:58:50,840 --> 00:58:54,760
+the IUD for women who have FH or cardiovascular disease that are high at risk.
+
+618
+00:58:54,760 --> 00:58:58,680
+Let's talk a little bit about pregnancy. I guess there's two things I want to chat about. The first
+
+619
+00:58:58,760 --> 00:59:03,880
+is obviously what's happening to a woman during pregnancy. So probably share a little bit more
+
+620
+00:59:03,880 --> 00:59:08,680
+than my wife wishes I would, but I sort of use myself and my wife as a guinea pig from time to
+
+621
+00:59:08,680 --> 00:59:13,640
+time and just love checking labs all the time. During, I don't know, one of the pregnancies,
+
+622
+00:59:13,640 --> 00:59:18,520
+maybe it was our second child, I probably checked her, you know, did a very thorough
+
+623
+00:59:18,520 --> 00:59:22,520
+look at her lipids and lipoproteins and everything all the way through her pregnancy.
+
+624
+00:59:23,080 --> 00:59:27,960
+I was shocked at how much her lipids rose during pregnancy. My wife is sort of one of those people
+
+625
+00:59:28,040 --> 00:59:37,400
+who genetically has very low burden of APO B. So her baseline LDL cholesterol is probably 60 to 70
+
+626
+00:59:37,400 --> 00:59:43,720
+milligrams per deciliter or HDL cholesterol might be 80, 90 milligrams per deciliter. So triglycerides
+
+627
+00:59:43,720 --> 00:59:48,360
+of 40 milligrams per deciliter, right? So from a lipid lipoprotein standpoint, she's pretty
+
+628
+00:59:48,360 --> 00:59:53,800
+uninteresting. And I want to say by the third end of second, beginning of third trimester,
+
+629
+00:59:54,520 --> 00:59:57,880
+you know, she looked like she had metabolic syndrome without the triglycerides. But just
+
+630
+00:59:57,880 --> 01:00:02,600
+from the standpoint of some of the other stuff, tell me what, and I know we hate talking about
+
+631
+01:00:02,600 --> 01:00:07,480
+averages, but can you give me just sort of a general sense of what's directionally happening
+
+632
+01:00:07,480 --> 01:00:10,440
+to a woman during pregnancy with respect to her lipids and lipoproteins?
+
+633
+01:00:11,160 --> 01:00:16,680
+Yeah, so absolutely, there's changes in lipid panel, which is why women with known lipid
+
+634
+01:00:16,680 --> 01:00:21,960
+disorders are recommended to have consultation with a lipid specialist prior to pregnancy.
+
+635
+01:00:21,960 --> 01:00:28,040
+But you know, even at normal pregnancies, serum total cholesterol, triglycerides, LDL cholesterol,
+
+636
+01:00:28,040 --> 01:00:35,320
+lipoprotein A and HDL cholesterol levels all gradually increase. And as pregnancy proceeds,
+
+637
+01:00:35,320 --> 01:00:41,160
+you know, they peak during the third trimester. So you can have about a 25 to 50% increase in total
+
+638
+01:00:41,160 --> 01:00:47,240
+cholesterol can be as much as 150 to 300% increase in triglycerides, probably, you know, relative
+
+639
+01:00:47,240 --> 01:00:55,560
+increase the most, and LDL increased by 66%. And so this is normal physiologic changes because
+
+640
+01:00:55,560 --> 01:01:01,320
+it's designed to promote accumulation of maternal fat stores, that's going to be a source of calories
+
+641
+01:01:01,320 --> 01:01:06,280
+for the mother and the fetus during later stages of pregnancy and lactation. You know,
+
+642
+01:01:06,280 --> 01:01:12,360
+the cholesterol increase is needed for utero placental vascularization, placental steroid
+
+643
+01:01:12,360 --> 01:01:18,920
+synthesis, placental transport function. These are important physiological effects. But these
+
+644
+01:01:18,920 --> 01:01:23,480
+changes when someone like your wife who started out, so it's such low cholesterol levels,
+
+645
+01:01:23,480 --> 01:01:28,600
+these are generally felt to be non-athrogenic because they really do fall precipitatively to
+
+646
+01:01:28,600 --> 01:01:34,840
+pre pregnancy levels following delivery. So pregnancy is not a good time really to get a
+
+647
+01:01:34,840 --> 01:01:39,800
+baseline lipid panel because it's not going to be representative of what a woman's typical lipid
+
+648
+01:01:39,800 --> 01:01:46,120
+panel is. But in women who have concern for lipid disorder, having a baseline lipid panel before
+
+649
+01:01:46,120 --> 01:01:52,600
+pregnancy is helpful so that you can know what to expect. In women with FH, you know, they have the
+
+650
+01:01:52,600 --> 01:02:00,520
+same relative increases, but they're starting with such a high baseline level that the magnitude of
+
+651
+01:02:00,520 --> 01:02:06,040
+elevation is even greater. You know, I realize I've been delinquent in letting us talk shop a
+
+652
+01:02:06,120 --> 01:02:11,080
+bit too much. We haven't defined FH other than to note that it's familial hypercholesterolemia.
+
+653
+01:02:11,080 --> 01:02:16,520
+We also noted, I think the incidence or prevalence of about 1 in 200, but we've been a bit delinquent
+
+654
+01:02:16,520 --> 01:02:22,200
+in giving people the magnitude of what it is. Can you just tell folks a little bit about how high
+
+655
+01:02:22,200 --> 01:02:26,760
+a total cholesterol or LDL cholesterol, a person with familial hypercholesterolemia typically has
+
+656
+01:02:26,760 --> 01:02:33,080
+and what the lifetime risk of AOCVD is in that population? I think we mentioned at the beginning
+
+657
+01:02:33,080 --> 01:02:39,080
+that it's about 1 in 250, 1 in 250 people have FH and it's being autosomal dominant that women are
+
+658
+01:02:39,080 --> 01:02:47,800
+equally affected as men. So the FH phenotype LDL above 190, you know, there are different scoring
+
+659
+01:02:47,800 --> 01:02:54,280
+systems that you can look with additional criteria based on family, personal family history of AOCVD
+
+660
+01:02:54,280 --> 01:02:58,280
+and genetic tests are available when there's apps that you can download to determine the
+
+661
+01:02:58,840 --> 01:03:04,040
+likelihood that your patient has, you know, a definite or probable FH. Just even having the
+
+662
+01:03:04,040 --> 01:03:10,920
+phenotype of having an LDL above 190, which is not all monogenic FH, that is still associated
+
+663
+01:03:10,920 --> 01:03:18,200
+with increased lifetime risk with a 20 to 30 year earlier onset of AOCVD in females. But if they have
+
+664
+01:03:18,200 --> 01:03:26,680
+the genetic mutation, you know, having the monogenic mutation, their increased risk is even greater than
+
+665
+01:03:26,680 --> 01:03:34,280
+their LDL value. So that's why genetic testing is really helpful, not only for cascade effects for
+
+666
+01:03:34,280 --> 01:03:38,280
+determining the risk of their first degree relatives and their offspring, but also because
+
+667
+01:03:38,280 --> 01:03:45,000
+they have a greater risk even beyond their absolute LDL value. But so 30% of women with an untreated
+
+668
+01:03:45,000 --> 01:03:49,400
+FH will have a mild cardiomyfarction before the age of 60. And this is why it's so important that
+
+669
+01:03:49,400 --> 01:03:55,400
+we can't ignore FH. We need to know FH, we need to screen for FH and we need to treat FH. Women
+
+670
+01:03:55,400 --> 01:03:59,320
+get the same onset as men, they don't have the female advantage. And probably because they're
+
+671
+01:03:59,320 --> 01:04:05,480
+losing many years of statin therapy, because this concern about pregnancy, women with FH are
+
+672
+01:04:05,480 --> 01:04:11,000
+undertreated. I should note that women with FH don't have an increased risk of congenital
+
+673
+01:04:11,000 --> 01:04:16,600
+malformations or pre-clampsia, which is good. They may have a slight increased risk, greater risk
+
+674
+01:04:16,600 --> 01:04:21,720
+from aacronal infarction. So we can talk about shared decision making about treatment during
+
+675
+01:04:21,800 --> 01:04:27,800
+pregnancy versus withholding for a short period of time during pregnancy and lactation. But
+
+676
+01:04:27,800 --> 01:04:33,480
+interestingly, in some countries, you can actually test for the mutation in cord blood and lipid
+
+677
+01:04:33,480 --> 01:04:38,520
+levels in children with FH are similar, whether they inherited the gene from their mother or the
+
+678
+01:04:38,520 --> 01:04:45,640
+father. But for contraception, because of their increased risk for atherosclerosis, we would want
+
+679
+01:04:45,640 --> 01:04:53,480
+to avoid any higher estrogen compounds, either use low dose estrogen, oral contraceptives, or preferably
+
+680
+01:04:53,480 --> 01:04:59,160
+IUDs or barrier techniques, especially if they're over the age of 35 to kind of avoid the estrogen
+
+681
+01:04:59,160 --> 01:05:05,720
+oral agents, even low dose and consider the IUD for contraception. So of course, most people with
+
+682
+01:05:05,720 --> 01:05:10,840
+FH, we don't really know the genetic cause of this. You know, last I checked, there were probably
+
+683
+01:05:10,840 --> 01:05:16,520
+more than 2,500 different genetic mutations that produce that phenotype. So this is an interesting
+
+684
+01:05:16,520 --> 01:05:20,600
+point that there's still value in looking. In other words, just having that phenotype,
+
+685
+01:05:20,600 --> 01:05:26,920
+how many of the genetic drivers of FH do we know and contribute to that very interesting point you
+
+686
+01:05:26,920 --> 01:05:32,120
+made, which is identifying that specific genetic driver carries with it even greater risk than is
+
+687
+01:05:32,120 --> 01:05:37,400
+embedded within the LDL. When I see patients clinically for evaluation of FH, I do send them,
+
+688
+01:05:37,400 --> 01:05:43,080
+they're willing for genetic testing, trying to discern whether they have the monogenic FH
+
+689
+01:05:43,080 --> 01:05:50,520
+from a mutation in the LDL receptor or APOB or PCSK9. Of course, polygenetic risk can have a similar
+
+690
+01:05:50,520 --> 01:05:57,480
+phenotype to FH. We certainly want to reduce their lipids. So this comes up, because we were talking
+
+691
+01:05:57,480 --> 01:06:05,000
+about pregnancy and there had been so concerned for so long about avoiding statins in pregnancy.
+
+692
+01:06:05,000 --> 01:06:11,960
+For a while, I had that category X. And so this actually led to overabundance of caution with just
+
+693
+01:06:11,960 --> 01:06:17,640
+not treating women of reproductive age with statins at all because of fear that they might
+
+694
+01:06:17,640 --> 01:06:22,840
+accidentally become pregnant. And we really, of course, do them a disservice of a third of them
+
+695
+01:06:22,840 --> 01:06:27,080
+are going to be at risk for an MI before the age of 60 if they have FH and we don't treat, especially
+
+696
+01:06:27,080 --> 01:06:33,960
+because now we have more data suggesting studies of women who did become pregnant while on statins
+
+697
+01:06:34,040 --> 01:06:40,520
+that did not show the teratogenic effects. And so statins are probably not teratogenic.
+
+698
+01:06:40,520 --> 01:06:46,040
+You know, we don't have a ton of data here, which is why we still have some caution, which
+
+699
+01:06:46,040 --> 01:06:51,960
+most women who are planning a pregnancy, you know, we do generally still stop the statins
+
+700
+01:06:51,960 --> 01:06:59,320
+during conception, during pregnancy, and during breastfeeding as shorter term interruptions
+
+701
+01:06:59,320 --> 01:07:04,280
+is better than, you know, not treating them for decades and decades. But with the removal of the
+
+702
+01:07:04,280 --> 01:07:10,600
+frongus warning label by the FDA, this does give us some more flexible options. So in patients at
+
+703
+01:07:10,600 --> 01:07:16,120
+very high risk, such as women who've had a recent acute coronary syndrome, as part of shared
+
+704
+01:07:16,120 --> 01:07:22,200
+decision making, we could consider using statins during pregnancy. But you know, we still have
+
+705
+01:07:22,200 --> 01:07:27,560
+less data. So for most women, we're still stopping the statins. But if they do become pregnant, you
+
+706
+01:07:27,640 --> 01:07:33,240
+know, I usually reassure them and we just stop the statin once pregnancy has become aware. But I think
+
+707
+01:07:33,240 --> 01:07:38,520
+there's a really interesting body of work now about whether statins can actually prevent
+
+708
+01:07:38,520 --> 01:07:44,680
+preeclampsia. So in the setting of preeclampsia, there is this abnormal trophoblast invasion,
+
+709
+01:07:44,680 --> 01:07:50,280
+and this leads to impaired spiral artery remodeling. So essentially what's happening
+
+710
+01:07:50,280 --> 01:07:56,200
+is there's placenta ischemia, and this sets off a whole cascade of adverse hormonal and
+
+711
+01:07:56,200 --> 01:08:02,360
+anti-inflammatory markers. So we have this increase in S-flip 1 and a decrease in placental
+
+712
+01:08:02,360 --> 01:08:08,600
+growth factor. There's, you know, this increased sensitivity to angiotension 2. There's other
+
+713
+01:08:08,600 --> 01:08:15,080
+inflammatory and oxidative stress. And this sets the stage not only for complications during the
+
+714
+01:08:15,080 --> 01:08:20,680
+pregnancy like preeclampsia, but also is likely contributing to vascular damage that increase
+
+715
+01:08:20,680 --> 01:08:26,600
+a woman's risk, you know, long-term after delivery. So statins are being, you know, investigated for
+
+716
+01:08:26,600 --> 01:08:31,480
+preeclampsia prevention because we know in animal studies, they can decrease S-flip 1,
+
+717
+01:08:31,480 --> 01:08:36,440
+they can improve endothelial function, they can decrease inflammation and oxidative stress.
+
+718
+01:08:36,440 --> 01:08:43,400
+So they seem promising. There was one study that was published where they gave women who were
+
+719
+01:08:43,400 --> 01:08:49,320
+pregnant who are increased risk of preeclampsia, paravastatin starting at 35 weeks gestation
+
+720
+01:08:49,320 --> 01:08:54,280
+and didn't show any benefit in preventing preeclampsia. But this isn't really surprising
+
+721
+01:08:54,280 --> 01:08:58,840
+because it was just given way too late. You know, if you know anything about the pathogenesis of
+
+722
+01:08:58,840 --> 01:09:04,200
+preeclampsia, you know, preeclampsia can generally start after 20 weeks of gestation. So you likely
+
+723
+01:09:04,200 --> 01:09:09,160
+would have to intervene, you know, much earlier in the process. So there is a randomized clinical
+
+724
+01:09:09,160 --> 01:09:14,520
+trial ongoing now enrolling about 1,500 women who are high risk because of a prior history of
+
+725
+01:09:14,520 --> 01:09:21,240
+preeclampsia. And they're starting the statin, paravastatin versus placebo earlier around 12
+
+726
+01:09:21,240 --> 01:09:26,840
+weeks of gestation. So right after the first trimester, the primary outcome is going to be
+
+727
+01:09:26,840 --> 01:09:31,720
+proportion that develop preeclampsia or retinal loss and maternal death. And they're looking at
+
+728
+01:09:31,720 --> 01:09:36,280
+other things like preterm delivery. So it'll be really interesting to see those results. We don't
+
+729
+01:09:36,280 --> 01:09:42,520
+have those results yet, but it may be a whole pendulum switch from this absolute avoidance
+
+730
+01:09:42,520 --> 01:09:48,840
+of statins during pregnancy to maybe actually using statins for preeclampsia prevention if
+
+731
+01:09:48,840 --> 01:09:54,520
+this trial is successful. Do you think broadly we're seeing a greater trend towards statin?
+
+732
+01:09:54,520 --> 01:09:59,560
+I don't know, phobia for lack of a better word. Well, yes, even in sort of the non-pregnant state.
+
+733
+01:09:59,560 --> 01:10:03,080
+I meant even more broad. Yeah, exactly. I meant just across all of your patients.
+
+734
+01:10:03,080 --> 01:10:09,960
+First of all, I think there's some misconceptions out there that I still hear people cite this
+
+735
+01:10:09,960 --> 01:10:15,080
+false statement that statins don't work in women in primary prevention. And that's completely not
+
+736
+01:10:15,080 --> 01:10:20,520
+true. In the older studies, they just didn't enroll enough women in trials. And in primary
+
+737
+01:10:20,520 --> 01:10:25,160
+prevention, they're at lower risk, so they're less likely to have events during the short
+
+738
+01:10:25,160 --> 01:10:31,320
+terms of the trials. But now we have enough trials, the data's in, and meta-analysis that included
+
+739
+01:10:32,040 --> 01:10:38,760
+over 18 randomized clinical trials, over 40,000 women have shown that statins benefit women in
+
+740
+01:10:38,760 --> 01:10:44,360
+both primary and secondary prevention without interaction by sex. So meaning in similar risk
+
+741
+01:10:44,360 --> 01:10:49,640
+individuals, women benefit from statins just as much as men in both primary prevention,
+
+742
+01:10:49,640 --> 01:10:55,080
+where there was a 15% reduction in major adverse cardiovascular events, as well as for every one
+
+743
+01:10:55,080 --> 01:11:00,360
+millimole per liter or 39 milligrams per deciliter lowering of LDL. And in secondary prevention,
+
+744
+01:11:00,360 --> 01:11:05,400
+at a little bit greater, 22% reduction, as well as all cause mortality was lower in women with
+
+745
+01:11:05,400 --> 01:11:11,880
+statins. So women benefit from statins. What's the NNT on both of those, Erin? I would have to
+
+746
+01:11:11,880 --> 01:11:15,800
+get back to you from the meta-analysis, I don't know offhand, but of course, the NNT is going to
+
+747
+01:11:15,800 --> 01:11:20,120
+depend on primary prevention versus secondary prevention. And of course, the women that were
+
+748
+01:11:20,120 --> 01:11:24,600
+enrolled in these trials were at higher risk. But the important thing is that they benefited
+
+749
+01:11:24,600 --> 01:11:30,040
+similarly to men with no effect interaction. That's what I was kind of getting at. Was it
+
+750
+01:11:30,040 --> 01:11:36,200
+in the ballpark of men where your primary preventions could be anywhere from 60 to 100,
+
+751
+01:11:36,200 --> 01:11:42,360
+and your secondary preventions might be 30 to 50? Does that sort of... Those numbers kind of ring a
+
+752
+01:11:42,360 --> 01:11:47,400
+bell to me. That sounds about right. I just don't have that data right in front of me, but that
+
+753
+01:11:47,400 --> 01:11:52,280
+sounds about right. I can look that up for you. But despite the evidence clearly showing that they
+
+754
+01:11:52,280 --> 01:11:57,480
+benefit, to get back to your original question, women are less likely to be offered a statin.
+
+755
+01:11:57,480 --> 01:12:01,800
+We saw this from the Palm Registry. And if offered, women are more likely to decline or
+
+756
+01:12:01,800 --> 01:12:07,960
+discontinue. In the usage registry, women were 30 to 50% more likely to report statin-associated
+
+757
+01:12:07,960 --> 01:12:14,360
+muscle symptoms and stop statins for this reason. Even in secondary prevention, studies of individuals
+
+758
+01:12:14,360 --> 01:12:20,680
+who have post-mile cardiomyfarction, young women under the age of 55 were significantly less likely
+
+759
+01:12:20,680 --> 01:12:26,520
+than men to be on a statin two months after their MI. And these are the highest risk individuals,
+
+760
+01:12:26,600 --> 01:12:31,080
+the recent MI, and women are still less likely to be on a statin. One of my own studies,
+
+761
+01:12:31,080 --> 01:12:35,800
+using nationally representative data from the medical expenditure panel survey,
+
+762
+01:12:35,800 --> 01:12:41,400
+it's weighted to represent US adults with ASCBD. So it's weighted to represent 11 million women
+
+763
+01:12:41,400 --> 01:12:47,240
+with ASCBD. Women were 45% less likely to be treated on a statin than with men. So we know
+
+764
+01:12:47,240 --> 01:12:53,480
+there's lots of... And Aaron, how much of that do you think is on the shoulders of the physician
+
+765
+01:12:53,480 --> 01:12:58,040
+for either being ignorant or just, I guess, ignorant would be the only excuse,
+
+766
+01:12:58,040 --> 01:13:03,560
+not offering the statin versus how often is the physician doing the right thing and the patient,
+
+767
+01:13:03,560 --> 01:13:07,720
+as a woman specifically, is saying, you know what, this is not the right thing for me?
+
+768
+01:13:07,720 --> 01:13:12,840
+So the Palm Registry shows women are less likely to be offered. And so this is on the physician
+
+769
+01:13:12,840 --> 01:13:19,880
+side. We see this across all kinds of subgroups, both in primary prevention, secondary prevention,
+
+770
+01:13:19,880 --> 01:13:25,480
+and also whether they're treated by a cardiologist or primary care, women are less likely to be
+
+771
+01:13:25,480 --> 01:13:30,440
+on a statin. But if offered, if the clinicians do the right thing and offer, women are more likely
+
+772
+01:13:30,440 --> 01:13:36,600
+to decline or discontinue. This is a combination of things. Women may still perceive themselves
+
+773
+01:13:36,600 --> 01:13:43,560
+to be lower risk. Women may be more fear adverse. They also, women are report more likely to have
+
+774
+01:13:43,560 --> 01:13:49,720
+statin-associated muscle symptoms. And so this gets down to how much is real versus the nocebo effect.
+
+775
+01:13:50,360 --> 01:13:55,000
+Is it biological differences related to women's smaller body size,
+
+776
+01:13:55,000 --> 01:14:01,960
+influenza hormones, or is it that maybe women are more socialized to report symptoms or
+
+777
+01:14:02,520 --> 01:14:08,840
+read these warning labels or a possible symptom that could happen or be more concerned? I mean,
+
+778
+01:14:08,840 --> 01:14:15,240
+we have overwhelming data about the safety of statins. Serious muscle injury is one in 100,000.
+
+779
+01:14:15,240 --> 01:14:18,920
+In randomized clinical trials, there's no difference of muscle symptoms between treated
+
+780
+01:14:18,920 --> 01:14:25,160
+and placebo. We know in real world practice, up to 30% of statin-treated patients report
+
+781
+01:14:25,160 --> 01:14:31,240
+muscle symptoms. So there's this tremendous nocebo effect in trials like the SAMHSA trial,
+
+782
+01:14:31,240 --> 01:14:37,560
+up to 90% of statin-associated symptoms was elicited by the placebo too. So patients were
+
+783
+01:14:37,560 --> 01:14:42,760
+having symptoms on the statins, but 90% of those symptoms were also elicited on the placebo. So it
+
+784
+01:14:42,760 --> 01:14:48,600
+really wasn't as more the act of taking the medication compared to the medication itself.
+
+785
+01:14:49,160 --> 01:14:54,600
+So we know the nocebo effect is real, but the problem is that this can be challenging to
+
+786
+01:14:54,600 --> 01:15:00,280
+counsel. There's a lot of medical misinformation out there. And when an individual, the symptoms
+
+787
+01:15:00,280 --> 01:15:06,200
+are real to them, and if they're convinced they're having these symptoms, it can be hard to break
+
+788
+01:15:06,200 --> 01:15:11,560
+that mindset. My practice is all about building trust and we build a relationship over time. And
+
+789
+01:15:11,560 --> 01:15:17,560
+sometimes I start slow or do alternative doses every other day or three times a week and trying
+
+790
+01:15:17,560 --> 01:15:22,600
+to get individuals back on their statin and show that they tolerate them and have them take a muscle
+
+791
+01:15:22,600 --> 01:15:26,120
+symptom survey and show that a lot of the aches and pains that they have, you know,
+
+792
+01:15:26,120 --> 01:15:31,160
+were unrelated to the statin. But the good news at least is that we're releasing an error
+
+793
+01:15:31,160 --> 01:15:36,440
+that we have more options than we did before. Though all individuals who have report statin
+
+794
+01:15:36,440 --> 01:15:41,080
+associated muscle symptoms or statin intolerance, you know, really should be given a re-challenge
+
+795
+01:15:41,080 --> 01:15:45,720
+for our highest risk patients. We have other things. Zetimine, we have the PCSK9 inhibitors,
+
+796
+01:15:45,720 --> 01:15:53,160
+we have clizarin, mepidobic acid, and more things in the pipeline. So we have ways to get to LDL goal
+
+797
+01:15:53,160 --> 01:15:58,120
+if patients are willing to work with us. And, you know, while these other therapies are meant to be
+
+798
+01:15:58,120 --> 01:16:04,120
+as an adjunct to diet and lifestyle and maximally tolerated statins, for some patients, the maximally
+
+799
+01:16:04,120 --> 01:16:09,640
+tolerated statin is zero statin. And so sometimes we have to move to some of these other agents to
+
+800
+01:16:09,640 --> 01:16:16,200
+get their LDL under control. Aaron, what's your statin workflow? How do you work through a patient
+
+801
+01:16:16,200 --> 01:16:23,000
+with a statin? So my behavior on this front has evolved a little bit in part just due to experience,
+
+802
+01:16:23,000 --> 01:16:28,600
+but also in part due to the arrival of these other agents that you mentioned, the big three being
+
+803
+01:16:28,600 --> 01:16:33,800
+zetimide, PCSK9 inhibitors, and most recently, pepidobic acid. But these days I really find myself
+
+804
+01:16:33,800 --> 01:16:38,920
+only fiddling with about three statins truthfully. And this excludes patients who show up on one
+
+805
+01:16:38,920 --> 01:16:43,560
+already that they inherit. So a torvostatin or something like that. But in terms of a naive
+
+806
+01:16:43,560 --> 01:16:49,160
+patient, I would say it's really mostly two. It's really resuvastatin and then pitavastatin with
+
+807
+01:16:49,160 --> 01:16:54,440
+occasional pravastatin. You can imagine obviously the order in which we do that based on symptoms
+
+808
+01:16:54,440 --> 01:17:02,040
+and need. Walk me through your thinking specifically for women. So woman comes in, doesn't have FH,
+
+809
+01:17:02,040 --> 01:17:09,400
+family history is notable for atherosclerosis, but nothing incredibly premature before the age
+
+810
+01:17:09,400 --> 01:17:18,840
+of 60. Her APO B is the 70th percentile concordant with her LDL C. And after months of being your
+
+811
+01:17:18,840 --> 01:17:25,960
+patient, she says, you know, okay, I sort of buy this thesis, which is I'm 40 years old, my LDL is
+
+812
+01:17:25,960 --> 01:17:29,800
+only going to go up from here. So let's start to take preventative measurements. So this is
+
+813
+01:17:30,360 --> 01:17:37,080
+true primary prevention in a relatively low 10 year risk patient. And you have no reason to
+
+814
+01:17:37,080 --> 01:17:41,720
+be concerned with anything else. So what's your first line agent? What dose and how do you proceed
+
+815
+01:17:41,720 --> 01:17:46,040
+if there was issues? The highest risk patients, we'll get back to your primary prevention patients,
+
+816
+01:17:46,040 --> 01:17:51,160
+highest risk patients with ASCVD, you know, we want to get as low as possible as quickly as
+
+817
+01:17:51,160 --> 01:17:56,840
+possible, lower for longer for faster. And so we do a lot of disservice by starting these really
+
+818
+01:17:56,840 --> 01:18:00,760
+low dose statins, and they don't come back for six months to a year, and then they never get
+
+819
+01:18:00,760 --> 01:18:05,640
+intensified and patients don't get to goal. So in the highest risk patients, starting with a high
+
+820
+01:18:05,640 --> 01:18:09,560
+intensity statin, if you start up front, that's more likely the dose that they'll stay on,
+
+821
+01:18:09,560 --> 01:18:15,720
+and use of combination therapy early. So you know, just like blood pressure, if it's above 160,
+
+822
+01:18:15,720 --> 01:18:19,720
+you know, we're thinking combination therapy for blood pressure. And I have the same approach
+
+823
+01:18:19,720 --> 01:18:25,800
+really for lipids, or very high risk patients, such as the ones with a recent coronary syndrome,
+
+824
+01:18:25,800 --> 01:18:30,360
+that you know, we know what their starting LDL is and where we want to go. And I always try to aim
+
+825
+01:18:30,360 --> 01:18:36,040
+for at least less than 55 optimal LDL is probably, you know, around 30 or lower these patients,
+
+826
+01:18:36,040 --> 01:18:41,320
+you know, if where you need to go high intensity statins will lower the LDL by about 50%. But if
+
+827
+01:18:41,320 --> 01:18:46,840
+you need a greater reduction, thinking about combination therapy up early, we have some data
+
+828
+01:18:46,840 --> 01:18:52,440
+now about the safety of giving PCSQ9 inhibitors even in the hospital setting after an acute
+
+829
+01:18:52,520 --> 01:18:58,200
+myocardial infarction can have important changes in plaque stabilization and plaque reduction. So
+
+830
+01:18:58,200 --> 01:19:02,520
+being very intensive about those treatments. I want to make the plug about using combination
+
+831
+01:19:02,520 --> 01:19:08,360
+earlier and more aggressively. And your lower risk primary prevention patient that you started with,
+
+832
+01:19:09,080 --> 01:19:13,880
+the modern intensity statin would be fine. I mean, it depends on their age. If it's a man over 40 or
+
+833
+01:19:13,880 --> 01:19:18,840
+women over 50, get a coronary calcium score. You know, if they're above the 75th percentile,
+
+834
+01:19:19,480 --> 01:19:25,800
+also thinking high intensity statin and aiming for an LDL less than 70, which is also consideration
+
+835
+01:19:25,800 --> 01:19:31,480
+of PCSQ9 inhibitors, even in primary prevention patients, if they have significant plaque,
+
+836
+01:19:31,480 --> 01:19:37,400
+you know, very high calcium scores above 300. But you know, in a lower risk person where we're just
+
+837
+01:19:37,400 --> 01:19:41,480
+trying to shift them some lower. And sorry, just going back to that, Aaron, I know it wasn't my
+
+838
+01:19:41,480 --> 01:19:46,440
+question, but since you brought it up, is your preferred two line out of the gate,
+
+839
+01:19:46,440 --> 01:19:51,240
+resouvastatin and azetamide? Is that your typical starting one, two punch?
+
+840
+01:19:51,240 --> 01:19:56,920
+I mean, again, it depends where they are and where we start with. They're very high risk. They have
+
+841
+01:19:56,920 --> 01:20:02,040
+ASCVD and they're very high risk. You're going to go PCSQ9 plus. Yeah, especially if they have
+
+842
+01:20:02,040 --> 01:20:07,800
+elevated liporatidyl A because statins, azetamide, bimpedoic acid don't lower liporatyl A. So if they
+
+843
+01:20:07,800 --> 01:20:14,760
+had an ASCVD event, it used to be to get the PCSQ9 and prove that you had a beyond statin and azetamide
+
+844
+01:20:14,760 --> 01:20:19,400
+before you could get the PCSQ9 approved. So I used to use both just knowing that I'm going to move
+
+845
+01:20:19,400 --> 01:20:24,280
+to PCSQ9. Now it's a little bit easier to get the PCSQ9 approved, even if you don't have azetamide
+
+846
+01:20:24,280 --> 01:20:29,880
+on board. So these very high risk patients, because azetamide, you know, you can lower LDL
+
+847
+01:20:29,880 --> 01:20:35,320
+by about, you know, 16 milligram per deciliter, but you want to really get the LDL way down in
+
+848
+01:20:35,320 --> 01:20:40,600
+these very high risk patients. I'm moving pretty quickly to PCSQ9 inhibitors, but in lower risk.
+
+849
+01:20:40,600 --> 01:20:44,760
+Do you have a preference by the way between Praglutin and Rapatha?
+
+850
+01:20:44,760 --> 01:20:49,240
+You know, so they were never compared head to head. So they have a lock a map and all
+
+851
+01:20:49,240 --> 01:20:55,480
+rock a map had a similar 15% reduction in major adverse cardiovascular events in their respective
+
+852
+01:20:55,480 --> 01:21:01,080
+trials, the four year at Odyssey trials, and they had similar reduction of liporatidyl A as well.
+
+853
+01:21:01,080 --> 01:21:06,200
+I tend to use, I mean, I use whatever one I can get approved. So it often depends on the patient's
+
+854
+01:21:06,200 --> 01:21:11,400
+insurance. Mostly if all things being equal, either one being approved, I probably tend to
+
+855
+01:21:11,400 --> 01:21:16,760
+use more of a lock a map because you don't have to do the dose adjustment. The short click pattern
+
+856
+01:21:16,760 --> 01:21:22,120
+is really easy. We have our nurse and our clinic teaches patients and I have lots of patients on
+
+857
+01:21:22,120 --> 01:21:28,200
+all rock a map as well. Closer in, you know, we're just starting getting experience with onboarding.
+
+858
+01:21:28,200 --> 01:21:34,040
+Tell folks what that is. So the PCSQ9 inhibitors that we were talking about, the eva lock a map
+
+859
+01:21:34,040 --> 01:21:42,840
+and all rock a map are monoclonal antibodies. So PCSQ9 is a hepatic protein that's involved with
+
+860
+01:21:42,840 --> 01:21:48,600
+LDL receptor degradation. And this was really interesting how quickly we moved from understanding
+
+861
+01:21:48,600 --> 01:21:54,600
+from genetic studies, all the way to translational studies and the bedside, you know, we know that
+
+862
+01:21:54,600 --> 01:22:04,040
+individuals with PCSQ9 genetic mutations that were loss of function, these individuals had very
+
+863
+01:22:04,040 --> 01:22:09,880
+low LDLs and very low risk of cardiovascular disease of a lifetime, were gain of function
+
+864
+01:22:09,880 --> 01:22:18,920
+PCSQ9 at high LDLs and increased CBD risk. So by inhibiting this protein, by inhibiting the PCSQ9,
+
+865
+01:22:18,920 --> 01:22:25,240
+it prevents the LDL receptor degradation so that there is an upper regulation of LDL receptors on
+
+866
+01:22:25,240 --> 01:22:31,720
+the surface of the hepatocyte, which leads to greater clearance of LDL out of circulation.
+
+867
+01:22:31,720 --> 01:22:37,800
+Those were the monoclonal antibodies and we have not only do they lower LDL by about 50 to 60%,
+
+868
+01:22:38,840 --> 01:22:44,840
+they also have some modest lipo-bertal A lowering around 25%. But we have two outcome trials,
+
+869
+01:22:44,840 --> 01:22:49,880
+Fourier and Odyssey, Fourier being in stable ASCVD and Odyssey in patients with recent acute
+
+870
+01:22:49,880 --> 01:22:54,760
+coronary syndrome that show that they also reduce major adverse cardiovascular events,
+
+871
+01:22:54,760 --> 01:23:01,480
+as we would anticipate. And we now have longer term data for follow up, which shows even after
+
+872
+01:23:01,480 --> 01:23:09,400
+these trials end that earlier exposure to a Velocimab to exposure to a lower LDL has a legacy
+
+873
+01:23:09,400 --> 01:23:14,120
+effect with continued lower risk of events. So I think that the trials were pretty short,
+
+874
+01:23:14,120 --> 01:23:17,880
+around two years and the curves were just starting to separate. So I think with longer
+
+875
+01:23:17,880 --> 01:23:21,480
+treatment, you would have had even a greater reduction. As we're talking about women,
+
+876
+01:23:21,480 --> 01:23:27,160
+I will just mention, unfortunately, both of these trials, women were only about 25% of participants.
+
+877
+01:23:27,960 --> 01:23:34,200
+Women start out with higher LDLs for various reasons. After menopause, women tend to have
+
+878
+01:23:34,200 --> 01:23:41,320
+higher LDLs compared to men, but that they had a similar reduction in LDL with PCSQ9 inhibitor
+
+879
+01:23:41,320 --> 01:23:48,440
+therapy. In terms of mace reduction, there was no interaction by sex, meaning that women benefited,
+
+880
+01:23:48,440 --> 01:23:52,360
+these high risk women who either have ASCVD or recent acute coronary syndrome,
+
+881
+01:23:52,360 --> 01:23:57,640
+benefited to a similar degree as men did. There was no major adverse event difference between
+
+882
+01:23:57,640 --> 01:24:02,040
+the sexes, although women are more likely to report injection site reactions. So those have
+
+883
+01:24:02,040 --> 01:24:07,240
+been available for a while and they're in the guidelines now as an add on to statins in high
+
+884
+01:24:07,320 --> 01:24:12,840
+risk patients with ASCVD or heterozygous FH who need additional LDL lowering. I also use them in
+
+885
+01:24:12,840 --> 01:24:18,440
+high risk primary prevention, such as those with high calcium scores who need LDL lowering. But
+
+886
+01:24:18,440 --> 01:24:24,760
+in closer is the new kid on the block. So this inhibits PCSQ9, but through a different mechanism.
+
+887
+01:24:24,760 --> 01:24:33,400
+It's a small interfering RNA, so it prevents the translation of the PCSQ9 protein from being made.
+
+888
+01:24:34,040 --> 01:24:42,120
+We have data from the Orion 9, 10, and 11 trials, which was looking at LDL lowering,
+
+889
+01:24:42,120 --> 01:24:47,720
+showing that, again, women had higher LDLs at baseline, but they had similar reduction
+
+890
+01:24:47,720 --> 01:24:52,920
+within closer in. Notably, the mechanism of this little difference is that it's a subcutaneous
+
+891
+01:24:52,920 --> 01:24:58,200
+injection, but after the first baseline in three months, it's given every six months. So it's
+
+892
+01:24:58,200 --> 01:25:03,160
+designed to be given in a clinic setting as opposed to the monoclonal antibodies, which people give it
+
+893
+01:25:03,240 --> 01:25:09,400
+home. And the frequency of every six months may be attractive for adherence because you give it in
+
+894
+01:25:09,400 --> 01:25:16,440
+the clinic only one more time a year than a flu shot, and you can lower LDL by about 50%. So it
+
+895
+01:25:16,440 --> 01:25:23,000
+may be helpful for adherence. It has been approved for LDL lowering, and we're starting to onboard it
+
+896
+01:25:23,000 --> 01:25:28,600
+throughout the country in our clinics. But it should be noted that we don't yet have the outcome data.
+
+897
+01:25:28,600 --> 01:25:36,280
+The Orion 4 is the cardiovascular outcome trial that's ongoing. I anticipate with a 50% reduction
+
+898
+01:25:36,280 --> 01:25:41,320
+in LDL that this will certainly translate into a reduction of major adverse cardiovascular events,
+
+899
+01:25:41,320 --> 01:25:46,680
+but we don't have that data yet. But these are all potential options for patients that need
+
+900
+01:25:46,680 --> 01:25:53,400
+more intensive LDL lowering. You can also mention bempedoic acid to round out the new drugs that are
+
+901
+01:25:53,400 --> 01:25:58,200
+available. This one also might be interesting in women. So bempedoic acid is an oral drug,
+
+902
+01:25:58,200 --> 01:26:05,880
+and so it blocks ATP citrase lyase, which is an enzyme in the cholesterol synthesis pathway. So
+
+903
+01:26:05,880 --> 01:26:11,560
+it's upstream of HMG-Coase reductase, which statins inhibit. Kind of works like in the pathway where
+
+904
+01:26:11,560 --> 01:26:17,240
+statins work, where it blocks cholesterol synthesis. And so by blocking cholesterol synthesis, this
+
+905
+01:26:17,240 --> 01:26:23,080
+leads to upregulation of the LDL receptor on the surface of the liver and more clearance of LDL
+
+906
+01:26:23,080 --> 01:26:28,520
+out of circulation. But what's notable about this is that prodrug, the enzyme to activate it,
+
+907
+01:26:28,520 --> 01:26:35,320
+it's only in the liver, not in the muscle. So it does not have the same reported muscle symptoms
+
+908
+01:26:35,320 --> 01:26:40,920
+that have been seen with statins. And also interestingly, it doesn't seem to have the
+
+909
+01:26:40,920 --> 01:26:46,840
+risk of new onset diabetes or the increase in glucose that we see with high intensity statins.
+
+910
+01:26:47,480 --> 01:26:53,640
+So alone, bempedoic acid lowers LDL about 18%. So kind of in your range of azetamide,
+
+911
+01:26:54,440 --> 01:27:00,520
+a little bit more lowering if it's used as monotherapy without statins, about 21% in statin
+
+912
+01:27:00,520 --> 01:27:06,200
+intolerant patients. It does come as a fixed dose combination with azetamide. And together with
+
+913
+01:27:06,200 --> 01:27:12,120
+azetamide, you see kind of greater, about 36% reduction in LDL. So you're kind of getting in
+
+914
+01:27:12,120 --> 01:27:17,720
+the range of your moderate to high intensity statins. Notably actually in pooled analyses
+
+915
+01:27:17,720 --> 01:27:23,880
+from the clear studies, which were the studies looking at the LDL lowering effects of bempedoic
+
+916
+01:27:23,880 --> 01:27:30,040
+acid, we see that in ASEVD and FH patients that women seem to actually have a little bit even
+
+917
+01:27:30,040 --> 01:27:35,960
+greater LDL lowering with bempedoic acid than men. And they were more likely to achieve a 30%
+
+918
+01:27:35,960 --> 01:27:41,080
+reduction in LDL with bempedoic acid than men. Since women are more likely to have statin
+
+919
+01:27:41,080 --> 01:27:46,360
+associated muscle symptoms, and this agent doesn't cause that, this may be a good choice
+
+920
+01:27:46,360 --> 01:27:52,440
+as an oral therapy for women who can't get their LDL control on a statin or don't tolerate a statin.
+
+921
+01:27:53,000 --> 01:27:57,880
+So just for the audience, we don't have outcome data yet for this either. It's been approved for
+
+922
+01:27:57,880 --> 01:28:03,880
+LDL lowering, but the big cardiovascular outcome trial clear outcomes enrolled a population with
+
+923
+01:28:03,880 --> 01:28:09,720
+statin intolerance. And I was really pleased that nearly 50% of trial participants were women,
+
+924
+01:28:09,720 --> 01:28:14,520
+likely because women are more likely to have statin tolerance. So this has been closed out
+
+925
+01:28:14,520 --> 01:28:20,920
+and we're anticipating we may hear the results maybe in March of 2023, hopefully.
+
+926
+01:28:20,920 --> 01:28:26,760
+Is this secondary prevention, Erin? No, this is high risk patients that have statin intolerance.
+
+927
+01:28:26,760 --> 01:28:31,480
+So high risk primary prevention, statin intolerance. Yes. And secondary prevention patients with statin
+
+928
+01:28:31,480 --> 01:28:37,400
+intolerance. I got you completely off topic from our original question, which was low to moderate
+
+929
+01:28:37,400 --> 01:28:42,520
+risk, low to moderate short-term risk. Obviously long-term risk, everybody is high risk. It's
+
+930
+01:28:42,520 --> 01:28:46,680
+important to say that long time horizon, we're all high risk. Everybody gets atherosclerosis if you
+
+931
+01:28:46,680 --> 01:28:51,560
+live long enough. But we've got our woman whose LDL cholesterol is 130 to 140 milligrams per
+
+932
+01:28:51,560 --> 01:28:57,960
+deciliter and she's in her 30s. She gets it, right? She says, look, nothing's going to happen to me in
+
+933
+01:28:57,960 --> 01:29:02,040
+the next decade, but I'm playing the long game here. I don't want to have atherosclerosis in my 80s.
+
+934
+01:29:02,040 --> 01:29:07,240
+What's your algorithm for statin choice out of the gate? I tend to use one of the high intensity
+
+935
+01:29:07,320 --> 01:29:13,240
+statins that can, you know, a bit more potent LDL lowering like a Torva or Resuva. So if they don't
+
+936
+01:29:13,240 --> 01:29:18,840
+have CKD, because it's important to note that Resuva does need to be dose suggested if patients
+
+937
+01:29:18,840 --> 01:29:22,520
+have chronic kidney disease, but assuming, you know, otherwise healthy individuals. Yeah, say she
+
+938
+01:29:22,520 --> 01:29:27,960
+doesn't. I use a lot of Resuva. In my experience, they tend to have a little bit less muscle
+
+939
+01:29:27,960 --> 01:29:34,920
+associated symptoms. Psychologically, the doses, if you do five, 10, 20, you know, patients feel
+
+940
+01:29:34,920 --> 01:29:39,480
+like they're taking a lower dose when compared to the Adorva, you know, 20, 40, 80, you tell
+
+941
+01:29:39,480 --> 01:29:43,960
+patients you can't compare milligrams from one agent to another agent because they're completely
+
+942
+01:29:43,960 --> 01:29:49,000
+different drugs. People think they're taking lower drugs, so lower doses. So sometimes there's a lot
+
+943
+01:29:49,000 --> 01:29:54,440
+of buy-in and I have a lot of patients refer to me because if they're a little bit statin reluctant
+
+944
+01:29:54,440 --> 01:30:00,920
+or statin hesitant. So again, this is all in a background of lifestyle changes, but if they are
+
+945
+01:30:00,920 --> 01:30:06,920
+concerned at all, sometimes I use just Resuva 5. It's more about buying their trust and getting
+
+946
+01:30:06,920 --> 01:30:11,400
+them used to the idea of taking a statin and we know even in statin intolerant patients, even if
+
+947
+01:30:11,400 --> 01:30:17,400
+we do Resuva 5 milligrams, three times a week, we still can have if again LDL lowering compared to
+
+948
+01:30:17,400 --> 01:30:22,760
+no statin at all. So for patients that have been statin intolerant, statin reluctant, just getting
+
+949
+01:30:22,760 --> 01:30:27,160
+them to take a low dose and then seeing a little bit as believing. And so when we got getting their
+
+950
+01:30:27,160 --> 01:30:33,960
+numbers back and making progress, often then we can adjust up there based on how things are going.
+
+951
+01:30:33,960 --> 01:30:37,880
+You know, high-risk patients, you know, I started the highest dose right out the bat. Sometimes
+
+952
+01:30:37,880 --> 01:30:44,680
+patients kind of check vitamin D and thyroid levels and hit coenzyme q10. There really isn't
+
+953
+01:30:44,680 --> 01:30:50,280
+very good data that coenzyme q10 prevents statin-sociative muscle symptoms, but if my patients
+
+954
+01:30:50,280 --> 01:30:54,520
+want to take that because it makes them feel better with the concept of taking a statin,
+
+955
+01:30:54,520 --> 01:30:59,320
+I don't object to it, but I don't actively prescribe it because it really isn't good data
+
+956
+01:30:59,320 --> 01:31:04,840
+that it really blocks this. The same thing with vitamin D. There really isn't good data that
+
+957
+01:31:04,840 --> 01:31:10,680
+taking a vitamin D supplement can prevent statin-associated muscle symptoms, but many patients,
+
+958
+01:31:10,680 --> 01:31:15,080
+you know, want to take that. And you know, my philosophy is if I could get them on the statin
+
+959
+01:31:15,080 --> 01:31:19,160
+and get their LDL lowering, you know, I'm willing to work with them on some of these other things,
+
+960
+01:31:19,880 --> 01:31:24,360
+really trying to get their buy-in to get them on a therapy that will lower their LDL.
+
+961
+01:31:24,360 --> 01:31:27,800
+And it's really important that I do refer them to our, we have a preventocardiology
+
+962
+01:31:27,800 --> 01:31:32,760
+nurse who discussed this nutrition because I don't want them to think that I don't value
+
+963
+01:31:32,760 --> 01:31:37,400
+diet and lifestyle. You know, we know that a lot of lipids is predominantly genetically determined,
+
+964
+01:31:37,400 --> 01:31:42,600
+but there is influence in diet. And I want to emphasize to my patients that this is really a
+
+965
+01:31:42,600 --> 01:31:47,160
+combination approach and that I do take diet and lifestyle, you know, very seriously as well.
+
+966
+01:31:47,800 --> 01:31:53,800
+What type of an impact do you think you can see with manipulating diet, presumably mostly through
+
+967
+01:31:54,360 --> 01:32:00,280
+the types of fats they're consuming, but more broadly, is there how aggressively can you use
+
+968
+01:32:00,280 --> 01:32:05,720
+dietary manipulation, especially in a woman who for whatever reason, be it pregnancy or just
+
+969
+01:32:05,720 --> 01:32:11,480
+reluctance, is hoping to minimize, if not avoid the use of lipid lowering medication?
+
+970
+01:32:11,480 --> 01:32:18,040
+No, about three fourths or 80% of LDL is synthesized by the liver. So there's, you know,
+
+971
+01:32:18,040 --> 01:32:23,400
+is a strong genetic component. I have lots of patients that are strict vegan and do everything
+
+972
+01:32:23,400 --> 01:32:26,760
+right. And they still have high cholesterol and they get so frustrated. And I, you know,
+
+973
+01:32:26,760 --> 01:32:32,440
+this is genetically determined. And if they had a bad diet, their numbers would be so much worse.
+
+974
+01:32:32,440 --> 01:32:37,960
+And so it's important to note all the good things that they're doing for the diet, but also
+
+975
+01:32:37,960 --> 01:32:41,240
+acknowledge that sometimes they're going to need a little help with pharmacotherapy because of the
+
+976
+01:32:41,240 --> 01:32:47,560
+strong genetic determination. But, you know, around the other 20% is influenced by diet. So diet
+
+977
+01:32:47,560 --> 01:32:53,000
+does matter, particularly in younger adults. We're thinking about adolescents in young adults,
+
+978
+01:32:53,000 --> 01:32:57,560
+you know, especially wanting to start earlier in life. If we can shift everybody a little bit lower
+
+979
+01:32:57,560 --> 01:33:03,160
+in their LDL by following a healthy diet, really, since, you know, early childhood, if we can shift
+
+980
+01:33:03,160 --> 01:33:09,160
+everybody lower on LDL, this will reduce the total burden of years with LDL elevation. So, you know,
+
+981
+01:33:09,160 --> 01:33:14,760
+we counsel about reduction in saturated fats and focusing on the healthier fats, the polyunsaturated
+
+982
+01:33:14,760 --> 01:33:21,880
+and the monounsaturated fats, increasing fiber, fruits, vegetables, whole grains into their diet,
+
+983
+01:33:21,880 --> 01:33:27,400
+really trying to avoid processed foods, which are the worst, especially processed meats.
+
+984
+01:33:27,960 --> 01:33:32,840
+There's some patients that have already have a CBD and they don't want to take a medicine. And,
+
+985
+01:33:32,840 --> 01:33:37,480
+you know, at this point, it's like too late, you know, diets important, but you already have plaque
+
+986
+01:33:37,480 --> 01:33:42,760
+in your arteries, you're pretty far along in the process. And we need to do everything to
+
+987
+01:33:42,760 --> 01:33:48,520
+prevent further progression and even reverse. And we know from, you know, the IBIS studies that
+
+988
+01:33:48,520 --> 01:33:55,080
+high intensity statins and significant LDL lowering can cause atheroma volume regression.
+
+989
+01:33:55,080 --> 01:34:01,800
+So it's really a combination of pharmacotherapy and lifestyle changes. But for a very low risk
+
+990
+01:34:01,800 --> 01:34:06,440
+young adult, I push as hard as we can with healthier lifestyle changes.
+
+991
+01:34:06,440 --> 01:34:09,320
+You know, it's sort of funny, I've gone back and forth on this stuff so much,
+
+992
+01:34:09,320 --> 01:34:14,120
+Aaron, and I probably sound like a heretic at the moment, but I just sort of went through and
+
+993
+01:34:14,120 --> 01:34:21,240
+reviewed as many of the Cochrane collaboration meta-analyses as I could sort of stomach on all
+
+994
+01:34:21,240 --> 01:34:26,200
+of the different fatty acid impacts on cardiovascular disease. So if you look at the Cochrane
+
+995
+01:34:26,200 --> 01:34:31,800
+collaboration in 2019, that looks at the role of PUFA's and then the one in 2020 that looks at
+
+996
+01:34:31,800 --> 01:34:37,800
+the SFA substitution with PUFA and MUFA. And if I came away from this with anything, it's that I
+
+997
+01:34:37,800 --> 01:34:42,360
+don't know how much any of that stuff matters once you're in energy balance. In other words,
+
+998
+01:34:42,360 --> 01:34:48,680
+in the context of over-nutrition, I think it all is bad. In the context of adequate nutrition,
+
+999
+01:34:49,240 --> 01:34:58,440
+the ambiguity in these data were enormous. And, you know, I was left basically thinking,
+
+1000
+01:34:58,440 --> 01:35:05,880
+look, on the basis of PREDIMED and the LION heart study, in addition to some epidemiology,
+
+1001
+01:35:05,880 --> 01:35:12,520
+MUFA is probably the most important fatty acid, and therefore, let's just call it 50% of your fat
+
+1002
+01:35:12,520 --> 01:35:18,840
+intake should probably be MUFA. And, you know, probably after that, looks like PUFA is a little
+
+1003
+01:35:18,840 --> 01:35:25,080
+bit better than SFA, but I certainly couldn't find a shred of evidence to suggest that aggressive
+
+1004
+01:35:25,080 --> 01:35:31,320
+restriction of SFA was in any way protective. Now, of course, the opposite, which was you do see
+
+1005
+01:35:31,320 --> 01:35:36,920
+people that are consuming massive amounts of saturated fat and who have incredible hyperbeta
+
+1006
+01:35:36,920 --> 01:35:43,640
+lipoproteinemia, you know, I think that's a clear problem. But, you know, when I think about all of
+
+1007
+01:35:43,640 --> 01:35:49,000
+the lifestyle factors, I wonder if the one that gets the least attention that has the greatest
+
+1008
+01:35:49,000 --> 01:35:55,480
+impact is stress. You know, because we don't have a pill for it. We can offset the harm of
+
+1009
+01:35:55,480 --> 01:36:02,120
+nutrition so much easier with pharmacotherapy. And yet, a person walking around with simmering
+
+1010
+01:36:02,120 --> 01:36:07,960
+hypercordicillemia and the effect that that's having on their endothelium and, you know, their
+
+1011
+01:36:07,960 --> 01:36:13,080
+sympathetic nervous system, I feel like that's the one that I wish we had a better handle on as far
+
+1012
+01:36:13,080 --> 01:36:17,720
+as how to help people. Because again, we don't have a pill right outside of blood pressure
+
+1013
+01:36:17,720 --> 01:36:21,480
+management. We don't really have a pill for that. What are your thoughts on the role of
+
+1014
+01:36:22,360 --> 01:36:27,320
+stress? It's such a dumb buzzword that I hate it, but I really think physiologically it's problematic.
+
+1015
+01:36:27,880 --> 01:36:33,480
+Well, first of all, I didn't say about aggressively low saturated fat diet. The guidelines,
+
+1016
+01:36:33,480 --> 01:36:38,040
+the HAACC guidelines really are talking more of a moderate fat intake diet. And really,
+
+1017
+01:36:38,040 --> 01:36:42,120
+a Mediterranean style pattern, as you alluded to, is what I recommend to my patients. You know,
+
+1018
+01:36:42,120 --> 01:36:46,520
+maybe I'm biased because I'm half Italian, I'm married to a Greek, but we do have both
+
+1019
+01:36:46,520 --> 01:36:51,720
+observational data and clinical trial data. A Mediterranean style diet is pretty palatable,
+
+1020
+01:36:51,720 --> 01:36:57,240
+and it's pretty easy to follow without getting too crazy. And it's, you know, generally low
+
+1021
+01:36:57,240 --> 01:37:03,080
+unsaturated fats and generally higher in the unsaturated fats, lots of fruits and vegetables,
+
+1022
+01:37:03,080 --> 01:37:08,200
+but it's also the Mediterranean lifestyle with increased physical activity, more social
+
+1023
+01:37:08,200 --> 01:37:12,760
+connection and reduced stress. And I'll add in there the importance of physical activity,
+
+1024
+01:37:12,760 --> 01:37:19,720
+although exercise maybe has less impact on lipids per se than diet, it has significant
+
+1025
+01:37:19,720 --> 01:37:25,160
+impact on overall cardiovascular risk with both helping with weight maintenance, but also
+
+1026
+01:37:25,720 --> 01:37:30,840
+increased levels of fitness is being more fit is one of the strongest favorable factors for lower
+
+1027
+01:37:30,840 --> 01:37:36,200
+cardiovascular risk. So I definitely encourage regular physical activity as well. So I do think
+
+1028
+01:37:36,200 --> 01:37:40,120
+mental health is very important that we also address. You can't talk about cardiovascular
+
+1029
+01:37:40,120 --> 01:37:46,440
+health without talking about mental health. And I was a coauthor on the American Heart Association
+
+1030
+01:37:46,440 --> 01:37:51,640
+statement that came out last year about the mind heart body connection. We really talk about
+
+1031
+01:37:51,640 --> 01:37:57,800
+both positive psychological factors and negative psychological factors, both influence cardiovascular
+
+1032
+01:37:57,800 --> 01:38:04,120
+health, both in indirect ways and direct ways. So what do I mean? So in indirect ways, so
+
+1033
+01:38:04,120 --> 01:38:10,040
+individuals with more negative psychological factors like anxiety, stress, depression, anger,
+
+1034
+01:38:10,040 --> 01:38:15,240
+you know, they might be more likely to have poor coping habits, such as they might be eating more
+
+1035
+01:38:15,240 --> 01:38:21,800
+poorly and not getting physical activity and having more smoking or more alcohol intake,
+
+1036
+01:38:21,800 --> 01:38:27,320
+you know, and less follow up with preventive interventions. So sort of the indirect mechanisms
+
+1037
+01:38:27,320 --> 01:38:32,280
+where the positive psychological factors as individuals may be more likely if they have a
+
+1038
+01:38:32,280 --> 01:38:37,720
+sense of purpose and more optimism to be, you know, eat healthy and exercise and take their
+
+1039
+01:38:37,720 --> 01:38:42,760
+medications apart with preventive visits. But there also may be direct mechanisms as well,
+
+1040
+01:38:43,400 --> 01:38:49,960
+that stress leads to activation of the sympathetic nervous system, increasing heart rate, increasing
+
+1041
+01:38:49,960 --> 01:38:55,720
+blood pressure, increasing release of stress hormones like cortisol that can lead to more
+
+1042
+01:38:55,720 --> 01:39:01,880
+insulin resistance, more fat deposition and the visceral cavities, and more low grade chronic
+
+1043
+01:39:01,880 --> 01:39:07,640
+inflammation. And we know that inflammation can also be a trigger for plaque rupture. So I do
+
+1044
+01:39:07,640 --> 01:39:12,440
+think it's important that we think about the whole person and, you know, we can make all these
+
+1045
+01:39:12,440 --> 01:39:17,480
+recommendations about managing their lipids and things, but if we don't take into account some of
+
+1046
+01:39:17,480 --> 01:39:22,040
+the challenges that they have in their personal lives and social determinants of health, you know,
+
+1047
+01:39:22,040 --> 01:39:27,240
+we may not be able to effectively deliver preventive interventions. Completely agree with
+
+1048
+01:39:27,240 --> 01:39:31,640
+everything you said. And sorry, didn't mean to apply that you were suggesting a low saturated
+
+1049
+01:39:31,640 --> 01:39:35,880
+fat diet. I was sort of saying that more just as broadly you kind of hear these extreme views.
+
+1050
+01:39:36,520 --> 01:39:41,960
+I guess what I'm getting at building on what you would say is when I think of the five pillars
+
+1051
+01:39:41,960 --> 01:39:48,760
+through which we can impact a person's health, so nutrition, exercise, sleep, emotional and mental
+
+1052
+01:39:48,760 --> 01:39:54,520
+health and pharmacotherapy, the lowest impact in my view on cardiovascular disease is through
+
+1053
+01:39:54,520 --> 01:40:00,120
+nutrition. I think the other four trumpet all day, every day and twice on Sundays. I don't even think
+
+1054
+01:40:00,120 --> 01:40:06,280
+it's close. And the reason I mention this and the reason I'm on my soapbox about this is I think
+
+1055
+01:40:06,280 --> 01:40:11,080
+the general public seems to think that nutrition is the most important lever in controlling
+
+1056
+01:40:11,080 --> 01:40:16,520
+cardiovascular disease risk. I see this a lot, right? I see the person who ostensibly is eating
+
+1057
+01:40:16,520 --> 01:40:22,680
+quote unquote, a healthy diet. And yet they still have these biomarkers that are horrible and or
+
+1058
+01:40:22,680 --> 01:40:27,320
+they even have evidence of clinical disease. They have a calcification on their calcium score. They
+
+1059
+01:40:27,320 --> 01:40:32,200
+have soft plaque on their CTA. And they sort of say, but look, doctor, I eat this, I'm on this
+
+1060
+01:40:32,200 --> 01:40:36,360
+diet or that diet and clearly I've got it under control. And I sort of want to say to them, no,
+
+1061
+01:40:36,360 --> 01:40:40,040
+you don't even have it close to under control and your diet's not even remotely helpful at
+
+1062
+01:40:40,040 --> 01:40:44,920
+controlling this. And if it is, it's rearranging the deck chairs on the Titanic at this point.
+
+1063
+01:40:44,920 --> 01:40:48,920
+Those other four things are going to move the needle far more in different amounts,
+
+1064
+01:40:48,920 --> 01:40:53,000
+in different people. There are some people for whom I think the stress thing doesn't play a role.
+
+1065
+01:40:53,000 --> 01:40:55,720
+And there are other people for whom I think it plays an enormous role. And every time I'm in
+
+1066
+01:40:55,720 --> 01:41:00,120
+Europe, I come to the same conclusion you do, which is especially in amazing places like Italy,
+
+1067
+01:41:00,120 --> 01:41:05,400
+which is hands down my favorite place in Europe. They're way more active, they eat less,
+
+1068
+01:41:05,400 --> 01:41:12,760
+and they just don't give a damn. Like there's just a sense of it's all okay. They're not so
+
+1069
+01:41:12,760 --> 01:41:18,840
+wound up the way we are. And I think that counts for, I don't know. I think that's 90% of it right
+
+1070
+01:41:18,840 --> 01:41:23,880
+there. Let's shift gears for a second. Let's talk about LP little a it's come up a number of times.
+
+1071
+01:41:23,960 --> 01:41:28,040
+And obviously the listeners on this podcast know the ins and outs of LP little a, we've had a number
+
+1072
+01:41:28,040 --> 01:41:33,800
+of guests talk about it, but we've never spoken about it through two lenses. One is specifically
+
+1073
+01:41:33,800 --> 01:41:39,240
+through the lens of women versus men, anything we need to know. And also I want to now talk about
+
+1074
+01:41:39,240 --> 01:41:43,560
+the role of LP little a you already alluded to it in pregnancy, you know, it is an acute phase
+
+1075
+01:41:43,560 --> 01:41:47,960
+reactant in a way. So you wouldn't surprise me that LP little a goes up during pregnancy,
+
+1076
+01:41:47,960 --> 01:41:50,600
+but I also want to talk about what happens after menopause, if anything.
+
+1077
+01:41:51,080 --> 01:41:54,520
+Sure. I'll talk about that. And then I do want to talk more about menopause. Cause I think we
+
+1078
+01:41:54,520 --> 01:41:59,880
+talked about menstrual cycles and pre menopause and PCOS and pregnancy. And then we didn't get to
+
+1079
+01:41:59,880 --> 01:42:04,280
+really dive into menopause. So yes, I want to go back. That's where I want to go next. So yeah,
+
+1080
+01:42:04,280 --> 01:42:08,200
+I want to go from this directly into menopause and then HRT as well, but I wanted to just close
+
+1081
+01:42:08,200 --> 01:42:14,680
+the loop on LP little a so lipoprotein little a. So I know you've talked about this a lot, but just
+
+1082
+01:42:14,680 --> 01:42:20,600
+in case there's any new listeners, I'll just briefly recap. It's an LDL like particle that's
+
+1083
+01:42:20,600 --> 01:42:26,920
+comprised both of an Apo B, which is, you know, Marker, the bad moieties. So it shares protein
+
+1084
+01:42:26,920 --> 01:42:33,400
+with other atherogenic lipoproteins. And then it also has an Apo lipoprotein A moiety. And that's
+
+1085
+01:42:33,400 --> 01:42:39,720
+what distinguished lipoprotein A from LDL. And this Apo A is kind of unique cause it has these
+
+1086
+01:42:39,720 --> 01:42:45,560
+10 subdomains of these Kringle four domains and the Kringle four two can expand two to 40 times.
+
+1087
+01:42:45,560 --> 01:42:51,720
+And so that's leads to a lot of heterogeneity in the population. You know, 80% or more of
+
+1088
+01:42:51,720 --> 01:42:57,320
+individuals actually carry two different isoforms of Apo A, you know, one inherited from each parent.
+
+1089
+01:42:57,320 --> 01:43:01,400
+And so it's important to recognize this heterogeneity in the multiple isoforms. Cause this
+
+1090
+01:43:01,400 --> 01:43:06,200
+accounts for some of the differences in cardiovascular risk that we see by race, ethnicity,
+
+1091
+01:43:06,200 --> 01:43:11,240
+with higher lipoprotein A levels being seen in black and South Asian individuals compared to
+
+1092
+01:43:11,880 --> 01:43:16,680
+white individuals. But in terms of women, there are sex differences. So lipoprotein A
+
+1093
+01:43:16,680 --> 01:43:22,440
+generally is five to 10% higher in women than in men, but there's changes over the life course
+
+1094
+01:43:22,440 --> 01:43:28,520
+where lipoprotein A is relatively constant in men, where in women it tends to increase after menopause.
+
+1095
+01:43:29,240 --> 01:43:34,440
+So it does increase during pregnancy, normal pregnancy between 10 to 35 weeks with about a
+
+1096
+01:43:34,440 --> 01:43:40,840
+doubling of the value during pregnancy. And we think since the levels fall back to their
+
+1097
+01:43:40,840 --> 01:43:45,960
+pre-pregnancy baseline after delivery, that the short increase is probably not atherogenic,
+
+1098
+01:43:45,960 --> 01:43:51,320
+but it does rise during pregnancy. So why don't we care about lipoprotein A? Well,
+
+1099
+01:43:51,320 --> 01:43:56,200
+it's pro-atherogenic, pro-inflammatory, and pro-thrombotic, and it's associated with
+
+1100
+01:43:56,200 --> 01:44:00,760
+cardiovascular risk. And as likely from Mendelian randomization studies, you know,
+
+1101
+01:44:00,760 --> 01:44:07,160
+causally related to both ASCBD as well as calcific aortic stenosis. And even in individuals
+
+1102
+01:44:07,160 --> 01:44:13,960
+who have LDLs less than 70, like in the Copenhagen general population study, lipoprotein A above 50
+
+1103
+01:44:13,960 --> 01:44:19,080
+milligrams per deciliter is still associated with risk of cardiovascular events. So it's still
+
+1104
+01:44:19,080 --> 01:44:25,160
+associated with risk even when the LDL is low. And you really need to, you know, measure it because,
+
+1105
+01:44:25,160 --> 01:44:29,880
+you know, if you think your LDL is low, you may be missing some residual risk depending on,
+
+1106
+01:44:29,880 --> 01:44:35,240
+you know, whether lipoprotein A is making up a significant component of that. And so Mendelian
+
+1107
+01:44:35,240 --> 01:44:41,560
+randomization studies do suggest that it is causally associated with cardiovascular risk in women,
+
+1108
+01:44:42,200 --> 01:44:49,000
+but the impact of therapies in lower lipoprotein A and what that translates into actually lowering
+
+1109
+01:44:49,000 --> 01:44:55,160
+cardiovascular risk, you know, is a little bit uncertain. And right now we have apheresis for
+
+1110
+01:44:55,160 --> 01:44:59,160
+an option for patients with very high lipoprotein A who have progressive cardiovascular disease.
+
+1111
+01:44:59,640 --> 01:45:04,280
+And we mentioned the monoclonal antibodies of allocumab and alloracumab as well as encloserin
+
+1112
+01:45:04,280 --> 01:45:10,040
+can lower lipoprotein A about 20 to 25%. And it seems that actually in those trials that
+
+1113
+01:45:10,600 --> 01:45:14,120
+individuals who had the higher lipoprotein A levels actually
+
+1114
+01:45:14,120 --> 01:45:19,000
+derive the greatest benefit from those therapies. So it is something that, you know, if somebody's
+
+1115
+01:45:19,000 --> 01:45:25,000
+elevated lipoprotein A, I kind of think about moving quickly to PCSK9 if they have another
+
+1116
+01:45:25,000 --> 01:45:30,200
+indication such as elevated LDL. And the reason, you know, why to measure it, we talked about it
+
+1117
+01:45:30,200 --> 01:45:36,200
+being a risk enhancer, but also because of these exciting new therapies that are being studied
+
+1118
+01:45:36,200 --> 01:45:43,160
+right now in trials, the pellicarcin, which is an antisense oligonucleotide targeting lipoprotein A
+
+1119
+01:45:43,800 --> 01:45:50,840
+and opusarin, which is a small interfering RNA also targeting the synthesis of lipoprotein A.
+
+1120
+01:45:50,920 --> 01:45:56,040
+And there's some other ones being studied as well, another small interfering RNA. So we'll have to
+
+1121
+01:45:56,040 --> 01:45:59,720
+see, you know, there's a cardiovascular outcome trial I'm going right now for pellicarcin,
+
+1122
+01:45:59,720 --> 01:46:06,360
+the horizon trial to determine how much does lowering lipoprotein A actually translate into
+
+1123
+01:46:06,360 --> 01:46:11,640
+reduction in MACE. And that one trial is enrolling high risk secondary prevention population with
+
+1124
+01:46:11,640 --> 01:46:17,480
+elevated lipoprotein A. Any concern that we're going to see a rebound increase in LDL with an
+
+1125
+01:46:17,480 --> 01:46:25,000
+antisense oligonucleotide? So when you knock out LP little a, all of those additional LDLs that
+
+1126
+01:46:25,000 --> 01:46:30,360
+would have been LP little a has just become LPL. So your APO concentration stays the same,
+
+1127
+01:46:30,360 --> 01:46:35,880
+even though you've shifted the distribution from between LP little a and LDL.
+
+1128
+01:46:36,680 --> 01:46:43,000
+I mean, I think this is why we need the trials. So with LDL, there's a pretty linear relationship
+
+1129
+01:46:43,000 --> 01:46:49,080
+that we can anticipate with the degree of LDL lowering, you know, by one millimole per liter or
+
+1130
+01:46:49,080 --> 01:46:54,360
+30 milligrams or deciliter with reduction in major adverse cardiovascular events being 20 to 30%.
+
+1131
+01:46:54,360 --> 01:46:59,640
+And this is why therapies like bempedoic acid and clisarine got approved based on their LDL
+
+1132
+01:46:59,640 --> 01:47:04,200
+lowering properties, even without outcome data, because we have a pretty good sense of what
+
+1133
+01:47:04,200 --> 01:47:10,600
+lowering LDL is associated with reduced events. We really don't have that data for lipoprotein A
+
+1134
+01:47:10,600 --> 01:47:15,800
+other than modeling data. Certainly it's associated with increased risk. But you know,
+
+1135
+01:47:15,800 --> 01:47:20,520
+some modeling data says, you know, you might need to reduce lipoprotein A as much as 50 to 100
+
+1136
+01:47:20,520 --> 01:47:25,640
+milligrams or deciliter to have a meaningful reduction in ASD in the short term. And other
+
+1137
+01:47:25,640 --> 01:47:32,200
+therapies, for example, you know, niacin lowers lipoprotein A, but was not shown to have clinical
+
+1138
+01:47:32,200 --> 01:47:38,200
+benefit in two outcome studies, albeit those studies didn't, you know, enroll based on lipoprotein A.
+
+1139
+01:47:38,200 --> 01:47:42,120
+But you know, we're not using niacin. Same thing with hormone replacement therapy,
+
+1140
+01:47:42,120 --> 01:47:47,400
+estrogen therapy or hormone replacement therapy does lower is associated with lower lipoprotein
+
+1141
+01:47:47,400 --> 01:47:53,160
+A levels. But we're not recommending it for the sole purpose of lipoprotein A because particularly
+
+1142
+01:47:53,160 --> 01:48:00,120
+in high risk individuals with ASCVD or who multiple risk factors or many years out from
+
+1143
+01:48:00,120 --> 01:48:04,600
+the menopause transition, this therapy has been associated with increased cardiovascular risk.
+
+1144
+01:48:04,600 --> 01:48:10,360
+So, you know, we really need the data. We know that these agents, pelocarcin and
+
+1145
+01:48:10,360 --> 01:48:16,920
+alphacirin can reduce lipoprotein A by, you know, 80 to 90%, which is remarkable considering,
+
+1146
+01:48:16,920 --> 01:48:21,880
+you know, statins, bempedoic acid, azetamide, you know, don't lower it at all. Statins may even
+
+1147
+01:48:21,880 --> 01:48:27,160
+increase it. You know, PCSK9 is only lowered by 25%. So that's remarkable that we now have therapies
+
+1148
+01:48:27,160 --> 01:48:32,840
+that work in terms of lowering lipoprotein A. But what does that mean in terms of vet reduction?
+
+1149
+01:48:32,840 --> 01:48:38,760
+And I think we've been burned from other studies like the CTIP inhibitor and other studies that
+
+1150
+01:48:38,760 --> 01:48:43,560
+biomarker data is sometimes not enough and that you actually have to show that it can meaningfully
+
+1151
+01:48:43,560 --> 01:48:51,080
+actually reduce risk. And so maybe offsetting some of the LDL increase, maybe offset any reduction
+
+1152
+01:48:51,080 --> 01:48:56,440
+in benefit. The other thing I think which warrants further study is in epidemiology studies of very
+
+1153
+01:48:56,440 --> 01:49:01,640
+low lipoprotein A levels may be associated with increased risk of diabetes. So what does that mean
+
+1154
+01:49:01,720 --> 01:49:06,120
+if you lower it to very low lipoprotein A level? I don't know. So we really need the trial data.
+
+1155
+01:49:06,840 --> 01:49:12,120
+Super interesting. I feel like Tom Dayspring recently sent me an analysis of Odyssey,
+
+1156
+01:49:12,680 --> 01:49:18,280
+which demonstrated that the greater the reduction in LP little A through the use of
+
+1157
+01:49:18,280 --> 01:49:22,520
+praluent, the greater the reduction in mace. Am I remembering that correctly?
+
+1158
+01:49:22,520 --> 01:49:30,600
+Yeah. So both in Fourier and Odyssey, individuals who experience the greatest reduction in lipoprotein
+
+1159
+01:49:30,600 --> 01:49:37,240
+A had greater relative and absolute reduction in mace, major adverse cardiovascular events. So it
+
+1160
+01:49:37,240 --> 01:49:46,520
+seems to be that lowering lipoprotein A may in part be an important mediator in the benefits that we
+
+1161
+01:49:46,520 --> 01:49:51,320
+see with these agents. And it may just not be all due to their LDL lowering effects, but maybe also
+
+1162
+01:49:51,320 --> 01:49:57,400
+due to lipoprotein A lowering effects. So that's very encouraging when we think about these new
+
+1163
+01:49:57,400 --> 01:50:04,760
+agents. But you know, this is modeling post hoc analysis from these trials and the PCSK9 inhibitors
+
+1164
+01:50:04,760 --> 01:50:11,640
+also lowered LDL. So when you now think about agents that really only target lipoprotein A,
+
+1165
+01:50:11,640 --> 01:50:16,360
+is that going to be sufficient enough to have a meaningful, significant reduction in major
+
+1166
+01:50:16,360 --> 01:50:21,080
+adverse cardiovascular events? I mean, I'm hopeful. I'm really hopeful because I think it's causal.
+
+1167
+01:50:21,080 --> 01:50:25,480
+We know it's associated with risk. I'm really excited about the therapies in this area,
+
+1168
+01:50:25,480 --> 01:50:28,760
+but I've got to show me the data. I've got to see the outcome data results.
+
+1169
+01:50:28,760 --> 01:50:33,800
+Well, let's talk about menopause. You know, I'm amazed it's taken us this long into a podcast
+
+1170
+01:50:33,800 --> 01:50:39,640
+to get to it because it's such an important issue. It plays such a huge role in women's health,
+
+1171
+01:50:39,640 --> 01:50:46,360
+whether it be dementia, sarcopenia, osteopenia, you name it. But I don't think I've done a dedicated
+
+1172
+01:50:46,360 --> 01:50:54,120
+podcast where we look at the effects of menopause on ASCVD. We've certainly danced around it today
+
+1173
+01:50:54,120 --> 01:50:58,920
+and we've shown our hands a little bit here, which is this is an accelerator of risk. Can you
+
+1174
+01:50:58,920 --> 01:51:04,120
+say a little bit more about why? Is there anything more to it than simply the loss of estradiol
+
+1175
+01:51:04,680 --> 01:51:09,480
+leading to an increase in LDL? And if so, what's the actual mechanism by which that's happening?
+
+1176
+01:51:09,480 --> 01:51:14,520
+You know, we started off the program talking about hormone levels. So estrogen levels start
+
+1177
+01:51:14,520 --> 01:51:20,760
+dropping during perimenopause. And perimenopause can actually last several years before menopause.
+
+1178
+01:51:20,760 --> 01:51:25,560
+Menopause is one of those things you don't really know it's happened until it's after it's happened
+
+1179
+01:51:25,560 --> 01:51:32,200
+because it is officially sort of diagnosed when you haven't had a menstrual cycle for 12 months,
+
+1180
+01:51:32,200 --> 01:51:39,560
+which usually happens around age 51. But earlier onset of menopause before the age of 45 or before
+
+1181
+01:51:39,560 --> 01:51:44,680
+the age of 40 is associated with increased cardiovascular risk. You know, with the primary
+
+1182
+01:51:44,680 --> 01:51:50,680
+estrogen of women of reproductive age, estradiol drops dramatically. And then there's the change
+
+1183
+01:51:50,840 --> 01:51:58,600
+to estrone E1, which is the weakest type of estrogen formed in the adrenal glands and other adipose tissues.
+
+1184
+01:51:58,600 --> 01:52:05,640
+By the way, Aaron, am I remembering my biochemistry correctly? Estrone exists in three variants or it
+
+1185
+01:52:05,640 --> 01:52:13,400
+can be converted into four hydroxy, eight hydroxy and 16 hydroxy or two, four and eight, 16 hydroxy
+
+1186
+01:52:13,400 --> 01:52:17,640
+estrone. Does that ring a bell at all? And the reason I only bring it up is I feel like one of
+
+1187
+01:52:17,640 --> 01:52:23,720
+those was more thought to be involved in the creation of breast cancer. I'm not sure I can
+
+1188
+01:52:23,720 --> 01:52:30,120
+speak on that. I'm mostly familiar with just the three major subtypes, the E2 estradiol, the E1 and
+
+1189
+01:52:30,120 --> 01:52:36,840
+the E3 among estrone types. I apologize. I don't know that data except that it's no worries. Okay.
+
+1190
+01:52:36,840 --> 01:52:41,800
+It's a very weak type of estrogen. And so essentially, you know, women after menopause
+
+1191
+01:52:41,800 --> 01:52:47,000
+really have very low levels of estrogen. In fact, women have lower after menopause have lower levels
+
+1192
+01:52:47,080 --> 01:52:52,920
+of estrogen than men do. Men have higher estrogen levels because of they have much higher testosterone
+
+1193
+01:52:52,920 --> 01:52:57,560
+levels and they have increased peripheral conversion of testosterone estradiol. Actually,
+
+1194
+01:52:57,560 --> 01:53:02,360
+men have higher estradiol levels than women after menopause. Do you know my other favorite stat?
+
+1195
+01:53:02,360 --> 01:53:06,680
+That's a great one, by the way. The other favorite stat of mine is that even pre-menopause,
+
+1196
+01:53:06,680 --> 01:53:11,240
+women have higher testosterone than estrogen if you actually convert the units to the same units.
+
+1197
+01:53:12,200 --> 01:53:17,160
+I think some people think after menopause, the ovaries are just not active anymore. But that's
+
+1198
+01:53:17,160 --> 01:53:21,880
+not true, actually. After menopause, the ovaries continue to just don't make a survival, but they
+
+1199
+01:53:21,880 --> 01:53:27,960
+continue to produce androcynone and testosterone. So they keep making androgens really up to
+
+1200
+01:53:27,960 --> 01:53:33,160
+significant amounts until age 80. And these androgens are what get converted in fat and muscle tissue
+
+1201
+01:53:33,160 --> 01:53:38,280
+into estrone. So I mentioned this because a lot of my research has been about sex hormone levels
+
+1202
+01:53:38,280 --> 01:53:43,960
+after menopause. And we've previously shown that postmenopausal women who have higher androgen
+
+1203
+01:53:43,960 --> 01:53:51,000
+levels, who have higher testosterone to estrogen ratios, had a more male-like pattern. They had
+
+1204
+01:53:51,000 --> 01:53:56,200
+greater risk of developing ASCVD and heart failure over the next 12 years. And this was even after
+
+1205
+01:53:56,200 --> 01:54:01,400
+we adjusted for risk factors like blood pressure and lipids and diabetes. And we did a number of
+
+1206
+01:54:01,400 --> 01:54:05,960
+studies as well in the MESA study, the multi-ethnic study of atherosclerosis. But we also showed
+
+1207
+01:54:05,960 --> 01:54:11,640
+that women with higher androgens had more coronary artery calcium progression. They had
+
+1208
+01:54:11,640 --> 01:54:18,040
+worse endothelial reactivity. They had increase in concentric remodeling, all this adverse
+
+1209
+01:54:18,040 --> 01:54:23,400
+cardiovascular phenotype. And also, as I mentioned, we started out talking about PCOS earlier,
+
+1210
+01:54:23,400 --> 01:54:31,480
+but in PCOS, the riskier phenotype is the hyperandrogenism state and testosterone
+
+1211
+01:54:31,480 --> 01:54:37,960
+and androstenone in higher LH levels in PCOS as a marker PCOS. So getting back to menopause,
+
+1212
+01:54:37,960 --> 01:54:43,240
+a lot of things happen related to these hormonal changes. You have more visceral fat deposition in
+
+1213
+01:54:43,240 --> 01:54:49,880
+the abdomen and more insulin resistance. And this leads to this dyslipidemia pattern of increased
+
+1214
+01:54:49,880 --> 01:54:55,960
+triglycerides, increased LDL, and decreased HDL. There's more endothelial dysfunction,
+
+1215
+01:54:55,960 --> 01:55:00,360
+increased blood pressure, increased sympathetic tone. So where a lot of cardiovascular risk in
+
+1216
+01:55:00,360 --> 01:55:06,520
+women is more linear with aging, so for the most part, blood pressure and diabetes risk tends to
+
+1217
+01:55:06,520 --> 01:55:12,440
+be more of an aging effect rather than an ovary effect. Lipids is one thing that really seems to
+
+1218
+01:55:12,440 --> 01:55:19,400
+be an ovary effect that we do see relatively acute changes in the lipid panel following the final
+
+1219
+01:55:19,400 --> 01:55:25,160
+menstrual period with this rise in total cholesterol and LDL. I think we alluded to earlier that it's
+
+1220
+01:55:25,160 --> 01:55:30,600
+maybe one of the reasons that women tend to have risk a little bit later in life and after menopause
+
+1221
+01:55:30,600 --> 01:55:35,720
+is because they tend to have this more dyslipidemia pattern a little bit later in life. Now this
+
+1222
+01:55:35,720 --> 01:55:41,640
+pattern, this increased risk, you know, had led this whole body of work about, well, these changes
+
+1223
+01:55:41,640 --> 01:55:46,360
+are harmful. Maybe giving menopause hormone therapy would be beneficial. And of course, you know,
+
+1224
+01:55:46,360 --> 01:55:51,160
+we did this for years. My mother used to be in hormone therapy. This is all, you know, well before
+
+1225
+01:55:51,160 --> 01:55:55,640
+the women's health initiative study, because we just felt that, you know, oh, well, you must give
+
+1226
+01:55:55,640 --> 01:56:01,640
+these hormones back. There are favorable and unfavorable changes that we see with hormone
+
+1227
+01:56:01,640 --> 01:56:06,760
+therapy, especially this combined therapy. So some of the favorable therapy changes, if you do give
+
+1228
+01:56:06,760 --> 01:56:13,080
+women estrogen, you will lower their LDL and it can increase the HDL and estrogen can have.
+
+1229
+01:56:13,080 --> 01:56:16,120
+And are you talking about oral estrogen or topical estrogen?
+
+1230
+01:56:16,200 --> 01:56:23,400
+Systemic estrogen, which is oral and to some degree transdermal, vaginal estrogens don't have
+
+1231
+01:56:23,400 --> 01:56:28,280
+much systemic absorption. So they're a really good option for women. You know, I'll talk about
+
+1232
+01:56:28,280 --> 01:56:33,560
+which women to use hormone therapy in, but for women who just have the genital urinary symptoms,
+
+1233
+01:56:33,560 --> 01:56:39,400
+even a women with cardiovascular disease or history of stroke, or you can use vaginal estrogens
+
+1234
+01:56:39,400 --> 01:56:43,800
+safely. And sometimes I think there's this concern about using them in high risk women,
+
+1235
+01:56:43,800 --> 01:56:47,480
+but you can use the vaginal estrogen. So I'm really talking about oral estrogens here.
+
+1236
+01:56:47,480 --> 01:56:51,320
+They dilate the blood vessels through a nitric oxide effect, which, you know,
+
+1237
+01:56:51,320 --> 01:56:55,880
+may be all cardio protective, but keep in mind, estrogens also have unfavorable properties. So
+
+1238
+01:56:55,880 --> 01:57:03,320
+we know that estrogens can increase CRP. So women have higher CRP levels and estrogens are prothrombotic.
+
+1239
+01:57:03,320 --> 01:57:09,000
+I mean, this is why there is some increased risk with oral contraceptives, particularly in women
+
+1240
+01:57:09,000 --> 01:57:14,120
+who are older of reproductive age and combined with smoking and also during pregnancy,
+
+1241
+01:57:14,120 --> 01:57:19,880
+that estrogens can increase prothrombin decrease anti-thrombin three. And we also talked about the
+
+1242
+01:57:19,880 --> 01:57:24,600
+estrogen effects with triglycerides. Same thing with oral contraceptives, which have higher estrogen
+
+1243
+01:57:24,600 --> 01:57:29,640
+levels, hormone therapy, all code increased triglycerides. So in higher risk women,
+
+1244
+01:57:29,640 --> 01:57:35,880
+particularly those that are farther out from the menopause transition or those with established
+
+1245
+01:57:35,880 --> 01:57:43,480
+cardiovascular disease, these adverse changes, you know, may outweigh any favorable benefits.
+
+1246
+01:57:43,480 --> 01:57:48,840
+And that's why probably the women's health initiative who had the mean age of 63,
+
+1247
+01:57:48,840 --> 01:57:53,080
+most of these women were quite far from the menopause transition. And the women's health
+
+1248
+01:57:53,080 --> 01:57:59,720
+initiative also used an oral conjugated equine estrogen with progestin formulation that we saw,
+
+1249
+01:57:59,720 --> 01:58:04,040
+you know, an increased risk, including a twofold increased risk of venous thromboembolism.
+
+1250
+01:58:04,600 --> 01:58:08,840
+So this is why, you know, the guidelines all changed and we don't recommend hormone therapy
+
+1251
+01:58:08,840 --> 01:58:13,240
+for the sole purpose of cardiovascular disease prevention, because we have many other things we
+
+1252
+01:58:13,240 --> 01:58:18,520
+can use for prevention like statins. But you know, the pendulum doesn't have to swing so far away
+
+1253
+01:58:19,160 --> 01:58:25,800
+that you look at sub-analyses of these trials of women that were closer to the menopause transition,
+
+1254
+01:58:25,800 --> 01:58:32,440
+younger women, we didn't see this excess harm. And so while a lot of women are quite symptomatic at
+
+1255
+01:58:32,440 --> 01:58:39,080
+menopause, you know, vasomotor symptoms can be very disabling for many women with the hot flashes
+
+1256
+01:58:39,080 --> 01:58:44,440
+and the brain fog. In fact, vasomotor symptoms end up themselves when frequent or persistent
+
+1257
+01:58:44,440 --> 01:58:50,200
+are associated with cardiovascular risk. And so for symptomatic women who are under the age of 60
+
+1258
+01:58:50,200 --> 01:58:55,960
+or within 10 years of menopause who have symptomatic menopausal hot flashes or night sweats,
+
+1259
+01:58:55,960 --> 01:59:00,760
+you know, consider hormone therapy. Women who go through menopause early, if they don't have other
+
+1260
+01:59:00,760 --> 01:59:04,760
+contraindications, menopausal hormone therapy is recommended to at least the natural age of
+
+1261
+01:59:04,760 --> 01:59:10,120
+menopause or age 51. But generally, we're not recommending it if a woman's more than 10 years
+
+1262
+01:59:10,120 --> 01:59:16,200
+out from menopause or over age 65. This is where the increased risks are emerging in these trials.
+
+1263
+01:59:16,200 --> 01:59:21,640
+And we want to avoid oral estrogens in women with a history of cardiovascular disease, blood clots,
+
+1264
+01:59:21,640 --> 01:59:25,880
+hydroglycerides, gallbladder disease, or prior breast and inter-metrial cancer,
+
+1265
+01:59:25,960 --> 01:59:29,880
+particularly the oral estrogens. There's probably a little bit less risk with
+
+1266
+01:59:29,880 --> 01:59:34,440
+transdermal estrogens, which are still systemic, but they don't have the first pass effect.
+
+1267
+01:59:34,440 --> 01:59:38,040
+But I, you know, very work really closely with our menopause clinic as part of doing
+
+1268
+01:59:38,040 --> 01:59:42,440
+cardiovascular risk assessment prior to use of menopausal hormone therapy. So when risk is
+
+1269
+01:59:42,440 --> 01:59:47,240
+uncertain, you know, I get a coronary calcium score to make sure that they don't have any
+
+1270
+01:59:47,240 --> 01:59:53,160
+calcified plaque, their score is zero. I feel pretty comfortable with using hormone therapy in
+
+1271
+01:59:53,160 --> 01:59:57,560
+them for treatment of their vasomotor symptoms. But if they have significant atherosclerotic
+
+1272
+01:59:57,560 --> 02:00:03,560
+disease, you know, I tend to not recommend it. And again, if they're only having genital urinary
+
+1273
+02:00:03,560 --> 02:00:08,920
+symptoms, topical estrogen is fine. You know, the risk, it really probably depends on a lot of
+
+1274
+02:00:08,920 --> 02:00:15,000
+factors. It depends on when you start the hormone replacement, you know, your age and initiation,
+
+1275
+02:00:15,000 --> 02:00:20,840
+how many years you've been since menopause, your menopause age, how long you take the therapy,
+
+1276
+02:00:20,920 --> 02:00:26,040
+the duration, the type of therapy, the dose, and the route of administration.
+
+1277
+02:00:26,040 --> 02:00:29,400
+And probably your incoming health. The other thing I'm hearing here,
+
+1278
+02:00:29,400 --> 02:00:35,560
+Aaron, is this is another reason for young women, women who are in their 30s, for whom menopause
+
+1279
+02:00:35,560 --> 02:00:41,560
+isn't even on the radar. This is another reason to be as healthy as possible and to do as much
+
+1280
+02:00:41,560 --> 02:00:46,520
+preventative work as possible. Because if for no other reason, it gives you more optionality in
+
+1281
+02:00:46,520 --> 02:00:52,520
+menopause. My calculus on this is looking at a few things. And, you know, obviously quality of
+
+1282
+02:00:52,520 --> 02:00:59,800
+life is one bone health is another muscle mass, brain health is a huge one. So I'm kind of looking
+
+1283
+02:00:59,800 --> 02:01:05,960
+at it as heart health is not even on the radar. Because to your point, we have so many better
+
+1284
+02:01:05,960 --> 02:01:12,920
+tools to reduce the risk of ASCVD that we don't need to rely on estradiol as one of those tools.
+
+1285
+02:01:12,920 --> 02:01:18,040
+It's basically a pea shooter in a bazooka fight when we have big, big guns to reduce the risk of
+
+1286
+02:01:18,040 --> 02:01:24,360
+cardiovascular disease. So while we're really asking of HRT is to not hurt somebody, while we let it
+
+1287
+02:01:24,360 --> 02:01:31,720
+do its bazooka like work, which is going to be on the brain, bone health, vasomotor symptoms,
+
+1288
+02:01:31,720 --> 02:01:37,880
+eventually vaginal atrophy and things like that, for which we don't have alternatives. And so to
+
+1289
+02:01:37,960 --> 02:01:43,480
+your point, the difference between a 50 year old woman who shows up with a beautiful CTA that's
+
+1290
+02:01:43,480 --> 02:01:47,800
+crystal clear, where we're going to have no ambiguity about this line of treatment, versus
+
+1291
+02:01:47,800 --> 02:01:54,440
+a woman who shows up with a worrisome CTA. And yeah, maybe even if we go to transdermal, there's
+
+1292
+02:01:54,440 --> 02:01:58,760
+going to be more hesitation, there's going to be more concern. And maybe that slight increase in
+
+1293
+02:01:58,760 --> 02:02:03,720
+risk if it exists, is something we now have to weigh in the balance. Again, it all comes back,
+
+1294
+02:02:03,720 --> 02:02:09,160
+in my mind, listening to you to prevention is the key. It's just start early and be aggressive.
+
+1295
+02:02:09,160 --> 02:02:11,720
+And all you do is give yourself more options later in life.
+
+1296
+02:02:12,520 --> 02:02:18,040
+Yeah, absolutely. The risk is in women with established cardiovascular disease. So trying
+
+1297
+02:02:18,040 --> 02:02:23,160
+to prevent that plaque in the first place, if there's no atherosclerosis, then the
+
+1298
+02:02:24,040 --> 02:02:31,240
+vase of dilatory effects and the lowering of LDL may be helpful in preventing the
+
+1299
+02:02:31,240 --> 02:02:36,920
+initiation of atherosclerosis. But a woman who already has disease and the slight increase in
+
+1300
+02:02:36,920 --> 02:02:41,880
+inflammatory markers and a pro-pharmatic effect may tip them over to having a vascular event.
+
+1301
+02:02:41,880 --> 02:02:47,320
+So all in favorable about improving cardiovascular health earlier in life. Really, how we live the
+
+1302
+02:02:47,320 --> 02:02:52,040
+first half of our lives really influences our freedom for morbidity and mortality the second
+
+1303
+02:02:52,040 --> 02:02:58,280
+half of our lives. Any relationship with progesterone and lipids once we get into that
+
+1304
+02:02:58,280 --> 02:03:04,600
+menopausal state, obviously women who are on estrogen need to either take oral progesterone.
+
+1305
+02:03:04,600 --> 02:03:10,040
+Usually these days it's done micronized or we're even seeing them use progesterone-coated IUDs if
+
+1306
+02:03:10,040 --> 02:03:14,760
+they can't. But let's just talk about this systemic progesterone. Does that have any bearing
+
+1307
+02:03:14,760 --> 02:03:21,960
+positive or negative? Yes. I mean, we have to use progesterone if they have an intact uterus. This
+
+1308
+02:03:21,960 --> 02:03:28,200
+may influence some of the, again, we're not using these for cardiovascular benefit, but whether
+
+1309
+02:03:28,200 --> 02:03:33,880
+it offsets the benefit that we see from the estrogen. You mentioned, again, something at
+
+1310
+02:03:33,880 --> 02:03:39,240
+the outset of the podcast, which I think is an enormous problem in all of medicine, which is the
+
+1311
+02:03:39,240 --> 02:03:46,600
+disproportionate shortcoming or shortfall rather of women in clinical trials, women as subjects.
+
+1312
+02:03:47,400 --> 02:03:51,880
+You said something funny earlier that's only funny because it's not true, which is women are not
+
+1313
+02:03:51,880 --> 02:03:55,880
+little men. Do you see that changing? I guess I'd just ask you to sort of think about it in your
+
+1314
+02:03:55,880 --> 02:03:59,480
+field. I don't expect you to speak about it in terms of fields in oncology or things like that.
+
+1315
+02:04:00,120 --> 02:04:04,040
+When you think about cardiovascular medicine, be it on the lipid side, the hypertensive side,
+
+1316
+02:04:04,760 --> 02:04:10,600
+all fronts of cardiovascular medicine, are we seeing a more equal, i.e. 50-50 distribution
+
+1317
+02:04:10,600 --> 02:04:16,840
+of patients into clinical trials today? Or are we still seeing it be more male focused and therefore
+
+1318
+02:04:16,840 --> 02:04:22,840
+more underpowered to understand the effect of interventions on women? For background, women
+
+1319
+02:04:23,000 --> 02:04:28,280
+are historically under enrolled in cardiovascular clinical trials, usually only 25 to 30 percent of
+
+1320
+02:04:28,280 --> 02:04:33,560
+trials. I previously published analysis where we reviewed the literature of lipid-lowering trials
+
+1321
+02:04:33,560 --> 02:04:39,560
+between 1990 and 2018. This was just through 2018, so it doesn't reflect the more recent trials.
+
+1322
+02:04:39,560 --> 02:04:44,360
+We showed the overall representation of women was only 29 percent in those trials.
+
+1323
+02:04:44,360 --> 02:04:50,520
+Now, for some things like acute coronary syndrome, the prevalence is less common in women than in men.
+
+1324
+02:04:50,760 --> 02:04:57,240
+We benchmarked it to something called a participation to prevalence ratio, where a ratio of one would
+
+1325
+02:04:57,240 --> 02:05:03,800
+be adequately representation to their prevalence of the disease in the population. We showed that
+
+1326
+02:05:03,800 --> 02:05:11,400
+women were underrepresented with a prevalence to participation ratio, generally 0.5 or less,
+
+1327
+02:05:11,400 --> 02:05:15,960
+meaning that even though if they had lower burden of disease, they were still under enrolled in
+
+1328
+02:05:15,960 --> 02:05:22,360
+trials related to this. We showed also another analysis looking at cardiometabolic drugs through
+
+1329
+02:05:22,360 --> 02:05:28,360
+2017 that had gotten FDA approval for new molecular entities, and again, showed women
+
+1330
+02:05:28,360 --> 02:05:33,640
+only made up like 36 percent of those trials. In an editorial we wrote, we looked at all kinds of
+
+1331
+02:05:33,640 --> 02:05:38,520
+different things, stroke, acute coronary syndrome, heart failure, hypertension, and women throughout
+
+1332
+02:05:38,520 --> 02:05:43,800
+all these disease entities were under enrolled in trials. Some things are getting better. I mean,
+
+1333
+02:05:43,800 --> 02:05:48,040
+there are, you know, I mentioned clear outcomes, which is nearly half the participants are women.
+
+1334
+02:05:48,040 --> 02:05:53,320
+I think this is because it's enrolling a statin intolerant population. There was some of the
+
+1335
+02:05:53,320 --> 02:05:58,600
+GLP-1 studies like REWIND, which studied de-laglotide. That was largely a primary
+
+1336
+02:05:58,600 --> 02:06:04,280
+prevention trial that had like 46 percent women, so those were encouraging. So I think there's
+
+1337
+02:06:04,280 --> 02:06:10,280
+some examples of some improvement, but women still, for the most part, you know, we still see trial
+
+1338
+02:06:10,280 --> 02:06:15,640
+after trial being published presented at ESC or AHA ACC, and we're like, where are the women? Why
+
+1339
+02:06:15,640 --> 02:06:20,920
+are women continually to be under enrolled? And one of the things I'm passionate about is I think
+
+1340
+02:06:20,920 --> 02:06:26,040
+that there's unfortunately under involvement of clinical trial leadership. These steering
+
+1341
+02:06:26,040 --> 02:06:30,920
+committees to these trials have a dearth of women cardiovascular investigators. There was a paper a
+
+1342
+02:06:30,920 --> 02:06:35,240
+couple years ago that looked at major cardiovascular trials, you know, published in the leading
+
+1343
+02:06:35,240 --> 02:06:40,520
+journals, New England Journal, JAMA, Lancet. You know, only 10 percent of trial leaderships,
+
+1344
+02:06:40,520 --> 02:06:45,880
+committees, were women, and more than half, about 56 percent of these trial leadership
+
+1345
+02:06:45,880 --> 02:06:50,840
+committees had no female representation on the trial. One of the trial steering committee were
+
+1346
+02:06:50,840 --> 02:06:56,360
+women investigators, and less than 10 percent had a woman in the first or last author position,
+
+1347
+02:06:56,360 --> 02:07:01,560
+which would indicate a senior leadership position. We know from other studies that
+
+1348
+02:07:01,560 --> 02:07:07,000
+the likelihood that a study will report a sex and gender specific analysis actually has, you know,
+
+1349
+02:07:07,000 --> 02:07:12,280
+increased when there's more women authors of the study and more first and last authors women. I
+
+1350
+02:07:12,280 --> 02:07:17,400
+think women tend to publish more about science related to women. So I do think it matters. There
+
+1351
+02:07:17,400 --> 02:07:24,200
+is some data from my work and some other work from other authors that have shown a modest correlation.
+
+1352
+02:07:24,200 --> 02:07:30,280
+It's not perfect, but a correlation between the proportion of women authors, the trial steering
+
+1353
+02:07:30,280 --> 02:07:36,040
+committees, and enrollment of women participants in trials. For example, we did this for AFib,
+
+1354
+02:07:36,040 --> 02:07:40,920
+and we showed that for every one percent increase in women authors, there was a 19 percent higher
+
+1355
+02:07:40,920 --> 02:07:46,680
+enrollment of women participants in the trials. I mean, there's a lot that we can do to tackle this.
+
+1356
+02:07:47,240 --> 02:07:53,400
+One of them is having more representation in by diversifying study team and investigators.
+
+1357
+02:07:53,400 --> 02:07:59,000
+I think also we need to include more patients in trial designs, include more women in trial designs,
+
+1358
+02:07:59,000 --> 02:08:04,760
+patient centered designs. You know, we hear that women are approached, but often are declined
+
+1359
+02:08:04,760 --> 02:08:09,560
+participating in trials. And I think women tend to be a little bit more risk adverse. And this is
+
+1360
+02:08:09,560 --> 02:08:15,240
+where it's really important to provide education, dispel misconceptions, emphasize the benefits.
+
+1361
+02:08:15,240 --> 02:08:20,520
+Even if we don't know if a drug is going to be beneficial or not, there's a lot of benefits with
+
+1362
+02:08:20,520 --> 02:08:25,240
+being part of a trial because you have more access to gold standard care and more access to study
+
+1363
+02:08:25,240 --> 02:08:31,400
+investigators. And it's really important to include women in the design and try to understand
+
+1364
+02:08:31,400 --> 02:08:36,920
+some of these design issues, which may be not so obvious, you know, such as making sure there's
+
+1365
+02:08:36,920 --> 02:08:42,840
+no hidden costs that often people are paid for the drug or device. But there can be things related
+
+1366
+02:08:42,840 --> 02:08:48,920
+to transportation or time off work or providing, you know, for childcare or other responsibilities
+
+1367
+02:08:48,920 --> 02:08:55,000
+by having more flexible follow up, more pragmatic trials or having a follow up being online or by
+
+1368
+02:08:55,000 --> 02:09:00,840
+phone or by PCP that may get over some of the barriers to enrolling women in the trials, which
+
+1369
+02:09:00,840 --> 02:09:06,440
+I think can be really helpful. And making sure that the study designs are not so restrictive in
+
+1370
+02:09:06,440 --> 02:09:11,960
+terms of the inclusion exclusion criteria that we shouldn't just exclude women of childbearing age,
+
+1371
+02:09:11,960 --> 02:09:18,600
+if they have a plan for preventing pregnancy, have an adequate contraception, you know, women should
+
+1372
+02:09:18,600 --> 02:09:23,880
+be eligible for these trials. Not to mention, we actually need more trials in pregnant women too.
+
+1373
+02:09:23,880 --> 02:09:29,000
+It's just so important to understand what works and what's safe. And so there's a lot of barriers
+
+1374
+02:09:29,000 --> 02:09:34,440
+to overcome. And this barriers need to be both with trial teams and trial designs with the funding
+
+1375
+02:09:34,440 --> 02:09:40,040
+agencies, institutions, and even the journals that publish these trials should be questioning
+
+1376
+02:09:40,040 --> 02:09:44,200
+why there's not enough women in the trial. So we all need to do better. As a randomized clinical
+
+1377
+02:09:44,200 --> 02:09:50,200
+trials is our largest evidence base. And we want to make sure that something is efficacious, but
+
+1378
+02:09:50,200 --> 02:09:55,480
+safe in women and that women benefit to a similar degree as men do. Karen, you've run how many
+
+1379
+02:09:55,480 --> 02:10:01,960
+marathons? Oh, slowly. I'm not very talented at it, but I've done like 38 marathons and I was trying
+
+1380
+02:10:01,960 --> 02:10:07,800
+to do one in every state as a goal. I'm really slow at running. So my only goal for these is just
+
+1381
+02:10:07,800 --> 02:10:13,480
+finishing as an accomplishment in and of itself. Are those 38 in 38 different states? I've done
+
+1382
+02:10:13,480 --> 02:10:18,440
+about 36 states. And then there was a couple of states like Maryland, where I live that I've
+
+1383
+02:10:18,440 --> 02:10:24,680
+repeated more than once. Is that still a goal? You still want those other 14 states? Yeah. So
+
+1384
+02:10:24,680 --> 02:10:30,520
+unfortunately I had taken a little bit, you know, I set back during the COVID. I had four marathons
+
+1385
+02:10:30,520 --> 02:10:36,520
+planned for 2020 and they all got canceled due to COVID. And without a marathon on the calendar,
+
+1386
+02:10:36,520 --> 02:10:41,320
+I got a little bit out of the habit of running with these long distances because I didn't really
+
+1387
+02:10:41,320 --> 02:10:46,280
+run by myself. I do it for the social support with my running groups. And so without people
+
+1388
+02:10:46,360 --> 02:10:52,040
+or groups to run with. And then in 2021, you know, the marathon I registered for was canceled as well.
+
+1389
+02:10:52,040 --> 02:10:57,400
+And so I've gotten sort of out of it for a while, but I... It's really good that we're canceling
+
+1390
+02:10:57,400 --> 02:11:03,240
+outdoor exercise during COVID because I can't... Well, it's back now. So events are back. So I am
+
+1391
+02:11:03,240 --> 02:11:10,040
+registered for a marathon in October next month. It'll be my first marathon again in three years.
+
+1392
+02:11:10,040 --> 02:11:14,680
+So I'm hoping to get state 37. Which state? It's New Jersey and most of the East Coast,
+
+1393
+02:11:14,680 --> 02:11:19,880
+but this one I haven't done yet. And I've been back doing other races. I just did a 12 miler
+
+1394
+02:11:19,880 --> 02:11:26,360
+here in Baltimore on Saturday last weekend. So races are back and they're fun. And I just like
+
+1395
+02:11:26,360 --> 02:11:31,480
+participating. You know, you don't have to be good at a hobby to enjoy it. So I'll never have any age
+
+1396
+02:11:31,480 --> 02:11:36,600
+groups or probably never qualify for Boston, but you know, sometimes it's just the act of doing
+
+1397
+02:11:36,600 --> 02:11:41,960
+something and setting goals for yourself. And I love it. It's just, it's fun. That's fantastic.
+
+1398
+02:11:42,040 --> 02:11:46,360
+Well, I have such fond memories of Baltimore. My wife is from there, so there's an additional
+
+1399
+02:11:46,360 --> 02:11:50,600
+fondness to it, but I guess more than anything, it's the time I spent there. It's great to catch
+
+1400
+02:11:50,600 --> 02:11:54,360
+up with you and it brings back memories by proxy at a minimum. I want to thank you for your time,
+
+1401
+02:11:54,360 --> 02:11:59,240
+Aaron. This was really insightful. I learned a lot. I think this is a podcast where obviously
+
+1402
+02:11:59,240 --> 02:12:03,080
+women will have learned a lot, but hopefully men as well, because if you're a man listening to this,
+
+1403
+02:12:03,080 --> 02:12:07,640
+you certainly know a woman and therefore you should be just as concerned with her risk of
+
+1404
+02:12:07,640 --> 02:12:12,280
+cardiovascular disease as your own. Thank you very much for this input, making the time and
+
+1405
+02:12:12,280 --> 02:12:16,840
+your continued work. Thank you for having me on your podcast. Thank you for listening to this
+
+1406
+02:12:16,840 --> 02:12:21,480
+week's episode of The Drive. If you're interested in diving deeper into any topics we discuss,
+
+1407
+02:12:21,480 --> 02:12:26,200
+we've created a membership program that allows us to bring you more in-depth, exclusive content
+
+1408
+02:12:26,200 --> 02:12:31,400
+without relying on paid ads. It's our goal to ensure members get back much more than the price
+
+1409
+02:12:31,400 --> 02:12:36,760
+of the subscription. Now to that end, membership benefits include a bunch of things. One, totally
+
+1410
+02:12:36,760 --> 02:12:42,440
+kick-ass comprehensive podcast show notes that detail every topic, paper, person, thing we discuss
+
+1411
+02:12:42,440 --> 02:12:48,840
+on each episode. The word on the street is nobody's show notes rival these. Monthly AMA episodes or
+
+1412
+02:12:48,840 --> 02:12:54,200
+Ask Me Anything episodes, hearing these episodes completely. Access to our private podcast feed
+
+1413
+02:12:54,200 --> 02:12:59,640
+that allows you to hear everything without having to listen to spiel's like this. The Qwally's,
+
+1414
+02:12:59,640 --> 02:13:04,280
+which are a super short podcast that we release every Tuesday through Friday, highlighting the
+
+1415
+02:13:04,280 --> 02:13:09,000
+best questions, topics, and tactics discussed on previous episodes of The Drive. This is a great
+
+1416
+02:13:09,000 --> 02:13:14,040
+way to catch up on previous episodes without having to go back and necessarily listen to everyone.
+
+1417
+02:13:14,600 --> 02:13:20,040
+Steep discounts on products that I believe in, but for which I'm not getting paid to endorse,
+
+1418
+02:13:20,040 --> 02:13:24,200
+and a whole bunch of other benefits that we continue to trickle in as time goes on. If you
+
+1419
+02:13:24,200 --> 02:13:28,920
+want to learn more and access these member-only benefits, you can head over to PeterAttiaMD.com
+
+1420
+02:13:28,920 --> 02:13:35,560
+forward slash subscribe. You can find me on Twitter, Instagram, and Facebook, all with the ID
+
+1421
+02:13:35,560 --> 02:13:41,480
+PeterAttiaMD. You can also leave us a review on Apple Podcasts or whatever podcast player you
+
+1422
+02:13:41,480 --> 02:13:47,000
+listen on. This podcast is for general informational purposes only and does not constitute the practice
+
+1423
+02:13:47,000 --> 02:13:52,040
+of medicine, nursing, or other professional healthcare services, including the giving of
+
+1424
+02:13:52,040 --> 02:13:57,640
+medical advice. No doctor-patient relationship is formed. The use of this information and the
+
+1425
+02:13:57,640 --> 02:14:03,480
+materials linked to this podcast is at the user's own risk. The content on this podcast is not
+
+1426
+02:14:03,480 --> 02:14:08,280
+intended to be a substitute for professional medical advice, diagnosis, or treatment.
+
+1427
+02:14:08,920 --> 02:14:15,000
+Users should not disregard or delay in obtaining medical advice from any medical condition they
+
+1428
+02:14:15,000 --> 02:14:20,360
+have, and they should seek the assistance of their healthcare professionals for any such conditions.
+
+1429
+02:14:21,000 --> 02:14:25,240
+Finally, I take conflicts of interest very seriously for all of my disclosures and the
+
+1430
+02:14:25,240 --> 02:14:32,440
+companies I invest in or advise, please visit PeterAttiaMD.com forward slash about
+
+1431
+02:14:32,440 --> 02:14:36,760
+where I keep an up-to-date and active list of such companies.
+
+1432
+02:14:55,240 --> 02:15:02,760
+Thank you.
+

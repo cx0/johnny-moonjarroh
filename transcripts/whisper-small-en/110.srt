@@ -1,0 +1,5516 @@
+1
+00:00:00,000 --> 00:00:21,900
+Hey everyone, welcome to the Drive Podcast. I'm your host, Peter Attia. This podcast,
+
+2
+00:00:21,900 --> 00:00:25,680
+my website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:25,680 --> 00:00:30,920
+longevity into something accessible for everyone. Our goal is to provide the best content in health
+
+4
+00:00:30,920 --> 00:00:35,280
+and wellness, full stop, and we've assembled a great team of analysts to make this happen.
+
+5
+00:00:35,280 --> 00:00:39,640
+If you enjoy this podcast, we've created a membership program that brings you far more
+
+6
+00:00:39,640 --> 00:00:43,640
+in-depth content if you want to take your knowledge of the space to the next level. At
+
+7
+00:00:43,640 --> 00:00:47,880
+the end of this episode, I'll explain what those benefits are, or if you want to learn more now,
+
+8
+00:00:47,880 --> 00:00:54,400
+head over to PeterAttiaMD.com forward slash subscribe. Now, without further delay, here's
+
+9
+00:00:54,400 --> 00:01:00,680
+today's episode. I guess this week is Lou Cantley. Lou is the Meyer Director and Professor
+
+10
+00:01:00,680 --> 00:01:04,920
+of Cancer Biology at the Sandra and Edward Meyer Cancer Center at Weill Cornell Medical College
+
+11
+00:01:04,920 --> 00:01:09,800
+in New York City. Lou's research has made significant advances in cancer research stemming
+
+12
+00:01:09,800 --> 00:01:16,520
+primarily from his discovery of the signaling pathway for PI3 kinase or PI3K in the mid 80s.
+
+13
+00:01:16,520 --> 00:01:22,880
+And his results here have really touched multiple fields, including cancer first and foremost,
+
+14
+00:01:22,880 --> 00:01:30,160
+but also diabetes and autoimmune disease. Lou is a very decorated scientist, to put it mildly.
+
+15
+00:01:30,160 --> 00:01:34,880
+It would take me too long to rattle off all of the awards that he's won, but I'll leave it to the
+
+16
+00:01:34,880 --> 00:01:39,920
+four most prestigious, the Gairdner Award, the Breakthrough Prize in Science, the Wolf Prize,
+
+17
+00:01:39,920 --> 00:01:44,880
+and most recently the Horowitz Prize. Arguably, the only two prizes that are not on that list
+
+18
+00:01:44,880 --> 00:01:49,320
+would be the Lasker Prize and the Nobel Prize. And I think that many people suspect that Lou
+
+19
+00:01:49,760 --> 00:01:54,560
+will ultimately be awarded at least the Nobel Prize, if not both. This is a podcast that at
+
+20
+00:01:54,560 --> 00:02:00,280
+times gets very technical, but most of the technical stuff falls at the end of the podcast.
+
+21
+00:02:00,280 --> 00:02:05,560
+It's actually what we started with, but much like we did in a previous podcast, we're going to move
+
+22
+00:02:05,560 --> 00:02:10,960
+that to the back end of the podcast so that we can jump right into the more concrete stuff that I
+
+23
+00:02:10,960 --> 00:02:15,960
+think people want to hear about with respect to science. And we'll treat what was the first 45
+
+24
+00:02:15,960 --> 00:02:22,320
+minutes of this interview as a technical tour de force of the discovery of PI 3K, and we'll move
+
+25
+00:02:22,320 --> 00:02:26,520
+that as basically an appendix. So if you're listening to this and you really want to understand
+
+26
+00:02:26,520 --> 00:02:30,720
+science and you really want to understand how discovery is done, stuff that I really like to
+
+27
+00:02:30,720 --> 00:02:35,440
+hear about, by all means, you'll just listen to this as it's laid out. And if you really just
+
+28
+00:02:35,440 --> 00:02:40,600
+want to hear about the implications of Lou's work as it pertains to cancer, then you will probably
+
+29
+00:02:40,760 --> 00:02:46,960
+just listen to the first hour and 45 minutes or so of this and not the remaining 45 minutes.
+
+30
+00:02:46,960 --> 00:02:51,960
+Before we jump into this, there are just two things I want to say. The first is I want to note
+
+31
+00:02:51,960 --> 00:02:59,280
+Lou's disclosures. Lou is the co-founder of two pharmaceutical companies, Agios and Petra. And he
+
+32
+00:02:59,280 --> 00:03:04,840
+is also the co-founder of a company that is just getting off the ground called Feith. That's F-A-E-T-H.
+
+33
+00:03:05,360 --> 00:03:11,200
+Feith is a company that hopes to pair nutrition with pharmaceuticals, and that will all make sense
+
+34
+00:03:11,200 --> 00:03:15,640
+during the podcast. These are all really interesting companies, but I think it's important, obviously,
+
+35
+00:03:15,640 --> 00:03:20,440
+to list those disclosures at the outset. Secondly, I want to be sure that everyone understands that
+
+36
+00:03:20,440 --> 00:03:25,560
+we have a discussion here that is very detailed at times and very tactical at times with respect to
+
+37
+00:03:25,560 --> 00:03:31,040
+cancer treatment. And certainly every time I talk with Lou, I come away with a new way of thinking
+
+38
+00:03:31,040 --> 00:03:36,400
+about the care of patients with cancer. Please do not mistake what we are talking about here as
+
+39
+00:03:36,400 --> 00:03:41,580
+medical advice. It is impossible to provide medical advice to someone with whom you do not have a
+
+40
+00:03:41,580 --> 00:03:46,320
+doctor-patient relationship. And so unfortunately, I hate saying that, but it is an obligatory
+
+41
+00:03:46,320 --> 00:03:52,080
+disclaimer that I must provide. And whatever we talk about here, the combinations of therapies
+
+42
+00:03:52,080 --> 00:03:56,440
+with respect to drugs for diabetes, drugs for cancer, and of course nutritional therapies
+
+43
+00:03:56,440 --> 00:04:02,200
+really needs to be had in discussion with your physician. Actually, I lied and I said two things.
+
+44
+00:04:02,200 --> 00:04:07,560
+There's one other thing I want to talk about, which is there is a cancer trial that is about
+
+45
+00:04:07,560 --> 00:04:14,120
+to take off that is a really interesting and exciting prospect through one of Lou's companies.
+
+46
+00:04:14,120 --> 00:04:19,800
+The enrollment for that trial is just kicking off now, and we will list to that should anybody
+
+47
+00:04:19,800 --> 00:04:24,480
+listening to this podcast either have the type of cancer that's being studied or know somebody who
+
+48
+00:04:24,480 --> 00:04:28,600
+does. And it would be great to know that people are able to more readily get enrolled in that
+
+49
+00:04:28,600 --> 00:04:32,880
+clinical trial. So without further delay, please enjoy my conversation with Lou Cannery.
+
+50
+00:04:32,880 --> 00:04:41,640
+Lou, thank you so much for coming over. It's great to be here, Peter.
+
+51
+00:04:41,640 --> 00:04:46,080
+You live like 10 feet from me here, and yet this is the first time you've been here, I think, right?
+
+52
+00:04:46,080 --> 00:04:51,800
+Yeah, it took me five minutes to walk in. It is great to see you always. You're definitely one
+
+53
+00:04:51,800 --> 00:04:57,040
+of the most generous people with his insights and with the work you've done, and I consider you an
+
+54
+00:04:57,040 --> 00:05:02,120
+absolute mentor in how I think about these problems in biology. So we've been trying to get on this
+
+55
+00:05:02,120 --> 00:05:06,320
+podcast together for a year, but it's a testament. I was going to say to how busy I am, but it's no,
+
+56
+00:05:06,320 --> 00:05:11,000
+it's to how busy you are. I'm busy, but you are even busier than me. I do keep pretty busy.
+
+57
+00:05:11,000 --> 00:05:19,160
+Well, there are a lot of things I want to talk about today. I think to set my own expectations,
+
+58
+00:05:19,160 --> 00:05:23,160
+we probably won't be able to get through them all, which speaks in some ways to the breadth of your
+
+59
+00:05:23,160 --> 00:05:28,520
+work. We're going to talk so much about cancer and metabolism and things here, but there's what we
+
+60
+00:05:28,520 --> 00:05:34,360
+know today about PI 3K, which I think would be a nice thing to spend a moment on. But I also love
+
+61
+00:05:34,360 --> 00:05:40,520
+this idea. Like I have this idea, Lou, which is we should be teaching kids science, not the way you
+
+62
+00:05:40,520 --> 00:05:47,000
+were taught biology as a 16 year old, which was rote memorization. We should simply teach science
+
+63
+00:05:47,000 --> 00:05:53,160
+through the lens of discovery. So in other words, every biology class, even at the high school level
+
+64
+00:05:53,160 --> 00:05:59,800
+and even younger should be less about memorizing what it is that you see looking at this microscope
+
+65
+00:05:59,800 --> 00:06:04,360
+and memorize all the organelles or something like that. It's more of let's tell the stories of
+
+66
+00:06:04,360 --> 00:06:11,240
+science because one, if our goal is to train scientists, well, they're going to go and become
+
+67
+00:06:11,240 --> 00:06:14,680
+experts in whatever they're going to become expert in. We don't have to worry that in high school,
+
+68
+00:06:14,680 --> 00:06:18,840
+they're not going to learn enough content. But if we're trying to screen for people who are
+
+69
+00:06:18,840 --> 00:06:22,840
+interested in science, what you have to be screening for is the process is the discovery,
+
+70
+00:06:22,840 --> 00:06:30,680
+is the game, is the thinking that went into the experiment. It's the blind luck. It's the bad luck.
+
+71
+00:06:30,680 --> 00:06:37,400
+And that comes out in the story of everything. I've yet to hear a single world-class scientist,
+
+72
+00:06:37,400 --> 00:06:42,840
+and I have the privilege of sitting down with so many of them, tell their story without some element
+
+73
+00:06:42,840 --> 00:06:48,920
+of good luck and bad luck combined. Serendipity. Yes. Serendipity in science is absolutely critical
+
+74
+00:06:48,920 --> 00:06:55,480
+that when you get a result that's unexpected, you should be laser focused on understanding
+
+75
+00:06:55,480 --> 00:07:01,160
+at the biochemistry, at the chemical level, why you got a different result than you expected to get.
+
+76
+00:07:01,160 --> 00:07:06,760
+And following these journeys is to me a better way to weave the narrative arc of science. I mean,
+
+77
+00:07:06,760 --> 00:07:12,760
+I think frankly, it's not that there's no value in knowing that DNA is a helical structure and it
+
+78
+00:07:12,760 --> 00:07:18,200
+has these base pairs and it has this backbone, but that shouldn't be the focus. To me, actually
+
+79
+00:07:18,200 --> 00:07:24,280
+walking through the fumbling of how those guys got there, that's a very interesting story.
+
+80
+00:07:25,000 --> 00:07:31,160
+And that probably will serve a non-scientist better when they're done with science class,
+
+81
+00:07:31,160 --> 00:07:35,880
+because they'll have an appreciation for the process. And now I'm getting on my soapbox
+
+82
+00:07:35,880 --> 00:07:39,480
+about it would be better if policymakers understood that that's how science worked,
+
+83
+00:07:39,480 --> 00:07:44,760
+as opposed to trying to remember what they learned in a biochemistry class 30 years earlier.
+
+84
+00:07:45,480 --> 00:07:48,680
+And of course, for the people who are going to go into science, I still think they're going to
+
+85
+00:07:48,680 --> 00:07:53,240
+go back and learn the basics anyway, so we don't have to through rote memory get that stuff into
+
+86
+00:07:53,240 --> 00:07:57,640
+them. But it's this process of thinking and collaborating and walking down the hall,
+
+87
+00:07:57,640 --> 00:08:03,640
+and seeing the result, as you said, that doesn't quite make sense and saying, well, wait a minute,
+
+88
+00:08:03,640 --> 00:08:07,320
+there's something in there. There's a story. I mean, science is basically just one big mystery.
+
+89
+00:08:07,320 --> 00:08:12,040
+It's really about curiosity. That's what I'm hearing in your story is it's less about your
+
+90
+00:08:12,040 --> 00:08:18,120
+innate brilliance and more about your obsessiveness, your ability to make an observation and not let
+
+91
+00:08:18,120 --> 00:08:23,720
+it go. Yeah, if I get a result that suddenly doesn't make sense, to me, that's more exciting.
+
+92
+00:08:23,720 --> 00:08:28,760
+It means there's something more complicated going on than the simplest explanation for what I'm
+
+93
+00:08:28,760 --> 00:08:34,360
+seeing. If the simple explanation works, then fine, you publish it in some second rate journal.
+
+94
+00:08:34,360 --> 00:08:39,320
+But if you've broken up a whole new field, because your simple explanation doesn't work
+
+95
+00:08:39,320 --> 00:08:44,280
+and you figured out why it didn't work and what was wrong, then that's where most breakthroughs
+
+96
+00:08:44,280 --> 00:08:53,240
+come from. When did cancer become such a high focus? We met in 2011, two years after you,
+
+97
+00:08:53,880 --> 00:08:58,440
+Matthew Vanderheiden and Craig Thompson wrote what I thought was sort of the one of the most
+
+98
+00:08:58,440 --> 00:09:02,200
+interesting papers I'd read on cancer in the journal Science. It's hard to believe we're
+
+99
+00:09:02,200 --> 00:09:08,680
+10 years away from that paper. What was the lead up to your collaboration in that paper and less
+
+100
+00:09:08,680 --> 00:09:13,560
+about the paper, but more about thinking about cancer metabolism? Because today when I think of
+
+101
+00:09:13,560 --> 00:09:19,240
+Lou Cantley, I think of cancer metabolism. When did that transition occur? It was a postdoc
+
+102
+00:09:19,240 --> 00:09:25,400
+joined my laboratory, Matt Vanderheiden, who had trained with Craig Thompson. Matt's an MD, PhD,
+
+103
+00:09:25,400 --> 00:09:33,560
+now on the faculty at MIT. But he had been obsessed about glucose metabolism as a graduate
+
+104
+00:09:33,560 --> 00:09:39,400
+student with Craig. In fact, I'd gotten one of his papers to review, which I was very impressed by.
+
+105
+00:09:41,560 --> 00:09:47,880
+He suddenly showed up at my office one day saying that he was interested in doing his postdoctoral
+
+106
+00:09:47,880 --> 00:09:53,800
+work as he finished his clinical training. At that time, a graduate student, Heather Christoff,
+
+107
+00:09:54,360 --> 00:10:02,680
+had been working in my laboratory, and she'd made the observation that if she used tyrosine
+
+108
+00:10:02,680 --> 00:10:10,040
+phosphorylated peptides to pull down a degenerate sequence context, it wasn't a single peptide,
+
+109
+00:10:10,040 --> 00:10:16,360
+it was a whole mixture of billions of peptides all the same length, biotinylated so you could pull
+
+110
+00:10:16,360 --> 00:10:21,480
+down anything they bound to, and then use mass spec to identify all the things that came down.
+
+111
+00:10:22,120 --> 00:10:26,040
+First of all, she rediscovered all the proteins that were known to bind to,
+
+112
+00:10:26,840 --> 00:10:32,360
+that have SH2 domains. This is a domain that many proteins, including PI3 kinase,
+
+113
+00:10:33,080 --> 00:10:39,400
+have that allow them to bind to tyrosine phosphorylated proteins. In that one experiment,
+
+114
+00:10:39,400 --> 00:10:44,680
+she rediscovered everything that had been published of all the things that bind to tyrosine
+
+115
+00:10:44,680 --> 00:10:49,400
+phosphorylated proteins. But she discovered the thing that bound better than anything else in the cell,
+
+116
+00:10:50,040 --> 00:10:55,160
+or that was most massively pulled down, was an enzyme in metabolism, pyruvate kinase.
+
+117
+00:10:56,200 --> 00:11:02,600
+That was shocking. I remember her first response to that was, well, the only novel thing I found
+
+118
+00:11:02,600 --> 00:11:10,040
+here that wasn't already known was this affinity for pyruvate kinase. She said, well, that's a
+
+119
+00:11:10,040 --> 00:11:14,520
+metabolic enzyme, and they're all boring, so I don't think I really want to work on that. I said,
+
+120
+00:11:14,600 --> 00:11:18,920
+no, no, that's whenever you get to resolve. You pulled the lube. The totally unexpected result.
+
+121
+00:11:19,560 --> 00:11:25,880
+That's the thing you should focus on. And so she did, and at the time that Matt was interviewing
+
+122
+00:11:25,880 --> 00:11:31,400
+with me, I told him about her results, and he got very excited about that, and the two of them worked
+
+123
+00:11:31,400 --> 00:11:40,200
+together to show how that was working. So this is early 2000s, right? This was 2000 and...
+
+124
+00:11:40,200 --> 00:11:47,560
+Mid-2005? 2005, maybe. Matthew Vanderheiden was a classmate, I believe. I've obviously met Matt
+
+125
+00:11:47,560 --> 00:11:52,120
+since, but I believe he was a medical school classmate at one of my close friends, Ted Schafer,
+
+126
+00:11:52,120 --> 00:11:57,320
+who actually I had on the podcast. And Ted also was an MD PhD, did his PhD in Harold Varmus's lab.
+
+127
+00:11:57,320 --> 00:12:01,880
+So it all kind of comes full circle. A lot of smart folks came out of the University of Chicago.
+
+128
+00:12:01,880 --> 00:12:08,200
+So anyway, so he, Matt and Heather ended up publishing two back-to-back papers in Nature
+
+129
+00:12:08,200 --> 00:12:15,080
+that both explained structurally how phosphatyrosine peptides or proteins binding to
+
+130
+00:12:15,080 --> 00:12:21,640
+pyruvate kinase could turn off its activity. And then also explained why turning off the activity
+
+131
+00:12:21,640 --> 00:12:28,280
+of pyruvate kinase was important to increase anabolic growth. And that is kind of the basis for
+
+132
+00:12:28,280 --> 00:12:34,360
+why we decided to start AUGIUS, that Craig was interested in how metabolism was regulated in
+
+133
+00:12:34,360 --> 00:12:40,200
+cancer cells. And we had made this observation that pyruvate kinase regulation was important in
+
+134
+00:12:40,200 --> 00:12:47,720
+oncogenic regulation, anabolic processes in cells. And so we proposed pyruvate kinase activators
+
+135
+00:12:47,720 --> 00:12:55,080
+rather than inhibitors as a way to reduce tumor growth as one of the targets to go after at AUGIUS
+
+136
+00:12:55,080 --> 00:13:00,840
+as we were starting the company. So that review, which I should say that Matt played a much bigger
+
+137
+00:13:00,840 --> 00:13:05,160
+role in writing that review than Craig or I did. He was the first author. So yeah, that was pretty
+
+138
+00:13:05,160 --> 00:13:10,840
+clear. When did the Warburg effect, when did you start paying attention to it? I mean, obviously
+
+139
+00:13:10,840 --> 00:13:17,880
+it was around before you were born. Yeah. So actually I mentioned F. Racker earlier. F. Racker
+
+140
+00:13:18,440 --> 00:13:25,640
+was, knew Warburg quite well and they overlapped in Germany. He was obsessed by understanding the
+
+141
+00:13:25,640 --> 00:13:30,600
+Warburg effect. The Warburg effect being a result published by Warburg back in the 19,
+
+142
+00:13:31,400 --> 00:13:37,080
+21 or so, almost a hundred years ago, that if you chemically induce cancer in rats,
+
+143
+00:13:37,880 --> 00:13:43,960
+the tumor that evolves takes up glucose and metabolizes it in an anabolic way much, much
+
+144
+00:13:43,960 --> 00:13:49,240
+faster than the tissue of origin prior to transformation. This was chemically induced
+
+145
+00:13:49,240 --> 00:13:54,440
+cancer formations. And this also, this observation was that even when there was sufficient
+
+146
+00:13:54,520 --> 00:14:00,360
+cellular oxygen to generate ATP much more efficiently through the mitochondria,
+
+147
+00:14:00,360 --> 00:14:05,240
+it was as though the cancer cell elected to go this faster, less efficient route.
+
+148
+00:14:05,240 --> 00:14:08,680
+That's right. The surprising result was, well, there's plenty of oxygen. We've taken a tumor
+
+149
+00:14:08,680 --> 00:14:13,240
+out. We are in an oxygen environment. Why doesn't it make ATP through mitochondrial
+
+150
+00:14:13,240 --> 00:14:18,120
+oxidative phosphorylation instead of through glycolysis? Why do you think the Warburg effect
+
+151
+00:14:18,120 --> 00:14:22,920
+was largely forgotten in the forties and fifties and sixties? I mean, it wasn't, it felt a lot of
+
+152
+00:14:23,000 --> 00:14:29,640
+favor, really not until late sixties, early seventies. And what was taking over at that time
+
+153
+00:14:29,640 --> 00:14:37,160
+was evidence for virally induced cancers, V-SARQ, Harold Varmus and Mike Bishop. So once it was
+
+154
+00:14:37,160 --> 00:14:44,040
+shown that viruses could turn on cancers, the idea that it was just an altered metabolism fell out
+
+155
+00:14:44,040 --> 00:14:49,160
+of favor. Of course, the discovery of oncogenes of which V-SARQ was the first clear oncogene,
+
+156
+00:14:49,160 --> 00:14:55,240
+because it told us that we've met the enemy and it is us. It is our own genes that are getting
+
+157
+00:14:55,240 --> 00:15:00,040
+altered in cancer. And so proto-oncogenes were being picked up by retroviruses.
+
+158
+00:15:00,040 --> 00:15:04,360
+Did anyone at the time think these two mechanisms aren't mutually exclusive?
+
+159
+00:15:04,360 --> 00:15:14,200
+The expression of or the amplification of, or the mechanism by which this viral injury to the genome
+
+160
+00:15:14,200 --> 00:15:20,040
+can perpetrate and can perpetuate could be through this defective metabolism?
+
+161
+00:15:20,040 --> 00:15:24,760
+I think people who thought about it deeply and who were trained as biochemists who were doing
+
+162
+00:15:24,760 --> 00:15:31,880
+metabolism, which F. Racker was one of the prime examples, continue to realize you have to alter
+
+163
+00:15:31,880 --> 00:15:37,720
+metabolism to do cancer. You need to switch a cell from a quiescent, not only from a quiescent state
+
+164
+00:15:37,800 --> 00:15:44,520
+to a dividing state, but in order to divide and make a bigger cluster of cells, you have to drive
+
+165
+00:15:44,520 --> 00:15:50,040
+glucose and amino acid uptake and anabolic processes, converting those to proteins and
+
+166
+00:15:50,040 --> 00:15:57,560
+lipids and DNA and RNA. So there was no doubt you had to turn up metabolism. The question was at what
+
+167
+00:15:57,560 --> 00:16:06,200
+level did metabolism play the role? Was it just a consequence of the viral transformation or the
+
+168
+00:16:06,200 --> 00:16:11,480
+ocogenic transformation or did they work cooperatively in some more complicated way?
+
+169
+00:16:12,040 --> 00:16:17,240
+So the R. P. R. on pyruvate kinase suggested yes, there is some clear cooperation where the active
+
+170
+00:16:17,240 --> 00:16:22,520
+tyrosine phosphorylating proteins was directly regulating the activity of metabolic enzyme,
+
+171
+00:16:22,520 --> 00:16:26,360
+rather than just turning up the expression, for example, through a transcriptional cascade.
+
+172
+00:16:26,360 --> 00:16:31,960
+So that's why it shifted the emphasis back to there may be targets in metabolism
+
+173
+00:16:32,520 --> 00:16:38,920
+that could give you an efficacy toxicity ratio for treating cancer. The truth is chemotherapy,
+
+174
+00:16:38,920 --> 00:16:45,160
+as you know better than I, is really targeting metabolism. You're blocking DNA synthesis or
+
+175
+00:16:45,160 --> 00:16:52,280
+other steps in metabolism as a way of killing cancer cells. So that's in a way targeting
+
+176
+00:16:52,280 --> 00:16:57,080
+metabolism is our first approach to curing cancer and now we're back to doing it in a more serious
+
+177
+00:16:57,320 --> 00:17:03,160
+way today. What was the point that you guys made that was so novel in that 2009 paper? Because
+
+178
+00:17:03,160 --> 00:17:07,240
+it's a subtle point that I think you can easily miss. You could easily look at that paper and say,
+
+179
+00:17:07,240 --> 00:17:10,680
+oh, this is just another paper discussing the Warburg effect. But you came up with a very clear
+
+180
+00:17:10,680 --> 00:17:18,120
+explanation for why the Warburg effect might exist that was different from the explanation
+
+181
+00:17:18,120 --> 00:17:22,840
+that I think I had looked at before, which was the mitochondria are defective. So I think
+
+182
+00:17:23,320 --> 00:17:26,840
+the easy explanation for the Warburg effect is the mitochondria don't work.
+
+183
+00:17:27,480 --> 00:17:34,200
+Therefore, the cancer cell has no choice but to undergo anaerobic glycolysis. You guys proposed
+
+184
+00:17:34,200 --> 00:17:39,240
+something different. Yeah, we proposed that you could even with totally functional mitochondria,
+
+185
+00:17:40,040 --> 00:17:47,400
+you could divert intermediates and glycolysis into anabolic processes by regulating steps in
+
+186
+00:17:47,400 --> 00:17:55,560
+glycolysis. And so the biggest question we know that if you have high ATP in the cell,
+
+187
+00:17:55,560 --> 00:18:01,960
+it will shut off glycolysis. And that's a feedback that there's high citrate and high ATP, either one
+
+188
+00:18:01,960 --> 00:18:07,640
+of those directly bind to phosphofructokinase, shut off its activity, and the remaining glucose
+
+189
+00:18:07,640 --> 00:18:13,320
+that comes in, it gets phosphorylated, either goes to the pentose phosphate shunt, or it goes to
+
+190
+00:18:13,320 --> 00:18:17,960
+glycogen storage, or it just goes back out of the cell again. So there's a break right there.
+
+191
+00:18:18,600 --> 00:18:25,880
+And so, if Racker was obsessed by how you relieve that break, because how do you get a 10 to 50
+
+192
+00:18:25,880 --> 00:18:33,560
+fold increase in glycolysis, if you're making so much ATP, it should shut it off again. So the
+
+193
+00:18:33,560 --> 00:18:38,200
+idea that was defective mitochondria was a simple explanation. There's no other way to make ATP. So
+
+194
+00:18:38,200 --> 00:18:43,640
+you have to make it through glycolysis. But the idea that there was something more complicated
+
+195
+00:18:43,640 --> 00:18:49,080
+than that was really what we were discussing in that review, that there was a way to regulate
+
+196
+00:18:49,080 --> 00:18:54,760
+steps in glycolysis that would divert intermediates in glycolysis from making ATP
+
+197
+00:18:55,480 --> 00:19:02,040
+to the carbon atoms of glycolysis and go into lipid synthesis, serine synthesis, glycine synthesis.
+
+198
+00:19:02,040 --> 00:19:07,800
+So it was sort of like a mass balance argument. It was an energetics for construction argument.
+
+199
+00:19:07,800 --> 00:19:13,640
+It was basically saying, look, the way to really think about this is, cancer is growing like crazy.
+
+200
+00:19:13,640 --> 00:19:19,160
+It's easy to talk about the energy requirement, but just think about the carbon requirement of growth.
+
+201
+00:19:19,160 --> 00:19:24,600
+Right. So one analogy I like to make is, imagine you have a river flowing through a valley,
+
+202
+00:19:25,320 --> 00:19:31,560
+and you want to flood some fields in order to get enough water to grow plants. So if you put a dam
+
+203
+00:19:31,560 --> 00:19:36,600
+here, then those other little canals that you've generated, the water level will go up to flood
+
+204
+00:19:36,600 --> 00:19:41,880
+into those other canals and allow you to grow plants. That's sort of what happens if you turn
+
+205
+00:19:41,880 --> 00:19:48,680
+off pyruvate kinase, then you slow down ATP production. That means there's less ATP made.
+
+206
+00:19:48,680 --> 00:19:54,920
+That means glycolysis, upper part of glycolysis continue. But instead of going to make more ATP,
+
+207
+00:19:54,920 --> 00:20:01,800
+it goes off to make serine and glycine and ribose and lipids. And that gives you all the molecules
+
+208
+00:20:01,800 --> 00:20:07,000
+you need to grow without shutting the system off because you don't let it go all the way to ATP.
+
+209
+00:20:07,000 --> 00:20:13,240
+Right. And that allows the mitochondria to make whatever ATP you need. And glycolysis is now used
+
+210
+00:20:13,240 --> 00:20:19,400
+to do anabolic processes instead of make ATP. That still makes some ATP, but you can now rebalance
+
+211
+00:20:20,040 --> 00:20:24,680
+that whole equation so that you can grow better rather than just make ATP.
+
+212
+00:20:24,680 --> 00:20:30,200
+Now, this had a profound impact on the way you thought about your life. You're one of the,
+
+213
+00:20:30,200 --> 00:20:35,400
+I don't want to say the few, but there are a lot of people who, a lot of great scientists,
+
+214
+00:20:35,400 --> 00:20:41,240
+frankly, who their professional work and their personal, the way they go about conducting
+
+215
+00:20:41,240 --> 00:20:46,920
+themselves and their own choices around food or whatever, there seems to be a disconnect there.
+
+216
+00:20:46,920 --> 00:20:52,920
+Not the case with you. I remember the first time we had a meal in probably 2012, you were quite
+
+217
+00:20:52,920 --> 00:20:57,080
+particular about what you ate and what you didn't eat. And the thing that you were most careful
+
+218
+00:20:57,080 --> 00:21:03,800
+about was fructose. So what is it about the work that you were doing in the 2000s, the early 2000s
+
+219
+00:21:03,800 --> 00:21:08,760
+into this decade we're in today, the beginning of the decade we're in today, that had you start to
+
+220
+00:21:08,760 --> 00:21:14,200
+think about nutrition in that way? So I have to say that I made my decision about what to eat and
+
+221
+00:21:14,200 --> 00:21:20,920
+not to eat before I knew anything about metabolism. And it came from a simple empirical observation.
+
+222
+00:21:20,920 --> 00:21:25,880
+So I grew up, I mentioned earlier, I grew up West Virginia, Blackwoods, West Virginia. In retrospect,
+
+223
+00:21:25,960 --> 00:21:30,600
+I realized that as I was growing up in the 50s, we were eating incredibly healthy meals.
+
+224
+00:21:31,640 --> 00:21:36,040
+In those days, the most expensive thing to buy at the grocery store was sugar.
+
+225
+00:21:36,920 --> 00:21:40,280
+And my grandparents, who I spent a lot of time with working on their farm,
+
+226
+00:21:41,240 --> 00:21:45,480
+raised everything they ate. They were sustenance farmers. They had essentially no income. They
+
+227
+00:21:45,480 --> 00:21:50,760
+sold some strawberries in the spring. My grandfather would plow fields for people to make additional
+
+228
+00:21:50,760 --> 00:21:55,720
+money, but they had very minor income. But they lived off of everything they grew. The one thing
+
+229
+00:21:55,720 --> 00:22:00,840
+they couldn't grow, for a while they grew some sugar beets, but it was hard to get enough sugar.
+
+230
+00:22:00,840 --> 00:22:05,480
+And so when my grandmother went shopping, essentially the only thing she would buy
+
+231
+00:22:05,480 --> 00:22:12,760
+was flour and sugar. And one five pound bag of sugar had to last several years. And so when she
+
+232
+00:22:12,760 --> 00:22:18,760
+would make what she called a cake, we would call it a biscuit today. It had essentially no sugar in
+
+233
+00:22:18,760 --> 00:22:24,680
+it because it had to be sprinkled in very small amounts. And so that, as a consequence, we were
+
+234
+00:22:24,840 --> 00:22:29,080
+all very healthy, nobody in my family. In fact, I didn't know anyone who was overweight in my
+
+235
+00:22:29,080 --> 00:22:34,040
+spring because most people lived like my grandparents. And that was in the fifties.
+
+236
+00:22:34,040 --> 00:22:40,760
+What happened in the sixties was really what was tragic. It was all triggered by Castro,
+
+237
+00:22:41,480 --> 00:22:48,360
+as you know the story. And Castro's taking over Cuba and us boycotting sugar from Cuba
+
+238
+00:22:48,360 --> 00:22:53,800
+and the anticipation the cost of sugar would go up even higher. A German scientist had worked out
+
+239
+00:22:53,880 --> 00:23:00,840
+a way to convert cornstarch into high fructose corn syrup, which could be made much, much more
+
+240
+00:23:00,840 --> 00:23:05,240
+cheaply than raising cane. It's funny. I always thought it was a Japanese scientist. I didn't
+
+241
+00:23:05,240 --> 00:23:09,400
+realize it was a German scientist. I could be wrong on that. I would take your word over mine.
+
+242
+00:23:09,400 --> 00:23:14,120
+Well, blame somebody from World War II. The irony of it is it's always someone that got
+
+243
+00:23:14,120 --> 00:23:19,560
+hurt in World War II. And the joke is this was their payback. Exactly. And then Castro's payback.
+
+244
+00:23:19,640 --> 00:23:25,480
+So Castro did this to us. We did it to ourselves is the truth. And we saw doing it. And as long as
+
+245
+00:23:25,480 --> 00:23:32,600
+I was where the primaries are held, first primaries, and where nobody's going to cut off
+
+246
+00:23:32,600 --> 00:23:38,360
+taxpayer support for cornstarch and growing corn. But you had this profound belief. I mean,
+
+247
+00:23:38,360 --> 00:23:43,480
+I guess you got to experience something very few people do, which is a natural experiment.
+
+248
+00:23:43,480 --> 00:23:47,960
+Yeah. So I watched West Virginia go from what I would argue in this fifties was the
+
+249
+00:23:47,960 --> 00:23:53,080
+skinniest state in America. I never saw anyone overweight. None of the kids in my school,
+
+250
+00:23:53,960 --> 00:24:00,040
+none of my relatives, none of them were overweight in the fifties. Most of them were very thin. And
+
+251
+00:24:00,040 --> 00:24:05,560
+then along came high fructose corn syrup. And suddenly the cheapest thing you could buy were
+
+252
+00:24:05,560 --> 00:24:13,400
+sodas that normally at a six ounce Coke would be my total allowance for a week to buy one six ounce
+
+253
+00:24:13,400 --> 00:24:20,440
+Coke. And now suddenly you've got 10 times as much for that cost. And so people advent of very
+
+254
+00:24:20,440 --> 00:24:27,560
+sugary drinks. People would start consuming 10, 20, 50 times as much sugar as they were consuming
+
+255
+00:24:27,560 --> 00:24:35,800
+before. And over from the mid sixties to mid seventies, I watched when I went back, I was at
+
+256
+00:24:35,800 --> 00:24:41,080
+that time at Cornell getting my graduate degree. And then didn't go back to Western into that
+
+257
+00:24:41,080 --> 00:24:47,320
+often. But when I did go back, I every time noticed a dramatic change in that all my friends
+
+258
+00:24:47,320 --> 00:24:53,080
+and relatives were suddenly becoming obese. And I just watched what they ate. And I realized they
+
+259
+00:24:53,080 --> 00:24:59,800
+were consuming massive amounts of sugar. Many of them were consuming diet drinks. But then at the
+
+260
+00:24:59,800 --> 00:25:03,800
+end of the day, because of their addiction, the sweets would eat like a gallon of ice cream per
+
+261
+00:25:03,800 --> 00:25:07,880
+person. When I asked them, how can you eat a gallon of ice cream? And they would tell me if I don't
+
+262
+00:25:07,880 --> 00:25:13,320
+eat a gallon of ice cream, I'll wake up two hours later and go to the refrigerator. So I can't sleep
+
+263
+00:25:13,320 --> 00:25:19,080
+through the night without eating a massive amount of sweets. So at that point, I realized this is a
+
+264
+00:25:19,080 --> 00:25:25,800
+real addiction. And I cut out drinking anything that was sweet. And I cut out eating dessert. So
+
+265
+00:25:25,800 --> 00:25:32,280
+that was 1975. Didn't know anything about the metabolism of fructose or glucose. Just empirically,
+
+266
+00:25:32,280 --> 00:25:38,520
+I saw the change in diet and the consequent massive change in obesity. So you basically
+
+267
+00:25:38,520 --> 00:25:44,360
+have these two sort of separate stories, which is this is this observational journey of your life.
+
+268
+00:25:44,360 --> 00:25:49,720
+And then you have the work of your career that is bringing you closer and closer to cancer
+
+269
+00:25:49,720 --> 00:25:57,320
+metabolism. When did you finally realize in the laboratory that this observation of yours had
+
+270
+00:25:57,960 --> 00:26:03,640
+mechanisms to it that could go far beyond obesity, but also play a role in metabolic diseases
+
+271
+00:26:03,640 --> 00:26:08,600
+inclusive of cancer? What really brought it all together, and this is why I keep emphasizing
+
+272
+00:26:08,600 --> 00:26:14,040
+insulin as a postdoc and ultimately starting my own lab, I kept coming back to how does insulin
+
+273
+00:26:14,040 --> 00:26:22,520
+work. And whenever we managed to see this PI kinase activity coprecipitating with SARC and insulin
+
+274
+00:26:22,600 --> 00:26:30,360
+receptor, I realized that the same enzyme was mediating the effects of the oncogenes and also
+
+275
+00:26:30,360 --> 00:26:40,520
+effective normal insulin signaling. And so that by 1990, it was very clear in my mind that insulin
+
+276
+00:26:40,520 --> 00:26:46,440
+was triggering cell growth in exactly the same way that oncogenes were. They were both activating PI3
+
+277
+00:26:46,440 --> 00:26:53,160
+kinase. And that suggested then a correlation between the two. And particularly as we began to
+
+278
+00:26:53,160 --> 00:26:59,480
+notice that the mutations, so many years later mutations in PI3 kinase were identified, it was
+
+279
+00:26:59,480 --> 00:27:04,840
+more than 15 years after we discovered the enzyme, the mutations were picked up from Burt Vogelstein's
+
+280
+00:27:04,840 --> 00:27:10,600
+laboratory. And as we began to explore what those mutations did, we realized they increased the
+
+281
+00:27:10,600 --> 00:27:16,280
+ability of insulin to activate the enzyme. So this whole connection between everything that
+
+282
+00:27:16,280 --> 00:27:24,920
+insulin does goes through PI3 kinase and most oncogenes managed to activate PI3 kinase by either
+
+283
+00:27:24,920 --> 00:27:29,320
+directly binding or indirectly activating it. Not necessarily through insulin, but they were
+
+284
+00:27:29,320 --> 00:27:34,760
+bypassing the need for insulin. We're going to come back to that very important observation in a
+
+285
+00:27:34,760 --> 00:27:39,960
+moment, right? Yes. You know exactly where I'm going with the next line like questioning. Okay.
+
+286
+00:27:40,440 --> 00:27:48,200
+But it also raised the possibility that being insulin resistant, which results in elevated
+
+287
+00:27:48,200 --> 00:27:54,440
+serum insulin because the pancreas has to generate more insulin. If your liver and muscle and fat
+
+288
+00:27:54,440 --> 00:27:59,880
+cells are failing to respond to insulin, then more insulin has to be made in order to bring glucose
+
+289
+00:27:59,880 --> 00:28:05,080
+back down. So insulin resistance is pretty much a silent disease because you don't really know it
+
+290
+00:28:05,080 --> 00:28:11,240
+if you go for an overnight fasting glucose measurement in the urine, your glucose is okay.
+
+291
+00:28:11,240 --> 00:28:16,120
+But if you do a glucose tolerance test, which very few people do, you realize that the glucose has
+
+292
+00:28:16,120 --> 00:28:21,400
+goes up much higher, takes longer to come back down. And the insulin level is much, much higher
+
+293
+00:28:21,400 --> 00:28:27,240
+than normal during that process of adapting. So that's how insulin resistance is defined.
+
+294
+00:28:28,040 --> 00:28:33,880
+But I realized that high level of insulin, if we add it to our cells and culture, cancer cells
+
+295
+00:28:33,880 --> 00:28:41,240
+and culture, it makes them grow better. And we've known that since the 1960s and 70s. We use fetal
+
+296
+00:28:41,240 --> 00:28:47,160
+calf serum to make our cancer cells grow in culture. And if fetal calf serum doesn't work,
+
+297
+00:28:47,800 --> 00:28:53,480
+we either order another batch, you know, another lot from the company, or we just add insulin.
+
+298
+00:28:54,040 --> 00:28:58,600
+And adding insulin always makes it work again. And so we've known for a long time that if you
+
+299
+00:28:58,600 --> 00:29:03,800
+have high levels of insulin, you can make almost any cancer cell grow better than just pure fetal
+
+300
+00:29:03,800 --> 00:29:10,200
+calf serum, which already has some insulin and it's variable from batch to batch. So in a way,
+
+301
+00:29:10,200 --> 00:29:15,240
+it's been staring us in the face for years, that insulin will drive the growth of cancer cells.
+
+302
+00:29:15,240 --> 00:29:20,840
+And cancer cells tend to have more insulin receptor than the tissue from which they emerged.
+
+303
+00:29:20,840 --> 00:29:26,600
+So in the process of tumors growing out evolving, they turn up the expression of the insulin
+
+304
+00:29:26,600 --> 00:29:32,440
+receptor, and that allows them to respond insulin better. So as I kept seeing more and more data on
+
+305
+00:29:32,440 --> 00:29:40,040
+this, over the last 15 years or so, I became convinced that the active being insulin resistant
+
+306
+00:29:40,040 --> 00:29:46,440
+or the state of being insulin resistant in humans sets them up to accelerate tumor growth.
+
+307
+00:29:47,000 --> 00:29:52,520
+When I interviewed Sid, I don't know how long it's been, probably six, eight, nine months ago,
+
+308
+00:29:52,520 --> 00:29:55,800
+he shared something with the listeners that I think for many people is still hard to believe,
+
+309
+00:29:55,800 --> 00:30:03,480
+which is smoking is the leading environmental cause of cancer, obesity is second. In fact,
+
+310
+00:30:03,480 --> 00:30:08,760
+I think he even mentioned that in the documentary that was made after his book, you were in that
+
+311
+00:30:08,760 --> 00:30:14,440
+documentary as well, great documentary. It was not named after the book, was it? Was the documentary
+
+312
+00:30:14,440 --> 00:30:18,600
+also called the Emperor of All Maladies? Yes, it was. Okay, okay. Phenomenal, we'll link to it in
+
+313
+00:30:18,600 --> 00:30:23,400
+the show notes because it's a real gem. I mean, it's worth every penny you got to pay to download
+
+314
+00:30:23,400 --> 00:30:28,360
+on Apple and watch that PBS special. Ken Burns, of course, is a master, but Sid made the point
+
+315
+00:30:28,360 --> 00:30:34,680
+there as well. And hearing you say what you're saying makes you think it's really less the obesity
+
+316
+00:30:34,680 --> 00:30:41,320
+and more the hyperinsulinemia that accompanies obesity in 80% of cases, which is high enough that
+
+317
+00:30:41,320 --> 00:30:45,960
+you could easily, just from an epidemiologic standpoint, identify obesity per se as the
+
+318
+00:30:45,960 --> 00:30:51,800
+trigger, meaning excess adiposity. But my belief, and I think yours, is that no, it's probably the
+
+319
+00:30:51,880 --> 00:30:57,400
+hyperinsulinemia, which means if you're lean and hyperinsulinemic, you're worse off. And I think
+
+320
+00:30:57,400 --> 00:31:03,320
+those data are becoming abundantly clear. There was a paper published a few years ago out of
+
+321
+00:31:03,320 --> 00:31:08,920
+Montessori Albert Einstein showing that in fact, if you take breast cancer patients and separate
+
+322
+00:31:08,920 --> 00:31:16,040
+them into overweight slash obese insulin sensitive, because a lot of people can, if you put on
+
+323
+00:31:16,040 --> 00:31:20,440
+peripheral fat, but don't have don't have visceral fat, you don't necessarily become insulin resistant
+
+324
+00:31:20,440 --> 00:31:25,000
+with overweight. So body mass index is not, yeah, it's not enough. It's a first order term,
+
+325
+00:31:25,000 --> 00:31:30,680
+that subset of overweight women who were insulin sensitive did not have an increased risk of breast
+
+326
+00:31:30,680 --> 00:31:37,320
+cancer, but the ones that were insulin resistant did. So that says a lot. And that paper also had
+
+327
+00:31:37,320 --> 00:31:44,040
+data on lean women who got breast cancer. And that correlated with insulin resistant lean women.
+
+328
+00:31:44,760 --> 00:31:49,800
+And in many nationalities, particularly Asians, they may look very lean, but still have a lot of
+
+329
+00:31:49,880 --> 00:31:56,280
+visceral fat. And so that I think we, our current mechanism of using body mass index is our
+
+330
+00:31:56,280 --> 00:32:01,480
+correlation is not a good one. Yeah, it's just not good enough. And Mitch Lazar in 2013, I believe,
+
+331
+00:32:01,480 --> 00:32:08,440
+published a paper showing basically the two by two of lean and not lean, metabolically healthy and not
+
+332
+00:32:08,440 --> 00:32:14,520
+as a proxy for hyperinsulinemic. And it turned out that it wasn't the body mass that was the thing
+
+333
+00:32:14,600 --> 00:32:20,200
+that tracked with health. Now, a moment ago, you gave this very eloquent explanation of the role
+
+334
+00:32:20,200 --> 00:32:26,360
+of insulin in cancer. Now, four months ago in science, you published a really interesting paper.
+
+335
+00:32:26,360 --> 00:32:31,560
+What did that paper show? So this is a paper in which was inspired by Mayor Bloomberg's attempt
+
+336
+00:32:31,560 --> 00:32:38,440
+to ban the 40 ounce Coke. So GA Young, a postdoc in my laboratory who migrated with me from Harvard
+
+337
+00:32:38,440 --> 00:32:46,280
+to Wal Cornell 2012-13, decided that she was inspired by Mayor Bloomberg and she would try
+
+338
+00:32:46,280 --> 00:32:52,680
+to test the possibility that high sugar consumption would increase colorectal cancer. She had worked
+
+339
+00:32:52,680 --> 00:32:57,720
+with Bert Fogelstein as a graduate student. So she knew a lot about colorectal cancer and
+
+340
+00:32:57,720 --> 00:33:04,360
+was working on mouse models of colorectal cancer as she migrated into my lab. And so we decided
+
+341
+00:33:04,520 --> 00:33:09,720
+we would design an experiment to test whether there was higher risk for colorectal cancer
+
+342
+00:33:09,720 --> 00:33:16,520
+with high sugar consumption. And so it was really two questions there. And my hypothesis going into
+
+343
+00:33:16,520 --> 00:33:22,680
+this was the insulin level, that if you go on a high sugar diet, that you'll eventually become
+
+344
+00:33:22,680 --> 00:33:28,360
+insulin resistant and that will drive high levels of insulin, which may accelerate the growth of
+
+345
+00:33:28,360 --> 00:33:36,520
+colorectal cancer. And in fact, we had data that said that what I just said was true, that in fact,
+
+346
+00:33:36,520 --> 00:33:43,320
+yes, if we allowed the mice to have sugar in their drinking water so they could ad lib feed as much
+
+347
+00:33:43,320 --> 00:33:49,400
+sugar as they wanted on top of their normal chow diet. How much sugar was in the chow?
+
+348
+00:33:49,400 --> 00:33:53,960
+So the normal chow diet, I don't remember exactly. Normal chow might be 10%, but you can buy these
+
+349
+00:33:53,960 --> 00:33:58,760
+really high sugar standard American chows that are. Yeah. So we just gave them the normal. Okay.
+
+350
+00:33:59,320 --> 00:34:04,120
+Child diet. And so because they were consuming massive amounts, they could drink as much of
+
+351
+00:34:04,120 --> 00:34:09,400
+the sugary water as they want. They drank five, three to four times as much water, sugary water,
+
+352
+00:34:09,400 --> 00:34:14,120
+as if they just had the controls without the sugar. And a consequence, they became massively
+
+353
+00:34:14,120 --> 00:34:23,400
+obese and they had accelerated polyp formation in the context of having knockout of the APC gene.
+
+354
+00:34:23,400 --> 00:34:29,080
+So APC is the first gene in human cancer that gets lost to initiate the process of
+
+355
+00:34:29,080 --> 00:34:34,280
+colorectal cancer development as birth focal steam. So the controls drinking normal water
+
+356
+00:34:34,840 --> 00:34:40,360
+versus the sugar drinking water is both had the APC knockout. They both had the APC knockout.
+
+357
+00:34:40,360 --> 00:34:45,720
+And what was the difference in polyp formation? So in that three or more fold size of polyps,
+
+358
+00:34:45,720 --> 00:34:51,560
+they were much more aggressive. And what about the cancerous transformation? Well, these mice,
+
+359
+00:34:51,560 --> 00:34:56,520
+the polyps became so big that we had to sacrifice the mice because they literally could not digest
+
+360
+00:34:56,520 --> 00:35:01,640
+food anymore. They didn't go into metastatic disease. So we couldn't call it a progressive
+
+361
+00:35:01,640 --> 00:35:07,080
+other than the fact that they were massive and it was beginning to include polyps. Now in this
+
+362
+00:35:07,080 --> 00:35:11,800
+experiment, you also tried to figure out what was playing the role in this and you looked at
+
+363
+00:35:11,800 --> 00:35:15,800
+glucose. So you could do this experiment with glucose water and fructose water, correct?
+
+364
+00:35:15,800 --> 00:35:22,200
+That's right. But let me get to the next step first. So that was nice and fine. It was consistent
+
+365
+00:35:22,200 --> 00:35:29,880
+with my idea, but GA wanted to challenge me on the idea that maybe the sugar was directly feeding the
+
+366
+00:35:29,880 --> 00:35:35,480
+growth rather than just making the mouse insulin resistant obese. Oh, I'm sorry, because at this
+
+367
+00:35:35,560 --> 00:35:39,560
+point your hypothesis was all still through the insulin. This was all being mediated through
+
+368
+00:35:39,560 --> 00:35:46,360
+insulin. Yeah, that was my hypothesis. So in order to try to always challenge people in my lab to
+
+369
+00:35:46,360 --> 00:35:51,640
+prove me wrong rather than prove me right. And because it's always learned more if my
+
+370
+00:35:51,640 --> 00:35:57,160
+simplest idea is wrong. Another great tenant of science. So she challenged me on this and Marcus
+
+371
+00:35:57,160 --> 00:36:02,280
+Goncalves is the other postdoc in my lab that worked with her and the two of them worked together.
+
+372
+00:36:02,280 --> 00:36:07,720
+And they designed a diet that would not allow the mice to become obese. In other words, they were
+
+373
+00:36:07,720 --> 00:36:11,720
+taking the total amount of sugar they ever consumed. It was the equivalent of a 12 ounce
+
+374
+00:36:11,720 --> 00:36:19,240
+cola sugary drink. And so on that diet, at least over the six months or so that they were on the
+
+375
+00:36:19,240 --> 00:36:25,480
+diet, they really didn't gain weight, maybe 5% increase in total calories consumed. So they did
+
+376
+00:36:25,480 --> 00:36:30,120
+not gain weight. They did not become insulin resistant. We didn't see elevation and C peptide,
+
+377
+00:36:30,120 --> 00:36:35,080
+clicosylate hemoglobin. So by all characteristics, those mice were normal, they were not insulin
+
+378
+00:36:35,080 --> 00:36:42,440
+resistant. And yet they still had increased polyps by two to three fold size. So at that point,
+
+379
+00:36:42,440 --> 00:36:48,280
+that raised the possibility that the sugar might be directly feeding the growth of the polyp. And
+
+380
+00:36:48,280 --> 00:36:56,760
+so we characterize that by using either radioactive glucose or radioactive fructose, or carbon 13
+
+381
+00:36:56,760 --> 00:37:03,560
+labeled and non radioactive, but traceable form of carbon atoms in fructose or in glucose. And we
+
+382
+00:37:03,560 --> 00:37:09,000
+also tried feeding them only glucose, the same number of calories of glucose, or the same number
+
+383
+00:37:09,000 --> 00:37:16,280
+of calories of fructose versus the mixture of glucose plus fructose. And they had to have both
+
+384
+00:37:16,280 --> 00:37:22,440
+sugars, fructose and glucose before the polyps would grow faster. So that was really surprising.
+
+385
+00:37:23,000 --> 00:37:28,440
+And do you think that that could be because the glucose provides the insulin and the fructose is
+
+386
+00:37:28,440 --> 00:37:32,280
+what do you think the fructose is doing in there? Because based on everything you said earlier,
+
+387
+00:37:32,280 --> 00:37:37,720
+a glucose water alone, just a pure dextrose solution should have been sufficient, right?
+
+388
+00:37:37,720 --> 00:37:42,920
+That's right. So that turned out not to be the case. And the way to figure it out is again using
+
+389
+00:37:42,920 --> 00:37:49,080
+carbon Tracy, either by radioactivity or heavy atom. So we did both. And first of all, does the
+
+390
+00:37:49,160 --> 00:37:54,680
+fructose or glucose get all the way to the colon? Question number one, it would seem highly
+
+391
+00:37:54,680 --> 00:38:01,160
+improbable. But it turns out if you add, if you have glucose plus fructose, the glucose competes
+
+392
+00:38:01,160 --> 00:38:06,920
+for the fructose for entry into the small intestine. And as a consequence of glucose is not as
+
+393
+00:38:06,920 --> 00:38:12,680
+efficiently taken up. And it makes its way all the way to the colon if you give it in a sugary drink.
+
+394
+00:38:12,680 --> 00:38:16,600
+I was just about to say, Lou, does this have something to do with it being in a liquid so
+
+395
+00:38:16,600 --> 00:38:22,520
+the transit speed is quicker? That's right. So if you gave the same amount in a solid food,
+
+396
+00:38:22,520 --> 00:38:28,840
+it would never make it to the colon. But because it was in a watery mixture, it would transit the
+
+397
+00:38:28,840 --> 00:38:33,240
+intestines fast enough that there was still fructose left. Your experiment was elegant
+
+398
+00:38:33,240 --> 00:38:36,600
+because you didn't have to do what my next experiment would have been, which is why I'm
+
+399
+00:38:36,600 --> 00:38:41,880
+not a postdoc in your lab is I would have done colonic lavage. I would have gone retrograde
+
+400
+00:38:41,880 --> 00:38:46,760
+and seen if I could bathe the polyps and not even deal with the absorption. But I would have
+
+401
+00:38:46,760 --> 00:38:52,440
+missed this detail. We wanted to replicate what you what's physiologic, of course, yeah, the condition
+
+402
+00:38:52,440 --> 00:38:58,280
+which humans do it. And other labs had already shown that again, give me a fructose glucose
+
+403
+00:38:58,280 --> 00:39:03,960
+mixture as a liquid at a certain volume, the fructose would make it all the way to the colon.
+
+404
+00:39:03,960 --> 00:39:08,360
+So what we found if the fructose made a colon, the glucose got absorbed in the small intestine,
+
+405
+00:39:08,360 --> 00:39:15,720
+but there was some local increase in glucose level in the bloodstream that's that is this is
+
+406
+00:39:15,720 --> 00:39:23,240
+the first time I've ever seen this elegant a demonstration of how you could miss in blood
+
+407
+00:39:23,240 --> 00:39:32,760
+sugar a problem, because by definition, the faster it's going through you, the faster the glucose and
+
+408
+00:39:32,760 --> 00:39:39,480
+fructose are getting through and bypassing the small intestine, the more likely you'll get actual
+
+409
+00:39:39,480 --> 00:39:45,640
+colonic content of them. And the less likely you'll see glucose in the blood sugar, which is why the
+
+410
+00:39:45,640 --> 00:39:51,320
+group that in the second experiment who were not being given ad libitum access to it didn't get
+
+411
+00:39:51,320 --> 00:39:57,720
+obese and didn't develop hyperinsulinemia, but still developed the polyp phenotype. Yeah, as a
+
+412
+00:39:57,720 --> 00:40:02,040
+side issue along the lines you're saying, we actually found in the case where we had the water
+
+413
+00:40:02,920 --> 00:40:09,640
+fed rather than a fixed amount to 12 ounce soda equivalent that the subset of mice that had the
+
+414
+00:40:09,640 --> 00:40:16,600
+APC mutation actually had more protected from insulin resistance. There was the polyps reading
+
+415
+00:40:16,600 --> 00:40:23,080
+so much of the sugar that it was protecting the mouse. That is unbelievable. And at some point,
+
+416
+00:40:23,080 --> 00:40:27,560
+you'll blow through that and they'll become quite insulin resistant and get hypertrophic polyps.
+
+417
+00:40:27,560 --> 00:40:32,680
+Yeah, yeah. But in this case, we weren't allowing that to happen. It was a very small amount of sugar
+
+418
+00:40:32,680 --> 00:40:39,240
+equivalent of a single drink a day, 12 ounce sweetened drink. The real surprise was when we
+
+419
+00:40:39,240 --> 00:40:47,960
+got to the molecular mechanism. And that was that you had to have fructose and glucose because the
+
+420
+00:40:47,960 --> 00:40:55,240
+actual carbon atoms that were being used to grow the tumor were coming from the glucose and not from
+
+421
+00:40:55,240 --> 00:41:02,200
+the fructose. And what the fructose was doing is when it went into the polyp, it was converted to
+
+422
+00:41:02,680 --> 00:41:09,160
+fructose one phosphate by an enzyme called ketohexokinase, also called fructokinase. That
+
+423
+00:41:09,160 --> 00:41:15,160
+enzyme is only found in three tissues in any significant concentration, the liver, the kidney,
+
+424
+00:41:15,160 --> 00:41:23,080
+and the gut. And so these polyps like the normal gut cells have that enzyme. That has been something
+
+425
+00:41:23,080 --> 00:41:28,040
+of a mystery of why that enzyme exists in it at that location. But in any event, it does.
+
+426
+00:41:28,920 --> 00:41:33,720
+What happens is the fructose goes in and it gets phosphorylated by that enzyme. And it happens very
+
+427
+00:41:33,720 --> 00:41:39,880
+rapidly. It's a very active enzyme. And that drops the ATP level in the cell because you're
+
+428
+00:41:39,880 --> 00:41:46,680
+consuming ATP to phosphorylate that fructose is coming in. Now, I mentioned earlier that the thing
+
+429
+00:41:46,680 --> 00:41:52,840
+with the Warburg hypothesis is that in order to get glucose to flux at a high rate into a cell,
+
+430
+00:41:52,840 --> 00:41:59,080
+you have to drop the ATP level. Well, this is a way to drop the ATP level. Instead of consuming
+
+431
+00:41:59,080 --> 00:42:03,720
+it in some other way, you're consuming it by phosphorylating the fructose. There's an additional
+
+432
+00:42:03,720 --> 00:42:09,880
+complication or not complication, but intervention that is also important, which is once you start
+
+433
+00:42:09,880 --> 00:42:16,120
+doing glycolysis at a higher rate, process of doing glycolysis incorporates an inorganic phosphate
+
+434
+00:42:17,000 --> 00:42:23,320
+to make the doubly phosphorylated glycerol and 1,6-bisphosphate. And so that additional
+
+435
+00:42:23,320 --> 00:42:28,920
+consumption of inorganic phosphate drops a negative regulator of inosine deaminase.
+
+436
+00:42:29,640 --> 00:42:35,880
+And that drops the ability to keep ATP synthesis going on in the cell. So the combination too
+
+437
+00:42:35,880 --> 00:42:42,360
+drops the ATP level dramatically. And now the glucose that's coming in is flooding through
+
+438
+00:42:42,360 --> 00:42:47,720
+glycolysis, but it's going into all these anabolic processes. It's being used to make lipids. We see
+
+439
+00:42:48,280 --> 00:42:54,520
+all the label from glucose going into fatty acid synthesis and serine synthesis and
+
+440
+00:42:54,520 --> 00:43:00,440
+nucleotide synthesis going up five or 10-volt. It's really quite dramatic what happens. But if you
+
+441
+00:43:00,440 --> 00:43:04,920
+leave the fructose out, even though the glucose gets in the cell, it can't go through glycolysis
+
+442
+00:43:04,920 --> 00:43:09,880
+at a high rate. And so you don't get growth. You have to have both molecules. The carbon
+
+443
+00:43:09,880 --> 00:43:15,480
+atoms are coming from the glucose. The fructose is basically driving the kinetics. Exactly.
+
+444
+00:43:15,480 --> 00:43:20,760
+When you describe it this way, you sound crazy. I mean, you're the guy that nobody wants to talk
+
+445
+00:43:20,760 --> 00:43:26,600
+to at the party. Your wife must be annoyed senseless by her crazy husband who's got this
+
+446
+00:43:26,600 --> 00:43:33,000
+hypothesis that now has so much emerging data behind it that says if you wanted to create a
+
+447
+00:43:33,000 --> 00:43:39,240
+molecule to kill people, it's not just glucose. It's not even just fructose. It's put the two
+
+448
+00:43:39,240 --> 00:43:45,480
+together. And guess what? Nature did that. Nature came up with a 50-50 mixture of this thing.
+
+449
+00:43:46,120 --> 00:43:53,160
+And if that weren't enough, she made it taste so good. Right. How do we reconcile this? Yeah,
+
+450
+00:43:53,160 --> 00:43:57,320
+so that's the part I like best. Because I think about everything in regard to evolution.
+
+451
+00:43:57,320 --> 00:44:01,240
+Why did things evolve? Why do we evolve to be addicted? Because you're ruining the party right
+
+452
+00:44:01,240 --> 00:44:09,720
+now. Exactly. So I think this allows if you think about humans 100,000 years ago, our metabolism
+
+453
+00:44:09,720 --> 00:44:17,400
+hasn't changed in the last 100,000 years. So 100,000 years ago, how often during a typical year in a
+
+454
+00:44:17,400 --> 00:44:25,800
+temperate climate would you have available high amounts of fructose and glucose? I mean, maybe in
+
+455
+00:44:25,880 --> 00:44:31,960
+the fall. A month, a month or so. So you would get berries ripe and apples ripe. And keep in mind,
+
+456
+00:44:31,960 --> 00:44:38,280
+these are very small berries, very small apples for domestication of plants. And so as a consequence,
+
+457
+00:44:38,840 --> 00:44:44,600
+what that means is at the end of the growing season is when most of the sugary producing
+
+458
+00:44:44,600 --> 00:44:50,280
+fruits are being produced. If you could eat enough of those, and you could keep your appetite up
+
+459
+00:44:50,280 --> 00:44:55,960
+enough to just keep consuming anything in place, anything available, you could put on weight. As
+
+460
+00:44:55,960 --> 00:45:00,200
+you go into the cold season. As you go into the cold season. And if you put on enough weight,
+
+461
+00:45:01,080 --> 00:45:06,600
+then you might actually survive to the next spring period when there's actually some roots
+
+462
+00:45:06,600 --> 00:45:12,360
+to dig up to eat and keep going. And anyone who probably almost anyone 50,000 years ago,
+
+463
+00:45:13,080 --> 00:45:20,200
+who didn't put on 50 pounds or so in the fall would not be alive for the next spring. So very
+
+464
+00:45:20,440 --> 00:45:27,560
+strong requirement to gain weight in order to survive a period of time when no food is available.
+
+465
+00:45:27,560 --> 00:45:32,040
+Yeah, Rick Johnson has written so eloquently about this. And I'm blanking on the name of his
+
+466
+00:45:32,040 --> 00:45:37,960
+collaborator, who's an anthropologist. And they even trace it back to which primates probably
+
+467
+00:45:37,960 --> 00:45:42,440
+developed this first. And they were primates that had left Africa, gone to Northern Europe.
+
+468
+00:45:43,240 --> 00:45:48,520
+And most of them die off. It was only the primates that could develop this mutation. And I believe
+
+469
+00:45:48,600 --> 00:45:53,400
+it was a mutation in both uricase and frictekinase. I could be wrong on that. And I've interviewed
+
+470
+00:45:53,400 --> 00:45:58,680
+Rick. And so we can go back and listen to that. But you had to develop this mutation or else you
+
+471
+00:45:58,680 --> 00:46:03,800
+wouldn't survive the winter. And then what happened was tens of thousands, if not longer of years,
+
+472
+00:46:04,440 --> 00:46:10,040
+of strengthening that is what allowed those primates to then come back to Africa to basically
+
+473
+00:46:10,040 --> 00:46:16,040
+become our descendants. So we as humans, as a species, have these mutations that would have
+
+474
+00:46:16,040 --> 00:46:22,440
+served as well when glucose and fricteaus combined were provided just at the right level.
+
+475
+00:46:22,440 --> 00:46:28,600
+Yeah. So if you didn't anticipate that you needed to gain weight, your body would tell you to do it,
+
+476
+00:46:28,600 --> 00:46:34,200
+basically how it came about. And so makes perfect sense. The extreme example is the hibernating bear.
+
+477
+00:46:35,320 --> 00:46:41,640
+We call it the honey bear often, right? Because in the fall, not only do they eat every berry they
+
+478
+00:46:41,640 --> 00:46:48,360
+can find in the woods, but they also climb up the trees and get to the honey bees. And they put on
+
+479
+00:46:48,360 --> 00:46:55,240
+150, maybe even 200 pounds within a period of two or three months. And then they go into extreme
+
+480
+00:46:55,240 --> 00:47:01,960
+insulin resistance and they hibernate, they fall asleep. But because of being insulin resistant,
+
+481
+00:47:02,680 --> 00:47:10,440
+having metabolic syndrome, their ability to break down fats is impaired. And that keeps them from
+
+482
+00:47:10,440 --> 00:47:15,400
+quickly burning up. The metabolism slows greatly. They preserved a little bit of glucose they have
+
+483
+00:47:15,400 --> 00:47:21,560
+for their brain and they feed their body off ketones and fats, I assume. Very long period of
+
+484
+00:47:21,560 --> 00:47:27,480
+time and then they survive. So we don't hibernate, but we probably became insulin resistant every
+
+485
+00:47:27,480 --> 00:47:33,800
+fall, a hundred thousand years ago in order to survive these periods of starvation. I mean,
+
+486
+00:47:34,520 --> 00:47:38,920
+you've touched on this briefly from a public health perspective. I know you're not a
+
+487
+00:47:38,920 --> 00:47:45,000
+policymaker, you're a scientist. Many would say it's impossible. Like we're just never going to
+
+488
+00:47:45,000 --> 00:47:52,120
+see the day when sugary beverages go away, but the data are becoming harder and harder to ignore
+
+489
+00:47:52,120 --> 00:47:57,720
+that there is something uniquely toxic, chronically toxic. People don't like the word toxic because
+
+490
+00:47:57,720 --> 00:48:03,640
+they think it only has an acute implication. Like ethanol can be acutely toxic, but I'm talking about
+
+491
+00:48:03,640 --> 00:48:09,320
+the chronic toxicity, but the chronic toxicity associated with sugar sweetened beverages,
+
+492
+00:48:09,320 --> 00:48:15,160
+inclusive of juices and things like that, right? It's not just a Coke. These data are becoming almost
+
+493
+00:48:15,160 --> 00:48:21,720
+impossible to ignore, yet they still proliferate. I believe their consumption is down. I don't believe
+
+494
+00:48:21,720 --> 00:48:26,760
+people consume nearly the amount of sugar sweetened beverages that they consumed 20 years ago. I believe
+
+495
+00:48:26,760 --> 00:48:32,600
+we peaked at around the turn of the century, but we're nowhere near what you consumed growing up
+
+496
+00:48:32,600 --> 00:48:38,520
+in West Virginia. Is it possible to get back to that? Is there a solution or is it simply something
+
+497
+00:48:38,520 --> 00:48:43,080
+that each person must be accountable for? Do you have a view on that even? How you reverse the
+
+498
+00:48:43,080 --> 00:48:48,840
+policy? I think changing cigarette smoking, there's a lesson to be learned there. What was the
+
+499
+00:48:48,840 --> 00:48:54,840
+incentive? How did the government make this happen? Reducing advertisement is one way to do it. I mean,
+
+500
+00:48:54,840 --> 00:48:59,160
+if you look at TV commercials, almost every commercial about food is about sugary food,
+
+501
+00:48:59,720 --> 00:49:05,080
+and there are many of them tailored to young children to get them to buy the sugary cereals,
+
+502
+00:49:05,080 --> 00:49:08,440
+to get them addicted to young children. You've got them for life. Just like cigarette smokers,
+
+503
+00:49:08,440 --> 00:49:14,120
+you get them addicted at 15, 14. They're addicted for life and there's a market for you. So I think
+
+504
+00:49:14,120 --> 00:49:19,400
+that's the appeal we have to make. And the question is, how do you do this? One way
+
+505
+00:49:19,400 --> 00:49:25,800
+taxing also helps. If sugar suddenly becomes like it was in the 50s, the most expensive thing that
+
+506
+00:49:25,880 --> 00:49:30,600
+you bought at the grocery store, then maybe you would quit buying it. But of course,
+
+507
+00:49:30,600 --> 00:49:34,520
+most people don't buy sugar anymore. They buy processed foods that have sugar already added
+
+508
+00:49:34,520 --> 00:49:40,360
+to them. By the way, looking at your experiments, was there any distinction between if you used
+
+509
+00:49:40,360 --> 00:49:46,920
+sugar as the substrate versus high fructose corn syrup? No. Succrose by sugar, we typically mean
+
+510
+00:49:46,920 --> 00:49:51,720
+sucrose from cane sugar, which can be crystallized because it's a pure molecule.
+
+511
+00:49:51,720 --> 00:49:57,480
+While high fructose corn syrup is a mixture of fructose and glucose, that's 60, 40 rather than
+
+512
+00:49:57,480 --> 00:50:02,680
+50, 50. But in our experiments, the difference between those two doesn't make a whole lot.
+
+513
+00:50:02,680 --> 00:50:07,160
+The fact that you need to, if it's sucrose, you have to hydrolyze the bond is irrelevant to the
+
+514
+00:50:07,160 --> 00:50:12,520
+kinetics you should describe. Yeah, that happens very quickly. So you don't buy the argument that
+
+515
+00:50:12,520 --> 00:50:17,400
+some, I don't buy it either by the way, but that you should eat your sugar in natural form, which
+
+516
+00:50:17,400 --> 00:50:22,040
+is it should say cane sugar or beet sugar or something on the ingredient. And there's this
+
+517
+00:50:22,040 --> 00:50:26,440
+whole group of folks who believe that high fructose corn syrup is horrible, but quote unquote,
+
+518
+00:50:26,440 --> 00:50:31,480
+naturally occurring sugar is not. There's so much confusion around this, but I just want to know if
+
+519
+00:50:31,480 --> 00:50:36,760
+experimentally you see any difference. No, I think whether sucrose, what shows the difference is
+
+520
+00:50:36,760 --> 00:50:43,720
+whether the sugar is embedded in a fibrous fruit as opposed to being pure in a water. There's
+
+521
+00:50:43,720 --> 00:50:48,840
+something about that liquid that is devastating. There are two things. One for colorectal cancer,
+
+522
+00:50:48,840 --> 00:50:55,880
+it is, as I said before, the fact that having it in a sugary water drink gets it all the way to the
+
+523
+00:50:55,880 --> 00:51:01,640
+colon. If you had the exact same amount of sugar, but it was embedded in a fibrous fruit, like an
+
+524
+00:51:01,640 --> 00:51:06,920
+apple, then none of that fructose would make it to the colon. The transits to the intestine would be
+
+525
+00:51:06,920 --> 00:51:13,400
+so slow that the sugar would have get absorbed. But does that increase the risk of cancer
+
+526
+00:51:13,400 --> 00:51:19,080
+in other organs? No, I think this is absolutely unique to colorectal cancer. But I would argue
+
+527
+00:51:19,080 --> 00:51:24,920
+on the other hand, the difference between eating an apple and eating apple juice, not only is
+
+528
+00:51:24,920 --> 00:51:29,960
+whether the fructose makes it all the way to the colon, but whether or not your glucose levels
+
+529
+00:51:30,520 --> 00:51:38,200
+spike after consuming an apple, a whole apple eating it as opposed to apple juice. And the
+
+530
+00:51:38,200 --> 00:51:44,200
+answer is with apple juice, you're going to get a glucose spike for sure. Eating an apple, you may
+
+531
+00:51:44,200 --> 00:51:50,280
+get hardly any change in your glucose because it takes so long to break it down that the absorbance
+
+532
+00:51:50,280 --> 00:51:54,040
+is slow. And you might, you know, what I've observed, I don't drink apple juice. I don't drink
+
+533
+00:51:54,040 --> 00:52:00,280
+beverages that have sugar in them. But what I notice is nothing has ever spiked my blood sugar
+
+534
+00:52:00,280 --> 00:52:06,840
+more than a raisin on a per mass basis. You took a fixed mass of raisins and you contrast it with
+
+535
+00:52:06,840 --> 00:52:11,880
+a fixed mass of anything else. It's pretty stark because it doesn't have the water, doesn't have the
+
+536
+00:52:11,880 --> 00:52:18,360
+fiber, doesn't have anything else. And even if you ate, say call it, compare apple to apple juice,
+
+537
+00:52:18,360 --> 00:52:25,080
+if you did equal grams of glucose, you might even get a similar area under the curve. But where
+
+538
+00:52:25,080 --> 00:52:30,920
+it's going to look different is the apple juice, which will have, you'll get a big spike and the
+
+539
+00:52:30,920 --> 00:52:35,560
+apple, you'll get a gradual, you're going to have different insulins in response to this. So the
+
+540
+00:52:35,560 --> 00:52:39,960
+glucose AUC could be the same, but the insulin response could be quite different. That's the
+
+541
+00:52:39,960 --> 00:52:44,600
+point. And it's, in my opinion, it's all about insulin. Most endocrinologists worry about the
+
+542
+00:52:44,600 --> 00:52:49,000
+glucose. I worry about the insulin. So really there's three things you're worried about. You're
+
+543
+00:52:49,000 --> 00:52:55,000
+worried about glucose, fructose, and insulin, but in how they coexist. Right. So colorectal cancer
+
+544
+00:52:55,000 --> 00:52:59,800
+is unique and you can feed directly off the fructose if you get it all the way to the colon
+
+545
+00:53:00,600 --> 00:53:05,160
+through a liquid form. But it has to be in liquid form. But the difference between liquid form
+
+546
+00:53:05,720 --> 00:53:11,400
+and apple juice is, as you say, the area in the curve is the same, but the fact that the glucose
+
+547
+00:53:11,400 --> 00:53:16,360
+isn't going up as high means you don't get as much insulin release. And of course, if digested very
+
+548
+00:53:16,360 --> 00:53:23,480
+slowly, the rate at which you're ambitly burning glucose in your brain and muscle may be almost
+
+549
+00:53:23,480 --> 00:53:27,240
+equal to the rate at which it gets absorbed in the bloodstream, in which case you hardly see any
+
+550
+00:53:27,240 --> 00:53:33,480
+increase at all. And that means no spike in insulin whatsoever. So that's the ideal situation,
+
+551
+00:53:34,280 --> 00:53:40,360
+is to never allow that insulin to get high. Now, before we go into the why, I want to go back to
+
+552
+00:53:41,160 --> 00:53:48,600
+some experiments, some drugs, and something you said earlier. Let's go back to PI3 kinase.
+
+553
+00:53:49,560 --> 00:53:53,480
+Everything you said about PI3 kinase would make someone listening to this think,
+
+554
+00:53:54,280 --> 00:54:01,160
+if you could block it with a drug, could you block cancer? Well, obviously you thought of that.
+
+555
+00:54:01,160 --> 00:54:08,600
+So tell us about drugs that block PI3K inhibitors when given to cancer patients.
+
+556
+00:54:08,600 --> 00:54:15,960
+Okay, so by 1990, I was quite sure that everything insulin did went through PI3 kinase. And it was
+
+557
+00:54:15,960 --> 00:54:21,160
+also quite clear to me that many cancers have emerged because of activation of PI3 kinase.
+
+558
+00:54:21,960 --> 00:54:27,560
+Some pharmaceutical companies came to me and said, should we develop the PI3 kinase inhibitor?
+
+559
+00:54:28,280 --> 00:54:35,240
+And I said, well, I can't imagine how you would be able to thread that needle of being able to
+
+560
+00:54:36,120 --> 00:54:42,360
+inhibit PI3 kinase without causing diabetes, without causing severe diabetes. And unless
+
+561
+00:54:42,360 --> 00:54:47,160
+insulin went up high enough to offset the inhibition of PI3 kinase, you would have to go
+
+562
+00:54:47,160 --> 00:54:52,520
+off the drug because of the hyperglycemia. If you raise the insulin level, it could override the
+
+563
+00:54:52,520 --> 00:54:57,320
+PI3 kinase, it's also going to activate the tumor to grow more. So it could be worse.
+
+564
+00:54:57,320 --> 00:55:03,320
+Yeah, so I was skeptical and never, in spite of all of our data saying that PI3 kinase
+
+565
+00:55:03,880 --> 00:55:09,880
+was driving a lot of cancers, I never pulled the trigger in starting a company or even encouraging
+
+566
+00:55:09,880 --> 00:55:16,280
+anyone else to start a company to make inhibitors of PI3 kinase. The fact that mutations in PI3
+
+567
+00:55:16,280 --> 00:55:20,680
+kinase were picked up in Bert Vogelstein's laboratory in colorectal cancer and ultimately
+
+568
+00:55:20,680 --> 00:55:26,200
+shown to be in many types of cancers led the charge to actually develop an inhibitor because
+
+569
+00:55:26,200 --> 00:55:32,600
+by then it was clear that other mutant-hirusin kinases, when they were hypermutated or
+
+570
+00:55:32,600 --> 00:55:38,600
+hyperproduced in cells, could be drugged and those would be effective ways to block cancer growth.
+
+571
+00:55:38,600 --> 00:55:44,920
+So with those observations, numerous companies, probably 15 companies, went after projects
+
+572
+00:55:44,920 --> 00:55:50,360
+developing PI3 kinase inhibitors. I was still skeptical that you would be able to manage the
+
+573
+00:55:50,440 --> 00:55:56,360
+insulin problem, but agreed, in fact, applied for and got funding from Stand Up to Cancer,
+
+574
+00:55:56,360 --> 00:56:00,920
+American Association of Cancer Research, to put a team together to try to figure out how to most
+
+575
+00:56:00,920 --> 00:56:08,200
+effectively use those inhibitors as they went into the clinic. And I remember after we received that
+
+576
+00:56:08,200 --> 00:56:15,400
+money, several pharmaceutical companies contacted me and said, will you work with us? We have a PI3
+
+577
+00:56:15,400 --> 00:56:19,800
+kinase inhibitor in human phase one trials. And they said, what's more, it doesn't cause
+
+578
+00:56:19,800 --> 00:56:23,800
+hyperglycemia, so it's going to be a safe drug. And I said, well, if it doesn't work,
+
+579
+00:56:23,800 --> 00:56:28,280
+if it doesn't cause hyperglycemia, it's not hitting PI3 kinase. So no, I'm not interested
+
+580
+00:56:29,080 --> 00:56:34,920
+working with a drug that doesn't cause hyperglycemia. Ultimately, we decided to work
+
+581
+00:56:34,920 --> 00:56:40,280
+primarily with Novartis that had a drug that we, several drugs actually, that clearly called
+
+582
+00:56:40,280 --> 00:56:45,640
+hyperglycemia. So I was convinced that they were hitting PI3 kinase and that that was in one target
+
+583
+00:56:45,720 --> 00:56:53,160
+effect. And the question then is, can you thread that needle? Can you manage the glucose level
+
+584
+00:56:53,160 --> 00:56:58,840
+without getting insulin levels so high that they would reactivate PI3 kinase in the tumor?
+
+585
+00:56:58,840 --> 00:57:04,760
+And that had been the challenge. So we suspected, I should say that in working with Novartis,
+
+586
+00:57:04,760 --> 00:57:11,320
+we got them to agree that if when the patients got hyperglycemia, that the endocrinologist would
+
+587
+00:57:11,320 --> 00:57:18,840
+judge was not tolerable, that they would ensure that if the patient could not be managed on
+
+588
+00:57:18,840 --> 00:57:23,320
+metformin, that they would have to go off the trial. In other words, I didn't want them to be
+
+589
+00:57:23,320 --> 00:57:29,080
+given insulin. I didn't want them to be given insulin or an insulin secretagogue, which also
+
+590
+00:57:29,080 --> 00:57:35,160
+raises serum insulin. And I should say that the endocrinologists who were called in and consulted
+
+591
+00:57:35,160 --> 00:57:40,360
+for these patients who were hyperglycemic on the trial disagreed with me. They said insulin is
+
+592
+00:57:40,360 --> 00:57:46,120
+totally safe. They should be able to get insulin. And we should do it that way. But I was quite
+
+593
+00:57:46,120 --> 00:57:51,960
+adamant. I said, well, I won't work with you on these trials unless you exclude patients who have
+
+594
+00:57:51,960 --> 00:57:56,920
+to be managed on insulin or insulin secretagogues. So Novartis kind of reluctantly agreed to do that
+
+595
+00:57:56,920 --> 00:58:03,080
+and went all the way through their approval trial with that as their requirement. Anyone who couldn't
+
+596
+00:58:03,080 --> 00:58:09,080
+be managed who would need an insulin or insulin secretagogue would be off the trial. And their
+
+597
+00:58:09,080 --> 00:58:14,920
+drug got approved just in May this year. It took a long time because roughly half the patients who
+
+598
+00:58:14,920 --> 00:58:21,160
+tried to enroll could not be managed on metformin. Could you also use SGLT2 inhibitors? So at that
+
+599
+00:58:21,160 --> 00:58:27,800
+time, the SGL2 inhibitors had not yet been approved. So we're talking about 10 years ago,
+
+600
+00:58:27,800 --> 00:58:34,280
+when the phase 1B trials that were the lead into the approval trial were being where we worked with
+
+601
+00:58:34,280 --> 00:58:39,960
+Novartis on that. But Novartis stuck with the initial requirement through their approval trial
+
+602
+00:58:40,600 --> 00:58:44,600
+that everything had to be managed on metformin. Otherwise, they had to go off the trial. And
+
+603
+00:58:44,600 --> 00:58:47,960
+that's why it took them a long time to enroll enough patients to complete the trial.
+
+604
+00:58:48,520 --> 00:58:54,520
+Now the SGL2 inhibitors are approved sodium glucose co-transporter inhibitors that reabsorb
+
+605
+00:58:55,320 --> 00:59:01,480
+glucose from the ultrafiltrate in the kidney. If you block that, then the glucose ends up in the
+
+606
+00:59:01,560 --> 00:59:08,440
+urine. And so that's a good way to lower glucose and thereby lower insulin. So that tool wasn't
+
+607
+00:59:08,440 --> 00:59:14,200
+available at that time. It's now available today. So we did a study over the last four years. It took
+
+608
+00:59:14,200 --> 00:59:20,360
+a long time to do this. Lots and lots of mice and lots of experiments to test whether in a mouse
+
+609
+00:59:20,360 --> 00:59:26,440
+model for cancers, a variety of cancers, 12 different types of cancers, if you give a PI3
+
+610
+00:59:26,520 --> 00:59:33,400
+kinase inhibitor and use either a sodium glucose co-transporter inhibitor or put the patients on
+
+611
+00:59:33,400 --> 00:59:41,480
+a ketogenic diet, which means that they only have about 8% of their total diet as carbohydrate. And
+
+612
+00:59:41,480 --> 00:59:49,160
+even that is slow release carbohydrate. The rest, 80% is fat and 12% is protein. And we ask now
+
+613
+00:59:49,160 --> 00:59:55,480
+comparing metformin versus insulin versus sodium glucose co-transporter inhibitor versus a
+
+614
+00:59:55,480 --> 01:00:01,960
+ketogenic diet, what works best in getting the PI3 kinase inhibitors to shrink the tumor.
+
+615
+01:00:01,960 --> 01:00:06,600
+And I want to just pause for a moment. This is something you alluded to in passing 30 minutes
+
+616
+01:00:06,600 --> 01:00:13,720
+ago, which is very important, which was insulin can go around the PI3K inhibitor when you block it.
+
+617
+01:00:13,720 --> 01:00:19,880
+And that's why just blocking PI3K alone wasn't going to be enough. Is that correct?
+
+618
+01:00:19,880 --> 01:00:29,720
+More accurately, we know that if you take a tumor that has PI3 kinase mutations, for example,
+
+619
+01:00:29,720 --> 01:00:34,440
+ex vivo. So we did a lot of this work in organoids from our human patients at Weill Cornell,
+
+620
+01:00:34,440 --> 01:00:40,280
+and we would take an organoid in a mutual tumor, for example, and give it a PI3 kinase
+
+621
+01:00:40,280 --> 01:00:46,920
+inhibitor at the therapeutic dose, and we could kill every cell in that organoid. But if we now
+
+622
+01:00:47,000 --> 01:00:52,520
+added back the level of insulin that would be in the bloodstream, at the level of glucose that they
+
+623
+01:00:52,520 --> 01:00:56,520
+would have experienced, and the level of insulin that we actually measure in the blood of the
+
+624
+01:00:56,520 --> 01:01:01,400
+patient 30 minutes after giving them the inhibitor, how high is an insulin level typically in that
+
+625
+01:01:01,400 --> 01:01:08,440
+patient? So 10 nanograms per mil is roughly what we see within 15 to 30 minutes. And by 90 minutes,
+
+626
+01:01:08,440 --> 01:01:15,400
+it's up to twice that 10 to 20 to 30 nanograms per mil of insulin. And by two hours, the insulin
+
+627
+01:01:15,400 --> 01:01:22,200
+level was high enough that the glucose now in the bloodstream starts to drop. So that tells us
+
+628
+01:01:22,200 --> 01:01:28,680
+that that massive amount of insulin is enough to reactivate PI3 kinase in the liver and muscle.
+
+629
+01:01:28,680 --> 01:01:34,280
+And so it's not going around PI3 kinase, it's just reactivating in spite of the presence of the drug.
+
+630
+01:01:34,280 --> 01:01:37,560
+Because you can't develop a complete inhibitor for physiologic reasons.
+
+631
+01:01:37,560 --> 01:01:41,000
+That's right. At the dose that you can tolerate. Fighting this battle.
+
+632
+01:01:41,000 --> 01:01:41,800
+I see. I see.
+
+633
+01:01:41,800 --> 01:01:43,080
+If you completely turn off PI3 kinase.
+
+634
+01:01:43,080 --> 01:01:48,360
+So insulin still has to go through PI3K no matter what. You're putting up a porous dam
+
+635
+01:01:49,000 --> 01:01:51,960
+because a complete dam would kill the patient. Exactly.
+
+636
+01:01:51,960 --> 01:01:54,920
+And insulin is tougher, and in the end, it's going to win.
+
+637
+01:01:55,480 --> 01:01:59,000
+So let's suppose you're giving an estrogen receptor antagonist,
+
+638
+01:01:59,960 --> 01:02:07,000
+and you start getting toxic effects of losing estrogen. Would you decide that you would now
+
+639
+01:02:07,000 --> 01:02:08,360
+get estrogen? Yeah.
+
+640
+01:02:09,880 --> 01:02:14,600
+To correct that problem. And so that's what the endocrinologists are saying. We want to
+
+641
+01:02:14,600 --> 01:02:18,360
+give them insulin to bring their glucose down. You're like, that's the whole thing we're trying
+
+642
+01:02:18,360 --> 01:02:22,200
+to stop here. That's what we're trying to stop is insulin because insulin is what's driving
+
+643
+01:02:22,200 --> 01:02:28,360
+the activation. Those mutations in PI3 kinase will not activate PI3 kinase unless insulin is
+
+644
+01:02:28,360 --> 01:02:33,080
+added to the tumor. And I recall, I think I even told this story. I may have told this story when
+
+645
+01:02:33,080 --> 01:02:39,160
+I was talking with Sid on the podcast, but we were having dinner one night and I talked about
+
+646
+01:02:39,160 --> 01:02:45,080
+a friend of mine with breast cancer who was in a trial and she was in an arm in one of the Boston
+
+647
+01:02:45,080 --> 01:02:52,520
+hospitals and she was on a PI3K inhibitor. And I think it was a phase two. She was the only woman
+
+648
+01:02:52,520 --> 01:02:58,680
+who survived. She's still alive today. The only woman with metastatic breast cancer that survived
+
+649
+01:02:58,680 --> 01:03:03,720
+who on her own went on a ketogenic diet. And I remember telling you this out of curiosity,
+
+650
+01:03:03,720 --> 01:03:07,560
+like, Lou, what do you think of this? Do you think this is just an odd coincidence?
+
+651
+01:03:08,360 --> 01:03:14,360
+And that was the time that you and Sid were starting these experiments. As Sid described it,
+
+652
+01:03:14,360 --> 01:03:19,880
+that was sort of maybe the final clinical, the little pearl that sort of made you guys go off
+
+653
+01:03:19,880 --> 01:03:24,040
+and do this. And that paper was published a year ago, right? That was published last summer,
+
+654
+01:03:24,040 --> 01:03:31,080
+last July. So what was the efficacy of a ketogenic diet versus an SGLT2 inhibitor in
+
+655
+01:03:31,080 --> 01:03:37,720
+Metformin? Were they equal? So if you did a run-in to the ketogenic diet, so they have an entire week
+
+656
+01:03:37,720 --> 01:03:43,320
+on the diet, and then they're given the inhibitor, it's incredibly effective because by then you've
+
+657
+01:03:43,320 --> 01:03:48,920
+depleted all the glycogen, all the relevant tissues. If you just start on the ketogenic diet
+
+658
+01:03:48,920 --> 01:03:55,000
+a day before you give the first PI3-kinase inhibitor, it's still pretty effective,
+
+659
+01:03:55,000 --> 01:04:00,360
+but not as effective as the whole week run-in to deplete glycogen. Is there any reason not to
+
+660
+01:04:00,360 --> 01:04:06,440
+combine these? Ketogenic diet, Metformin, SGLT2 inhibitor, PI3K inhibitor as a
+
+661
+01:04:06,440 --> 01:04:10,280
+FU to cancer? Four cancers dependent on this pathway of course. Yes. Well, let me address
+
+662
+01:04:10,280 --> 01:04:15,480
+the sodium glucose co-transporter inhibitor first, because that is almost as effective as
+
+663
+01:04:15,480 --> 01:04:21,480
+a ketogenic diet in our mouse models. It keeps the glucose level not quite as low as a ketogenic
+
+664
+01:04:21,480 --> 01:04:27,960
+diet, but pretty damn low. And the importance of course is in both cases, it brings the insulin,
+
+665
+01:04:27,960 --> 01:04:34,840
+imid insulin in the serum drops dramatically. But the important thing is that every single 12
+
+666
+01:04:34,840 --> 01:04:40,440
+different types of cancers, some of them had PI3-kinase mutations, others didn't, some were rasp
+
+667
+01:04:40,440 --> 01:04:46,920
+mutant tumors, didn't matter, some were, one was AML and SIDS study. That's right, we're talking
+
+668
+01:04:46,920 --> 01:04:51,880
+about that then. And I was skeptical that AML would have, because you never see a PI3-kinase mutation
+
+669
+01:04:51,880 --> 01:04:58,280
+at AML. But the bottom line was, there was a benefit in every single cancer we looked at.
+
+670
+01:04:58,280 --> 01:05:02,120
+The reason we did 12 different types, we were trying to find one example of a cancer. That
+
+671
+01:05:02,120 --> 01:05:05,800
+would violate this principle. That would violate the principle. The bottom line is, I think all
+
+672
+01:05:05,800 --> 01:05:12,520
+cancers require some amount of PI3-kinase to survive. And so if we can keep the insulin level
+
+673
+01:05:12,520 --> 01:05:16,440
+low, and insulin of course is the best way to activate PI3-kinase, if you can keep the insulin
+
+674
+01:05:16,440 --> 01:05:22,600
+level low, and now turn off PI3-kinase, you don't get that rebound of insulin, and the tumors just
+
+675
+01:05:22,600 --> 01:05:28,520
+go away. So ketogenic diet, if you can stay on it, would be my recommendation if you have cancer
+
+676
+01:05:28,520 --> 01:05:33,880
+and you're going on a PI3-K inhibitor. Sodium glucose co-transporter inhibitor, however, is
+
+677
+01:05:33,880 --> 01:05:38,760
+easier for most people to take. It's a pill. And that's, I would say, the second best.
+
+678
+01:05:38,760 --> 01:05:42,360
+And of course, again, it's hard because we're sitting here, we can't give medical advice to
+
+679
+01:05:42,360 --> 01:05:47,000
+people. I get asked this question all the time. It's a very difficult question to answer because
+
+680
+01:05:47,000 --> 01:05:51,640
+I'm not managing the given patient. But cancer patients are among the most motivated patients
+
+681
+01:05:51,640 --> 01:05:55,240
+you'll ever meet. I mean, you know this, you've been involved in these trials. They will do
+
+682
+01:05:55,240 --> 01:06:00,280
+anything they believe has some modicum of science behind it that can increase their odds of survival.
+
+683
+01:06:01,240 --> 01:06:08,520
+Tragically, we're still kind of living in a world where the mainstream approach to this is a little
+
+684
+01:06:08,520 --> 01:06:14,200
+bit convoluted. Obviously, one of the most significant concerns that many oncologists have,
+
+685
+01:06:14,200 --> 01:06:18,200
+well-meaning, is that patients are going to lose weight. I don't know how bad it is today, but
+
+686
+01:06:18,200 --> 01:06:23,320
+certainly back when I was on the wards, we would force feed cancer patients with Insure.
+
+687
+01:06:24,200 --> 01:06:28,600
+I don't know if you've ever had Insure, Lou, but let me ensure you, it is full of sugar.
+
+688
+01:06:28,680 --> 01:06:32,840
+So now we're back to force feeding patients liquid sugar when they have cancer because we're
+
+689
+01:06:32,840 --> 01:06:40,440
+afraid of them losing weight. Exactly. So one caveat or one concern which came out of the SIDS
+
+690
+01:06:40,440 --> 01:06:47,720
+part of our trial is that, at least in the mouse models of AML, ketogenic diet alone...
+
+691
+01:06:47,720 --> 01:06:51,880
+It was actually negative, wasn't it? Ketergenic diet alone in most of the tumors doesn't have
+
+692
+01:06:51,880 --> 01:06:57,560
+too much. So just switching to a ketogenic diet, I think it's rare that that alone is going to work.
+
+693
+01:06:57,640 --> 01:07:04,920
+Maybe in some cases, but in the case of the AML, there was some evidence of some toxicity that came
+
+694
+01:07:04,920 --> 01:07:10,520
+in the context, not normal-miced ketogenic diet, they're perfectly healthy. They live a normal
+
+695
+01:07:10,520 --> 01:07:16,520
+lifespan. In fact, probably live a little longer, but in the context of this AML model that SIDS lab
+
+696
+01:07:16,520 --> 01:07:21,960
+was using, there could be some adverse effects. So we're cautioning people don't automatically go on
+
+697
+01:07:21,960 --> 01:07:26,680
+a ketogenic diet if you have cancer, unless you can have somebody paying attention to
+
+698
+01:07:26,680 --> 01:07:31,800
+potential side effects. Well, I had the luxury of sending... I mean, you've been so generous and
+
+699
+01:07:31,800 --> 01:07:37,800
+I've sent many tissue specimens to you from patients or friends, relatives of patients,
+
+700
+01:07:37,800 --> 01:07:43,080
+and you've got your own CLIA developed assay to look for insulin receptors. And we've even made
+
+701
+01:07:43,080 --> 01:07:47,960
+clinical decisions based on that, which is this is a patient who has lots of insulin receptor on
+
+702
+01:07:47,960 --> 01:07:52,920
+their tumor. This is a favorable approach to cancer. This is a patient who doesn't,
+
+703
+01:07:52,920 --> 01:07:58,360
+might not make that sense. How far is that type of an assay away from being a mainstream
+
+704
+01:07:58,360 --> 01:08:05,720
+assay that any physician can use as part of their toolkit to start to customize cancer therapy?
+
+705
+01:08:05,720 --> 01:08:11,320
+To reveal my conflicts here, I do have a company I've started, Petro Pharmaceuticals, that is
+
+706
+01:08:11,320 --> 01:08:17,160
+beginning a PI3 kinase inhibitor trial. It will be combined with sodium glucose co-transporter
+
+707
+01:08:17,160 --> 01:08:20,840
+inhibitor. Oh, I didn't even realize I'm bringing up all this stuff. I'm teeing it up for you here,
+
+708
+01:08:20,920 --> 01:08:25,560
+right? Yeah. That trial will be starting any day now. What type of cancers,
+
+709
+01:08:25,560 --> 01:08:29,640
+Lou? Are you looking for enrollment? So in phase one here, it's going to be a combination
+
+710
+01:08:29,640 --> 01:08:34,600
+with sodium glucose co-transporter inhibitor plus PI3 kinase alpha inhibitor. Initially,
+
+711
+01:08:34,600 --> 01:08:39,240
+we'll be looking at solid tumors, breast endometrial, where you see high rates of mutations,
+
+712
+01:08:39,240 --> 01:08:43,720
+but we won't... So breast endometrial in what stage of disease? Is this stage four? Yes,
+
+713
+01:08:43,720 --> 01:08:48,120
+in stage four disease. So have you fully enrolled or? No, no, we're just, you know,
+
+714
+01:08:48,120 --> 01:08:52,440
+trials just hasn't enrolled. So in other words, someone's listening to this that either has or
+
+715
+01:08:52,440 --> 01:08:57,720
+knows someone with breast or endometrial cancer, who is stage four, how can they best find out
+
+716
+01:08:57,720 --> 01:09:01,800
+information on this trial? So Petro Pharmaceuticals, so of course, this will be registered at
+
+717
+01:09:01,800 --> 01:09:07,400
+clinicaltrials.gov, where you can find every single trial. So if you just go to clinicaltrials.gov
+
+718
+01:09:07,400 --> 01:09:13,960
+and type in Petra, P-E-T-R-A, that will... We'll link to that for sure. How many patients will you
+
+719
+01:09:13,960 --> 01:09:19,400
+take in the phase one? I've forgotten the exact number, but there depends on how many responses
+
+720
+01:09:19,400 --> 01:09:24,200
+we see and so forth. But the dose escalation... The dose escalation is going to be pretty quick
+
+721
+01:09:24,200 --> 01:09:29,240
+because we already have, we know what the dose is without a... Each of these drugs, you sort of know
+
+722
+01:09:29,240 --> 01:09:33,800
+what they do. We know, we don't anticipate any... So the hope is to get to phase two quickly. Yeah,
+
+723
+01:09:33,800 --> 01:09:38,120
+we should get to phase two very quickly. And the person, patients on the phase one could transition
+
+724
+01:09:38,200 --> 01:09:43,720
+into the phase two. This is really exciting, Lou. So in that case, we will recommend that they have
+
+725
+01:09:43,720 --> 01:09:47,640
+for breakfast because all these drugs, most of these drugs require that you eat breakfast before
+
+726
+01:09:47,640 --> 01:09:52,120
+you take the pill because that limits some of the toxicity you should get from and increases
+
+727
+01:09:52,120 --> 01:09:57,320
+the absorbance. But I think it makes a hell of a lot of difference what you have for breakfast.
+
+728
+01:09:57,320 --> 01:10:04,040
+So you'll recommend scrambled eggs and avocado and... Whole milk yogurt and not yogurt with sugar.
+
+729
+01:10:04,280 --> 01:10:07,720
+Yeah, yeah. Or high fat yogurt and... High fat yogurt.
+
+730
+01:10:07,720 --> 01:10:10,360
+With some crunched almonds in it or something like that, yeah.
+
+731
+01:10:10,360 --> 01:10:14,920
+Right. Now, Lou, is there any way to pair? Absolutely no juice, no inshore.
+
+732
+01:10:14,920 --> 01:10:19,720
+Yeah. In that time in the morning now, by the evening, the drug will have already
+
+733
+01:10:19,720 --> 01:10:25,320
+be below effective dose. So one might have some elasticity for what you had for your evening meal.
+
+734
+01:10:25,320 --> 01:10:29,000
+Although I will tell you something, Lou, you probably see this thing on my arm, right?
+
+735
+01:10:29,880 --> 01:10:36,200
+That's a glucose meter. I know what a nighttime high glucose meal, I know what a dessert at dinner
+
+736
+01:10:36,200 --> 01:10:41,880
+can do to my glucose in the morning and my insulin and it's still high. So for people listening to
+
+737
+01:10:41,880 --> 01:10:46,360
+this who want to enroll in this trial or even for you, Lou, I would just say the more stringent
+
+738
+01:10:46,360 --> 01:10:52,600
+people can be based on what you're saying. If the hypothesis that's being tested is more insulin is
+
+739
+01:10:52,600 --> 01:10:57,320
+worse, I think you're almost better off just biting the bullet and saying we're going to do
+
+740
+01:10:57,320 --> 01:11:04,520
+ketogenic diets. In fact, is there any probability in this trial of actually providing the meals to
+
+741
+01:11:04,520 --> 01:11:10,760
+the subjects to make it easier? So I have another conflict here. I've also started a company that
+
+742
+01:11:10,760 --> 01:11:17,480
+says making meals for dietary intervention in cancers in general. And this company, also,
+
+743
+01:11:17,480 --> 01:11:23,240
+Sid Mukherjee is a co-founder of this company as well called Feas Pharmaceuticals. How do you spell
+
+744
+01:11:23,240 --> 01:11:33,240
+that? Feas, F-A-E-T-H, which is a Welsh name for health, F-A-E-T-H. So my co-founders are Karen
+
+745
+01:11:33,240 --> 01:11:40,360
+Valston and Oliver Maddox from her laboratory, Ben Hopkins and Marcus Concalves from my laboratory.
+
+746
+01:11:40,360 --> 01:11:44,120
+These are a lot of the folks that were on that paper last summer. Ben was the first author,
+
+747
+01:11:44,120 --> 01:11:50,600
+right? Right. Sid Mukherjee, also founder of this, also Scott Lowe and Greg Hannon. I think I got
+
+748
+01:11:50,680 --> 01:11:59,240
+every question. And the idea here is for patients who have cancers, which the KD will be potentially
+
+749
+01:11:59,240 --> 01:12:05,320
+a viable adjunct to what they're doing, the idea is let's pharmaceuticalize it, basically. So is
+
+750
+01:12:05,320 --> 01:12:10,920
+Feas already selling product? No, it's just now getting started. We've gotten it funded and we're
+
+751
+01:12:10,920 --> 01:12:15,880
+looking now for where we're going to be making the meals and how and whether we contract some
+
+752
+01:12:15,880 --> 01:12:21,400
+of the meals out or we do them internally. This isn't going to be purely ketogenic, although we
+
+753
+01:12:21,400 --> 01:12:26,200
+will focus on preparing the meals, make sure they have exactly the composition that we expect,
+
+754
+01:12:26,200 --> 01:12:32,760
+rather than just giving advice and hoping people find the right foods. But it's not purely
+
+755
+01:12:32,760 --> 01:12:38,840
+ketogenic. In some cases, there's evidence coming out of Karen's lab and also my lab that reducing
+
+756
+01:12:38,840 --> 01:12:45,800
+serine levels can make some drugs more effective. Producing methionine levels can make other drugs
+
+757
+01:12:45,800 --> 01:12:50,440
+more effective in different mutational backgrounds. Say more about those two. I mean, those
+
+758
+01:12:50,440 --> 01:12:55,960
+methionine and leucine might be two of the more potent activators of the target of rapamycin,
+
+759
+01:12:55,960 --> 01:13:00,600
+TOR. Tell me about serine. That one's a bit, we don't hear about that as much. So serine,
+
+760
+01:13:00,600 --> 01:13:06,760
+some tumors rely on synthesizing, can either use serine in the serum or they can synthesize their
+
+761
+01:13:06,760 --> 01:13:14,840
+own serine. So the enzyme phosphoglycerate dehydrogenase, PHGDH, is the first step in
+
+762
+01:13:14,920 --> 01:13:20,200
+converting intermediates of glycolysis into serine and glycine synthesis. You need serine
+
+763
+01:13:20,200 --> 01:13:25,800
+and glycine in order to make nucleotides as well as glutathione. So for redox potential
+
+764
+01:13:26,440 --> 01:13:33,640
+and for combating ross rather, and also for building nucleotides, you need serine and glycine.
+
+765
+01:13:34,680 --> 01:13:38,840
+So you're trying to selectively deprive a cancer cell from nucleotide precursor.
+
+766
+01:13:38,840 --> 01:13:45,240
+That's right. How difficult is it to restrict methionine and serine in food?
+
+767
+01:13:45,240 --> 01:13:51,320
+So this has been done both in humans and in mice. Diets have been tried too. And you can get the
+
+768
+01:13:51,320 --> 01:13:58,200
+serine level down about tenfold and still have quite viable human. What about methionine?
+
+769
+01:13:58,200 --> 01:14:03,960
+Similar. You can also. Without just restricting protein. Right. We've been using diets for
+
+770
+01:14:04,040 --> 01:14:09,480
+metabolic disease intervention for years. Children lacking enzyme in particular. Sure.
+
+771
+01:14:09,480 --> 01:14:15,320
+Ketogenic diets for epilepsy and things like that. But even ketoneuria. PKU. Yeah. PKU.
+
+772
+01:14:15,960 --> 01:14:23,000
+You need to reduce the phenylalanine in the diet. So this idea that you could get better clinical
+
+773
+01:14:23,000 --> 01:14:30,120
+outcomes by changing amino acids, for example, in their diet, it's been proven clinically and
+
+774
+01:14:30,200 --> 01:14:35,160
+in bone areas and metabolism. So the idea that the same kinds of interventions and in fact,
+
+775
+01:14:35,160 --> 01:14:40,360
+ketogenic diets, as you say, were developed for not for cancer, but for epileptic seizure syndromes.
+
+776
+01:14:40,360 --> 01:14:46,040
+Yeah. Have you seen the data that have suggested this is a little changing gears. I don't want to
+
+777
+01:14:46,040 --> 01:14:51,240
+let you leave without at least some discussion of this, that in certain cancers, when you restrict
+
+778
+01:14:51,240 --> 01:14:56,120
+glucose, which would then imply potentially a ketogenic diet, you actually make the cancers
+
+779
+01:14:56,120 --> 01:15:01,240
+more robust and in particular in pancreatic cancer. Have you seen some of these data?
+
+780
+01:15:01,240 --> 01:15:06,840
+Actually, I've seen the opposite in pancreatic cancer. If you use a ketogenic diet in combination
+
+781
+01:15:06,840 --> 01:15:14,600
+with the drug. So in our hands, putting the mouse that has a K-RAS, P53 mutant pancreatic cancer,
+
+782
+01:15:14,600 --> 01:15:20,280
+which is majority of human cancers have those mutational events. So in that context,
+
+783
+01:15:20,280 --> 01:15:24,280
+ketogenic diet doesn't really do anything. It doesn't accelerate. It doesn't slow it down.
+
+784
+01:15:25,240 --> 01:15:30,440
+But if we combine that with the PI3, and PI3-Kineson never doesn't do anything to those tumors either.
+
+785
+01:15:31,000 --> 01:15:36,200
+But we give the two together, the tumors completely disappear. So you have to combine
+
+786
+01:15:36,200 --> 01:15:42,680
+the diet with the right drug or it doesn't really work. And it's really this diet drug pairing that
+
+787
+01:15:42,680 --> 01:15:49,160
+is really on the cusp of innovation right now. We're scratching the surface of that, right? And
+
+788
+01:15:49,160 --> 01:15:54,280
+will these two companies, Feith and what was the other one? Petra. Petra. Is the goal that
+
+789
+01:15:54,280 --> 01:15:59,160
+these companies collaborate and start to pair diet with drug? Yes, we could certainly do that
+
+790
+01:15:59,160 --> 01:16:04,760
+at this point. As I say, for Petra, we focused on the sodium glucose co-transporter inhibitor
+
+791
+01:16:04,760 --> 01:16:09,800
+because we think compliance will be easier to monitor. And at this stage, we aren't yet revved
+
+792
+01:16:09,800 --> 01:16:16,920
+up to produce the diets that would allow those trials to continue. But yes, we could move on to
+
+793
+01:16:16,920 --> 01:16:21,080
+a ketogenic diet and even possibly on top of a sodium glucose co-transporter inhibitor.
+
+794
+01:16:21,640 --> 01:16:26,040
+But we'd have to do a phase one study. Yeah, you still have to go back to phase one.
+
+795
+01:16:26,040 --> 01:16:30,200
+Phase one B. How many PI3-K inhibitors are currently approved by the FDA?
+
+796
+01:16:31,080 --> 01:16:37,560
+So there's the alpolisib, the varnish drug just approved in May that hits specifically only the
+
+797
+01:16:37,560 --> 01:16:42,760
+alpha isoform. Now that's the isoform that insulin activates and mediates everything insulin does.
+
+798
+01:16:43,480 --> 01:16:49,560
+And that's the one that's caused all the problems with hyperglycemia. But there is also a delta isoform
+
+799
+01:16:49,560 --> 01:16:57,960
+of PI3-K that's seldom mutated, but it's actually required for B cell growth. And we discovered that
+
+800
+01:16:57,960 --> 01:17:05,400
+back when we started knocking out PI3-K in a metapoietic lineage cells in mice back in the
+
+801
+01:17:06,680 --> 01:17:12,280
+late 1990s. At David Fruman, a postdoc in my laboratory, was doing those mouse knockouts.
+
+802
+01:17:13,080 --> 01:17:20,760
+And found that B cell lineage cells failed to thrive if you knocked out PI3-K. T cells on the
+
+803
+01:17:20,760 --> 01:17:26,440
+other hand were fine if you knocked out PI3-K. And ultimately it turned out to be the delta isoform
+
+804
+01:17:26,440 --> 01:17:33,320
+that was critical for the growth of B cells. So when delta inhibitors were developed, they went
+
+805
+01:17:33,320 --> 01:17:39,560
+into B cell lymphomas as the first possible place to work since that enzyme was already known to be
+
+806
+01:17:39,640 --> 01:17:44,840
+critical in B cells. And they turned out to be effective. Adele and Lissab was approved
+
+807
+01:17:45,800 --> 01:17:50,120
+about five years ago. It's a delta specific PI3-K inhibitor.
+
+808
+01:17:50,120 --> 01:17:51,160
+Who made that?
+
+809
+01:17:51,160 --> 01:17:53,640
+That was made by Gilead.
+
+810
+01:17:53,640 --> 01:17:54,680
+Oh, Gilead, okay, yeah.
+
+811
+01:17:55,640 --> 01:18:04,760
+And then more recently a drug called Capan-Lissab was approved about three years ago by Bayer.
+
+812
+01:18:04,760 --> 01:18:06,520
+This is a drug developed by Bayer.
+
+813
+01:18:06,520 --> 01:18:07,800
+And which isoform is that?
+
+814
+01:18:08,440 --> 01:18:11,080
+Again, it also hits delta, but it also hits alpha.
+
+815
+01:18:11,720 --> 01:18:15,880
+So the alpha one is the only one that causes the hyperglycemia. Yeah, that's the one that my
+
+816
+01:18:15,880 --> 01:18:17,000
+friend was on by the way.
+
+817
+01:18:17,000 --> 01:18:17,400
+Right.
+
+818
+01:18:17,400 --> 01:18:22,360
+But that was approved in May. And that seems to have the most ubiquitous application, doesn't it?
+
+819
+01:18:22,920 --> 01:18:26,360
+It's certainly where you see the most mutations. And of course,
+
+820
+01:18:26,360 --> 01:18:30,040
+breast cancer is far more numerous than lymphoma.
+
+821
+01:18:30,040 --> 01:18:34,280
+Yeah, but that's the one that's going to need the most management of the hyperglycemia and
+
+822
+01:18:34,280 --> 01:18:38,120
+the hyperinsulinemia. Is that message reaching the oncologists?
+
+823
+01:18:38,120 --> 01:18:41,160
+Slowly, I think they're beginning to understand what we're saying,
+
+824
+01:18:41,160 --> 01:18:43,000
+why it's important to keep the insulin down.
+
+825
+01:18:43,960 --> 01:18:48,600
+The problem, as you know better than I, that we are so specialized today in medicine,
+
+826
+01:18:48,600 --> 01:18:54,520
+that people commit to go into either oncology or endocrinology. And from there on, their studies
+
+827
+01:18:54,520 --> 01:18:58,520
+are completely, they're studying completely different things. And if you have an endocrine
+
+828
+01:18:58,520 --> 01:19:03,880
+problem as an oncologist, you don't try to solve it yourself. You call in an endocrine consult.
+
+829
+01:19:04,360 --> 01:19:09,960
+So your brain isn't really even focusing on how to solve a problem because you have an expert
+
+830
+01:19:10,520 --> 01:19:17,080
+who can do it for you. And the problem is the endocrinologists are not really that alert about
+
+831
+01:19:17,080 --> 01:19:22,440
+what's going on with cancer. Their job is to make sure the glucose is in line.
+
+832
+01:19:22,440 --> 01:19:28,040
+Yeah, sort of, I think it's time that we either, I mean, there's really two ways around this.
+
+833
+01:19:28,040 --> 01:19:33,320
+I see one is you sort of create a new specialty, which is metabolic oncology.
+
+834
+01:19:33,320 --> 01:19:37,800
+So just today, if someone wants to study oncology, they choose between surgical oncology,
+
+835
+01:19:37,800 --> 01:19:42,840
+medical oncology, radiation oncology. Of course, the challenge is you have to differentiate very
+
+836
+01:19:42,840 --> 01:19:49,080
+early. You don't do oncology first, then surgery, then medicine, then radiology. It's you do radiology
+
+837
+01:19:49,080 --> 01:19:53,560
+or medicine or surgery and then subspecialize. So therein lies a problem. How would you become
+
+838
+01:19:53,560 --> 01:20:00,280
+a metabolic oncologist? So the other option is basically oncologists learning more about the
+
+839
+01:20:00,280 --> 01:20:06,520
+metabolism of cancer so that when it comes to managing understood and predictable complications
+
+840
+01:20:06,520 --> 01:20:11,640
+of these medications, which are actually desired features, as you point out, if you're using this
+
+841
+01:20:11,640 --> 01:20:15,880
+drug correctly, you should see hyperinsulinemia and hyperglycemia and you should treat it
+
+842
+01:20:15,880 --> 01:20:20,840
+accordingly. Which reminds me, by the way, how often with the alpha isiform does that drug need
+
+843
+01:20:20,840 --> 01:20:26,360
+to be administered or in your trial? Decision of how frequently the dose is based on PKPD,
+
+844
+01:20:26,760 --> 01:20:30,760
+fast the drug level goes into the bloodstream and how long it stays high
+
+845
+01:20:31,560 --> 01:20:37,320
+and following how quickly it declines. And so most of these drugs that make it in the clinic
+
+846
+01:20:37,880 --> 01:20:43,320
+can stay at their therapeutic dose for three or four hours. So a lot of the companies want to do
+
+847
+01:20:43,320 --> 01:20:48,360
+buy two drugs a day, one in the morning, one in the evening. And what's the total cycle? How long
+
+848
+01:20:48,360 --> 01:20:52,760
+are you being given drug? How long are you given a rest from the drug? And so, for example, the
+
+849
+01:20:52,760 --> 01:20:57,960
+Novartis drug is daily. It's once a day daily after breakfast on a full meal. And why does it
+
+850
+01:20:57,960 --> 01:21:03,240
+need a full stomach? Because otherwise absorption problems, you don't get as good a PKPD if you eat
+
+851
+01:21:03,240 --> 01:21:09,640
+your own empty stomach and you get more side effects, diarrhea or nausea or whatever, if you
+
+852
+01:21:09,640 --> 01:21:14,920
+try to do it on an empty stomach. But there's no recommendation in the approval trial as to what
+
+853
+01:21:14,920 --> 01:21:19,320
+you're supposed to eat for breakfast before you take the drug or whether you take it with insure
+
+854
+01:21:19,320 --> 01:21:25,560
+or apple juice or water. Hence the importance of a company like Feith that could start to standardize
+
+855
+01:21:25,560 --> 01:21:30,440
+that because look, everybody wants to do the right thing here. And wouldn't it be great if as a doctor
+
+856
+01:21:30,440 --> 01:21:34,680
+you could write a prescription that's not just covering the drug but covering the food? Yeah.
+
+857
+01:21:34,680 --> 01:21:38,840
+So we have, that's what we're anticipating at Feith at some point. If you can prove in a clinical
+
+858
+01:21:38,840 --> 01:21:43,960
+trial setting that you need this particular food for the drug to be effective. To maximize absorption,
+
+859
+01:21:43,960 --> 01:21:48,920
+minimize symptom side effects, and most importantly, maximize efficacy. You should be able to get that
+
+860
+01:21:49,000 --> 01:21:54,520
+food paid for, the delivery of the exact food that matches what your need is. And think about
+
+861
+01:21:54,520 --> 01:22:00,600
+it, what a trivial cost it is compared to the drug. I mean, you could send people caviar spread
+
+862
+01:22:00,600 --> 01:22:07,240
+all day long at 1 1 hundredth the cost of a drug. Exactly. But you have to prove it. You've got to
+
+863
+01:22:07,240 --> 01:22:10,520
+prove it in a phase three clinical trial. Well, don't get me started on that. I mean, think of how
+
+864
+01:22:10,520 --> 01:22:15,240
+many drugs have been approved that haven't proved Jack. I mean, it's Ambien should have been
+
+865
+01:22:15,240 --> 01:22:19,480
+approved. Anyway, don't get me started on the drug approval process here, but I'm completely
+
+866
+01:22:19,480 --> 01:22:24,600
+with you on that. Lou, I want to be kind of mindful of your time. There's kind of one last theme I want
+
+867
+01:22:24,600 --> 01:22:28,600
+to explore. So you're going to be 70 this year, right? Which is kind of hard to believe because
+
+868
+01:22:28,600 --> 01:22:34,760
+I already passed. You already passed it. So you don't look a day over, I don't know, 56. You've
+
+869
+01:22:34,760 --> 01:22:41,560
+got this ageless phenotype to you. So I don't want to for a moment suggest your career is anything
+
+870
+01:22:41,560 --> 01:22:47,480
+other than continuing to go up in terms of the work you have to do. So as you think about the
+
+871
+01:22:47,480 --> 01:22:54,040
+next chapter of your career, what is the question that you are most obsessed with? What is the
+
+872
+01:22:54,040 --> 01:22:59,160
+question you want to spend as much time as you can trying to answer that currently really don't have
+
+873
+01:22:59,160 --> 01:23:05,320
+an answer to? That's hard for me because I'm the most unfocused. In some ways, I'm compulsive
+
+874
+01:23:05,320 --> 01:23:11,000
+about getting the answer of every question that I get curious about. And as you can tell from this
+
+875
+01:23:11,000 --> 01:23:16,200
+interview, I have an opinion on how everything works. And having never taken any biology course,
+
+876
+01:23:16,200 --> 01:23:22,680
+I have no prejudice about how it should work. I just so for me, everything that I run into biology
+
+877
+01:23:22,680 --> 01:23:27,560
+is here's a mystery. I don't bother reading the textbooks because I know they will prejudice me
+
+878
+01:23:27,560 --> 01:23:32,360
+to the wrong answer. And so I'd like to get to the bottom of what's really going on. But the bottom
+
+879
+01:23:32,360 --> 01:23:38,680
+line is that I get absolutely brilliant postdocs and graduate students come to my laboratory.
+
+880
+01:23:39,240 --> 01:23:45,560
+I allow them to do anything they want to do. And if it obviously gives them advice and help
+
+881
+01:23:45,560 --> 01:23:53,720
+interpret the experiments. But this has kept me in so many different fields for 40 some years as I've
+
+882
+01:23:53,720 --> 01:24:01,400
+run my own laboratory. It keeps my mind continually alert about every possible thing. So yes, epileptic
+
+883
+01:24:01,400 --> 01:24:07,160
+seizures. It turns out probably most of the people have epileptic seizure fits have PIC3CA mutations
+
+884
+01:24:07,320 --> 01:24:14,200
+as a mosaicism in neurons in the brain. Ketogenic diet was developed to minimize that. It makes
+
+885
+01:24:14,200 --> 01:24:20,040
+perfect sense to keep insulin down. If a PIC3CA mutant neuron was solved, you're going to get less
+
+886
+01:24:20,040 --> 01:24:25,320
+firing of that neuron that's going to solve the problem. But that wasn't how the ketogenic diet
+
+887
+01:24:25,320 --> 01:24:31,640
+was developed. So my curiosity, if just studying everything that's which PI3-kinase is involved
+
+888
+01:24:31,640 --> 01:24:37,240
+at some level could keep me busy for several years. But that's not the only thing I'm interested
+
+889
+01:24:37,240 --> 01:24:42,520
+in. I'm interested in whatever curious observation that comes up from experiments in my lab.
+
+890
+01:24:43,160 --> 01:24:49,480
+It can't be easily explained by current knowledge. To me, that means there's an opportunity to break
+
+891
+01:24:49,480 --> 01:24:55,960
+open some new explanation for some disease. So I'm willing to work in almost any disease that's not
+
+892
+01:24:55,960 --> 01:25:01,560
+yet solved. And there's an opportunity to figure it out. I'm a chemist. So to me, unless I understand
+
+893
+01:25:01,560 --> 01:25:06,440
+something at the molecular level, I don't really understand it. But I think with PI3-kinase,
+
+894
+01:25:07,000 --> 01:25:10,440
+I really understand it at the molecular level. I think that's an understatement.
+
+895
+01:25:11,880 --> 01:25:17,160
+There's still some mysteries there. I should say that we're about to publish a couple of papers,
+
+896
+01:25:17,160 --> 01:25:22,040
+hopefully over the next six to nine months, that are going to completely change how everybody
+
+897
+01:25:22,040 --> 01:25:27,400
+thinks about PI3-kinase regulation. So there's still some major things to learn about this enzyme.
+
+898
+01:25:27,400 --> 01:25:30,840
+Well, there's so many other things I'd love to speak with you about, Lou. But I know that some
+
+899
+01:25:30,840 --> 01:25:37,160
+of them are still work that you're doing. And therefore, I know you would prefer to wait until
+
+900
+01:25:37,160 --> 01:25:42,040
+things are a little further along to talk about them. But we'll have to come back in a year or so
+
+901
+01:25:42,040 --> 01:25:46,520
+and do this again, because there's so much other stuff that I know we've talked about informally
+
+902
+01:25:46,520 --> 01:25:52,280
+about cancer that is I want to believe it's where the field is going to start to go. I want to
+
+903
+01:25:52,280 --> 01:25:59,080
+believe that because I get so many emails from people who say, you know, my mother has cancer,
+
+904
+01:25:59,160 --> 01:26:05,400
+my husband has cancer, and they're being offered this therapy. And it's a very standard therapy.
+
+905
+01:26:05,400 --> 01:26:12,280
+The patient is progressing through it. What metabolic options are there? And people like
+
+906
+01:26:12,280 --> 01:26:17,320
+you are people like Sid, people like all your colleagues and Matt and Ben and all these guys.
+
+907
+01:26:17,320 --> 01:26:22,680
+I mean, you guys are the guys that are kind of driving that forward. And you've made a lot of
+
+908
+01:26:22,680 --> 01:26:26,120
+progress in a decade. It doesn't feel like it sometimes. Like sometimes I feel like it's not
+
+909
+01:26:26,120 --> 01:26:30,680
+going fast enough. But I think having a discussion like we did today makes me realize how much has
+
+910
+01:26:30,680 --> 01:26:35,480
+happened in a decade. And it's actually quite a bit. I have no doubt that you're going to be here
+
+911
+01:26:35,480 --> 01:26:40,440
+a decade from now working just as hard. Well, my real motivation, of course, is to convert
+
+912
+01:26:40,440 --> 01:26:45,880
+every observation we make in a laboratory to actually change in practice for whether it's
+
+913
+01:26:45,880 --> 01:26:52,200
+diabetes or cancer or what other disease that we begin to understand in molecular mechanism.
+
+914
+01:26:52,200 --> 01:26:58,280
+If we don't convert those observations into actual change in behavior or change in practice
+
+915
+01:26:58,280 --> 01:27:05,880
+or change in drug metabolism and diet, then in the end we failed. And so that's my goal.
+
+916
+01:27:06,520 --> 01:27:12,680
+And as being a cancer center director, people sometimes listen to me now when I suggest this
+
+917
+01:27:12,680 --> 01:27:18,360
+is the way, this is the trial we should do, and this is the way it should be designed to test the idea.
+
+918
+01:27:19,160 --> 01:27:24,680
+For me, it's spectacular being here in New York City at Wild Cornell, New York Presbyterian,
+
+919
+01:27:24,680 --> 01:27:29,000
+where we really can translate these breakthroughs into new therapies.
+
+920
+01:27:29,800 --> 01:27:32,440
+That's what my goal will be over the next 10 years.
+
+921
+01:27:38,120 --> 01:27:42,760
+I hope you enjoyed that discussion with Luke Antley, and I hope you found it half as interesting
+
+922
+01:27:42,760 --> 01:27:47,960
+as you can probably tell I did. As you may recall, at the outset of this podcast, I said that the
+
+923
+01:27:47,960 --> 01:27:55,160
+first 45 minutes, which was a much more detailed technical description of Lou's initial work in the
+
+924
+01:27:55,160 --> 01:28:00,520
+70s and 80s that led to the discovery of PI3 kinase, that content would be bumped as almost
+
+925
+01:28:00,520 --> 01:28:05,560
+an appendix to the end of the podcast. And that's what you're about to hear now. So I hope you enjoy
+
+926
+01:28:05,560 --> 01:28:10,040
+what was originally the first part of my discussion, but ultimately the appendix to this
+
+927
+01:28:10,040 --> 01:28:11,640
+fun discussion with Luke Antley.
+
+928
+01:28:11,640 --> 01:28:21,800
+There are a lot of things I want to talk about today, but I do want to start with
+
+929
+01:28:22,680 --> 01:28:28,280
+the discovery that you led that probably most people would associate with you if they go to
+
+930
+01:28:28,280 --> 01:28:31,400
+your Wikipedia page. That's probably the first thing they're going to see, although I haven't
+
+931
+01:28:31,400 --> 01:28:37,720
+been to your Wikipedia page in a while, so I don't recall. But let's talk about PI3 kinase. How do we
+
+932
+01:28:37,720 --> 01:28:43,480
+define it, by the way? Tell people what it was. So PI3 kinase stands for phospho-inositide 3 kinase.
+
+933
+01:28:44,120 --> 01:28:50,120
+And the 3 means that it phosphorylates the 3 position on the inositol ring, which is the
+
+934
+01:28:50,120 --> 01:29:00,440
+head group of this lipid. And so in the mid, early mid-1980s, phosphatidylinositol phosphorylation,
+
+935
+01:29:00,440 --> 01:29:08,280
+which was known to occur from 1949, the purpose of it was totally ambiguous. Why did this lipid
+
+936
+01:29:08,280 --> 01:29:17,000
+get phosphorylated? And in early 1982, 1983, there was a breakthrough with the discovery that the
+
+937
+01:29:17,000 --> 01:29:23,800
+phosphorylated form, phosphatidylinositol was phosphate at the 4 and the 5 positions of the
+
+938
+01:29:23,800 --> 01:29:31,080
+inositol ring. By the way, inositol was hexa-hydroxycyclohexane. So there's six hydroxys,
+
+939
+01:29:31,080 --> 01:29:36,760
+one of them connects to the glycerol backbone, and then the others are potentially available
+
+940
+01:29:36,760 --> 01:29:43,880
+to be phosphorylated. Anyway, the 4 position and the 4 plus 5 position were both identified the
+
+941
+01:29:43,880 --> 01:29:51,080
+year I was born, 1949. And the purpose of that was not known. It was called the futile cycle,
+
+942
+01:29:51,080 --> 01:29:55,400
+maybe a way of just getting rid of phosphates or something. We're getting rid of ATP. Yeah.
+
+943
+01:29:55,400 --> 01:30:00,680
+Just phosphorylated, indeed phosphorylated. And sort of like an ATP sync. And then the idea,
+
+944
+01:30:00,680 --> 01:30:08,120
+the observation that this phosphorylation could be stimulated by various GPCR pathways and growth
+
+945
+01:30:08,120 --> 01:30:12,760
+factor pathways, got people thinking about what it might be doing. And it tended to correlate with
+
+946
+01:30:12,760 --> 01:30:20,120
+calcium elevation. And so the breakthrough paper showed that in fact, when cells are stimulated
+
+947
+01:30:20,200 --> 01:30:27,880
+with certain growth factors like EGF or certain subset of GPCR activators. No stand for. G protein
+
+948
+01:30:27,880 --> 01:30:34,120
+coupled receptors. And EGF just for folks. Epidormal growth factor. Okay. So all growth.
+
+949
+01:30:34,120 --> 01:30:42,360
+And so these signaling pathways would activate the hydrolysis of that lipid that the inositol
+
+950
+01:30:42,360 --> 01:30:48,120
+1,4,5-trisphosphate that comes off when you hydrolyze it away from the lipid,
+
+951
+01:30:48,680 --> 01:30:52,680
+turned out to regulate calcium release from cells. And that was a huge breakthrough
+
+952
+01:30:52,680 --> 01:30:58,360
+because no one knew how calcium got elevated and that explained it. So I, in the meantime,
+
+953
+01:30:58,360 --> 01:31:03,560
+it was not working on that particular pathway. And let's pause for a moment and remind everybody
+
+954
+01:31:03,560 --> 01:31:09,080
+you trained, you were interested in science from a young age, but you were sort of deciding,
+
+955
+01:31:09,080 --> 01:31:12,680
+I think a little bit, if I recall between chemistry and biology, you were very interested
+
+956
+01:31:12,680 --> 01:31:19,400
+in both. Correct. I was a pure chemist. The last biology course I took was in 1964 when I was a
+
+957
+01:31:19,400 --> 01:31:23,720
+sophomore in high school. So you very quickly declared chemistry your obsession. I hated
+
+958
+01:31:23,720 --> 01:31:28,600
+biology because at that time, at least in the backwoods of West Virginia, where I was growing up,
+
+959
+01:31:28,600 --> 01:31:35,160
+biology was just a bunch of descriptive memorization. And so I was bored with that
+
+960
+01:31:35,160 --> 01:31:40,920
+and decided I would never take another biology course. And I stuck to that. I was pure chemistry,
+
+961
+01:31:40,920 --> 01:31:46,360
+mainly organic chemistry. And then I switched into physical chemistry, but was totally
+
+962
+01:31:46,360 --> 01:31:53,720
+uninterested in biology at all until I took one semester of biochemistry and realized maybe
+
+963
+01:31:53,720 --> 01:32:00,040
+there's something interesting going on in biology. So I went to Cornell and Ithaca to get my PhD.
+
+964
+01:32:00,920 --> 01:32:06,520
+And there I focused on biophysical chemistry. It was the chance to apply chemistry to
+
+965
+01:32:07,480 --> 01:32:12,760
+questions like how do you get molecules across membranes? And that's what I worked on. How do
+
+966
+01:32:12,760 --> 01:32:19,800
+you synthesize ATP in the mitochondria or chloroplasts? So that kind of slippery slope
+
+967
+01:32:19,800 --> 01:32:24,760
+of going into biological questions that could be addressed by simple chemical questions or
+
+968
+01:32:24,760 --> 01:32:29,640
+physics questions. Now, what got you interested in the mitochondria so early? I read a paper
+
+969
+01:32:29,640 --> 01:32:35,960
+when I was an undergraduate that was an idea that Peter Mitchell had proposed, that the way you
+
+970
+01:32:36,200 --> 01:32:43,240
+make ATP in the mitochondria and or chloroplasts was using a proton gradient. And his idea was
+
+971
+01:32:43,240 --> 01:32:49,160
+that that gradient would allow you to pull the protons in one direction, the hydroxy ions in
+
+972
+01:32:49,160 --> 01:32:56,920
+the other direction, and remove water from phosphate plus ADP and condense that into ATP.
+
+973
+01:32:57,480 --> 01:33:02,440
+That was just very simple physical property that if you could move those two ions in different
+
+974
+01:33:02,440 --> 01:33:09,240
+directions, it would produce ATP. In effect, the idea was not correct. It was correct that ATP
+
+975
+01:33:09,240 --> 01:33:14,680
+was made from the proton gradient, but the actual mechanism was turned out to be different.
+
+976
+01:33:14,680 --> 01:33:19,480
+There are actually three Nobel prizes given for how ATP is synthesized in the mitochondria.
+
+977
+01:33:19,480 --> 01:33:23,880
+I wasn't aware that there were three separate Nobel prizes. Do you recall who won all of them?
+
+978
+01:33:23,880 --> 01:33:27,560
+So Mitchell. Mitchell obviously. Then there was a second one by Boyer
+
+979
+01:33:28,120 --> 01:33:33,480
+on the figuring out the actual mechanism by which this occurs. And then a third one from Peter
+
+980
+01:33:33,480 --> 01:33:39,080
+Walker, who figured out structural basis for how this all worked. Oh, I didn't know the Walker one.
+
+981
+01:33:39,080 --> 01:33:44,760
+He was a crystal structure, did crystal structures. And I met all of them when I was a young man
+
+982
+01:33:44,760 --> 01:33:50,920
+before becoming a professor. And so it's, I was very invested in that. That's what I worked on.
+
+983
+01:33:50,920 --> 01:33:54,520
+For the person who's listening to this, whose world is not necessarily wrapped up in this,
+
+984
+01:33:54,520 --> 01:34:01,320
+which is most people, it's worth pausing for a moment on how much is involved for the Nobel
+
+985
+01:34:01,320 --> 01:34:07,880
+committee to recognize one body of work that says something that three times they would recognize
+
+986
+01:34:07,880 --> 01:34:15,160
+a different angle of the same body of work probably speaks to why there is so much to this day,
+
+987
+01:34:15,160 --> 01:34:19,800
+complete interest and fascination with the mitochondria beyond just the obvious,
+
+988
+01:34:19,800 --> 01:34:23,080
+the energetics, which is what was initially how we would think about it.
+
+989
+01:34:23,080 --> 01:34:27,480
+Well, it was a fascinating question in the 1960s. This was the biggest mystery
+
+990
+01:34:28,040 --> 01:34:33,400
+because we knew how you made ATP from glycolysis, but how you made it into mitochondria. And how
+
+991
+01:34:33,400 --> 01:34:37,720
+could the mitochondria do it so much more efficiently than glycolysis? That was the
+
+992
+01:34:37,720 --> 01:34:43,080
+big question when I was a graduate student. I think this podcast may represent the
+
+993
+01:34:43,080 --> 01:34:48,760
+point at which mitochondrial topics exceed all others. It also speaks to that nature.
+
+994
+01:34:49,320 --> 01:34:52,280
+So Mitchell the great, tell me about how you interacted with Mitchell. How did you come
+
+995
+01:34:52,280 --> 01:34:59,400
+across him? So he came to give a talk at Cornell. And I should say, Efraakr, Efram Raker, who was
+
+996
+01:34:59,400 --> 01:35:04,440
+chaired the biochemistry department at Cornell, and who I got to know as first year graduate
+
+997
+01:35:04,440 --> 01:35:11,880
+student, because I was getting mitochondria from his laboratory in order to purify the enzyme that's
+
+998
+01:35:11,880 --> 01:35:17,560
+synthesized ATP. Every time I would be waiting for the centrifuges to stop running, if he saw me,
+
+999
+01:35:17,560 --> 01:35:23,160
+he would grab me and pull me into his office and start throwing out ideas of how he thought ATP
+
+1000
+01:35:23,160 --> 01:35:30,280
+was synthesized. And the truth was, at that time, he did not believe Kimme Osmotic hypothesis,
+
+1001
+01:35:30,280 --> 01:35:36,280
+Peter Mitchell was proposing. And so as a consequence, I got all of these ideas that
+
+1002
+01:35:36,280 --> 01:35:41,480
+he was throwing at me. I personally believed that Kimme Osmotic hypothesis was correct.
+
+1003
+01:35:42,440 --> 01:35:46,200
+Between those discussions, as I continued to, I was working in physical chemistry,
+
+1004
+01:35:46,280 --> 01:35:49,800
+I was in the chemistry department, not the biochemistry department. But the fact that he
+
+1005
+01:35:49,800 --> 01:35:54,120
+would spend so much time with me, even though I wasn't even in his department, to me was quite
+
+1006
+01:35:54,120 --> 01:36:00,280
+flattering and really exciting that this world quality person had done it, was willing to talk
+
+1007
+01:36:00,280 --> 01:36:08,200
+to me. So he went on because he was trying to prove Peter Mitchell wrong. He completely purified
+
+1008
+01:36:08,200 --> 01:36:15,560
+every component, generated a synthetic membrane, reconstituted the proton pump into that membrane,
+
+1009
+01:36:15,560 --> 01:36:21,640
+generated a proton gradient and was able to quantitatively synthesize ATP. And it was the
+
+1010
+01:36:21,640 --> 01:36:26,760
+year after he published that paper saying that Kimme Osmotic theory is actually correct.
+
+1011
+01:36:27,480 --> 01:36:32,840
+But he did the definitive experiment that the prize went to Peter Mitchell. Today, I'm almost
+
+1012
+01:36:32,840 --> 01:36:37,560
+guaranteed they would have shared the prize. Mitchell had the idea Racker proved that it was
+
+1013
+01:36:37,560 --> 01:36:43,320
+correct, even when he was trying to prove that it was incorrect. So that was an interesting story
+
+1014
+01:36:43,400 --> 01:36:48,520
+that Mitchell was invited to come and give a talk at Cornell just at that time my last year as a
+
+1015
+01:36:48,520 --> 01:36:57,000
+graduate student. And so he met with me and my advisor Gordon Hammes. And I went through my
+
+1016
+01:36:57,000 --> 01:37:02,680
+entire PhD thesis with him and F Racker, showing them the various experiments I did about the
+
+1017
+01:37:02,680 --> 01:37:09,480
+mechanism by which this enzyme worked. It was really quite interesting because this was before
+
+1018
+01:37:09,480 --> 01:37:14,280
+Racker had actually published the definitive proof paper. So he had still some questions.
+
+1019
+01:37:14,840 --> 01:37:20,360
+And every slide I would show, Mitchell would say that's consistent with the Kimme Osmotic theory.
+
+1020
+01:37:20,920 --> 01:37:27,480
+And Racker would say, no, but this is why it's not right. And so I hardly get to say a word
+
+1021
+01:37:27,480 --> 01:37:30,840
+because the two of them argued every piece of data I showed. But you provided the substrate
+
+1022
+01:37:30,840 --> 01:37:36,440
+for the argument. Yeah, it's the data from my PhD thesis. That was a fun experience.
+
+1023
+01:37:36,440 --> 01:37:45,640
+So this is early 70s. It was 1974 when I met Peter Mitchell. At any event, the next year I decided
+
+1024
+01:37:45,640 --> 01:37:50,600
+finishing my PhD that I would look for a place that was asking questions that were a little more
+
+1025
+01:37:50,600 --> 01:37:55,080
+biological. But I didn't want to dive too deeply into biology. So I was looking for someone who was
+
+1026
+01:37:55,080 --> 01:38:01,000
+working on like red cells or something. It was pretty simple study and ended up going to Guido
+
+1027
+01:38:01,000 --> 01:38:08,360
+Guidotti's laboratory, who had focused on membrane biochemistry. He was an MD PhD, but he understood
+
+1028
+01:38:08,360 --> 01:38:13,560
+medicine quite well. But his real focus was in biochemistry was not a practicing clinician.
+
+1029
+01:38:14,120 --> 01:38:18,280
+And he was in the department of biochemistry molecular biology at Harvard, recruited there
+
+1030
+01:38:18,280 --> 01:38:25,640
+by Jim Watson. He was absolutely is still a brilliant biochemist. I learned a lot from him.
+
+1031
+01:38:26,360 --> 01:38:32,760
+And he was working on sodium potassium ATPase. It had first been purified in his laboratory,
+
+1032
+01:38:32,760 --> 01:38:39,000
+the enzyme that pumps sodium out of cells and potassium into cells. And since I'd already
+
+1033
+01:38:39,000 --> 01:38:45,000
+worked on how you pump protons into cells with an ATP molecule, I thought this would be
+
+1034
+01:38:45,640 --> 01:38:51,400
+easy for me to understand. I knew how to do those kinds of assays. So that's why I started working
+
+1035
+01:38:51,400 --> 01:38:57,000
+on it. But it turns out that Guido was also very interested in how insulin worked, because
+
+1036
+01:38:57,000 --> 01:39:02,840
+whenever you add insulin to cells, within seconds to minutes, they take up a massive amount of
+
+1037
+01:39:02,840 --> 01:39:09,880
+glucose, but they also turn up the sodium potassium ATPase, the sodium pump, use that sodium gradient
+
+1038
+01:39:09,880 --> 01:39:16,680
+to move amino acids into cells. And so there was a lot of membrane transport being regulated by
+
+1039
+01:39:16,680 --> 01:39:22,200
+insulin. Was it understood at that time how anabolic insulin was? What you've described are
+
+1040
+01:39:22,200 --> 01:39:28,280
+anabolic attributes, but was it understood clinically how anabolic the hormone was?
+
+1041
+01:39:28,280 --> 01:39:35,720
+Yes, it was because just by observation that type 1 diabetics failed to thrive. They were very small.
+
+1042
+01:39:35,720 --> 01:39:41,000
+They did not put on weight. They didn't, their cells didn't grow. And so during development,
+
+1043
+01:39:41,880 --> 01:39:48,680
+insulin is an anabolic molecule. In a mature adult, it no longer, except under certain
+
+1044
+01:39:48,680 --> 01:39:54,760
+situations, drives growth. It will continue to drive growth of fat cells. It can also facilitate
+
+1045
+01:39:54,760 --> 01:40:01,160
+growth of muscle, but most tissues do not grow further than those two major tissues.
+
+1046
+01:40:02,200 --> 01:40:07,960
+So yes, it was well known it was an anabolic process. But now you were seeing the steps by
+
+1047
+01:40:08,040 --> 01:40:13,000
+which it could carry out that anabolic property. Yeah, and it was generally known. What I just said
+
+1048
+01:40:13,000 --> 01:40:17,720
+was generally known that amino acids uptake accelerate immediately within a minute or so.
+
+1049
+01:40:18,280 --> 01:40:24,360
+Sodium export of the cell went up and glucose flux of course went in, particularly in muscle
+
+1050
+01:40:24,360 --> 01:40:29,560
+and fat cells and glycogen was stored. And then of course there was a whole lot of change in
+
+1051
+01:40:29,560 --> 01:40:34,920
+transcriptional regulation of all kinds of things. So we knew all of that, but the actual
+
+1052
+01:40:34,920 --> 01:40:41,960
+mechanism was totally unknown. In the mid-1970s, no one had even purified the insulin receptor,
+
+1053
+01:40:41,960 --> 01:40:47,320
+had no idea what the receptor was. People could quantify it because if you added radioactive
+
+1054
+01:40:47,320 --> 01:40:53,960
+insulin to fat cells, it would stick to the surface and with very high affinity. And that
+
+1055
+01:40:53,960 --> 01:40:59,720
+correlated with the responses that you see. So we knew it existed. We knew roughly how many copies
+
+1056
+01:40:59,720 --> 01:41:04,280
+there were per cell. We could quantify by radioactivity, but no one had quite purified
+
+1057
+01:41:04,280 --> 01:41:09,000
+the enzyme to homogeneity. And so the numerous labs were trying to purify it. So eventually the
+
+1058
+01:41:09,000 --> 01:41:15,400
+insulin receptor was purified and it was about the same time that SARC, the SARC tyrosine kinase,
+
+1059
+01:41:15,400 --> 01:41:26,120
+the SARC oncogene for Ralcisarcoma virus was shown by Harold Varmus' lab to be protein that had
+
+1060
+01:41:26,120 --> 01:41:35,800
+amology to pKa, a protein kinase. And that also was an endogenous protein that had been picked up
+
+1061
+01:41:35,800 --> 01:41:41,400
+by the virus and altered. So that really was a major breakthrough. It got Nobel prize for
+
+1062
+01:41:41,400 --> 01:41:46,280
+Harold Varmus. He shared that one with Michael, right? Michael. Yeah, Michael Bishop. Michael
+
+1063
+01:41:46,280 --> 01:41:51,560
+Bishop and. 89, they shared it. 79, I think. Oh, but they won the prize in 89 maybe? Maybe I'm...
+
+1064
+01:41:51,640 --> 01:41:58,520
+Oh yeah, the prize was... The prize awarded. Yeah, the discovery was 78, 78. Yeah. So that was about
+
+1065
+01:41:58,520 --> 01:42:02,920
+the time the insulin receptor was being purified as well. And then Ray Erickson's labs showed that
+
+1066
+01:42:02,920 --> 01:42:08,440
+SARC had a kinase activity. They thought it was a threonine kinase. They looked for that possibility.
+
+1067
+01:42:08,440 --> 01:42:14,360
+Joan Grogy was his lab at that time given the sequence homology to protein kinase A,
+
+1068
+01:42:14,360 --> 01:42:20,280
+that it's probably also a protein kinase. And then Tony Hunter showed that actually by thin layer,
+
+1069
+01:42:20,760 --> 01:42:24,360
+the molecule that was thought to be phosphotanthine was actually phosphotyrosine.
+
+1070
+01:42:25,480 --> 01:42:32,360
+And phosphotyrosine had never been seen as a product of a protein kinase before. It had been
+
+1071
+01:42:32,360 --> 01:42:38,520
+picked up as an intermediate in DNA unwinding. And so he could get a marker for that from Jim
+
+1072
+01:42:38,520 --> 01:42:44,200
+Wyng's lab that showed that he could use on the thin layer and showed that what SARC was actually
+
+1073
+01:42:44,200 --> 01:42:50,440
+producing was actually phosphotyrosine. So that opened up a whole field. And then comparing the
+
+1074
+01:42:50,440 --> 01:42:57,240
+sequence of the insulin receptor to pKa versus SARC is clearly most highly related to SARC.
+
+1075
+01:42:58,040 --> 01:43:02,920
+And so multiple labs at that point showed that yes, the insulin receptor was like SARC,
+
+1076
+01:43:02,920 --> 01:43:09,000
+a tyrosine kinase. But in this case, a transmembrane protein had an extracellular insulin binding
+
+1077
+01:43:09,000 --> 01:43:14,200
+component, and then the intracellular kinase activity. So putting that in English for folks,
+
+1078
+01:43:14,200 --> 01:43:19,640
+insulin hits this transmembrane tyrosine kinase. And when the molecule of insulin hits it,
+
+1079
+01:43:19,640 --> 01:43:27,080
+inside the cell, this kinase pathway kicks up, it moves the GLUT4 transporter. Well,
+
+1080
+01:43:27,080 --> 01:43:31,960
+there's another step in there, but oversimplifying a little bit, that chemical reaction is necessary
+
+1081
+01:43:31,960 --> 01:43:37,240
+to translocate this transporter across the cell to bring glucose in. And that's, so the leap there,
+
+1082
+01:43:37,320 --> 01:43:44,040
+the new insight was exactly how insulin got glucose in the cell chemically and mechanically, right?
+
+1083
+01:43:44,040 --> 01:43:49,880
+So the initial observation was then insulin binds and about the same time EGF receptor was purified
+
+1084
+01:43:49,880 --> 01:43:56,520
+and FGF receptor and PDGF receptor. And they all sort of were like insulin receptor.
+
+1085
+01:43:57,160 --> 01:44:02,360
+They had an extracellular. And this was back, I mean, today, a young student who's in a lab
+
+1086
+01:44:02,360 --> 01:44:06,040
+doing this now is scratching their head going, what do you mean? Why didn't you just use PCR or
+
+1087
+01:44:06,040 --> 01:44:10,680
+something like that? But I mean, you guys were literally what, crystallizing a protein or how
+
+1088
+01:44:10,680 --> 01:44:15,480
+were they actually figuring out what the structure was? So these proteins were all being purified to
+
+1089
+01:44:15,480 --> 01:44:20,600
+homogeneity by just plain fractionation. There was no way to knock out genes and knock them down.
+
+1090
+01:44:21,320 --> 01:44:26,600
+So you just had to purify the protein based on its ability to bind insulin. You just run it over
+
+1091
+01:44:26,600 --> 01:44:31,480
+column after column after column. And eventually you've got to a single band on a gel and you said,
+
+1092
+01:44:31,480 --> 01:44:35,080
+that's your protein. And that only gives you the primary structure of the protein. It doesn't tell
+
+1093
+01:44:35,160 --> 01:44:38,920
+you how it's folded, does it? No, that only tells you. It tells you the molecular weight, basically.
+
+1094
+01:44:38,920 --> 01:44:41,560
+All the thing you get is the molecular weight. Yeah. You see, it's.
+
+1095
+01:44:41,560 --> 01:44:45,880
+Here it is on the band. Yeah. Insulin receptor is, it gets cleaved.
+
+1096
+01:44:45,880 --> 01:44:51,240
+But it's a heterodimer, isn't it? It's a single polypeptide that gets clipped during processing
+
+1097
+01:44:51,800 --> 01:44:59,000
+into two proteins, but are held together by disulfide bonds. So it's, and then a dimer of
+
+1098
+01:44:59,000 --> 01:45:07,560
+that composition. So that we knew late 1970s and EGF receptor and all these other receptors are all
+
+1099
+01:45:08,120 --> 01:45:13,080
+look a lot like the insulin receptor. And they all had tyrosine kinase activity
+
+1100
+01:45:13,080 --> 01:45:20,040
+that was triggered by binding the growth factor insulin. IGF-1 receptor also very similar to
+
+1101
+01:45:20,040 --> 01:45:25,640
+insulin receptor. One by one by one, different labs purified them. They all found the same thing.
+
+1102
+01:45:25,640 --> 01:45:31,160
+You had the growth factor of the cell and you get the tyrosine kinase activity activated on
+
+1103
+01:45:31,160 --> 01:45:37,400
+the inside of the cell. You know, that was a huge breakthrough. But still, if you ask when you
+
+1104
+01:45:37,400 --> 01:45:45,320
+triggered the cell with insulin or EGF or PDGF, and you ask what was the major thing phosphorylated,
+
+1105
+01:45:45,320 --> 01:45:49,640
+it was the receptor itself. So you just ask, where's the radioactivity going? Phosphate,
+
+1106
+01:45:49,640 --> 01:45:55,240
+radioactive phosphate, it goes mainly to the receptor, cytosolic domain. It's auto phosphorylated.
+
+1107
+01:45:55,640 --> 01:46:01,000
+So now we were left with this several years of, we have a tyrosine kinase that explains how all
+
+1108
+01:46:01,000 --> 01:46:07,160
+these growth factors work, including insulin and how SARC works, but we can't find anything other
+
+1109
+01:46:07,160 --> 01:46:13,160
+than auto phosphorylation. How does that help? So the breakthrough ultimately then came with
+
+1110
+01:46:13,160 --> 01:46:19,480
+the observation that these auto phosphorylations or phosphorylation of adapter proteins were
+
+1111
+01:46:19,480 --> 01:46:24,840
+recruiting a host of other proteins to the membrane that we're actually doing the work that was
+
+1112
+01:46:24,840 --> 01:46:31,240
+required to drive the cell growth. And so that was again, early 1980s, these were all being figured
+
+1113
+01:46:31,240 --> 01:46:38,040
+out. So I got interested as soon as I saw that there was a different kinase activity, this tyrosine
+
+1114
+01:46:38,040 --> 01:46:42,680
+kinase, I got very excited about it and realized there was an opportunity now if I can figure out
+
+1115
+01:46:42,680 --> 01:46:48,760
+what that tyrosine kinase does to figure out what might be the downstream signal. So we got one step
+
+1116
+01:46:48,760 --> 01:46:53,960
+into the cell. We didn't know how many steps we needed to explain glucose uptake or amino acid
+
+1117
+01:46:53,960 --> 01:47:01,080
+uptake, etc, etc, or glycogen synthesis. So I saw a paper by Ray Erickson's laboratory
+
+1118
+01:47:02,040 --> 01:47:09,160
+in which he found an activity associated with SARC that would phosphorylate glycerol.
+
+1119
+01:47:09,960 --> 01:47:16,040
+And he published it in JVC. It co purified with the protein through numerous steps of purification.
+
+1120
+01:47:17,000 --> 01:47:22,280
+And so in addition to having the ability to phosphorylate tyrosine antibodies that got
+
+1121
+01:47:22,280 --> 01:47:28,040
+phosphorylated on tyrosine on the purified protein, there was also an activity there that
+
+1122
+01:47:28,040 --> 01:47:35,000
+phosphorylated glycerol. And I looked at that and thought, no, glycerol looks like half of an
+
+1123
+01:47:35,000 --> 01:47:41,400
+anositol. So anositol is six carbons, glycerol is three in both cases. But in the pure glycerol
+
+1124
+01:47:41,400 --> 01:47:47,160
+case, it has OH on each of the carbons. Yeah, three carbons with an OH on it. Yeah. Anositol has six
+
+1125
+01:47:47,160 --> 01:47:51,640
+carbons with an OH on all. So if you took two. Yeah, if you took the two rings and shoved them
+
+1126
+01:47:51,640 --> 01:47:56,120
+together, yeah, glued them together, you would get anositol. And then what the paper showed was
+
+1127
+01:47:56,120 --> 01:48:04,680
+the KM, you know, it's a 50% concentration of glycerol, you need it for it to be phosphorylated
+
+1128
+01:48:05,480 --> 01:48:11,800
+was something like a hundred millimolar enormous concentration, huge, like a hundred to thousand
+
+1129
+01:48:11,800 --> 01:48:17,480
+fold higher unit ever finding a cell. Yeah. So they weren't claiming this was a physiologically
+
+1130
+01:48:17,480 --> 01:48:22,360
+relevant. I see. They were just saying, here's a chemical reaction that can take place. And they
+
+1131
+01:48:22,360 --> 01:48:27,080
+just noticed it because they saw this molecule running on their thin layer that ran faster than
+
+1132
+01:48:27,080 --> 01:48:32,360
+proteins. When they isolate, it turned out to be phosphorylated glycerol. It was sort of out there.
+
+1133
+01:48:32,360 --> 01:48:38,040
+Here's, we saw this other activity. What might it be? And so I went to Ray Erickson and said, well,
+
+1134
+01:48:38,840 --> 01:48:43,400
+that looks a lot like anositol. So why don't we was Ray at Harvard at the time? Yeah, one floor
+
+1135
+01:48:43,400 --> 01:48:49,320
+below me at Harvard. So my graduate student, Malcolm Whitman, who knew how to do kinase
+
+1136
+01:48:49,320 --> 01:48:56,120
+assays on small molecules collaborated with Ray Erickson's postdoc to see whether phosphatidyl
+
+1137
+01:48:56,120 --> 01:49:02,040
+anositol might be a better substrate than glycerol. And he tried it and sure enough,
+
+1138
+01:49:02,920 --> 01:49:08,760
+he got this KM now of like five micromolar. Wait, wait, wait, how is this even possible?
+
+1139
+01:49:08,840 --> 01:49:14,360
+Let me make sure I understand what you just said. You take glycerol and you need a KM of
+
+1140
+01:49:14,360 --> 01:49:21,800
+a hundred millimolar to get it phosphorylated. You simply take the same structure, but now it's
+
+1141
+01:49:21,800 --> 01:49:26,920
+basically two of them stuck together in a ring and you get down to five micromolar. And it's also on
+
+1142
+01:49:26,920 --> 01:49:33,080
+a membrane component. So the anositol is in a membrane bilayer. So you sonicate the lipid and
+
+1143
+01:49:33,080 --> 01:49:36,920
+instead of free molecule floating around. Oh, so it's not a free anositol. It's the
+
+1144
+01:49:36,920 --> 01:49:41,480
+anositol in the phospholipid or in the lipid. Yeah. Tell me from a chemistry standpoint,
+
+1145
+01:49:41,480 --> 01:49:44,840
+and I apologize. I know that for some of you listening right now, you're thinking, wow,
+
+1146
+01:49:44,840 --> 01:49:48,040
+you guys are really in the weeds. I promise we're going to get out of the weeds in a minute. But
+
+1147
+01:49:48,600 --> 01:49:53,640
+I also think this is just an interesting example of the specificity of biology too. What is it
+
+1148
+01:49:53,640 --> 01:49:58,680
+about that lipid holding that? Is it the position with which it holds the ring in place that enables
+
+1149
+01:49:58,680 --> 01:50:03,720
+that phosphorylation? Well, now that we know the structure of PI3 kinase and how it works in its
+
+1150
+01:50:03,720 --> 01:50:09,400
+mechanism, it's easy to explain in retrospect. But at that time we didn't know that there was
+
+1151
+01:50:09,400 --> 01:50:16,120
+anything there other than SARC. So it was hard to explain why the SARC, tyrosine kinase itself,
+
+1152
+01:50:16,920 --> 01:50:20,680
+was carrying out this reaction. What did the editors even say of that? I mean, that's one
+
+1153
+01:50:20,680 --> 01:50:24,920
+of those things where people are like, is there a mistake here? Because that's like a five log
+
+1154
+01:50:24,920 --> 01:50:29,560
+difference. Physicists who had no problem understanding what I just said. If you can find
+
+1155
+01:50:29,560 --> 01:50:34,360
+things to two dimensions, they can come together much more readily than if you do it in three
+
+1156
+01:50:34,360 --> 01:50:38,600
+dimensions. And that would account for the difference? Yeah, easily. Try closing your eyes,
+
+1157
+01:50:39,240 --> 01:50:44,440
+bringing your two fingers together in space, in three dimensional space, and then do it again on
+
+1158
+01:50:44,440 --> 01:50:49,000
+the table. When they're on the table, yeah. You'll find each other. Yeah. So combining things to two
+
+1159
+01:50:49,000 --> 01:50:54,040
+dimensions is the way nature continually uses membranes. And the lipids basically keeping it
+
+1160
+01:50:54,040 --> 01:50:58,120
+in a two dimensional plane. Yeah. So in any event, we're really getting in the weeds here now.
+
+1161
+01:50:58,120 --> 01:51:04,200
+But just personally, I mean, all of that is intuitive to me. What's not intuitive to me is
+
+1162
+01:51:04,200 --> 01:51:08,360
+five log difference. I would take a one log difference for what you said. That's what's
+
+1163
+01:51:08,360 --> 01:51:13,160
+amazing to me. I didn't- Well, there are other reasons that will come clear. Let me move on.
+
+1164
+01:51:13,160 --> 01:51:18,600
+So the bottom line was that that SARC preparation, which we assumed was completely pure,
+
+1165
+01:51:19,480 --> 01:51:24,760
+wasn't completely pure. It was a certain amount of the SARC harvested out of the cell
+
+1166
+01:51:25,400 --> 01:51:31,240
+brought along this second enzyme, which ultimately turned out to be PI3K,
+
+1167
+01:51:31,240 --> 01:51:37,560
+phosphonosatide 3 kinase. But we didn't know that at that time. And so we suggested in the paper
+
+1168
+01:51:37,560 --> 01:51:44,440
+that the SARC very same enzymatic pocket could both accommodate tyrosine as a substrate and also
+
+1169
+01:51:44,440 --> 01:51:50,760
+accommodate the head group of phosphatide and onositol. That in the end turned out to be incorrect
+
+1170
+01:51:51,480 --> 01:51:56,840
+in that even though by all criteria that we could characterize at that point, we couldn't
+
+1171
+01:51:56,840 --> 01:52:02,520
+prove that there was a separate function. If you used a kinase dead SARC or a mutant of SARC that
+
+1172
+01:52:02,520 --> 01:52:08,520
+no longer had activity, then the phosphonotidol and onositol kinase also went away. That's why
+
+1173
+01:52:08,520 --> 01:52:13,320
+we thought it was the same pocket that was doing both. Retrospect, it turns out that the enzyme
+
+1174
+01:52:13,320 --> 01:52:19,240
+has to be active in order to bind to PI3 kinase. And that's why that activity was coming along.
+
+1175
+01:52:19,240 --> 01:52:25,960
+So we published that. We're very clear to say that we used sonicated membranes to do the assay,
+
+1176
+01:52:26,520 --> 01:52:31,880
+which was necessary to get this mini log preference for that substrate. In the meantime,
+
+1177
+01:52:31,880 --> 01:52:36,760
+after publishing that, multiple other labs tried to reproduce it. But they didn't have
+
+1178
+01:52:36,760 --> 01:52:42,680
+the machine that would sonify the lipids to make the membrane bilayers. So they just added detergent.
+
+1179
+01:52:43,720 --> 01:52:48,440
+So even though we showed in our paper that if you added detergent, the enzyme activity
+
+1180
+01:52:48,440 --> 01:52:52,920
+completely disappeared. Wouldn't the detergent break the glycerol off the lipid?
+
+1181
+01:52:54,040 --> 01:52:58,440
+The phosphotidol and onositol would now get embedded into the detergent rather than being
+
+1182
+01:52:58,440 --> 01:53:02,920
+a bilayer. Yeah, it wouldn't stick to it at all, right? Right. So you're going to lose that
+
+1183
+01:53:02,920 --> 01:53:07,560
+advantage of having a membrane. And that wasn't known at the time, I guess. Well, we knew it
+
+1184
+01:53:07,560 --> 01:53:12,840
+because I'd worked on membranes for the previous 10 years. But the other labs didn't, I guess at
+
+1185
+01:53:12,840 --> 01:53:16,440
+the time they didn't know that. They were not membrane biochemists. They were all molecular
+
+1186
+01:53:16,440 --> 01:53:21,960
+biologists. So they tried to reproduce the result, but they didn't have a sonifier to make
+
+1187
+01:53:21,960 --> 01:53:27,000
+membrane lipids. And they assumed it phosphorylates the head group. Phosphotidol and onositol shouldn't
+
+1188
+01:53:27,000 --> 01:53:33,080
+make any difference how you present it. And so they presented it to detergent micelle and they
+
+1189
+01:53:33,080 --> 01:53:38,200
+could not reproduce the results. So there were three prominent papers coming out a year or so
+
+1190
+01:53:38,200 --> 01:53:43,320
+later saying, Nope, this is incorrect. This is incorrect. This is incorrect from major laboratories.
+
+1191
+01:53:43,320 --> 01:53:47,560
+So at that point, it already started collaboration with Tom Roberts. But at that point, Lou,
+
+1192
+01:53:47,560 --> 01:53:51,800
+did you have confidence that you had done this correctly? Or were you questioning yourself?
+
+1193
+01:53:51,800 --> 01:53:57,400
+I had no doubt. So you knew this was a methodologic error on the part of these other three labs.
+
+1194
+01:53:58,360 --> 01:54:01,560
+And despite the fact that at this point, the scientific community would look at you and say,
+
+1195
+01:54:01,560 --> 01:54:06,120
+Lou, you're probably wrong. You were confident in your methodology. Yeah, there was no doubt. All
+
+1196
+01:54:06,120 --> 01:54:12,360
+my research had been on membrane enzymes and membrane reconstitution, etc. So I knew what I
+
+1197
+01:54:12,360 --> 01:54:17,160
+was doing made sense. And I knew our results are reproducible. Because not only can multiple
+
+1198
+01:54:17,160 --> 01:54:21,720
+people in my laboratory do it, but multiple people in Tom Roberts laboratory who we started
+
+1199
+01:54:21,720 --> 01:54:28,520
+a collaboration with could do it. And Brian Schaffhausen's lab, which was a third collaborator,
+
+1200
+01:54:28,520 --> 01:54:33,080
+could also reproduce it. So multiple people in multiple independent labs all got the same
+
+1201
+01:54:33,080 --> 01:54:39,240
+result. If you sonified the lipid, and if you added MP40 detergent to solubilize a lipid,
+
+1202
+01:54:39,240 --> 01:54:44,840
+then the activity went away. So there was no doubt about that. And so I had no lack of confidence
+
+1203
+01:54:44,840 --> 01:54:51,720
+that we were right. But the problem was how to convince these other laboratories that they needed
+
+1204
+01:54:51,720 --> 01:54:55,800
+to do the essay right. They didn't want to buy a sonifier. They were like, I'm done with that
+
+1205
+01:54:55,800 --> 01:55:03,560
+when there doesn't work. So we actually sent David Kaplan, the graduate student Tom Roberts lab,
+
+1206
+01:55:03,560 --> 01:55:08,520
+and Malcolm Hootman, the graduate student of my laboratory, to these other laboratories with the
+
+1207
+01:55:08,520 --> 01:55:14,840
+sonifier. They went there, they sonified the lipid form, gave them to their graduate students
+
+1208
+01:55:14,840 --> 01:55:20,120
+who then did the essay again. And now they got the same result we got. Are you pushing this hard
+
+1209
+01:55:20,760 --> 01:55:25,160
+to get the other labs to see it because you know how important this is going to be? Or you have
+
+1210
+01:55:25,160 --> 01:55:30,040
+sort of premonition about the role that PI3K is going to play in growth? I mean, you couldn't
+
+1211
+01:55:30,040 --> 01:55:37,320
+have possibly seen in the early 80s what you know today. So how much of this was just scratching an
+
+1212
+01:55:37,320 --> 01:55:45,720
+intellectual itch versus a biologic intuition about the importance of this to overall growth,
+
+1213
+01:55:45,720 --> 01:55:50,920
+which is obviously where we're going. I'm amazed we are this far in and we haven't used the c-word
+
+1214
+01:55:50,920 --> 01:55:59,320
+yet. So the reason I was completely convinced by 1976, 1977, that this was driving growth of cancer
+
+1215
+01:55:59,320 --> 01:56:05,960
+cells is the collaboration we started with Tom Roberts lab. And Tom Roberts had been working on
+
+1216
+01:56:05,960 --> 01:56:15,400
+polyoma middle T. So polyoma virus is a DNA virus while SARC is an RNA virus. So it causes,
+
+1217
+01:56:15,400 --> 01:56:21,640
+as the name implies, the formation of multiple tumors in mice. So you infect a mouse with this
+
+1218
+01:56:21,640 --> 01:56:30,520
+virus and all kinds of tumors show up everywhere. And so Tom had begun mutating various regions of
+
+1219
+01:56:30,600 --> 01:56:38,120
+polyoma middle T. And reason we looked at polyoma middle T is because his lab and Sarah Courtney's
+
+1220
+01:56:38,120 --> 01:56:45,480
+lab and others in Schaffhausen had shown that SARC copurifies with polyoma middle T. We already
+
+1221
+01:56:45,480 --> 01:56:52,200
+knew by the mid 70s that SARC was somehow implicated in how polyoma middle T transforms
+
+1222
+01:56:52,200 --> 01:56:56,360
+cells and forms all these tumors. That's why I went to collaborate with Tom because he had
+
+1223
+01:56:56,360 --> 01:57:01,160
+additional tools that we could collaborate with to understand. And so he had made all kinds of
+
+1224
+01:57:01,160 --> 01:57:07,640
+mutations. He'd also found that SARC phosphorylated his site in polyoma middle T, a tyrosine site was
+
+1225
+01:57:07,640 --> 01:57:14,760
+highly phosphorylated. And even more importantly, that if you mutated that tyrosine residue to
+
+1226
+01:57:14,760 --> 01:57:21,000
+phenylalanine, polyoma middle T completely lost its ability to transform cells. It's a single point
+
+1227
+01:57:21,000 --> 01:57:27,560
+mutation. Even though the SARC protein was still bound, there was no longer tyrosine phosphorylation
+
+1228
+01:57:27,560 --> 01:57:35,080
+315 and that eliminated the ability to transform cells. So we said, well, if PI3 kinase is not
+
+1229
+01:57:35,080 --> 01:57:41,640
+SARC itself, maybe it binds to middle T independently. But we found that if you prevented
+
+1230
+01:57:41,640 --> 01:57:46,120
+SARC from binding the middle T, then you didn't get that tyrosine phosphorylation. And now there
+
+1231
+01:57:46,200 --> 01:57:53,880
+was no PI3 kinase activity bound to middle T. So you needed SARC for middle T to bind to PI3 kinase.
+
+1232
+01:57:53,880 --> 01:57:57,800
+At this time, we didn't know it was phosphorylated in the three position, which we'll come back to.
+
+1233
+01:57:58,760 --> 01:58:03,640
+However, the shocking result was that if you eliminated that tyrosine residue,
+
+1234
+01:58:04,360 --> 01:58:10,120
+now PI3 kinase would no longer bind and middle T would no longer transform cells,
+
+1235
+01:58:10,120 --> 01:58:14,760
+even though SARC was still there and was still activated. So that said that activating SARC
+
+1236
+01:58:14,760 --> 01:58:21,160
+is not sufficient to transform a cell unless you also activate PI3 kinase. And we published that in
+
+1237
+01:58:21,160 --> 01:58:27,960
+Nature in 76, I think, 76, 77 in Nature. Were you collaborating with Bishop and Varmus at this point
+
+1238
+01:58:27,960 --> 01:58:33,320
+in time? 86, 86, and then 86, 87. So 84 was when we published the paper with Ray Erickson.
+
+1239
+01:58:33,960 --> 01:58:38,760
+And then a couple of years later with Tom Roberts and a couple of papers we had, and we showed that
+
+1240
+01:58:38,760 --> 01:58:45,640
+PDGF receptor also when activated brought down COPRIS of the PI3 kinase activity, etc, etc.
+
+1241
+01:58:46,280 --> 01:58:54,280
+So that's where we were in 1986, 87 or so. And at least some of the people who had gotten sonicators
+
+1242
+01:58:54,920 --> 01:59:01,560
+also believed us that this was really uniquely associated with tyrosine kinases after they were
+
+1243
+01:59:01,560 --> 01:59:07,960
+activated by growth factors. We saw the insulin receptor would also bring down PI3 kinase only
+
+1244
+01:59:07,960 --> 01:59:12,840
+if you stimulate insulin first. Then you could also bring down this PI kinase activity.
+
+1245
+01:59:14,040 --> 01:59:20,680
+But at that time, the only monophosphorylated form of phosphatidylinositol known was phosphatidylinositol
+
+1246
+01:59:20,680 --> 01:59:28,760
+4-phosphate. That was discovered in 1949. I mentioned earlier there's a 4-phosphorylation
+
+1247
+01:59:28,760 --> 01:59:34,600
+and there's a 4 plus 5 phosphorylation. And those are the only two species of phosphorylated
+
+1248
+01:59:34,600 --> 01:59:41,240
+phosphatidylinositol. So we assumed that this was phosphorylation at the 4 position.
+
+1249
+01:59:41,240 --> 01:59:50,040
+But as we began to characterize the ability of proteins from cells to phosphorylate phosphatidylinositol,
+
+1250
+01:59:50,040 --> 01:59:54,520
+we found that there were two activities. There was one that required that you sonic
+
+1251
+01:59:54,520 --> 02:00:00,520
+by the membranes for it to bind and get for it to have activity. And another that would work
+
+1252
+02:00:00,520 --> 02:00:06,920
+perfectly well, in fact even better, if the lipid was dissolved in a detergent. So we called those
+
+1253
+02:00:06,920 --> 02:00:15,320
+two enzymes type 1 and type 2 PI kinase. And it was only the type 1, the one that required sonified
+
+1254
+02:00:15,320 --> 02:00:22,280
+lipids that coprecipitated with all these tyrosine kinases. The type 2 had completely different
+
+1255
+02:00:22,280 --> 02:00:28,280
+enzymatic characters. So it was inhibited by adenosine, the type 1 wasn't. And so we had a whole
+
+1256
+02:00:28,280 --> 02:00:33,160
+lot of profiles that said these were two different enzymes. So Malcolm Whitman, registered in my lab,
+
+1257
+02:00:33,160 --> 02:00:40,120
+decided to separate them. So he ran column fractionations and mid-S activities with or without
+
+1258
+02:00:40,120 --> 02:00:45,560
+detergent, with or without adenosine. And he characterized the two enzymes, separated them
+
+1259
+02:00:45,560 --> 02:00:52,440
+completely. And he had a lab, we had a lab meeting which every other spot on the thin layer,
+
+1260
+02:00:52,440 --> 02:00:55,720
+which is how we characterized the lipid phosphorylation, we ran it out
+
+1261
+02:00:56,360 --> 02:01:03,560
+to separate the molecules based on migration in a solvent on a silica plate. And we noticed in the
+
+1262
+02:01:03,560 --> 02:01:10,280
+lab meeting that every other spot migrated about one millimeter different from the previous spot.
+
+1263
+02:01:10,280 --> 02:01:16,280
+And the way that Malcolm had spotted them on the thin layer was it was type 1, then type 2, then type 1,
+
+1264
+02:01:16,280 --> 02:01:21,880
+then type 2, type 1, type 2, all the way across. If you looked at where the radioactivity ran,
+
+1265
+02:01:22,440 --> 02:01:29,080
+it went up, down, up, down, up, down, up, down, up, down. And the bottom line was, to me as a chemist,
+
+1266
+02:01:29,080 --> 02:01:32,760
+the fact that they migrate differently means they have to be chemically different.
+
+1267
+02:01:33,800 --> 02:01:39,400
+That meant that one of those molecules was being phosphorylated at a different position on the
+
+1268
+02:01:39,400 --> 02:01:44,840
+inositol ring from the other. And so we began the process then of chemically characterizing
+
+1269
+02:01:45,640 --> 02:01:50,360
+the product of the type 1 and the type 2 enzyme. And how subtle was this, by the way?
+
+1270
+02:01:50,360 --> 02:01:54,840
+Was this obvious in looking at it? Or was it something that could have easily been dismissed?
+
+1271
+02:01:54,840 --> 02:01:58,520
+I guarantee almost everybody would have dismissed this. One millimeter.
+
+1272
+02:01:58,520 --> 02:02:00,920
+Yeah, I was about to say that just doesn't sound like...
+
+1273
+02:02:00,920 --> 02:02:06,760
+The spot was at least 10 millimeters diameter, and the center of the spots were one millimeter
+
+1274
+02:02:06,760 --> 02:02:07,640
+different.
+
+1275
+02:02:07,640 --> 02:02:10,920
+Do you naturally have an eye that gravitates towards symmetry?
+
+1276
+02:02:10,920 --> 02:02:14,040
+I have an eye that gravitates towards unexpected results.
+
+1277
+02:02:14,360 --> 02:02:20,840
+And to me, there's no way to explain it. If you had only two spots beside each other,
+
+1278
+02:02:20,840 --> 02:02:24,680
+you could say, well, that side of the thin layer migrated a little faster because of
+
+1279
+02:02:25,480 --> 02:02:31,480
+the solvent front was not completely horizontal. But you couldn't explain the up, down, up,
+
+1280
+02:02:31,480 --> 02:02:32,920
+down, up, down, all the way across.
+
+1281
+02:02:32,920 --> 02:02:34,360
+Do you still have a photo of that?
+
+1282
+02:02:34,360 --> 02:02:36,920
+It's in figure one in the Nature paper that we published.
+
+1283
+02:02:36,920 --> 02:02:38,440
+From 88?
+
+1284
+02:02:38,440 --> 02:02:39,400
+88.
+
+1285
+02:02:39,400 --> 02:02:39,960
+88.
+
+1286
+02:02:39,960 --> 02:02:42,440
+We'll link to that figure.
+
+1287
+02:02:42,440 --> 02:02:50,440
+But the observation was made in 1987. I bumped into Peter Downs, who's one of the best lipid
+
+1288
+02:02:50,440 --> 02:02:56,360
+chemists in the world, and at a meeting at Cold Spring Harbor, and I told him this result. And
+
+1289
+02:02:56,360 --> 02:03:03,080
+I said, I know you must have standards for anositol degradation. So can we work together? And
+
+1290
+02:03:03,720 --> 02:03:07,880
+so we knew it had to be some site other than the four position, but it could have been the five,
+
+1291
+02:03:07,880 --> 02:03:08,840
+it could have been the three.
+
+1292
+02:03:08,840 --> 02:03:12,040
+Yeah. Was there a chance it could have been you were looking at four
+
+1293
+02:03:12,120 --> 02:03:14,920
+versus four plus five? Four versus four plus five?
+
+1294
+02:03:14,920 --> 02:03:20,200
+No, because we knew at four plus five, it would migrate to about three inches different.
+
+1295
+02:03:20,200 --> 02:03:25,880
+So that would look totally different. So the null hypothesis is you're just looking at four
+
+1296
+02:03:25,880 --> 02:03:30,840
+and your assays a little dirty, but you're thinking, no, it's something else.
+
+1297
+02:03:30,840 --> 02:03:36,600
+Yeah. Of course, we repeated it multiple times. And we also did HPLC separation, reverse phase,
+
+1298
+02:03:36,600 --> 02:03:41,960
+every way you could look at it. And in every way we did it, they were chemically different.
+
+1299
+02:03:41,960 --> 02:03:47,160
+They migrated differently in numerous. The nature paper, we only put that one slide,
+
+1300
+02:03:47,160 --> 02:03:53,960
+that one figure of the slightly different migration. Because from there on, we did the
+
+1301
+02:03:53,960 --> 02:03:55,880
+chemistry to prove that it was a three position.
+
+1302
+02:03:55,880 --> 02:04:01,720
+Why do you think the three position had such a similar look to the four versus the five?
+
+1303
+02:04:02,680 --> 02:04:07,320
+Well, keep in mind, there were only two species known to exist. At the time we made this discovery,
+
+1304
+02:04:07,320 --> 02:04:09,480
+phosphotidylinositol, four phosphate.
+
+1305
+02:04:10,280 --> 02:04:11,160
+Oh, and four, five.
+
+1306
+02:04:11,160 --> 02:04:11,720
+And four, five.
+
+1307
+02:04:11,720 --> 02:04:13,000
+It was not a five by itself.
+
+1308
+02:04:13,000 --> 02:04:14,440
+It was not a five by itself.
+
+1309
+02:04:14,440 --> 02:04:14,920
+Got it.
+
+1310
+02:04:15,640 --> 02:04:22,040
+So this told us there's a three by itself. And then we went on to show there's also three, four,
+
+1311
+02:04:22,840 --> 02:04:27,800
+and also three, four, five. PI three counties could phosphorylate the three position,
+
+1312
+02:04:28,760 --> 02:04:32,840
+whether or not the four or five were already phosphorylated.
+
+1313
+02:04:33,400 --> 02:04:40,200
+So we now, that generated three new species, PI three P, PI three, four, and PI three, four, five.
+
+1314
+02:04:40,200 --> 02:04:44,040
+But I have to say the three, four, five, this is sort of another
+
+1315
+02:04:44,840 --> 02:04:50,520
+sidebar that we could drop out of this, but it's so cool. Never published it because it
+
+1316
+02:04:50,520 --> 02:04:53,880
+was embarrassing. But to say it, you may as well get embarrassed.
+
+1317
+02:04:54,840 --> 02:05:00,760
+So we knew that there were species that had been claimed to be four, five that were probably three,
+
+1318
+02:05:00,760 --> 02:05:07,560
+four for the same reason that the three P was thought to be four P because separating the three,
+
+1319
+02:05:07,560 --> 02:05:15,000
+four from the four, five was also hard. So we looked for that carefully and found that in fact,
+
+1320
+02:05:15,000 --> 02:05:21,080
+there was a three, four being made and proved that the same enzyme was making three P.
+
+1321
+02:05:21,080 --> 02:05:24,680
+And if you gave it PR four P to the substrate, it would make three, four P two.
+
+1322
+02:05:25,320 --> 02:05:30,760
+Leslie Serunian in a postdoc in the laboratory was doing the experiments to really verify that
+
+1323
+02:05:30,760 --> 02:05:36,360
+those two species really were being made from the same enzyme. And in the course of that work,
+
+1324
+02:05:36,360 --> 02:05:41,960
+she came into my office one day and said, I no longer get the same results that I've been getting
+
+1325
+02:05:41,960 --> 02:05:47,880
+for the last six months. Something has changed. And so we went over all of her thin layers.
+
+1326
+02:05:47,880 --> 02:05:54,280
+Again, this is how we separated all the species. And sure enough, after getting numerous results
+
+1327
+02:05:54,280 --> 02:06:02,520
+in which she could give PI four P and get PI three, four P two, suddenly over the past week,
+
+1328
+02:06:02,520 --> 02:06:08,920
+she no longer got that doubly phosphorylated lipid when she added purified PI three kinase
+
+1329
+02:06:09,880 --> 02:06:16,040
+to that lipid. So the question was what had changed? And she said, well, the only thing
+
+1330
+02:06:16,040 --> 02:06:23,960
+that changed is we ran out of the PI four P and I had to buy a new jar of PI four P from
+
+1331
+02:06:23,960 --> 02:06:31,640
+Baron Germanheim. That's interesting. As I looked at the thin layer more carefully, I noticed that
+
+1332
+02:06:31,640 --> 02:06:36,760
+just when the experiments were no longer working, there was a new spot on the thin layer that was
+
+1333
+02:06:36,760 --> 02:06:42,120
+just off the origin where we assumed it would probably just be ATP. There was always a little
+
+1334
+02:06:42,200 --> 02:06:49,560
+bit of contaminating ATP that got left over when you separate the lipid out. And we assumed that
+
+1335
+02:06:49,560 --> 02:06:56,360
+that was ATP, but I noticed it ran just a little bit faster than ATP. And that it only appeared in
+
+1336
+02:06:56,360 --> 02:07:02,840
+experiments where she could not find the three, four P two. And I said, okay, stained is what I
+
+1337
+02:07:02,840 --> 02:07:09,640
+had and it'll tell you where the lipid that you used from Baron Germanheim runs. And I'll bet
+
+1338
+02:07:09,640 --> 02:07:15,000
+that it's actually four or five P two. And that turned out to be the case that they'd mislabeled
+
+1339
+02:07:15,000 --> 02:07:21,320
+the bottle. What was commercially sold as phosphatidylinositol four phosphate was actually
+
+1340
+02:07:21,320 --> 02:07:29,240
+phosphatidylinositol four or five bisphosphate. And so by accident, I almost think that God looked
+
+1341
+02:07:29,240 --> 02:07:34,520
+down on us and said, look, they're missing the most important lipid PI three, four, five P three.
+
+1342
+02:07:34,520 --> 02:07:40,520
+It never occurred to us to look for it because we were, no one had ever claimed of something like
+
+1343
+02:07:40,520 --> 02:07:46,600
+that to ran on a thin layer. That was because it runs so close to the ATP that was always missed
+
+1344
+02:07:47,480 --> 02:07:51,960
+because it's got three phosphates. Yeah. It's very highly charged and therefore runs.
+
+1345
+02:07:51,960 --> 02:07:59,720
+I never once thought of that until you just said that Lou, I never, I never would have had that
+
+1346
+02:07:59,880 --> 02:08:05,720
+thought actually. And then of course, when you say it now, I mean, that's, think about how dominant
+
+1347
+02:08:05,720 --> 02:08:10,360
+those three phosphates are, right? In fact, a year after we made this observation, the paper came out.
+
+1348
+02:08:10,360 --> 02:08:14,520
+In fact, I got called by nature saying there's this paper claiming they found something that
+
+1349
+02:08:14,520 --> 02:08:20,600
+looks like triply phosphorylated phosphatidylinositol. And they asked, do you think that's
+
+1350
+02:08:20,600 --> 02:08:25,400
+possible? And I said, yeah, in fact, I know it's possible. We already have results showing that
+
+1351
+02:08:25,400 --> 02:08:30,760
+that can happen with purified enzyme. Lou, thank you so much for the generosity with your time and
+
+1352
+02:08:30,760 --> 02:08:34,760
+your insights and most importantly for the work you're doing. You and your colleagues are helping
+
+1353
+02:08:34,760 --> 02:08:40,440
+a lot of people. Thank you, Peter. Thank you for listening to this week's episode of The Drive. If
+
+1354
+02:08:40,440 --> 02:08:45,320
+you're interested in diving deeper into any topics we discuss, we've created a membership program that
+
+1355
+02:08:45,320 --> 02:08:50,440
+allows us to bring you more in-depth exclusive content without relying on paid ads. It's our
+
+1356
+02:08:50,440 --> 02:08:55,480
+goal to ensure members get back much more than the price of the subscription. Now to that end,
+
+1357
+02:08:55,480 --> 02:09:01,080
+membership benefits include a bunch of things. One, totally kick ass comprehensive podcast show notes
+
+1358
+02:09:01,080 --> 02:09:06,760
+that detail every topic, paper, person, thing we discuss on each episode. The word on the street is
+
+1359
+02:09:06,760 --> 02:09:12,360
+nobody's show notes rival these. Monthly AMA episodes or ask me anything episodes, hearing
+
+1360
+02:09:12,360 --> 02:09:18,280
+these episodes completely. Access to our private podcast feed that allows you to hear everything
+
+1361
+02:09:18,280 --> 02:09:23,400
+without having to listen to spiel's like this. The Qualies, which are a super short podcast,
+
+1362
+02:09:23,400 --> 02:09:27,240
+typically less than five minutes that we release every Tuesday through Friday,
+
+1363
+02:09:27,240 --> 02:09:31,800
+highlighting the best questions, topics, and tactics discussed on previous episodes of The Drive.
+
+1364
+02:09:31,800 --> 02:09:36,520
+This is a great way to catch up on previous episodes without having to go back and necessarily
+
+1365
+02:09:36,520 --> 02:09:42,040
+listen to everyone. Steep discounts on products that I believe in, but for which I'm not getting
+
+1366
+02:09:42,040 --> 02:09:46,840
+paid to endorse and a whole bunch of other benefits that we continue to trickle in as time
+
+1367
+02:09:46,920 --> 02:09:50,760
+goes on. If you want to learn more and access these member only benefits, you can head over
+
+1368
+02:09:50,760 --> 02:09:57,960
+to PeterAttiaMD.com forward slash subscribe. You can find me on Twitter, Instagram, and Facebook,
+
+1369
+02:09:57,960 --> 02:10:04,520
+all with the ID PeterAttiaMD. You can also leave us a review on Apple Podcast or whatever podcast
+
+1370
+02:10:04,520 --> 02:10:10,040
+player you listen on. This podcast is for general informational purposes only. It does not constitute
+
+1371
+02:10:10,040 --> 02:10:14,760
+the practice of medicine, nursing, or other professional healthcare services, including
+
+1372
+02:10:14,760 --> 02:10:19,960
+the giving of medical advice. No doctor patient relationship is formed. The use of this
+
+1373
+02:10:19,960 --> 02:10:25,640
+information and the materials linked to this podcast is at the user's own risk. The content
+
+1374
+02:10:25,640 --> 02:10:31,400
+on this podcast is not intended to be a substitute for professional medical advice, diagnosis, or
+
+1375
+02:10:31,400 --> 02:10:37,640
+treatment. Users should not disregard or delay in obtaining medical advice from any medical
+
+1376
+02:10:37,640 --> 02:10:42,200
+condition they have, and they should seek the assistance of their healthcare professionals
+
+1377
+02:10:42,200 --> 02:10:47,880
+for any such conditions. Finally, I take conflicts of interest very seriously. For all of my
+
+1378
+02:10:47,880 --> 02:10:55,160
+disclosures and the companies I invest in or advise, please visit PeterAttiaMD.com forward slash
+
+1379
+02:10:55,160 --> 02:11:00,120
+about where I keep an up-to-date and active list of such companies.
+

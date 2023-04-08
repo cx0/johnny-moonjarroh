@@ -1,0 +1,5260 @@
+1
+00:00:00,000 --> 00:00:10,920
+Hey, everyone. Welcome to the Peter Attia Drive. I'm your host, Peter Attia. The drive
+
+2
+00:00:10,920 --> 00:00:16,000
+is a result of my hunger for optimizing performance, health, longevity, critical thinking, along
+
+3
+00:00:16,000 --> 00:00:19,680
+with a few other obsessions I've gathered along the way. I've spent the last several
+
+4
+00:00:19,680 --> 00:00:23,800
+years working with some of the most successful top performing individuals in the world. And
+
+5
+00:00:23,800 --> 00:00:28,200
+this podcast is my attempt to synthesize what I've learned along the way to help you live
+
+6
+00:00:28,200 --> 00:00:32,120
+a higher quality, more fulfilling life. If you enjoy this podcast, you can find more
+
+7
+00:00:32,120 --> 00:00:41,880
+information on today's episode and other topics at PeterAttiaMD.com.
+
+8
+00:00:41,880 --> 00:00:47,120
+In this podcast, I'm speaking with Dr. Ron Kraus. First and foremost, Ron is a very close
+
+9
+00:00:47,120 --> 00:00:53,640
+friend and an amazing mentor. I was introduced to Ron probably five years ago and have worked
+
+10
+00:00:53,640 --> 00:00:59,360
+with him closely in a number of capacities. And he's always served as one of the three
+
+11
+00:00:59,360 --> 00:01:04,800
+or four lipidologists that when I get stumped on a really difficult clinical case, he's
+
+12
+00:01:04,800 --> 00:01:08,600
+the person that I'm reaching out to along with a couple of these other folks that hopefully
+
+13
+00:01:08,600 --> 00:01:13,600
+will also have on the podcast at some point. So he is certainly recognized globally for
+
+14
+00:01:13,600 --> 00:01:19,440
+his research in lipidology. He wears a ton of hats. He's a clinician, obviously a lipidologist.
+
+15
+00:01:19,440 --> 00:01:25,160
+His interest in nutrition, genetics, drug research is quite profound. He obtained, I
+
+16
+00:01:25,160 --> 00:01:29,220
+believe both his college degrees and medical degrees from Harvard. He's board certified
+
+17
+00:01:29,220 --> 00:01:33,200
+in internal medicine, endocrinology, and metabolism. And currently he's a senior scientist and
+
+18
+00:01:33,200 --> 00:01:37,760
+the director of atherosclerosis research at the Children's Hospital in Oakland. So in
+
+19
+00:01:37,760 --> 00:01:42,560
+this episode, we talk about a lot of stuff, but obviously we're really focusing on atherosclerosis
+
+20
+00:01:42,560 --> 00:01:47,560
+and cardiovascular disease. I was really excited to have this discussion with him because a
+
+21
+00:01:47,600 --> 00:01:51,880
+lot of these topics I've certainly covered in writing. As some of you may know, I have
+
+22
+00:01:51,880 --> 00:01:58,640
+that sort of nine part straight dope on cholesterol series on the blog that I probably wrote about
+
+23
+00:01:58,640 --> 00:02:03,280
+four or five years ago. Obviously some of that's a little bit outdated. And I also was
+
+24
+00:02:03,280 --> 00:02:08,000
+quite deliberate when I wrote that not to be prescriptive, meaning I don't really get
+
+25
+00:02:08,000 --> 00:02:13,240
+into this is the drug treatment you would do for this. And I largely avoided a lot of
+
+26
+00:02:13,240 --> 00:02:17,800
+that stuff. Whereas in this podcast, Ron and I get a little bit into this. This podcast was
+
+27
+00:02:17,800 --> 00:02:24,200
+pretty technical at times. So my hope is that both the curious patient will get a lot out of
+
+28
+00:02:24,200 --> 00:02:28,640
+that and hopefully the physician will get a lot out of this or the person that is also kind of on
+
+29
+00:02:28,640 --> 00:02:35,320
+the front lines of having to make decisions about how to treat dyslipidemia and reduce the risk of
+
+30
+00:02:35,320 --> 00:02:39,340
+atherosclerotic disease. I think a couple of really interesting things in this. I actually for the
+
+31
+00:02:39,340 --> 00:02:45,700
+first time learned about Ron's motivation for this, both his family history and the five
+
+32
+00:02:45,700 --> 00:02:50,540
+legendary articles that he read in the New England Journal of Medicine that largely shaped his career.
+
+33
+00:02:50,540 --> 00:02:55,080
+This is the stuff we talk about with Friedrichs and Levee and Lees who I've written about in the
+
+34
+00:02:55,080 --> 00:03:00,420
+cholesterol series because these guys are sort of the fathers of this space. We certainly get into
+
+35
+00:03:00,420 --> 00:03:06,740
+one of the age old debates about LDL particle size versus particle number. Lots of controversy here.
+
+36
+00:03:06,740 --> 00:03:11,500
+I don't represent that we've necessarily resolved it, but I think that's the beauty of talking with
+
+37
+00:03:11,500 --> 00:03:15,580
+really smart, sophisticated, nuanced people is they have the humility to say we don't know the
+
+38
+00:03:15,580 --> 00:03:21,060
+answer sometimes. We really dive deep into the whole statin discussion for reasons that aren't
+
+39
+00:03:21,060 --> 00:03:27,380
+entirely clear to me. This has become an increasingly controversial area and somehow it's turned into a
+
+40
+00:03:27,380 --> 00:03:34,340
+binary discussion. Statins are good or statins are bad. Very few things in life tend to be that binary.
+
+41
+00:03:35,020 --> 00:03:39,900
+I'm sort of surprised that it's turned into that. I don't remember if I even say this on the podcast,
+
+42
+00:03:39,900 --> 00:03:43,380
+but certainly people have probably heard me say this before and I say it to patients all the time,
+
+43
+00:03:43,380 --> 00:03:48,220
+statins are tools. The most important thing when you have a tool is knowing how to use it and knowing
+
+44
+00:03:48,220 --> 00:03:53,220
+when to use it. If you have a Phillips screwdriver, it's really important to know that it's very good
+
+45
+00:03:53,220 --> 00:03:59,140
+at putting Phillips screws into things. It's not good at putting nails into things. It's not good
+
+46
+00:03:59,140 --> 00:04:05,460
+at cleaning windows. I hope we can shed some light on that. We talk a little bit about the
+
+47
+00:04:05,460 --> 00:04:10,060
+really interesting and recent stuff around chronic inflammation and the role that that plays in
+
+48
+00:04:10,060 --> 00:04:15,340
+atherosclerosis, even independent of cholesterol levels. Perhaps for me personally, one of the most
+
+49
+00:04:15,340 --> 00:04:20,660
+interesting things we discussed was another very controversial topic, which is around niacin and
+
+50
+00:04:20,660 --> 00:04:26,820
+niacpan, which is a branded version of that. Those of you who follow this world will know that niacin
+
+51
+00:04:26,820 --> 00:04:32,260
+was basically kicked to the curb a couple of years ago. I think that Ron's insights into that
+
+52
+00:04:32,260 --> 00:04:39,020
+are incredibly interesting and actually have even made me re-question or re-evaluate, I guess, my
+
+53
+00:04:39,020 --> 00:04:44,540
+willingness to ever consider using it again. Ron does a great job explaining the HDL paradox,
+
+54
+00:04:44,540 --> 00:04:50,060
+meaning why is it that all the pharmacologic efforts to raise HDL seem to also raise heart
+
+55
+00:04:50,060 --> 00:04:57,220
+disease or at best make it know better. Finally, we end with a discussion of PCSK9 inhibitors,
+
+56
+00:04:57,220 --> 00:05:02,420
+which I suspect we'll have a completely dedicated podcast to this topic at some point. We touch on
+
+57
+00:05:02,420 --> 00:05:07,680
+LPa, though later on in the release of this podcast, we're going to have a dedicated discussion on
+
+58
+00:05:07,680 --> 00:05:13,180
+LPa. Okay. With all that said, you can find a ton more information, including a lot of links to the
+
+59
+00:05:13,180 --> 00:05:17,340
+papers that Ron has mentioned, more information about Ron in the show notes, which are at
+
+60
+00:05:17,340 --> 00:05:23,760
+peteratiamd.com forward slash podcast. So without further ado, here is my conversation with Dr. Ron
+
+61
+00:05:23,760 --> 00:05:33,660
+Krauss. Well, I'm here with Dr. Ron Krauss today. And this is a really exciting topic for me. People
+
+62
+00:05:33,660 --> 00:05:38,580
+know I've written about this a lot. I talk about this a lot clinically, but the genesis of this
+
+63
+00:05:38,580 --> 00:05:44,900
+discussion today is that about a month ago, I called Ron to have a discussion with him about
+
+64
+00:05:44,900 --> 00:05:50,300
+one of my patients in particular. It was a patient who had a pretty elevated calcium score,
+
+65
+00:05:50,300 --> 00:05:56,340
+if I recall, pretty significant LAD calcifications. That's the artery in the left side of the heart.
+
+66
+00:05:56,340 --> 00:06:02,340
+But he was very hesitant to do any treatment and he wanted a second opinion. So I thought we should
+
+67
+00:06:02,340 --> 00:06:06,420
+involve Ron. And Ron, I remember I was sitting in my kitchen, we spoke for probably half an hour.
+
+68
+00:06:06,420 --> 00:06:10,700
+And at the end of the conversation, I said, you know, Ron, I wish we recorded that conversation,
+
+69
+00:06:10,700 --> 00:06:15,900
+because this is exactly the kind of stuff that I think a lot of physicians and patients would
+
+70
+00:06:15,900 --> 00:06:21,700
+benefit from. And so I said, you know, why don't we do this again, more formally? And that brings us
+
+71
+00:06:21,700 --> 00:06:28,060
+here today. Let's start with a big question, but an important one for where we're going. And that's
+
+72
+00:06:28,060 --> 00:06:33,820
+basically the pathophysiology of atherosclerosis. A very recent review article I read described it
+
+73
+00:06:33,820 --> 00:06:40,780
+quite eloquently as a smoldering inflammatory condition fueled by lipids. What does that mean?
+
+74
+00:06:40,780 --> 00:06:46,900
+Well, first of all, thank you, Peter, for asking me to talk with you today and address this topic,
+
+75
+00:06:46,900 --> 00:06:51,620
+which as you know, I have a deep and longstanding interest in. Hopefully I can address the issues
+
+76
+00:06:51,620 --> 00:06:58,540
+that you're also interested in and we'll have a good conversation. Well, atherosclerosis, of course,
+
+77
+00:06:58,620 --> 00:07:05,460
+is the underlying process that leads ultimately to vascular disease, particularly clinically
+
+78
+00:07:05,460 --> 00:07:11,340
+events, heart attack and stroke. It starts in childhood, is well known that there is early on
+
+79
+00:07:11,340 --> 00:07:18,060
+the buildup of cholesterol in the artery wall that forms what's called fatty streaks. And that's a
+
+80
+00:07:18,060 --> 00:07:24,100
+process that's actually a fairly normal condition, even in young people. And if it doesn't progress
+
+81
+00:07:24,260 --> 00:07:32,020
+any further than that, it's really not hazardous. It's a way that arterial tissue can put cholesterol
+
+82
+00:07:32,020 --> 00:07:36,540
+in its cells and some of that cholesterol is actually used for various purposes. So that's
+
+83
+00:07:36,540 --> 00:07:43,180
+not necessarily a pathologic process, but it can progress. And when it progresses, there is a
+
+84
+00:07:43,180 --> 00:07:49,980
+combination of factors that conspire to make that fatty streak into a much more toxic process. And
+
+85
+00:07:50,700 --> 00:07:56,660
+it is fueled by lipids, the same lipids that lead to the fatty streak. But under conditions that
+
+86
+00:07:56,660 --> 00:08:04,180
+many of us live under, there are changes in the lipoproteins that are taken up by the artery. And
+
+87
+00:08:04,180 --> 00:08:11,420
+we'll talk about those in more detail in a minute. In particular, susceptibility to oxidation and the
+
+88
+00:08:11,540 --> 00:08:18,020
+change in the properties that allows them to stick more tightly to the artery wall. And when that
+
+89
+00:08:18,020 --> 00:08:23,900
+happens, particularly the oxidative changes, it does trigger inflammation as a very early part of
+
+90
+00:08:23,900 --> 00:08:30,660
+this next phase of the disease process. And inflammation is defined in one way as the
+
+91
+00:08:30,660 --> 00:08:37,020
+accumulation of cells in the artery wall that deliver various inflammatory molecules, things
+
+92
+00:08:37,020 --> 00:08:44,060
+that ordinarily if one bruises oneself or has some sort of an injury, those inflammatory processes
+
+93
+00:08:44,060 --> 00:08:49,860
+cause redness and accumulation in some cases of clotting factors. When that happens in the artery,
+
+94
+00:08:50,220 --> 00:08:55,460
+that can convert this fatty streak into something that is much more malignant. And then there is a
+
+95
+00:08:55,460 --> 00:09:00,740
+process that kind of feeds on itself. And it does involve platelets and clotting factors in an
+
+96
+00:09:00,740 --> 00:09:06,260
+important way. And it involves a number of inflammatory molecules. And if there's continuing
+
+97
+00:09:06,300 --> 00:09:13,700
+input of these bad atherogenic, if you will, lipoprotein particles, that can actually change the
+
+98
+00:09:13,700 --> 00:09:21,500
+nature of the plaque, and inflammation comes into play in a very serious way, when that results in a
+
+99
+00:09:21,500 --> 00:09:27,540
+breakdown of the surface of the plaque, which ordinarily protects it from any kind of serious
+
+100
+00:09:27,540 --> 00:09:32,380
+consequences. So even fatty streak can develop, which can develop into a plaque. And a plaque in this
+
+101
+00:09:32,380 --> 00:09:37,460
+case is essentially a larger fatty streak. The plaque has a cholesterol, but it also has all these
+
+102
+00:09:37,460 --> 00:09:44,340
+other cells, it's a much more complex phenomenon. So that plaque is ordinarily under relatively benign
+
+103
+00:09:44,340 --> 00:09:51,140
+conditions, encapsulated by a fibrous layer. But inflammation in the release of various molecules can
+
+104
+00:09:51,140 --> 00:09:57,140
+cause that fibrous cap, that protective cap to weaken and ultimately potentially rupture. And when that
+
+105
+00:09:57,140 --> 00:10:03,300
+rupture occurs, that is the beginning of the end in terms of the process that we're talking about here. Most
+
+106
+00:10:03,300 --> 00:10:10,660
+cases of heart attack and stroke involve this type of acute rupture, and ultimately formation of a
+
+107
+00:10:10,660 --> 00:10:16,740
+clot that blocks the arterial flow. So starting from a relatively benign process, this can develop into
+
+108
+00:10:16,740 --> 00:10:18,300
+something that's much more serious.
+
+109
+00:10:18,460 --> 00:10:24,540
+Now, when I was in medical school, I remember in first year pathology lecture, the pathologist said, let's
+
+110
+00:10:24,540 --> 00:10:31,180
+see a show of hands, what is the most common first presentation of heart disease? And you know, everybody
+
+111
+00:10:31,180 --> 00:10:36,820
+puts up their hands and says, chest pain, left shoulder pain, shortness of breath. And he said, no, no, no, no, no,
+
+112
+00:10:36,980 --> 00:10:41,340
+it's sudden death. Yeah, that was a little over 20 years ago. Is that still true today?
+
+113
+00:10:41,620 --> 00:10:46,660
+Estimates I've heard and I think this this is arguable because these are really rough rule of the thumb
+
+114
+00:10:46,660 --> 00:10:52,820
+calculations, somewhere in the range of 30%, possibly upwards of 30%, which is still a huge number.
+
+115
+00:10:52,860 --> 00:10:58,580
+It's staggering. It means that one third of people's first brush with the knowledge that they have atherosclerosis
+
+116
+00:10:59,100 --> 00:11:06,100
+is death. And I have patients, and I'm sure you do as well, who have died and come back. And so there is this
+
+117
+00:11:06,100 --> 00:11:12,140
+process where there's an acute event that causes an irreversible change. But for some people, fortunately, we can
+
+118
+00:11:12,140 --> 00:11:17,980
+bring them back. But together, that represents really the basis for calling this disease the silent killer.
+
+119
+00:11:18,540 --> 00:11:25,820
+Because as you're saying, we don't in those patients have premonitory symptoms, sometimes in retrospect, they are
+
+120
+00:11:25,820 --> 00:11:31,980
+there. And I think that's the important reason for educating the public, as organizations like the American Heart
+
+121
+00:11:31,980 --> 00:11:38,300
+Association does, as to the first signs of heart disease, because it may be and probably is true, that a
+
+122
+00:11:38,300 --> 00:11:40,380
+significant component of that 30%.
+
+123
+00:11:40,660 --> 00:11:44,540
+Right upon further querying, there was some exercise intolerance.
+
+124
+00:11:44,540 --> 00:11:49,220
+Didn't recognize it. Yeah. And it's very hard sometimes. One of the things that we'll be talking about is ways of
+
+125
+00:11:49,220 --> 00:11:55,620
+assessing risk. And those are still imperfect. And we can't, with 100% certainty, use any kind of risk
+
+126
+00:11:55,620 --> 00:11:59,300
+predictor to know if somebody's destined to have a heart attack with certainty.
+
+127
+00:11:59,580 --> 00:12:05,780
+Yeah, you said something at the outset, which is this is a disease that begins in infancy. And I have very few
+
+128
+00:12:05,780 --> 00:12:12,180
+textbooks and or papers that I refer to so frequently that they actually sit on my desk in my office so that every
+
+129
+00:12:12,180 --> 00:12:17,780
+time I'm with a patient, I can pull them out. But one of them was a book that was given to me by one of my mentors, I
+
+130
+00:12:17,780 --> 00:12:23,580
+consider you a great mentor, Tom Dayspring, a great mentor, Alan Snyderman, a great mentor. And Alan gave me this
+
+131
+00:12:23,580 --> 00:12:31,220
+textbook of pathology, I think, I believe it's Starry is the the author. And while I believe the data represented, they
+
+132
+00:12:31,220 --> 00:12:37,180
+were somewhat dated, because it was largely based on the Vietnam cohort and in Korea. Yes, where obviously smoking
+
+133
+00:12:37,180 --> 00:12:44,260
+would have been a higher prevalence than today. Right. The fact remains that when you look at autopsies of young people
+
+134
+00:12:44,260 --> 00:12:52,500
+who died of unrelated reasons, homicides, accidents, etc. And you look at the histologic sections of their coronary
+
+135
+00:12:52,500 --> 00:12:58,980
+arteries, it's amazing how many of them have lesions that are type three or beyond type three, meaning, obviously a
+
+136
+00:12:58,980 --> 00:13:02,220
+typopathological region where you go beyond Fatty Street.
+
+137
+00:13:02,260 --> 00:13:08,540
+Yes, indeed. Yeah, that's right. So a subset of these youths will have more advanced lesions. And the studies that have been
+
+138
+00:13:08,540 --> 00:13:17,340
+done have linked all of the usual risk factors, smoking, certainly diabetes, hypertension, and dyslipidemia, all of
+
+139
+00:13:17,380 --> 00:13:25,540
+an lipid disorder, all of those have been associated with the more advanced lesions in those individuals. So as you're
+
+140
+00:13:25,540 --> 00:13:29,980
+pointing out, even even a more significant plaque development can occur in childhood.
+
+141
+00:13:30,500 --> 00:13:36,460
+I think the thing that's hard for people to understand, and I think it's true of most chronic diseases, but I don't think any
+
+142
+00:13:36,460 --> 00:13:43,300
+disease in any disease, it is as clear as it is with atherosclerosis, which is the compounding nature of the disease. You
+
+143
+00:13:43,300 --> 00:13:48,900
+know, another great example of one of those questions that the professor asks that gets everybody stumped, which is what's the
+
+144
+00:13:48,900 --> 00:13:55,580
+greatest risk for heart disease? You know, is it smoking? Nope. Is it high blood pressure? Nope. Is it dyslipidemia? Nope. It's
+
+145
+00:13:55,580 --> 00:14:02,300
+age. That's right. It's age. I mean, and why is it age? Because it's exposure, it's time, it's area under the curve.
+
+146
+00:14:02,300 --> 00:14:10,900
+Yeah, that's exactly true. You know, age, regrettably, is a risk factor that cuts across many of the diseases, chronic diseases that we have to deal with,
+
+147
+00:14:10,900 --> 00:14:19,820
+cancer, for example. And yeah, that's right. It's a cumulative process that can progress at various rates, depending the condition. So
+
+148
+00:14:19,820 --> 00:14:27,700
+people, as you know, when we talk about who have genetically elevated, severely elevated cholesterol levels, will have that process
+
+149
+00:14:27,700 --> 00:14:35,980
+accelerate and have the disease sort of clinically early on, sometimes with these severe genetic disorders and the teens, whereas others, most of the
+
+150
+00:14:35,980 --> 00:14:45,540
+population, fortunately, who do have risk factors, show a gradual increase in the manifestation of disease as a result of those risk factors as a
+
+151
+00:14:45,540 --> 00:14:46,700
+function of their age.
+
+152
+00:14:46,820 --> 00:14:53,940
+You know, at last check, and I can't remember if it was JAMA or another journal, but it was about a year ago, and they looked at some actuarial data for
+
+153
+00:14:53,940 --> 00:15:02,260
+people out through being past centenarians. And the only disease, once you normalised for a few things, the only disease that increased
+
+154
+00:15:02,260 --> 00:15:05,220
+monotonically by decade in risk was atherosclerosis.
+
+155
+00:15:05,260 --> 00:15:05,860
+From childhood.
+
+156
+00:15:05,860 --> 00:15:11,460
+Yeah, even cancer actually, you know, I think by the ninth decade, it started to come down.
+
+157
+00:15:11,460 --> 00:15:20,820
+I see. Yeah, yeah. Yeah, you know, it's definitely the latency period for cancer also is a factor there as well. So there's a sort of latency period where nothing
+
+158
+00:15:20,820 --> 00:15:23,460
+happens and all of a sudden, an older age, it pops up.
+
+159
+00:15:23,700 --> 00:15:29,140
+I'm sure a lot of people listening to this are going to say, OK, well, God, I'm really confused by half the terms you guys just used.
+
+160
+00:15:29,140 --> 00:15:35,220
+So let's unpack some of them, beginning with we use the term sometimes lipid cholesterol, lipoprotein.
+
+161
+00:15:35,220 --> 00:15:41,460
+We throw those terms around interchangeably, but I think it's probably important to give the average person a sense of an understanding.
+
+162
+00:15:41,460 --> 00:15:47,380
+So what is LDLC versus LDLP versus APOB and things like that?
+
+163
+00:15:47,380 --> 00:15:55,700
+Sure. The underlying concept that we are going to address is cholesterol, because that's really the compound.
+
+164
+00:15:55,700 --> 00:15:58,580
+It's the it's the molecule that winds up causing plaques.
+
+165
+00:15:58,580 --> 00:16:08,900
+So cholesterol is indeed an important component of the plaque and it gets into the plaque by uptake of cholesterol from lipoprotein particles.
+
+166
+00:16:08,900 --> 00:16:16,740
+And so lipoproteins are complex spherical macromolecules, big guys, which come in varying sizes
+
+167
+00:16:16,820 --> 00:16:22,180
+and are composed of cholesterol along with other lipids such as triglyceride.
+
+168
+00:16:22,180 --> 00:16:28,900
+And most importantly, perhaps for distinguishing the various types of lipoproteins, is their protein content.
+
+169
+00:16:28,900 --> 00:16:35,940
+So there's a variety of different proteins that form the package that actually a capsule around the lipid.
+
+170
+00:16:35,940 --> 00:16:37,940
+And so let me interrupt you for one second.
+
+171
+00:16:37,940 --> 00:16:40,260
+Is it just a point of clarification?
+
+172
+00:16:40,260 --> 00:16:47,060
+The reason we even need these lipoproteins is that cholesterol is hydrophobic.
+
+173
+00:16:47,060 --> 00:16:55,940
+It repels water. And so therefore to move cholesterol through the bloodstream, you have to package it in something that is hydrophilic or dissolves in water.
+
+174
+00:16:55,940 --> 00:16:56,500
+Is that correct?
+
+175
+00:16:56,500 --> 00:17:00,900
+Right. And for the techno files here, it's the cholesterol ester.
+
+176
+00:17:00,900 --> 00:17:06,660
+So there's two forms of cholesterol and it's the fatty form of cholesterol is cholesterol ester.
+
+177
+00:17:06,660 --> 00:17:08,580
+The other form is more waxy.
+
+178
+00:17:08,580 --> 00:17:11,300
+So the fatty form is transported right from one tissue to another.
+
+179
+00:17:11,300 --> 00:17:26,580
+And that is the purpose of lipoproteins, not just cholesterol, of course, but triglycerides, as I mentioned, even perhaps more importantly for many functions, energy metabolism and other compounds such as phospholipids, as well as passengers on the truck, certain vitamins, et cetera.
+
+180
+00:17:26,580 --> 00:17:30,820
+So these are packages that serve an important biologic function.
+
+181
+00:17:30,820 --> 00:17:32,740
+They're not here to cause heart attacks.
+
+182
+00:17:32,740 --> 00:17:34,740
+We divide them into various categories.
+
+183
+00:17:34,740 --> 00:17:42,500
+But the common parlance, sort of the most typical way that we think about cholesterol as a pathologic factor is when it's on LDL.
+
+184
+00:17:42,500 --> 00:17:44,340
+So that's called LDL cholesterol.
+
+185
+00:17:44,340 --> 00:17:47,540
+And that measures the amount of cholesterol on an LDL particle.
+
+186
+00:17:47,540 --> 00:17:49,940
+And LDL is low density lipoproteins.
+
+187
+00:17:49,940 --> 00:17:56,740
+So this is a form of lipoprotein that is characterized by size.
+
+188
+00:17:56,740 --> 00:18:04,580
+And it's also characterized by its density, which is related to its capacity to float because when there's fat in anything, it causes.
+
+189
+00:18:04,740 --> 00:18:09,140
+The thing to float and that's to varying degrees defines different classes of lipoproteins.
+
+190
+00:18:09,140 --> 00:18:14,740
+And it's the LDL that is the most strongly connected to cardiovascular disease risk.
+
+191
+00:18:14,740 --> 00:18:31,220
+And the cholesterol in LDL, which is measured commonly clinically as LDL cholesterol, is what has been most widely associated with cardiovascular risk and forms the basis for many of our recommendations for lowering risk.
+
+192
+00:18:31,300 --> 00:18:37,860
+But it's important to recognize that this is a tag on a much more complex substance, a particle.
+
+193
+00:18:37,860 --> 00:18:45,380
+And this will talk about, I think very shortly, particle is what causes the plaque to develop and it brings the cholesterol with it.
+
+194
+00:18:46,260 --> 00:18:56,420
+So the LDL particle, the low density lipoprotein itself, the spherical molecule or macromolecule, which carries around cholesterol,
+
+195
+00:18:56,420 --> 00:19:00,740
+phospholipid triglyceride, it has a signature on it, doesn't it?
+
+196
+00:19:00,740 --> 00:19:02,820
+Something called ApoB100.
+
+197
+00:19:02,820 --> 00:19:14,340
+That's right. The key protein that holds this particle together, that allows it to form a sphere and to encapsulate the lipid cargo, is called Apoprotein B.
+
+198
+00:19:14,340 --> 00:19:17,140
+There are two major forms of ApoB.
+
+199
+00:19:17,140 --> 00:19:22,340
+The one that's found in LDL particles is called ApoB100.
+
+200
+00:19:22,340 --> 00:19:30,260
+And oftentimes that is used as a surrogate for measuring LDL particle concentration, as we'll talk about.
+
+201
+00:19:30,260 --> 00:19:32,100
+And this is a big clinical distinction.
+
+202
+00:19:32,100 --> 00:19:46,740
+I think it is safe to say, at least in my relatively modest sampling of physicians, most physicians, let alone most patients, are not really clear on the distinction between the number when they say LDL is 100.
+
+203
+00:19:46,740 --> 00:20:00,900
+They don't necessarily realize what they're saying is the LDL cholesterol is 100 milligrams per deciliter, meaning if you took all of the LDL particles in the body, smashed them apart, gathered the cholesterol ester, the mass per unit volume is 100.
+
+204
+00:20:00,900 --> 00:20:01,940
+And free cholesterol.
+
+205
+00:20:01,940 --> 00:20:07,220
+Yes. And that's very different from saying, how many of these particles do we have?
+
+206
+00:20:07,220 --> 00:20:08,740
+That's right. And that's important.
+
+207
+00:20:08,740 --> 00:20:22,100
+And so that observation really forms a very significant component of my history in this field, because I entered the field as a young fellow knowing about LDL cholesterol.
+
+208
+00:20:22,100 --> 00:20:25,380
+I was interested in diet effects and drug effects and heart disease.
+
+209
+00:20:25,380 --> 00:20:36,100
+But I learned about lipoproteins actually from a group of investigators in Berkeley, California, who were part of a team that initially identified lipoprotein particles.
+
+210
+00:20:36,100 --> 00:20:51,700
+And over the course of the next 10 or so years, I dug into that knowledge and discovered that there are subtypes of the various forms of LDL, as well as other lipoproteins, which we can talk about perhaps in a few minutes.
+
+211
+00:20:51,700 --> 00:20:59,620
+But focusing on the LDL, there can be variation in the amount of cholesterol that is carried on an LDL particle.
+
+212
+00:20:59,620 --> 00:21:02,740
+But there is only one April B per LDL.
+
+213
+00:21:02,740 --> 00:21:08,340
+So April B represents a pretty good signature for an LDL particle.
+
+214
+00:21:08,340 --> 00:21:11,980
+It is found on some other particles, but it's primarily on LDL.
+
+215
+00:21:11,980 --> 00:21:19,540
+But the amount of cholesterol attached to that April B as part of this particle can vary, as can other lipid components.
+
+216
+00:21:19,540 --> 00:21:25,140
+And that results in variation in both the size, as I mentioned, and the density.
+
+217
+00:21:25,140 --> 00:21:30,260
+So that some forms of LDL have less cholesterol and some have more cholesterol.
+
+218
+00:21:30,260 --> 00:21:37,940
+The ones that have less cholesterol are smaller, generally, and the ones that have more cholesterol are larger, but they all have one April protein B.
+
+219
+00:21:37,940 --> 00:21:52,820
+So there can be an important clinical consequence of focusing on LDL cholesterol to the exclusion of April B, because it's the particle that is really the agent of damage in the artery.
+
+220
+00:21:52,820 --> 00:22:05,460
+And measuring LDL cholesterol can under-represent the number of LDL particles compared with the measurement of April protein B, or April B, which is a much better measure of the number of particles.
+
+221
+00:22:05,460 --> 00:22:18,740
+And when individuals have smaller particles because of this variation in lipid content, they are actually at higher risk of heart disease because those particles have properties that render them more pathologic, more toxic.
+
+222
+00:22:18,740 --> 00:22:28,180
+So there's a double whammy. If you have small particles, first of all, clinical measurement of LDL cholesterol may under-represent the number of particles.
+
+223
+00:22:28,180 --> 00:22:38,740
+And furthermore, those particles themselves are considered by many, although there's still not total consensus on this point, to have greater pathologic properties.
+
+224
+00:22:38,740 --> 00:22:54,740
+So let's use a specific example. So if a patient has a blood cholesterol level, and let's just assume it's LDL calculate, measured directly, not even calculated, and the LDL cholesterol is 100 milligrams per deciliter.
+
+225
+00:22:54,740 --> 00:22:59,700
+At the Framingham population, that would place them at about the 20th percentile.
+
+226
+00:22:59,700 --> 00:23:14,500
+But let's say that patient has an LDL particle number of 1400 or 1300 nanomole per liter, and of course, in the units that tells you it's a number per unit volume, that places them at the 50th percentile.
+
+227
+00:23:14,500 --> 00:23:24,820
+Now, at least to me, the literature is very clear on, in the case of discordance, which of the two is driving risk.
+
+228
+00:23:24,820 --> 00:23:38,820
+I think both the Mesa population, the multi-ethnic study of atherosclerosis, and the Framingham and Framingham offspring study, make it very clear that risk is tracking with the number of particles, not the cholesterol concentration.
+
+229
+00:23:38,820 --> 00:23:40,980
+Do you agree with that, or am I missing something?
+
+230
+00:23:40,980 --> 00:24:06,980
+No, the data are out there. And just to take a step back, LDL cholesterol, that clinical measurement, has worked reasonably well for a significant subset of the population as a marker for LDL particles, because most individuals have particles somewhere in the middle of the LDL size and density range, and the cholesterol content in those particles is fairly proportional to the number of LDL particles.
+
+231
+00:24:06,980 --> 00:24:25,980
+So, as many things break down, is the increasing proportion of the population who have different LDL particle distributions, you need to consider that higher LDL particles with normal LDL cholesterol, which I will answer your question, yes, is associated with an increase in risk that's not reflected by LDL cholesterol.
+
+232
+00:24:25,980 --> 00:24:41,980
+So, that's the discordance we're talking about on the high end, and conversely, individuals who have high LDL cholesterol, but normal levels of ApoB will tend to have disproportionately less heart disease risk than would be predicted from the LDL cholesterol.
+
+233
+00:24:41,980 --> 00:24:56,980
+So, that's the discordance, which I think is pretty well demonstrated in a significant subset of the population at both ends. But underlying that, and again, there's some debate on this issue, it certainly reflects the numbers of particles, and that is the bottom line.
+
+234
+00:24:56,980 --> 00:25:14,980
+But it also reflects the types of those particles. So, there's really two features at both ends of that distribution, smaller cholesterol-depleted particles associated with discordance at the low cholesterol to Apo protein B ratio, and conversely, larger LDL particles associated with less risk at the other end.
+
+235
+00:25:14,980 --> 00:25:33,980
+And there may be systemic factors here at play, because there's some pretty, I think, pretty widely accepted data now. I think 10 years ago, this was a little more obscure, but one of the greatest drivers of the discordance in the wrong direction, meaning the LDL particle is disproportionately higher than the LDL cholesterol, is metabolic syndrome.
+
+236
+00:25:33,980 --> 00:25:48,980
+In fact, there's a very beautiful graph that I've written about at some point in my blog that talks about how, based on anywhere from zero to five of the characteristics that an individual has of metabolic syndrome, the proportion of discordance goes up.
+
+237
+00:25:48,980 --> 00:26:02,980
+So, it also could be that as discordance rises, risk rises because of the other factors, such as hyperinsulinemia, which itself may contribute to intimal damage, inflammation, and other things. Is that possible?
+
+238
+00:26:02,980 --> 00:26:27,980
+It is absolutely possible and likely to be true. So, this brings up a pattern, a lipoprotein pattern, that I will take some credit for having to find in my own way about 27 years ago now, called the atherogenic dyslipidemia, or atherogenic lipoprotein phenotype, which is a constellation of lipid changes that includes higher triglyceride, lower HDL cholesterol.
+
+239
+00:26:27,980 --> 00:26:43,980
+So, that's the cholesterol in the protective form of lipoproteins being deficient, and a predominance of smaller LDL particles. And so, that triad, that lipid triad, is defined atherogenic dyslipidemia, and it folds right into the metabolic syndrome.
+
+240
+00:26:43,980 --> 00:26:58,980
+Right, two of those three make up two of your five criteria for metabolic syndrome, which for the listener would be low HDL cholesterol, high triglyceride, high fasting glucose, high blood pressure, and girth, basically obesing, drunkle obesity.
+
+241
+00:26:58,980 --> 00:27:04,980
+Yeah, yeah. So, I remember being part of the discussions where that metabolic syndrome was defined.
+
+242
+00:27:04,980 --> 00:27:05,980
+The syndrome X.
+
+243
+00:27:05,980 --> 00:27:24,980
+It's very interesting. Yeah, well, that started with insulin resistance as the centerpiece. You can put various molecules and various processes toward the center. They all contribute, and as you point out, hyperinsulinemia, associated with insulin resistance, is likely another marker of another process related to glucose metabolism and its consequences.
+
+244
+00:27:24,980 --> 00:27:49,980
+And then, the blood pressure connection is an intriguing one, but that's also part of it. But a lot of that is driven by increased girth. I mean, of the five conditions, the one that I think is the most prevalent underlying factor that leads to the development of metabolic syndrome is increased abdominal fat, which is associated with increased visceral fat around the internal organs.
+
+245
+00:27:49,980 --> 00:27:54,980
+And you can have metabolic syndrome without that, but the vast majority of people that...
+
+246
+00:27:54,980 --> 00:27:55,980
+Certainly Caucasians.
+
+247
+00:27:55,980 --> 00:28:11,980
+Yeah. Yeah. And non-Caucasians, populations such as East Asians, who don't have increased waist, still can have increased fat internally as part of the syndrome. But it's probably acting on an underlying genetic predisposition, which is very common.
+
+248
+00:28:11,980 --> 00:28:26,980
+And there's many other factors that come into play as part of the syndrome. But I would say that dyslipidemia is probably, both clinically and pathologically, the one that I think has the most substance in terms of a direct, causal connection to cardiovascular disease.
+
+249
+00:28:26,980 --> 00:28:47,980
+Yeah. And I'll tell you, it's a very interesting historical footnote. Gary Taub's a mutual friend of ours. And I don't know if this actually was in any of his books, or I might have read this in one of the outtakes, but it was an interesting footnote, which was basically at the time of the Framingham study, which I'm talking about the very, very first Framingham study, which was really a two-part study, of course.
+
+250
+00:28:47,980 --> 00:28:59,980
+One of the things that came out of that study was that low HDL cholesterol and high triglycerides was four times more predictive of atherosclerosis than elevated LDL cholesterol.
+
+251
+00:28:59,980 --> 00:29:16,980
+Now, that rings true with what we just said about metabolic syndrome. Nowhere in the five criteria of metabolic syndrome was high LDL-C. It's low HDL-C and high trig. But it's interesting that the LDL cholesterol story really took off, and at least Gary argued, I believe, if I'm remembering the earlier part,
+
+252
+00:29:16,980 --> 00:29:30,980
+that part of that had to do with the fact that the, God, I'm blanking on the name of the first trial, there was the LRCCP, but then there was the one before it had a funny name, like, improve it or something, but it wasn't.
+
+253
+00:29:30,980 --> 00:29:34,980
+No, it was a trial of, the Fibrate trial you were thinking of?
+
+254
+00:29:34,980 --> 00:29:36,980
+The Fibrate trial was LRCCP.
+
+255
+00:29:36,980 --> 00:29:45,980
+No, that was close to what I mean. So I think that's when you're thinking of it. I think you're thinking of the LRCC. So part of my training, yeah, that's where I got my training in the first trial.
+
+256
+00:29:45,980 --> 00:29:55,980
+That's where I got my training in lipids, before I came out to Berkeley, actually. That's where I got my first dose. And that study was going on at that time, and there was a lot of nail biting.
+
+257
+00:29:55,980 --> 00:30:13,980
+Well, and the argument here was, look, we kind of spent, we lost a decade and a half between, say, 1980 and 1995, when we missed the role of insulin resistance, because we really went down this LDL cholesterol rabbit hole and didn't necessarily see the bigger picture.
+
+258
+00:30:13,980 --> 00:30:27,980
+And one of the things I hope we have time to talk about today, because it's actually something that I spend more time scratching my head about than anything else, is you look at a drug like niacin, which lowers APO-B, LDLC, and raises HDLC.
+
+259
+00:30:27,980 --> 00:30:39,980
+So in theory, it's doing everything in the right direction. And yet when it comes to outcomes, it's a very confusing picture. So maybe later on this afternoon, we can get to that, because I think that's, there's going to be some rich info in there.
+
+260
+00:30:39,980 --> 00:30:44,980
+If you put that on the table, I'll be happy to pick it up when you're ready, because I'm ready to launch into that anytime.
+
+261
+00:30:44,980 --> 00:31:08,980
+I cannot wait. We're definitely going to do that. So, okay, let's talk a little bit about a paper that you were an author on this year. It was the European Atherosclerosis Society consensus statement. Now, you and I were joking about this a while ago, that you almost couldn't believe this paper needed to be written, but sometimes there's a benefit in writing it. And what was the conclusion of that paper? Or more to the point, consensus statement. It was more than just a paper. I mean, it was really a tour de force.
+
+262
+00:31:08,980 --> 00:31:19,980
+So this, this paper assembled multiple lines of evidence addressing the question, does LDL cause heart disease? Is LDL a causal factor for heart disease?
+
+263
+00:31:19,980 --> 00:31:32,980
+And just to be clear, the counter argument is, sure, people with high LDL are more likely to get heart disease. That can't be disputed. The epidemiology is clear. The counter argument is, but LDL is not a causal role.
+
+264
+00:31:32,980 --> 00:31:49,980
+That's right. And it's associated with that efforts to lower LDL cholesterol are not fully justified as a means of attacking the cause. I don't want to be responsible for having stated that incorrectly, because I still can't quite believe anybody would hold that opinion.
+
+265
+00:31:49,980 --> 00:31:58,980
+But that was my understanding that led to the group coming together to counteract that perception that lowering LDL was not beneficial.
+
+266
+00:31:58,980 --> 00:32:11,980
+But there are, there are many people, I mean, not that I spend terrible amounts of time on Twitter, but it's a pretty commonly held view, at least in the vocal minority that love to write about this and talk about this, that, hey, LDL cholesterol is a myth.
+
+267
+00:32:11,980 --> 00:32:13,980
+Like heart disease has nothing to do with this.
+
+268
+00:32:13,980 --> 00:32:22,980
+And the problem is, and it did come out in the paper to some extent, but I'll tell you, there is a second component to that effort that is still being written.
+
+269
+00:32:22,980 --> 00:32:32,980
+It was planned and will be a two part series. The first part is assembling all the evidence from epidemiology, clinical trials, genetics, etc. that speak to the causality.
+
+270
+00:32:32,980 --> 00:32:51,980
+And the second one was really relating all of this information to the role of LDL in the pathophysiology of atherosclerosis. And that paper is a work in progress, but it could be those two papers assemble just about all the evidence one needs to support the use of LDL cholesterol.
+
+271
+00:32:51,980 --> 00:32:56,980
+And when will that second paper be out? I can't tell you. It has taken longer than we thought.
+
+272
+00:32:56,980 --> 00:33:01,980
+Well, we'll certainly link to the first one in the show notes because that was published in early 2018.
+
+273
+00:33:01,980 --> 00:33:14,980
+Yeah, we expected the next year or so. But one thing I do want to say, because there's a caveat and part of my life as a researcher, as well as a clinician, is recognizing the complexity of what we're dealing with.
+
+274
+00:33:14,980 --> 00:33:22,980
+In discussions such as this, it's important to keep the concepts straightforward and understandable to the best to be possible.
+
+275
+00:33:22,980 --> 00:33:36,980
+But the flip side of that is the risk of oversimplifying a complex situation. So when I just said that the evidence is that lowering LDL cholesterol is beneficial, that's not always true.
+
+276
+00:33:36,980 --> 00:33:49,980
+And so one can point, if one is so inclined, to the evidence that under certain conditions in certain populations with certain approaches, lowering LDL cholesterol does not result in reduced heart disease risk.
+
+277
+00:33:49,980 --> 00:33:57,980
+And to the extent that you consider that to be a fatal flaw in the argument, that can be, I think, very misleading because it's not.
+
+278
+00:33:57,980 --> 00:34:11,980
+The fact is that LDL is causal, but there are other circumstances that modify that causality to the extent that some forms of LDL under certain conditions, and this may not be uncommon, can be elevated without pathologic consequences.
+
+279
+00:34:11,980 --> 00:34:22,980
+And so lowering LDL in those cases may not give benefit. And we know there is heterogeneity in the clinical response when one looks at cardiovascular protection with LDL lowering treatment.
+
+280
+00:34:22,980 --> 00:34:38,980
+So I have to absolutely extend the simple notion of LDL causality to saying that one has to look very carefully at the arguments against LDL causality because they latch on to pieces of information that are really misleading.
+
+281
+00:34:38,980 --> 00:34:44,980
+Just because lowering LDL cholesterol is not always beneficial doesn't mean that LDL is not pathological.
+
+282
+00:34:44,980 --> 00:34:56,980
+And the second component of that is the focus on LDL cholesterol. That goes back to our initial discussion here today as a marker for a causal mechanism, but it's the particles that are causal.
+
+283
+00:34:56,980 --> 00:35:01,980
+And LDL cholesterol, as we just talked about, does not always mirror the number of LDL particles.
+
+284
+00:35:01,980 --> 00:35:24,980
+Now, I don't think we should necessarily take the time to go through the paper in incredible detail, but it did touch on eight criteria for causality, plausibility, strength, biological gradient, the temporal sequence, the specificity, consistency, coherence, and then the relative risk reduction or risk reduction with an intervention.
+
+285
+00:35:24,980 --> 00:35:47,980
+Among those, I found the Mendelian randomization to also be very compelling. So, you know, when I talk about this with people, I generally talk about the natural experiments, such as the people with PCSK9 mutations, both hypo function or gain-a-function loss-a-function PCSK9, the FH patients, the Mendelian randomization, and the intervention.
+
+286
+00:35:47,980 --> 00:35:55,980
+If you were going to bring up three points from the paper that you think probably are most relevant, what would they be?
+
+287
+00:35:55,980 --> 00:36:11,980
+Well, you've just touched on probably the number one strongest argument, and it's really where we, those of us who have been in the field for decades, started with being impressed with the role of genetic elevations of LDL.
+
+288
+00:36:11,980 --> 00:36:22,980
+Very, very strong evidence. I would put that probably right at the top, and you talked about this condition, familial hypercholesterolemia, when there's two doses of an abnormal gene, the LDL levels can skyrocket.
+
+289
+00:36:22,980 --> 00:36:29,980
+I referred to that a little while ago as the condition that can lead to heart disease early in childhood. It's unequivocal.
+
+290
+00:36:30,980 --> 00:36:43,980
+In fact, the reason I got a little bit, I was a little bit taken aback by the need to do this more extensively, which I think, by the way, was quite a good exercise, both for those of us who did it and people hopefully who read it.
+
+291
+00:36:43,980 --> 00:36:56,980
+But all you have to do is look at an eight-year-old child with cholesterol levels that are eight or nine times normal, whose candidate for liver and heart transplant, to know that that's it. That's causal. But the genetic support is beyond that.
+
+292
+00:36:56,980 --> 00:37:01,980
+Right. Now, in those cases, the genetic defect is one in the LDL receptor, correct?
+
+293
+00:37:01,980 --> 00:37:02,980
+That's right.
+
+294
+00:37:02,980 --> 00:37:13,980
+So, closing the loop on how this works, right? The body makes cholesterol. The body, you know, so every cell in the body makes cholesterol, then cholesterol gets recirculated, ends up mostly back in the liver.
+
+295
+00:37:14,980 --> 00:37:26,980
+It gets secreted. Some of it in bile gets reabsorbed and this process continues. But it's this LDL clearance, mostly via LDL receptors in the liver, that seems to be where a lot of these genetic things go awry.
+
+296
+00:37:26,980 --> 00:37:38,980
+That's right. Yeah, the liver really is the factory as well as the disposal plant, if you will. Most of the cholesterol that winds up in the blood is released in terms of lipoproteins that are synthesized by the liver.
+
+297
+00:37:39,980 --> 00:37:50,980
+And then they come back to the liver ultimately after they've done their thing, so to speak, delivered their cargo or interacted with cells in various ways, and come back to the liver.
+
+298
+00:37:50,980 --> 00:38:05,980
+And a large portion of that return is mediated by these receptors that latch onto APL-B. It's APL-B that is the kind of the key that binds to the lock that snaps up the LDL in the liver and degrades it and exweets it into bile.
+
+299
+00:38:05,980 --> 00:38:27,980
+And that's one of the ways we dispose of cholesterol. There are other mechanisms involving HDL, but the receptors are a key determinant and do represent a mechanism by which most of the drugs that we use to lower cholesterol act to increase LDL receptor-mediated disposal of LDL particles.
+
+300
+00:38:27,980 --> 00:38:37,980
+And I'm just going to connect that concept to something you brought up earlier, and that is the duration of exposure to, in this case, high levels of LDL.
+
+301
+00:38:37,980 --> 00:38:47,980
+We talked about it as a function of age. The longer the review is, the longer the exposure. But there's also a dynamic aspect to LDL metabolism that we just touched on.
+
+302
+00:38:48,980 --> 00:38:56,980
+That is, particles are produced actually precursors of LDL, which are called VLDL, which carry mostly triglyceride, and apoprotein B as well.
+
+303
+00:38:56,980 --> 00:39:09,980
+Those particles are being actively secreted. They interact with peripheral tissues and receptors and other transporters that handle various lipids in various ways and enzymes, etc.
+
+304
+00:39:09,980 --> 00:39:15,980
+There's a lot of processing that goes on. And then what's left comes back to the liver through LDL receptors.
+
+305
+00:39:16,980 --> 00:39:31,980
+Now, if that process happens riskily, if there is a nice, fast turnover, if you will, of those particles, you can just see that there's less time for the arteries to be exposed to any of those pathologic forms of lipoproteins.
+
+306
+00:39:31,980 --> 00:39:44,980
+They can be scooped up. But what underlies, at least to me, a common concept, a common underlying factor that connects various lipid traits to heart disease risk is the extent to which they influence the heart.
+
+307
+00:39:45,980 --> 00:39:55,980
+They influence the circulation time. That is the length of time that a particle is circulating in the blood. So that particles are not being cleared by LDL receptors efficiently.
+
+308
+00:39:55,980 --> 00:40:00,980
+They will circulate longer and have more opportunities for mischief.
+
+309
+00:40:00,980 --> 00:40:08,980
+What is the typical half-life of a VLDL particle? So very low-density lipoprotein, IDL, intermediate density, and low density?
+
+310
+00:40:08,980 --> 00:40:14,980
+I'm probably going to get this wrong. And this is where I don't want to have to go back and look at the textbook and analyze it.
+
+311
+00:40:14,980 --> 00:40:15,980
+Well, directionally, though.
+
+312
+00:40:15,980 --> 00:40:26,980
+Yeah. So particularly for a larger VLDL triglyceride, the half-life is half an hour, an hour, two hours. It's pretty rapid because that particle is rapidly subject to enzymatic digestion.
+
+313
+00:40:26,980 --> 00:40:35,980
+Well, let me just jump to the LDL. So the LDL that are formed from those precursors, you know, more like 12 to 24 hours or longer.
+
+314
+00:40:35,980 --> 00:40:42,980
+So it turns out that smaller particles have a longer residence time because they are less avidly removed by LDL receptors.
+
+315
+00:40:43,980 --> 00:40:50,980
+So there's a range of circulation times for LDL, in some cases, you know, days, actually. And then IDL are somewhere in the middle.
+
+316
+00:40:50,980 --> 00:40:59,980
+The intermediate density lipoproteins are IDL, is what you're referring to. That's the step between VLDL and LDL that is involved in their metabolism.
+
+317
+00:40:59,980 --> 00:41:09,980
+So it's these longer exposure times, and these intermediate particles can include and do include very pathologic forms as well.
+
+318
+00:41:09,980 --> 00:41:38,980
+And so there are disorders, and metabolic syndrome, coming back to that, is one of them, where the clearance of those intermediate particles, which also comprise what we call remnants, partial breakdown products of VLDL on the way to forming LDL, those intermediate particles can have much longer exposure times, and they can be subject to various pathologic effects involving oxidation, the acquisition of partial digestion products of various lipids that cause them to be more toxic.
+
+319
+00:41:38,980 --> 00:41:45,980
+And those particles can be damaging even with a shorter residence time because they're so toxic.
+
+320
+00:41:45,980 --> 00:42:01,980
+So that gets into what I was referring to earlier, is somewhat a greater complexity of beyond thinking just about LDL cholesterol, thinking about LDL particles, thinking about the types of LDL particles in terms of the pathophysiology, and then also thinking about the role of these remnant lipoproteins.
+
+321
+00:42:01,980 --> 00:42:12,980
+They all participate in this potential risk, and it comes down, in my view, in the end, to the length of time that a particle with certain pathologic effects is circulating in the blood.
+
+322
+00:42:12,980 --> 00:42:41,980
+And this VLDL cholesterol, VLDL remnant problem is one that is unfortunately very often missed even by relatively astute clinicians. Your textbook case is these type 3s, these hypertriglyceridemias who have normal APOB, normal LDLC, you think they're relatively low risk, you sort of miss the fact that their VLDL cholesterol is 75 milligrams per deciliter, and they have these just devastating atherosclerotic plaques.
+
+323
+00:42:41,980 --> 00:42:52,980
+Yeah, and that was, again, one of my learning experiences when I was at the NIH at a time working with Drs. Frederiks and Leavy when the various...
+
+324
+00:42:52,980 --> 00:43:01,980
+Just for the listener, it's important for them, I think, to understand the luminaries that you just described, right? Frederiks and Leavy and Leavy, I mean, let's put these guys in context, right?
+
+325
+00:43:02,980 --> 00:43:16,980
+You had people that figured out that there was this thing called cholesterol, but it was really those three that did the pioneering work in the 1970s that laid the groundwork for fractionating, figuring out all of the different subparticles.
+
+326
+00:43:16,980 --> 00:43:17,980
+Late 60s.
+
+327
+00:43:17,980 --> 00:43:18,980
+Late 60s, early 70s, yeah.
+
+328
+00:43:18,980 --> 00:43:29,980
+Late 60s. No, it was late 60s. I'll just give you a slight anecdote since you paused me on this. I've always been interested in heart disease because it runs in my family.
+
+329
+00:43:30,980 --> 00:43:40,980
+As a medical student, I read a series of five articles that was published in the New England Journal of Medicine, and I think you're referring to the three authors, Frederiks and Leavy and Lees, that completely transformed me.
+
+330
+00:43:40,980 --> 00:43:58,980
+It was an epiphany because those five articles describe lipid disorders in terms of genetic, subgenetic types, different lipoprotein profiles that had different metabolic effects, different consequences, and were influenced differently by various diets.
+
+331
+00:43:58,980 --> 00:44:02,980
+And I thought this was absolutely the most important lead I could imagine.
+
+332
+00:44:02,980 --> 00:44:10,980
+So I made up my business when it came to deciding what I was going to do after my medical training is to come back, is to come to NIH and work with those guys.
+
+333
+00:44:10,980 --> 00:44:12,980
+And I was fortunate enough to be able to do that.
+
+334
+00:44:12,980 --> 00:44:20,980
+And it was really in the era where what was called the Frederiks and Typing System identified these various forms.
+
+335
+00:44:21,980 --> 00:44:39,980
+And the one you just referred to, the genetic forms of lipids that we don't often always consider, it was called Type 3, and that was characterized by abnormalities in receptor-mediated clearance of these remnant particles through a mutation in apoprotein E, or variant of apoprotein.
+
+336
+00:44:39,980 --> 00:44:41,980
+And that also was fascinating.
+
+337
+00:44:41,980 --> 00:44:44,980
+And I happened to be in California when the ApoE's were discovered.
+
+338
+00:44:44,980 --> 00:44:50,980
+So I sort of feel like one of these characters that just shows up at the appropriate time.
+
+339
+00:44:50,980 --> 00:44:52,980
+It was called the Arjuric Peptide.
+
+340
+00:44:52,980 --> 00:44:59,980
+The history is just – we wrote a review actually of the early history of lipoprotein research, which I would commend to the audience.
+
+341
+00:44:59,980 --> 00:45:00,980
+Let's put that on the list here.
+
+342
+00:45:01,980 --> 00:45:03,980
+It was an journal of lipid research in 2016.
+
+343
+00:45:03,980 --> 00:45:11,980
+In fact, I just got a fan letter for that article because anybody that's seriously interested in this field should probably understand the origins.
+
+344
+00:45:11,980 --> 00:45:13,980
+In fact, I got a letter after that paper was published.
+
+345
+00:45:13,980 --> 00:45:18,980
+I got an email from Joe Goldstein, who is the other – one of the other icons in the field.
+
+346
+00:45:18,980 --> 00:45:21,980
+He said, everybody that goes into lipid research should read this paper.
+
+347
+00:45:21,980 --> 00:45:23,980
+So I'm going to – it's not a book.
+
+348
+00:45:23,980 --> 00:45:24,980
+I don't make any money off of it.
+
+349
+00:45:24,980 --> 00:45:29,980
+We're going to make sure that the people who want to get smart on this read it.
+
+350
+00:45:29,980 --> 00:45:39,980
+Anyway, piggyback to these remnants, I think particle for particle, the remnants are probably the most pathologic particles of all because of this rampant atherosclerosis when there's elevation of remnants.
+
+351
+00:45:39,980 --> 00:45:43,980
+Fortunately, this condition of type 3 is fairly rare.
+
+352
+00:45:43,980 --> 00:45:44,980
+It's like one in 10,000.
+
+353
+00:45:44,980 --> 00:45:46,980
+But it does illustrate the symbology.
+
+354
+00:45:46,980 --> 00:45:47,980
+I've seen that.
+
+355
+00:45:47,980 --> 00:45:48,980
+I've seen several.
+
+356
+00:45:48,980 --> 00:45:49,980
+You've seen several.
+
+357
+00:45:49,980 --> 00:45:50,980
+Right.
+
+358
+00:45:50,980 --> 00:45:54,980
+So what I was starting to say – actually, initially what I was starting to say when I was at NIH in my training, I saw all these things.
+
+359
+00:45:54,980 --> 00:45:55,980
+All the types were there.
+
+360
+00:45:55,980 --> 00:45:56,980
+You collected them.
+
+361
+00:45:56,980 --> 00:45:57,980
+Yeah.
+
+362
+00:45:57,980 --> 00:45:58,980
+We had patients who had the type 3.
+
+363
+00:45:58,980 --> 00:46:02,980
+We had type 1, which was a serious elevation of triglyceride.
+
+364
+00:46:02,980 --> 00:46:04,980
+Type 2 was familiar hypercholesterionia.
+
+365
+00:46:04,980 --> 00:46:05,980
+It goes on and on.
+
+366
+00:46:05,980 --> 00:46:07,980
+So, yes.
+
+367
+00:46:07,980 --> 00:46:09,980
+And it's really striking.
+
+368
+00:46:09,980 --> 00:46:13,980
+I tell my students – I lecture on this to students at Berkeley.
+
+369
+00:46:13,980 --> 00:46:20,980
+And I show them pictures of what are called xanthomas, which are, you know, deposits of cholesterol and lipids and tissues.
+
+370
+00:46:20,980 --> 00:46:28,980
+And you have these very characteristic lesions that used to be rampant in patients before we had adequate recognition and treatment.
+
+371
+00:46:28,980 --> 00:46:36,980
+As a manifestation of the underlying pathology that also affects the arteries, the cholesterol that winds up in the arteries can also break into the skin.
+
+372
+00:46:36,980 --> 00:46:41,980
+And these are just very striking illustrations of the role of genetics.
+
+373
+00:46:41,980 --> 00:46:44,980
+So it gets back to your earlier question about causality.
+
+374
+00:46:45,980 --> 00:46:50,980
+There are so many situations where genetics helps in establishing causality.
+
+375
+00:46:50,980 --> 00:46:52,980
+And this certainly is one of them.
+
+376
+00:46:52,980 --> 00:46:56,980
+After that, you asked me, what are – you know, 1, 2, and 3, right?
+
+377
+00:46:56,980 --> 00:46:58,980
+You asked me how many – what my top three are.
+
+378
+00:46:58,980 --> 00:46:59,980
+Well, even before we leave –
+
+379
+00:46:59,980 --> 00:47:00,980
+I didn't answer that one.
+
+380
+00:47:00,980 --> 00:47:08,980
+And before we leave FH, I think the other nice thing about the PCSK9 mutation – you know, FH is only showing you the change in one direction.
+
+381
+00:47:08,980 --> 00:47:09,980
+Right.
+
+382
+00:47:09,980 --> 00:47:11,980
+But with PCSK9, you see both directions.
+
+383
+00:47:11,980 --> 00:47:12,980
+That's right.
+
+384
+00:47:12,980 --> 00:47:16,980
+I believe the hyperfunctioning were the first people identified, correct?
+
+385
+00:47:16,980 --> 00:47:17,980
+Yes.
+
+386
+00:47:17,980 --> 00:47:20,980
+So these people had an enzyme, PCSK9.
+
+387
+00:47:20,980 --> 00:47:22,980
+It hyperfunctioned.
+
+388
+00:47:22,980 --> 00:47:27,980
+Therefore, this enzyme's – one of its roles is to degrade the LDL receptor.
+
+389
+00:47:27,980 --> 00:47:29,980
+And so they had fewer LDL receptors.
+
+390
+00:47:29,980 --> 00:47:30,980
+They had more LDL.
+
+391
+00:47:30,980 --> 00:47:33,980
+They looked a lot like FH patients, correct?
+
+392
+00:47:33,980 --> 00:47:34,980
+Yeah.
+
+393
+00:47:34,980 --> 00:47:35,980
+Yeah.
+
+394
+00:47:35,980 --> 00:47:39,980
+And just to be – again, for the technical guru who was on the phone – oh, it's actually not – it's not an enzyme.
+
+395
+00:47:40,980 --> 00:47:47,980
+It kind of behaves like an enzyme, but it actually drives LDL receptors into the garbage disposal machinery in the cell called lysosomes.
+
+396
+00:47:47,980 --> 00:47:49,980
+And it causes the LDL receptors to be broken down.
+
+397
+00:47:49,980 --> 00:47:54,980
+But it's the same end result as you get less LDL receptors, higher LDL cholesterol.
+
+398
+00:47:54,980 --> 00:47:59,980
+And then the mutations in the other direction are the ones that led to the development of PCSK9.
+
+399
+00:47:59,980 --> 00:48:06,980
+The loss of function – antibodies to PCSK9 mimic the loss of function mutations, which lower LDL.
+
+400
+00:48:07,980 --> 00:48:15,980
+And that's one of my – you know, when I get to tell these stories one day, I'll look back and say that was my aha moment, because I think that paper came out in 2006 in the New England Journal of Medicine.
+
+401
+00:48:15,980 --> 00:48:23,980
+It was either 04 or 06, but I remember this well, which was the discovery of those families with the hypo-functioning PCSK9.
+
+402
+00:48:23,980 --> 00:48:24,980
+Right. Yes.
+
+403
+00:48:24,980 --> 00:48:28,980
+These people walked around with an LDL cholesterol between 10 and 20 milligrams per deciliter.
+
+404
+00:48:28,980 --> 00:48:29,980
+Yeah.
+
+405
+00:48:29,980 --> 00:48:30,980
+Two things about them stood out.
+
+406
+00:48:30,980 --> 00:48:33,980
+The first, they never got heart disease.
+
+407
+00:48:33,980 --> 00:48:38,980
+The second, they didn't seem to suffer any other consequences that you might concern yourself with.
+
+408
+00:48:38,980 --> 00:48:39,980
+Right. Yeah.
+
+409
+00:48:39,980 --> 00:48:56,980
+One of those patients, classically, was I think a physical therapist, somebody that was very active, and had an LDL of in the teens, which is, you know, one sixth normal and is doing fine.
+
+410
+00:48:56,980 --> 00:49:10,980
+Yeah. So that's another use of genetics in a way to confirm that lowering of LDL, not necessarily using all the ways that LDL can be lowered, but at least certainly that form of LDL lowering is healthy.
+
+411
+00:49:10,980 --> 00:49:13,980
+And probably most forms of LDL lowering are healthy.
+
+412
+00:49:13,980 --> 00:49:15,980
+We have real evidence to the contrary.
+
+413
+00:49:15,980 --> 00:49:18,980
+Do you want to say anything about the Mendelian randomization?
+
+414
+00:49:18,980 --> 00:49:24,980
+It's, you know, I think it's not the most intuitive concept to people, but it is actually a very powerful concept.
+
+415
+00:49:24,980 --> 00:49:25,980
+Right.
+
+416
+00:49:25,980 --> 00:49:37,980
+So the principle of Mendelian randomization, first of all, Mendel, Gregor Mendel was a 19th century monk who discovered the principle of inheritance of traits and P's actually.
+
+417
+00:49:37,980 --> 00:49:42,980
+The idea is that these genetic variants are randomly distributed in the population.
+
+418
+00:49:42,980 --> 00:50:09,980
+So that assumption underlies this concept of mainland randomization, because then you can say that the occurrence of a genetic variant in the population or a collection of variants, it's going to be either single or multiple variants, that are associated with a biomarker, such as LDL cholesterol, can be used to test the causality of LDL by looking at another relationship.
+
+419
+00:50:09,980 --> 00:50:14,980
+And that is the association of those genetic variants with the disease process.
+
+420
+00:50:14,980 --> 00:50:21,980
+So, for example, and so I'm going to give you the example because it's really a little bit abstract without an example.
+
+421
+00:50:21,980 --> 00:50:23,980
+And we'll talk about PCSK9.
+
+422
+00:50:23,980 --> 00:50:28,980
+So the PCSK9 loss of function mutation causes a lowering of LDL.
+
+423
+00:50:28,980 --> 00:50:34,980
+There is independent evidence that that mutation is associated with reduced cardiovascular disease risk.
+
+424
+00:50:34,980 --> 00:50:39,980
+Nothing to do with LDL, just the genetic association with outcomes.
+
+425
+00:50:39,980 --> 00:50:46,980
+That relationship parallels very closely the relationship of that variant to LDL cholesterol.
+
+426
+00:50:46,980 --> 00:50:58,980
+The difference is that the risk associated with a genetic variant, the risk of heart disease, is actually less than would be predicted from the LDL cholesterol using standard risk relationships, because this is lifelong exposure.
+
+427
+00:50:58,980 --> 00:51:00,980
+This gets back to the exposure issue.
+
+428
+00:51:00,980 --> 00:51:20,980
+So a genetic marker like this, the minimization model, tells you that lifelong exposure to a genetic variant that either raises or lowers risk has effects that can be attributed to LDL because the LDL change predicts that risk relationship.
+
+429
+00:51:20,980 --> 00:51:29,980
+Yeah, whereas a lot of the conventional risk models are basically looking at maybe a decade of risk or something like that, and they're always going to fall short, both under and overestimating long-term risk.
+
+430
+00:51:29,980 --> 00:51:36,980
+So in the paper that you referred to that came out of this European consensus, there was a heavy dose of meningar randomization.
+
+431
+00:51:36,980 --> 00:51:58,980
+Either the main author or one of the key authors did a very good job of showing how the genetic markers that are connected to LDL receptor levels, both PCSK9, others, they're associated with higher receptor activity as well, predict cardiovascular risk much more robustly
+
+432
+00:51:58,980 --> 00:52:12,980
+than do the results of clinical trials. Clinical trials only last four or five or six years. So that risk reduction, which is parallel but is displaced because the magnitude of that effect is blunted because it's not a lifelong exposure.
+
+433
+00:52:12,980 --> 00:52:13,980
+So it's very instructive.
+
+434
+00:52:13,980 --> 00:52:27,980
+Yeah. Let's go back to something else you said a few moments ago that I think is, I would say 10 years ago, I don't remember when Jim Otvose's analysis came out, but Jim, who's an incredibly thoughtful person in this field,
+
+435
+00:52:27,980 --> 00:52:45,980
+wrote a paper that basically said, once you normalize for the number of LDL particles, the size doesn't matter. Now a moment ago, you said that your intuition is that actually that's not correct, that particle for particle, a small particle is more atherogenic.
+
+436
+00:52:45,980 --> 00:52:48,980
+Is that a fair assessment of your thought?
+
+437
+00:52:48,980 --> 00:53:17,980
+It is definitely an assessment of my thought. And unlike what we've just been talking about, we don't have a way showing incontrovertibly that that's true. So when tries to sort of dance around this question by using statistics, can you use statistics to factor out everything with which the particle size, and let me clarify one other thing before I go on, and that is, the reason particle size got on the map was that I wrote a paper, I think in the 80s actually, probably
+
+438
+00:53:17,980 --> 00:53:31,980
+30 plus years ago, in which the only test we had was particle size measurement, and we showed the particle size, small particle size is related to risk, but we also said it was associated with lower HDL and higher triglycerides. So that was the definition of this triad that we just talked about.
+
+439
+00:53:31,980 --> 00:53:45,980
+And we never said that the particle size was independent. We never actually said that. We never said it was related to independently to risk. It was a marker for this whole syndrome. The particle size context that I was referring to early on in our discussion today,
+
+440
+00:53:46,980 --> 00:53:59,980
+was not the size of the particles, but the numbers of particles of different sizes. That's a somewhat different concept. So there are techniques that measure the given number for whether most of the LDL in the blood is larger or smaller.
+
+441
+00:53:59,980 --> 00:54:03,980
+And they typically bifurcate this at something like 20.5 nanometers or something like that.
+
+442
+00:54:03,980 --> 00:54:15,980
+And the other thing I'm going to say, because this is, I'm going to say it because there's an opportunity to say it. If you measure those particle sizes correctly, the distribution in the population is bimodal.
+
+443
+00:54:15,980 --> 00:54:32,980
+That means there is a discrete subset of the population that has smaller LDL particles. Now that says nothing about their heart disease risk. That just, that says that there's something going on that tips in a quantum way towards the small LDL trait.
+
+444
+00:54:32,980 --> 00:54:44,980
+And that is the marker for the metabolic syndrome. So that's not about heart disease risk. That's a metabolic marker. The heart disease risk depends on the magnitude of that small LDL mode.
+
+445
+00:54:44,980 --> 00:54:57,980
+If you have a lot of, if you have a lot of LDL particles that are small, that's bad. Now the argument that Afos and others have made using statistics that, I will come back to in a minute as to why I think this is flawed approach,
+
+446
+00:54:57,980 --> 00:55:08,980
+is that if you knew certain statistical corrections for interrelationships of various particles with each other, there is a significant relationship to risk of larger LDL as well.
+
+447
+00:55:08,980 --> 00:55:12,980
+So that's not untrue. A larger LDL can be as large as...
+
+448
+00:55:12,980 --> 00:55:22,980
+I mean, if I recall, as long as something is less than 70 nanometers, it can enter the subendithelial space. So any small, any large or small LDL can enter the space.
+
+449
+00:55:22,980 --> 00:55:24,980
+So it gets back to resonance time.
+
+450
+00:55:24,980 --> 00:55:26,980
+Yes. How long do they stay? How likely do they retain?
+
+451
+00:55:26,980 --> 00:55:32,980
+So it turns out, so this is going to be a little bit complicated, but I'm going to try, maybe it can help you.
+
+452
+00:55:32,980 --> 00:55:35,980
+No, no, we have an audience that's willing to handle complicated.
+
+453
+00:55:35,980 --> 00:55:49,980
+Help me work through this with you because I know what I want to say and I just want to make sure that I say it clearly. Let's talk about larger LDL. So this in this large LDL mode, that signifies sort of the flip side of metabolic syndrome.
+
+454
+00:55:49,980 --> 00:55:59,980
+It generally identifies people who have not only larger LDL, but higher HDL cholesterol and lower triglyceride. So that's a low risk syndrome.
+
+455
+00:55:59,980 --> 00:56:01,980
+And often low insulin.
+
+456
+00:56:01,980 --> 00:56:17,980
+That's right. And so quite apart from the question, are these particles better or worse, they signify a metabolic profile where there's a pretty brisk circulation of those particles and the exposure to the artery wall is very low.
+
+457
+00:56:17,980 --> 00:56:22,980
+Now, if you have an LDL receptor defect, it also causes large LDL. Large LDL accumulates.
+
+458
+00:56:22,980 --> 00:56:25,980
+Right. FH patients have large LDL particles.
+
+459
+00:56:25,980 --> 00:56:29,980
+So why is that bad? It's because of the resonance time is much higher.
+
+460
+00:56:29,980 --> 00:56:38,980
+Right. And so neither I, well, there's some people that have taken some of my own work and taken it to an extreme that I don't feel is justified.
+
+461
+00:56:38,980 --> 00:56:45,980
+And that is to say that large LDL are not atherogenic at all. They certainly can be. There's no question about that.
+
+462
+00:56:45,980 --> 00:56:53,980
+The question is, are they equally atherogenic to smaller particles or any other particles in the LDL spectrum?
+
+463
+00:56:53,980 --> 00:57:03,980
+And I'll just say this, the work that you're referring to did not address that. All it said was that you can show that this large LDL are associated with risk.
+
+464
+00:57:03,980 --> 00:57:13,980
+And then the second thing is that if you adjust total LDL particles for the peak size of LDL, the peak size is not associated with risk.
+
+465
+00:57:13,980 --> 00:57:23,980
+So those are two different statistical manipulations. Neither of which neither of which disprove the hypothesis, the smaller LDL carry more atherogenic risk.
+
+466
+00:57:23,980 --> 00:57:32,980
+And we have an example of something I'm going to tell you again genetically, which may or may not be something that your audience is familiar with.
+
+467
+00:57:32,980 --> 00:57:43,980
+There's another genetic syndrome that involves a variant that affects a region of the genome, which is responsible for synthesizing a protein called sordal.
+
+468
+00:57:43,980 --> 00:57:58,980
+S-O-R-T-I-L-I-M. That genetic variant was discovered probably six or seven or eight years ago now and was associated with both high risk of cardiovascular disease and high LDL cholesterol.
+
+469
+00:57:58,980 --> 00:58:10,980
+And in fact, the association of that genetic variant with cardiovascular disease was as strong, if not slightly stronger, than the associations of genetic variants in the LDL receptor itself.
+
+470
+00:58:10,980 --> 00:58:25,980
+So this was a new player in the spectrum of causal factors, again relating a genetic mechanism that raises LDL to an effect on cardiovascular disease risk through a pathway that doesn't involve the LDL receptor.
+
+471
+00:58:25,980 --> 00:58:43,980
+This is not an LDL receptor story. What we published as part of the initial description of this variant and its relationship to cholesterol metabolism is that in two independent populations using two independent methods, it's specifically associated with small and very small LDL, not large LDL at all.
+
+472
+00:58:43,980 --> 00:58:47,980
+So here's a genetic variant that as far as we can tell affects...
+
+473
+00:58:47,980 --> 00:58:49,980
+So it's not affecting clearance?
+
+474
+00:58:49,980 --> 00:58:57,980
+Well, we don't know about clearance. I can't tell you about clearance. All I can say is it's not LDL receptor mediated clearance. There may be... We don't know. This is...
+
+475
+00:58:57,980 --> 00:59:00,980
+It could be Neiman-Pixie, one like one, for all we know.
+
+476
+00:59:00,980 --> 00:59:14,980
+So if you're going to ask me later on what one of the experiments that I would do if I had all the resources in the row that would relate to this mechanism, because the genetic association, it's not clear exactly what's being affected by the genetic variant.
+
+477
+00:59:14,980 --> 00:59:30,980
+It's not clear how it works, but what's definitely clear is that that variant is associated in terms of lipoprotein changes or anything else that we can measure in the usual risk factor range exclusively with small and very small.
+
+478
+00:59:30,980 --> 00:59:36,980
+It's even a subtype of small LDL, but it's that collection of smaller particles that is somehow affected by this variant.
+
+479
+00:59:36,980 --> 00:59:39,980
+Now, do those patients have elevated triglycerides or low HGLC?
+
+480
+00:59:39,980 --> 00:59:40,980
+No.
+
+481
+00:59:41,980 --> 00:59:52,980
+So that counters the argument that I would say, gosh, maybe these small particles ultimately are just a marker for an inflammatory metabolic dysregulation.
+
+482
+00:59:52,980 --> 00:59:53,980
+They largely are.
+
+483
+00:59:53,980 --> 00:59:55,980
+But this example...
+
+484
+00:59:55,980 --> 01:00:08,980
+This is a subtype. So this gets into what you might consider a new one. I'll tell you another anecdote. When I first kind of discovered that people had all these different forms of LDL, this is again in the 80s. I don't know how many. This is 35 years ago now.
+
+485
+01:00:09,980 --> 01:00:17,980
+I was invited to give a talk, a couple of talks actually, at various meetings, one of which was in San Diego actually, and others where I presented this data.
+
+486
+01:00:17,980 --> 01:00:26,980
+And it was using not the current methodologies, but a very elaborate procedure involving the ultracentrifuge, which separates these particles into various fractions.
+
+487
+01:00:26,980 --> 01:00:35,980
+And I have a picture of what I showed on the wall of my office because it's so emblematic of the existence of these discrete forms of LDL.
+
+488
+01:00:36,980 --> 01:00:42,980
+And I remember talking about this to very intelligent and experienced people in the field, and it was considered esoteric.
+
+489
+01:00:42,980 --> 01:00:47,980
+And for about 15 years, nobody paid any attention to it because it was felt...
+
+490
+01:00:47,980 --> 01:00:53,980
+Nobody else had methods to show what we had been showing in large populations.
+
+491
+01:00:53,980 --> 01:01:02,980
+Fortunately, later on, that was remedied by more widely available methodologies that we were probably responsible for.
+
+492
+01:01:03,980 --> 01:01:12,980
+But the bottom line is that the recognition of these various forms of LDL, we tended to simplify to avoid having people think it was too esoteric.
+
+493
+01:01:12,980 --> 01:01:16,980
+So we talked about large and small as if there were only two forms, and these two modes, etc.
+
+494
+01:01:16,980 --> 01:01:23,980
+And all that's true. But within the small LDL mode, within both of those, but the small LDL, there's yet another subtype.
+
+495
+01:01:23,980 --> 01:01:26,980
+And it's this very small LDL.
+
+496
+01:01:27,980 --> 01:01:40,980
+So the garden variety small LDL that is generally measured by techniques that are being used, such as NMR and ion mobility method, largely measures the small LDL that you're talking about.
+
+497
+01:01:40,980 --> 01:01:46,980
+It's part of this generalized metabolic syndrome. But this very small guy looks like it's another pathway.
+
+498
+01:01:46,980 --> 01:01:51,980
+It's another pathway. And it's a pathway that has a strong genetic association with risk.
+
+499
+01:01:51,980 --> 01:02:01,980
+And we are, I'll just say this to this audience, we are trying to do some studies, and this gets back to the studies I'd love to do, to test the hypothesis.
+
+500
+01:02:01,980 --> 01:02:09,980
+These particles may be secreted directly. So this might be a mechanism that spits out a pathologic form of LDL without going through the...
+
+501
+01:02:09,980 --> 01:02:10,980
+Through the VLDL pathway.
+
+502
+01:02:10,980 --> 01:02:13,980
+...the VLDL pathway. That's a hypothesis that we're now...
+
+503
+01:02:13,980 --> 01:02:16,980
+So it sounds like almost like an LP little A type issue.
+
+504
+01:02:16,980 --> 01:02:20,980
+Yeah, that's a good point. It's a particle that we don't know how to lower.
+
+505
+01:02:20,980 --> 01:02:24,980
+Like LP little A. Well, we were starting to learn how to lower up. That's another topic, I guess.
+
+506
+01:02:24,980 --> 01:02:26,980
+We're not going to get to LP little A today.
+
+507
+01:02:26,980 --> 01:02:32,980
+That's another topic. But yes, it's a genetic factor that is associated with risk that we don't yet know what to do with.
+
+508
+01:02:32,980 --> 01:02:43,980
+So let's go back to something that you've kind of touched on a little bit, which is can LDL cholesterol slash LDL particle slash APO B be too low?
+
+509
+01:02:43,980 --> 01:02:47,980
+And I'm referring specifically to a pharmacologic intervention.
+
+510
+01:02:47,980 --> 01:02:55,980
+So I think we've already established that the people so genetically blessed to have hypo-functioning PCSK9 seem to be completely fine.
+
+511
+01:02:55,980 --> 01:03:05,980
+But if someone came along and said, look, I'm walking around at the 30th percentile of the population, I want to walk around at the first percentile of the population.
+
+512
+01:03:05,980 --> 01:03:09,980
+I'm going to pharmacologically lower it. Is there a downside?
+
+513
+01:03:09,980 --> 01:03:21,980
+So I guess I'm hung up on genetics today because I think the best scenario to consider in evaluating the pros and cons of very low LDL, our genetic syndrome was associated with very low LDL.
+
+514
+01:03:21,980 --> 01:03:27,980
+We just talked about one of them. So PCSK9 loss of function mutations are an example of what you're asking.
+
+515
+01:03:27,980 --> 01:03:33,980
+Those individuals have lifelong exposure to very low LDL. And as far as we can tell, do fine.
+
+516
+01:03:33,980 --> 01:03:43,980
+There are people who have abnormalities in the APO B protein that results in impaired production of LDL, ultimately, and most people do very well.
+
+517
+01:03:43,980 --> 01:03:52,980
+Now we have less heart disease, they tend to live longer. So this is the genetic evidence for the safety and the benefit really of having very low LDL.
+
+518
+01:03:53,980 --> 01:03:59,980
+That doesn't imply that we can extrapolate those genetic observations to all treatments.
+
+519
+01:03:59,980 --> 01:04:14,980
+Now for the PCSK9 inhibitors, if we assume that the use of the antibodies, the lower PCSK9 therapeutically, mimic the genetic effect, then one would have the same confidence that this would not be hazardous.
+
+520
+01:04:14,980 --> 01:04:20,980
+We don't yet know that there are not other effects of these antibodies. It may not necessarily fully mimic the genetic effect.
+
+521
+01:04:20,980 --> 01:04:33,980
+But by and large, I think it is a vote of confidence that those treatments that lower that particular treatment with PCSK9 inhibition probably does not only lower risk but have no significant downsides related to the LDL lowering.
+
+522
+01:04:33,980 --> 01:04:42,980
+But we don't know, the clinical trials of any of the drugs that lower LDL have not been long enough to know what the lifelong effects might be.
+
+523
+01:04:42,980 --> 01:04:48,980
+So if you look at the most widely prescribed class of drugs for lipid lowering, it's obviously going to be statins.
+
+524
+01:04:48,980 --> 01:04:56,980
+And statins really do two things. You know, they have a direct effect, which is they inhibit the first committed step of cholesterol synthesis.
+
+525
+01:04:56,980 --> 01:05:02,980
+And so that directly lowers the burden of cholesterol, thereby lowering the burden of lipoprotein.
+
+526
+01:05:02,980 --> 01:05:12,980
+But in many ways, their indirect effect is at least as strong, which is the liver in response to this upregulates the LDL receptor and you get enhanced clearance.
+
+527
+01:05:12,980 --> 01:05:26,980
+Now, the latter, we certainly have a genetic model to look at. Do we, for the former, do we know of people who have deficient cholesterol synthesis outside of the extreme?
+
+528
+01:05:26,980 --> 01:05:30,980
+We know that there are certainly inborn areas of metabolism that are uniformly fatal.
+
+529
+01:05:30,980 --> 01:05:41,980
+But sort of outside of those people are the people walking around with low cholesterol where the defect is in cholesterol synthesis that would give us confidence that, hey, inhibiting cholesterol synthesis can't be that bad.
+
+530
+01:05:42,980 --> 01:05:56,980
+I'd have to say I don't know that there is such a genetic variant. There are genetic variants in the rate limiting enzyme, HMG-quarioductase, that is the target of statins that affect LDL levels in heart disease risk in the expected direction.
+
+531
+01:05:56,980 --> 01:06:07,980
+But those variants have a modest effect size. They are not big time players to knock down LDL to those same rate level.
+
+532
+01:06:07,980 --> 01:06:23,980
+That's what makes the PCS canine story so exceptional. There's just nothing quite like it. So the answer is, to my knowledge, no, we don't have that kind of evidence that would apply to very low LDLs that are induced by genetic factors.
+
+533
+01:06:23,980 --> 01:06:38,980
+And that's a scenario that I think I clinically struggle with. And I suspect there's going to be at least one other person listening to this that's going to share that struggle, which is I do get a little bit nervous when I have a patient whose risk of atherosclerosis is so high.
+
+534
+01:06:38,980 --> 01:06:44,980
+For example, a patient with a significant family history and a very elevated LPa, just as an example.
+
+535
+01:06:44,980 --> 01:06:59,980
+And you know I seem to collect these patients. So you've got these folks and they've got a clinical burden of disease. So their CT angiogram shows soft plaque, their calcium score shows that they've got calcifications, their LPa is through the roof.
+
+536
+01:06:59,980 --> 01:07:06,980
+And they're tolerating their statins, meaning they don't have the myalgias or CK elevations or any of those things.
+
+537
+01:07:06,980 --> 01:07:18,980
+But to get their LDL where it needs to be in a patient like that, I'm going to put to the fifth or 10th percentile. I have effectively by all means that I can measure almost shut off cholesterol synthesis.
+
+538
+01:07:18,980 --> 01:07:32,980
+In those patients I panic because of a couple of papers that I've seen that look at the opposite end of the spectrum, which is, you know, they look at markers of cholesterol synthesis in patients who are medicated and then the risk of dementia.
+
+539
+01:07:32,980 --> 01:07:47,980
+In particular, there's a paper that looked at desmosphylol levels and it found that if the level was below 0.5, which is, you know, generally very low on the scale we look at, and they use that as a cutoff on the receiver operating characteristic curve,
+
+540
+01:07:47,980 --> 01:07:57,980
+the area under that curve, which again can vary from somewhere between about 0.5 to 1, 0.5 meaning it's a useless test. It's a coin toss. 1 is a perfect test.
+
+541
+01:07:58,980 --> 01:08:15,980
+They're coming in with with AUCs of the ROC at 0.87, 0.89. That's quite suggestive of this. And certainly biochemically, there's a plausibility to this, right? We understand that every tissue in the body has the ability to borrow cholesterol from elsewhere.
+
+542
+01:08:15,980 --> 01:08:21,980
+That doesn't appear to be the case in the brain. The lipoproteins don't seem to be able to traffic across the blood-brain barrier.
+
+543
+01:08:21,980 --> 01:08:35,980
+So I guess that's just one area where I certainly don't know an answer, but I've become, I think, clinically much more quick to move people to PCSK9 inhibitors when I get uncomfortable with the degree of cholesterol synthesis.
+
+544
+01:08:35,980 --> 01:08:37,980
+Do you think I'm paranoid?
+
+545
+01:08:37,980 --> 01:08:47,980
+You've opened up a big topic all by itself, I think, that is the off-target effects of cholesterol. If we consider the target, that's not even the proper term.
+
+546
+01:08:47,980 --> 01:08:58,980
+It's the off-tissue target because it's the tissue targeting of statins to the liver, inhibiting HMG-caryboductase in the liver. That is the therapeutic goal.
+
+547
+01:08:58,980 --> 01:09:02,980
+That's right. That's actually all you're really trying to do.
+
+548
+01:09:02,980 --> 01:09:03,980
+That's right.
+
+549
+01:09:03,980 --> 01:09:05,980
+But we can't. We have to hit all of these peripheral tissues as well.
+
+550
+01:09:05,980 --> 01:09:15,980
+Well, that's right. So there's something called pharmacokinetics. So for the last 16 or 17 years, I have been leading a program and studying statin pharmacogenetics, which is...
+
+551
+01:09:16,980 --> 01:09:22,980
+I just want to explain this again because I know you and I are sitting here in this discussion and we understand this, but I want to make sure the listener understands the point you just made. It's so important.
+
+552
+01:09:22,980 --> 01:09:42,980
+In an ideal world, a statin would be a dream drug if it only inhibited cholesterol synthesis, meaning HMG-caryboductase activity in the liver such that the liver would upregulate and you wouldn't impact peripheral tissue metabolism, cholesterol metabolism, for example, in the brain and the muscles, et cetera.
+
+553
+01:09:43,980 --> 01:09:45,980
+Unfortunately, that's not the case. So I'll let you continue.
+
+554
+01:09:45,980 --> 01:09:59,980
+Right. So this has to do with me, with at least my exposure to this set of issues through the world of pharmacology. So I have been hanging out with pharmacologists for the last 15 years through this pharmacogenomics program.
+
+555
+01:09:59,980 --> 01:10:09,980
+It's obvious even without that experience that factors that affect the disposition of statins, like any other drug, are important determinants of clinical outcomes.
+
+556
+01:10:09,980 --> 01:10:19,980
+So the disposition, that term, refers to getting it to the tissue, to any of the tissues, but you want to get statins to the liver.
+
+557
+01:10:19,980 --> 01:10:26,980
+For the most part, statins are very efficiently removed by the liver. So fortunately, so that tends to offset some of the concerns that you have.
+
+558
+01:10:26,980 --> 01:10:34,980
+However, there is variation in the genes as well as other factors that affect a statin disposition.
+
+559
+01:10:34,980 --> 01:10:47,980
+The nature of the statin itself, its chemical composition, the presence or absence of certain genetic variants, one in particular that's been well studied, that affects the amount of statin in the blood that prevents it from getting it to the liver.
+
+560
+01:10:47,980 --> 01:10:58,980
+Under those conditions, there is a greater likelihood that the statin will wind up somewhere else. And that can be muscle, which is the most common symptom, but it can be all the other tissues.
+
+561
+01:10:58,980 --> 01:11:14,980
+And part of my research experience right now is delving in to all of these other effects that go beyond the desired inhibition of HMD-cory ductase in the liver that are actually, quote, on-target effects.
+
+562
+01:11:14,980 --> 01:11:21,980
+So I'm going to come back to the brain in a minute because I've been extremely interested in the issues that you describe, and I'll come back to that.
+
+563
+01:11:21,980 --> 01:11:33,980
+But there's a condition that's even more, I think, clearly connected to an unexpected effect of statin, and that is its tendency to increase blood sugar and increase the risk of diabetes.
+
+564
+01:11:33,980 --> 01:11:35,980
+That's been demonstrated now.
+
+565
+01:11:35,980 --> 01:11:37,980
+What's the relative risk?
+
+566
+01:11:37,980 --> 01:11:47,980
+It's about, you know, if you talk to cardiologists, they'll say the relative risk is small because the benefit is much greater. Well, that risk is about 10% on average.
+
+567
+01:11:47,980 --> 01:11:49,980
+We have published a paper.
+
+568
+01:11:49,980 --> 01:11:50,980
+Over what period of time?
+
+569
+01:11:50,980 --> 01:11:53,980
+Over, you know, duration of the clinical trials.
+
+570
+01:11:53,980 --> 01:11:54,980
+Probably about five years.
+
+571
+01:11:54,980 --> 01:11:55,980
+Yeah, up to six or seven years.
+
+572
+01:11:55,980 --> 01:12:02,980
+But we've published that that risk can be significantly higher in women than men, perhaps as high as 30% or plus.
+
+573
+01:12:02,980 --> 01:12:08,980
+And do we think that that effect is due to dysregulated glucose uptake in the muscle?
+
+574
+01:12:08,980 --> 01:12:17,980
+There is evidence, and we're deeply involved with these studies, of direct pathologic effects on muscle energy metabolism.
+
+575
+01:12:17,980 --> 01:12:23,980
+That's more closely connected, obviously, with muscle symptoms than with diabetes.
+
+576
+01:12:23,980 --> 01:12:31,980
+But insulin resistance is certainly another factor that could be involved, and the muscles could be involved, the liver could be involved.
+
+577
+01:12:31,980 --> 01:12:37,980
+So that's one situation where there may be on-target effects, even in the liver, that might contribute to this.
+
+578
+01:12:37,980 --> 01:12:39,980
+We think it's probably not liver.
+
+579
+01:12:39,980 --> 01:12:49,980
+We think there's probably effects, either beta cells that produce insulin and or the tissues that insulin acts on, such as...
+
+580
+01:12:49,980 --> 01:12:51,980
+Probably the muscle being the most important.
+
+581
+01:12:51,980 --> 01:12:55,980
+Yeah, right. So the reason I haven't been more specific than that is we really don't know.
+
+582
+01:12:55,980 --> 01:13:01,980
+There's a number of theories, all of which sort of collectively could be true in different individuals.
+
+583
+01:13:01,980 --> 01:13:04,980
+But the net effect is not trivial.
+
+584
+01:13:04,980 --> 01:13:06,980
+Is it dose-dependent?
+
+585
+01:13:06,980 --> 01:13:11,980
+Yes. Well, there are some evidence that it's just a glycemic effect that's dose-dependent.
+
+586
+01:13:11,980 --> 01:13:15,980
+In fact, this was very limited information on this, actually.
+
+587
+01:13:15,980 --> 01:13:18,980
+Are there some statins that seem to be...
+
+588
+01:13:18,980 --> 01:13:24,980
+So, for example, when you look at Simvastatin, it seems to have a much higher incidence of myalgias or CK elevation.
+
+589
+01:13:24,980 --> 01:13:31,980
+When we look at the entire suite of statins, do we see some that seem higher risk for diabetes, some that seem lower risk?
+
+590
+01:13:32,980 --> 01:13:36,980
+Yes. And again, this is sort of a collection of observations from various sources.
+
+591
+01:13:36,980 --> 01:13:42,980
+One of the statins that's most recently been introduced is something called Pitavistatin.
+
+592
+01:13:42,980 --> 01:13:43,980
+Livolo.
+
+593
+01:13:43,980 --> 01:13:51,980
+Yeah, Livolo. That group in France has shown pretty convincingly recently that this is not associated with diabetes risk.
+
+594
+01:13:51,980 --> 01:13:57,980
+This is kind of my go-to statin before I moved to a PCSK9 inhibitor. This is my last line statin.
+
+595
+01:13:57,980 --> 01:13:58,980
+Yeah.
+
+596
+01:13:58,980 --> 01:13:59,980
+It's not that potent, as you know.
+
+597
+01:13:59,980 --> 01:14:00,980
+That's right.
+
+598
+01:14:00,980 --> 01:14:01,980
+It's a problem. You sort of...
+
+599
+01:14:01,980 --> 01:14:02,980
+That's right.
+
+600
+01:14:02,980 --> 01:14:08,980
+But once in a while, you'll save someone. You'll get a guy who can't tolerate anything, but he tolerates this and you're off to the races.
+
+601
+01:14:08,980 --> 01:14:14,980
+Same here, exactly. So it's probably the lower potency and it's probably its chemical characteristics.
+
+602
+01:14:14,980 --> 01:14:22,980
+Again, what I'm saying right now is still not established in a conclusive way, but it does suggest that there are differences in the statins,
+
+603
+01:14:22,980 --> 01:14:25,980
+and that being one that has less association with risk.
+
+604
+01:14:25,980 --> 01:14:31,980
+The one that's probably most commonly associated with risk, and we've seen this in studies that we've not yet even published all of them,
+
+605
+01:14:31,980 --> 01:14:33,980
+is a Torvistatin appears to be...
+
+606
+01:14:33,980 --> 01:14:35,980
+Lipitor by its...
+
+607
+01:14:35,980 --> 01:14:37,980
+Have a higher risk. So there's interesting...
+
+608
+01:14:37,980 --> 01:14:40,980
+And we don't think that that's just due to the fact that it's so ubiquitous.
+
+609
+01:14:40,980 --> 01:14:41,980
+No.
+
+610
+01:14:41,980 --> 01:14:47,980
+So would that be a reason? Because I got to tell you, I think when I'm confronting a patient for the first time with a statin,
+
+611
+01:14:47,980 --> 01:14:53,980
+I am generally almost tossing a coin between Crestor and Lipitor as a first line agent.
+
+612
+01:14:53,980 --> 01:14:58,980
+Very quick to flip between them if I see any CK bump or LFT bump.
+
+613
+01:14:58,980 --> 01:15:06,980
+But what you're saying would almost suggest that if it's a person who's not incredibly insulin sensitive, where none of this probably matters,
+
+614
+01:15:06,980 --> 01:15:10,980
+someone who's borderline, you'd lean towards Crestor over Lipitor?
+
+615
+01:15:10,980 --> 01:15:15,980
+Yeah, this is sort of putting on my clinical judgment hat rather than my scientist hat.
+
+616
+01:15:16,980 --> 01:15:21,980
+But unfortunately, like for many of us, we still...we have to make decisions.
+
+617
+01:15:21,980 --> 01:15:27,980
+You like to use evidence-based criteria, but this is actually one of the things that I struggle with with evidence-based criteria.
+
+618
+01:15:27,980 --> 01:15:33,980
+We don't have the evidence that allows me to give an answer to that other than saying, yes, I agree that that's what I would do.
+
+619
+01:15:33,980 --> 01:15:42,980
+And I'm also going to back up a little bit and make sure that I have not conveyed the impression that a Torvistatin is a diabetic drug.
+
+620
+01:15:42,980 --> 01:15:47,980
+It's still a minority of the population, and we think there's genetic factors that contribute to that.
+
+621
+01:15:47,980 --> 01:15:52,980
+And we can measure it. I mean, that's sort of the other thing that I sort of tell patients is that this isn't going to sneak up on us one day.
+
+622
+01:15:52,980 --> 01:15:53,980
+We wake up with diabetes.
+
+623
+01:15:53,980 --> 01:16:00,980
+I use plenty of a Torvistatin, and I'm at the least bit concerned about it in the patient whose risk merits statin treatment.
+
+624
+01:16:00,980 --> 01:16:09,980
+And because as the cardiologists are quick to point out, the benefits of statin treatment with any of statin's cardiovascular risk in patients with diabetes
+
+625
+01:16:09,980 --> 01:16:13,980
+far outweighs the risk of actually developing diabetes.
+
+626
+01:16:13,980 --> 01:16:16,980
+And there's even some evidence that the microvascular complications might be improved.
+
+627
+01:16:16,980 --> 01:16:22,980
+So we can argue that statins are not causing a damaging effect through this mechanism.
+
+628
+01:16:22,980 --> 01:16:26,980
+But it does raise just a little bit of a caution.
+
+629
+01:16:26,980 --> 01:16:32,980
+In fact, it's a caution, I think, that should lead to more widespread monitoring of glucose on statins,
+
+630
+01:16:32,980 --> 01:16:36,980
+just so that, like, one can detect those individuals who may have an adverse effect.
+
+631
+01:16:37,980 --> 01:16:42,980
+But it's still a minority of the population, and it's not something that should be considered a hazard of drug use. Far from it.
+
+632
+01:16:42,980 --> 01:16:46,980
+Yeah, I think for me, I am, I mean, I sort of, you know, talk to patients and I say, look,
+
+633
+01:16:46,980 --> 01:16:52,980
+I think there are short-term things that we're generally going to figure out in three months, which is myalgias plus or minus a CK elevation.
+
+634
+01:16:52,980 --> 01:16:56,980
+So either, you know, your muscles are going to get sore with or without an elevation in CK,
+
+635
+01:16:56,980 --> 01:17:01,980
+which is a way that we can measure the breakdown of muscle, and changes in your liver function test.
+
+636
+01:17:01,980 --> 01:17:02,980
+We look for those elevations.
+
+637
+01:17:02,980 --> 01:17:07,980
+I don't know about you, but I see a lot more LFT bumps when combined with Zetia than just statin alone.
+
+638
+01:17:07,980 --> 01:17:12,980
+I find a lot of patients I have that tolerate any dose of a statin, then you add a Zetia.
+
+639
+01:17:12,980 --> 01:17:17,980
+It seems to me like 20% of people just immediately have an LFT bump.
+
+640
+01:17:17,980 --> 01:17:20,980
+I haven't seen it that often, but I have seen it, yes.
+
+641
+01:17:20,980 --> 01:17:25,980
+And then I talk about the long-term stuff, which is actually, I think, in many ways, what we should be more concerned with,
+
+642
+01:17:25,980 --> 01:17:28,980
+because the short-term stuff, like, you figure that out in 10 seconds, right?
+
+643
+01:17:29,980 --> 01:17:34,980
+And the diabetes doesn't worry me as much for all the reasons you've said, which is it doesn't sneak up on you,
+
+644
+01:17:34,980 --> 01:17:36,980
+and you can measure the progress.
+
+645
+01:17:36,980 --> 01:17:43,980
+But maybe I'm being overly cautious, and I've had many an argument with many a cardiologist that I share patients with,
+
+646
+01:17:43,980 --> 01:17:47,980
+who, you know, will have a patient on a maximum dose of a statin.
+
+647
+01:17:47,980 --> 01:17:48,980
+I'll give you one example.
+
+648
+01:17:48,980 --> 01:17:52,980
+I've got a patient who came to me on 80 milligrams of Lipitor.
+
+649
+01:17:52,980 --> 01:17:54,980
+Still wasn't quite at goal.
+
+650
+01:17:54,980 --> 01:17:55,980
+We added the 10 of Zetia.
+
+651
+01:17:55,980 --> 01:17:56,980
+So then he was at goal.
+
+652
+01:17:56,980 --> 01:18:03,980
+And given his burden of disease, goal for this guy is about 700 nanomole per liter of LDL-P.
+
+653
+01:18:03,980 --> 01:18:07,980
+But, you know, he had no cholesterol synthesis that we could speak of.
+
+654
+01:18:07,980 --> 01:18:10,980
+So put him on a PCSK9 inhibitor.
+
+655
+01:18:10,980 --> 01:18:13,980
+That took his LDL down to like 200 nanomole per liter.
+
+656
+01:18:13,980 --> 01:18:16,980
+So I said, great, let's back off the Lipitor.
+
+657
+01:18:16,980 --> 01:18:20,980
+And his cardiologist just thought, like, this was malpractice.
+
+658
+01:18:21,980 --> 01:18:25,980
+And, you know, it took many a discussion to just even get that back to 40.
+
+659
+01:18:25,980 --> 01:18:29,980
+And my goal is to hopefully get him down to maybe 20 of Lipitor,
+
+660
+01:18:29,980 --> 01:18:33,980
+so that I can actually see some cholesterol synthesis come back.
+
+661
+01:18:33,980 --> 01:18:34,980
+That's interesting.
+
+662
+01:18:34,980 --> 01:18:37,980
+But again, now we're also a little outside of evidence-based medicine,
+
+663
+01:18:37,980 --> 01:18:40,980
+and we're, this is more the art than the science.
+
+664
+01:18:40,980 --> 01:18:41,980
+That's right.
+
+665
+01:18:41,980 --> 01:18:46,980
+And it's a fascinating issue to deal with, because we are conducting an experiment in the global population,
+
+666
+01:18:46,980 --> 01:18:49,980
+certainly in the U.S., that has never been done before.
+
+667
+01:18:49,980 --> 01:18:55,980
+And that is prescribing statins to millions of people as a lifelong treatment
+
+668
+01:18:55,980 --> 01:19:01,980
+without knowing what downstream effects are beyond the clinical trial data that we have,
+
+669
+01:19:01,980 --> 01:19:03,980
+which is limited.
+
+670
+01:19:03,980 --> 01:19:12,980
+And we can call in genetics, but it doesn't necessarily mimic the effects of using a statin drug for 40 years.
+
+671
+01:19:12,980 --> 01:19:18,980
+And so I'm just going to say very briefly that I don't want to open the lid on the discussion
+
+672
+01:19:18,980 --> 01:19:23,980
+that many of the naysayers have used to say that statins should be avoided,
+
+673
+01:19:23,980 --> 01:19:26,980
+because they can have long-term effects.
+
+674
+01:19:26,980 --> 01:19:27,980
+But I will say...
+
+675
+01:19:27,980 --> 01:19:32,980
+That's like saying driving should be avoided because driving has some negative effects.
+
+676
+01:19:32,980 --> 01:19:33,980
+Right.
+
+677
+01:19:33,980 --> 01:19:37,980
+But there are things that we don't know that certainly I would like to learn,
+
+678
+01:19:37,980 --> 01:19:41,980
+and hopefully our own research project will contribute to this,
+
+679
+01:19:41,980 --> 01:19:46,980
+as to what may be affecting certain subsets of the population with prolonged use
+
+680
+01:19:47,980 --> 01:19:54,980
+by understanding the mechanisms that might be operating in tissues like the muscle, pancreas, and the brain.
+
+681
+01:19:54,980 --> 01:20:00,980
+And so that by understanding those mechanisms and perhaps developing markers for people
+
+682
+01:20:00,980 --> 01:20:04,980
+that may have increased likelihood of these undesirable effects
+
+683
+01:20:04,980 --> 01:20:06,980
+that we may be able to guide our treatment more effectively.
+
+684
+01:20:06,980 --> 01:20:08,980
+That's really the goal of this pharmacogenetic experiment.
+
+685
+01:20:08,980 --> 01:20:11,980
+Do we understand the mechanism of the myalgias?
+
+686
+01:20:11,980 --> 01:20:14,980
+I tend to give patients ubiquinol,
+
+687
+01:20:14,980 --> 01:20:16,980
+but honestly the trials are...
+
+688
+01:20:16,980 --> 01:20:19,980
+And I explained to them, I said, look, I use it as a practice,
+
+689
+01:20:19,980 --> 01:20:22,980
+but I can't point to amazing data.
+
+690
+01:20:22,980 --> 01:20:24,980
+What do we think is going on there?
+
+691
+01:20:24,980 --> 01:20:28,980
+We just talked earlier about the European Consensus Group that I was on.
+
+692
+01:20:28,980 --> 01:20:31,980
+Well, there was a second one that I was on, and it was...
+
+693
+01:20:31,980 --> 01:20:32,980
+Statin side effects.
+
+694
+01:20:32,980 --> 01:20:33,980
+Statin side effects.
+
+695
+01:20:33,980 --> 01:20:39,980
+And so the first paper in that series came out a year or so ago, and that was a myopathy.
+
+696
+01:20:40,980 --> 01:20:46,980
+The second paper is, I think, just out, and it describes the data related to diabetes,
+
+697
+01:20:46,980 --> 01:20:48,980
+cognitive function, et cetera.
+
+698
+01:20:48,980 --> 01:20:51,980
+The first paper attempted to address the question you asked, among other things,
+
+699
+01:20:51,980 --> 01:20:53,980
+and that is what's going on here.
+
+700
+01:20:53,980 --> 01:20:57,980
+And all we have is a diagram that has many points of attack,
+
+701
+01:20:57,980 --> 01:21:00,980
+where one of the things that we're actually working on,
+
+702
+01:21:00,980 --> 01:21:05,980
+one of my colleagues in my research program, is mitochondrial targeting of statins.
+
+703
+01:21:05,980 --> 01:21:08,980
+There may be on-target effects.
+
+704
+01:21:08,980 --> 01:21:13,980
+That is, a normal response to statins in some people,
+
+705
+01:21:13,980 --> 01:21:16,980
+or maybe in a significant percentage of the population,
+
+706
+01:21:16,980 --> 01:21:21,980
+may affect mitochondrial function in ways that generally are not clinically important,
+
+707
+01:21:21,980 --> 01:21:27,980
+but which in some people could be magnified and lead to changes in muscle function
+
+708
+01:21:27,980 --> 01:21:29,980
+and muscle number, muscle cell number.
+
+709
+01:21:29,980 --> 01:21:37,980
+That's a hypothesis, but what I'm speaking to now is the lack of a clear single mechanism
+
+710
+01:21:37,980 --> 01:21:38,980
+that we can point to.
+
+711
+01:21:38,980 --> 01:21:40,980
+That's just one of several possibilities.
+
+712
+01:21:40,980 --> 01:21:44,980
+The effects on a coenzyme Q, you can know what you mentioned,
+
+713
+01:21:44,980 --> 01:21:46,980
+and it's certainly been out there.
+
+714
+01:21:46,980 --> 01:21:49,980
+But as you say, very high placebo effect.
+
+715
+01:21:49,980 --> 01:21:50,980
+Can I reverse that?
+
+716
+01:21:50,980 --> 01:21:51,980
+That's right.
+
+717
+01:21:51,980 --> 01:21:52,980
+It has not been that successful.
+
+718
+01:21:52,980 --> 01:21:56,980
+One of my patients, I said, doctor, actually, I'll say this for whatever it's worth.
+
+719
+01:21:56,980 --> 01:21:57,980
+This is one of the sort of clinical pros.
+
+720
+01:21:58,980 --> 01:22:03,980
+I have a doctor who's really a very good observer who wind up getting a liquid form of coenzyme Q
+
+721
+01:22:03,980 --> 01:22:05,980
+as opposed to a capsule.
+
+722
+01:22:05,980 --> 01:22:07,980
+A capsule didn't work.
+
+723
+01:22:07,980 --> 01:22:11,980
+His muscle symptoms dramatically disappeared or improved for the liquid form.
+
+724
+01:22:11,980 --> 01:22:14,980
+So maybe there's issues of absorption or exposure.
+
+725
+01:22:14,980 --> 01:22:15,980
+Who knows?
+
+726
+01:22:15,980 --> 01:22:16,980
+Well, I do think there is actually.
+
+727
+01:22:16,980 --> 01:22:17,980
+I mean, we've just empirically used it.
+
+728
+01:22:17,980 --> 01:22:23,980
+We test CoQ10 levels in the blood, and I've noticed for what it's worth
+
+729
+01:22:23,980 --> 01:22:27,980
+that virtually every version doesn't show up.
+
+730
+01:22:27,980 --> 01:22:31,980
+The only one I have found, and just to be clear, I don't get paid by this company at all,
+
+731
+01:22:31,980 --> 01:22:37,980
+but there's a brand made by Jarrow, which Jarrow, I think, is probably the best supplement maker I've seen.
+
+732
+01:22:37,980 --> 01:22:38,980
+We've had some other stuff tested.
+
+733
+01:22:38,980 --> 01:22:46,980
+But Jarrow's ubiquinol is so readily absorbed because, you know, the clinical trials call for 600 milligrams.
+
+734
+01:22:46,980 --> 01:22:48,980
+I don't think I have a patient on more than 400.
+
+735
+01:22:48,980 --> 01:22:56,980
+In fact, most people at 200 milligrams of the Jarrow variant reach systemic levels that are above our on-stat and target.
+
+736
+01:22:56,980 --> 01:22:57,980
+Again, does that mean anything?
+
+737
+01:22:57,980 --> 01:22:58,980
+I actually have no clue.
+
+738
+01:22:58,980 --> 01:22:59,980
+That's right.
+
+739
+01:22:59,980 --> 01:23:04,980
+But for what it's worth, I've noticed that on most other versions and variants of ubiquinol,
+
+740
+01:23:04,980 --> 01:23:06,980
+we just do not measure it in the blood.
+
+741
+01:23:06,980 --> 01:23:08,980
+Yeah, I certainly don't have that experience.
+
+742
+01:23:08,980 --> 01:23:10,980
+It's very interesting to learn.
+
+743
+01:23:10,980 --> 01:23:12,980
+But again, how this...
+
+744
+01:23:12,980 --> 01:23:14,980
+How that's working is, yeah.
+
+745
+01:23:14,980 --> 01:23:15,980
+Right.
+
+746
+01:23:15,980 --> 01:23:21,980
+Another thing I just mentioned along those lines, and again, it deals with diving deeper into the biology of the system.
+
+747
+01:23:21,980 --> 01:23:24,980
+There's about 20 intermediates on the way to ubiquinol.
+
+748
+01:23:24,980 --> 01:23:27,980
+It's just as complicated a pathway as cholesterol synthesis.
+
+749
+01:23:27,980 --> 01:23:31,980
+And so we don't know whether there may be other targets in that pathway.
+
+750
+01:23:31,980 --> 01:23:33,980
+It just happens to be the end result.
+
+751
+01:23:33,980 --> 01:23:39,980
+So there's lots to learn about how statins impact biology in ways that could affect health.
+
+752
+01:23:39,980 --> 01:23:44,980
+And it's in part because we have such a large population who is doing this experiment, basically.
+
+753
+01:23:44,980 --> 01:23:49,980
+And it's also because of the centrality of mechanisms that statins affect.
+
+754
+01:23:49,980 --> 01:23:51,980
+So it's not just cholesterol synthesis.
+
+755
+01:23:51,980 --> 01:23:54,980
+It's precursors of steroid hormones that are in this pathway.
+
+756
+01:23:54,980 --> 01:24:00,980
+And it's these other pathways that can affect intermediates like ubiquinol and other farnesyl.
+
+757
+01:24:00,980 --> 01:24:07,980
+There's lots of other downstream products that are affected by statins that may have biological effects
+
+758
+01:24:07,980 --> 01:24:12,980
+that tell us something about what the drug is doing in the physiological way,
+
+759
+01:24:12,980 --> 01:24:15,980
+but may also have pathologic consequences in some people.
+
+760
+01:24:15,980 --> 01:24:21,980
+What do you make of the evidence for and against the case that, and this is not a common argument,
+
+761
+01:24:21,980 --> 01:24:26,980
+but it is one that shows up enough, which is, okay, statins do reduce events,
+
+762
+01:24:26,980 --> 01:24:29,980
+but it's not by lowering LDL.
+
+763
+01:24:29,980 --> 01:24:34,980
+That's an unintended consequence or an intended consequence that is true, true, and unrelated.
+
+764
+01:24:34,980 --> 01:24:43,980
+But the benefits of statins actually come from the endothelial health and or inflammatory reduction.
+
+765
+01:24:43,980 --> 01:24:44,980
+Right.
+
+766
+01:24:44,980 --> 01:24:53,980
+So this is another deep topic, which is obviously clinically important that people understand what it is they're treating and why.
+
+767
+01:24:53,980 --> 01:24:55,980
+It gets back to a couple of issues.
+
+768
+01:24:55,980 --> 01:25:00,980
+One is the causality of LDL, which we discussed a while ago.
+
+769
+01:25:00,980 --> 01:25:04,980
+LDL is causal. That's established beyond doubt.
+
+770
+01:25:04,980 --> 01:25:12,980
+So the benefits of drug-induced LDL lowering, let's say statins, have to be considered as operating in part through that mechanism.
+
+771
+01:25:12,980 --> 01:25:13,980
+Otherwise...
+
+772
+01:25:13,980 --> 01:25:17,980
+Right. Let's at least concede that in part, otherwise you're just ignoring reality.
+
+773
+01:25:17,980 --> 01:25:18,980
+Yeah, yeah.
+
+774
+01:25:18,980 --> 01:25:22,980
+So that's number one. Number two is, is it the most important factor or is it the only factor?
+
+775
+01:25:22,980 --> 01:25:24,980
+And the answer is, it's certainly not the only factor.
+
+776
+01:25:24,980 --> 01:25:27,980
+There's no doubt in my mind anyway.
+
+777
+01:25:27,980 --> 01:25:30,980
+I'm not sure how much of this is opinion versus evidence.
+
+778
+01:25:30,980 --> 01:25:32,980
+But, well, there's certainly anti-inflammatory effects.
+
+779
+01:25:32,980 --> 01:25:38,980
+And there's a lot of work that that good friend Paul Ricker has been involved with to help establish...
+
+780
+01:25:38,980 --> 01:25:39,980
+Paul Ricker's at NIH.
+
+781
+01:25:39,980 --> 01:25:40,980
+No, he's at...
+
+782
+01:25:40,980 --> 01:25:41,980
+Or he's at Brigham.
+
+783
+01:25:41,980 --> 01:25:42,980
+He's at Brigham.
+
+784
+01:25:42,980 --> 01:25:43,980
+Okay, yeah.
+
+785
+01:25:43,980 --> 01:25:51,980
+Early on establishing the importance of C-reactive protein as a marker for inflammatory risk, not just to heart disease, but...
+
+786
+01:25:51,980 --> 01:25:54,980
+And we should detour on that topic because it's so important, right?
+
+787
+01:25:54,980 --> 01:25:58,980
+There was a recent trial that looked at low dose of methotrexate, which is an...
+
+788
+01:25:58,980 --> 01:26:00,980
+No, it was an IL. It was an interleukin one.
+
+789
+01:26:00,980 --> 01:26:02,980
+Weren't there two? There was the IL-1 IL.
+
+790
+01:26:02,980 --> 01:26:03,980
+The methotrexate isn't out yet.
+
+791
+01:26:03,980 --> 01:26:04,980
+Oh, okay. Maybe I'm just...
+
+792
+01:26:04,980 --> 01:26:05,980
+It's the other one.
+
+793
+01:26:05,980 --> 01:26:06,980
+Okay. Okay.
+
+794
+01:26:06,980 --> 01:26:09,980
+The other one's out. Yeah. It used an interleukin one.
+
+795
+01:26:09,980 --> 01:26:11,980
+Was it with one or six? Yeah, yeah, yeah.
+
+796
+01:26:11,980 --> 01:26:12,980
+Yeah, one.
+
+797
+01:26:12,980 --> 01:26:14,980
+And so that was a very interesting trial, right?
+
+798
+01:26:14,980 --> 01:26:15,980
+That was his trial.
+
+799
+01:26:15,980 --> 01:26:16,980
+Yeah, that was... Okay, that's right.
+
+800
+01:26:16,980 --> 01:26:20,980
+So that was a trial that said, look, we can make no change to the lipoprotein.
+
+801
+01:26:20,980 --> 01:26:21,980
+Right.
+
+802
+01:26:21,980 --> 01:26:23,980
+We reduce inflammation in a subset of patients.
+
+803
+01:26:23,980 --> 01:26:27,980
+These patients had to have an elevated C-reactive protein, if I recall, and you reduced events.
+
+804
+01:26:27,980 --> 01:26:28,980
+Yeah.
+
+805
+01:26:28,980 --> 01:26:32,980
+And we may see the same thing with this methotrexate study, and I think that speaks to...
+
+806
+01:26:32,980 --> 01:26:33,980
+Or not.
+
+807
+01:26:33,980 --> 01:26:34,980
+Yeah, yeah.
+
+808
+01:26:34,980 --> 01:26:35,980
+Either way, it's an important finding.
+
+809
+01:26:35,980 --> 01:26:36,980
+Exactly.
+
+810
+01:26:36,980 --> 01:26:37,980
+Yeah.
+
+811
+01:26:37,980 --> 01:26:40,980
+So the reason I ask the question, among others, is...
+
+812
+01:26:40,980 --> 01:26:41,980
+Can you make the statins, right?
+
+813
+01:26:41,980 --> 01:26:42,980
+Yeah.
+
+814
+01:26:42,980 --> 01:26:46,980
+Okay. Because then you can say, well, what do statins do to this pathway?
+
+815
+01:26:46,980 --> 01:26:51,980
+Well, they do lower inflammatory signaling down the same pathway.
+
+816
+01:26:52,980 --> 01:27:00,980
+And again, RIFKR was a pioneer in studies such as the JUPITER trial and earlier ones as well
+
+817
+01:27:00,980 --> 01:27:07,980
+that reanalyzed the predicted benefit or the associated benefit of LDL lowering against
+
+818
+01:27:07,980 --> 01:27:09,980
+CRP lowering as a marker for inflammation.
+
+819
+01:27:09,980 --> 01:27:12,980
+So this goes back to using CRP as a marker for inflammation.
+
+820
+01:27:12,980 --> 01:27:19,980
+And achieving a lower level of CRP and a higher level of LDL was associated with benefit.
+
+821
+01:27:19,980 --> 01:27:22,980
+So achieving a lower level of LDL with a higher CRP was benefit.
+
+822
+01:27:22,980 --> 01:27:24,980
+So they both contributed to risk.
+
+823
+01:27:24,980 --> 01:27:30,980
+And so targeting both LDL to less than 70, I think it was, and CRP less than, I think,
+
+824
+01:27:30,980 --> 01:27:33,980
+2 milligrams per deciliter, I think.
+
+825
+01:27:33,980 --> 01:27:37,980
+But targeting those two risk markers together gave the greatest benefit.
+
+826
+01:27:37,980 --> 01:27:38,980
+They each contributed.
+
+827
+01:27:38,980 --> 01:27:43,980
+And I think that model stands up pretty well, that it is a double whammy.
+
+828
+01:27:43,980 --> 01:27:48,980
+And one of the reasons statins are so effective is probably because of their unique ability
+
+829
+01:27:48,980 --> 01:27:54,980
+to hit inflammation as well as LDL metabolism and gets back to PCSK9 doesn't quite happen.
+
+830
+01:27:54,980 --> 01:27:58,980
+That's an inter, that's exactly where I was going to go, which is I've got a number of
+
+831
+01:27:58,980 --> 01:28:03,980
+patients that are coming to me saying, look, Peter, I don't care about the cost of the
+
+832
+01:28:03,980 --> 01:28:05,980
+PCSK9 inhibitor, get me off this statin.
+
+833
+01:28:05,980 --> 01:28:11,980
+I just want to be on a PCSK9 inhibitor to which I say the only issue I take with that
+
+834
+01:28:11,980 --> 01:28:15,980
+is, and I don't have a problem doing it in the patient who is completely statin intolerant,
+
+835
+01:28:15,980 --> 01:28:19,980
+there's a couple of these patients where they absolutely need to be on lipid lowering
+
+836
+01:28:19,980 --> 01:28:22,980
+therapy, and they absolutely can't even tolerate, you know, live a low.
+
+837
+01:28:22,980 --> 01:28:25,980
+So there we just do what we have to do.
+
+838
+01:28:25,980 --> 01:28:31,980
+But the trials don't actually tell us how well PCSK9 inhibitors work in isolation, right,
+
+839
+01:28:31,980 --> 01:28:34,980
+relative to non-treatment.
+
+840
+01:28:34,980 --> 01:28:39,980
+So that's just sort of the evidence-based reason for, hey, it would be ideal if we could
+
+841
+01:28:39,980 --> 01:28:42,980
+at least keep you on some modest amount of a statin.
+
+842
+01:28:42,980 --> 01:28:46,980
+Secondly, it's not clear the PCSK9 inhibitor attacks that other mechanism.
+
+843
+01:28:46,980 --> 01:28:48,980
+There's a mechanistic aspect to this.
+
+844
+01:28:48,980 --> 01:28:52,980
+And it's not just inflammation down the interleukin CRP pathway.
+
+845
+01:28:52,980 --> 01:28:57,980
+It's also there's nitric oxide synthesis, effects nitric oxide being a base of dilator.
+
+846
+01:28:57,980 --> 01:29:03,980
+So I think there is a good mechanistic case as well as the clinical evidence case for
+
+847
+01:29:03,980 --> 01:29:08,980
+not abandoning statins in favor of PCSK9, unless, of course, patients are statin intolerant.
+
+848
+01:29:08,980 --> 01:29:09,980
+Where do you think the effect?
+
+849
+01:29:09,980 --> 01:29:14,980
+So one of the things I sort of try to define this as men, women, primary, secondary prevention,
+
+850
+01:29:14,980 --> 01:29:17,980
+right, that's a nice two by two square.
+
+851
+01:29:17,980 --> 01:29:21,980
+I don't think there's any, I mean, again, I'm not talking about the blogosphere or Twitter,
+
+852
+01:29:21,980 --> 01:29:26,980
+but like if you actually look at evidence, is there any dispute in the efficacy of statins
+
+853
+01:29:26,980 --> 01:29:28,980
+in secondary prevention for men or women?
+
+854
+01:29:28,980 --> 01:29:29,980
+No.
+
+855
+01:29:29,980 --> 01:29:30,980
+There's no dispute.
+
+856
+01:29:30,980 --> 01:29:31,980
+So we won't even need to talk about that.
+
+857
+01:29:31,980 --> 01:29:34,980
+Let's talk about primary prevention.
+
+858
+01:29:34,980 --> 01:29:38,980
+The variability in clinical trials when you look at primary prevention, especially in
+
+859
+01:29:38,980 --> 01:29:42,980
+women, but I think for men to some extent as well, both in the NNT, so that means the
+
+860
+01:29:42,980 --> 01:29:43,980
+number needed to treat.
+
+861
+01:29:43,980 --> 01:29:48,980
+So the NNT, of course, being the reciprocal of the absolute risk reduction.
+
+862
+01:29:48,980 --> 01:29:53,980
+So an NNT of 100 means you have a 1% risk reduction, you need to treat 100 people to
+
+863
+01:29:53,980 --> 01:29:54,980
+prevent an event.
+
+864
+01:29:54,980 --> 01:30:00,980
+When you look at the summary data on this, it's amazing how all over the map it is.
+
+865
+01:30:00,980 --> 01:30:04,980
+So how would you rate the strength of the evidence?
+
+866
+01:30:04,980 --> 01:30:06,980
+Just a quick question, Ron.
+
+867
+01:30:06,980 --> 01:30:08,980
+I'll just give you 30 seconds to answer this.
+
+868
+01:30:08,980 --> 01:30:13,980
+The strength of the evidence in primary prevention of statins in either men or women.
+
+869
+01:30:13,980 --> 01:30:14,980
+Okay.
+
+870
+01:30:14,980 --> 01:30:20,980
+Well, let me start with women and let me also specify that you need to think about cardiovascular
+
+871
+01:30:20,980 --> 01:30:23,980
+events and then mortality from cardiovascular disease.
+
+872
+01:30:23,980 --> 01:30:24,980
+Right.
+
+873
+01:30:24,980 --> 01:30:29,980
+So we'll talk about major adverse cardiac events, so myocardial infarction, stroke versus death.
+
+874
+01:30:29,980 --> 01:30:35,980
+So there is evidence, again, importantly from the Jupiter trial, which had a very large
+
+875
+01:30:35,980 --> 01:30:41,980
+enrollment of women, but collectively in other trials as well, for the benefit of statins
+
+876
+01:30:41,980 --> 01:30:45,980
+for high risk primary prevention in women.
+
+877
+01:30:45,980 --> 01:30:50,980
+And the high risk caveat is really important here because it really speaks to this very
+
+878
+01:30:50,980 --> 01:30:56,980
+fine gradation between high risk primary prevention and secondary prevention because if you're
+
+879
+01:30:56,980 --> 01:31:01,980
+at a high enough risk and haven't had a heart attack, you may be five seconds away from
+
+880
+01:31:01,980 --> 01:31:02,980
+the heart attack.
+
+881
+01:31:02,980 --> 01:31:04,980
+Yeah, or you may have had a silent MI that was missed.
+
+882
+01:31:04,980 --> 01:31:06,980
+Or already, right.
+
+883
+01:31:06,980 --> 01:31:11,980
+So that distinction could be a little bit fuzzy, but technically at least the evidence is there
+
+884
+01:31:11,980 --> 01:31:14,980
+for primary prevention of cardiovascular events in women.
+
+885
+01:31:14,980 --> 01:31:16,980
+It's not really there, at least to my reading.
+
+886
+01:31:16,980 --> 01:31:20,980
+I may be wrong about this because I haven't gone back and double checked, but I haven't
+
+887
+01:31:20,980 --> 01:31:26,980
+seen evidence for benefit on mortality for primary prevention in women.
+
+888
+01:31:26,980 --> 01:31:27,980
+In women, yeah.
+
+889
+01:31:27,980 --> 01:31:32,980
+And in men, it's kind of weakish for mortality, but it's certainly present for events.
+
+890
+01:31:32,980 --> 01:31:37,980
+And is it also possible that one of the things I try to explain to, if I'm giving a lecture
+
+891
+01:31:37,980 --> 01:31:44,980
+or something to students, is you look at a paper and you see no statistical benefit.
+
+892
+01:31:44,980 --> 01:31:49,980
+The first question you must ask yourself was, was this study powered adequately to detect
+
+893
+01:31:49,980 --> 01:31:50,980
+a difference?
+
+894
+01:31:50,980 --> 01:31:55,980
+And it's very often the case that there could have been an effect, but it was too small to
+
+895
+01:31:55,980 --> 01:31:57,980
+see with the number of subjects.
+
+896
+01:31:57,980 --> 01:32:02,980
+I feel like in some of the primary prevention trials, duration might be the bigger issue.
+
+897
+01:32:02,980 --> 01:32:07,980
+If you're only looking at seven years, which is probably the outer limits of where these
+
+898
+01:32:07,980 --> 01:32:15,980
+trials look, it might simply be that when you're talking about a 1% absolute risk reduction
+
+899
+01:32:15,980 --> 01:32:18,980
+over seven years, it's not really that interesting.
+
+900
+01:32:18,980 --> 01:32:24,980
+Of course, a 1% risk reduction over seven years, over 30 years, is an enormous difference.
+
+901
+01:32:24,980 --> 01:32:29,980
+Alan Snyderman is actually working on a paper now that looks at 30-year risk, because of
+
+902
+01:32:29,980 --> 01:32:33,980
+course, all the risk calculators are based on 10-year risk, which I think has value,
+
+903
+01:32:33,980 --> 01:32:35,980
+but also has great limitation.
+
+904
+01:32:35,980 --> 01:32:41,980
+And I guess I think that's part of what I struggle with this clinically, which is we
+
+905
+01:32:41,980 --> 01:32:46,980
+never want to expose a patient to something unnecessarily, and there's no substance you're
+
+906
+01:32:46,980 --> 01:32:51,980
+going to put in your body, whether it's vitamin C versus a statin that comes with zero risk.
+
+907
+01:32:51,980 --> 01:32:54,980
+So how do you weigh that benefit?
+
+908
+01:32:54,980 --> 01:32:55,980
+Yeah.
+
+909
+01:32:55,980 --> 01:33:01,980
+Well, this really speaks to need for much better markers that could help us predict
+
+910
+01:33:01,980 --> 01:33:09,980
+benefit versus adverse effects, so that we can identify not just the high-risk candidate
+
+911
+01:33:09,980 --> 01:33:15,980
+for statins based on conventional markers, but individuals in whom we have evidence for
+
+912
+01:33:15,980 --> 01:33:20,980
+mechanisms that would be benefited by statin treatment that would argue strongly for benefit.
+
+913
+01:33:20,980 --> 01:33:26,980
+And on the other side, markers ideally that could assess risk for adverse effects, not
+
+914
+01:33:26,980 --> 01:33:29,980
+just symptoms, but underlying pathology, for example.
+
+915
+01:33:29,980 --> 01:33:31,980
+And again, without...
+
+916
+01:33:31,980 --> 01:33:36,980
+I want to come back briefly to your question about cognitive function, because I sort of
+
+917
+01:33:36,980 --> 01:33:40,980
+escaped talking about that, because I feel this is...
+
+918
+01:33:40,980 --> 01:33:42,980
+Because you forgot, because you're cognitive function.
+
+919
+01:33:42,980 --> 01:33:46,980
+No, as a matter of fact, quite the opposite.
+
+920
+01:33:46,980 --> 01:33:53,980
+I put it in a part of my brain that has made me not forget that there can be effects that
+
+921
+01:33:53,980 --> 01:33:57,980
+are long-term that we simply can't assess easily.
+
+922
+01:33:57,980 --> 01:33:59,980
+And so one of them could be cognitive function.
+
+923
+01:33:59,980 --> 01:34:01,980
+But having said that, there's no evidence.
+
+924
+01:34:01,980 --> 01:34:06,980
+And in our consensus paper that just came out, statin and tolerance, no evidence really.
+
+925
+01:34:06,980 --> 01:34:08,980
+Well, at the population level, I would say it's the opposite.
+
+926
+01:34:08,980 --> 01:34:12,980
+At the population level, I think we see that the risk, if anything, goes down a little bit.
+
+927
+01:34:12,980 --> 01:34:14,980
+Yeah, and there's a cardiovascular...
+
+928
+01:34:14,980 --> 01:34:15,980
+There's a vascular...
+
+929
+01:34:15,980 --> 01:34:16,980
+Exactly right.
+
+930
+01:34:16,980 --> 01:34:17,980
+Right.
+
+931
+01:34:17,980 --> 01:34:20,980
+There's a vascular element that even contributes to classical Alzheimer's disease.
+
+932
+01:34:20,980 --> 01:34:23,980
+But again, the data are really not compelling.
+
+933
+01:34:23,980 --> 01:34:24,980
+They're not compelling in any other direction.
+
+934
+01:34:24,980 --> 01:34:25,980
+No, this is the challenge.
+
+935
+01:34:25,980 --> 01:34:26,980
+This is personalized medicine.
+
+936
+01:34:26,980 --> 01:34:27,980
+That's right.
+
+937
+01:34:27,980 --> 01:34:28,980
+It means at the end, I don't care about the population.
+
+938
+01:34:28,980 --> 01:34:32,980
+I care about the one person sitting in front of me at this moment when we have to make
+
+939
+01:34:32,980 --> 01:34:33,980
+a decision.
+
+940
+01:34:33,980 --> 01:34:34,980
+Exactly.
+
+941
+01:34:34,980 --> 01:34:35,980
+Exactly.
+
+942
+01:34:35,980 --> 01:34:39,980
+But what's intriguing and what your question opened up, and I have to be careful because
+
+943
+01:34:39,980 --> 01:34:44,980
+I don't want to go down the rabbit hole on this one, to the extent that statins influence
+
+944
+01:34:45,980 --> 01:34:51,980
+mechanisms that interact with cholesterol transport in the brain in apoprotein E, which
+
+945
+01:34:51,980 --> 01:34:55,980
+we mentioned is a variant that causes type 3 hyperlipidemia.
+
+946
+01:34:55,980 --> 01:35:01,980
+Apoprotein E is a key protein that has another variant that increases the risk for Alzheimer's
+
+947
+01:35:01,980 --> 01:35:02,980
+disease.
+
+948
+01:35:02,980 --> 01:35:06,980
+Well, we're looking at ways that cholesterol metabolism intersects with that pathway.
+
+949
+01:35:06,980 --> 01:35:12,980
+And conceivably, that's just one example of a gene that could interact with statins and
+
+950
+01:35:12,980 --> 01:35:17,980
+if the statins are getting past the blood-brain barrier in some cases, and inflammation
+
+951
+01:35:17,980 --> 01:35:20,980
+might be a factor that could predispose to that.
+
+952
+01:35:20,980 --> 01:35:26,980
+You could start to have imagined effects that could go either way, but could perhaps potentiate
+
+953
+01:35:26,980 --> 01:35:27,980
+dysfunction.
+
+954
+01:35:27,980 --> 01:35:30,980
+That's just a completely out of...
+
+955
+01:35:30,980 --> 01:35:32,980
+No, no, look, I mean, that's exactly...
+
+956
+01:35:32,980 --> 01:35:35,980
+I mean, that's sort of the hand waving that I use, right?
+
+957
+01:35:35,980 --> 01:35:41,980
+So when I have patients that have one or two copies of an APO E4 gene, I am that much more
+
+958
+01:35:42,220 --> 01:35:45,980
+careful with them, with statin use, and until proven otherwise.
+
+959
+01:35:45,980 --> 01:35:47,980
+Yeah, and we don't know.
+
+960
+01:35:47,980 --> 01:35:54,980
+I mean, actually, there's a wonderful group of APO E4 carriers that has formed sort of
+
+961
+01:35:54,980 --> 01:35:58,580
+a support, very large, that I've interacted with.
+
+962
+01:35:58,580 --> 01:35:59,780
+They came to my lab.
+
+963
+01:35:59,780 --> 01:36:06,180
+There's about 30 members of this group that came and I gave a talk about apoprotein E
+
+964
+01:36:06,180 --> 01:36:07,780
+and nutrition, actually.
+
+965
+01:36:07,780 --> 01:36:12,500
+I had to sort of be careful because these people were just anxious for advice.
+
+966
+01:36:12,500 --> 01:36:13,500
+What do we do?
+
+967
+01:36:13,500 --> 01:36:15,500
+We've got this APO E4 variant.
+
+968
+01:36:15,500 --> 01:36:17,500
+What do I do with my diet?
+
+969
+01:36:17,500 --> 01:36:22,780
+We've done a lot of studies along these lines, but we don't know what the effect on disease
+
+970
+01:36:22,780 --> 01:36:23,780
+risk is.
+
+971
+01:36:23,780 --> 01:36:27,660
+But there's one other cumulative effect that I'm going to mention without, again, turning
+
+972
+01:36:27,660 --> 01:36:32,500
+the tables on the value of statins, and that is getting back to the muscle effect.
+
+973
+01:36:32,500 --> 01:36:38,380
+Because if there is an adverse effect on mitochondrial function, which we can show
+
+974
+01:36:38,380 --> 01:36:44,260
+that and others have shown that, and if there are individuals who, for one reason or another,
+
+975
+01:36:44,260 --> 01:36:51,820
+are at risk for muscle wasting, sarcopenia is muscle wasting, conceivably, that on-target
+
+976
+01:36:51,820 --> 01:36:59,860
+effective statins, the extent that it is affecting muscle tissue, could over decades conceivably
+
+977
+01:36:59,860 --> 01:37:04,380
+impact the rate at which this muscle wasting could occur.
+
+978
+01:37:04,380 --> 01:37:08,220
+There may be a time, and this is just, I'm turning this out at the, probably near the
+
+979
+01:37:08,220 --> 01:37:14,380
+end of this discussion, as a kind of just a thought, is it may argue for after a certain
+
+980
+01:37:14,380 --> 01:37:19,140
+age, not worrying so much about high dose statin treatment unless the patient is at
+
+981
+01:37:19,140 --> 01:37:21,180
+really high risk.
+
+982
+01:37:21,180 --> 01:37:25,460
+Because one may be adding in elderly individuals an exposure.
+
+983
+01:37:25,460 --> 01:37:29,300
+Yeah, you're creating a new risk in the presence of another risk reduction.
+
+984
+01:37:29,540 --> 01:37:34,340
+Right, and it's the experiment that we probably are never going to be able to do.
+
+985
+01:37:34,340 --> 01:37:36,660
+And so it just has to sort of be cognizant.
+
+986
+01:37:36,660 --> 01:37:41,860
+I've had patients, and again, I actually take care of a number of physicians, actually,
+
+987
+01:37:41,860 --> 01:37:46,580
+in my clinical work, who asked me, I've reached the age of 75 or 80, and I've done well, I've
+
+988
+01:37:46,580 --> 01:37:48,340
+had family history, but I'm going to be fine now.
+
+989
+01:37:48,340 --> 01:37:53,380
+And it's a difficult question to answer because we don't have the evidence base beyond age
+
+990
+01:37:53,380 --> 01:37:54,380
+75.
+
+991
+01:37:54,380 --> 01:37:58,860
+That was really where the cholesterol guidelines that came out a few years ago stopped because
+
+992
+01:37:58,860 --> 01:37:59,860
+that's where the evidence stopped.
+
+993
+01:37:59,860 --> 01:38:00,860
+Yeah.
+
+994
+01:38:00,860 --> 01:38:04,540
+We do have benefit in older individuals who are at higher risk, but we don't know what
+
+995
+01:38:04,540 --> 01:38:08,860
+the trade-off is in terms of adverse effects that people don't really need to be taking
+
+996
+01:38:08,860 --> 01:38:09,860
+it any longer.
+
+997
+01:38:09,860 --> 01:38:12,860
+Now, you were involved in one of the ATP guidelines, correct?
+
+998
+01:38:12,860 --> 01:38:17,940
+Yeah, well, I was on the ATP for, on the last panel that handed it off to the American Heart
+
+999
+01:38:17,940 --> 01:38:19,980
+Association, American College of Cardiology.
+
+1000
+01:38:19,980 --> 01:38:23,060
+I was connected with it when it was part of the NIH guidelines.
+
+1001
+01:38:23,060 --> 01:38:25,700
+Now, you took issue with something, didn't you?
+
+1002
+01:38:25,700 --> 01:38:32,020
+Well, there were some concerns that I and others had regarding the scope of the effort.
+
+1003
+01:38:32,020 --> 01:38:37,660
+Originally, and this is my own personal experience with it, when I was brought on, I was expecting,
+
+1004
+01:38:37,660 --> 01:38:42,820
+and we originally talked about having a wide range of topics to discuss, not just LDL lowering,
+
+1005
+01:38:42,820 --> 01:38:49,360
+but how we manage triglycerides, the role of HDL, emerging risk factors, alpilolae.
+
+1006
+01:38:49,360 --> 01:38:56,920
+We had probably 15 or 16 high-priority questions, and I was intending to be involved heavily
+
+1007
+01:38:56,920 --> 01:39:00,640
+on the discussion of some of these other risk factors.
+
+1008
+01:39:00,640 --> 01:39:06,920
+I thought the LDL story was obviously important, and one had to address, should we update the
+
+1009
+01:39:06,920 --> 01:39:07,920
+guidelines?
+
+1010
+01:39:07,920 --> 01:39:08,920
+That's what it was really designed to be.
+
+1011
+01:39:08,920 --> 01:39:14,960
+And it turned out in the end that because of various changes in support of the whole
+
+1012
+01:39:14,960 --> 01:39:20,400
+exam, the number of questions was reduced down to just three, and they all had to do
+
+1013
+01:39:20,400 --> 01:39:24,040
+with LDL lowering and the evidence for it.
+
+1014
+01:39:24,040 --> 01:39:30,800
+And it was very heavily dependent on trials that were available to provide evidence-based
+
+1015
+01:39:30,800 --> 01:39:31,800
+conclusions.
+
+1016
+01:39:31,800 --> 01:39:38,680
+So that means that the effort was really limited to a very strict interpretation of evidence-based
+
+1017
+01:39:38,680 --> 01:39:44,920
+guidelines, and that led to an abandoning of the LDL targeting that we had.
+
+1018
+01:39:44,920 --> 01:39:51,320
+The LDL levels that had been used to guide management of risk were abandoned because
+
+1019
+01:39:51,320 --> 01:39:56,920
+there was no study that actually addressed specifically that question, that is, does reaching
+
+1020
+01:39:56,920 --> 01:39:59,240
+a certain target reduce risk?
+
+1021
+01:39:59,240 --> 01:40:04,760
+And I personally got rather discouraged at the limitation that we were under.
+
+1022
+01:40:04,760 --> 01:40:09,120
+Eventually, it sort of got a little bit softened, actually, after I left the committee.
+
+1023
+01:40:09,120 --> 01:40:14,760
+I think there was a little bit more tolerance of potential role, but basically, by being
+
+1024
+01:40:14,760 --> 01:40:19,840
+that narrow, we not only lost a lot of important questions in lipid management, they just weren't
+
+1025
+01:40:19,840 --> 01:40:20,840
+addressed.
+
+1026
+01:40:20,840 --> 01:40:23,440
+Triglyceride, et cetera, et cetera.
+
+1027
+01:40:23,440 --> 01:40:25,880
+Metabolic syndrome wasn't really touched on at all.
+
+1028
+01:40:25,880 --> 01:40:27,320
+So it was disappointing to me.
+
+1029
+01:40:27,320 --> 01:40:29,920
+And I felt my LPA, right.
+
+1030
+01:40:29,920 --> 01:40:33,200
+And so I felt my role on the LDL lowering side was sort of limited.
+
+1031
+01:40:33,200 --> 01:40:37,720
+I'd actually been involved with being consultants of companies that made LDL lowering drugs,
+
+1032
+01:40:37,720 --> 01:40:40,160
+so I had to actually excuse myself from even the decision process.
+
+1033
+01:40:40,160 --> 01:40:44,000
+So it was really a point where I just wasn't able to contribute the way I thought I could,
+
+1034
+01:40:44,000 --> 01:40:45,720
+so I decided to step off.
+
+1035
+01:40:45,720 --> 01:40:49,080
+I could continue this discussion probably for six more hours, but there is one other
+
+1036
+01:40:49,080 --> 01:40:53,360
+thing I want to go back to that we did talk about, and I think it's the niacin question.
+
+1037
+01:40:53,360 --> 01:40:54,360
+Right.
+
+1038
+01:40:54,360 --> 01:40:55,360
+You haven't forgotten that.
+
+1039
+01:40:55,360 --> 01:40:57,040
+No, I sure have not.
+
+1040
+01:40:57,040 --> 01:40:59,200
+So what does niacin do, right?
+
+1041
+01:40:59,200 --> 01:41:02,000
+So first of all, I don't think anybody actually really understands the mechanism by which
+
+1042
+01:41:02,000 --> 01:41:05,440
+niacin lowers APO-B. I mean, is that generally?
+
+1043
+01:41:05,440 --> 01:41:07,120
+Yeah, that's right.
+
+1044
+01:41:07,120 --> 01:41:09,280
+I would say that's a fair statement.
+
+1045
+01:41:09,280 --> 01:41:13,660
+But niacin is a drug that lowers LDL, particle cholesterol.
+
+1046
+01:41:13,660 --> 01:41:16,380
+It also raises HDL cholesterol quite significantly.
+
+1047
+01:41:16,380 --> 01:41:20,340
+In fact, I've seen it raise HDL cholesterol more than I've seen anything in those CTEP
+
+1048
+01:41:20,340 --> 01:41:21,600
+inhibitors.
+
+1049
+01:41:21,600 --> 01:41:23,860
+So it seems like the dream drug.
+
+1050
+01:41:23,860 --> 01:41:25,340
+It's doing everything right.
+
+1051
+01:41:25,340 --> 01:41:29,200
+Now, it does also create some insulin resistance, and it seems to do that at a higher level
+
+1052
+01:41:29,200 --> 01:41:30,480
+than even statins do.
+
+1053
+01:41:30,480 --> 01:41:35,240
+But do you think that that's the explanation for why the heart outcome data aren't there
+
+1054
+01:41:35,240 --> 01:41:40,300
+and why niacin has fallen so far out of favor that ... I actually called in niacin for a
+
+1055
+01:41:40,300 --> 01:41:41,820
+patient about a year ago.
+
+1056
+01:41:42,500 --> 01:41:43,660
+We were kind of doing an experiment.
+
+1057
+01:41:43,660 --> 01:41:47,580
+He couldn't tolerate a statin, couldn't afford a PCSK9 inhibitor.
+
+1058
+01:41:47,580 --> 01:41:51,140
+We were really reaching for straws, and we couldn't even get niacin for him.
+
+1059
+01:41:51,140 --> 01:41:53,940
+I mean, we literally couldn't even get his insurance company to pay for niacin.
+
+1060
+01:41:53,940 --> 01:41:56,420
+So it is persona non grata.
+
+1061
+01:41:56,420 --> 01:41:57,580
+Help me understand that.
+
+1062
+01:41:57,580 --> 01:41:58,580
+Okay.
+
+1063
+01:41:58,580 --> 01:42:01,460
+So my disclosure is I still use a lot of niacin.
+
+1064
+01:42:01,460 --> 01:42:05,100
+So why do I do that in the light of all these trials?
+
+1065
+01:42:05,100 --> 01:42:11,500
+So let me just back up then and say that the trials, the high profile trials that led
+
+1066
+01:42:11,500 --> 01:42:17,540
+to the dismissal of niacin as a therapeutic option, one was AIM high and the other was
+
+1067
+01:42:17,540 --> 01:42:18,540
+HPS2.
+
+1068
+01:42:18,540 --> 01:42:19,540
+It wasn't HPS2.
+
+1069
+01:42:19,540 --> 01:42:20,540
+Yeah, yeah.
+
+1070
+01:42:20,540 --> 01:42:27,900
+HPS2 both involved the following criterion, and that is niacin was tested as an HDL raising
+
+1071
+01:42:27,900 --> 01:42:36,900
+agent in the setting of LDL being at a low level as a result of intensive statin plus
+
+1072
+01:42:36,900 --> 01:42:43,300
+or minus Cetia to bring LDL cholesterol levels to a low enough level that it would be considered
+
+1073
+01:42:43,300 --> 01:42:44,800
+a non factor.
+
+1074
+01:42:44,800 --> 01:42:50,540
+That is that the niacin effect due to LDL would be minimized, whereas the HDL...
+
+1075
+01:42:50,540 --> 01:42:51,540
+Right.
+
+1076
+01:42:51,540 --> 01:42:55,300
+In other words, how do we assess the level of niacin exclusively on its HDL raising properties
+
+1077
+01:42:55,300 --> 01:42:57,260
+because we've maximized LDL lower?
+
+1078
+01:42:57,260 --> 01:42:58,260
+That's right.
+
+1079
+01:42:58,260 --> 01:43:02,940
+So they were designed to test whether the HDL increase with niacin is beneficial.
+
+1080
+01:43:02,940 --> 01:43:08,220
+And the answer is from those trials, I'd say unequivocally no.
+
+1081
+01:43:08,220 --> 01:43:13,060
+That is the HDL raising effect of niacin is not protective.
+
+1082
+01:43:13,060 --> 01:43:15,420
+That's the conclusion to take away.
+
+1083
+01:43:15,420 --> 01:43:21,280
+That in my view was beating, maybe not a dead horse, but a pretty sick one because I never
+
+1084
+01:43:21,280 --> 01:43:26,740
+really was totally convinced that raising HDL itself would be beneficial.
+
+1085
+01:43:26,740 --> 01:43:31,220
+Even though I was part of the earliest study that showed that if you genetically treat
+
+1086
+01:43:31,220 --> 01:43:36,980
+mice with a gene that raises HDL, you can reduce atherosclerosis.
+
+1087
+01:43:36,980 --> 01:43:42,380
+I mean, there is a protective effect, but I was of the opinion that the association
+
+1088
+01:43:42,380 --> 01:43:49,140
+of HDL cholesterol across the population with risk fell into the same category as the LDL
+
+1089
+01:43:49,140 --> 01:43:51,220
+small LDL story and triglyceride story.
+
+1090
+01:43:51,220 --> 01:43:55,020
+It's part of a interrelated metabolic syndrome.
+
+1091
+01:43:55,020 --> 01:44:00,360
+And I felt that the most important pathologic features of that syndrome were not low HDL,
+
+1092
+01:44:00,360 --> 01:44:04,120
+but the high levels of small LDL and triglycerides.
+
+1093
+01:44:04,120 --> 01:44:08,820
+And both of those components have been not just the LDL, but the triglyceride related
+
+1094
+01:44:08,820 --> 01:44:13,040
+risk have been pretty clearly shown to be causal.
+
+1095
+01:44:13,040 --> 01:44:15,300
+And the HDL was a marker for that.
+
+1096
+01:44:15,300 --> 01:44:18,800
+That was actually my guess just based on my opinion.
+
+1097
+01:44:18,800 --> 01:44:20,400
+And there could be another issue here, right?
+
+1098
+01:44:20,400 --> 01:44:27,940
+Which is to raise, I mean, there are known HDL lipoproteinemia where very high HDL is
+
+1099
+01:44:27,940 --> 01:44:32,840
+actually atherogenic because they're so dysfunctional, they can't actually delipidate, right?
+
+1100
+01:44:32,840 --> 01:44:33,840
+Exactly.
+
+1101
+01:44:33,840 --> 01:44:37,720
+So the simple minded idea that raising HDL by any means would be beneficial, just like
+
+1102
+01:44:37,720 --> 01:44:43,400
+lowering LDL by any means would be beneficial, was disproven by those studies.
+
+1103
+01:44:43,400 --> 01:44:45,320
+Plus all of the C-TEP inhibitors.
+
+1104
+01:44:45,320 --> 01:44:46,320
+That's right.
+
+1105
+01:44:46,320 --> 01:44:47,320
+None of the C-TEP inhibitors.
+
+1106
+01:44:47,520 --> 01:44:55,000
+So there's something fundamentally pathologic about that effect on HDL that overrides any
+
+1107
+01:44:55,000 --> 01:44:58,440
+potential benefit that may be due to other factors.
+
+1108
+01:44:58,440 --> 01:45:05,320
+And in the case of the two major niacin trials, there was some lowering of LDL, but as you
+
+1109
+01:45:05,320 --> 01:45:08,680
+point out, the HDL increase was fairly substantial.
+
+1110
+01:45:08,680 --> 01:45:12,960
+And those particles are basically hung up in plasma.
+
+1111
+01:45:12,960 --> 01:45:16,720
+It gets back a little bit to this resonance time issue that I was talking about regarding
+
+1112
+01:45:16,720 --> 01:45:17,720
+LDL.
+
+1113
+01:45:17,720 --> 01:45:21,840
+Well, here's a situation for HDL, well, these particles are just sort of like the toilet
+
+1114
+01:45:21,840 --> 01:45:22,840
+is plugged.
+
+1115
+01:45:22,840 --> 01:45:24,920
+Yeah, you prevent them from doing their job.
+
+1116
+01:45:24,920 --> 01:45:25,920
+Right.
+
+1117
+01:45:25,920 --> 01:45:29,560
+So you're not delivering cholesterol sufficiently back to the liver for excretion, and those
+
+1118
+01:45:29,560 --> 01:45:33,720
+particles are hanging around long enough that who knows what properties they may be acquiring
+
+1119
+01:45:33,720 --> 01:45:40,480
+that might possibly override some of the benefits of the LDL lowering effect.
+
+1120
+01:45:40,480 --> 01:45:43,800
+So does that mean that niacin has no benefit?
+
+1121
+01:45:43,800 --> 01:45:49,560
+Well, there was a study that preceded those two studies that was carried out by Greg Brown
+
+1122
+01:45:49,560 --> 01:45:54,520
+and actually was one that led to the AMPI study being funded by the NIH, and that was
+
+1123
+01:45:54,520 --> 01:46:02,560
+called HATs, H-D-L, H-D-L, atherosclerosis treatment study, HATS.
+
+1124
+01:46:02,560 --> 01:46:03,560
+And that was a...
+
+1125
+01:46:03,560 --> 01:46:07,760
+Almost as good as Mr. Fit, which I realize now is the one I was forgetting before the
+
+1126
+01:46:07,760 --> 01:46:08,760
+LRCP.
+
+1127
+01:46:08,760 --> 01:46:10,480
+Okay, that was a multi-factor risk management.
+
+1128
+01:46:10,480 --> 01:46:11,480
+Yes, yeah, yeah, yeah.
+
+1129
+01:46:11,480 --> 01:46:12,480
+So going back to HATs.
+
+1130
+01:46:12,480 --> 01:46:13,480
+Right.
+
+1131
+01:46:14,160 --> 01:46:18,120
+So HATs was a statin plus niacin, and there was other combination approach, which included
+
+1132
+01:46:18,120 --> 01:46:19,440
+niacin.
+
+1133
+01:46:19,440 --> 01:46:21,800
+And that study showed benefit to levels.
+
+1134
+01:46:21,800 --> 01:46:27,440
+One was the intended endpoint was quantitative angiographic progression, measuring the narrowing
+
+1135
+01:46:27,440 --> 01:46:30,200
+of the coronary vessels, which is now not used.
+
+1136
+01:46:30,200 --> 01:46:31,880
+We now realize it's not particularly helpful.
+
+1137
+01:46:31,880 --> 01:46:33,680
+It happened to be correlated with endpoints.
+
+1138
+01:46:33,680 --> 01:46:38,160
+And in fact, in that study, even though it was initially underpowered to detect the benefit
+
+1139
+01:46:38,160 --> 01:46:40,120
+on endpoints, it did...
+
+1140
+01:46:40,120 --> 01:46:42,440
+That intervention did reduce risk of events.
+
+1141
+01:46:42,440 --> 01:46:44,640
+It was a successful trial.
+
+1142
+01:46:44,640 --> 01:46:49,680
+We analyzed data from that study using four different methods to look at lipoprotein particles.
+
+1143
+01:46:49,680 --> 01:46:53,840
+So part of this was to see whether we could learn something more than the standard lipid
+
+1144
+01:46:53,840 --> 01:46:55,240
+measurements would tell us.
+
+1145
+01:46:55,240 --> 01:47:01,600
+And what it did tell us is that the small and very small LDL lowering achieved by niacin,
+
+1146
+01:47:01,600 --> 01:47:06,320
+which it does do, was associated with vascular benefit in that study.
+
+1147
+01:47:06,320 --> 01:47:11,640
+Whereas the HDL, to the extent that nothing else was explanatory, and that was independent
+
+1148
+01:47:11,640 --> 01:47:13,280
+of all the standard lipids.
+
+1149
+01:47:13,280 --> 01:47:17,820
+So we have this in the literature from just one study, and I wish we would have access
+
+1150
+01:47:17,820 --> 01:47:23,400
+to other types of data that could support this, but it spoke to a therapeutic effective
+
+1151
+01:47:23,400 --> 01:47:31,480
+niacin that would be lost in these larger trials because the statin hammer had lowered
+
+1152
+01:47:31,480 --> 01:47:32,940
+the LDL low enough.
+
+1153
+01:47:32,940 --> 01:47:34,760
+So that additional benefit is probably just lost.
+
+1154
+01:47:34,760 --> 01:47:35,760
+It's too small.
+
+1155
+01:47:35,760 --> 01:47:36,760
+It's underpowered.
+
+1156
+01:47:36,760 --> 01:47:37,860
+It's lost in the noise.
+
+1157
+01:47:37,860 --> 01:47:42,460
+So the failure of those trials speaks to the success of statins and the failure of
+
+1158
+01:47:42,460 --> 01:47:43,460
+HDL raising.
+
+1159
+01:47:43,460 --> 01:47:45,620
+Those are the two things that take away.
+
+1160
+01:47:45,620 --> 01:47:50,260
+But niacin, I think in the patients who have small LDL particles, I still use it, and I
+
+1161
+01:47:50,260 --> 01:47:51,260
+like to see...
+
+1162
+01:47:51,260 --> 01:47:53,020
+Well, that's what I want to ask you.
+
+1163
+01:47:53,020 --> 01:47:56,420
+Let's talk me through the perfect niacin patient.
+
+1164
+01:47:56,420 --> 01:48:01,060
+Well, the perfect patient with niacin is actually twofold.
+
+1165
+01:48:01,060 --> 01:48:04,500
+And we weren't going to talk about LPA, but you did bring it up earlier, and I'll mention
+
+1166
+01:48:04,500 --> 01:48:05,500
+it again.
+
+1167
+01:48:05,500 --> 01:48:10,780
+It's this genetic factor that is sort of the wild card in atherosclerosis that's certainly
+
+1168
+01:48:10,780 --> 01:48:12,900
+damaging and we like to lower it.
+
+1169
+01:48:12,900 --> 01:48:18,060
+So niacin can lower LPLA by up to 25% or so.
+
+1170
+01:48:18,060 --> 01:48:26,540
+And there is not conclusive, but to me clinically impressive evidence that if you have a combination
+
+1171
+01:48:26,540 --> 01:48:32,100
+of high LPA and small LDL, you're just a time bomb for atherosclerosis.
+
+1172
+01:48:32,100 --> 01:48:34,620
+So if you have high levels of small...
+
+1173
+01:48:34,620 --> 01:48:39,820
+High particle number of the small LDL type plus LPLA elevations.
+
+1174
+01:48:39,820 --> 01:48:43,300
+And there's always a strong family history of heart disease and the patients are going
+
+1175
+01:48:43,300 --> 01:48:48,140
+to be at higher risk at a young age because niacin lowers LPA and because niacin lowers
+
+1176
+01:48:48,140 --> 01:48:49,500
+the small LDL particles.
+
+1177
+01:48:49,500 --> 01:48:54,980
+So niacin, you think specifically targets smaller particles over larger particles?
+
+1178
+01:48:54,980 --> 01:48:55,980
+Yeah, preferentially.
+
+1179
+01:48:55,980 --> 01:48:57,980
+Sorry, yeah, that would be a better one.
+
+1180
+01:48:57,980 --> 01:48:59,860
+It lowers that pathway.
+
+1181
+01:48:59,860 --> 01:49:02,900
+It's not clear whether it's just that through the LDL pathway or not.
+
+1182
+01:49:02,900 --> 01:49:03,900
+Honestly, we don't know.
+
+1183
+01:49:03,900 --> 01:49:07,740
+It gets back to your earlier statement that we don't know the mechanism really as well.
+
+1184
+01:49:07,740 --> 01:49:09,540
+We just don't know the mechanism.
+
+1185
+01:49:09,540 --> 01:49:13,100
+But in that combination, that really is the patient that...
+
+1186
+01:49:13,100 --> 01:49:15,260
+And I've got patients like that who have...
+
+1187
+01:49:15,260 --> 01:49:19,140
+And you'd put that patient on that over a PCSK9 inhibitor if they could afford it?
+
+1188
+01:49:19,140 --> 01:49:20,420
+Well, there's another angle...
+
+1189
+01:49:20,420 --> 01:49:24,060
+Because you're going to get a 30% reduction on LPLA through the PCSK9?
+
+1190
+01:49:24,060 --> 01:49:25,060
+That's right.
+
+1191
+01:49:25,060 --> 01:49:26,060
+That's right.
+
+1192
+01:49:26,060 --> 01:49:27,060
+That's another angle.
+
+1193
+01:49:27,060 --> 01:49:31,700
+PCSK9 has a similar new developed LPA lowering effect, plus it has a gangbusters bigger effect
+
+1194
+01:49:31,700 --> 01:49:34,620
+than LDL particle, LDL levels.
+
+1195
+01:49:34,620 --> 01:49:36,620
+So no, I wouldn't use it over PCSK9.
+
+1196
+01:49:36,620 --> 01:49:40,180
+The argument there is largely financial honestly.
+
+1197
+01:49:40,180 --> 01:49:46,140
+And when insurance recovery, you can buy niacin at the local shop off the shelf, longer acting
+
+1198
+01:49:46,140 --> 01:49:49,740
+niacin in a relatively safe form for pennies.
+
+1199
+01:49:49,740 --> 01:49:55,420
+You're going to pay an eight or nine or $14,000 for a PCSK9.
+
+1200
+01:49:55,420 --> 01:49:59,980
+I've had patients like you who have been willing to do that, who have been willing
+
+1201
+01:49:59,980 --> 01:50:00,980
+to sort of...
+
+1202
+01:50:00,980 --> 01:50:01,980
+Just pay out of pocket.
+
+1203
+01:50:01,980 --> 01:50:02,980
+That's right.
+
+1204
+01:50:02,980 --> 01:50:06,780
+And that is the same category of patient, and I probably would consider that even more
+
+1205
+01:50:06,780 --> 01:50:07,780
+effective.
+
+1206
+01:50:07,780 --> 01:50:14,100
+Although, one other thing, a little tweak here, and that is that both statins and PCSK9
+
+1207
+01:50:14,100 --> 01:50:20,140
+inhibitors, because they work, as you said, by upregulating LDL receptors, as in the case
+
+1208
+01:50:20,140 --> 01:50:21,820
+of PCSK9, that's the mechanism.
+
+1209
+01:50:21,820 --> 01:50:22,820
+Exclusively, yeah.
+
+1210
+01:50:22,820 --> 01:50:23,820
+That's right for the statins.
+
+1211
+01:50:23,820 --> 01:50:24,940
+It's part of the mechanism.
+
+1212
+01:50:24,940 --> 01:50:32,980
+That effect primarily lowers medium and larger size LDL particles and has less of a therapeutic
+
+1213
+01:50:32,980 --> 01:50:36,500
+effect than smaller particles and none on the very small LDL.
+
+1214
+01:50:36,500 --> 01:50:42,460
+So there's a gradation of effect which relates to the structure of the LDL being more or
+
+1215
+01:50:42,460 --> 01:50:46,140
+less capable of interacting with LDL receptors.
+
+1216
+01:50:46,140 --> 01:50:50,980
+And the larger particles interact well, and so upregulating LDL receptors.
+
+1217
+01:50:50,980 --> 01:50:57,060
+This explains why we sometimes see a widening of the discordance in the statinized patient,
+
+1218
+01:50:57,060 --> 01:50:59,380
+because they're lowering...
+
+1219
+01:50:59,380 --> 01:51:03,700
+You're lowering LDL-C more than LDL-P because you're selecting out the larger, more cholesterol
+
+1220
+01:51:03,700 --> 01:51:04,700
+dose.
+
+1221
+01:51:04,700 --> 01:51:05,700
+That's right.
+
+1222
+01:51:05,700 --> 01:51:08,600
+And so that applies to any mechanism that operates the LDL receptors, which is what
+
+1223
+01:51:08,600 --> 01:51:11,100
+most of the drugs do, even as that of my...
+
+1224
+01:51:11,100 --> 01:51:13,260
+So what does that mean for niacin?
+
+1225
+01:51:13,260 --> 01:51:17,780
+Well, niacin lowers the small and very small LDL very nicely.
+
+1226
+01:51:17,780 --> 01:51:20,220
+So there's a complementarity there to statins.
+
+1227
+01:51:20,460 --> 01:51:24,620
+And I think that's part of what attracts me to using it.
+
+1228
+01:51:24,620 --> 01:51:28,580
+And again, I don't use it nowadays because of potency of the statins, the ability to
+
+1229
+01:51:28,580 --> 01:51:33,380
+get LDL down to target in such a high proportion of patients, the availability of PCSK9.
+
+1230
+01:51:33,380 --> 01:51:37,100
+I'd have to say there's fewer patients than I'm starting on niacin, but there's still
+
+1231
+01:51:37,100 --> 01:51:43,300
+candidates out there that I think would benefit from this hitting small LDL and hitting L-P
+
+1232
+01:51:43,300 --> 01:51:46,060
+relay in ways that complement the benefits of statins.
+
+1233
+01:51:46,580 --> 01:51:52,420
+The only patient I've put on niacin in the last four years is a really interesting case.
+
+1234
+01:51:52,420 --> 01:51:55,020
+He's a guy with...
+
+1235
+01:51:55,020 --> 01:52:01,620
+He doesn't have FH, but he's clearly got some SNPs of FH because his LDL is incredibly high,
+
+1236
+01:52:01,620 --> 01:52:06,180
+but normal synthesis, normal triglycerides, and normal absorption markers.
+
+1237
+01:52:06,180 --> 01:52:08,300
+So his sterols are normal.
+
+1238
+01:52:08,300 --> 01:52:11,180
+This is a clearance problem.
+
+1239
+01:52:11,180 --> 01:52:16,420
+He's unable to tolerate a single statin, including one milligram of livoloe.
+
+1240
+01:52:16,420 --> 01:52:21,580
+So we went to Rapatha, and there was no effect.
+
+1241
+01:52:21,580 --> 01:52:26,100
+And we switched to Pralulant, no effect.
+
+1242
+01:52:26,100 --> 01:52:27,100
+So he's missing...
+
+1243
+01:52:27,100 --> 01:52:28,700
+There's an epitope that's just...
+
+1244
+01:52:28,700 --> 01:52:31,620
+I would like the DNA from that patient because...
+
+1245
+01:52:31,620 --> 01:52:32,620
+I would be happy to introduce you to him.
+
+1246
+01:52:32,620 --> 01:52:35,740
+I have a Candid genetic variant that might explain that actually.
+
+1247
+01:52:35,740 --> 01:52:36,740
+Okay.
+
+1248
+01:52:36,740 --> 01:52:39,580
+So you use niacin in that patient.
+
+1249
+01:52:39,660 --> 01:52:42,380
+I mean, it's basically going to be what?
+
+1250
+01:52:42,380 --> 01:52:43,380
+Niacin and apheresis.
+
+1251
+01:52:43,380 --> 01:52:45,900
+I mean, it's a really tough case.
+
+1252
+01:52:45,900 --> 01:52:46,900
+Yeah.
+
+1253
+01:52:46,900 --> 01:52:51,100
+Well, again, I think it's legitimate to say that there's probably less...
+
+1254
+01:52:51,100 --> 01:52:56,660
+If you were Candidacin niacin with the availability of this potential for using PCSK9, and certainly
+
+1255
+01:52:56,660 --> 01:52:57,980
+with incontinence with statins.
+
+1256
+01:52:57,980 --> 01:53:02,060
+But I would say the patients with moderately elevated triglycerides in the 150 to...
+
+1257
+01:53:02,060 --> 01:53:03,980
+Yeah, you give them a little phenofibrate?
+
+1258
+01:53:03,980 --> 01:53:06,300
+Yes, I do actually, despite...
+
+1259
+01:53:06,300 --> 01:53:07,940
+That's another subset question.
+
+1260
+01:53:07,940 --> 01:53:13,460
+That is a subset of patients who may benefit based on subset analysis, subgroup analysis
+
+1261
+01:53:13,460 --> 01:53:15,020
+of the clinical trials.
+
+1262
+01:53:15,020 --> 01:53:18,940
+But unfortunately, it's just not a very potent patient.
+
+1263
+01:53:18,940 --> 01:53:25,060
+But niacin, I will use as a alternative approach to lowering the triglyceride and lowering
+
+1264
+01:53:25,060 --> 01:53:26,700
+the small LDL.
+
+1265
+01:53:26,700 --> 01:53:27,700
+That's elegant.
+
+1266
+01:53:27,700 --> 01:53:28,700
+That's something...
+
+1267
+01:53:28,700 --> 01:53:33,020
+I mean, if just on a personal level, that's certainly an amazing and insightful pearl
+
+1268
+01:53:33,020 --> 01:53:34,820
+that I've gathered from our discussion today.
+
+1269
+01:53:34,820 --> 01:53:36,420
+Well, I appreciate your saying that.
+
+1270
+01:53:36,500 --> 01:53:41,260
+Well, and with that, Ron, I want to say, first of all, I consider you a great friend and
+
+1271
+01:53:41,260 --> 01:53:42,700
+an unbelievable mentor.
+
+1272
+01:53:42,700 --> 01:53:49,180
+I feel so fortunate to have benefited from your knowledge and peers of yours over the
+
+1273
+01:53:49,180 --> 01:53:50,980
+last decade.
+
+1274
+01:53:50,980 --> 01:53:55,260
+And your generosity is unparalleled in terms of...
+
+1275
+01:53:55,260 --> 01:53:58,940
+Anytime I can pick up the phone and call you and run a tough case by you, you're always
+
+1276
+01:53:58,940 --> 01:53:59,940
+there to do so.
+
+1277
+01:53:59,940 --> 01:54:01,420
+So I greatly appreciate that.
+
+1278
+01:54:01,420 --> 01:54:06,380
+I also think we need to do this again sometime because I literally have twice as many questions
+
+1279
+01:54:06,580 --> 01:54:07,580
+as we've got to.
+
+1280
+01:54:07,580 --> 01:54:12,500
+I wanted to get into saturated fat, fructose, ApoE.
+
+1281
+01:54:12,500 --> 01:54:16,580
+There's all these other things that I know you are just an expert on that I know people
+
+1282
+01:54:16,580 --> 01:54:17,580
+are going to want to hear about.
+
+1283
+01:54:17,580 --> 01:54:22,380
+So I'm going to have to come back to San Francisco and we'll have to continue this discussion,
+
+1284
+01:54:22,380 --> 01:54:24,220
+hopefully during the Warriors off season.
+
+1285
+01:54:24,220 --> 01:54:25,900
+Happy to do that, Peter.
+
+1286
+01:54:25,900 --> 01:54:28,060
+And thank you for your kind words.
+
+1287
+01:54:28,060 --> 01:54:30,180
+And it's been a pleasure talking with you.
+
+1288
+01:54:30,180 --> 01:54:34,860
+I think the opportunity to help people understand some of these complex issues is something
+
+1289
+01:54:34,860 --> 01:54:35,860
+you've been very good at.
+
+1290
+01:54:35,860 --> 01:54:38,620
+And I think we had to be able to contribute to that.
+
+1291
+01:54:38,620 --> 01:54:39,620
+Thank you so much, Ron.
+
+1292
+01:54:39,620 --> 01:54:40,620
+Okay.
+
+1293
+01:54:40,620 --> 01:54:47,500
+You can find all of this information and more at PeterAttiaMD.com forward slash podcast.
+
+1294
+01:54:47,500 --> 01:54:51,180
+There you'll find the show notes, readings, and links related to this episode.
+
+1295
+01:54:51,180 --> 01:54:56,060
+You can also find my blog and the nerd safari at PeterAttiaMD.com.
+
+1296
+01:54:56,060 --> 01:54:57,740
+What's a nerd safari, you ask?
+
+1297
+01:54:57,740 --> 01:55:00,460
+Just click on the link at the top of the site to learn more.
+
+1298
+01:55:00,460 --> 01:55:04,180
+Maybe the simplest thing to do is to sign up for my subjectively non-lame once a week
+
+1299
+01:55:04,180 --> 01:55:07,860
+email where I'll update you on what I've been up to, the most interesting papers I've
+
+1300
+01:55:07,860 --> 01:55:13,140
+read, and all things related to longevity, science, performance, sleep, et cetera.
+
+1301
+01:55:13,140 --> 01:55:18,540
+On social, you can find me on Twitter, Instagram, and Facebook, all with the ID PeterAttiaMD,
+
+1302
+01:55:18,540 --> 01:55:22,420
+but usually Twitter is the best way to reach me to share your questions and comments.
+
+1303
+01:55:22,420 --> 01:55:26,380
+Now for the obligatory disclaimer, this podcast is for general informational purposes only
+
+1304
+01:55:26,380 --> 01:55:30,620
+and does not constitute the practice of medicine, nursing, or other professional healthcare
+
+1305
+01:55:30,620 --> 01:55:34,100
+services, including the giving of medical advice.
+
+1306
+01:55:34,100 --> 01:55:36,780
+Note, no doctor-patient relationship is formed.
+
+1307
+01:55:36,780 --> 01:55:41,380
+The use of this information and the materials linked to the podcast is at the user's own
+
+1308
+01:55:41,380 --> 01:55:42,380
+risk.
+
+1309
+01:55:42,380 --> 01:55:45,700
+The content of this podcast is not intended to be a substitute for professional medical
+
+1310
+01:55:45,700 --> 01:55:48,540
+advice, diagnosis, or treatment.
+
+1311
+01:55:48,540 --> 01:55:52,460
+Users should not disregard or delay in obtaining medical advice for any medical condition they
+
+1312
+01:55:52,460 --> 01:55:57,580
+have and should seek the assistance of their healthcare professionals for any such conditions.
+
+1313
+01:55:57,580 --> 01:56:02,340
+Lastly, and perhaps most importantly, I take conflicts of interest very seriously for all
+
+1314
+01:56:02,340 --> 01:56:09,340
+of my disclosures, the companies I invest in and or advise, please visit PeterAttiaMD.com
+
+1315
+01:56:09,340 --> 01:56:10,380
+forward slash about.
+

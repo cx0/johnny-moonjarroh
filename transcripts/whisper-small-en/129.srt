@@ -1,0 +1,4772 @@
+1
+00:00:00,000 --> 00:00:15,600
+Hey everyone. Welcome to the Drive podcast. I'm your host, Peter Attia. This podcast,
+
+2
+00:00:15,600 --> 00:00:19,360
+my website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:19,360 --> 00:00:24,360
+longevity into something accessible for everyone. Our goal is to provide the best content in
+
+4
+00:00:24,360 --> 00:00:28,440
+health and wellness, full stop, and we've assembled a great team of analysts to make
+
+5
+00:00:28,440 --> 00:00:32,720
+this happen. If you enjoy this podcast, we've created a membership program that brings you
+
+6
+00:00:32,720 --> 00:00:36,920
+far more in-depth content if you want to take your knowledge of the space to the next level.
+
+7
+00:00:36,920 --> 00:00:41,560
+At the end of this episode, I'll explain what those benefits are, or if you want to learn more now,
+
+8
+00:00:41,560 --> 00:00:48,080
+head over to PeterAttiaMD.com forward slash subscribe. Now, without further delay, here's
+
+9
+00:00:48,080 --> 00:00:55,040
+today's episode. My guest this week is Dr. Tom Despray. His name is probably familiar to some
+
+10
+00:00:55,040 --> 00:01:00,000
+of you because back in October of 2018, we released a five-part series with Tom and that
+
+11
+00:01:00,000 --> 00:01:05,680
+set of episodes, despite being quite technical, are some of the most popular episodes we've
+
+12
+00:01:05,680 --> 00:01:10,200
+released, especially amongst people who really like to get serious about their understanding
+
+13
+00:01:10,200 --> 00:01:15,320
+of cardiovascular disease. So we wanted to have Tom back basically to pick it up where we left
+
+14
+00:01:15,320 --> 00:01:21,480
+off. And in this episode, we try to focus on things that have changed in the last couple of years. And
+
+15
+00:01:21,640 --> 00:01:28,440
+that kind of loosely fell into three categories that we probe. The first is digging really deeper
+
+16
+00:01:28,440 --> 00:01:34,280
+into the recognition of the importance of atherogenic lipoproteins. So kind of revisiting
+
+17
+00:01:34,280 --> 00:01:39,760
+the idea of what ApoB is, why it matters. And both Tom and I discuss a little bit about how our views
+
+18
+00:01:39,760 --> 00:01:46,840
+have changed with respect to the use of ApoB as a laboratory surrogate over LDL-P. And we get into
+
+19
+00:01:47,040 --> 00:01:54,240
+all of the nuance around that with respect to VLDLs, triglycerides, LpA, et cetera. We also get into
+
+20
+00:01:54,240 --> 00:02:01,840
+why HDL cholesterol is a far less relevant metric, at least why we believe that to be the case. We
+
+21
+00:02:01,840 --> 00:02:05,360
+then pivot a little bit and talk about risk assessment. Basically, how do you understand
+
+22
+00:02:05,360 --> 00:02:10,760
+these metrics? How do you use these metrics? This is a lot of the clinician type stuff here around
+
+23
+00:02:10,760 --> 00:02:16,360
+ApoB and triglyceride-rich lipoproteins. We again revisit the idea of LpA. And then finally,
+
+24
+00:02:16,480 --> 00:02:20,080
+we bring it home with some discussion around therapies. And in particular, we talk about
+
+25
+00:02:20,080 --> 00:02:27,520
+the continued evolution of the PCSK9s, the evolving data around omega-3 fatty acids,
+
+26
+00:02:27,520 --> 00:02:33,360
+in particular, some of the controversy between EPA alone versus EPA and DHA. And obviously,
+
+27
+00:02:33,360 --> 00:02:40,640
+we talk about the most recent addition to the lipid drug story, which is a drug called Bembandoic
+
+28
+00:02:40,640 --> 00:02:44,120
+acid, which has not been around very long. And probably many people are not going to be familiar
+
+29
+00:02:44,320 --> 00:02:50,440
+with that, but Tom does a great job explaining that. Tom's a diplomat of both the American
+
+30
+00:02:50,440 --> 00:02:54,640
+Board of Internal Medicine and the American Board of Clinical Lipidology. He practiced internal
+
+31
+00:02:54,640 --> 00:03:01,040
+medicine in New Jersey for 37 years, the last 17 of which was devoted to consulting patients
+
+32
+00:03:01,040 --> 00:03:06,880
+with lipid and cardiometabolic disorders. Between 2012 and 2019, he served as the chief scientific
+
+33
+00:03:06,880 --> 00:03:12,480
+officer at two major cardiovascular biomarker laboratories. Since that time, he has been
+
+34
+00:03:12,480 --> 00:03:18,920
+working with us in our practice, primarily on the research side of things, but also as a consultant
+
+35
+00:03:18,920 --> 00:03:24,280
+advising on most of our cardiovascular cases. He's both a fellow of the American College of
+
+36
+00:03:24,280 --> 00:03:29,320
+Physicians and the National Lipid Association, the NLA. And he's an associate editor at the
+
+37
+00:03:29,320 --> 00:03:35,720
+Journal of Clinical Lipidology. He was also the recipient of the National Lipid Association 2011
+
+38
+00:03:35,720 --> 00:03:41,280
+President's Service Award. He's authored and illustrated more manuscripts and book chapters
+
+39
+00:03:41,760 --> 00:03:46,960
+related to lipids than I can count. And so without further delay, please enjoy my conversation
+
+40
+00:03:47,520 --> 00:03:59,120
+with my mentor and friend, Tom Dayspring. Hey, Tom, thanks so much for making time to sit down
+
+41
+00:03:59,120 --> 00:04:06,560
+again and talk about lipids. It's been almost two years since we sat down for what still remains
+
+42
+00:04:06,560 --> 00:04:15,040
+the longest podcast I've ever done, nearly eight hours, which I believe was divided into a five
+
+43
+00:04:15,040 --> 00:04:22,480
+part series that is still a very popular podcast series. And don't take this the wrong way, but
+
+44
+00:04:22,480 --> 00:04:28,320
+I'm kind of surprised at the popularity of that episode, given that I thought it was really
+
+45
+00:04:29,040 --> 00:04:35,440
+geared only towards people that were really, really diehard lipid fanatics. But it's had
+
+46
+00:04:36,240 --> 00:04:40,560
+broad enough appeal that I think we've agreed mutually that it makes sense to sit down again.
+
+47
+00:04:41,280 --> 00:04:46,800
+That was amazing. First of all, it's always great to sit down with you, Peter, and chat about my
+
+48
+00:04:46,800 --> 00:04:51,840
+little lipid world. But yeah, I'm shocked every time somebody tells me we've listened to the whole
+
+49
+00:04:52,480 --> 00:04:58,000
+series and I've done it three times and I just can't imagine that. But I'm glad it came across
+
+50
+00:04:58,000 --> 00:05:02,640
+pretty good. You know, one of the things I wanted to do today, Tom, and I can promise you and all the
+
+51
+00:05:02,640 --> 00:05:07,520
+listeners, we are not going to do this for another eight hours today. But what I want to do today is
+
+52
+00:05:08,320 --> 00:05:14,960
+I think kind of pick up the mantle from where we were a couple of years ago and talk about what's
+
+53
+00:05:14,960 --> 00:05:21,760
+different since then. I think the last two years has seen a number of things that are actually
+
+54
+00:05:21,760 --> 00:05:27,520
+pretty exciting in the field of lipidology, in the field of cardiovascular disease. Some of it's been
+
+55
+00:05:28,240 --> 00:05:33,840
+at the really nuanced level scientifically. Others have been, frankly, at the broader level in terms
+
+56
+00:05:33,840 --> 00:05:38,560
+of recognition of certain things that you've been talking about and many others. People like Alan
+
+57
+00:05:38,560 --> 00:05:45,440
+Snyderman have been talking about. A lot of this stuff is very clinically relevant. The way I pose
+
+58
+00:05:45,440 --> 00:05:50,640
+this to you and I think this, unless you're opposed to it, the way I'd love to kind of go through this
+
+59
+00:05:50,640 --> 00:05:57,920
+is maybe use our time today to talk about things that are different today than perhaps they were a
+
+60
+00:05:57,920 --> 00:06:04,880
+few years ago and dive into those things in enough depth that everybody from the lay person to the
+
+61
+00:06:05,680 --> 00:06:11,280
+aficionado will have something to chew on. Yeah, that's a perfect strategy for today. Now,
+
+62
+00:06:11,280 --> 00:06:16,160
+there's no doubt we'll reiterate some concepts that we went over in great depth back then,
+
+63
+00:06:16,160 --> 00:06:21,440
+but we won't have that opportunity today. And you know me, Peter, I've always lived on the
+
+64
+00:06:21,440 --> 00:06:27,120
+cutting edge of lipidology science leading the charge, trying to understand new concepts that
+
+65
+00:06:27,120 --> 00:06:33,680
+come down. But one of the great satisfactions of my career is much of what I've promulgated for the
+
+66
+00:06:33,680 --> 00:06:39,360
+longest time has come to fruition. And that's what's really happened in the last two years.
+
+67
+00:06:39,360 --> 00:06:45,520
+There are certainly some new concepts and some abandonment of some other issues, but it's just
+
+68
+00:06:45,520 --> 00:06:51,280
+the, you know, my whole mantra for a long time, you know, we've known each other a decade probably,
+
+69
+00:06:51,280 --> 00:06:58,640
+is that atherogenic lipoproteins are really the issue behind clinical atherosclerotic vascular
+
+70
+00:06:58,640 --> 00:07:05,120
+disease. And although many of us have known it for a while, the data has just become so overwhelming
+
+71
+00:07:05,120 --> 00:07:11,600
+that virtually all of the guidelines have signed on to that premise now that atherogenesis is
+
+72
+00:07:11,600 --> 00:07:19,360
+certainly a sterile mediated disease, but sterols are trafficked within apob containing lipoproteins,
+
+73
+00:07:19,360 --> 00:07:25,280
+which provides the vehicle that transports them into the artery wall where they can in some start
+
+74
+00:07:25,280 --> 00:07:31,280
+a pathological process. So it's the recognition of atherogenic lipoproteins that is now in the
+
+75
+00:07:31,280 --> 00:07:37,040
+guidelines. And you know, atherogenic lipoproteins are still diagnosed using various
+
+76
+00:07:37,040 --> 00:07:43,120
+cholesterol metrics, but there are things beyond LDL cholesterol matter in the guideline. And even
+
+77
+00:07:43,120 --> 00:07:49,920
+ApoB is certainly within every of the contemporary guidelines in the last two years. And that's of
+
+78
+00:07:49,920 --> 00:07:55,840
+course, the Allen Snyderman thing that he's been harping about for a long, long time. So it's
+
+79
+00:07:55,840 --> 00:08:02,160
+atherogenic lipoproteins within that category, though, the things that are also emerging is
+
+80
+00:08:02,160 --> 00:08:08,320
+what contributes to the atherogenicity of an ApoB particle triglycerides has really taken
+
+81
+00:08:08,320 --> 00:08:14,480
+center stage, how they affect lipoprotein concentration and quality or functionality,
+
+82
+00:08:14,480 --> 00:08:22,320
+whatever adjective you want to ascribe to. It's the loss of the ability of at least the HDL
+
+83
+00:08:22,320 --> 00:08:30,880
+cholesterol metric to be terribly informative to us. And it's the emerging significance for a lot
+
+84
+00:08:30,880 --> 00:08:38,480
+of reasons of lipoprotein little a. So those are the big areas where changes really become important
+
+85
+00:08:38,480 --> 00:08:44,240
+and is really useful at the bedside. Of course, pharmacology and intensity of pharmacology
+
+86
+00:08:44,240 --> 00:08:48,240
+has also advanced and we'll touch a little bit on that today, I'm sure.
+
+87
+00:08:48,880 --> 00:08:54,160
+To sort of summarize that, we're going to talk about kind of double clicking on ApoB
+
+88
+00:08:54,160 --> 00:09:00,880
+slash LDL particle, basically the atherogenic lipoproteins front and center in the pathogenesis
+
+89
+00:09:00,880 --> 00:09:06,400
+of cardiovascular disease. We're going to talk about the modification of our risk assessment.
+
+90
+00:09:06,400 --> 00:09:10,960
+And I like that you brought up HDL because I want to have a pretty interesting discussion about that.
+
+91
+00:09:11,600 --> 00:09:15,200
+And obviously, we're going to talk about what's happened in therapies. There have been actually
+
+92
+00:09:15,200 --> 00:09:20,480
+quite a number of things, including the continuation, more data around zetimibe and
+
+93
+00:09:20,480 --> 00:09:26,480
+PCSK9 inhibitors, much more data since we last spoke around omega-3 fatty acids. I spoke with
+
+94
+00:09:27,120 --> 00:09:31,920
+Bill Harris about that, but I think we can go a little bit further. And there are a couple of
+
+95
+00:09:31,920 --> 00:09:39,120
+other therapies. So let's start with maybe a little bit of a reminder for people as to what
+
+96
+00:09:39,120 --> 00:09:49,360
+ApoB is. People like you and I sometimes use ApoB and LDLP interchangeably as shorthand.
+
+97
+00:09:49,360 --> 00:09:55,760
+That's not entirely correct. And when we last spoke, we probably disproportionately spoke about
+
+98
+00:09:55,760 --> 00:10:01,360
+the number of LDL particles. And now we're going to focus on ApoB. So do you mind explaining
+
+99
+00:10:01,360 --> 00:10:07,680
+what the difference is both from a biology standpoint, but also from a laboratory standpoint?
+
+100
+00:10:08,160 --> 00:10:12,160
+And those are critical points, Peter, because it's one thing to talk about ApoB,
+
+101
+00:10:12,160 --> 00:10:17,840
+but almost what you're saying about it depends how did you analyze it? What laboratory metric
+
+102
+00:10:17,840 --> 00:10:23,600
+did you order that you think is telling you something about ApoB, whatever that encompasses?
+
+103
+00:10:23,600 --> 00:10:30,480
+So to make a story very simple and short, lipids go nowhere in aqueous plasma because they're
+
+104
+00:10:30,480 --> 00:10:36,720
+hydrophobic. So for a lipid to be trafficked throughout plasma, it has to attach to a protein.
+
+105
+00:10:36,720 --> 00:10:41,680
+Now, a few molecules of any lipid can attach to albumin, but that's not the primary way lipids
+
+106
+00:10:41,680 --> 00:10:49,920
+get anywhere. Serious collections of lipids, hydrophobic substances, attach to fairly significant
+
+107
+00:10:49,920 --> 00:10:56,880
+proteins which solubilize them. And these Apo proteins, as they're called, proteins that wrap
+
+108
+00:10:56,880 --> 00:11:02,880
+collections of lipids, provide structure and stability to this macromolecule that we're going
+
+109
+00:11:02,960 --> 00:11:09,920
+to call a lipoprotein. So the main structural protein that enwraps lipids in our body is
+
+110
+00:11:09,920 --> 00:11:16,960
+ApoLipoprotein B. It's a 500 kilo Dalton molecular weight protein, so it's pretty big,
+
+111
+00:11:16,960 --> 00:11:22,720
+and it has a great ability to attract a lot of lipids to bind to it. But once the lipids are
+
+112
+00:11:22,720 --> 00:11:29,040
+bound to it, this is a water soluble lipid transportation vehicle. There's basically one
+
+113
+00:11:29,040 --> 00:11:35,200
+other class of lipoproteins, and that is the HDL particles that you mentioned, and they have
+
+114
+00:11:35,200 --> 00:11:43,280
+no ApoB on them. Their structural protein is ApoLipoprotein A1, capital A dash either Arabic
+
+115
+00:11:43,280 --> 00:11:49,680
+or Roman number one. So right away we have a double classification of lipoproteins, the ApoB
+
+116
+00:11:49,680 --> 00:11:57,360
+containing, they're often called beta lipoproteins, or the ApoA1 are called the alpha lipoproteins.
+
+117
+00:11:57,360 --> 00:12:05,840
+So now within that ApoB family, it always gets a little more complex in lipidology. The two tissues
+
+118
+00:12:05,840 --> 00:12:11,280
+in your body that can make ApoB are the liver, hepatocytes, and of course the small intestine,
+
+119
+00:12:11,280 --> 00:12:15,760
+which is absorbing a lot of lipids, so it has to put them in something if those lipids are going
+
+120
+00:12:15,760 --> 00:12:23,760
+to get into your plasma. So the ApoB that's made in the liver is a big 500 kilo Dalton protein that
+
+121
+00:12:23,760 --> 00:12:30,560
+I mentioned, and it's called ApoB100. Now why do they add the 100 on it? Because the intestine
+
+122
+00:12:30,560 --> 00:12:37,360
+also produces ApoB, but it produces a truncated version that has 48% of the molecular weight of
+
+123
+00:12:37,360 --> 00:12:45,200
+the hepatic-produced ApoB. So that's called ApoB48. So if the liver makes an ApoB particle full of
+
+124
+00:12:45,200 --> 00:12:52,080
+lipids, it's got one molecule of ApoB100 on it, if the intestine makes a big lipoprotein, and it
+
+125
+00:12:52,080 --> 00:12:58,880
+does, they're called chylomicrons, that has one molecule of ApoB48. The intestine can put it in
+
+126
+00:12:58,880 --> 00:13:05,360
+your lymphatics, it enters the systemic circulation, the liver just secretes it directly. So those are
+
+127
+00:13:05,360 --> 00:13:09,840
+the two types of ApoB. We're not going to talk a lot about chylomicrons. They're in most people
+
+128
+00:13:09,840 --> 00:13:17,200
+without a pathological, genetic pathological issue. It's not your chylomicrons that are the major
+
+129
+00:13:17,200 --> 00:13:24,000
+problem here. They're a postprandial lipoprotein. So the liver makes these ApoB100 particles,
+
+130
+00:13:24,000 --> 00:13:29,120
+and they can go out, the liver can secrete them, but some of the particles that the liver secretes
+
+131
+00:13:29,120 --> 00:13:34,560
+can be catabolized into smaller and smaller versions, even though they're still ApoB proteins.
+
+132
+00:13:34,560 --> 00:13:40,160
+So if we're going to talk about the ApoB100 family, and I'm probably not going to use the term 100
+
+133
+00:13:40,160 --> 00:13:47,520
+anymore, we're talking about very low density lipoproteins, intermediate density lipoproteins,
+
+134
+00:13:47,520 --> 00:13:54,800
+and low density lipoproteins. And of course, part of the LDL family is lipoprotein little a,
+
+135
+00:13:54,800 --> 00:14:00,800
+if you happen to produce that, not everybody does, to significant amounts. The names of those
+
+136
+00:14:00,800 --> 00:14:06,400
+particles, as you know, they were originally discovered via ultracentafagation. So the ones
+
+137
+00:14:06,480 --> 00:14:10,880
+that floated on top of the tube with a very low density, the ones that sank to the bottom,
+
+138
+00:14:10,880 --> 00:14:19,120
+were the high density, and the in between were the IDLs and LDLs. Now, so the ApoB family is VLDLs
+
+139
+00:14:19,120 --> 00:14:26,640
+plus IDLs plus LDLs plus LP little a, if you have it. Well, that's true. But here's the reality.
+
+140
+00:14:26,640 --> 00:14:30,960
+We have to look at plasma residence times. How long do these things float around? How long are
+
+141
+00:14:30,960 --> 00:14:34,960
+they in your system? Because that's important, because these are the particles that have the
+
+142
+00:14:34,960 --> 00:14:40,320
+potential to crash your artery wall and traffic stirrulls and whatever else into the artery wall.
+
+143
+00:14:41,120 --> 00:14:46,640
+The chylomarkrons I mentioned are half-life is in minutes. They're plasma residence time a few
+
+144
+00:14:46,640 --> 00:14:54,080
+hours. The VLDL particles, their half-life is two to four to six hours, depending on how rapidly
+
+145
+00:14:54,080 --> 00:15:00,400
+they're catabolized. The IDL particles are a transient in between particle between a VLDL
+
+146
+00:15:00,400 --> 00:15:05,600
+and an LDL. They're around for an hour or two. They're not, other than an unusual genetic
+
+147
+00:15:05,600 --> 00:15:12,320
+condition, a player in this ApoB game we're talking about. And finally, we have the LDL family.
+
+148
+00:15:12,320 --> 00:15:18,960
+Now, LDLs have a plasma residence time of two to five days. And there are other attributes to the
+
+149
+00:15:18,960 --> 00:15:23,760
+LDL that determines, is it going to just hang around for two days or five days? Clearly,
+
+150
+00:15:23,760 --> 00:15:28,800
+the longer it hangs around, you're going to have a lot more LDL particles than if you could rapidly
+
+151
+00:15:28,800 --> 00:15:36,080
+clear them. So when we talk about whatever ApoB metric you're doing, technically you are measuring
+
+152
+00:15:36,080 --> 00:15:44,800
+VLDLs, their remnants, their smaller VLDLs, IDLs plus LDLs plus LP little a, but because of the
+
+153
+00:15:44,800 --> 00:15:53,680
+half-life, 90 to 95% of your ApoB particles are LDL particles. So that's why many people say,
+
+154
+00:15:53,680 --> 00:16:00,000
+hey, ApoB is just another way of getting an LDL particle count. And that's true. Even in people
+
+155
+00:16:00,000 --> 00:16:07,280
+who might have a lot of remnants, the remnant particle number is quite small. It is still way
+
+156
+00:16:07,280 --> 00:16:14,000
+more LDL particles floating around in these people who might have these random VLDLs that cause issue.
+
+157
+00:16:14,000 --> 00:16:20,080
+Not to say a VLDL remnant might not be a very injurious ApoB containing particle. It certainly
+
+158
+00:16:20,080 --> 00:16:26,080
+is in some people, but if we're looking at the number, which is the primary driving force as to
+
+159
+00:16:26,080 --> 00:16:34,720
+how an ApoB particle enters the artery wall, LDL is king. And that's why our metrics of ApoB or LDL
+
+160
+00:16:34,720 --> 00:16:40,560
+particle count are what are at the top of all the guidelines. And of course the metric most people
+
+161
+00:16:40,560 --> 00:16:46,480
+use are LDL cholesterol and non-HDL cholesterol. I mean, Tom, on a personal level, the reason I
+
+162
+00:16:46,480 --> 00:16:53,840
+have switched to ApoB in our practice, which is obviously heavily influenced by the work that
+
+163
+00:16:53,840 --> 00:16:59,680
+you've discussed, the work that people like Alan Snyderman have been doing for many years, frankly,
+
+164
+00:16:59,680 --> 00:17:07,600
+comes down to a consistency factor. So we had historically relied on LDL-P, LDL particle number,
+
+165
+00:17:07,600 --> 00:17:14,000
+as a concentration count. But frankly, in the span of eight years, went through three
+
+166
+00:17:14,000 --> 00:17:22,320
+technologies to do that, right? Two generations of NMR coupled with electrophoresis. And while in
+
+167
+00:17:22,320 --> 00:17:29,040
+the end we felt the electrophoresis provided the most accurate measurement, you always have a
+
+168
+00:17:29,040 --> 00:17:38,560
+problem when you don't know what you're comparing it to. So if we have Gen 1 NMR, which is probably
+
+169
+00:17:38,560 --> 00:17:46,320
+still being used by LabCorp and Quest today, that is probably quite inaccurate compared to Gen 2 NMR,
+
+170
+00:17:47,360 --> 00:17:53,920
+but the percentiles, meaning the populations of people that were measured, are still what we use
+
+171
+00:17:53,920 --> 00:18:00,880
+to understand where someone lies. It puts you in a bit of a dilemma. As a clinician or as a patient,
+
+172
+00:18:00,880 --> 00:18:05,120
+you want to continually upgrade your technology. In other words, if you're talking about getting a
+
+173
+00:18:05,200 --> 00:18:11,600
+new iPhone, you don't really care that your phone is so much better than two generations ago's phone,
+
+174
+00:18:11,600 --> 00:18:16,720
+because all your metrics are better and there's nothing to be gained by comparing yourself to
+
+175
+00:18:16,720 --> 00:18:22,000
+how much better you are. But when you're talking about diagnostics, it does matter where your
+
+176
+00:18:22,000 --> 00:18:28,560
+reference range is and if you're moving it. So do you agree with my logic for switching to APO-B
+
+177
+00:18:28,560 --> 00:18:35,440
+a year ago as now being a much more homogeneous way to assess patients even across labs? So
+
+178
+00:18:35,440 --> 00:18:42,960
+especially now in light of COVID, we can't always use the same lab to measure APO-B. So I might be
+
+179
+00:18:42,960 --> 00:18:47,360
+sending a patient to one lab versus another lab and I just feel like we're getting better results
+
+180
+00:18:47,360 --> 00:18:53,520
+this way. Does that jive with you? No, that makes total sense. And a real important take-home point
+
+181
+00:18:53,520 --> 00:19:00,800
+for listeners is pick your favorite metric. Peter's right now is APO-B, mine right now is APO-B,
+
+182
+00:19:00,800 --> 00:19:07,200
+and stick with it. Don't do APO-B this time in an LDL particle count via NMR. Peter didn't even
+
+183
+00:19:07,200 --> 00:19:13,040
+mention Quest has a particle number technique called ion mobility transfer that people are,
+
+184
+00:19:13,040 --> 00:19:20,080
+they're not comparable. All biomarkers you should consistently try and use, of course the same lab,
+
+185
+00:19:20,080 --> 00:19:25,360
+not always possible, but the same assay. And the APO-B immunoassay is pretty standard throughout
+
+186
+00:19:25,360 --> 00:19:31,680
+the industry. It's not like everybody's got their own APO-B assay. The NMR can vary widely. The
+
+187
+00:19:31,680 --> 00:19:39,040
+other big reason to do that, consistency of results over time, is sooner or later yourself,
+
+188
+00:19:39,040 --> 00:19:43,360
+you're going to read the guideline or maybe your patients are going to go, all the guidelines talk
+
+189
+00:19:43,360 --> 00:19:51,360
+about APO-B. There is no guideline telling you to do a NMR LDL-P or an ion mobility LDL-P. So it's
+
+190
+00:19:51,360 --> 00:19:57,440
+another reason to just stick with the APO-B. And I think there are less false positives with the
+
+191
+00:19:57,440 --> 00:20:03,840
+APO-B. It's just been my personal experience. I've been an NMR guy all my life and as we got better
+
+192
+00:20:03,840 --> 00:20:10,720
+and better, we just so often saw totally unexplainable discordance between LDL-P and APO-B.
+
+193
+00:20:11,600 --> 00:20:16,480
+That that is overwhelming for APO-B. So I think that's where you should be in today's world,
+
+194
+00:20:16,480 --> 00:20:21,440
+as your marker of atherogenic lipoproteins. Yeah, I think we saw that, especially with the
+
+195
+00:20:21,440 --> 00:20:27,920
+second generation NMR. It was almost like it had become too sensitive. We were seeing discordance
+
+196
+00:20:27,920 --> 00:20:33,360
+that far exceeded what the Framingham or Mesa data predicted the discordance should have been.
+
+197
+00:20:34,080 --> 00:20:39,520
+And that's really actually what took us to the ion mobility assay. But again, I'm actually very,
+
+198
+00:20:40,160 --> 00:20:44,080
+from a diagnostic and management standpoint, I'm actually quite comfortable with where we are.
+
+199
+00:20:44,080 --> 00:20:49,280
+I think the final point I'd add to that, Tom, is just the economic one. Frankly, I think the cost
+
+200
+00:20:49,280 --> 00:20:54,320
+of an APO-B is, at least in Canada. And the only reason I know that is because Alan Snyderman is at
+
+201
+00:20:54,320 --> 00:20:59,680
+McGill and he's been pounding this for a while. I mean, we're talking about a three or four dollar
+
+202
+00:20:59,680 --> 00:21:06,240
+test. So there is no excuse for any physician to say, we're not going to order your fancy APO-B
+
+203
+00:21:06,240 --> 00:21:12,720
+because it costs too much. I'm going to order the LDL cholesterol. I think that excuse has lost
+
+204
+00:21:12,720 --> 00:21:18,160
+all of its water. It's so true. And Alan just published a beautiful paper where he's researched
+
+205
+00:21:18,160 --> 00:21:23,120
+the cost of APO-B assays, because, you know, even some of the people in the guidelines always,
+
+206
+00:21:23,120 --> 00:21:30,560
+oh, we can't say APO-B, it's so expensive. That's an old excuse that is no longer applicable to 2020.
+
+207
+00:21:30,640 --> 00:21:36,160
+So of all the technologies to quantitate atherogenic lipoproteins, APO-B is the most
+
+208
+00:21:36,160 --> 00:21:41,520
+affordable. And even, you know, look, labs sometimes change crazy. But if you tell a lab
+
+209
+00:21:41,520 --> 00:21:48,720
+you want to pay a cash price, it's really pretty cheap. Yeah. Let's go back to kind of the macro
+
+210
+00:21:48,720 --> 00:21:56,240
+point here around APO-B, which is a greater coalescing around the idea that APO-B concentration
+
+211
+00:21:56,320 --> 00:22:04,880
+matters. So I think it's very well understood that two of the biggest risk factors for cardiovascular
+
+212
+00:22:04,880 --> 00:22:10,480
+disease are smoking and hypertension. I don't think there is any ambiguity that cigarette
+
+213
+00:22:10,480 --> 00:22:16,640
+smoking and high blood pressure increase the risk of cardiovascular disease. And they both appear to
+
+214
+00:22:16,640 --> 00:22:22,720
+do so through a mechanism that weakens the endothelium or creates an injury to the endothelium.
+
+215
+00:22:23,680 --> 00:22:32,960
+The question now becomes, as you put it, Tom, how ironclad is the story that it's the APO-B bearing
+
+216
+00:22:32,960 --> 00:22:40,240
+particle in the presence of injured endothelium that is the Trojan horse that begins this
+
+217
+00:22:40,240 --> 00:22:49,360
+destructive trajectory of taking that cholesterol into the subendithelial space, becoming retained,
+
+218
+00:22:49,520 --> 00:22:55,760
+undergoing this chemical oxidation process, which then kicks off an inflammatory response
+
+219
+00:22:55,760 --> 00:23:03,040
+that paradoxically, as an attempt to repair the damage, results in what can be a fatal injury.
+
+220
+00:23:03,040 --> 00:23:08,560
+There are other hypotheses, for example, there are people who note, and we have, I mean, look,
+
+221
+00:23:08,560 --> 00:23:13,360
+I have a patient in our practice, Tom, you've weighed in on her case, walks around with a
+
+222
+00:23:13,360 --> 00:23:20,160
+total cholesterol of 300 and something, an LDL cholesterol of 220 milligrams per deciliter,
+
+223
+00:23:20,800 --> 00:23:28,560
+an APO-B of 170 milligrams per deciliter. She's in her late 60s and her coronary artery calcium
+
+224
+00:23:28,560 --> 00:23:34,160
+score is zero. We have elected to not treat her with any lipid lowering therapy. In other words,
+
+225
+00:23:34,160 --> 00:23:43,120
+there are exceptions to this. How do we reconcile that? Well, it's the human body in medicine. As you
+
+226
+00:23:43,120 --> 00:23:48,000
+know, not all smokers are going to come down with lung cancer or chronic obstructive lung disease.
+
+227
+00:23:48,000 --> 00:23:54,320
+Why not? If that's such a horrible risk factor. I try to explain this, and I've certainly seen
+
+228
+00:23:54,320 --> 00:23:59,760
+cases like you say where, oh my God, if I was just going to say, give me your APO-B or whatever
+
+229
+00:23:59,760 --> 00:24:05,040
+cholesterol metric, you're going on three drugs right now, you got no choice. And maybe the old
+
+230
+00:24:05,040 --> 00:24:10,880
+days we approach people that way, but no more. I think you have to individualize your whatever
+
+231
+00:24:10,880 --> 00:24:17,360
+risk factors you discover that might wind up causing atherogenesis and then figure it out.
+
+232
+00:24:17,360 --> 00:24:24,320
+So particle number is certainly a major factor that might force it in, but not always. Endothelial
+
+233
+00:24:24,320 --> 00:24:29,440
+function, although you can certainly, if you review the history of this and how do you really
+
+234
+00:24:29,440 --> 00:24:35,200
+determine endothelial function, not everybody has serious endothelial dysfunction who winds up with
+
+235
+00:24:35,280 --> 00:24:40,400
+atherosclerosis. So particle number itself, and some people can just make the particles go in.
+
+236
+00:24:40,400 --> 00:24:46,160
+I think if we take most adults who's not going to have a little bit of endothelial dysfunction, so
+
+237
+00:24:46,160 --> 00:24:52,960
+I agree with you, it's a combination of something about atherogenic particles, be it their number,
+
+238
+00:24:52,960 --> 00:24:59,200
+endothelial dysfunction. But I'm talking more and more now when I discuss any type of lipoprotein,
+
+239
+00:24:59,200 --> 00:25:03,760
+I don't care which subgroup you want to talk about. I think we certainly have to know it's
+
+240
+00:25:03,760 --> 00:25:10,320
+particle concentration, but I like to talk about particle quality. So what are the other attributes
+
+241
+00:25:10,320 --> 00:25:17,360
+of any lipoprotein that might contribute to its atherogenicity or in some perhaps not understood
+
+242
+00:25:18,480 --> 00:25:23,440
+make it relatively, it's not going to generate atherosclerosis. And there certainly have to be
+
+243
+00:25:23,440 --> 00:25:28,240
+things like that going on. So as we're getting smarter, we're looking at other components of
+
+244
+00:25:28,240 --> 00:25:33,840
+the lipoproteins that could be other proteins that are on them that could be their complex
+
+245
+00:25:33,840 --> 00:25:41,520
+lipidome. And trying to see, aha, can that help us discern whether in you, a given particle
+
+246
+00:25:41,520 --> 00:25:49,520
+concentration is more worrisome than it is in the next person. So there's a lot going on. And also,
+
+247
+00:25:49,520 --> 00:25:55,040
+from the gist of this conversation, listeners will know atherosclerosis, atherogenesis is a
+
+248
+00:25:55,120 --> 00:26:02,160
+multi complex, multi factorial disease. And that's why even when Peter and I, if we consult on a case
+
+249
+00:26:02,160 --> 00:26:08,400
+and we realize in this person, we have to beat up Apo B and get their particle numbers to a more
+
+250
+00:26:08,400 --> 00:26:14,400
+physiologic range, we don't stop once we do that. We examine in great detail for other things that
+
+251
+00:26:14,400 --> 00:26:20,320
+might be injuring the endothelium or the arterial wall and see are any of those treatable or so.
+
+252
+00:26:20,320 --> 00:26:24,800
+So we're getting a little bit smarter on lipoproteins, but there certainly is more to it than just
+
+253
+00:26:24,800 --> 00:26:30,720
+particle number. Do we think that there's a limit to where the benefit of reduction
+
+254
+00:26:31,440 --> 00:26:38,320
+becomes diminishing or even J curves in the other direction? So we discussed it in the first episode
+
+255
+00:26:38,320 --> 00:26:45,520
+significantly. We did so again with Ron Krauss. It wouldn't be the worst idea in the world a couple
+
+256
+00:26:45,520 --> 00:26:50,400
+of years from now to sit down and do it again and reexamine the data. But again, I think the causal
+
+257
+00:26:50,400 --> 00:26:57,360
+relationship between Apo B and atherosclerosis is as strong as virtually anything we see in medicine
+
+258
+00:26:58,240 --> 00:27:02,720
+for which you can't do the perfect experiment where you have to rely on natural experiments.
+
+259
+00:27:04,000 --> 00:27:10,400
+Nevertheless, maybe it's not entirely clear what the dose response looks like. So if you have
+
+260
+00:27:10,400 --> 00:27:16,240
+somebody whose Apo B is 160 milligrams per deciliter, there's a risk reduction that comes
+
+261
+00:27:16,240 --> 00:27:23,360
+to lowering it from 160 to 100 and lowering it from 100 to 80 and lowering it from 80 to 60.
+
+262
+00:27:23,360 --> 00:27:31,520
+What do we know about the risk reduction in lowering it, say from 60 to 40 to 20? And I ask
+
+263
+00:27:31,520 --> 00:27:36,880
+both what we could infer pharmacologically and non-pharmacologically. In other words,
+
+264
+00:27:36,880 --> 00:27:43,600
+from the Mendelian randomization versus the pharmacologic. Well, even using pharmacologic
+
+265
+00:27:43,600 --> 00:27:49,040
+trials and Mendelian randomization, the concept you're going to come across with is lower is
+
+266
+00:27:49,040 --> 00:27:55,120
+better. And with the pharmacologic thing, we're modulating things that either have clinical trial
+
+267
+00:27:55,120 --> 00:28:00,560
+proof that if you lower them, it's good or the Mendelian randomization, looking at genes where
+
+268
+00:28:00,560 --> 00:28:07,600
+that drug might be doing something, it works. Now you do need a few Apo B containing lipoproteins.
+
+269
+00:28:07,600 --> 00:28:12,960
+They do traffic other lipids. They traffic fat-soluble lipoproteins. But we must never
+
+270
+00:28:12,960 --> 00:28:19,440
+confuse A-beta lipoproteinemia where nobody, or that person can't make them, or hypo-beta
+
+271
+00:28:19,440 --> 00:28:25,200
+lipoproteinemia where they make a few enough to traffic those other things that a lipoprotein
+
+272
+00:28:25,200 --> 00:28:32,160
+might have to traffic. But even the guidelines where they examine people looking at their baseline
+
+273
+00:28:32,160 --> 00:28:37,200
+Apo B or LDL cholesterol, the first thing they suggest, at least in the higher risk people,
+
+274
+00:28:37,200 --> 00:28:42,560
+is try and get a 50% reduction. And that's where most of the bang for the buck is going to be.
+
+275
+00:28:42,960 --> 00:28:48,960
+Now, if you still have options that you can lower it further, yeah, the trials show, yeah,
+
+276
+00:28:48,960 --> 00:28:55,280
+there is incremental reduction events, but it's a much smaller absolute risk reduction and dropping
+
+277
+00:28:55,280 --> 00:29:03,040
+it the 50% or so. So I don't know if that answers your question. So most people don't have the type
+
+278
+00:29:03,040 --> 00:29:11,360
+of levels where with modern therapeutics, with modern lifestyle, we can more often than not attain
+
+279
+00:29:11,360 --> 00:29:17,280
+physiologic concentrations. And if I want to talk about Apo B, that's probably under 50 milligrams
+
+280
+00:29:17,280 --> 00:29:23,680
+per deciliter, if we can get there. That's what the newborns have. That's when you go in clinical
+
+281
+00:29:23,680 --> 00:29:29,440
+trials, if you take it down that low, you see your most risk reduction. And so far, at least with
+
+282
+00:29:29,440 --> 00:29:36,640
+pharmacologic lowering of Apo B with the currently FDA approved drugs, there is no signal of harm.
+
+283
+00:29:37,600 --> 00:29:42,960
+Yeah, again, it's funny because I was just about to say with the current crop of drugs,
+
+284
+00:29:42,960 --> 00:29:52,080
+specifically the PCSK9 inhibitors, we are routinely seeing patients who easily can get an Apo B into
+
+285
+00:29:52,080 --> 00:29:58,880
+the 20 to 40 milligram per deciliter range. You and I actually sat down a couple of months ago
+
+286
+00:29:58,880 --> 00:30:06,240
+and did a calculation to estimate how much cholesterol is actually contained in the
+
+287
+00:30:06,240 --> 00:30:11,840
+circulating lipoproteins versus that which is in cell membranes. Do you remember doing this with me?
+
+288
+00:30:13,200 --> 00:30:19,120
+Not per se, but and where we're developing equations, you're the master of that.
+
+289
+00:30:19,120 --> 00:30:23,280
+Well, it was one of these things, right? It was sort of like, look, when you look at a person's
+
+290
+00:30:23,280 --> 00:30:30,800
+plasma glucose level, you realize pretty quickly it represents a tiny fraction of total body glucose.
+
+291
+00:30:30,800 --> 00:30:36,800
+And similarly, there's such a concern about plasma cholesterol level, but, you know,
+
+292
+00:30:37,600 --> 00:30:42,320
+given how essential cholesterol is, it's understandable why people would be concerned
+
+293
+00:30:42,320 --> 00:30:46,560
+that low cholesterol could be problematic. But once you do the calculation and realize
+
+294
+00:30:47,280 --> 00:30:54,160
+virtually all of the cholesterol in the body is contained within the cell membrane or within the
+
+295
+00:30:54,160 --> 00:31:01,120
+steroidal producing tissue, the circulating amount is a very narrow window into the total
+
+296
+00:31:01,120 --> 00:31:09,680
+amount of cholesterol and therefore a reduction of say 60 milligrams per deciliter to 50 milligrams
+
+297
+00:31:09,680 --> 00:31:16,480
+per deciliter of ApoB or even something more extreme like a full 50% reduction of total
+
+298
+00:31:16,480 --> 00:31:23,200
+cholesterol, 200 milligrams per deciliter to 100 milligrams per deciliter does not represent
+
+299
+00:31:23,200 --> 00:31:27,200
+a significant reduction in total body cholesterol. This is a very important point,
+
+300
+00:31:27,200 --> 00:31:32,960
+right? Let me repeat it. You have a total body cholesterol that you measure in the plasma that
+
+301
+00:31:32,960 --> 00:31:38,000
+says, oh, it's 200 milligrams per deciliter. That goes down to 100 milligrams per deciliter. Let's
+
+302
+00:31:38,000 --> 00:31:44,400
+say the LDL fraction reduced from, you know, 150 to 75 or something. Someone might say, God,
+
+303
+00:31:44,400 --> 00:31:49,600
+you just cut cholesterol in half. That can't be good for you given the importance of cholesterol.
+
+304
+00:31:49,600 --> 00:31:55,040
+But my point is no, you simply cut the amount of cholesterol being carried by the lipoproteins in
+
+305
+00:31:55,040 --> 00:32:01,040
+the plasma in half. That doesn't capture the majority of the cholesterol. Yes. Thanks for
+
+306
+00:32:01,040 --> 00:32:06,640
+refreshing my memory. What you're talking about now, it's really pools of cholesterol throughout
+
+307
+00:32:06,640 --> 00:32:12,800
+the body. And I think I'm so glad you brought this up because this is just not even understood,
+
+308
+00:32:12,800 --> 00:32:19,200
+even in the lipidology community. We have a total body cholesterol. There are basically three pools.
+
+309
+00:32:19,200 --> 00:32:23,520
+There's your brain and nothing we're talking about today has anything to do with brain
+
+310
+00:32:23,520 --> 00:32:28,320
+cholesterol. It's a separate system. It doesn't interact with the other cells in your body or
+
+311
+00:32:28,320 --> 00:32:33,920
+certainly with the cholesterol in your plasma. So if it's not in your brain, where is cholesterol
+
+312
+00:32:33,920 --> 00:32:39,200
+in your body? Well, it's either in all your peripheral cells, perhaps some more than others,
+
+313
+00:32:39,200 --> 00:32:45,680
+or it's circulating in your plasma. And if it's in the plasma, where is it? There's an
+
+314
+00:32:45,680 --> 00:32:52,320
+easy weensie amount bound to albumin. There's more bound within all of the lipoproteins that
+
+315
+00:32:52,320 --> 00:32:58,480
+are trafficking in your body, meaning your ApoB and your ApoA1 particles. But believe it or not,
+
+316
+00:32:58,480 --> 00:33:04,000
+if I wanted to search down blood cholesterol for you, I would suck out your red blood cells and
+
+317
+00:33:04,000 --> 00:33:10,320
+extract cholesterol from them. Red blood cells carry far, far more cholesterol than do all of
+
+318
+00:33:10,320 --> 00:33:16,320
+your lipoproteins put together. And the other crucial point you made subtly, and I hope everybody
+
+319
+00:33:16,320 --> 00:33:22,480
+understood you, the amount of cholesterol within your lipoproteins has no correlation with your
+
+320
+00:33:22,480 --> 00:33:28,000
+cellular cholesterol or even your red blood cell cholesterol. So whatever, however you're
+
+321
+00:33:28,000 --> 00:33:35,440
+modulating some LDL, total cholesterol, HDL cholesterol metric, that tells you nothing about
+
+322
+00:33:35,440 --> 00:33:42,320
+what might you be doing to the cholesterol content of your cells. So don't have a panic attack if
+
+323
+00:33:42,320 --> 00:33:47,840
+you're making LDL cholesterol 30, because I can assure you virtually every cell in your body,
+
+324
+00:33:47,840 --> 00:33:53,040
+even if that's your plasma LDL cholesterol, has more than enough cholesterol because it can
+
+325
+00:33:53,040 --> 00:33:58,240
+de novo synthesize it, it can put it in its cell membranes or other organelles that require
+
+326
+00:33:58,240 --> 00:34:04,800
+cholesterol. If it's a storogenic tissue, it can produce a little more or perhaps dilipidate some
+
+327
+00:34:04,800 --> 00:34:11,200
+life. So there's no cell that's being deprived of cholesterol in the periphery when you are
+
+328
+00:34:11,200 --> 00:34:18,080
+modulating lipids through lifestyle or drugs. Tom, what's the best explanation for why it's
+
+329
+00:34:18,080 --> 00:34:25,840
+not the red blood cell that is the primary driver of atherosclerosis given the fact you just stated,
+
+330
+00:34:25,840 --> 00:34:32,480
+which is red blood cells contain within them a lot of cholesterol within their membranes and
+
+331
+00:34:32,480 --> 00:34:40,000
+red blood cells clearly traffic to and from past the endothelium. I certainly have my own answer
+
+332
+00:34:40,000 --> 00:34:44,960
+for this question. I think the histology makes it abundantly clear. But is there any thought you
+
+333
+00:34:44,960 --> 00:34:51,520
+would add to that? No, I think histologically, we know it's foam cells. And where do foam cells get
+
+334
+00:34:51,520 --> 00:34:58,320
+their sterile content from ingesting oxidized lipoproteins carrying cholesterol is the vasovisorum,
+
+335
+00:34:58,320 --> 00:35:03,520
+which supplies the arterial intimate with blood cells dumping red blood cells in there that are
+
+336
+00:35:03,520 --> 00:35:09,280
+contributing cholesterol, maybe a few molecules, but I don't think we have any evidence. It's that's
+
+337
+00:35:09,280 --> 00:35:15,520
+a driver of cholesterol that's resulting in arterial wall pathology. Yeah, this is one of
+
+338
+00:35:15,520 --> 00:35:19,760
+those moments where sometimes a picture just serves a thousand words. And maybe this will be
+
+339
+00:35:19,760 --> 00:35:23,360
+one of the best. I mean, we're going to obviously accompany this podcast with a
+
+340
+00:35:23,360 --> 00:35:28,640
+a lot of figures and diagrams of yours. But what we're basically talking about is you have to
+
+341
+00:35:28,640 --> 00:35:36,320
+differentiate from the vasovisorum side, which is the non-luminal side of the vessel, where of course
+
+342
+00:35:36,400 --> 00:35:43,600
+you have to have blood vessels to keep the artery itself alive versus the luminal side, where the
+
+343
+00:35:43,600 --> 00:35:50,240
+endothelial lining is damaged by everything, including just daily life, but certainly high
+
+344
+00:35:50,240 --> 00:35:57,120
+blood pressure, smoking, uric acid, high glucose, high insulin, shear forces, you name it. And that's
+
+345
+00:35:57,120 --> 00:36:01,440
+what's allowing these lipoproteins in. But you're right, it's really this histologic examination that
+
+346
+00:36:01,440 --> 00:36:09,920
+makes a very clear, unmistakable case that it's not the cholesterol in the membrane that's doing
+
+347
+00:36:09,920 --> 00:36:15,440
+this. It's this trafficked cholesterol that ultimately becomes a foam cell through the
+
+348
+00:36:15,440 --> 00:36:23,520
+macrophages ingestion of the lipoprotein that is the insult. That's a pretty good tour de force
+
+349
+00:36:23,520 --> 00:36:29,440
+on this topic. One more little caveat, Peter, with that vasovisorum, as you know, as you have
+
+350
+00:36:29,440 --> 00:36:34,400
+an evolving plaque, it gets bigger and bigger and it becomes prone to erosion or rupture
+
+351
+00:36:34,400 --> 00:36:41,120
+and the coagulation system. So there's nothing to say that even in a minuscule histologic rupture
+
+352
+00:36:41,120 --> 00:36:46,000
+of a plaque that the vasovisorum can't be contributing some clotting factors or something
+
+353
+00:36:46,000 --> 00:36:51,280
+else to that pathological process. It almost assuredly does. At some point, once you have
+
+354
+00:36:51,280 --> 00:36:57,680
+damage, I would fully expect coagulation factors to be coming from both sides, the luminal side
+
+355
+00:36:57,680 --> 00:37:02,640
+and the vasovisorum side. It's an all hands on deck war. And the uric acid too, probably,
+
+356
+00:37:02,640 --> 00:37:07,520
+you know, which can crystallize just like cholesterol. You touched on it in the
+
+357
+00:37:07,520 --> 00:37:16,400
+outset, which is what have the guidelines stated with respect to other lipoproteins? So if we take
+
+358
+00:37:16,400 --> 00:37:24,080
+a step back and we went back to the early 1980s, right, in the early 1980s, when we were just
+
+359
+00:37:24,080 --> 00:37:29,600
+beginning to talk about the subfractionation of cholesterol. So little history lesson for people.
+
+360
+00:37:29,600 --> 00:37:41,200
+It's 1959-ish, early 1960s. Ansel Keys is clearly on to something and he is identifying a relationship
+
+361
+00:37:41,200 --> 00:37:46,400
+between serum cholesterol and coronary artery disease. He's correctly identifying a relationship.
+
+362
+00:37:47,040 --> 00:37:50,320
+And at the time, they're doing very rudimentary assessments saying, hey,
+
+363
+00:37:50,800 --> 00:37:56,640
+if you take the people who are in the top 10% of serum cholesterol and you compare them to the
+
+364
+00:37:56,640 --> 00:38:02,640
+people in the bottom 10% of serum total cholesterol, there's a profound difference in atherosclerosis.
+
+365
+00:38:03,440 --> 00:38:07,600
+Most people are not familiar with how that history went and, you know, where it got
+
+366
+00:38:07,600 --> 00:38:12,800
+taken off the rails a little bit by what might be the root cause of those things. But nevertheless,
+
+367
+00:38:12,800 --> 00:38:19,040
+it was pretty clear into the 1960s and 70s that something about serum cholesterol mattered.
+
+368
+00:38:19,680 --> 00:38:24,560
+Eventually, people began to, as you pointed out, Tom, begin to fractionate those things. So it
+
+369
+00:38:24,560 --> 00:38:29,600
+wasn't just about total cholesterol. It became about different densities of those
+
+370
+00:38:29,600 --> 00:38:34,880
+cholesterol. And these lipoproteins, some of them were lighter, some of them were heavier and really
+
+371
+00:38:34,880 --> 00:38:39,760
+light and heavier, the wrong words. They had different densities. But one that emerged pretty
+
+372
+00:38:39,760 --> 00:38:46,560
+quickly as a contrast to the low density lipoprotein was the high density lipoprotein.
+
+373
+00:38:47,520 --> 00:38:54,240
+And through all of the epidemiologic work that emerged in the late 70s and into the early 80s,
+
+374
+00:38:55,120 --> 00:39:00,880
+and that also, by the way, continued into the 90s through the work of Jerry Reven,
+
+375
+00:39:00,880 --> 00:39:05,120
+as he was in the early stages of identifying what would be called metabolic syndrome at the time
+
+376
+00:39:05,120 --> 00:39:12,640
+called syndrome X, it became clear that higher levels of cholesterol in the HDL particle,
+
+377
+00:39:13,360 --> 00:39:19,440
+which unfortunately is erroneously often referred to as high good cholesterol, had a positive
+
+378
+00:39:19,440 --> 00:39:25,360
+association, the opposite of what we have just been describing, which is high levels of cholesterol
+
+379
+00:39:25,360 --> 00:39:31,520
+in the LDL particle. There's a lot less talk of that today, at least amongst the people who know
+
+380
+00:39:31,520 --> 00:39:34,800
+what they're talking about. Unfortunately, there's still a lot of people who talk about that in
+
+381
+00:39:34,800 --> 00:39:41,840
+social media. But why is it that we aren't sitting here in the guidelines talking about HDL
+
+382
+00:39:41,920 --> 00:39:47,120
+cholesterol, the so-called quote unquote, I hate to use this word, good cholesterol.
+
+383
+00:39:48,560 --> 00:39:54,400
+And you know, I'm in your corner. I'm that one. Folks, there's one cholesterol molecule. I don't
+
+384
+00:39:54,400 --> 00:39:59,760
+care whether it's in your cell, whether it's in any lipoprotein in your brain. If I drew you the
+
+385
+00:39:59,760 --> 00:40:05,440
+structure of cholesterol, it's identical. So how dare we put an adjective on it like that's good.
+
+386
+00:40:05,440 --> 00:40:10,000
+And that's bad. How do you know? So you don't. So they're silly terms, but they,
+
+387
+00:40:10,000 --> 00:40:15,920
+they sort of evolved for a good reason. And this is a wonderful historical journey that you really
+
+388
+00:40:15,920 --> 00:40:22,640
+have to do to figure out why did HDL have like such importance? And now it's an afterthought.
+
+389
+00:40:23,280 --> 00:40:28,480
+Although it's an afterthought, I must say virtually all of the current risk algorithms that are used
+
+390
+00:40:28,480 --> 00:40:35,680
+to classify you as are you at high, very high, moderate or low risk still use the metric HDL
+
+391
+00:40:35,680 --> 00:40:43,920
+cholesterol to determine that because the data is just 40, 50 years old. The problem with HDL
+
+392
+00:40:43,920 --> 00:40:49,200
+cholesterol as a metric is all those studies that seems to suggest a higher is better or lower is
+
+393
+00:40:49,200 --> 00:40:56,320
+worse, we're never adjusted for anything else. So, you know, observational type data. Aha. I found
+
+394
+00:40:56,320 --> 00:41:01,520
+the answer. Here it is. You got blue eyes and everybody with blue eyes gets this, that, or whatever.
+
+395
+00:41:01,520 --> 00:41:06,960
+And of course you never adjusted for, oh, wait a minute. Everybody with the blue eyes has this
+
+396
+00:41:06,960 --> 00:41:14,800
+lethal thing going on also. So in retrospect, it turns out that the overwhelming majority of people
+
+397
+00:41:14,800 --> 00:41:21,920
+who might have low HDL cholesterol have a high APL B level. And that's what drives their atherosclerosis.
+
+398
+00:41:21,920 --> 00:41:29,200
+So all guidelines, even though they might do your baseline risk using an APL B metric like total or
+
+399
+00:41:29,200 --> 00:41:35,440
+LDL cholesterol, they'll use HDL cholesterol as trying to figure out the lipid component to your
+
+400
+00:41:35,440 --> 00:41:40,960
+wrist. They use smoking and blood pressure and other things Peter talked about also. When they
+
+401
+00:41:40,960 --> 00:41:46,880
+get to goals of therapy, though, only because we have multiple trials now where for decades people
+
+402
+00:41:46,880 --> 00:41:52,000
+have been trying this, that and everything to raise HDL cholesterol, because if high is better
+
+403
+00:41:52,000 --> 00:41:57,840
+than low raising, it has to be fantastic. And not a single trial has ever panned out that what you
+
+404
+00:41:57,920 --> 00:42:03,360
+do to HDL cholesterol results in cardiovascular benefit. Let's pause there for one sec, Tom,
+
+405
+00:42:03,360 --> 00:42:10,640
+and just make sure people understand that there have been multiple trials using at least two,
+
+406
+00:42:10,640 --> 00:42:18,720
+maybe more technical approaches to raise that number that is unambiguously associated with
+
+407
+00:42:18,720 --> 00:42:24,160
+better outcomes. Is that correct? No, there are no clinical trials that would support raising. No,
+
+408
+00:42:24,160 --> 00:42:27,440
+no, no, no, no. I'm sorry. There have been multiple clinical trials that have attempted to
+
+409
+00:42:27,440 --> 00:42:32,720
+raise HDL cholesterol. That's true. Yes. And it's more than two drugs. There are other drugs that.
+
+410
+00:42:32,720 --> 00:42:36,960
+Yeah, I think more than two mechanisms of action. Correct. At least two that I can think of. There
+
+411
+00:42:36,960 --> 00:42:41,440
+might be, there's probably three mechanisms of action that have been, that would all raise HDL
+
+412
+00:42:41,440 --> 00:42:49,440
+cholesterol. But the point that you made that is, should not be lost on anyone is at best those
+
+413
+00:42:49,440 --> 00:42:56,080
+trials have been neutral. As have the Mendelian randomization trials looking at genetics,
+
+414
+00:42:56,080 --> 00:43:01,840
+surrogates of HDL and cardiovascular outcomes. Yes. And at worst, those trials have been harmful.
+
+415
+00:43:02,880 --> 00:43:07,280
+Yeah, there are plenty of people and you know them. You've seen them in your practice. Certainly
+
+416
+00:43:07,280 --> 00:43:13,120
+I have when I was practicing with high HDL cholesterol who are full of plaque. And we
+
+417
+00:43:13,120 --> 00:43:18,400
+do see people with low HDL cholesterol who just like you said, you see some people with high LDL
+
+418
+00:43:18,480 --> 00:43:22,960
+or total cholesterol don't have plaque. There are plenty of people with low HDL cholesterol who,
+
+419
+00:43:22,960 --> 00:43:26,880
+my God, you don't seem to have much cardiovascular risk. So there has to be,
+
+420
+00:43:26,880 --> 00:43:32,960
+if HDLs are important to the cardiovascular system and I maintain they are, the metric HDL
+
+421
+00:43:32,960 --> 00:43:37,840
+cholesterol is useless. Yeah. And this is really where I think I want to go with this. And just,
+
+422
+00:43:37,840 --> 00:43:43,760
+I mean, there's so much we could say on this, but I think it's worth maybe even just explaining
+
+423
+00:43:43,760 --> 00:43:49,760
+this very important point, right? Which is HDL cholesterol, the number that everybody sees when
+
+424
+00:43:49,760 --> 00:43:55,440
+they look at their lipid panel, that if it's below 40 milligrams per deciliter is probably flagged as
+
+425
+00:43:55,440 --> 00:44:02,880
+being too low. If it's above 70, your doctor gives you a high five that is measuring the
+
+426
+00:44:02,880 --> 00:44:09,200
+concentration of cholesterol within an HDL particle. Now it doesn't tell you anything
+
+427
+00:44:09,200 --> 00:44:14,000
+about the functionality of that particle. And this is where I think, I don't remember if it
+
+428
+00:44:14,000 --> 00:44:18,960
+was Ron Kraus that said this, but someone said this to me and I've never forgotten it. It might
+
+429
+00:44:18,960 --> 00:44:26,640
+have been Alan actually. They said, this LDL biology stuff is trivial. All you got to do is lower it.
+
+430
+00:44:27,200 --> 00:44:34,640
+It's the HDL biology that is really complicated. That's what the 21st century is going to be about.
+
+431
+00:44:34,640 --> 00:44:40,560
+We don't have a clue what we're talking about with HDL. We've been using this idiotic crude
+
+432
+00:44:40,560 --> 00:44:46,880
+metric of how much cholesterol it contains. It is now completely clear that that was the wrong
+
+433
+00:44:46,880 --> 00:44:52,880
+metric. Then any attempts to increase it were futile. We've count the number of particles.
+
+434
+00:44:52,880 --> 00:44:57,600
+We can even measure the size of them. That also appears to be almost as crude as what the
+
+435
+00:44:57,600 --> 00:45:03,760
+cholesterol concentration is. But to come up with an assay that truly measures functionality may be
+
+436
+00:45:03,760 --> 00:45:10,560
+beyond the scope of laboratories. Whereas with the APOBL side of the equation, it really appears
+
+437
+00:45:10,560 --> 00:45:15,520
+to be a stochastic problem. The more of these things you have to the first order, the more
+
+438
+00:45:15,520 --> 00:45:21,200
+problems you have, you've already alluded to other attachments to them that can add second and third
+
+439
+00:45:21,200 --> 00:45:27,040
+order terms. But I mean, do you agree with my assessment, Tom, that this HDL problem is way
+
+440
+00:45:27,040 --> 00:45:32,880
+harder and we don't have a clue what we're talking about? It's just so perfect what you've just said
+
+441
+00:45:32,880 --> 00:45:39,200
+in the last few minutes. We all use laboratory metrics to try and figure out what a given
+
+442
+00:45:39,200 --> 00:45:45,040
+biomarker tells us and what we can do about it. The only metric that's really available to the
+
+443
+00:45:45,040 --> 00:45:51,600
+world world now is HDL cholesterol, which Peter says that's the collective cholesterol mass within
+
+444
+00:45:51,600 --> 00:45:58,560
+all the HDLs that exist in a deciliter of your plasma. If you are doing ion mobility or NMRs,
+
+445
+00:45:58,560 --> 00:46:04,640
+you can get an HDL particle count. But that although it might be a tad better than HDL
+
+446
+00:46:04,640 --> 00:46:08,880
+cholesterol telling you something, there's so many exceptions to that rule that it's not a useful
+
+447
+00:46:08,880 --> 00:46:17,120
+bedside metric either. But presuming again, HDLs must perform some function in the human body.
+
+448
+00:46:17,120 --> 00:46:22,480
+And part of that function might be either preventing or putting out arterial wall
+
+449
+00:46:22,480 --> 00:46:30,720
+plaque fires that have many etiologies. How can we measure what Peter referred to as the
+
+450
+00:46:30,720 --> 00:46:37,520
+functionality of the HDL particle? Being a fireman's son, if you listened to that last podcast, I look
+
+451
+00:46:37,520 --> 00:46:43,680
+at HDLs as fire engines. But I know any fire department has about 10 different types of
+
+452
+00:46:43,680 --> 00:46:48,640
+different fire trucks. And they all supply something different that fire flutters can use
+
+453
+00:46:48,640 --> 00:46:55,600
+to extinguish a fire. Some might carry chemicals, some might carry ladders, axes, water, some carry
+
+454
+00:46:55,600 --> 00:47:00,960
+more firemen than others. So what type of fire truck do you need at a given scene? Well, it depends
+
+455
+00:47:00,960 --> 00:47:08,320
+what the heck the scene is all about. So what do HDLs do? They certainly traffic some degree of
+
+456
+00:47:08,320 --> 00:47:13,840
+cholesterol, which it turns out is probably just there for stoichiometric reasons, making a spherical
+
+457
+00:47:13,840 --> 00:47:19,920
+particle to which other things can attach. The other things that are in that HDL, remember, HDLs
+
+458
+00:47:19,920 --> 00:47:25,680
+are tiny, so they don't carry a lot of cholesterol. Here's a stat that will astound a lot of people.
+
+459
+00:47:25,680 --> 00:47:30,880
+If I took the average HDL particle, the average size HDL particle out of your plasma, how many
+
+460
+00:47:30,880 --> 00:47:37,200
+molecules of cholesterol would be inside of it? About 45. How many molecules are in the average
+
+461
+00:47:37,200 --> 00:47:44,880
+size LDL particle? About 1,500, 2,000. So the volume of a spear is the third power of the radius.
+
+462
+00:47:44,880 --> 00:47:52,240
+What might influence even the cholesterol content of 45 cholesterol molecules within an HDL? Well,
+
+463
+00:47:52,240 --> 00:47:56,800
+it's a spear. There's only so much can go in there. What if that HDL was carrying extra triglycerides
+
+464
+00:47:56,800 --> 00:48:01,200
+for whatever reason? Well, it couldn't carry very many cholesterol molecules. So that would be a
+
+465
+00:48:01,200 --> 00:48:08,560
+cholesterol depleted HDL. What if that HDL, if I had five groups of HDL particles, same size, same
+
+466
+00:48:08,560 --> 00:48:15,520
+cholesterol content, but they all had different phospholipids on their surface lipidome, or they
+
+467
+00:48:15,520 --> 00:48:21,440
+all were trafficking different proteins. They all have APOA1, but what else are they carrying? And
+
+468
+00:48:21,440 --> 00:48:27,840
+those proteins have a multitude of functions. Dan Rader years ago always told me, Tom, HDLs are part
+
+469
+00:48:27,840 --> 00:48:33,440
+of the innate immune system. They're little fire engines. They're carrying, God knows what, that
+
+470
+00:48:33,440 --> 00:48:39,760
+could go into wherever there's inflammation in your body, a swollen knee, any in-tissue injury,
+
+471
+00:48:39,760 --> 00:48:45,920
+or your arterial wall. And they could maybe help what's going on there because they're trafficking
+
+472
+00:48:45,920 --> 00:48:53,040
+immunomodulatory functionality molecules, or they could go in because, oh my God,
+
+473
+00:48:53,040 --> 00:48:59,680
+these are corrupt HDLs. They're carrying bad junk, which is further inflaming it. We have no way
+
+474
+00:48:59,680 --> 00:49:05,840
+of measuring those now. I mean, researchers can do lipidome analysis of the phospholipids,
+
+475
+00:49:05,840 --> 00:49:12,800
+the sphingolipids, the ceramides that are in HDLs. We can, you know, they've identified over 150
+
+476
+00:49:12,800 --> 00:49:18,640
+different proteins that might be on an HDL. Now, they're not all on one given HDL, but some HDLs
+
+477
+00:49:18,640 --> 00:49:23,920
+may have two of this protein, none of that. And you have different groups of HDLs. In my analysis,
+
+478
+00:49:23,920 --> 00:49:28,080
+there are different types of fire engines carrying different things. Peter, in our lifetime, there
+
+479
+00:49:28,080 --> 00:49:34,960
+will never be an affordable, reproducible, high throughput way of evaluating anything.
+
+480
+00:49:34,960 --> 00:49:41,360
+People are hanging their hats now on the ability of HDLs to efflux cholesterol from a cell. And,
+
+481
+00:49:41,360 --> 00:49:46,480
+hey, if an HDL can suck some sterols out of your foam cells, yeah, I'm kind of thinking that's
+
+482
+00:49:46,480 --> 00:49:52,080
+pretty good, but it's probably a minuscule function of the hundred other functions that HDLs
+
+483
+00:49:52,080 --> 00:49:57,040
+can do. So what if the HDL is pulling out some cholesterol, but it's dumping other crap in the
+
+484
+00:49:57,040 --> 00:50:03,760
+process? So if we ever had an HDL function panel, it's going to be a dozen or more type tests,
+
+485
+00:50:03,760 --> 00:50:08,240
+which we're not going to see because nobody's going to pay for them. The research to be done
+
+486
+00:50:08,240 --> 00:50:12,720
+to prove that these have relevance in a large clinical trial is just not going to be done.
+
+487
+00:50:12,720 --> 00:50:17,200
+So that's the dilemma. There are such panels, right? I mean, I think, I feel like I've seen
+
+488
+00:50:17,200 --> 00:50:23,440
+a couple of commercial panels that attempt to subdivide the HDL particles even further. I've
+
+489
+00:50:23,440 --> 00:50:28,000
+never personally been able to know what to do with such panels. And I, you know, these days,
+
+490
+00:50:28,000 --> 00:50:33,600
+I don't even look at APO A1 anymore. I'm really focusing most of my efforts on
+
+491
+00:50:34,320 --> 00:50:41,200
+VLDL cholesterol as a poor man's proxy for remnant triglyceride, basically as a strategy
+
+492
+00:50:41,200 --> 00:50:47,280
+for how to lower APO B, APO B, LP little a, and then focusing just frankly much more on the
+
+493
+00:50:47,280 --> 00:50:52,000
+metabolic stuff that we've talked about, the obviously glucose, insulin, homocysteine,
+
+494
+00:50:52,000 --> 00:50:58,160
+uric acid, much more aggressive stance on blood pressure. But in some ways, my lipid world has
+
+495
+00:50:58,160 --> 00:51:03,200
+become a little bit easier in light of this discussion we're having. It is because you've
+
+496
+00:51:03,200 --> 00:51:11,040
+got the ability based on analysis and understanding of things to not order the silly hocus pocus HDL
+
+497
+00:51:11,040 --> 00:51:16,320
+panels that are being offered by people as a way to generate revenue. Now look, I've been associated
+
+498
+00:51:16,320 --> 00:51:21,520
+with labs all my life. I'm not at the present time. I don't work for any lab that does or doesn't do
+
+499
+00:51:21,520 --> 00:51:26,240
+any of these tests you're talking about. But mostly those panels that you look at,
+
+500
+00:51:26,240 --> 00:51:33,120
+they're looking, they're reporting HDL size, they're reporting APO A1. Peter knows there can be from
+
+501
+00:51:33,120 --> 00:51:40,880
+one to five molecules on APO A1 on your various HDL species. So you have just a few HDLs carrying
+
+502
+00:51:40,880 --> 00:51:46,160
+a lot of APO A1 or do you have a ton of HDLs that carrying little APO A1 and that could be a
+
+503
+00:51:46,160 --> 00:51:51,680
+misleading metric. People are looking at some of these phospholipids now. Some labs are offering
+
+504
+00:51:51,680 --> 00:51:58,960
+ceramide levels or shingosine levels. But again, you can find something that might support that,
+
+505
+00:51:58,960 --> 00:52:04,080
+but then you have to weigh it against the APO B and the things that are almost beyond discussion.
+
+506
+00:52:04,080 --> 00:52:09,200
+And you would realize this is contributing nothing to me. Why am I even ordering this? Am I trying
+
+507
+00:52:09,200 --> 00:52:15,040
+to impress some patient that I can use big words and this means anything? So they're silly. I'm in
+
+508
+00:52:15,040 --> 00:52:20,960
+awe for doing research on HDL functionality and looking into it so we all get a better comprehension
+
+509
+00:52:20,960 --> 00:52:27,040
+of it. I'd love to have a test that tells us what I talk about the flux of HDL particles,
+
+510
+00:52:27,680 --> 00:52:33,760
+how do little e-C-Ween-C HDLs mature, fill up, then what do they do with that cholesterol,
+
+511
+00:52:33,760 --> 00:52:40,160
+and are they catabolized? Are they not catabolized? Are your HDLs pulling cholesterol out of an artery
+
+512
+00:52:40,160 --> 00:52:45,200
+wall and then sharing it with an LDL that might take it right back into the artery wall? So there's
+
+513
+00:52:45,200 --> 00:52:51,840
+just so many phenomenal issues to get into with HDL, but right now don't waste your money. You're
+
+514
+00:52:51,840 --> 00:52:57,440
+going to get an HDL cholesterol. Everybody's going to be doing a lipid panel. Do not waste your money,
+
+515
+00:52:57,440 --> 00:53:02,160
+time, or your brain energy on trying to figure out these HDL metrics.
+
+516
+00:53:03,680 --> 00:53:08,160
+So let's at that junction pivot now to more of the risk assessment stuff.
+
+517
+00:53:08,880 --> 00:53:16,320
+We have talked probably on at least two podcasts about LPa. You and I spoke about it during our
+
+518
+00:53:16,320 --> 00:53:21,440
+marathon podcast. I think we had an AMA segment where Bob Kaplan asked me a lot of questions
+
+519
+00:53:21,520 --> 00:53:27,680
+about LPa. It's still on my list of things to do. I'd love to have Sam Tomikas on the podcast.
+
+520
+00:53:28,320 --> 00:53:35,280
+For people who don't know, Sam is certainly among close to the world's experts on LPa.
+
+521
+00:53:36,000 --> 00:53:43,520
+And I think, frankly, a dedicated podcast on this topic is warranted, given that directionally one
+
+522
+00:53:43,520 --> 00:53:50,160
+in 10 people listening to this podcast has an elevated LPa. And it represents, unless you
+
+523
+00:53:50,160 --> 00:53:56,960
+correct me, Tom, I believe it would represent the single greatest genetic driver of atherosclerosis.
+
+524
+00:53:57,600 --> 00:54:02,560
+So here we have this thing called LPa that tragically most people don't know they have.
+
+525
+00:54:02,560 --> 00:54:07,280
+I'll tell you a funny story. Have you ever heard of this reality TV show called Alone?
+
+526
+00:54:08,160 --> 00:54:08,320
+No.
+
+527
+00:54:09,120 --> 00:54:13,920
+I don't think I've watched TV in 12 years, but it now shows up on Netflix. And I do watch Netflix
+
+528
+00:54:13,920 --> 00:54:18,080
+from time to time. So a friend of mine mentioned to me the other day, he goes, you got to check out
+
+529
+00:54:18,560 --> 00:54:24,320
+this show called Alone. It's right up your alley. They take these people who have remarkable
+
+530
+00:54:24,320 --> 00:54:28,800
+survival skills and they throw them out in the world's worst environment, 10 of them,
+
+531
+00:54:28,800 --> 00:54:34,960
+separately, of course. And basically the person who last calls uncle wins half a million bucks.
+
+532
+00:54:34,960 --> 00:54:40,960
+So I'm into season six right now, which is, it's the first one I've watched, but it's clearly into
+
+533
+00:54:40,960 --> 00:54:47,200
+a really nasty part of the Arctic. So I'm watching this and I'm just humbled by the fact that these
+
+534
+00:54:47,200 --> 00:54:53,520
+people can survive any length of time. Anyway, one of the guys in the show, you know, you learn
+
+535
+00:54:53,520 --> 00:54:58,240
+their backstory and he's, this guy looks as impressive as anybody I've ever seen, but somehow
+
+536
+00:54:58,240 --> 00:55:03,520
+it comes up that part of his motivation for doing this is he had a heart attack like the year before.
+
+537
+00:55:03,520 --> 00:55:09,520
+And I think he's 39 on the show implying that he had his heart attack at the age of 38 or thereabouts.
+
+538
+00:55:09,520 --> 00:55:13,760
+Now, if you looked at this guy, Tom, you wouldn't think this is the kind of guy that could have a
+
+539
+00:55:13,760 --> 00:55:20,800
+heart attack. I mean, he looks, he is a specimen. And of course, what's the first thing that comes
+
+540
+00:55:20,800 --> 00:55:27,440
+to my mind? Well, I've seen this story play out 50,000 times, right? I mean, my wife's grandfather
+
+541
+00:55:27,440 --> 00:55:35,120
+died at 40. He was a firefighter, fit as if it'll drop dead of a heart attack at 47 in my mom's dad's
+
+542
+00:55:35,120 --> 00:55:41,440
+arms when he was 16. So I know the story very well. And it's, to me, it's LP little a until proven
+
+543
+00:55:41,440 --> 00:55:47,040
+otherwise on a hot O'Connor wrote a great story about this in the New York time several years ago,
+
+544
+00:55:47,040 --> 00:55:52,720
+disclosing that he himself found he's a carrier of LP little a. So always want to make sure
+
+545
+00:55:52,720 --> 00:55:59,360
+everybody stops, reevaluates, make sure that they aren't a high LP little a carrier. What else is on
+
+546
+00:55:59,360 --> 00:56:04,800
+our list of real risk assessment here? And by the way, feel free to just pile on to more LP little
+
+547
+00:56:04,800 --> 00:56:10,880
+a stuff because this to me is, I mean, this, this is interesting stuff. And I do think unlike my
+
+548
+00:56:10,880 --> 00:56:16,080
+pessimism around HDL, where I don't think we're going to learn a whole heck of a lot about it,
+
+549
+00:56:16,080 --> 00:56:21,600
+I think we're just scratching the surface of differentiating between really aggressive LP
+
+550
+00:56:21,600 --> 00:56:28,000
+little a's versus not as aggressive LP little a's. And I'm optimistic there. Well, you're right. And
+
+551
+00:56:28,000 --> 00:56:34,320
+of course, on the favor of LP little a be in dangerous is the a bunch of Mendelian randomization
+
+552
+00:56:34,320 --> 00:56:41,040
+trials, which don't exist for any HDL metric or so. So right away, it's a, a marker that requires
+
+553
+00:56:41,040 --> 00:56:46,560
+more serious evaluation or so you want to remind people again what it is. I guess I glossed over
+
+554
+00:56:46,560 --> 00:56:55,040
+that. Yeah, sure. For those new to this low density lipoprotein is a collection of cholesterol,
+
+555
+00:56:55,040 --> 00:57:00,560
+triglycerides, fossil lipids wrapped by a single molecule of a polipro protein B, because of the
+
+556
+00:57:00,560 --> 00:57:05,600
+size and density, it falls within a certain fraction of their centrifuge tube and it's called
+
+557
+00:57:05,600 --> 00:57:13,440
+low density. But all lipoprotein subclasses are heterogeneous. They consist of big particles,
+
+558
+00:57:13,440 --> 00:57:19,040
+small particles, or maybe a particle carrying something else that doesn't really change its
+
+559
+00:57:19,040 --> 00:57:26,000
+density that much. So it separates with the LDLs and LP little a is basically you have your LDL
+
+560
+00:57:26,000 --> 00:57:32,400
+part of this macromolecule. But co attached to the Apo B structural protein is another protein
+
+561
+00:57:32,400 --> 00:57:38,160
+that shouldn't be there. And it's called apoprotein little a and by little a we mean small case, not a
+
+562
+00:57:38,160 --> 00:57:46,320
+capital A. And that molecule that attaches Apo A, you know, can vary in molecular weight, size,
+
+563
+00:57:46,320 --> 00:57:51,680
+length, etc. But that's beyond this discussion. So it's an LDL, it's carrying an extraneous
+
+564
+00:57:51,680 --> 00:57:59,440
+passenger. And here's the problem. We know people with high LP little a that don't seem to be
+
+565
+00:57:59,440 --> 00:58:03,360
+bothered. They're not coming down. There's no premature family history in them. And other
+
+566
+00:58:03,360 --> 00:58:08,400
+people's the example Peter just gave my God, they're atherosclerotic Rex at young ages.
+
+567
+00:58:09,040 --> 00:58:15,120
+So I also just as I've sort of iterated about other lipoproteins, I think when we're talking
+
+568
+00:58:15,120 --> 00:58:20,800
+about LP little a in the year 2020, we are talking about all right, let's what's its mass,
+
+569
+00:58:20,800 --> 00:58:27,200
+what's its LP little a particle number. But I also think we have to be smarter on understanding the
+
+570
+00:58:27,200 --> 00:58:35,200
+quality or other attributes of this LP little a particle. What makes this Apo little a attachment
+
+571
+00:58:35,200 --> 00:58:40,320
+may be terrible for that guy who had his heart attack at age 30. But here are other people who
+
+572
+00:58:40,400 --> 00:58:45,200
+are coming in at age 80 and they got high LP little a and they're not full of plaque or so.
+
+573
+00:58:46,080 --> 00:58:51,280
+And one of the things we're beginning to understand is look, Apo a has potentially some
+
+574
+00:58:51,280 --> 00:58:55,920
+thrombogenic properties, which perhaps get expressed in some people more than others.
+
+575
+00:58:55,920 --> 00:59:02,400
+But more and more, one of the functions perhaps even of Apo a wide even evolved is a little
+
+576
+00:59:02,400 --> 00:59:08,720
+scavenger protein that attaches to oxidized lipid moieties, specifically oxidized fossil
+
+577
+00:59:08,720 --> 00:59:15,440
+lipids, oxidized sterols, they bind to it with great affinity. And maybe that little garbage
+
+578
+00:59:15,440 --> 00:59:19,680
+truck full of oxidized particles, if it could bring it back to the liver or some other tissue
+
+579
+00:59:19,680 --> 00:59:25,920
+that could catabolize it, those oxidized lipid moieties, which tend to be destructive to cells,
+
+580
+00:59:25,920 --> 00:59:33,040
+are not getting to cells. So we are beginning to have metrics that are starting to appear and
+
+581
+00:59:33,040 --> 00:59:39,040
+available in the real world that we can measure the oxidation, the oxidized lipid moieties that
+
+582
+00:59:39,040 --> 00:59:46,400
+are on Apo little a. They're actually it's called oxidized PL fossil lipids on Apo b.
+
+583
+00:59:47,120 --> 00:59:52,880
+And if you say, well, these oxidized fossil lipids are on all the Apo b particles to a minuscule
+
+584
+00:59:52,880 --> 00:59:59,760
+degree for because of the affinity of oxidized lipid moieties, Apo a, you overwhelm if you have
+
+585
+00:59:59,760 --> 01:00:05,520
+a positive oxidized fossil lipid Apo b, the overwhelming majority of Apo b particles trafficking
+
+586
+01:00:05,520 --> 01:00:11,520
+those oxidized lipids are LP little a particles. So two people came to consult me tomorrow, they
+
+587
+01:00:11,520 --> 01:00:18,080
+both have an elevated LP little a metric. One has a normal oxidized fossil lipids on Apo b,
+
+588
+01:00:18,080 --> 01:00:24,080
+but the other one is elevated. Based on Sam Sinekis and others were work, I'm going to be a little
+
+589
+01:00:24,080 --> 01:00:30,080
+more worried about that person who's my God, not only do they have this undesirable particle, but
+
+590
+01:00:30,080 --> 01:00:36,160
+this particle is loaded downward, injurious other lipids that are potentially very harmful. So that's
+
+591
+01:00:36,160 --> 01:00:42,560
+one aspect of it. We're nowhere near being able to test for the thrombo genicity, if that's a big
+
+592
+01:00:42,560 --> 01:00:48,560
+factor of Apo little a and everything. So there are other ways of doing this. I mean, I all the
+
+593
+01:00:48,560 --> 01:00:53,680
+time when I get my weekly email from Peter T here's the podcast this week. I'm waiting for Sam
+
+594
+01:00:53,680 --> 01:01:00,320
+Sinekis. So but for those of you still waiting for Peter to nab him, he's pretty active on Twitter.
+
+595
+01:01:00,320 --> 01:01:06,400
+And he really tweets a lot of good information on the cutting edge of what's coming down with LP.
+
+596
+01:01:06,400 --> 01:01:12,640
+I think it's LP little a dash underscore doc something like but we'll go on Twitter and Sam
+
+597
+01:01:12,640 --> 01:01:19,360
+Sinekis, T S I M I K S and you'll be happy you followed him. So there's just a lot to understand
+
+598
+01:01:19,360 --> 01:01:26,320
+Peter. So it's who has it. And by the way, the new guidelines are the European guidelines suggest
+
+599
+01:01:26,320 --> 01:01:30,880
+that everybody ought to have it once in their life as they approach adulthood. And you never need
+
+600
+01:01:30,880 --> 01:01:36,080
+repeat it unless somehow you're trying to modulate it or maybe you go through medical is where it can
+
+601
+01:01:36,080 --> 01:01:40,480
+go up a little bit. But it's a genetically determined marker you have it or you don't have
+
+602
+01:01:40,560 --> 01:01:46,000
+it if you don't have it at age 18, you're not going to have it at age 68. So it's a one time test.
+
+603
+01:01:46,000 --> 01:01:52,320
+And it helps us before we talk, let's do thorough cardiovascular risk assessments, no matter what
+
+604
+01:01:52,320 --> 01:01:58,160
+your APOB is. And this would be one of the tests that at least the Europeans have signed on to now,
+
+605
+01:01:58,160 --> 01:02:03,040
+the National Lipid Association, other people have issued guidelines to it and they're still telling
+
+606
+01:02:03,040 --> 01:02:08,960
+you, well, do it for unexplained heart attacks or strong family history of heart disease. To me,
+
+607
+01:02:09,440 --> 01:02:14,400
+again, it's not a very expensive test. Get it once and for all. But there's so much to talk about this,
+
+608
+01:02:15,120 --> 01:02:20,800
+Peter. And in the future, I mean, there are ways, what would you do for somebody with high
+
+609
+01:02:20,800 --> 01:02:26,000
+LP, little a, we have strategies, which is mostly attacking APOB right now and any of the other
+
+610
+01:02:26,000 --> 01:02:32,080
+cardiovascular risk factor. But there are drugs in the pipeline that may give us better alternatives
+
+611
+01:02:32,080 --> 01:02:38,880
+to perhaps stop your liver from making APO, little a. Let's talk about that a little bit. So up until
+
+612
+01:02:39,440 --> 01:02:46,320
+I would say a few years ago, the only strategy for patients, let's assume that we've confirmed
+
+613
+01:02:46,320 --> 01:02:51,120
+that a patient's LP, little a is elevated. And furthermore, let's confirm that we have reason
+
+614
+01:02:51,120 --> 01:02:57,440
+to believe that in that patient, the LP, little a is also problematic. And again, this usually shows
+
+615
+01:02:57,440 --> 01:03:02,880
+up in family history. It's not a subtle thing. A lot of times I'm taking the family history from
+
+616
+01:03:02,880 --> 01:03:09,680
+a patient before I've got the blood test. Those could be offset by weeks. And it's because we give
+
+617
+01:03:09,680 --> 01:03:16,000
+our patients the template to work on this, they come in with a very thorough family history. They
+
+618
+01:03:16,000 --> 01:03:21,680
+really know what happened to the mother's older sister and the grandfather and all of these other
+
+619
+01:03:21,680 --> 01:03:27,280
+things. And you usually just see this history of lots of heart attacks before the age of 60.
+
+620
+01:03:27,840 --> 01:03:31,600
+Obviously it can be confounded by people who are heavy smokers and things like that.
+
+621
+01:03:32,000 --> 01:03:36,320
+Yeah. Let me just interrupt you for one second. It'll be a minute because published yesterday
+
+622
+01:03:36,320 --> 01:03:41,840
+in the Journal of the American College of Cardiology is a study and a fantastic editorial.
+
+623
+01:03:41,840 --> 01:03:47,680
+And they looked at people with terrible family histories of heart disease and people who had
+
+624
+01:03:47,680 --> 01:03:53,280
+LP, little a issues or they didn't. And the conclusion was simple. Don't have high LP,
+
+625
+01:03:53,280 --> 01:03:58,160
+little a if somehow you can avoid that, which you can't. Don't have a terrible family history of
+
+626
+01:03:58,240 --> 01:04:02,880
+coronary artery disease. And I don't know how you avoid it, but if you want the worst scenario,
+
+627
+01:04:02,880 --> 01:04:08,880
+don't have both LP, little a and fis so Peter, what Peter is just saying is now backed up by a
+
+628
+01:04:08,880 --> 01:04:15,120
+nice study. Yeah. I love the best advice is choose healthier parents. So let's assume we're in that
+
+629
+01:04:15,120 --> 01:04:20,160
+situation, which is we have high LP, little a and we have the family history that is not favorable
+
+630
+01:04:20,720 --> 01:04:25,040
+or something else that's even more germane to the patient, which is a positive calcium score,
+
+631
+01:04:25,040 --> 01:04:32,560
+something to that effect. Well, again, historically, our best bet would be remove all other risk to the
+
+632
+01:04:32,560 --> 01:04:40,800
+extent that it is possible. So we lower all other ApoB maximally pharmacologically. We optimize
+
+633
+01:04:40,800 --> 01:04:46,480
+completely all of the metabolic parameters that we've discussed briefly here, but touched on in
+
+634
+01:04:46,480 --> 01:04:51,360
+greater detail elsewhere. And that includes everything from modulating blood pressure as
+
+635
+01:04:51,360 --> 01:04:56,400
+aggressively as it needs to be to controlling all of these other factors that don't get enough
+
+636
+01:04:56,400 --> 01:05:02,720
+attention in my book, the uric acids, the homocysteines, things like that. But then as you
+
+637
+01:05:02,720 --> 01:05:09,040
+point out, there's a strategy now that says, wait a minute, what if we knock out the liver's ability
+
+638
+01:05:09,040 --> 01:05:16,080
+to make Apo, little a and all of a sudden you wouldn't have an LP, little a. So what does that
+
+639
+01:05:16,080 --> 01:05:23,520
+strategy look like and where is that strategy in the pharmacologic pipeline? In pretty early trials
+
+640
+01:05:23,520 --> 01:05:28,880
+and of course, any cell we're talking about the liver here, if the liver is the primary site of
+
+641
+01:05:28,880 --> 01:05:37,440
+production of Apo, little a and it is, if we could mess with the genes to ASO therapy, we could
+
+642
+01:05:37,440 --> 01:05:43,680
+probably stop a cell from making a given protein. If we can stop the liver from making Apo protein,
+
+643
+01:05:43,680 --> 01:05:49,920
+little a, if you don't have that, you certainly the liver can't secrete it so it can attach to
+
+644
+01:05:49,920 --> 01:05:56,080
+LDL particles, transforming them into LP, little a particles. So that's almost like a no-brainer.
+
+645
+01:05:56,080 --> 01:06:02,320
+The Mendelian randomization trials says don't have high Apo way or LP, little a. So let's just
+
+646
+01:06:02,320 --> 01:06:07,360
+inhibit its synthesis as we've done with other things that contribute to coronary artery disease.
+
+647
+01:06:07,360 --> 01:06:13,280
+And that has to work. Yes, provided that protein doesn't screw or that ASO treatment doesn't screw
+
+648
+01:06:13,280 --> 01:06:18,640
+up something else or cause a downside to it. And that's why you ultimately have to do large
+
+649
+01:06:18,640 --> 01:06:25,840
+clinical trials looking at not only event reduction, but safety. But those drugs are in early,
+
+650
+01:06:26,480 --> 01:06:31,840
+you know, and like anything else, the first generation of those antisense oligosaccharide
+
+651
+01:06:31,840 --> 01:06:37,040
+drugs that came around, they've perfected them. So there's a second generation of them now that
+
+652
+01:06:37,040 --> 01:06:42,480
+they've made even more hepatoselective so they can dose less of it. And it goes right into the liver.
+
+653
+01:06:43,280 --> 01:06:52,720
+But they're phase one, phase one, two trials. And Novartis, I believe, has now acquired the
+
+654
+01:06:52,720 --> 01:06:58,160
+product that they're going to put it in a major which has just started enrollment of phase three
+
+655
+01:06:58,160 --> 01:07:05,920
+trial on let's not. But here's the problem. Peter knows the billions that probably have to be
+
+656
+01:07:05,920 --> 01:07:12,240
+invested when you're developing a drug of that type of magnitude to reduce something. You're not
+
+657
+01:07:12,240 --> 01:07:17,440
+going to do it on every time Dick and Harry who has a trivial LP little a you want that first
+
+658
+01:07:17,440 --> 01:07:22,640
+trial to work because if it doesn't, that's it. The drug the drug is dead. It'll never be tested
+
+659
+01:07:22,640 --> 01:07:29,200
+and lesser risk people. So the only way you can get into this current apo little a synthesis
+
+660
+01:07:29,200 --> 01:07:35,840
+modulator drug is you have to have had an atherosclerotic clinical event of myocardial infarction,
+
+661
+01:07:35,840 --> 01:07:41,840
+stroke, blah, blah, blah, stents. And you have to have an astronomical like upper quintile
+
+662
+01:07:42,480 --> 01:07:48,320
+concentration of LP little a. Because Bendelian trials suggest if you're going to get benefit
+
+663
+01:07:48,320 --> 01:07:54,320
+by lowering apo little a or LP little a, it has to be a pretty significant drop in it. So you're
+
+664
+01:07:54,320 --> 01:08:01,680
+not going to take somebody with a trivial LP little a elevation and, you know, if you tested 50,000
+
+665
+01:08:01,920 --> 01:08:06,400
+maybe it would work. But so if they go through this first trial and it'll probably take three,
+
+666
+01:08:06,400 --> 01:08:11,920
+four or five years to show efficacy and safety, then they're going to have to maybe do some
+
+667
+01:08:12,800 --> 01:08:18,320
+sub trial analysis. And then is anybody even going to fund the primary prevention trial with this
+
+668
+01:08:18,320 --> 01:08:24,240
+drug with the cost that that takes? I don't know. So even if you're somebody who's had a heart attack
+
+669
+01:08:24,240 --> 01:08:28,880
+because of LP little a and you're waiting for this drug, you got five, 10 years to wait. And
+
+670
+01:08:28,880 --> 01:08:35,040
+for primary prevention, go on to other ways that clinicians are attacking this problem right now,
+
+671
+01:08:35,040 --> 01:08:42,880
+because you're not going to have anything. Why is it that statins, which are probably the most potent
+
+672
+01:08:42,880 --> 01:08:51,440
+drug until five years ago to lower LDL and by definition, then lower APO concentration,
+
+673
+01:08:52,080 --> 01:08:58,960
+have virtually no effect on LP little a. But this new class of drug that's been around for five
+
+674
+01:08:58,960 --> 01:09:08,160
+years called PCSK9 inhibitors, well, even more potent in lowering LDL seem to also be able to
+
+675
+01:09:08,160 --> 01:09:14,640
+lower LP little a. I think there's two reasons there. And one, we've gotten enough trials now
+
+676
+01:09:14,640 --> 01:09:23,120
+that seem to show depending on your APO a makeup, do you produce the large high molecular weight APO
+
+677
+01:09:23,120 --> 01:09:29,280
+a or the smaller low molecular weight APO a, which in epidemiologic trials seems to be way more
+
+678
+01:09:29,280 --> 01:09:35,200
+associated with atherosclerosis, that if you're one who does produce the low molecular weight,
+
+679
+01:09:35,200 --> 01:09:40,400
+short APO a, which means because it's such a small protein to make the liver can make a ton of it,
+
+680
+01:09:41,280 --> 01:09:46,160
+so they actually, even though their molecular weight of APO little a is lower, they have much
+
+681
+01:09:46,160 --> 01:09:52,720
+higher LP little a particle counts. If you have that isiformity LP little a statins can induce
+
+682
+01:09:52,720 --> 01:10:01,120
+the synthesis of that statins do not affect the synthesis of the larger APO a moiety. So in some
+
+683
+01:10:01,120 --> 01:10:06,720
+people, Peter says statins do not much to LP little a concentrations, but there is a small
+
+684
+01:10:06,720 --> 01:10:12,400
+component where statins will actually raise it a little bit. And people get scared. They go, well,
+
+685
+01:10:12,400 --> 01:10:18,160
+I'm lowering LDL cholesterol, LDL particle counts a tad, but I'm raising LP little a, even Sam
+
+686
+01:10:18,160 --> 01:10:24,960
+Samikas will tell you, don't worry about it. LP little a, if you learn nothing else about our LP
+
+687
+01:10:24,960 --> 01:10:32,480
+little a discussion is a minority LDL particle. So even though if you have the small isoform of
+
+688
+01:10:32,480 --> 01:10:40,800
+statin may be raising LP little a a tad, it's so blowing away the LDLs that don't have APO a attached
+
+689
+01:10:40,800 --> 01:10:46,400
+to it that at the end of the day, you have less cardiovascular risk. And that little excursion in
+
+690
+01:10:46,400 --> 01:10:52,160
+LP little a concentration is probably meaningless. Now to go on to the second part of the questions,
+
+691
+01:10:52,960 --> 01:10:59,280
+the piece SK9 inhibitors don't have an effect on the synthesis of APO a in the body. So at least
+
+692
+01:10:59,280 --> 01:11:05,360
+they're not aggravating it in some people. But we're still in our infancy trying to understand
+
+693
+01:11:05,360 --> 01:11:11,840
+how LP little a particles are, you know, catabolized or cleared, and it's probably due to multiple
+
+694
+01:11:11,840 --> 01:11:19,360
+receptors, the LDL receptors part of it and a PCSK nine can give you more LDL receptors than a statin
+
+695
+01:11:19,360 --> 01:11:27,040
+probably can putting aside the synthetic interference with it. But PCSK nine, their finding has effects
+
+696
+01:11:27,040 --> 01:11:34,320
+now on APO we receptors in three or four other lipoprotein clearing receptors that are expressed
+
+697
+01:11:34,320 --> 01:11:40,960
+in liver and other cells or so. So I mean, that's, there's got to be better clearance of the particles
+
+698
+01:11:40,960 --> 01:11:49,920
+with PCSK nine inhibitors, then there is with LDL receptor expression with statins or statins plus
+
+699
+01:11:49,920 --> 01:11:55,200
+whatever other apo b lowering drug you're going to add to it or so. So I think that's where we're at
+
+700
+01:11:55,200 --> 01:12:00,480
+right now. Most of the time, these people are going to wind up on statins plus PCSK nine unless
+
+701
+01:12:00,480 --> 01:12:06,240
+they can't tolerate a statin or there's another reason not to use a statin. So that's my explanation
+
+702
+01:12:06,240 --> 01:12:11,280
+right now, Peter, that I think we touched on that a little bit in the last podcast, and we still
+
+703
+01:12:11,280 --> 01:12:16,960
+don't have a lot of info and clearance of LP little a particles. And as you said, it's quite variable.
+
+704
+01:12:16,960 --> 01:12:22,720
+I mean, we've seen patients where they're on a PCSK nine inhibitor for other reasons. And every
+
+705
+01:12:22,720 --> 01:12:27,120
+time I put somebody on when I recheck their LP little a just different or the reason than to
+
+706
+01:12:27,120 --> 01:12:32,960
+gather our own data on how much of an effect the drug either prior went to Rapata is having on
+
+707
+01:12:33,600 --> 01:12:41,920
+LP little a and there's the range is zero to 60 70% reduction. I mean, that's literally how broad
+
+708
+01:12:41,920 --> 01:12:48,720
+it is with probably a median reduction of a third. Yeah, so two important points here. One,
+
+709
+01:12:48,720 --> 01:12:53,600
+LP little a is not an acceptable goal of therapy because there wouldn't be trial data. So even
+
+710
+01:12:53,600 --> 01:12:57,760
+though we all think that's probably going to be good. But I think most people like Peter when he
+
+711
+01:12:57,760 --> 01:13:02,560
+prescribes it, sort of likes to at least see what happens to get his own information or so. But
+
+712
+01:13:02,560 --> 01:13:09,760
+realize that's not what you're making a therapeutic decision on per se is the LP little a concentration.
+
+713
+01:13:09,760 --> 01:13:14,640
+So just keep that in mind when you when you're following up on these people.
+
+714
+01:13:15,600 --> 01:13:20,800
+One last thing I want to circle in on you with that you and I spoke about a couple of years ago.
+
+715
+01:13:20,800 --> 01:13:27,520
+It was an experimental metric that was being bandied about. In fact, I remember you guys ran it
+
+716
+01:13:28,080 --> 01:13:35,280
+at THD on some of my serum. But I don't know that it ever saw the commercial light of day,
+
+717
+01:13:35,280 --> 01:13:42,240
+which was I think it was like LDL triglyceride concentration. Have those tests ever seen the
+
+718
+01:13:42,240 --> 01:13:48,960
+light of day? I think if you look around enough, you might find a lab. It's a very easy
+
+719
+01:13:48,960 --> 01:13:55,520
+assay. Denka makes it where you could get an LDL triglyceride level. And by the way, just
+
+720
+01:13:55,520 --> 01:14:00,880
+another thought jumped into my brain on that LP little a, as I told you, there are other things
+
+721
+01:14:00,880 --> 01:14:08,160
+that attach to even LDLs and HDLs that make them less clearable or more atherogenic. And a very
+
+722
+01:14:08,160 --> 01:14:14,480
+recent study show, believe it or not, there are LP little a particles that carry Apo C3.
+
+723
+01:14:15,360 --> 01:14:20,720
+You're not going to clear that particle if you make it so. The double whammy. Yeah. Oh my god.
+
+724
+01:14:20,720 --> 01:14:28,160
+But anyway, back to LDL triglycerides. People, I often tease them if you said, you know what,
+
+725
+01:14:28,160 --> 01:14:33,440
+we're really cost effective. We're only going to allow you to have one lipid concentration on this
+
+726
+01:14:33,440 --> 01:14:38,640
+person. Nothing else. I would tell him, give me an LDL triglyceride level, certainly not an LDL
+
+727
+01:14:38,640 --> 01:14:44,160
+cholesterol level. And remember, Apo B is a lipoprotein metric, not a lipid metric. So that's
+
+728
+01:14:44,160 --> 01:14:52,960
+what I would really take. But the triglyceride part of the core of any lipoprotein has a lot to do
+
+729
+01:14:53,600 --> 01:15:00,640
+with plasma residence time of that particle. What else might be attached to that particle?
+
+730
+01:15:00,640 --> 01:15:08,000
+Even I alluded to it a little bit in my brief HDL discussion before Dan Rader calls them fat HDLs.
+
+731
+01:15:08,000 --> 01:15:14,160
+What if your HDL particle is not carrying very many cholesterol molecules, it's carrying triglycerides.
+
+732
+01:15:14,720 --> 01:15:20,480
+Well, he's shown, God knows a decade ago to those fat HDLs, meaning triglyceride and rich,
+
+733
+01:15:20,480 --> 01:15:26,000
+are dysfunctional. They're carrying some of the bad stuff that HDLs carry that don't allow them
+
+734
+01:15:26,000 --> 01:15:32,560
+to do their cardioprotective functions. So if triglycerides gets into an LDL, number one,
+
+735
+01:15:32,560 --> 01:15:37,040
+what happens to an LDL that's floating around and it might still be a big LDL because it's full of
+
+736
+01:15:37,040 --> 01:15:45,120
+triglycerides, not cholesterol, but it has a very great affinity for lipase enzymes that line our
+
+737
+01:15:45,120 --> 01:15:52,800
+arteries or the surface of the liver. So hepatic lipase is a very potent triglyceridase phospholipase
+
+738
+01:15:52,800 --> 01:15:58,800
+that is just like a fly trap looking for flies. It's looking for triglyceride enriched HDLs.
+
+739
+01:15:59,360 --> 01:16:07,280
+And if it binds to it, it will extract hydrolyzed the triglycerides. So if I had a LDL full of
+
+740
+01:16:07,280 --> 01:16:13,600
+triglycerides and I pulled the trigs out, what am I left with? Well, that's an LDL particle that's
+
+741
+01:16:13,600 --> 01:16:19,200
+lost a lot of surface phospholipids as well as a lot of core triglycerides. I have the so-called
+
+742
+01:16:19,200 --> 01:16:25,600
+small LDL or dense LDL. I try not to use both adjectives together because they're redundant.
+
+743
+01:16:25,600 --> 01:16:32,960
+And we have plenty of evidence that, yeah, it's no good to have an increased total LDL particle count,
+
+744
+01:16:32,960 --> 01:16:40,240
+but try not to have too many small LDL particles because the evidence has certainly emerged that
+
+745
+01:16:40,240 --> 01:16:46,240
+particle for particle, they're probably more atherogenic than the more buoyant larger LDL
+
+746
+01:16:46,240 --> 01:16:52,240
+particles for a variety of reasons. And the bigger non-triglyceride rich LDL, it might be a
+
+747
+01:16:52,240 --> 01:16:58,160
+better fit for an LDL receptor. It's going to clear it. So LDL triglycerides, basically, if you told
+
+748
+01:16:58,160 --> 01:17:03,520
+me it was high, I know you probably got a high LDL particle count, APOB. I know you have the
+
+749
+01:17:03,520 --> 01:17:09,920
+small LDL particles. I know where those triglycerides probably came from, your VLDL triglyceride rich
+
+750
+01:17:09,920 --> 01:17:16,640
+particles, your chiral micron particles. And when they transfer their triglycerides to LDLs,
+
+751
+01:17:16,640 --> 01:17:21,840
+they become remnant lipoproteins, which Peter has alluded to. And you can bet those same
+
+752
+01:17:21,840 --> 01:17:27,280
+triglycerides are invading the HDL particles contributing to HDL functionality. And last but
+
+753
+01:17:27,280 --> 01:17:33,440
+not least, in the studies where they've looked at LDL triglyceride, many of the inflammatory markers
+
+754
+01:17:33,440 --> 01:17:39,440
+are high because those particles set off the inflammasome in various endothelial cells and
+
+755
+01:17:39,440 --> 01:17:46,080
+elsewhere. So it's a really simple, easy to do metric that could tell us so much. And I think,
+
+756
+01:17:46,960 --> 01:17:50,960
+if I saw it was up, the first thing I'm saying up, I'm dealing with an insulin resistant person,
+
+757
+01:17:50,960 --> 01:17:55,760
+because that would be the most common cause, not some genetic triglyceride problem.
+
+758
+01:17:55,760 --> 01:18:00,400
+Right. And again, I think perhaps the reason why people aren't leaping up and down to
+
+759
+01:18:01,040 --> 01:18:05,600
+bring this to market is, frankly, if you're looking at VLDL cholesterol,
+
+760
+01:18:05,600 --> 01:18:12,320
+and you're looking at all of the markers of insulin resistance, along with the lipoprotein
+
+761
+01:18:12,320 --> 01:18:17,600
+markers we've discussed, I think you get the story. And look, I mean, taking a step back,
+
+762
+01:18:17,600 --> 01:18:23,920
+let's play devil's advocate for a moment. I think that it's worth doing ApoB over non-HDL
+
+763
+01:18:23,920 --> 01:18:30,240
+cholesterol. There are some people who are so opposed to advanced lipid testing that they will
+
+764
+01:18:30,240 --> 01:18:36,640
+argue, as long as you have non-HDL cholesterol, you don't even need to measure ApoB, because of
+
+765
+01:18:36,640 --> 01:18:44,000
+course the non-HDL cholesterol is measuring the LDL cholesterol, but somewhat correcting
+
+766
+01:18:44,720 --> 01:18:51,840
+for the additional VLDL by adding the VLDL cholesterol. What is your take on the idea of
+
+767
+01:18:52,400 --> 01:18:58,240
+non-HDL cholesterol versus ApoB as they are somewhat proxies for the same problem?
+
+768
+01:18:58,240 --> 01:19:02,720
+Well, I'm in the Snyderman School, and he's published on this extensively. I find it,
+
+769
+01:19:02,720 --> 01:19:07,760
+all right, it probably gives you a little bit more information for the reasons you just described.
+
+770
+01:19:07,760 --> 01:19:09,360
+Versus LDL cholesterol, yeah.
+
+771
+01:19:09,360 --> 01:19:15,520
+Beyond LDL cholesterol. But as Snyderman has clearly shown in several studies,
+
+772
+01:19:16,160 --> 01:19:22,080
+even though non-HDL cholesterol correlates with ApoB a little bit better than does LDL cholesterol,
+
+773
+01:19:22,080 --> 01:19:28,480
+there's still 20, 30% of the population in our diabetics and psoriasis where they're discordant.
+
+774
+01:19:28,480 --> 01:19:34,560
+And where there is discordance, even with non-HDL cholesterol and ApoB, risk follows ApoB.
+
+775
+01:19:34,560 --> 01:19:40,880
+So why am I wasting my time with it? Look, it's all useful. It might help you pick what therapy
+
+776
+01:19:40,880 --> 01:19:46,480
+you want to use, but at the end of the day, I see no need to follow your non-HDL cholesterol.
+
+777
+01:19:46,480 --> 01:19:52,000
+I'm following ApoB because I'd be a fool if I told you I normalized your non-HDL cholesterol,
+
+778
+01:19:52,000 --> 01:19:57,360
+and I've eliminated your lipoprotein mediated risk. Until you measure, you quantitate
+
+779
+01:19:58,000 --> 01:20:04,640
+these particles, and if we ever get a quality test, that's a silly thing to say to a patient.
+
+780
+01:20:05,440 --> 01:20:07,680
+Yeah, exactly. We saved $3.
+
+781
+01:20:07,680 --> 01:20:14,720
+Yeah. And we might spend a little time, or you're very good at explaining it. How do you determine
+
+782
+01:20:14,720 --> 01:20:19,840
+VLDL cholesterol in your patients, Peter? You're not dividing triglycerides by five,
+
+783
+01:20:19,840 --> 01:20:26,640
+the old Friedelwald formula. No. So we use a lab that is actually giving a VLDL cholesterol,
+
+784
+01:20:26,640 --> 01:20:32,080
+and even if they didn't do that, we would still take total cholesterol and subtract from it
+
+785
+01:20:32,640 --> 01:20:37,440
+LDL cholesterol and HDL cholesterol. Not perfect either, because in that situation,
+
+786
+01:20:37,440 --> 01:20:43,760
+sometimes the LDL is calculated. But I always do a back of the envelope trig divided by five.
+
+787
+01:20:43,760 --> 01:20:49,360
+It's not close enough. No, that's true. And listen, you made a key point here,
+
+788
+01:20:49,360 --> 01:20:54,400
+which maybe went over people's heads. You cannot do that calculation if you have a
+
+789
+01:20:54,400 --> 01:20:59,840
+calculated LDL cholesterol. You must have a directly measured LDL cholesterol,
+
+790
+01:20:59,840 --> 01:21:05,440
+because total cholesterol is LDL cholesterol, VLDL cholesterol, and HDL cholesterol. So if
+
+791
+01:21:05,440 --> 01:21:11,120
+you subtract a directly measured HDL cholesterol, a directly measured HDL cholesterol, in effect,
+
+792
+01:21:11,120 --> 01:21:18,000
+you have a directly measured VLDL cholesterol, which in our current world is about as close as
+
+793
+01:21:18,000 --> 01:21:23,840
+you're going to get to an evaluation of remnants. I think in our last podcast, we talked why there
+
+794
+01:21:23,840 --> 01:21:31,200
+are exceptions to that rule, and that's a more complex discussion. But please, you can't get VLDL
+
+795
+01:21:31,200 --> 01:21:37,840
+cholesterol using the Frito-Waltz calculated LDL cholesterol. All right. Let's talk a little bit
+
+796
+01:21:37,840 --> 01:21:44,640
+about therapies. Statins have been around forever. They still take up most of the air in the room.
+
+797
+01:21:44,640 --> 01:21:52,240
+They are the workhorse of lipid-lowering therapy. Is there anything new and exciting to talk about?
+
+798
+01:21:52,240 --> 01:21:57,040
+I would say that there's no new statin on the market today that wasn't there two years ago.
+
+799
+01:21:57,040 --> 01:22:04,080
+Is the most recently introduced statin live-alow? Yeah, and that's probably 10 years ago introduced.
+
+800
+01:22:05,440 --> 01:22:12,000
+What do you make of that, Tom? Why are we not seeing more statin innovation? Two things. I think
+
+801
+01:22:12,000 --> 01:22:17,760
+third-party payers would never pay for a new branded statin. They're going to always insist
+
+802
+01:22:17,760 --> 01:22:22,880
+you use the cheapest generic that's appropriate to the degree of LDL lowering that you need.
+
+803
+01:22:24,000 --> 01:22:29,600
+There are seven of them on the market now, so I don't think a bean counter at some farm is looking
+
+804
+01:22:29,600 --> 01:22:35,760
+for, let's get a new statin. We're well aware of potential downsides to statin things. We have to
+
+805
+01:22:35,760 --> 01:22:40,720
+look for who tolerates them, who doesn't. I don't know that they're somehow going to invent a new
+
+806
+01:22:40,720 --> 01:22:46,720
+statin that brings none of the potential downside of a statin to the equation. They're looking at
+
+807
+01:22:46,720 --> 01:22:53,360
+other therapies that will, now that we understand it's atherogenic lipoproteins, that will reduce
+
+808
+01:22:53,360 --> 01:22:58,000
+that. If your investment pays off, you'll have a branded product for X number of years, and you
+
+809
+01:22:58,000 --> 01:23:01,920
+might get a little return on your investment. I don't think we're going to see another
+
+810
+01:23:02,480 --> 01:23:06,960
+statin right now. The biggest thing that's happened with statins and in a guideline,
+
+811
+01:23:06,960 --> 01:23:12,320
+you know, in the old days when we had nothing else to do and we didn't know a lot about all
+
+812
+01:23:12,400 --> 01:23:18,960
+this lipoprotein stuff is, hey, you got this most trivial elevation of some LDL metric,
+
+813
+01:23:18,960 --> 01:23:23,280
+mostly LDL, you're going on a statin. I want them in the drinking water. In the old days,
+
+814
+01:23:23,280 --> 01:23:29,120
+oh, Tom, I just took a statin because they just reduced heart attacks. You and I know there is
+
+815
+01:23:29,120 --> 01:23:34,720
+an event reduction, but there's plenty of residual risk, even if you're aggressively using a statin.
+
+816
+01:23:34,720 --> 01:23:40,400
+So there always is more to the story. But I think the newer guidelines give you a lot more ability
+
+817
+01:23:40,400 --> 01:23:47,680
+to ascertain in a given individual after you do your thorough cardiovascular risk assessment,
+
+818
+01:23:47,680 --> 01:23:52,160
+you and I do our own risk assessment, which is a little different than what the guidelines might
+
+819
+01:23:52,160 --> 01:23:58,800
+offer. But then once a person crosses a certain threshold of atherosclerotic risk, then it becomes
+
+820
+01:23:58,800 --> 01:24:05,760
+plausible to consider a statin. And there's more to it than per se the LDL cholesterol level.
+
+821
+01:24:05,840 --> 01:24:11,360
+There's all those other factors that go into risk assessment. And there are other
+
+822
+01:24:11,360 --> 01:24:17,440
+adjunctive diagnostics. Now you earlier, we briefly alluded to coronary calcium scoring,
+
+823
+01:24:17,440 --> 01:24:21,760
+LP, little a, they would be things that current guidelines says use of your
+
+824
+01:24:21,760 --> 01:24:26,800
+Hammond or horn. Should I give a statin? Should I not? Or the patient? I don't want to take it
+
+825
+01:24:26,800 --> 01:24:32,080
+at least to a CAC, at least to an LP, little a look at the family history, as you mentioned,
+
+826
+01:24:32,720 --> 01:24:36,960
+look at the blood pressure, other concomitant risk factors. In fact, that add into,
+
+827
+01:24:36,960 --> 01:24:44,800
+do I want to use a statin or other Apo B lowering therapy? So that's the biggest change with statins.
+
+828
+01:24:44,800 --> 01:24:49,120
+Nobody's saying, hey, they belong in the drinking water. You should carefully choose who you're
+
+829
+01:24:49,120 --> 01:24:56,000
+advocating statin therapy to. Any sort of rules of thumb, just in terms of the alchemy of this,
+
+830
+01:24:56,000 --> 01:25:01,040
+you mentioned that there are seven out there, you know, in our practice, we really only pick from
+
+831
+01:25:01,040 --> 01:25:09,600
+four of them, Livolo, Crestor, Lipitor, and Prevostatin. I mean, most of these are generic now.
+
+832
+01:25:09,600 --> 01:25:14,960
+And if you listen to the podcast with Catherine Eban, which I know you did, we are actually still
+
+833
+01:25:14,960 --> 01:25:21,280
+pushing for branded whenever we can get it. And if we're not getting a branded version of those,
+
+834
+01:25:21,840 --> 01:25:26,720
+we cross check with who the generic supplier is. And we've seen differences, right? We've seen that
+
+835
+01:25:27,360 --> 01:25:33,600
+two versions of Resuvostatin can produce different outcomes. So our default position is that all
+
+836
+01:25:33,600 --> 01:25:39,840
+generics are crap until proven otherwise. And that's why we use a tightly controlled list of meds.
+
+837
+01:25:39,840 --> 01:25:45,120
+But I don't think I've ever prescribed Simvastatin, for example. What's your take on some of the older
+
+838
+01:25:45,120 --> 01:25:49,920
+statins versus the four? I mean, the reason I think we look at Prevostatin and Livolo is mostly for
+
+839
+01:25:49,920 --> 01:25:55,600
+the sensitive patient, and then Crestor and Lipitor, Resuvostatin and Torvostatin being kind
+
+840
+01:25:55,600 --> 01:26:00,400
+of the workhorse. Yeah. Well, you're just too young, Peter, and old fogies like myself,
+
+841
+01:26:01,200 --> 01:26:06,560
+Lova statin or Mevacor was the first statin that came around, Simvastatin was an accident,
+
+842
+01:26:06,560 --> 01:26:13,600
+Prevostatin and Prevocol came. So we have a lot of experience with those drugs. But as time went on,
+
+843
+01:26:13,600 --> 01:26:20,880
+in pretty early on, there was a pretty rational thing that whatever the reason Prevostatin is
+
+844
+01:26:20,880 --> 01:26:28,080
+a safer statin to use than Simvastatin or Lova statin. And it turns out that was mostly related
+
+845
+01:26:28,080 --> 01:26:34,160
+to drug-drug interactions where Prevostatin is pretty clean. Subsequent to that, the only statin
+
+846
+01:26:34,160 --> 01:26:40,400
+that is even cleaner than Prevostatin on drug-drug interactions is the Livolo. So Ptoavastatin would
+
+847
+01:26:40,400 --> 01:26:47,120
+be its generic name. So that's in today's polypharmacy world where, and we're not only even
+
+848
+01:26:47,120 --> 01:26:51,760
+talking about prescription products, but the multitude of supplements or God knows what people
+
+849
+01:26:51,760 --> 01:26:57,440
+wind up taking, we have no way to check on drug-drug interactions. So you're probably going to get into
+
+850
+01:26:57,440 --> 01:27:05,920
+less trouble with Ptoavastatin or Prevostatin. Of course, along came Resuvostatin many years later
+
+851
+01:27:05,920 --> 01:27:12,960
+after Prevostatin. And it shared some, at least pharmacokinetic attributes with the Prevostatin
+
+852
+01:27:12,960 --> 01:27:18,720
+in that it was a hydrophilic statin, kind of hepatoselective, but it was way more potent on a
+
+853
+01:27:18,720 --> 01:27:26,720
+milligram basis than Prevostatin. So it became an over that evolution of all those early statins,
+
+854
+01:27:27,600 --> 01:27:33,760
+every three years we had lower and lower and lower LDL metric goals, which weren't there when we first
+
+855
+01:27:33,760 --> 01:27:39,440
+started. So what used to be acceptable is no longer acceptable. So it was very easy to transform from
+
+856
+01:27:39,440 --> 01:27:47,760
+the hydrophilic Prevostatin to the way more potent hydrophilic Resuvostatin. And that pretty much was
+
+857
+01:27:47,760 --> 01:27:52,560
+my statin of choice thereafter, unless you had a putz around because of statin intolerance,
+
+858
+01:27:52,560 --> 01:27:58,640
+where you would try some of those other things. Personally, once all this was known and once
+
+859
+01:27:58,640 --> 01:28:03,920
+Resuvostatin hit the market, I don't think I ever prescribed another Lipitor dose again, unless,
+
+860
+01:28:04,480 --> 01:28:09,920
+you know, third party payers are influences here. They sometimes tell people you either take this
+
+861
+01:28:09,920 --> 01:28:14,480
+one or here's what you're going to have to pay if you don't go on our formulae. So that can factor
+
+862
+01:28:14,480 --> 01:28:20,320
+into its use. Now Lipitor is a potent statin milligram per milligram. It's not as potent as
+
+863
+01:28:20,320 --> 01:28:27,200
+Resuvostatin, but you can get whatever LDL reduction if you use a higher dose of Lipitor,
+
+864
+01:28:27,200 --> 01:28:31,680
+as you can with a somewhat lesser dose of Resuvostatin. So unless the third party payer is
+
+865
+01:28:31,680 --> 01:28:36,480
+telling me to use it, I'm probably not going to advocate Lipitor. Just there are more drug drug
+
+866
+01:28:36,480 --> 01:28:41,840
+interactions and it is Lipophilic. There's perhaps other issues at play. You and I have talked about
+
+867
+01:28:42,400 --> 01:28:47,360
+statins ability to get into the brain and everything where Lipophilic statins might be have a little
+
+868
+01:28:47,360 --> 01:28:53,360
+more bit propensity to do that than hydrophilic statins. So there are other issues at play that
+
+869
+01:28:53,360 --> 01:28:58,320
+would influence where you're going. The other thing that, and I'm going to disagree in, I think
+
+870
+01:28:58,320 --> 01:29:02,560
+it's the way you practice too, all of the guidelines right now say, okay, you've made a
+
+871
+01:29:02,560 --> 01:29:07,920
+decision to use a statin. Pick the two most statin, the most potent statins. That means you're on
+
+872
+01:29:07,920 --> 01:29:15,520
+Lipitor or Crestor and prescribe it at the maximum dose. Because the way these trials were designed,
+
+873
+01:29:16,560 --> 01:29:21,520
+lowers better, they all start, you know, they very few trials where they took people with
+
+874
+01:29:21,520 --> 01:29:26,720
+minuscule LDL cholesterol levels and drew statins at them. So they want you to get,
+
+875
+01:29:26,720 --> 01:29:31,600
+hey, the clinical trial shows this statin at that dose works. Maybe there's pleiotropic effects at
+
+876
+01:29:31,600 --> 01:29:36,960
+that statin is doing too. So how do you know you have to be evidence-based? I don't buy it. I think
+
+877
+01:29:36,960 --> 01:29:41,840
+virtually all of the statins contribution to atherosclerosis reduction is ApoB reduction.
+
+878
+01:29:42,400 --> 01:29:48,480
+And I think you've known me long enough that rather than maximizing a statin using the Gorilla
+
+879
+01:29:48,480 --> 01:29:54,320
+dose day one, I would prefer to start with a smaller dose, again, dependent on your risk and
+
+880
+01:29:54,320 --> 01:29:59,360
+your metrics. I mean, if you're coming off an acute coronary syndrome and your LDL metric is
+
+881
+01:29:59,360 --> 01:30:04,800
+off the chart, okay, I'll start with a big one. But I'd rather take that baby statin, meaning a
+
+882
+01:30:04,800 --> 01:30:12,400
+lower dose of a statin and perhaps optimizing it with a second ApoB lowering drug. And for the
+
+883
+01:30:12,400 --> 01:30:17,760
+longest time we had a Zetimibe, which has since been proven in clinical trials to further reduce
+
+884
+01:30:17,760 --> 01:30:22,800
+benefit and also in Mendelian randomization trials, looking at the Neiman pick protein.
+
+885
+01:30:22,800 --> 01:30:28,400
+And now we have the new guy on the street, this Bempedoic acid, which is a weaker cholesterol
+
+886
+01:30:28,400 --> 01:30:33,680
+synthesis inhibitor affecting an early on cholesterol synthesis step. Also that has
+
+887
+01:30:33,680 --> 01:30:39,280
+Mendelian randomization support. And if you can't use a statin or if you can use a statin, if you
+
+888
+01:30:39,280 --> 01:30:45,600
+add dastudastatin or even the triple therapy statin, is that a Bempedoic acid? Maybe you can avoid the
+
+889
+01:30:45,600 --> 01:30:50,400
+expensive PCSK9 inhibitor. So we have a lot more therapeutic options now a day, Peter.
+
+890
+01:30:50,960 --> 01:30:55,040
+And then talk about the differences in the synthetic pathways between these two drugs,
+
+891
+01:30:55,040 --> 01:30:58,640
+or where are they targeting the synthetic pathways and what makes them different? Is one
+
+892
+01:30:58,640 --> 01:31:04,480
+more hepatic selective or is it really a question of potency with respect to where they're blocking
+
+893
+01:31:04,480 --> 01:31:10,720
+the chain? Yes. The cholesterol synthesis pathway is something like 37 steps. Each step has its own
+
+894
+01:31:10,720 --> 01:31:17,760
+different enzyme catalyzing the transformation of these precursor products into the next down the
+
+895
+01:31:17,760 --> 01:31:23,760
+stage. Statins happen to inhibit what's called the rate limiting enzyme. It's the third step
+
+896
+01:31:23,760 --> 01:31:30,720
+in the cholesterol synthesis pathway. And of course that's modulated by the enzyme HMG-CoA reductase.
+
+897
+01:31:30,720 --> 01:31:38,160
+Statins pretty significantly in a dose dependent fashion inhibit that enzyme. So you can seriously
+
+898
+01:31:38,160 --> 01:31:44,000
+slow down cholesterol synthesis in various cells. The one cell we really want to do it in is the
+
+899
+01:31:44,000 --> 01:31:49,360
+liver because that's a cell that has the greatest propensity to upregulate LDL receptors that can
+
+900
+01:31:49,360 --> 01:31:56,720
+clear our APOB containing particles. So statins do that. Now if you can deplete cholesterol pools
+
+901
+01:31:57,360 --> 01:32:03,440
+beyond what a statin can do in the liver, you will express more LDL receptors. So when we use
+
+902
+01:32:03,440 --> 01:32:09,440
+hisetimide, we block intestinal absorption of cholesterol or back flux of biocolestral into
+
+903
+01:32:09,440 --> 01:32:16,480
+the liver, further depleting hepatic cholesterol pools, you will get more expression of LDL
+
+904
+01:32:16,480 --> 01:32:23,120
+receptors. So now we have this new Bempedoic acid. It's called an ATP citrate lyase inhibitor.
+
+905
+01:32:23,680 --> 01:32:30,080
+Well, the first step in cholesterol synthesis is citrate, Natomitochondria coming out of the Krebs
+
+906
+01:32:30,080 --> 01:32:39,280
+cycle is transformed to acetyl-CoA, which boom, then goes down and becomes after it becomes HMG
+
+907
+01:32:39,280 --> 01:32:48,800
+and then the subsequent things. So this Bempedoic acid is called an ACL, ATP citrate lyase inhibitor,
+
+908
+01:32:48,800 --> 01:32:55,600
+but it's a prodrug. You swallow it. It's only up taken by the liver and it inhibits an enzyme
+
+909
+01:32:55,600 --> 01:33:03,760
+in the liver that you can't make acetyl-CoA. So hey, the less acetyl-CoA you make, you're going
+
+910
+01:33:03,760 --> 01:33:09,200
+to make less HMG and then therefore that's going to, you'll have less substrate for the statin to
+
+911
+01:33:09,200 --> 01:33:15,440
+add on to. So collectively you get additional APOB lowering. The cool thing is, because one of our
+
+912
+01:33:15,440 --> 01:33:21,440
+biggest downsides to statin is people get these myopathic symptoms, be they weakness muscle aches
+
+913
+01:33:21,440 --> 01:33:26,800
+or whatever, you know that. It's a big problem with statin therapy, probably more prevalent than
+
+914
+01:33:26,800 --> 01:33:34,480
+what clinical trials would show us, but this Bempedoic acid does not have any uptake in the muscle cells.
+
+915
+01:33:34,480 --> 01:33:40,480
+There's a specific receptor that pulls it into the liver. So it is hepato selective. Look,
+
+916
+01:33:40,480 --> 01:33:46,480
+razovastatin is somewhat hepato selective because there is a special cellular receptor that pulls
+
+917
+01:33:46,480 --> 01:33:51,120
+in razovastatin, but other cells can pull it, razovastatin, razovastatin can give you muscle
+
+918
+01:33:51,120 --> 01:33:57,440
+aches. So it's not quite as hepato selective as Bempedoic acid. Do you know what they saw, Tom, in the
+
+919
+01:33:58,000 --> 01:34:04,320
+trial versus placebo for muscle soreness? Because even PCSK9 inhibitors still had some
+
+920
+01:34:04,880 --> 01:34:09,760
+noise with respect to muscle soreness, even though mechanistically it's not entirely clear why,
+
+921
+01:34:10,320 --> 01:34:14,880
+whereas at least the statin, there's some explanation as to why someone could experience
+
+922
+01:34:14,880 --> 01:34:18,960
+muscle soreness. I'm just kind of curious as to what the head-to-head... Yeah, no, they did look
+
+923
+01:34:18,960 --> 01:34:24,080
+at that and it's not zero. So there are still people who... But they've also shown studies that
+
+924
+01:34:24,080 --> 01:34:27,760
+you can give... You give up placebo on your head. ...a placebo and people get muscle aches too.
+
+925
+01:34:28,320 --> 01:34:33,840
+But it's... And they did comparative trials versus a statin versus a placebo, and there is definitely
+
+926
+01:34:33,840 --> 01:34:39,360
+less with it or so, but it's not going to be zero. So it's worth a trial if you're really hung up.
+
+927
+01:34:39,360 --> 01:34:46,080
+So I think right now it's used and the FDA approved it. The FDA says, look, you got to go do a big
+
+928
+01:34:46,080 --> 01:34:51,840
+outcome trial, which the company is doing, but Mendelian randomization suggests it would work.
+
+929
+01:34:51,840 --> 01:34:56,960
+Before we ever had outcome trial with Zetimide, Mendelian randomization data suggests that
+
+930
+01:34:56,960 --> 01:35:02,000
+reducing cholesterol intestinal absorption would reduce cardiovascular events, and that turned out
+
+931
+01:35:02,000 --> 01:35:08,640
+to be so. So, and they only had to do with a certain amount of phase three safety trial, and
+
+932
+01:35:08,640 --> 01:35:15,200
+the FDA let it come on the market. And its use was you can add it to a statin and people with
+
+933
+01:35:15,200 --> 01:35:20,400
+familial hypercholesterolemia, who the statin probably is not going to get you to go by itself,
+
+934
+01:35:21,120 --> 01:35:26,000
+and you can combine it to that, or even very high risk people where you didn't blow your
+
+935
+01:35:26,000 --> 01:35:31,760
+LDL-C down to 70 or 50, whatever you're trying to do it. You need a junk of LDL cholesterol,
+
+936
+01:35:31,760 --> 01:35:38,320
+APOB lowering. You can co-prescribe the bempedoic acid. And they also allow you to co-prescribe
+
+937
+01:35:38,320 --> 01:35:43,200
+Zetimide with it. In fact, the company that manufactures this, and the brand name is called
+
+938
+01:35:43,200 --> 01:35:49,120
+Nexitol, they also have been given FDA approval because there are a lot of statin intolerant
+
+939
+01:35:49,120 --> 01:35:55,600
+people out there, or people who need triple LDL lowering therapy, that we're going to give you a
+
+940
+01:35:55,600 --> 01:36:01,840
+combo product, which is bempedoic acid plus Zetimide. I guess it's priced a little cheaper. So rather
+
+941
+01:36:01,840 --> 01:36:06,960
+than swallowing two pills, you could just take that combo pill. You could add it to a statin or not.
+
+942
+01:36:06,960 --> 01:36:11,200
+And look, I think for the nightmare of Zetimide, you could ultimately, if you had to add PCSK9
+
+943
+01:36:11,200 --> 01:36:17,280
+inhibitor, the end of the day, if you're good at individualizing your therapy, I think we have
+
+944
+01:36:17,280 --> 01:36:23,440
+four APOB options now a day. And you're going to get down a fairly standard path because not
+
+945
+01:36:23,440 --> 01:36:28,960
+everybody can afford a PCSK9 inhibitor. Not everybody might be at the type of high level
+
+946
+01:36:28,960 --> 01:36:34,400
+risk that the FDA wants you to be at to, or the third party payer wants you to be at.
+
+947
+01:36:34,400 --> 01:36:39,440
+But it's a fun time to be in the APOB world. We have a lot of therapies, and we're not even
+
+948
+01:36:39,440 --> 01:36:44,000
+talking about addressing triglycerides, which there are therapies that do that that might
+
+949
+01:36:44,000 --> 01:36:51,760
+contribute to APOB lowering also. The statin works a lot by the hepatic upregulation of the LDL receptor.
+
+950
+01:36:52,800 --> 01:36:56,320
+Do we think that's the case here as well? Or do we think that this is
+
+951
+01:36:57,680 --> 01:37:00,400
+more about the actual reduction of cholesterol synthesis?
+
+952
+01:37:01,600 --> 01:37:05,680
+But remember, if you inhibit cholesterol synthesis, you're going to do hepaticals of
+
+953
+01:37:05,680 --> 01:37:10,080
+cholesterol, which will through the sterile regulatory element binding protein upregulate
+
+954
+01:37:10,080 --> 01:37:16,960
+LDL receptor expression, perhaps some VLDL receptors or other things like that, APOE receptor.
+
+955
+01:37:16,960 --> 01:37:22,480
+So at the end of the day, probably depleting hepatic cholesterol pools is what you have to do.
+
+956
+01:37:22,480 --> 01:37:26,160
+It's still its primary driver. So really, at least on some level,
+
+957
+01:37:26,160 --> 01:37:31,040
+bempedoc acid is attractive because it's more hepatic selective, even if it's less potent.
+
+958
+01:37:31,920 --> 01:37:36,480
+And remind me again, what do we think is the relative potency compared to a statin?
+
+959
+01:37:36,480 --> 01:37:41,520
+If you look at its monotherapy trials, it's like a zetimide. You're going to get anywhere
+
+960
+01:37:41,520 --> 01:37:49,040
+from a 10 to 18 percent lowering of LDL cholesterol by itself, a tad less APOB 10 to 12 percent,
+
+961
+01:37:49,040 --> 01:37:55,520
+if you use it as a monotherapy. As you know, with a zetimide with statins, there's a wide range of
+
+962
+01:37:55,520 --> 01:38:01,680
+responses. I think with all these drugs, there are hyper responders, middle-of-the-road responders,
+
+963
+01:38:01,680 --> 01:38:09,040
+and hypo responders. And I think that probably has a lot to do with how much synthesis of
+
+964
+01:38:09,040 --> 01:38:15,600
+cholesterol, how much absorption of cholesterol, what type of LDL receptors do you make or express.
+
+965
+01:38:15,600 --> 01:38:19,440
+There's a lot of factors at play, but if you want a generalization, that's what it is.
+
+966
+01:38:20,480 --> 01:38:25,200
+And now you alluded to it, but what do we think about in terms of what's changed in the last
+
+967
+01:38:25,200 --> 01:38:28,960
+couple of years in terms of our thinking about EPA and DHA specifically?
+
+968
+01:38:29,760 --> 01:38:35,520
+Well, two things, and it's been a long time and nobody has respected triglycerides more than I
+
+969
+01:38:35,520 --> 01:38:41,280
+have been lecturing about triglyceride rich lipoproteins forever. And I knew despite all the
+
+970
+01:38:41,280 --> 01:38:46,160
+nonsense that it doesn't matter what you do to trays, you don't reduce events like you do with LDL
+
+971
+01:38:46,160 --> 01:38:51,680
+cholesterol because of improperly designed trials and enrollment of people who basically didn't have
+
+972
+01:38:51,760 --> 01:38:58,160
+triglyceride issues and giving them triglyceride-lowering drugs. But anyway, we're far enough down
+
+973
+01:38:58,160 --> 01:39:03,280
+the road that not only does the Mendelian randomization trials certainly suggest, look,
+
+974
+01:39:03,280 --> 01:39:07,760
+there are certain genes that are involved with triglycerides that are seriously involved with
+
+975
+01:39:07,760 --> 01:39:12,960
+atherosclerosis. So it's very plausible if at least through those mechanisms we improve
+
+976
+01:39:12,960 --> 01:39:18,160
+triglycerides, you're going to reduce disease. So for the longest time, what was our other than
+
+977
+01:39:18,240 --> 01:39:24,800
+lifestyle? What was our way to lower triglycerides? We had niacin around forever. We had the emerging
+
+978
+01:39:24,800 --> 01:39:32,400
+fibric acid story, which progress, progress, progress until the terribly improvised trials
+
+979
+01:39:32,400 --> 01:39:37,120
+that were done to, let's see if fibrates worked. They didn't give them to anybody who had
+
+980
+01:39:37,120 --> 01:39:42,720
+triglycerides. So of course the fibrate didn't work, but there's always been this, hey, Omega-3s
+
+981
+01:39:43,440 --> 01:39:50,880
+really are a potentially triglyceride-lowering drug, and maybe we should use them. Anybody who's
+
+982
+01:39:50,880 --> 01:39:57,360
+known Bill Harris for the longest time, as I have, you have, no, yes, Omega-3s, if you really want to
+
+983
+01:39:57,360 --> 01:40:04,160
+get triglyceride-lowering from an Omega-3, you better be using serious, serious doses of the,
+
+984
+01:40:04,160 --> 01:40:09,920
+you don't give a gram, you don't give two grams if you want to get rid of triglycerides, or better
+
+985
+01:40:09,920 --> 01:40:16,480
+yet, triglyceride-rich lipoproteins. If there are other attributes to Omega-3s, we have no way
+
+986
+01:40:16,480 --> 01:40:21,680
+of measuring that. Now, and there almost certainly are, because, you know, Omega-3s are a crucial
+
+987
+01:40:21,680 --> 01:40:26,640
+part of cell membranes and cell signaling. But if we're just going to deal in our lipid world,
+
+988
+01:40:26,640 --> 01:40:33,520
+and you want to have an Omega-3 on board to help you combat triglyceride-rich lipoproteins,
+
+989
+01:40:33,520 --> 01:40:40,320
+you want to have a maximum dose, which looks to be 4,000 milligrams a day. So this was the
+
+990
+01:40:40,320 --> 01:40:44,480
+belief, Bill used to always, listen, don't tell me that you gave somebody a thousand
+
+991
+01:40:44,480 --> 01:40:50,240
+milligrams of Omega-3 and you didn't reduce heart attacks. The odds are strong, you could never
+
+992
+01:40:50,240 --> 01:40:56,960
+reduce heart attacks with that drug, you know? So now we got confused, because as we started to
+
+993
+01:40:56,960 --> 01:41:02,960
+realize this, they started to do trials with, okay, let's give four grams of Omega-3s,
+
+994
+01:41:02,960 --> 01:41:08,160
+and let's really not make the fibrate mistake, put them in the drinking water, let's enroll
+
+995
+01:41:08,160 --> 01:41:13,920
+people into these trials who have high triglycerides. Many of those people also have concomitant low
+
+996
+01:41:13,920 --> 01:41:18,960
+HDL cholesterol, but that necessarily doesn't have to be an entry criteria. But you better have a
+
+997
+01:41:18,960 --> 01:41:24,160
+triglyceride level above a certain degree, or we're not going to waste our money giving Omega-3s
+
+998
+01:41:24,160 --> 01:41:29,840
+to people with triglycerides of 42. And lo and behold, the first trial that started to come down
+
+999
+01:41:29,840 --> 01:41:36,000
+the pike was done in Japan, so God, probably almost a decade ago, the Japan EPA trial.
+
+1000
+01:41:36,720 --> 01:41:42,400
+You know, Japanese people eat a lot of Omega-3s, so they have higher baseline levels anyway,
+
+1001
+01:41:42,400 --> 01:41:49,840
+so they just gave them, for whatever reason, EPA only, on top of a statin. And they didn't
+
+1002
+01:41:49,840 --> 01:41:54,320
+necessarily have to have high triglycerides, but many of the people did. And lo and behold,
+
+1003
+01:41:54,400 --> 01:42:00,640
+although it was not a blinded trial, the evidence was pretty good that, wow, this is really plausible,
+
+1004
+01:42:00,640 --> 01:42:08,400
+that EPA at high dose, four grams a day, reduces the macrovascular outcomes when given with a statin,
+
+1005
+01:42:08,400 --> 01:42:14,560
+that of course is working on the LDL metric you're looking at. So, you know, of course,
+
+1006
+01:42:14,560 --> 01:42:20,000
+people said, aha, that's proving Omega-3s work. Nobody was given a lot of credence, perhaps other
+
+1007
+01:42:20,000 --> 01:42:26,320
+than the people who produce it, that, oh, this is unique to EPA. Most people are taking Omega-3s,
+
+1008
+01:42:26,320 --> 01:42:32,480
+are taking some combination of EPA and DHA, but as long as you're going to take four grams of that,
+
+1009
+01:42:32,480 --> 01:42:39,600
+why wouldn't it do exactly? So here's what happened. So after that EPA trial, the company
+
+1010
+01:42:39,600 --> 01:42:48,000
+that makes the branded EPA medication, which is VSEPA, Amarin is the company, did a major clinical
+
+1011
+01:42:48,000 --> 01:42:55,360
+trial called REDUCEIT, where they enrolled people with, who were taking whatever statin they had
+
+1012
+01:42:55,360 --> 01:43:00,720
+to take to get their LDL cholesterol below 70. And in general, these were high risk people. They had
+
+1013
+01:43:00,720 --> 01:43:05,520
+some degree of carny disease or they were full blown diabetics or had a lot of cardiovascular.
+
+1014
+01:43:05,520 --> 01:43:13,840
+So it wasn't a low risk primary prevention type of study. You had to have a triglyceride above 137
+
+1015
+01:43:13,840 --> 01:43:19,520
+to get into that trial. Most people, it was 150, but you know, the triglyceride assay always
+
+1016
+01:43:19,520 --> 01:43:25,120
+varies plus or minus 15 points. So they would let you come in if you had a 137, because they thought
+
+1017
+01:43:25,120 --> 01:43:30,400
+in a week you're going to have 150. So they enrolled people. That was the cutoff. You had to
+
+1018
+01:43:30,400 --> 01:43:37,120
+have that. And lo and behold, and you were maximized on whatever statin it took to get your LDL-C,
+
+1019
+01:43:37,120 --> 01:43:43,840
+under 100 at the time, pretty good. And lo and behold, and we haven't come up with much in the
+
+1020
+01:43:43,840 --> 01:43:50,560
+world so far, at least it has a big trial saying we lower residual risk with a statin.
+
+1021
+01:43:50,560 --> 01:43:57,600
+Azetomide did it in acute carny syndrome survivors to a certain degree, but this high dose EPA,
+
+1022
+01:43:57,600 --> 01:44:05,040
+two grams twice a day with food, because it is an FLSter, theoretically it needs to be de-esterified
+
+1023
+01:44:05,040 --> 01:44:11,440
+before it's absorbed. There was almost a 30% residual risk reduction. That's mind boggling
+
+1024
+01:44:11,440 --> 01:44:17,360
+to be honest after taking a statin. But they would still say, oh, that's fantastic. We all have to
+
+1025
+01:44:17,360 --> 01:44:23,040
+start using omega-3s at the appropriate dose way more than we ever did. But a lot of believers,
+
+1026
+01:44:23,040 --> 01:44:28,720
+and I think probably Bill Harris and myself said, yeah, but we could also just give four grams of
+
+1027
+01:44:28,720 --> 01:44:35,200
+EPA plus DHA, because deep down many of us believe DHA is a pretty important omega-3 fatty
+
+1028
+01:44:35,200 --> 01:44:39,920
+acid too, if for no other reason than your brain needs it. But I believe all cell membranes need
+
+1029
+01:44:39,920 --> 01:44:46,880
+to a certain extent. And not everybody can convert EPA to DHA, although most people probably can.
+
+1030
+01:44:47,440 --> 01:44:55,280
+So, AstraZeneca had acquired a free omega-3 fatty acid, meaning it's not an ethyl ester,
+
+1031
+01:44:55,280 --> 01:45:01,520
+which means it has a better absorption, better pharmacokinetics, more bioavailability. And it
+
+1032
+01:45:01,520 --> 01:45:09,760
+was called epanova, but it was EPA and DHA, but free EPA and free DHA. And they enrolled basically
+
+1033
+01:45:09,760 --> 01:45:15,200
+the same type of people, high triglycerides, maybe the HCL cholesterol is low, at-risk people.
+
+1034
+01:45:16,080 --> 01:45:21,840
+And two years into the study, the company just stopped the study. It's never been published,
+
+1035
+01:45:21,840 --> 01:45:26,960
+so we don't know. But the reason was its futility. We're not seeing a signal at two
+
+1036
+01:45:26,960 --> 01:45:31,360
+years that it's going to work. So we're not wasting any more money on this.
+
+1037
+01:45:31,360 --> 01:45:33,920
+Yeah, this was last November, right, Tom?
+
+1038
+01:45:33,920 --> 01:45:34,160
+Yeah.
+
+1039
+01:45:34,800 --> 01:45:38,160
+I got to tell you, this caught everybody off guard, didn't it?
+
+1040
+01:45:38,160 --> 01:45:38,480
+Because-
+
+1041
+01:45:38,480 --> 01:45:39,520
+Surely caught me.
+
+1042
+01:45:39,520 --> 01:45:48,080
+It was certainly announced that the study was being stopped. And I would say most observers,
+
+1043
+01:45:48,080 --> 01:45:52,960
+myself included, felt, oh, wow, they're stopping it because the signal is so big.
+
+1044
+01:45:53,920 --> 01:45:58,560
+And then they announced at the cardiology meeting, actually, it stopped because there's no signal.
+
+1045
+01:45:59,440 --> 01:46:01,920
+I'm a little surprised it hasn't been published yet, are you?
+
+1046
+01:46:02,960 --> 01:46:07,440
+And annoyed, to be honest with you, is there something there hiding that didn't come out in
+
+1047
+01:46:07,440 --> 01:46:13,680
+that press release or the early discussion about it or so? So are there subgroups in there where
+
+1048
+01:46:13,680 --> 01:46:18,960
+maybe, yeah, I understand these trials are super expensive and where they say, hey,
+
+1049
+01:46:18,960 --> 01:46:23,840
+we're cutting our losses. We'll have to take this out to five or six years before we ever see a
+
+1050
+01:46:23,840 --> 01:46:26,320
+signal. And I wish they had done that, but it's not-
+
+1051
+01:46:26,320 --> 01:46:29,920
+But then they wouldn't have made the announcement. I mean, I guess to me the thing I'm trying to
+
+1052
+01:46:29,920 --> 01:46:30,560
+understand-
+
+1053
+01:46:30,560 --> 01:46:32,560
+Well, they would have announced it if they're stopping it.
+
+1054
+01:46:32,560 --> 01:46:35,760
+Yes, yes, yes. Yeah, that's what I'm saying. But if they were going to keep running it,
+
+1055
+01:46:35,760 --> 01:46:37,520
+they probably wouldn't have made that announcement.
+
+1056
+01:46:37,520 --> 01:46:38,240
+Oh, no.
+
+1057
+01:46:38,240 --> 01:46:42,400
+And so the thing that I'm trying to wrestle with, which I shouldn't spend any time on it,
+
+1058
+01:46:42,400 --> 01:46:48,160
+I'll just wait till it comes out, is how much of this is the vehicle versus the EPA-DHA split?
+
+1059
+01:46:50,320 --> 01:46:53,600
+You got to bring Bill Harris back on. Look, technically that should,
+
+1060
+01:46:53,600 --> 01:47:01,040
+if what we want to do is achieve a certain level of omega-3s in our blood, be it in a red blood cell
+
+1061
+01:47:01,040 --> 01:47:06,480
+or a cell membrane where we would measure the omega-3 index, which they did not measure in the
+
+1062
+01:47:06,480 --> 01:47:11,760
+reducing trial, or whether you just want to reduce plasma free fatty acid levels.
+
+1063
+01:47:11,760 --> 01:47:15,760
+And by the way, that they did do in the reducing trial, and though it's not been published yet,
+
+1064
+01:47:15,760 --> 01:47:23,120
+it has been presented that the efficacy of the EPA-only product highly depends on the level you
+
+1065
+01:47:23,120 --> 01:47:28,480
+did achieve with a serum. So again, to me, that supports going with four grams a day. Don't think
+
+1066
+01:47:28,480 --> 01:47:32,960
+you can get away with two grams a day, perhaps unless you're really checking the levels,
+
+1067
+01:47:32,960 --> 01:47:40,880
+but even that would be guesswork. So to take home points right now, people ask me, Tom, EPA or EPA-DHA,
+
+1068
+01:47:40,880 --> 01:47:45,200
+if I want to be evidence-based and you're in that type of risk category, I think you got to go with
+
+1069
+01:47:45,200 --> 01:47:50,800
+EPA four grams a day. What if Trigless rides are below 150? What about the person with Triggs 100
+
+1070
+01:47:50,800 --> 01:47:57,280
+who still has residual APOB risk? Yeah, it's an unanswerable question right now. I'm not afraid to
+
+1071
+01:47:57,280 --> 01:48:04,240
+keep using EPA-DHA. Whatever the magical mystery effects of the EPA are, which is, you know,
+
+1072
+01:48:04,240 --> 01:48:09,440
+are all theoretical at the given moment, and they're checking a lot of biomarkers to try and explain
+
+1073
+01:48:10,000 --> 01:48:15,920
+and it's all winding up in this massive inflammatory world that's maybe to do something or self
+
+1074
+01:48:15,920 --> 01:48:22,560
+signaling world. Yes, but your brain needs some self-signaling from DHA too. So if I'm going to
+
+1075
+01:48:23,120 --> 01:48:29,760
+throw four grams of EPA at you, I, as you know, I'm a big advocate of doing the Omega-3 index.
+
+1076
+01:48:29,760 --> 01:48:36,640
+So if I'm giving you four grams of EPA only, but your Omega-3 index shows me you have adequate DHA
+
+1077
+01:48:36,640 --> 01:48:42,000
+in your system. I know some of that EPA is being converted, so I'm kind of happy. And I don't
+
+1078
+01:48:42,000 --> 01:48:48,160
+perhaps necessarily have to co-prescribe some degree of DHA with you. My worry would be what
+
+1079
+01:48:48,160 --> 01:48:53,360
+about somebody who's taken the four grams of EPA and the Omega-3 index shows you you're still
+
+1080
+01:48:53,360 --> 01:49:00,000
+deficient in DHA. Then I think you got to scratch your brain and do what you want to do. And I might
+
+1081
+01:49:00,000 --> 01:49:07,840
+be, hey, let's start giving a little DHA. But I can't buy into the concept that a little bit of
+
+1082
+01:49:07,840 --> 01:49:13,280
+DHA is negating EPA. Maybe that's true. And that's what the EPA purists will tell you.
+
+1083
+01:49:14,240 --> 01:49:19,200
+Well, hopefully we have some published data in the next six months that can at least give us a
+
+1084
+01:49:19,200 --> 01:49:24,720
+hint. I don't think this study had enough in common with reduce it to answer that question,
+
+1085
+01:49:24,720 --> 01:49:30,400
+but I think it could potentially give us a clue. Yeah, and we're getting more and more data.
+
+1086
+01:49:30,400 --> 01:49:36,000
+They're doing additional trials with EPA and they're doing more subtrial analysis. They've even shown
+
+1087
+01:49:36,000 --> 01:49:41,840
+some angiographic data with despite that great reduction residual risk, if you actually look at
+
+1088
+01:49:41,840 --> 01:49:48,000
+plaque, it looks a lot better when you're taking four grams of EPA. So that's pretty encouraging
+
+1089
+01:49:48,960 --> 01:49:54,800
+of that type of study. Anyway, you know about predicting what a plaque image shows an event
+
+1090
+01:49:54,800 --> 01:50:01,440
+reduction, but good nonetheless. Anything else on the pharmacology side, Tom, that's really
+
+1091
+01:50:01,440 --> 01:50:06,400
+interesting to you, especially in the last couple of years, because I like the way we've sort of
+
+1092
+01:50:06,400 --> 01:50:11,200
+at least tried to bring people up to speed on what the big changes have been.
+
+1093
+01:50:11,200 --> 01:50:18,080
+Listen, I still think fibrates are widely underused drug. I think for the right person where you've,
+
+1094
+01:50:18,640 --> 01:50:23,600
+through whatever method you use, have identified triglyceride rich lipoproteins,
+
+1095
+01:50:23,600 --> 01:50:28,480
+perhaps those where you clearly see insulin resistance, their diabetics, or their insulin
+
+1096
+01:50:28,480 --> 01:50:35,600
+levels are high. That's where the fibrate subtrial analysis shows miraculous things,
+
+1097
+01:50:35,600 --> 01:50:41,840
+not only with macrovascular endpoints, but with microvascular endpoints, retina, peripheral
+
+1098
+01:50:41,840 --> 01:50:47,680
+nervous system, renal function. So even though you might screw up creatinine a little bit,
+
+1099
+01:50:47,680 --> 01:50:52,960
+you're actually improving EGFR because of overproduction of creatinine, which in that
+
+1100
+01:50:52,960 --> 01:50:59,520
+case is not reflective of EGFR. So I think there still is a group of patients right now
+
+1101
+01:50:59,520 --> 01:51:05,920
+where fibric acids, the purest fibric acid, which is an approach drug, is that phenofibric acid
+
+1102
+01:51:05,920 --> 01:51:11,840
+still so is trilypics. So I think if you have to use a fibric acid, if at all possible,
+
+1103
+01:51:11,840 --> 01:51:18,080
+that's the one to use. And the good news is there is a new fibrate, permafibrate,
+
+1104
+01:51:18,080 --> 01:51:23,840
+pammafibrate that's being invested in clinical trials. It's called a SPARM, a Selective P-PAR
+
+1105
+01:51:23,840 --> 01:51:29,600
+Alpha Receptor Modulator, that they're really high on. And there's big outcome trials going
+
+1106
+01:51:29,600 --> 01:51:35,840
+on with that yet. But nobody's going to be using that or thinking about it until those trials are
+
+1107
+01:51:35,840 --> 01:51:41,760
+stopped for good reasons, bad reasons, or published, of course, and get FDA approval.
+
+1108
+01:51:41,760 --> 01:51:46,160
+So I think there's still hope with the fibrates. Niacin is a dead drug. I know there's going to
+
+1109
+01:51:46,160 --> 01:51:50,800
+be a lot of people listening to this who, oh no, it's not. It's out of every guideline. There's
+
+1110
+01:51:50,800 --> 01:51:54,720
+not a single guideline in the world that recommends you can use anything you want if
+
+1111
+01:51:54,720 --> 01:52:00,080
+you're stuck between a rock and a hard place. And I certainly know there are LP little A advocates.
+
+1112
+01:52:00,080 --> 01:52:07,440
+If you bring Sam on, he will still selectively use niacin in certain cases, but few in the
+
+1113
+01:52:07,440 --> 01:52:12,080
+lipidology world still agree with that. Yeah. And back to your point on trilypics,
+
+1114
+01:52:12,080 --> 01:52:17,200
+we probably have three or four patients on it. And man, it's a world beater. I had one patient who was
+
+1115
+01:52:18,160 --> 01:52:24,560
+probably, I mean, he looked like he had FH and he looked like he also had, of course,
+
+1116
+01:52:24,560 --> 01:52:30,240
+a familial hypertriglyceridemia. I mean, you couldn't distinguish them. And even though you
+
+1117
+01:52:30,800 --> 01:52:37,760
+knew he was going to end up on both a statin and a fibrate at some point, I just out of curiosity
+
+1118
+01:52:37,760 --> 01:52:42,960
+wanted to see what ApoB reduction we'd get starting with just the trilypics. So his trigs were about
+
+1119
+01:52:42,960 --> 01:52:50,560
+400 to begin with. ApoB was over 200. The trilypics took him from a triglyceride of 400
+
+1120
+01:52:50,560 --> 01:52:56,160
+milligrams per deciliter to about a hundred. My memory serves me correctly. And that took the
+
+1121
+01:52:56,160 --> 01:53:06,080
+ApoB from wherever it was, high 100s, 200 down to somewhere between 80 and 100. So that's monotherapy
+
+1122
+01:53:06,080 --> 01:53:11,520
+of trilypics, which was not the intention, but just in a stepwise progression showed you the potency.
+
+1123
+01:53:11,520 --> 01:53:15,920
+And unless you're dealing with a super humongous high risk and acute carnitis, I don't think it's
+
+1124
+01:53:15,920 --> 01:53:21,200
+irrational to go down that route. There are plenty of people who you have to bat them over the head
+
+1125
+01:53:21,200 --> 01:53:25,360
+with whatever to convince them to use a statin. And maybe they'll say, well, I believe in
+
+1126
+01:53:25,360 --> 01:53:28,880
+triglycerides. You're giving me a triglyceride. I'll work with you. Well, let's see what the
+
+1127
+01:53:28,880 --> 01:53:33,760
+parameter. Clearly you picked the right person there where it's triglycerides were generating
+
+1128
+01:53:33,760 --> 01:53:40,640
+the ApoB particles and the multi mechanisms on how fibrates reduced triglyceride had a beneficial
+
+1129
+01:53:40,640 --> 01:53:48,400
+effect. I've actually with Peter Jones published data using NMRs on resubastatin and phenofibric
+
+1130
+01:53:48,400 --> 01:53:54,560
+acid. And you, in some people, there were pretty nice reductions in LDL particle counts using
+
+1131
+01:53:54,560 --> 01:54:00,160
+phenofibrate, always more. But when you looked at the particle analysis, when you were even
+
+1132
+01:54:00,160 --> 01:54:05,760
+combining phenofibric acid with the fibrate or excuse me, with the statin, you got way more
+
+1133
+01:54:05,760 --> 01:54:11,200
+dramatic remnant reductions with the fibrate than you ever did with the statin. So another reason,
+
+1134
+01:54:11,840 --> 01:54:17,680
+and almost certainly that person would trigger 400, there was some contribution from remnants in that
+
+1135
+01:54:17,680 --> 01:54:24,160
+person you would think. So just don't forget fibrates. A tragedy to me or young lipidologists
+
+1136
+01:54:24,160 --> 01:54:29,280
+are not being taught about it. Few of them can give you a dissertation on fibrates and how they
+
+1137
+01:54:29,280 --> 01:54:34,720
+work and what is their trial history. God, there's 40 years of trial history that you can
+
+1138
+01:54:35,200 --> 01:54:40,240
+always garner a little bit from any trial. So I find that sad that it's not even being taught
+
+1139
+01:54:40,240 --> 01:54:45,120
+anymore. And people bad mouthfully condemn it without knowing what they're talking about.
+
+1140
+01:54:45,120 --> 01:54:47,760
+I always feel lucky to have been trained by dinosaurs.
+
+1141
+01:54:49,520 --> 01:54:53,760
+Well, some of us have been around the block for a few times or so. But you know,
+
+1142
+01:54:53,760 --> 01:55:00,160
+us old dinosaurs, when we meet you young, brilliant guys, you keep us, if I want to still
+
+1143
+01:55:00,880 --> 01:55:05,280
+talk to this guy, I got to keep up with this stuff. Because I know things I said 10,
+
+1144
+01:55:05,280 --> 01:55:08,720
+15 years ago are silly now, because you got to keep learning. You know that.
+
+1145
+01:55:09,280 --> 01:55:13,840
+Guys like you are really good for me that I just can't rest on my laurels.
+
+1146
+01:55:14,640 --> 01:55:18,960
+Tom, this has been a lot of fun. We were supposed to do this last week and we had some technical
+
+1147
+01:55:18,960 --> 01:55:23,840
+difficulties. So we postponed till this week and I'm glad we did. Because it was worth being able
+
+1148
+01:55:23,840 --> 01:55:26,960
+to do it and actually be able to look at each other through a screen as opposed to just have
+
+1149
+01:55:26,960 --> 01:55:32,640
+to do it by phone. And so I want to thank you obviously for your continued insight. You make a
+
+1150
+01:55:32,640 --> 01:55:36,800
+great difference in our practice. I guess I should fully disclose to people you are now
+
+1151
+01:55:37,520 --> 01:55:42,800
+basically full time inside Attia Medical as a practice. You're on the backside of things,
+
+1152
+01:55:42,800 --> 01:55:48,240
+doing mostly research, but we drag you into at least a third of our patient calls and we
+
+1153
+01:55:48,800 --> 01:55:55,120
+always consult with you on all of our cardiovascular cases. So I hope you're also enjoying being
+
+1154
+01:55:55,120 --> 01:55:59,600
+back to clinical medicine somewhat, even though it's at a much lower volume. We certainly enjoy
+
+1155
+01:55:59,600 --> 01:56:07,440
+having you. It's been such a wonderful part of if this is the finish of my career, still being
+
+1156
+01:56:07,440 --> 01:56:12,560
+able to do this. And you know, although I know a lot of this lipid stuff, the basic science,
+
+1157
+01:56:12,560 --> 01:56:17,360
+I've always been what I, I, Mike Davis, was a clinical epidemiologist. None of this lipid
+
+1158
+01:56:17,360 --> 01:56:22,960
+stuff is meaningful if you can't use it at the bedside and make individualized things.
+
+1159
+01:56:22,960 --> 01:56:29,120
+So I'm just thrilled to be able to contribute to you. And I think one day, as you know, I'm trying
+
+1160
+01:56:29,120 --> 01:56:33,440
+to write and generate and put more and more of this into writing, and that will become available to
+
+1161
+01:56:34,160 --> 01:56:40,480
+your followers and subscribers. And so folks, stay tuned for that. And I will say, maybe it's
+
+1162
+01:56:40,480 --> 01:56:44,640
+another podcast and are probably better people than me to talk to. But the one thing we didn't
+
+1163
+01:56:44,640 --> 01:56:51,760
+get into today is the emerging genetic world, genetic analysis of lipoproteins, and specifically
+
+1164
+01:56:51,840 --> 01:56:58,240
+the genetic lipidosis, FH, who needs that type of testing, who doesn't, whatever you discover,
+
+1165
+01:56:58,240 --> 01:57:04,160
+what can you do for it? It's another whole serious podcast. So other than that, thank you for
+
+1166
+01:57:04,160 --> 01:57:11,280
+everything, Peter. Meeting you a long time ago in Reno, Nevada was a big day in my life.
+
+1167
+01:57:11,280 --> 01:57:17,600
+Oh, mine too, Tom. Thanks so much. Thank you for listening to this week's episode of The Drive.
+
+1168
+01:57:17,600 --> 01:57:22,000
+If you're interested in diving deeper into any topics we discuss, we've created a membership
+
+1169
+01:57:22,000 --> 01:57:27,280
+program that allows us to bring you more in-depth, exclusive content without relying on paid ads.
+
+1170
+01:57:27,280 --> 01:57:31,760
+It's our goal to ensure members get back much more than the price of the subscription.
+
+1171
+01:57:31,760 --> 01:57:37,200
+Now to that end, membership benefits include a bunch of things. One, totally kick ass comprehensive
+
+1172
+01:57:37,200 --> 01:57:43,040
+podcast show notes that detail every topic, paper, person, thing we discuss on each episode. The word
+
+1173
+01:57:43,040 --> 01:57:49,280
+on the street is nobody's show notes rival these. Monthly AMA episodes or Ask Me Anything episodes,
+
+1174
+01:57:49,280 --> 01:57:54,320
+hearing these episodes completely. Access to our private podcast feed that allows you to
+
+1175
+01:57:54,320 --> 01:58:00,000
+hear everything without having to listen to spiel's like this. The Qualies, which are a super short
+
+1176
+01:58:00,000 --> 01:58:04,640
+podcast that we release every Tuesday through Friday, highlighting the best questions, topics,
+
+1177
+01:58:04,640 --> 01:58:09,280
+and tactics discussed on previous episodes of The Drive. This is a great way to catch up
+
+1178
+01:58:09,360 --> 01:58:13,200
+on previous episodes without having to go back and necessarily listen to everyone.
+
+1179
+01:58:13,760 --> 01:58:19,200
+Steep discounts on products that I believe in, but for which I'm not getting paid to endorse,
+
+1180
+01:58:19,200 --> 01:58:23,360
+and a whole bunch of other benefits that we continue to trickle in as time goes on. If you
+
+1181
+01:58:23,360 --> 01:58:28,160
+want to learn more and access these member only benefits, you can head over to peteratiamd.com
+
+1182
+01:58:28,160 --> 01:58:34,720
+forward slash subscribe. You can find me on Twitter, Instagram, and Facebook, all with the ID
+
+1183
+01:58:34,800 --> 01:58:40,720
+peteratiamd. You can also leave us a review on Apple Podcast or whatever podcast player you
+
+1184
+01:58:40,720 --> 01:58:46,400
+listen on. This podcast is for general informational purposes only, does not constitute the practice of
+
+1185
+01:58:46,400 --> 01:58:52,080
+medicine, nursing, or other professional healthcare services, including the giving of medical advice.
+
+1186
+01:58:52,720 --> 01:58:57,680
+No doctor patient relationship is formed. The use of this information and the materials linked to
+
+1187
+01:58:57,680 --> 01:59:04,160
+this podcast is at the user's own risk. The content on this podcast is not intended to be a substitute
+
+1188
+01:59:04,160 --> 01:59:10,800
+for professional medical advice, diagnosis, or treatment. Users should not disregard or delay
+
+1189
+01:59:10,800 --> 01:59:15,680
+in obtaining medical advice from any medical condition they have, and they should seek the
+
+1190
+01:59:15,680 --> 01:59:21,440
+assistance of their healthcare professionals for any such conditions. Finally, I take conflicts of
+
+1191
+01:59:21,440 --> 01:59:27,440
+interest very seriously. For all of my disclosures and the companies I invest in or advise, please
+
+1192
+01:59:27,440 --> 01:59:35,040
+visit peteratiamd.com forward slash about where I keep an up-to-date and active list of such companies.
+
+1193
+01:59:57,440 --> 02:00:03,040
+Thank you.
+

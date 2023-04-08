@@ -1,0 +1,3580 @@
+1
+00:00:00,000 --> 00:00:15,640
+Hey everyone, welcome to the Drive podcast. I'm your host, Peter Attia. This podcast, my
+
+2
+00:00:15,640 --> 00:00:19,400
+website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:19,400 --> 00:00:24,360
+longevity into something accessible for everyone. Our goal is to provide the best content in
+
+4
+00:00:24,360 --> 00:00:28,440
+health and wellness, full stop, and we've assembled a great team of analysts to make
+
+5
+00:00:28,440 --> 00:00:32,720
+this happen. If you enjoy this podcast, we've created a membership program that brings you
+
+6
+00:00:32,720 --> 00:00:36,920
+far more in-depth content. If you want to take your knowledge of this space to the next level.
+
+7
+00:00:36,920 --> 00:00:41,560
+At the end of this episode, I'll explain what those benefits are. Or if you want to learn more now,
+
+8
+00:00:41,560 --> 00:00:48,080
+head over to PeterAttiaMD.com forward slash subscribe. Now, without further delay, here's
+
+9
+00:00:48,080 --> 00:00:55,840
+today's episode. Welcome back to another special episode of the Drive focusing on COVID-19. My
+
+10
+00:00:55,840 --> 00:01:01,600
+guest today is Dr. Michael Osterholm. You may have seen Michael on the Joe Rogan podcast a few
+
+11
+00:01:01,600 --> 00:01:06,080
+weeks ago. I saw him then and was immediately impressed, reached out to him and asked if he'd
+
+12
+00:01:06,080 --> 00:01:11,600
+like to come on our show, which he graciously agreed to. Michael is the director of the Center
+
+13
+00:01:11,600 --> 00:01:16,320
+for Infectious Disease Research and Policy at the University of Minnesota. He's also the author of
+
+14
+00:01:16,320 --> 00:01:21,880
+a book that in many ways foreshadowed this. The book is called Deadliest Enemy, Our War Against
+
+15
+00:01:21,880 --> 00:01:26,680
+Deadly Germs. And in that book in particular, he foreshadows a lot of what we're going through
+
+16
+00:01:26,680 --> 00:01:33,280
+today. Mike and I in this discussion talk about everything from our best understanding of what's
+
+17
+00:01:33,280 --> 00:01:38,520
+happening in the United States with respect to the spread and the slowing of the virus,
+
+18
+00:01:38,520 --> 00:01:44,440
+what he's optimistic about, what he's pessimistic about, what he thinks the end state looks like,
+
+19
+00:01:44,440 --> 00:01:50,320
+and what you'd have to believe is true if that is to be altered. We also get into the weeds a little
+
+20
+00:01:50,320 --> 00:01:56,480
+bit on some technical things around supply chain limitations with respect to drugs, with respect to
+
+21
+00:01:56,480 --> 00:02:01,320
+masks, with respect to vaccines. There are a number of things we discuss. And again, I think just for
+
+22
+00:02:01,320 --> 00:02:06,160
+the purpose of simplicity, rather than get into a laundry list of everything we talk about, I think
+
+23
+00:02:06,160 --> 00:02:10,280
+if you're, if you've got this far, you're probably interested in hearing it. So without further delay,
+
+24
+00:02:10,280 --> 00:02:13,000
+please enjoy my conversation with Dr. Michael Osterholm.
+
+25
+00:02:13,000 --> 00:02:24,160
+Mike, thank you so much for making time to sit down with us for some time today. And again,
+
+26
+00:02:24,160 --> 00:02:29,400
+I want to thank you because I just know that you are constantly being bombarded by requests. And
+
+27
+00:02:29,400 --> 00:02:34,080
+there's sort of a challenge you have to deal with, which is on the one hand, you want to be able to
+
+28
+00:02:34,080 --> 00:02:38,240
+do your job, but on the other hand, it's somewhat important for people like you doing your job to
+
+29
+00:02:38,240 --> 00:02:43,000
+be able to communicate with the rest of us what you're seeing and more importantly, what the
+
+30
+00:02:43,000 --> 00:02:47,080
+implications are and what can be done about it. Well, thank you very much, Peter. It's very good
+
+31
+00:02:47,080 --> 00:02:52,040
+to be with you. And I think that it's venues like yours that serve a very important role in getting
+
+32
+00:02:52,040 --> 00:02:57,320
+information out today. Far too much of what we deal with is in sound bites. It's in three minute
+
+33
+00:02:57,320 --> 00:03:04,000
+segments. And I think that's really hard to convey the complexities and the overall short term,
+
+34
+00:03:04,000 --> 00:03:08,040
+long term view of what's happening here. So I'm really pleased to be with you. Thank you.
+
+35
+00:03:08,480 --> 00:03:12,760
+Well, yeah, you're in the right spot. We're not fans of sound bites here. So we'll get right to
+
+36
+00:03:12,760 --> 00:03:19,080
+it and we'll get deep. So let's start with kind of the 30,000 foot view, which is when we sit here
+
+37
+00:03:19,080 --> 00:03:26,080
+today recording this on March 30th, it feels like an eternity ago that you were on Joe Rogan's
+
+38
+00:03:26,080 --> 00:03:32,760
+podcast doing what I thought was just an excellent job of giving Joe and Joe's audience an overview
+
+39
+00:03:32,760 --> 00:03:38,080
+of what we knew at the time, what we didn't know at the time, what the concerns were. What
+
+40
+00:03:38,320 --> 00:03:44,200
+do you feel more optimistic about relative to that time, which has probably been three weeks? What do
+
+41
+00:03:44,200 --> 00:03:49,880
+you feel less optimistic about? Well, first of all, I think that it's important to understand,
+
+42
+00:03:51,280 --> 00:03:55,040
+Lewis Carroll once said, if you don't know where you're going, any road will get you there. And I
+
+43
+00:03:55,040 --> 00:03:59,280
+think that one of the things that I've been very concerned about is we don't really know where we're
+
+44
+00:03:59,280 --> 00:04:05,680
+going. And that's not because the virus hasn't given us lots of clues. Just very briefly to take
+
+45
+00:04:05,680 --> 00:04:11,120
+a step back, just to remind everybody where we've been, we've been following this situation very
+
+46
+00:04:11,120 --> 00:04:16,800
+closely since the end of December last year. I have been very actively involved. I was involved
+
+47
+00:04:16,800 --> 00:04:23,680
+with the SARS investigation in 2003, very involved with MERS on the Moravian Peninsula, and have
+
+48
+00:04:23,680 --> 00:04:28,960
+obviously done a lot of work and influence the pandemic preparedness and planning. And so when
+
+49
+00:04:28,960 --> 00:04:35,280
+this first happened, and we saw these cases in Wuhan, it was really to us, oh my, here comes another
+
+50
+00:04:35,280 --> 00:04:41,680
+SARS or MERS-like experience, which actually, in retrospect, those were the easy ones because
+
+51
+00:04:41,680 --> 00:04:46,240
+patients were not becoming highly infectious till the fifth or sixth day of illness. You could
+
+52
+00:04:46,240 --> 00:04:52,320
+identify them quickly, get them into appropriate isolation so you didn't infect others. And we
+
+53
+00:04:52,320 --> 00:04:56,880
+could follow up in their context. But it became very clear to us by the second week of January,
+
+54
+00:04:56,880 --> 00:05:01,680
+what was happening in Wuhan was not SARS and MERS. This was acting much more like an influenza
+
+55
+00:05:01,680 --> 00:05:08,320
+virus in terms of transmission dynamic, lots of spread very quickly. And so on January 20th,
+
+56
+00:05:08,320 --> 00:05:12,560
+we actually put a document out saying that this was going to be a worldwide pandemic, almost two
+
+57
+00:05:12,560 --> 00:05:18,160
+months before the WHO did. We were convinced we would see spread. On February 3rd, we put out an
+
+58
+00:05:18,160 --> 00:05:22,640
+additional document that said it would probably take until the end of February or early March
+
+59
+00:05:22,640 --> 00:05:28,240
+before we would see cases around the world in any meaningful way, because it just, the transmission
+
+60
+00:05:28,240 --> 00:05:33,600
+of this virus was such that we had a sense, even then, probably had an incubation period of about
+
+61
+00:05:33,600 --> 00:05:40,080
+five days from infection until the onset of symptoms. And that if it had an R-naught or the
+
+62
+00:05:40,080 --> 00:05:46,480
+number of people that you transmit on an average basis to of about 2 to 2.4, you go from 1 to 2 to
+
+63
+00:05:46,480 --> 00:05:54,720
+4 to 8 to 16 to 32. And knowing that the cases in China were largely about 80% were not seeking
+
+64
+00:05:54,720 --> 00:05:58,240
+medical care. They were sick, but it wasn't sufficient. We said, you know, it'll probably be
+
+65
+00:05:58,240 --> 00:06:03,200
+the end of February. Well, sure enough, it was. We also put out a document in mid-February saying
+
+66
+00:06:03,200 --> 00:06:09,120
+that when it did start to show up, it probably hit hotspots, metropolitan areas, because of number one,
+
+67
+00:06:09,120 --> 00:06:13,680
+that's where most of the transportation, communication of people from China to the
+
+68
+00:06:13,680 --> 00:06:18,400
+rest of the world would be. Second of all, that's where the population density was high enough so
+
+69
+00:06:18,400 --> 00:06:23,760
+that you would actually see this amplification. Sure enough, as you know now, that's exactly what
+
+70
+00:06:23,760 --> 00:06:28,960
+we've seen. So having said that, it seems that we kind of know what's going on here. And I'll say
+
+71
+00:06:28,960 --> 00:06:34,880
+right now, we're done with that. I don't know where this virus is going to go next in terms of
+
+72
+00:06:34,880 --> 00:06:40,160
+how long it'll be around. You can make assumptions of what we see within influenza. I think some of
+
+73
+00:06:40,160 --> 00:06:44,800
+those are helpful, but I don't think that they're necessarily definitive. People talk about
+
+74
+00:06:44,800 --> 00:06:51,920
+seasonality. I remind people all the time that we don't see that with the other two coronaviruses.
+
+75
+00:06:51,920 --> 00:06:57,920
+SARS was not seasonality just because it ended in June. It was a new situation where we first
+
+76
+00:06:57,920 --> 00:07:02,640
+understood we had a problem in February. It took us literally several months to figure out this
+
+77
+00:07:02,640 --> 00:07:08,640
+infectivity period, get people isolated, stop transmission, get palm civets out of the markets
+
+78
+00:07:08,640 --> 00:07:14,240
+of the Guangdong province, and then it ended it. If you look at MERS, and I've been there standing
+
+79
+00:07:14,240 --> 00:07:19,120
+outside of a hospital in Abu Dhabi, it was 110 degrees, and transmission was going on just fine,
+
+80
+00:07:19,120 --> 00:07:23,760
+thank you. It was not at all being halted by the weather, and because of course,
+
+81
+00:07:23,760 --> 00:07:28,880
+camels are not going to be put down as such, it just continues to transmit in the Arabian
+
+82
+00:07:28,880 --> 00:07:33,680
+Peninsula year-round, and our primary means of dealing with it is just making sure that
+
+83
+00:07:33,680 --> 00:07:38,880
+people don't transfer in the hospital setting. So if you take that, but also take influenza,
+
+84
+00:07:38,880 --> 00:07:42,320
+because this is where people come back on the seasonality piece, and they say, well,
+
+85
+00:07:42,320 --> 00:07:47,520
+it's probably going to be like influenza. We forget that while influenza transmits seasonally
+
+86
+00:07:47,520 --> 00:07:52,960
+in the winter of each northern and southern hemispheres, it transmits year-round in the
+
+87
+00:07:52,960 --> 00:07:58,960
+tropics, never stops transmitting. If you look at the last 10 influenza pandemics over the last 250
+
+88
+00:07:58,960 --> 00:08:03,520
+years, two started in the winter, three started in the spring, two started in the summer, and three
+
+89
+00:08:03,520 --> 00:08:09,040
+started in the fall. And every one of them had their big peak six months after the original
+
+90
+00:08:09,040 --> 00:08:17,360
+cases showed up. In 2009, with H1N1, it showed up in mid to late March, and we had a big peak
+
+91
+00:08:17,360 --> 00:08:21,840
+mid-September to mid-October, North America was still warm. So I don't know what it's going to
+
+92
+00:08:21,840 --> 00:08:28,000
+do going forward, but that's where when you ask me, good news, bad news, I have every reason to
+
+93
+00:08:28,000 --> 00:08:34,560
+believe that it won't stop transmitting in any meaningful way until we get 50 or 60 or 70% of
+
+94
+00:08:34,560 --> 00:08:41,440
+the population infected, which means that the bad news is that we are going to have to deal with
+
+95
+00:08:41,440 --> 00:08:46,880
+those cases unless we can suppress them. And we can talk about what the implications that are.
+
+96
+00:08:46,880 --> 00:08:52,800
+If we suppress them, meaning that we do what Wuhan did, and the Chinese in Wuhan did, of basically
+
+97
+00:08:52,800 --> 00:08:58,320
+shutting down everything in the most draconian manner we've ever seen in modern quarantine
+
+98
+00:08:58,320 --> 00:09:02,400
+history, that means we're going to shut down our country. We'll shut down the economy in any
+
+99
+00:09:02,400 --> 00:09:07,200
+meaningful way, and not just about dollars and cents. Who's going to pick up the garbage?
+
+100
+00:09:07,200 --> 00:09:11,600
+Who's going to basically be fire and police? Who's going to do all the things that we count on?
+
+101
+00:09:11,600 --> 00:09:17,440
+I'm pessimistic about the fact that we don't have an easy way out. I like to say that right now we
+
+102
+00:09:17,440 --> 00:09:22,640
+either suppress this and have this implication we talked about in a hope that we can suppress it
+
+103
+00:09:22,640 --> 00:09:27,680
+long enough until we get a vaccine, which I don't think will be any sooner than 18 months, or we let
+
+104
+00:09:27,760 --> 00:09:33,200
+it go willy-nilly, and we will bring down healthcare systems. Many thousands to millions of people will
+
+105
+00:09:33,200 --> 00:09:37,840
+die, and our healthcare systems will collapse, or we try to thread the rope through the needle and
+
+106
+00:09:37,840 --> 00:09:44,080
+hit the middle. How do we find a way to have those people who are at lowest risk of having serious
+
+107
+00:09:44,080 --> 00:09:50,320
+disease, problems, who are at the highest risk of dying be in our workforce, be more public,
+
+108
+00:09:50,320 --> 00:09:55,200
+and handle the issues? So if we can do that, that's good news. If we can't, the rest of us
+
+109
+00:09:55,200 --> 00:10:00,480
+pretty bad news. Mike, the numbers you just rattled off as sort of potential projections,
+
+110
+00:10:00,480 --> 00:10:05,920
+is that worldwide, or was that a domestic figure? That's in the United States. I mean, if you look
+
+111
+00:10:05,920 --> 00:10:11,440
+at, you know, do the math, and just a little over 300 million people, if you're talking about 60%
+
+112
+00:10:11,440 --> 00:10:18,000
+of those infected, you're talking 170 to 175 million people. If you talk about 80% of those
+
+113
+00:10:18,000 --> 00:10:23,920
+having relatively milder illness, now you're talking 20% that are going to have some illness
+
+114
+00:10:24,000 --> 00:10:29,360
+that will likely require hospitalization. If you then take that down to even one or two percent
+
+115
+00:10:29,360 --> 00:10:34,320
+of those who might die, you can just do the simple math, and you realize we're talking about millions.
+
+116
+00:10:34,880 --> 00:10:39,440
+And that's what I don't think people understand yet, is that this virus is going to keep going. It
+
+117
+00:10:39,440 --> 00:10:44,880
+is very much like an influenza virus in that regard. It will go until it finds enough immune
+
+118
+00:10:44,880 --> 00:10:49,680
+people that shut it down, meaning they don't let transmission continue. And that's what I don't
+
+119
+00:10:49,680 --> 00:10:53,440
+think people are prepared to understand yet, is that they think that these waves are going to
+
+120
+00:10:53,440 --> 00:10:57,920
+happen over the next two to three weeks, and then we're done. Just remind people that right now in
+
+121
+00:10:57,920 --> 00:11:06,640
+China, here we are, the end of March, this clearly was present in China in mid to late November.
+
+122
+00:11:06,640 --> 00:11:11,280
+And we're still seeing transmission inside in China, even with these draconian measures to limit
+
+123
+00:11:11,280 --> 00:11:16,000
+transmission. There are people in the Wuhan area who've not been out of their house in 15 weeks,
+
+124
+00:11:16,000 --> 00:11:21,360
+and yet we still see cases occurring. So this is going to happen here, where it'll be months and
+
+125
+00:11:21,360 --> 00:11:26,640
+months potentially of transmission. And I hate to thought of the fact that one of the primary
+
+126
+00:11:26,640 --> 00:11:31,200
+ways that we limit that transmission is just enough people get infected and develop immunity.
+
+127
+00:11:31,760 --> 00:11:36,560
+I might add one good news piece on the immunity piece, this is an important one. I think we can
+
+128
+00:11:36,560 --> 00:11:42,080
+say with more certainty that there probably is durable immunity, at least for the short term.
+
+129
+00:11:42,080 --> 00:11:47,200
+And what I mean by that is there was a study completed and published last week using macaque
+
+130
+00:11:47,200 --> 00:11:52,800
+monkeys. And they infected a group of them with the virus. They all came down with kind of the
+
+131
+00:11:52,800 --> 00:11:58,640
+classic coronavirus-like illness. They then waited until they fully recovered. They re-challenged
+
+132
+00:11:58,640 --> 00:12:03,200
+them a month later, and all of them were protected against unrechallenged. None of them got infected
+
+133
+00:12:03,200 --> 00:12:08,800
+again. And just to make sure I know what the re-challenge implied, were they PCR-negative,
+
+134
+00:12:08,800 --> 00:12:14,720
+IgG-positive, IgM-negative? Yes, they were. I can't say they're IgM-negative. I'd have to go
+
+135
+00:12:14,720 --> 00:12:21,040
+back and look at that. But they were definitely IgG-positive and PCR-negative. Yep. And so we have
+
+136
+00:12:21,040 --> 00:12:26,000
+evidence clearly, and they didn't just do PCR, they did culture too. So they actually were actually
+
+137
+00:12:26,000 --> 00:12:30,880
+looking for the actual virus. In other words, they weren't just looking for surface protein.
+
+138
+00:12:30,880 --> 00:12:35,840
+No, no, exactly. And so I think this study really gave us more hope that there really is
+
+139
+00:12:36,400 --> 00:12:40,080
+durable immunity, at least in the short term. I can't say it's going to be years and years.
+
+140
+00:12:40,080 --> 00:12:44,400
+I know that if you have short term immunity, oftentimes that bodes well for a long term
+
+141
+00:12:44,400 --> 00:12:49,920
+immunity picture. So that's actually an important positive step that these are going to be people
+
+142
+00:12:49,920 --> 00:12:54,800
+who will be, as I call, kind of the human immunologic rods in the virus reaction. They
+
+143
+00:12:54,800 --> 00:12:59,120
+will slow it down. And today they could be the people that could be out there in the world,
+
+144
+00:12:59,120 --> 00:13:02,640
+not worried about getting infected, and also would not infect others.
+
+145
+00:13:03,200 --> 00:13:08,000
+Yeah, I was having a discussion with one of the members of my team today, and anyone who's ever
+
+146
+00:13:08,000 --> 00:13:12,640
+worked with me knows I play this game called the What You Have To Believe game, which is sort of a
+
+147
+00:13:12,640 --> 00:13:20,080
+way to probe the limits of what biology could tell us. So we got a little deep in the weeds on this,
+
+148
+00:13:20,080 --> 00:13:26,720
+and I said, look, imagine for a moment two extreme scenarios. Scenario one is this particular
+
+149
+00:13:26,720 --> 00:13:32,880
+coronavirus SARS-CoV-2 is a total nothing burger. It's just another respiratory virus.
+
+150
+00:13:33,520 --> 00:13:39,280
+It's getting a lot of attention right now, but the reality of it is when it all plays out and
+
+151
+00:13:39,280 --> 00:13:44,480
+everybody gets infected, it's going to have a mortality that's equal to or less than influenza,
+
+152
+00:13:44,480 --> 00:13:50,320
+et cetera, et cetera. If that is true, how would you explain the current data through that paradigm?
+
+153
+00:13:50,320 --> 00:13:54,640
+And we walk through it. But at the other end of the spectrum, I said, what if it's worse? What if
+
+154
+00:13:54,640 --> 00:13:59,280
+it's the virus that could wipe our civilization off the map? Again, I don't think either of these
+
+155
+00:13:59,280 --> 00:14:04,480
+extremes are correct, but it became a good illustration of what would have to be true.
+
+156
+00:14:04,480 --> 00:14:10,560
+What do you have to believe if SARS-CoV-2 and COVID-19 will eradicate our species? Well,
+
+157
+00:14:10,560 --> 00:14:17,760
+you'd have to believe the following. One, there is no long-term immunity. Two, each successive
+
+158
+00:14:17,760 --> 00:14:23,840
+infection is worse than the previous one. And three, no effective treatments will be developed.
+
+159
+00:14:23,840 --> 00:14:27,680
+If those three things are true, this would be the virus that eradicates our species.
+
+160
+00:14:27,680 --> 00:14:32,000
+Fortunately, I don't believe any of those are true. And you're making a very compelling case
+
+161
+00:14:32,000 --> 00:14:36,400
+for at least the first of those not being true. And by the way, they would all have to be true
+
+162
+00:14:36,400 --> 00:14:40,640
+for the scenario I just described. So I take that as some good news. I do want to ask, I mean,
+
+163
+00:14:40,640 --> 00:14:45,040
+it literally just came out, I think, 20 minutes ago. Did you happen to see that Lancet paper that
+
+164
+00:14:45,040 --> 00:14:51,040
+came out going over the revised numbers in China in terms of case fatality?
+
+165
+00:14:51,040 --> 00:14:55,120
+I have not seen that one. I have seen a similar one, but help me. Maybe it is the same one I've
+
+166
+00:14:55,200 --> 00:15:02,720
+seen. Well, so this one basically took the original case fatality rate of 1.38%, but followed it up
+
+167
+00:15:02,720 --> 00:15:07,280
+and added a whole bunch of more people to the denominator that were previously in the
+
+168
+00:15:07,280 --> 00:15:11,680
+unconfirmed bucket. So you took a bunch of people that were unconfirmed, you've now gone on to
+
+169
+00:15:11,680 --> 00:15:20,960
+confirm them. And the case fatality rate now looks to be 0.66%. Again, largely on the basis of not
+
+170
+00:15:20,960 --> 00:15:28,480
+subtracting mortality, but adding denominators. Does that surprise you? And what do you think the
+
+171
+00:15:28,480 --> 00:15:37,120
+CFR looks like if one could truly measure all the people that are in that category of having an
+
+172
+00:15:37,120 --> 00:15:42,240
+infection, but not being either clinically significant enough to warrant detention or
+
+173
+00:15:42,240 --> 00:15:47,040
+simply falling through the cracks due to socioeconomic factors, testing, limitations, et cetera?
+
+174
+00:15:47,040 --> 00:15:53,120
+Yeah. Let me take two pieces of information and go at that. First one is you're absolutely
+
+175
+00:15:53,120 --> 00:15:59,520
+correct. It's a numerator denominator issue. Now the challenge I think in adding to the denominator
+
+176
+00:15:59,520 --> 00:16:06,080
+is that you can add quite a bit to that and drive the overall case fatality rate or CFR down.
+
+177
+00:16:06,720 --> 00:16:13,760
+But what we're also missing is the number of people in the numerator. And our contacts in Wuhan
+
+178
+00:16:13,760 --> 00:16:19,760
+during that time period who were pretty reliable actually concluded in their assessment that
+
+179
+00:16:19,760 --> 00:16:25,440
+probably six to eight people were dying every day outside a hospital that were not being counted,
+
+180
+00:16:26,000 --> 00:16:29,200
+meaning that they were not being tested. And if you weren't tested, you weren't counted.
+
+181
+00:16:30,080 --> 00:16:38,640
+And so think about this. If you have a case fatality rate of 1%, 1 over 100, and you suddenly add
+
+182
+00:16:38,640 --> 00:16:45,200
+100 more people to that, you now have a case fatality rate of 0.5 per 100, okay, half of what it was.
+
+183
+00:16:46,000 --> 00:16:53,440
+On the other hand, if you have that same 200, you added 100 more, doubled it. But you also add 10
+
+184
+00:16:53,440 --> 00:17:00,320
+more people who died who weren't counted, only 10. Now you're looking at 11 over 200, and you're now
+
+185
+00:17:00,320 --> 00:17:06,720
+at 5% plus. So the numerator is actually more sensitive in terms of impacting the rate than
+
+186
+00:17:06,720 --> 00:17:14,800
+is the denominator. And so one of the challenges that we've had is what is that overall numerator
+
+187
+00:17:14,800 --> 00:17:20,400
+and how many cases were missed? These have been well written up, these cases. So I don't know what
+
+188
+00:17:20,400 --> 00:17:26,320
+it is, but let me tell you what I think is important now. We've known this, I think from early on in
+
+189
+00:17:26,320 --> 00:17:31,840
+China, that these comorbidities we talk about, this other underlying conditions play a very important
+
+190
+00:17:31,840 --> 00:17:37,440
+role. We've known about that with influenza for years, that comorbidities can affect you in several
+
+191
+00:17:37,440 --> 00:17:43,440
+ways. One, of course, is the occurrence of acute respiratory distress syndrome, or ARDS, in the
+
+192
+00:17:43,440 --> 00:17:48,880
+cytokine storm picture. In some cases, there appears to be kind of a myocarditis type picture
+
+193
+00:17:48,880 --> 00:17:52,800
+that can occur. And of course, there's always secondary bacterial pneumonias, but I'm not even
+
+194
+00:17:52,800 --> 00:17:57,760
+going to count those in there because that in a sense is something we can often deal with with
+
+195
+00:17:57,840 --> 00:18:04,480
+antibiotics. But what happened in China was, is if you look at the overall case fatality rate by age,
+
+196
+00:18:05,040 --> 00:18:13,280
+we saw this exorbitant rate in those over age 65 who are male. Well, if you look closely in China,
+
+197
+00:18:13,280 --> 00:18:21,520
+almost 70% of men over age 65 smoke, and less than 2% of women over that same age group. So right
+
+198
+00:18:21,520 --> 00:18:28,480
+there, you could have an impact on that situation because smoking has always been associated with
+
+199
+00:18:28,480 --> 00:18:32,880
+worse outcome with these kind of viruses. And ironically, the other risk factors,
+
+200
+00:18:32,880 --> 00:18:38,000
+essential hypertension was also seen as a risk factor for bad outcome. But beyond that,
+
+201
+00:18:38,000 --> 00:18:43,200
+there wasn't much else. Obesity, which has been highly associated with bad outcomes,
+
+202
+00:18:43,200 --> 00:18:48,720
+is actually quite rare in the older population of China. It's primarily under age 30, where there
+
+203
+00:18:48,720 --> 00:18:53,360
+are starting to see a real epidemic there. Well, okay, let's fast forward to the United States.
+
+204
+00:18:54,000 --> 00:18:59,120
+We're now getting data out of New York. We're seeing an increased number of severe illnesses
+
+205
+00:18:59,120 --> 00:19:06,880
+and deaths in people between the ages of 25 and 50. And almost to a T, the risk factor appears to
+
+206
+00:19:06,880 --> 00:19:14,160
+be obesity. 45% of our population over age 50 is considered moderate to severely obese today.
+
+207
+00:19:14,720 --> 00:19:19,520
+Just that one risk factor. On top of that, renal disease has been shown in the past to be
+
+208
+00:19:19,520 --> 00:19:25,200
+associated with bad outcomes. 700,000 Americans are living alive today with in-stage renal disease.
+
+209
+00:19:26,000 --> 00:19:31,840
+And when you start adding up all these comorbidities that we uniquely have, in part because of lifestyle
+
+210
+00:19:31,840 --> 00:19:35,920
+or because we happen to have a healthcare system that's able to keep us alive and with the right
+
+211
+00:19:35,920 --> 00:19:42,880
+drugs and so forth. So we don't really know when you put this virus here, what it's going to do.
+
+212
+00:19:43,520 --> 00:19:50,960
+A good example of that is the difference between Korea and Italy. Korea right now has actually just
+
+213
+00:19:50,960 --> 00:19:57,680
+climbed over 1%. It had been below that. And part of that was a function is the big outbreak that
+
+214
+00:19:57,680 --> 00:20:03,680
+they initially had that they worked up extensively in the thousands of people within this religious
+
+215
+00:20:03,680 --> 00:20:10,240
+sector. The median age of that group was 43. So, you know, right there you had a younger population
+
+216
+00:20:10,240 --> 00:20:15,760
+that surely would have had a lower case fatality rate. You go to Italy and right now about 80% of
+
+217
+00:20:15,760 --> 00:20:22,320
+their cases are over age 80 with underlying health problems. And they have an 8% case fatality rate.
+
+218
+00:20:22,320 --> 00:20:26,480
+So I think that one of the things we're going to find with case fatality is going to be really
+
+219
+00:20:26,480 --> 00:20:32,080
+country by country dependent. It's going to matter where the virus is circulating and what age group.
+
+220
+00:20:32,080 --> 00:20:36,640
+And it's going to matter in a large part as to what the underlying health conditions are.
+
+221
+00:20:37,200 --> 00:20:43,840
+In China, there's almost nothing ever called a nursing home or long-term care facility. People
+
+222
+00:20:43,840 --> 00:20:48,960
+cared for in the home. In the United States right now, we're sitting in a powder keg long-term care
+
+223
+00:20:48,960 --> 00:20:54,160
+facility for which for years we've neglected them in terms of infection control. I can't tell you how
+
+224
+00:20:54,160 --> 00:20:58,720
+many long-term care facilities we have right here in Minnesota, they couldn't find one in a 95 in
+
+225
+00:20:58,720 --> 00:21:05,280
+their house that they needed to. Not one in 95. I think that we actually stand the risk over the
+
+226
+00:21:05,280 --> 00:21:09,200
+course of the next several months. I've seen it probably one of the highest case fatality rates
+
+227
+00:21:09,200 --> 00:21:14,400
+in the world right here. That's the first point of what I would say. The second part though,
+
+228
+00:21:14,400 --> 00:21:20,640
+you deal with this every day, every flu season you are constantly confronted with this increased
+
+229
+00:21:20,640 --> 00:21:29,280
+occurrence of illnesses, et cetera. And even during the 2009 H1N1 situation, even in a bad H3N2 year
+
+230
+00:21:29,280 --> 00:21:34,800
+in older people, nobody, nobody reports what's happening, what's happening now in places like
+
+231
+00:21:34,800 --> 00:21:44,480
+New York and Detroit and Atlanta and Seattle. And so I think that what's happening here actually
+
+232
+00:21:44,480 --> 00:21:49,600
+matches up with the severity that we believe it really is occurring. I've come to the point in my
+
+233
+00:21:49,600 --> 00:21:54,400
+old age that when something walks like a duck, looks like a duck and quacks like a duck, I think
+
+234
+00:21:54,400 --> 00:22:01,680
+it's probably a duck. What would you put on the floor as the estimate for the CFR in a fully
+
+235
+00:22:01,680 --> 00:22:07,440
+diluted sample? Do you think that there's a scenario under which the CFR is 0.1%? Again,
+
+236
+00:22:07,440 --> 00:22:11,520
+fully diluted, meaning you actually know all the infected people, or do you think that that's
+
+237
+00:22:11,520 --> 00:22:15,840
+really just a pipe dream and the best case scenario is closer to 0.4, 0.5?
+
+238
+00:22:15,840 --> 00:22:23,200
+That's a pipe dream to me. And I think it's going to be in the one to 2.5 range. And I think that
+
+239
+00:22:23,200 --> 00:22:29,040
+it's going to be heavily influenced by those who are over age 65, 70. And I think it's going to be
+
+240
+00:22:29,040 --> 00:22:33,680
+influenced by the frequency of obesity in the younger age group in that regard.
+
+241
+00:22:34,400 --> 00:22:40,160
+Mike, I've never wanted someone to be wrong more than I want you to be wrong, because if the CFR
+
+242
+00:22:40,160 --> 00:22:49,360
+is 1% to 2% in the United States, and you're right about the spread of this virus, the implication
+
+243
+00:22:49,360 --> 00:22:55,120
+of that is more Americans will die from this infection in the next 12 months than will die
+
+244
+00:22:55,120 --> 00:23:01,280
+of all other causes combined. And I am absolutely on your side with this one. You will get no
+
+245
+00:23:01,280 --> 00:23:07,120
+argument for me. I hope I'm wrong. I would welcome that opportunity to be wrong. I just look at what's
+
+246
+00:23:07,120 --> 00:23:14,480
+happening right now. I look at indirect indicators. A good example right now, today, the New York
+
+247
+00:23:14,480 --> 00:23:19,840
+Police Department reported out over 900 police officers in New York are infected right now.
+
+248
+00:23:20,400 --> 00:23:26,320
+13% of the workforce is out. They just had their third death today in police officers.
+
+249
+00:23:27,120 --> 00:23:31,760
+And when you start looking at that, and this is just getting started, when you start looking at
+
+250
+00:23:31,760 --> 00:23:36,720
+that and compare that to a bad flu season, which you and I have to deal with far too often,
+
+251
+00:23:37,360 --> 00:23:43,360
+with a vaccine on top of it, by the way, and we know what happens, look at this one. This one
+
+252
+00:23:43,360 --> 00:23:47,920
+has that potential, I think, to be in the one to two. I don't think this at all is going to be like
+
+253
+00:23:47,920 --> 00:23:54,240
+1918 because that was so unique in how it took out 18 to 30-year-olds. This one's not doing that.
+
+254
+00:23:54,240 --> 00:23:59,440
+This is going to clearly be associated with age and underlying health issues. But in some ways,
+
+255
+00:23:59,440 --> 00:24:07,040
+we are a population that is highly vulnerable because of all the other lifestyle and health
+
+256
+00:24:07,040 --> 00:24:11,920
+conditions that occur in our group. So I think that that's where I'm very concerned about it
+
+257
+00:24:11,920 --> 00:24:17,360
+and would agree with you 100% of what you just said. And I'd just say, on a given week in New
+
+258
+00:24:17,360 --> 00:24:26,480
+York City, in the past, 100 people die a day in New York. Right now, we're averaging close to 150
+
+259
+00:24:26,480 --> 00:24:34,240
+a day just dying from COVID-19. Think about that. If we're going to play that what if game a moment
+
+260
+00:24:34,240 --> 00:24:43,360
+ago, what if this is something that is, quote unquote, only going to result in fewer than 100,000
+
+261
+00:24:43,360 --> 00:24:48,480
+lives lost in the United States, which again, still seems for most people struggling to
+
+262
+00:24:48,480 --> 00:24:54,480
+understand what non-linearity means. We're a little over 2,000 deaths today. So even to propose that
+
+263
+00:24:54,480 --> 00:25:01,360
+this could be capped at 100,000 seems very extreme. But I think you would agree that if only
+
+264
+00:25:01,360 --> 00:25:06,400
+100,000 Americans were to die before this thing was completely contained, you would consider that
+
+265
+00:25:06,400 --> 00:25:13,040
+a victory. Absolutely. What has to be true for that to happen? What are the things that have
+
+266
+00:25:13,040 --> 00:25:19,360
+to happen scientifically, policy-wise, in terms of personal behavior responsibility? What are the
+
+267
+00:25:19,360 --> 00:25:24,640
+suite of things that must be true if that number is to stay below 100,000 in the next year?
+
+268
+00:25:25,440 --> 00:25:31,680
+I think two things. One is we have to basically suppress transmission as much as we can,
+
+269
+00:25:32,400 --> 00:25:38,880
+which I don't think is doable. And I say that because it would mean a Wuhan-like shutdown.
+
+270
+00:25:39,840 --> 00:25:44,880
+And I just don't think as a country we can sustain that. I think even, and I don't want to equate
+
+271
+00:25:44,880 --> 00:25:50,160
+this in dollars and cents. I had an op-ed piece in the New York Times over the weekend, which I
+
+272
+00:25:50,160 --> 00:25:55,520
+said this is not a choice between saving lives and costing the economy. We have to look at it's a
+
+273
+00:25:55,520 --> 00:26:00,560
+combination of both. And we need people to carry on every day. I mean, I look at you. I mean, I
+
+274
+00:26:00,560 --> 00:26:04,720
+don't want anything to happen to you for a lot of reasons, but one of them is you're a very key
+
+275
+00:26:04,720 --> 00:26:09,840
+healthcare provider. You got to do your job. You can't shut down. We can't shut down. I mean,
+
+276
+00:26:09,840 --> 00:26:14,320
+when's the last time you saw anybody do remote work to pick up garbage? If you live in New York
+
+277
+00:26:14,320 --> 00:26:18,720
+City, guess what? Elevator operators, maintenance people are really important because if you can't
+
+278
+00:26:18,720 --> 00:26:23,680
+get up to the 40th floor, you shut down a part of the city that's really important. So I could go
+
+279
+00:26:23,680 --> 00:26:28,240
+through a laundry list of whether it's foods, people who provide our food, et cetera. So we've
+
+280
+00:26:28,240 --> 00:26:33,520
+got to preserve that part of it. But at the same time, I worry that what's going to happen is an
+
+281
+00:26:33,520 --> 00:26:39,440
+acceleration of deaths due to the failing of the healthcare system. Right now, keeping people alive
+
+282
+00:26:39,440 --> 00:26:45,600
+on ventilators, having intensive care medicine does make a difference. Not for every case,
+
+283
+00:26:45,600 --> 00:26:51,280
+but it makes a difference. But once you go off the edge of the cliff, where it's now no longer,
+
+284
+00:26:51,280 --> 00:26:55,680
+do you have a ventilator available? We have to wait for someone to go off a vent and you have to
+
+285
+00:26:55,680 --> 00:27:00,320
+make a choice to take them off. When you start running out of the critical supplies, one of the
+
+286
+00:27:00,320 --> 00:27:05,920
+things that we've been working on in our center for the last year and a half has been looking at
+
+287
+00:27:05,920 --> 00:27:11,280
+very acute critical drug shortages, meaning these are drugs that you need right now or in the next
+
+288
+00:27:11,280 --> 00:27:15,680
+several hours where people die. What's on the crash cart? What's in the intensive care unit? What's in
+
+289
+00:27:15,680 --> 00:27:21,920
+the ER? We came up with a list of 156 drugs, which we have vetted with all the major medical groups,
+
+290
+00:27:21,920 --> 00:27:31,120
+the intensivists, etc. Of these 156, all of them are generic. Of those, almost 85% are made outside
+
+291
+00:27:31,120 --> 00:27:37,920
+the United States. And of those, many of them are made in China. We are just beginning to feel
+
+292
+00:27:38,800 --> 00:27:44,880
+the severe supply chain collision that's going to occur here in the next several weeks with increased
+
+293
+00:27:44,880 --> 00:27:51,120
+number of cases of severe disease and these drugs that we need. Because in China, the supply chains,
+
+294
+00:27:51,120 --> 00:27:56,960
+which were still thin, were filled just before this outbreak started and there's about two to
+
+295
+00:27:56,960 --> 00:28:02,640
+three months worth of supply in the chain. But there was nothing that came in the backside of it.
+
+296
+00:28:02,640 --> 00:28:08,720
+So we're just about done. So if you add this on, Peter, this also then means now you've got to deal
+
+297
+00:28:08,720 --> 00:28:12,960
+with that situation on top of it. And if our healthcare system can't take care of these people
+
+298
+00:28:13,600 --> 00:28:18,960
+or we have acute shortages of what we need to provide the care we have been providing,
+
+299
+00:28:19,680 --> 00:28:24,080
+then the case fatality rate is going to go way up. It's going to go up. And that's, I think,
+
+300
+00:28:24,080 --> 00:28:29,200
+a real challenge. So just to be clear, you're not saying that we're going to run out of,
+
+301
+00:28:29,200 --> 00:28:33,040
+pick your favorite candidate drug that I want to eventually talk about with you,
+
+302
+00:28:33,040 --> 00:28:39,760
+you know, remdesivir versus hydroxychloroquine, etc. You're saying epinephrine, norepinephrine,
+
+303
+00:28:39,760 --> 00:28:46,160
+vasopressin, paralytics, the type of medicine we all take for granted that you need to run an ICU.
+
+304
+00:28:46,160 --> 00:28:51,280
+But even take something as simple as antibiotics. When you're sitting in an ICU for three and a half
+
+305
+00:28:51,280 --> 00:28:55,120
+weeks, the chance of developing a noscumular infection as a result of being there.
+
+306
+00:28:55,120 --> 00:28:56,480
+It's pretty much guaranteed.
+
+307
+00:28:56,480 --> 00:29:01,360
+It's almost guaranteed. So if you don't have the antibiotics anymore, guess what? 85% of all of our
+
+308
+00:29:01,360 --> 00:29:06,880
+key antibiotics right now are made outside the United States. Ironically, you know the two areas
+
+309
+00:29:06,880 --> 00:29:13,120
+that have the most production capability? China in the Lombardi region of Italy. Can you imagine?
+
+310
+00:29:13,120 --> 00:29:14,400
+You couldn't make that up.
+
+311
+00:29:14,400 --> 00:29:18,320
+You couldn't make it up, but you couldn't. And so, I mean, there's something we're looking at. So I
+
+312
+00:29:18,320 --> 00:29:23,920
+think that, you know, the question is relative. If we had ideal intensive care availability,
+
+313
+00:29:23,920 --> 00:29:30,960
+we could maintain the system. We could take that kind of that spigot of cases and regulate them
+
+314
+00:29:30,960 --> 00:29:36,640
+enough so that they didn't overflow the healthcare system. They just appeared. I like to say if we
+
+315
+00:29:36,640 --> 00:29:42,640
+have 100 cases of the disease today and they all hit the healthcare system, that's one outcome.
+
+316
+00:29:42,640 --> 00:29:46,880
+What if you have 100 and they hit the healthcare system 10 a week for 10 weeks? That's another
+
+317
+00:29:46,880 --> 00:29:52,240
+outcome. If we could do that, if we could thread that needle with our rope, then we'd be okay.
+
+318
+00:29:52,240 --> 00:29:53,680
+But I don't think we're going to be able to do that.
+
+319
+00:29:54,320 --> 00:29:59,680
+Do you think we have a pretty good handle on what it's going to take to protect healthcare workers?
+
+320
+00:29:59,680 --> 00:30:07,040
+Do we understand what amount of PPE is necessary first and foremost? And then secondly, of course,
+
+321
+00:30:07,040 --> 00:30:12,000
+can we meet that need? Can we meet the demand of that? Starting with the first question,
+
+322
+00:30:12,000 --> 00:30:16,080
+do we actually know what it takes to protect doctors, nurses, respiratory therapists,
+
+323
+00:30:16,080 --> 00:30:19,840
+and everybody who works in a hospital from the cafeteria to the parking garage?
+
+324
+00:30:19,840 --> 00:30:24,880
+Yeah, I think we know. I don't think we talk about it very well. And we have people who are
+
+325
+00:30:24,880 --> 00:30:30,800
+in denial about it. I've spent my career working on both coronaviruses and influenza. I can tell
+
+326
+00:30:30,800 --> 00:30:35,840
+you we have absolute certainty today, no question about it, that influenza virus is in part
+
+327
+00:30:35,840 --> 00:30:40,800
+transmitted by aerosols. These are the smaller particles of smaller than five millimeter
+
+328
+00:30:40,800 --> 00:30:45,280
+particles. And people assume when we talk about airborne transmission, we're talking about
+
+329
+00:30:45,280 --> 00:30:50,240
+something that's many, many yards away. And they actually forget that aerosols are produced
+
+330
+00:30:50,800 --> 00:30:56,480
+just where droplets are right in that first six feet area. And so if you're that close,
+
+331
+00:30:56,480 --> 00:31:01,120
+if you have a surgical mask on, you surely can do a lot to minimize the number of droplets you
+
+332
+00:31:01,120 --> 00:31:05,760
+come in contact with. But that doesn't take into account the aerosol. Where there's droplets,
+
+333
+00:31:05,760 --> 00:31:09,440
+there's aerosols. Where there's aerosols, there may not be droplets. But people have assumed
+
+334
+00:31:09,440 --> 00:31:14,400
+it's droplets or then it's aerosols somewhere else. And so I think from a respiratory protection
+
+335
+00:31:14,400 --> 00:31:20,720
+standpoint, one of the challenges we had in China was well close to 4,000 healthcare workers infected.
+
+336
+00:31:20,720 --> 00:31:25,040
+Right now in Italy, there's well over 5,600 healthcare workers who have been infected. Now,
+
+337
+00:31:25,040 --> 00:31:30,720
+some of them obviously got infected off the job, but many of them were on job. And respiratory
+
+338
+00:31:30,720 --> 00:31:39,120
+protection was a key factor in each one. And so I today feel incredibly incompetent, incapable,
+
+339
+00:31:39,120 --> 00:31:45,120
+and frankly, sad that there are going to be many healthcare workers who are going to risk their
+
+340
+00:31:45,120 --> 00:31:50,640
+lives to help with this, who will not have N95 respirator, which they need to have, because we
+
+341
+00:31:50,640 --> 00:31:55,600
+just don't have enough. We won't. And when I keep hearing about this additional production, the White
+
+342
+00:31:55,600 --> 00:32:00,000
+House continues to talk about that. They never give you the numbers of what we estimate we'll need
+
+343
+00:32:00,640 --> 00:32:06,480
+versus what's being produced. And it's so far short, it's not laughable, because that would imply
+
+344
+00:32:06,480 --> 00:32:11,040
+something funny. There's nothing funny about it. But the bottom line message is that we're going
+
+345
+00:32:11,040 --> 00:32:16,000
+to have a lot of healthcare workers who are going to be exposed and infected with this virus because
+
+346
+00:32:16,000 --> 00:32:21,520
+of that. What is the number, Mike? What would we need? I don't know. I think this is where, again,
+
+347
+00:32:21,520 --> 00:32:27,440
+we have a PPE challenger, particularly within N95s, that was even much more severe than they
+
+348
+00:32:27,440 --> 00:32:33,760
+had in China. Or to that extent, in Italy, they did several unique things, which I don't know if
+
+349
+00:32:33,760 --> 00:32:39,760
+we'll do here. You may have heard, but in several of the really high volume wards in Milan,
+
+350
+00:32:40,400 --> 00:32:46,240
+they had COVID-infected healthcare workers working. If they weren't that sick, they were working.
+
+351
+00:32:46,240 --> 00:32:51,280
+They went in without masks, et cetera, because they didn't have them. And so I don't know what
+
+352
+00:32:51,280 --> 00:32:56,640
+we'll do here, but I do believe we'll have a real challenge with this. Now, some will say, well, and
+
+353
+00:32:56,640 --> 00:33:03,440
+this is what I find very frustrating is we have to stick with the science. And what happened with CDC
+
+354
+00:33:03,440 --> 00:33:09,040
+to their credit, about two weeks ago, issued new guidelines for the use of PPE respiratory
+
+355
+00:33:09,040 --> 00:33:16,320
+protection. But what they said was, if you don't have N95s, then use masks. But a number of
+
+356
+00:33:16,320 --> 00:33:21,120
+administrators and some scientists have come forward and said, CDC changed their recommendation,
+
+357
+00:33:21,120 --> 00:33:26,000
+saying you don't have to use respirators, or you can use masks, meaning it's just droplet.
+
+358
+00:33:26,000 --> 00:33:31,040
+That's not what they said. And so I think that today for a healthcare worker, they just at least
+
+359
+00:33:31,040 --> 00:33:35,840
+have to know what they're getting into. I think many of them will still go to work. I mean, the
+
+360
+00:33:35,840 --> 00:33:41,520
+camaraderie, and you know what it's like to be in that kind of setting. These are some of the most
+
+361
+00:33:41,520 --> 00:33:47,120
+amazing heroes in the world. We don't send our soldiers into war without some kind of protective
+
+362
+00:33:47,120 --> 00:33:52,880
+equipment or without bullets in their guns. We send healthcare workers into this viral battle,
+
+363
+00:33:53,520 --> 00:33:58,400
+and we're going to be sending them in without bullets or without protective equipment. And
+
+364
+00:33:58,400 --> 00:34:03,360
+that to me is really sad, but that's what's going to have to take. That's going to be a big question
+
+365
+00:34:03,360 --> 00:34:08,800
+as to what happens there. So really, we have a problem on multiple fronts. We have a problem on
+
+366
+00:34:08,800 --> 00:34:13,600
+the supportive drug front. We have a problem on the treatment drug front, which I want to come
+
+367
+00:34:13,600 --> 00:34:20,080
+back to in a moment. We have a problem on the people who are going to administer care. We
+
+368
+00:34:20,080 --> 00:34:24,400
+potentially have a problem on the number of ventilators and actual beds, et cetera. So is
+
+369
+00:34:24,400 --> 00:34:30,240
+it a largely irrelevant academic exercise to understand which of those things becomes the
+
+370
+00:34:30,240 --> 00:34:35,520
+first failure? Because it varies so much, presumably by city hospital geography,
+
+371
+00:34:35,520 --> 00:34:39,600
+that it ought to be an all hands on deck for all of them. I mean, is there a model here where we
+
+372
+00:34:40,560 --> 00:34:45,120
+pick the 10 cities that are either in the throes of hell or we know are about to be,
+
+373
+00:34:45,120 --> 00:34:49,840
+and we start relocating healthcare workers to those areas if that's the thing that we believe
+
+374
+00:34:49,840 --> 00:34:53,680
+is going to be the bottleneck first? Of course, that would only make sense if you could provide
+
+375
+00:34:53,680 --> 00:34:59,920
+them with the necessary PPE. Otherwise, you're losing your soldiers in battle unnecessarily
+
+376
+00:34:59,920 --> 00:35:04,880
+without an appropriate risk to benefit trade off. How do we think about this? I mean, I haven't
+
+377
+00:35:04,880 --> 00:35:10,160
+spent a lot of time truly thinking about this at the full macro level of what the White House would
+
+378
+00:35:10,160 --> 00:35:16,080
+hopefully be thinking about this, but I mean, what is the model? What can we learn from the
+
+379
+00:35:16,080 --> 00:35:21,600
+successes and failures of any other pandemic? Well, first of all, let me just say you articulated
+
+380
+00:35:21,600 --> 00:35:27,280
+beautifully. You hit on every major piece. Let me just give some kind of relevant information.
+
+381
+00:35:27,280 --> 00:35:33,360
+It'll give you a sense. Right now, the largest manufacturer in the United States of N95s is 3M.
+
+382
+00:35:34,080 --> 00:35:41,920
+They can produce 35 million N95s a month. They're trying to wrap that up to get maybe 5 to 7% more
+
+383
+00:35:41,920 --> 00:35:46,800
+out of their machines. You just don't build these machines overnight. So even when you hear other
+
+384
+00:35:46,800 --> 00:35:50,480
+companies talk about how they're going to double or triple whatever production it is,
+
+385
+00:35:51,120 --> 00:35:57,360
+be very skeptical because these are machines that are really very, very sophisticated pieces of
+
+386
+00:35:57,360 --> 00:36:02,560
+equipment. I mean, for example, with an N95, most people don't realize that piece of white in front
+
+387
+00:36:02,560 --> 00:36:08,400
+of you is not paper. It's a matrix. It was actually poured and dried, and it has a unique
+
+388
+00:36:08,400 --> 00:36:12,400
+electrostatic charge on it, et cetera, so you can get air through it, not virus. It's a very
+
+389
+00:36:12,400 --> 00:36:17,760
+sophisticated thing. Well, they've produced 35 million a month. They've been doing it since
+
+390
+00:36:17,760 --> 00:36:22,000
+late January, and we met with them and said this is going to be a pandemic. There's one hospital
+
+391
+00:36:22,000 --> 00:36:28,960
+in New York alone, just one, that used 2 million N95s last month in that month, 2 million in their
+
+392
+00:36:28,960 --> 00:36:36,080
+institution. Now, you start to do the math where we have basically about 35 million of these
+
+393
+00:36:36,720 --> 00:36:42,880
+in the strategic national stockpile. That's it. You start looking at the volume we'd need of
+
+394
+00:36:42,880 --> 00:36:48,960
+400 million or more of these N95s just to get through the first couple of months, and you start
+
+395
+00:36:48,960 --> 00:36:54,320
+looking at the shortfall. That's where I have a problem is just let's just be honest. I'm not
+
+396
+00:36:54,320 --> 00:36:59,360
+trying to blame anybody. We're all to blame everybody. Why are we so ill prepared? But
+
+397
+00:36:59,360 --> 00:37:04,080
+healthcare workers have to know. A statement I made earlier about one of the former Defense
+
+398
+00:37:04,080 --> 00:37:07,760
+Secretary said when you go to war, you can't go to war with what you want. You have to go to war
+
+399
+00:37:07,760 --> 00:37:13,760
+with what you have. To understand how do we best protect healthcare workers, I think this is a key.
+
+400
+00:37:13,760 --> 00:37:19,600
+Let me give you an example. If we can't protect them because we don't have N95s, what are the
+
+401
+00:37:19,600 --> 00:37:26,000
+other things you can do? One is we should start forming wards, large wards, where basically we
+
+402
+00:37:26,000 --> 00:37:33,360
+have 18 or 20 patients on one ward, and you never leave the contaminated zone. At that point, rather
+
+403
+00:37:33,360 --> 00:37:39,760
+than doff and donning outside every room and having to throw that away, what do you do? Second
+
+404
+00:37:39,760 --> 00:37:44,720
+of all, what can you do to reuse these? We're publishing an article this week on our website
+
+405
+00:37:44,720 --> 00:37:50,560
+with 3M support, I mean not financial, but their intellectual support, of what are the techniques
+
+406
+00:37:50,560 --> 00:37:56,400
+we can actually use that will maintain the integrity of these N95s, but they can be reused
+
+407
+00:37:56,400 --> 00:38:02,080
+so that we can decontaminate. We're working on that right now. Next is what can we do to get
+
+408
+00:38:02,080 --> 00:38:07,760
+infected healthcare workers back? If I had to ask right now for one gift we could give healthcare
+
+409
+00:38:07,760 --> 00:38:13,600
+workers is serology. I'd like to test as many healthcare workers as I could for antibody and
+
+410
+00:38:13,600 --> 00:38:18,240
+having the discussion we just had on the ability to know that somebody's likely protected,
+
+411
+00:38:19,040 --> 00:38:23,440
+then I would know also that these are the people the safest to put back into harm's way.
+
+412
+00:38:24,160 --> 00:38:28,080
+If we did a lot of things like that, I think we could really mitigate the risk for healthcare
+
+413
+00:38:28,080 --> 00:38:33,280
+workers, but what we can't do is just administratively say, well the CDC has made this
+
+414
+00:38:33,280 --> 00:38:39,760
+recommendation, ignoring that there are things we must do and can do. You and I both know that
+
+415
+00:38:40,320 --> 00:38:45,840
+this is a numerator-denominator world we live in when it gets to rates, but it's a numerator world
+
+416
+00:38:45,840 --> 00:38:50,960
+when that person that dies is your colleague, when that person is somebody who worked for you,
+
+417
+00:38:50,960 --> 00:38:57,520
+when that person is somebody who day after day was there with you, bedside, holding hands, doing
+
+418
+00:38:57,520 --> 00:39:02,880
+the kind of skilled work, that is so tough on these people. We also have to understand the
+
+419
+00:39:02,880 --> 00:39:08,640
+mental health issues. If we neglect that, I already know healthcare workers who literally go home and
+
+420
+00:39:08,640 --> 00:39:14,080
+cry all the way home to work after they just finished another 14-hour shift. I think that's
+
+421
+00:39:14,080 --> 00:39:18,880
+another area that I've not heard anybody really talking about much, is this is just like battlefield
+
+422
+00:39:18,880 --> 00:39:23,200
+trauma. We've got to start helping them right now. If we're going to maintain three or four or five
+
+423
+00:39:23,280 --> 00:39:28,080
+months worth of activity here, we can't count on these people to do this day in and day out with
+
+424
+00:39:28,080 --> 00:39:34,160
+more help. Protect them first, support them second, and understand them and care about them third,
+
+425
+00:39:34,160 --> 00:39:38,720
+and they all have to be part of the picture. Mike, I want to go back to something you said
+
+426
+00:39:38,720 --> 00:39:42,640
+a second ago with respect to testing. Do we have a sense where we are now? I mean,
+
+427
+00:39:43,600 --> 00:39:48,080
+it seems that we've done probably in the neighborhood of 800,000 tests in the United
+
+428
+00:39:48,080 --> 00:39:52,560
+States in total. I don't know the breakdown of how many of those are PCR versus antibody,
+
+429
+00:39:52,560 --> 00:39:56,720
+but does that sound about right to you? It does, absolutely. Yes, it does. Yep.
+
+430
+00:39:56,720 --> 00:40:04,480
+Okay. Tell me the status of PCR. Is Roche providing the majority of these tests?
+
+431
+00:40:04,480 --> 00:40:08,320
+Yeah. I actually commented this also in my op-ed piece in the New York Times.
+
+432
+00:40:08,880 --> 00:40:14,320
+Again, if there's an operative set of words in this whole entire experience, it's supply chain,
+
+433
+00:40:14,320 --> 00:40:19,680
+supply chain, supply chains. Just like in real estate, it's location, location, location.
+
+434
+00:40:20,640 --> 00:40:26,000
+We have changed our world. In 2003, when SARS occurred, China was not a big player in
+
+435
+00:40:26,000 --> 00:40:29,520
+manufacturing the world. Supply chains weren't that critical to what happened in China.
+
+436
+00:40:30,400 --> 00:40:34,480
+Well, it turns out today, supply chains are everything, including for testing.
+
+437
+00:40:35,280 --> 00:40:42,400
+I'll add the perfect storm here. One, the world basically is on fire. Everybody wants these
+
+438
+00:40:42,400 --> 00:40:47,840
+reagents for whether it's PCR, whether it's antigen detection, whether it's serology.
+
+439
+00:40:48,400 --> 00:40:54,800
+Number two, guess where a lot of the reagents were being made? China. Number three, now we bring
+
+440
+00:40:54,800 --> 00:41:00,400
+those two together and we're encouraging people to even do more testing. You know what? Within
+
+441
+00:41:00,400 --> 00:41:04,800
+a couple of weeks, we're going to actually see an implosion of testing. Right now in Minnesota,
+
+442
+00:41:04,800 --> 00:41:08,880
+we are so limited in our public health lab to test. If we don't have more reagents,
+
+443
+00:41:08,880 --> 00:41:13,600
+then tomorrow we're done. We can't test anymore. Commercial companies have been putting together
+
+444
+00:41:13,600 --> 00:41:19,280
+great packages to sell for testing, but what they haven't given you is how deep is their
+
+445
+00:41:19,280 --> 00:41:24,960
+inventory of resources for reagents. They're not. It used to be we filled the reagent pool
+
+446
+00:41:24,960 --> 00:41:31,200
+with a garden hose. Then we realized we needed a fire hose and now we need a damn water tunnel.
+
+447
+00:41:32,240 --> 00:41:35,200
+We're not going to have it. It's just at the time we need more testing.
+
+448
+00:41:36,800 --> 00:41:40,480
+I've seen these people get on talk shows and they sit there and say, oh, we'll just test
+
+449
+00:41:40,480 --> 00:41:45,920
+our way out of this. They don't have a clue about a supply chain issue. I think this is a
+
+450
+00:41:45,920 --> 00:41:50,240
+huge issue that you raise and is one that we're going to do less instead of more.
+
+451
+00:41:51,280 --> 00:41:53,600
+That seems counterintuitive, but it's what's going to happen.
+
+452
+00:41:54,880 --> 00:42:00,480
+Based on that, the idea that we should hope for the best scenario where everybody gets PCR to
+
+453
+00:42:00,480 --> 00:42:06,960
+detect and then antibody to follow, I mean, that's a pipe dream if we're going to be reagent limited.
+
+454
+00:42:06,960 --> 00:42:11,360
+Instead, it's going to be a bit of a pick your poison. And if you're lucky to get any test,
+
+455
+00:42:12,080 --> 00:42:17,760
+if that's the setting, which it sounds like based on the reagent shortfall, we're going to get to
+
+456
+00:42:17,760 --> 00:42:26,000
+that place. What other methods can be used? For example, could we rely on temperature changes?
+
+457
+00:42:26,000 --> 00:42:33,440
+Can we rely on any other sort of biometric as a way to take patients who are suspected positive,
+
+458
+00:42:33,440 --> 00:42:37,040
+but not yet confirmed and enact policy around that?
+
+459
+00:42:37,840 --> 00:42:42,720
+This is where we're going to get creative. And this is ironically where things like 1918 are
+
+460
+00:42:42,720 --> 00:42:50,480
+instructive. We're back to the future, you might say. First of all, we want to know when the virus
+
+461
+00:42:50,480 --> 00:42:55,680
+is in our communities and when it's doing harm. And we have a system in this country called
+
+462
+00:42:55,680 --> 00:43:01,120
+influenza-like illness surveillance or syndromic surveillance. We have set up in a whole series of
+
+463
+00:43:01,200 --> 00:43:07,840
+randomly chosen physicians offices around the country. And we survey it every week,
+
+464
+00:43:07,840 --> 00:43:12,880
+every several times a week during the flu season to give us an idea of, you know, if you have this
+
+465
+00:43:12,880 --> 00:43:17,920
+constellation of signs and symptoms, it's probably highly suggestive of flu and this is what's going
+
+466
+00:43:17,920 --> 00:43:25,280
+on. Well, it was very interesting. In New York City, flu had started to wind down by early February
+
+467
+00:43:25,280 --> 00:43:31,040
+to mid February and was actually coming down. All of a sudden in the end of February, boom,
+
+468
+00:43:31,040 --> 00:43:36,720
+up goes the number. And it goes and it goes and it goes. Long before anybody was test positive.
+
+469
+00:43:36,720 --> 00:43:42,080
+And guess what? It was COVID-19. We see the same thing here in Minneapolis. We just saw that thing
+
+470
+00:43:42,080 --> 00:43:46,880
+go up about two and a half weeks ago and it started going up again. So I feel confident
+
+471
+00:43:46,880 --> 00:43:52,400
+that we can monitor enough illness in the community this way and other means that we have
+
+472
+00:43:52,400 --> 00:43:58,000
+that we can tell people it's time to put the pedal to the metal. Okay. It's happening. We got
+
+473
+00:43:58,000 --> 00:44:03,200
+to shut it down the best we can. And so I think that's the kind of methods that public health is
+
+474
+00:44:03,200 --> 00:44:08,560
+going to be reverting to. But you raise a good point. What can I do for any one patient? And I
+
+475
+00:44:08,560 --> 00:44:14,480
+think the only thing we have going for us season wise right now is if they are sick with an
+
+476
+00:44:14,480 --> 00:44:18,880
+influenza-like illness, it's likely not influenza because we don't see it circulating right now.
+
+477
+00:44:18,880 --> 00:44:24,000
+And we can test for that and we haven't seen it. So I think you have to assume that there are COVID
+
+478
+00:44:24,000 --> 00:44:29,040
+infected patients and go with that. But it's going to create challenges. I mean, one of the things
+
+479
+00:44:29,040 --> 00:44:35,360
+we're concerned about right now is in Minnesota, our priority is testing first sick individuals
+
+480
+00:44:35,360 --> 00:44:39,840
+who are in the hospital. Are they really infected or not? The second thing is to test health care
+
+481
+00:44:39,840 --> 00:44:43,280
+workers who are sick, whether they're in the hospital or not, because we want them to work
+
+482
+00:44:43,280 --> 00:44:49,920
+or not. And the third thing is testing workers in long-term care. That's all we have the ability
+
+483
+00:44:49,920 --> 00:44:53,520
+to test for right now because we don't have any other real agents. And I said that we may run out
+
+484
+00:44:53,520 --> 00:44:58,160
+tomorrow. So we're all going to be finding ourselves, I think, in different scenarios. And
+
+485
+00:44:58,160 --> 00:45:02,720
+as much as we hear this good news about the new point of care test coming out from Abbott and
+
+486
+00:45:02,720 --> 00:45:07,360
+things like that, we welcome all the tests. Just make sure you have reagents to go with them.
+
+487
+00:45:07,360 --> 00:45:12,000
+And that's where the challenge is. Yeah. So your fear is that this Abbott test could be technically
+
+488
+00:45:12,000 --> 00:45:17,360
+a wonderful test, but it might only be able to do a million tests in total before the supply chain
+
+489
+00:45:17,360 --> 00:45:22,320
+falls apart. Exactly. You nailed it. That's exactly it. And we have been talking to the
+
+490
+00:45:22,320 --> 00:45:28,800
+companies at some length. And remember, when Abbott says a million, they could tell me 10 million.
+
+491
+00:45:28,800 --> 00:45:34,480
+It's over what time period? But it's over a whole world too. And that's the problem we have right
+
+492
+00:45:34,480 --> 00:45:40,080
+now. You could not buy a Roche PCR machine right now anywhere in the world. The Chinese went and
+
+493
+00:45:40,080 --> 00:45:45,120
+bought them all up 14 weeks ago. You can't buy one in the United States. As soon as they saw it
+
+494
+00:45:45,120 --> 00:45:49,840
+was happening, they bought every machine they could. And so we're in a global market for these
+
+495
+00:45:49,840 --> 00:45:55,120
+tests too. And it's not just the US. And that's another reason why this is such a unique event,
+
+496
+00:45:55,120 --> 00:46:01,280
+is because it is a global house on fire where everybody wants reagent water. And the truck can
+
+497
+00:46:01,280 --> 00:46:08,240
+only deliver so much. Yeah. I mean, gee, I hate saying such stupid glib things, but I really feel
+
+498
+00:46:08,240 --> 00:46:13,600
+like we're playing chess, not checkers. I say this all the time. I say, we got to stop playing
+
+499
+00:46:13,600 --> 00:46:17,840
+this. Like I play checkers with my 10 year old grandson, which I'm lucky if I beat him in one
+
+500
+00:46:17,840 --> 00:46:21,920
+move down the board. Yeah. Yeah. It just seems like I may have misset it, but I think you know
+
+501
+00:46:21,920 --> 00:46:25,200
+what I meant. Like, no, I don't. You were right. You were right. Yeah. We're playing checkers.
+
+502
+00:46:25,200 --> 00:46:32,080
+We're playing one move ahead. And the speed with which this is moving again to borrow from
+
+503
+00:46:32,080 --> 00:46:37,360
+Wayne Gretzky, right? We have to go where the puck is going, not where the puck is. And it seems like
+
+504
+00:46:37,440 --> 00:46:43,680
+every time, every step we take is going towards where the puck is. But in the case of a viral
+
+505
+00:46:43,680 --> 00:46:50,240
+pandemic, the puck moves faster than it moves in any other game. And you're really on your heels
+
+506
+00:46:50,240 --> 00:46:53,920
+when you're just going where the puck is, as opposed to anticipating where it's going.
+
+507
+00:46:54,480 --> 00:46:58,720
+And that's another really important point is, you know, we plan for catastrophes,
+
+508
+00:46:58,720 --> 00:47:05,040
+but we typically plan for a hurricane or an earthquake or a tsunami, one region, and then
+
+509
+00:47:05,040 --> 00:47:11,040
+we get into recovery right away. Not that it's not devastating, but you know, FEMA can't be in
+
+510
+00:47:11,040 --> 00:47:16,560
+all 50 states at once and do the magnificent job that we're seeing in New York. And frankly, many
+
+511
+00:47:16,560 --> 00:47:21,200
+of us fear that you don't want to be on the tail end of this outbreak where you are one of the
+
+512
+00:47:21,200 --> 00:47:25,840
+latter cities to break, because by that time, a lot of the resources are going to be used.
+
+513
+00:47:26,400 --> 00:47:30,640
+And even those that aren't going to be used up where they can be moved, like if additional
+
+514
+00:47:30,720 --> 00:47:34,800
+ventilators, if you can move them from place to place, it's still going to be a challenge,
+
+515
+00:47:34,800 --> 00:47:38,560
+because you will have used so many of the critical things like drugs and so forth.
+
+516
+00:47:38,560 --> 00:47:43,520
+And so where you place yourself in this outbreak right now, as bad as New York is,
+
+517
+00:47:44,080 --> 00:47:48,320
+they have the benefit of, at least now, like Seattle, they got more resources than most other
+
+518
+00:47:48,320 --> 00:47:55,840
+places will likely get. Mike, I've spoken to many people about the situation around vaccines,
+
+519
+00:47:55,840 --> 00:48:00,720
+including a number of people sort of off the record who work in biotech companies.
+
+520
+00:48:01,280 --> 00:48:07,760
+I've spoken with at least three CEOs of biotech companies off the record. Without exception,
+
+521
+00:48:07,760 --> 00:48:13,600
+no one has been able to give me a scenario under which a vaccine is available inside of 12 months.
+
+522
+00:48:14,320 --> 00:48:20,640
+Can you explain from your point of view why you think that that's likely and why you're saying,
+
+523
+00:48:20,640 --> 00:48:23,520
+look, we're not going to have a vaccine until 2021?
+
+524
+00:48:24,240 --> 00:48:30,320
+I always come back and clarify, I could make a vaccine tonight for this. I could, even with my
+
+525
+00:48:30,320 --> 00:48:34,720
+simplistic knowledge of this issue. But the question is, would it be safe and effective?
+
+526
+00:48:35,440 --> 00:48:40,960
+And that's what's key. So I think from an effectiveness standpoint, I do think we can
+
+527
+00:48:40,960 --> 00:48:46,160
+probably find something that will be effective even if temporarily, meaning it's not permanent
+
+528
+00:48:46,160 --> 00:48:51,120
+long-term protection, but something that might require boosters. We don't really know that yet.
+
+529
+00:48:51,120 --> 00:48:56,240
+The whole T cell, B cell combination of immunity with coronavirus is still a question.
+
+530
+00:48:56,960 --> 00:49:04,400
+I'm more optimistic about that. Where I think is going to hold us up a lot is safety. In the 2003
+
+531
+00:49:04,400 --> 00:49:09,520
+SARS vaccine work, there was some real challenges that developed with the animals with something
+
+532
+00:49:09,520 --> 00:49:15,520
+called antibody dependent enhancement, ADE, where if you made just a little bit of antibody,
+
+533
+00:49:15,520 --> 00:49:21,120
+that was bad because then when you got infected with the real thing, you had this antibody
+
+534
+00:49:21,120 --> 00:49:25,920
+dependent enhancement that was a shock like picture and was a real challenge. And that's exactly what
+
+535
+00:49:25,920 --> 00:49:30,480
+happened to the dinghy vaccine in the Philippines that got pulled two years ago, was that that
+
+536
+00:49:30,480 --> 00:49:37,040
+vaccine had an ADE component to it that nobody had appreciated. And because we have a history
+
+537
+00:49:37,040 --> 00:49:44,880
+with this vaccine with ADE, I think that no regulatory agency, at least in North America or
+
+538
+00:49:44,880 --> 00:49:51,040
+EU, is going to license that without substantial safety data. And if that occurs, let's just say
+
+539
+00:49:51,040 --> 00:49:56,640
+even one per 10 to one per hundred thousand population, think how many people you have to
+
+540
+00:49:56,640 --> 00:50:03,440
+study before you can actually know, is there an increased risk or not? And if this was a really
+
+541
+00:50:03,440 --> 00:50:08,480
+common side effect, three or four or five percent got it, that would be a much easier situation to
+
+542
+00:50:08,480 --> 00:50:15,360
+study. So I think that there will surely be pressure to get it evaluated and licensed and
+
+543
+00:50:15,360 --> 00:50:21,040
+made as soon as possible. But right now, I think the ADE thing is one that's going to hang over its
+
+544
+00:50:21,040 --> 00:50:26,160
+head and regulators are going to make certain that we have enough data to at least begin to address it.
+
+545
+00:50:26,160 --> 00:50:30,320
+What's the technical reason for that, Mike? Because that's not something that we see with
+
+546
+00:50:30,320 --> 00:50:35,520
+influenza, for example. No, we don't. In fact, it's more of a flavivirus type issue and the
+
+547
+00:50:35,520 --> 00:50:40,720
+coronaviruses we've seen it where basically this whole immune system set up. I mean, in a sense,
+
+548
+00:50:40,720 --> 00:50:44,800
+it's somewhat like dengue hemorrhagic fever, where you've been infected with one strain
+
+549
+00:50:44,800 --> 00:50:49,600
+and then you have the second strain infection that has enough cross protection but not sufficient to
+
+550
+00:50:49,600 --> 00:50:55,120
+fully protect you. And so it really is an immunologic phenomena. This is part of why
+
+551
+00:50:55,120 --> 00:51:00,560
+hep C vaccination has never really been successful as well. Isn't hep C also a flavivirus?
+
+552
+00:51:00,560 --> 00:51:04,960
+Yeah, I think that's also but exactly one of the reasons why it's been a problem. So I think that's
+
+553
+00:51:04,960 --> 00:51:08,400
+going to be a challenge. But let me just say there's one other challenge that I think people
+
+554
+00:51:08,400 --> 00:51:14,320
+haven't thought about yet. And that is, again, the supply chain thing where we just assume anybody
+
+555
+00:51:14,320 --> 00:51:21,600
+can do anything because we got something. Vaccines take manufacturing capacity. Right now, there is
+
+556
+00:51:21,600 --> 00:51:28,320
+no big manufacturing capacity sitting out there empty, waiting for some unknown virus to attack us
+
+557
+00:51:28,320 --> 00:51:35,440
+and then cause for a need for a major vaccine program. And so right now, the only players,
+
+558
+00:51:35,440 --> 00:51:40,720
+there's one single one player in this entire effort that even has the capacity to manufacture
+
+559
+00:51:40,720 --> 00:51:46,960
+these in any meaningful way. All the other ones are smaller startup companies that are bringing
+
+560
+00:51:46,960 --> 00:51:51,920
+some good science to the table, but they all are likely acquisition type issues where if they got
+
+561
+00:51:51,920 --> 00:51:58,080
+the product, they get bought by a big company and move on. And relatively speaking, the big companies
+
+562
+00:51:58,080 --> 00:52:03,920
+have not gotten involved. And I think that we have to also look at how do you make enough of this
+
+563
+00:52:03,920 --> 00:52:09,280
+vaccine for millions and millions and millions of people? And how long would that take? I remind
+
+564
+00:52:09,280 --> 00:52:15,440
+people that Ebola vaccine, which was heavily funded by the defense industry in both the United
+
+565
+00:52:15,440 --> 00:52:21,840
+States and Canada because of the concern about a bioweapon use. And so therefore, when it came into
+
+566
+00:52:21,840 --> 00:52:29,440
+the quote unquote Ebola battlefield in 2015, a lot of work had been done on it already. And it still
+
+567
+00:52:29,440 --> 00:52:35,280
+took almost four years to get that thing licensed with the data that it had and the ability to provide
+
+568
+00:52:35,280 --> 00:52:42,480
+the manufacturing dynamics, etc. So I think if we do everything we possibly can here and we can show
+
+569
+00:52:42,480 --> 00:52:49,280
+it's effective, a relative sense of safety, being able to find the manufacturing capacity. We're still
+
+570
+00:52:49,280 --> 00:52:53,920
+talking 18 months, I think, at the earliest. And that's not because people aren't going to be
+
+571
+00:52:53,920 --> 00:52:59,840
+working 26 hours a day. It's just that's what it takes. Yeah. I mean, I think another just point to
+
+572
+00:52:59,840 --> 00:53:05,520
+make that and drive it home is just looking at Shingrix. When we came out with a much improved
+
+573
+00:53:05,520 --> 00:53:10,960
+vaccine for Shingles, I don't know if you recall, but you couldn't get that vaccine for your patients
+
+574
+00:53:10,960 --> 00:53:16,560
+over 50. I'm one of the high risk people. I'm an old guy. I know that. Yeah. We had a really
+
+575
+00:53:16,560 --> 00:53:21,360
+hard time getting that vaccine for our patients. It took many of them needed to wait six months
+
+576
+00:53:21,920 --> 00:53:26,960
+to get it. And obviously it's a fraction of the demand. So it's just worth sort of contemplating
+
+577
+00:53:26,960 --> 00:53:31,440
+that. And I think the other thing that I want to go from this vaccine discussion into the sort of
+
+578
+00:53:31,440 --> 00:53:36,160
+the antivirals, I read a really interesting statistic the other day that I actually,
+
+579
+00:53:36,240 --> 00:53:41,200
+I guess I knew it was not great. I didn't know it was this bad, but it looked at sort of antiviral
+
+580
+00:53:41,200 --> 00:53:47,440
+drug development from about 1963 until present or thereabouts. It was a couple of years old.
+
+581
+00:53:48,000 --> 00:53:53,920
+A little over, oh, I don't know. I want to say in the neighborhood of 5,000 antiviral inhibitors
+
+582
+00:53:53,920 --> 00:53:59,680
+were proposed in the scientific literature, but only 90 of these, 9-0, were approved for final
+
+583
+00:53:59,680 --> 00:54:07,680
+use over about a 55 to 60 year period. And by the way, of those 90, about 40 were for HIV.
+
+584
+00:54:07,680 --> 00:54:13,920
+So again, I'm not minimizing. Yeah. So if you took HIV out of this, we're talking about maybe
+
+585
+00:54:13,920 --> 00:54:21,760
+50 drugs developed with any efficacy and safety to warrant approval in a 55, 60 year period of time.
+
+586
+00:54:21,760 --> 00:54:26,880
+What does that tell you? Well, I'll tell you what it tells me is I harken back to when I was in
+
+587
+00:54:26,880 --> 00:54:32,160
+medical school and I went to NIH to spend some time there and I was in an immunology lab. And I
+
+588
+00:54:32,160 --> 00:54:37,040
+just remember a lecture one day that left such an impression on me, which was, and this was
+
+589
+00:54:37,040 --> 00:54:45,120
+immunology through the lens of cancer. But the point was the T cell biology is so robust. T cells
+
+590
+00:54:45,120 --> 00:54:50,640
+are so amazing at what they do that they save us from all these viruses that otherwise we'd be
+
+591
+00:54:50,640 --> 00:54:57,520
+hosed from as evidenced by how few we have in terms of effective antiviral drugs. In other words,
+
+592
+00:54:58,160 --> 00:55:02,880
+if not for the fact that we had a competent immune system that could fight off most viruses,
+
+593
+00:55:02,880 --> 00:55:08,480
+we'd be doomed because our hit rate of developing drugs to stop viruses is actually
+
+594
+00:55:08,480 --> 00:55:14,000
+pathetic compared to our ability to stop bacteria. No, you're absolutely right. The good fortune,
+
+595
+00:55:14,000 --> 00:55:19,840
+I think, is we are today in a better place in part because of the research that HIV
+
+596
+00:55:19,840 --> 00:55:24,880
+led us into and gave us a better sense of how to do research. But I would absolutely agree with you.
+
+597
+00:55:25,440 --> 00:55:31,120
+Anybody thinks this is a slam dunk, it's not. And I worry about the fact that we've already made
+
+598
+00:55:31,120 --> 00:55:37,520
+judgments to a certain degree about what works and doesn't work. I happen to chair four different
+
+599
+00:55:37,520 --> 00:55:43,920
+major work groups for WHO on what they call the R&D roadmaps for epidemic diseases. We both allow
+
+600
+00:55:44,080 --> 00:55:50,320
+Sunnipa and Zika. Early on, Ebola vaccine was moving along fine. We were overseeing that,
+
+601
+00:55:50,320 --> 00:55:55,680
+but the therapeutics were still a question. And everybody had assumed ZMAP, a monoclonal
+
+602
+00:55:55,680 --> 00:56:01,680
+antibody, was the drug. If you didn't use ZMAP, it was almost unethical. Finally, in this most
+
+603
+00:56:01,680 --> 00:56:07,920
+recent outbreak in the DRC, a randomized control trial was set up, and ZMAP didn't even finish in
+
+604
+00:56:07,920 --> 00:56:14,000
+the top five drugs. And it was one of those ones where when you realize, wow, we've been using this
+
+605
+00:56:14,000 --> 00:56:20,800
+for years with the assumption thereof, I hope that we have very effective drugs in this current
+
+606
+00:56:20,800 --> 00:56:27,360
+regimen approach with the COVID-19 disease, but I don't know that we do. And I think, as you so well
+
+607
+00:56:27,360 --> 00:56:32,720
+know, we have two kinds of drugs. The Coroquine, for example, are immunologic modulators,
+
+608
+00:56:32,720 --> 00:56:39,680
+toll-like receptor modulators. Whereas if we have people dying from a myocarditis type picture,
+
+609
+00:56:40,400 --> 00:56:46,080
+well, that's a whole different situation. We may actually cause problems using Coroquine. So I think
+
+610
+00:56:46,080 --> 00:56:52,400
+that we just don't know yet. And I hope we have multiple fronts to deal with this, but the answers
+
+611
+00:56:52,400 --> 00:56:57,520
+are far from there yet. They're just far from being there. I want to come back to the antiviral
+
+612
+00:56:57,520 --> 00:57:01,920
+in a sec, but I want to pick up on a thread there, which is, isn't that the second time you've
+
+613
+00:57:02,000 --> 00:57:07,840
+mentioned it? Basically, we're so early in this and we're still back on our heels. I feel like a
+
+614
+00:57:07,840 --> 00:57:12,320
+boxer who's been punched in the head so hard. I'm having a hard time thinking about counterpunching.
+
+615
+00:57:12,320 --> 00:57:18,080
+All I'm thinking about doing is not getting hit again. We haven't really done the analysis on the
+
+616
+00:57:18,080 --> 00:57:23,520
+survivors yet. We don't understand how much lingering myocarditis is out there. We don't
+
+617
+00:57:23,520 --> 00:57:28,880
+understand how much lingering kidney disease is out there. We don't understand how much lingering
+
+618
+00:57:28,880 --> 00:57:34,320
+lung disease remains in terms of fibrosis or permanent destruction of a subset of the
+
+619
+00:57:34,320 --> 00:57:42,400
+pneumocytes. Is there anything that you've learned from SARS and MERS about the survivors that we can
+
+620
+00:57:43,200 --> 00:57:49,440
+take as a potential proxy for long-term view on the health of the survivors?
+
+621
+00:57:50,080 --> 00:57:54,800
+I can't say from a clinical standpoint, I know that. SARS was the one in and out. There surely
+
+622
+00:57:54,800 --> 00:58:01,360
+were over 7,000 some survivors and how much subsequent morbidity that they had with that,
+
+623
+00:58:01,360 --> 00:58:06,560
+I can't tell you. The one thing I can tell you, which I think is another observation, but hopefully
+
+624
+00:58:06,560 --> 00:58:12,400
+a positive observation, is that having done all the work in the Middle East on the Arabian Peninsula,
+
+625
+00:58:13,040 --> 00:58:17,440
+unlike with SARS, where once the palm service were taken out of the market, humans weren't
+
+626
+00:58:17,440 --> 00:58:23,680
+getting pinged anymore with the virus. They stopped it. With MERS, those camels keep transmitting and
+
+627
+00:58:23,680 --> 00:58:28,720
+transmitting. People who come from herds, where they're close to those animals, those are the same
+
+628
+00:58:28,720 --> 00:58:36,640
+animals that infected them if they go back to. It turns out that I'm not aware of anyone since 2012,
+
+629
+00:58:36,640 --> 00:58:44,240
+almost eight years, who have been infected going back into a relatively high infection rate in
+
+630
+00:58:44,240 --> 00:58:49,600
+their own animals, have ever gotten reinfected. Again, the assumption that I think we have to be
+
+631
+00:58:49,600 --> 00:58:54,080
+careful about, does that mean they're really protected or not, but we haven't seen that again.
+
+632
+00:58:54,080 --> 00:58:59,520
+That's probably the only takeaway I can come with, but it doesn't answer the very important question
+
+633
+00:58:59,520 --> 00:59:05,280
+you're asking, what is that residual? What's it all about? Even understanding for certain what
+
+634
+00:59:05,280 --> 00:59:09,840
+got us into this situation with underlying comorbidities, I'd like to understand more,
+
+635
+00:59:09,840 --> 00:59:14,720
+why do certain comorbidities actually predispose you to a bad outcome? What is it about that?
+
+636
+00:59:15,280 --> 00:59:19,440
+I was going to ask you, what do you think, for example, in type 2 diabetes makes a bit more sense,
+
+637
+00:59:19,440 --> 00:59:23,120
+but what about type 1 diabetes, where there still seems to be an increased risk, and that's
+
+638
+00:59:23,120 --> 00:59:27,040
+especially concerning for young people? Exactly, I don't know that. Of course,
+
+639
+00:59:27,040 --> 00:59:32,320
+that's going to be overlaid with obesity, so then you're going to have both issues operating at the
+
+640
+00:59:32,320 --> 00:59:39,040
+same time. How much of that is compromised lung capacity? How much of it is actually the diabetes?
+
+641
+00:59:39,040 --> 00:59:44,000
+That's what's really unclear. What about immune compromise? What do we know about immune-suppressed
+
+642
+00:59:44,000 --> 00:59:49,120
+patients? We've actually tried to get more information from the Chinese on that. We've
+
+643
+00:59:49,120 --> 00:59:54,080
+actually made formal requests for that information, and all we get back is saying is that they didn't
+
+644
+00:59:54,080 --> 01:00:00,000
+see any big increase in immune-compromised people, whether they were surviving cancer patients who
+
+645
+01:00:00,000 --> 01:00:06,560
+may have been predisposed to a pneumococmic compromised condition, etc. No one has reported
+
+646
+01:00:06,560 --> 01:00:11,440
+out of the Chinese data. I've not seen it out of the data from Italy other than to say,
+
+647
+01:00:11,440 --> 01:00:16,160
+what do you mean by immune-compromised? You're over 80, what does that mean? But from a clinical
+
+648
+01:00:16,160 --> 01:00:21,360
+standpoint, not someone who would actually, we'd classify as immune-compromised. I've seen nothing
+
+649
+01:00:21,360 --> 01:00:26,640
+on HIV AIDS, for example. Nothing that suggests HIV status puts you at a higher risk at all.
+
+650
+01:00:27,280 --> 01:00:33,920
+Yeah, again, this is yet another point on the list of things that differentiates this from influenza.
+
+651
+01:00:33,920 --> 01:00:41,360
+If we're looking for ways to contrast this, again, it's hyperimmunity, immune paralysis versus not
+
+652
+01:00:41,360 --> 01:00:46,560
+especially immunogenic to the same extent. There's just so many things that make this different that
+
+653
+01:00:46,560 --> 01:00:50,320
+as more and more time goes on, the more and more I feel we do ourselves a disservice trying to
+
+654
+01:00:50,320 --> 01:00:55,920
+compare these two. It's understandable why we do, but it could potentially mislead us if we continue
+
+655
+01:00:55,920 --> 01:01:01,200
+to use influenza. Yeah, and you raised a very good point about I use influenza from a transmission
+
+656
+01:01:01,200 --> 01:01:04,480
+model, but I don't think clinically you can. And one of the areas we ran into that was with kids.
+
+657
+01:01:05,040 --> 01:01:09,840
+When you look at kids today, there is pretty compelling evidence now out of studies that
+
+658
+01:01:09,840 --> 01:01:14,080
+were done in China that the kids do get infected at the same rate that the adults do,
+
+659
+01:01:14,080 --> 01:01:18,400
+but they just don't show clinical signs and symptoms, which is just the opposite with
+
+660
+01:01:18,400 --> 01:01:23,280
+influenza. Kids become little viral reactors in school. They transmit to everybody, including
+
+661
+01:01:23,280 --> 01:01:29,280
+their parents and their older sibs, and they're sick. And so there is an example of a difference
+
+662
+01:01:29,280 --> 01:01:34,320
+right there where what's happening with influenza in kids is not the same thing that's happening
+
+663
+01:01:34,320 --> 01:01:40,160
+with the COVID-19 in kids. Mike, have you given any thought to the notion that you alluded to
+
+664
+01:01:40,160 --> 01:01:46,640
+at the outset that you estimated R0 was somewhere between 2 and 2.4? We tend to talk about R0 as
+
+665
+01:01:46,640 --> 01:01:50,960
+though it's a blended number between the symptomatic and the asymptomatic spreaders.
+
+666
+01:01:50,960 --> 01:01:56,320
+Is there any utility in trying to think of R0 as separate and potentially assuming that the
+
+667
+01:01:56,320 --> 01:02:00,480
+symptomatic people might have a higher R0, although that doesn't necessarily have to be the case?
+
+668
+01:02:01,040 --> 01:02:04,720
+Again, you're asking a great epidemiologic question because we're having that debate right
+
+669
+01:02:04,720 --> 01:02:10,560
+now in a sense. I've always said R0 really didn't apply to MERS and SARS because these
+
+670
+01:02:10,560 --> 01:02:16,320
+super spreaders were so important. You could have five patients, six patients, 10 patients,
+
+671
+01:02:16,320 --> 01:02:21,120
+didn't transmit to anybody even when people let their guard down and didn't do a good infection
+
+672
+01:02:21,120 --> 01:02:26,160
+control. Then somebody could come in and wow. I was involved with helping the follow-up
+
+673
+01:02:26,160 --> 01:02:32,880
+investigation at Samsung Medical Center in Seoul in 2015 when an individual came back from the
+
+674
+01:02:32,880 --> 01:02:40,240
+Middle East to Seoul and they actually were infected. They went to hospital A. Another
+
+675
+01:02:40,240 --> 01:02:45,360
+patient was in hospital A. That person infected that other patient who then upon discharge went
+
+676
+01:02:45,360 --> 01:02:50,400
+over to hospital B, i.e. Samsung Medical Center, and transmitted in one afternoon an
+
+677
+01:02:50,400 --> 01:02:57,600
+emergency room, 60 some people. I mean, that was dynamic. Just to be clear, this is a property of
+
+678
+01:02:57,600 --> 01:03:01,920
+the host, not the virus because it's the same virus. Exactly. You're right. Same virus.
+
+679
+01:03:04,160 --> 01:03:08,800
+To say that the R0 in a situation like that is kind of like saying your head's in the freezer,
+
+680
+01:03:08,800 --> 01:03:13,200
+your feet are in the oven, but on average your temperature is just right. That doesn't make sense.
+
+681
+01:03:13,200 --> 01:03:19,440
+I've always challenged the R0 because I think that it was way, way, way out on the curve. In some
+
+682
+01:03:19,440 --> 01:03:24,720
+cases we saw lots of transmission. Well, I think with this disease we have a hybrid. In fact,
+
+683
+01:03:24,720 --> 01:03:29,680
+there's a great article in today's LA Times, I urge you to go look at it, highlighting a major
+
+684
+01:03:29,680 --> 01:03:36,080
+event that happened at a choir in Seattle. I saw it. If I recall, 60 people in the choir showed up
+
+685
+01:03:36,080 --> 01:03:43,520
+to practice. Yes. 45 have gone on to test positive. Two have died. One was 80, one was 83.
+
+686
+01:03:43,520 --> 01:03:47,280
+Three are in the hospital. So yes, there was something strange about that. So, you know,
+
+687
+01:03:47,280 --> 01:03:52,400
+we had these events like that. And I think that we've had more of those than we care to realize.
+
+688
+01:03:52,400 --> 01:03:57,040
+But on the other hand, we also have, I think, the regular transmission. What was really fascinating
+
+689
+01:03:57,040 --> 01:04:03,040
+about the Kristin Drazin and his group in Munich have followed up on individuals there who were
+
+690
+01:04:03,040 --> 01:04:07,920
+part of this early outbreak associated with somebody who had flown from Wuhan, China to a car
+
+691
+01:04:07,920 --> 01:04:14,240
+manufacturing location in Germany, was supposedly mildly ill, asymptomatic, transmitted. Okay.
+
+692
+01:04:14,240 --> 01:04:17,840
+Well, they followed up on a group of these contacts and they said, okay, as soon as you
+
+693
+01:04:17,840 --> 01:04:23,200
+get the first symptom call us, which they did, and they have a series of patients that they literally
+
+694
+01:04:23,200 --> 01:04:32,480
+have blood, urine, feces, throat swabs, nasal swabs, etc. in the earliest hours. And these people
+
+695
+01:04:32,480 --> 01:04:36,320
+were just getting sick and they were getting progressively sick over time. But what they found
+
+696
+01:04:36,320 --> 01:04:42,640
+with the virus in the throat was fascinating. This is on culture now, not just PCR. The virus
+
+697
+01:04:42,640 --> 01:04:47,440
+level in the throats of these people were about a thousand times what they see with SARS at its
+
+698
+01:04:47,440 --> 01:04:53,280
+highest level. And this was right at the very first moments that they were just showing clinical
+
+699
+01:04:53,280 --> 01:04:59,440
+symptoms. And if you follow those cases, the virus level drops precipitously over each day,
+
+700
+01:04:59,440 --> 01:05:05,520
+day four or five, it's really much lower. Now, clearly before that, and their hypothesis is that
+
+701
+01:05:05,520 --> 01:05:10,480
+these virus levels may have been higher on day minus one, day minus two, but they weren't coughing
+
+702
+01:05:10,480 --> 01:05:14,560
+or they weren't sneezing. So you can say, well, they may not have been as infectious, but to see
+
+703
+01:05:14,560 --> 01:05:19,760
+that kind of virus level, just breathing, creating the aerosols. And people want to understand an
+
+704
+01:05:19,760 --> 01:05:24,080
+aerosol. I tell them there's two things to understand it by. Next time in your house and
+
+705
+01:05:24,080 --> 01:05:27,200
+sunlight is peering through a window and you see all that dust floating in there and you think, oh,
+
+706
+01:05:27,200 --> 01:05:31,440
+my house is dusty. Those are aerosols. That's just from us talking. That's from us breathing. That's
+
+707
+01:05:31,440 --> 01:05:35,840
+what goes on in your house. The second thing is next time you're at a shopping center, hopefully
+
+708
+01:05:35,840 --> 01:05:40,640
+they open up and you are in a department store, you're three aisles, four aisles away from the
+
+709
+01:05:40,640 --> 01:05:46,240
+perfume section, you can still smell it. It's an aerosol. So I think that breathing and just the
+
+710
+01:05:46,240 --> 01:05:52,240
+talking would put that out there. So I think that whether they call it asymptomatic, we kind of call
+
+711
+01:05:52,240 --> 01:05:57,040
+this pre-symptomatic, meaning that they're going to get sick, but they may be infectious beforehand.
+
+712
+01:05:57,040 --> 01:06:02,240
+And this is not a surprise. We see this with influenza all the time. Whether somebody is truly
+
+713
+01:06:02,240 --> 01:06:09,120
+asymptomatic, never showing discernible signs or symptoms, I think is a question that is the data
+
+714
+01:06:09,120 --> 01:06:13,520
+really come down harder and harder. In fact, I just reviewed a paper for a major journal from the
+
+715
+01:06:13,520 --> 01:06:19,440
+group in China that found a sizable number of people who are asymptomatic never had reported
+
+716
+01:06:19,440 --> 01:06:23,360
+symptoms where they had more than just PCR data. They actually had culture data and they were
+
+717
+01:06:23,360 --> 01:06:27,920
+pretty loaded too. So I think there is a role for these people. How much they're driving the
+
+718
+01:06:27,920 --> 01:06:32,560
+outbreak, I don't know, but I think we can't ignore that they have to be there. And I do
+
+719
+01:06:32,560 --> 01:06:38,560
+believe we have SARS-like super spreader events, just like one we just talked about with the
+
+720
+01:06:38,560 --> 01:06:45,120
+chorus. But there's a lot of us, it's just efficient transmission. Did we learn anything
+
+721
+01:06:45,120 --> 01:06:50,400
+about what characteristics those super spreaders had that made them super spreaders such that we
+
+722
+01:06:50,400 --> 01:06:56,640
+might be able to identify these people a priori and isolate them better? No, that is again a
+
+723
+01:06:56,640 --> 01:07:02,800
+million dollar question we have. And even with all the years of looking at what happens with MERS,
+
+724
+01:07:02,800 --> 01:07:09,040
+and part of the reason is with MERS, for example, it's not that the virus got less effective in
+
+725
+01:07:09,040 --> 01:07:14,000
+spreading, we just got more effective in early detection and getting these people isolated.
+
+726
+01:07:14,000 --> 01:07:19,600
+The first outbreaks, for example, in the Arabian Peninsula with MERS were largely in dialysis units
+
+727
+01:07:19,600 --> 01:07:24,400
+where people who were in sick, they were in there for a while, and then classic hospital
+
+728
+01:07:24,400 --> 01:07:28,880
+associated infections occurred where they transmitted to others. Once they figured that
+
+729
+01:07:28,880 --> 01:07:35,680
+out, and as you alluded to a moment ago, R0 is a relative term. It refers to in the natural state
+
+730
+01:07:35,680 --> 01:07:40,400
+unaltered, this is who you transmit to. But if you have somebody that's just hotter than the devil,
+
+731
+01:07:40,400 --> 01:07:44,720
+but you put them in an isolation room, they should transmit to nobody. Technically, there R0 should
+
+732
+01:07:44,720 --> 01:07:49,760
+drop to zero, even though if you had them out in the waiting room, there R0 might be dead.
+
+733
+01:07:50,720 --> 01:07:54,960
+I think that's one of the issues with MERS, we can't even tell you for sure, because we've just
+
+734
+01:07:54,960 --> 01:07:59,600
+gotten a lot better at making sure they don't transmit. And had these occurred otherwise,
+
+735
+01:07:59,600 --> 01:08:04,960
+like the one happened in Samsung Medical Center, I think we'd see more of these. I don't think we
+
+736
+01:08:04,960 --> 01:08:09,840
+know yet, but it's a very important point that we do need to understand much better than we do now.
+
+737
+01:08:10,400 --> 01:08:16,720
+How is anyone to be able to model this out, given all of these unknowns? On the one hand,
+
+738
+01:08:17,680 --> 01:08:21,680
+I think we would all agree forecasting could be helpful, because it would be great to know
+
+739
+01:08:22,640 --> 01:08:28,400
+some order of susceptible areas in the country, if not globally. We've talked about it now on a
+
+740
+01:08:28,400 --> 01:08:33,680
+couple of occasions here, we're going to have to allocate resources intelligently. We can't take
+
+741
+01:08:33,680 --> 01:08:39,120
+an approach that says it's going to be all hands on deck simultaneously everywhere, because one,
+
+742
+01:08:39,120 --> 01:08:42,800
+we don't have the resources to do it, and two, it doesn't mirror what's going to happen. So
+
+743
+01:08:43,360 --> 01:08:47,680
+it would really be helpful to know that while New York is right now the epicenter of this in the
+
+744
+01:08:47,680 --> 01:08:53,760
+United States, these five cities are next in line, and therefore we should at a national level be
+
+745
+01:08:53,760 --> 01:08:59,040
+ramping them up, such that at a local level, they're ready. But how do we do this? I mean,
+
+746
+01:08:59,040 --> 01:09:04,480
+I think my fear is, and we've internally been working on models, we continue to work on models,
+
+747
+01:09:04,480 --> 01:09:09,120
+we're collaborating with people, putting together models, and they're beautiful and they're elegant,
+
+748
+01:09:09,120 --> 01:09:14,160
+but ultimately they're wrong. I mean, they just have to be wrong, because we don't know the
+
+749
+01:09:14,160 --> 01:09:21,520
+simplest things that the models are very sensitive to, such as R0. And I mean, that's by far the most
+
+750
+01:09:21,520 --> 01:09:27,600
+important metric, which of course the problem is, it's a single number or a couple of numbers
+
+751
+01:09:27,600 --> 01:09:34,000
+in a model that as you point out is anything but a single number. The average, the example that is
+
+752
+01:09:34,000 --> 01:09:39,440
+often used, the average, you can drown in an average of three inches of water. So just as you
+
+753
+01:09:39,440 --> 01:09:43,920
+can have your feet in a freezer in your head in an oven and still be on average at the right
+
+754
+01:09:43,920 --> 01:09:49,280
+temperature, it's very complicated. And it's not just to say, we don't know what the distribution
+
+755
+01:09:49,280 --> 01:09:53,760
+looks like. We don't know what the probability distribution looks like of these things. So
+
+756
+01:09:54,400 --> 01:09:58,720
+as someone who has studied these things for such a long period of time, are you more or less
+
+757
+01:09:58,720 --> 01:10:03,840
+optimistic that this exercise of projection and modeling is a fool's errand? Or what do you think
+
+758
+01:10:03,840 --> 01:10:08,800
+we should be doing here? Well, first of all, let me just say I'm not a modeler. I've had a lot of
+
+759
+01:10:08,800 --> 01:10:14,800
+graduate hours, statistics classes, and I ascribe very much to the fact that all models are wrong.
+
+760
+01:10:14,800 --> 01:10:20,960
+Some just provide helpful information. And I've always said that. I've always been, I mean, I had
+
+761
+01:10:20,960 --> 01:10:29,040
+to live through the 2014, 15 Ebola situation where WHO came out and modeled it and said, we're going
+
+762
+01:10:29,040 --> 01:10:34,240
+to have 20,000 cases. And CDC said it could be as high as a million. And it scared the hell out of
+
+763
+01:10:34,240 --> 01:10:39,040
+everybody. And we had to explain the next year why we didn't have a million cases. It was close to
+
+764
+01:10:39,040 --> 01:10:45,040
+20,000. And just that error by itself created a lot of controversy because it made it look like
+
+765
+01:10:45,040 --> 01:10:50,800
+we're trying to really hype this. I think here, the points you're raising are exactly the ones
+
+766
+01:10:50,800 --> 01:10:56,480
+that we've been looking at carefully to say the variability around this feature is from zero to
+
+767
+01:10:56,480 --> 01:11:03,440
+one. I mean, it's from infinity. And so that one factor is kind of like A plus B plus C plus miracle
+
+768
+01:11:03,440 --> 01:11:08,320
+and you get an answer. And the miracle part just can't be there. Okay. And so I think that that is
+
+769
+01:11:08,320 --> 01:11:14,080
+a challenge. On the other hand, I would say you can theoretically say without knowing if it works
+
+770
+01:11:14,080 --> 01:11:19,920
+like this, this is what will happen. If you were able to suppress it in 85 or 90% of the transmission
+
+771
+01:11:19,920 --> 01:11:25,760
+events, you can have this happen. Or if you do this, you can have that happen. But it can't tell
+
+772
+01:11:25,840 --> 01:11:30,560
+you that's what it's going to be. It can just tell you within the framework of what might it look
+
+773
+01:11:30,560 --> 01:11:36,160
+like. I think you're exactly right. I have gone, my predictions, which I talked about earlier,
+
+774
+01:11:36,160 --> 01:11:40,400
+and I surely don't need to sit here and sound, well, look at me. But we were right on with this
+
+775
+01:11:40,400 --> 01:11:45,680
+thing all along, right to this point, even to pick in hotspots. And now we can't. I can't tell
+
+776
+01:11:45,680 --> 01:11:49,680
+you for certain what it's going to do because it's beyond the scope of our experience. And we were
+
+777
+01:11:49,680 --> 01:11:54,560
+just modeling the lot intellectually, not statistically on the flu transmission model,
+
+778
+01:11:54,560 --> 01:11:59,200
+because it looked like that a lot. I think you're asking exactly the right question. What
+
+779
+01:11:59,200 --> 01:12:05,120
+intelligence would give us the information so that we could plan this is the next front. Two weeks
+
+780
+01:12:05,120 --> 01:12:07,600
+from now, this is what we're going to need to be, this is how much we're going to need to have.
+
+781
+01:12:08,160 --> 01:12:13,280
+And we just don't have it, which is one of the other real shortcomings of our ability to respond.
+
+782
+01:12:13,280 --> 01:12:18,320
+Today, weather forecasters can tell you, you got 80% chance in this region right here of having
+
+783
+01:12:18,320 --> 01:12:22,480
+tornadoes today. I can tell you, I can paint the whole United States. We have 100% chance of
+
+784
+01:12:22,480 --> 01:12:26,160
+having a COVID-19 problem, but I can't tell you exactly much more than that right now.
+
+785
+01:12:26,880 --> 01:12:31,280
+Is there any evidence that this is a globally coordinated effort on intelligence now,
+
+786
+01:12:31,280 --> 01:12:37,040
+or is everybody still kind of acting like the guy who just got punched in the nose, who's
+
+787
+01:12:37,600 --> 01:12:43,280
+still stinging from the pain and trying to not get hit again to worry about the person
+
+788
+01:12:43,280 --> 01:12:46,560
+sitting in the front row and whether they're drinking a Diet Coke or a Diet Pepsi?
+
+789
+01:12:47,520 --> 01:12:53,840
+Many of us were incredibly disappointed, for lack of a better word, on the WHO in its response.
+
+790
+01:12:53,840 --> 01:12:59,520
+There was a sense that China's going to contain it, the whole world can contain it. And I give
+
+791
+01:12:59,520 --> 01:13:03,600
+great credit to China for what they did, but they didn't contain it. They slowed it down.
+
+792
+01:13:03,600 --> 01:13:09,280
+I surely give them that. But why did they close down all their movie theaters last week again?
+
+793
+01:13:09,920 --> 01:13:16,640
+Why did they remove all the outside reporters to China two weeks ago? I think many of us think
+
+794
+01:13:16,640 --> 01:13:21,040
+that they are in part experienced in some resurgence as they're opening up their economy
+
+795
+01:13:21,040 --> 01:13:24,560
+again, and they don't want anybody to know it. And I know that's a strong statement,
+
+796
+01:13:24,560 --> 01:13:28,960
+but I've talked to a number of people from Asia who would say they tell you the same thing.
+
+797
+01:13:28,960 --> 01:13:33,760
+So when you look at what WHO did, I think they set us back a great deal because they made
+
+798
+01:13:33,760 --> 01:13:37,920
+countries believe if just the few countries that were going to get this would just do the
+
+799
+01:13:37,920 --> 01:13:42,640
+containment work, we could stop it. And we couldn't. Trying to stop this kind of transmission,
+
+800
+01:13:42,640 --> 01:13:48,480
+like trying to stop the wind. And so we held back on a preparedness and gave people excuses not to
+
+801
+01:13:48,480 --> 01:13:54,800
+do it. Now, again, we don't have global leadership in terms of how do we coordinate this? How do the
+
+802
+01:13:54,800 --> 01:13:59,440
+low and middle income countries do with this versus the high income countries? Every country
+
+803
+01:13:59,520 --> 01:14:08,080
+is fighting for the same tools, the same tests, the same N95s. And we don't have a way to globally
+
+804
+01:14:08,080 --> 01:14:13,760
+allocate those in any kind of meaningful way. So the have and have nots are going to fight it out,
+
+805
+01:14:13,760 --> 01:14:18,320
+and the haves are going to get more, and the have nots are not. The only thing that ironically,
+
+806
+01:14:18,960 --> 01:14:24,800
+we have going for us, which is in a sense a sad commentary, there are a lot less at risk people
+
+807
+01:14:24,800 --> 01:14:28,320
+living in low income countries, because they already died. And they're not able to be around
+
+808
+01:14:28,480 --> 01:14:33,600
+80 with long term renal disease. They died a long time ago. And that's a sad commentary,
+
+809
+01:14:33,600 --> 01:14:38,960
+but in a sense may do better on case fatality rates overall than we do, because they're not
+
+810
+01:14:38,960 --> 01:14:43,760
+going to have that high risk. Yeah, when you, again, this is not a statement of low income
+
+811
+01:14:43,760 --> 01:14:48,640
+countries. So, but looking in Europe again, when you consider Italy, Spain looking very similar,
+
+812
+01:14:48,640 --> 01:14:53,040
+and then Germany looking different, do you think that the majority of that difference is explained
+
+813
+01:14:53,040 --> 01:14:59,200
+by the underlying health of the population? Do you think more of it is just stochastic bad luck,
+
+814
+01:14:59,200 --> 01:15:05,440
+where in Italy and Spain, the regions that got hit first happened to have a greater center of
+
+815
+01:15:05,440 --> 01:15:09,120
+older, more susceptible individuals? Do you think it is an artifact of testing? I mean,
+
+816
+01:15:09,120 --> 01:15:13,200
+how do you explain, what are your explanations for potentially those differences?
+
+817
+01:15:13,200 --> 01:15:19,040
+Yeah, I think it's totally artificial. And I think as demographics, if you look at what happened in
+
+818
+01:15:19,120 --> 01:15:25,120
+Italy, it started in the ski areas, but it quickly got into older populations. If you look at Germany,
+
+819
+01:15:25,760 --> 01:15:30,080
+a lot of that was introduced back in Germany from the Italian ski areas. And it was in a younger
+
+820
+01:15:30,080 --> 01:15:36,160
+crowd. If you look at where the illness is, I can tell you right now that it's starting to change.
+
+821
+01:15:36,160 --> 01:15:41,120
+And it's starting to see more transmission in Germany in older populations. And when that
+
+822
+01:15:41,120 --> 01:15:46,080
+happens, case fatality rates go up. It's just like in Korea, when Korea had this predominant
+
+823
+01:15:46,080 --> 01:15:51,120
+case mix of these younger individuals in this religious sect, case fatality rates were one
+
+824
+01:15:51,120 --> 01:15:55,840
+thing. Now look at what's happening in the older populations more involved, case fatality rates are
+
+825
+01:15:55,840 --> 01:16:01,360
+going up substantially in Korea. I hate to say this, but every week is like a snapshot. It's not
+
+826
+01:16:01,360 --> 01:16:05,920
+the whole movie. And if we could play the whole movie out for the next two to three years, I think
+
+827
+01:16:05,920 --> 01:16:12,240
+there'll be a lot more similar kinds of pictures that will over time bear that out. That where the
+
+828
+01:16:12,240 --> 01:16:18,160
+risk factors were for comorbidity, associated severe disease, we're going to see higher case
+
+829
+01:16:18,160 --> 01:16:24,160
+fatality rates. When you age adjust and when you adjust on risk factors, I don't think there's a
+
+830
+01:16:24,160 --> 01:16:28,240
+lot of difference here that we're going to see around the world. Mike, I want to be sensitive
+
+831
+01:16:28,240 --> 01:16:32,160
+to your time. And of course, I want to make sure that you'll agree to come back and talk with us
+
+832
+01:16:32,160 --> 01:16:36,880
+in a week, two weeks, something like that. Because as you said, the rate at which this is changing,
+
+833
+01:16:36,880 --> 01:16:42,000
+I mean, to talk again in two weeks would be like talking over two years outside of the time frame
+
+834
+01:16:42,080 --> 01:16:48,960
+of an epidemic. But the last question I want to ask you is, is there any of the sort of repurposed
+
+835
+01:16:49,600 --> 01:16:55,840
+drugs that are currently being thrown around in non RCT manners that you have any optimism around?
+
+836
+01:16:55,840 --> 01:16:59,840
+I mean, as you probably saw the study that was published out of France on Saturday,
+
+837
+01:16:59,840 --> 01:17:05,520
+looking at hydrochloro, I mean, again, I thought the study was impossible to interpret because
+
+838
+01:17:05,520 --> 01:17:10,560
+without randomization, it looked promising, but you could argue that all those patients would
+
+839
+01:17:10,560 --> 01:17:13,840
+have done just fine without the drug. I mean, without a control group, it's very difficult.
+
+840
+01:17:13,840 --> 01:17:17,440
+At the same time, I don't want to be critical of that, that we have to do something in terms of
+
+841
+01:17:17,440 --> 01:17:23,440
+studying this and using case control cohort. If that's the best we can do, so be it. But you gave
+
+842
+01:17:23,440 --> 01:17:29,600
+a great example with Ebola, which said, look, you can be really deceived by these non-randomized
+
+843
+01:17:29,600 --> 01:17:35,600
+trials. And when you put them to the gold standard, they can fail miserably. If you're lucky, they just
+
+844
+01:17:35,600 --> 01:17:43,760
+fail in futility, not harm. Based on that, how much of your energy are you spending looking at
+
+845
+01:17:43,760 --> 01:17:49,840
+the different types of repurposed antivirals, everything from remdesivir to camastat to
+
+846
+01:17:49,840 --> 01:17:54,000
+hydroxychloroquine? Are you looking at these closely enough to comment on your optimism or
+
+847
+01:17:54,000 --> 01:17:58,960
+pessimism? I'm not because I'm not in that part of it. I'm doing much more in the epidemiology
+
+848
+01:17:58,960 --> 01:18:02,880
+prevention side, but I think it's a critical question. I actually feel confident though,
+
+849
+01:18:02,880 --> 01:18:07,840
+that the systems are being set up to actually collect the data in a meaningful way so that we
+
+850
+01:18:07,840 --> 01:18:11,920
+can have answers. And I think you nailed it. I mean, I actually read that same study you're
+
+851
+01:18:11,920 --> 01:18:16,960
+talking about, and I had the exact same conclusions you did. So I think we just have to,
+
+852
+01:18:16,960 --> 01:18:22,720
+it's Godspeed, do these as fast as possible, but we have to keep an open mind and let the data
+
+853
+01:18:22,720 --> 01:18:27,440
+take us wherever it's going to and do them. So on that regard, hopefully I can come back in a couple
+
+854
+01:18:27,440 --> 01:18:31,280
+weeks and we can have more information. I do believe we're going to have much more information
+
+855
+01:18:31,280 --> 01:18:37,360
+on therapies much sooner than vaccines. And that could be a really important response.
+
+856
+01:18:37,360 --> 01:18:40,960
+So I know I said that was my last question. I guess I want to give you one last thing to say.
+
+857
+01:18:40,960 --> 01:18:45,040
+There's people that are going to be listening to this less than 24 hours after we've recorded it.
+
+858
+01:18:45,040 --> 01:18:49,920
+So consider it as current as possible. What's the message you want to deliver to people listening
+
+859
+01:18:49,920 --> 01:18:56,000
+to this who are afraid, who are not afraid? Just assume you're talking to a heterogeneous mix of
+
+860
+01:18:56,000 --> 01:19:00,640
+people. What do you want to communicate to them as far as what steps they should be taking to
+
+861
+01:19:00,640 --> 01:19:04,960
+protect themselves and the people they care about? Well, number one, we throw around a lot
+
+862
+01:19:04,960 --> 01:19:09,840
+of numbers and we have to never forget these are all people. They're our loved ones. This is real
+
+863
+01:19:09,840 --> 01:19:13,280
+and more people are going to know somebody in the next couple of weeks that are going to be seriously
+
+864
+01:19:13,280 --> 01:19:18,160
+or die. The second thing is I would just say that we're going to get through this. We are going to
+
+865
+01:19:18,160 --> 01:19:22,720
+get through it. The question is how do we do it? And that's where I think some of us are trying to
+
+866
+01:19:22,720 --> 01:19:28,000
+get the kinds of approaches in place that have a better chance of getting us through than not.
+
+867
+01:19:28,000 --> 01:19:32,560
+I appreciate it. You are wonderful. I would be happy to do this with you again. You're great at
+
+868
+01:19:32,560 --> 01:19:36,480
+it. You're really good at it. I appreciate that, Mike, and we'll get back to you soon. Thank you so
+
+869
+01:19:36,480 --> 01:19:42,400
+much. Bye for now. Bye. Thank you for listening to this week's episode of The Drive. If you're
+
+870
+01:19:42,400 --> 01:19:47,120
+interested in diving deeper into any topics we discuss, we've created a membership program that
+
+871
+01:19:47,120 --> 01:19:52,240
+allows us to bring you more in-depth, exclusive content without relying on paid ads. It's our
+
+872
+01:19:52,240 --> 01:19:57,360
+goal to ensure members get back much more than the price of the subscription. Now to that end,
+
+873
+01:19:57,360 --> 01:20:02,240
+membership benefits include a bunch of things. One, totally kick-ass comprehensive podcast
+
+874
+01:20:02,240 --> 01:20:07,840
+show notes that detail every topic, paper, person, thing we discuss on each episode. The word on the
+
+875
+01:20:07,840 --> 01:20:13,920
+street is nobody's show notes rival these. Monthly AMA episodes or Ask Me Anything episodes,
+
+876
+01:20:13,920 --> 01:20:19,280
+hearing these episodes completely. Access to our private podcast feed that allows you to hear
+
+877
+01:20:19,280 --> 01:20:25,280
+everything without having to listen to spiel like this. The Qualies, which are a super short podcast,
+
+878
+01:20:25,280 --> 01:20:29,600
+typically less than five minutes that we release every Tuesday through Friday, highlighting the
+
+879
+01:20:29,600 --> 01:20:34,320
+best questions, topics, and tactics discussed on previous episodes of The Drive. This is a great
+
+880
+01:20:34,320 --> 01:20:39,360
+way to catch up on previous episodes without having to go back and necessarily listen to everyone.
+
+881
+01:20:39,920 --> 01:20:45,360
+Steep discounts on products that I believe in, but for which I'm not getting paid to endorse,
+
+882
+01:20:45,360 --> 01:20:49,520
+and a whole bunch of other benefits that we continue to trickle in as time goes on. If you
+
+883
+01:20:49,520 --> 01:20:54,320
+want to learn more and access these member-only benefits, you can head over to PeterAttiaMD.com
+
+884
+01:20:54,320 --> 01:21:00,880
+forward slash subscribe. You can find me on Twitter, Instagram, and Facebook, all with the ID
+
+885
+01:21:00,880 --> 01:21:06,880
+PeterAttiaMD. You can also leave us a review on Apple Podcasts or whatever podcast player you
+
+886
+01:21:06,880 --> 01:21:12,400
+listen on. This podcast is for general informational purposes only, and does not constitute the practice
+
+887
+01:21:12,400 --> 01:21:17,440
+of medicine, nursing, or other professional healthcare services, including the giving of
+
+888
+01:21:17,440 --> 01:21:22,960
+medical advice. No doctor-patient relationship is formed. The use of this information and the
+
+889
+01:21:22,960 --> 01:21:28,400
+materials linked to this podcast is at the user's own risk. The content on this podcast
+
+890
+01:21:28,400 --> 01:21:33,600
+is not intended to be a substitute for professional medical advice, diagnosis, or treatment.
+
+891
+01:21:34,240 --> 01:21:40,320
+Users should not disregard or delay in obtaining medical advice from any medical condition they
+
+892
+01:21:40,320 --> 01:21:45,680
+have, and they should seek the assistance of their healthcare professionals for any such conditions.
+
+893
+01:21:46,320 --> 01:21:50,560
+Finally, I take conflicts of interest very seriously for all of my disclosures in the
+
+894
+01:21:50,560 --> 01:21:57,760
+companies I invest in or advise. Please visit PeterAttiaMD.com forward slash about
+
+895
+01:21:57,760 --> 01:22:08,480
+where I keep an up-to-date and active list of such companies.
+

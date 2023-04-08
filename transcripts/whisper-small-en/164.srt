@@ -1,0 +1,4572 @@
+1
+00:00:00,000 --> 00:00:06,000
+Hey, everyone. Welcome to the Drive podcast. I'm your host, Peter Attia.
+
+2
+00:00:06,000 --> 00:00:15,860
+Hey, Amanda. Thank you so much for making time to chat with me today. From the first
+
+3
+00:00:15,860 --> 00:00:19,960
+time I heard you speak, I knew I wanted to have you on the podcast. You probably don't
+
+4
+00:00:19,960 --> 00:00:21,760
+even remember when that was, do you?
+
+5
+00:00:21,760 --> 00:00:25,560
+Well, I think it was that Zoom thing for HFC, right?
+
+6
+00:00:25,560 --> 00:00:32,320
+That's right. That's right. It was hilarity for charity. Somehow, I was considered an
+
+7
+00:00:32,320 --> 00:00:39,280
+expert. You clearly are an expert. You and me and Richard Isaacson were a part of a discussion
+
+8
+00:00:39,280 --> 00:00:46,280
+in the days when we no longer do physical panel discussions. I just thought, wow, I
+
+9
+00:00:46,280 --> 00:00:52,080
+was really blown away by a lot of your insights because they went beyond just the obvious
+
+10
+00:00:52,080 --> 00:00:57,000
+topics we discussed, which are the research around what's the cause of Alzheimer's disease,
+
+11
+00:00:57,000 --> 00:00:59,520
+how do you prevent it, what are the treatment? All those things are relevant and all those
+
+12
+00:00:59,520 --> 00:01:04,820
+things are things that you speak to. I think what impressed me was the attention you brought
+
+13
+00:01:04,820 --> 00:01:09,360
+to the impact that Alzheimer's disease has on the family just as much as it does the
+
+14
+00:01:09,360 --> 00:01:15,160
+patient. Certainly, that's something I want to talk about today. Before we get to that,
+
+15
+00:01:15,160 --> 00:01:19,340
+tell us a little bit about your background. You specialize in geriatric psychiatry, which
+
+16
+00:01:19,340 --> 00:01:23,620
+are not often things you think about, right? People think about psychiatry, they think about
+
+17
+00:01:23,620 --> 00:01:29,420
+forensic psychiatry, they think about more of the DSM-5 type of psychiatry. How did you
+
+18
+00:01:29,420 --> 00:01:38,980
+get interested in that? I grew up in Philadelphia and I had very active grandparents. They owned
+
+19
+00:01:38,980 --> 00:01:43,960
+a nursing home. A lot of people think grandparents in a nursing home, my own and operated in
+
+20
+00:01:43,960 --> 00:01:53,160
+a nursing home. Just from a young age, being around them and their friends and seeing the
+
+21
+00:01:53,160 --> 00:02:03,800
+vibrant lives they led even into their 70s and 80s, that to me was normal aging. I never thought
+
+22
+00:02:03,800 --> 00:02:11,400
+of anything different until I was in medical school and I really saw the pathologic side of
+
+23
+00:02:11,400 --> 00:02:18,120
+aging and the things that can go wrong as we get older, as well as I want to say an attitude of
+
+24
+00:02:18,120 --> 00:02:25,160
+ageism among a lot of the attending physicians that we trained under. There was this sort of
+
+25
+00:02:25,160 --> 00:02:33,400
+epiphany I had one day. I remember I was in Bryn Mawr Hospital in the emergency room and the
+
+26
+00:02:33,400 --> 00:02:38,400
+attending sent me in to talk to a woman who had come in from a nursing home with chest pain. That
+
+27
+00:02:38,400 --> 00:02:45,920
+was all I knew. So I went in and I talked to her and I got the history and I went and I
+
+28
+00:02:45,920 --> 00:02:51,360
+presented the case to the attending in rounds and he just laughed at me and he was like,
+
+29
+00:02:51,360 --> 00:02:56,800
+you went in the wrong room. He's like, the lady I'm talking about doesn't make any sense. And I
+
+30
+00:02:56,800 --> 00:03:04,760
+was like, actually she does. She just doesn't have her dentures in because the EMTs forgot to bring
+
+31
+00:03:04,760 --> 00:03:12,280
+them. But if you actually sat there and took the time to listen to her, she told a very normal
+
+32
+00:03:12,920 --> 00:03:18,200
+coherent story about how she was eating lunch and she felt pain and went to her shoulder. So she
+
+33
+00:03:18,200 --> 00:03:25,800
+called the nurse. And so that for me was so enlightening because I realized how quick
+
+34
+00:03:25,800 --> 00:03:33,880
+people are to brush off the elderly and it kind of lit a fire in me, so to speak, so that that
+
+35
+00:03:33,880 --> 00:03:41,000
+became my passion. So for the rest of medical school, I made sure that my elective rotations
+
+36
+00:03:41,000 --> 00:03:47,960
+were geriatrics and working with older people in different aspects of it. And one of my favorite
+
+37
+00:03:48,600 --> 00:03:55,960
+experiences was on the geriatric psychiatry unit where I got to work with dementia patients and
+
+38
+00:03:55,960 --> 00:04:02,680
+psychotic patients. And I just found that personally I had more patients for them because
+
+39
+00:04:02,680 --> 00:04:09,080
+of their life stories and the things that they've been through. And it just sort of led me down this
+
+40
+00:04:09,080 --> 00:04:17,320
+path to where I am now. And there are lots of ways as you experienced, I suppose, to interact
+
+41
+00:04:17,320 --> 00:04:22,040
+with patients in a geriatric setting. Obviously internal medicine, you could go down that path
+
+42
+00:04:22,040 --> 00:04:26,760
+through cardiology. You could certainly go down that path through other subspecialties.
+
+43
+00:04:27,000 --> 00:04:37,240
+When you were doing the psychiatric work, was it understood at the time that a part of dementia
+
+44
+00:04:37,240 --> 00:04:46,520
+is behavioral changes and other things like that? Or how was, I guess I'm struggling with my question
+
+45
+00:04:46,520 --> 00:04:50,920
+because I know what it is and I can't make it come out. How much was it understood that Alzheimer's
+
+46
+00:04:50,920 --> 00:04:55,400
+disease had a behavioral component that would be under the purview of psychiatric care? I guess
+
+47
+00:04:55,720 --> 00:05:03,880
+I think it was fairly well established. The part that was the bigger problem was that there wasn't
+
+48
+00:05:03,880 --> 00:05:10,920
+much that we could do about the cognitive side of things. And fortunately that's changed some in
+
+49
+00:05:10,920 --> 00:05:18,200
+the time that I've been doing this. So I graduated from med school in 1997, which was actually the
+
+50
+00:05:18,360 --> 00:05:24,760
+year that denepazil or Airecept was first approved. So kind of witnessed the evolution
+
+51
+00:05:24,760 --> 00:05:31,480
+of Alzheimer's treatments in that time. But certainly from the behavioral standpoint,
+
+52
+00:05:32,920 --> 00:05:40,040
+the behavior problems that can occur in people with dementia have always been treatable.
+
+53
+00:05:40,360 --> 00:05:47,240
+Anxiety, depression, psychosis, those have frequently been reasons for hospitalization
+
+54
+00:05:47,240 --> 00:05:54,520
+and often were the reason that we saw people on the geriatric psychiatry unit because they were
+
+55
+00:05:55,080 --> 00:06:03,480
+imagining things that weren't there or acting out on delusions that they had, that people were spying
+
+56
+00:06:03,960 --> 00:06:11,320
+on them and they were taking apart the stealing tiles in their apartment to find these wires that
+
+57
+00:06:11,320 --> 00:06:16,200
+weren't really there and all that kind of thing. So we've always been able to treat that and
+
+58
+00:06:16,200 --> 00:06:23,800
+fortunately there's also been improvement in some of the options there. Not ideally, but to the
+
+59
+00:06:23,800 --> 00:06:30,200
+point where we can control some of those behaviors so people can have a better quality of life and
+
+60
+00:06:30,840 --> 00:06:34,360
+so that caregivers can have a little more peace of mind as well.
+
+61
+00:06:34,360 --> 00:06:41,080
+Is it common that a patient is known to have dementia and we'll get to how that's diagnosed
+
+62
+00:06:41,080 --> 00:06:46,360
+in such a moment, but a patient is known to have this diagnosis of dementia, either Alzheimer's
+
+63
+00:06:46,360 --> 00:06:52,440
+dementia or some non-Alzheimer's form and then they begin to exhibit some of the symptoms you've
+
+64
+00:06:52,440 --> 00:06:58,200
+described so that when they're coming in for evaluation, you're not going to be able to
+
+65
+00:06:58,200 --> 00:07:03,480
+evaluate the diagnosis of dementia. You're not going to be able to evaluate the evaluation.
+
+66
+00:07:03,480 --> 00:07:09,560
+You're not going through a lengthy differential diagnosis to rule out schizophrenia or other forms
+
+67
+00:07:10,120 --> 00:07:15,880
+of psychosis. Or is it sometimes the case that actually the presenting feature of the dementia
+
+68
+00:07:15,880 --> 00:07:22,600
+can be some of these psychotic symptoms you describe where they feel, hey someone's talking
+
+69
+00:07:22,920 --> 00:07:30,760
+the answer is both. Sometimes people will have a course of dementia that after a few years they'll
+
+70
+00:07:30,760 --> 00:07:36,200
+start to develop some of these behavioral symptoms. Some people never get them and some people do
+
+71
+00:07:36,200 --> 00:07:45,160
+actually present with them. Often with the latter, what will usually happen is they'll go be seen by
+
+72
+00:07:45,240 --> 00:07:53,160
+a community psychiatrist or somebody else and get diagnosed with schizophrenia or bipolar illness
+
+73
+00:07:53,160 --> 00:08:01,480
+or something that does not have an onset in the mid-70s. And so usually they'll be misdiagnosed for
+
+74
+00:08:01,480 --> 00:08:08,360
+a couple of years until it becomes really apparent that that's not the primary problem,
+
+75
+00:08:08,360 --> 00:08:16,680
+that there is an underlying neurodegenerative process. I can't sort of imagine, because I
+
+76
+00:08:16,680 --> 00:08:23,080
+haven't been close enough to it, what it's like for a patient in the early stages of dementia.
+
+77
+00:08:23,080 --> 00:08:31,160
+I've seen patients in the later stages where at least on the outside it seems that they're
+
+78
+00:08:31,160 --> 00:08:38,440
+quite removed from what's happening and paradoxically they don't appear to be suffering very much.
+
+79
+00:08:39,880 --> 00:08:46,360
+But is it safe to assume that it's quite unnerving in the early stages and that that might actually
+
+80
+00:08:46,360 --> 00:08:52,440
+be what's driving some of this behavior? Is there a legitimate and understandable fear of something
+
+81
+00:08:52,440 --> 00:08:59,720
+is wrong but I don't understand what it is? Yeah, I mean sometimes. So some people are always
+
+82
+00:09:00,200 --> 00:09:05,480
+blissfully unaware throughout the entire course of their illness. You know, I can't tell you how
+
+83
+00:09:05,480 --> 00:09:12,200
+many times I see a patient and they sit down in my office and I'm like, so what brings you in today?
+
+84
+00:09:12,200 --> 00:09:18,200
+And they're like, my wife? Because there's nothing wrong with me, I'm fine. They have no idea why
+
+85
+00:09:18,200 --> 00:09:26,280
+they're there, even in the very mild stages. Whereas some people are so acutely aware that
+
+86
+00:09:26,280 --> 00:09:33,000
+something's not right and sometimes they know for two or three years before we can even find
+
+87
+00:09:33,000 --> 00:09:37,960
+any discernible changes on their testing. You know, they're like, I know something's wrong with me.
+
+88
+00:09:38,600 --> 00:09:44,200
+And a lot of times they're right. You know, sometimes they're just anxious because a family
+
+89
+00:09:44,200 --> 00:09:48,440
+member had it or they're worried, but a lot of times, you know, they're very in tune to what's
+
+90
+00:09:48,440 --> 00:09:54,680
+happening. And I think you're right. Usually those are the people that suffer the most because they
+
+91
+00:09:55,560 --> 00:10:01,080
+know what's happening to them and they don't like it and they know what they're facing. You know,
+
+92
+00:10:01,080 --> 00:10:11,880
+some patients are extremely insightful and really are aware of what's happening, aware that they're
+
+93
+00:10:11,880 --> 00:10:18,920
+losing things that they used to be able to do or that things aren't coming as quickly. Even yesterday,
+
+94
+00:10:18,920 --> 00:10:25,800
+weirdly, I had two patients with Lewy body dementia, which is a type of dementia that has
+
+95
+00:10:27,400 --> 00:10:34,200
+sort of parts of Alzheimer's, parts of Parkinson's and some very prominent visual hallucinations.
+
+96
+00:10:34,200 --> 00:10:39,400
+And whereas oftentimes when people have hallucinations or false beliefs to them,
+
+97
+00:10:39,400 --> 00:10:45,640
+they're real and they don't know that they're not real. Both of these patients were like,
+
+98
+00:10:45,640 --> 00:10:51,960
+I see things that aren't there and it drives me crazy. Like they knew, you know, this one woman
+
+99
+00:10:51,960 --> 00:10:56,920
+has people all over her living room and she can't find a piece of furniture to sit down on because
+
+100
+00:10:56,920 --> 00:11:03,160
+these people are sitting there and she knows they're not real. But yet she feels like she
+
+101
+00:11:03,160 --> 00:11:08,520
+has to ask them to move in order to sit on her own furniture. But she was insightful enough to
+
+102
+00:11:08,520 --> 00:11:14,360
+be able to say, I know they're not there and I know my family members don't see them. So
+
+103
+00:11:15,080 --> 00:11:21,560
+it's really variable. Let's talk a little bit about how one makes the clinical diagnosis
+
+104
+00:11:22,280 --> 00:11:30,680
+first of dementia and then how one starts to separate out Alzheimer's from Lewy body from
+
+105
+00:11:30,680 --> 00:11:36,600
+presumably an unspecified form of dementia. So starting with the former, what is the clinical
+
+106
+00:11:36,600 --> 00:11:42,440
+definition in the diagnosis of dementia? So dementia is an umbrella term that just sort
+
+107
+00:11:42,520 --> 00:11:50,120
+of describes changes in memory and other areas of cognition and it represents a change from how you
+
+108
+00:11:50,120 --> 00:11:55,240
+used to be so you weren't born with it and it interferes with your day-to-day function. So there
+
+109
+00:11:55,240 --> 00:12:05,000
+are many causes of dementia. Alzheimer's far and away the most common. So although there have been
+
+110
+00:12:05,000 --> 00:12:13,400
+advancements in many of our tests and more sophisticated imaging techniques and blood
+
+111
+00:12:13,400 --> 00:12:23,000
+biomarkers that are coming along, the real crux of diagnosis is a good clinical interview with a
+
+112
+00:12:23,000 --> 00:12:31,880
+patient and with an observer. So usually it's a spouse or an adult child or a loved one who has
+
+113
+00:12:31,880 --> 00:12:40,040
+observed changes over time. In interviewing them separately, that's key separately because otherwise
+
+114
+00:12:40,040 --> 00:12:45,320
+the most important information is left out, you know, because they don't want to hurt the loved
+
+115
+00:12:45,320 --> 00:12:52,120
+one's feelings or whatever. So getting a good clinical interview from the patient,
+
+116
+00:12:53,800 --> 00:13:00,520
+informant, doing some cognitive testing to look for patterns that support one diagnosis over another
+
+117
+00:13:00,520 --> 00:13:07,160
+and then doing some brain imaging to look for certain things like strokes or shrinking in
+
+118
+00:13:07,160 --> 00:13:13,800
+certain parts of the brain as well as some lab tests to rule out reversible causes of memory loss,
+
+119
+00:13:15,320 --> 00:13:22,440
+thyroid disturbance, vitamin deficiencies, things like that, syphilis, although frankly I've stopped
+
+120
+00:13:22,440 --> 00:13:27,080
+really testing for that because it's just tertiary syphilis is so uncommon these days.
+
+121
+00:13:27,560 --> 00:13:34,760
+And once we do all that, generally speaking, you know, we have a pretty accurate diagnostic,
+
+122
+00:13:35,640 --> 00:13:43,480
+you know, chance of getting the right, you know, label for them. Sometimes we need formal neuropsych
+
+123
+00:13:43,480 --> 00:13:50,680
+testing with a neuropsychologist. Sometimes we do need PET scanning to look at certain patterns.
+
+124
+00:13:51,640 --> 00:13:59,240
+For example, frontotemporal dementia is one where people often present with relatively
+
+125
+00:13:59,240 --> 00:14:08,600
+preserved memory but significant changes in language or behavior. And usually, you know,
+
+126
+00:14:08,600 --> 00:14:13,000
+within a minute I can diagnose them because the loved one will say, well, his memory is not so
+
+127
+00:14:13,000 --> 00:14:19,720
+bad but and it's either, you know, he can't really talk anymore, which can also happen in
+
+128
+00:14:19,720 --> 00:14:26,600
+Alzheimer's fairly early in some people. Or, you know, I'm embarrassed to take him to church
+
+129
+00:14:26,600 --> 00:14:34,040
+because he'll get up and take the microphone from the pastor and, you know, you almost know, okay,
+
+130
+00:14:34,040 --> 00:14:40,120
+this is FTD. Those are often the people that erroneously get diagnosed with bipolar illness
+
+131
+00:14:40,680 --> 00:14:48,520
+because of these sudden and really profound behavior changes. Problems with judgment,
+
+132
+00:14:48,520 --> 00:14:52,440
+where they get labeled as being manic because they're spending lots of money or they're,
+
+133
+00:14:53,080 --> 00:14:57,800
+you know, responding to every publisher's clearinghouse thing that comes in the mail.
+
+134
+00:15:00,360 --> 00:15:08,200
+You know, so there's these typical sort of stories and behaviors that we see that kind of
+
+135
+00:15:08,200 --> 00:15:13,480
+support one diagnosis over another. So Amanda, there's a lot in there and I kind of want to
+
+136
+00:15:13,480 --> 00:15:17,080
+go over that in a bit more detail. So to make sure I'm understanding this and obviously the
+
+137
+00:15:17,080 --> 00:15:22,200
+listener as well, the first thing I heard you really say there was the absolute importance of
+
+138
+00:15:22,200 --> 00:15:30,200
+the clinical story. So unlike cancer where the diagnosis is made typically off imaging
+
+139
+00:15:30,200 --> 00:15:35,560
+and then ultimately through a tissue sample, right, the gold standard is a histological
+
+140
+00:15:35,560 --> 00:15:39,320
+diagnosis. That's not the case in Alzheimer's disease. We don't do biopsies of the brain.
+
+141
+00:15:40,440 --> 00:15:44,040
+I also didn't hear you talk about CSF sampling,
+
+142
+00:15:44,840 --> 00:15:51,160
+sampling the cerebrospinal fluid to look for amyloid beta or tau. Anything you want to say
+
+143
+00:15:51,160 --> 00:15:57,720
+about that before we continue down this rabbit hole? Well, yeah, I mean, there are a few things
+
+144
+00:15:57,720 --> 00:16:04,360
+I can say about that. First of all, you know, certainly it is extremely helpful in the diagnostic
+
+145
+00:16:04,360 --> 00:16:14,680
+process to have, you know, formal tests like CSF or amyloid PET in terms of confirming a diagnosis,
+
+146
+00:16:14,680 --> 00:16:22,040
+you know, although we certainly don't do brain biopsies. Unlike when I graduated when you
+
+147
+00:16:22,040 --> 00:16:29,160
+literally could only see amyloid at autopsy under a microscope, we now do have the ability to image
+
+148
+00:16:29,160 --> 00:16:36,600
+amyloid in living patients, which has, you know, and I know we're going to talk about research later,
+
+149
+00:16:38,360 --> 00:16:46,040
+allowed us to really go much earlier in the process and design some prevention trials
+
+150
+00:16:46,920 --> 00:16:54,920
+based on targeting people who have brain amyloid but don't yet have memory symptoms. So it's been
+
+151
+00:16:54,920 --> 00:17:04,040
+a really amazing revolution as far as that goes. However, from a cost standpoint, although it's a
+
+152
+00:17:04,040 --> 00:17:11,800
+test I can order, it's not covered by any insurance and would cost a patient about $4,000 out of pocket.
+
+153
+00:17:12,360 --> 00:17:19,080
+So other than doing it, you know, in the context of a clinical trial, it's really not realistic
+
+154
+00:17:19,080 --> 00:17:25,560
+for many of the patients. As far as CSF goes, you know, there is a good correlation between
+
+155
+00:17:25,560 --> 00:17:32,200
+the PET and CSF findings. Because I am a geriatric psychiatrist and not a neurologist,
+
+156
+00:17:32,200 --> 00:17:39,640
+I'm not typically doing lumbar punctures as part of my practice. Generally speaking, between the
+
+157
+00:17:39,640 --> 00:17:49,240
+other markers such as, you know, MRI imaging and PET, FDG PET, which measures how well the brain
+
+158
+00:17:49,240 --> 00:17:55,320
+is using glucose as its fuel and has different patterns supporting one diagnosis over another,
+
+159
+00:17:55,320 --> 00:18:03,000
+and that is usually covered by some insurance, we're able to make a diagnosis without the additional
+
+160
+00:18:03,640 --> 00:18:10,200
+markers such as CSF. But there are times when it is helpful and when we do refer people
+
+161
+00:18:11,480 --> 00:18:18,920
+to neurology specifically for that. So this clinical diagnosis is so important in a way that
+
+162
+00:18:18,920 --> 00:18:23,880
+it's not really as important in the other major chronic diseases, right? When a patient comes in
+
+163
+00:18:23,880 --> 00:18:28,520
+and they're being diagnosed with diabetes or NAFLD, nobody's really taking a great clinical history.
+
+164
+00:18:28,600 --> 00:18:34,440
+You're sort of assuming you know how they got there. But here you're having that discussion,
+
+165
+00:18:34,440 --> 00:18:41,320
+as you described, both with the patient and with someone who can give some of these details you're
+
+166
+00:18:41,320 --> 00:18:47,880
+looking for. So I kind of want to identify some of these patterns. Now, I guess the textbook cases are
+
+167
+00:18:49,320 --> 00:18:55,160
+first thing is a loss of short-term memory, I'm assuming. Is that the textbook version of
+
+168
+00:18:55,160 --> 00:19:02,920
+Alzheimer's dementia? Yes, I mean in Alzheimer's disease usually people start to complain of
+
+169
+00:19:02,920 --> 00:19:09,320
+forgetfulness repeating. So a loved one might say, well he you know he asked me
+
+170
+00:19:10,280 --> 00:19:17,880
+what time this appointment was four times since yesterday kind of thing. But he can remember you
+
+171
+00:19:17,880 --> 00:19:24,920
+know all the names of his high school football teammates. That's very classic. So the preservation
+
+172
+00:19:24,920 --> 00:19:32,200
+of long-term memory with difficulty with short-term memory. Now, Amanda, how do you differentiate
+
+173
+00:19:32,200 --> 00:19:39,080
+distraction from the path to dementia? Because if there's one thing I've heard so often from
+
+174
+00:19:39,080 --> 00:19:44,760
+patients, it's I you know I just got introduced to this person and I can't remember their name and it
+
+175
+00:19:44,760 --> 00:19:49,720
+used to be so easy for me to remember names or you know my wife told me to do this thing and I
+
+176
+00:19:49,720 --> 00:19:55,560
+just completely spaced on it. And you know my in my practice most of those patients when they're
+
+177
+00:19:55,560 --> 00:19:59,880
+saying that tend to be distracted. There tends to be something else going on. It's really not the
+
+178
+00:20:00,680 --> 00:20:07,160
+prodrom to sort of dementia. But obviously in your practice specifically that's one can't assume that.
+
+179
+00:20:07,160 --> 00:20:12,600
+Do you have a way that you try to differentiate that? Well, I think it has to be taken in context
+
+180
+00:20:12,600 --> 00:20:19,480
+with all of the other information. I mean quite frankly it happens to me too. You know literally
+
+181
+00:20:19,480 --> 00:20:28,040
+yesterday I thought it was Friday because I knew I was normally on Friday I wear sweatpants and a
+
+182
+00:20:28,040 --> 00:20:34,200
+USF thing and I knew I wanted to not wear that for this podcast today. And so I was in my Friday
+
+183
+00:20:34,200 --> 00:20:40,040
+outfit yesterday and so at one point I literally was like oh it's Friday. And then I was like oh
+
+184
+00:20:40,040 --> 00:20:45,880
+no it's not Friday. But I'm not worried that I have dementia. I was distracted. I'm busy. I have a lot
+
+185
+00:20:45,880 --> 00:20:53,960
+of things going on. And so you know all those kinds of things happen to all of us. So it has to be
+
+186
+00:20:54,600 --> 00:21:00,440
+looked at in the context of you know A the fact that some of this does happen with normal aging.
+
+187
+00:21:01,880 --> 00:21:09,960
+The fact that you know stress, a bad night's sleep, all that kind of stuff can affect it.
+
+188
+00:21:09,960 --> 00:21:16,360
+And the other part of it is the frequency and intensity of it. You know if it's the exception
+
+189
+00:21:16,360 --> 00:21:23,560
+rather than the rule it's probably not dementia. But when that becomes sort of how you are and
+
+190
+00:21:23,560 --> 00:21:33,320
+what happens every day then it's more concerning. You alluded to, I think you alluded to MRI and
+
+191
+00:21:33,320 --> 00:21:37,880
+although you didn't state it explicitly, were you talking about hippocampal volume or other
+
+192
+00:21:38,680 --> 00:21:41,560
+brain matter loss? Was that kind of what you were getting at?
+
+193
+00:21:42,360 --> 00:21:51,400
+Yeah the typical things that we look for in an MRI when evaluating for dementia. A is
+
+194
+00:21:51,400 --> 00:21:57,160
+ruling out vascular disease or quantifying the amount of it. So we all get with aging
+
+195
+00:21:58,600 --> 00:22:06,680
+some amount of tiny little strokes. And I know that sounds scary. But as we get older you know
+
+196
+00:22:06,680 --> 00:22:11,320
+for various reasons high blood pressure, high cholesterol, smoking, diabetes, and even just
+
+197
+00:22:11,320 --> 00:22:17,400
+normal aging there can be blocking of blood vessels, changes in circulation that cause us to
+
+198
+00:22:17,400 --> 00:22:23,800
+have these tiny little infarcts. These are not anything you would notice. You would never
+
+199
+00:22:24,360 --> 00:22:31,640
+have symptoms. You wouldn't go to the hospital. But there can be an accumulation of them. And
+
+200
+00:22:31,640 --> 00:22:36,520
+there's a certain amount that's sort of normal and it's extremely mild or scattered. But then
+
+201
+00:22:37,480 --> 00:22:43,960
+when they start to coalesce or they start to extend into cortical areas,
+
+202
+00:22:43,960 --> 00:22:48,040
+parts of the brain that sort of matter more in terms of critical thinking,
+
+203
+00:22:50,200 --> 00:22:55,560
+then they can be symptomatic. So that's one of the things that we look at is how much vascular
+
+204
+00:22:55,560 --> 00:23:01,800
+disease. Another thing that we look at is how much shrinking there is both globally and then
+
+205
+00:23:01,800 --> 00:23:08,920
+as you mentioned in the hippocampus which is where short-term memories are kind of formed and
+
+206
+00:23:08,920 --> 00:23:16,840
+before they go off elsewhere. And so there is, you know, it is known that that shrinking in
+
+207
+00:23:16,840 --> 00:23:23,800
+the hippocampus particularly disproportionately to shrinking elsewhere can be a biomarker of
+
+208
+00:23:23,800 --> 00:23:30,520
+Alzheimer's disease. Now there are sometimes people who have hippocampal atrophy and turn out to be
+
+209
+00:23:30,520 --> 00:23:40,600
+amyloid negative. So there are these other pathologies that could be considered, they call
+
+210
+00:23:40,600 --> 00:23:47,800
+it hippocampal sclerosis. Some people have that from a stroke. Some people have it potentially
+
+211
+00:23:47,800 --> 00:23:56,440
+from chronic traumatic encephalopathy and other buildup of other abnormal proteins beside amyloid
+
+212
+00:23:56,440 --> 00:24:01,880
+in the brain that kind of affect memory as well. I want to come back to the amyloid negative case
+
+213
+00:24:01,880 --> 00:24:13,800
+in a second. Is hippocampal volume a reliable marker to check progress? So for example,
+
+214
+00:24:13,800 --> 00:24:18,040
+if you had a patient that was high risk theoretically, so I don't know if you're
+
+215
+00:24:18,040 --> 00:24:21,080
+seeing people who are high risk but don't have symptoms yet, but if you had a patient who is high
+
+216
+00:24:21,080 --> 00:24:27,640
+risk, you did an MRI, you got a baseline so to speak, you had their hippocampal volume, would
+
+217
+00:24:27,640 --> 00:24:34,520
+tracking that over time for changes, reductions presumably, would that provide any meaningful
+
+218
+00:24:34,520 --> 00:24:42,280
+insight? Sometimes but not always. So other things can affect hippocampal volume. For example,
+
+219
+00:24:43,000 --> 00:24:51,960
+people who are chronically exposed to elevated levels of cortisol or stress hormone,
+
+220
+00:24:51,960 --> 00:24:55,400
+people who have post-traumatic stress disorder, we know they have smaller
+
+221
+00:24:56,120 --> 00:25:06,920
+hippocampi than people who don't have that. And so there are times when we can track hippocampal
+
+222
+00:25:06,920 --> 00:25:14,280
+volume over the course of progression of Alzheimer's and the shrinking sort of correlates
+
+223
+00:25:14,280 --> 00:25:20,520
+with the amount of cognitive impairment, but sometimes not. Sometimes we have people who
+
+224
+00:25:20,520 --> 00:25:25,480
+are very impaired and their brain doesn't really look that bad. And sometimes we have people who
+
+225
+00:25:25,480 --> 00:25:31,800
+look like they shouldn't be able to put on their own pants based on what the brain looks like,
+
+226
+00:25:31,800 --> 00:25:38,200
+but they seem fine. So it's again, one of those things that really has to be taken
+
+227
+00:25:39,000 --> 00:25:44,200
+in context with all of the other information and part of the reason why the clinical
+
+228
+00:25:44,760 --> 00:25:48,760
+evaluation and interview and the intangible stuff is so important.
+
+229
+00:25:49,800 --> 00:25:57,560
+And just to be clear, the diagnosis is, it requires the clinical story with or without amyloid.
+
+230
+00:25:57,560 --> 00:26:03,320
+And so when you look at the Venn diagram of people with amyloid and people with clinical
+
+231
+00:26:03,320 --> 00:26:08,680
+symptoms suggestive of dementia and you line them up, there's an overlap, but it's not a perfect
+
+232
+00:26:08,680 --> 00:26:15,880
+union. And what that tells us is that amyloid is neither necessary nor sufficient for Alzheimer's
+
+233
+00:26:15,880 --> 00:26:22,680
+disease, correct? Well, amyloid is necessary for Alzheimer's disease. It's not necessary
+
+234
+00:26:22,680 --> 00:26:29,000
+for dementia, but if you look at the definition pathologically of what Alzheimer's is,
+
+235
+00:26:29,960 --> 00:26:38,040
+it is the plaques, the amyloid plaques and the tau tangles in the brain. So that was what's
+
+236
+00:26:38,040 --> 00:26:42,040
+required pathologically to make a diagnosis of Alzheimer's disease.
+
+237
+00:26:42,600 --> 00:26:46,440
+But that diagnosis will only be made post-mortem technically?
+
+238
+00:26:46,440 --> 00:26:55,320
+Technically, yeah. But that's why the advent of amyloid imaging has been so helpful in terms of
+
+239
+00:26:57,880 --> 00:27:04,840
+making that formal diagnosis in living people, which is obviously more helpful for them.
+
+240
+00:27:04,840 --> 00:27:14,840
+You know, the correlation, I believe in one of the studies with Amivid,
+
+241
+00:27:15,640 --> 00:27:21,880
+Flurbetapyr, which was one of the first amyloid imaging ligands that came out, the correlation
+
+242
+00:27:21,880 --> 00:27:28,440
+between the PET and their... These were people who were kind enough to donate their brains
+
+243
+00:27:29,160 --> 00:27:35,000
+after they passed to compare to what their PET scan looked like. And it was a correlation of about
+
+244
+00:27:35,000 --> 00:27:43,720
+97%. So meaning when they were alive, they had an amyloid PET scan. Yes. And an amyloid PET scan,
+
+245
+00:27:43,720 --> 00:27:51,960
+unlike FDG PET, where you're putting radio labeled glucose, here you're putting an antibody to amyloid
+
+246
+00:27:51,960 --> 00:27:59,160
+as their tracer, correct? Yes. And so they had this scan while they were alive, and you then had
+
+247
+00:27:59,160 --> 00:28:05,480
+a distribution of people that had this much amyloid, that much amyloid, et cetera. But all
+
+248
+00:28:05,480 --> 00:28:09,800
+of them, to be clear, had a diagnosis of Alzheimer's disease based clinically, correct?
+
+249
+00:28:10,360 --> 00:28:16,680
+Right. They had a suspected diagnosis of Alzheimer's, and then they underwent the PET, and then
+
+250
+00:28:17,560 --> 00:28:22,120
+they donated their brains. And then on exam... The correlation between...
+
+251
+00:28:22,120 --> 00:28:27,720
+So what we're missing there, of course, is the control of people who had amyloid in their brains
+
+252
+00:28:28,600 --> 00:28:33,320
+that would go on to have amyloid on autopsy, but didn't have Alzheimer's disease. Do we have a rough
+
+253
+00:28:33,320 --> 00:28:39,560
+sense of how big a population that is? I've had a hard time finding this, by the way. What percentage
+
+254
+00:28:39,560 --> 00:28:45,640
+of people on autopsy have amyloid in their brain, but did not have dementia during their life?
+
+255
+00:28:46,520 --> 00:28:55,800
+I don't know, honestly. But I think more than you would expect, because... So what we know about
+
+256
+00:28:55,800 --> 00:29:01,160
+amyloid, and one of the reasons that amyloid imaging has been so helpful, is because it's
+
+257
+00:29:01,160 --> 00:29:09,480
+helped us understand that amyloid starts to build up 10, 15, 20 years before you start to have
+
+258
+00:29:09,480 --> 00:29:17,960
+symptoms of forgetfulness and other cognitive symptoms. And so it's this process where
+
+259
+00:29:19,880 --> 00:29:24,840
+it's occurring, and then it reaches a critical mass. And there's a lot of debate scientifically
+
+260
+00:29:25,400 --> 00:29:32,840
+about what that critical mass is, or what the downstream effects of amyloid build up. There's
+
+261
+00:29:32,840 --> 00:29:38,440
+some people who think that you can have as much amyloid as you want, and it's not until you start
+
+262
+00:29:38,440 --> 00:29:47,080
+to have tau. We're understanding more that tau... Whereas amyloid is sort of widespread,
+
+263
+00:29:47,080 --> 00:29:54,440
+kind of from the beginning, and builds up all these years beforehand. And so the
+
+264
+00:29:55,880 --> 00:30:01,000
+tracking amyloid doesn't correlate to symptoms. Tau, on the other hand, is very different and has
+
+265
+00:30:01,000 --> 00:30:09,000
+a very specific pattern in which it spreads that does indeed correlate with symptoms. So some
+
+266
+00:30:09,000 --> 00:30:14,680
+people feel like it's really the tau that kind of stages where things are, whether you're going to be
+
+267
+00:30:14,680 --> 00:30:21,080
+symptomatic or not. So to answer your question, I think there are a lot of people who start to
+
+268
+00:30:21,080 --> 00:30:27,720
+build up amyloid maybe in their 70s or whatever, and then die of something else.
+
+269
+00:30:28,120 --> 00:30:33,080
+So a way to think about it is it's sort of like saying, and this is a bad example,
+
+270
+00:30:33,080 --> 00:30:36,920
+but I think it's the best one I can think of on the spot, it's like coronary calcification,
+
+271
+00:30:37,480 --> 00:30:42,600
+where if somebody dies of cancer and you see calcification in their coronary arteries,
+
+272
+00:30:42,600 --> 00:30:47,400
+you knew they have atherosclerosis, but it may have never clinically manifested itself. And
+
+273
+00:30:47,960 --> 00:30:51,640
+if they had not died of cancer, they may have died of an MI 10 years later.
+
+274
+00:30:52,280 --> 00:30:59,000
+That's exactly right. And that's frankly the analogy we most often like to use.
+
+275
+00:31:00,920 --> 00:31:15,160
+So before 2011, the FDA, the definition of Alzheimer's was dementia. So there was no place
+
+276
+00:31:16,120 --> 00:31:22,760
+in research for these prodromal patients or testing these interventions in people before
+
+277
+00:31:22,760 --> 00:31:30,520
+they had full-blown dementia. And that was very much like waiting until someone had a heart attack
+
+278
+00:31:30,520 --> 00:31:36,200
+to say that they had coronary artery disease. Well, it's like, no, you knew that because they
+
+279
+00:31:36,200 --> 00:31:41,000
+have high cholesterol and they're building up and you could see on an angioplasty or whatever
+
+280
+00:31:41,880 --> 00:31:48,440
+this was happening. And so in 2011, with the advent of amyloid imaging,
+
+281
+00:31:48,440 --> 00:31:52,760
+Pittsburgh compound was the first thing that came out that allowed us to see that,
+
+282
+00:31:52,760 --> 00:31:56,680
+although its half-life is so terribly short that it really is not clinically
+
+283
+00:31:58,840 --> 00:32:07,480
+useful because it has to be made and used within minutes. But that really allowed us to redefine
+
+284
+00:32:07,480 --> 00:32:14,360
+what Alzheimer's is so that we could see this amyloid building up in patients before they
+
+285
+00:32:14,360 --> 00:32:22,360
+started to have symptoms. And it allowed some redefinition and there were white papers that
+
+286
+00:32:22,360 --> 00:32:29,720
+came out kind of dividing. And I know on a previous podcast, Richard Isaacson did go into
+
+287
+00:32:29,720 --> 00:32:36,040
+this in some detail, but the preclinical phase of Alzheimer's, then mild cognitive impairment,
+
+288
+00:32:36,680 --> 00:32:44,840
+and then dementia. So it really has allowed us to then kind of take a step back and see if we can
+
+289
+00:32:44,840 --> 00:32:53,400
+intervene before people have these symptoms that we may not be able to reverse. Yeah, to me, Amanda,
+
+290
+00:32:53,400 --> 00:33:01,400
+that is probably the most exciting part of this field, which is effectively taking from the
+
+291
+00:33:01,400 --> 00:33:06,680
+playbook of the chronic disease we understand most. I talk about this with patients, which is
+
+292
+00:33:06,680 --> 00:33:13,160
+like there's basically these three main chronic diseases, which is Alzheimer's disease, cancer,
+
+293
+00:33:13,160 --> 00:33:17,800
+even though of course that's not one disease, and the atherosclerotic diseases, both cerebrovascular
+
+294
+00:33:17,800 --> 00:33:23,640
+and cardiovascular. And those three legs stand on a platform, which is metabolic disease,
+
+295
+00:33:23,640 --> 00:33:29,160
+which is then basically the distribution from hyperinsulinemia to insulin resistance,
+
+296
+00:33:29,160 --> 00:33:34,360
+naphyl D, and type 2 diabetes. So that becomes the table and you have these legs that stand on it.
+
+297
+00:33:35,000 --> 00:33:40,440
+Of these, I think we have the best understanding of atherosclerosis, where lesion by lesion,
+
+298
+00:33:40,440 --> 00:33:46,680
+we can stage them. We understand what a fatty streak is, we understand what a foam cell is,
+
+299
+00:33:46,680 --> 00:33:54,360
+we understand what leads to calcification, how we go from soft plaque to vulnerable plaque to a
+
+300
+00:33:54,360 --> 00:34:03,960
+ruptured plaque to an MI. And we clearly understand, as your point is made, to sit there
+
+301
+00:34:03,960 --> 00:34:08,600
+and wait until someone has a major adverse cardiac event to say, oh, this guy's got heart disease,
+
+302
+00:34:09,240 --> 00:34:16,600
+is nonsensical. I would go one step further and say, waiting until a person's 10-year risk exceeds
+
+303
+00:34:16,600 --> 00:34:21,880
+5% to intervene is equally nonsensical, yet that is still largely the standard.
+
+304
+00:34:22,360 --> 00:34:29,880
+Because we know from autopsy studies of teenagers, that the process begins then. I mean, it probably
+
+305
+00:34:29,880 --> 00:34:34,840
+begins even younger, but we don't have too many autopsies of people below the teen years. But
+
+306
+00:34:34,840 --> 00:34:39,000
+certainly autopsies of people in their late teens and early 20s who have died for other reasons
+
+307
+00:34:39,960 --> 00:34:47,560
+already show foam cells, fatty streaks in some cases. So if I'm understanding you correctly,
+
+308
+00:34:48,360 --> 00:34:54,680
+by definition now, based on everything we understand, anyone who clinically classifies
+
+309
+00:34:54,680 --> 00:35:05,160
+as having dementia with amyloid has Alzheimer's disease. Is tau necessarily preceded by amyloid,
+
+310
+00:35:05,160 --> 00:35:12,360
+or are there scenarios in which tau arrives with minimal to no amyloid beta?
+
+311
+00:35:13,080 --> 00:35:17,720
+So the answer to that question is yes, but I want to kind of go back for a second.
+
+312
+00:35:18,280 --> 00:35:25,720
+So anyone that has dementia and has amyloid does have Alzheimer's, but they may also have
+
+313
+00:35:25,720 --> 00:35:32,760
+other pathology too, right? So you could have a mixed dementia where you have Alzheimer's and
+
+314
+00:35:34,520 --> 00:35:41,000
+vascular disease, or you could have a mixed Lewy body in Alzheimer's. And we know from
+
+315
+00:35:41,960 --> 00:35:48,920
+the autopsy studies certainly that are done by Dennis Dixon up in Mayo and Jacksonville,
+
+316
+00:35:49,960 --> 00:35:56,680
+most pathology is actually mixed. I don't have the numbers, and I don't remember them quite
+
+317
+00:35:56,680 --> 00:36:04,520
+frankly offhand, but I know that the number of pure Alzheimer's is actually lower than the number
+
+318
+00:36:04,520 --> 00:36:13,640
+of mixed cases. So most people have something else too. And is vascular the most common
+
+319
+00:36:15,800 --> 00:36:21,800
+additional diagnosis? Yes. And so what does that mean? Let's think about that for a second.
+
+320
+00:36:21,800 --> 00:36:26,360
+You may recall I interviewed Francesco Gonzalez Lima probably two or three years ago.
+
+321
+00:36:26,360 --> 00:36:36,280
+He's here actually in UT Austin, works with Jack De La Torre and they really have a strong point
+
+322
+00:36:36,280 --> 00:36:43,320
+of view that says, look, it's this microvascular disease that is really a big driver here. And
+
+323
+00:36:43,320 --> 00:36:47,880
+there's a very compelling rationale for that. You mentioned it earlier. It's very hard to make it
+
+324
+00:36:47,880 --> 00:36:55,400
+into your seventh, eighth, ninth decade without unbelievable amounts of microvascular damage.
+
+325
+00:36:55,400 --> 00:37:00,600
+And to your point, if a critical mass of that is reached, it's quite likely that that's going to
+
+326
+00:37:00,600 --> 00:37:06,120
+result in the cognitive impairment and ultimately even higher levels of impairment beyond memory,
+
+327
+00:37:06,120 --> 00:37:13,320
+such as executive function. And if, as you said, amyloid is accumulating along the way, it makes
+
+328
+00:37:13,320 --> 00:37:19,640
+sense that you could have this mixed picture where you have the clinical side. So you meet the
+
+329
+00:37:19,720 --> 00:37:25,560
+criteria for dementia, you have amyloid beta and you have a heavy enough burden of vascular disease.
+
+330
+00:37:26,440 --> 00:37:30,760
+I guess it begs the question, if you had a time machine and you could go back in time
+
+331
+00:37:31,400 --> 00:37:38,520
+for that particular patient and you correct the vascular insult. So let's just say in one patient,
+
+332
+00:37:38,520 --> 00:37:43,400
+they were aggressively, you aggressively manage their hypertension. In another patient, you
+
+333
+00:37:44,120 --> 00:37:48,760
+kick the smoking cessation in 20 years sooner. In another patient, you manage the dyslipidemia.
+
+334
+00:37:50,280 --> 00:37:55,000
+You're going to impact the vascular stuff. Do you think that has an impact on the amyloid side of
+
+335
+00:37:55,000 --> 00:38:00,200
+the equation? And more importantly, does it impact clinically their development of dementia?
+
+336
+00:38:01,800 --> 00:38:08,440
+I think definitely, yes. I mean, I know, again, when you had your conversation with Richard
+
+337
+00:38:08,440 --> 00:38:15,400
+Isaacson, he stressed the importance of those cardiovascular risk factors and the development
+
+338
+00:38:15,400 --> 00:38:20,280
+of Alzheimer's. The other thing that we know is, and again, it's not exactly the same
+
+339
+00:38:21,480 --> 00:38:28,120
+protein, but it's so closely related, amyloid is a component of blood vessel walls.
+
+340
+00:38:29,080 --> 00:38:38,680
+So to what extent, I think there's still room for more understanding in that and what the
+
+341
+00:38:38,680 --> 00:38:45,080
+exact relationship is between normal amyloid and pathologic amyloid. So it's important to say in
+
+342
+00:38:45,160 --> 00:38:51,960
+Alzheimer's, the buildup of amyloid is this abnormal length amyloid that's not the usual
+
+343
+00:38:51,960 --> 00:38:59,160
+thing that we find in our bodies. So it's changed a little bit. But there is normally amyloid that's
+
+344
+00:38:59,160 --> 00:39:06,760
+part of our being. And so because it is part and parcel of blood vessel walls, it's only natural
+
+345
+00:39:06,760 --> 00:39:14,440
+to assume there must be this interplay between the vasculature and the Alzheimer's side of things.
+
+346
+00:39:15,720 --> 00:39:21,480
+I would be lying if I said I knew what that was. I think that still needs to be elucidated.
+
+347
+00:39:23,960 --> 00:39:28,200
+That's why we have floors of people smarter than me upstairs doing experiments.
+
+348
+00:39:29,720 --> 00:39:34,440
+Does amyloid beta exist outside of the blood-brain barrier? Does it exist on the other
+
+349
+00:39:34,440 --> 00:39:37,560
+side of the blood-brain barrier? Honestly, I don't know.
+
+350
+00:39:39,080 --> 00:39:43,880
+That's interesting. I never actually thought of what, until you said what you said
+
+351
+00:39:44,520 --> 00:39:49,640
+about the relationship to the endothelium. I never thought about that. I'm guessing somebody
+
+352
+00:39:49,640 --> 00:39:55,080
+has looked into that. And the answer is probably not enough to matter or else we would simply be
+
+353
+00:39:55,080 --> 00:40:01,320
+doing a blood test to look for enough amyloid, right? Right. Well, that's coming though. Yeah.
+
+354
+00:40:02,760 --> 00:40:09,000
+So there are some really exciting, I don't want to forget about your tau question.
+
+355
+00:40:09,000 --> 00:40:11,000
+Yeah. Yeah. We'll come back to that. So I have that over here.
+
+356
+00:40:11,160 --> 00:40:19,240
+There are some really exciting developments in terms of looking at blood biomarkers,
+
+357
+00:40:19,240 --> 00:40:29,160
+including plasma amyloid, in terms of potentially having a blood-based test for Alzheimer's.
+
+358
+00:40:31,000 --> 00:40:38,760
+So there has been progress there. And I think that as time goes on, we're going to be able to
+
+359
+00:40:39,720 --> 00:40:48,280
+do these less invasive tests and really have a better sense of both risk for people who aren't
+
+360
+00:40:48,280 --> 00:40:55,240
+maybe symptomatic yet, as well as diagnosis. One blood-based test. Oh, okay. Yeah. Yeah.
+
+361
+00:40:55,240 --> 00:40:57,800
+Let's go back to tau. And then I want to ask another blood-based question.
+
+362
+00:40:59,000 --> 00:41:04,680
+Okay. So you had asked about whether you could have other things like tau without amyloid. And
+
+363
+00:41:04,840 --> 00:41:12,440
+the answer is definitely yes. So frontotemporal dementias, some of them are characterized by
+
+364
+00:41:13,160 --> 00:41:19,080
+abnormal tau buildup in the absence of amyloid. There are some familial genetic
+
+365
+00:41:20,040 --> 00:41:28,680
+frontotemporal brain diseases that are characterized by tau burden, chronic traumatic encephalopathy
+
+366
+00:41:28,680 --> 00:41:37,800
+that we see in football and other boxing. And things also have abnormal tau often in the
+
+367
+00:41:38,280 --> 00:41:44,680
+absence of amyloid. So yes, that definitely has a role in the development of dementia
+
+368
+00:41:44,680 --> 00:41:50,600
+in other types of dementia too. We sort of glossed over it, but maybe it is worth
+
+369
+00:41:51,480 --> 00:41:57,480
+explaining what it is that amyloid beta is doing to neurons and what it is that tau
+
+370
+00:41:58,360 --> 00:42:02,920
+is doing to neurons to actually injure them. Do you want to spend just a second
+
+371
+00:42:02,920 --> 00:42:09,640
+kind of outlining those things? To the extent that my blonde self can, I will.
+
+372
+00:42:13,400 --> 00:42:19,960
+To a first order approximation. No, but I mean, I focus on the patient part of things. I let the
+
+373
+00:42:19,960 --> 00:42:28,600
+scientists do their, the neuroscientists do their part. But it is this sort of cascade of damage.
+
+374
+00:42:29,960 --> 00:42:39,240
+There is activation of glial cells, which sort of help protect our brain against intruders.
+
+375
+00:42:41,400 --> 00:42:48,520
+They can release toxins. They can sort of eat, it's called autophagy, eating up our own tissue.
+
+376
+00:42:48,520 --> 00:42:59,160
+And so there is damage both inside the neurons and then outside, plaques and tangles. And
+
+377
+00:43:00,840 --> 00:43:05,800
+it creates a cascade that eventually leads to cell death.
+
+378
+00:43:06,840 --> 00:43:14,040
+And so is it more the death of the neuron itself or would the injury to the glial cells alone be
+
+379
+00:43:14,040 --> 00:43:20,360
+sufficient to lead to these symptoms? Because the glial cells, of course, when I was in medical
+
+380
+00:43:20,360 --> 00:43:25,320
+school, which was not that long after you, I don't remember that we talked that much about
+
+381
+00:43:25,320 --> 00:43:30,440
+glial cells in our neuroscience classes. I feel like we talked more about the neurons,
+
+382
+00:43:30,440 --> 00:43:36,920
+but I know that in more recent discussions I've had with neuroscientists, they really place almost
+
+383
+00:43:36,920 --> 00:43:43,480
+an equal emphasis on the glial cells. So I'm curious as to whether or not injuring the glial
+
+384
+00:43:43,560 --> 00:43:50,040
+cells in this particular pathology is equally responsible or at least to a first-order
+
+385
+00:43:50,040 --> 00:43:56,360
+approximation equally responsible for the damage. I think they're more responsible for the damage.
+
+386
+00:43:57,320 --> 00:44:03,000
+I think that they're part of the cascade that leads to the death of the neurons because they're
+
+387
+00:44:03,000 --> 00:44:12,120
+trying to protect the neurons and in doing so injure them. I want to go back to a biomarker
+
+388
+00:44:12,120 --> 00:44:17,960
+question. We're going to talk about the ApoE genotype at some point, but of course one can
+
+389
+00:44:17,960 --> 00:44:24,280
+actually measure ApoE in the plasma. Just like you can measure Apo lipoprotein B,
+
+390
+00:44:25,160 --> 00:44:30,760
+which we use obviously extensively in cardiovascular risk stratification. To my
+
+391
+00:44:30,760 --> 00:44:37,400
+knowledge, there's not a commercial assay for measuring ApoE though it can be done.
+
+392
+00:44:37,880 --> 00:44:44,040
+Do you are you aware of any utility to that? Would looking at ApoE levels, I read a paper
+
+393
+00:44:45,000 --> 00:44:51,480
+seven or eight years ago, I think suggesting that the lower the level of ApoE, the higher the risk,
+
+394
+00:44:51,480 --> 00:44:56,120
+but I could entirely have that backwards and I could entirely be wrong. Is that something
+
+395
+00:44:56,840 --> 00:45:02,200
+you're aware of at all? Not really. I mean it's really more about the genotyping than the
+
+396
+00:45:03,160 --> 00:45:08,760
+quantification of it. Obviously, and again you've talked about it on prior podcasts,
+
+397
+00:45:11,400 --> 00:45:19,880
+the risk that E4 genotype carries compared to the others and the fact that E4 homozygotes
+
+398
+00:45:19,880 --> 00:45:27,000
+have higher risk and also different responses to cardiovascular meds, different
+
+399
+00:45:27,960 --> 00:45:38,360
+risks for other diseases besides dementia. It is typically not something that we check for in the
+
+400
+00:45:38,360 --> 00:45:46,680
+routine day-to-day clinical care for a couple of reasons. One is it's not diagnostic, right? So you
+
+401
+00:45:46,680 --> 00:45:53,160
+can have E4, E4 not have Alzheimer's or you can have E2, E3 which might be protective and still
+
+402
+00:45:53,160 --> 00:46:00,680
+have Alzheimer's. So it really just makes people worry. It does have a lot more utility in the
+
+403
+00:46:00,680 --> 00:46:07,640
+research setting in terms of looking at how carriers versus non-carriers respond to certain
+
+404
+00:46:07,640 --> 00:46:18,280
+treatments and helping us understand that carriers may respond differently to different lifestyle
+
+405
+00:46:18,280 --> 00:46:25,640
+interventions, may have an earlier onset compared to people who don't have it but ultimately end up
+
+406
+00:46:25,640 --> 00:46:33,800
+with the same disease. Yeah. So when people come to see you in clinic, there's not a lot of utility
+
+407
+00:46:33,800 --> 00:46:40,600
+added by looking at it. I mean my view is APO E4 is great to help people identify risk early on,
+
+408
+00:46:40,600 --> 00:46:46,200
+but at the same time nobody gets off the hook and you used a great example. The 2-3 shows up a lot
+
+409
+00:46:46,200 --> 00:46:52,360
+and I tell my patients with the 2-3, they're not off the hook. You've got about a 10 percent risk
+
+410
+00:46:52,360 --> 00:46:59,320
+reduction relative to the 3-3 but the 3-3 is clearly not at risk and on the flip side, the 3-4
+
+411
+00:46:59,320 --> 00:47:04,840
+patients or even the 4-4 patients, I say look it's certainly not a fait accompli but I would take this
+
+412
+00:47:04,840 --> 00:47:10,360
+a lot more seriously than maybe you otherwise would in terms of preventative measures. So
+
+413
+00:47:11,160 --> 00:47:14,520
+let's go back to the patient that shows up in clinic. Oh actually there's one other thing I
+
+414
+00:47:14,600 --> 00:47:18,360
+wanted to clarify. I'm sorry. Let's go back to Lewy body dementia. Most people have heard of this.
+
+415
+00:47:19,000 --> 00:47:24,440
+There have been some notable examples in the public sphere about folks that have
+
+416
+00:47:25,240 --> 00:47:30,600
+died from this. Is it still the case that that's a diagnosis that can be made only post-mortem?
+
+417
+00:47:32,040 --> 00:47:42,040
+I mean again, yes, but there's this sort of classic clinical picture that is so compelling
+
+418
+00:47:42,680 --> 00:47:51,880
+that it can be made fairly accurately in the clinic without diagnostic testing.
+
+419
+00:47:51,880 --> 00:47:57,640
+And so the clinical distinction between, I hate to use this term, the clinical distinction between
+
+420
+00:47:57,640 --> 00:48:04,200
+classic Alzheimer's dementia and classic Lewy body, so let's exclude the mixed variants of that.
+
+421
+00:48:04,200 --> 00:48:10,920
+How would you differentiate those patients? So classic Alzheimer's would begin with
+
+422
+00:48:11,560 --> 00:48:20,760
+short-term memory loss and slowly but surely over time progress to having difficulty paying
+
+423
+00:48:20,760 --> 00:48:28,280
+bills and then eventually needing supervision, needing assistance with activities of daily living,
+
+424
+00:48:28,280 --> 00:48:36,760
+cooking, bathing, the classic sort of decline. May or may not have behavior issues.
+
+425
+00:48:37,480 --> 00:48:44,520
+May or may not have some changes in walking. Lewy body disease on the other hand presents with a
+
+426
+00:48:45,240 --> 00:48:51,160
+fairly classic triad of symptoms that occur within two years of one another. One is
+
+427
+00:48:52,520 --> 00:49:00,680
+an Alzheimer's-like cognitive impairment that can notably fluctuate so that some days people seem
+
+428
+00:49:00,680 --> 00:49:09,000
+really good and some days they seem really, really bad. There is a Parkinsonism component
+
+429
+00:49:09,000 --> 00:49:16,920
+where they will often be stiff, have trouble rising from a chair, shuffle. They may decrease
+
+430
+00:49:16,920 --> 00:49:21,080
+arm swing when they walk so that they walk and, you know, normally when we walk our arms move,
+
+431
+00:49:21,080 --> 00:49:28,440
+but their arms don't move. They may have more or I should say less expression on their face.
+
+432
+00:49:28,680 --> 00:49:36,520
+They don't necessarily have a tremor. So true Parkinson's disease proper often begins with a
+
+433
+00:49:36,520 --> 00:49:47,560
+tremor, a slow writhing kind of tremor at rest on one side. And often we don't see that in Lewy body
+
+434
+00:49:47,560 --> 00:49:54,200
+disease, but they have these other elements of Parkinsonism. And so we've got the cognitive
+
+435
+00:49:55,000 --> 00:50:01,080
+impairment, the Parkinsonism, and very often prominent visual hallucinations.
+
+436
+00:50:02,360 --> 00:50:08,680
+Seeing things that aren't there, fairly elaborate, often delusions that go along with it.
+
+437
+00:50:10,440 --> 00:50:15,160
+You know, there's this family living in my house. There's people and bears living in the trees.
+
+438
+00:50:15,880 --> 00:50:20,440
+You know, people will close their blinds because they don't want these people seeing them and all
+
+439
+00:50:20,440 --> 00:50:28,760
+that kind of stuff. So that classic triad of symptoms with some additional supportive features,
+
+440
+00:50:28,760 --> 00:50:40,440
+including restless leg syndrome, even many years leading up to it, as well as REM sleep behavior
+
+441
+00:50:40,440 --> 00:50:46,840
+disturbances. So people who often act out in their dreams or a spouse who says, I have to sleep in the
+
+442
+00:50:46,840 --> 00:50:55,400
+other room because he punches me. You know, that's sort of a classic Lewy body picture. And
+
+443
+00:50:55,400 --> 00:51:01,880
+furthermore, they fluctuate. Both the motor and the cognitive symptoms fluctuate. So today we
+
+444
+00:51:01,880 --> 00:51:06,680
+might be able to go to the mall and walk all around and tomorrow they might have trouble
+
+445
+00:51:06,680 --> 00:51:12,920
+walking across the room. And from the time of diagnosis, Amanda, until those patients are
+
+446
+00:51:13,400 --> 00:51:19,400
+either in hospice or incapacitated or dead is typically how long? Is that a quicker disease?
+
+447
+00:51:21,160 --> 00:51:27,640
+Sometimes. I mean, it's usually about eight years. But for some, you know, my experience,
+
+448
+00:51:27,640 --> 00:51:34,520
+I've had a lot of Lewy body patients who have sort of this precipitous decline and then kind of hit
+
+449
+00:51:34,520 --> 00:51:44,520
+a plateau for a while and then really drop off. You know, this is not this is anecdotal. This is
+
+450
+00:51:44,520 --> 00:51:50,520
+not based on any data. But it's just my experience with them and having seen enough of them to see
+
+451
+00:51:50,520 --> 00:51:57,320
+that that's frequently kind of how it goes. But it's usually about an eight to 10 year process.
+
+452
+00:51:57,960 --> 00:52:04,120
+And there it's less often as protracted as Alzheimer's can be, even though the average
+
+453
+00:52:04,120 --> 00:52:10,600
+for Alzheimer's is still also eight to 10 years. It can be significantly longer.
+
+454
+00:52:11,720 --> 00:52:18,040
+How hereditary is Lewy body dementia either with respect to Lewy body itself or being
+
+455
+00:52:18,040 --> 00:52:23,560
+predictive of the next generation's risk for Alzheimer's disease or Parkinson's for that matter?
+
+456
+00:52:23,960 --> 00:52:31,000
+I honestly don't know. I don't think it's terribly genetic. You know, we don't have well established,
+
+457
+00:52:32,760 --> 00:52:39,560
+you know, as with early onset Alzheimer's, which does have some specific mutations that cause it.
+
+458
+00:52:39,560 --> 00:52:46,600
+I don't know that we know of specific mutations for Lewy body disease, but I may be just not
+
+459
+00:52:46,600 --> 00:52:51,880
+informed. I mean, that makes in some ways, Lewy body a bit more of a mystery because, as you said,
+
+460
+00:52:51,880 --> 00:53:00,680
+for Alzheimer's disease on the very early onset side, we have the PSEN1 to APP mutations, which
+
+461
+00:53:00,680 --> 00:53:07,160
+are about as close to deterministic as you get. And then you have the APO-E4 gene, which is not
+
+462
+00:53:07,160 --> 00:53:13,560
+deterministic, but is highly suggestive for the more typical variant. And we also have known risk
+
+463
+00:53:13,560 --> 00:53:19,480
+factors, diabetes, you know, microvascular disease, dyslipidemia. I mean, these things are
+
+464
+00:53:19,480 --> 00:53:25,560
+absolutely known risk factors. We seem to have none of that on the side of Lewy body, correct?
+
+465
+00:53:26,920 --> 00:53:28,440
+As far as I know, yeah.
+
+466
+00:53:28,440 --> 00:53:31,960
+What's the relative incidence of Alzheimer's versus Lewy body dementia?
+
+467
+00:53:32,760 --> 00:53:37,560
+Is it like eight, 10 to one, or how much more prominent is Alzheimer's?
+
+468
+00:53:38,920 --> 00:53:49,400
+Well, it depends, I guess, if you're looking at, you know, the autopsy confirmed versus
+
+469
+00:53:49,640 --> 00:53:56,360
+sort of what we see in the clinic. You know, I think that I honestly don't have the numbers
+
+470
+00:53:56,360 --> 00:54:04,920
+specifically for you, but I do know that, you know, it's diagnosed less, but found more on autopsy,
+
+471
+00:54:04,920 --> 00:54:08,440
+that people do have Lewy bodies that we may not have expected.
+
+472
+00:54:08,440 --> 00:54:15,240
+I got it. And just in your experience in your clinic, what's the approximate distribution of those?
+
+473
+00:54:15,640 --> 00:54:25,880
+The, it's about, I would say, you know, 50 to 60 plus percent Alzheimer's, about 20 percent
+
+474
+00:54:27,000 --> 00:54:35,480
+true vascular, about 20 percent Lewy body. And then the rest is FTD and some of these Parkinson's
+
+475
+00:54:35,480 --> 00:54:41,640
+plus syndromes, progressive supranuclear palsy, and some of these other less common things that
+
+476
+00:54:41,640 --> 00:54:42,920
+we only see once in a while.
+
+477
+00:54:43,400 --> 00:54:46,200
+So back to kind of the way your practice works,
+
+478
+00:54:46,760 --> 00:54:50,760
+presumably people are coming to you at the referral of a neurologist, correct?
+
+479
+00:54:51,400 --> 00:54:58,520
+Not necessarily, no. We get people referred from their primary doctors. We get people that are
+
+480
+00:54:58,520 --> 00:55:05,560
+self-referred. We get people that are referred by neurology. It varies widely.
+
+481
+00:55:06,520 --> 00:55:10,760
+That in and of itself is actually quite interesting, right? If you think about the different paths
+
+482
+00:55:10,760 --> 00:55:16,360
+that a person gets to you, they can say, hey, there's something wrong with me. Oh, Dr. Smith,
+
+483
+00:55:16,360 --> 00:55:22,600
+that's a so-and-so psychiatrist specializing in geriatrics. I'm going to go see her. And then
+
+484
+00:55:22,600 --> 00:55:27,880
+the primary care doctor can say, look, I have a high enough degree of suspicion that my patient
+
+485
+00:55:27,880 --> 00:55:32,600
+has Alzheimer's. They're going to come to you, presumably when the neurologist is sending to you.
+
+486
+00:55:32,600 --> 00:55:37,320
+It's not to make the diagnosis. They've made it. I assume it's then to treat some of the
+
+487
+00:55:37,640 --> 00:55:43,640
+behavioral components. Sometimes, yes. I mean, well, first let me say that I would say
+
+488
+00:55:43,640 --> 00:55:51,640
+fully half of my patients think I'm a neurologist. They don't even sort of differentiate or they'll
+
+489
+00:55:52,440 --> 00:55:59,160
+refer to me as their neurologist and it just is what it is. They assume and it's fine. Or maybe
+
+490
+00:55:59,160 --> 00:56:05,400
+they don't want to say they're going to a psychiatrist. I don't know. Sometimes
+
+491
+00:56:05,800 --> 00:56:13,560
+I think it varies from place to place. There are a few neurologists here in town that do
+
+492
+00:56:14,360 --> 00:56:19,080
+specialize in Alzheimer's and treating dementia and focus on that, but a lot of them don't.
+
+493
+00:56:21,160 --> 00:56:29,640
+A lot of them prefer specializing in stroke or headache or MS or seizures. And so
+
+494
+00:56:30,680 --> 00:56:34,040
+when it turns out to be dementia, they just say, well, go to the Alzheimer's Center.
+
+495
+00:56:35,480 --> 00:56:42,440
+So I don't think it's a question of necessarily psychiatry versus neurology. It's just go to the
+
+496
+00:56:43,640 --> 00:56:50,360
+memory place. But yes, there are definitely a subset of
+
+497
+00:56:51,240 --> 00:56:57,160
+referring providers who do so specifically so that we can manage the behavioral aspect of things.
+
+498
+00:56:57,880 --> 00:57:02,200
+How long have you been in your current practice in Tampa?
+
+499
+00:57:02,360 --> 00:57:15,640
+Yeah, since 2002. In this building since 2008. So what happened is I came down to USF in 1997
+
+500
+00:57:15,640 --> 00:57:21,480
+as an intern to do my residency here. So I did my residency in psychiatry and then
+
+501
+00:57:22,440 --> 00:57:29,800
+a fellowship in geriatric psychiatry. And part of my fellowship time was spent with the Suncoast
+
+502
+00:57:29,800 --> 00:57:37,720
+Gerontology Center working under Eric Pfeiffer, who had founded that here in 1980 and really was
+
+503
+00:57:37,720 --> 00:57:43,560
+a leader in the field of geriatric psychiatry and Alzheimer's disease. He was the first president,
+
+504
+00:57:43,560 --> 00:57:51,400
+I think, of the American Association for Geriatric Psychiatry. And it was actually one of the reasons
+
+505
+00:57:51,400 --> 00:57:58,440
+I chose USF because I knew Suncoast was here and I was interested in geriatrics and Alzheimer's
+
+506
+00:57:58,440 --> 00:58:06,120
+at that point. So when I finished my fellowship on a Friday, I started working for him on the
+
+507
+00:58:06,120 --> 00:58:15,080
+following Monday. And that was in 2002. And then in 2008, he retired and I kind of stepped in and
+
+508
+00:58:15,080 --> 00:58:20,840
+took on his role as principal investigator for a lot of the clinical trials he had been doing and
+
+509
+00:58:20,840 --> 00:58:27,960
+kind of directing the center. So I'm curious as to how your practice has evolved in nearly 20 years.
+
+510
+00:58:29,240 --> 00:58:35,480
+What is different and what is the same about people showing up with dementia today? Are they
+
+511
+00:58:35,480 --> 00:58:42,200
+older? Are they younger? Are they more metabolically ill? Are they on a faster track? Are
+
+512
+00:58:42,200 --> 00:58:46,600
+they progressing quicker? I mean, what are all the differences that you see?
+
+513
+00:58:48,440 --> 00:58:56,280
+So that's a really great question. And the thing that's the same, I would say, is the fear.
+
+514
+00:58:56,920 --> 00:59:05,160
+People are terrified of losing their minds and losing their memories. And so that continues
+
+515
+00:59:05,160 --> 00:59:14,520
+to be sort of the biggest motivator in terms of people seeking help. I will say that we are seeing
+
+516
+00:59:14,520 --> 00:59:23,160
+people that are both older and younger. I think that there's more of an awareness of Alzheimer's
+
+517
+00:59:23,160 --> 00:59:31,720
+as a disease, as well as an awareness of the fact that there are things that we can do about it.
+
+518
+00:59:31,720 --> 00:59:37,560
+Because when I first started, there wasn't a whole lot that we could do. And furthermore,
+
+519
+00:59:37,560 --> 00:59:46,440
+there was sort of this assumption that it was a normal consequence of aging. There has been a lot
+
+520
+00:59:46,440 --> 00:59:53,880
+of effort put into really educating the public that this is a disease and that this is not
+
+521
+00:59:53,880 --> 00:59:58,760
+something that you have to live with. And this is not a normal consequence of getting older.
+
+522
+00:59:59,320 --> 01:00:06,040
+And because of that, I think there's been success in kind of getting that message across and getting
+
+523
+01:00:06,040 --> 01:00:17,080
+people into the clinic. I think that there's definitely more of a shift towards people seeking
+
+524
+01:00:17,080 --> 01:00:27,960
+baseline, people looking at prevention, people wanting an evaluation and tips on brain health.
+
+525
+01:00:27,960 --> 01:00:33,800
+And I know, again, you spoke with Richard Isaacson because he runs a prevention clinic at Cornell
+
+526
+01:00:34,600 --> 01:00:41,800
+in terms of the lifestyle modifications and things that people can do earlier. We often see people
+
+527
+01:00:41,800 --> 01:00:48,040
+who have a parent who have Alzheimer's and want to come in and have an evaluation for themselves
+
+528
+01:00:49,640 --> 01:00:55,320
+or get involved in prevention research so that they don't go down the same path. So I think
+
+529
+01:00:55,320 --> 01:01:01,640
+that's the biggest area where things have shifted. I think there's also a better understanding that
+
+530
+01:01:01,640 --> 01:01:11,320
+people realize that there's more that we can do and that early intervention is key. People often
+
+531
+01:01:11,320 --> 01:01:18,840
+used to be embarrassed by this problem or isolated by it or not want to tell family members or
+
+532
+01:01:18,840 --> 01:01:23,640
+neighbors. And now they understand that if they come and they seek help and we start them on
+
+533
+01:01:23,640 --> 01:01:30,680
+medication, even though our medications are not miracle drugs by any stretch, the ones that are
+
+534
+01:01:30,680 --> 01:01:37,560
+FDA approved, but they can slow down decline. And then in some people, they can even subjectively
+
+535
+01:01:37,560 --> 01:01:45,640
+and objectively help for a period of time. And so knowing that you can preserve your function and
+
+536
+01:01:45,640 --> 01:01:54,120
+stay better longer or stay at home longer, there was one old study way back with denepazil showing
+
+537
+01:01:54,120 --> 01:02:00,440
+that it delayed nursing home placement by an average of 24 months. That's huge. If you're
+
+538
+01:02:00,440 --> 01:02:05,480
+someone that wants to be at home versus being in a skilled nursing facility, or if you're a spouse
+
+539
+01:02:05,480 --> 01:02:11,160
+who wants to keep your loved one home, that makes a difference, even though the drugs not...
+
+540
+01:02:11,160 --> 01:02:17,240
+people are still going to get worse on the medication. So anyway, that was a lot of big
+
+541
+01:02:17,240 --> 01:02:25,320
+mouthful just to say that. I think there is this better awareness of the things that we are able
+
+542
+01:02:25,320 --> 01:02:32,680
+to do and the help that we're able to provide so that people seek help sooner. We talked about it
+
+543
+01:02:32,680 --> 01:02:39,080
+at the very outset that so many of the things that the patients are experiencing when they show up
+
+544
+01:02:39,080 --> 01:02:45,240
+are, quote unquote, the garden variety things that a psychiatrist would see anxiety and depression,
+
+545
+01:02:45,240 --> 01:02:51,800
+for example. What percentage of the patients that you're taking care of are you prescribing
+
+546
+01:02:51,800 --> 01:02:58,680
+antidepressants and anxiolytics? And is that standard of care? Is that something that you
+
+547
+01:02:58,680 --> 01:03:02,680
+have the ability to be more bespoke in because you have a greater understanding of how those
+
+548
+01:03:02,680 --> 01:03:10,520
+drugs work and how effective are they? So the answer is quite a few. I would say the majority
+
+549
+01:03:10,600 --> 01:03:16,680
+of our patients do have some mood or behavioral issue that does require treatment.
+
+550
+01:03:17,720 --> 01:03:23,880
+90% of people will have some behavioral issue at some point in their illness. It may not be a
+
+551
+01:03:26,840 --> 01:03:33,160
+terribly problematic psychotic type behavior issue. It may be something simple, but nevertheless,
+
+552
+01:03:34,120 --> 01:03:44,440
+they're very common in all types of dementia. The key is understanding that they are equally
+
+553
+01:03:44,440 --> 01:03:53,000
+treatable. Depression in a dependent person is just as treatable as depression in a healthy 25-year-old.
+
+554
+01:03:53,160 --> 01:04:06,040
+So there are obviously some adjustments that have to be made for age and renal function and other
+
+555
+01:04:06,040 --> 01:04:13,400
+medications and drug interactions, but we very frequently prescribe the SSRIs,
+
+556
+01:04:14,840 --> 01:04:20,600
+the type of antidepressants, because they treat anxiety very well in this population. They're
+
+557
+01:04:21,560 --> 01:04:29,480
+pretty well tolerated. They generally don't make people fall, which is a big issue in this group
+
+558
+01:04:29,480 --> 01:04:39,560
+as well. We try to stay away from the benzodiazepine type drugs, Alprazolam and Lorazepam and
+
+559
+01:04:39,560 --> 01:04:48,600
+all the PAMs, particularly diazepam and the longer-acting ones, because they can really
+
+560
+01:04:48,600 --> 01:04:55,000
+increase confusion and have a dramatically high incidence of hip fracture with those drugs
+
+561
+01:04:55,000 --> 01:05:06,840
+and be used chronically. So a lot of it is identifying the specific problem, treating with
+
+562
+01:05:06,840 --> 01:05:14,040
+the least sort of offensive drug that's going to cause the least amount of collateral damage.
+
+563
+01:05:19,560 --> 01:05:25,320
+Stopping them at times when they may no longer be necessary. Old people sort of,
+
+564
+01:05:26,120 --> 01:05:33,000
+they collect meds like they collect other things. And sometimes you'll see someone who's on 15,
+
+565
+01:05:33,000 --> 01:05:40,920
+17, 18 meds, and you're like, why are you even on this? People who had hypertension when they
+
+566
+01:05:40,920 --> 01:05:47,320
+were 50 and needed three meds to manage it, but now are 90 and they're falling all the time
+
+567
+01:05:47,320 --> 01:05:51,480
+because their blood pressure is so low, but nobody bothered to say, hey, you don't need three
+
+568
+01:05:51,480 --> 01:06:03,080
+meds for your blood pressure anymore. So we do have to be vigilant and really target symptoms
+
+569
+01:06:03,080 --> 01:06:11,800
+with the safest, lowest dose, and the shortest treatment period that we can. But in doing so,
+
+570
+01:06:11,800 --> 01:06:16,680
+can be very effective in treating these symptoms. You might not know the answer to this, but
+
+571
+01:06:17,400 --> 01:06:22,360
+do you have a sense of how many patients in the United States or what fraction of patients in the
+
+572
+01:06:22,360 --> 01:06:29,000
+US with Alzheimer's disease are getting that type of complimentary care for the psychiatric component,
+
+573
+01:06:29,560 --> 01:06:33,320
+specifically the depression and the anxiety? Do you think it's the majority or the minority?
+
+574
+01:06:34,360 --> 01:06:39,960
+I would probably say it's the majority. I mean, a lot of them do get treated by their primary
+
+575
+01:06:39,960 --> 01:06:44,760
+doctors for depression. I see a lot of people who come to me already on medication for that.
+
+576
+01:06:45,640 --> 01:06:53,160
+I think doctors are prescribing and people are sharing those. And certainly from the standpoint
+
+577
+01:06:53,160 --> 01:06:59,720
+of some of the more problematic behaviors, people don't want to live with them. They're
+
+578
+01:06:59,720 --> 01:07:05,720
+difficult. They're difficult for the patient and they can also be problematic and troublesome for
+
+579
+01:07:05,720 --> 01:07:13,800
+the caregivers. So they often will seek help for that more acutely than they will for
+
+580
+01:07:15,080 --> 01:07:22,520
+the underlying condition. How much are you providing? I mean, you're not necessarily treating
+
+581
+01:07:22,520 --> 01:07:29,800
+the family members medically, but after all, you are a psychiatrist, which means you have more tools
+
+582
+01:07:29,800 --> 01:07:35,880
+in your toolkit than simply your prescription pad. How much are you treating the spouse,
+
+583
+01:07:35,880 --> 01:07:38,920
+for example, as you are the patient, the spouse without dementia?
+
+584
+01:07:39,080 --> 01:07:45,640
+Well, in a way, I think we all sort of give free therapy, if you want to call it that.
+
+585
+01:07:49,160 --> 01:07:54,360
+I do occasionally medicate caregivers if they register as a patient. I'll say, hey,
+
+586
+01:07:54,360 --> 01:08:01,960
+you really have a severe depression. We need to treat this, but I won't do it under the patients.
+
+587
+01:08:02,760 --> 01:08:05,880
+You know, once we're dealing with meds, it's a whole other story. But
+
+588
+01:08:07,640 --> 01:08:15,960
+obviously, there is a lot of support and education. Sometimes, I mean, especially with the pandemic,
+
+589
+01:08:17,880 --> 01:08:23,240
+sometimes I'm the only other person that they will see or talk to, even if it's on telehealth like
+
+590
+01:08:23,240 --> 01:08:31,560
+this. Oftentimes, it's just that opportunity to vent, to talk to somebody who can understand
+
+591
+01:08:31,560 --> 01:08:39,160
+what they're going through. Although I have had some experience with family members having
+
+592
+01:08:39,160 --> 01:08:47,320
+dementia lead in life, I was not a primary caregiver. Most of what I know comes from
+
+593
+01:08:48,520 --> 01:08:54,120
+the village of patients and caregivers that have shared very personal things with me. So
+
+594
+01:08:54,600 --> 01:09:02,360
+I have the opportunity to share their insights with others. But I would say quite a lot of,
+
+595
+01:09:03,000 --> 01:09:12,200
+if you want to call it free therapy or whatever, just that opportunity to listen, to
+
+596
+01:09:13,800 --> 01:09:19,800
+make them understand that what they're going through is valid and real,
+
+597
+01:09:20,200 --> 01:09:29,960
+and give them pointers and tools and things that they may not have thought of in terms of handling
+
+598
+01:09:29,960 --> 01:09:37,240
+a certain behavior. Just that one little pearl that might make their day easier. The other day,
+
+599
+01:09:37,240 --> 01:09:42,840
+I was talking to someone who just simply cannot get their loved ones to take a shower. And I'm
+
+600
+01:09:42,920 --> 01:09:48,040
+like, well, what's their favorite snack? And they kind of looked at me funny. And I said,
+
+601
+01:09:49,480 --> 01:09:54,920
+they're like Cheetos. So I'm like, okay, tell them after they get out of the shower,
+
+602
+01:09:54,920 --> 01:10:01,240
+you'll give them some Cheetos. You'll go to the store, you'll get some Cheetos. And they're like,
+
+603
+01:10:03,000 --> 01:10:07,160
+they don't think of it that way because they're just sort of trying and fighting. Like, you need
+
+604
+01:10:07,160 --> 01:10:10,760
+to take a bath, you need to take a bath, get in the shower. And I want to take a shower. And there's
+
+605
+01:10:10,760 --> 01:10:17,800
+not that sort of stepping back and like, okay, how can I do this differently? So sometimes just
+
+606
+01:10:20,760 --> 01:10:27,000
+kind of giving them a little reality check and a break from the constant stress cycle that they're
+
+607
+01:10:27,000 --> 01:10:33,800
+in to kind of look at things through different eyes really can make a big difference, I think,
+
+608
+01:10:33,800 --> 01:10:42,600
+in their the way that they approach things. You know, the other thing that's sometimes really
+
+609
+01:10:42,600 --> 01:10:48,200
+difficult for caregivers is, you know, a lot of times they'll think that some of these behaviors
+
+610
+01:10:48,200 --> 01:10:55,320
+that their loved ones are showing are intentional, you know, or he's just doing it to annoy me.
+
+611
+01:10:55,480 --> 01:11:03,400
+It's like, well, no, he's not. He's really not. If he knew the answer, he wouldn't ask you again.
+
+612
+01:11:03,400 --> 01:11:09,400
+So instead of saying, don't you remember, just say, answer the question like it's the first time,
+
+613
+01:11:09,400 --> 01:11:19,160
+you know, and take out that sort of personal attack side of it, you know, and not look at it as
+
+614
+01:11:19,320 --> 01:11:24,200
+they're intentionally trying to irritate you, but, you know, they have a disease that's making them
+
+615
+01:11:24,200 --> 01:11:30,120
+do this. And often, you know, that is something that people really need to hear, and it really
+
+616
+01:11:30,120 --> 01:11:36,040
+makes their days better. I mean, it's easy for me to sit here at my desk and tell them it's a lot
+
+617
+01:11:36,040 --> 01:11:43,000
+harder to do, but at least kind of having that reality check can change the way that they
+
+618
+01:11:43,960 --> 01:11:45,320
+approach caregiving.
+
+619
+01:11:47,320 --> 01:11:52,120
+I'm sure people listening are familiar with Elizabeth Kubler-Ross and how she goes through
+
+620
+01:11:52,120 --> 01:11:59,880
+these sort of five stages of grief and how people go through, you know, denial and anger, etc. on
+
+621
+01:11:59,880 --> 01:12:06,760
+their way to acceptance. And that model has always sort of been helpful when thinking about
+
+622
+01:12:07,160 --> 01:12:16,280
+something like cancer. And I got to see that a lot firsthand. Is it similar here with Alzheimer's
+
+623
+01:12:16,280 --> 01:12:23,160
+disease, both for the patient and the caregiver that they that there's this, you know, in some
+
+624
+01:12:23,160 --> 01:12:26,440
+combination or in some order they go through those?
+
+625
+01:12:28,120 --> 01:12:34,120
+Oh, absolutely. I mean, you know, other, you know, I can't take credit for the phrase,
+
+626
+01:12:34,600 --> 01:12:38,920
+but it's, you know, it's like grieving for someone while they're still alive. You know, it's the,
+
+627
+01:12:40,440 --> 01:12:45,000
+you know, this can't really be happening and then being angry that it's happening. And, you know,
+
+628
+01:12:45,000 --> 01:12:51,960
+sort of, well, maybe if we do this and maybe do that. In fact, I re listened to your podcast with
+
+629
+01:12:51,960 --> 01:12:59,080
+Lauren Miller Rogan and Richard Isaacson last evening, just kind of in preparation for today.
+
+630
+01:12:59,320 --> 01:13:05,640
+And just to make sure we didn't sort of duplicate everything that we talked about. But, you know,
+
+631
+01:13:05,640 --> 01:13:13,160
+Lauren in that podcast really gives a very compelling journey right through those stages,
+
+632
+01:13:13,160 --> 01:13:20,200
+you know, in terms of dealing with her mother who was my patient, which is how I got to know them in
+
+633
+01:13:20,280 --> 01:13:28,280
+the first place. But, you know, it's really a very distinct journey while her mother was
+
+634
+01:13:28,280 --> 01:13:41,000
+was still very alive and, you know, going through those stages of grief in losing her hopes for what
+
+635
+01:13:41,000 --> 01:13:47,080
+her relationship with her mother would be like as she got older. You know, and it's really
+
+636
+01:13:47,800 --> 01:13:54,360
+terribly sad. And it's also something that naturally happens as we grieve. You know,
+
+637
+01:13:54,360 --> 01:14:00,360
+I think those stages of grief apply to almost everything. You know, they're sort of part and
+
+638
+01:14:00,360 --> 01:14:07,400
+parcel of our, you know, existence as human beings is that's kind of going to happen. We don't always
+
+639
+01:14:07,400 --> 01:14:14,760
+go through all of them or we don't always resolve all of them or make it through all of them.
+
+640
+01:14:14,840 --> 01:14:22,840
+But it's a very, very real and major part of dealing with this diagnosis.
+
+641
+01:14:24,840 --> 01:14:32,200
+In my experience with oncology patients, once they've progressed through denial and anger and
+
+642
+01:14:32,200 --> 01:14:39,160
+bargaining, etc., and they sort of get to acceptance, the usually the biggest concern,
+
+643
+01:14:39,400 --> 01:14:46,760
+the residual concern is the amount of suffering at the end. So it actually becomes,
+
+644
+01:14:47,960 --> 01:14:54,760
+at least one of the concerns becomes around the mechanism of death. And that's not something a lot
+
+645
+01:14:54,760 --> 01:15:00,120
+of people think about. Most people walking around, if they're level-headed, know that they're going
+
+646
+01:15:00,120 --> 01:15:04,120
+to die at some point. There aren't too many people walking around believing that they're immortal.
+
+647
+01:15:04,120 --> 01:15:08,600
+So most people understand in an abstract way, I'm not going to be able to do that. But I think
+
+648
+01:15:08,680 --> 01:15:16,360
+I'm not going to be alive at a point in time. But it's kind of a vague, fuzzy, foggy thing,
+
+649
+01:15:16,360 --> 01:15:20,120
+which is, I'll have a heart attack at some point, then I won't be alive. But to the patient with
+
+650
+01:15:20,120 --> 01:15:27,480
+metastatic cancer, who's again accepted that and understands that they've progressed through all
+
+651
+01:15:27,480 --> 01:15:32,760
+standard treatments. So even now we can even take a subset of patients with stage four cancer who
+
+652
+01:15:32,840 --> 01:15:38,840
+are in hospice care. All of a sudden, a big priority is the actual mechanism of death.
+
+653
+01:15:42,040 --> 01:15:48,120
+And certainly for the palliative care physician, and in my opinion, also for the good oncologist,
+
+654
+01:15:48,120 --> 01:15:52,520
+the one who doesn't just sort of abandon the patient when there's no more oncologic care.
+
+655
+01:15:53,320 --> 01:15:58,440
+I think a big part of that is explaining, no, actually, we might not be able to save your life,
+
+656
+01:15:58,440 --> 01:16:04,760
+but we can absolutely prevent discomfort. What is that discussion like for you,
+
+657
+01:16:05,560 --> 01:16:11,880
+once the patient and their family have progressed through all the stages and really understand
+
+658
+01:16:11,880 --> 01:16:17,960
+that this is an irreversible disease, and it will result in the end of their life? How do you
+
+659
+01:16:17,960 --> 01:16:25,640
+address the specific fears that remain? That's a great question. I do get asked about it fairly
+
+660
+01:16:25,640 --> 01:16:37,000
+frequently, but yet at the same time, we often don't get into it too much because what I try to
+
+661
+01:16:37,000 --> 01:16:45,400
+do is really help people focus on the now. That being said, what I share with them is that a lot
+
+662
+01:16:45,400 --> 01:16:54,360
+of times, as they progress, they're going to have more difficulty doing more simple things and more
+
+663
+01:16:54,440 --> 01:17:02,600
+basic things. They will have trouble swallowing. They will need assistance. They will perhaps
+
+664
+01:17:02,600 --> 01:17:13,320
+aspirate on food and get pneumonia. They may lose mobility and be bedridden. We go through
+
+665
+01:17:13,320 --> 01:17:21,640
+that conversation when they ask, well, how do you die of Alzheimer's? But the truth is,
+
+666
+01:17:22,440 --> 01:17:28,840
+a lot of people don't ever get to that stage. Many people die of something else. They die of
+
+667
+01:17:28,840 --> 01:17:33,320
+old age. They die of their heart disease. They die because they fell in a parking lot
+
+668
+01:17:35,640 --> 01:17:46,920
+before they ever reach such a terminal stage of dementia. We have the conversation, but we also
+
+669
+01:17:46,920 --> 01:17:59,160
+try not to focus on the end game because that's just miserable. I know a little bit later,
+
+670
+01:18:00,200 --> 01:18:06,440
+we're going to be talking about healthy aging and stuff like that. That's one of the biggest
+
+671
+01:18:06,440 --> 01:18:14,600
+things that I see is not focusing on the end, but focusing on the now. The truth is, with Alzheimer's,
+
+672
+01:18:14,600 --> 01:18:22,920
+that's all people have. They have today. They have because they may not remember tomorrow what
+
+673
+01:18:22,920 --> 01:18:32,840
+happened today. They're really living in the moment. We try not to spend too much time dwelling
+
+674
+01:18:32,840 --> 01:18:40,520
+on ... I'm obviously extremely honest in terms of what can and will happen if they inquire,
+
+675
+01:18:40,520 --> 01:18:47,400
+and also in terms of letting them know that support is there through hospice and other things
+
+676
+01:18:49,240 --> 01:18:52,600
+when the time comes, that they don't have to go through that alone.
+
+677
+01:18:56,520 --> 01:19:02,120
+We try to reroute that thought process into focusing on making each day better.
+
+678
+01:19:04,280 --> 01:19:09,400
+Let's shift gears a little bit and talk about the clinical trial landscape because that's a very big
+
+679
+01:19:09,400 --> 01:19:15,000
+part of what you do. You're a clinical psychiatrist who deals with patients on an individual basis,
+
+680
+01:19:15,000 --> 01:19:21,960
+as we've discussed, but you also are heavily involved in another part of this, which is
+
+681
+01:19:21,960 --> 01:19:25,080
+how to do clinical trials. This is obviously a very important part of this work.
+
+682
+01:19:26,520 --> 01:19:32,040
+Alzheimer's disease and drugs don't have a great marriage. They don't have a great track record the
+
+683
+01:19:32,040 --> 01:19:39,480
+way cardiovascular disease does. Even though oncology is not great, far from perfect,
+
+684
+01:19:40,520 --> 01:19:44,760
+oncology even has a better track record than Alzheimer's disease. I think you could make the
+
+685
+01:19:44,760 --> 01:19:50,520
+case without being hyperbolic that there is no disease that has a worse track record relative
+
+686
+01:19:50,520 --> 01:19:56,760
+to the inputs on the output side. In other words, there are orphan diseases for which we have no
+
+687
+01:19:56,760 --> 01:20:04,280
+drugs, but there have been few shots on goal. The ratio of shots on goal to goals is lower in
+
+688
+01:20:04,280 --> 01:20:11,880
+Alzheimer's disease than unquestionably any other disease. On the one level that undoubtedly speaks
+
+689
+01:20:11,880 --> 01:20:18,840
+to the complexity of the disease, some might argue that on another level that speaks to
+
+690
+01:20:19,800 --> 01:20:25,960
+the wrong goal or shooting too late in the game, shooting from too bad an angle at the wrong goal.
+
+691
+01:20:26,600 --> 01:20:33,080
+You could take this metaphor 10 different ways. As it stands today, there are about 120 drugs
+
+692
+01:20:33,080 --> 01:20:41,320
+in the pipeline. If my number crunching has it right, about 27 of them, if we extracted this
+
+693
+01:20:41,320 --> 01:20:47,320
+correctly off clinicaltrials.gov, are in phase one. For the listener, meaning these are drugs
+
+694
+01:20:47,320 --> 01:20:52,120
+that are really just being evaluated for safety at this point. We have some animal data that
+
+695
+01:20:52,120 --> 01:20:57,720
+suggests this is a good idea. We have no idea if it works in humans, but in a very small way with
+
+696
+01:20:57,720 --> 01:21:03,560
+dose escalation, we want to make sure it's safe. About 65 are in phase two, so that means they've
+
+697
+01:21:03,560 --> 01:21:09,560
+passed that bar of being safe or at least safe enough to proceed to phase two, where now we're
+
+698
+01:21:09,560 --> 01:21:16,200
+looking for some efficacy and will of course continue to monitor safety. Then 29 are in phase
+
+699
+01:21:16,280 --> 01:21:23,160
+three, which means at a small scale, they've shown efficacy typically against a placebo. Now we want
+
+700
+01:21:23,160 --> 01:21:30,120
+to see if there's efficacy again, either versus a placebo or ideally against a current standard in
+
+701
+01:21:30,120 --> 01:21:35,640
+a larger trial where again, we're always going to continue to monitor safety, but it's really this
+
+702
+01:21:36,200 --> 01:21:42,600
+third stage that is required for FDA approval. Another way to slice the data is to look at it
+
+703
+01:21:42,600 --> 01:21:48,680
+by category of drug. I found this to be the most interesting. 12 of these are in the space of
+
+704
+01:21:48,680 --> 01:21:54,440
+cognitive enhancement, 12 are in the space of neuropsychiatric and behavioral improvement,
+
+705
+01:21:54,440 --> 01:22:00,760
+and 97 are in the space of disease modification. Can you explain a little bit what the differences
+
+706
+01:22:00,760 --> 01:22:06,120
+of those three categories mean? Knowing that the next question I'm going to ask you is,
+
+707
+01:22:07,000 --> 01:22:11,240
+how has that evolved over the last 20 years? That to me has been the biggest, that was the thing I
+
+708
+01:22:11,320 --> 01:22:21,960
+was most surprised by. The symptomatic treatments are ones that can help slow cognitive decline
+
+709
+01:22:22,520 --> 01:22:27,560
+or help improve memory and thinking, but are not targeting the underlying disease process.
+
+710
+01:22:28,200 --> 01:22:35,160
+All the drugs that we currently have on the market are ones that are symptomatic treatments,
+
+711
+01:22:35,160 --> 01:22:41,320
+because they're just helping those neurons communicate in the case of dinephazil and
+
+712
+01:22:41,320 --> 01:22:46,600
+galantamine and ribostigmine, they're colonasterase inhibitors, and then there's
+
+713
+01:22:46,600 --> 01:22:53,880
+memantine, which is an NMDA receptor antagonist that normalizes levels of glutamate. They're
+
+714
+01:22:53,880 --> 01:23:03,160
+helping with neurotransmitters and they're not targeting the underlying pathology of amyloid and
+
+715
+01:23:03,160 --> 01:23:11,640
+tau. Then obviously the behavioral drugs are ones that are being targeted for specific behavior
+
+716
+01:23:11,640 --> 01:23:17,640
+problems in Alzheimer's and other dementia patients, things like apathy, agitation,
+
+717
+01:23:18,920 --> 01:23:25,960
+psychosis, sometimes sleep issues, sometimes even appetite and eating problems. So those all kind
+
+718
+01:23:25,960 --> 01:23:31,880
+of fall under the behavioral umbrella. And then these disease modifying treatments are ones that
+
+719
+01:23:31,880 --> 01:23:41,160
+actually target the underlying pathology in the case of sort of the biggest group of those that
+
+720
+01:23:41,160 --> 01:23:49,080
+are in trials right now are really monoclonal antibodies against primarily amyloid, but also
+
+721
+01:23:49,080 --> 01:23:57,560
+if you look targeting tau and removing them from the brain in the hopes that then there will be
+
+722
+01:23:57,560 --> 01:24:05,800
+cognitive improvement or at least halting cognitive decline. Can I interject for a second
+
+723
+01:24:05,800 --> 01:24:13,400
+mechanistically? Is it known exactly where amyloid beta is made? Is it understood
+
+724
+01:24:17,720 --> 01:24:22,760
+where the transcription takes place or is this all post-translational modification?
+
+725
+01:24:23,480 --> 01:24:32,600
+Well so there's a whole science dedicated to that, and it actually is different points
+
+726
+01:24:32,600 --> 01:24:40,600
+along the cascade. So there's the amyloid precursor protein which is on chromosome 21,
+
+727
+01:24:41,880 --> 01:24:48,040
+which is why people with Down syndrome who have three copies of chromosome 21 almost inevitably
+
+728
+01:24:48,040 --> 01:24:53,320
+will get Alzheimer's if they live long enough because they're making a third more amyloid than
+
+729
+01:24:53,320 --> 01:25:04,120
+the rest of us. So anywhere from the very beginning of our DNA all the way through some of the enzymes
+
+730
+01:25:04,120 --> 01:25:11,240
+that cleave amyloid, so part of the problem is that the amyloid gets cleaved at a length of 40
+
+731
+01:25:11,320 --> 01:25:17,400
+or 42 amino acids rather than whatever it's supposed to be, which I don't remember.
+
+732
+01:25:22,200 --> 01:25:29,880
+Then the abnormal amyloid kind of folds and there's fibrils and there's
+
+733
+01:25:31,080 --> 01:25:39,160
+plaque. The plaque itself is a conglomeration of a series of folds in the protein,
+
+734
+01:25:39,800 --> 01:25:49,160
+and so there are even differences among the antibodies as to what part of that cascade
+
+735
+01:25:49,160 --> 01:25:54,920
+they target. Amyloid is not necessary. In other words, if you could wave a magic wand
+
+736
+01:25:54,920 --> 01:26:01,960
+and pull amyloid out of a person, is there any ill consequence? Well like I said it is
+
+737
+01:26:02,920 --> 01:26:11,160
+part of blood vessel walls normally, so this pathologic amyloid, these abnormal lengths of
+
+738
+01:26:11,160 --> 01:26:18,760
+A beta 40 and 42, yeah I mean those could be pulled out without consequence because they
+
+739
+01:26:18,760 --> 01:26:24,520
+shouldn't be there in the first place. So if you wanted to target the system you would not target
+
+740
+01:26:24,520 --> 01:26:29,720
+the creation of amyloid, you would probably target the enzymes that abnormally cleave.
+
+741
+01:26:30,680 --> 01:26:39,400
+Well that is one area that has been studied. The gamma secretase inhibitors for example
+
+742
+01:26:39,960 --> 01:26:50,680
+are ones that have been studied. There's the base inhibitors, these are things that are being
+
+743
+01:26:50,760 --> 01:26:59,000
+looked at because these are responsible for cleaving, but a lot of times those have had
+
+744
+01:27:00,360 --> 01:27:04,840
+side effects that we didn't really want. Yeah I wonder if has anybody looked at
+
+745
+01:27:04,840 --> 01:27:09,480
+something like an antisense oligonucleotide that goes straight after the enzyme in a laser
+
+746
+01:27:09,480 --> 01:27:14,760
+precision basically says you can't make this enzyme and you don't have to carpet bomb the
+
+747
+01:27:14,760 --> 01:27:21,080
+enzyme and everything around it, you're literally going after the transcription of the enzyme.
+
+748
+01:27:22,200 --> 01:27:26,760
+Yeah I honestly don't know, that's for the scientists.
+
+749
+01:27:27,800 --> 01:27:31,320
+I mean I'm sure somebody has thought of it and declined, I'm sure there's a reason that hasn't
+
+750
+01:27:31,320 --> 01:27:35,800
+been there. Yeah I mean the thing is sometimes they have thought of it or they've tried it but
+
+751
+01:27:35,800 --> 01:27:44,040
+then they don't realize what the downstream effects of doing so may be. And that's been a problem
+
+752
+01:27:44,680 --> 01:27:50,760
+with several of these medications, you know, where it's a great idea, you know, they've identified a
+
+753
+01:27:50,760 --> 01:27:58,680
+target, they've identified compounds that seek out that target but they cause liver toxicity
+
+754
+01:27:58,680 --> 01:28:06,920
+or they cause, you know, some other significant medical issue or they cause cardiac arrhythmias or
+
+755
+01:28:07,320 --> 01:28:16,440
+things that medically are not safe to continue. So the thing that surprised me Amanda when I
+
+756
+01:28:16,440 --> 01:28:21,800
+looked at the distribution of drugs, just again this is available on clinicaltrials.gov, is that
+
+757
+01:28:21,800 --> 01:28:27,800
+80% of the drugs are disease modifying drugs, which is a good sign of course because the other 20%,
+
+758
+01:28:28,440 --> 01:28:33,800
+as you said, are symptomatic. Now that's not the way the drugs are currently represented,
+
+759
+01:28:34,680 --> 01:28:39,080
+are there how many drugs, six approved drugs for Alzheimer's disease right now?
+
+760
+01:28:39,720 --> 01:28:48,120
+Well there's technically five, well yes there's six but one of them is a combination of two.
+
+761
+01:28:48,120 --> 01:28:54,680
+Two existing, right, right, okay. All of these are symptomatic drugs, right? We don't have a disease
+
+762
+01:28:55,320 --> 01:28:59,560
+modifying agent out there, we're going to obviously talk about Biogen in a moment
+
+763
+01:28:59,560 --> 01:29:07,880
+which is an important almost watershed moment in the field. So I assume that it's from your
+
+764
+01:29:07,880 --> 01:29:14,280
+standpoint a great sign that 80% of the pipeline is actually focusing on the underlying cause as
+
+765
+01:29:14,280 --> 01:29:20,360
+opposed to just the symptoms. Right and a lot of that has to do with what I mentioned earlier
+
+766
+01:29:20,360 --> 01:29:28,680
+with regard to that 2011 sort of major moment where we were allowed to redefine what Alzheimer's
+
+767
+01:29:28,680 --> 01:29:36,920
+is and our understanding that the amyloid pathology building up for many years is was
+
+768
+01:29:37,880 --> 01:29:43,720
+a key factor, you know I'm not saying it's a B factor, but it's a key factor in the development
+
+769
+01:29:43,720 --> 01:29:52,680
+of Alzheimer's disease symptoms. Now some of the disease modifying drugs that were initially tested
+
+770
+01:29:52,680 --> 01:29:59,960
+were tested in people with mild to moderate Alzheimer's disease and were negative, you know,
+
+771
+01:29:59,960 --> 01:30:08,040
+they did not seem to work or help and it may have been because targeting amyloid at that stage of
+
+772
+01:30:08,040 --> 01:30:18,360
+the disease may be too late to help people who already are significantly impaired. But that 2011
+
+773
+01:30:19,080 --> 01:30:25,560
+shift into understanding that there's MCI and that even before that preclinical Alzheimer's
+
+774
+01:30:26,120 --> 01:30:33,240
+allowed us to then design trials that are currently ongoing looking at both prevention
+
+775
+01:30:33,240 --> 01:30:40,440
+by amyloid removal before cognitive symptoms start and then also treating people with mild
+
+776
+01:30:40,440 --> 01:30:46,760
+cognitive impairment who do have some symptoms of memory loss but are not yet demented because
+
+777
+01:30:46,760 --> 01:30:53,800
+they're still functional on their day to day. What was the typical duration of those failed
+
+778
+01:30:53,800 --> 01:31:01,320
+studies? So if you look at the earlier studies that were trying to remove amyloid late in the
+
+779
+01:31:01,320 --> 01:31:06,280
+game that failed, do you recall on average with the duration, are these like four year studies,
+
+780
+01:31:06,280 --> 01:31:12,280
+three year, five year studies? No, they were usually about 18 months. Wow, so really short. So
+
+781
+01:31:12,280 --> 01:31:16,520
+yeah, you could definitely make the case that that's again, just going back to the disease I
+
+782
+01:31:16,520 --> 01:31:24,200
+understand best. That's like saying we're going to take patients who, you know, have the most
+
+783
+01:31:24,200 --> 01:31:32,440
+aggressive form of cardiovascular disease. They've got multi vessel disease, huge stenosis,
+
+784
+01:31:34,600 --> 01:31:40,280
+you know, vulnerable plaque everywhere. And for 18 months, let's see what happens if we
+
+785
+01:31:40,280 --> 01:31:46,440
+employ lipid lowering therapy and we see that it has kind of a minor impact and you can make the
+
+786
+01:31:46,440 --> 01:31:53,160
+case. Well, you probably should have done it earlier and for longer. Right. And well, I mean,
+
+787
+01:31:53,160 --> 01:31:59,400
+the earlier is definitely key. I mean, I don't know that. So well, yes, for longer,
+
+788
+01:32:00,600 --> 01:32:04,600
+but not in that particular group, you know, there would not have been any
+
+789
+01:32:05,000 --> 01:32:11,640
+benefit, I don't think, to doing a three or four year study of that moderate, you know,
+
+790
+01:32:11,640 --> 01:32:17,320
+moderately demented group with these therapies because they were just going to keep getting worse.
+
+791
+01:32:17,320 --> 01:32:23,000
+You know, that's the thing they kept getting. They were their disease had was progressing. The
+
+792
+01:32:23,000 --> 01:32:31,480
+train had left the station and it was going to do what it was going to do. So, you know, traditionally
+
+793
+01:32:31,800 --> 01:32:38,120
+18 months has been a standard length for Alzheimer's trials because it's the amount of time,
+
+794
+01:32:38,840 --> 01:32:50,040
+you know, you have to remember these trials cost lots of money. You know, people often complain
+
+795
+01:32:50,040 --> 01:32:55,800
+and rightfully so that certain drugs are extremely expensive. And, you know, obviously you coming from
+
+796
+01:32:55,800 --> 01:33:04,280
+Canada have a whole different perspective on that than, you know, the American side of it,
+
+797
+01:33:04,280 --> 01:33:11,000
+you know, where it's just all about money all the time. That being said, you know,
+
+798
+01:33:12,120 --> 01:33:19,160
+there is some validity to the price of some of these drugs because of the vast amount of resources
+
+799
+01:33:19,320 --> 01:33:24,680
+that have been spent. You know, it takes on average, I read a statistic that, you know,
+
+800
+01:33:24,680 --> 01:33:36,680
+10 to 15 years and a billion dollars for any one drug to get from development and discovery to
+
+801
+01:33:36,680 --> 01:33:42,840
+FDA approval. That's right. It's probably it's probably higher today. Actually, it's probably
+
+802
+01:33:42,840 --> 01:33:49,400
+higher today. Actually, it's probably closer to about 1.3, 1.4 billion. And you're absolutely
+
+803
+01:33:49,400 --> 01:33:58,760
+correct. So if you look at that pipeline of 120 odd drugs, again, it's not going to be 120 billion
+
+804
+01:33:58,760 --> 01:34:04,120
+because some of them will get, you know, weeded out in phase one. But there's no question that
+
+805
+01:34:04,200 --> 01:34:13,080
+the United States subsidizes the rest of the world in drug pricing. So what if there's basically
+
+806
+01:34:13,080 --> 01:34:20,040
+an understanding quid pro quo in my mind that says, look, in exchange for having the best drugs
+
+807
+01:34:20,040 --> 01:34:26,520
+available first, you will pay a premium for the development of the drug. That's effectively what's
+
+808
+01:34:26,520 --> 01:34:31,960
+happening in the U.S. Yeah. And then it's also important to point out, though, that for every
+
+809
+01:34:32,600 --> 01:34:40,520
+one drug that makes it all the way through, there's literally four or five thousand that don't,
+
+810
+01:34:42,440 --> 01:34:47,880
+you know, some get squashed in the very beginning and some make it to animal models, you know, but,
+
+811
+01:34:49,080 --> 01:34:57,880
+you know, so so it's a very, very, very expensive process for the drug companies. And so
+
+812
+01:34:58,840 --> 01:35:05,800
+by going back to my point, you know, they have to find that sweet spot in terms of length of a trial
+
+813
+01:35:06,680 --> 01:35:14,360
+that will sort of be worth their investment, but at the same time not spend extra resources,
+
+814
+01:35:14,360 --> 01:35:19,000
+but also give the information that they need. And so knowing how Alzheimer's progresses,
+
+815
+01:35:19,560 --> 01:35:25,000
+particularly in that group, you know, 18 months is a spot where you're going to see, OK, so in 18
+
+816
+01:35:25,080 --> 01:35:31,800
+months, if they're better, well, that's crazy because that doesn't happen. If they're stable,
+
+817
+01:35:31,800 --> 01:35:37,320
+well, that's good because it's usually there's some drop off in that period of time. And if
+
+818
+01:35:37,320 --> 01:35:43,160
+they're worse, then clearly it's not working. Yeah. And if you if you look at the oncology
+
+819
+01:35:43,160 --> 01:35:50,840
+playbook here, you understand the challenge of this space, which is you have the same economics,
+
+820
+01:35:50,840 --> 01:35:56,520
+right, which is a billion to a billion and a half to get a drug from inception into a clinic.
+
+821
+01:35:58,280 --> 01:36:05,720
+And truthfully, you have kind of a gray area of utility, right? There are drugs that are
+
+822
+01:36:05,720 --> 01:36:14,840
+getting approved that make very little sense. So they extend median survival by two months
+
+823
+01:36:14,840 --> 01:36:22,120
+without extending overall survival. And they're going to cost one hundred thousand dollars and
+
+824
+01:36:22,120 --> 01:36:25,880
+we can debate the merits of that. And that's where you'll see differences between the U.S.,
+
+825
+01:36:25,880 --> 01:36:31,800
+the U.K., Canada, et cetera. Right. But you see, one of the issues here that I find most interesting
+
+826
+01:36:31,800 --> 01:36:36,040
+and I'm not familiar, I'm not as familiar with it in Alzheimer's disease, but I'm intimately
+
+827
+01:36:36,040 --> 01:36:41,400
+familiar with it in cardiovascular disease and in oncology is the importance of patient
+
+828
+01:36:41,400 --> 01:36:48,440
+selection and study design. It's everything. Right. So to me, let's use cardiovascular disease
+
+829
+01:36:48,440 --> 01:36:54,760
+in an example. I always found the Fourier trial and the Odyssey trial, which were the two major
+
+830
+01:36:54,760 --> 01:37:03,400
+trials used to test the PCSK9 inhibitors. I found them to be very elegant and very complimentary.
+
+831
+01:37:03,400 --> 01:37:08,440
+So the Fourier trial took patients who were maximally statinized. These are patients that
+
+832
+01:37:08,520 --> 01:37:13,640
+had an LDL cholesterol that was typically south of 70 milligrams per deciliter or in about that
+
+833
+01:37:13,640 --> 01:37:20,840
+neighborhood. So these are people at the fifth percentile of LDL cholesterol and then added a
+
+834
+01:37:20,840 --> 01:37:27,240
+PCSK9 inhibitor to them. The study was stopped after two to three years. I believe it was
+
+835
+01:37:27,240 --> 01:37:32,520
+intended for four or five and it demonstrated an improvement. And again, in cardiovascular disease,
+
+836
+01:37:32,520 --> 01:37:37,640
+what are your outcomes? It's usually MACE, a major adverse cardiac event. So heart attack,
+
+837
+01:37:37,640 --> 01:37:43,720
+stroke, revascularization, death. So you have heart outcomes. That's an important thing,
+
+838
+01:37:43,720 --> 01:37:48,440
+right? They're not tracking. Nobody cares how much it lowers your cholesterol. The biomarker
+
+839
+01:37:48,440 --> 01:37:54,200
+means nothing anymore. It's only, does it prevent an outcome? You had a complimentary study in
+
+840
+01:37:54,200 --> 01:37:59,080
+Odyssey, which did not take heavily statinized patients, but patients who were, if I recall,
+
+841
+01:37:59,080 --> 01:38:04,200
+equally at risk. And again, it was major adverse cardiac event. And there's all, they usually
+
+842
+01:38:04,200 --> 01:38:11,000
+include all cause mortality. This is a challenge that I see in Alzheimer's diseases. And I'm, I'm
+
+843
+01:38:11,000 --> 01:38:16,920
+saying this not as an absolute challenge, just as a challenge to me as an outsider, I struggle to
+
+844
+01:38:16,920 --> 01:38:23,240
+understand these endpoints sometimes. And I just don't understand how valid they are. Not because
+
+845
+01:38:23,240 --> 01:38:28,280
+I think that the people measuring them are nefarious, but because they just seem very soft
+
+846
+01:38:28,280 --> 01:38:35,080
+and squishy at times, like, well, did the person cognitively get better? Maybe yes, no, I'm not sure.
+
+847
+01:38:35,080 --> 01:38:41,000
+And yeah, we use this test and it has a five point scoring system and we square the boxes and such and
+
+848
+01:38:41,000 --> 01:38:48,920
+such. But in the end, it's a harder disease to measure definitive outcomes in the, to your point,
+
+849
+01:38:48,920 --> 01:38:55,080
+at the duration of time we want to study them. So that's a lot to unpack. And, and I guess where
+
+850
+01:38:55,160 --> 01:39:00,280
+I'm going with that is how do you think about, let's start with one element. How do you think
+
+851
+01:39:00,280 --> 01:39:05,960
+about patient selection? Who is the right patient to be studying? Where on that progress from
+
+852
+01:39:05,960 --> 01:39:11,880
+preclinical to MCI to disease? I think we've ruled out bucket three, right? I think we're,
+
+853
+01:39:12,760 --> 01:39:18,680
+if I've heard you earlier, it's we don't want to be studying patients for disease modification
+
+854
+01:39:18,680 --> 01:39:24,680
+that already have significant dementia. So are you, would you say the same is true of MCI and we
+
+855
+01:39:24,760 --> 01:39:29,000
+should be looking at the preclinical or what the, which means we by definition are making
+
+856
+01:39:29,000 --> 01:39:36,120
+an imaging diagnosis or is it early MCI? So I think, you know, the jury's still out with regard
+
+857
+01:39:36,120 --> 01:39:47,080
+to MCI. There still are a lot of trials and I think there may be opportunity for mild cognitive
+
+858
+01:39:47,080 --> 01:39:53,480
+impairment as well as mild dementia to benefit from these disease modifying therapies.
+
+859
+01:39:55,160 --> 01:40:00,280
+You know, if we're looking at a cure, because that's what everybody wants, right? A cure.
+
+860
+01:40:01,560 --> 01:40:05,800
+I think the prevention trials are really going to be the way to go because then you're
+
+861
+01:40:06,520 --> 01:40:14,920
+stopping it before it starts. You know, we know that these anti-amyloid drugs
+
+862
+01:40:15,800 --> 01:40:21,640
+remove amyloid. We know this. They successfully reduce amyloid to a point where
+
+863
+01:40:21,640 --> 01:40:26,600
+people go from having positive amyloid pet to negative amyloid pet.
+
+864
+01:40:29,240 --> 01:40:36,200
+In fact, we had an occasion once where we had a patient who was in a trial, an anti-amyloid
+
+865
+01:40:36,200 --> 01:40:41,880
+trial for some time and then that study stopped and then she wanted to enroll in another study
+
+866
+01:40:42,520 --> 01:40:49,480
+and it was actually an anti-tau antibody and they did allow people with previous exposure to
+
+867
+01:40:49,480 --> 01:40:54,920
+anti-amyloid drugs after a certain window of time. Sometimes they don't.
+
+868
+01:40:57,480 --> 01:41:02,440
+So when she had her new amyloid pet for that study, she screen failed because she was amyloid
+
+869
+01:41:02,440 --> 01:41:12,280
+negative. And so, you know, that's been shown in numerous trials with more than one compound that
+
+870
+01:41:12,280 --> 01:41:18,440
+it definitely removes amyloid. So if you look at the pet outcomes for these drugs, they're great.
+
+871
+01:41:19,160 --> 01:41:20,680
+What are the clinical outcomes?
+
+872
+01:41:21,720 --> 01:41:27,640
+Yeah. Just like you said, nobody cares about a marker or cholesterol. You care about the
+
+873
+01:41:27,640 --> 01:41:33,400
+clinical outcomes and symptoms. And so none of that matters if you're removing amyloid,
+
+874
+01:41:33,400 --> 01:41:37,800
+if the people aren't any better or if they're continuing to get worse. You know, that's what
+
+875
+01:41:37,800 --> 01:41:45,240
+was happening with the mild to moderate group, you know, the original solenazumab trials.
+
+876
+01:41:46,040 --> 01:41:51,400
+You know, people just kept getting worse because they already had enough neurodegeneration and
+
+877
+01:41:51,400 --> 01:41:56,920
+other pathology now going on in the brain that whether the amyloid was there anymore didn't
+
+878
+01:41:56,920 --> 01:42:06,600
+matter. I do think in MCI that there's opportunity for these drugs to work and, you know, the
+
+879
+01:42:06,760 --> 01:42:17,400
+FDA is considering the adjucanumab data right now. There was just last or actually at the beginning
+
+880
+01:42:17,400 --> 01:42:25,640
+of this week data for Donanumab, which is a Lilly study that came out at the ADPD meeting showing
+
+881
+01:42:25,640 --> 01:42:32,520
+that it met endpoints on almost all of the primary and secondary outcome measures that they had set
+
+882
+01:42:32,520 --> 01:42:40,920
+forth. So, yeah, I wouldn't rule out the MCI group at this point. But in terms of sort of the ideal,
+
+883
+01:42:41,800 --> 01:42:49,000
+I think prevention ultimately is going to be the way to go as far as disease modification. And,
+
+884
+01:42:49,000 --> 01:42:54,520
+you know, just like you'll go to the doctor and see you have high cholesterol and intervene then
+
+885
+01:42:55,480 --> 01:43:01,560
+before you get to these, you know, bad cardiac or stroke outcomes, you know, you'll go to the doctor
+
+886
+01:43:01,560 --> 01:43:06,360
+and perhaps have a test that shows you have amyloid and then intervene then so that you don't then
+
+887
+01:43:06,360 --> 01:43:12,200
+develop cognitive impairment. That's our hope and our goal. Yeah, that makes hands down the most
+
+888
+01:43:12,200 --> 01:43:17,960
+sense. And again, I'm obviously stating the obvious, but the more we can model this after a disease
+
+889
+01:43:17,960 --> 01:43:23,320
+where we've had unbelievable success like cardiovascular disease, rather than a disease
+
+890
+01:43:23,320 --> 01:43:28,200
+where we've had very little success, which is cancer, because we have to wait until you have
+
+891
+01:43:28,200 --> 01:43:32,600
+cancer. Now, of course, I think liquid biopsies are going to change that. And we are really on
+
+892
+01:43:32,600 --> 01:43:37,240
+the cusp of that. In fact, that's going to be a super exciting discussion we're going to have on
+
+893
+01:43:37,240 --> 01:43:42,680
+the podcast in the next, you know, couple of months. So the goal, of course, is to turn cancer
+
+894
+01:43:42,680 --> 01:43:47,880
+into cardiovascular disease instead to turn Alzheimer's disease into the same. So one of the
+
+895
+01:43:47,880 --> 01:43:55,800
+most promising versions of these monoclonal antibodies to amyloid is Atacanumab, which is
+
+896
+01:43:55,880 --> 01:44:00,200
+a drug manufactured by a company called Biogen. And it's been in the news a lot lately.
+
+897
+01:44:01,800 --> 01:44:05,640
+I think for several reasons. One is it's a drug that made it to phase three.
+
+898
+01:44:06,200 --> 01:44:14,360
+And it was running two parallel studies, Emerge and what was the other one called? Engage. Yeah.
+
+899
+01:44:16,600 --> 01:44:22,840
+And to my understanding, very little difference between them, obviously different sites and maybe
+
+900
+01:44:22,840 --> 01:44:28,600
+a slight difference in some dosing, but effectively the same trial, which is not uncommon for how a
+
+901
+01:44:28,600 --> 01:44:34,040
+drug like this would be tested in phase three because of the size that you need to have of the
+
+902
+01:44:34,040 --> 01:44:41,800
+number of participants you need, where I think it got interesting was how the results were
+
+903
+01:44:41,800 --> 01:44:48,840
+interpreted for the two arms and then what a reevaluation looked like. So do you want to
+
+904
+01:44:48,840 --> 01:44:55,720
+explain the story of, I guess let's start with the beginning. This was a well done study in that
+
+905
+01:44:55,720 --> 01:45:00,040
+it had, you know, pre-specified endpoints. And that's very important for people when they're
+
+906
+01:45:00,040 --> 01:45:04,440
+evaluating clinical trials. You have to pre-specify your primary endpoint. You got to call your shot
+
+907
+01:45:04,440 --> 01:45:11,400
+before you, you know, go to bat. Right. What was the endpoint in this study and how did they go
+
+908
+01:45:11,400 --> 01:45:20,360
+about evaluating? Honestly, I don't remember what the specific primary outcome measure was.
+
+909
+01:45:21,400 --> 01:45:26,920
+It was cognitive, but it wasn't like, it wasn't an imaging study. It was a cognitive study, right?
+
+910
+01:45:26,920 --> 01:45:33,560
+I don't remember if it was the 8S cog or not, to be perfectly honest. The story of
+
+911
+01:45:33,720 --> 01:45:40,440
+the Embark and Engage studies is, I'm sorry, the Emergent Engage. We're doing Embark now,
+
+912
+01:45:40,440 --> 01:45:45,960
+which is the follow-up for the people that had previously been in Emergent Engage.
+
+913
+01:45:47,320 --> 01:45:55,480
+So the bottom line is that the study was going along and at some point they do what's called
+
+914
+01:45:55,480 --> 01:46:00,520
+a futility analysis to see if it's worthwhile to continue spending their resources on
+
+915
+01:46:00,840 --> 01:46:07,880
+the drug or to abandon it. And when they did the futility analysis, they were not meeting
+
+916
+01:46:07,880 --> 01:46:17,480
+their primary endpoints. But after further analysis and looking at sort of a cohort of people who had
+
+917
+01:46:17,480 --> 01:46:23,480
+dose-escalated kind of in the interim, they realized that the people in the high-dose group
+
+918
+01:46:23,480 --> 01:46:29,080
+actually were meeting those endpoints. And so they went back and looked at all the data
+
+919
+01:46:29,880 --> 01:46:36,280
+and in a very unusual turn of events, they were like, actually, we were wrong and this is helping.
+
+920
+01:46:37,160 --> 01:46:45,800
+And so they ended up going back and putting people back in the study who had previously been on it
+
+921
+01:46:47,800 --> 01:46:54,600
+in this new Embark study, as well as submitting to the FDA for approval.
+
+922
+01:46:55,080 --> 01:47:00,760
+And the numbers aren't necessarily relevant, but the highest dose, if I recall, was like 10
+
+923
+01:47:00,760 --> 01:47:05,480
+milligrams per kilogram. And there was also a stratification for APOE and non-APOE,
+
+924
+01:47:06,040 --> 01:47:10,680
+which I didn't understand because they were giving a lower dose to the APOE-4 carriers than
+
+925
+01:47:10,680 --> 01:47:18,200
+a higher dose. And are they currently just giving everybody the highest dose in the revisit trial?
+
+926
+01:47:18,920 --> 01:47:22,520
+I don't know if I'm allowed to talk about the current protocol.
+
+927
+01:47:22,520 --> 01:47:23,000
+Okay.
+
+928
+01:47:23,000 --> 01:47:25,000
+That's confidential or not.
+
+929
+01:47:25,000 --> 01:47:30,440
+But what's interesting is that there's something that's going to happen on June 7th. What is that?
+
+930
+01:47:30,440 --> 01:47:32,440
+What are we waiting for on June 7th?
+
+931
+01:47:32,440 --> 01:47:36,760
+Well, I just want to go back and touch on a point that you mentioned. One of the reasons that they
+
+932
+01:47:36,760 --> 01:47:43,800
+give the APOE-4 carriers a lower dose is because of the risk of ARIA or amyloid-related imaging
+
+933
+01:47:44,120 --> 01:47:51,240
+abnormalities. So we know that with these amyloid drugs that remove amyloid, we often will see
+
+934
+01:47:51,960 --> 01:48:00,440
+changes in MRI, either edema or swelling or microhemorrhages. So RE for edema,
+
+935
+01:48:00,440 --> 01:48:09,640
+REH for hemorrhages, often asymptomatic. But certainly, we're very significant in some of the
+
+936
+01:48:10,040 --> 01:48:17,240
+earlier iterations of anti-amyloid drugs and drug trials that were going on. And there was a distinct
+
+937
+01:48:17,240 --> 01:48:23,960
+difference between the risk of ARIA and E4 carriers versus not. So that would have been the reason at
+
+938
+01:48:23,960 --> 01:48:32,040
+the beginning that they would have been on a lower dose. I believe, and I don't want to speak
+
+939
+01:48:32,040 --> 01:48:38,120
+incorrectly, but I do believe that subsequently they did fine with this trial. And I think that
+
+940
+01:48:38,120 --> 01:48:44,280
+they did fine with this drug that that was not happening. So they may have allowed the E4 carriers
+
+941
+01:48:44,280 --> 01:48:49,560
+to go to the higher dose. Yeah, there was a protocol amendment. They did amend the protocol
+
+942
+01:48:49,560 --> 01:48:56,760
+for E4 to go to 10 mgs per KIG. So June 7th. Yeah, what's going to happen? What are we waiting
+
+943
+01:48:56,760 --> 01:49:03,640
+for on June 7th? Everybody's anticipating. Yeah, so the FDA is supposed to render a decision about
+
+944
+01:49:03,640 --> 01:49:10,680
+whether they're going to approve this or not. And what did the advisory board say earlier in
+
+945
+01:49:10,680 --> 01:49:18,360
+the year? There were two different things. So there was one group that recommended approval,
+
+946
+01:49:18,360 --> 01:49:22,760
+and then there was another panel that was like, yeah, the data is not so compelling
+
+947
+01:49:25,080 --> 01:49:31,720
+and recommended not. So we really do not know which way the FDA is going to go.
+
+948
+01:49:33,880 --> 01:49:45,000
+There is a very large push on the part of families and patients who have gone without
+
+949
+01:49:45,000 --> 01:49:51,480
+any new treatment for this disease for almost 20 years to say, it's better than nothing. Please
+
+950
+01:49:51,480 --> 01:49:57,960
+approve it. I know, you know, from an advocacy standpoint, there's a lot of that going on.
+
+951
+01:49:58,920 --> 01:50:05,640
+Then there's some very strict science people who are saying, if the data doesn't support it,
+
+952
+01:50:06,440 --> 01:50:10,840
+don't do it. So we really have no idea which way they're going to go.
+
+953
+01:50:15,160 --> 01:50:20,600
+Let's assume the FDA concludes that there's insufficient data and they do not approve it.
+
+954
+01:50:20,600 --> 01:50:25,480
+Does anything prevent biogen from, aside from the destruction of shareholder value,
+
+955
+01:50:25,880 --> 01:50:31,080
+is anything preventing biogen from running another clinical trial at phase three to try to seek
+
+956
+01:50:31,080 --> 01:50:37,400
+approval with a better protocol that might be able to yield a better outcome?
+
+957
+01:50:38,280 --> 01:50:45,160
+No, there's nothing preventing that. Obviously, it's just a question of having the funds and
+
+958
+01:50:45,160 --> 01:50:51,560
+inclination to do so. But that's, I think you touched on a little bit earlier, part of the
+
+959
+01:50:51,560 --> 01:50:58,040
+problem that we have is that the outcomes, the primary outcome measures for these trials
+
+960
+01:50:58,680 --> 01:51:07,320
+aren't that great. These are sort of long standing, well established cognitive tests,
+
+961
+01:51:07,320 --> 01:51:17,320
+but how much they move in the right period of time may not be as good as we hope. The ones that
+
+962
+01:51:17,400 --> 01:51:25,160
+focus on the CDR, the clinical dementia rating, there is a subjective component to that because
+
+963
+01:51:25,160 --> 01:51:31,400
+that's not just a test, that is an interview and a rating that a rater makes based on
+
+964
+01:51:33,080 --> 01:51:37,000
+what both the patient says and what an informant says.
+
+965
+01:51:37,000 --> 01:51:40,440
+The CDR is the primary endpoint for this drug.
+
+966
+01:51:41,160 --> 01:51:44,440
+Okay, so and that's the thing. I mean, the CDR has...
+
+967
+01:51:46,120 --> 01:51:49,720
+I think it has six dimensions to it, but it's subjective, as you said.
+
+968
+01:51:50,520 --> 01:52:01,800
+It is subjective and prone to bias from, let's say, a depressed caregiver who sees everything
+
+969
+01:52:01,800 --> 01:52:09,720
+worse than it is. There have been studies looking at that kind of thing and a lot of times,
+
+970
+01:52:10,440 --> 01:52:16,360
+a caregiver who is highly stressed and depressed will over report symptoms
+
+971
+01:52:17,480 --> 01:52:25,240
+leading to higher scores on the sum of boxes. So the CDR looks at memory, it looks at judgment,
+
+972
+01:52:25,240 --> 01:52:32,520
+it looks at home and hobbies and some other things. A rater will interview the subject,
+
+973
+01:52:33,160 --> 01:52:36,600
+well they'll interview the informant and then they'll interview the subject and
+
+974
+01:52:37,480 --> 01:52:41,800
+then they'll ask about recent events, tell me something you did last week, tell me something
+
+975
+01:52:41,800 --> 01:52:49,640
+you did in the last month. And then part of the rating is based on what the patient remembers
+
+976
+01:52:49,640 --> 01:52:58,200
+compared to what the informant said. And there is that sort of intangible part where if you're
+
+977
+01:52:58,200 --> 01:53:02,360
+kind of on the fence, you could go either way, even though there are very well-established
+
+978
+01:53:02,360 --> 01:53:08,280
+scoring parameters and hours of training videos and things on how to do the CDR,
+
+979
+01:53:08,840 --> 01:53:16,840
+there still is that sort of, eh, it feels like a one or it feels like a 0.5 that plays into it,
+
+980
+01:53:16,840 --> 01:53:23,240
+that's not just an objective measure like an LDL level.
+
+981
+01:53:25,640 --> 01:53:31,880
+That to me is the biggest challenge here is cancer progresses quickly enough and at least
+
+982
+01:53:31,880 --> 01:53:36,920
+currently we study it in a very clear sense. I mean, we can debate that there are actually
+
+983
+01:53:36,920 --> 01:53:43,400
+some limitations in how we study cancer progression and that's been, I think, gamified a little too
+
+984
+01:53:43,400 --> 01:53:49,000
+much. Cardiovascular disease we've already discussed. It seems that the best hope for
+
+985
+01:53:49,000 --> 01:53:57,080
+a disease in which subjective evaluation is so important is to have biomarkers that are
+
+986
+01:53:57,080 --> 01:54:03,800
+so predictive of clinical outcome that you can rely on those in combination potentially with
+
+987
+01:54:03,800 --> 01:54:10,040
+a clinical evaluation. I don't think we're, you're not gonna, you can't do a long enough study to get
+
+988
+01:54:10,040 --> 01:54:17,880
+hard outcomes. So, I mean, there's really two enormous challenges in drug development for
+
+989
+01:54:17,880 --> 01:54:22,680
+Alzheimer's disease. There's the technical challenge of how do you develop a good enough drug
+
+990
+01:54:22,680 --> 01:54:25,720
+and then there's the operational challenge of how do you actually study it.
+
+991
+01:54:27,960 --> 01:54:33,240
+And, you know, so going back to your question, you know, Biogen could very well go back and do
+
+992
+01:54:33,240 --> 01:54:40,200
+another study and use a different primary outcome measure, whether it's the ADAS-CoG or there is a
+
+993
+01:54:40,200 --> 01:54:47,960
+cognitive composite score that was recently used by ESI for a different trial. You know, they got
+
+994
+01:54:47,960 --> 01:54:55,240
+a lot of flack for it because people accuse them of kind of cherry picking things that
+
+995
+01:54:55,960 --> 01:55:02,280
+worked, but at the same time, as you also mentioned earlier, these were things that were
+
+996
+01:55:02,280 --> 01:55:07,240
+predefined. You know, it's not like they went and just chose the best things or the things that
+
+997
+01:55:07,240 --> 01:55:14,280
+showed change. They defined in the beginning that these are the measures that we're going to look
+
+998
+01:55:14,280 --> 01:55:21,720
+at and made this cognitive composite based on years and thousands of patients worth of data
+
+999
+01:55:21,800 --> 01:55:28,920
+showing what specific cognitive tests may be better predictors or may change more during a
+
+1000
+01:55:28,920 --> 01:55:36,840
+certain period than those that won't. So, you know, I personally didn't have a problem with that
+
+1001
+01:55:36,840 --> 01:55:41,320
+cognitive composite because I thought that it was a thoughtful way of kind of rethinking
+
+1002
+01:55:44,280 --> 01:55:50,680
+and getting good data that might be useful. You know, the ADAS-CoG is just so ingrained in this
+
+1003
+01:55:50,680 --> 01:55:57,240
+field and although it certainly has a lot of utility, it also has limitations. And so,
+
+1004
+01:55:58,120 --> 01:56:05,560
+finding some of these better objective primary outcome measures from a cognitive standpoint,
+
+1005
+01:56:05,560 --> 01:56:10,760
+in addition to the biomarkers, I think certainly will be useful for drugs moving forward.
+
+1006
+01:56:11,800 --> 01:56:15,720
+So, I want to kind of close our discussion, Amanda, with something you alluded to earlier, which is
+
+1007
+01:56:16,520 --> 01:56:25,320
+what does it mean to undergo healthy aging? It's inevitable. We're all aging. We're all
+
+1008
+01:56:25,320 --> 01:56:31,800
+going to die. And unfortunately, many of us are going to die with some form of cognitive
+
+1009
+01:56:31,800 --> 01:56:41,080
+impairment, even if it is not dementia. So, in your 20 years of practice, what wisdom have you
+
+1010
+01:56:41,080 --> 01:56:47,240
+gleaned and what might someone who is, you know, seemingly far from that learn?
+
+1011
+01:56:49,080 --> 01:56:53,400
+So, you know, it's interesting and I knew we were going to talk about this, so I've actually been,
+
+1012
+01:56:53,400 --> 01:57:00,200
+you know, more contemplative in the last few days kind of thinking about it. You know, there are a
+
+1013
+01:57:00,200 --> 01:57:05,800
+lot of different frameworks for aging, you know, the stuff that we learned in psychology class and,
+
+1014
+01:57:06,440 --> 01:57:12,680
+you know, some of these classic structured approaches to aging, both psychological and
+
+1015
+01:57:12,680 --> 01:57:21,400
+sociological. But, you know, I've never wanted to kind of fit into one neat category. I like to kind
+
+1016
+01:57:21,400 --> 01:57:27,480
+of be eclectic and take a little bit of this and a little bit of that, you know. But at the end of
+
+1017
+01:57:27,480 --> 01:57:33,960
+the day, you know, it really has to do with, you know, how people see themselves, how people
+
+1018
+01:57:34,040 --> 01:57:43,320
+interact with the world, what kind of relationships they have, how able they are to let go of things
+
+1019
+01:57:43,320 --> 01:57:54,840
+that they've lost, and, you know, how able they are to focus on the positive. I think that's where I
+
+1020
+01:57:54,840 --> 01:58:03,000
+see people struggle the most as a psychiatrist and people develop the most depression is when
+
+1021
+01:58:03,000 --> 01:58:08,920
+they spend so much time looking down the road at what's going to happen or what might happen
+
+1022
+01:58:08,920 --> 01:58:17,000
+that they can't enjoy now. And, you know, it's very interesting. I can have two patients,
+
+1023
+01:58:18,200 --> 01:58:23,640
+you know, maybe both of whom were marathon runners and now both have Parkinson's disease.
+
+1024
+01:58:24,600 --> 01:58:35,400
+And while they both have disability, one of them sort of centers their whole identity around this
+
+1025
+01:58:35,400 --> 01:58:41,000
+new disability and focuses on the fact, well, I used to be able to do this, I used to be able to do
+
+1026
+01:58:41,000 --> 01:58:49,240
+that. Now I can't do this, I can't do that. Whereas the other one is like, well, okay, so I can't run
+
+1027
+01:58:49,240 --> 01:58:57,320
+anymore, or I might fall if I go to the beach, but I can still enjoy the sunset in a special
+
+1028
+01:58:57,320 --> 01:59:04,120
+wheelchair, or, you know, focusing on what I still can do and trying to make the most of each day.
+
+1029
+01:59:05,080 --> 01:59:11,480
+And those are the people that I think age successfully even in the face of having illness.
+
+1030
+01:59:12,280 --> 01:59:17,480
+You know, we all will age, we all have
+
+1031
+01:59:20,520 --> 01:59:27,960
+changes in our physical strength and our, you know, mental alertness and, you know, acuity,
+
+1032
+01:59:28,680 --> 01:59:36,360
+but it doesn't necessarily disable us. And even if it does, the key for me really is how
+
+1033
+01:59:36,360 --> 01:59:42,200
+that shapes our attitude or how much we let it affect our attitude.
+
+1034
+01:59:44,440 --> 01:59:53,160
+I want to run an idea by you and I'm curious as to your thoughts. I describe health span or quality
+
+1035
+01:59:53,160 --> 02:00:00,120
+of life as having broadly three dimensions, a physical one, a cognitive one and an emotional one.
+
+1036
+02:00:00,120 --> 02:00:07,800
+And I think it's safe to say that as sure as God made little green apples, the first two decline
+
+1037
+02:00:07,800 --> 02:00:14,520
+with age. Now, if you're really lucky, they don't decline too, too much, assuming you live a long
+
+1038
+02:00:14,520 --> 02:00:18,280
+life, right? So if you talk about someone who's going to live into their nineties, there's a
+
+1039
+02:00:18,280 --> 02:00:25,400
+physical decline that is undeniable. Even if you are fortunate to be spared dementia, there is a
+
+1040
+02:00:25,400 --> 02:00:31,000
+cognitive decline, but not it doesn't have to be that sharp. And for the lucky ones you do here,
+
+1041
+02:00:31,000 --> 02:00:36,360
+you know, you got the Charlie Munger's of the world who are literally in their nineties and appear to
+
+1042
+02:00:36,360 --> 02:00:42,760
+be just as sharp as ever. But the one that doesn't appear to have an age component to it is the
+
+1043
+02:00:42,760 --> 02:00:50,360
+emotional one. And so the question I've been pondering is are the most miserable people going
+
+1044
+02:00:50,360 --> 02:00:57,800
+to be the people whose identity is wrapped up in the things that inevitably decline? And therefore,
+
+1045
+02:00:57,800 --> 02:01:05,800
+should we be putting more of our identity in the one thing that really has no tie to age, which is
+
+1046
+02:01:06,600 --> 02:01:12,760
+basically our emotional health, which I believe is most a function of the quality of our relationship.
+
+1047
+02:01:12,760 --> 02:01:19,880
+So a person who has wonderful quality relationships is generally an emotionally healthy person.
+
+1048
+02:01:19,880 --> 02:01:23,720
+And that doesn't mean it's a person who doesn't get sad and a person who doesn't get angry and a
+
+1049
+02:01:23,720 --> 02:01:29,640
+person that doesn't struggle, but, you know, they have an emotional strength to them that I think
+
+1050
+02:01:29,640 --> 02:01:35,480
+comes from this tethering to other people. So does that framework make sense?
+
+1051
+02:01:36,840 --> 02:01:45,560
+Absolutely. I think it's spot on and exactly true. You know, that is so important in terms of,
+
+1052
+02:01:46,120 --> 02:01:56,200
+you know, well-being is having people feeling loved, feeling that there are people you can rely on,
+
+1053
+02:01:56,200 --> 02:02:01,640
+feeling that there are people who can share experiences with you. You know, social isolation
+
+1054
+02:02:01,640 --> 02:02:11,160
+is a huge problem for some people and a definite determinant of quality of life versus not.
+
+1055
+02:02:11,880 --> 02:02:18,120
+I definitely see that people that struggle the most are the ones that are constantly
+
+1056
+02:02:19,000 --> 02:02:26,520
+comparing themselves to their former selves. You know, I used to be able to do this. I used to be
+
+1057
+02:02:26,520 --> 02:02:33,160
+able to do that. I used to, you know, if I did that, I would just be, you know, hiding under my
+
+1058
+02:02:33,160 --> 02:02:39,640
+covers. I mean, I didn't used to need these, but I do. So it's like, well, I might as well buy
+
+1059
+02:02:39,640 --> 02:02:47,240
+cute ones because you got to have them, you know. And so it's so hard though, Amanda. Like I,
+
+1060
+02:02:48,280 --> 02:02:55,640
+you know, I think about it like we're about the same age and it's true. We've already experienced
+
+1061
+02:02:55,640 --> 02:03:04,040
+a decline, but it's going to get steeper, right? Like it's when you look at what it means to be
+
+1062
+02:03:05,000 --> 02:03:15,400
+90 for most people, at least it's going to be a far greater loss over the previous two decades
+
+1063
+02:03:15,400 --> 02:03:19,560
+than maybe we've experienced in the previous two decades. There's a real non-linearity to it, but
+
+1064
+02:03:20,280 --> 02:03:25,560
+I guess it's as good a time as any to begin rehearsing that. And I've been very deliberate
+
+1065
+02:03:25,560 --> 02:03:31,560
+about this for the past two to three years in anticipation of hopefully a long life,
+
+1066
+02:03:31,720 --> 02:03:36,440
+which, because, you know, look, I think there was a day when all of my identity was wrapped up
+
+1067
+02:03:36,440 --> 02:03:43,400
+in these things that are inevitably going to decline and none of it was wrapped up in the other.
+
+1068
+02:03:43,400 --> 02:03:51,000
+And I'm undergoing an asset reallocation, which I guess the point is we should be doing this when
+
+1069
+02:03:51,000 --> 02:03:59,000
+we still have a chance to. No, you're absolutely right. And that actually is a great point,
+
+1070
+02:03:59,960 --> 02:04:04,680
+not just doing the asset reallocation, but just doing things when you still have a chance. You
+
+1071
+02:04:04,680 --> 02:04:13,720
+know, one of the things I, you know, I, as we were talking earlier, another big thing that I think
+
+1072
+02:04:13,720 --> 02:04:19,960
+contributes to quality of life and you sort of, whether people age well or not is regret and how
+
+1073
+02:04:19,960 --> 02:04:27,720
+much regret they live with. And so very often I see people who come in and, you know, have worked
+
+1074
+02:04:28,280 --> 02:04:35,320
+really hard throughout their lives and put off this and put off that. And we're just about to
+
+1075
+02:04:35,320 --> 02:04:43,400
+retire and do XYZ. And then now, well, now I have this devastating disease. And so, you know, part of
+
+1076
+02:04:43,400 --> 02:04:48,120
+what I do is educating them. Well, you can still do XYZ. You just might have to do it a little bit
+
+1077
+02:04:48,120 --> 02:04:56,280
+differently. But it also, I mean, personally has affected me. You know, my happy place is the beach.
+
+1078
+02:04:56,280 --> 02:05:03,000
+I love the beach. I have dreamed my whole life of being able to see, you know, the horizon from my bed.
+
+1079
+02:05:03,720 --> 02:05:11,320
+And so, you know, as soon as we were able to afford it, we got, you know, a condo at the beach. It was
+
+1080
+02:05:11,960 --> 02:05:18,920
+old, built in 1972 and, you know, quite frankly hideous at the time when we got hit. But
+
+1081
+02:05:19,800 --> 02:05:25,960
+it meant that I could wake up and see the Gulf of Mexico. And, you know, we, especially through
+
+1082
+02:05:25,960 --> 02:05:31,240
+the pandemic, we've gone there almost every weekend just because what else are you going to do?
+
+1083
+02:05:31,240 --> 02:05:36,120
+And, you know, but that's something I learned from my patients. You know, don't wait. Don't wait until
+
+1084
+02:05:36,120 --> 02:05:41,400
+I retire to get that beach condo because I might not be able to use it. You know, I'm living now,
+
+1085
+02:05:42,440 --> 02:05:49,640
+so do it now. And that's, you know, A, something I've learned and B, something I really try to
+
+1086
+02:05:49,640 --> 02:05:55,480
+impart to these people that are coming in that sort of feel like that's a hard stop. Like, oh,
+
+1087
+02:05:55,480 --> 02:06:00,760
+I can't do this now because of this diagnosis. And it's like, well, no, you still can. You just
+
+1088
+02:06:00,760 --> 02:06:07,080
+have to be a little more careful or you can still take that cruise, but just where, you know, I
+
+1089
+02:06:07,080 --> 02:06:10,920
+actually, anytime I go to a meeting, I haven't been to a meeting in, you know, a year and a half, but,
+
+1090
+02:06:12,280 --> 02:06:18,200
+you know, I save all of my name tag, you know, lanyard things and I give them out to people.
+
+1091
+02:06:18,200 --> 02:06:23,320
+I say, here, take this on your cruise and just put your room number or cabin number or whatever in it
+
+1092
+02:06:23,880 --> 02:06:28,200
+and your cell phone number. So if, you know, your loved one wanders off on a ship,
+
+1093
+02:06:28,200 --> 02:06:34,280
+at least they can call you or they can find out what cabin you're in. And so it's making those
+
+1094
+02:06:34,280 --> 02:06:40,600
+adjustments, but still, you know, doing the things that you enjoy with the people you enjoy doing it
+
+1095
+02:06:40,600 --> 02:06:48,200
+with. I think that's incredibly well said, Amanda. You know, I've really enjoyed our discussion today.
+
+1096
+02:06:48,200 --> 02:06:54,120
+And I know that everyone listening to this has as well, because I just think people are becoming
+
+1097
+02:06:54,120 --> 02:06:59,400
+more and more aware of this condition. And as you said, it's less taboo. It's something that
+
+1098
+02:06:59,400 --> 02:07:06,920
+people are talking about. And I do believe that people are cautiously optimistic that the next
+
+1099
+02:07:06,920 --> 02:07:11,720
+decade looks better than the last decade in terms of actual medical treatments we have.
+
+1100
+02:07:12,520 --> 02:07:17,720
+I'm still firmly in the camp of Richard, which is not to say that you're not saying that,
+
+1101
+02:07:18,360 --> 02:07:24,360
+that says, look, prevention is the best medicine for chronic disease, be it cardiovascular disease,
+
+1102
+02:07:24,360 --> 02:07:30,040
+cancer or Alzheimer's disease. But inevitably, a number of us are going to slip through the
+
+1103
+02:07:30,040 --> 02:07:36,600
+fingers and the grasp of prevention and are going to need treatments. And I'm hopeful that these
+
+1104
+02:07:36,600 --> 02:07:41,720
+monoclonal antibodies that can target amyloid beta or tau can be a step in the right direction.
+
+1105
+02:07:41,720 --> 02:07:43,720
+So thanks very much for all of your insights today.
+
+1106
+02:07:43,720 --> 02:07:48,040
+Oh, my pleasure. And of course, exercise.
+
+1107
+02:07:50,440 --> 02:07:51,800
+You don't need to tell this audience.
+
+1108
+02:07:52,920 --> 02:07:59,000
+No, I know. That's what I'm saying. Even if you've passed the point of prevention,
+
+1109
+02:07:59,880 --> 02:08:05,080
+you know, and I know you've gotten into this in other podcasts, but, you know, the data,
+
+1110
+02:08:05,080 --> 02:08:10,840
+the growing body of data shows that even in people who have cognitive impairment or have
+
+1111
+02:08:10,840 --> 02:08:16,360
+full-blown dementia, aerobic activity can actually improve scores on cognitive testing.
+
+1112
+02:08:17,320 --> 02:08:25,560
+You know, some of the research that some of our colleagues do through all of these prevention
+
+1113
+02:08:25,560 --> 02:08:33,640
+trials and then through these intervention trials in MCI and AD, Silver Sneakers Program at the YMCA,
+
+1114
+02:08:34,200 --> 02:08:43,880
+Laura Baker at Wake Forest is doing a lot of great stuff with this and showing that even if you have
+
+1115
+02:08:43,880 --> 02:08:52,280
+dementia, your scores will go up if you do aerobic exercise. So I'm glad you said that's what gets me
+
+1116
+02:08:52,280 --> 02:08:59,240
+going in the afternoon. All right, Amanda. Well, thanks so much. And I hope you get to see the
+
+1117
+02:08:59,240 --> 02:09:05,160
+sunset this weekend. Thank you. I really appreciate it. It was great talking with you.
+
+1118
+02:09:07,080 --> 02:09:11,160
+Thank you for listening to this week's episode of The Drive. If you're interested in diving deeper
+
+1119
+02:09:11,160 --> 02:09:15,560
+into any topics we discuss, we've created a membership program that allows us to bring you
+
+1120
+02:09:15,560 --> 02:09:21,000
+more in-depth, exclusive content without relying on paid ads. It's our goal to ensure members get
+
+1121
+02:09:21,000 --> 02:09:26,280
+back much more than the price of the subscription. Now to that end, membership benefits include a
+
+1122
+02:09:26,280 --> 02:09:32,280
+bunch of things. One, totally kick ass comprehensive podcast show notes that detail every topic, paper,
+
+1123
+02:09:32,280 --> 02:09:37,640
+person thing we discuss on each episode. The word on the street is nobody's show notes rival these.
+
+1124
+02:09:38,360 --> 02:09:42,840
+Monthly AMA episodes or ask me anything episodes, hearing these episodes completely.
+
+1125
+02:09:43,640 --> 02:09:48,520
+Access to our private podcast feed that allows you to hear everything without having to listen
+
+1126
+02:09:48,520 --> 02:09:54,120
+to spiel's like this. The Qualies, which are a super short podcast that we release every Tuesday
+
+1127
+02:09:54,120 --> 02:09:58,760
+through Friday, highlighting the best questions, topics, and tactics discussed on previous episodes
+
+1128
+02:09:58,760 --> 02:10:03,720
+of The Drive. This is a great way to catch up on previous episodes without having to go back and
+
+1129
+02:10:03,720 --> 02:10:09,480
+necessarily listen to everyone. Steep discounts on products that I believe in, but for which I'm not
+
+1130
+02:10:09,480 --> 02:10:14,200
+getting paid to endorse, and a whole bunch of other benefits that we continue to trickle in
+
+1131
+02:10:14,200 --> 02:10:18,280
+as time goes on. If you want to learn more and access these member-only benefits, you can head
+
+1132
+02:10:18,360 --> 02:10:25,720
+over to PeterAttiaMD.com forward slash subscribe. You can find me on Twitter, Instagram, and Facebook,
+
+1133
+02:10:25,720 --> 02:10:32,280
+all with the ID PeterAttiaMD. You can also leave us a review on Apple Podcasts or whatever podcast
+
+1134
+02:10:32,280 --> 02:10:37,800
+player you listen on. This podcast is for general informational purposes only and does not constitute
+
+1135
+02:10:37,800 --> 02:10:42,440
+the practice of medicine, nursing, or other professional healthcare services, including
+
+1136
+02:10:42,440 --> 02:10:48,600
+the giving of medical advice. No doctor-patient relationship is formed. The use of this information
+
+1137
+02:10:48,600 --> 02:10:54,360
+and the materials linked to this podcast is at the user's own risk. The content on this podcast
+
+1138
+02:10:54,360 --> 02:11:00,680
+is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Users
+
+1139
+02:11:00,680 --> 02:11:07,000
+should not disregard or delay in obtaining medical advice from any medical condition they have, and
+
+1140
+02:11:07,000 --> 02:11:12,600
+they should seek the assistance of their healthcare professionals for any such conditions. Finally,
+
+1141
+02:11:12,600 --> 02:11:18,040
+I take conflicts of interest very seriously. For all of my disclosures and the companies I invest in
+
+1142
+02:11:18,040 --> 02:11:25,720
+or advise, please visit PeterAttiaMD.com forward slash about where I keep an up-to-date and active
+
+1143
+02:11:25,720 --> 02:11:30,440
+list of such companies.
+

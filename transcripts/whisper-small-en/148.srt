@@ -1,0 +1,5444 @@
+1
+00:00:00,000 --> 00:00:15,640
+Hey everyone, welcome to the Drive podcast. I'm your host, Peter Attia. This podcast, my
+
+2
+00:00:15,640 --> 00:00:19,400
+website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:19,400 --> 00:00:24,360
+longevity into something accessible for everyone. Our goal is to provide the best content in
+
+4
+00:00:24,360 --> 00:00:28,440
+health and wellness, full stop, and we've assembled a great team of analysts to make
+
+5
+00:00:28,440 --> 00:00:32,720
+this happen. If you enjoy this podcast, we've created a membership program that brings you
+
+6
+00:00:32,720 --> 00:00:36,920
+far more in-depth content. If you want to take your knowledge of this space to the next level
+
+7
+00:00:36,920 --> 00:00:41,560
+at the end of this episode, I'll explain what those benefits are. Or if you want to learn more now,
+
+8
+00:00:41,560 --> 00:00:48,080
+head over to PeterAttiaMD.com forward slash subscribe. Now, without further delay, here's
+
+9
+00:00:48,080 --> 00:00:56,400
+today's episode. I guess this week is Richard Miller. Rich is a professor of pathology at the
+
+10
+00:00:56,400 --> 00:01:01,520
+University of Michigan and the director of Michigan's Paul F. Glenn Center for Aging
+
+11
+00:01:01,520 --> 00:01:06,480
+Research. He served on a variety of editorial and advisory positions on behalf of the American
+
+12
+00:01:06,480 --> 00:01:11,840
+Federation for Aging Research, AFAR, and the National Institutes of Aging, NIA, which we
+
+13
+00:01:11,840 --> 00:01:18,320
+talk about a little bit. He's also served as the editor-in-chief of Aging Cell. He's the recipient
+
+14
+00:01:18,320 --> 00:01:24,560
+of the Nathan Schock Award and the Allied Signal Award, the Irving Wright Award, and an award from
+
+15
+00:01:24,560 --> 00:01:29,280
+the Glenn Foundation, along with a number of other awards for aging research. Dr. Miller's
+
+16
+00:01:29,280 --> 00:01:35,320
+research focuses on the problems of the basic biologies of aging, mostly in mice, but sometimes
+
+17
+00:01:35,320 --> 00:01:42,040
+using other cell lines. Though we speak in this podcast almost exclusively about one of the amazing
+
+18
+00:01:42,040 --> 00:01:50,040
+products of his life's work called the NIA-funded interventions testing programs, the ITPs. Now,
+
+19
+00:01:50,680 --> 00:01:57,320
+over time, you'll probably hear me or you have heard me talk about the ITPs on various podcasts,
+
+20
+00:01:57,320 --> 00:02:05,000
+certainly with respect to the podcasts around rapamycin and metformin. The ITPs are a set of
+
+21
+00:02:05,000 --> 00:02:12,760
+studies that are done concurrently in the three labs, the Jackson Labs, Rich Miller's lab in
+
+22
+00:02:12,760 --> 00:02:19,560
+Michigan, and Randy Strong's lab in UT San Antonio. We go into great detail about what the
+
+23
+00:02:19,560 --> 00:02:24,680
+criteria are and how these are done, but suffice it to say that based on the types of mice that
+
+24
+00:02:24,680 --> 00:02:30,600
+are used and the rigor with which these are done statistically and otherwise, the ITPs represent
+
+25
+00:02:30,600 --> 00:02:39,640
+effectively the gold standard of testing molecules for longevity in arguably the most important
+
+26
+00:02:39,640 --> 00:02:47,080
+subset of mice we could study. Basically, what we do in this podcast is go through the long list
+
+27
+00:02:47,080 --> 00:02:52,280
+of molecules that have been tested, what the results were, a number of these are quite
+
+28
+00:02:52,280 --> 00:02:58,200
+surprising. They're all very interesting, both in positive and negative findings. I've been looking
+
+29
+00:02:58,200 --> 00:03:05,080
+forward to speaking with Rich for about a year, but the reason we delayed this until now is I
+
+30
+00:03:05,080 --> 00:03:09,880
+wanted to make sure that a couple of the findings that were in the pipeline were close enough to
+
+31
+00:03:09,880 --> 00:03:15,800
+publication that we could speak about them confidently and this podcast can now be released
+
+32
+00:03:15,800 --> 00:03:21,800
+as soon as those manuscripts have been accepted, in particular one around an SGLT2 inhibitor and
+
+33
+00:03:21,800 --> 00:03:27,480
+another one around nicotinamide riboside, which is a very popular supplement that many people ask
+
+34
+00:03:27,480 --> 00:03:34,680
+about as a precursor to NAD. So without further delay, please enjoy my conversation with Dr. Rich Miller.
+
+35
+00:03:40,360 --> 00:03:44,680
+Rich, thank you so much for making time to chat today. I've been looking forward to this one for
+
+36
+00:03:44,680 --> 00:03:49,960
+almost a year now, but we wanted to wait until some of these exciting results we're going to get
+
+37
+00:03:49,960 --> 00:03:55,640
+to were far enough outside the pipeline that we could speak about them. Good to chat with you.
+
+38
+00:03:55,640 --> 00:04:01,320
+But I think before we get to the most recent findings of the ITP and even explaining what
+
+39
+00:04:01,320 --> 00:04:07,800
+an ITP is, I want to give people a bit of a sense of who you are and how you've played kind of an
+
+40
+00:04:07,800 --> 00:04:13,720
+amazing role in the field of longevity along with a couple of your colleagues. So where'd you grow
+
+41
+00:04:13,720 --> 00:04:18,920
+up by the way? I was born in Philadelphia and when we were five, my mom and dad moved me and
+
+42
+00:04:18,920 --> 00:04:24,520
+my two brothers to the northern suburbs of Philadelphia, Cheltenham Township. I went to
+
+43
+00:04:24,520 --> 00:04:31,080
+high school with Ben Nataniahu of all people who joined our soccer team as a sophomore.
+
+44
+00:04:32,840 --> 00:04:38,200
+I was just born slightly too late. If I'd been born three years earlier, I would have had Reggie
+
+45
+00:04:38,200 --> 00:04:44,680
+Jackson as a teammate. Wow, interesting. Split your loyalties there between what city you're
+
+46
+00:04:44,680 --> 00:04:50,040
+going to choose for sports. So when did you take an interest in science growing up? When I was about
+
+47
+00:04:50,040 --> 00:04:57,640
+five. That's pretty unusual for a five-year-old, right? Well, I really liked science. I was decent
+
+48
+00:04:57,640 --> 00:05:02,680
+at school and I always liked getting good grades and stuff like that. And I decided early on that
+
+49
+00:05:02,680 --> 00:05:07,880
+aging was bad for you. It made people sick and then die. I was kind of against that. And the best
+
+50
+00:05:07,880 --> 00:05:12,840
+way to fight against that was to learn something about aging and to develop ways of slowing the
+
+51
+00:05:12,840 --> 00:05:19,640
+aging process down. So you can't do that unless you're a scientist. So you end up doing your MD
+
+52
+00:05:19,640 --> 00:05:28,680
+and PhD degrees at Yale in the 1970s. At that time, I think you went off and did a postdoc at MSK.
+
+53
+00:05:28,680 --> 00:05:33,880
+Is that correct? Memorial Sloan Kettering? Yes, that's exactly right. I actually did a postdoc
+
+54
+00:05:33,880 --> 00:05:40,760
+for three years first at Harvard, which did not work out at all. And then I was rescued by a
+
+55
+00:05:40,760 --> 00:05:45,160
+mentor at Sloan Kettering. Tell me more about what you mean that it didn't work out at all,
+
+56
+00:05:45,160 --> 00:05:50,200
+the first part. I don't want to be sued for slander, but let's just say that my postdoctoral
+
+57
+00:05:50,200 --> 00:05:57,080
+mentor had some defects as a mentor and I wasn't very productive and he wasn't very happy with me
+
+58
+00:05:57,080 --> 00:06:02,360
+and I wasn't very happy with him. So as a beginning postdoc, you're always scared of offending the
+
+59
+00:06:02,360 --> 00:06:09,320
+big boss and you tend to put off the decision to leave as long as you possibly can. And eventually
+
+60
+00:06:09,320 --> 00:06:14,120
+we both got fed up with one another. And so I moved to Sloan Kettering where things went better.
+
+61
+00:06:14,760 --> 00:06:17,480
+Did your field of study change when you made that switch?
+
+62
+00:06:17,480 --> 00:06:22,520
+It changed not at that point, but at the beginning of my postdoc, I knew I'd always wanted to work on
+
+63
+00:06:22,520 --> 00:06:29,080
+aging. And the PhD project that I worked on was involved somatic cell hybridization. I wanted to
+
+64
+00:06:29,080 --> 00:06:33,560
+mix together two kinds of cells, one that could divide and one that couldn't divide
+
+65
+00:06:33,560 --> 00:06:39,000
+and immortalize the one, the T lymphocytes that couldn't divide. And that project went well,
+
+66
+00:06:39,000 --> 00:06:43,960
+but the more I learned about the Hayflick hypothesis and all of that cells and essence stuff,
+
+67
+00:06:43,960 --> 00:06:48,840
+the more convinced I was that it wasn't going to teach me anything I wanted to learn about aging.
+
+68
+00:06:48,840 --> 00:06:55,240
+And so I decided as a postdoc to become an immunologist. The lab I worked at at Harvard
+
+69
+00:06:55,320 --> 00:06:59,320
+was an immunology lab and the one at Sloan Kettering was an immunology lab too. Then when
+
+70
+00:06:59,320 --> 00:07:05,800
+I set up my own lab at Boston University, it was principally to study immunology and how aging
+
+71
+00:07:05,800 --> 00:07:11,560
+modified the immune system. When I came to Michigan in 1990, I was still mostly an immunologist
+
+72
+00:07:11,560 --> 00:07:16,440
+focusing on aging and writing book chapters on how aging modified immunity and the like.
+
+73
+00:07:17,240 --> 00:07:22,440
+Over the next decade or so, I switched gradually into focusing on aging more broadly with
+
+74
+00:07:22,440 --> 00:07:28,040
+immunology, becoming only a minor interest. And now we do very little immunology. It's nearly all
+
+75
+00:07:28,600 --> 00:07:33,160
+the kind of work that is focused on what is controlling the aging process and how you can
+
+76
+00:07:33,160 --> 00:07:39,720
+use that to develop interventions. Give folks a little bit of the history around Hayflick and
+
+77
+00:07:39,720 --> 00:07:45,240
+the division of cells and some of these observations. These are kind of some of the foundational things
+
+78
+00:07:45,240 --> 00:07:51,720
+in aging, right? Unfortunately, yes. I don't know whether you want the two minute or the 20 minute
+
+79
+00:07:51,800 --> 00:07:58,120
+or the three hour rant about this, but the phenomenon that Hayflick more or less discovered
+
+80
+00:07:58,120 --> 00:08:03,320
+was that if you take normal human cells, which are not cancer cells, and you let them grow in tissue
+
+81
+00:08:03,320 --> 00:08:07,960
+culture, they're divide, but only a limited number of times, about 50 times, and then they stop. And
+
+82
+00:08:09,080 --> 00:08:15,080
+if you listen to Hayflick, he then decided that was sort of like aging. He had sort of found a way
+
+83
+00:08:15,080 --> 00:08:21,480
+to study aging in culture. Now that's nuts. It's nothing like aging in the slightest,
+
+84
+00:08:22,200 --> 00:08:28,680
+but he thought it might be like aging. So at that time, people were really excited by tissue culture.
+
+85
+00:08:28,680 --> 00:08:34,360
+It was the brand new thing. Everybody wanted to work on tissue culture and it seemed like a
+
+86
+00:08:34,360 --> 00:08:40,440
+wonderful, exciting opportunity to be able to use tissue culture to study aging. So they bought this
+
+87
+00:08:40,440 --> 00:08:47,320
+idea and a whole generation of superb cell biologists spent their life investigating the
+
+88
+00:08:47,320 --> 00:08:55,240
+Hayflick system under the illusion that they were studying aging. Parenthetically, I, about 15 or 20
+
+89
+00:08:55,240 --> 00:09:00,840
+years later, when I was just beginning to become well known, I was invited to give a talk at New
+
+90
+00:09:00,840 --> 00:09:07,320
+York University, whose chair of pathology was Vittorio Defendi. And Defendi had been a colleague
+
+91
+00:09:07,320 --> 00:09:12,440
+of Hayflick when Hayflick was making these discoveries. And Defendi told me that he and
+
+92
+00:09:12,440 --> 00:09:17,560
+Hayflick had had lunch over and over again. And Hayflick had been a kind of a grump and had said
+
+93
+00:09:17,560 --> 00:09:21,960
+over and over again, oh, my cells, they just won't grow. Oh, I tried them. I thought them out only two
+
+94
+00:09:21,960 --> 00:09:26,920
+weeks ago and they already stopped growing. And Defendi, if you believe his story, which I do,
+
+95
+00:09:27,560 --> 00:09:34,760
+told Hayflick, well, Len, maybe they're just getting old. And Hayflick, who, whose sense of humor is
+
+96
+00:09:34,760 --> 00:09:41,320
+notoriously absent, did not understand he was being joshed. He thought it was a hypothesis,
+
+97
+00:09:41,320 --> 00:09:47,080
+a scientific hypothesis. And after a while, he persuaded himself that it was his hypothesis
+
+98
+00:09:48,040 --> 00:09:53,400
+and then that it was the correct hypothesis. So he's a persuasive fellow. And many people
+
+99
+00:09:53,400 --> 00:09:59,720
+bought into the notion that the idea that when cells stop growing in culture, it's sort of like
+
+100
+00:09:59,720 --> 00:10:06,680
+or caused by or something related to aging. Too many people, in my view, accepted that as the
+
+101
+00:10:06,680 --> 00:10:11,720
+truth of the matter. And then when it later became established that the limitation of growth, the
+
+102
+00:10:11,720 --> 00:10:16,760
+Hayflick limit was actually due to the shortening of telomeres, a very important finding and
+
+103
+00:10:16,760 --> 00:10:21,400
+certainly true, people convinced themselves because they thought it was like aging, that
+
+104
+00:10:21,400 --> 00:10:27,720
+telomeres were something to do with aging too. And it was that way in which a whole new generation
+
+105
+00:10:27,720 --> 00:10:35,560
+of people sort of bought into the Hayflick and the telomeres thing as a central cause of the aging
+
+106
+00:10:35,560 --> 00:10:40,440
+process, despite all the evidence to the contrary. Well, it's interesting you bring this up, of course,
+
+107
+00:10:40,440 --> 00:10:45,720
+because at least at the time that we sit here recording this, it's only been about a week since
+
+108
+00:10:45,720 --> 00:10:50,760
+a story came out of Israel, which I'm sure you've been emailed about as many times as I have.
+
+109
+00:10:50,760 --> 00:10:55,880
+Nope. You haven't. Okay, well, consider yourself lucky because I've only been emailed at about 57
+
+110
+00:10:55,880 --> 00:11:04,120
+times, which is apparently the most rigorous study in the history of humans demonstrating the
+
+111
+00:11:04,120 --> 00:11:11,800
+anti-aging benefits of hyperbaric oxygen. So you see, Rich, in this amazing study done in Israel,
+
+112
+00:11:11,800 --> 00:11:17,800
+a group of volunteers were exposed to hyperbaric oxygen and wouldn't you know it, their telomeres
+
+113
+00:11:17,800 --> 00:11:24,200
+lengthened a bit. And so as a result of that, I've had, I don't know, I probably need scientific
+
+114
+00:11:24,200 --> 00:11:29,160
+notation to count the number of people that have emailed me that story to tell me why are we not
+
+115
+00:11:29,160 --> 00:11:35,080
+doing hyperbaric oxygen? You see this is the fountain of youth. And I think I forwarded it to
+
+116
+00:11:35,080 --> 00:11:41,880
+Joan Manick and Matt Caberlein because the three of us have a grumpy old men women club where we
+
+117
+00:11:41,880 --> 00:11:47,240
+groan on about the idea of until you have really good biomarkers for aging, it's really hard to
+
+118
+00:11:47,240 --> 00:11:53,080
+study aging and we can't use telomere length as a biomarker of aging. But nobody really wants to
+
+119
+00:11:53,080 --> 00:11:57,960
+listen to this. I agree with all three of you. Yeah, and you know, it's funny, it's entirely
+
+120
+00:11:57,960 --> 00:12:04,200
+possible that hyperbaric oxygen could well have health benefits under certain circumstances,
+
+121
+00:12:04,200 --> 00:12:09,160
+certainly I'm not endorsing it, there's no evidence that that statement is true. But it's not silly,
+
+122
+00:12:09,160 --> 00:12:15,560
+there are certainly oxygen sensing circuits in multiple cells, which at least in worms can trigger
+
+123
+00:12:15,560 --> 00:12:20,520
+anti-aging programs, pro longevity programs. So it's not a dumb idea. And there's some really
+
+124
+00:12:20,520 --> 00:12:25,400
+good labs pursuing it. The weakness, I haven't read the paper, but from what you've told me,
+
+125
+00:12:25,400 --> 00:12:31,400
+the weakness is just the one you've cited. Aging and telomere length are not the same thing.
+
+126
+00:12:31,400 --> 00:12:38,120
+And if you want to prove that hyperbaric conditions, suitable doses and suitable time intervals, etc,
+
+127
+00:12:38,120 --> 00:12:41,880
+might be good for you, that's a very plausible idea. Well worth testing. It's just that you
+
+128
+00:12:41,880 --> 00:12:47,000
+don't test it by measuring telomeres. Yeah, I mean, it's interesting. Obviously, I think that
+
+129
+00:12:47,000 --> 00:12:53,640
+the telomere, I don't want to say story, I would say the telomere concept or notion as a biomarker,
+
+130
+00:12:53,640 --> 00:12:58,120
+even though it's not really a biomarker, I think gets a lot of credibility based on the fact that
+
+131
+00:12:58,120 --> 00:13:05,240
+a Nobel Prize was awarded for its elucidation. So it's interesting, I've heard people say, look,
+
+132
+00:13:05,240 --> 00:13:10,200
+and I think this is the most accurate thing I've heard stated, which is, look, the work that
+
+133
+00:13:10,200 --> 00:13:16,840
+Blackburn did is really amazing biology, and it's worthy of a Nobel Prize, but it doesn't really
+
+134
+00:13:16,840 --> 00:13:22,200
+explain aging. And those two statements can coexist. Oh, sure. And but you've left out a third
+
+135
+00:13:22,200 --> 00:13:28,840
+important statement. Telomere biology is a critical element in cancer biology. And the amazing work
+
+136
+00:13:28,840 --> 00:13:34,840
+that several people, including Blackburn did to work out the telomere story is, I think, really a
+
+137
+00:13:34,840 --> 00:13:41,080
+fundamental advance in our understanding of cancer in people. And it may also have an interesting
+
+138
+00:13:41,080 --> 00:13:46,920
+sidelight in evolutionary biology. There are some species, mice, for instance, with extremely long
+
+139
+00:13:46,920 --> 00:13:51,160
+telomeres that if they need an ant, they don't need much anti cancer defense at all, they're going to
+
+140
+00:13:51,160 --> 00:13:57,560
+get eaten in six months. Vera Gorbunova at Rochester has done some lovely work on the ways in which
+
+141
+00:13:58,120 --> 00:14:04,600
+different species with different body size and different life spans differ in their ways of
+
+142
+00:14:04,600 --> 00:14:10,840
+stopping the cancer process. Some relying like people do on the telomere alarm clock, where the
+
+143
+00:14:10,840 --> 00:14:17,000
+telers get too short that this puts a whole lot of anti cancer defenses into play. And others like
+
+144
+00:14:17,000 --> 00:14:21,240
+mice, where this does not happen, the mice have very long telomeres, they don't need telomeres to
+
+145
+00:14:21,240 --> 00:14:26,840
+tell them when their cells are getting cancerous as a fundamental step in our understanding of
+
+146
+00:14:26,840 --> 00:14:33,640
+cancer biology in people. And the way in which anti cancer defenses evolve, it's great stuff.
+
+147
+00:14:33,640 --> 00:14:39,960
+It's just the notion that it's sort of a shortcut for actually working on aging, in my view, does
+
+148
+00:14:39,960 --> 00:14:45,080
+that hold up very well? Yeah, well, I think I couldn't agree with you more. And it's certainly
+
+149
+00:14:45,080 --> 00:14:51,080
+on the short list of frustrations I have in this space where people very quickly revert to, well,
+
+150
+00:14:51,080 --> 00:14:57,000
+but look, but intervention acts shortened, or, you know, lengthen telomeres. Therefore, it's
+
+151
+00:14:57,000 --> 00:15:02,440
+somehow a cure for longevity and they're a cure for aging. And despite all evidence to the contrary.
+
+152
+00:15:03,160 --> 00:15:06,760
+So what prompted the move from BU to Michigan in 1990?
+
+153
+00:15:07,560 --> 00:15:11,320
+My wife got a job as a professor of English at the University of Michigan. And she said,
+
+154
+00:15:11,320 --> 00:15:16,600
+would you like to move with me to Michigan? Why don't you look for a job? So that worked out
+
+155
+00:15:16,600 --> 00:15:21,640
+pretty well. I mean, I'm being a little coy, I had always wanted to move to Michigan, Michigan was
+
+156
+00:15:21,640 --> 00:15:26,680
+very strong university and very strong in aging research. And I had said to her, you know, she
+
+157
+00:15:26,680 --> 00:15:32,840
+was coming up for tenure at Harvard. Harvard had never tenured a woman in 372 years in English,
+
+158
+00:15:32,840 --> 00:15:37,960
+they had never found a competent woman who could be an English professor. So we know they were not
+
+159
+00:15:37,960 --> 00:15:42,200
+going to start with Patsy. And I said, Hey, why don't you apply to Michigan? I love to move to
+
+160
+00:15:42,200 --> 00:15:49,080
+Michigan. And it worked out for both of us. Excellent. So what is it that brought to your
+
+161
+00:15:49,080 --> 00:15:56,600
+mind this idea of the ITP? This is partly your brainchild, right? I was the midwife or something.
+
+162
+00:15:57,560 --> 00:16:03,320
+So the National Aging Institute in its division of aging biology at that time was headed by a
+
+163
+00:16:03,320 --> 00:16:09,720
+visionary guy named Huber Warner. And Huber thought it would be a great idea for the aging
+
+164
+00:16:09,720 --> 00:16:16,600
+research community generally, to have a program in which drugs were tried on mice or mice and
+
+165
+00:16:16,600 --> 00:16:22,120
+worms or mice worms and flies and dogs or something. So he commissioned a committee of
+
+166
+00:16:22,200 --> 00:16:28,200
+eight or 10 or 12 of us to sit down with him and Nancy Naidon, who was his deputy at the time.
+
+167
+00:16:28,840 --> 00:16:34,360
+And we spent a day or two talking about what the NIA might do to develop a program in which
+
+168
+00:16:34,360 --> 00:16:39,480
+interventions, potential interventions were tested directly. And after the first night,
+
+169
+00:16:39,480 --> 00:16:44,680
+I went to a room with Arlen Richardson, who at the time was at Texas and is now at Oklahoma.
+
+170
+00:16:45,320 --> 00:16:51,080
+And Arlen and I put together what we viewed would be the best way to do this,
+
+171
+00:16:51,080 --> 00:17:00,040
+focusing on mice. And we sold it to Huber. So Huber then asked me to write down a more formal
+
+172
+00:17:00,040 --> 00:17:04,440
+plan, which he and I wrote up as an article for mechanisms in aging and development.
+
+173
+00:17:04,440 --> 00:17:09,640
+And when it was time for the NIA to formulate the rules for the program and to start saying,
+
+174
+00:17:09,640 --> 00:17:12,520
+would you please everybody apply for this program? We have some money.
+
+175
+00:17:13,480 --> 00:17:18,600
+The program that Arlen and I had sketched out in which Huber helped to refine and had by then
+
+176
+00:17:18,600 --> 00:17:24,040
+been through three or four versions became the sort of foundation on which the program was
+
+177
+00:17:24,040 --> 00:17:29,480
+developed. And then three grants were awarded, my own, David Harrison's at the Jackson Labs and
+
+178
+00:17:29,480 --> 00:17:35,960
+Randy Strong at Texas. So the three of us, it took us a while, sort of get to the point where we all
+
+179
+00:17:35,960 --> 00:17:41,000
+agreed as to what should be done and how it should be done. But the foundation of the program is one
+
+180
+00:17:41,000 --> 00:17:47,080
+that Huber and Dorson, which Arlen and I had helped to develop by now, it's about 18 years ago.
+
+181
+00:17:47,960 --> 00:17:54,520
+This is around the time you wrote a paper, extending life, scientific prospects and
+
+182
+00:17:54,520 --> 00:18:01,640
+political obstacles, right? That paper coincides almost with when you and Strong and Harrison kind
+
+183
+00:18:01,640 --> 00:18:05,240
+of came up with what the principles of the ITP would be, right?
+
+184
+00:18:05,240 --> 00:18:09,240
+Yes. I mean, the two events were not really related in any cause and effect fashion,
+
+185
+00:18:09,240 --> 00:18:13,800
+but it's about the same time. I had been asked to give a talk at the law school at the University
+
+186
+00:18:13,880 --> 00:18:19,320
+of Michigan. They were putting a seminar together, an all day symposium in the end of life and the
+
+187
+00:18:19,320 --> 00:18:24,520
+other people chatting. One was how to take care of old people. One was how to make decisions,
+
+188
+00:18:24,520 --> 00:18:29,240
+triage decisions at the end of life. And I was the only biologist on the program. So I gave them
+
+189
+00:18:29,240 --> 00:18:33,240
+the talk, which then became that article in the Milbank quarterly that you've been mentioning.
+
+190
+00:18:33,960 --> 00:18:38,600
+Now you make three big points in this article that I think are worth spending a minute on before we
+
+191
+00:18:38,600 --> 00:18:43,480
+jump into the ITP because I think it really sets an adequate stage, right? So again,
+
+192
+00:18:43,480 --> 00:18:47,320
+keeping in mind, this is an article written about 18 years ago, and it's important, I think,
+
+193
+00:18:47,320 --> 00:18:52,040
+for people to realize that the world we live in today is much more open to the discussion we're
+
+194
+00:18:52,040 --> 00:18:56,200
+going to have than it was, I think, 20 years ago. That's for sure. So you said, look, discussions
+
+195
+00:18:56,200 --> 00:19:02,120
+of anti-aging medicine aren't silly. The development of an anti-aging strategy is starting to make
+
+196
+00:19:02,120 --> 00:19:07,800
+headway and further work here would be worthwhile. That was basically the thesis of your paper. Yes?
+
+197
+00:19:07,800 --> 00:19:13,960
+I agree. And it's, I think, a really important point that deserves stress. It's still an evolving
+
+198
+00:19:13,960 --> 00:19:18,920
+process. We're not there yet, but 18 years ago, we certainly weren't even close to there.
+
+199
+00:19:18,920 --> 00:19:23,320
+Around that time, the Gordon Research Conference on Aging, which is an invitation-only conference,
+
+200
+00:19:23,320 --> 00:19:29,800
+about 120 more or less distinguished researchers, I got into a fight with my friend George Martin
+
+201
+00:19:29,800 --> 00:19:36,040
+as to whether aging could be considered a single process. A drug might slow that process down,
+
+202
+00:19:36,040 --> 00:19:41,800
+or whether it was a very complex spaghetti bowl filled with 30 or 40 or 50 different processes,
+
+203
+00:19:41,800 --> 00:19:47,160
+each one of which had its own independent control. And George and I did not agree about that. So,
+
+204
+00:19:47,160 --> 00:19:55,160
+as a game, he asked the assembled conferees to vote, and you could vote zero to 10, zero if you
+
+205
+00:19:55,160 --> 00:19:59,880
+agree that there were too many processes ever to be controlled together, and 10 if you happen to
+
+206
+00:19:59,880 --> 00:20:06,040
+take my position. The average score was about two or three. Very few people at that time, even among
+
+207
+00:20:06,040 --> 00:20:12,040
+the sophisticated, best-educated professional aging researchers, would check the box that said,
+
+208
+00:20:12,040 --> 00:20:18,520
+yeah, there's a single aging process. And until you check that box, the notion that you could
+
+209
+00:20:18,520 --> 00:20:23,880
+interrupt the process makes no sense, because if there is no process, then interrupting it is
+
+210
+00:20:24,600 --> 00:20:31,800
+a hopeless goal. I think you really sort of need to see it as a unitary process in order to devote
+
+211
+00:20:31,800 --> 00:20:36,520
+much time to trying to slow that process down. It's confusing, because there are dozens and
+
+212
+00:20:36,520 --> 00:20:40,680
+hundreds of things that go wrong in old age, and learning about any one of them can be very
+
+213
+00:20:40,680 --> 00:20:46,520
+productive. It's just that, in addition to looking at any one of them individually, the one that leads
+
+214
+00:20:46,520 --> 00:20:52,360
+to cataracts, the one that leads to muscle failure, etc., the concept that there's some underlying
+
+215
+00:20:52,360 --> 00:21:00,120
+mechanism that speeds them up a lot in mice, or a little bit in horses, or slows them down a lot
+
+216
+00:21:00,120 --> 00:21:06,040
+in people, or an awful lot in whales. Once you get that idea in your head, then suddenly it becomes
+
+217
+00:21:06,040 --> 00:21:11,480
+permissible to think about ways to slow it down. Now, there were a couple of things that we already
+
+218
+00:21:11,480 --> 00:21:17,880
+quote unquote, knew at this time that had to give you some hope. Obviously, there was the vast
+
+219
+00:21:17,960 --> 00:21:23,880
+literature on caloric restriction. So, almost without exception, and there are some very notable
+
+220
+00:21:23,880 --> 00:21:29,320
+exceptions, but almost without exception, some form of caloric restriction, and we could get
+
+221
+00:21:29,320 --> 00:21:34,440
+into all the details of different species, and when it's applied during life, and to what extent,
+
+222
+00:21:34,440 --> 00:21:40,120
+and wild types versus not. But there was clearly a path towards extending life with caloric
+
+223
+00:21:40,120 --> 00:21:47,880
+restriction. And then, of course, we had the DAF mutants in C. elegans, Cynthia Kenyon's work,
+
+224
+00:21:48,440 --> 00:21:55,880
+which I think was probably early 90s, right? That was 1993. And if I recall her first,
+
+225
+00:21:55,880 --> 00:21:59,480
+god, it's been a while since I've looked at this, her first observation was with,
+
+226
+00:22:00,120 --> 00:22:04,600
+was it DAF 16 was the first one, or was it DAF 16? The first paper, the critical paper,
+
+227
+00:22:04,600 --> 00:22:08,280
+made two big discoveries. One was that mutants of DAF 2 extended lifespan,
+
+228
+00:22:09,080 --> 00:22:15,000
+and that mutants of DAF 16 blocked. When combined, yeah, and now you could combine with CR,
+
+229
+00:22:15,000 --> 00:22:21,320
+and then get a better outcome, but yes. And DAF 2 ended up being the analog of the IGF receptor,
+
+230
+00:22:21,320 --> 00:22:27,640
+and I think DAF 16 was basically an analog of FOXO 3A or 3B, I can't recall.
+
+231
+00:22:27,640 --> 00:22:30,920
+Yeah, it wasn't quite the receptor. It was the thing that the receptor turned on,
+
+232
+00:22:30,920 --> 00:22:34,280
+but it's one step downstream. One step downstream inside, yeah.
+
+233
+00:22:34,920 --> 00:22:39,800
+So explain to folks why that was relevant, as a proof of principle, at least.
+
+234
+00:22:40,600 --> 00:22:44,600
+Well, first of all, it's just the point you were making. Those of us who knew the caloric restriction
+
+235
+00:22:44,600 --> 00:22:49,400
+literature were screaming our heads off saying, see, look, you can slow the whole thing down.
+
+236
+00:22:50,200 --> 00:22:55,720
+And no one quite bought into that. Cynthia's demonstration, which was also, you know,
+
+237
+00:22:55,720 --> 00:23:00,440
+pioneered by other people like Tom Johnson and Gary Ruffkin and some others at the same time,
+
+238
+00:23:01,400 --> 00:23:07,640
+pointed out that a single gene mutation could extend longevity dramatically in a worm.
+
+239
+00:23:07,640 --> 00:23:15,080
+The funny thing is, you know, Nature early in 1993 published a very early date detailed six-page
+
+240
+00:23:15,080 --> 00:23:19,800
+paper by Linda Partridge and her colleagues proving that there could never be a single gene
+
+241
+00:23:19,800 --> 00:23:24,040
+mutation that extended lifespan. Aging was too complicated, too many feedback circuits.
+
+242
+00:23:24,040 --> 00:23:28,840
+It could never, ever be done. And Linda's paper was a statement of any species.
+
+243
+00:23:28,840 --> 00:23:32,920
+It wasn't explicitly stated, but it was the theoretical proof that you could never have a
+
+244
+00:23:32,920 --> 00:23:38,520
+single gene mutation that extended lifespan. Absolute mathematical proof, lots of equations.
+
+245
+00:23:38,520 --> 00:23:44,200
+I couldn't follow that. It can't follow now. So about six months later, Cynthia's paper came out
+
+246
+00:23:44,200 --> 00:23:50,360
+saying, hey, look, here's a gene that does that. So that same issue, Linda was asked to comment on
+
+247
+00:23:50,360 --> 00:23:55,400
+Linda Partridge, and she wrote a paper saying, well, of course, C. elegans is different. C. elegans
+
+248
+00:23:55,400 --> 00:24:00,360
+has dour mutants. They're very, very special. But there could never, ever be in any other species
+
+249
+00:24:00,360 --> 00:24:06,600
+a gene that does this. Trust me on that. So it took three more years for the second shoe to drop,
+
+250
+00:24:06,600 --> 00:24:11,560
+so to speak, which is Anjay Bartke's paper with Holly Brownborg and two other colleagues,
+
+251
+00:24:12,280 --> 00:24:16,760
+showing that the Ames-Dwarf mutation could extend lifespan by about 40% in a mouse.
+
+252
+00:24:17,480 --> 00:24:23,880
+Once it was true for mice and true for worms, the idea that, you know, there might be something to
+
+253
+00:24:23,880 --> 00:24:30,520
+this became defensible. One of my favorite conference stories, about a year or two after
+
+254
+00:24:30,520 --> 00:24:36,440
+the Ames-Dwarf paper came out, also in nature, I was at a conference, and Robin Holiday, an
+
+255
+00:24:36,440 --> 00:24:41,800
+Australian scientist who was very well respected, gave a keynote lecture explaining why you could
+
+256
+00:24:41,800 --> 00:24:48,520
+never have a gene that had slowed the aging process and extended longevity. And I raised my hand to
+
+257
+00:24:48,520 --> 00:24:54,760
+say, but you know, there are two papers here, one in worms, one in mice, saying that there are single
+
+258
+00:24:54,760 --> 00:25:00,520
+gene mutations that extend longevity, and that's not compatible with your theory. And he said, yeah,
+
+259
+00:25:00,520 --> 00:25:05,880
+but there could never be a single gene mutation that could extend longevity. And so we went through
+
+260
+00:25:05,880 --> 00:25:11,240
+that loop about twice, and then I went out to get a cup of coffee. It's an ocean, a zombie notion,
+
+261
+00:25:11,240 --> 00:25:17,960
+that sort of was hard to kill. And many scientists still are distinctly uncomfortable with the notion,
+
+262
+00:25:17,960 --> 00:25:22,840
+not all of them anymore. I think our team is winning, but many people still are reluctant,
+
+263
+00:25:22,840 --> 00:25:27,160
+even if they're sophisticated and know the literature, to accept the general principle
+
+264
+00:25:27,160 --> 00:25:34,280
+that there are aging processes which can be slowed down if you consider them as a unitary
+
+265
+00:25:34,280 --> 00:25:39,880
+group of changes with a common controlling factor. And I always think that part of the debate is
+
+266
+00:25:39,880 --> 00:25:45,160
+fixating on the wrong point, right? I mean, whether or not it's a single gene or multiple
+
+267
+00:25:45,160 --> 00:25:51,320
+genes is probably less the point. The bigger point, at least for me as an outsider, is aging
+
+268
+00:25:51,320 --> 00:25:58,760
+malleable, yes or no. To me, that's the question that matters. And if prior to the 1990s, if the
+
+269
+00:25:58,760 --> 00:26:05,000
+answer was believed, no, aging is not malleable, it is what it is, then it's a very uninteresting
+
+270
+00:26:05,560 --> 00:26:10,680
+field to be in. Yeah, no, I agree with that. I think you're right on point here. I would add
+
+271
+00:26:10,680 --> 00:26:15,800
+one more fill up to that. The question everybody was asking and which I used to think was pertinent
+
+272
+00:26:15,800 --> 00:26:21,800
+is what causes aging? What is the cause of aging? And now I don't think that anymore. I think the
+
+273
+00:26:21,800 --> 00:26:25,880
+real question that we're all trying to answer or ought to be trying to answer is what is it that
+
+274
+00:26:25,880 --> 00:26:34,440
+can slow aging? My own current sort of philosophical framework is that aging is caused by an awful lot
+
+275
+00:26:34,440 --> 00:26:41,080
+of different things. Some cells die, some cells become mutant, some tissue structures get crosslinked
+
+276
+00:26:41,080 --> 00:26:47,400
+or heavy metals accumulate in a key cell. All of those are really bad for you. And as they accumulate
+
+277
+00:26:47,400 --> 00:26:53,560
+and accumulate and accumulate, you start to feel older and then more diseased. But the key point,
+
+278
+00:26:53,560 --> 00:26:58,440
+I think, is that there are biological processes that can postpone all of that stuff together
+
+279
+00:26:59,240 --> 00:27:07,320
+that can postpone it for five decades in people or almost a year in a mouse or 25 years in a chimp.
+
+280
+00:27:07,320 --> 00:27:14,600
+So I don't really care what causes aging. What I care about is what is the process that can postpone
+
+281
+00:27:14,600 --> 00:27:20,760
+all the different aspects of aging? I think once you rephrase the question in that way, you're well
+
+282
+00:27:20,760 --> 00:27:27,240
+on the way towards designing experimental paradigms to address the serious question, which is the
+
+283
+00:27:27,240 --> 00:27:32,680
+coordination and eventually the postponement of these multiple aspects of the aging process.
+
+284
+00:27:33,480 --> 00:27:39,880
+I think it's worth restating that, Rich, because that might be one of the most important teaching
+
+285
+00:27:39,880 --> 00:27:45,880
+points, I think, for anybody who thinks about science. And certainly my mentor in the lab,
+
+286
+00:27:45,880 --> 00:27:51,480
+I also studied immunology, would constantly make this point, which is if you don't ask the right
+
+287
+00:27:51,480 --> 00:27:57,800
+question, you are guaranteed to flail. You might get lucky, but you're going to flail.
+
+288
+00:27:58,360 --> 00:28:03,320
+Now, if you ask the right question, you may still fail, but you really, it's the difference
+
+289
+00:28:03,320 --> 00:28:07,320
+between starting on your own 20-yard line and the other guy's 20-yard line.
+
+290
+00:28:07,320 --> 00:28:12,840
+Yeah, I agree. And I agree. It's a really critical point. A lot of the time at an aging meeting,
+
+291
+00:28:13,480 --> 00:28:18,600
+somebody, usually someone fairly new to the field, will say, oh, well, you don't understand what
+
+292
+00:28:18,600 --> 00:28:24,120
+aging is. Let me explain to you what aging is. And everybody who's heard this line of argument
+
+293
+00:28:24,120 --> 00:28:29,160
+40 or 50 or 60 times will sigh. Sometimes we'll go out and get another cup of coffee
+
+294
+00:28:29,160 --> 00:28:33,560
+and say, well, let's talk about that at the break or at the bar after the meeting.
+
+295
+00:28:34,120 --> 00:28:39,240
+But they're wrong. The answer is you have to think about it just as you were saying. You have
+
+296
+00:28:39,240 --> 00:28:45,320
+to think about these fundamental issues. What is the best way to frame this question? And it can
+
+297
+00:28:45,320 --> 00:28:50,760
+be tricky if the world is filled with people, including myself, who are convinced we're right,
+
+298
+00:28:51,400 --> 00:28:54,840
+that you're surrounded by people who aren't right. They're wrong, but they're convinced they're
+
+299
+00:28:54,840 --> 00:29:00,680
+right. And sort of talking them into viewing the matter from another framework takes a while.
+
+300
+00:29:01,400 --> 00:29:11,640
+Let's dive into the ITP, the Interventions Testing Program, this amazing, amazing scientific
+
+301
+00:29:12,360 --> 00:29:17,800
+framework. Think of it as a program. I don't know. How do you describe it to people? I sort of think
+
+302
+00:29:17,800 --> 00:29:26,280
+of it as a gold standard by which we test single drug often, but sometimes not just single drug
+
+303
+00:29:26,280 --> 00:29:35,320
+interventions in a robust, rigorous manner. And when things pass the ITP test, we take them really
+
+304
+00:29:35,320 --> 00:29:42,680
+seriously when things fail in an ITP, even if they've succeeded elsewhere, we look at them very
+
+305
+00:29:42,680 --> 00:29:48,760
+closely. So what's the word you would use to describe the ITP to somebody on the outside?
+
+306
+00:29:48,760 --> 00:29:54,040
+Well, I agree with most of what you've said, and I'm certainly very flattered to hear you describe
+
+307
+00:29:54,040 --> 00:30:00,280
+it in that way, although I think you're being a little too optimistic and a little kind. So let me
+
+308
+00:30:00,280 --> 00:30:06,280
+sort of go back over what you said. The goal of the ITP, and we've tried our best to meet this goal,
+
+309
+00:30:06,280 --> 00:30:12,680
+is to develop a fundamentally sound way of testing one question. Does this drug extend mass lifespan?
+
+310
+00:30:12,680 --> 00:30:19,720
+And we do our best by designing the program in ways so that our answers will be reliable and to the
+
+311
+00:30:19,720 --> 00:30:26,200
+best we can, reproducible and believable. For example, we use an awful lot of mice because
+
+312
+00:30:26,200 --> 00:30:32,120
+that gives us a lot of statistical power. We want to be sure that we will have enough mice present
+
+313
+00:30:32,120 --> 00:30:39,400
+that if a particular drug extends lifespan by 8 or 10%, we'll pick it up almost all the time, 80%
+
+314
+00:30:39,400 --> 00:30:45,480
+and 90% of the time. That's sort of an ambitious thing to do. To give you an example, Jay Olshansky
+
+315
+00:30:45,480 --> 00:30:50,760
+and Bruce Karnes and their colleagues demonstrated years ago that if you abolish cancer in people,
+
+316
+00:30:50,760 --> 00:30:57,720
+nobody ever gets cancer again, human lifespan goes up by only 3%. So the drugs that we are
+
+317
+00:30:57,720 --> 00:31:03,000
+interested in by designing our program are drugs that are designed to win at our program. You've
+
+318
+00:31:03,000 --> 00:31:08,120
+got to be at least three times better than a complete cog quest of cancer. I'd like to come
+
+319
+00:31:08,120 --> 00:31:13,240
+back to Jay's methodology on that because I've never fully understood that calculation because
+
+320
+00:31:13,240 --> 00:31:18,120
+I know he's also made the claim that if you completely abolish atherosclerosis, it's about
+
+321
+00:31:18,120 --> 00:31:25,160
+a 3% bump and if it's cancer and atherosclerosis, it's like a 7% bump. If you got rid of cancer,
+
+322
+00:31:25,160 --> 00:31:31,560
+heart disease, stroke and diabetes, it's about an 18% bump. We'll revisit that. But let's go back
+
+323
+00:31:31,560 --> 00:31:37,000
+to these principles because there really are four remarkable principles of the ITP and that's what
+
+324
+00:31:37,000 --> 00:31:43,480
+it is that for me personally gets me excited. You alluded to one already, which is from a
+
+325
+00:31:43,480 --> 00:31:53,000
+statistical standpoint, you power to 80% for an 8 to 10% detection rate. And to put that in English,
+
+326
+00:31:53,000 --> 00:31:58,920
+it means you need an awful lot of animals. Yes, each year each of the three sites will have 50
+
+327
+00:31:58,920 --> 00:32:07,240
+males and 50 females on each drug and also 100 male controls and 100 female controls. We double
+
+328
+00:32:07,240 --> 00:32:13,240
+the number of controls because it gives us a lot better statistical power at relatively little cost
+
+329
+00:32:13,240 --> 00:32:18,600
+then we pull all the data from all three sites together for our analysis. And then you've alluded
+
+330
+00:32:18,600 --> 00:32:24,120
+to now the second feature of the ITP, which is they are run in parallel at three sites.
+
+331
+00:32:24,120 --> 00:32:29,880
+So the Miller lab is doing this at Michigan, the Strong lab is doing this in San Antonio at UT,
+
+332
+00:32:29,880 --> 00:32:36,040
+and Harrison is doing this at Jackson Labs, correct? Yeah, that's right. Okay, the next point
+
+333
+00:32:36,040 --> 00:32:42,360
+that makes this pretty special is you are using genetically heterogeneous mice. These are not
+
+334
+00:32:42,360 --> 00:32:50,120
+homogeneous. So explain to folks why using these genetically heterogeneous mice is an important
+
+335
+00:32:50,120 --> 00:32:54,840
+feature of the ITPs. Yeah, I will. Let me just say one more point about that second point you raised.
+
+336
+00:32:54,840 --> 00:33:00,200
+Doing it at all three sites not only gives us power, but it also tells us we're getting an effect that
+
+337
+00:33:00,200 --> 00:33:05,080
+is reproducible at three sites. If for instance, and we've certainly seen this, we get a drug that
+
+338
+00:33:05,080 --> 00:33:10,440
+does just terrific at one of the sites, but not at all at the other two, something may have gone
+
+339
+00:33:10,440 --> 00:33:14,920
+wrong. That's right. That's a methodologic issue right there potentially. Yeah, if you get a drug
+
+340
+00:33:14,920 --> 00:33:19,720
+that works pretty darn well at all three sites, people have very good reason for believing it
+
+341
+00:33:19,720 --> 00:33:25,000
+could work at their site too. That sort of instantaneous reproducibility is a major reason
+
+342
+00:33:25,000 --> 00:33:30,360
+for doing it at three sites. The literature is filled with reports of a drug that did something
+
+343
+00:33:30,360 --> 00:33:36,840
+good to a mouse at one site, and then no one wants to wait four years to test it out. Doing
+
+344
+00:33:36,840 --> 00:33:42,840
+three tests at the same time gets us around that. Then the question you asked is why use
+
+345
+00:33:42,840 --> 00:33:49,800
+the genetically heterogeneous mice? About 90% of the work in aging with mice and actually of medical
+
+346
+00:33:49,800 --> 00:33:56,680
+research with mice uses a single inbred genotype where every mouse is the same. There's no variation
+
+347
+00:33:56,680 --> 00:34:01,880
+from mouse to mouse in their genetics. In addition, it's inbred and everybody knows if you have a
+
+348
+00:34:01,880 --> 00:34:07,080
+choice, you'd rather not be inbred. That's why we don't allow people to get married to their
+
+349
+00:34:07,080 --> 00:34:13,640
+brothers and sisters because it tends to produce weak offspring. Every one of the inbred strains
+
+350
+00:34:13,640 --> 00:34:18,840
+has its own set of bizarre peculiarities. Many of them are blind by the time they're growing up.
+
+351
+00:34:18,840 --> 00:34:24,600
+Most of them are deaf, etc., etc. What we wanted to do in developing a genetically heterogeneous
+
+352
+00:34:24,600 --> 00:34:30,840
+stock was avoid that. We did not want to trick ourselves into picking a drug that only worked
+
+353
+00:34:30,840 --> 00:34:36,680
+on black six mice. Conversely, we did not want to miss a really good drug that just happened not
+
+354
+00:34:36,680 --> 00:34:44,200
+to work on black six mice. What we do is we obtain from the Jackson Laboratories two different kinds
+
+355
+00:34:44,200 --> 00:34:49,640
+of mice which have represent four different grandparents, inbred grandparents. When we cross
+
+356
+00:34:49,640 --> 00:34:55,160
+them together, just like when your mother and father produce offspring, each one of those
+
+357
+00:34:55,160 --> 00:35:00,920
+children is genetically unique, but each one will share half of its genes with all the others
+
+358
+00:35:00,920 --> 00:35:06,440
+at random, a random half. All of the mice we've produced for the IDP, of which there are now more
+
+359
+00:35:06,440 --> 00:35:14,520
+than 20,000, have that in common. No two mice are ever the same, but any two mice share half their
+
+360
+00:35:14,520 --> 00:35:20,040
+genes. The other advantage of doing it this way is that the Jackson Labs, sort of the gold standard
+
+361
+00:35:20,040 --> 00:35:25,640
+in inbred stocks, they're black six this year and they're black six 10 years from now and they're
+
+362
+00:35:25,640 --> 00:35:33,480
+black six 10 years ago, are as close to the identical as science can guarantee. What that means is that
+
+363
+00:35:33,480 --> 00:35:40,120
+the four-way cross mice we use, the Het 3 mice, are the same year after year after year. We can make
+
+364
+00:35:40,120 --> 00:35:45,560
+100 or 1000 or 10,000 of them with the same characteristics. Anyone else, anywhere in the
+
+365
+00:35:45,560 --> 00:35:51,320
+world that wants to make them, can do so very inexpensively and be sure that their population
+
+366
+00:35:51,320 --> 00:35:56,040
+characteristics, the average numbers of mice that have this gene or this pair of genes or this
+
+367
+00:35:56,040 --> 00:36:02,600
+triplet of genes, will be the same as the ones that we are using. It gives a sort of reproducible
+
+368
+00:36:02,600 --> 00:36:11,400
+heterogeneity, which I wish almost everyone would adopt. I think that's the way to do science and
+
+369
+00:36:11,880 --> 00:36:17,400
+people who are at the origins of the IDP agreed with me about that. That's why the IDP does it
+
+370
+00:36:17,400 --> 00:36:26,120
+that way. Do you have a sense of what fraction of research is done in mice utilizing genetically
+
+371
+00:36:26,120 --> 00:36:32,120
+heterogeneous mice in the fashion you describe? Are we talking less than 10%? Oh yeah, much less
+
+372
+00:36:32,120 --> 00:36:37,400
+than 10%. The reason is that when people want to work in aging, they call the NIA, the National
+
+373
+00:36:37,400 --> 00:36:42,120
+Aging Institute, and they say, can I please have some old mice? And the NIA does not have
+
+374
+00:36:42,120 --> 00:36:48,840
+genetically heterogeneous mice. They had them for, I begged and pleaded and kicked and screamed,
+
+375
+00:36:48,840 --> 00:36:54,360
+as did some colleagues. And they set up a colony of genetically heterogeneous mice. And after three
+
+376
+00:36:54,360 --> 00:36:58,120
+or four years, they were not receiving many requests. Everybody was saying, I want black
+
+377
+00:36:58,120 --> 00:37:05,000
+six mice. My scientific parents use black six mice and everybody always uses black six mice. I need
+
+378
+00:37:05,000 --> 00:37:12,440
+black six mice. So the NIA, for lack of demand, folded up the colony. And now that I think largely
+
+379
+00:37:12,440 --> 00:37:19,320
+because the IDP people are beginning to realize the folly of using black six mice and the good
+
+380
+00:37:19,320 --> 00:37:25,480
+reasons for using genetically heterogeneous mice. And the NIA keeps getting a sprinkling of phone
+
+381
+00:37:25,480 --> 00:37:30,120
+calls every now and then saying, please, please can you carry these genetically heterogeneous mice?
+
+382
+00:37:30,840 --> 00:37:35,080
+But it's momentum. They have contracts with their mouse producers and it would take
+
+383
+00:37:35,640 --> 00:37:42,120
+at least Richard Hodes, the director of the NIA, at two or three or four of his trusted associates
+
+384
+00:37:42,120 --> 00:37:48,200
+to say, oh yeah, we should do that. And so far they haven't. All right. So there's one more feature
+
+385
+00:37:48,200 --> 00:37:54,360
+of the IDP, which is that basically anybody can make a suggestion for a molecule, right? Yeah.
+
+386
+00:37:54,360 --> 00:38:02,520
+So what was the first candidate molecule in terms of the first pool that was suggested?
+
+387
+00:38:02,520 --> 00:38:06,600
+I don't know. I have to go back and check my notes. And the reason I'm a little foggy on this
+
+388
+00:38:06,600 --> 00:38:12,120
+is that actually we had a sort of a proto embryonic IDP at the University of Michigan only,
+
+389
+00:38:12,120 --> 00:38:18,600
+a single site for about two years. At that time we had a Nathan Schock Center funded by NIA. And
+
+390
+00:38:18,600 --> 00:38:24,040
+I devoted my chunk of the nation's Schock Center to testing four or five or six drugs over a period
+
+391
+00:38:24,280 --> 00:38:29,240
+of two years. None of them worked. And then the IDP got formally funded. It became a
+
+392
+00:38:29,240 --> 00:38:34,280
+multi-institutional program. That first year there were four suggestions that we accepted.
+
+393
+00:38:34,280 --> 00:38:41,320
+One of them was aspirin. One of them was a molecule called NDGA, which is noradihydro
+
+394
+00:38:41,320 --> 00:38:45,560
+guyeretic acid, which actually does work. It's worked three times in a row, although it works
+
+395
+00:38:45,560 --> 00:38:51,720
+only in males. One of them was nitrofloroboprofen. And I forgot the fourth. I'd have to check my
+
+396
+00:38:51,720 --> 00:38:57,160
+notes. But those were the first four that were accepted for the initial round of the IDP.
+
+397
+00:38:57,160 --> 00:39:02,840
+Now aspirin's interesting because it initially showed that it worked in males, but this is one
+
+398
+00:39:02,840 --> 00:39:07,640
+of the examples of something that didn't replicate after the IDP. Is that correct?
+
+399
+00:39:07,640 --> 00:39:13,960
+Yeah, it was not actually a formal attempt at replication. The initial dose of aspirin was very
+
+400
+00:39:13,960 --> 00:39:19,400
+low. That is one one hundredth of the dose a person would take, even if adjusted for mouse body weight.
+
+401
+00:39:20,200 --> 00:39:24,600
+And it gave only an eight or 10% increase, and it was in males only.
+
+402
+00:39:24,600 --> 00:39:26,600
+Why the decision to use such a low dose?
+
+403
+00:39:27,800 --> 00:39:30,920
+The sponsor, that is the person who says, please use this drug,
+
+404
+00:39:31,480 --> 00:39:37,880
+we take his or her suggestion very seriously. And the sponsor of this was a guy named Christian
+
+405
+00:39:37,880 --> 00:39:44,360
+von Leuvenberg, who's now at the University of Florida. And he gave a strong rationale for why
+
+406
+00:39:44,360 --> 00:39:49,640
+he thought this dose was appropriate, and we accepted his suggestion. And it seemed to be a
+
+407
+00:39:49,640 --> 00:39:54,440
+fairly good suggestion in the sense that it worked. But then several years later, we said,
+
+408
+00:39:54,440 --> 00:39:58,440
+maybe it would have worked even better if we'd used a higher dose. Maybe it would have worked
+
+409
+00:39:58,440 --> 00:40:05,320
+even better, maybe even in females, if we used a dose that approximates the sort of 83 milligrams
+
+410
+00:40:05,320 --> 00:40:09,800
+a day thing that I used to take to prevent heart attacks, that a lot of people take to prevent
+
+411
+00:40:09,800 --> 00:40:16,680
+heart attacks. So we tried it at two doses higher than the one we had originally evaluated,
+
+412
+00:40:16,680 --> 00:40:23,240
+and it did not extend longevity. So it was not an exact replication, it was a replication at
+
+413
+00:40:23,240 --> 00:40:30,200
+higher dose. It succeeded the first time, sort of, it did not succeed the second time. And by
+
+414
+00:40:30,200 --> 00:40:34,600
+that point, we had enough things that really worked great, that we weren't about to devote
+
+415
+00:40:35,400 --> 00:40:41,240
+additional time and energy to trying intermediate doses or something like that. To give you a sense
+
+416
+00:40:41,240 --> 00:40:48,920
+of the budgetary commitment, the total program budget each year, in direct costs, is about a
+
+417
+00:40:48,920 --> 00:40:56,120
+million bucks. So if we test six drugs a year, something like that, $3 million divided by six,
+
+418
+00:40:56,120 --> 00:41:02,760
+about a half a million buck investment for each drug accepted for an initial test into the program,
+
+419
+00:41:03,480 --> 00:41:08,760
+crudely speaking. So we have enough money now, because the NIA has been extremely generous to
+
+420
+00:41:08,760 --> 00:41:15,000
+us, that we can test five or six or seven drugs each year for the first time, and also go back
+
+421
+00:41:15,000 --> 00:41:20,760
+and recheck one or two of these a year. But we can't go much above that without running out of
+
+422
+00:41:20,760 --> 00:41:27,240
+money. So if we were to decide to triasperate a few more doses, we'd be eliminating from our
+
+423
+00:41:27,240 --> 00:41:32,520
+program some other drugs that have never been tested, but look really promising. So we make
+
+424
+00:41:32,520 --> 00:41:38,360
+that decision each year as a group with the help of five other scientists who are not part of the
+
+425
+00:41:38,360 --> 00:41:44,440
+ITP, but give us advice on what drugs to pick. Is part of your decision to include a drug or
+
+426
+00:41:44,440 --> 00:41:52,040
+not include a drug at all based on clinical data in humans? Oh, yeah, sure. I mean, we know that
+
+427
+00:41:52,040 --> 00:41:56,520
+mice are not humans, and the things that work in mice might not work in humans, and vice versa.
+
+428
+00:41:56,600 --> 00:42:03,560
+But if someone says, see, this drug shows potential for helping to solve, prevent cancer in humans,
+
+429
+00:42:03,560 --> 00:42:10,520
+or to prevent some aspects of neurological decline in humans, that's very strong argument
+
+430
+00:42:10,520 --> 00:42:16,280
+as to why it might well be worth testing in mice. Testing a drug in humans with lifespan as an
+
+431
+00:42:16,280 --> 00:42:24,360
+endpoint is almost hopelessly slow and almost hopelessly expensive. The ideal animal for making
+
+432
+00:42:24,360 --> 00:42:30,360
+a test of that is the mouse. So whenever we have a suggestion, we consider a wide range of different
+
+433
+00:42:30,360 --> 00:42:36,840
+kinds of evidence, and clinical evidence about a health effect in people can be given a very high
+
+434
+00:42:36,840 --> 00:42:44,120
+weight. In addition, even if a drug is used in humans for something that's not arguably unrelated
+
+435
+00:42:44,120 --> 00:42:49,080
+to the aging process, the fact that it's FDA approved also is a big selling point because
+
+436
+00:42:49,080 --> 00:42:54,920
+if one of our drugs works in mice, and it's already FDA approved, then the barriers towards
+
+437
+00:42:54,920 --> 00:43:03,000
+evaluating it in human clinical situations become much easier to get over because of the safety
+
+438
+00:43:03,000 --> 00:43:06,840
+tests that have already gone into obtaining FDA approval for some other indication, like
+
+439
+00:43:06,840 --> 00:43:11,560
+metformin, for instance. Yeah, we'll come to metformin because there's a few drugs on the
+
+440
+00:43:11,560 --> 00:43:15,640
+ITP hit list. I want to really spend some time on metformin is one of them, of course,
+
+441
+00:43:15,640 --> 00:43:22,280
+rapamycin another. But I'm curious, like using aspirin as an example, if you were today going
+
+442
+00:43:22,280 --> 00:43:29,160
+to study aspirin for the first time, would you be swayed by the fact that the evidence for use of
+
+443
+00:43:29,160 --> 00:43:34,440
+aspirin to prevent cardiovascular disease is quite weak? Or would you chalk that up to, hey,
+
+444
+00:43:34,440 --> 00:43:40,360
+maybe for that indication it is, but nobody's really evaluated all cause mortality over a long
+
+445
+00:43:40,360 --> 00:43:44,520
+enough period of time in humans, we think it's still worth studying. You're thinking about this
+
+446
+00:43:44,760 --> 00:43:48,760
+in a very good sophisticated way, you could join our compound review committee.
+
+447
+00:43:49,480 --> 00:43:55,480
+So all of these points can and do come up in the discussion of which drugs to give highest
+
+448
+00:43:55,480 --> 00:44:01,560
+priority to the fact that something might or might not modulate longevity or cause mortality
+
+449
+00:44:01,560 --> 00:44:07,960
+in people is worth knowing. But there are lots of things that test interesting ideas in mice
+
+450
+00:44:08,600 --> 00:44:15,000
+that may not be of primary relevance in the human clinical setting. Aspirin, for instance,
+
+451
+00:44:15,000 --> 00:44:19,160
+is a famous anti-inflammatory and there are lots of good reasons, which I'm sure you know,
+
+452
+00:44:19,160 --> 00:44:23,400
+suggesting inflammation as may go up as you get older and it's probably bad for you and may
+
+453
+00:44:23,400 --> 00:44:27,640
+contribute to lots of diseases. So it was a very strong argument for saying, let's test some
+
+454
+00:44:27,640 --> 00:44:34,440
+anti-inflammatory drugs in the mice. We're not testing aspirin in mice to prevent heart attacks,
+
+455
+00:44:34,440 --> 00:44:39,720
+mice don't get heart attacks, but the notion that it's a strong anti-inflammatory and that
+
+456
+00:44:39,720 --> 00:44:45,560
+the processes of inflammation contribute to aging in both species. That makes some sense.
+
+457
+00:44:45,560 --> 00:44:49,800
+And that's a good reason to test it. Yeah. Let's move to your second cohort here.
+
+458
+00:44:49,800 --> 00:44:55,800
+Cause this is where you sort of hit one out of the park, right? So in cohort two in 2005,
+
+459
+00:44:55,800 --> 00:45:03,240
+started in 2005, Rapa Mison is one of the candidate drugs. Who brought that to the committee?
+
+460
+00:45:03,240 --> 00:45:09,480
+Dave Sharp. Dave Sharp was a colleague of Randy Strong's at Texas. He's an expert on Tor,
+
+461
+00:45:09,480 --> 00:45:16,120
+the target of Rapa Mison. He was aware of invertebrate data in worms and in flies,
+
+462
+00:45:16,120 --> 00:45:21,080
+saying that if you had a mutant that inhibited the function of the enzyme,
+
+463
+00:45:22,360 --> 00:45:27,960
+that led to longevity increases in these two invertebrate species. And so he said,
+
+464
+00:45:27,960 --> 00:45:31,480
+look, I've got a drug that can inhibit the enzyme. Why don't you give the drug to mice?
+
+465
+00:45:32,120 --> 00:45:38,280
+Rapa Mison is that drug and it's actually safe enough that you can use it in certain high risk
+
+466
+00:45:38,280 --> 00:45:45,720
+situations in people. So Dave Sharp suggested it and we tried it. Randy Strong noticed first of all,
+
+467
+00:45:45,720 --> 00:45:53,240
+that when you gave it to mice in the usual form, 90, 95% of it was eaten up in the stomach. So
+
+468
+00:45:53,240 --> 00:45:59,640
+Randy and Dave and their collaborators then spent a year trying to successfully trying to reformulate
+
+469
+00:45:59,720 --> 00:46:04,760
+the Rapa Mison by coating it in a kind of a shell that would get it through the stomach into the
+
+470
+00:46:04,760 --> 00:46:09,800
+small intestine where it would be absorbed. That's why for the first time around, instead of starting
+
+471
+00:46:09,800 --> 00:46:15,000
+at four months, which was our goal, we could only start at 19 months of age or 20 months of age. It
+
+472
+00:46:15,000 --> 00:46:21,240
+took us that long, took Randy that long to get the drug into a form which was effective when given by
+
+473
+00:46:21,240 --> 00:46:28,040
+mouth. But yes, then that was the first drug that gave a very strong signal in both males and females.
+
+474
+00:46:28,040 --> 00:46:33,160
+And it's still the only drug that we've tested so far which gives a very strong signal in females.
+
+475
+00:46:33,160 --> 00:46:40,120
+We have two others that work repeatedly in females, but they're not as strong in terms of the size of
+
+476
+00:46:40,120 --> 00:46:46,200
+the effect as Rapa Mison in females. The other thing that's really noteworthy about this is what
+
+477
+00:46:46,200 --> 00:46:53,080
+you just alluded to, which is based on the need to reformulate Rapa Mison to improve its bioavailability.
+
+478
+00:46:54,040 --> 00:47:00,280
+Without planning it this way, effectively we're giving Rapa Mison to 60-year-old mice.
+
+479
+00:47:01,160 --> 00:47:05,800
+Yep, 20-month-old mice, which are sort of roughly the equivalent of a 60-year-old person.
+
+480
+00:47:05,800 --> 00:47:13,720
+So this is actually very interesting because the gold standard intervention for treating mice,
+
+481
+00:47:13,720 --> 00:47:20,520
+which is caloric restriction, typically only works when initiated earlier in life. And so typically
+
+482
+00:47:20,520 --> 00:47:26,760
+when you wait until a mouse is two years old to begin calorically restricting it, it's too little,
+
+483
+00:47:26,760 --> 00:47:32,360
+too late. That's right. Richard Weindrich found that it works great, and calorically restriction
+
+484
+00:47:32,360 --> 00:47:36,840
+works great at sort of four or five months of age, 12 to 14 months of age. It still works,
+
+485
+00:47:36,840 --> 00:47:42,600
+but not so great. And then Weindrich found that if you start as late as 19 or 20 months in his hand,
+
+486
+00:47:42,600 --> 00:47:48,840
+it failed, just as you were saying. So how do you put the Rapa Mison finding in...
+
+487
+00:47:48,840 --> 00:47:55,160
+So one way that you can think about this, I guess, is to think of it as here's a 50-year-old person,
+
+488
+00:47:55,880 --> 00:48:03,320
+how many years do they have left in life? And if you do nothing, we would say the average 50-year-old
+
+489
+00:48:03,320 --> 00:48:08,360
+person has 30 years left. Yes, is that about the right number? If she's a white woman, yes.
+
+490
+00:48:09,000 --> 00:48:11,800
+And a man wouldn't be too far off from that, right?
+
+491
+00:48:11,800 --> 00:48:14,600
+Five years less, but yes, that's right. That's generally correct.
+
+492
+00:48:15,240 --> 00:48:20,440
+So what did the Rapa Mison data suggest if they were to translate to humans, which is a big if?
+
+493
+00:48:21,160 --> 00:48:26,760
+The point you're making is exactly on point. I bet that it was a waste of time and money
+
+494
+00:48:26,760 --> 00:48:32,120
+to give Rapa Mison to 20-month-old mice, to middle-aged mice. I said, this can't possibly work. Look,
+
+495
+00:48:32,120 --> 00:48:36,440
+calorically restriction doesn't work at this age, just as you were saying. And so it's a waste of
+
+496
+00:48:36,440 --> 00:48:41,640
+time. And somebody said, yeah, we've already got the mice. We've already paid for them. Let's try
+
+497
+00:48:41,640 --> 00:48:46,360
+it. They were right, of course, and I was completely wrong. And that's a big surprise.
+
+498
+00:48:46,360 --> 00:48:50,600
+That, I think, is the reason why the paper was attractive enough to be published in nature.
+
+499
+00:48:50,600 --> 00:48:56,520
+The notion is, and here this becomes hand waving because we don't have a molecular explanation,
+
+500
+00:48:56,520 --> 00:49:02,360
+but the notion is that there are some processes really bad for you when you're a 20-month-old
+
+501
+00:49:02,360 --> 00:49:09,400
+mouse or 60-65-year-old person that are still not irreversible, that can be reversed, and that that
+
+502
+00:49:09,400 --> 00:49:17,880
+reversing can be dependent upon inhibition of Tor signals. So giving Rapa Mison to a 20-month-old
+
+503
+00:49:17,880 --> 00:49:23,320
+mouse extends longevity dramatically, just as dramatically as if you had started the Rapa Mison
+
+504
+00:49:23,320 --> 00:49:30,520
+at a much younger age. That's a fundamental, I think, reformulation of how we thought aging worked
+
+505
+00:49:30,520 --> 00:49:35,800
+and independent of the notion that, say, you can take a drug and it can make you live a long time,
+
+506
+00:49:35,800 --> 00:49:41,000
+the observation that some, though not all of the drugs that work for us, are fully effective when
+
+507
+00:49:41,000 --> 00:49:47,320
+started late in life suggests two things. One is the theoretical thing. Some things are going on
+
+508
+00:49:47,320 --> 00:49:52,120
+late in life, which are still reversible and have a major effect on your health. And secondly, of
+
+509
+00:49:52,120 --> 00:49:57,240
+course, if you have any friends who are 50 and 60 and 70-year-old, and they would like to take a drug
+
+510
+00:49:57,240 --> 00:50:03,480
+that makes them live longer, that's fairly good news. So let's explain a slight semantic point
+
+511
+00:50:03,480 --> 00:50:07,560
+that's going to be interesting or, I guess, relevant as we kind of go through these things.
+
+512
+00:50:07,560 --> 00:50:12,760
+Can you explain to folks the difference between increasing median survival and maximum survival?
+
+513
+00:50:13,400 --> 00:50:18,440
+Like, how do you think about it? What moves the needle for you when you're thinking about something?
+
+514
+00:50:18,440 --> 00:50:22,200
+Yeah, I mean, just technically, median survival is the age at which half of them have died and
+
+515
+00:50:22,200 --> 00:50:28,920
+half of them haven't died yet. Okay. Maximum survival is a folk notion. It's basically how
+
+516
+00:50:28,920 --> 00:50:34,440
+long is the oldest mouse or person who's ever lived. And that's a value with very limited
+
+517
+00:50:34,440 --> 00:50:40,040
+statistical appeal because the oldest person in a group of 100 people is not going to live as long
+
+518
+00:50:40,040 --> 00:50:46,360
+as the oldest person in a group of a million people or 100 million people or 10 billion people. So
+
+519
+00:50:46,360 --> 00:50:53,160
+the statistic that is probably intuitive and a best substitute for that is what is the age at
+
+520
+00:50:53,240 --> 00:51:00,360
+which 90% of the people have lived. We crudely refer to that as maximum lifespan, though it's
+
+521
+00:51:00,360 --> 00:51:05,880
+really not maximum lifespan. The reason it's an important concept in terms of understanding
+
+522
+00:51:06,520 --> 00:51:12,920
+how to interpret survival statistics and survival curves is that if you happen to have, let's say,
+
+523
+00:51:12,920 --> 00:51:17,880
+a group of animals, many of which are dying, let's talk about in terms of human years,
+
+524
+00:51:17,880 --> 00:51:22,840
+most of them are dying in their 30s and 40s and 50s or something, and you have something
+
+525
+00:51:22,840 --> 00:51:30,280
+that extends their median lifespan up to 60. You can see as a public health benefit, that's why a
+
+526
+00:51:30,280 --> 00:51:35,000
+lot of people get immunized and don't want to have their kids smoke, et cetera, but it hasn't worked
+
+527
+00:51:35,000 --> 00:51:41,480
+on the aging process. It hasn't in particular had any real effect on how much longer you're going
+
+528
+00:51:41,480 --> 00:51:50,360
+to live when you're 70. But if you had a drug or a diet or some intervention that authentically
+
+529
+00:51:50,360 --> 00:51:57,960
+slowed the aging process, then it would extend expectancy of additional healthy years of life,
+
+530
+00:51:57,960 --> 00:52:04,200
+even for those who are already quite old in their 50s, 60s, 70s, and 80s, and that will modify the
+
+531
+00:52:04,200 --> 00:52:11,880
+age of death at the 90th percentile. So drugs that only extend the median and don't affect
+
+532
+00:52:12,520 --> 00:52:20,760
+the age of death of the longest live, five or 10%, they might be interesting in some ways,
+
+533
+00:52:21,400 --> 00:52:27,720
+but they are considered less plausible as candidates for anti-aging drugs. If you have
+
+534
+00:52:27,720 --> 00:52:33,560
+a drug that's authentically slowing aging, one of the things you most want to see is that the very
+
+535
+00:52:33,560 --> 00:52:39,240
+oldest animals in this drug treated group are living longer than the very oldest animals
+
+536
+00:52:39,240 --> 00:52:44,200
+in the untreated control group. And so when you look at the rapamycin data, they were very
+
+537
+00:52:44,200 --> 00:52:50,360
+interesting. The median extension, which we've already said, not as interesting. That's just
+
+538
+00:52:50,360 --> 00:52:57,240
+saying what's the age at which half the animals have died. And the males went up 20%. In the
+
+539
+00:52:57,240 --> 00:53:02,280
+females, it went up 13%. These are huge numbers. I think you may have the numbers backwards. In
+
+540
+00:53:02,280 --> 00:53:08,120
+the females, the median goes up more than in the males. Oh, I thought that was for the 90th
+
+541
+00:53:08,120 --> 00:53:12,120
+percentile. It went up more in the females. Well, for both of them, it's a technical
+
+542
+00:53:13,000 --> 00:53:18,040
+artifact because when you give the same dose of rapamycin in chow, the blood levels in the females
+
+543
+00:53:18,040 --> 00:53:22,920
+are three times higher than the males. So we don't know why. I'd like to come back to that in a second.
+
+544
+00:53:22,920 --> 00:53:27,400
+The numbers I've always remembered are actually not the median ones. I could be out to lunch on
+
+545
+00:53:27,400 --> 00:53:33,400
+those. The ones I've had ingrained in my head and maybe I hope I have them right is the P90
+
+546
+00:53:34,040 --> 00:53:41,160
+lifespan extension, which in males was 9% and females was 14%. Do those sound right to you?
+
+547
+00:53:41,160 --> 00:53:43,560
+I'd have to look it up, but that sounds plausible. Yep.
+
+548
+00:53:43,560 --> 00:53:50,600
+Actually, that's a big deal because that's total lifespan, isn't it? That's not incremental above
+
+549
+00:53:50,600 --> 00:53:54,840
+the point where they are. We don't cheat. We don't calculate incremental lifespan.
+
+550
+00:53:54,840 --> 00:53:59,720
+So let's explain to people what that means because these are huge numbers.
+
+551
+00:54:00,440 --> 00:54:00,840
+Yeah.
+
+552
+00:54:00,840 --> 00:54:03,720
+So explain to people why that basically translates to
+
+553
+00:54:05,400 --> 00:54:14,520
+25% more life once you've reached midlife versus 9% or 14% more life. This is a subtle way of doing
+
+554
+00:54:14,520 --> 00:54:19,800
+the math more rigorously. Yeah. The editors of nature insisted that we do that calculation.
+
+555
+00:54:20,360 --> 00:54:25,960
+That is the number of additional years or months of life after you give the drug. They thought that
+
+556
+00:54:25,960 --> 00:54:32,360
+would sex up the paper and kicking and screaming, we put it into the paper. But it's not, I think,
+
+557
+00:54:32,360 --> 00:54:37,640
+terribly informative. There's an easy to imagine thought experiment. You've got someone on a
+
+558
+00:54:37,640 --> 00:54:44,280
+ventilator. He or she is on death's doorstep. They're going to die today. And you leave them
+
+559
+00:54:44,280 --> 00:54:48,600
+on the ventilator for one more day and then you give up and they die. So you've extended,
+
+560
+00:54:48,600 --> 00:54:54,920
+you've doubled their lifespan, right? You've gone from one day to two days. That's 100% increase
+
+561
+00:54:54,920 --> 00:55:01,160
+in lifespan. So when I put it that way, you can see that that's not a very useful statistic to
+
+562
+00:55:01,160 --> 00:55:06,520
+calculate. If you're an insurance agent, it's nice to know at the time you sell the insurance policy,
+
+563
+00:55:06,520 --> 00:55:11,880
+what the life extension will be from the time the person buys the insurance policy. But in terms of
+
+564
+00:55:11,880 --> 00:55:19,800
+biology and pathobiology and being able to compare lab A to lab B, drug A to drug B, I think keeping
+
+565
+00:55:19,800 --> 00:55:26,040
+it on the level of what is the change in the overall median is important. There's one exception
+
+566
+00:55:26,040 --> 00:55:31,560
+to that. And that's the fairly obvious one. If you start a drug really, really late, you know,
+
+567
+00:55:31,560 --> 00:55:38,280
+if you start a drug at an age when 35 or 40% of the animals have already died, you're asking a lot
+
+568
+00:55:39,160 --> 00:55:45,320
+of that drug to extend the median lifespan. So if you start rabamycin at 19 or 20 months of age,
+
+569
+00:55:45,320 --> 00:55:49,960
+in males at 20 months of age, 15 or 20% of the mice have already died, depending on what site
+
+570
+00:55:49,960 --> 00:55:55,960
+you're talking about. So if you get any extension of the median lifespan, it sort of had to start
+
+571
+00:55:55,960 --> 00:56:03,640
+working immediately. Nobody could die for the next few months. That's the situation where the
+
+572
+00:56:03,640 --> 00:56:10,600
+statistics on how many of them make it to the 90th percentile become more informative than a percentage
+
+573
+00:56:10,600 --> 00:56:18,200
+change in median. And to my eye, rapamycin is the only drug you've started at 20 months.
+
+574
+00:56:18,200 --> 00:56:23,320
+I know you repeated it once at 20, but that's a big ask of a drug, right?
+
+575
+00:56:24,040 --> 00:56:27,400
+Well, I'm pleased that it worked. It's not the only drug that works.
+
+576
+00:56:27,400 --> 00:56:29,560
+Well, I'm saying starting at 20 months of life.
+
+577
+00:56:29,560 --> 00:56:33,720
+I know. And that's what I'm talking about. Yeah, we've used Acarbose starting at 20 months of age.
+
+578
+00:56:33,720 --> 00:56:36,920
+Well, you did. Okay. I thought Acarbose started earlier. Okay.
+
+579
+00:56:36,920 --> 00:56:41,800
+Yes, you're right. The initial paper was Acarbose at four or five months. Yeah. But then we repeated
+
+580
+00:56:41,800 --> 00:56:47,400
+it and that's published too, where we started Acarbose at, I believe, 20 months of age.
+
+581
+00:56:47,400 --> 00:56:54,200
+And it worked half as well as Acarbose started in youth. That is, we got a statistically significant
+
+582
+00:56:54,200 --> 00:57:00,440
+change in the maximum lifespan by our statistical procedure in both sexes and a statistically
+
+583
+00:57:00,440 --> 00:57:05,880
+significant change in the males, even in the median lifespan. In the females, the p-value
+
+584
+00:57:05,880 --> 00:57:14,680
+for median was 0.07 if memory serves. So Acarbose started in late middle age, is effective in both
+
+585
+00:57:14,680 --> 00:57:22,840
+sexes, not as effective as if you started in youth. And by the time this podcast airs, our paper on
+
+586
+00:57:22,840 --> 00:57:31,000
+17 alpha estradiol late start will have appeared. And 17 alpha estradiol, which only works in males,
+
+587
+00:57:31,000 --> 00:57:37,560
+the new paper just now at the last stages of revision, show that if you started at 16 months
+
+588
+00:57:37,560 --> 00:57:43,880
+of age in males, it's just as good as if you started at an earlier age. Even if you started
+
+589
+00:57:43,880 --> 00:57:50,280
+as late as 20 months of age, it works great. Just as much, it's not statistically distinguishable
+
+590
+00:57:50,280 --> 00:57:57,480
+from the 16 months start. So that means of the drugs that we've tested for late start,
+
+591
+00:57:58,040 --> 00:58:05,400
+rapamycin works perfectly, Acarbose works about half, half as well as an early start,
+
+592
+00:58:05,400 --> 00:58:12,360
+and 17 alpha estradiol seems to work just as well in late middle age. A former student of mine,
+
+593
+00:58:12,360 --> 00:58:18,520
+now an independent researcher named Mike Garrett, together with his colleagues Charlene Day and John
+
+594
+00:58:18,520 --> 00:58:23,720
+Herrera have already published a paper using these same mice treated with 17 alpha estradiol
+
+595
+00:58:24,600 --> 00:58:30,360
+where they started at 16 months or 20 months of age. And they found that the muscles got stronger,
+
+596
+00:58:30,360 --> 00:58:36,760
+their glucose tolerance got better, muscle structure changed for the better. So they published
+
+597
+00:58:36,760 --> 00:58:42,360
+that before we could publish our lifespan data, but it's quite consistent. Even late start for 17
+
+598
+00:58:42,360 --> 00:58:47,640
+alpha estradiol seems to have highly beneficial effects of just as good and it's something even
+
+599
+00:58:47,640 --> 00:58:51,560
+a little better than if you start in earlier ages. Now, I definitely want to spend some time on
+
+600
+00:58:51,560 --> 00:58:55,880
+Acarbose and 17 alpha estradiol along with a few others, but I want to go back to something
+
+601
+00:58:55,880 --> 00:59:02,280
+in rapamycin. So we've talked about the first experiment. Tell me about the dosing. Was the
+
+602
+00:59:02,280 --> 00:59:07,400
+dosing done daily for rapamycin? Yes, in that first experiment. Sure. It's in the food. They eat
+
+603
+00:59:07,400 --> 00:59:13,320
+all they want every single day. So this is interesting, right? Because what we've learned
+
+604
+00:59:13,320 --> 00:59:21,480
+about rapamycin since that time is it inhibits two complexes of Tor, complex one and complex two,
+
+605
+00:59:21,480 --> 00:59:27,720
+now today we believe most of the longevity benefits of rapamycin come from the inhibition
+
+606
+00:59:27,720 --> 00:59:34,840
+of complex one, not complex two. And furthermore, we believe that some of the negative consequences
+
+607
+00:59:34,840 --> 00:59:42,760
+of constitutive use of rapamycin come from its inhibition of complex two. And so when you look
+
+608
+00:59:42,760 --> 00:59:49,800
+at some of the more recent human data using rapologs such as Evrolimus, they seem to favor
+
+609
+00:59:49,800 --> 00:59:57,480
+an intermittent strategy. So dosing rapamycin say weekly, which is enough to inhibit. If you
+
+610
+00:59:57,480 --> 01:00:02,440
+give a big enough dose, it's enough to inhibit complex one, but not enough to inhibit complex
+
+611
+01:00:02,440 --> 01:00:07,480
+two. And then by the time you come back to redose, you're in this situation of you're just knocking
+
+612
+01:00:07,480 --> 01:00:15,800
+down one, but never two. So of course, I've always found it just interesting that the study even
+
+613
+01:00:15,800 --> 01:00:22,840
+worked with daily dosing of rapamycin. What are your thoughts on that? You raised five or six or
+
+614
+01:00:22,840 --> 01:00:28,200
+seven or eight really interesting points there. So let's go back and do them one at a time.
+
+615
+01:00:28,200 --> 01:00:33,960
+Rapamycin does not directly inhibit mTOR complex two. What it does is it leads to feedback circuits,
+
+616
+01:00:33,960 --> 01:00:40,520
+which destabilize mTOR complex two and eventually cause it to be degraded. So the subtleties of the
+
+617
+01:00:40,520 --> 01:00:45,960
+kinetics of when to start it, when to start it, when to get it once. And it may well differ from
+
+618
+01:00:46,520 --> 01:00:51,720
+cell type to cell type. So those are things that pharmacologists need to work out carefully.
+
+619
+01:00:52,280 --> 01:00:57,480
+The second thing to point out is that a guy in my lab, Gonzalo Garcia, has very carefully looked at
+
+620
+01:00:57,480 --> 01:01:03,400
+TOR complex one and TOR complex two activity for the last three or four years in not in these drug
+
+621
+01:01:03,400 --> 01:01:09,080
+treated mice, but in mutant mice that have one of two mutations, the Snell growth mutation and the
+
+622
+01:01:09,080 --> 01:01:14,120
+growth hormone receptor knockout mutation that extend longevity by 30 percent. And Gonzalo found
+
+623
+01:01:14,120 --> 01:01:20,840
+something very interesting. Both of those mutations move TOR complex one down. That's good. But they
+
+624
+01:01:20,840 --> 01:01:27,320
+move TOR complex two up in the opposite direction. So this raises the possibility that it is actually
+
+625
+01:01:27,320 --> 01:01:33,640
+the elevation of TOR complex two in these mutant mice. It's good for them. And Gonzalo has found
+
+626
+01:01:33,640 --> 01:01:39,240
+several examples of mice, whereas there's a mutation that blocks the mTOR complex two
+
+627
+01:01:39,240 --> 01:01:45,240
+elevation. They do not live a long time. So most recently, and this is a paper that's just submitted,
+
+628
+01:01:45,240 --> 01:01:51,400
+it's not published yet, Gonzalo has taken these drug treated mice, rapamycin or acarbos or 17
+
+629
+01:01:51,400 --> 01:01:57,960
+alfestridiol, and looked to see what's happening there with mTOR complex one and mTOR complex two.
+
+630
+01:01:58,600 --> 01:02:04,920
+There are changes with rapamycin, both males and females. There are changes with acarbos,
+
+631
+01:02:04,920 --> 01:02:10,760
+both males and females, and there are changes with 17 alfestridiol, but it's the males only.
+
+632
+01:02:10,760 --> 01:02:17,080
+And that's really cool because it's the males only that get a lifespan benefit from 17 alfestridiol.
+
+633
+01:02:17,080 --> 01:02:23,400
+So to summarize all of that, it's going to be really complicated. The basic idea that knocking
+
+634
+01:02:23,400 --> 01:02:29,960
+down TOR complex one might be a good thing, and that knocking down TOR complex two might be a bad
+
+635
+01:02:29,960 --> 01:02:35,240
+thing. That was the premise of your question. I think that's a good initial sound foundation
+
+636
+01:02:35,240 --> 01:02:41,000
+for further work, but the interactions between them, the ways in which different cell types
+
+637
+01:02:41,000 --> 01:02:45,640
+may have different responses, it's going to be much more complicated than that. The last complication
+
+638
+01:02:45,640 --> 01:02:52,520
+I'll point out is that Gonzalo has also found that mTOR complex two has four different substrates.
+
+639
+01:02:52,520 --> 01:02:58,360
+That was widely known before he began this work. What he found is that the good stuff turns on
+
+640
+01:02:58,360 --> 01:03:04,440
+three of these targets for mTOR complex two and turns the other one off. So it's really, if he's
+
+641
+01:03:04,440 --> 01:03:10,840
+right, it's really a change not so much in the amount of TOR complex two, but in its targets
+
+642
+01:03:10,840 --> 01:03:16,760
+specificity, which particular substrates it modifies and which ones it stops modifying. That's
+
+643
+01:03:16,760 --> 01:03:24,440
+a subtlety that may be the whole story there as to why changes in mTOR complex two should be a part
+
+644
+01:03:24,440 --> 01:03:30,680
+of any sophisticated study of this drug and other drugs. When you repeated the Rapamycin study one
+
+645
+01:03:30,680 --> 01:03:37,480
+year later in cohort three, obviously having worked out the delivery system, the average age
+
+646
+01:03:37,480 --> 01:03:43,800
+of treatment was now nine months instead of 12 months. Obviously this was interesting because-
+
+647
+01:03:43,800 --> 01:03:48,680
+Nine instead of 20. Sorry, nine instead of 20. So now this is interesting in that A, you're going
+
+648
+01:03:48,680 --> 01:03:54,040
+to repeat a very important finding and two, you're going to see if the age effect was significant and
+
+649
+01:03:54,040 --> 01:03:59,880
+it's kind of remarkable. Both groups got a little bit better, which I guess you would expect, but
+
+650
+01:03:59,880 --> 01:04:06,760
+it's worth noting you still see these remarkable effects, right? You saw a lower median extension
+
+651
+01:04:06,760 --> 01:04:12,440
+because of the point that you mentioned earlier, but the maximum extension in males went from nine
+
+652
+01:04:12,440 --> 01:04:20,040
+to 11% and in females it went from 14 to 16%. So again, females had an advantage with Rapamycin,
+
+653
+01:04:20,600 --> 01:04:24,920
+but both of these numbers are really quite impressive. I mean, these are pretty significant
+
+654
+01:04:24,920 --> 01:04:31,560
+increases in lifespan and you're now functionally starting this in people in their early 30s,
+
+655
+01:04:31,560 --> 01:04:37,000
+basically. Yeah. So there are two things to say. One is that the curves for the early start,
+
+656
+01:04:37,000 --> 01:04:41,400
+nine months or late start, 20 months, were compared very carefully by Scott Fletcher,
+
+657
+01:04:41,400 --> 01:04:48,200
+who's a mathematical demographer, biodemographer, and they're indistinguishable. That is, there's no
+
+658
+01:04:48,200 --> 01:04:53,160
+statistical difference between the early start mice and the late start mice. Small differences like
+
+659
+01:04:53,160 --> 01:05:01,960
+9% versus 11% or 9% versus 12%. There's a lot of variance from mouse to mouse and group to group.
+
+660
+01:05:01,960 --> 01:05:07,400
+You don't want to take minor changes like that with put too much weight on them. They're more
+
+661
+01:05:07,400 --> 01:05:13,080
+or less the same thing from the point of view of replicability. The other point you made that we
+
+662
+01:05:13,080 --> 01:05:17,960
+referred to a moment ago had to do with the male versus female differences for Rapamycin response.
+
+663
+01:05:18,680 --> 01:05:24,520
+Randy Strong and Marty Javerz and their colleagues at the University of Texas did a really useful
+
+664
+01:05:24,520 --> 01:05:29,080
+study. They gave Rapamycin for a short period of time to male and female mice and then took blood
+
+665
+01:05:29,080 --> 01:05:36,040
+samples every, I don't know, every hour, every two hours or something. And the Rapamycin blood content
+
+666
+01:05:36,040 --> 01:05:41,240
+in the female mice was two or three times higher than it was in the male mice. So it was higher and
+
+667
+01:05:41,240 --> 01:05:48,040
+it stayed up longer. We don't know why Rapamycin in the blood of female mice is greatly elevated
+
+668
+01:05:48,040 --> 01:05:52,840
+compared to Rapamycin in the blood of male mice. But when you're comparing two curves at the same
+
+669
+01:05:52,840 --> 01:05:58,760
+dose in food, and the females do a bit longer than the males, get a bigger benefit than the males,
+
+670
+01:05:58,760 --> 01:06:03,080
+it's hard to know how that comparison would come out if you're actually adjusting them to the same
+
+671
+01:06:03,080 --> 01:06:09,400
+blood level. Have you seen that with any other drug rich where going into the food, same quantity
+
+672
+01:06:09,400 --> 01:06:18,200
+going in, you see a 3x difference in plasma level? No, we haven't looked very carefully. I mean, we did
+
+673
+01:06:18,200 --> 01:06:23,000
+it for Rapamycin because we were so surprised that the females were doing better than the males.
+
+674
+01:06:23,640 --> 01:06:30,040
+And it's a difficult and expensive study to do. I think we should do it for other drugs as well.
+
+675
+01:06:30,680 --> 01:06:36,680
+We, Marty and Randy, do check the drug concentration as a part of a pilot project
+
+676
+01:06:37,480 --> 01:06:42,600
+of mice given any one of our drugs. They're given the drug for eight weeks of age, then Marty and
+
+677
+01:06:42,600 --> 01:06:47,960
+Randy get blood samples. But that gives you just a sort of a steady state dose. What if you're eating
+
+678
+01:06:47,960 --> 01:06:52,600
+it every single day for eight weeks? What is the blood level? The study that was most informative
+
+679
+01:06:52,600 --> 01:06:58,920
+for Rapamycin was to take fresh virgin mice and give them the drug at a defined date, at a defined
+
+680
+01:06:58,920 --> 01:07:04,120
+amount, and then quickly measure the blood levels after that. That has to be set up with a separate
+
+681
+01:07:04,120 --> 01:07:09,960
+cohort of mice. If you want to be obsessive as you should, you have to do it at young mice, middle-aged
+
+682
+01:07:09,960 --> 01:07:16,440
+mice, old mice. It becomes kind of involved and we don't do it on a routine basis. So the next drug
+
+683
+01:07:16,440 --> 01:07:20,680
+I want to talk about, well, actually let's go to Acarbose. You brought it up. So let's go to that
+
+684
+01:07:20,680 --> 01:07:26,760
+before we get to resveratrol. I mean, it's amazing. Like, Rich, we could sit here and talk for the next
+
+685
+01:07:26,760 --> 01:07:32,680
+month and go through every single drug in the ITP history because there's not one of these that
+
+686
+01:07:32,680 --> 01:07:37,640
+isn't interesting, both in its success and failures. Obviously, we don't have the time for that. We're
+
+687
+01:07:37,640 --> 01:07:42,760
+going to, in the show notes to this, put out a spreadsheet that covers every single result.
+
+688
+01:07:43,400 --> 01:07:48,760
+But nevertheless, it's just an amazing body of work. So let's talk about Acarbose. Now,
+
+689
+01:07:48,760 --> 01:07:53,000
+was David Allison one of the first people involved in that? I know David very well and I know that
+
+690
+01:07:53,000 --> 01:07:57,800
+David's been involved in a number of suggestions around the ITPs. He sponsored some. Was he
+
+691
+01:07:57,800 --> 01:08:02,840
+originally involved in the Acarbose work? Yeah, the Acarbose application came in from David Allison
+
+692
+01:08:02,840 --> 01:08:08,440
+and a colleague of his, Daniel Smith. Okay. This is an off-the-shelf drug typically used in people
+
+693
+01:08:08,440 --> 01:08:13,880
+with diabetes and it basically blocks the absorption of glucose in the gut, more or less
+
+694
+01:08:13,880 --> 01:08:18,200
+well tolerated unless you take too much of it and in which case, you know, you're going to get some
+
+695
+01:08:18,200 --> 01:08:24,120
+GI distress, but it works well. I've certainly taken it a number of times. I've got bottles of
+
+696
+01:08:24,120 --> 01:08:28,920
+it laying around the house. I probably haven't taken it in a couple of years, but it, you know,
+
+697
+01:08:28,920 --> 01:08:34,920
+I used to use it as kind of my cheat meal drug. If I wanted to have like a pizza, I'd take, you know,
+
+698
+01:08:34,920 --> 01:08:41,080
+100 milligrams of Acarbose and it would manage to, you know, prevent my glucose from spiking.
+
+699
+01:08:41,080 --> 01:08:44,680
+They should give it away with every pizza. I agree. That's a good marketing strategy.
+
+700
+01:08:44,680 --> 01:08:49,480
+There you go. Take your Acarbose with your carb junk food. Sprinkle it all the pepperoni.
+
+701
+01:08:49,480 --> 01:08:53,960
+Now, of course, what you guys were saying is, hey, we're not just giving the mice the Acarbose with
+
+702
+01:08:53,960 --> 01:08:58,520
+their pizzas. They're going to eat this stuff every day, right? It's part of the chow. Yep. Okay. So
+
+703
+01:08:59,640 --> 01:09:05,640
+what was your thinking? What was going to happen here? Well, Daniel and David said caloric
+
+704
+01:09:05,640 --> 01:09:10,200
+restriction is good for you. Acarbose is sort of like caloric restriction and it doesn't block
+
+705
+01:09:10,200 --> 01:09:15,400
+glucose absorption, but it does block the digestion of starches to sugars. And so glucose
+
+706
+01:09:15,400 --> 01:09:19,160
+wouldn't go up so much. That would be good for you just like caloric restriction in their view.
+
+707
+01:09:19,720 --> 01:09:24,200
+And that was their rationale. Sorry, just to be clear, I understand that there's two
+
+708
+01:09:24,200 --> 01:09:30,680
+different hypotheses that you could be testing here. One hypothesis is you will functionally
+
+709
+01:09:30,680 --> 01:09:37,160
+consume or absorb fewer calories and therefore this will be a CR play. The other is no, the animal
+
+710
+01:09:37,160 --> 01:09:41,880
+will continue to eat. They'll make up for it with more calories, but they will have lower glucose.
+
+711
+01:09:41,880 --> 01:09:47,080
+Which of those two was the thinking here? I don't think Daniel and David did a particularly
+
+712
+01:09:47,080 --> 01:09:53,160
+compelling job of discriminating those two ideas, the sort of framework for that application, which
+
+713
+01:09:53,160 --> 01:09:57,720
+I haven't read for what, 12 or 13 years now, I'd have to go back to see exactly what they argued.
+
+714
+01:09:57,720 --> 01:10:02,120
+But they were saying it's sort of like caloric restriction. Why don't we try it? Now, it's not
+
+715
+01:10:02,120 --> 01:10:05,640
+like as it happens, it's not like caloric restriction. There are a lot of reasons for saying
+
+716
+01:10:05,640 --> 01:10:10,040
+it's not reproducing caloric restriction. But anyway, that was the original rationale.
+
+717
+01:10:10,760 --> 01:10:17,080
+My current interpretation is that it probably is operating by blocking very highest levels of
+
+718
+01:10:17,080 --> 01:10:25,560
+glucose. It in the mice did not lead to a change in the integrated glucose level. There's a clinically
+
+719
+01:10:25,560 --> 01:10:31,880
+useful measure, which is used in human diabetics too, hemoglobin A1c, which gives you a measure of
+
+720
+01:10:31,880 --> 01:10:38,520
+over the last few weeks how much average glucose has been in the serum. If a person with diabetes
+
+721
+01:10:38,520 --> 01:10:43,480
+takes a carvos, that hemoglobin A1c goes down. That's one of the ways in which you know it's
+
+722
+01:10:43,480 --> 01:10:48,120
+working in a person. Now in mice, it turns out it doesn't go down. We've done this twice now.
+
+723
+01:10:48,840 --> 01:10:54,680
+So it's probably not an overall change in the amount of glucose that gets in, but a change
+
+724
+01:10:54,680 --> 01:11:00,600
+in the kinetics. If I eat five slices of pizza, my blood glucose is going to shoot way up and then
+
+725
+01:11:01,240 --> 01:11:06,760
+come down. But if I've taken a lot of a carvos first, blood glucose will go up. It'll just go up
+
+726
+01:11:06,760 --> 01:11:14,520
+slow. It won't reach that big peak. It'll stay up longer overall, but it won't hit the big peak.
+
+727
+01:11:14,520 --> 01:11:21,080
+And so currently, our guess was, mine and the other colleagues, was that it was working by
+
+728
+01:11:21,080 --> 01:11:26,600
+blocking the peak glucose. And now we think the evidence for that is quite good because of a drug
+
+729
+01:11:26,600 --> 01:11:31,640
+you haven't mentioned yet, cnagliflozin, which was just published a few weeks ago. Cnagliflozin,
+
+730
+01:11:31,640 --> 01:11:38,440
+which is also used for diabetes in people, also blocks peak glucose in mice and in people. And it
+
+731
+01:11:38,440 --> 01:11:44,600
+also extends lifespan. And it also works preferentially in males. So it's a reasonable guess
+
+732
+01:11:44,600 --> 01:11:53,080
+that both a carvos and cnagliflozin are working by eliminating the huge peak of glucose you get
+
+733
+01:11:53,080 --> 01:11:58,200
+after you eat a meal with a lot of starch in it. And of course, David also was part of the
+
+734
+01:11:58,200 --> 01:12:03,000
+suggestion team for Cana. So I know that David and I have spoken at length about SGLT2 inhibitors
+
+735
+01:12:03,000 --> 01:12:08,280
+for quite some time. And we are absolutely going to get to that. So did the mice experience any
+
+736
+01:12:08,280 --> 01:12:12,680
+GI distress in any way that you could assess that? None that they complained about.
+
+737
+01:12:15,000 --> 01:12:20,120
+They didn't fill out the questionnaire. So we don't have any way of detecting how the mice
+
+738
+01:12:20,120 --> 01:12:27,320
+are feeling. They didn't stop eating or show obvious signs of distress. You know, their GI
+
+739
+01:12:27,320 --> 01:12:33,880
+tract and our GI tract are very different. We're omnivores, grew up as scavengers 200,000 years ago.
+
+740
+01:12:33,880 --> 01:12:40,120
+We'll eat almost anything, animal or vegetable. And mice are evolved to be interested in mostly
+
+741
+01:12:40,120 --> 01:12:46,360
+a grain diet. So direct one-to-one comparisons for what our GI tract can handle and theirs
+
+742
+01:12:47,240 --> 01:12:53,320
+may be kind of tricky. Did those animals, both the treatment and the control groups,
+
+743
+01:12:53,320 --> 01:12:59,240
+weigh the same? No, acarbose led to weight loss or a lack of weight gain. We don't understand it.
+
+744
+01:12:59,240 --> 01:13:06,120
+We see that in some populations, but not all. In the original ITP paper, the acarbose treated mice
+
+745
+01:13:06,120 --> 01:13:12,200
+were lower in weight than the control mice. But then my own lab made a whole batch of acarbose
+
+746
+01:13:12,200 --> 01:13:16,600
+treated mice for another purpose. And we didn't see a dramatic change in weight and we really
+
+747
+01:13:16,600 --> 01:13:22,760
+don't know why. So it's a little bit frustrating and a little bit mysterious and embarrassing. We
+
+748
+01:13:22,760 --> 01:13:28,360
+don't always see the same weight change. I assume the rapamycin treated and controls
+
+749
+01:13:28,360 --> 01:13:32,840
+did not have a difference in weight. It's complicated and it depends on the age at which
+
+750
+01:13:32,840 --> 01:13:39,800
+you start. If you start in youth, then when the mice are still gaining weight, the mice on
+
+751
+01:13:39,800 --> 01:13:46,200
+rapamycin do not gain weight as much as the control mice, which does not surprise me because
+
+752
+01:13:46,200 --> 01:13:53,480
+rapamycin stops or slows cell growth and cell division, etc. If you start in late age, like 20
+
+753
+01:13:53,480 --> 01:14:00,440
+months of age, you have a whole series of factors going on. Mice, when they get old, they often get
+
+754
+01:14:00,440 --> 01:14:05,480
+sick. When they get sick, they often lose weight. And if rapamycin is extending their lifespan,
+
+755
+01:14:05,480 --> 01:14:11,080
+then they're getting sick later. So they're not losing weight because they're healthier.
+
+756
+01:14:12,600 --> 01:14:17,560
+There's several different things going on in old age, 20 months of age, where rapamycin in
+
+757
+01:14:17,560 --> 01:14:23,080
+principles would increase some of them, decrease some of them. It's harder to interpret whatever
+
+758
+01:14:23,080 --> 01:14:30,200
+you see. Before we leave acarbose, I mean, one really important point that I'm sure you're aware
+
+759
+01:14:30,200 --> 01:14:35,640
+of, but I think deserves some emphasis. Since acarbose is FDA approved and has a long safety
+
+760
+01:14:35,640 --> 01:14:41,320
+history, hundreds of thousands of people take it, particularly in Asia and in some parts of Europe.
+
+761
+01:14:42,200 --> 01:14:49,160
+It's an obvious candidate for human clinical trial. The safety profile is quite good. It's very
+
+762
+01:14:49,160 --> 01:14:55,480
+well documented, with many cases having been evaluated for safety. So if one was thinking
+
+763
+01:14:55,480 --> 01:15:01,080
+about what drug that works pretty well in mice would be safe for a human clinical trial,
+
+764
+01:15:01,080 --> 01:15:07,400
+acarbose has to be on that list. I've been arguing with my friend too, Matt Kaberlein.
+
+765
+01:15:07,400 --> 01:15:12,280
+He's giving rapamycin to dogs, as you know. That's a very important, very interesting,
+
+766
+01:15:12,280 --> 01:15:16,920
+excellent study. And I've been trying desperately to get him to give acarbose to dogs too.
+
+767
+01:15:18,280 --> 01:15:21,960
+We're still not yet having reached a consensus on that point.
+
+768
+01:15:22,040 --> 01:15:28,280
+Let's come back to this point specifically, Rich, when we get to metformin. Because to me,
+
+769
+01:15:28,280 --> 01:15:36,200
+the metformin acarbose story is a very interesting one, as we suss out the difference between very
+
+770
+01:15:36,200 --> 01:15:46,040
+compelling human data and failures in the ITP versus successes in the ITP absent the out of the
+
+771
+01:15:46,600 --> 01:15:52,760
+ballpark human data. And I think that the acarbose metformin story is a great example of that. So
+
+772
+01:15:52,760 --> 01:15:58,680
+let's park that. But let's visit now Rispheratrol. So for reasons that aren't entirely clear to me,
+
+773
+01:15:59,240 --> 01:16:06,120
+I mean, I suppose it's because of the relationship between Rispheratrol and grapes and wine. This just
+
+774
+01:16:06,120 --> 01:16:12,120
+was one of those things that caught the world by storm, and it's never really gone away. So
+
+775
+01:16:12,760 --> 01:16:18,040
+if I had a dollar for every time I got some stupid Google alert telling me to drink more wine,
+
+776
+01:16:18,040 --> 01:16:22,920
+because of its anti-aging benefits, I'd have a lot of dollars. So David Sinclair,
+
+777
+01:16:23,560 --> 01:16:29,480
+I don't remember the original paper would have been 0304 ish. You probably know this better than
+
+778
+01:16:29,480 --> 01:16:34,280
+I do. But that sounds about right. Yeah. So, you know, less than 20 years ago, basically,
+
+779
+01:16:34,280 --> 01:16:40,760
+David's lab at Harvard published work showing that when Rispheratrol was given to
+
+780
+01:16:41,720 --> 01:16:50,120
+metabolically ill mice that were being basically overfed, it produced a longevity benefit.
+
+781
+01:16:51,560 --> 01:16:56,520
+Sort of. We can come back and examine that. Clay, in more detail if you wish.
+
+782
+01:16:56,520 --> 01:17:03,000
+Yeah. Well, let's do that now. And then let's talk about how it informed your design.
+
+783
+01:17:03,720 --> 01:17:08,760
+Yeah. So the mice in question were being given a diet consisting of 60% coconut oil. They were
+
+784
+01:17:08,760 --> 01:17:14,520
+being poisoned. The original paper did not mention what they died of. They did mention this
+
+785
+01:17:14,520 --> 01:17:19,960
+in a subsequent paper published in cell about two or three years later. The mice that were dying
+
+786
+01:17:19,960 --> 01:17:25,480
+because they were on 60% coconut oil were dying because their livers got so big, so filled with
+
+787
+01:17:25,480 --> 01:17:31,000
+fat that it compresses the chest cavity and crushes the lungs and the mice cannot breathe.
+
+788
+01:17:31,640 --> 01:17:37,400
+That's the cause of death in mice in this particular study that are given a 60%
+
+789
+01:17:37,400 --> 01:17:43,320
+high fat diet, so to speak, that was used in the original Rispheratrol paper. So understand,
+
+790
+01:17:43,320 --> 01:17:48,760
+they're not really studying aging. They're studying a bizarre pathological process where
+
+791
+01:17:48,760 --> 01:17:54,520
+the liver gets so fat that it crushes the lungs, preventing breathing. And then in addition,
+
+792
+01:17:54,520 --> 01:18:00,760
+the paper that they published reported median lifespan. There was a statistically significant
+
+793
+01:18:00,760 --> 01:18:07,960
+increase in median lifespan, but only in the animals that were on this highly toxic diet.
+
+794
+01:18:08,760 --> 01:18:15,000
+Now, it turns out that when you have the whole curve and you look at other indices of maximum
+
+795
+01:18:15,000 --> 01:18:20,840
+lifespan, the Rispheratrol was not a benefit. And when you look at the lifespan effects in the mice
+
+796
+01:18:20,840 --> 01:18:27,240
+that were not on this toxic diet, there weren't any. So paper in nature, which was widely
+
+797
+01:18:27,240 --> 01:18:32,760
+misinterpreted, over interpreted as a demonstration of a drug that slowed aging,
+
+798
+01:18:33,400 --> 01:18:39,960
+was a drug that did not extend maximum lifespan except in mice that were dying of this extremely
+
+799
+01:18:39,960 --> 01:18:47,480
+unusual lipid specific poisoning. So the second part of your question was, how did this influence
+
+800
+01:18:47,480 --> 01:18:52,520
+our decision to test Rispheratrol? And the answer, this is behind the scenes gossip,
+
+801
+01:18:52,520 --> 01:18:57,400
+but it's completely true, is that we were ordered to test it. Richard Hodes,
+
+802
+01:18:57,400 --> 01:19:02,520
+the director of the National Institute on Aging, was very impressed with Rispheratrol. And like
+
+803
+01:19:02,520 --> 01:19:07,720
+you, he was getting, I'm sure, hundreds or thousands of questions a year request, say,
+
+804
+01:19:07,720 --> 01:19:13,960
+why don't you guys test Rispheratrol? So Rispheratrol did not go through our usual screening process.
+
+805
+01:19:13,960 --> 01:19:15,720
+This was a directive from the top.
+
+806
+01:19:15,720 --> 01:19:21,320
+This was the only time this has happened. We were instructed, you will be testing Rispheratrol.
+
+807
+01:19:21,880 --> 01:19:27,400
+And I called David Sinclair and said, what dose should we use? The same dose that you used in
+
+808
+01:19:27,400 --> 01:19:32,200
+your paper? And he said, no, no, no, no, no, that's much too low. Use at least five times,
+
+809
+01:19:32,200 --> 01:19:39,240
+10 times, 20 times higher. So we followed David's advice and also checked with his close friend and
+
+810
+01:19:39,240 --> 01:19:46,280
+colleague, Rafa DiCavo, to get advice on dose. So the two doses that we used for Rispheratrol were,
+
+811
+01:19:46,280 --> 01:19:49,800
+I'd have to look it up either three times and 10 times higher than in the
+
+812
+01:19:50,360 --> 01:19:54,760
+original Sinclair paper, maybe it was 10 and 30 times. I have to check my notes to get that
+
+813
+01:19:54,760 --> 01:19:59,960
+exactly right. But we use both doses, both high. And then we started at two different ages because
+
+814
+01:20:00,520 --> 01:20:05,640
+we were told to do start some of the mice in youth and others of the mice in middle age. And
+
+815
+01:20:05,640 --> 01:20:11,400
+we did that and it had no effect on longevity. And we were, I think, the first of three or four groups,
+
+816
+01:20:12,280 --> 01:20:18,840
+including Sinclair and DiCavo later on, to show that Rispheratrol given to mice on a normal diet
+
+817
+01:20:18,840 --> 01:20:25,000
+does not extend their lifespan. Yeah. So you, in cohort three, you started at 12 months of age. So
+
+818
+01:20:25,000 --> 01:20:30,120
+functionally these are mice in their thirties to forties. And then you had a cohort that started
+
+819
+01:20:30,120 --> 01:20:38,360
+at four months of age. You're starting these, you know, in teenagers, no change in median or maximum
+
+820
+01:20:38,360 --> 01:20:45,080
+lifespan. Although I believe you had a small statistically significant increase in maximum
+
+821
+01:20:45,080 --> 01:20:50,040
+extension and maximum lifespan expansion in the late onset Rispheratrol by 3%. Does that sound
+
+822
+01:20:50,040 --> 01:20:53,880
+about right? I don't think any of them were statistically significant. Again, I'd have,
+
+823
+01:20:53,880 --> 01:20:58,600
+I don't want to put my hand in the Bible until I've reread the paper, but I think there was no
+
+824
+01:20:58,600 --> 01:21:06,280
+change in any of the statistics. It clearly speaks to the point earlier, which is in the spirit of
+
+825
+01:21:06,280 --> 01:21:12,680
+looking at this through the lens of studying longevity, as opposed to studying protection
+
+826
+01:21:12,680 --> 01:21:19,400
+from a sort of artifactual diet. This appeared to be pretty clear. What was the response like to that?
+
+827
+01:21:21,160 --> 01:21:26,600
+There are people who were making a living by selling stuff that was related to Rispheratrol.
+
+828
+01:21:26,600 --> 01:21:33,320
+There was a company actually, Sertris, that was sold to Glaxo for 600 million bucks for pushing
+
+829
+01:21:33,320 --> 01:21:38,760
+sirtuin inhibitors. So the reaction from people who had just sold the company was probably,
+
+830
+01:21:38,760 --> 01:21:44,280
+I don't care, I've got the money. The reaction from people who sell things in health food stores,
+
+831
+01:21:44,280 --> 01:21:50,040
+which are guaranteed to raise your Rispheratrol levels or have purple grapes on their cover,
+
+832
+01:21:50,040 --> 01:21:53,880
+they were raking in money hand over fist. They don't really care who reads
+
+833
+01:21:54,760 --> 01:21:59,960
+papers failing to show unaffected bites. It's not going to be a problem for their bottom line.
+
+834
+01:22:00,760 --> 01:22:05,640
+You know, I was always very irritated over and over again. Pretty good scientists whom I really
+
+835
+01:22:05,640 --> 01:22:10,360
+respected. The first slide was a bottle of wine. The second slide was some nice grapes. The third
+
+836
+01:22:10,360 --> 01:22:17,160
+slide was a picture of Rispheratrol. Now by that time they knew that Rispheratrol was not an
+
+837
+01:22:17,160 --> 01:22:22,360
+important component of wine. Sinclair had written a beautiful review article showing that if you
+
+838
+01:22:22,360 --> 01:22:28,120
+really want to eat Rispheratrol, it's easy. You eat rhubarb. Rhubarb is where all the Rispheratrol is at.
+
+839
+01:22:28,120 --> 01:22:33,800
+And red wine has got so little that to get the mouse dose of Rispheratrol, you'd have to drink
+
+840
+01:22:33,800 --> 01:22:40,120
+600 bottles of wine a day. Even Andre the Giant couldn't have done that. The beautiful satirical
+
+841
+01:22:40,120 --> 01:22:45,560
+article in the New Yorker about what it's like to be a mouse drinking 600 bottles of really good
+
+842
+01:22:45,560 --> 01:22:51,960
+French champagne a day that I said to friends when they asked about Rispheratrol. So I think
+
+843
+01:22:51,960 --> 01:22:56,920
+eventually there's been a lot of controversy as to whether the sirtuins are important or not in the
+
+844
+01:22:56,920 --> 01:23:01,800
+aging process. There's a big fight between two worm groups, one of which said mutants
+
+845
+01:23:02,600 --> 01:23:08,280
+that modified the activity were highly effective and others said, well, maybe just a little bit.
+
+846
+01:23:08,280 --> 01:23:13,400
+And leaving all that stuff aside, I don't think there's any evidence yet that Rispheratrol
+
+847
+01:23:13,400 --> 01:23:19,560
+is good for you or that sirtuin activator slow the aging process. I was invited to give a talk
+
+848
+01:23:19,560 --> 01:23:23,960
+at Sertris. Interesting. At the height of all of this, David Stipp, who's a wonderful science
+
+849
+01:23:23,960 --> 01:23:29,000
+journalist, has written a wonderful book about the whole Sertris-Rispheratrol story.
+
+850
+01:23:29,000 --> 01:23:31,880
+The Youth Pill or the Youth Fountain or the Youth Pill or something like that.
+
+851
+01:23:31,880 --> 01:23:35,720
+That's about right. Yeah, it's a great book. David's a fine writer. So I went to Sertris,
+
+852
+01:23:35,720 --> 01:23:41,400
+I gave my talk on Rapamycin, which is what they wanted to hear. And at the end, I went to talk to
+
+853
+01:23:41,400 --> 01:23:47,720
+their director and I said, so what are you guys doing for Rispheratrol? Is this going to work?
+
+854
+01:23:47,720 --> 01:23:51,640
+And he said, oh, well, no, I'm leaving the company. I'm going to work for a company that works on it.
+
+855
+01:23:51,640 --> 01:23:56,280
+He named another chemical, totally different. He was going to work on Torrid Hibbers. He wasn't
+
+856
+01:23:56,280 --> 01:24:00,760
+going to work on Rispheratrol. They'd already sold the thing or about to sell the thing to Glaxo.
+
+857
+01:24:00,760 --> 01:24:06,520
+And he knew that it was tied to move up to inhibitors or compounds that had a greater
+
+858
+01:24:06,520 --> 01:24:12,120
+likelihood of actually working. Well, we're going to come to one of those in a little while,
+
+859
+01:24:12,120 --> 01:24:18,040
+which is basically things that provide substrates for Sertuins as opposed to activators. But
+
+860
+01:24:18,040 --> 01:24:22,840
+nevertheless, one of the other ones that I thought was interesting that you studied,
+
+861
+01:24:22,840 --> 01:24:26,520
+not that you shouldn't have in the spirit of this being kind of a community effort, was
+
+862
+01:24:26,520 --> 01:24:31,640
+green tea extract. Do you remember that one at all? I sure do. Tell me a little bit about that.
+
+863
+01:24:31,640 --> 01:24:37,000
+What was your expectation going into that ITP? Well, anybody in the world can suggest a compound
+
+864
+01:24:37,000 --> 01:24:41,080
+or a group of compounds or a mixture of compounds. You realize I'm going to be doing this now. You're
+
+865
+01:24:41,080 --> 01:24:46,440
+going to be getting these suggestions from me. Oh, good. Yeah, that's good news. F4, I'm sorry,
+
+866
+01:24:46,440 --> 01:24:52,040
+in advance. Each of these suggestions is evaluated by a group of five scientists initially,
+
+867
+01:24:52,040 --> 01:24:57,080
+our Access Committee. And then secondly, following their advice, the Steering Committee,
+
+868
+01:24:57,080 --> 01:25:03,560
+which I'm on, makes the final cut. So when people are recommending green tea extract, they say
+
+869
+01:25:03,560 --> 01:25:07,480
+there's a central compound that's probably the main player in green tea extract.
+
+870
+01:25:08,120 --> 01:25:12,360
+Many people have said it's good for you, traditional Chinese medicine, et cetera.
+
+871
+01:25:13,080 --> 01:25:19,240
+Please test it. And so when we evaluate this, there are all sorts of pros and cons. We strongly
+
+872
+01:25:19,320 --> 01:25:25,400
+prefer single compounds, purified synthetic compounds to complex mixtures. But we can see
+
+873
+01:25:25,400 --> 01:25:31,000
+sometimes a ground for testing a complex mixture. It may be that five or six or seven things in
+
+874
+01:25:31,000 --> 01:25:36,440
+balanced amounts might together be good for you, even if no one of them used singly might be
+
+875
+01:25:36,440 --> 01:25:44,120
+beneficial. We also like to test things that have acquired a popular reputation for being
+
+876
+01:25:44,120 --> 01:25:49,560
+helpful. If the popular reputation is, even if it's based on a, you know, a thousand year old
+
+877
+01:25:50,120 --> 01:25:56,600
+tradition of traditional medicine, it still might be right. And so some of the time, if we stumble
+
+878
+01:25:56,600 --> 01:26:00,600
+on something that will work, that would be great news. And if it doesn't work, then we feel we've
+
+879
+01:26:00,600 --> 01:26:07,080
+done a public service. We certainly have not proven that green tea extract might not be good
+
+880
+01:26:07,080 --> 01:26:13,480
+for people, but it will, we hope, slightly take the wind out of the sails of that discussion if
+
+881
+01:26:13,560 --> 01:26:17,160
+we demonstrate that when we give it to animals, it didn't do any good to them.
+
+882
+01:26:17,720 --> 01:26:22,280
+The other one that caught my eye, by the way, on the list of, on the much longer list of failed
+
+883
+01:26:22,280 --> 01:26:26,760
+compounds. And you made a good point, right? Which is the failures are just as important as the
+
+884
+01:26:26,760 --> 01:26:30,920
+successes, right? I mean, some of the most important insights are these things that don't
+
+885
+01:26:30,920 --> 01:26:35,960
+work that we've long held beliefs around. Methylene blue caught my eye. I was sort of
+
+886
+01:26:35,960 --> 01:26:41,160
+interested to see methylene blue curcumin, many of these other things that have been tested.
+
+887
+01:26:41,720 --> 01:26:46,200
+You go back and revisit rapamycin again through a high, medium, low dose. I mean,
+
+888
+01:26:46,200 --> 01:26:50,200
+you really put the screws to rapamycin to continue to demonstrate its efficacy. Really,
+
+889
+01:26:50,760 --> 01:26:55,960
+rapamycin is in some ways probably one of the three poster children of the ITP.
+
+890
+01:26:55,960 --> 01:26:58,120
+For now, counting kinagaflozin.
+
+891
+01:26:58,120 --> 01:27:03,160
+Yeah, yeah, yeah, exactly. Let's talk about 17 alpha estradiol.
+
+892
+01:27:03,160 --> 01:27:03,800
+Yeah.
+
+893
+01:27:03,800 --> 01:27:08,840
+I know more about the estrogens than the average person. I got to be honest with you. I don't have
+
+894
+01:27:08,840 --> 01:27:18,120
+a clue what 17 alpha estradiol is. I'm very familiar with two, four, and 16 hydroxy estradiol
+
+895
+01:27:18,120 --> 01:27:22,520
+and estron and all these other things. I can't for the life of me figure out what 17 alpha. Can you
+
+896
+01:27:22,520 --> 01:27:28,600
+help me understand where this shows up? Is there an actual molecule? Is there a drug that we have?
+
+897
+01:27:28,600 --> 01:27:30,920
+What was the genesis behind this plan?
+
+898
+01:27:30,920 --> 01:27:36,200
+Yeah, the genesis was a guy named Jim Simpkins. He's a pharmacologist. He's always interested in
+
+899
+01:27:36,200 --> 01:27:43,240
+estrogen receptors. He tried to make a compound that was like estrogen that is 17 beta estradiol,
+
+900
+01:27:43,240 --> 01:27:49,160
+generically crudely referred to as estrogen, 17 beta estradiol, but which had much lower affinity
+
+901
+01:27:49,160 --> 01:27:56,280
+for the classical receptors for the estrogens, ER, alpha, and beta. He synthesized 17 alpha estradiol,
+
+902
+01:27:56,280 --> 01:28:01,320
+which is very much the same compound except for one of the bonds tilts up instead of tilting down.
+
+903
+01:28:02,200 --> 01:28:08,360
+In Jim's work, mostly in tissue culture cells, he found that yes, it was tenfold less active at least
+
+904
+01:28:08,360 --> 01:28:14,520
+than 17 beta estradiol. In fact, whatever activities it was having on his cells and culture,
+
+905
+01:28:15,080 --> 01:28:18,680
+it worked just as well if you deleted the classical estrogen receptors.
+
+906
+01:28:19,720 --> 01:28:23,960
+When he gave it to mice, he found it was non-feminizing. When you give it to male mice,
+
+907
+01:28:23,960 --> 01:28:29,000
+it did not induce the secondary sexual characteristics that the stronger estrogens,
+
+908
+01:28:29,000 --> 01:28:36,440
+like 17 beta estradiol, estrogen, would do. His idea, and I'm not endorsing this,
+
+909
+01:28:36,440 --> 01:28:43,560
+I'm just reporting it, is that giving an estrogen to male mice might make them live as long as
+
+910
+01:28:43,560 --> 01:28:48,600
+female mice. The female mice live five or ten percent longer than males. He said maybe it will
+
+911
+01:28:48,600 --> 01:28:53,400
+turn them into females, but it would be a much better compound for people because no man wants
+
+912
+01:28:53,400 --> 01:28:59,480
+to look feminine. So if it works, people will give it to men and they'll live as long as women,
+
+913
+01:28:59,480 --> 01:29:04,680
+but they won't be embarrassed by looking like a girl. That was enough to get it through the
+
+914
+01:29:04,680 --> 01:29:10,760
+steering committee, and when we gave it to mice, it indeed had a terrific effect on male lifespan.
+
+915
+01:29:11,320 --> 01:29:18,680
+It had no effect whatever. Now in three separate studies in female lifespan, in fact, the males,
+
+916
+01:29:18,680 --> 01:29:26,120
+given the drug, live not only longer than regular old males, they live longer than regular females.
+
+917
+01:29:26,120 --> 01:29:33,000
+It's not merely moving the male curve to be coincident with the female curve. It's moving
+
+918
+01:29:33,000 --> 01:29:40,520
+it way past where the normal females live. So why it works only in males, we have a clue, but we
+
+919
+01:29:40,520 --> 01:29:47,080
+don't know for sure, and we certainly want to know why the effect is so dramatically sex-specific
+
+920
+01:29:47,640 --> 01:29:52,520
+so that we can try to figure out a way to get around that obstacle and to get it to work in
+
+921
+01:29:52,520 --> 01:30:01,240
+females as well. Now if I'm looking at my table correctly, the 17 alpha estradiol in cohort five
+
+922
+01:30:01,240 --> 01:30:06,440
+extended median survival in males but not maximum, and of course... No, it does. Well,
+
+923
+01:30:07,160 --> 01:30:13,080
+that was used at a low dose. I see. At a low dose. When we went back and we did it at a three times
+
+924
+01:30:13,080 --> 01:30:18,600
+higher dose, it extends our measure of maximum longevity as well as median longevity and at all
+
+925
+01:30:18,600 --> 01:30:24,680
+three sites. Yeah, I see. Okay, so that's the difference. Is the at the 14.4 parts per million
+
+926
+01:30:24,680 --> 01:30:29,720
+versus the lower dose. Yeah, when we got that first the first result, somebody said quite plausibly,
+
+927
+01:30:29,720 --> 01:30:34,520
+hey, I'll bet it would work better at a higher dose. So we tried that. Now again, I just don't
+
+928
+01:30:34,520 --> 01:30:41,720
+know enough about mice, but what's the menopausal situation of mice? How long are the female mice
+
+929
+01:30:41,720 --> 01:30:49,880
+exposed to estrogen to 17 beta estradiol? I don't know about when the estrous cycle ceases in mice.
+
+930
+01:30:49,880 --> 01:30:55,560
+It depends a lot on the strain. As you know, dozens to hundreds of inbred strains and they each
+
+931
+01:30:55,560 --> 01:31:02,600
+have slightly different characteristics. In general, production of new healthy pups tends to
+
+932
+01:31:02,600 --> 01:31:09,240
+slow down when the females are eight or nine or 10 or 11 months of age and the cycles start to get
+
+933
+01:31:09,240 --> 01:31:14,440
+irregular and then to stretch out and then to cease altogether. But this is something I don't
+
+934
+01:31:14,440 --> 01:31:20,120
+know very much about. And to quote details, I'd have to talk to somebody who actually knows a
+
+935
+01:31:20,120 --> 01:31:24,840
+lot more than I do about mouse reproductive endocrinology. Is there an actual molecule of
+
+936
+01:31:24,840 --> 01:31:30,840
+17 alpha estradiol? Is there an IND for this? Very good question. And the answer is not really
+
+937
+01:31:30,840 --> 01:31:39,320
+well known. There is one obscure paper by a Swedish or Finnish group maybe 15 years ago
+
+938
+01:31:39,320 --> 01:31:45,960
+that said they had detected 17 alpha estradiol but only in the brain. And in fact, they said that
+
+939
+01:31:45,960 --> 01:31:53,480
+they had isolated in the brain a receptor, which they called the estrogen X receptor, that was
+
+940
+01:31:53,480 --> 01:32:00,680
+relatively specific for 17 alpha estradiol, the one that's working in our tests. But I have
+
+941
+01:32:00,680 --> 01:32:07,480
+never seen that repeated. I actually, following up sort of your line of thinking, corresponded
+
+942
+01:32:07,480 --> 01:32:12,840
+a little bit with two or three of the American scientists who are authentically steroid chemists
+
+943
+01:32:12,840 --> 01:32:18,280
+and who spend their whole life synthesizing various derivatives. And I asked them,
+
+944
+01:32:18,280 --> 01:32:23,560
+what is 17 alpha estradiol? Is it anywhere? Does it do anything? And they all said, good question.
+
+945
+01:32:23,560 --> 01:32:29,640
+I don't know. So I know nothing about it, but they should know something about it. And apparently,
+
+946
+01:32:29,640 --> 01:32:35,560
+it's distinctly under investigated. So even after your findings, which are quite impressive,
+
+947
+01:32:36,600 --> 01:32:42,440
+it hasn't been pursued as an investigational new drug. I'm over my head here. I don't know
+
+948
+01:32:42,440 --> 01:32:48,280
+the answer to that question. Certainly nothing has come to my attention about its being investigated,
+
+949
+01:32:48,280 --> 01:32:55,320
+but I could well have missed something. There is an awful lot of attention to developing novel
+
+950
+01:32:55,320 --> 01:33:01,160
+estrogenic compounds, really good academic labs. And I'm sure 10 times that much work
+
+951
+01:33:01,160 --> 01:33:07,080
+in pharmaceutical firms. There are major papers in important journals about here are 30 or 40
+
+952
+01:33:07,080 --> 01:33:13,800
+different steroid compounds that do not have that side effect or do not bind to this receptor,
+
+953
+01:33:13,800 --> 01:33:20,120
+et cetera. I don't know that literature very well. And I'll bet a great chunk of it is kept quiet by
+
+954
+01:33:20,200 --> 01:33:25,800
+pharmaceutical firms. So I'm not confident that anyone outside those firms really knows the answer
+
+955
+01:33:25,800 --> 01:33:30,280
+to your question. Interesting. Do you remember the rationale for your solid acid?
+
+956
+01:33:31,000 --> 01:33:37,640
+I will have to double check. I believe it feels almost exactly like my qualifying exam. Sorry.
+
+957
+01:33:38,600 --> 01:33:43,640
+Our solid acid, I think is the one that changed retinoid receptor activation. There was a claim
+
+958
+01:33:43,640 --> 01:33:49,800
+from Gretchen Darlington and some of her colleagues saying that the long live mice,
+
+959
+01:33:49,800 --> 01:33:54,920
+the Ames dwarf mice, had turned on a whole bunch of genes that related to bile acids and the bile
+
+960
+01:33:54,920 --> 01:34:01,720
+acids work through some molecules related to the retinoid acid receptor or something like that.
+
+961
+01:34:01,720 --> 01:34:07,640
+Her solid acid was proposed as a way of getting at the bile acid issue. But the chances that I'm
+
+962
+01:34:07,640 --> 01:34:12,440
+right on this point are only about 50-50. I'd have to check my notes to be sure.
+
+963
+01:34:12,440 --> 01:34:17,000
+The reason I ask is there was a human-based supplement for this that was all predicated
+
+964
+01:34:17,000 --> 01:34:21,960
+around improving body composition. But my one recollection of it was it was not orally bio
+
+965
+01:34:21,960 --> 01:34:28,040
+available. It was only you had to use it in sort of a topical fashion, which sort of rendered it
+
+966
+01:34:28,040 --> 01:34:31,720
+not particularly helpful. Rich, can you tell me a little bit about the work being done on hydrogen
+
+967
+01:34:31,720 --> 01:34:36,520
+sulfide? There's a colleague of mine who died recently, a guy named Jay Mitchell, a wonderful
+
+968
+01:34:36,520 --> 01:34:42,760
+scientist. Jay was really interested in the idea that hydrogen sulfide might be an important
+
+969
+01:34:42,760 --> 01:34:48,440
+controlling element in the aging process and had published a long and really impressive series of
+
+970
+01:34:48,440 --> 01:34:56,200
+papers on that. So he suggested that we give to mice a drug that would break down to produce
+
+971
+01:34:56,200 --> 01:35:05,720
+hydrogen sulfide, a drug called SG1002. So we tried it and we messed up. We had control mice
+
+972
+01:35:05,720 --> 01:35:13,560
+that were on the wrong control food. And the mice given Jay's drug did better than the mice
+
+973
+01:35:13,560 --> 01:35:18,600
+or the wrong control food. But we didn't publish that because we were not sure what would have
+
+974
+01:35:18,600 --> 01:35:25,160
+happened if we'd used the right control food. So we're repeating that now. We've fixed our mistake
+
+975
+01:35:25,160 --> 01:35:33,000
+and we don't have data yet. In about a year, we'll know whether Jay's hunch that giving mice a drug
+
+976
+01:35:33,000 --> 01:35:38,120
+that would increase their internal generation of hydrogen sulfide will be good for them. I'm
+
+977
+01:35:38,120 --> 01:35:43,400
+certainly hoping it's correct. When we did it wrong, the drug seemed to work. So I'm hoping
+
+978
+01:35:43,400 --> 01:35:47,240
+that when we do it right, the drug will continue to work, but we don't know yet.
+
+979
+01:35:47,240 --> 01:35:53,800
+Okay. So let's go to one of your more recent findings. This SGLT2 inhibitor can't.
+
+980
+01:35:55,000 --> 01:36:02,040
+Canagloflozin, yeah. Yeah. So this is a drug which is widely available. This class of drug has been
+
+981
+01:36:02,040 --> 01:36:07,000
+around for what? Probably a decade, right? I think that's right. Yeah. Used pretty readily
+
+982
+01:36:07,000 --> 01:36:13,240
+in patients with type two diabetes, blocks the reuptake of glucose so that more glucose is
+
+983
+01:36:13,240 --> 01:36:19,240
+excreted in the urine. Yes. But only when you're hyperglycemic. One of the nice things about it
+
+984
+01:36:19,240 --> 01:36:25,400
+in clinical practice is you can't make somebody hypoglycemic and put them at risk that way. So
+
+985
+01:36:26,200 --> 01:36:31,480
+it affects the process in the kidney that deals with very high glucose levels without having much
+
+986
+01:36:31,480 --> 01:36:39,320
+scope for causing toxicity. Now, this increased median lifespan in the male mice by 14% maximum
+
+987
+01:36:39,320 --> 01:36:45,080
+extension of 9%. It had no effect on the females. That's right. Is this another one of those drugs
+
+988
+01:36:45,080 --> 01:36:49,560
+where you have any insight into differential plasma levels between the males and females?
+
+989
+01:36:49,560 --> 01:36:54,840
+We actually did measure that and it's in the paper. The females, if I recall, actually had
+
+990
+01:36:54,840 --> 01:37:00,600
+higher levels, slightly higher levels than the males. The absence of an effect in females is
+
+991
+01:37:00,600 --> 01:37:06,600
+not explicable on the idea that they don't get the drug into their blood. What do you think could
+
+992
+01:37:06,600 --> 01:37:13,000
+explain the difference in the effect here? Gosh, I wish I knew. When you take this together with
+
+993
+01:37:13,000 --> 01:37:19,160
+the acarvos results, you're led to the inference, and this is only a tiny baby step forward.
+
+994
+01:37:19,160 --> 01:37:24,440
+There's something about aging in the male mice depends a lot on staying away from really high
+
+995
+01:37:24,440 --> 01:37:31,880
+glucose levels. Now, whether that means that high glucose in the males triggers a circuit in the
+
+996
+01:37:31,880 --> 01:37:36,760
+hypothalamus, which is bad for you, or something, I mean, from here on in, it's all hand waving.
+
+997
+01:37:37,400 --> 01:37:43,240
+The mice are mostly dying of cancer. Both the males and females, about 80% of the deaths are
+
+998
+01:37:43,240 --> 01:37:48,120
+due to some form of cancer, a wide range of different kinds of cancers, but cancer in these
+
+999
+01:37:48,120 --> 01:37:54,040
+mice and most mice is the predominant cause of death. So you could probably start to think about
+
+1000
+01:37:54,040 --> 01:38:01,560
+why is it if you want to avoid all sorts of cancers, high glucose is a really bad thing for
+
+1001
+01:38:01,560 --> 01:38:07,720
+you. If you're a male, that's the sort of line of argumentation you'd want to consider, but that's
+
+1002
+01:38:07,720 --> 01:38:13,400
+certainly unsatisfying. We don't know. We would love to know that. Well, to me, why high glucose
+
+1003
+01:38:13,400 --> 01:38:19,480
+is bad for cancer is a relatively straightforward question, at least compared to why disproportionately
+
+1004
+01:38:19,480 --> 01:38:26,920
+for males and females. So let me start by asking another question. If you do nothing and just
+
+1005
+01:38:26,920 --> 01:38:34,360
+observe these animals as though you were an actuary, what is the distribution of death for
+
+1006
+01:38:34,360 --> 01:38:41,720
+females versus males? You mean the age of death? No, the cause of death. Yeah, about 80% cancers
+
+1007
+01:38:41,720 --> 01:38:46,760
+in both. Oh, it's 80% in both. Yeah, it's a different, different kinds of cancer. Both,
+
+1008
+01:38:47,480 --> 01:38:52,040
+the leading cause for both males and females is hematopoietic cancers of one sort or another,
+
+1009
+01:38:52,040 --> 01:38:57,000
+lymphomas or related histiocytic sarcomas and other sorts of lymphoid tumors.
+
+1010
+01:38:57,880 --> 01:39:05,000
+Then in the females, the next leading cause is mammary cancer. And the third leading cause is
+
+1011
+01:39:05,000 --> 01:39:12,360
+either liver cancer or a fibrosarcoma. In the males, the second is lung cancer and then liver
+
+1012
+01:39:12,360 --> 01:39:18,360
+cancer or fibrosarcoma. So all of them, it's cancers, cancers, cancers. And how much is
+
+1013
+01:39:18,360 --> 01:39:26,200
+hematopoietic in each? About 30% of the deaths. Okay. So that's hard to make sense of, I guess.
+
+1014
+01:39:27,320 --> 01:39:31,960
+Are there enough data on the glucose and insulin sensitivity of each of those relative types of
+
+1015
+01:39:31,960 --> 01:39:36,280
+cancer that you could make the case that, I mean, I got to be honest with you, that's a little
+
+1016
+01:39:36,280 --> 01:39:41,240
+counterintuitive based on human data because obviously in humans, the mammary cancers would
+
+1017
+01:39:41,240 --> 01:39:46,120
+be quite glucose and insulin sensitive, whereas the lung would not be. So you would actually
+
+1018
+01:39:46,120 --> 01:39:51,160
+expect the opposite if that were true in mice that you would expect the females to disproportionately
+
+1019
+01:39:51,160 --> 01:39:56,200
+have the benefit. But I mean, that's a lot of hand waving, right? So I'm just curious if we have,
+
+1020
+01:39:56,840 --> 01:40:04,360
+you know, more molecular data about PI3K activity or other activity, IGF activity in these animals
+
+1021
+01:40:04,360 --> 01:40:08,680
+as it pertains to their cancer risk. These are really good questions that I've been trying to
+
+1022
+01:40:08,680 --> 01:40:15,000
+urge my cancer biology friends to start digging in and answering those questions. As a sort of
+
+1023
+01:40:15,000 --> 01:40:20,840
+the framework, you can think as you were thinking, maybe the glucose thingy works on the cancers,
+
+1024
+01:40:20,840 --> 01:40:27,080
+but it's also possible that the glucose excursions are working on an anti-cancer defense, some aspect
+
+1025
+01:40:27,080 --> 01:40:34,040
+of immune defenses, or it could be, and this is my hope, but it's only a hope, it could be that the
+
+1026
+01:40:34,040 --> 01:40:41,720
+glucose specific excursions are modifying some fundamental, still undiscovered element of the
+
+1027
+01:40:41,720 --> 01:40:47,800
+aging process in the hypothalamus. Maybe it has to do with the susceptibility of the hypothalamus
+
+1028
+01:40:47,800 --> 01:40:52,840
+to inflammatory change or something like that, differentially in males and in females, and that
+
+1029
+01:40:52,840 --> 01:41:00,200
+this nebulous sort of change has an impact on the cancer or an impact on anti-cancer defenses or
+
+1030
+01:41:00,280 --> 01:41:05,080
+something. Any of that is, in my view, about equally likely to be true, but at present,
+
+1031
+01:41:05,080 --> 01:41:11,000
+none of it gives us much of a hint as to why these drugs have a much more striking effect in the male
+
+1032
+01:41:11,000 --> 01:41:17,080
+mice. Did you see the same effect here that you did with Acarbose in that the hemoglobin A1c was
+
+1033
+01:41:17,080 --> 01:41:25,160
+unaffected? I'm not sure. I'd have to go back and check the paper. My memory, which may be incorrect,
+
+1034
+01:41:25,640 --> 01:41:33,080
+is that there was a figure showing no difference, no effect on hemoglobin A1c in the canagl flows
+
+1035
+01:41:33,080 --> 01:41:39,080
+in paper, which is surprising because it is affected in human diabetics. You can really move
+
+1036
+01:41:39,080 --> 01:41:45,720
+hemoglobin A1c down into the healthy direction by canagl flows and the other different SGLT2
+
+1037
+01:41:45,720 --> 01:41:52,040
+inhibitors, but if I recall, it did not produce that effect in the mice. We don't know whether
+
+1038
+01:41:52,040 --> 01:41:57,400
+the canagl flows in effect is on glucose. We don't know whether it's on SGLT2. It also has an
+
+1039
+01:41:57,400 --> 01:42:05,240
+effect on SGLT1, and there are now reports appearing in the literature, quite striking ones,
+
+1040
+01:42:05,800 --> 01:42:11,720
+some of them in clinical settings, showing effect on tumors specifically, on other aspects,
+
+1041
+01:42:11,720 --> 01:42:16,520
+other kinds of disease, human effects on heart attacks, independent of whatever's happening in
+
+1042
+01:42:16,520 --> 01:42:23,400
+terms of glycemic control. The shortest, simplest explanation, it's effecting glucose may not be
+
+1043
+01:42:23,400 --> 01:42:29,560
+right. There are other ideas that deserve a lot of exploration. Yeah, we are very excited about
+
+1044
+01:42:30,120 --> 01:42:35,560
+this class of drugs clinically in our practice. The cardio protection, renal protection, obviously
+
+1045
+01:42:35,560 --> 01:42:40,920
+the glycemic benefits are all pretty exciting. Of course, this brings us to an interesting contrast.
+
+1046
+01:42:41,480 --> 01:42:50,520
+I think if rapamycin is one of the most remarkable success stories of the ITP in terms of its
+
+1047
+01:42:50,520 --> 01:42:58,280
+consistency, personally for me, the biggest surprise of the ITP is the failure of metformin.
+
+1048
+01:42:58,280 --> 01:43:03,400
+Can you say a little bit about that? How was the study done? What are the possible blind spots?
+
+1049
+01:43:03,400 --> 01:43:08,760
+I mean, obviously metformin succeeded when paired with rapamycin, but you could argue that's just
+
+1050
+01:43:08,760 --> 01:43:17,160
+rapamycin, but metformin alone did not succeed. And has it only been run by itself once or twice?
+
+1051
+01:43:17,800 --> 01:43:26,360
+So I'm not surprised. There are all sorts of reasons in which metformin failure is unsurprising.
+
+1052
+01:43:26,360 --> 01:43:31,880
+One is it might be really good for people and not good for mice. Mice and people are organized very
+
+1053
+01:43:31,880 --> 01:43:36,600
+differently. It's also possible that we use the wrong dose. If we use a dose that was two-fold
+
+1054
+01:43:36,600 --> 01:43:41,720
+lower or two-fold higher, it might have been great. Or if we had given it for a few months
+
+1055
+01:43:41,720 --> 01:43:45,960
+and then taken it away for a month and then given it for a few months, that might have worked as
+
+1056
+01:43:45,960 --> 01:43:52,760
+well. We tried it at one dose with one continuous dosing schedule. It did not produce a significant
+
+1057
+01:43:52,760 --> 01:43:58,600
+effect, but that's not to say that it could not work in mice. And even if it could not work in
+
+1058
+01:43:58,600 --> 01:44:03,080
+mice, that's not to say that it might not be good for people. So there are all sorts of ways in which
+
+1059
+01:44:03,080 --> 01:44:07,320
+you might get a disparity. You asked how many times metformin has been tried. It's been published
+
+1060
+01:44:07,320 --> 01:44:15,080
+twice, once by Rafa Takaba, once by us. In our study, it led to no significant lifespan extension
+
+1061
+01:44:15,080 --> 01:44:22,840
+in either males or in females. In Rafa's study, which I'm about to be critical of, it produced
+
+1062
+01:44:22,840 --> 01:44:28,760
+no effect in females, and Rafa alleged that it produced a significant effect in the males.
+
+1063
+01:44:29,640 --> 01:44:36,920
+Now, the p-value was 0.046, so it was really close. And it was not the test that he ordinarily uses.
+
+1064
+01:44:37,560 --> 01:44:43,640
+Our lab and almost everybody, including Rafa, always uses the log-rank test. And he didn't
+
+1065
+01:44:43,640 --> 01:44:50,200
+use the log-rank test. Instead, he picked another test which gives special weight to early deaths.
+
+1066
+01:44:50,200 --> 01:44:57,080
+And if you use that special specific test, then it is statistically significant.
+
+1067
+01:44:57,800 --> 01:45:01,480
+At a p-value of 0.046, my hunch is...
+
+1068
+01:45:01,480 --> 01:45:03,560
+It didn't work with the log-rank.
+
+1069
+01:45:03,560 --> 01:45:10,040
+Yeah, it tried. It failed. So they went, statistics shopping, found one where it got to 0.046 and
+
+1070
+01:45:10,040 --> 01:45:16,680
+published that. I have asked Rafa for the data privately two or three times. He's always agreed
+
+1071
+01:45:16,680 --> 01:45:20,760
+to send it to me over the last three or four years, but it hasn't actually arrived yet.
+
+1072
+01:45:20,760 --> 01:45:23,240
+Well, maybe this podcast will help speed that up.
+
+1073
+01:45:23,240 --> 01:45:28,840
+I hope so. In any case, whether or not his was just over or just under the border of statistical
+
+1074
+01:45:28,840 --> 01:45:35,320
+significance, it was a small effect at best. And in ITP, it didn't work at all. But it might work,
+
+1075
+01:45:35,320 --> 01:45:36,200
+might be good for people.
+
+1076
+01:45:36,840 --> 01:45:41,960
+Yeah. Well, I mean, I guess that's the challenge here, right? Is you've got these agents that
+
+1077
+01:45:43,320 --> 01:45:48,200
+work under so many different circumstances. And again, you can probably tell, Rich, my bias is...
+
+1078
+01:45:48,760 --> 01:45:54,120
+I think Rapamycin is an amazing agent here. And I think it's one that warrants lots of investigation
+
+1079
+01:45:54,120 --> 01:46:00,200
+in humans, because I think that the non-human literature are so compelling, right? Both in terms
+
+1080
+01:46:00,200 --> 01:46:05,320
+of the actual drug use and also the mechanism of action and the genetic manipulation all the way
+
+1081
+01:46:05,320 --> 01:46:14,040
+from worms, fruit flies, obviously, mice, yeast, Matt Kaberlin's dogs. It just over and over and
+
+1082
+01:46:14,040 --> 01:46:20,680
+over again demonstrates efficacy. And even when you look at the softer endpoints in humans,
+
+1083
+01:46:20,680 --> 01:46:24,840
+softer is maybe the wrong word, but less longevity specific, but things like immune
+
+1084
+01:46:24,840 --> 01:46:27,720
+function and things like that, it always seems to be pointing in the right direction.
+
+1085
+01:46:28,440 --> 01:46:33,640
+Now, in metformin, we have this undeniable data of diabetics that take it versus diabetics that
+
+1086
+01:46:33,640 --> 01:46:39,480
+don't. And you can slice that 10 ways to Sunday. It always seems to favor metformin in that diabetic
+
+1087
+01:46:39,480 --> 01:46:44,520
+group. But as Nir Barzilai and many others are interested in, what does that tell us about
+
+1088
+01:46:44,520 --> 01:46:51,880
+non-diabetics? Is there a way we can better get at that answer while we await the results of a TAME
+
+1089
+01:46:51,880 --> 01:46:57,240
+study to get funded and executed? Is there another ITP we should be doing?
+
+1090
+01:46:57,240 --> 01:47:02,360
+Well, the principle stimulus for, at least for me, and I assume for those who've
+
+1091
+01:47:03,320 --> 01:47:08,840
+been spending their time developing this test of metformin in aging people, the TAME study,
+
+1092
+01:47:09,480 --> 01:47:13,880
+was a paper doubtless familiar to you, an epidemiological paper. The point of the paper
+
+1093
+01:47:13,880 --> 01:47:17,560
+was not so much that metformin was good for diabetics, which everybody knew it was.
+
+1094
+01:47:18,200 --> 01:47:24,680
+It was that the mortality risk of diabetics on metformin was actually better than non-diabetics
+
+1095
+01:47:24,680 --> 01:47:31,080
+of the same age and sex. So that doesn't prove that metformin is good for non-diabetics,
+
+1096
+01:47:31,800 --> 01:47:37,320
+but it's certainly a hint in that direction. Now, it was an observational study, not a controlled,
+
+1097
+01:47:37,320 --> 01:47:43,560
+randomized clinical trial, of course, so it might not be right. But that was a really big hint that
+
+1098
+01:47:44,680 --> 01:47:51,480
+if you're a person non-diabetic and you're not taking metformin, your chances of death over a
+
+1099
+01:47:51,480 --> 01:47:56,920
+wide range of ages are actually worse than a diabetic person as long as a diabetic person
+
+1100
+01:47:56,920 --> 01:48:03,880
+is being protected by metformin. So my view, even though it's a single study and others now need to
+
+1101
+01:48:03,880 --> 01:48:09,560
+be done and all sorts of caveats need to be kept in mind during the interpretation, that's a hint
+
+1102
+01:48:09,560 --> 01:48:17,000
+that metformin may well be pretty good for non-diabetic people as well. And studying that in
+
+1103
+01:48:17,000 --> 01:48:24,280
+terms of a randomized clinical trial strikes me as justified. It's very expensive, it's very ambitious
+
+1104
+01:48:25,160 --> 01:48:32,760
+to meet the FDA criteria, and in order to try to get results before they all become emeritus or retire,
+
+1105
+01:48:32,760 --> 01:48:38,520
+they need to have endpoints that can be measured five to, oh gosh, as many as seven years in the
+
+1106
+01:48:38,520 --> 01:48:46,520
+future. So for human lifespan, it's kind of a short term, but it may work and it's not my money and I
+
+1107
+01:48:46,520 --> 01:48:51,240
+can't wait to see what they come up with. So there's one more compound I want to talk about,
+
+1108
+01:48:51,240 --> 01:48:57,480
+which by the time this podcast will come out will be at least in a preprint, and that's nicotinamide
+
+1109
+01:48:57,480 --> 01:49:08,680
+riboside. So I guess it's safe to say that if resveratrol was the in molecule of the early 2000s,
+
+1110
+01:49:08,680 --> 01:49:16,360
+the next big in molecule has been anything that points to NAD. Again, I don't know how many times
+
+1111
+01:49:16,360 --> 01:49:22,200
+I have to get an email or a text message saying, hey, what do you think about these NAD IV clinics?
+
+1112
+01:49:22,200 --> 01:49:28,120
+I really have heard great things about this, and what do you think about NR and NMN and these
+
+1113
+01:49:28,120 --> 01:49:36,520
+sorts of things? So I guess I'll give a really, really, really fast explanation of what NAD is,
+
+1114
+01:49:36,520 --> 01:49:43,480
+why it might matter, and why we give NR orally as a precursor to it. I'll be glad to. I feel a little
+
+1115
+01:49:43,480 --> 01:49:49,320
+embarrassed because you know 10 times more than I do about this, particularly in a clinical context.
+
+1116
+01:49:49,320 --> 01:49:55,240
+If you had to make a list of the 10 or 15 or 20 molecules that are part of intermediate
+
+1117
+01:49:55,240 --> 01:50:03,160
+or metabolism that may well be really important elements in the control of aging rate, NAD and its
+
+1118
+01:50:04,280 --> 01:50:09,560
+chemical derivatives would surely be on that list. It's at the top of your list. For some people,
+
+1119
+01:50:09,560 --> 01:50:14,280
+it's sort of in the middle for others at the bottom, but it deserves a lot of attention.
+
+1120
+01:50:14,280 --> 01:50:20,120
+There's a great deal of pretty strong data suggesting that aspects of aging and age-sensitive
+
+1121
+01:50:20,120 --> 01:50:27,080
+diseases, age-associated diseases, can be altered by making NAD more or less available. One of the
+
+1122
+01:50:27,080 --> 01:50:32,360
+reasons it's gotten so much attention is because of clever marketing. There are scientists who have
+
+1123
+01:50:32,360 --> 01:50:39,320
+made a great deal of money by making more or less unsupported. You can't sue them. They're not lying
+
+1124
+01:50:39,320 --> 01:50:45,720
+exactly, but they're sort of winking and nodding, saying, hey, take this formulation. It'll sort of
+
+1125
+01:50:45,720 --> 01:50:51,160
+do some goodish stuff to your NAD. We're not allowed to say, well, treat any disease because
+
+1126
+01:50:51,160 --> 01:50:56,760
+we would run afoul of the FDA, but wink, wink, try it. It's a nutritional supplement, and they've made
+
+1127
+01:50:56,760 --> 01:51:01,000
+a lot of money and gotten a lot of attention, some of it positive and some of it negative.
+
+1128
+01:51:01,960 --> 01:51:08,760
+The reason that NR, nicotinamide riboside, was recommended to us by a company that wants to sell
+
+1129
+01:51:09,720 --> 01:51:14,200
+it is that it's orally bioavailable and more stable than some of the other ways that have
+
+1130
+01:51:14,200 --> 01:51:19,400
+been proposed by Mal. Can you disclose which company asked? There's probably only two or three.
+
+1131
+01:51:19,400 --> 01:51:23,800
+I think it's public. I think it's Chemidex. I think it's public knowledges who suggest things
+
+1132
+01:51:23,800 --> 01:51:28,840
+to the ITP. They said, well, we'll provide it to you. You guys test it. You can publish results
+
+1133
+01:51:28,840 --> 01:51:33,640
+positive or negative, just in the interest of science. Let's find out. That's a highly honorable
+
+1134
+01:51:33,640 --> 01:51:40,920
+and sensible thing for them to have done. We tested it. It's a bioavailable form. We used a
+
+1135
+01:51:40,920 --> 01:51:47,480
+dose that they suggested, and the paper that will have come out by the time this podcast becomes
+
+1136
+01:51:47,480 --> 01:51:54,760
+available suggested that NR did not extend lifespan in our mice. There are all the usual caveats.
+
+1137
+01:51:54,760 --> 01:52:00,760
+Maybe it would have if we'd given it at a higher dose or at a lower dose. In addition, we tried
+
+1138
+01:52:01,400 --> 01:52:06,440
+a little bit to detect it in various tissues. There's a collaborator who looked at the brains
+
+1139
+01:52:06,440 --> 01:52:14,680
+and the muscles and the hearts. We were not able to demonstrate a consistent major change in NAD
+
+1140
+01:52:14,680 --> 01:52:20,760
+levels in these tissues. NAD is a highly active molecule, as of course you know, that turns over
+
+1141
+01:52:20,760 --> 01:52:27,640
+constantly. With a time scale of a few seconds to a few minutes can go way up or way down in given
+
+1142
+01:52:27,640 --> 01:52:32,200
+cells depending on how stressed one is or how high the glucose is or whether you're exercising,
+
+1143
+01:52:32,200 --> 01:52:39,560
+all that stuff. It's possible that we fail to measure major changes in NAD in our treated mice
+
+1144
+01:52:39,560 --> 01:52:44,600
+because we should have fasted them or we should have let them rest for a few hours or we should
+
+1145
+01:52:44,600 --> 01:52:49,640
+have gotten the blood out in a different way or something like that. In any case, the observations
+
+1146
+01:52:49,640 --> 01:52:54,760
+that we're confident of, at the dose we used, it did not produce a lifespan effect.
+
+1147
+01:52:54,840 --> 01:52:59,720
+Did it produce any benefit? Well, we would have to go and check for other things. The first time we
+
+1148
+01:53:00,440 --> 01:53:05,640
+do a study with a new drug, lifespan is the only thing we measure. We would love to be able to
+
+1149
+01:53:05,640 --> 01:53:11,640
+measure immune function and vision and hearing and cardiovascular function, etc. But those are
+
+1150
+01:53:11,640 --> 01:53:17,160
+expensive and if we did those, we would have to spend money on them and cut back by a factor of
+
+1151
+01:53:17,160 --> 01:53:21,800
+whatever, two or three or five, the number of drugs we test. We generally reserve those health
+
+1152
+01:53:21,800 --> 01:53:27,560
+outcomes only for those drugs that give a lifespan benefit and NR did not in our hands
+
+1153
+01:53:27,560 --> 01:53:32,520
+give a lifespan benefit. You started the NR at about eight months of age. Again, this is a
+
+1154
+01:53:32,520 --> 01:53:38,200
+reasonably young man animal in its 20s, the equivalent of a human. Do you have a sense of
+
+1155
+01:53:38,200 --> 01:53:45,000
+what the dose was on the scale of where humans are taking this commercially? I believe humans are
+
+1156
+01:53:45,000 --> 01:53:50,760
+typically, oh God, I don't even know, taking probably a couple of grams of this stuff a day?
+
+1157
+01:53:50,760 --> 01:53:57,400
+I do not know. I'd have to look it up. But the company basically had you utilizing a dose that
+
+1158
+01:53:57,400 --> 01:54:01,960
+they felt was consistent with what humans are being encouraged to take? We followed their
+
+1159
+01:54:01,960 --> 01:54:07,080
+recommendations. We picked a dose that they said would be an appropriate good starting dose for
+
+1160
+01:54:07,080 --> 01:54:11,720
+our tests and we followed their guidance on this. It's a little tricky when you're going to give
+
+1161
+01:54:11,720 --> 01:54:17,160
+something for lifespan. If there are doses that are often of drug X, I'm not talking about NR,
+
+1162
+01:54:17,160 --> 01:54:22,120
+but doses of drug X that are typically given to people for a month or two and it's really good
+
+1163
+01:54:22,120 --> 01:54:26,200
+and doesn't produce side effects, you still worry that might not work for mice because if you're
+
+1164
+01:54:26,200 --> 01:54:32,280
+going to give it to them the whole lifespan, side effects may accrue. So if there is an ambiguity,
+
+1165
+01:54:32,280 --> 01:54:37,160
+we want to start usually with a pretty low dose because if they're going to be on it from
+
+1166
+01:54:37,160 --> 01:54:44,040
+four months of age until death, keeping the dose nice and low is probably an important precaution
+
+1167
+01:54:44,040 --> 01:54:48,680
+against unanticipated side effects that might not be seen in an acute treatment.
+
+1168
+01:54:48,680 --> 01:54:54,280
+How often do you guys see unanticipated consequences of exactly what you describe,
+
+1169
+01:54:54,280 --> 01:55:00,360
+where side effects don't show up in the first year of the mouse receiving the drug but show up later?
+
+1170
+01:55:00,360 --> 01:55:06,120
+Well, we have not yet. This surprised me somewhat. We have not yet found any drugs suggested to us
+
+1171
+01:55:06,760 --> 01:55:13,160
+that caused a shortening of the lifespan. None of the drugs that we've used has caused a significant
+
+1172
+01:55:13,160 --> 01:55:16,920
+decline in lifespan. There were one or two where the lifespan went down 5% or 8%,
+
+1173
+01:55:17,480 --> 01:55:21,720
+but it didn't achieve statistical significance. Now, there could be some side effects that we
+
+1174
+01:55:21,720 --> 01:55:28,280
+don't look for. Maybe the mice have problems with hearing or sight or memory or muscle function or
+
+1175
+01:55:28,280 --> 01:55:31,240
+something like that, which we would never see unless we look for them.
+
+1176
+01:55:31,880 --> 01:55:39,560
+It really seems that there are three really important takeaways from, what are you at now,
+
+1177
+01:55:39,560 --> 01:55:47,480
+1820 cohorts of ITPs? Almost 100 studies here, basically, or 100 experiments, which is
+
+1178
+01:55:48,120 --> 01:55:56,280
+mTOR matters, less glucose is better than more, and sex-specific steroid hormones probably do
+
+1179
+01:55:56,280 --> 01:56:01,640
+something relevant. If you were at a dinner party and someone asked you to give them
+
+1180
+01:56:03,000 --> 01:56:09,000
+the most salient findings of the last two decades, would that be a fair assessment?
+
+1181
+01:56:09,560 --> 01:56:13,320
+I think the points you're making are really good ones, but it's not quite the way I would put it
+
+1182
+01:56:13,320 --> 01:56:19,160
+if I were allowed to pick only three. Okay, give me your three. The first point I'd make is the one
+
+1183
+01:56:19,160 --> 01:56:24,280
+we began at the beginning of this conversation, which is that by gosh, you actually can put
+
+1184
+01:56:24,280 --> 01:56:29,480
+something in the food that extends healthy lifespan, and it's an enormous effect, 10 times
+
+1185
+01:56:29,480 --> 01:56:36,600
+better than a cure for cancer. In terms of the fundamental imagining of where medical research
+
+1186
+01:56:36,600 --> 01:56:42,680
+ought to go and what people who want to make their friends stay alive and healthy longer should
+
+1187
+01:56:42,680 --> 01:56:48,040
+think about, our program shows that what they should think about is finding drugs that slow aging.
+
+1188
+01:56:48,920 --> 01:56:52,680
+It seems obvious, you know, you and I are talking about it because we sort of believe that, we sort
+
+1189
+01:56:52,680 --> 01:56:57,320
+of think it's cool and interesting and important, but that's most of my friends, scientific and
+
+1190
+01:56:57,320 --> 01:57:02,920
+non-scientific, they haven't decided that that's the case. So I would take that as the first,
+
+1191
+01:57:02,920 --> 01:57:09,800
+most important take-home message. The second take-home message would be, to my mind, the really
+
+1192
+01:57:09,800 --> 01:57:16,280
+surprising finding that some of the time, maybe even most of the time, these drugs work even when
+
+1193
+01:57:16,280 --> 01:57:21,560
+you start them in middle age. I would have guessed against that when we started. I would have said
+
+1194
+01:57:21,560 --> 01:57:27,400
+you have to start in youth, period, but that was a bad guess, and two drugs that we've tested so far
+
+1195
+01:57:27,400 --> 01:57:31,960
+work just as well in middle age, and one works half as well. So that was a bad guess, and that's
+
+1196
+01:57:31,960 --> 01:57:37,480
+really important too in terms of both the understanding of aging and also thinking about
+
+1197
+01:57:37,480 --> 01:57:44,840
+transition to human usage. The third point I would make of broad genital applicability, I would have
+
+1198
+01:57:44,840 --> 01:57:50,360
+guessed any drug that works is going to work in both sexes, and that's mostly wrong. We have two
+
+1199
+01:57:50,360 --> 01:57:55,400
+drugs, rapamycin and one we didn't mention, the amino acid glycine, which have equally strong
+
+1200
+01:57:55,400 --> 01:58:00,680
+effects in males and females. We didn't talk about glycine because it works in males and females,
+
+1201
+01:58:00,680 --> 01:58:05,880
+significant, but it's a really tiny effect, and so it's sort of fallen by the wise side as we've
+
+1202
+01:58:05,880 --> 01:58:11,400
+moved on to drugs with greater effectiveness. But the sex specificity and the ability to start in
+
+1203
+01:58:11,400 --> 01:58:19,480
+late life were both surprises and open up new ideas about how can you discover why it's working
+
+1204
+01:58:19,480 --> 01:58:25,560
+in old age, and how can you discover why it's working in one sex but not both. Those are important
+
+1205
+01:58:25,560 --> 01:58:31,080
+research questions, and we could easily take three or four or five times as many really good
+
+1206
+01:58:31,080 --> 01:58:37,240
+new labs in aging and devote them to trying to tease out those puzzles. And then the fourth set
+
+1207
+01:58:37,240 --> 01:58:43,240
+of questions would be the ones you brought up. You're pointing to specific molecular clues. Is
+
+1208
+01:58:43,240 --> 01:58:50,120
+it TOR? Is it glucose? Are there sex-specific hormone receptors in the brain that are important?
+
+1209
+01:58:50,600 --> 01:58:56,200
+I think those are really interesting as well, and in fact any postdoc or grad student who comes into
+
+1210
+01:58:56,200 --> 01:59:02,200
+my lab, they get one of those to work on. That's the cutting edge of turning this into a molecular
+
+1211
+01:59:02,200 --> 01:59:08,120
+and cellular understanding of what slows the aging process and where we ought to pay attention when
+
+1212
+01:59:08,120 --> 01:59:13,480
+we want to find new drugs that will work in just the same way. So the points you've made strike me
+
+1213
+01:59:13,480 --> 01:59:19,240
+as highly pertinent, very important for anyone who wants to work on something in this area,
+
+1214
+01:59:19,240 --> 01:59:23,800
+but the three more general points that it works at all, that it can work late in life,
+
+1215
+01:59:23,800 --> 01:59:28,360
+and that it's often sex-specific, I don't want those to get lost in the shuffle because they
+
+1216
+01:59:28,360 --> 01:59:34,280
+fundamentally rearrange our ideas about aging, about late life disease, and about what one ought
+
+1217
+01:59:34,280 --> 01:59:40,200
+to do if one was, say, in charge of America or the universe's medical research apparatus.
+
+1218
+01:59:41,000 --> 01:59:47,880
+On that point, Rich, if money were absolutely no object, and the reality of it is it doesn't need
+
+1219
+01:59:47,880 --> 01:59:54,440
+to be as extreme as one thinks. But let's just say that the NIH came along and said, look,
+
+1220
+01:59:55,000 --> 02:00:03,720
+we are going to give you the budget you need to study these questions in any animal. What would
+
+1221
+02:00:03,720 --> 02:00:12,760
+you choose as the best model organism that would give you the trade-off of duration and closeness
+
+1222
+02:00:12,840 --> 02:00:17,880
+to humans? Would it be staying where you are, where you have an advantage that you get answers
+
+1223
+02:00:17,880 --> 02:00:22,760
+quickly, but the disadvantage is you're quite far from humans? Or would you move more towards
+
+1224
+02:00:23,480 --> 02:00:30,120
+what we saw in the very famous caloric restriction experiments at Wisconsin and NIA in the 80s and
+
+1225
+02:00:30,120 --> 02:00:37,000
+90s, or sort of 90s through 2000s, where you were very close to humans, but obviously it took a long
+
+1226
+02:00:37,000 --> 02:00:43,560
+time to get the answer. So I have two answers for you. The first is the mouse, and the other is
+
+1227
+02:00:43,560 --> 02:00:48,760
+it's a bad question. If you ask a carpenter, what is the most important tool, you'll get the same
+
+1228
+02:00:48,760 --> 02:00:53,880
+sort of answer, because the answer is the tool that I select depends upon the problem I have to
+
+1229
+02:00:53,880 --> 02:01:00,360
+solve. I think that each of the major experimental animals that is currently receiving a lot of
+
+1230
+02:01:00,360 --> 02:01:05,240
+attention is doing something good. They're molecular and genetic questions that are best
+
+1231
+02:01:05,320 --> 02:01:10,600
+addressed by flies and worms, even though they don't resemble me and my mouse in more than
+
+1232
+02:01:11,320 --> 02:01:18,360
+cellular aspects. But they're things that they can only solve, that we can't solve, and that's an
+
+1233
+02:01:18,360 --> 02:01:23,640
+important thing to understand. In primates, I think there are a few people who are starting to
+
+1234
+02:01:23,640 --> 02:01:28,840
+understand that rhesus is not where it's at. Marmoset is where it's at, because marmosets
+
+1235
+02:01:28,840 --> 02:01:34,760
+are primates. They are organized much like humans, but they have a lifespan, an average lifespan,
+
+1236
+02:01:34,760 --> 02:01:40,600
+maybe eight or ten years, something like that. So like dogs, they have the advantage of a lifespan
+
+1237
+02:01:40,600 --> 02:01:45,960
+which is longer than we'd like, but short enough that you can think about doing an experiment and
+
+1238
+02:01:45,960 --> 02:01:51,400
+completing it within about a decade. Some of the work has to be done in humans, too, for reasons I
+
+1239
+02:01:51,400 --> 02:01:56,600
+don't think I need to convince you of. The mouse is the correct answer. If you have to pick what,
+
+1240
+02:01:56,600 --> 02:02:01,240
+it's got to be the mouse. You said they're not much like people, but of course they're extremely
+
+1241
+02:02:01,240 --> 02:02:05,080
+like people. They have the hypothalamus, they have the pancreas, they have the beta cells.
+
+1242
+02:02:05,640 --> 02:02:12,280
+There are very few things, organs or cells or circuits or hormones or whatever, that mice have
+
+1243
+02:02:12,280 --> 02:02:18,360
+that people don't have or vice versa. There's important subtleties. Yeah, I guess I'd push back
+
+1244
+02:02:18,360 --> 02:02:24,600
+a little bit in terms of some of the differences are profound, right? So one profound difference
+
+1245
+02:02:25,080 --> 02:02:32,040
+is herbivores versus omnivores. Now that might pose a lot less of a difference for the ITPs than
+
+1246
+02:02:32,040 --> 02:02:36,760
+it does for one of my pet peeves, which is the never-ending nutritional studies of mice,
+
+1247
+02:02:36,760 --> 02:02:42,920
+which I find generally unhelpful for that reason. And we've even discussed it today in the context
+
+1248
+02:02:42,920 --> 02:02:48,840
+of looking at acarbose, right? That's a nutritional intervention in some ways and it might be a little
+
+1249
+02:02:48,840 --> 02:02:54,280
+bit difficult to extrapolate. But I think the other area where we do need to be a little bit
+
+1250
+02:02:54,280 --> 02:03:00,840
+circumspect with the use of mice is that 80% of them die of cancers, a third of which are
+
+1251
+02:03:00,840 --> 02:03:09,640
+hematologic. Whereas when you look at us, all humans die with atherosclerosis, about a third die from
+
+1252
+02:03:09,640 --> 02:03:16,680
+it. And I think that is an important distinction that basically says, this is just my own personal
+
+1253
+02:03:16,680 --> 02:03:24,760
+philosophy. Any effort to thwart human aging must be able to punch atherosclerosis squarely
+
+1254
+02:03:24,760 --> 02:03:28,920
+between the eyes. So let me give you a different way of thinking about this. Let me try to change
+
+1255
+02:03:28,920 --> 02:03:34,280
+your personal philosophy here. We gave a lot of mice some rapamycin and then instead of letting
+
+1256
+02:03:34,280 --> 02:03:38,680
+them die, we euthanized them at 22 months of age when most of them were still alive and fairly
+
+1257
+02:03:38,680 --> 02:03:43,960
+healthy. And then with the aid of a pathologist, J. Irby Wilkinson, Irby looked at dozens of
+
+1258
+02:03:44,040 --> 02:03:50,680
+different organs and Sue Brooks also looked at their tendons. So their tendons were youthful,
+
+1259
+02:03:50,680 --> 02:03:55,880
+their kidneys were youthful. They did not have changes in the heart. They did not have changes
+
+1260
+02:03:55,880 --> 02:04:01,080
+in the endometrium. They did not have changes in the liver. They did not have changes in the
+
+1261
+02:04:01,080 --> 02:04:06,840
+adrenal that were characteristic of 22 month old control mice. So the implication here is
+
+1262
+02:04:07,560 --> 02:04:13,320
+that even though the leading cause of death was cancer, the rapamycin was actually slowing a very
+
+1263
+02:04:13,320 --> 02:04:20,600
+wide range of age associated changes. Now some changes, and we don't know which ones they are,
+
+1264
+02:04:21,240 --> 02:04:27,320
+produce cancer in mice and in people. Some changes, and we don't know which they are,
+
+1265
+02:04:27,320 --> 02:04:33,400
+produce atherosclerosis or strokes or diabetes in people and in a small fraction of mice.
+
+1266
+02:04:34,040 --> 02:04:40,200
+So from my perspective, the details of what you're going to die of, whether it's mostly a stroke,
+
+1267
+02:04:40,200 --> 02:04:46,680
+mostly atherosclerotic in nature, or mostly neoplastic, they're certainly important if you're
+
+1268
+02:04:46,680 --> 02:04:50,840
+if you've got a patient, if you want to help that patient, or if you're looking for disease specific
+
+1269
+02:04:50,840 --> 02:04:56,600
+drugs. But my interest is not related to that. It's to what can we do to slow the aging process?
+
+1270
+02:04:56,600 --> 02:05:02,760
+And I think it's a very plausible, at least plausible idea that when you slow the aging,
+
+1271
+02:05:02,760 --> 02:05:08,840
+whatever diseases afflict the members of that species will be slowed down as well. Alzheimer's
+
+1272
+02:05:08,840 --> 02:05:13,880
+disease, for instance, does not ordinarily occur in mice. It's obviously a major hassle for people.
+
+1273
+02:05:14,520 --> 02:05:18,840
+Yet if you make a mouse that has some aspects of Alzheimer's disease and you're given these drugs,
+
+1274
+02:05:18,840 --> 02:05:26,840
+the disease is postponed. And so that's consistent with the notion that whatever diseases aging
+
+1275
+02:05:26,840 --> 02:05:36,200
+leads to in either species, anti-aging medications will help retard. Cause of death is an important
+
+1276
+02:05:36,200 --> 02:05:43,080
+wrinkle, but only an elaboration of the aging process in a species specific way.
+
+1277
+02:05:43,080 --> 02:05:48,760
+And I think this also speaks to the importance of whenever possible starting younger, although again,
+
+1278
+02:05:48,760 --> 02:05:54,120
+rapamycin almost flies in the face of that. But the earlier you would start, the more opportunity
+
+1279
+02:05:54,120 --> 02:06:00,440
+you would have to beneficially impact those tendons, those nephrons, those cardiac myocytes,
+
+1280
+02:06:00,440 --> 02:06:05,240
+and those neurons. That's a really good general point. I used to agree with that completely.
+
+1281
+02:06:05,240 --> 02:06:11,960
+And now I think one has to answer that question directly point by point by point. The fact that
+
+1282
+02:06:11,960 --> 02:06:17,880
+giving 17 alphestridiol or acarvos or rapamycin to middle aged mice, and you still get a nice
+
+1283
+02:06:17,880 --> 02:06:24,600
+postponement of whatever the lethal process is, that argues against the notion that many, many
+
+1284
+02:06:24,600 --> 02:06:30,280
+things have to start early. In addition, this is again published now. This is Mike Garrett's paper
+
+1285
+02:06:30,280 --> 02:06:37,800
+with John Herrera and Charlene Day. When they started treating some old mice with 17 alphestridiol,
+
+1286
+02:06:38,600 --> 02:06:45,000
+they postponed or reversed. It's hard to tell. Muscle changes, muscle grip strength changes,
+
+1287
+02:06:45,000 --> 02:06:49,880
+rotor rod ability, the ability to stand on a rotating rod and changes in old age and glucose
+
+1288
+02:06:49,880 --> 02:06:57,000
+tolerance. So it may be that despite my personal intuition, which is similar to the intuition that
+
+1289
+02:06:57,000 --> 02:07:04,200
+you just expressed, the evidence starts to suggest some aspects of aging can be reversed or
+
+1290
+02:07:04,200 --> 02:07:08,840
+prevented even if you're starting in late middle age. That would be cool if it was true. I would
+
+1291
+02:07:08,840 --> 02:07:14,440
+have bet against it, but I may be wrong. Has your conviction about any of the molecules you've
+
+1292
+02:07:14,440 --> 02:07:20,360
+tested in the ITP led to you taking any? I prefer not to answer that because I'm not a doctor and I
+
+1293
+02:07:20,360 --> 02:07:25,880
+would never, ever wish to recommend drugs to someone else, take them too seriously. I wasn't
+
+1294
+02:07:25,880 --> 02:07:30,200
+going to ask you which, but we'll leave it at that. We'll leave it at that. Rich, this has been
+
+1295
+02:07:30,200 --> 02:07:34,440
+an awesome discussion. I mean, I was really looking forward to this and I honestly think
+
+1296
+02:07:34,440 --> 02:07:40,680
+you have one of the coolest jobs in the world because you get to basically hear from anybody
+
+1297
+02:07:40,680 --> 02:07:47,640
+and everybody who has an idea about something that might extend life in a very straightforward
+
+1298
+02:07:47,640 --> 02:07:54,280
+intervention, which is if a person, if a person in this case, if a mouse takes this drug, will it
+
+1299
+02:07:54,280 --> 02:07:59,720
+extend their life? And you get to test this in a highly reproducible manner with two great
+
+1300
+02:07:59,720 --> 02:08:06,920
+colleagues. And you've basically got this well-oiled machine that produces these fantastic studies,
+
+1301
+02:08:06,920 --> 02:08:12,280
+which both positive and negative continue to add to the body of knowledge we have. I want to close
+
+1302
+02:08:12,280 --> 02:08:16,920
+with something really funny and you probably don't want me to do this, but I'm going to do it anyway.
+
+1303
+02:08:16,920 --> 02:08:22,760
+So in 15 years ago, you wrote something really hilarious at the MIT technology review. Do you
+
+1304
+02:08:22,760 --> 02:08:27,160
+know where I'm going with this? I remember the piece pretty well. Yes, I wrote it right here at
+
+1305
+02:08:27,160 --> 02:08:33,240
+this desk. Okay. So early morning, it was six in the morning. I couldn't sleep. I had an hour.
+
+1306
+02:08:33,800 --> 02:08:39,880
+I just felt in the mood to be mean. So I wrote the piece. Yeah. So Aubrey De Grey must have done
+
+1307
+02:08:39,880 --> 02:08:46,200
+something on television that you must have watched. Had he basically gone on TV and said,
+
+1308
+02:08:46,200 --> 02:08:52,600
+no, I made that part up. I'd been hearing Aubrey speak over and over and over and over again
+
+1309
+02:08:53,160 --> 02:09:00,040
+for many years. I fantasized that he had made a television appearance and I wanted to enlist his
+
+1310
+02:09:00,040 --> 02:09:04,840
+help. And basically what you said is I'm going to read just the first part of this to Aubrey.
+
+1311
+02:09:04,840 --> 02:09:11,240
+So the MIT tech review published this. I saw you on TV the other day and I was hoping that now that
+
+1312
+02:09:11,240 --> 02:09:17,480
+the aging problem has been solved, you might have time to help me in my publicity campaign to solve
+
+1313
+02:09:17,480 --> 02:09:23,240
+a similar engineering challenge, one that has been too long ignored by the ultra conservative
+
+1314
+02:09:23,240 --> 02:09:30,200
+fraidy cat mainstream scientific community. The problem of producing flying pigs, a theoretical
+
+1315
+02:09:30,200 --> 02:09:37,160
+analysis of the problem using the fastest available modern computers shows that there are a mere
+
+1316
+02:09:37,160 --> 02:09:45,800
+seven reasons why pigs cannot at present fly. One, they do not have wings. Two, they are too
+
+1317
+02:09:45,800 --> 02:09:54,280
+heavy to get off the ground. Three, the so-called law of gravity. Four, they cannot climb trees.
+
+1318
+02:09:55,320 --> 02:10:04,840
+Five, hair instead of feathers. Six, they do not wish to fly. And seven, they do not tweet. Now
+
+1319
+02:10:05,720 --> 02:10:10,360
+this is really funny because you wrote this prior to Twitter. When I read this, I was like, what does
+
+1320
+02:10:10,360 --> 02:10:14,680
+tweeting have to do with anything? And of course, I had to remind myself Twitter didn't even exist in
+
+1321
+02:10:14,680 --> 02:10:19,400
+2005. I'm not going to read the rest of this, but we're going to link to it in the show notes
+
+1322
+02:10:19,400 --> 02:10:24,440
+because it is a brilliant, you go into great detail elaborating on each of your points.
+
+1323
+02:10:25,240 --> 02:10:32,120
+But this is to me really a great example of who you are, right? Which is you're grounded in reality
+
+1324
+02:10:32,120 --> 02:10:38,360
+and you don't buy into this idea that immortality is in our future. And you view it as an enormous
+
+1325
+02:10:38,360 --> 02:10:45,000
+win if there's a drug out there that can extend human life by 25%. I'm in your camp, Rich. I'm
+
+1326
+02:10:45,000 --> 02:10:50,280
+highly biased and I've seen nothing to suggest that immortality is in our future. And frankly,
+
+1327
+02:10:50,280 --> 02:10:57,400
+I'm not sure it should be even if we were ever given the choice. But boy, 10 to 15% improvement
+
+1328
+02:10:57,400 --> 02:11:01,320
+in our lifespan and health span would be a remarkable achievement. And if there are
+
+1329
+02:11:01,320 --> 02:11:06,280
+molecules that can do that, I'm glad you're working on them. Well, I'm delighted to have
+
+1330
+02:11:06,280 --> 02:11:11,480
+been invited. A friend of mine said that he'd been on your podcast a number of times and had a
+
+1331
+02:11:11,480 --> 02:11:16,120
+wonderful, wonderful time and told me if I ever got a chance, I would enjoy it too. And this is a
+
+1332
+02:11:16,120 --> 02:11:21,480
+very good prediction. It's a real treat to be interviewed by someone who really knows the stuff
+
+1333
+02:11:21,480 --> 02:11:28,280
+and also asks the very best question. So I'm honored to have been added to your roster of guests.
+
+1334
+02:11:28,280 --> 02:11:33,000
+This has been a great pleasure for me. Rich, thank you for taking the leap of faith and sharing
+
+1335
+02:11:33,000 --> 02:11:37,000
+your work with us. This was fantastic. Good deal. Well, thank you for inviting me. Thank you for
+
+1336
+02:11:37,000 --> 02:11:41,160
+listening to this week's episode of The Drive. If you're interested in diving deeper into any
+
+1337
+02:11:41,160 --> 02:11:45,960
+topics we discuss, we've created a membership program that allows us to bring you more in-depth,
+
+1338
+02:11:45,960 --> 02:11:51,480
+exclusive content without relying on paid ads. It's our goal to ensure members get back much more
+
+1339
+02:11:51,480 --> 02:11:56,600
+than the price of the subscription. Now to that end, membership benefits include a bunch of things.
+
+1340
+02:11:56,600 --> 02:12:01,800
+One, totally kick-ass comprehensive podcast show notes that detail every topic, paper,
+
+1341
+02:12:01,800 --> 02:12:07,080
+person, thing we discuss on each episode. The word on the street is nobody's show notes rival these.
+
+1342
+02:12:07,800 --> 02:12:12,280
+Monthly AMA episodes or ask me anything episodes, hearing these episodes completely.
+
+1343
+02:12:13,080 --> 02:12:17,960
+Access to our private podcast feed that allows you to hear everything without having to listen
+
+1344
+02:12:17,960 --> 02:12:23,560
+to spiel's like this. The Qualies, which are a super short podcast that we release every Tuesday
+
+1345
+02:12:23,560 --> 02:12:28,280
+through Friday, highlighting the best questions, topics, and tactics discussed on previous episodes
+
+1346
+02:12:28,280 --> 02:12:33,240
+of The Drive. This is a great way to catch up on previous episodes without having to go back and
+
+1347
+02:12:33,240 --> 02:12:39,000
+necessarily listen to everyone. Steep discounts on products that I believe in, but for which I'm not
+
+1348
+02:12:39,000 --> 02:12:43,720
+getting paid to endorse, and a whole bunch of other benefits that we continue to trickle in
+
+1349
+02:12:43,720 --> 02:12:47,800
+as time goes on. If you want to learn more and access these member-only benefits, you can head
+
+1350
+02:12:47,800 --> 02:12:55,160
+over to PeterAttiaMD.com forward slash subscribe. You can find me on Twitter, Instagram, and Facebook,
+
+1351
+02:12:55,160 --> 02:13:01,720
+all with the ID PeterAttiaMD. You can also leave us a review on Apple Podcasts or whatever podcast
+
+1352
+02:13:01,720 --> 02:13:07,240
+player you listen on. This podcast is for general informational purposes only, does not constitute
+
+1353
+02:13:07,240 --> 02:13:11,960
+the practice of medicine, nursing, or other professional healthcare services, including
+
+1354
+02:13:11,960 --> 02:13:18,120
+the giving of medical advice. No doctor-patient relationship is formed. The use of this information
+
+1355
+02:13:18,120 --> 02:13:23,800
+and the materials linked to this podcast is at the user's own risk. The content on this podcast
+
+1356
+02:13:23,800 --> 02:13:29,000
+is not intended to be a substitute for professional medical advice, diagnosis, or treatment.
+
+1357
+02:13:29,640 --> 02:13:35,720
+Users should not disregard or delay in obtaining medical advice from any medical condition they
+
+1358
+02:13:35,720 --> 02:13:41,080
+have, and they should seek the assistance of their healthcare professionals for any such conditions.
+
+1359
+02:13:41,720 --> 02:13:45,960
+Finally, I take conflicts of interest very seriously. For all of my disclosures and the
+
+1360
+02:13:45,960 --> 02:13:53,160
+companies I invest in or advise, please visit PeterAttiaMD.com forward slash about
+
+1361
+02:13:53,160 --> 02:13:57,000
+where I keep an up-to-date and active list of such companies.
+

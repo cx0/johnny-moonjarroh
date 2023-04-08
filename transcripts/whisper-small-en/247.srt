@@ -1,0 +1,5988 @@
+1
+00:00:00,000 --> 00:00:05,760
+Hey, everyone. Welcome to the Drive podcast. I'm your host, Peter Attia.
+
+2
+00:00:05,760 --> 00:00:14,320
+All right, Ethan, thanks so much for making time to sit down again. This is round two,
+
+3
+00:00:14,320 --> 00:00:18,200
+although I kind of don't remember when round one was. I think it was 2019, but it might
+
+4
+00:00:18,200 --> 00:00:20,560
+have been 2018, right?
+
+5
+00:00:20,560 --> 00:00:27,400
+I think it was 18, which is just a function of the fact that neither of us can remember
+
+6
+00:00:27,400 --> 00:00:29,320
+how long ago it was.
+
+7
+00:00:29,320 --> 00:00:35,520
+Yeah. Well, that time we spoke in person and we sat in your office at UCSF, but you're
+
+8
+00:00:35,520 --> 00:00:38,640
+sitting in a new office today and we're not in person, but more importantly, where are
+
+9
+00:00:38,640 --> 00:00:42,360
+you sitting today? And there's been a bit of a change in your life in the past year,
+
+10
+00:00:42,360 --> 00:00:43,360
+huh?
+
+11
+00:00:43,360 --> 00:00:46,560
+Yeah, so I did. It's been an evolutionary change over the past couple of years, but
+
+12
+00:00:46,560 --> 00:00:52,080
+I did have sort of a midlife crisis and decided that I didn't envision myself doing the same
+
+13
+00:00:52,080 --> 00:00:57,320
+thing I'd been doing for the prior 25 years for the next 25 years. If I should be lucky
+
+14
+00:00:57,320 --> 00:01:01,800
+enough to be around in 25 years. And I was given the opportunity to get involved with
+
+15
+00:01:01,800 --> 00:01:09,720
+the local group of investors who create biotech companies and they asked me to help them conceive
+
+16
+00:01:09,720 --> 00:01:15,480
+and eventually they started a new biotech company. So I closed my lab and have become
+
+17
+00:01:15,480 --> 00:01:21,400
+a volunteer clinical faculty at UCSF and see patients infrequently and spend most of my
+
+18
+00:01:21,400 --> 00:01:27,280
+time over here working to build this new company that I can at least tell you a little bit
+
+19
+00:01:27,800 --> 00:01:28,800
+about later on.
+
+20
+00:01:28,800 --> 00:01:34,400
+Yeah. Well, I know we're going to talk about some of the science that the company is interested
+
+21
+00:01:34,400 --> 00:01:38,840
+in because it factors in directly to what we wanted to talk about today. So there will
+
+22
+00:01:38,840 --> 00:01:45,240
+be a chance to talk about that for sure. But in some ways, this podcast is really just
+
+23
+00:01:45,240 --> 00:01:51,960
+a compilation of our email exchanges over the past couple of years. And so I think at
+
+24
+00:01:51,960 --> 00:01:55,160
+some point we said we should just do another podcast because we keep emailing each other
+
+25
+00:01:55,160 --> 00:02:00,320
+about these things. And I suspect as is often the case, there's value in sharing what it
+
+26
+00:02:00,320 --> 00:02:07,880
+is that we talk about with others. So let's just start with a quick recap of what a calcium
+
+27
+00:02:07,880 --> 00:02:12,800
+score is. And then we'll follow that up by what a CT angiogram is because I think those
+
+28
+00:02:12,800 --> 00:02:18,280
+two need to be understood to understand much of what we'll talk about in the next God knows
+
+29
+00:02:18,280 --> 00:02:19,280
+how long.
+
+30
+00:02:19,280 --> 00:02:24,000
+Yeah. So, you know, we talked about this the last time. I think I do remember that we spent
+
+31
+00:02:24,000 --> 00:02:30,680
+a lot of time talking about the distinction between calcium scanning and CT angiography.
+
+32
+00:02:30,680 --> 00:02:34,360
+And as we discussed last time, I think, you know, you've used the analogy before the calcium
+
+33
+00:02:34,360 --> 00:02:41,840
+scan that sort of demonstrates a site of a prior injury. What we know is that quantitatively
+
+34
+00:02:41,840 --> 00:02:48,400
+the amount of calcium that is in the distribution of the coronary arteries is correlated significantly
+
+35
+00:02:48,400 --> 00:02:52,640
+with adverse outcomes. So the more calcium you have in your arteries, the worse you do,
+
+36
+00:02:52,640 --> 00:02:59,840
+the higher the risk of both cardiovascular and all cause problems. And the reason we
+
+37
+00:02:59,840 --> 00:03:05,400
+suspect is that that calcium represents a healed plaque and that so the amount of calcium
+
+38
+00:03:05,400 --> 00:03:09,720
+you have in your arteries is strongly related to the amount of plaque you have in your arteries.
+
+39
+00:03:09,720 --> 00:03:13,640
+We know that the amount of plaque you have in your arteries is related to your risk of
+
+40
+00:03:13,640 --> 00:03:18,080
+having heart attacks and dying from heart attacks. So calcium scans are great ways to
+
+41
+00:03:18,080 --> 00:03:24,040
+kind of the way the analogy I use for my patients is that it's a sort of a satellite
+
+42
+00:03:24,040 --> 00:03:31,480
+image of your heart and gives you a sense of has there been damage there over your lifetime.
+
+43
+00:03:31,480 --> 00:03:37,680
+And then also gives you a nice adjunct indicator of your overall risk of dying from a heart
+
+44
+00:03:37,680 --> 00:03:40,040
+attack, which people like to know.
+
+45
+00:03:40,040 --> 00:03:44,960
+And one of the nice things about a calcium score is it's very, very low in radiation.
+
+46
+00:03:44,960 --> 00:03:50,000
+I mean, it's really, you know, even CTAs are now low. We'll talk about that. But the calcium
+
+47
+00:03:50,000 --> 00:03:56,440
+scan is a really low radiation and a very inexpensive tool as well. There are places
+
+48
+00:03:56,440 --> 00:03:59,840
+that are doing these scans for a couple hundred dollars nowadays.
+
+49
+00:03:59,840 --> 00:04:01,400
+Not all places.
+
+50
+00:04:01,400 --> 00:04:05,880
+No, that's the that speaks to the problem in US healthcare where you'll still find some places
+
+51
+00:04:05,880 --> 00:04:12,240
+charging 2000 while some will do the exact same scan for literally 200. But it needn't be an
+
+52
+00:04:12,240 --> 00:04:18,560
+expensive procedure. It's a low risk procedure. It doesn't require die. So it's effectively a
+
+53
+00:04:18,560 --> 00:04:25,600
+zero risk, low cost procedure that at least at the population level, as you say, has really great
+
+54
+00:04:25,600 --> 00:04:27,720
+insight, especially the first time it's done. Right.
+
+55
+00:04:27,720 --> 00:04:31,760
+Absolutely. And I think we talked about this the last time, but I'll just say it again for those
+
+56
+00:04:31,760 --> 00:04:36,800
+who weren't around back then that I did a full 180 on these. You know, when I first started
+
+57
+00:04:36,800 --> 00:04:41,840
+practicing as an independent cardiologist back in the early 2000s, I would get patients showing up
+
+58
+00:04:41,840 --> 00:04:49,200
+with these calcium scans. And I really sort of wanted to make them go away. I thought they were
+
+59
+00:04:49,200 --> 00:04:55,040
+annoying and I didn't know what to do with them. And it really has been a full 180. I do find value.
+
+60
+00:04:55,040 --> 00:04:59,200
+Obviously, there's epidemiologic value and understanding the risk of different populations.
+
+61
+00:04:59,200 --> 00:05:06,200
+But I do find that there is value in many contexts and even in individual patients. And we can talk
+
+62
+00:05:06,200 --> 00:05:10,160
+about which context I think are most valuable. It's certainly not everybody. I think, you know,
+
+63
+00:05:10,320 --> 00:05:15,680
+a calcium scan and a 25 year old is probably not worth anything. It's just not worth doing.
+
+64
+00:05:17,520 --> 00:05:22,800
+So, yeah, I think I've come around now to seeing the value of calcium scanning as a tool that I use
+
+65
+00:05:22,800 --> 00:05:27,840
+regularly. Yeah. And I know we did talk about this, but again, I've learned that one of the things
+
+66
+00:05:27,840 --> 00:05:32,080
+that makes podcasting difficult is it's very difficult for people to go back and listen to
+
+67
+00:05:32,080 --> 00:05:36,960
+them. There's just too much volume. So we should never apologize for repeating stuff that we talked
+
+68
+00:05:36,960 --> 00:05:43,200
+about more than four years ago. And the way that I kind of explain it to patients as well is that
+
+69
+00:05:44,000 --> 00:05:50,960
+if you have a two by two of sort of, you know, young versus old and zero versus non-zero as the
+
+70
+00:05:50,960 --> 00:05:57,600
+calcification, you know, there are two areas where the scan provides insight and there are two areas
+
+71
+00:05:57,600 --> 00:06:01,920
+where the scan doesn't really provide insight. And so one of them, as you said, you know,
+
+72
+00:06:01,920 --> 00:06:08,320
+if a 40 year old shows up, has a calcium scan of zero, haven't really learned a lot. And if a
+
+73
+00:06:08,320 --> 00:06:14,560
+calcium scan of zero in a 40 year old is accompanied by other risk factors, I would not be dissuaded
+
+74
+00:06:14,560 --> 00:06:21,200
+from aggressively treating those risk factors. And similarly, when an 80 year old with lots of risk
+
+75
+00:06:21,200 --> 00:06:27,520
+factors shows up and has a zero calcium scan, we'll talk about the false negative rate there.
+
+76
+00:06:28,160 --> 00:06:34,160
+All things equal, you might be less inclined to push for aggressive measures. Would you agree
+
+77
+00:06:34,160 --> 00:06:44,400
+with that framework? I do. Yeah. I think there's a group of very committed, whatever you want to call
+
+78
+00:06:44,400 --> 00:06:50,720
+them, calcium scanographers who believe in the power of zero and believe that a calcium score of
+
+79
+00:06:50,720 --> 00:06:56,000
+zero is meaningful no matter where it comes. But I just think that defies logic, right? You shouldn't
+
+80
+00:06:56,000 --> 00:07:02,800
+have any, if you shouldn't have any calcium when you're 25, I'm not sure what you learned there.
+
+81
+00:07:02,800 --> 00:07:06,720
+There may be edge cases where, you know, one in several million people will have some calcium,
+
+82
+00:07:07,600 --> 00:07:13,840
+but I just think mostly the two cases you described are where I find the most value.
+
+83
+00:07:15,280 --> 00:07:19,200
+Well, this gets to something that I think I've learned a little bit more about both through
+
+84
+00:07:19,200 --> 00:07:25,120
+personal experience and also just kind of spending more time in the literature on this is that a
+
+85
+00:07:25,120 --> 00:07:32,480
+calcium scan is a relatively imprecise measure. So the thickness of the slices that are used
+
+86
+00:07:32,480 --> 00:07:39,040
+in that scan are significantly greater than the CT, the slices that are used in the CTN geography.
+
+87
+00:07:39,040 --> 00:07:43,360
+And I'll give you a stark example of how I learned this in my own life. And I think I shared at least
+
+88
+00:07:43,360 --> 00:07:47,040
+part of this story last time, although clearly not all of it, because I just learned more recently. So
+
+89
+00:07:47,840 --> 00:07:54,800
+in 2008 or 2009, when I was in my mid 30s, I had my first calcium scan. Now, at the time my
+
+90
+00:07:54,800 --> 00:08:02,160
+doctor thought this was a crazy idea. I was 35. I was exercising at least 24 hours a week. There's
+
+91
+00:08:02,160 --> 00:08:08,800
+no seemingly relevant reason for me to waste insurance money and do this, but I had a horrible
+
+92
+00:08:08,800 --> 00:08:13,680
+family history and it didn't seem to make sense. It wasn't like everyone in my family was smoking
+
+93
+00:08:13,680 --> 00:08:18,560
+or anything like that. So anyway, I had the calcium scan and it showed that I had a score of six.
+
+94
+00:08:19,520 --> 00:08:29,840
+So I had a single foci of calcium in the proximal LAD. And interestingly, despite being in my mid
+
+95
+00:08:29,840 --> 00:08:34,160
+30s with that calcium score of six, nobody really seemed to care either. That was viewed as well.
+
+96
+00:08:34,160 --> 00:08:39,840
+I mean, look, your lipids are really not that bad. My LDL cholesterol was about 120, 110 to 120
+
+97
+00:08:39,840 --> 00:08:44,640
+milligrams per deciliter. So nobody took that terribly seriously. Of course, it changed my
+
+98
+00:08:44,720 --> 00:08:53,280
+life and it changed my interest in this field forever. Fast forward to 2016. So call it six,
+
+99
+00:08:53,280 --> 00:09:00,160
+seven years later, I went and had a CT angiogram and a calcium scan and the calcium scan had a
+
+100
+00:09:00,160 --> 00:09:08,480
+score of zero. The CT angiogram, which now is at much finer resolution, indeed found a tiny speck
+
+101
+00:09:08,480 --> 00:09:18,160
+of calcium in the proximal LAD. No other finding. Bob Peters, who is the remarkable radiologist that
+
+102
+00:09:18,160 --> 00:09:23,040
+now sees a lot of our patients explain to me, not uncommon at all. Like that little spec that you
+
+103
+00:09:23,040 --> 00:09:29,520
+had six years ago can easily be missed. If you had five calcium scans, half of them would miss it
+
+104
+00:09:29,520 --> 00:09:35,440
+because it's just too small. But now in the CTA, we can see it. So we repeated the CTA. Now I'm
+
+105
+00:09:35,440 --> 00:09:40,320
+just kind of partially interested in progression, more of soft plaque. I had it repeated very
+
+106
+00:09:40,320 --> 00:09:47,440
+recently. So call it 2022. This time the calcium score came out as two and the CT angiogram was
+
+107
+00:09:47,440 --> 00:09:56,720
+identical to what it was in 2016, six years earlier. So you could certainly believe that if I had a CTA
+
+108
+00:09:56,720 --> 00:10:01,840
+in 2008 or 2009, it would have looked similar. And you would argue that for basically the same
+
+109
+00:10:01,840 --> 00:10:07,600
+lesion, the score was six and two and zero in the, sorry, six and zero and two in that order.
+
+110
+00:10:09,680 --> 00:10:14,800
+Have you seen this yourself in patients where you've had the luxury of both longitudinal
+
+111
+00:10:14,800 --> 00:10:21,520
+assessment and simultaneous CAC and CTA? You know, I can't off the top of my head, I can't
+
+112
+00:10:21,520 --> 00:10:26,320
+think of anybody, but I would ask you, and this may be a leading question, but what were the
+
+113
+00:10:27,120 --> 00:10:31,280
+percentiles of those? I mean, I would imagine that calcium score of six when you were 35
+
+114
+00:10:31,280 --> 00:10:37,040
+was 99th percentile. It was 75th to 90th percentile at that age. That's right. Yeah.
+
+115
+00:10:37,040 --> 00:10:41,360
+Yeah. But there's a big difference even between six and two and a huge difference between six and zero.
+
+116
+00:10:41,920 --> 00:10:47,920
+Yes, exactly. Yeah. So I haven't seen it, but it doesn't surprise me.
+
+117
+00:10:47,920 --> 00:10:52,160
+Yeah, exactly. My guess is at a low enough calcium score, that's not uncommon. Of course,
+
+118
+00:10:52,160 --> 00:10:58,880
+that then got me into the literature and I realized that 15 percent of people who have a
+
+119
+00:10:58,880 --> 00:11:06,560
+zero calcium score have a finding on CTA that is either, as mine was, meaning a calcification
+
+120
+00:11:06,560 --> 00:11:12,560
+that was not picked up or a soft plaque. Furthermore, two percent or maybe it's one
+
+121
+00:11:12,560 --> 00:11:21,280
+and a half percent of those people who are deemed with a negative CAC have an unstable plaque on CTA.
+
+122
+00:11:22,160 --> 00:11:27,680
+It's not just the 15 percent that have something, but 10 percent of those people have something
+
+123
+00:11:27,680 --> 00:11:36,800
+that would be deemed relevant if we saw it on the CTA. Just back to our prior discussion on age and
+
+124
+00:11:36,800 --> 00:11:42,000
+utility of the scan, I would imagine, I don't know if they're familiar with the data, but I would
+
+125
+00:11:42,000 --> 00:11:46,880
+imagine that that 15 percent is largely represented in younger people or is that not the case?
+
+126
+00:11:46,880 --> 00:11:50,000
+I'd have to go back and look. It's a great question. I'd have to go back and look at the
+
+127
+00:11:50,000 --> 00:11:57,440
+study because it's been probably about six months since I looked at it. We'll find it and
+
+128
+00:11:57,440 --> 00:12:01,440
+we'll link to it in the show notes so that it's unambiguous and we'll include the table that
+
+129
+00:12:02,000 --> 00:12:05,600
+summarizes all this, which would hopefully include age. If not, it'll be in the fine print.
+
+130
+00:12:06,400 --> 00:12:09,520
+The other question I have for you, Peter, is over the course of the whatever it was,
+
+131
+00:12:09,520 --> 00:12:13,600
+15, 16, 17 years since your first calcium scan, what's your average APO-B been?
+
+132
+00:12:14,480 --> 00:12:19,840
+Yeah, so that's the point. It's been lower and lower and lower. That's
+
+133
+00:12:20,080 --> 00:12:24,800
+about the time I met Tom Dayspring and began to learn. I didn't know what APO-B was at the time.
+
+134
+00:12:24,800 --> 00:12:30,000
+At first, I was just bombarding LDLC and then that turned into really now targeting APO-B.
+
+135
+00:12:30,640 --> 00:12:36,320
+My target APO-B is between 30 and 40 milligrams per deciliter. That's where I aim to be
+
+136
+00:12:37,120 --> 00:12:41,440
+day in and day out. Obviously, that requires pharmacological intervention. Now, again,
+
+137
+00:12:41,440 --> 00:12:46,640
+I never really had a particularly high APO-B, but in some ways that actually gave me more concern,
+
+138
+00:12:46,640 --> 00:12:54,160
+Ethan, because I didn't have the obvious risk factors. I'm normotensive. I don't smoke.
+
+139
+00:12:55,120 --> 00:13:03,520
+My APO-B at the time was probably about 85 to 90 milligrams per deciliter. Very few doctors would
+
+140
+00:13:03,520 --> 00:13:08,880
+get phosphorylated over that APO-B in someone in their late 30s or mid 30s at the time.
+
+141
+00:13:09,840 --> 00:13:17,120
+But again, I watched countless men in my family die, some of them as young as in their late 40s
+
+142
+00:13:17,120 --> 00:13:22,960
+from heart attacks. You start to realize, A, this is probably quite polygenic, and B,
+
+143
+00:13:22,960 --> 00:13:28,000
+there's something going on here that's not just standard plug and play risk factor stuff.
+
+144
+00:13:30,160 --> 00:13:35,680
+Which, of course, is your practice. You get these really tough cases where it's not just,
+
+145
+00:13:35,840 --> 00:13:42,800
+oh, the LDL is too high. Yeah, it is my practice. Unfortunately, at least for now,
+
+146
+00:13:43,120 --> 00:13:48,880
+the only set of tools that we have are aimed at, well, I should say independent of blood pressure,
+
+147
+00:13:48,880 --> 00:13:53,200
+which is a different conversation we'll have later. But the tools we have now are focused
+
+148
+00:13:53,200 --> 00:13:59,760
+really on lowering the APO-B through any number of different means. I think we all expect that
+
+149
+00:13:59,760 --> 00:14:04,960
+there's something else there. There was clearly something else there in you. I mean, again,
+
+150
+00:14:05,840 --> 00:14:09,280
+it's hard to make the argument that you were sort of a ticking time bomb with a widow maker that
+
+151
+00:14:09,280 --> 00:14:16,240
+you were going to drop dead or a heart attack. You had a tiny minuscule lesion. The question
+
+152
+00:14:16,240 --> 00:14:21,120
+would have been what happened to you over the next 15 or 20 years had you not taken the intervention
+
+153
+00:14:21,120 --> 00:14:28,480
+that you did pharmacologically. Yeah, as I approach 50 now, I do find it interesting to play the thought
+
+154
+00:14:28,480 --> 00:14:33,760
+experiment of had I been on a different path in life, had I never looked at that 15 years ago,
+
+155
+00:14:33,840 --> 00:14:39,360
+had I never cared, what would it look like today? What would that CTA look like today?
+
+156
+00:14:39,360 --> 00:14:46,720
+How significant would that lesion be? Would there be others? Yeah. And my belief is that,
+
+157
+00:14:47,760 --> 00:14:54,160
+and we should obviously talk about this. I think that the epidemiology, the clinical trial data,
+
+158
+00:14:55,040 --> 00:15:00,160
+and the Mendelian randomization, to my reading of this literature, and I don't think there's
+
+159
+00:15:00,160 --> 00:15:07,040
+anything I pay closer attention to truthfully, is that APO-B is a necessary but not sufficient
+
+160
+00:15:07,040 --> 00:15:14,880
+criteria for atherosclerosis. And as such, removing it removes atherosclerosis. And so,
+
+161
+00:15:15,600 --> 00:15:22,160
+my best guess as to why there has likely been no progression of this disease in 15 years,
+
+162
+00:15:22,160 --> 00:15:28,320
+at least to the level that it can be detected by a CT angiogram, is that we've basically taken away
+
+163
+00:15:28,320 --> 00:15:34,320
+the causal agent. Yeah, I think I mostly agree with you. I think it's absolutely necessary. I
+
+164
+00:15:34,320 --> 00:15:40,000
+think the data really do suggest that if it's bottomed out, absent some really bizarre, probably
+
+165
+00:15:40,000 --> 00:15:44,400
+monogenic things that we don't see very often, that you can't get atherosclerosis. I think that's
+
+166
+00:15:44,400 --> 00:15:49,920
+demonstrated not just in humans, but across many other animal species. The one place where I might
+
+167
+00:15:49,920 --> 00:15:53,760
+quibble a little bit is that I do think it's probably sufficient in some cases, right? That
+
+168
+00:15:54,000 --> 00:16:00,240
+interesting, that in FH, for example, it's probably sufficient. In other words, I don't think you have
+
+169
+00:16:00,240 --> 00:16:07,760
+to have something else to get out through in cases where that APO-B is sky high.
+
+170
+00:16:07,760 --> 00:16:16,320
+The sufficiency is complicated, right? I mean, I suppose there are people with FH that don't go
+
+171
+00:16:16,320 --> 00:16:24,240
+on to develop ASCVD. Yeah, a lot. I mean, that's sort of the argument that the sort of, and I don't
+
+172
+00:16:24,240 --> 00:16:27,200
+know if we're going to get into this or if I ever want to talk about this ever again, but this lean
+
+173
+00:16:27,200 --> 00:16:35,840
+mass hyper nonsense, that's the argument that they make, that having a high APO-B is not sufficient.
+
+174
+00:16:37,760 --> 00:16:42,240
+It's definitely true that there are some people with FH who don't go on to have ASCVD. It's
+
+175
+00:16:42,960 --> 00:16:48,560
+interesting. I mean, obviously suggests some other genetic modifier or something else
+
+176
+00:16:48,560 --> 00:16:57,360
+that protects them. Yeah. I mean, so I think that one could argue that APO-B is not sufficient,
+
+177
+00:16:57,360 --> 00:17:03,360
+but is necessary, which is how I feel, and still take it very seriously because let's look at
+
+178
+00:17:03,360 --> 00:17:11,120
+another obvious example, which is smoking, right? And again, is smoking even, I would argue smoking
+
+179
+00:17:11,120 --> 00:17:17,920
+is even weaker, right? Smoking is neither necessary nor sufficient for the development of,
+
+180
+00:17:17,920 --> 00:17:22,480
+let's just pick lung cancer. Let's just pick the most smoking associated cancer, so small cell lung
+
+181
+00:17:22,480 --> 00:17:29,440
+cancer. Smoking is neither necessary nor sufficient, but there's nobody in their right mind that would
+
+182
+00:17:29,440 --> 00:17:34,800
+argue that not smoking, if in our analogy, that's the equivalent to reducing APO-B,
+
+183
+00:17:35,440 --> 00:17:43,440
+does not improve risk. Absolutely. Yeah. So I just think that to point to people with elevated APO-B
+
+184
+00:17:43,440 --> 00:17:49,600
+as an example of why it's safe has never made sense to me. And I'll tell you another reason it's
+
+185
+00:17:49,600 --> 00:17:54,560
+never made sense. I know I'm not going to get an argument out of you, but I'm hoping we can try to
+
+186
+00:17:54,560 --> 00:18:02,160
+formulate some argument here is there are other ways to treat APO-B besides diet.
+
+187
+00:18:03,120 --> 00:18:09,760
+And so I feel like if part of the argument for I need to have this APO-B high is because the diet
+
+188
+00:18:09,760 --> 00:18:16,880
+that's making it high is producing other benefits, that's sort of not necessary. One can consume a
+
+189
+00:18:16,880 --> 00:18:22,880
+diet that if it needs to be in a certain way and produce a high APO-B, you could still continue to
+
+190
+00:18:22,880 --> 00:18:30,000
+consume that diet and just pharmacologically address the APO-B problem. Yeah. It's the sort of
+
+191
+00:18:30,160 --> 00:18:40,720
+mind numbing in congruity of this whole discussion. And again, it makes my skin sort of want to fall
+
+192
+00:18:40,720 --> 00:18:49,440
+off. But yeah, no, I think you made a great point about smoking and frankly, any other risk factor
+
+193
+00:18:49,440 --> 00:18:54,400
+for any other disease. You know, replace smoking for coronary disease with smoking for cancer.
+
+194
+00:18:54,960 --> 00:18:58,560
+We all have lots of stories of people who smoke four packs of cigarettes a day.
+
+195
+00:19:00,240 --> 00:19:04,880
+Or even emphysema, right? You know, that where the toxicity is much more direct.
+
+196
+00:19:06,320 --> 00:19:11,520
+It's part of the nature of the heterogeneity of response, right? That this penetrance in this
+
+197
+00:19:11,520 --> 00:19:19,680
+case of an environmental factor is not 100%. I guess there are some that are, right? Cyanide
+
+198
+00:19:19,680 --> 00:19:25,440
+probably is. But most of the things that we encounter in our environment don't have that
+
+199
+00:19:25,440 --> 00:19:30,160
+level of penetrance in terms of causing risk. It's certainly not the ones that we encounter
+
+200
+00:19:30,160 --> 00:19:34,880
+frequently, right? Yeah. Yeah. So yeah, cyanide is a great example. 100% penetrance, carbon
+
+201
+00:19:34,880 --> 00:19:41,680
+monoxide at a certain concentration, 100% penetrance. Yeah. Okay. So let's go back to our discussion
+
+202
+00:19:41,680 --> 00:19:50,400
+and now contrast the calcium scan with the CTA. And then especially we'll use this to now explain
+
+203
+00:19:50,400 --> 00:19:56,720
+these other variations of CTAs that have shown up where they're more like software additions to CTA.
+
+204
+00:19:57,840 --> 00:20:09,040
+Sure. I mean, look, in what I tell patients is that what you get from a CTA is clarity and more
+
+205
+00:20:09,040 --> 00:20:13,920
+information, which in most cases is really, really good. And that comes at a small cost
+
+206
+00:20:14,720 --> 00:20:21,360
+in terms of increased radiation. And I guess some potential risk of the contrast,
+
+207
+00:20:21,360 --> 00:20:26,720
+although it's relatively small. The biggest cost and the biggest reason that I don't use it
+
+208
+00:20:28,640 --> 00:20:34,720
+in all of my patients in whom I'm thinking about these kinds of things is that it's hard to get it
+
+209
+00:20:34,720 --> 00:20:39,760
+paid for. So it is actually, in this case, more expensive if you pay for it yourself out of pocket,
+
+210
+00:20:39,760 --> 00:20:44,720
+which almost all of the calcium scans that I order end up getting paid for out of pocket. Almost
+
+211
+00:20:44,720 --> 00:20:50,000
+none of them as of today, at least are reimbursed by insurance. But as you said,
+
+212
+00:20:50,000 --> 00:20:54,080
+That's calcium scans, you mean, and CTAs. They're both just out of pocket these days.
+
+213
+00:20:54,080 --> 00:20:59,040
+No, no, no. Calcium scans are almost exclusively out of pocket. I would say 90 plus percent of them
+
+214
+00:20:59,040 --> 00:21:04,080
+are paid for by patients themselves. But again, as you said earlier, it's a couple hundred bucks and
+
+215
+00:21:04,080 --> 00:21:09,760
+almost everybody can make that leap and sort of convince themselves that it's worth, you know,
+
+216
+00:21:09,760 --> 00:21:16,560
+whatever it is, 10 Starbucks. So, but for CT angiograms, the cost is much higher. You know,
+
+217
+00:21:16,560 --> 00:21:19,520
+and again, I don't know, and this is one of the problems with their healthcare system. I don't
+
+218
+00:21:19,520 --> 00:21:24,640
+want to get distracted in that, but it's transparent to me what the cost is to my patients unless they
+
+219
+00:21:24,640 --> 00:21:30,080
+go and do some digging. And what's really annoying is that it's often not clear to them what they're
+
+220
+00:21:30,080 --> 00:21:36,640
+going to pay for until after they already have it. And so the cost of a CT angiogram is much
+
+221
+00:21:36,640 --> 00:21:41,680
+higher. It depends on the insurance that you have. And even if you pay out of pocket, so even if it's
+
+222
+00:21:41,680 --> 00:21:47,520
+not covered, the negotiated rate is going to be different based on whatever carrier you have. So
+
+223
+00:21:47,520 --> 00:21:56,640
+I would say much fewer than 50% of my patients have coverage. And we can talk about what would
+
+224
+00:21:56,720 --> 00:22:02,480
+justify coverage for a CT angiogram. And I've sort of gotten, I think, a little bit more
+
+225
+00:22:02,480 --> 00:22:06,720
+sophisticated in trying to be able to get around some of what I think are these sort of absurd
+
+226
+00:22:07,760 --> 00:22:14,160
+blockers for coverage. But then obviously, depending on the patient spending anywhere
+
+227
+00:22:14,160 --> 00:22:21,520
+from let's just say 700 to two or $3,000 on a scan may be more or less of an issue. And in some
+
+228
+00:22:21,520 --> 00:22:26,320
+patients, it's enough of an issue that they don't get it. So I think that's just worth
+
+229
+00:22:26,320 --> 00:22:31,200
+pointing out that in a world in which they were covered universally, and we could have access to
+
+230
+00:22:31,200 --> 00:22:38,160
+the data, that, in my opinion, at least, it provides so much more information than a calcium scan that
+
+231
+00:22:38,160 --> 00:22:43,600
+I'd probably just go straight there. And especially because in a lot of these cases we're talking
+
+232
+00:22:43,600 --> 00:22:49,680
+about, like you and your 35 year old self, these are cases where we just don't have a lot of data.
+
+233
+00:22:50,480 --> 00:22:54,000
+And the calcium itself is just not going to add that much.
+
+234
+00:22:55,840 --> 00:23:02,320
+So yeah. Yeah, I agree. And we kind of have that discussion with our patients as well,
+
+235
+00:23:02,320 --> 00:23:08,080
+which is that look, the IV contrast is virtually a non-risk outside of a handful of settings,
+
+236
+00:23:08,080 --> 00:23:13,680
+which are clearly well understood and can be, you know, we know how to handle those pretty well.
+
+237
+00:23:14,240 --> 00:23:18,640
+The radiation these days is so low. It's really in the neighborhood of two milli-seavers for a
+
+238
+00:23:18,640 --> 00:23:24,960
+person our size. So, you know, that's 4% of your annual allotment of radiation. But you're right,
+
+239
+00:23:24,960 --> 00:23:31,280
+the cost, I mean, we sort of assume 2000 to 2500 is pretty standard for that test.
+
+240
+00:23:32,720 --> 00:23:37,680
+When it's paid for out of pocket, it is, I would say that's probably average, but there are some,
+
+241
+00:23:37,680 --> 00:23:40,960
+for whatever reason, and I don't understand insurance in this country at all, but for
+
+242
+00:23:40,960 --> 00:23:47,360
+whatever reason, some insurance carriers are able to negotiate a lower rate for their members. And
+
+243
+00:23:47,360 --> 00:23:51,760
+so I've seen some people get, and it's very different institution to institution, right? So
+
+244
+00:23:51,760 --> 00:23:55,920
+you could go to UCSF and it would be $700, you might go to Stanford, it would be 1500 or the
+
+245
+00:23:55,920 --> 00:24:01,200
+other way around. And so I do advise people when it comes to these decisions, if the money is an
+
+246
+00:24:01,200 --> 00:24:05,120
+issue, which it is for almost everybody, because it's, you know, significant amount of money to
+
+247
+00:24:05,120 --> 00:24:09,040
+shop around a little bit. And then, you know, the question of sort of, all right, well, what do I
+
+248
+00:24:09,040 --> 00:24:15,120
+get for my money? And we know that right there are different scanners in different places, and those
+
+249
+00:24:15,120 --> 00:24:19,280
+different scanners provide different information in terms of resolution, but they also provide
+
+250
+00:24:19,280 --> 00:24:24,720
+differences in terms of how much radiation exposure. So that's another variable that we
+
+251
+00:24:24,720 --> 00:24:28,560
+kind of have begun to address a little bit. And those are the two things we always sort of say,
+
+252
+00:24:28,560 --> 00:24:32,480
+I mean, we have places we send people that we, because we know the answers to those questions,
+
+253
+00:24:32,480 --> 00:24:37,120
+but if it's not convenient for them, we're sort of saying, you've got to ask what the radiation
+
+254
+00:24:37,120 --> 00:24:41,760
+burden is. And it's actually, it can be a 10X difference. I've seen scanners out there that are
+
+255
+00:24:41,760 --> 00:24:47,120
+at 20 milli-seaverts. So now you're up to 40% of your annual allotment of radiation for one
+
+256
+00:24:48,080 --> 00:24:51,360
+screening scan, which, you know, personally, I think is too much. I just don't think it's
+
+257
+00:24:51,360 --> 00:24:58,080
+worth it, even if you're saving a bit of money. I agree. I agree. And it's just another layer of
+
+258
+00:24:58,080 --> 00:25:03,280
+complexity and sort of how you think about applying these different tests and getting
+
+259
+00:25:03,280 --> 00:25:07,600
+this information. It's just really important to make sure not to forget about it.
+
+260
+00:25:08,320 --> 00:25:13,040
+So every time I've had these CTA scans, you know, we get these beautiful images
+
+261
+00:25:13,040 --> 00:25:18,320
+and they're 3D reconstructed and then they're 2D sectioned. And, you know, we're looking at the
+
+262
+00:25:18,320 --> 00:25:25,440
+lumen, right? The tube of the artery. In both cases, that little speck of calcium shows up in the wall
+
+263
+00:25:26,400 --> 00:25:31,120
+of the artery. And then we're also looking for sort of soft plaque as well. And fortunately,
+
+264
+00:25:31,120 --> 00:25:35,120
+there hasn't been any, but that's, you know, soft plaque doesn't show up anywhere in the calcium
+
+265
+00:25:35,280 --> 00:25:40,640
+score. So you can have a significant burden of cardiovascular disease without any calcium. I
+
+266
+00:25:40,640 --> 00:25:46,480
+think that's the thing that maybe gets missed a lot. And that shows up in that 15% of people
+
+267
+00:25:46,480 --> 00:25:51,920
+who have a zero calcium score. A lot of them still have a significant burden of disease.
+
+268
+00:25:52,800 --> 00:25:56,560
+As you mentioned earlier, I mean, it could be that that calcification
+
+269
+00:25:58,080 --> 00:26:03,600
+where it's actually placed is not problematic. It's just that it's a harbinger of whatever it
+
+270
+00:26:03,600 --> 00:26:10,480
+took to get there. Do you look at patients with a high burden of soft plaque and no calcification
+
+271
+00:26:10,480 --> 00:26:19,040
+is even higher risk? I don't really, just because I don't think I buy that their data suggests that
+
+272
+00:26:19,040 --> 00:26:25,120
+I think a high burden of plaque period is a problem. Do I believe that a high burden of
+
+273
+00:26:25,120 --> 00:26:31,280
+calcified plaque might be less risky because it's more stable, I guess in theory, but it's super,
+
+274
+00:26:31,360 --> 00:26:36,400
+it's super, I get really nervous about sort of trying to impute plausibility and things like that
+
+275
+00:26:36,400 --> 00:26:42,880
+to drive clinical decision making. I think the reality is a lot of plaque is bad. I mean,
+
+276
+00:26:42,880 --> 00:26:46,880
+we know that people who have a calcium score of 4,000, which by definition means they've got a
+
+277
+00:26:47,760 --> 00:26:54,000
+shitload of calcium, that that's a high risk. And even if they don't have any soft plaque,
+
+278
+00:26:54,000 --> 00:26:59,280
+the risk is still high. So I don't pay too much attention. It's part of the reason why I actually,
+
+279
+00:27:00,240 --> 00:27:04,080
+if again, if everything else is equal, I prefer the information I get out of a CTA. Of course,
+
+280
+00:27:04,800 --> 00:27:11,040
+I'm greedy. I want more. And I feel like we just get so much more information and don't have to
+
+281
+00:27:11,040 --> 00:27:16,400
+make that distinction between soft and hard plaque. And frankly, I'm not sure we're at a point in
+
+282
+00:27:17,360 --> 00:27:22,960
+this field yet where we can make a compelling argument about plaque characteristics. It's been
+
+283
+00:27:22,960 --> 00:27:27,920
+a field that I think has evolved now since the early days, right? Since the 70s, probably when
+
+284
+00:27:28,000 --> 00:27:32,000
+the pathologists were doing autopsies on people who died of sudden cardiac death. And
+
+285
+00:27:33,360 --> 00:27:37,520
+we've been trying to understand the vulnerable plaque and different plaque characteristics and
+
+286
+00:27:39,520 --> 00:27:45,280
+what confers risk of rupture and ultimately of an event. I just don't think, at least in my
+
+287
+00:27:45,280 --> 00:27:49,520
+estimation, and I'm certainly no expert, it's not, we're not there yet. So I don't use it
+
+288
+00:27:49,520 --> 00:27:55,520
+anything other than as a sort of how much plaque is there tool.
+
+289
+00:27:56,480 --> 00:28:04,160
+Yeah, it's really interesting that we don't yet have a better tool to explain what vulnerability
+
+290
+00:28:04,160 --> 00:28:09,440
+means or to predict what vulnerability is, right? I mean, I think, do you think that in the research
+
+291
+00:28:09,440 --> 00:28:16,000
+setting, things like intravenous ultrasound or intravascular ultrasound, where they can actually
+
+292
+00:28:16,000 --> 00:28:21,360
+look and measure the thickness of the cap on the arthroma, do you think that in a theoretical sense,
+
+293
+00:28:21,360 --> 00:28:26,560
+those things are any better, even if they're impractical from a clinical perspective?
+
+294
+00:28:26,560 --> 00:28:31,760
+I guess, but ultimately, as a lot of things in biology, this is just so stochastic that it,
+
+295
+00:28:31,760 --> 00:28:37,120
+I think we might convince ourselves that it means something that it doesn't. So I think we've
+
+296
+00:28:37,120 --> 00:28:44,000
+learned a lot that, again, from the early days of even understanding that ruptured plaque leads to
+
+297
+00:28:44,000 --> 00:28:47,920
+a thrombosis over the surface of the ruptured plaque, and that's what causes a heart attack.
+
+298
+00:28:47,920 --> 00:28:53,840
+That was a debate until 1979, or even maybe even a few years after that. It really wasn't settled
+
+299
+00:28:53,840 --> 00:28:58,640
+until ISIS II was published in the late 1980s that showed that if you gave striptokinus or aspen,
+
+300
+00:28:58,640 --> 00:29:08,240
+you could reduce the risk. I think we've learned early on that it wasn't necessarily that 75 or 80%
+
+301
+00:29:08,240 --> 00:29:14,960
+or even 90% plaque that led to the big one, that oftentimes the plaques that ruptured and led to
+
+302
+00:29:14,960 --> 00:29:21,200
+sudden cardiac death were the smaller plaques, the 30% plaques, which kind of makes sense in the
+
+303
+00:29:21,200 --> 00:29:26,320
+context of how we think about, we'll all hear these stories and I'm sure you get patients coming to you
+
+304
+00:29:26,880 --> 00:29:32,160
+after somebody prominent dies. And I'll mention the name just because I think this is an example.
+
+305
+00:29:33,440 --> 00:29:37,600
+I don't know Cheryl, but when Cheryl Samper's husband died on a treadmill a few years ago,
+
+306
+00:29:37,600 --> 00:29:42,560
+I mean, I had probably 25 people call me that week to want to come in and get a risk assessment.
+
+307
+00:29:42,560 --> 00:29:45,520
+That happens a lot. I don't know anything about his case and I don't know anything about the
+
+308
+00:29:45,520 --> 00:29:50,240
+pathology, but my guess is in younger people who die of heart attack suddenly that oftentimes it's
+
+309
+00:29:50,240 --> 00:29:56,000
+a sort of relatively mild plaque that wouldn't trigger any discussion of revascularization
+
+310
+00:29:57,520 --> 00:30:02,640
+and wouldn't make anybody nervous at all that those are the plaques that end up causing
+
+311
+00:30:03,680 --> 00:30:09,440
+problems. And we can begin to weave together reasons why that might be, right? That maybe in
+
+312
+00:30:09,440 --> 00:30:13,920
+a person who's got more plaque burden, that there's more chance for ischemic preconditioning
+
+313
+00:30:13,920 --> 00:30:21,360
+and therefore the chance of an arrhythmic sort of malignant arrhythmic response to the ischemia
+
+314
+00:30:21,360 --> 00:30:29,200
+is lessened because of that. But I think my point is I don't think we have an understanding of,
+
+315
+00:30:30,400 --> 00:30:35,520
+to me, at least that satisfactorily would allow me to change the way I practice clinically based
+
+316
+00:30:35,520 --> 00:30:40,640
+on the characteristics of the plaque, even the volume of the plaque. And so for that reason,
+
+317
+00:30:40,640 --> 00:30:47,840
+I treat people with plaques, any plaque, 30% plaque, pretty much the same way that I treat people
+
+318
+00:30:48,480 --> 00:30:53,920
+with extensive plaque and I treat them maximally with sort of the best optimal medical therapy
+
+319
+00:30:53,920 --> 00:31:01,120
+I can offer. Yeah. So boy, we feel so similarly about this, Ethan, that we're going to have a
+
+320
+00:31:01,120 --> 00:31:07,920
+hard time coming up with some something to really clash about here because this is basically the
+
+321
+00:31:07,920 --> 00:31:16,000
+same discussion we have with our patients, which is I'm treating the causative risks, not the
+
+322
+00:31:16,000 --> 00:31:22,720
+end stage problems. If the goal is I need to wait until you have a 30% stenosis or a calcium
+
+323
+00:31:22,720 --> 00:31:28,960
+score of 200 to start acting, that's insane. It goes back to the smoking analogy. Right.
+
+324
+00:31:29,600 --> 00:31:35,040
+I want to tell someone that I want to tell somebody the second they pick up a cigarette
+
+325
+00:31:35,040 --> 00:31:41,520
+to put it down, not until I see that the pulmonary function tests are problematic or they've been
+
+326
+00:31:41,520 --> 00:31:48,560
+smoking for 20 years and their risk is significant. Yeah. And this is the sort of eye bleeding
+
+327
+00:31:48,560 --> 00:31:53,840
+experience that I have with insurance companies talking about adding PCSK9 inhibitors to what,
+
+328
+00:31:53,840 --> 00:31:58,880
+you know, sort of statins and whatever else they're on. And often they'll say,
+
+329
+00:31:58,880 --> 00:32:03,040
+well, they need to have an event first. And I'm thinking to myself, so backwards.
+
+330
+00:32:04,320 --> 00:32:07,600
+You're going to ask me to let my patient have a heart attack so that I can prescribe the drug
+
+331
+00:32:07,600 --> 00:32:11,520
+that's going to prevent them from having a heart attack. I mean, it's really incredible. And
+
+332
+00:32:12,640 --> 00:32:18,000
+hopefully we won't practice that way down the line. The problem of course is that, and I don't
+
+333
+00:32:18,000 --> 00:32:22,240
+want to get distracted, but all of these trials are so incredibly expensive to do that the
+
+334
+00:32:22,240 --> 00:32:26,160
+information that we're going to get from sort of the most rigorous randomized clinical trials is
+
+335
+00:32:26,160 --> 00:32:28,960
+going to be limited just because we're not going to be able to, you know, all the questions that I
+
+336
+00:32:28,960 --> 00:32:32,640
+want to ask and answer, I'm sure that all the ones you want to ask and answer are just not going to
+
+337
+00:32:32,640 --> 00:32:37,200
+be feasible to do because they're going to be overwhelmingly expensive. So we have to find a
+
+338
+00:32:37,200 --> 00:32:41,840
+way to be able to make decisions to treat patients independent of this gold standard level evidence.
+
+339
+00:32:44,080 --> 00:32:49,440
+And hopefully the insurance companies come around. Yeah. I've kind of accepted the fact,
+
+340
+00:32:49,440 --> 00:32:53,360
+Ethan, we're never going to have the gold standard evidence that we need in the most important
+
+341
+00:32:53,360 --> 00:32:58,000
+demographic, which is the demographic for whom we have the most runway to effect change. So in other
+
+342
+00:32:58,000 --> 00:33:07,360
+words, there will never be the study done in 40 year olds that says, what is the 30 year risk of
+
+343
+00:33:07,360 --> 00:33:14,640
+ASCVD in a cohort of 40 year olds, one group whose APO B is reduced to 30 because we've used a PCSK9
+
+344
+00:33:14,640 --> 00:33:19,600
+inhibitor plus or minus whatever other agent we need versus the group that's managed with
+
+345
+00:33:19,600 --> 00:33:27,440
+standard of care or some placebo or something else. And I mean, again, I feel more convinced of the
+
+346
+00:33:27,440 --> 00:33:31,760
+outcome of that theoretical trial than I do virtually any other theoretical trial I could
+
+347
+00:33:31,760 --> 00:33:36,960
+ever muster up in my brain. And yet it'll never be done. And therefore, there will never be an
+
+348
+00:33:36,960 --> 00:33:44,320
+evidence based case for true prevention of ASCVD. I say something very bold in my upcoming book,
+
+349
+00:33:44,800 --> 00:33:50,160
+which is that ASCVD should basically be an orphan disease. There's actually no reason it needs to be
+
+350
+00:33:50,160 --> 00:33:54,960
+the leading cause of death. It really doesn't even need to be in the top 10. It's that preventable if
+
+351
+00:33:54,960 --> 00:34:00,080
+you start early enough and if you're maximally aggressive. And really at that point, I think it
+
+352
+00:34:00,080 --> 00:34:04,800
+just becomes a question of working through the challenges of tolerating side effects in patients
+
+353
+00:34:04,800 --> 00:34:08,400
+who are sensitive. And I think there are going to be patients who are going to be challenging,
+
+354
+00:34:08,400 --> 00:34:13,760
+but with a long enough runway, this disease is sort of irrelevant. Let's talk a little bit about
+
+355
+00:34:14,960 --> 00:34:23,440
+these flavors of CTAs that keep showing up. So I guess we'll start with the CTA FFR,
+
+356
+00:34:23,440 --> 00:34:28,800
+because we did speak about it briefly. We don't have to go back into all of the detail of, and I'm
+
+357
+00:34:28,800 --> 00:34:33,760
+blanking on the name of the trial. There were two trials that looked at FFR in angiography.
+
+358
+00:34:33,760 --> 00:34:35,040
+Fame and fame too, I think.
+
+359
+00:34:35,040 --> 00:34:41,680
+That's right. Yeah, fame and fame too. I guess give the short version of what those trials
+
+360
+00:34:41,680 --> 00:34:45,760
+looked at, what the technology was, and then we can talk about the CT side of it.
+
+361
+00:34:46,400 --> 00:34:51,920
+Well, I mean the original FFR that was performed, that is still now performed in a cath lab is
+
+362
+00:34:53,120 --> 00:34:58,400
+basically a way to detect a pressure gradient across this diagnosis. So the simplest thing I
+
+363
+00:34:58,400 --> 00:35:02,800
+use to explain to patients is if you take a garden hose and squeeze it, that there's a gradient of
+
+364
+00:35:02,800 --> 00:35:07,680
+pressure. That there's going to be pressure proximal with your fingers squeezing the garden hose,
+
+365
+00:35:07,680 --> 00:35:12,160
+and the pressure on the other end is going to be lower. And that what they'd effectively do is
+
+366
+00:35:12,160 --> 00:35:20,800
+to put a wire with a pressure sensor on one end of the wire on the other end of the blockage,
+
+367
+00:35:20,800 --> 00:35:26,640
+and they put one on the near end of the blockage, and they can measure the delta. And that using a
+
+368
+00:35:27,520 --> 00:35:34,400
+mathematical formula that I've... You'll know the name of it. I'm blanking on it. You can impute
+
+369
+00:35:35,200 --> 00:35:41,040
+the diameter of the artery relative to the diameter of the unobstructed artery,
+
+370
+00:35:41,040 --> 00:35:48,720
+or the garden hose in this case. And so that gives you a way to get at the severity of the
+
+371
+00:35:50,480 --> 00:35:58,160
+blockage. And I guess what this stems from is a 40 year odyssey to try to take a very qualitative
+
+372
+00:35:58,160 --> 00:36:04,960
+measure, which happens in a catheterization laboratory, which is to measure the percent
+
+373
+00:36:04,960 --> 00:36:10,960
+stenosis, which is done if you've ever seen it. It's done very much by Gestalt. And the people who
+
+374
+00:36:10,960 --> 00:36:15,200
+are good at it are pretty good at it. But if you watch it, you understand that the difference
+
+375
+00:36:15,200 --> 00:36:24,240
+between 30 and 50 is probably not that meaningful. When there are severe blockages or stenosis, you
+
+376
+00:36:24,240 --> 00:36:33,120
+can all agree that it's really high grade. So I think of things in that high grade, modest and low.
+
+377
+00:36:34,880 --> 00:36:39,760
+So this has been one of a number of tools that have been developed to try to supplement the
+
+378
+00:36:39,760 --> 00:36:44,800
+information you get from that very qualitative assessment of visually how bad does that lesion
+
+379
+00:36:44,800 --> 00:36:49,200
+look. And many of these things have happened over the years. Ivis, you mentioned earlier,
+
+380
+00:36:49,200 --> 00:36:55,280
+is one of them. There have been a quantitative coronary angiography where they actually try and
+
+381
+00:36:55,280 --> 00:37:03,520
+take a cursor and electronically draw around the diameter of the vessel. Mike Gibson, back in the
+
+382
+00:37:03,520 --> 00:37:09,920
+old days, used to do this blush thing. I can't remember what it was called, but basically it would
+
+383
+00:37:09,920 --> 00:37:15,760
+count the number of frames it takes for the contrast dye to leave the myocardium. And that was
+
+384
+00:37:16,720 --> 00:37:24,320
+another indication of how severe the lesions were. FFR evolved as a sort of
+
+385
+00:37:24,320 --> 00:37:32,400
+hemodynamic way to impute the severity of this stenosis. And so I think FAME was the first of
+
+386
+00:37:32,400 --> 00:37:38,640
+these studies. And it showed that if you had a significant pressure drop, if the ratio of the
+
+387
+00:37:38,640 --> 00:37:48,640
+pressure and the sort of upstream sensor was much higher than the downstream sensor, that
+
+388
+00:37:49,840 --> 00:37:55,120
+conveyed that there was a bad lesion and that it conveyed worse outcomes in people
+
+389
+00:37:56,880 --> 00:37:59,200
+who didn't get stented. I can't remember the design of those. But basically-
+
+390
+00:37:59,200 --> 00:38:04,400
+Yeah. I think the idea was basically, look, there's no ambiguity in two subsets of people
+
+391
+00:38:04,400 --> 00:38:08,720
+who should be stented. So somebody who's actively having an MI, they show up in the
+
+392
+00:38:08,720 --> 00:38:13,920
+ED with chest pain, enzymes are leaking. I mean, we just go to the cath lab. There's no need to
+
+393
+00:38:13,920 --> 00:38:25,200
+putz around. Or I mean, what's the algorithm on clot dissolve versus stent in the active MI in the
+
+394
+00:38:25,200 --> 00:38:31,200
+ER? Oh, in the modern era, if there's a cath lab within whatever it is, I think, I don't know what
+
+395
+00:38:31,200 --> 00:38:34,960
+the exact number is in the latest guidelines, but it might be like 90 miles. It's really the
+
+396
+00:38:34,960 --> 00:38:38,080
+amount of time you have to calculate the amount of time it takes to get transported to a place
+
+397
+00:38:38,080 --> 00:38:43,440
+where there's a cath lab that does stenting, primary PCI. So primary PCI is the standard of care.
+
+398
+00:38:43,440 --> 00:38:48,560
+I think thrombolytics are used sparingly in this country, and only in remote places where there's
+
+399
+00:38:48,560 --> 00:38:54,560
+no access. Where they can't get to the cath lab. Okay. So in an ST elevation in my, it's primary
+
+400
+00:38:54,560 --> 00:38:59,600
+PCI is the standard of care, class one, the whole deal. And as quickly as you can get there.
+
+401
+00:39:00,560 --> 00:39:06,080
+And then the other indication in the non-MI setting is symptomatic, right? If you have a person who
+
+402
+00:39:07,120 --> 00:39:12,400
+for example, if someone has a stress test and on the stress test, you see ST changes,
+
+403
+00:39:13,520 --> 00:39:19,600
+is that an indication for a PCI as well? So we'll back up. So STEM, ST elevation MI is where there's
+
+404
+00:39:19,600 --> 00:39:25,360
+a complete and the physiology or pathophysiology is a complete obstruction of blood flow.
+
+405
+00:39:26,320 --> 00:39:32,480
+ST segments go up, you go in, there's no blood beyond the blockage. That's clear. Everyone
+
+406
+00:39:32,480 --> 00:39:37,600
+understands what we're now calling ACS, which we used to call unstable hands and our non-ST elevation
+
+407
+00:39:37,600 --> 00:39:45,200
+MI, which is not is same pathophysiology, right? Ruptured plaque, a thrombus sitting on the plaque,
+
+408
+00:39:45,200 --> 00:39:50,000
+but it doesn't completely obstruct blood flow. I think there's general consensus even among
+
+409
+00:39:50,640 --> 00:39:55,040
+some of the more conservative groups out there that those people benefit from going to the
+
+410
+00:39:55,040 --> 00:40:03,760
+cath lab early and having a stent to fix that blockage. I would say it's generally accepted
+
+411
+00:40:03,760 --> 00:40:08,240
+on the order of, I had to guess of 85 or 90% of people would practice that way. And what I mean
+
+412
+00:40:08,240 --> 00:40:14,640
+early, I mean within the first 24 hours. So it's not a sort of code level emergency where you,
+
+413
+00:40:14,640 --> 00:40:19,920
+you know, now most hospitals have these STEMI teams where they'll automatically, the emergency
+
+414
+00:40:19,920 --> 00:40:23,920
+department will page the pager and everybody comes in from the technicians in the cath lab
+
+415
+00:40:23,920 --> 00:40:27,920
+to the interventional cardiologists to the fellows and everybody else. They all just assemble there
+
+416
+00:40:27,920 --> 00:40:32,800
+to get there as quickly as possible. That doesn't happen. There's no STEMI activation for a non-STEMI
+
+417
+00:40:32,800 --> 00:40:39,600
+or a ACS event, but I think there's still general consensus that disease is treated best with early
+
+418
+00:40:39,600 --> 00:40:44,080
+intervention. And the only distinction between those people, Ethan, the only distinction is the
+
+419
+00:40:44,080 --> 00:40:48,960
+ST change on the EKG when they present. That's right. Yeah. I mean, that's the, that is the
+
+420
+00:40:48,960 --> 00:40:53,840
+distinction. And of course that is sensitive, but not a hundred percent sensitive. There are certain
+
+421
+00:40:54,880 --> 00:40:58,720
+lesions that are obscure, right? Where you would, you know, for example, a posterior MI,
+
+422
+00:40:58,720 --> 00:41:05,040
+you'd have to do posterior leads to be able to see that. So, but mostly it's STEMI is a, is a
+
+423
+00:41:06,560 --> 00:41:14,960
+emergency go straight to the cath lab, don't pass go. Non-STEMI or ACS is urgent. And generally
+
+424
+00:41:14,960 --> 00:41:19,440
+people end up in the cath lab and it wouldn't be a bad thing to have them go there, you know,
+
+425
+00:41:19,440 --> 00:41:24,320
+relatively quickly, depending on how unstable they are. Obviously, if anybody has unstable symptoms,
+
+426
+00:41:24,320 --> 00:41:27,840
+no matter what they have, in other words, if their blood pressure was labile or if they had heart
+
+427
+00:41:27,840 --> 00:41:33,200
+failure or ongoing chest pain that was refractory to medical management, then that would also become
+
+428
+00:41:33,200 --> 00:41:38,000
+a sort of don't pass go go straight to the cath lab. So I would say those things generally end up
+
+429
+00:41:38,000 --> 00:41:44,240
+getting stented. The, the, and this is a, this is my opinion, my read of the literature, but over the
+
+430
+00:41:44,240 --> 00:41:53,200
+past 15 years, what has changed is people with plaque, but without symptoms generally don't get
+
+431
+00:41:53,200 --> 00:41:57,680
+stented. Even the most aggressive interventional cardiologists, I won't mention names, would
+
+432
+00:41:57,680 --> 00:42:03,680
+probably agree that people who have a lot of plaque, maybe with the exception of proximal idea
+
+433
+00:42:03,680 --> 00:42:07,280
+of left mane, there might be still some people who would think, gosh, even without symptoms, I'm
+
+434
+00:42:07,280 --> 00:42:12,560
+going to put, I'm going to put a stent in this person. But generally people with, with plaque,
+
+435
+00:42:12,560 --> 00:42:19,840
+no matter how bad the plaque looks angiographically, those people are treated medically if they don't
+
+436
+00:42:19,840 --> 00:42:25,360
+have symptoms. Where things have gotten interesting is in these cases for symptoms, right? Because
+
+437
+00:42:25,360 --> 00:42:30,560
+I think most of us, when you say symptoms, Ethan, you mean symptoms in day to day life,
+
+438
+00:42:30,560 --> 00:42:36,480
+or do you mean under stress and provocation? Yeah. So no. So rest symptoms is unstable
+
+439
+00:42:36,480 --> 00:42:42,480
+symptoms and that falls into that first category. And those people would be, should be hospitalized
+
+440
+00:42:42,480 --> 00:42:47,520
+and they would go in that first 24 hour window. So any symptoms at rest without doing anything,
+
+441
+00:42:48,560 --> 00:42:52,640
+we can debate about what, what is like, what happens if you have an argument with your wife
+
+442
+00:42:52,640 --> 00:42:57,280
+and you get chest pain, is that unstable or stable? You know, but mostly it's the sort of
+
+443
+00:42:58,640 --> 00:43:02,480
+non-classic exertional angina where you're walking up a hill and you get chest pressure,
+
+444
+00:43:02,480 --> 00:43:08,000
+you get chest tightness or rarely pain. You stop, it gets better. You take a nitrocloser and it gets
+
+445
+00:43:08,000 --> 00:43:14,880
+better. Classic stable angina. So people have plaque, but do not have stable or unstable
+
+446
+00:43:14,880 --> 00:43:22,000
+symptoms at all. In general, these days are treated medically with some exceptions. It's the people
+
+447
+00:43:22,000 --> 00:43:27,440
+who have this classic stable angina, stable symptoms. So they go out and walk up a hill and
+
+448
+00:43:27,440 --> 00:43:31,280
+they get chest tightness, you know, feels like somebody's tightening a belt around their chest.
+
+449
+00:43:31,920 --> 00:43:36,720
+They stop, it gets better. It's those people who I think are kind of the most interesting today
+
+450
+00:43:37,360 --> 00:43:41,120
+in the contemporary practice setting. And those are the people I think that require the most
+
+451
+00:43:41,120 --> 00:43:45,680
+thought. And I think, you know, we, we hadn't put it on our list of things to discuss. I don't
+
+452
+00:43:45,680 --> 00:43:50,560
+remember if we discussed, you know, these trials the last time around, but, but obviously courage
+
+453
+00:43:50,560 --> 00:43:55,280
+was the trial that sort of taught us that it's okay to have a lot of plaque and not necessarily
+
+454
+00:43:55,280 --> 00:43:59,600
+intervene on it. There have now been several other trials to get at that question of is,
+
+455
+00:44:00,480 --> 00:44:04,960
+is, and this is part of the reason why fame is to me, like not that interesting,
+
+456
+00:44:04,960 --> 00:44:09,200
+because we've kind of already answered the question in all comers that stenting people
+
+457
+00:44:09,200 --> 00:44:14,720
+without symptoms, even if they have some significant lesions doesn't offer a benefit
+
+458
+00:44:14,720 --> 00:44:20,800
+over optimal medical therapy. There's, there's now, I think, some discussion around even patients
+
+459
+00:44:20,800 --> 00:44:28,320
+with symptoms, whether they, the range of opinion I think goes from anybody with symptoms should be
+
+460
+00:44:28,320 --> 00:44:35,600
+stented or re-vascularized, you know, in edge cases with bypass. Some people think, you know,
+
+461
+00:44:35,600 --> 00:44:41,200
+medical therapy in all cases. And then I think there's sort of this nuanced in between people
+
+462
+00:44:41,200 --> 00:44:45,680
+who think give a trial of medical therapy and see if you can get the symptoms better. It's not an
+
+463
+00:44:45,680 --> 00:44:51,120
+automatic take to the cath lab, but try to optimize medical therapy. And if you can make
+
+464
+00:44:51,120 --> 00:44:56,640
+the symptoms go away, then there's no need to go and stent that artery. And that's probably where
+
+465
+00:44:56,640 --> 00:45:01,840
+I land right now is I don't, I still use interventional cardiology. I certainly don't
+
+466
+00:45:01,840 --> 00:45:06,400
+use it as much as I did in the past, but I do use it for people who do have what I would consider to
+
+467
+00:45:06,400 --> 00:45:12,080
+be refractory symptoms. And then obviously for the unstable sort of emergency acute settings,
+
+468
+00:45:12,080 --> 00:45:15,920
+that's a different story. And if you had a patient with a really high calcium burden,
+
+469
+00:45:15,920 --> 00:45:23,040
+so they're north of a thousand, and they never experienced symptoms, which, and they're young,
+
+470
+00:45:23,040 --> 00:45:28,160
+they're, you know, in their fifties or something like that. Would you put them on a treadmill and
+
+471
+00:45:28,800 --> 00:45:32,960
+push them as hard as you could possibly go and assume that like, Hey, they're not necessarily
+
+472
+00:45:32,960 --> 00:45:39,120
+exercising that hard every day. I want to really see if they have any ST changes or
+
+473
+00:45:39,120 --> 00:45:43,200
+wall motion abnormality when I make them, you know, go to 15 minutes.
+
+474
+00:45:43,840 --> 00:45:49,920
+I don't, but because, because like I said, I sort of land in that camp of,
+
+475
+00:45:50,800 --> 00:45:55,760
+even if you had symptoms, I'd still medically managed them medically. Yeah, probably I would
+
+476
+00:45:55,760 --> 00:46:01,440
+still try to optimize medicines. Now, if somebody came in and was on great medicines and was still
+
+477
+00:46:01,440 --> 00:46:05,440
+having symptoms, then obviously it's a different story. But yeah, I don't routinely do anything to
+
+478
+00:46:05,440 --> 00:46:10,640
+people who have high calcium. In fact, if you have a high calcium score, whatever it is, a thousand,
+
+479
+00:46:11,680 --> 00:46:15,600
+it to me, it triggers a response. And it's the same. I don't think you need a CTA in that case.
+
+480
+00:46:15,680 --> 00:46:20,240
+And in fact, the CTA might not be very useful because there may be so much calcium that kind
+
+481
+00:46:20,240 --> 00:46:27,120
+of obscures the ability to be able to see into and beneath the vessel. So, and it's to me,
+
+482
+00:46:27,120 --> 00:46:32,560
+I don't automatically do stress testing in somebody like that. I often will see patients who've
+
+483
+00:46:33,360 --> 00:46:37,920
+been completely freaked out by the result and that, and they'll have had a big workup,
+
+484
+00:46:37,920 --> 00:46:42,640
+including potentially stress testing and, and a CTA engineering, but, but I don't do that. And,
+
+485
+00:46:42,640 --> 00:46:48,880
+and I likewise don't do any routine stress testing anymore as a way to follow coronary disease.
+
+486
+00:46:48,880 --> 00:46:52,800
+That was something we used to do in the old days when somebody had a lesion, you knew they had a
+
+487
+00:46:52,800 --> 00:46:59,120
+lesion, you'd kind of exercise them over once a year or something to see how they progress that.
+
+488
+00:46:59,120 --> 00:47:07,840
+I don't do that anymore either. Okay. So in light of that fame, if I recall,
+
+489
+00:47:07,840 --> 00:47:14,160
+basically said, or sought to answer the question, if you took a bunch of asymptomatic people
+
+490
+00:47:16,400 --> 00:47:20,400
+and you did this FFR on them, you measured the fractional flow reserve.
+
+491
+00:47:21,200 --> 00:47:28,160
+If you took the people who had a pressure drop of, I think it was either 30% or more,
+
+492
+00:47:28,160 --> 00:47:35,040
+I think it was a 0.7 P2 to P1. Yeah, something like that. It was either a 20 or 30% drop.
+
+493
+00:47:35,600 --> 00:47:42,080
+If those people automatically got stented and the others did not, and these are both asymptomatic,
+
+494
+00:47:42,080 --> 00:47:46,240
+would we see better outcomes in the more aggressive stenting strategy? Isn't that
+
+495
+00:47:46,240 --> 00:47:50,160
+effectively what the trial was? That was the design and that was the result. And,
+
+496
+00:47:50,160 --> 00:47:55,200
+and so therefore that became standard of care in a cath lab. In most cath labs that,
+
+497
+00:47:56,000 --> 00:48:01,600
+in fact, we were doing FFR and a lot of patients were, yeah, initially FFR was there for these
+
+498
+00:48:01,600 --> 00:48:05,040
+end cases where you weren't sure is this significant or not? Should we stent it? Should
+
+499
+00:48:05,040 --> 00:48:09,760
+we not stent it? I think it went through a period. I think it's now come back, but I think it went
+
+500
+00:48:09,760 --> 00:48:15,040
+through a period where it was being used a lot based on fame with the sort of assumption that
+
+501
+00:48:15,040 --> 00:48:20,160
+you're impacting people's outcome, hard outcomes based on your decision-making and that there were
+
+502
+00:48:20,160 --> 00:48:25,040
+certain groups of people who benefited tremendously from getting stented. And our job was just to
+
+503
+00:48:25,040 --> 00:48:29,200
+identify who they were. On the surface, that's not an absurdity, right? That's definitely a
+
+504
+00:48:29,200 --> 00:48:34,720
+possibility. But I think, you know, after however many years now of understanding the data,
+
+505
+00:48:35,600 --> 00:48:40,720
+I think the consensus is it's just not necessary. I think really mostly it comes from the sort of
+
+506
+00:48:40,720 --> 00:48:45,680
+line of evidence that we've had through, you know, courage, ischemia, orbiter, all these different
+
+507
+00:48:45,680 --> 00:48:50,640
+trials showing really that the take-home is that optimal medical therapy, even in a mildly
+
+508
+00:48:50,640 --> 00:48:58,720
+symptomatic person patient is quite effective. So all of this basically is prelude to
+
+509
+00:49:00,080 --> 00:49:07,200
+a CT based version of this study, which of course can't do the intervention,
+
+510
+00:49:08,000 --> 00:49:13,840
+but it can identify people who are getting CTAs, which are far more than the people who are getting
+
+511
+00:49:13,840 --> 00:49:21,600
+traditional angiography to say, hey, maybe you do need an intervention. So again, in theory,
+
+512
+00:49:21,600 --> 00:49:27,520
+the idea here is, well, you've got a CTA, I see a stenosis there, it's a 50% stenosis.
+
+513
+00:49:27,680 --> 00:49:32,640
+Is it significant or not? I can't tell. I don't have a pressure transducer in there that I can
+
+514
+00:49:32,640 --> 00:49:38,480
+measure, but I can run this algorithm on it and the algorithm will tell me what the pressure drop
+
+515
+00:49:38,480 --> 00:49:46,160
+is. So of course, question one is how successful is that algorithm? I don't know myself. I assume
+
+516
+00:49:46,160 --> 00:49:50,160
+that there was a head-to-head that was done where you had a whole bunch of people that actually had
+
+517
+00:49:50,160 --> 00:49:56,000
+cath that actually had pressure transduction and then concurrently had CTA, and then they could
+
+518
+00:49:56,880 --> 00:50:00,080
+actually see how predictive they were. I have to believe that was done right.
+
+519
+00:50:00,640 --> 00:50:06,000
+Yeah, there was a trial. I don't remember the details of it. I guess the questions are in my
+
+520
+00:50:06,000 --> 00:50:10,640
+mind, so does the physics, and I don't understand the physics, but does it make sense? Can you
+
+521
+00:50:10,640 --> 00:50:16,000
+actually really make this calculation in a meaningful and reproducible way in these people?
+
+522
+00:50:17,120 --> 00:50:20,880
+I imagine back in the day when the method was being validated, that there were some comparisons,
+
+523
+00:50:20,880 --> 00:50:25,280
+the FDA required some comparison to be able to say that this is just as they probably required
+
+524
+00:50:25,360 --> 00:50:30,800
+something to clear the FFR catheters themselves. They probably required something. It probably
+
+525
+00:50:30,800 --> 00:50:36,880
+was close enough. I don't have any knowledge that the thing is a random number generator.
+
+526
+00:50:37,760 --> 00:50:43,040
+To me, that's a distraction. I think there are plenty of people who go down that path. To me,
+
+527
+00:50:43,040 --> 00:50:51,040
+the question remains what are we doing? And really, in the way I practice, do we need to identify
+
+528
+00:50:51,040 --> 00:50:55,200
+asymptomatic people who are at higher risk? Is there a group of these people who
+
+529
+00:50:55,200 --> 00:51:00,800
+are special and might show something that no other group of patients has ever shown in the
+
+530
+00:51:00,800 --> 00:51:05,200
+history of interventional cardiology, which is a benefit from stenting? I know that my
+
+531
+00:51:05,200 --> 00:51:07,600
+interventional cardiology colleagues are going to hate what I just said,
+
+532
+00:51:09,200 --> 00:51:16,080
+but we've been doing this for a long time now. We've been looking for any group of people who
+
+533
+00:51:16,080 --> 00:51:20,560
+would benefit from outside of the Akitamai setting, which we've talked about, any group of people who
+
+534
+00:51:20,640 --> 00:51:25,440
+would benefit from a stent being placed in their artery. And we've had a hard time doing that.
+
+535
+00:51:25,440 --> 00:51:29,520
+It's not for lack of track. It's been, I mean, again, courage, which sort of was the beginning
+
+536
+00:51:29,520 --> 00:51:34,880
+of the end of this in some way, since that was a trial that was conceived of and executed by a
+
+537
+00:51:34,880 --> 00:51:39,520
+group of interventional cardiologists who wanted to demonstrate the superiority of stenting
+
+538
+00:51:39,520 --> 00:51:46,960
+over medical therapy. It was designed that way. And all the bias was weighted towards getting
+
+539
+00:51:46,960 --> 00:51:53,280
+that outcome. It did not get that outcome. And frankly, there have been however many dozens of
+
+540
+00:51:53,280 --> 00:51:58,560
+studies since then. And at least from my point of view, there's nothing that screams at me that,
+
+541
+00:51:58,560 --> 00:52:07,840
+hey, look, our job as preventive cardiologists or thoughtful internists should be to go looking for
+
+542
+00:52:07,840 --> 00:52:13,200
+people who might benefit from a stent in the absence of symptoms. And that's where I'm left
+
+543
+00:52:13,200 --> 00:52:19,920
+today is that I don't see any evidence yet that there's something magical about some group of
+
+544
+00:52:19,920 --> 00:52:26,000
+people where they derive that much more benefit from a stent beyond truly optimal medical therapy.
+
+545
+00:52:26,000 --> 00:52:31,200
+And I think, as you said earlier, if everybody got truly optimal medical therapy, like if we
+
+546
+00:52:31,200 --> 00:52:35,600
+didn't have barriers to using all these tools in everybody, I think this disease would largely
+
+547
+00:52:36,400 --> 00:52:40,720
+be controlled. Now, I do believe there's something else going on that's residual.
+
+548
+00:52:40,720 --> 00:52:50,000
+And you're an example, I think potentially. But yes, I think the quality of the medical
+
+549
+00:52:50,000 --> 00:52:55,760
+therapy we have today is so good that it's going to be really hard to demonstrate the value of
+
+550
+00:52:55,760 --> 00:53:04,960
+stenting people. That assumes that stenting doesn't do something harmful. And again, I think that's a
+
+551
+00:53:04,960 --> 00:53:14,000
+open question. Why, if you have a very high grade lesion, even before there was great PCS
+
+552
+00:53:14,000 --> 00:53:20,160
+canine inhibitors, they were just ZOCOR or something, why wouldn't opening that artery lead to improved
+
+553
+00:53:21,440 --> 00:53:25,920
+outcomes outside of the Akita mice setting? That's a question that always plagued me,
+
+554
+00:53:25,920 --> 00:53:30,560
+even as a cardiology fellow, I was like, well, this doesn't make any sense. It should. You're
+
+555
+00:53:30,560 --> 00:53:35,520
+opening up an artery that's severely blocked and restoring blood flow back to the heart.
+
+556
+00:53:36,400 --> 00:53:39,440
+And there are lots of explanations for why that might be. I don't think we have a good one,
+
+557
+00:53:39,440 --> 00:53:45,520
+but you could imagine that in going in there and blowing up a balloon inside that artery and
+
+558
+00:53:45,520 --> 00:53:50,880
+deploying a stent that you're elaborating the contents of that plaque downstream. And much
+
+559
+00:53:50,880 --> 00:53:56,480
+like what happens when you break up a beaver dam in a stream, it's just going downstream and causing
+
+560
+00:53:56,560 --> 00:54:01,840
+its own set of problems. That's just me speculating and making it up. But to me,
+
+561
+00:54:01,840 --> 00:54:07,760
+it's an interesting question. Why it wouldn't be. Has the study been done, for example,
+
+562
+00:54:07,760 --> 00:54:12,720
+where they take a group of individuals who were asymptomatic at the time of being stented,
+
+563
+00:54:12,720 --> 00:54:19,520
+or they weren't being stented in an acute STEMI, who then go on to have subsequent events, what
+
+564
+00:54:19,520 --> 00:54:27,600
+the location is of the plaque. In other words, when a person gets stented in the mid-LAD,
+
+565
+00:54:28,640 --> 00:54:35,120
+and they go and have another event, is that other event more, can we identify a pattern?
+
+566
+00:54:35,760 --> 00:54:42,000
+So for example, is it distal in the LAD? Is it in a part of the heart where you could say,
+
+567
+00:54:42,800 --> 00:54:46,880
+maybe there was some mechanical change that took place as a result of that stent,
+
+568
+00:54:46,880 --> 00:54:53,600
+or maybe it was, hey, you know what? The reason it doesn't work is you're playing whack-a-mole,
+
+569
+00:54:53,600 --> 00:55:00,560
+and this person had lots of disease. You just happened to pick the one that had the most
+
+570
+00:55:00,560 --> 00:55:07,200
+stenosis, although stenosis by itself is actually a really crappy predictor of future events. So
+
+571
+00:55:08,080 --> 00:55:15,200
+you weren't more likely to do anything here. Maybe if you stented the entire vasculature,
+
+572
+00:55:15,200 --> 00:55:20,640
+you would have, but of course you can't do that. So it really comes down to how lousy is
+
+573
+00:55:20,640 --> 00:55:24,640
+plain up stenosis as a predictor of subsequent events.
+
+574
+00:55:24,640 --> 00:55:29,920
+Well, I think it's a good predictor that as we discussed earlier, these plaques that end up
+
+575
+00:55:29,920 --> 00:55:34,480
+leading to bad things often are not the plaques that would be get stented anyway. So I think
+
+576
+00:55:34,480 --> 00:55:39,600
+there's that. And that's my point, right? Because another explanation, which I think you had a good
+
+577
+00:55:39,600 --> 00:55:47,440
+one is if you have a 90% stenosis and you haven't experienced symptoms as a result of that yet,
+
+578
+00:55:48,240 --> 00:55:53,360
+that's probably telling that if you throw a clot there, you're going to survive it.
+
+579
+00:55:53,360 --> 00:55:56,720
+That's right. Because there's collateralization and we know that, right? From seeing these,
+
+580
+00:55:57,280 --> 00:56:02,080
+you know, you can see that. And that's probably the mechanism, right? That this ischemic
+
+581
+00:56:02,080 --> 00:56:05,760
+preconditioning leads to this growth of collaterals. And basically it's like,
+
+582
+00:56:05,760 --> 00:56:09,280
+if there's an accident on the freeway, it's like I tell my patients that you get off on the side
+
+583
+00:56:09,280 --> 00:56:12,800
+streets and you wind your way through, it takes a lot longer. And it's not great when there's like
+
+584
+00:56:12,800 --> 00:56:17,360
+a lot of traffic, but if there's no traffic and it's relatively light flow, you do fine.
+
+585
+00:56:18,000 --> 00:56:22,080
+Right. But that 30% lesion hasn't been tested yet. No, it hasn't.
+
+586
+00:56:22,080 --> 00:56:23,920
+So you don't really know how it's going to respond.
+
+587
+00:56:23,920 --> 00:56:28,160
+Because you would never send a 30% lesion. Yeah. So there's that. And then the other thing I think
+
+588
+00:56:28,160 --> 00:56:33,840
+is that if you look at, and now with the advent of sort of high sensitivity troponins and other
+
+589
+00:56:34,320 --> 00:56:41,680
+more sensitive measures, if you look at say troponin or CK elevations after a long intervention,
+
+590
+00:56:42,480 --> 00:56:46,400
+they most certainly go up, not in all cases, but they do go up. And so the question is,
+
+591
+00:56:46,400 --> 00:56:52,080
+are you doing, are you basically creating a little MI in the process of putting the stint in? And
+
+592
+00:56:52,080 --> 00:56:58,160
+does that then cause downstream risk in the form of arrhythmias or other issues, you know, later on
+
+593
+00:56:58,160 --> 00:57:04,400
+in life? That to me is sort of an interesting thing to think about it. Obviously there's no
+
+594
+00:57:04,400 --> 00:57:09,360
+great data at this point, but I think there are data, at least observational data, looking at the
+
+595
+00:57:10,960 --> 00:57:17,760
+area under the curve of the troponin elevations post PCI as a predictor of outcomes. I think
+
+596
+00:57:17,760 --> 00:57:21,360
+obviously the more troponin you have, the worse you do, as you'd expect.
+
+597
+00:57:23,760 --> 00:57:27,920
+Okay. So there was this study that I don't think is published yet, but I think you and I saw it in
+
+598
+00:57:27,920 --> 00:57:32,560
+email to each other about, was it, was, is it the precise trial that we saw the abstract for?
+
+599
+00:57:33,600 --> 00:57:39,120
+Remind me. This is the one that did the, I think this is the one that did the FFR
+
+600
+00:57:39,920 --> 00:57:45,760
+and it found no difference in all cause mortality, no difference in mace,
+
+601
+00:57:47,040 --> 00:57:53,280
+but a reduction in the need for catheterization. Right. Yeah. So this has now become the sort of
+
+602
+00:57:53,680 --> 00:58:00,960
+value add of doing these non-invasive adjuncts to CT and geography. And it's the reason that we
+
+603
+00:58:00,960 --> 00:58:10,720
+at UCSF now do CTFFR on not all of it, most of the CTAs that we do, is that in theory,
+
+604
+00:58:11,360 --> 00:58:15,360
+you've reduced the number of people who go to the lab. You only reduce the number of people who go to
+
+605
+00:58:15,360 --> 00:58:20,560
+lab if you send people to the lab. If you're not sending people to the lab, you're not reducing
+
+606
+00:58:20,560 --> 00:58:25,200
+number of people. So again, to me, it comes back to the primary issue, which is that people
+
+607
+00:58:26,880 --> 00:58:32,720
+with plaque probably, you know, in the absence of symptoms, people with plaque should probably be
+
+608
+00:58:32,720 --> 00:58:39,520
+optometically medically treated and left alone. And that taking it in the cath lab is a very little
+
+609
+00:58:39,520 --> 00:58:44,720
+value. And obviously if they get to the cath lab, the chance of them getting stented goes up
+
+610
+00:58:45,680 --> 00:58:53,360
+astronomically, once they're there. So yes, you do theoretically prevent unnecessary stents
+
+611
+00:58:53,920 --> 00:58:58,320
+with CTFFR, but you can do that without the FFR. You don't need the FFR.
+
+612
+00:58:59,360 --> 00:59:04,400
+Yeah. I think that's really well said, right? Because to me, I don't get hung up when a study
+
+613
+00:59:04,400 --> 00:59:08,480
+like that doesn't find a difference in ACM, because I think that's a short time horizon.
+
+614
+00:59:09,360 --> 00:59:14,560
+But I do get a bit alarmed when there's absolutely no difference in MACE, right? When you see
+
+615
+00:59:14,560 --> 00:59:20,320
+no difference in anything related to cardiac pathology. And the only difference is an
+
+616
+00:59:20,320 --> 00:59:26,320
+algorithmic difference that to your point, you can make on your own. Again, I think we should
+
+617
+00:59:26,320 --> 00:59:30,640
+maybe reserve judgment until the final study is published. I mean, so we'll wait for that. I don't
+
+618
+00:59:30,640 --> 00:59:36,000
+know when that's coming out, but I found myself very underwhelmed by this and it didn't change my
+
+619
+00:59:36,000 --> 00:59:41,920
+thinking, which is that at this time I'm struggling for the use case of FFR. And as such, we really
+
+620
+00:59:41,920 --> 00:59:49,040
+don't employ it with our patients. I think that the issue is you have all these levers you can
+
+621
+00:59:49,040 --> 00:59:53,440
+pull. And so your job is to figure out which levers am I going to pull. And I think sometimes
+
+622
+00:59:53,440 --> 00:59:59,520
+people overcomplicate it, right? That there are going to be relatively low risk people whom you
+
+623
+00:59:59,520 --> 01:00:05,040
+could get away with statin or maybe statin and a very low dose of Zetia. I mean, in my opinion,
+
+624
+01:00:05,040 --> 01:00:11,200
+if you have plaque, significant A plaque, they say a 30% plaque or greater in an artery,
+
+625
+01:00:11,200 --> 01:00:16,640
+in your coronary vasculature, I'm pulling all the levers. I don't need any other information.
+
+626
+01:00:16,640 --> 01:00:21,280
+Like I don't need more. And that's a pretty good intervention, pulling all those levers.
+
+627
+01:00:22,240 --> 01:00:26,560
+By the way, to your point earlier, let's just assume there's something in me that's off.
+
+628
+01:00:27,520 --> 01:00:35,200
+I think the fact that the moment I had a six score Ditzel, every lever got pulled. That's probably
+
+629
+01:00:35,200 --> 01:00:40,400
+why 15 years later, it looks like a Ditzel still, nothing's changed, which means
+
+630
+01:00:41,520 --> 01:00:46,160
+if we just pulled all the levers all the time, we could kind of take this disease off the table
+
+631
+01:00:46,160 --> 01:00:50,400
+for virtually entire population. This is the mission statement of my friend,
+
+632
+01:00:50,400 --> 01:00:57,600
+say, Catharines' company, Verve. I mean, they want to CRISPR out PCSK9, not necessarily initially in
+
+633
+01:00:57,600 --> 01:01:03,440
+everybody, but he believes that if you can do that, you'd eradicate this disease. I don't totally
+
+634
+01:01:03,440 --> 01:01:09,120
+agree with him, actually. We disagree a little bit on some of these things. But in general,
+
+635
+01:01:09,120 --> 01:01:14,400
+I think he's probably right. The question is, do you need to go to that extreme to be able to
+
+636
+01:01:15,040 --> 01:01:21,680
+solve for this problem? And could you apply that solution to everybody, feasibly worldwide?
+
+637
+01:01:21,680 --> 01:01:23,840
+That's his problem to think about, not mine.
+
+638
+01:01:24,400 --> 01:01:29,760
+That's a very, and I'm going to, yeah, I'd love to have Seth on to talk about
+
+639
+01:01:29,760 --> 01:01:35,760
+many of these things. Okay, so let's talk about two other things before we leave CTA.
+
+640
+01:01:36,400 --> 01:01:42,720
+There's the fat attenuation index, FAI. What is that exactly?
+
+641
+01:01:42,720 --> 01:01:44,720
+I actually, I'm going to be totally honest. I have no idea.
+
+642
+01:01:46,240 --> 01:01:48,320
+Okay. You've seen it, I assume.
+
+643
+01:01:48,320 --> 01:01:48,960
+It's been, if to be presented to you.
+
+644
+01:01:48,960 --> 01:01:53,200
+Maybe, I guess. I sort of have learned in now doing this for as long as I have.
+
+645
+01:01:53,760 --> 01:01:58,480
+Right. I mean, so I graduated from medical school in 1996 and did my residency for two years and
+
+646
+01:01:58,480 --> 01:02:03,440
+then started my cardiology fellowship here 25 years ago. So I've sort of learned to tune out,
+
+647
+01:02:03,520 --> 01:02:09,120
+like put blinders on and to some of this stuff, just because it's something new every
+
+648
+01:02:09,760 --> 01:02:16,240
+like few weeks. It's been that way, like consistently. So I'm sorry, I'm not like
+
+649
+01:02:16,240 --> 01:02:21,760
+completely up to speed on this latest and greatest fat attenuation index. I imagine it's some CT based
+
+650
+01:02:21,760 --> 01:02:25,760
+way to look at the characteristics of the plaque and to see if it's potentially vulnerable. Is that
+
+651
+01:02:26,400 --> 01:02:32,320
+the idea? No, it looks, and I'm not an expert in this. I was hoping you were. So it basically,
+
+652
+01:02:32,320 --> 01:02:38,480
+it is a CTA bolt on just like the FFR is, but it looks at the characteristics of the fat
+
+653
+01:02:38,480 --> 01:02:44,000
+around the plaque. Yeah. So it's not trying to predict vulnerability per se. It's actually
+
+654
+01:02:44,000 --> 01:02:49,600
+trying to predict how much inflammation is, I hope I'm getting this right, but I think it's
+
+655
+01:02:49,600 --> 01:02:57,760
+looking for how much inflammation is around the plaque. I see. That's interesting. That's
+
+656
+01:02:57,760 --> 01:03:03,520
+interesting. I don't, not familiar. I am familiar with PET CT. The amount of it you can measure
+
+657
+01:03:03,520 --> 01:03:07,280
+using FTG PET, you can measure the amount of inflammation in a plaque that can be done
+
+658
+01:03:07,280 --> 01:03:11,200
+quantitatively. There's a group of people who've been doing that for years. And I think
+
+659
+01:03:12,960 --> 01:03:16,800
+certain pharmaceutical and biotech companies have used that as a way to kind of gauge efficacy
+
+660
+01:03:17,600 --> 01:03:23,120
+in evaluating new molecules to see if they can have an impact there.
+
+661
+01:03:23,920 --> 01:03:29,920
+That I don't think has been being used now clinically, at least to my knowledge and
+
+662
+01:03:29,920 --> 01:03:34,240
+routinely. I'm not familiar with the fat attenuation index. It kind of makes sense.
+
+663
+01:03:34,240 --> 01:03:40,320
+So it's, it's epi-cardial fat. That's right. Yeah. Okay. Yeah. I mean, it's an interesting
+
+664
+01:03:40,320 --> 01:03:46,800
+idea, right? I mean, epi-cardial fat is visceral fat and there's, it probably does impact risk in
+
+665
+01:03:46,800 --> 01:03:52,240
+some way. Again, what are you going to do with that information? You're already pulling all the
+
+666
+01:03:52,240 --> 01:03:57,840
+levers. I guess maybe you'd focus a little bit more on metabolic stuff, I guess.
+
+667
+01:03:58,880 --> 01:04:04,480
+Which we'll come back to. Okay. Let's now, let's pivot to another topic that seems to come up from
+
+668
+01:04:04,480 --> 01:04:14,880
+time to time online, I guess, which is are there subsets of people who, in whom an elevated CAC
+
+669
+01:04:14,880 --> 01:04:19,760
+is not a predictor of risk? So there's been some confusion about this. I think it's maybe worth
+
+670
+01:04:19,760 --> 01:04:29,440
+clarifying this for folks. So James O'Keefe has commented on the fact that certain athletes,
+
+671
+01:04:29,440 --> 01:04:35,360
+you know, who exercise a lot, so very high degrees of cardio respiratory fitness might have a higher
+
+672
+01:04:35,360 --> 01:04:42,800
+frequency of coronary calcification. So let's first talk about that. How robust are those data?
+
+673
+01:04:42,800 --> 01:04:48,800
+And more importantly, what does it mean? Yeah. Well, I think it's plausible. I mean,
+
+674
+01:04:48,800 --> 01:04:55,200
+we know that sort of increasing sheer forces across an endothelial surface can certainly
+
+675
+01:04:55,840 --> 01:04:59,280
+lead to damage and that would potentially increase calcification. We know that
+
+676
+01:04:59,280 --> 01:05:05,200
+in, say, patients with a bicuspid aortic valve, that people who exercise at extreme levels do
+
+677
+01:05:05,920 --> 01:05:10,800
+appear to have an increased rate of calcification of that valve. And I say appear to because none of
+
+678
+01:05:10,800 --> 01:05:16,000
+these studies are controlled. But it does seem that that's the case and it makes sense and is
+
+679
+01:05:16,000 --> 01:05:21,200
+plausible as dangerous as that word is. I think the same thing could be true in a coronary
+
+680
+01:05:23,200 --> 01:05:31,360
+artery vascular bed. The increasing sheer, as you would expect to by increasing flow, as you would
+
+681
+01:05:31,360 --> 01:05:39,600
+during extreme exercise could potentially lead to some damage and therefore calcification.
+
+682
+01:05:39,600 --> 01:05:47,680
+So I do think it's plausible. I guess I don't, I still don't think, and sorry, I do think there
+
+683
+01:05:47,680 --> 01:05:52,800
+is this one example where there is a disconnect between the amount of calcification in the artery
+
+684
+01:05:52,800 --> 01:05:56,320
+and the amount of risk and that is within people taking statins. And that's a very difficult
+
+685
+01:05:56,320 --> 01:06:00,800
+concept for people to grasp. And frankly, it's a difficult concept for me to explain.
+
+686
+01:06:01,760 --> 01:06:08,880
+And I do find myself getting tied up and trying to explain it. And I can make up explanations like,
+
+687
+01:06:09,120 --> 01:06:12,560
+what you're doing is healing the plaque and stabilizing the plaque, which we think statins
+
+688
+01:06:12,560 --> 01:06:16,720
+are doing and that that's a good thing and not a bad thing. But I think that's incontrovertible
+
+689
+01:06:16,720 --> 01:06:22,880
+that statins probably do increase the risk of calcification despite lowering the risk of events.
+
+690
+01:06:22,880 --> 01:06:27,440
+So there is this one example. So is it possible that exercise could be similar to that? Maybe.
+
+691
+01:06:28,320 --> 01:06:36,720
+But we don't have the flip side, right? We don't have the 40 years of really rigorous
+
+692
+01:06:36,720 --> 01:06:44,400
+randomized trials showing that some exercise versus some version of placebo does that. Would
+
+693
+01:06:44,400 --> 01:06:48,880
+I say don't exercise? Absolutely not. Would I still tell some patients not to exercise to that
+
+694
+01:06:48,880 --> 01:06:56,160
+extreme level? I don't know. I'm on the fence there. And the question is, what's the, so each,
+
+695
+01:06:56,160 --> 01:07:03,680
+let's just assume that it is the case that high, high amounts of cardiorespiratory fitness come
+
+696
+01:07:03,760 --> 01:07:08,640
+at the expense of some endothelial damage. Again, I don't know if it's true, but I agree with you.
+
+697
+01:07:09,600 --> 01:07:16,240
+There's certainly mechanistic plausibility there. The question is, if a person goes from
+
+698
+01:07:18,400 --> 01:07:25,200
+call it, I don't know, 50 met hours per week of exercise to a hundred met hours per week of
+
+699
+01:07:25,200 --> 01:07:32,640
+exercise. And let's assume that doing that increases their calcification. A, is that with
+
+700
+01:07:32,640 --> 01:07:38,480
+or without more risk? Let's assume it is with more risk, but is that risk more or less than
+
+701
+01:07:38,480 --> 01:07:44,000
+the benefit that they gain going from the 25 or 50 to the hundred met hours a week of exercise?
+
+702
+01:07:45,120 --> 01:07:49,760
+In other words, this is what makes exercise a bit more complicated here, which is most of the other
+
+703
+01:07:49,760 --> 01:07:54,960
+things that are increasing the burden of calcification are net negative, right? Obviously,
+
+704
+01:07:54,960 --> 01:08:01,520
+smoking more, having higher blood pressure, having worse lipids, but the correction of that moves in
+
+705
+01:08:01,520 --> 01:08:06,240
+the same direction as the correction of the calcification works in the same correction of the,
+
+706
+01:08:06,240 --> 01:08:09,680
+as the calcification of works in the same direction as the improvement of the risk
+
+707
+01:08:09,680 --> 01:08:16,800
+modifier with exercise is not the same. What's I think unambiguous though, and we were talking
+
+708
+01:08:16,800 --> 01:08:24,080
+about this earlier, more exercise is better than less and more calcium is worse than less.
+
+709
+01:08:25,760 --> 01:08:29,520
+I've yet to see an exception to that rule. That is according to the thing.
+
+710
+01:08:29,600 --> 01:08:34,160
+I agree with you. And I think that discordance is only mimicked by the statin story, right? Where
+
+711
+01:08:34,160 --> 01:08:40,160
+we need more spattens are better and also lead to more calcium. Look, here's the thing. If you
+
+712
+01:08:40,160 --> 01:08:48,080
+put it back into sort of the terms in the context of a patient comes to me and says, Hey, I got this
+
+713
+01:08:48,080 --> 01:08:52,160
+calcium score of whatever, let's call it 800, I don't know, whatever you want to call it 500,
+
+714
+01:08:52,160 --> 01:08:58,000
+300, 200, 100. But I don't think it means anything because I exercise a lot. Like that's
+
+715
+01:08:58,080 --> 01:09:03,120
+the question, right? That's the question that gets presented to us sort of at an individual level.
+
+716
+01:09:03,120 --> 01:09:07,760
+And I guess what I'm saying is that I'm not yet comfortable saying, Oh, don't worry about that.
+
+717
+01:09:07,760 --> 01:09:12,800
+Whereas I am comfortable saying, don't worry about that if it's because they're on a statin.
+
+718
+01:09:12,800 --> 01:09:20,800
+And so what I would say to that patient is we have to assume that that calcium is representative of
+
+719
+01:09:21,680 --> 01:09:24,960
+plaques in the arteries and that having plaques in the arteries is a bad thing.
+
+720
+01:09:25,440 --> 01:09:30,560
+And that we should treat you accordingly, even though you exercise a lot. And if you want to be
+
+721
+01:09:30,560 --> 01:09:35,200
+sure, then we can do a CT angiogram to kind of see how much plaque you actually have.
+
+722
+01:09:38,240 --> 01:09:43,840
+Because, you know, I don't know any evidence that this calcification is not plaque related,
+
+723
+01:09:43,840 --> 01:09:49,840
+that it's somehow extra vascular calcification or beyond the, it's in the intima or something
+
+724
+01:09:50,080 --> 01:09:55,680
+or media, I guess. But that's how I would approach it today is I just can't tell you,
+
+725
+01:09:55,680 --> 01:10:01,680
+I can't give you a free pass on the calcium because you exercise a lot. Exercising is great.
+
+726
+01:10:01,680 --> 01:10:07,840
+Keep exercising. Don't stop exercising. But I think the burden of proof is on us to show
+
+727
+01:10:07,840 --> 01:10:13,840
+that that is not risky. And if we did a CT angiogram and it showed you didn't have any plaque and
+
+728
+01:10:13,840 --> 01:10:19,680
+all the calcium is sort of extra vascular somewhere else, then sure, I'm sure you're
+
+729
+01:10:19,920 --> 01:10:24,720
+okay with that. But that if we do it and we see plaque, I'm not aware of any data that would say
+
+730
+01:10:24,720 --> 01:10:30,320
+let's not treat you. Which is sort of the subtle but important difference between the statin store,
+
+731
+01:10:30,320 --> 01:10:35,760
+because the people on statins are already by definition on the risk reducing therapy
+
+732
+01:10:35,760 --> 01:10:40,880
+that's been shown to save lives. So like, it's not like, what are you going to do to that person
+
+733
+01:10:41,840 --> 01:10:45,600
+because their calcium score is higher? You know, would you be more aggressive, I guess,
+
+734
+01:10:45,600 --> 01:10:49,280
+is one question people might ask. But I think it's a little bit of that's the difference is that
+
+735
+01:10:49,280 --> 01:10:53,040
+there's that lever still to pull and the exercise person is that 90.
+
+736
+01:10:54,000 --> 01:10:57,280
+So what percentage of your patients take statins?
+
+737
+01:10:59,680 --> 01:11:04,640
+I mean, it's a completely biased group of people because it's all of course, of course.
+
+738
+01:11:07,440 --> 01:11:12,720
+90, I'm guessing. And is the implication that the five to 10% who don't
+
+739
+01:11:14,400 --> 01:11:16,800
+have some side effect that they aren't able to tolerate?
+
+740
+01:11:16,960 --> 01:11:22,640
+Right. There's those for sure. Although I think that's less frequent now because
+
+741
+01:11:22,640 --> 01:11:27,200
+would you say statin or any other like or PCS-kinine inhibitor? Because I do have
+
+742
+01:11:27,200 --> 01:11:27,680
+a few patients.
+
+743
+01:11:27,680 --> 01:11:33,680
+No, I would just say statin to start because what I want to sort of explore for a moment is
+
+744
+01:11:34,480 --> 01:11:39,840
+what are the real world implications of the use of these drugs? What are the real world side
+
+745
+01:11:39,840 --> 01:11:45,760
+effects? What are the real world conditions that prevent people from being maximally
+
+746
+01:11:46,400 --> 01:11:47,200
+medically treated?
+
+747
+01:11:47,840 --> 01:11:52,320
+Small number of patients of mine who don't take them because of true side effects.
+
+748
+01:11:53,600 --> 01:11:57,280
+Equally, maybe even slightly larger group of patients who don't take them because they're
+
+749
+01:11:57,280 --> 01:12:03,920
+afraid of them. And I don't mean that to be pejorative. I think there's been a tremendous
+
+750
+01:12:04,800 --> 01:12:10,880
+campaign, a propaganda campaign to demonize statins that's been going on for a long time,
+
+751
+01:12:10,880 --> 01:12:16,800
+25 or 30 years. And it's been very successful and people are terrified of statins. And
+
+752
+01:12:18,000 --> 01:12:21,280
+there have been documentaries made on how statins are poison and they're killing people.
+
+753
+01:12:21,840 --> 01:12:25,680
+And while not everybody or even maybe most people are aware of that,
+
+754
+01:12:25,680 --> 01:12:30,960
+plenty of people who spend any amount of time online are. And so that is, I do spend a lot
+
+755
+01:12:30,960 --> 01:12:35,120
+of time with patients who come to see me because I have some openness to at least having that
+
+756
+01:12:35,120 --> 01:12:40,720
+conversation with them and I'm not going to force them. I have a patient of mine who came to see me
+
+757
+01:12:40,720 --> 01:12:44,640
+with a tremendous amount of skepticism, had every risk factor, was probably having angina when he
+
+758
+01:12:44,640 --> 01:12:50,640
+first came to see me. And I recommended that he start taking a statin that first day and he was
+
+759
+01:12:50,640 --> 01:12:55,920
+afraid to because of stuff that he'd read about how dangerous they were. He ended up, needless to
+
+760
+01:12:55,920 --> 01:13:02,240
+say, a few months later in the ER with an acute MI and fortunately the outcome was good. He ended
+
+761
+01:13:02,240 --> 01:13:07,520
+up with a stent. He's stayed on a statin ever since then. So that sort of was enough of an
+
+762
+01:13:07,520 --> 01:13:12,960
+experience for him to change his mind. But I have a number of people who just flat out either won't
+
+763
+01:13:12,960 --> 01:13:19,600
+or it takes me years to convince them to. Years. I mean, some people I've seen for years, I've had
+
+764
+01:13:19,600 --> 01:13:24,960
+the same conversation year after year after year after year. And some people never changed their
+
+765
+01:13:25,040 --> 01:13:29,280
+mind. Some people change their minds because of other things happening like this patient having
+
+766
+01:13:29,280 --> 01:13:35,680
+an MI and some people change their minds because finally they are convinced. But I never force it.
+
+767
+01:13:35,680 --> 01:13:42,320
+What's the core belief that's at the root of the fear you think? I mean, again, and I say this just
+
+768
+01:13:42,320 --> 01:13:47,280
+acknowledging that probably about 5% of patients are going to experience muscle side effects that
+
+769
+01:13:47,280 --> 01:13:51,520
+are going to warrant not taking a statin because it's going to impede in their quality of life.
+
+770
+01:13:52,480 --> 01:13:56,320
+But so if you just acknowledge unemotionally that there are side effects, you're going to see
+
+771
+01:13:56,320 --> 01:14:01,680
+transaminase elevations that are just too much, especially if mixed with Zetia. But if you
+
+772
+01:14:01,680 --> 01:14:06,640
+acknowledge all of those things, there's obviously some deeper seated fear in something that can't
+
+773
+01:14:06,640 --> 01:14:12,960
+be seen or measured or quantified. Where do you think that comes from? Why don't we see that with
+
+774
+01:14:12,960 --> 01:14:17,440
+other classes of drugs to the same extent? I think we do. I just think this happens to be
+
+775
+01:14:17,520 --> 01:14:21,920
+one of the most prescribed classes of drugs in the history of humankind. And so
+
+776
+01:14:22,800 --> 01:14:27,920
+it's just the denominator is bigger. I think this is sort of the same thing that gets at a lot of
+
+777
+01:14:27,920 --> 01:14:34,000
+skepticism around science and big pharma. And there's a whole world of people out there with
+
+778
+01:14:34,000 --> 01:14:40,400
+these vast conspiracy theories about the development of statins and about how Rory Collins is an evil
+
+779
+01:14:41,040 --> 01:14:47,760
+person. He's engineered this whole conspiracy to try to get the whole world on these poisons.
+
+780
+01:14:48,480 --> 01:14:51,840
+I mean, there are people out there who really believe that. And look, if you hear something
+
+781
+01:14:51,840 --> 01:14:57,840
+enough and you aren't an expert and don't have access to all the data that we have access to,
+
+782
+01:14:57,840 --> 01:15:02,640
+it can be compelling. And I've watched some of these documentaries. They're terrifying. Just as
+
+783
+01:15:02,640 --> 01:15:08,560
+I'm sure the documentaries were made after the Wakefield experience in the late 90s were
+
+784
+01:15:08,560 --> 01:15:14,800
+terrifying to young mothers who were worried about giving their kids MMR vaccines or whatever,
+
+785
+01:15:14,800 --> 01:15:18,640
+any other. I think it's very easy to convince people to be scared of something.
+
+786
+01:15:19,200 --> 01:15:24,880
+It's a lot harder to make people unscared of something. And this is just an example,
+
+787
+01:15:24,880 --> 01:15:30,160
+I think, where there's a group of people out there who just don't believe in this whole
+
+788
+01:15:30,720 --> 01:15:36,720
+enterprise. They're, for whatever reason, very skeptical of big science and big pharma. And
+
+789
+01:15:36,720 --> 01:15:40,720
+don't get me wrong. Obviously, there are plenty of things that big pharma has done wrong. And
+
+790
+01:15:41,280 --> 01:15:46,480
+we can go through the examples of that. This happens not to be one of them. The sad thing
+
+791
+01:15:46,480 --> 01:15:52,240
+about how demonized statins have been is that it's one of the most profoundly important interventions
+
+792
+01:15:52,240 --> 01:15:59,200
+that we have in modern medicine. And it's astonishing to me that this is being compared
+
+793
+01:15:59,200 --> 01:16:06,400
+effectively to smoking, right? To cigarette companies. I haven't heard that comparison,
+
+794
+01:16:06,400 --> 01:16:13,280
+but certainly people will quickly point to Purdue and the opioid crisis has proved positive that the
+
+795
+01:16:13,280 --> 01:16:21,280
+pharma entities are evil. And it's again, it's there's no question that Purdue pharma is indeed
+
+796
+01:16:21,280 --> 01:16:27,280
+evil. And again, I've said this before on the podcast, I think it's really difficult for us
+
+797
+01:16:27,280 --> 01:16:33,920
+as a species to think dialectically and to hold seemingly contradictory truths simultaneously that
+
+798
+01:16:34,480 --> 01:16:41,840
+pharma companies can do good things and bad things. And that seems to be true across the board. That
+
+799
+01:16:41,840 --> 01:16:45,760
+seems to be true of every person as well, right? Any given individual can do something good and
+
+800
+01:16:45,760 --> 01:16:51,840
+something bad. The exceptions would be those that are universally good or universally bad
+
+801
+01:16:52,400 --> 01:16:56,960
+as people. Right. Yeah. I mean, I think there are people out there who just
+
+802
+01:16:57,040 --> 01:17:02,640
+are clearly bad. And yeah, there are people who are probably clearly always good. And yeah, again,
+
+803
+01:17:02,640 --> 01:17:09,200
+I'm not even I'd like to meet I'd like to meet them. Yeah. Okay, let's let's talk about blood
+
+804
+01:17:09,200 --> 01:17:15,120
+pressure. Because I think this is one of those areas that I've personally become more and more
+
+805
+01:17:15,120 --> 01:17:23,120
+interested in over the past year. And it's actually become more of a concern to me maybe
+
+806
+01:17:23,120 --> 01:17:29,680
+over the past two years through the lens of the kidney. So we have this organ that just doesn't
+
+807
+01:17:29,680 --> 01:17:35,120
+get much attention. I'm trying to think outside of my podcast with Chris Sananday, where we talked
+
+808
+01:17:35,120 --> 01:17:40,480
+about kidney and liver transplantation. I don't think I've got a single podcast that deals with
+
+809
+01:17:40,480 --> 01:17:47,840
+the kidney. And it's a really special organ. And I sort of explained to my patients that
+
+810
+01:17:47,920 --> 01:17:57,360
+in our bootstrapping approach to living an extra few years on this planet, a lot of it requires a
+
+811
+01:17:57,360 --> 01:18:04,240
+phase shift in time. Right. So if you're 50 years old, you really need to be held to the standard of
+
+812
+01:18:04,240 --> 01:18:08,320
+a healthy 40 year old, if you want to live an extra 10 years, that's the way you want to think
+
+813
+01:18:08,320 --> 01:18:11,760
+about it. You want to think about that in terms of your mind, you want to think about that in terms
+
+814
+01:18:11,760 --> 01:18:15,200
+of your body, you want to think about that in terms of your coronary arteries, want to think
+
+815
+01:18:15,200 --> 01:18:19,200
+about it in terms of your bone density, but you got to think about it in terms of your kidneys.
+
+816
+01:18:20,240 --> 01:18:26,000
+And so when we look at a person and estimate their glomerular filtration rate, which we use,
+
+817
+01:18:26,640 --> 01:18:30,960
+you know, cystatin C to measure that we've largely abandoned creatinine.
+
+818
+01:18:33,760 --> 01:18:42,080
+It's really tempting to say, well, you know, this guy's 55 years old, his EGFR is 70 mils per minute.
+
+819
+01:18:42,080 --> 01:18:48,560
+That's good enough. But in reality, it's not actually. It's far from good enough. And
+
+820
+01:18:49,920 --> 01:18:56,160
+the kidney is not uniquely, but exquisitely sensitive to high blood pressure.
+
+821
+01:18:58,000 --> 01:19:03,040
+Again, I'm not a nephrologist and I never really, I don't think I remember much from nephrology, but
+
+822
+01:19:03,040 --> 01:19:07,760
+I certainly remember that something about its vasculature is incredibly sensitive, right? It
+
+823
+01:19:07,760 --> 01:19:11,840
+probably has to do with the fact that it's such a tiny organ that takes such a high amount of our
+
+824
+01:19:11,840 --> 01:19:18,400
+cardiac output. And I suspect just like the heart and the brain, it's very sensitive to pressure.
+
+825
+01:19:20,000 --> 01:19:25,440
+And so that really is the lens through which I think about this first and foremost with the
+
+826
+01:19:26,640 --> 01:19:33,280
+meaning even the slightest amount of elevation in blood pressure is going to interfere with
+
+827
+01:19:33,280 --> 01:19:38,720
+long-term kidney health and also with heart and brain health. So really, there's a win across the
+
+828
+01:19:38,720 --> 01:19:44,720
+board if we just normalize blood pressure. So I'll posit that and have you just kind of explain
+
+829
+01:19:44,720 --> 01:19:50,320
+from the ASCBD perspective, the importance of blood pressure and how it stacks up with
+
+830
+01:19:50,320 --> 01:19:53,440
+smoking, APO-B and some of the other heavy hitting risk factors.
+
+831
+01:19:55,280 --> 01:20:01,760
+Yeah. So I guess I just want to acknowledge how strongly I agree with you about the neglect,
+
+832
+01:20:01,760 --> 01:20:07,040
+how much we neglect the kidney as an organ and nephrology as a subspecialty of medicine.
+
+833
+01:20:08,720 --> 01:20:13,840
+I actually used to give a lecture on hypertension in the first year of medical students at UCSF.
+
+834
+01:20:13,840 --> 01:20:20,000
+And I did that in conjunction with a kidney pathologist who interestingly had been at Hopkins
+
+835
+01:20:20,000 --> 01:20:25,120
+when I was a medical student was my advisor, very interesting woman who's now retired named Jean
+
+836
+01:20:25,120 --> 01:20:29,920
+Olson. And she and I co-gave the lecture, she gave the pathology part and I gave the
+
+837
+01:20:29,920 --> 01:20:34,880
+clinical part. And I learned so much about the importance of the kidney and regulating blood
+
+838
+01:20:34,880 --> 01:20:39,760
+pressure in that, in giving that lecture with her for however many years it was, 10 years.
+
+839
+01:20:41,040 --> 01:20:48,480
+So it's both an important cause of blood pressure. And in fact, I think if you go back and look at
+
+840
+01:20:49,600 --> 01:20:55,840
+Rick Lifton, who's sort of one of the premier human geneticists in history, member of the National
+
+841
+01:20:55,840 --> 01:21:01,360
+Academy, some probably should win a Nobel Prize. He characterized all of the single gene mutations
+
+842
+01:21:01,360 --> 01:21:08,640
+that lead to extreme increases or decreases in blood pressure. I think at the time,
+
+843
+01:21:08,640 --> 01:21:15,360
+and this is 20 years ago, there were like 10 single gene mutations that led to people who had
+
+844
+01:21:15,360 --> 01:21:20,560
+really, really low blood pressure had to constantly supplement salt and do things like that. And then
+
+845
+01:21:20,560 --> 01:21:29,040
+10 that led to extremely high blood pressure. And I think like 19 out of 20 of these things
+
+846
+01:21:29,120 --> 01:21:36,000
+were located in the same location in the proximal collecting doctor in the tubule. It was like,
+
+847
+01:21:36,560 --> 01:21:43,920
+you couldn't have picked a place that was more important evolutionarily for how we handle volume
+
+848
+01:21:43,920 --> 01:21:51,680
+and salt and solute. So it's an incredibly important organ both as a cause of high blood pressure
+
+849
+01:21:52,400 --> 01:21:57,440
+and also as a consequence. And those experiments, you know, Jean showed these beautiful slides that
+
+850
+01:21:57,440 --> 01:22:02,800
+I'll send along sometime, you know, pictures of what happens to your kidney after it's exposed to
+
+851
+01:22:04,080 --> 01:22:09,520
+increased levels of blood pressure over time. So it was interesting because I was giving this
+
+852
+01:22:09,520 --> 01:22:14,480
+lecture as a cardiologist during the kidney block. It always felt, I felt out of place.
+
+853
+01:22:16,240 --> 01:22:21,040
+So most people kind of know that when they go to their doctor and they get their blood
+
+854
+01:22:21,040 --> 01:22:30,880
+pressure checked, normal is about 120 over 80 millimeters of mercury. What do we know about
+
+855
+01:22:31,840 --> 01:22:39,840
+how much that changes in a healthy person across the course of the day? So when they're sleeping,
+
+856
+01:22:40,560 --> 01:22:46,080
+when they're ambulatory and walking around, but not under stress, i.e. not exercising,
+
+857
+01:22:46,720 --> 01:22:54,480
+when they are exercising vigorously, when they're, you know, under stress, physiologic stress,
+
+858
+01:22:54,480 --> 01:23:00,720
+psychological stress, all of these different things that we do every single day, surely our
+
+859
+01:23:00,720 --> 01:23:06,560
+blood pressure must change. And yet most of us, myself included, have virtually no idea of how our
+
+860
+01:23:06,560 --> 01:23:14,240
+blood pressure is changing under those situations, even if under perfect optimal conditions, i.e.
+
+861
+01:23:14,240 --> 01:23:19,440
+sitting down, legs uncrossed for five minutes, it reads 120 over 80. So what do we know about the
+
+862
+01:23:19,440 --> 01:23:24,800
+rest of the time? So I guess it's, we don't, I don't want to get too distracted, but I think
+
+863
+01:23:24,800 --> 01:23:28,800
+it's fascinating. I've thought about this a lot. And the question of what's normal is, you know,
+
+864
+01:23:28,800 --> 01:23:34,720
+we all assume 120 over 80 is normal. If you look at blood pressures across different animal species,
+
+865
+01:23:35,520 --> 01:23:39,360
+it's mostly in that range. There are some that are outliers. Obviously a giraffe is,
+
+866
+01:23:39,360 --> 01:23:45,280
+is the best example of an outlier species with much higher blood pressure that it needs to have
+
+867
+01:23:45,280 --> 01:23:52,400
+to be able to pump blood up to that very, that head that's sitting way up high. It is weird to me
+
+868
+01:23:53,120 --> 01:23:57,200
+from an evolutionary perspective, why we would have the same blood pressure as a mouse,
+
+869
+01:23:57,760 --> 01:24:02,160
+right? It's a little tiny creature who walks around on four legs. Why should we have the same
+
+870
+01:24:02,160 --> 01:24:06,800
+blood pressure? It speaks, I think, to the conservation of this sort of vascular system
+
+871
+01:24:06,800 --> 01:24:10,720
+that we have. I think most people when I was a medical student, I'm sure you were the same,
+
+872
+01:24:10,720 --> 01:24:14,880
+were taught that 120 over 80 is normal, but that's just normal. Whether you're,
+
+873
+01:24:16,400 --> 01:24:27,440
+you know, 7, 17, or 75. I don't think we have a good understanding of, well, we have an understanding
+
+874
+01:24:27,440 --> 01:24:33,440
+of what is epidemiologically normal as we age. And so we know that blood pressure does go up with
+
+875
+01:24:33,440 --> 01:24:39,520
+each decade of life. If I had access to that lecture I used to give, I could show you what
+
+876
+01:24:39,520 --> 01:24:45,600
+happened, but certainly with each decade of life, your blood pressure goes up on average. If you're
+
+877
+01:24:45,600 --> 01:24:51,840
+looking at a population of people, is that normal? Is that part of normal healthy aging? Or is that
+
+878
+01:24:51,840 --> 01:24:56,480
+just a function of pathology? Is it a function of something going wrong over time? To your point,
+
+879
+01:24:56,480 --> 01:25:01,200
+is it something about decreased kidney function or maybe as an increased vascular stiffness
+
+880
+01:25:01,760 --> 01:25:08,160
+over time? I think all those things are possible and probably probable. So for a long time,
+
+881
+01:25:09,360 --> 01:25:14,640
+it was assumed that a blood pressure that was normal for somebody in their 20s and 30s
+
+882
+01:25:15,600 --> 01:25:21,040
+was probably too low and not normal for somebody who was in their 60s, 70s, and 80s. And so we
+
+883
+01:25:22,720 --> 01:25:28,640
+had this permissive hypertension in elderly people because we thought, well, gosh, they
+
+884
+01:25:29,600 --> 01:25:36,080
+required. It's just part of the aging process. And it really hasn't been until the past
+
+885
+01:25:36,800 --> 01:25:43,920
+really 10 plus years that we've begun to ask specifically in really well-designed clinical
+
+886
+01:25:43,920 --> 01:25:50,640
+trials, is that the case? And is it the case when it comes to looking at important clinical outcomes?
+
+887
+01:25:50,640 --> 01:25:58,160
+And I think my take on this now is different than it was 15 years ago. And that is that
+
+888
+01:25:58,160 --> 01:26:02,960
+120 over 80 is normal no matter where you are in life. And that anything above that is abnormal.
+
+889
+01:26:03,520 --> 01:26:08,320
+And just to kind of get to the punchline, what I tell patients is that my aspiration is that we
+
+890
+01:26:08,320 --> 01:26:14,080
+can get you as close to 120 over 80 as we can without harming you. Because there are certainly
+
+891
+01:26:14,080 --> 01:26:20,000
+potential harms that are associated with treating people to these low numbers, they can be in the
+
+892
+01:26:20,000 --> 01:26:29,200
+form of side effects or impacts on lifestyle. They can be in the form of real toxicity. Hyperkalemia,
+
+893
+01:26:29,200 --> 01:26:33,440
+risk of death, I mean, there's all kinds of potential issues. It's not just a simple intervention
+
+894
+01:26:34,320 --> 01:26:38,880
+like treating LDL or APOB lower and lower and lower. There's really no consequence at all.
+
+895
+01:26:38,880 --> 01:26:44,640
+There is a consequence of lowering blood pressure too low in this case. So that's my overall kind
+
+896
+01:26:44,640 --> 01:26:48,640
+of philosophy of how to think about blood pressures. I do think there's now evidence from
+
+897
+01:26:49,280 --> 01:26:54,000
+good clinical trials that 120 over 80 is normal and that we should try to get there
+
+898
+01:26:54,000 --> 01:27:02,000
+as best we can without making a mess. So through that lens, basically we're saying that the amount
+
+899
+01:27:02,000 --> 01:27:06,640
+of float that we see in blood pressure, again, we're talking about blood pressure in a very
+
+900
+01:27:06,640 --> 01:27:11,920
+narrow instance, which is seated, resting, et cetera. We'll come back to the other point, but
+
+901
+01:27:11,920 --> 01:27:19,360
+just to build off that, that when that drifts up to 125, 130, 135, 140 in an aging population,
+
+902
+01:27:20,080 --> 01:27:25,440
+we're actually calling that pathologic in the same way that I think we would all agree that the
+
+903
+01:27:25,440 --> 01:27:31,920
+reduction in glomerular filtration rate, the reduction in ejection fraction, the reduction
+
+904
+01:27:31,920 --> 01:27:38,000
+in pulmonary function, okay, yes, that occurs with aging, but that doesn't mean that it's not part of
+
+905
+01:27:38,000 --> 01:27:42,720
+an aging process and therefore part of something we want to minimize, correct? That's right. We
+
+906
+01:27:42,720 --> 01:27:47,040
+lose muscle mass as we age. Is that something we want to accept and that's normal or do we want to
+
+907
+01:27:47,040 --> 01:27:51,680
+try to do it? We can't have preserved the muscle mass that we had it younger in life. And again,
+
+908
+01:27:51,680 --> 01:27:59,200
+I think here the, the crutch that we fall back on and is good, high quality, well done clinical
+
+909
+01:27:59,200 --> 01:28:04,720
+trials. And in this case, we have now have them and it's not just sort of an opinion-based thing
+
+910
+01:28:04,720 --> 01:28:08,560
+that says, oh, we'll really get closer to 120 over 80. We actually have evidence that being closer
+
+911
+01:28:08,560 --> 01:28:16,160
+to 120 over 80 impacts mortality and that permitting people to run higher to a level
+
+912
+01:28:16,160 --> 01:28:21,680
+that we used to consider to be just basically prehypertension or just normal, even an older
+
+913
+01:28:21,680 --> 01:28:27,520
+person 140 over 90, that leads to a significant increase in risk of dying. So to me, I think
+
+914
+01:28:28,240 --> 01:28:34,800
+we've learned a lot and I don't consider it to be a normal function of aging. I think
+
+915
+01:28:36,160 --> 01:28:40,000
+there may be a process, there's obviously a process that goes along with aging that there's
+
+916
+01:28:40,000 --> 01:28:43,600
+a decrease in function of a lot of different things that lead, combines to lead to this increase
+
+917
+01:28:43,600 --> 01:28:50,880
+in blood pressure, but I don't leave it alone. Okay. I think that makes sense to me as well.
+
+918
+01:28:51,440 --> 01:28:57,440
+Let's ask the second question now, which is the one that vexes me the most,
+
+919
+01:29:01,120 --> 01:29:08,880
+which is how much of a given day, let's assume I sit down three times a day for five minutes,
+
+920
+01:29:09,520 --> 01:29:15,840
+relax, don't look at my phone, don't drink coffee, don't cross my legs and perfectly Zen.
+
+921
+01:29:16,640 --> 01:29:21,600
+I put the cuff on my arm, I measure the blood pressure, it's 120 over 80. Let's assume I do
+
+922
+01:29:21,600 --> 01:29:27,120
+that three times a day and I get that number. How reflective is that of what my blood pressure is
+
+923
+01:29:28,800 --> 01:29:33,440
+when I'm sleeping? Let's say I'm sleeping eight hours. When I'm exercising, let's say I'm
+
+924
+01:29:33,440 --> 01:29:39,440
+exercising for an hour, 90 minutes a day. And when I'm sitting at my desk stressing out over email,
+
+925
+01:29:40,240 --> 01:29:46,320
+how much variation am I getting? Tons. So the first time I ever was in the cath lab,
+
+926
+01:29:46,320 --> 01:29:50,880
+it was really amazing to me to see the variation in blood pressure just in a patient lying on a
+
+927
+01:29:50,880 --> 01:29:57,760
+table based on before they were sedated and after they were sedated. There are all kinds of things.
+
+928
+01:29:57,760 --> 01:30:03,040
+So there's no doubt that there's a huge amount of variation from second to second, minute to
+
+929
+01:30:03,040 --> 01:30:08,640
+minute, hour to hour, day to day and beyond in blood pressure. And I think it's very easy to get
+
+930
+01:30:08,720 --> 01:30:13,520
+distracted by that. And I do all the time. And obviously when I'm sitting in traffic,
+
+931
+01:30:13,520 --> 01:30:20,560
+my blood pressure is not 120 over 80. When my kid spills coffee all over the computer,
+
+932
+01:30:20,560 --> 01:30:26,800
+it's not 120 over 80. When I'm exercising, it's not 120 over 80. There's physiology and there's
+
+933
+01:30:26,800 --> 01:30:31,840
+pathophysiology. So physiologically, our blood pressure does go up and it's meant to go up
+
+934
+01:30:31,840 --> 01:30:36,240
+during some of these cases. It's a function of increased cardiac output, which is one of the
+
+935
+01:30:36,240 --> 01:30:44,160
+components of blood pressure. So I think it's understandable. The question then is what do you
+
+936
+01:30:44,160 --> 01:30:48,480
+do about that relative and sort of how best do you measure blood pressure? And so again,
+
+937
+01:30:49,120 --> 01:30:53,440
+and this is a broken record, I'll just keep doing this, but I fall back on the clinical trials.
+
+938
+01:30:54,080 --> 01:31:00,480
+And just as we try to practice as best we can with some sort of fidelity to the way the trials are
+
+939
+01:31:00,480 --> 01:31:04,400
+done, I go back to sort of how are they measuring blood pressure in these trials and therefore how
+
+940
+01:31:04,480 --> 01:31:11,440
+were the decisions made to adjust medications and how did that influence the practice of the trial
+
+941
+01:31:11,440 --> 01:31:14,640
+and therefore how should that influence our practice? Because those are the outcomes that we
+
+942
+01:31:14,640 --> 01:31:18,880
+look at. So this got a lot of attention. When Sprint was first published, which was I think
+
+943
+01:31:18,880 --> 01:31:24,640
+2014 or 15, I can't remember the exact date, but it got a huge amount of attention. There was all
+
+944
+01:31:24,640 --> 01:31:29,280
+kinds of pushback from almost every angle you could think of. There were a lot of people out
+
+945
+01:31:29,280 --> 01:31:33,440
+there who felt like this is just yet another example of medicine trying to do too much.
+
+946
+01:31:34,000 --> 01:31:39,360
+The Less is More crowd hated it, right? That this is just over medicalizing normal aging, right?
+
+947
+01:31:40,800 --> 01:31:46,720
+There was a significant amount of attention paid on how they actually measured the blood pressure
+
+948
+01:31:46,720 --> 01:31:51,840
+because it wasn't the way that we typically measure blood pressure. And it was the way that
+
+949
+01:31:51,840 --> 01:31:55,360
+we probably ought to measure blood pressure, but it certainly wasn't the way that we typically
+
+950
+01:31:55,360 --> 01:31:58,800
+measure blood pressure. So if you go back and you look at the data, if you look at the methods,
+
+951
+01:31:58,800 --> 01:32:04,400
+what they did was they had people in a quiet room, then automated cuff, one of the sort of standard,
+
+952
+01:32:04,400 --> 01:32:10,320
+you know, sort of best in class at that time, automated cuff, they put the cuff on the person,
+
+953
+01:32:10,320 --> 01:32:15,760
+they had them seated and relaxed in a quiet room by themselves. And they had the blood pressure
+
+954
+01:32:15,760 --> 01:32:22,320
+measured three times, five minutes in between, right? So total of once, five minute break,
+
+955
+01:32:22,320 --> 01:32:26,720
+one more, five minute break, and once more. And they took the average of those blood pressures.
+
+956
+01:32:27,360 --> 01:32:33,600
+And that's obviously much different than having somebody rush in after parking their car and run
+
+957
+01:32:33,600 --> 01:32:40,560
+into the office in a sweat and show up and somebody slaps a cuff on them and measures the blood pressure.
+
+958
+01:32:41,120 --> 01:32:47,600
+But my point is that that optimal way of measuring blood pressure, even if it ends up
+
+959
+01:32:48,160 --> 01:32:53,440
+yielding numbers that are lower than what we typically get, that led to the result in that
+
+960
+01:32:53,440 --> 01:32:59,280
+trial, which was so spectacular, the trial was stopped early. And this is not to all the,
+
+961
+01:33:00,000 --> 01:33:04,400
+you know, conspiracy theorists out there, this was not a pharma sponsored sponsored trial. This
+
+962
+01:33:04,400 --> 01:33:10,480
+is an NIH sponsored trial, the government sponsored trial, and was agnostic to different
+
+963
+01:33:10,480 --> 01:33:15,680
+agents, right? I mean, it was not about the physicians who enrolled patients in the trial
+
+964
+01:33:15,680 --> 01:33:21,600
+had had access to almost any therapy during that trial. So this was not about sort of proving the
+
+965
+01:33:21,600 --> 01:33:27,200
+benefit of one drug over another. This is purely about testing the hypothesis that getting as close
+
+966
+01:33:27,200 --> 01:33:34,000
+to 120 over 80, rather than letting people sort of float up to 140 over 90 was better or not. And it
+
+967
+01:33:34,000 --> 01:33:38,960
+turned out that it was with caveats. So let's talk about that methodology. And then let's talk about
+
+968
+01:33:38,960 --> 01:33:46,320
+the algorithm agents and then the potential downside. So I have started testing my blood pressure
+
+969
+01:33:46,320 --> 01:33:51,120
+six months ago. And the reason for it, so I shouldn't say that I have always checked my
+
+970
+01:33:51,120 --> 01:33:55,200
+blood pressure, because both my parents have hypertension. I'd always attributed to the
+
+971
+01:33:55,200 --> 01:33:58,720
+fact that I had low blood pressure to the fact that I was super healthy and did all these other
+
+972
+01:33:58,720 --> 01:34:03,440
+things. But I realized, look, there's genetics to this as well. So I'm just going to start checking
+
+973
+01:34:03,440 --> 01:34:08,000
+my blood pressure every couple of days. And I did. And so for a couple of years, I just take my blood
+
+974
+01:34:08,000 --> 01:34:13,200
+pressure, three, four times a week, just when I'm sitting at the desk working, never attempting to
+
+975
+01:34:13,200 --> 01:34:20,640
+relax or rest or do anything. And it was pretty low, you know, probably averaged 110 over 70
+
+976
+01:34:20,640 --> 01:34:26,240
+was sort of a typical reading of while I was sitting there working. And then something happened
+
+977
+01:34:26,240 --> 01:34:35,440
+in August, it was consistently a little bit higher than that. Not a lot higher, but it was 125 to 130.
+
+978
+01:34:36,320 --> 01:34:42,240
+And it was, you know, more or less 80 in the denominator. This made me get a little more
+
+979
+01:34:42,240 --> 01:34:48,000
+serious. I got another cuff. And now I started doing the full sit protocol three times a day
+
+980
+01:34:49,040 --> 01:34:57,600
+with both the Amron cuff and the Withings cuff. And what I realized were two things. The first is
+
+981
+01:34:57,600 --> 01:35:02,800
+I can always breathe my blood pressure down to normal. In other words, there's never been a
+
+982
+01:35:02,800 --> 01:35:08,880
+five minute window when if I don't sit there and really focus on breathing, I can't get that blood
+
+983
+01:35:08,880 --> 01:35:14,800
+pressure to come to normal. But most often than not, that first reading the second I sit down,
+
+984
+01:35:16,240 --> 01:35:21,280
+especially in August, it got better in October and September was kind of a transition month. It's
+
+985
+01:35:21,280 --> 01:35:27,120
+kind of normalized now. But it was not uncommon for that first one to be as high as 140 over 90.
+
+986
+01:35:28,080 --> 01:35:32,080
+If I just, you know, was literally doing something, not exercising, but if I was, you know,
+
+987
+01:35:33,680 --> 01:35:37,680
+doing something active, and then I went and sat down like the equivalent of the guy who
+
+988
+01:35:37,680 --> 01:35:42,400
+shows up from the parking garage, you know, just parked the car, had to walk up one flight of stairs,
+
+989
+01:35:42,400 --> 01:35:53,520
+sits down 140 over 90. Five minutes later, it's, you know, it's 117 over 74. And, you know, I've been
+
+990
+01:35:53,520 --> 01:35:58,480
+in sort of a back and forth discussion with my doctor and with my colleagues about, is this
+
+991
+01:35:58,480 --> 01:36:04,320
+something I need to care about? Because now if you look at my spreadsheet and all of my phone data,
+
+992
+01:36:04,400 --> 01:36:10,160
+my blood pressure looks perfectly normal. For the last six months, I've averaged below 120 over 80.
+
+993
+01:36:10,720 --> 01:36:16,960
+But I kind of feel like I'm cheating, Ethan, because to guarantee that it's low, I have to
+
+994
+01:36:16,960 --> 01:36:22,320
+take five minutes of being calm, which then makes me wonder, I know that that's in line with how the
+
+995
+01:36:22,320 --> 01:36:25,920
+sprint study was done. And you could argue, well, Peter, you're simply, you're actually doing
+
+996
+01:36:25,920 --> 01:36:29,520
+something that's less extreme than what they did, because they did three measurements over 10 minutes.
+
+997
+01:36:30,320 --> 01:36:34,880
+But I think, but deep down, I know my blood pressure is not 120 over 80 when I'm sitting
+
+998
+01:36:34,880 --> 01:36:41,520
+at my computer, you know, writing, because when I check that blood pressure straight away, it's
+
+999
+01:36:41,520 --> 01:36:46,720
+it's above that. So I hear your point that it's okay. I mean, what I think I'm hearing you say is,
+
+1000
+01:36:46,720 --> 01:36:50,400
+based on the way the trial was done, we have to assume that the other people,
+
+1001
+01:36:50,400 --> 01:36:52,560
+when they first sat down, might have been higher as well.
+
+1002
+01:36:52,560 --> 01:37:00,880
+Yeah, so here's what I would say is, I think, sounds like something changed in you.
+
+1003
+01:37:02,160 --> 01:37:07,200
+Yeah, a book deadline is definitely what changed in August. So there's no question that was that.
+
+1004
+01:37:07,200 --> 01:37:11,920
+Well, so if that's the case, then that's understandable. And that's, that's okay. I
+
+1005
+01:37:11,920 --> 01:37:16,320
+think, in your case, it sounds like what I was going to say was, if it was truly a change,
+
+1006
+01:37:16,320 --> 01:37:20,640
+and there was no explanation for it, like a lot of things in medicine, then I probably
+
+1007
+01:37:21,360 --> 01:37:26,560
+would have paid more attention to it, even though it was going from what was normal to normal,
+
+1008
+01:37:26,560 --> 01:37:29,920
+right, that you just, that it sounded like something did change. But in this case,
+
+1009
+01:37:29,920 --> 01:37:33,440
+it sounds like there is an explanation in that you had this stress in your life in the book.
+
+1010
+01:37:34,560 --> 01:37:39,440
+So I guess the cheating thing reminds me of my daughter, who I think I told you before,
+
+1011
+01:37:39,440 --> 01:37:44,800
+is my younger daughter is legally blind, and she plays basketball, and we were discussing
+
+1012
+01:37:44,800 --> 01:37:48,800
+a potential. This is such a crazy little side, but I thought I'd tell the story because it's
+
+1013
+01:37:48,800 --> 01:37:53,600
+kind of cute. She, we were discussing a potential procedure she could have to improve her vision.
+
+1014
+01:37:54,880 --> 01:37:58,960
+Because part of her decrement of visual acuity is that she has pretty bad nystagmus,
+
+1015
+01:37:59,680 --> 01:38:04,400
+lateral nystagmus. And the ophthalmologist was saying that if you can sort of make that better,
+
+1016
+01:38:05,600 --> 01:38:09,840
+you'll improve, understandably, you'll improve her visual acuity. And that they,
+
+1017
+01:38:09,840 --> 01:38:14,480
+somebody stumbled onto the idea that if you cut the optic, the extraocular muscles,
+
+1018
+01:38:15,440 --> 01:38:19,280
+and just reattach them, don't do anything else, but just sever them and reattach them,
+
+1019
+01:38:19,280 --> 01:38:24,560
+that nystagmus can go away. And that people's visual acuity can improve a lot. So we thought,
+
+1020
+01:38:24,560 --> 01:38:28,640
+well, gosh, that sounds really interesting. We should do that. It's fascinating how that
+
+1021
+01:38:28,640 --> 01:38:34,000
+might happen. But she said she didn't want to do it. Because she was like, that's cheating.
+
+1022
+01:38:34,000 --> 01:38:39,520
+This is a kid who runs around with a visual acuity of 20 over 200. And she was like, that's cheating.
+
+1023
+01:38:40,160 --> 01:38:44,080
+So we haven't been able to convince her to do it yet. We'll see if she changes her mind someday.
+
+1024
+01:38:44,160 --> 01:38:49,600
+But I don't think you're cheating. What you're doing is optimizing the measurement. I think
+
+1025
+01:38:49,600 --> 01:38:53,680
+what you could do if you want to, and maybe you've already done it, if you really want to get a sense,
+
+1026
+01:38:53,680 --> 01:38:59,200
+and it would be great to have this over time, serially, is to do a 24 hour ambulatory blood
+
+1027
+01:38:59,200 --> 01:39:04,880
+pressure monitor to really get a sense of what is the average blood pressure you're seeing over
+
+1028
+01:39:04,880 --> 01:39:08,960
+a 24 hour period, because there is a difference. When you're sleeping, your blood pressure should
+
+1029
+01:39:08,960 --> 01:39:13,760
+be low, right? That's physiology. When you're out and about and doing these, it's going to be higher.
+
+1030
+01:39:14,160 --> 01:39:19,360
+What is the survival? They can quantify all the spikes. It's actually a really nice tool that
+
+1031
+01:39:19,360 --> 01:39:25,520
+I'll use, especially in people who have some degree of what's commonly termed white coat
+
+1032
+01:39:25,520 --> 01:39:29,920
+hypertension, which is what white coat hypertension is real life. White coat hypertension is
+
+1033
+01:39:31,040 --> 01:39:39,680
+living in the real world. How does an ambulatory BP cuff work? It's presumably a cuff that sits
+
+1034
+01:39:39,680 --> 01:39:45,280
+on the arm and then it straps to a device like a halter would. It's funny, I don't think I've
+
+1035
+01:39:45,280 --> 01:39:50,640
+ever seen a device, I've ordered a bunch. It's a cuff, so it's really old school, right? It's not
+
+1036
+01:39:50,640 --> 01:39:54,800
+like this is new technology where they can measure blood pressure without doing the old sphincter
+
+1037
+01:39:54,800 --> 01:40:02,640
+monometer. It's a cuff, I think it's got a self, I would imagine it's got some hardware attached to
+
+1038
+01:40:02,640 --> 01:40:07,680
+it that tells it to inflate and measure blood pressure, just as you would with a one that you
+
+1039
+01:40:07,680 --> 01:40:13,520
+have in your office. It does that once a minute or whatever it is over the course of 24 hours.
+
+1040
+01:40:13,520 --> 01:40:18,560
+So it's constantly inflating, deflating over the course of a day. Patients who have
+
+1041
+01:40:18,560 --> 01:40:23,040
+mine who've warned them say that after a while you get used to it and just you can ignore it.
+
+1042
+01:40:23,040 --> 01:40:26,560
+It seems to me like it would be really annoying to have this thing like inflating and deflating
+
+1043
+01:40:26,560 --> 01:40:35,280
+all the time, but that's what it is. What it does though is it buys you sort of a distraction from
+
+1044
+01:40:35,280 --> 01:40:39,120
+real life. It buys you sort of when you're not thinking about things, when you're clearly not
+
+1045
+01:40:39,120 --> 01:40:44,240
+stressed or you shouldn't be stressed, i.e. when you're sleeping, what is your blood pressure? And
+
+1046
+01:40:44,240 --> 01:40:50,080
+we know that blood pressure, that hypertension during sleep is abnormal. It should really be a
+
+1047
+01:40:50,080 --> 01:40:55,120
+time when your blood pressure is the lowest. So it's just another tool that we have to kind of
+
+1048
+01:40:55,120 --> 01:41:01,920
+get at that question. It is always interesting to me that we measure blood pressure not just once
+
+1049
+01:41:02,880 --> 01:41:09,760
+a 10 or 30 second interval in a 24 hour day, but that we do that on average once or twice
+
+1050
+01:41:10,400 --> 01:41:18,400
+a year. And that we assume that this very variable number is actually meaningful. And it's remarkable
+
+1051
+01:41:18,400 --> 01:41:23,920
+to me that it has been even meaningful the way that we've been measuring it because it is such
+
+1052
+01:41:23,920 --> 01:41:31,760
+a poor sample. I mean, we in our patients will ask them to do twice a day checks at home, same
+
+1053
+01:41:31,760 --> 01:41:39,440
+method that I'm using for at least two weeks once a year. And if we have reason to believe that
+
+1054
+01:41:39,440 --> 01:41:44,160
+that suspect will do it more and yet, so even though that's much more than they would be asked
+
+1055
+01:41:44,160 --> 01:41:51,040
+to do normally, it still feels woefully inadequate. And I've tried a bunch of devices that's supposed
+
+1056
+01:41:51,040 --> 01:41:57,200
+to measure, supposedly measuring blood pressure like little wrist based devices. I've never found
+
+1057
+01:41:57,200 --> 01:42:02,960
+them to work. Is there anything on the horizon that's closing the gap on that?
+
+1058
+01:42:02,960 --> 01:42:09,280
+You'd think so. There was a period of time where people were using a cell phone camera and you could
+
+1059
+01:42:09,280 --> 01:42:15,120
+press your finger on the camera and that it could basically detect the pulsation. It could almost
+
+1060
+01:42:15,120 --> 01:42:22,320
+calculate a pulse wave and then could give you a sort of imputed systolic and diastolic blood
+
+1061
+01:42:22,320 --> 01:42:26,640
+pressure that never made it. Obviously we're not seeing those around. We're not seeing any other
+
+1062
+01:42:26,640 --> 01:42:31,920
+devices that people can wear that can accurately measure blood pressure. So I do think it's a
+
+1063
+01:42:31,920 --> 01:42:36,880
+interesting question. You'd have to think that at some point, even if it's an intravascular device,
+
+1064
+01:42:36,880 --> 01:42:43,680
+that you could put a miniature device, much like we're now using, I don't know how much you use
+
+1065
+01:42:43,680 --> 01:42:50,720
+them, but I use them a lot, these implantable event monitors, these loop recorders. We use them to
+
+1066
+01:42:50,720 --> 01:42:56,080
+detect arrhythmias. It sounds bad, right when you think about it, but it's really not that big of a
+
+1067
+01:42:56,080 --> 01:43:02,000
+deal. There has to be a way to get a pressure transducer into an artery safely that you could
+
+1068
+01:43:02,000 --> 01:43:08,400
+leave there for some period of time. It feels like that's going to come, but I haven't seen it. And
+
+1069
+01:43:08,400 --> 01:43:14,640
+then non-invasively would be amazing, but I just again, haven't seen it. So yeah, as you know, I
+
+1070
+01:43:14,640 --> 01:43:20,400
+find CGM to be kind of a remarkable tool. I would think this is even more important because glucose
+
+1071
+01:43:20,400 --> 01:43:25,440
+in many ways is less variable than blood pressure, or at least its variability is more
+
+1072
+01:43:25,440 --> 01:43:31,360
+predictable. In other words, you could, I think much more easily get by with just spot checks
+
+1073
+01:43:31,360 --> 01:43:36,160
+of glucose than you can with just spot texts of blood pressure. To have a true continuous
+
+1074
+01:43:37,280 --> 01:43:42,080
+ambulatory BP monitor, I mean, that would really be a game changer in medicine.
+
+1075
+01:43:42,080 --> 01:43:44,480
+Again, when you think about the heart, when you think about the brain, when you think about the
+
+1076
+01:43:44,480 --> 01:43:51,440
+kidneys, it's such an important thing. I agree with you. I think that said, the intervention
+
+1077
+01:43:51,440 --> 01:43:57,840
+that was used in sprint still showed a remarkable benefit. And so we can't exist with the tools we
+
+1078
+01:43:57,840 --> 01:44:03,200
+have. Yeah. And while they're not optimal, they're probably adequate. And they're definitely better.
+
+1079
+01:44:03,760 --> 01:44:07,120
+If you go back and look, and this was part of this lecture I used to give, if you look at the
+
+1080
+01:44:07,120 --> 01:44:16,480
+percentage of people that have either diagnosed blood pressure, so how many people are known to
+
+1081
+01:44:16,480 --> 01:44:25,120
+have hypertension who actually do have it, how many people are treated at all, even have on any
+
+1082
+01:44:25,120 --> 01:44:32,480
+medicine, and how many people are controlled. If you look back in time, when this was first done
+
+1083
+01:44:32,480 --> 01:44:38,720
+in the first Indian survey in the whatever 1975, 76, whatever that was, only 50% of people who had
+
+1084
+01:44:38,720 --> 01:44:45,120
+hypertension were even aware of it. Only 30% were actually ever treated, and only 10% were controlled.
+
+1085
+01:44:45,120 --> 01:44:50,640
+And I don't know what the most current numbers are, but the awareness has gone up, it must be
+
+1086
+01:44:50,640 --> 01:44:57,360
+north of 80% now. Treatment is probably 75 or 80%. And control is probably somewhere around 50%.
+
+1087
+01:44:58,160 --> 01:45:04,320
+So we're still missing the opportunity to treat 50% of people with this disease.
+
+1088
+01:45:05,680 --> 01:45:12,160
+So let's go back to Sprint. This trial was drug agnostic, right? Is this the one that basically
+
+1089
+01:45:12,160 --> 01:45:18,000
+said, start with a thiazide, move to a calcium channel blocker, and then an ACE or vice versa?
+
+1090
+01:45:19,520 --> 01:45:27,040
+No. Actually, I don't remember the algorithm for Sprint, but I think it was relatively agnostic.
+
+1091
+01:45:27,200 --> 01:45:34,960
+Allhat was the first NIH sponsored blood pressure trial. That was in early 2000s, like 2002, 2003.
+
+1092
+01:45:34,960 --> 01:45:39,760
+And that tested five different classes of medications, two of which were discontinued.
+
+1093
+01:45:39,760 --> 01:45:45,520
+So I believe it was calcium channel blockers, ACE inhibitors, and the calcium channel blocker at the
+
+1094
+01:45:45,520 --> 01:45:52,560
+time was amylotopine, ACE inhibitors, diuretics, thiazide diuretics, the cortilidone, beta blockers,
+
+1095
+01:45:52,560 --> 01:46:03,520
+and I don't remember what it was. Oh, it was alpha agonist. Because at the time,
+
+1096
+01:46:03,520 --> 01:46:08,960
+they were being used for blood pressure. And both the alphas and the betas were stopped early
+
+1097
+01:46:08,960 --> 01:46:14,560
+because they were harmful. And so what the result of that trial was that using any of the other three
+
+1098
+01:46:14,560 --> 01:46:18,640
+classes was first line and primary hypertension treatment, a primary hypertension.
+
+1099
+01:46:18,960 --> 01:46:23,280
+And that was lysinopril, amylotopine, and ethiazide, correct?
+
+1100
+01:46:23,280 --> 01:46:27,680
+Yes. And I believe the thiazide they used was cortilidone. And we can talk a little bit about
+
+1101
+01:46:27,680 --> 01:46:33,200
+the difference between cortilidone and hydrochlorothiazide, but in general, cortilidone is more potent.
+
+1102
+01:46:33,200 --> 01:46:37,440
+And that's the one that was, I think, used in the allhat trial, but I'd have to double check.
+
+1103
+01:46:37,440 --> 01:46:43,680
+And if I recall, the amylotopine, lysinopril, and the thiazide all ended up having similar outcomes,
+
+1104
+01:46:43,680 --> 01:46:45,520
+which were all better. Yeah, no real differences. Yeah.
+
+1105
+01:46:45,600 --> 01:46:50,480
+Yeah. And I think there were maybe some stroke, it's been like so long since I've reviewed it,
+
+1106
+01:46:50,480 --> 01:46:55,200
+but I think there might've been like a minor difference in stroke risk and the amylotopine.
+
+1107
+01:46:55,200 --> 01:46:59,840
+But the take home of that and what became contemporary practice was use any of these
+
+1108
+01:46:59,840 --> 01:47:04,240
+three agents as first line and primary hypertension. And if you need more, you add another.
+
+1109
+01:47:04,240 --> 01:47:06,880
+And the target was 120 over 80.
+
+1110
+01:47:06,880 --> 01:47:13,440
+Well, that was, yeah, I mean, it was the target. It certainly wasn't
+
+1111
+01:47:14,320 --> 01:47:20,800
+a, the emphasis was not, the definitions definitely changed, right? Because there was
+
+1112
+01:47:20,800 --> 01:47:29,280
+this sort of category in, I don't remember which JNC, so I think it was JNC six or something.
+
+1113
+01:47:29,280 --> 01:47:37,680
+There was a category for normal. Ah, that's right. So it was normal was actually 120 to 130
+
+1114
+01:47:38,560 --> 01:47:45,760
+over 80 to 85. Borderline was 130 to 140 over 85 to 90. And it was only then hypertension,
+
+1115
+01:47:45,760 --> 01:47:50,000
+if you were greater than 140 over 90, and then they called it stage one, two, and three.
+
+1116
+01:47:50,000 --> 01:47:55,760
+So then when they redid it JNC seven, it was normal was less than 120 over 80. Prehypertension
+
+1117
+01:47:55,760 --> 01:48:04,240
+was then at 120 to 140 and hypertension was then above 140 over 90. That was the difference
+
+1118
+01:48:04,240 --> 01:48:15,360
+in between JNC seven and JNC six. JNC eight, I believe, gosh, I can't remember what happened.
+
+1119
+01:48:15,360 --> 01:48:21,600
+There was some controversy and they stopped after that. There was like basically the, and NHLBI said
+
+1120
+01:48:21,600 --> 01:48:24,560
+we can't do this anymore because there was too much controversy over these.
+
+1121
+01:48:26,480 --> 01:48:32,240
+So what was the impetus for sprint? The impetus was to test the new hypothesis that was,
+
+1122
+01:48:32,240 --> 01:48:35,040
+should we be more aggressive in the management of hypertension?
+
+1123
+01:48:36,720 --> 01:48:41,120
+So the impetus was that there were epidemiological observational studies,
+
+1124
+01:48:41,920 --> 01:48:46,880
+and I can send you one or two, that showed that it appeared that the risk of
+
+1125
+01:48:49,200 --> 01:48:56,080
+bad outcomes, mostly coronary cardiovascular disease, was lower, step function lower in
+
+1126
+01:48:56,080 --> 01:48:59,280
+patients who had optimal blood pressure. This is, you know, according to the old classification,
+
+1127
+01:48:59,280 --> 01:49:04,160
+people whose blood pressure is 120 over 80 or less optimal, and then a small step increase in
+
+1128
+01:49:04,160 --> 01:49:09,600
+people who had what was then classified normal, and then a large step increase in people who were
+
+1129
+01:49:09,600 --> 01:49:14,960
+considered high normal or even early stage hypertension. And so, but this was all
+
+1130
+01:49:14,960 --> 01:49:19,280
+observational. It wasn't, you know, there was, it was, it was not a prospective study. So the NIH
+
+1131
+01:49:19,280 --> 01:49:24,720
+designed a study to prospectively evaluate whether treating people to these two different goals,
+
+1132
+01:49:24,720 --> 01:49:32,480
+and these were aspirational goals, whether that resulted in a change in outcomes. And so
+
+1133
+01:49:32,480 --> 01:49:37,280
+they randomized these people, again, the doctors were given leeway as to which agents to use,
+
+1134
+01:49:37,280 --> 01:49:40,800
+and you can look through the supplemental tables and see which ones were used, but
+
+1135
+01:49:40,800 --> 01:49:43,920
+there was really nothing, at least to my recollection, there was nothing about the
+
+1136
+01:49:43,920 --> 01:49:50,960
+different agents that was that meaningful. Clearly, people got to the two goals that they were
+
+1137
+01:49:51,520 --> 01:49:56,160
+assigned to randomly. It was obviously not blinded because you couldn't be blind to your blood
+
+1138
+01:49:56,160 --> 01:50:01,040
+pressure. But they got to the two goals. So the people assigned to the more aggressive 120 over
+
+1139
+01:50:01,040 --> 01:50:08,560
+80 got to like 123 or whatever it was, 82. And the people into that 140 over 90 were more like 137.
+
+1140
+01:50:08,560 --> 01:50:12,480
+You can look at the curves in the New England Journal paper, and they separated.
+
+1141
+01:50:12,480 --> 01:50:16,160
+Yeah, it was 121 versus 136.
+
+1142
+01:50:16,160 --> 01:50:20,160
+It was something like that, but it was a significant difference. And obviously,
+
+1143
+01:50:20,160 --> 01:50:24,640
+the amount of medication usage was much higher in the people who were assigned to that more
+
+1144
+01:50:24,640 --> 01:50:28,320
+aggressive arm. And there are some questions there was, well, is it a benefit of the medicines,
+
+1145
+01:50:28,320 --> 01:50:31,920
+or was it a benefit of the blood pressure? Look, I mean, we can ask all these questions
+
+1146
+01:50:31,920 --> 01:50:37,600
+forever and ever. But the reality is this was a really striking difference such that the NIH
+
+1147
+01:50:37,600 --> 01:50:44,320
+stopped the trial early because of benefit in that lower group. And I think it was one of the
+
+1148
+01:50:44,320 --> 01:50:49,760
+most important and practice changing trials that we've had. I don't think that it came without
+
+1149
+01:50:49,760 --> 01:50:58,400
+some cost risk. It would be silly to just completely dismiss this. There were real issues,
+
+1150
+01:50:58,400 --> 01:51:03,760
+right? There was a greater increase in the risk of falls and syncope. And I think even in the risk
+
+1151
+01:51:03,760 --> 01:51:10,080
+of significant kidney dysfunction, it was all reversible, but it was all there. And so what we
+
+1152
+01:51:10,080 --> 01:51:14,640
+took away or what I took away from that trial was, it looks like you get a mortality benefit for
+
+1153
+01:51:14,640 --> 01:51:20,800
+getting closer to 120 over 80. So let's get there if we can without creating one of these problems.
+
+1154
+01:51:20,800 --> 01:51:25,200
+So obviously, if you're falling all over the place because you're dizzy, or if your kidney function
+
+1155
+01:51:25,200 --> 01:51:29,440
+deteriorates because your kidneys aren't getting enough blood flow, or whatever, something else
+
+1156
+01:51:29,440 --> 01:51:33,520
+bad happens, then we're not going to do that. But we're going to get you as low as we can,
+
+1157
+01:51:33,520 --> 01:51:36,400
+as close to that target as we can without making a mess.
+
+1158
+01:51:37,680 --> 01:51:43,120
+Yeah. And I think that's sort of why my doc has been relatively unexcited about doing anything in
+
+1159
+01:51:43,120 --> 01:51:49,360
+me is he still remembers a year and a half ago or less than that, just over a year ago, when under
+
+1160
+01:51:49,360 --> 01:51:56,240
+my normal set of relatively low blood pressure, I stood up in the morning, too quickly fell,
+
+1161
+01:51:56,240 --> 01:52:01,600
+face planted, split my head on the table. And that was an occurrence like once,
+
+1162
+01:52:02,400 --> 01:52:09,280
+maybe twice a week, I'd get up and need to sit back down again in the mornings. And so
+
+1163
+01:52:09,280 --> 01:52:17,520
+understandably, his appetite for trying to correct an average blood pressure of 120 over 78
+
+1164
+01:52:17,520 --> 01:52:23,600
+is pretty low. And I'm not keen to take any medication either, clearly.
+
+1165
+01:52:23,600 --> 01:52:30,240
+Well, and there is no doubt in blood pressure, unlike in cholesterol, if we want to go back,
+
+1166
+01:52:31,040 --> 01:52:37,680
+there is a U-shaped curve, right? But too low is definitely bad. And I think your body was telling
+
+1167
+01:52:37,680 --> 01:52:42,240
+you that your blood pressure is probably right about where it ought to be and maybe even a tad
+
+1168
+01:52:42,240 --> 01:52:47,680
+too low. Maybe you're just like a little dehydrated in the morning or have some orthostasis. It sounds
+
+1169
+01:52:47,680 --> 01:52:51,760
+like your doctor made the right decision in you. I don't think there's any evidence that I'm aware
+
+1170
+01:52:51,760 --> 01:52:57,760
+of that treating you to below 120 over 80 is advantageous. No, it was more just my question
+
+1171
+01:52:57,760 --> 01:53:04,560
+was, should we treat such that I never have a reading above 120 over 80? And again, I think
+
+1172
+01:53:04,560 --> 01:53:10,000
+that's probably too aggressive based on these side effects.
+
+1173
+01:53:10,000 --> 01:53:14,560
+Well, I don't think it's even feasible. I mean, the way you exercise, I would be shocked. There's
+
+1174
+01:53:14,560 --> 01:53:18,880
+just no way. I would imagine if you wore 24 hour ambulatory blood pressure when you're exercising,
+
+1175
+01:53:18,880 --> 01:53:23,760
+especially doing isometric resistance training, your blood pressure is going to go way out.
+
+1176
+01:53:23,760 --> 01:53:29,120
+Yeah. No, actually, I think that's a great idea. I've wasted a little bit of time in the last
+
+1177
+01:53:29,200 --> 01:53:35,600
+two years looking for new technology to measure blood pressure in a continuous ambulatory way.
+
+1178
+01:53:35,600 --> 01:53:40,720
+And every device I've tried has failed. So I think I just need to bite the bullet and do the old
+
+1179
+01:53:40,720 --> 01:53:47,840
+school low tech way. If some smart engineer out there wants to figure out a great important
+
+1180
+01:53:47,840 --> 01:53:54,240
+thing to work on, this is definitely at or near the top of my list. I would agree.
+
+1181
+01:53:54,240 --> 01:53:58,800
+I haven't been solved. So go for it. It would be great. Right. As you say that there isn't
+
+1182
+01:53:58,800 --> 01:54:02,960
+really anything now other than the old school old fashioned single manometer just attached to
+
+1183
+01:54:02,960 --> 01:54:08,880
+your arm. So what about the step trial last year? Did that sharpen our thinking at all?
+
+1184
+01:54:09,600 --> 01:54:14,080
+I think it just assuaged any fears that people had that there was something unusual in that
+
+1185
+01:54:14,080 --> 01:54:20,880
+sprint. And of course, there was this concern over the trial being stopped early, which does risk,
+
+1186
+01:54:21,520 --> 01:54:28,320
+you know, does risk what is it? You know, this stuff better than I do, but it does risk the
+
+1187
+01:54:28,320 --> 01:54:34,240
+possibility that the result of spur. Yes. Yeah. So I think step does sort of is a nice confirmation.
+
+1188
+01:54:35,280 --> 01:54:39,600
+Because I think that I think sprint was stopped at like three and a quarter or something, three
+
+1189
+01:54:39,600 --> 01:54:43,360
+and a half. Yeah. Something like that. It was definitely stopped early. And again, that was
+
+1190
+01:54:43,360 --> 01:54:48,240
+because it was pre specified and there was a DSMB and the whole deal. And again, it was an industry
+
+1191
+01:54:48,240 --> 01:54:54,960
+that stopped it. It was the government that stopped it. And because of overwhelming benefit.
+
+1192
+01:54:55,520 --> 01:54:59,120
+And you know, you could have made the argument to keep going. A lot of people did.
+
+1193
+01:55:00,560 --> 01:55:04,320
+They felt like this was an important, you could calculate the number of people who are
+
+1194
+01:55:04,320 --> 01:55:09,760
+under treated, and that they could calculate the impact on mortality, even here within the United
+
+1195
+01:55:09,760 --> 01:55:14,160
+States for every day that you didn't get this result out there. And so they made the decision
+
+1196
+01:55:14,160 --> 01:55:18,320
+to go ahead and stop the trial and report the results. And like I said, there were a lot of
+
+1197
+01:55:18,320 --> 01:55:23,440
+reasons people didn't like the trial. Lots. And that's fine. There are lots of reasons that we
+
+1198
+01:55:23,440 --> 01:55:27,920
+can all find fault with a lot of different things we do. Anyone who's done a scientific experiment
+
+1199
+01:55:27,920 --> 01:55:32,320
+knows that there's plenty of people out there to find fault with all of the things that you did or
+
+1200
+01:55:32,320 --> 01:55:37,760
+didn't do correctly. So I think that what I took away from step was that it was a nice confirmation
+
+1201
+01:55:37,760 --> 01:55:42,720
+that that sprint was probably not spurious that the result of the sprint was real and robust and
+
+1202
+01:55:42,720 --> 01:55:48,240
+repeatable. I think the other thing step had going for it over sprint is it included patients with
+
+1203
+01:55:48,240 --> 01:55:53,920
+type 2 diabetes, which I believe were excluded. So you had a longer trial, you had a more
+
+1204
+01:55:53,920 --> 01:56:03,040
+representative population. And yeah, again, so I'll tell you, and we can leave this after we're done
+
+1205
+01:56:03,040 --> 01:56:05,760
+with this, because I want to make sure you have some time to talk about the metabolic stuff. But
+
+1206
+01:56:06,560 --> 01:56:13,520
+do you have any thoughts on the specifics of various agents? So you have these two really
+
+1207
+01:56:13,520 --> 01:56:21,360
+good trials that were largely drug agnostic. Yeah. And yet I still, when I'm hanging out at
+
+1208
+01:56:21,360 --> 01:56:25,840
+the bars at night talking to, no, I'm kidding. This is not bar discussion. I was going to say that.
+
+1209
+01:56:27,600 --> 01:56:36,640
+You hear this little bit of ARB versus ACE versus calcium channel blocker. And basically the question
+
+1210
+01:56:36,640 --> 01:56:42,160
+is independent of the effect on blood pressure. So if you have two agents, an ACE inhibitor
+
+1211
+01:56:42,240 --> 01:56:47,280
+or an angiotensin receptor blocker, for example, or throw in a calcium channel blocker that can
+
+1212
+01:56:47,280 --> 01:56:54,560
+equally lower blood pressure so that they can get everybody down to 120 over 80 and they can,
+
+1213
+01:56:54,560 --> 01:56:58,960
+the symptoms and side effects become non-issue. And each of those will have a slightly different
+
+1214
+01:56:58,960 --> 01:57:06,640
+set of symptoms we know. Do we have one reason to prefer one over the other, for example,
+
+1215
+01:57:06,640 --> 01:57:14,400
+when it comes to renal protection? Okay. So my first answer is because of the conversation we
+
+1216
+01:57:14,400 --> 01:57:17,840
+had earlier about the sort of lack of awareness and lack of treatment and lack of control of blood
+
+1217
+01:57:17,840 --> 01:57:22,160
+pressure. My first advice to people is get the blood pressure control. And that's what I tell
+
+1218
+01:57:22,160 --> 01:57:25,120
+patients, right? That let's just get the blood pressure control. And then if we want to try to
+
+1219
+01:57:25,120 --> 01:57:31,760
+optimize and find out what the right combination of things is for you, given your other circumstances,
+
+1220
+01:57:32,480 --> 01:57:38,720
+the NIH used to use this term, extenuating or special circumstances. For example, if somebody
+
+1221
+01:57:38,720 --> 01:57:42,880
+had angina, even though beta blockers were no longer first line for true in the primary
+
+1222
+01:57:42,880 --> 01:57:47,760
+hypertension, if you had angina, you'd have, you'd include the use of a beta blocker in that
+
+1223
+01:57:47,760 --> 01:57:53,040
+hypertensive regimen. It was really an anti-anginal, but it lowers blood pressure. So I think the first
+
+1224
+01:57:53,040 --> 01:58:01,360
+step is just get to goal. I do tend to do things differently in some contexts. So age to me has a
+
+1225
+01:58:01,360 --> 01:58:08,640
+big deal in both directions, right? Young people don't like taking diuretics. And in old people,
+
+1226
+01:58:08,640 --> 01:58:12,960
+diuretics can be a little bit more challenging, right? So there are more electrolyte abnormalities.
+
+1227
+01:58:12,960 --> 01:58:18,480
+I see a much greater incidence of hyponatremia and other electrolyte problems. And of course,
+
+1228
+01:58:18,480 --> 01:58:26,720
+the kidney issue, right, is there too. So while I think if I had to pick my favorite agent,
+
+1229
+01:58:27,520 --> 01:58:32,560
+that I think probably among the three classes is the best at managing sort of all comers of
+
+1230
+01:58:33,200 --> 01:58:39,120
+high blood pressure, it would be chlorthalidin or thiazidyridic. I don't use it as much just because
+
+1231
+01:58:39,680 --> 01:58:48,160
+it's harder to use. I think amlodipine is a great drug because it's the easiest to use.
+
+1232
+01:58:48,160 --> 01:58:51,840
+It doesn't require any monitoring, right? You don't have to monitor electrolytes, you don't have
+
+1233
+01:58:51,840 --> 01:58:57,840
+to monitor kidney function. It's a benign drug, super easy, very few side effects other than
+
+1234
+01:58:58,400 --> 01:59:08,160
+a not super infrequent amount of what's considered to be swelling in the ankles. It's not really
+
+1235
+01:59:08,160 --> 01:59:12,000
+edema, but it's the sort of non-edema ankle swelling that people just don't like, especially
+
+1236
+01:59:12,000 --> 01:59:20,960
+women don't like having. So aside from that, it's a very easy drug. For ACE inhibitors or ARBs,
+
+1237
+01:59:20,960 --> 01:59:26,240
+I mostly don't make the distinction between the two. I probably should, but I don't. There are
+
+1238
+01:59:27,760 --> 01:59:34,400
+data, I think that do suggest that those drugs may be more indicated in certain subpopulations.
+
+1239
+01:59:34,400 --> 01:59:39,920
+So for example, there was the HOPE trial, right, which was, I think, you know, mid 2000s.
+
+1240
+01:59:41,200 --> 01:59:46,400
+And so it suggested there may be a benefit in people that have atherosclerotic coronary disease
+
+1241
+01:59:46,400 --> 01:59:53,120
+to have an ACE inhibitor on board. So maybe in people with, you know, with
+
+1242
+01:59:53,120 --> 02:00:00,960
+ASCVD or ACVD risk, I'll use that one over the others as a first line. It's also, you know,
+
+1243
+02:00:00,960 --> 02:00:05,600
+there's the whole ARB and aortic diameter thing, right? So people who may have a little
+
+1244
+02:00:07,040 --> 02:00:12,960
+increase, whether you want to call it an aneurysm, but just an increase in aortic size,
+
+1245
+02:00:12,960 --> 02:00:18,800
+that there may be a benefit to ARBs. You can start begin to weave together all these little
+
+1246
+02:00:18,800 --> 02:00:25,600
+things. I like ACE inhibitors and ARBs probably the best. They do require monitoring, right? So
+
+1247
+02:00:25,600 --> 02:00:31,200
+they do require that you get, you know, electrolytes because there can be in some patients, there can
+
+1248
+02:00:31,200 --> 02:00:37,600
+be issues, especially with potassium. And they can impact kidney function. So it's this weird thing
+
+1249
+02:00:37,600 --> 02:00:44,000
+where the benefit to people with kidney disease is high, but then kidney doctors are also very
+
+1250
+02:00:44,000 --> 02:00:50,560
+nervous about the potential kidney toxicity of ACE inhibitors and ARBs. So it's this weird thing.
+
+1251
+02:00:50,560 --> 02:00:56,560
+To answer your question, I think in people with existing kidney disease, that that's probably the
+
+1252
+02:00:56,560 --> 02:01:01,760
+drug. The other place that I use ACE inhibitors ARB first line is in patients with diabetes,
+
+1253
+02:01:01,760 --> 02:01:07,440
+because that's been shown to, they've been shown to reduce the progression to diabatic nephropathy.
+
+1254
+02:01:07,440 --> 02:01:10,320
+Again and again. So I think. So somewhat renal protective again.
+
+1255
+02:01:10,960 --> 02:01:15,040
+Renal protective. Yeah. So I think they are probably the most renal protective beyond just
+
+1256
+02:01:15,040 --> 02:01:23,360
+getting the blood pressure lower, which is not, is still to me primary. Yeah. So really what you're
+
+1257
+02:01:23,360 --> 02:01:30,880
+saying is, look, the first, second, third order term is take that 50% up to 100% in terms of
+
+1258
+02:01:30,880 --> 02:01:36,480
+effectively lowering blood pressure. And when everybody's at 120 over 80, we can, and we're
+
+1259
+02:01:36,480 --> 02:01:42,720
+doing it without causing ancillary side effects. So that's the third, fourth, fifth order term.
+
+1260
+02:01:43,680 --> 02:01:52,000
+The tail end of this polynomial is the nuance around actual class of drug inside that. Yeah.
+
+1261
+02:01:52,000 --> 02:01:56,400
+I think that makes a lot of sense. And tolerability. Because I do think,
+
+1262
+02:01:56,400 --> 02:02:00,160
+you know, we probably don't pay enough attention to that. It's probably the biggest reason for
+
+1263
+02:02:00,160 --> 02:02:04,400
+non-compliance. Yeah. I kind of include that in the second bucket, right? Is anything,
+
+1264
+02:02:04,400 --> 02:02:09,600
+whether it be ankle swelling or a dry cough that obviously tends to occur in some people with
+
+1265
+02:02:09,600 --> 02:02:15,280
+ACE inhibitors. Older people who tend to get more orthostatic, right? I'd stay away from that. Again,
+
+1266
+02:02:15,280 --> 02:02:19,200
+staying away from direct for them. Because falls in older people, I mean, you're not old and you're
+
+1267
+02:02:19,200 --> 02:02:24,480
+obviously not at risk for having a significant injury from falling, but it's a huge source of.
+
+1268
+02:02:24,480 --> 02:02:31,200
+Did you see my face after I fell? Well, you had a good story about the bar you were in the night
+
+1269
+02:02:31,200 --> 02:02:40,560
+before. Yeah. No, it's, look, I think falling is an enormous risk for an elderly population. And
+
+1270
+02:02:40,560 --> 02:02:45,920
+it's, I mean, between the head bleed and the femur fracture, I mean, these are devastating
+
+1271
+02:02:45,920 --> 02:02:51,040
+consequences for someone in their eighth decade and beyond. I mean, absolutely life-changing and
+
+1272
+02:02:51,040 --> 02:02:57,760
+sadly often life-ending. Yeah, they are. Yep. Yeah. And I say that with an 81, almost 82-year-old
+
+1273
+02:02:57,760 --> 02:03:04,560
+father who has unfortunately fallen now several times and it's a bad thing.
+
+1274
+02:03:06,640 --> 02:03:09,280
+So let's spend a minute, Ethan, talking about one other thing,
+
+1275
+02:03:09,280 --> 02:03:13,680
+kind of bringing it all the way back full circle in the atherosclerosis world.
+
+1276
+02:03:15,920 --> 02:03:21,360
+I generally tell my patients that there are four big pillars of risk in ASCVD.
+
+1277
+02:03:21,680 --> 02:03:30,480
+Smoking, hypertension, APO-B and metabolic health. And that last one is kind of squirrely
+
+1278
+02:03:30,480 --> 02:03:35,200
+because, you know, I can't point to one number that tells me like I can point to your APO-B,
+
+1279
+02:03:35,200 --> 02:03:38,320
+I can point to your blood pressure. You're either smoking or you're not smoking.
+
+1280
+02:03:39,520 --> 02:03:46,480
+But here I talk about the sources of fat that exist outside of your subcutaneous,
+
+1281
+02:03:46,800 --> 02:03:52,560
+you know, depose of fat. And I typically talk about five of them, but I know you tend to focus
+
+1282
+02:03:52,560 --> 02:03:56,320
+on a couple. So I want to double click on those, but just for folks listening, right?
+
+1283
+02:03:56,880 --> 02:04:04,080
+I think the generally accepted principle of this is we as a species, one of our remarkable
+
+1284
+02:04:04,080 --> 02:04:09,040
+advantages in evolution was our ability to store energy. You know, without this capacity,
+
+1285
+02:04:09,040 --> 02:04:14,800
+we wouldn't exist. And so we have this vast network of subcutaneous
+
+1286
+02:04:15,040 --> 02:04:20,800
+adipose tissue, white adipose tissue, that is incredibly adept at storing triacylglycerides.
+
+1287
+02:04:22,000 --> 02:04:25,920
+And I think what appears very clear is that different people have a different genetic
+
+1288
+02:04:25,920 --> 02:04:30,400
+capacity for how much they can store. So I kind of liken this to a bathtub. Everybody has a
+
+1289
+02:04:30,400 --> 02:04:37,440
+different size bathtub. And the water coming in the bathtub is how much you're eating and the
+
+1290
+02:04:37,440 --> 02:04:42,640
+water leaving through the drain is how much energy you're expending. And if you're accumulating
+
+1291
+02:04:43,040 --> 02:04:49,840
+fat, you are, you know, obviously consuming more than you're expending. But at some point,
+
+1292
+02:04:49,840 --> 02:04:53,760
+you could fill that bathtub up and water can escape the bathtub. And that's when really
+
+1293
+02:04:53,760 --> 02:04:58,960
+bad stuff happens, right? That's when it gets into, you know, the floorboards, the electrical stuff,
+
+1294
+02:04:58,960 --> 02:05:04,800
+and that's a disaster. And you don't need to get a lot of water out of the tub for really bad things
+
+1295
+02:05:04,800 --> 02:05:10,960
+to happen, right? Ask anybody who's gone through a leaking, a leak in their house. So you can,
+
+1296
+02:05:10,960 --> 02:05:15,840
+you might have a hundred gallons in the bathtub. If two gallons escape in the wrong place,
+
+1297
+02:05:15,840 --> 02:05:20,080
+it can be a disaster. So talk about the places where it escapes. So around the viscera,
+
+1298
+02:05:20,720 --> 02:05:24,720
+within the muscle itself, in the pancreas specifically, which we can talk about maybe
+
+1299
+02:05:24,720 --> 02:05:31,440
+why that's so problematic, pericardial fat. Tell us a little bit about why this is so problematic.
+
+1300
+02:05:33,120 --> 02:05:37,440
+Well, first of all, I'm so incredibly impressed at how you tell that story. Because it's exactly
+
+1301
+02:05:37,440 --> 02:05:41,920
+how we tell the story. And we learned it from Steve O'Reilly, who I think is the sort of godfather
+
+1302
+02:05:41,920 --> 02:05:49,120
+of this concept. I think we've all appreciated for some time that there's a relationship in terms of
+
+1303
+02:05:49,120 --> 02:05:56,320
+risk and weight, that that's imperfect. And BMI, right, that their BMI is not a great measure of
+
+1304
+02:05:56,320 --> 02:06:01,120
+risk. It is in epidemiology, it is in large populations. We also know that how much fat
+
+1305
+02:06:01,120 --> 02:06:06,160
+you carry. So overall, adiposity is important. But what we've learned really in the past 20 years is
+
+1306
+02:06:06,240 --> 02:06:11,520
+that, as you've said, that it's not so much even how much fat you have, it's where you carry it. And
+
+1307
+02:06:11,520 --> 02:06:18,000
+that we are evolutionarily programmed to store energy in these places around our hips, and our
+
+1308
+02:06:18,000 --> 02:06:25,520
+butt, in our legs, and not as much up here in our bellies, and definitely not in our organs, right,
+
+1309
+02:06:25,520 --> 02:06:34,880
+that's a bad thing. And that has been shown to be a very potent predictor of risk. And that there
+
+1310
+02:06:34,880 --> 02:06:40,960
+are a number of genetic alleles that predispose to both these differences in body composition,
+
+1311
+02:06:40,960 --> 02:07:04,040
+but also to differences in risk of developing diseases like corn
+
+1312
+02:07:04,040 --> 02:07:11,720
+Why does that so bad? The answer is not one I can give you, but I we started our sort of process and
+
+1313
+02:07:11,720 --> 02:07:17,320
+thinking about this problem, and thinking about extreme the extremes of biology, in particular,
+
+1314
+02:07:17,320 --> 02:07:22,280
+these rare genetic diseases that are called lipodistrophes, where people are born with the
+
+1315
+02:07:22,280 --> 02:07:29,160
+inability to store fat at all in generalized lipodistrophy, or with just an isolated inability
+
+1316
+02:07:29,240 --> 02:07:34,680
+to store fat in the gluteofemoral and subcutaneous regions in the legs. So they have a selective loss
+
+1317
+02:07:34,680 --> 02:07:42,600
+of adipose tissue in their butt and their legs, and therefore a huge overabundance of fat in the
+
+1318
+02:07:42,600 --> 02:07:46,760
+abdomen, the viscera, in the liver, and the pancreas, and the heart, as we talked about.
+
+1319
+02:07:47,720 --> 02:07:53,320
+And those people have tremendous metabolic disease and extraordinary levels of risk, right? I mean,
+
+1320
+02:07:53,320 --> 02:07:57,800
+there's small numbers of people that have rare diseases, and all of these studies are observational,
+
+1321
+02:07:57,800 --> 02:08:09,480
+but there's a beautiful paper from Canada from 20 years ago, showing that people born with these
+
+1322
+02:08:10,040 --> 02:08:15,720
+sort of congenital forms of severe insulin resistance, be it either lipodistrophy or type
+
+1323
+02:08:15,720 --> 02:08:21,000
+A insulin resistance, have astronomical coronary artery disease risk. There are women who are
+
+1324
+02:08:21,000 --> 02:08:25,800
+having bypass operations in their 30s and 40s, which is basically unheard of. And
+
+1325
+02:08:26,200 --> 02:08:34,920
+you know, in women. So I think the question of why that is remains unanswered. I think there are lots
+
+1326
+02:08:34,920 --> 02:08:43,880
+of different potential hypotheses. You know, I think the role of insulin and its impact on different
+
+1327
+02:08:44,840 --> 02:08:50,440
+organs and tissues and cells is interesting. We don't have an answer yet. What we do know is that
+
+1328
+02:08:50,680 --> 02:08:57,000
+there's this very strong now association between these different shapes, body shapes, right, the
+
+1329
+02:08:57,000 --> 02:09:02,600
+apple pear thing, and risk of developing these diseases. And so I think if you look at the
+
+1330
+02:09:02,600 --> 02:09:07,240
+epidemiology curves of say coronary disease over the past 30 years, we've done an amazing job of
+
+1331
+02:09:07,240 --> 02:09:12,120
+reducing the risk of coronary artery disease events using all the tools we have at our disposal,
+
+1332
+02:09:12,120 --> 02:09:17,960
+whether that's, you know, blood pressure, smoking cessation, lipid management, etc, etc. Yet, as you
+
+1333
+02:09:18,120 --> 02:09:22,760
+mentioned, at the very beginning, it's still the number one cause of death in the world, and even
+
+1334
+02:09:23,640 --> 02:09:29,480
+in the COVID era. And so it's still a huge problem. The question then to all of us is what
+
+1335
+02:09:29,480 --> 02:09:35,800
+is what is what is what is that? Is that just that we're adequately using the tools we already have?
+
+1336
+02:09:36,360 --> 02:09:41,240
+Or is it that we're missing something else? Or is it a combination? And I guess I would sort of
+
+1337
+02:09:41,240 --> 02:09:45,960
+probably bet that it's some combination of sort of we're just not doing anything.
+
+1338
+02:09:45,960 --> 02:09:51,160
+And I think that's a combination of sort of we're just not doing a good enough job with what we
+
+1339
+02:09:51,160 --> 02:09:56,840
+have. And there's probably something else there. And so that's the focus of sort of what I want to
+
+1340
+02:09:56,840 --> 02:10:02,040
+spend, like I said, the rest of my life thinking about. Yeah, I would agree with you. I think it's
+
+1341
+02:10:02,040 --> 02:10:08,600
+really a combination. I think we start too late and don't go low enough on lipids. We fail to
+
+1342
+02:10:08,600 --> 02:10:15,560
+recognize and don't get enough traction on blood pressure. I mean, I still think nearly 20% of
+
+1343
+02:10:16,200 --> 02:10:24,440
+that is the case. And then I do think that this pillar of poor metabolic health is so improperly
+
+1344
+02:10:24,440 --> 02:10:31,960
+understood. And I don't think we're identifying people at risk because I mean, I think about how
+
+1345
+02:10:31,960 --> 02:10:36,680
+little I know about my own state here. I mean, I have a pretty good sense from any blood test you
+
+1346
+02:10:36,680 --> 02:10:43,720
+can do. I can do a DEXA scan. It tells me how much of that I have. My transaminases are adequate.
+
+1347
+02:10:43,720 --> 02:10:50,040
+I assume and based on last test, no liver fat. But I don't, other than that, it's a real blind
+
+1348
+02:10:50,040 --> 02:10:57,240
+spot. I mean, I don't have the clarity that I would have about my ApoB, for example, or my blood
+
+1349
+02:10:57,240 --> 02:11:02,120
+pressure. And that's I think because we're sort of increasing our very poor resolution of this
+
+1350
+02:11:02,120 --> 02:11:07,240
+problem starting with the most blunt tool of all, which is BMI and then moving to other things.
+
+1351
+02:11:07,240 --> 02:11:12,440
+Even what you just said, I think it still represents probably a very low resolution
+
+1352
+02:11:13,320 --> 02:11:19,960
+image into this, right? Just focusing on that. We know that's bad. But so here's a question right
+
+1353
+02:11:19,960 --> 02:11:26,200
+up. Just a thought experiment is what is, is the problem with that? Is that a defect in the ability
+
+1354
+02:11:26,200 --> 02:11:29,320
+to store fat where it should be stored in the gluteal femoral depot? And is that just a
+
+1355
+02:11:29,320 --> 02:11:34,600
+manifestation of that? Is there something different about that? Is there truly a benefit to having
+
+1356
+02:11:34,600 --> 02:11:38,280
+more fat in the gluteal femoral? So in other words, to your bath of analogy, if you could make
+
+1357
+02:11:38,280 --> 02:11:42,440
+a bigger bath, would you be more metabolically healthy? Well, certainly there's one experiment
+
+1358
+02:11:42,440 --> 02:11:47,960
+that Gerald Shulman did that, you know, obviously it's a contrived experiment, but it would certainly
+
+1359
+02:11:47,960 --> 02:11:53,880
+suggest in the model. So he looked at a mouse model where the mice had profound insulin resistance,
+
+1360
+02:11:53,880 --> 02:11:59,800
+and he would just put more and more subcutaneous fat into those mice, and they got fatter and they
+
+1361
+02:11:59,800 --> 02:12:05,160
+got less insulin resistance. They actually got paradoxically fatter and healthier. So in at least
+
+1362
+02:12:05,160 --> 02:12:11,080
+that intervention, allowing them to get fatter, making them have a bigger bathtub, improved them.
+
+1363
+02:12:11,080 --> 02:12:16,680
+But it's not clear that that's the same thing, right? In other words, that doesn't answer the
+
+1364
+02:12:16,680 --> 02:12:23,560
+question, is that bad simply because it's not in the subcutaneous space? Or is it doing something
+
+1365
+02:12:23,560 --> 02:12:27,320
+fundamentally different? And I think that's where we want to sort of eventually understand, right?
+
+1366
+02:12:27,400 --> 02:12:33,560
+Are there cytokines that are coming out of those cells that are different from the cytokines
+
+1367
+02:12:33,560 --> 02:12:36,200
+coming out of the other cells? And how does that interact with it?
+
+1368
+02:12:36,200 --> 02:12:40,520
+Yeah, I mean, there are all kinds of things that we're learning about the difference in
+
+1369
+02:12:40,520 --> 02:12:44,200
+life, basal lipolytic rate between the two depots. And again, we're just describing these
+
+1370
+02:12:44,200 --> 02:12:49,240
+depots based on what we can see and how we can describe them based on a DEXA scanner and MRI.
+
+1371
+02:12:49,240 --> 02:12:50,200
+I think-
+
+1372
+02:12:50,200 --> 02:12:51,880
+Right, it's just so low resolution.
+
+1373
+02:12:51,880 --> 02:12:56,920
+It's very low resolution at this time. I think what we can say is that in a patient
+
+1374
+02:12:57,400 --> 02:13:02,040
+with bipolar dystrophy has an extreme who has normal lipids, right? Not normal triglycerides.
+
+1375
+02:13:02,040 --> 02:13:07,080
+So maybe a modest elevation in APOB, but APOB triglyceride, that those people have
+
+1376
+02:13:07,080 --> 02:13:11,400
+extreme increases in risk independent of their traditional risk factors. We think
+
+1377
+02:13:11,400 --> 02:13:15,800
+that there's a group of people, and I've now, as I've been thinking about this, begun to see
+
+1378
+02:13:15,800 --> 02:13:19,880
+these people all over. And once you see them, you can't not see them. But we think there are group
+
+1379
+02:13:19,880 --> 02:13:24,920
+people here who represent probably some polygenic version of this where there's a relative decrease
+
+1380
+02:13:24,920 --> 02:13:29,880
+in fat in the legs. I can think of patients now who come to my practice who may have a tiny little
+
+1381
+02:13:29,880 --> 02:13:39,320
+pot belly, but their lipids were not that bad and their legs are super skinny and they had a bypass
+
+1382
+02:13:39,320 --> 02:13:45,400
+at 38 or 40 or 41. And the number of people I can think of like that keeps getting bigger and bigger.
+
+1383
+02:13:45,960 --> 02:13:53,160
+And I think what we're going to learn is that gluteofemoral storage capacity is going to be
+
+1384
+02:13:53,160 --> 02:13:59,160
+an important driver of risk in this context. And finding ways to change that, if it's possible,
+
+1385
+02:13:59,160 --> 02:14:04,680
+would be of great benefit. I think it remains to be seen if it can be changed. There is some
+
+1386
+02:14:05,480 --> 02:14:12,120
+very poor evidence, right? If you talk to the plastic surgeons, they've begun to understand
+
+1387
+02:14:12,120 --> 02:14:17,800
+that there are metabolic consequences to taking fat out of places like the legs and the hips
+
+1388
+02:14:17,800 --> 02:14:22,120
+that are very different from taking fat out of the belly. And so I think, again, we're just
+
+1389
+02:14:22,120 --> 02:14:27,240
+getting it sort of something. It's like Jerry's experiment of putting in more subcutaneous fat.
+
+1390
+02:14:28,120 --> 02:14:32,440
+It's just helping to guide us towards this idea that there's something there.
+
+1391
+02:14:33,240 --> 02:14:35,480
+And especially where it's... Oh, go ahead.
+
+1392
+02:14:35,480 --> 02:14:36,360
+No, no, it's fine.
+
+1393
+02:14:37,000 --> 02:14:40,360
+No, I was just going to say where I think it's really going to be interesting, Ethan, is when you
+
+1394
+02:14:40,920 --> 02:14:47,320
+start to look at this in the much larger and less extreme population of those without lipodystrophy.
+
+1395
+02:14:47,720 --> 02:14:55,320
+So the cases you're describing are profound. But the question is, this is probably also playing a
+
+1396
+02:14:55,320 --> 02:15:01,080
+very big role in people who aren't the ones showing up for bypass at 38 years old, who don't have the
+
+1397
+02:15:01,080 --> 02:15:09,880
+complete lipodystrophy where they have no ability to store fat on their legs and hips. And so the
+
+1398
+02:15:09,880 --> 02:15:16,040
+question is, are there targeted and directed therapies that can be aimed at the metabolic
+
+1399
+02:15:16,840 --> 02:15:17,720
+tip of that spear?
+
+1400
+02:15:18,280 --> 02:15:24,920
+Well, that's what we're doing. So my answer to you is we think so. We need to do the experiment
+
+1401
+02:15:24,920 --> 02:15:30,920
+to demonstrate that. But using human genetics as a guide, there are a number,
+
+1402
+02:15:31,640 --> 02:15:40,360
+large number of alleles that seem to confer this concordance of changes in both directions. So
+
+1403
+02:15:40,360 --> 02:15:47,000
+for example, people who are born with alleles that confer more gluteal ephemeral. So really,
+
+1404
+02:15:47,000 --> 02:15:50,840
+what's important is not so much the amount of visceral fat you have in an absolute sensor to
+
+1405
+02:15:50,840 --> 02:15:56,600
+amount of gluteal ephemeral fat. It's really the ratio. It's called in DEXA terms, and maybe on
+
+1406
+02:15:56,600 --> 02:16:01,160
+your DEXA reports, it's called fat mass ratio. And there are different levels that are normal
+
+1407
+02:16:01,160 --> 02:16:06,120
+or abnormal for women and men, but having a high fat mass ratio, meaning having more fat up here
+
+1408
+02:16:06,120 --> 02:16:13,080
+and less fat down here is bad. And there are alleles that confer that, and that they do also
+
+1409
+02:16:13,080 --> 02:16:18,200
+confer a bunch of changes in the other things that we know are bad, including lipid-based biomarkers
+
+1410
+02:16:20,920 --> 02:16:23,320
+and then diseases, like coronary disease.
+
+1411
+02:16:23,320 --> 02:16:27,800
+And how concordant are these alleles? So do you have enough data to look at identical twins
+
+1412
+02:16:27,800 --> 02:16:34,040
+and say that the genes are completely concordant between them and the phenotype?
+
+1413
+02:16:36,760 --> 02:16:42,200
+I don't know of any twin data, but I do know that there are certain of these that are common enough
+
+1414
+02:16:42,200 --> 02:16:46,040
+that you can find heterozygotes and homozygotes, and it looks like there's a dose response.
+
+1415
+02:16:47,400 --> 02:16:52,360
+And again, it's not just one, right? It's not like there's just one of these things. So I do
+
+1416
+02:16:52,360 --> 02:16:59,080
+think there will be targeted therapies, and we'll test one sooner than later. We'll probably begin
+
+1417
+02:16:59,080 --> 02:17:04,360
+by testing it in patients with lipodystrophy. But the hope and expectation is that we'll move
+
+1418
+02:17:04,360 --> 02:17:09,560
+beyond that and to eventually try and target other metabolic-associated diseases in the
+
+1419
+02:17:09,560 --> 02:17:13,480
+ultimate way than most metabolic-associated disease, which is coronary disease.
+
+1420
+02:17:13,480 --> 02:17:18,600
+What percentage of the patients with a phenotypically appreciated lipodystrophy
+
+1421
+02:17:18,600 --> 02:17:24,440
+have an identified set of genes or gene that results in that?
+
+1422
+02:17:25,080 --> 02:17:31,800
+Oh, it's probably on the order of 50%. It's a great question because we don't really look
+
+1423
+02:17:31,960 --> 02:17:38,520
+at the recognition and diagnosis of lipodystrophy as abysmal. And Steve O'Reilly, who at some point
+
+1424
+02:17:38,520 --> 02:17:42,680
+if you ever can convince him to come on, he's one of the most entertaining human beings I've ever
+
+1425
+02:17:42,680 --> 02:17:49,720
+been around, and I love every moment I spend with him. And Reed is banting metal lecture from 2019,
+
+1426
+02:17:49,720 --> 02:17:55,880
+which was just astonishingly brilliant. He gave it at the ADA, which was here in San Francisco
+
+1427
+02:17:55,880 --> 02:18:05,960
+that year. But Steve will say that the problem is that we don't take our patients' clothes off,
+
+1428
+02:18:05,960 --> 02:18:11,800
+and that if you don't undress your patient, you'll never see it. And actually, we have some patients
+
+1429
+02:18:11,800 --> 02:18:17,880
+with lipodystrophy who are big in the advocacy groups, and they've been incredibly helpful to us.
+
+1430
+02:18:18,440 --> 02:18:23,480
+And they often tell the story that their own personal diagnosis of lipodystrophy happened
+
+1431
+02:18:23,480 --> 02:18:26,600
+by accident because it happened to be a warm summer month and they were wearing a skirt,
+
+1432
+02:18:26,600 --> 02:18:30,440
+and a doctor was able to see that their legs were super skinny and muscular. So I can't
+
+1433
+02:18:30,440 --> 02:18:34,760
+answer your question because we just don't know what the denominator is. There is this
+
+1434
+02:18:35,400 --> 02:18:42,360
+form, so partial lipodystrophy is characterized or classified in how it's been
+
+1435
+02:18:43,000 --> 02:18:48,680
+defined historically, and there's familial partial lipodystrophy 1, 2, 3, 4, and beyond.
+
+1436
+02:18:49,400 --> 02:18:55,160
+FPLD1 doesn't have a monogenic cause. It's by far, in a way, going to be the most common.
+
+1437
+02:18:55,160 --> 02:18:59,720
+But there's not an agreed upon way to make that diagnosis today, which I think is a major problem
+
+1438
+02:18:59,720 --> 02:19:03,880
+and is going to need to be addressed because a doctor, if you talk to an average doctor,
+
+1439
+02:19:03,880 --> 02:19:07,320
+will never have heard of lipodystrophy, would clearly never even be thinking about it. And
+
+1440
+02:19:07,320 --> 02:19:12,680
+I'm saying this having had the experience myself where I probably just never thought about it.
+
+1441
+02:19:12,680 --> 02:19:17,320
+We're conditioned to think that leanness is good. Leanness and muscularity are good. And if you see
+
+1442
+02:19:17,400 --> 02:19:21,320
+leanness and muscularity, if you haven't even see it, it's a good thing. You never would think,
+
+1443
+02:19:21,320 --> 02:19:27,960
+oh, this is a problem. Yeah. I mean, look, to me, this is interesting in that it becomes the index
+
+1444
+02:19:27,960 --> 02:19:33,080
+upon which you can build a far greater set of insights because, again, while I think this
+
+1445
+02:19:33,080 --> 02:19:42,760
+population experiences such an extreme consequence of this, I think I share your belief that this,
+
+1446
+02:19:43,400 --> 02:19:46,040
+even absent a lipodystrophy, this is still a problem.
+
+1447
+02:19:46,760 --> 02:19:51,800
+Yeah. And again, the lipodystrophy patient has a broken bathtub. Of course.
+
+1448
+02:19:51,800 --> 02:19:59,080
+It's not like a normally shaped bathtub. It's a jagged bathtub that is more quick to overflow
+
+1449
+02:19:59,080 --> 02:20:05,960
+because it's simply smaller and therefore they show up much sooner with this problem. And to your
+
+1450
+02:20:05,960 --> 02:20:10,840
+point, if the clinician would simply walk in the bathroom and go, how come that's not an oval? Oh,
+
+1451
+02:20:11,480 --> 02:20:17,480
+I need to be looking harder. And I think that's the expectation is that they represent a very rare
+
+1452
+02:20:19,480 --> 02:20:23,080
+version of what happens when the whole thing goes awry, but that there are going to be
+
+1453
+02:20:23,080 --> 02:20:27,560
+more common versions of this that exist. And it's very similar, I think, to the distinction between
+
+1454
+02:20:27,560 --> 02:20:33,320
+familial hypercholesterolemia and run-of-the-mill hypercholesterolemia. And we've learned a lot from
+
+1455
+02:20:33,320 --> 02:20:39,400
+rare diseases. I think this is a case where we'll learn a lot. In this case, we already have
+
+1456
+02:20:40,360 --> 02:20:46,680
+an abundance of human genetic data that suggests this sort of polygenic version of this thing.
+
+1457
+02:20:46,680 --> 02:20:53,000
+And there'll be some papers coming out soon with collaborators of ours that will show that the
+
+1458
+02:20:54,760 --> 02:21:04,360
+FMR itself conveys more risk even than smoking status. And that's a pretty amazing finding,
+
+1459
+02:21:04,360 --> 02:21:09,000
+right? That if you have a high FMR, I mean, you have a lot of fat up here and not very much fat
+
+1460
+02:21:09,080 --> 02:21:14,200
+down here, that your risk of significant bad things in the form of coronary disease events
+
+1461
+02:21:14,200 --> 02:21:18,920
+is higher than it would be even if you smoked cigarettes, which is astonishing. And I think
+
+1462
+02:21:18,920 --> 02:21:27,000
+none of us would have believed that. Yeah. And I do like the analogy of FH because FH is also
+
+1463
+02:21:28,360 --> 02:21:35,560
+a very, very heterogeneous wastebasket of genetic things and more than 3,000 different genotypes
+
+1464
+02:21:35,560 --> 02:21:41,800
+that produce this phenotype. But interestingly, at least one of them has now become, I think,
+
+1465
+02:21:41,800 --> 02:21:46,840
+the most powerful drug we have on the market, right? Which is the PCSK9 mutation. So it'll
+
+1466
+02:21:46,840 --> 02:21:54,760
+be interesting to know if how much the genetic insights will also form therapeutic options for
+
+1467
+02:21:55,320 --> 02:21:59,960
+the people that don't have lipodystrophy. Yeah. I think for in this case, at least what I can say
+
+1468
+02:22:00,760 --> 02:22:05,160
+with some confidence is that the rare genetics are probably not going to be as informative.
+
+1469
+02:22:05,160 --> 02:22:11,640
+Certainly not as informative as PCSK9, which is, I think, stands alone in terms of the quality of
+
+1470
+02:22:12,360 --> 02:22:16,920
+its informativeness, both as a rare disease mutation, but also as a common disease variant.
+
+1471
+02:22:17,640 --> 02:22:24,920
+But the genes that underline a common variation in these phenotypes are, I think, going to be very
+
+1472
+02:22:24,920 --> 02:22:29,000
+interesting. And so I think that's where we're focused because the rare disease, the single gene
+
+1473
+02:22:29,000 --> 02:22:36,040
+mutations, one of the most common, the disease underlying FPLD2 is a mutation of lamin A.
+
+1474
+02:22:36,040 --> 02:22:40,920
+I mean, we know that this leads to progeria, leads to cardiomyopathy, leads to muscular
+
+1475
+02:22:40,920 --> 02:22:46,760
+dystrophy, leads to lipodystrophy. It's a complicated mess of a protein that's expressed
+
+1476
+02:22:46,760 --> 02:22:52,840
+in the nuclear laminar. It's hard to kind of imagine that common variation in that gene is going to
+
+1477
+02:22:52,840 --> 02:23:02,200
+lead to problems. It might, but it's not obvious. Well, Ethan, this has been really interesting.
+
+1478
+02:23:02,200 --> 02:23:05,560
+We've covered a lot of ground. Some of it we repeated from before, but I think it was necessary
+
+1479
+02:23:05,560 --> 02:23:08,600
+both because I just don't think everybody has the capacity to go back and listen, but I also think
+
+1480
+02:23:08,600 --> 02:23:14,360
+we have a couple more years of insight. So thanks again for making time. And for me personally,
+
+1481
+02:23:14,360 --> 02:23:18,920
+this whole getting deeper down the rabbit hole on blood pressure thing, I'm hoping that enough
+
+1482
+02:23:18,920 --> 02:23:24,200
+other people are equally becoming interested in this because I just worry that there are too many
+
+1483
+02:23:24,200 --> 02:23:30,520
+people walking around out there who have no idea what their blood pressure is. And even if they're
+
+1484
+02:23:30,520 --> 02:23:36,760
+just 10 millimeters of mercury above normal, as you pointed out, the consequences are significant.
+
+1485
+02:23:38,040 --> 02:23:41,400
+And again, it's just such an eminently treatable thing. It's a tragedy.
+
+1486
+02:23:42,120 --> 02:23:49,000
+Yeah, it's been that way. This is not a new problem. And I'm glad that you're latched on
+
+1487
+02:23:49,000 --> 02:23:54,280
+because it is one of these, in terms of things that probably are lowest bang for the buck
+
+1488
+02:23:54,280 --> 02:23:58,680
+in public health these days, maybe short of vaccines. This is at the top of the list.
+
+1489
+02:23:58,680 --> 02:24:03,000
+If we could just raise awareness and treat this, because I think we've done a really good job on
+
+1490
+02:24:03,000 --> 02:24:09,080
+the lipids. Excuse me, the lipids, the lipids, what's left over now is probably, it's not awareness.
+
+1491
+02:24:09,800 --> 02:24:15,240
+But blood pressure is one of these funny things. For whatever reason, it's just not sexy. And it's
+
+1492
+02:24:15,240 --> 02:24:20,280
+very hard to convince somebody to do something that doesn't make them feel better. And in some
+
+1493
+02:24:20,280 --> 02:24:25,000
+cases may make them feel worse. And we've known that for a long time. And this is one of these
+
+1494
+02:24:25,000 --> 02:24:28,680
+things where you're trying to get somebody to understand that it's not going to have any
+
+1495
+02:24:28,680 --> 02:24:35,720
+impact on positive impact on them for years, decades. Yeah. All right, Ethan, thanks very much.
+
+1496
+02:24:36,040 --> 02:24:39,240
+Thank you, Peter. I look forward to seeing you. Yeah, I look forward to seeing you in person
+
+1497
+02:24:39,240 --> 02:24:44,600
+someday. Hopefully I'll hook up. Sounds good, man. Thank you. All right. Yeah. Thank you.
+

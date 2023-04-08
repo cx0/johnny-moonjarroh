@@ -1,0 +1,4136 @@
+1
+00:00:00,000 --> 00:00:15,600
+Hey everyone. Welcome to the Drive podcast. I'm your host, Peter Attia. This podcast,
+
+2
+00:00:15,600 --> 00:00:19,380
+my website, and my weekly newsletter all focus on the goal of translating the science of
+
+3
+00:00:19,380 --> 00:00:24,360
+longevity into something accessible for everyone. Our goal is to provide the best content in
+
+4
+00:00:24,360 --> 00:00:28,440
+health and wellness, full stop, and we've assembled a great team of analysts to make
+
+5
+00:00:28,440 --> 00:00:32,720
+this happen. If you enjoy this podcast, we've created a membership program that brings you
+
+6
+00:00:32,720 --> 00:00:36,920
+far more in-depth content if you want to take your knowledge of this space to the next level.
+
+7
+00:00:36,920 --> 00:00:41,560
+At the end of this episode, I'll explain what those benefits are, or if you want to learn more now,
+
+8
+00:00:41,560 --> 00:00:48,080
+head over to PeterAttiaMD.com forward slash subscribe. Now, without further delay, here's
+
+9
+00:00:48,080 --> 00:00:56,480
+today's episode. I guess this week is Dr. Azra Raza. Dr. Raza is a professor of medicine and
+
+10
+00:00:56,480 --> 00:01:01,640
+the director of the MDS Center at Columbia University in New York. She is a practicing
+
+11
+00:01:01,640 --> 00:01:07,240
+oncologist and a cancer researcher who has been published in over 300 peer review manuscripts.
+
+12
+00:01:07,240 --> 00:01:10,440
+She grew up in the attended medical school in Pakistan before moving to the United States
+
+13
+00:01:10,440 --> 00:01:15,240
+for her clinical training, which we discuss briefly. She's an expert in myelodysplastic
+
+14
+00:01:15,240 --> 00:01:20,880
+syndrome, which is a form of pre-leukemia and acute myeloid leukemia AML. She's a recipient
+
+15
+00:01:20,880 --> 00:01:27,600
+of a number of awards, including the 2012 Hope Award in Cancer Research, which she shared with
+
+16
+00:01:27,600 --> 00:01:33,240
+Nobel Laureate, Dr. Elizabeth Blackburn. Dr. Raza is an outspoken advocate for completely
+
+17
+00:01:33,240 --> 00:01:38,880
+reconfiguring the current model of research in cancer. And the purpose of this discussion is
+
+18
+00:01:38,880 --> 00:01:47,480
+really to dive into her beautiful book, The First Cell, which really is a completely critical look
+
+19
+00:01:47,480 --> 00:01:55,800
+at how medical research is using the wrong types of models. My words, not hers, the ROI on spending
+
+20
+00:01:55,800 --> 00:02:01,600
+is completely out of line with what anybody would consider reasonable if they were to consider it
+
+21
+00:02:01,600 --> 00:02:06,880
+from an objective lens. And frankly, we end with what I think is a very thoughtful discussion
+
+22
+00:02:06,880 --> 00:02:10,560
+around what the way forward looks like, because you could easily get through this. I always love
+
+23
+00:02:10,560 --> 00:02:13,600
+to speak with a person a little bit before and a little bit after. And at the end, she said,
+
+24
+00:02:13,600 --> 00:02:16,760
+you know, gosh, I really, I hope we didn't get too much onto a down note. And I said,
+
+25
+00:02:16,760 --> 00:02:21,720
+no, I don't think we did. I think that there's enough sort of hype around cancer research that
+
+26
+00:02:21,720 --> 00:02:25,680
+it's okay to lift the sheets a little bit and show this side of things. A couple things I'd
+
+27
+00:02:25,680 --> 00:02:30,040
+say about this episode. First of all, Azra goes out of her way both in the book and if you hear
+
+28
+00:02:30,040 --> 00:02:33,840
+her in other interviews to say, look, this is not someone who considers herself a writer, this is a
+
+29
+00:02:33,840 --> 00:02:38,440
+person who considers herself both a physician and a scientist. And in many ways sort of wrote this
+
+30
+00:02:38,440 --> 00:02:42,160
+book because she just really needed to talk about this stuff, to which I would say one,
+
+31
+00:02:42,160 --> 00:02:48,120
+it's very beautifully written, but two, I was blown away at the literary sprinklings that made
+
+32
+00:02:48,120 --> 00:02:52,760
+their way into this. I mean, and you have to remember we're doing this by Zoom basically,
+
+33
+00:02:52,760 --> 00:02:58,200
+or a comparable platform. So we can look at each other on video. And just as sure as I'm
+
+34
+00:02:58,200 --> 00:03:02,280
+looking at another person across from the table, I would ask her a question and she would respond
+
+35
+00:03:02,280 --> 00:03:07,960
+by quoting Emily Dickinson. And not just quote it like I've memorized this, but quote it in the most
+
+36
+00:03:07,960 --> 00:03:13,400
+lyrical way. So I think if you're a fan of literature, science, you have an interest in
+
+37
+00:03:13,400 --> 00:03:18,040
+oncology, there are a lot of things you'll get out of this episode. So I'll leave it at that.
+
+38
+00:03:18,040 --> 00:03:21,680
+And I hope that you do enjoy my conversation with Dr. Azra Rouser.
+
+39
+00:03:21,680 --> 00:03:33,400
+Azra, thank you so much for not just making time to be here today. But as you told me before,
+
+40
+00:03:33,400 --> 00:03:38,800
+we started setting aside a lot of time. It's an honor to sit with you. I've known a little bit
+
+41
+00:03:38,800 --> 00:03:44,880
+about you before your book was published, because one of my colleagues knew about you and said,
+
+42
+00:03:44,880 --> 00:03:50,120
+hey, this is an amazing woman who's in the process of writing an amazing book. And you're
+
+43
+00:03:50,120 --> 00:03:55,080
+definitely going to want to not only read it, but more importantly, I think, speak with her and be
+
+44
+00:03:55,080 --> 00:03:59,160
+able to interview her and talk more broadly about this subject matter. And it's hard to believe that
+
+45
+00:03:59,280 --> 00:04:06,560
+was probably a year ago, if not more. You're an oncologist by training. And I've seen a couple of
+
+46
+00:04:06,560 --> 00:04:10,760
+your short interviews, though I've gone out of my way to not listen to you on previous podcasts,
+
+47
+00:04:10,760 --> 00:04:16,960
+who is not color how I want to talk with you. But the two times I've seen you on very short clips on
+
+48
+00:04:16,960 --> 00:04:22,520
+YouTube, you've made it very clear that you are not a writer, which I find ironic, given how well
+
+49
+00:04:22,520 --> 00:04:33,760
+you write. So at what point did you decide that a book was an appropriate tool to communicate the
+
+50
+00:04:33,760 --> 00:04:39,880
+amazing ideas that we're going to spend a lot of time getting into? Thank you, Peter, for having me
+
+51
+00:04:39,880 --> 00:04:50,360
+on your podcast. I have been an admirer of your work and of the kind of wellness philosophy that
+
+52
+00:04:50,360 --> 00:04:57,880
+you propose, you belong to, you practice, you propagate, you promote, I love it all. And the
+
+53
+00:04:57,880 --> 00:05:04,600
+number of things you do is very admirable. So it's really a pleasure to be on your podcast. I have to
+
+54
+00:05:04,600 --> 00:05:11,000
+tell you that Dorothy Parker once said that if one of your friends come to you, and they say they
+
+55
+00:05:11,000 --> 00:05:18,200
+want to write a book, the second biggest favor you can do them is give them a copy of the elements of
+
+56
+00:05:18,200 --> 00:05:27,880
+style by Strunk and White. And of course, the first favor is kill them immediately. So I knew all
+
+57
+00:05:27,880 --> 00:05:33,880
+along that I'm never going to write a book because I'm going to I'm a big admirer of Dorothy Parker.
+
+58
+00:05:33,880 --> 00:05:39,000
+And then what happened, Peter, is that one of my dear friends in New York who happens to be a
+
+59
+00:05:39,000 --> 00:05:46,360
+literary agent, and John Brockman, and his wife Katinka would often talk to me and say, Ezra,
+
+60
+00:05:46,360 --> 00:05:50,280
+how about writing a book? And I would say, no, I'm not a writer. And they would say, well, you're
+
+61
+00:05:50,280 --> 00:05:56,120
+wringing us with the same things for 10 years. All that is wrong. You want to do something, you want
+
+62
+00:05:56,120 --> 00:06:03,320
+to change the field, write a book. I will get it published. And I would keep saying no, until I had
+
+63
+00:06:04,200 --> 00:06:12,760
+course as an oncologist, number one, after 30 years of being in the field, I had a little bit to say.
+
+64
+00:06:12,760 --> 00:06:18,920
+But then the second thing is that I'm also being a basic science researcher. I've had a very active
+
+65
+00:06:18,920 --> 00:06:28,280
+lab all along. And my third credential is that I'm a cancer widow. So I have experienced oncology
+
+66
+00:06:28,280 --> 00:06:36,520
+from all three perspectives as an oncologist who sees 30 to 40 patients a week for the last 30 plus
+
+67
+00:06:36,520 --> 00:06:44,200
+years as a basic researcher who's had a well-funded lab for 35 years, and as someone who
+
+68
+00:06:44,200 --> 00:06:50,760
+stood on both sides of the bed at the same time of a cancer patient who was the love of my life. So
+
+69
+00:06:51,720 --> 00:06:59,080
+even these credentials, Peter, were not sufficient to motivate me to write the book. What did it was
+
+70
+00:06:59,800 --> 00:07:06,600
+my daughter, Scheherzad's best friend since 15 years of age, not her boyfriend, her best friend
+
+71
+00:07:06,600 --> 00:07:14,040
+who was gay, Andrew, at 22 years of age finds the field's weakness in his arm and taken to the
+
+72
+00:07:14,040 --> 00:07:19,240
+emergency room. He's quadriplegic within hours, and he's found to have a nine centimeter
+
+73
+00:07:19,880 --> 00:07:26,440
+large brain tumor, which was unresectable. And pathology showed that it is one of the most
+
+74
+00:07:26,440 --> 00:07:34,600
+malignant tumors ever known to mankind, glioblastoma multiforme. When this boy opened his eyes and he
+
+75
+00:07:34,600 --> 00:07:41,000
+told his diagnosis, the first thing he told his mother, Peter, was, mom, don't worry, just call
+
+76
+00:07:41,000 --> 00:07:49,400
+Ezra. She's on the cutting edge. She will cure me. So here I am. It slapped me in the face physically
+
+77
+00:07:50,280 --> 00:07:57,080
+that on the one hand, the ferociousness and violence of his tumor, and on the other hand,
+
+78
+00:07:57,960 --> 00:08:05,320
+the utter helplessness of all of us, his oncologists, to do anything about it, our complete
+
+79
+00:08:05,880 --> 00:08:14,360
+failure in front of Andrew. How is it possible that we are so spectacularly failing a 22 year old boy?
+
+80
+00:08:15,000 --> 00:08:20,200
+That's what forced me to write the book. Someone once said, and I'm sure it's been paraphrased,
+
+81
+00:08:20,200 --> 00:08:24,040
+and so I won't attribute it because I don't know where it came from. But the only reason to write
+
+82
+00:08:24,040 --> 00:08:30,440
+a book is if you absolutely can't not write it. And it sounds like that's sort of where you were
+
+83
+00:08:31,160 --> 00:08:37,320
+after all of the things that you've described, which is not only losing Harvey, which I think
+
+84
+00:08:37,320 --> 00:08:44,120
+he died in 2002, is that correct? Correct. And then the story about Andrew, who obviously was
+
+85
+00:08:44,120 --> 00:08:51,240
+about 60, 70 years too young to die from anything, let alone a GBM, which is a tumor I've certainly
+
+86
+00:08:51,240 --> 00:08:55,320
+spoken about on this podcast before, and I think we'll talk a little bit more about it.
+
+87
+00:08:55,320 --> 00:08:58,840
+Also, the other things we're going to talk about, which are the sort of the structural failings of
+
+88
+00:08:58,840 --> 00:09:04,920
+the system that you felt were, if I were going to sort of try to describe your book, a big part of
+
+89
+00:09:05,000 --> 00:09:10,840
+it is the return on investment has been very poor. That's sort of one way to summarize it. There are
+
+90
+00:09:10,840 --> 00:09:15,560
+many ways to sort of summarize it, but an overarching theme has been it hasn't been that
+
+91
+00:09:15,560 --> 00:09:21,400
+we haven't spent a lot of money. It hasn't been that we haven't made some progress. It hasn't
+
+92
+00:09:21,400 --> 00:09:29,400
+been for a lack of trying, but by any objective metric that we would apply to any standard of
+
+93
+00:09:29,400 --> 00:09:36,200
+anything else, the return on that investment has been so paltry that if we are not smart enough to
+
+94
+00:09:36,200 --> 00:09:41,720
+at least consider doing something totally different, we're completely diluted. And again,
+
+95
+00:09:41,720 --> 00:09:46,040
+I think that's one tiny piece of it, and that's probably that burning piece that I think your
+
+96
+00:09:46,040 --> 00:09:51,800
+agent was ultimately saying, this is either going to erode a hole through the gastric lining of your
+
+97
+00:09:51,800 --> 00:09:58,920
+stomach or you better put it on paper. Yes, I agree. So let's start with oncology. What drove
+
+98
+00:09:58,920 --> 00:10:05,240
+you to oncology? Why did you choose to become an oncologist in an era when women could have chosen
+
+99
+00:10:05,240 --> 00:10:11,480
+far less demanding fields in medicine? Not that any field in medicine is more or less demanding,
+
+100
+00:10:11,480 --> 00:10:15,560
+but oncology is about as demanding as it gets. What was the thinking for you?
+
+101
+00:10:16,440 --> 00:10:22,040
+That's an astute observation actually, because when I was going into oncology,
+
+102
+00:10:22,760 --> 00:10:29,400
+it was the least popular field. In fact, most people when I said I'm going into oncology thought,
+
+103
+00:10:29,400 --> 00:10:34,200
+okay, she couldn't get into any other fellowship. That's why because only Indians and Pakistanis
+
+104
+00:10:34,200 --> 00:10:39,000
+go into oncology. Who else would in their right minds would want to go? Except for me,
+
+105
+00:10:39,000 --> 00:10:45,720
+it was a deliberate choice. So Peter, I was born and raised in Pakistan. But since I was a little
+
+106
+00:10:45,720 --> 00:10:52,440
+girl, since as far back as four years old, that is my first memory, I was very interested in the
+
+107
+00:10:52,440 --> 00:10:58,040
+natural world around me. I would be at four years, I'd be following ants around and imagining all
+
+108
+00:10:58,040 --> 00:11:05,240
+kinds of things and started reading about science for as far back as I remember really. And as I
+
+109
+00:11:05,240 --> 00:11:10,680
+was growing up, I got more and more interested in different fields. Embryology at one point became
+
+110
+00:11:10,680 --> 00:11:17,320
+an obsession. By the time I was 16, I had read all about evolution and evolutionary biology. I
+
+111
+00:11:17,320 --> 00:11:23,880
+had become a big Darwinian fan. Everything I was looking at was through the prism of evolution for
+
+112
+00:11:23,880 --> 00:11:31,320
+a long time. But then had I grown up in a country where choices were available to me, I'm confident
+
+113
+00:11:31,320 --> 00:11:38,600
+that I would have gone into molecular biology as a pure science or some of the one to study one of
+
+114
+00:11:38,600 --> 00:11:46,600
+the natural things like marine biology, maybe you're probably more mycology and but in Pakistan
+
+115
+00:11:46,600 --> 00:11:52,600
+where I grew up, there was no possibility of entering science except through medicine. So
+
+116
+00:11:53,400 --> 00:11:59,000
+very cleverly, I thought I'm going to go join medical school as soon as I complete, I will
+
+117
+00:11:59,000 --> 00:12:05,880
+proceed to the west and there I will start my PhD in real scientific training. But the problem
+
+118
+00:12:05,880 --> 00:12:10,840
+that happened with me was in third year of medical school when I saw my first patient,
+
+119
+00:12:11,640 --> 00:12:19,800
+one look was all it took. And I realized from that moment on that all of my life would be devoted to
+
+120
+00:12:21,160 --> 00:12:29,880
+somehow use the best that science has to offer to reduce human suffering. And I have stuck to that.
+
+121
+00:12:29,880 --> 00:12:35,320
+The second thing that happened was so I knew that I will do research in science, but it would be
+
+122
+00:12:35,320 --> 00:12:41,000
+therapy driven and the patient would be front and center for me always. Second thing that happened
+
+123
+00:12:41,000 --> 00:12:49,320
+was that I was in Karachi, Pakistan. Karachi is the largest city in the country. And people who get
+
+124
+00:12:49,320 --> 00:12:55,960
+sick around Karachi in the suburban areas have no access really to medical care. It's a very
+
+125
+00:12:55,960 --> 00:13:01,880
+impoverished third world country with a very overcrowded city where I grew up. So cancer
+
+126
+00:13:01,880 --> 00:13:08,200
+patients, when they came, Peter, they would travel long distances on their donkey carts and on
+
+127
+00:13:08,920 --> 00:13:16,200
+foot. By the time they came, they would have hugely advanced tumors that I've never seen since.
+
+128
+00:13:16,200 --> 00:13:22,920
+Even in Pakistan, we don't see them now. But back then in the early 70s, the kind of end stage
+
+129
+00:13:22,920 --> 00:13:30,120
+malignancies sprouting through breasts or like huge lumps just breaking out of people's heads and
+
+130
+00:13:30,920 --> 00:13:38,520
+arms and sarcomas that I saw. So it was the malevolence of the tumor, the violence of the disease,
+
+131
+00:13:38,520 --> 00:13:44,600
+on the one hand, on the other hand, the intellectual challenge of trying to figure out how this whole
+
+132
+00:13:44,600 --> 00:13:52,360
+thing began in a single cell and how that cell goes rogue. What journeys has it undertaken to
+
+133
+00:13:52,360 --> 00:14:01,240
+reach this level of malignancy? So it was the dual emotional as well as intellectual grip
+
+134
+00:14:01,800 --> 00:14:10,200
+that basically caught me at a young age. And I'm confident that if I'm given 70 more lives,
+
+135
+00:14:10,200 --> 00:14:17,640
+I will do exactly the same thing 70 more times. Do you still remember that first patient you saw
+
+136
+00:14:17,640 --> 00:14:21,640
+as a third year medical student? Do you remember anything about them? What condition they had?
+
+137
+00:14:22,520 --> 00:14:27,720
+Anything about them the way they looked? Actually, thank you for asking. Absolutely.
+
+138
+00:14:27,720 --> 00:14:35,320
+The patient was a young woman with acute myeloid leukemia. And she was very strange because she
+
+139
+00:14:35,320 --> 00:14:41,800
+presented with a very large spleen as well. So we knew that she must have had a prior myeloproliferative
+
+140
+00:14:41,800 --> 00:14:48,840
+myelodysplastic, some sort of a preter cell that led up to the acute leukemia. So right there,
+
+141
+00:14:48,840 --> 00:14:55,320
+and then I started having discussions with my teachers that how much easier it would be to
+
+142
+00:14:55,320 --> 00:15:01,480
+study a liquid tumor because cells are already in suspension and you can go in and sample them so
+
+143
+00:15:01,480 --> 00:15:07,640
+many times instead of trying to study a solid tumor, which is a mass that you can only remove
+
+144
+00:15:07,640 --> 00:15:14,040
+once next time it appears it wouldn't even be the same tumor. And you don't have the luxury of
+
+145
+00:15:14,040 --> 00:15:20,200
+accessing the tumor before, during, and after treatment. So that patient is etched on my brain
+
+146
+00:15:20,200 --> 00:15:26,760
+as if it was yesterday's breakfast. Yeah, I find that phenomenon to be interesting amongst many
+
+147
+00:15:26,760 --> 00:15:33,800
+physicians, both oncologists and not oncologists. Steve Rosenberg, who is my mentor, talks often
+
+148
+00:15:33,800 --> 00:15:39,560
+about a patient that changed the course of his life when he was early in his residency. A patient
+
+149
+00:15:39,640 --> 00:15:44,760
+that had metastatic gastric cancer to the liver five years earlier was basically sent home to die,
+
+150
+00:15:45,320 --> 00:15:50,840
+shows up in the ER to have his gallbladder taken out, should have been dead five years less six
+
+151
+00:15:50,840 --> 00:15:56,680
+months earlier. He's completely free of tumor, which ultimately after double, triple, quadruple
+
+152
+00:15:56,680 --> 00:16:02,440
+checking led Steve to conclude the only way this is possible, this is back in 1968, is if his immune
+
+153
+00:16:02,440 --> 00:16:08,280
+system eradicated that cancer. And Steve became one of the people who has pursued that to incredible
+
+154
+00:16:08,280 --> 00:16:13,560
+ends. And though I've done nothing special, I still remember the first patient I saw in the
+
+155
+00:16:13,560 --> 00:16:19,720
+hospital. And so though it wouldn't become the catalyst for anything particularly unique,
+
+156
+00:16:19,720 --> 00:16:24,760
+we send first year medical students on day one into clinic. They can't do anything. They are
+
+157
+00:16:24,760 --> 00:16:30,680
+literally there to just watch and try not to get in the way. But I selected oncology and I went to
+
+158
+00:16:30,680 --> 00:16:35,640
+the medical oncology clinic and I remember that very first patient on that very first day. And
+
+159
+00:16:35,640 --> 00:16:41,880
+I still remember strange details like what the color was of the clothing of different people in
+
+160
+00:16:41,880 --> 00:16:48,200
+the room that day. He had stage four colorectal cancer. There was my probably one of the first
+
+161
+00:16:48,200 --> 00:16:53,800
+times I'd ever seen a CT scan and certainly seen it with such a clinical emphasis on, okay, look,
+
+162
+00:16:53,800 --> 00:16:58,920
+these are now tumors that have spread to both sides of his liver. The primary tumor was here.
+
+163
+00:16:58,920 --> 00:17:03,320
+You can see all of these places. I would go on to become very close friends with that patient
+
+164
+00:17:03,400 --> 00:17:08,520
+who ultimately died two years later. His widow would come to my medical school graduation
+
+165
+00:17:08,520 --> 00:17:14,760
+two years after that. So yeah, there is something really special about medical education and it can
+
+166
+00:17:14,760 --> 00:17:22,840
+totally derail the best laid plans of becoming the world's expert on ants. Yes. And by the way,
+
+167
+00:17:22,840 --> 00:17:29,000
+I do teach a course that is foundation of clinical medicine where first year medical students at
+
+168
+00:17:29,000 --> 00:17:34,600
+Columbia University are exposed to being clinic. And I'm mindful of this experience. What are,
+
+169
+00:17:34,600 --> 00:17:41,800
+how is this going to change the rest of their lives? The experience has to be somehow we can't
+
+170
+00:17:41,800 --> 00:17:48,440
+take away the pain. It's like Emily Dickinson said, tell all the truth, but tell it slant.
+
+171
+00:17:49,800 --> 00:17:57,640
+Success in circuit lies. Too bright for our infirm delight, the truth superb surprise.
+
+172
+00:17:58,600 --> 00:18:07,160
+As lightning to the children eased with explanation kind, the truth must dazzle
+
+173
+00:18:07,160 --> 00:18:16,040
+gradually or every man be blind. I'm very mindful of that when first year students come to me.
+
+174
+00:18:16,920 --> 00:18:23,640
+Asra, you're the only person who's going to not just quote Emily in the midst of discussion,
+
+175
+00:18:23,720 --> 00:18:30,600
+but do so eloquently and to think that there was any doubt you were a writer is only comical to me,
+
+176
+00:18:30,600 --> 00:18:35,480
+but we'll come back to that. So when you finished medical school, not only did you realize you
+
+177
+00:18:35,480 --> 00:18:41,960
+wanted to be a clinician, but I think the hook of oncology was already well into you. Yes, absolutely.
+
+178
+00:18:42,680 --> 00:18:49,800
+Now let's pivot for a moment to allow you to explain to the listener what the state of
+
+179
+00:18:49,800 --> 00:18:59,240
+oncology looked like at that time. Specifically, when you consider what it meant to have metastatic
+
+180
+00:18:59,240 --> 00:19:05,320
+cancer and let's for a moment, posit that we're going to talk about solid organ tumors separately
+
+181
+00:19:05,320 --> 00:19:12,920
+from liquid tumors. If a woman had breast cancer and either at presentation or later, it had spread
+
+182
+00:19:12,920 --> 00:19:18,840
+to her lungs, to her brain, to her bones. If a man had prostate cancer that had spread to his bones,
+
+183
+00:19:18,920 --> 00:19:24,440
+if a person had colon cancer that had spread to their liver, what was the prognosis and how long
+
+184
+00:19:24,440 --> 00:19:31,000
+would they be expected to survive? I think to start with Peter, the important thing is that
+
+185
+00:19:31,800 --> 00:19:40,360
+when I started in oncology, it was almost a stigma to have cancer. The kind of causes of cancer we
+
+186
+00:19:40,360 --> 00:19:46,680
+were taught were basically either there's a genetic or hereditary component where you have a predisposition
+
+187
+00:19:46,680 --> 00:19:53,880
+for high risk of some sorts of cancers or is it some environmental exposure, some kind of toxins
+
+188
+00:19:53,880 --> 00:20:02,760
+that you've been facing or pathogens. Pathogens were considered a very exciting new avenue for
+
+189
+00:20:02,760 --> 00:20:09,240
+research at the time that maybe it's a viral disease of some sort, especially retroviruses
+
+190
+00:20:09,880 --> 00:20:17,080
+and clearly there was already a very strong component of association with things like smoking.
+
+191
+00:20:17,640 --> 00:20:25,480
+So while there were these kinds of positive factors for cancer, most people who presented
+
+192
+00:20:26,040 --> 00:20:33,480
+already had rather advanced diseases and very little screening measures were being performed
+
+193
+00:20:33,480 --> 00:20:42,680
+at the time. So they would come with in Pakistan especially with the kind of textbook pictures of
+
+194
+00:20:42,680 --> 00:20:52,680
+fungating masses coming, breaking through breasts in women or men suddenly showing up with complete
+
+195
+00:20:52,680 --> 00:21:01,160
+urinary blockage, unable to urinate and we would have to do emergency kinds of things. It would be
+
+196
+00:21:01,720 --> 00:21:08,600
+quite devastating and of course there were people who, women who felt a lump and came in and so I
+
+197
+00:21:08,600 --> 00:21:14,200
+remember how many times I was assisting in mastectomies and considered for a long time to
+
+198
+00:21:14,200 --> 00:21:21,560
+go into surgical oncology because that seemed to be the cleanest treatment at the time. Cut it out,
+
+199
+00:21:21,560 --> 00:21:27,240
+you don't have to start chasing the last cancer cell with these poisonous things we were giving.
+
+200
+00:21:27,880 --> 00:21:35,560
+Even radiation was quite primitive at the time and quite terrible to patients. So it was all in all,
+
+201
+00:21:35,560 --> 00:21:41,640
+it was a stigma to begin with, people didn't want to talk about it, many people hid it, the tumors
+
+202
+00:21:41,640 --> 00:21:47,560
+from themselves even would delude themselves into thinking that this is some kind of infection,
+
+203
+00:21:47,560 --> 00:21:54,040
+it will go away. So most people presented with advanced cancers. The problem that I see though
+
+204
+00:21:54,040 --> 00:22:04,440
+before I end this answer is that today in 2020, if you want to measure the success of treatment
+
+205
+00:22:04,440 --> 00:22:12,120
+in cancer then the thing you need to look at Peter is what is the age-adjusted mortality
+
+206
+00:22:12,120 --> 00:22:19,800
+of cancer today. In 2020, you know what it is? It is the same as it was in 1930.
+
+207
+00:22:20,440 --> 00:22:26,680
+So that's interesting. I usually make the statement, it's the same as 1970. I didn't realize it was
+
+208
+00:22:26,680 --> 00:22:32,280
+still the same as, you go back even further, I usually just make the point that in 50 years
+
+209
+00:22:32,280 --> 00:22:38,840
+it hasn't changed. You're saying in 90 years it hasn't changed. Yes, I'm saying that because the
+
+210
+00:22:38,840 --> 00:22:47,880
+30% or 27% decline in mortality we are seeing in the last 30 years is following a 30 years increase
+
+211
+00:22:47,880 --> 00:22:54,680
+in mortality in cancer. You see what happened was that with all the smoking anyone who watches
+
+212
+00:22:54,680 --> 00:23:00,280
+Mad Men is shocked to see it like my daughter saw it and she was, mommy is that what people used to
+
+213
+00:23:00,280 --> 00:23:08,040
+be like everywhere they were just smoking, everybody was smoking. This led to such an increase in the
+
+214
+00:23:08,040 --> 00:23:16,200
+incidence of cancer so that the decline in mortality basically parallels the decline in smoking.
+
+215
+00:23:16,200 --> 00:23:24,360
+That is all that has happened. Otherwise, we are really at square one and that is the embarrassment
+
+216
+00:23:24,360 --> 00:23:31,240
+that nobody wants to recognize. In fact, somebody asked me the other day, what exactly is your point
+
+217
+00:23:31,240 --> 00:23:38,760
+in saying, I said look, Nietzsche's Thus Bakes Zarathustra opens with this man running around with
+
+218
+00:23:38,760 --> 00:23:45,800
+a lamp at noon in the middle of the market saying I'm looking for God. For me, it's like I'm running
+
+219
+00:23:45,800 --> 00:23:52,040
+around looking for an adult in the room. Yeah, so let's explain to people, let's explain some of the
+
+220
+00:23:52,040 --> 00:24:00,200
+nuance here because most people are confused by what an extension in disease-free survival means.
+
+221
+00:24:00,200 --> 00:24:05,400
+Not that the average person knows what the difference is between a PR and a CR but you and
+
+222
+00:24:05,400 --> 00:24:10,120
+I both know this world well because we've been on the inside of how these clinical trials are run.
+
+223
+00:24:10,120 --> 00:24:16,440
+So we understand that, hey, this drug got approved because X number of people met the
+
+224
+00:24:16,440 --> 00:24:21,240
+criteria for a PR which has a kind of a funky arbitrary definition if you're going to be
+
+225
+00:24:21,240 --> 00:24:26,440
+brutally honest of what a partial response is defined as. A complete response is a little easier
+
+226
+00:24:26,440 --> 00:24:31,720
+to define but then we don't talk about what durability means in all of these things. So
+
+227
+00:24:31,720 --> 00:24:36,280
+I could give an entire soliloquy and lecture on this but I'd much rather listen to you do it
+
+228
+00:24:36,280 --> 00:24:41,000
+eloquently because the chance that you're going to quote more poetry is reasonably high. So can
+
+229
+00:24:41,000 --> 00:24:47,240
+you explain for folks what it means to have a partial response, a complete response? And the
+
+230
+00:24:47,240 --> 00:24:52,360
+reason I think it's important to do this even though it sounds a little dry, you're saying
+
+231
+00:24:52,360 --> 00:24:58,600
+things that seem completely at odds with what the propaganda machine is saying. Now I know you're
+
+232
+00:24:58,600 --> 00:25:05,560
+right because I know how the sausage is made. I've been inside the belly of the sausage. I understand
+
+233
+00:25:05,560 --> 00:25:12,280
+how to read the literature. That is actually asking a lot for someone who maybe just wants
+
+234
+00:25:12,280 --> 00:25:17,800
+to better understand oncology but they haven't had the luxury of training in oncology or even
+
+235
+00:25:17,800 --> 00:25:22,280
+more importantly I think doing research in oncology. So can you go through some of the
+
+236
+00:25:22,280 --> 00:25:27,480
+fundamentals of what these semantics are that are used, how these terms get thrown around
+
+237
+00:25:28,040 --> 00:25:33,800
+and how ultimately it can lead to some statements like the one you just made frankly which is as
+
+238
+00:25:33,880 --> 00:25:40,360
+extreme as extreme could be with respect to saying, hey look in 90 years we really haven't
+
+239
+00:25:40,360 --> 00:25:46,840
+gotten better at extending life in people with cancer once they have cancer. So let's unpack
+
+240
+00:25:46,840 --> 00:25:53,960
+some of these definitions a bit. I think that's a good place to start. So let me begin by a little
+
+241
+00:25:53,960 --> 00:26:00,520
+bit of just history because before we get into nuances why not just talk about the very gross
+
+242
+00:26:00,600 --> 00:26:06,840
+facts. Cancer is a very bad disease. Everybody knows it. The only good news you can give to a
+
+243
+00:26:06,840 --> 00:26:14,040
+cancer patient is that oh we caught it early so we can get rid of it. So we know that cancer itself
+
+244
+00:26:14,040 --> 00:26:19,480
+may not kill. It's the delay in treatment that really kills. So the earlier we pick it up the
+
+245
+00:26:19,480 --> 00:26:26,200
+better. How have we treated cancer which has been found even in mummies so we know cancer has
+
+246
+00:26:26,200 --> 00:26:32,920
+existed all along but the incidence probably it is a disease of modernity associated with many
+
+247
+00:26:32,920 --> 00:26:41,080
+many of our lifestyle changes from hunter-gatherer society to modern human. Nonetheless cancer was
+
+248
+00:26:41,080 --> 00:26:48,760
+identified in mummies and has been there all along in human history. How have we treated it? Well the
+
+249
+00:26:48,760 --> 00:26:55,480
+first treatment of cancer even though it wasn't even called cancer then was in 500 BC when the
+
+250
+00:26:55,480 --> 00:27:03,000
+Persian queen Atossa had felt a lump in her breast. She tried to hide it by covering it with
+
+251
+00:27:03,000 --> 00:27:09,400
+sheets and things and eventually asked her Greek slave who took out his sword and simply slashed
+
+252
+00:27:09,400 --> 00:27:18,280
+off her breast. She survived it. She was the wife of Darius and she survives it and this is the first
+
+253
+00:27:18,280 --> 00:27:26,360
+known surgery. We were slashing women's breasts in 500 BC. What is the primary treatment for
+
+254
+00:27:26,360 --> 00:27:33,240
+breast cancer today? Same slash. And we typically give Halstead credit for that. So this is my point
+
+255
+00:27:33,240 --> 00:27:40,840
+that for 2500 years what has exactly changed? Slight better scallopals and giving anesthesia
+
+256
+00:27:40,840 --> 00:27:48,920
+while doing it. Okay yes. Then second is that when you couldn't so whatever cancer was detected
+
+257
+00:27:48,920 --> 00:27:55,080
+early enough as a solid tumor was cut out and the liquid tumors you couldn't cut out so you needed
+
+258
+00:27:55,080 --> 00:28:02,920
+to poison them somehow. Now how do you poison these things? There was really nothing could be done
+
+259
+00:28:02,920 --> 00:28:08,200
+about it until in the first world war. Of course it wasn't called the first world war because we
+
+260
+00:28:08,280 --> 00:28:14,200
+didn't know there's going to be a second. So it was called the great war. Part of development of
+
+261
+00:28:14,200 --> 00:28:20,440
+weapons against each other was use of chemicals. And so when these vats of chemicals were sitting
+
+262
+00:28:20,440 --> 00:28:28,360
+around that were dropped on humanity people noted that one of the side effects that people died from
+
+263
+00:28:28,360 --> 00:28:36,120
+was low blood counts. So Goodman and Gilman, two pharmacologists sitting around in Yale decided
+
+264
+00:28:36,120 --> 00:28:42,040
+that this could be used to treat cancer then these chemicals. So do you know the first three
+
+265
+00:28:42,040 --> 00:28:49,240
+chemical weapons that were used to treat cancer? Cytoxone, chlorambucil and melphalan. We still use
+
+266
+00:28:49,240 --> 00:28:57,080
+at least two of those. I gave all three with my own hands to my own husband Harvey. So we are
+
+267
+00:28:57,080 --> 00:29:03,800
+slashing. We are poisoning the same way and then burning with radiation therapy the same way. So
+
+268
+00:29:04,360 --> 00:29:12,840
+I wanted the audience to understand the kind of dramatic statements or melodramatic statements
+
+269
+00:29:12,840 --> 00:29:21,320
+that I'm making are not baseless. People just have to stop deluding themselves, open their eyes and
+
+270
+00:29:21,320 --> 00:29:29,160
+see what is in front of them. So to just finish this part with a quotation of statistics.
+
+271
+00:29:30,120 --> 00:29:39,160
+In this day and age today, 68% of cancers that we diagnose new cases, 68% are cured.
+
+272
+00:29:40,040 --> 00:29:50,120
+Cured with wattpeter, poison burn, surgery, radiation and chemo. Except for a few cancers
+
+273
+00:29:50,120 --> 00:29:59,080
+where there are targeted therapies or antibodies available, really not much has happened. The 32
+
+274
+00:29:59,800 --> 00:30:06,200
+who present with advanced disease that we can't use slash poison burn. So imagine the same
+
+275
+00:30:06,200 --> 00:30:12,600
+treatments that were working in earlier stages are not working in later stages. This is the best
+
+276
+00:30:12,600 --> 00:30:18,440
+proof that the only thing we can do right now is to find the cancer earlier. And even some of the
+
+277
+00:30:18,440 --> 00:30:26,280
+therapies not working like targeted therapies may work better if we don't give them to stage four.
+
+278
+00:30:26,280 --> 00:30:33,000
+Flit 3 mutations quarterly may respond much better to Flit 3 inhibitors. This is the point
+
+279
+00:30:33,000 --> 00:30:39,480
+I will keep making over and over. I want to stop you for a second there, Ezra, because honestly
+
+280
+00:30:40,040 --> 00:30:47,640
+that is something that I have only in the last few years come to share your zeal for.
+
+281
+00:30:48,200 --> 00:30:54,120
+And I can't emphasize it enough. So there was a day when I believed, incorrectly now,
+
+282
+00:30:54,120 --> 00:31:01,080
+I believe I was incorrect, that burden of tumor was not the primary determinant factor. Stage four
+
+283
+00:31:01,080 --> 00:31:06,680
+cancer was stage four cancer, whether the burden was high or low. And it was really a property of
+
+284
+00:31:06,680 --> 00:31:11,960
+the biology of the cancer that was the issue. So in other words, if you took a whole bunch of women
+
+285
+00:31:11,960 --> 00:31:19,080
+with stage one breast cancer, you took 100 women that had sub centimeter lymph node negative breast
+
+286
+00:31:19,080 --> 00:31:27,080
+cancer, and you had a machine that could tell you which ones had the potential to go on to
+
+287
+00:31:27,080 --> 00:31:32,040
+have metastatic cancer versus those ones that did not. And let's maybe breast cancer wasn't a great
+
+288
+00:31:32,040 --> 00:31:37,640
+example because of the hormone complexity of it, that whether you acted then or acted later,
+
+289
+00:31:37,640 --> 00:31:42,360
+it wasn't going to matter. Well, I no longer believe that is true for reasons I could expand
+
+290
+00:31:42,360 --> 00:31:48,520
+upon. I want to emphasize the point you're making, which is, I mean, it's the contra-positive of your
+
+291
+00:31:48,520 --> 00:31:55,960
+point, which is we don't really have therapy that works for systemic disease. So metastatic breast
+
+292
+00:31:55,960 --> 00:32:00,520
+cancer, metastatic colon cancer, metastatic prostate cancer, metastatic, you fill in the
+
+293
+00:32:00,520 --> 00:32:10,840
+blank, you are no better off today than you were 50 years ago. And that is a very sobering, if not
+
+294
+00:32:10,840 --> 00:32:18,120
+outright depressing statistic. It's very difficult for the average person to comprehend that for all
+
+295
+00:32:18,120 --> 00:32:25,960
+our advances, once colon cancer has gone to your liver in 2020, you are almost as hopeless as you
+
+296
+00:32:25,960 --> 00:32:31,320
+were in 1970. And in fact, you can probably put more color around it and say, well, technically,
+
+297
+00:32:31,320 --> 00:32:36,120
+Peter, you might live four and a half more months. And I don't want to discount that. I want to talk
+
+298
+00:32:36,120 --> 00:32:41,320
+about what the cost of that is. But I mean, do you agree with, am I also being a little too dramatic
+
+299
+00:32:41,400 --> 00:32:47,080
+or would you agree with my assessment? I think you're using meiosis, meaning understated.
+
+300
+00:32:49,080 --> 00:32:56,280
+Seriously, how do you tell a 22 year old, Andrew, that we will add four months to your life, you
+
+301
+00:32:56,280 --> 00:33:02,280
+should go and celebrate and proclaim from the rooftops. What kind of nonsense is this? Four
+
+302
+00:33:02,280 --> 00:33:08,040
+months of improvement in survival. And that is the lucky one to get it. You know what it is,
+
+303
+00:33:08,040 --> 00:33:13,160
+why people will be shocked. Why should they be shocked? They'll be shocked because they are
+
+304
+00:33:13,160 --> 00:33:21,000
+listening. Poor things have been subjected to the ultra hype of all this self promotion of scientists
+
+305
+00:33:21,000 --> 00:33:28,680
+and oncologists patting themselves on the back for game changers that they have. Allow me to expand
+
+306
+00:33:28,680 --> 00:33:37,960
+on what has, in my opinion, put the field back by decades. And that is the treatments that are most
+
+307
+00:33:38,040 --> 00:33:47,240
+celebrated in cancer are treatment of chronic myeloid leukemia. This is a disease which is a disease
+
+308
+00:33:47,240 --> 00:33:53,240
+of the myeloid cells in the bone marrow, which undergoes a chronic phase where nothing much is
+
+309
+00:33:53,240 --> 00:33:59,240
+happening, except one fine day something mutates, something happens, the disease takes off into an
+
+310
+00:33:59,240 --> 00:34:05,960
+accelerated phase and then becomes acute leukemia and it is universally fatal. And all of us who are
+
+311
+00:34:05,960 --> 00:34:12,360
+older like me have taken care of dozens of these patients who died in our own hands, young people,
+
+312
+00:34:12,920 --> 00:34:21,320
+as well as old. Well, it turned out that chronic myeloid leukemia is caused by one genetic change
+
+313
+00:34:21,320 --> 00:34:28,360
+that can be targeted with one magic bullet. And that magic bullet is Gliwack and that was FDA
+
+314
+00:34:28,360 --> 00:34:34,680
+approved in 2000. And now these people are being cured with one drug. And this is a fantastic
+
+315
+00:34:34,680 --> 00:34:40,840
+success. But Peter, the same drug doesn't work when the disease starts to accelerate.
+
+316
+00:34:41,480 --> 00:34:48,920
+So chronic myeloid leukemia, think of the word chronic hair. It's not really a malignancy. It's
+
+317
+00:34:48,920 --> 00:34:57,400
+like a pre leukemia right now. You caught it early. At that stage, there was only one problem and you
+
+318
+00:34:57,400 --> 00:35:02,600
+could fix it with one bullet, right? Can we put that in perspective for people? Because I want
+
+319
+00:35:02,600 --> 00:35:08,200
+to make sure we're not. I don't want the naysayer to have too much wiggle room to say, well, you've
+
+320
+00:35:08,200 --> 00:35:14,040
+discounted the success stories, Gliwack. We're going to probably talk about some of the checkpoint
+
+321
+00:35:14,040 --> 00:35:19,240
+inhibitors as well, which have probably been the single biggest victory in the past five years.
+
+322
+00:35:19,240 --> 00:35:25,320
+Do we have a sense of what percentage cancer mortality has come down on the back of Gliwack,
+
+323
+00:35:25,320 --> 00:35:30,920
+not just from CML, but let's also look at GI stromal tumors, which have at least for some period
+
+324
+00:35:31,000 --> 00:35:36,120
+of time responded to Gliwack, though it might not be the most durable remission ever. I mean,
+
+325
+00:35:36,120 --> 00:35:41,080
+what type of numbers are we talking about? Has that put a 1% dent in cancer mortality in the
+
+326
+00:35:41,080 --> 00:35:49,080
+past 20 years? If that, it's a very rare disease. Yeah, exactly. Very rare, but it did prove a point,
+
+327
+00:35:49,080 --> 00:35:55,320
+which is that targeted therapy can work. This is the point I'm making that it's not even really
+
+328
+00:35:55,320 --> 00:36:02,520
+a cancer yet in all its malignant manifestations that other cancers are. The second thing we
+
+329
+00:36:02,520 --> 00:36:08,040
+celebrate is again in hematologic malignancies, which is acute pro-myelocytic leukemia,
+
+330
+00:36:08,680 --> 00:36:16,120
+which is cured with arsenic or with vitamin A analog, vitamin A, let's say, ATRA. It cures
+
+331
+00:36:16,120 --> 00:36:21,240
+acute pro-myelocytic leukemia, one of the deadliest acute leukemia. But do you know,
+
+332
+00:36:21,240 --> 00:36:27,560
+it wasn't as if scientists sat down, studied this disease, found the lesion of retinoic acid
+
+333
+00:36:27,560 --> 00:36:34,040
+receptor, and started to reverse it. Poor Chinese were saying for years that we are curing acute
+
+334
+00:36:34,040 --> 00:36:42,040
+pro-myelocytic leukemia with vitamins, and the West didn't believe them. Finally, they sent
+
+335
+00:36:42,040 --> 00:36:47,640
+somebody over and they saw all the patients and were convinced and came back and did a trial of
+
+336
+00:36:47,640 --> 00:36:53,880
+ATRA here and then were convinced and then worked backwards to find the molecular lesion.
+
+337
+00:36:54,680 --> 00:37:00,280
+So, please, scientists, do not take credit in front of me for acute pro-myelocytic
+
+338
+00:37:00,280 --> 00:37:06,040
+leukemia. You did not work it out. You only worked it out in retrospect. So, those are the
+
+339
+00:37:06,040 --> 00:37:13,160
+two biggest advances. Now, lymphomas absolutely agree that throwing cocktails of chemotherapy
+
+340
+00:37:13,160 --> 00:37:18,680
+together, testing this one and that one, they worked as because of the biology of the disease
+
+341
+00:37:18,680 --> 00:37:24,280
+that was responsive to those chemotherapies. That's what I'm telling you that some of the things that
+
+342
+00:37:24,280 --> 00:37:30,440
+have retarded progress in a way is because we become convinced of a paradigm that, oh, if
+
+343
+00:37:30,440 --> 00:37:36,520
+Hodgkin's disease can be cured with these four drugs, we just have to find the right four drugs
+
+344
+00:37:36,520 --> 00:37:41,880
+for pancreatic cancer or ovarian cancer and we'll fix it. And that's how we kept working.
+
+345
+00:37:42,520 --> 00:37:49,640
+Throwing crazy combinations of drugs together to follow the paradigms, the few successes that we
+
+346
+00:37:49,640 --> 00:37:56,680
+had seen, Hodgkin's disease, a few non-Hodgkin's lymphomas or acute pro-myelocytic leukemia,
+
+347
+00:37:56,680 --> 00:38:03,160
+chronic myeloid leukemia, I mean, multiple myeloma now has been very successfully treated,
+
+348
+00:38:03,160 --> 00:38:10,600
+but at that time it wasn't. But now it is definitely a night and day difference. But these
+
+349
+00:38:10,680 --> 00:38:17,960
+are again rare types of cancers, melanoma, dramatic differences in survival today.
+
+350
+00:38:18,760 --> 00:38:26,040
+But again, all of these together would account for less than 10% of cancers together. Still,
+
+351
+00:38:26,040 --> 00:38:32,920
+we have to go back to whatever we can slash, poison and burn. And successfully, we are able
+
+352
+00:38:32,920 --> 00:38:39,640
+to do that for 68% cancers either because their disease is responsive like in Hodgkin's lymphoma,
+
+353
+00:38:39,640 --> 00:38:47,000
+even if it's advanced or non-Hodgkin's lymphoma or CLL or because it is amenable to surgery.
+
+354
+00:38:47,560 --> 00:38:54,440
+That's it. So where a counter argument here is, look, this is going to be a game of inches.
+
+355
+00:38:55,160 --> 00:39:02,120
+And the 10% that you just described, you basically gave the tour de force explanation of
+
+356
+00:39:02,120 --> 00:39:07,720
+oncology's greatest hits in the last three decades. And again, we didn't pay a lot of,
+
+357
+00:39:07,800 --> 00:39:12,360
+spend a lot of time on it, but I think the checkpoint inhibitors also have this huge impact
+
+358
+00:39:12,360 --> 00:39:18,040
+beyond just melanoma because anybody who shows up with a checkpoint mutation, even if you have
+
+359
+00:39:18,040 --> 00:39:22,920
+Lynch syndrome and you go on to get pancreatic adenocarcinoma, you're probably going to respond.
+
+360
+00:39:22,920 --> 00:39:29,960
+Let's just say that adds up to 8% or 9% of the 68%. So the skeptic would say, but look,
+
+361
+00:39:29,960 --> 00:39:37,480
+Azra, that's amazing progress. Give us another 40 years, give us another 30 years and cancer is
+
+362
+00:39:37,480 --> 00:39:44,120
+eradicated. That would be the optimistic view of this. How would you counter that view?
+
+363
+00:39:45,160 --> 00:39:50,360
+I don't want to counter anything. I mean, that's the way the field has been. I've been hearing the
+
+364
+00:39:50,360 --> 00:39:58,440
+same self satisfied voices saying the same thing, how wonderful they are, how they will understand
+
+365
+00:39:58,440 --> 00:40:04,280
+every intracellular signaling pathway in the cancer cell and reverse it, how they will understand
+
+366
+00:40:04,280 --> 00:40:10,440
+the metabolism. Don't even get me started on that because it's as if the last 100 years haven't
+
+367
+00:40:10,440 --> 00:40:17,160
+existed and people haven't had any ideas until these new investigators came around to, on their
+
+368
+00:40:17,160 --> 00:40:23,560
+white horses with their overconfidence and contempt for the past, armed with new things. We are going
+
+369
+00:40:23,560 --> 00:40:31,160
+to reverse all these. I mean, clearly, whatever advances there are, and I don't want to argue with
+
+370
+00:40:31,160 --> 00:40:37,960
+anyone about advances. You are saying there are a lot of advances. Great. Do they really reflect
+
+371
+00:40:37,960 --> 00:40:44,760
+the quarter of a trillion dollars we have invested in research? Is this all we have to show? A few
+
+372
+00:40:44,760 --> 00:40:50,680
+checkpoint inhibitors? Fine. I agree with you. Even if I agree with you. So let's just talk about
+
+373
+00:40:50,680 --> 00:40:55,720
+immune therapy for a minute. You say checkpoint inhibitors. There are many different kinds of
+
+374
+00:40:55,720 --> 00:41:02,360
+immune therapies, 14, 15 different kinds. The two most popular we talk about when we talk about
+
+375
+00:41:02,360 --> 00:41:09,640
+immune therapy these days is either the cell therapies that are given where you train the
+
+376
+00:41:09,640 --> 00:41:17,320
+lab that is the pioneer of all of this work with cell and cytokine, IL therapies combined with T
+
+377
+00:41:17,320 --> 00:41:24,040
+cells, et cetera, or the checkpoint inhibitors because normal cells will have signals on themselves
+
+378
+00:41:24,040 --> 00:41:29,800
+saying, eat me or don't eat me, and these can be masked, and these signals are the checkpoints.
+
+379
+00:41:29,800 --> 00:41:37,720
+And by using drugs, you can unmask the signal, which has been covered up by the cancer cell. Very
+
+380
+00:41:37,720 --> 00:41:45,240
+simple explanation for checkpoint. So the two main ideas in immunology that came along were how to
+
+381
+00:41:45,240 --> 00:41:52,520
+target these checkpoints so that the body's own immune cells can recognize the cancer as being
+
+382
+00:41:53,320 --> 00:41:59,880
+alien to the normal functioning of the body and must be eliminated. And the second is,
+
+383
+00:41:59,880 --> 00:42:07,880
+can you take the body's own immune cells and engineer them in such a way that they can
+
+384
+00:42:08,440 --> 00:42:17,560
+selectively kill cancer? And CAR T cells have been proclaimed once again as revolutionary.
+
+385
+00:42:17,560 --> 00:42:26,360
+Of course, the science behind it is beautiful. It's very sophisticated. It's one of those things
+
+386
+00:42:26,360 --> 00:42:32,440
+that make you want to celebrate humanity's accomplishments. It is just a gorgeous thing.
+
+387
+00:42:33,000 --> 00:42:41,160
+But the problem is that it has done very little for patients. Why? Because what all the oncologists
+
+388
+00:42:41,160 --> 00:42:47,640
+talking about CAR T never mention in any of their talks. And by the way, every morning,
+
+389
+00:42:47,640 --> 00:42:55,800
+I run every morning. And after I run, I jump on a small trampoline for 20 to 30 minutes every day,
+
+390
+00:42:55,800 --> 00:43:01,080
+because that's one way to stimulate your lymphatic system. And the trampoline is small,
+
+391
+00:43:01,080 --> 00:43:05,640
+rebounder, I should say, not a trampoline. It's one of the best exercises you can have. I've been
+
+392
+00:43:05,640 --> 00:43:13,400
+doing it for 25 plus years. So during that time, I listened to YouTube lectures to all of you
+
+393
+00:43:13,400 --> 00:43:20,280
+cancer researchers out there understand that there is one person who listens to your YouTube lectures
+
+394
+00:43:20,280 --> 00:43:26,760
+every single day. And the kinds of things people confess to in public forums very different than
+
+395
+00:43:26,760 --> 00:43:35,240
+the scientific papers they're writing in all of those talks. I have never heard any serious
+
+396
+00:43:35,240 --> 00:43:43,320
+scientist oncologist or immunologist say that their CAR T cells cannot distinguish between
+
+397
+00:43:43,320 --> 00:43:51,000
+normal and cancer cells. They just ignore that. It's like they just don't want to acknowledge it.
+
+398
+00:43:51,000 --> 00:43:57,800
+Why don't you say that basically CAR T cells are just another form of killing machine
+
+399
+00:43:57,800 --> 00:44:04,760
+indiscriminately. So what CAR T cells do is whatever antigen you put on it and whatever
+
+400
+00:44:04,760 --> 00:44:12,200
+organ expresses that antigen, it will go destroy the whole organ, taking down every normal cell of
+
+401
+00:44:12,200 --> 00:44:19,640
+that organ also. So basically, the only thing CAR T is working for right now is B cells because
+
+402
+00:44:19,640 --> 00:44:25,560
+you can replace B cell function after you kill every single last B cell in the body. But you
+
+403
+00:44:25,560 --> 00:44:31,480
+can't do that to pancreatic cancer because it will kill the whole pancreas and then you can't
+
+404
+00:44:31,480 --> 00:44:37,720
+replace the function. But how many times have you heard people say this? Well, I mean, do you hold
+
+405
+00:44:37,720 --> 00:44:43,320
+out hope that some of the case studies, because we've seen the case studies, the calangiocarcinoma
+
+406
+00:44:43,320 --> 00:44:48,040
+here, the pancreatic cancer there, the colon cancer, the breast cancer there, where they are
+
+407
+00:44:48,040 --> 00:44:53,640
+able to identify the unique antigen of the cancer. And by unique, I mean, distinguishing
+
+408
+00:44:53,640 --> 00:45:00,360
+antigen of the cancer such that you can send the T cell loose and it can eradicate not the entire
+
+409
+00:45:00,360 --> 00:45:07,240
+biliary system, but just the cancerous piece. And to be clear, I'm not speaking one way or the other,
+
+410
+00:45:07,240 --> 00:45:14,280
+other than to sort of help me think through the, is this a sufficient proof of principle that we
+
+411
+00:45:14,280 --> 00:45:20,840
+believe that adaptive cell therapy of which cars are the most far and away the most prominent
+
+412
+00:45:20,840 --> 00:45:24,440
+and checkpoint inhibitors are really going to be the way of the future. You didn't allude to it.
+
+413
+00:45:24,440 --> 00:45:30,040
+You and I know this as well as Tuesday follows Monday. There are also very nasty side effects
+
+414
+00:45:30,040 --> 00:45:34,920
+of checkpoint inhibitors. And for every patient we see who has a response to them, some of the
+
+415
+00:45:34,920 --> 00:45:41,320
+autoimmunity can be quite devastating. And in fact, vitiligo for a patient with melanoma might
+
+416
+00:45:41,320 --> 00:45:46,920
+not be such a fatal form of autoimmunity, but certainly when people have life-threatening
+
+417
+00:45:46,920 --> 00:45:52,920
+enterocolitis, yes, they're cancer free, but they die from bowel disease that follows. So certainly
+
+418
+00:45:52,920 --> 00:45:59,400
+not to suggest these are benign. I guess the point is, do they represent a demonstrable step function
+
+419
+00:45:59,400 --> 00:46:07,320
+forward that now puts us in a new era of, okay, we've found a new beast that goes beyond surgery,
+
+420
+00:46:07,400 --> 00:46:13,960
+radiation, and indiscriminately killing chemicals. How do we figure out how to tame this new beast?
+
+421
+00:46:13,960 --> 00:46:17,480
+Does that resonate? No, not particularly because
+
+422
+00:46:17,480 --> 00:46:22,360
+Steve Rosenberg has found this ages ago that this is the right way to go. But yes,
+
+423
+00:46:22,360 --> 00:46:28,840
+we are making advances and I do think that all of these need to continue. I'm not saying we should
+
+424
+00:46:28,840 --> 00:46:34,440
+stop any of this. I'm just pointing out where the field is right now. I think these are fantastic.
+
+425
+00:46:34,520 --> 00:46:42,280
+They should continue what needs to stop. Here's the problem. 95% of experimental
+
+426
+00:46:42,280 --> 00:46:51,720
+agents that we bring to the bedside today, 95% in cancer fail completely. The 5% that succeed
+
+427
+00:46:51,720 --> 00:47:00,040
+should have failed because they are only prolonging survival for 20 to 30% of patients
+
+428
+00:47:01,000 --> 00:47:09,320
+by a few months. And you began by asking me, what is progression-free survival? I mean,
+
+429
+00:47:09,320 --> 00:47:15,160
+we don't even talk about survival anymore. We just talk about progression-free survival because
+
+430
+00:47:15,160 --> 00:47:22,840
+survival has become too big of an obstacle to overcome. So as long as you don't see the tumor,
+
+431
+00:47:22,840 --> 00:47:26,840
+but the patient dies within the same four months or five months, it doesn't matter,
+
+432
+00:47:26,920 --> 00:47:32,120
+but you didn't see the tumor for two and a half months, that's progression-free survival.
+
+433
+00:47:32,120 --> 00:47:37,640
+So this drug should be approved and the sponsors of the drug will make billions of dollars.
+
+434
+00:47:37,640 --> 00:47:46,200
+Let's stop on that because it is just so darn important. Let's use a tangible example. Avastin.
+
+435
+00:47:46,200 --> 00:47:49,960
+Okay. I don't want to put you on the spot because I don't remember the numbers of Avastin,
+
+436
+00:47:49,960 --> 00:47:52,840
+but the only reason I bring it up, is that an okay? Do you know enough of the examples
+
+437
+00:47:52,840 --> 00:47:58,840
+that I could use Avastin? I mean, I don't use it myself, but I do know that it's one of the more
+
+438
+00:47:58,840 --> 00:48:03,960
+successful. We could pick another one that you know. I'll explain. So Avastin was a blockbuster
+
+439
+00:48:03,960 --> 00:48:09,560
+in the sense that it was the first of its kind and it explored a brand new idea. So Judah Folkman
+
+440
+00:48:09,560 --> 00:48:14,840
+had this idea that many others followed in the footsteps of, which is, look, if a tumor can't
+
+441
+00:48:14,840 --> 00:48:21,400
+make new blood vessels, it can't get very big. Therefore, the ability to make new blood vessels
+
+442
+00:48:21,480 --> 00:48:28,440
+must be of paramount importance to metastases. And therefore, this concept of neovascularization
+
+443
+00:48:28,440 --> 00:48:34,920
+became key. And so this was a beautiful story of science and pursuing this thesis and doing all of
+
+444
+00:48:34,920 --> 00:48:39,240
+these experiments. And one step leads to another. And before you know it, you have a whole class
+
+445
+00:48:39,240 --> 00:48:46,520
+of drugs called anti-veg F drugs of which this drug, and I assume it was Genentech's drug. I can't
+
+446
+00:48:46,520 --> 00:48:51,240
+even remember at this point, but I think it was Genentech that was the first in line. They have
+
+447
+00:48:51,240 --> 00:48:57,880
+this drug Avastin and I believe colorectal cancer was one of the first places they looked. Again,
+
+448
+00:48:57,880 --> 00:49:02,760
+in the show notes, we'll have the story more accurately laid out. But the gist of what I
+
+449
+00:49:02,760 --> 00:49:09,080
+remember, Ezra, is the following. You took a patient that had metastatic colorectal cancer,
+
+450
+00:49:09,080 --> 00:49:14,840
+which again means this is a patient who had a colon cancer that has left the colon, left the
+
+451
+00:49:14,840 --> 00:49:21,000
+lymph nodes. It is now somewhere else, usually in the liver. This is a patient who is absolutely
+
+452
+00:49:21,080 --> 00:49:26,040
+not going to live. And if 1% of those people live five years, that would be very generous.
+
+453
+00:49:26,680 --> 00:49:32,120
+And this is asking the question, if you use all of the standard therapies we have today,
+
+454
+00:49:32,120 --> 00:49:39,400
+the entire cocktail of chemotherapies, and then you do the same thing, but you also use Avastin,
+
+455
+00:49:39,400 --> 00:49:45,080
+how much do you change the median survival? Notice we don't use mean because that can be
+
+456
+00:49:45,160 --> 00:49:52,120
+very impacted by outliers. We use median. And I believe the answer with Avastin was on the order
+
+457
+00:49:52,120 --> 00:49:57,960
+of four months. With Avastin, which cost at the time in the neighborhood of $100,000,
+
+458
+00:49:59,080 --> 00:50:05,640
+it was going to extend median survival for those patients by four months. And what I remember most
+
+459
+00:50:05,640 --> 00:50:12,040
+about the discussion, Ezra, is it prompted a discussion about what is the value of a life.
+
+460
+00:50:13,000 --> 00:50:18,200
+And different countries around the world, especially countries without private insurance,
+
+461
+00:50:18,200 --> 00:50:23,960
+but instead those with public insurance, had to put something called a QALY at the front of that
+
+462
+00:50:23,960 --> 00:50:31,080
+discussion, a quality adjusted life year, which says, do we believe that the cost of a life is
+
+463
+00:50:31,080 --> 00:50:38,280
+worth X hundred thousand dollars, such that a publicly funded insurance for health would be
+
+464
+00:50:38,280 --> 00:50:42,280
+accountable to spend that money. And if you don't like that example, because I might not have the
+
+465
+00:50:42,280 --> 00:50:48,760
+details right, that you can use a thought experiment, which is if I told you, Ezra, you have a condition
+
+466
+00:50:48,760 --> 00:50:53,400
+that is going to allow you to die, but I could extend your life by a month and it's going to
+
+467
+00:50:53,400 --> 00:51:00,440
+cost a billion dollars, do we as a society think that that's a reasonable cost for society to bear
+
+468
+00:51:00,440 --> 00:51:06,040
+on your account, despite how wonderful you are and how much amazing stuff you could do with an extra
+
+469
+00:51:06,040 --> 00:51:12,680
+month. So it started to get into this discussion of the cost benefit analysis, which gets to that
+
+470
+00:51:12,680 --> 00:51:17,880
+return on investment. Do you want to use a better example, a more recent example than Avastin, to
+
+471
+00:51:17,880 --> 00:51:26,600
+illustrate how relatively small changes in median survival or disease free progression, and maybe
+
+472
+00:51:26,600 --> 00:51:30,840
+you can explain the difference between those two, because you and I will go back and forth between
+
+473
+00:51:30,920 --> 00:51:35,320
+them. But I think the listener could be confused. And then again, just talk about the literal
+
+474
+00:51:35,320 --> 00:51:41,800
+economics of that, because I do think people will be staggered by what the actual numbers are.
+
+475
+00:51:43,000 --> 00:51:49,000
+You know, John Dunn said something very beautiful. So when you said give a literal example, I'm going
+
+476
+00:51:49,000 --> 00:52:00,680
+to give a literary example. No man is an island, entire of itself, each a part of a piece of the
+
+477
+00:52:00,680 --> 00:52:08,760
+continent, part of the main. Any man's death diminishes me. That's what you said. What is a
+
+478
+00:52:08,760 --> 00:52:19,000
+human life worth? John Dunn says any man's death diminishes me because I am for mankind and
+
+479
+00:52:19,000 --> 00:52:27,160
+therefore never sent to know for whom the bell tolls. It tolls for thee. Of course, every human
+
+480
+00:52:27,160 --> 00:52:34,520
+life is important. And of course, every oncologist is working to try and save every human life. I'm
+
+481
+00:52:34,520 --> 00:52:41,240
+not saying we are deliberately not doing enough. In fact, in all of my career in this country in
+
+482
+00:52:41,240 --> 00:52:48,200
+the last 43 years, I have yet to meet an oncologist who didn't care for their patients. Never. They're
+
+483
+00:52:48,200 --> 00:52:56,440
+all trying their hardest. But it's like trying to use a map to find your way in London, but you're
+
+484
+00:52:56,520 --> 00:53:04,040
+using a map of Paris. It's not going to work. So how have we become so misdirected?
+
+485
+00:53:05,080 --> 00:53:11,320
+You asked me to give a more recent example or something I'm familiar with. I started,
+
+486
+00:53:11,320 --> 00:53:18,600
+landed in this country in 1977 as a fresh medical graduate. Before my residency could start,
+
+487
+00:53:19,400 --> 00:53:23,720
+I had six months and I'm not someone who can sit around at home doing nothing.
+
+488
+00:53:24,440 --> 00:53:31,960
+So I asked my sister, my older sister, who had just finished a rotation. She was a pediatric
+
+489
+00:53:31,960 --> 00:53:37,560
+resident in Buffalo, New York. I was staying with her and she just finished a rotation at
+
+490
+00:53:37,560 --> 00:53:44,040
+Roswell Park Cancer Institute. And I said to her that, you know, all the oncologists there,
+
+491
+00:53:44,040 --> 00:53:50,040
+can you get me in there and I'll just work for six months that I have. So she went and spoke to
+
+492
+00:53:50,040 --> 00:53:54,120
+her boss, Arne Freeman, and he said, well, if she's half as good as you, we'll take her.
+
+493
+00:53:54,920 --> 00:54:02,120
+So I joined pediatric oncology at Roswell Park. But within a couple of months, it was very clear
+
+494
+00:54:02,120 --> 00:54:07,320
+I couldn't handle it. I couldn't last because I was crying the whole time. I just can't handle
+
+495
+00:54:07,320 --> 00:54:14,440
+children being sick. So my sister's friend who happened to be my boss at the time, Judy Oaks,
+
+496
+00:54:14,440 --> 00:54:19,320
+one day just took me by hand because I was hiding in a room crying the way I had lost a
+
+497
+00:54:19,320 --> 00:54:26,280
+four-year-old that day and took me to the adult oncology unit where I met Harvey Priceler,
+
+498
+00:54:26,280 --> 00:54:31,800
+who was later to become my husband. And Harvey was heading the leukemia program at the time
+
+499
+00:54:31,800 --> 00:54:40,360
+at Roswell Park. And he took me on. I started working on the wards immediately. At that time,
+
+500
+00:54:40,360 --> 00:54:47,720
+we used to have 20, 30 AML patients, acute myeloid leukemia patients on the floor. And I started
+
+501
+00:54:47,720 --> 00:54:55,480
+seeing and working completely as a fellow. I was hired as a fellow. We were using two drugs to treat
+
+502
+00:54:55,480 --> 00:55:04,680
+AML back then in 1977, a combination of Aracy and Donomycin. They were popularly known as
+
+503
+00:55:04,680 --> 00:55:09,960
+seven and three because you give seven days of one and three days of another. By the way, Harvey
+
+504
+00:55:09,960 --> 00:55:17,320
+and I started to use this seven and three as a kind of a code word between us. We would be sitting
+
+505
+00:55:17,320 --> 00:55:22,200
+in a meeting and Harvey would suddenly leave nowhere and say to me, as that person is doing
+
+506
+00:55:22,200 --> 00:55:27,800
+seven and three. And for us, that seven and three meant somebody is using seven words when three
+
+507
+00:55:27,800 --> 00:55:37,080
+would suffice. Another mark of a great writer. So we were using seven and three in 1977. Guess
+
+508
+00:55:37,080 --> 00:55:46,920
+what we are using in 2020, seven and three. All these years, imagine the thousands of patients
+
+509
+00:55:46,920 --> 00:55:56,840
+I personally have had to see and describe the same side effects and the same potential benefits
+
+510
+00:55:56,840 --> 00:56:06,600
+they will have. Now, when I started the survival was 10% five-year survival with seven and three.
+
+511
+00:56:06,600 --> 00:56:12,840
+Today with the same drug, it's about 26%. Why has it increased? Because the supportive care
+
+512
+00:56:12,840 --> 00:56:20,680
+measures are better. We have better antibiotics. We can give more platelets and red cell transfusions
+
+513
+00:56:20,680 --> 00:56:26,280
+are easier to give. We have learned to manage better. That's it. The supportive care is better,
+
+514
+00:56:26,280 --> 00:56:33,960
+but the backbone of treatment is the same seven and three. So now a company comes up with combining
+
+515
+00:56:33,960 --> 00:56:41,720
+these two drugs, seven and three, in a fatty envelope. So they come up with this new drug now
+
+516
+00:56:41,720 --> 00:56:49,960
+and it's the same seven and three, but it gets approved in this country and this approved form,
+
+517
+00:56:49,960 --> 00:56:56,120
+which is, I believe, for a little older patients like 60 to 75 years, if you have acute myeloid
+
+518
+00:56:56,120 --> 00:57:03,240
+eukemia, you can get this combination of seven and three, which is inside this fatty capsule.
+
+519
+00:57:03,880 --> 00:57:11,480
+Now the regular seven and three costs $5,000. $5,000 for how long? For the seven days and three.
+
+520
+00:57:11,480 --> 00:57:18,520
+For the seven plus the three days for one cycle. Okay. $5,000. This fancy version, seven and three
+
+521
+00:57:18,520 --> 00:57:27,480
+costs $45,000. And do you know what is the improvement in survival under the best conditions
+
+522
+00:57:27,480 --> 00:57:36,600
+when they ran the study where you select patients, the eligibility criteria are so stringent.
+
+523
+00:57:36,600 --> 00:57:42,440
+Their kidneys have to be working. Their liver has to be working. Their lungs have to be at capacity,
+
+524
+00:57:42,440 --> 00:57:48,920
+et cetera, et cetera. You know how we choose and select patients for clinical trials. They are the
+
+525
+00:57:48,920 --> 00:57:53,800
+best of the best. Right. They have to be cherry picked. They represent the upper limit of what
+
+526
+00:57:53,800 --> 00:58:01,160
+you expect in the real world. Yes. And even in those cherry pick patients, the basis on which
+
+527
+00:58:01,160 --> 00:58:08,840
+this $45,000 combination is approved is an improvement in survival by 3.7 months. That
+
+528
+00:58:08,840 --> 00:58:14,680
+is a median improvement in survival, which means a fraction of the patients, like maybe 30%
+
+529
+00:58:16,520 --> 00:58:22,840
+experience 3.7 months improvement in survival. What does that mean? Median survival. So even
+
+530
+00:58:22,840 --> 00:58:30,040
+out of those 30%, half of them didn't even experience that, but we are paying $45,000.
+
+531
+00:58:30,040 --> 00:58:38,360
+Now, if I don't prescribe that drug and continue to give seven and three, then I can go to jail
+
+532
+00:58:39,560 --> 00:58:45,000
+because tomorrow if the patient dies, which they eventually do because it's an older age group,
+
+533
+00:58:46,200 --> 00:58:52,440
+then the family will sue me. Dr. Raza, this drug was available. It could have given 3.7 more months.
+
+534
+00:58:52,440 --> 00:58:58,520
+So now the decisions that we are making as individual oncologists are not being made by us.
+
+535
+00:58:59,000 --> 00:59:07,080
+They are made just by key opinion leaders or the very institutions like FDA, which are supposed
+
+536
+00:59:07,080 --> 00:59:15,240
+to protect the patients, have fallen a victim to this kind of propaganda where under the pressure
+
+537
+00:59:15,240 --> 00:59:23,480
+of advocacy groups who are demanding more drugs for cancer patients at any cost. Just to be able
+
+538
+00:59:23,480 --> 00:59:30,360
+to say that we have 72 new drugs being approved this year for cancer. Look at the fantastic
+
+539
+00:59:30,360 --> 00:59:38,040
+advances we have made. So under pressure from advocacy groups, from patients, the FDA has
+
+540
+00:59:38,040 --> 00:59:45,720
+lowered its bar of approving drugs to laughable criteria. It would be laughable if it wasn't so
+
+541
+00:59:45,720 --> 00:59:53,400
+tragic. Here you have 3.7 months median improvement in survival for a fraction of the patients for
+
+542
+00:59:54,280 --> 01:00:04,280
+$45,000 instead of $5,000. Are you surprised then that 42% of cancer patients who are diagnosed today
+
+543
+01:00:04,920 --> 01:00:13,240
+will be completely financially ruined by the second year of their diagnosis? 50% of breast cancer
+
+544
+01:00:13,240 --> 01:00:20,600
+women are being hounded by collection agencies with stage four cancer. Your friend Marty McCary
+
+545
+01:00:20,600 --> 01:00:27,160
+has written a fabulous book, The Price We Pay. People should read that book and see the obscenity
+
+546
+01:00:27,160 --> 01:00:35,240
+we have reached. The vulgarity of it all, completely not thinking about patients at all,
+
+547
+01:00:35,240 --> 01:00:42,280
+talking in terms of, well, Ezra, 3.7 months meant a lot to my patient who could go and attend his
+
+548
+01:00:42,280 --> 01:00:48,600
+son's graduation or grandson's bar mitzvah. Yes, of course, like I said, John Dunn said,
+
+549
+01:00:48,600 --> 01:00:54,600
+every human life is important, but you asked the question earlier, at what cost to the others?
+
+550
+01:00:55,560 --> 01:01:01,320
+I mean, I think Marty's work does a great job of explaining this. And the only way I can sort of
+
+551
+01:01:01,320 --> 01:01:07,880
+explain it is I think the United States has basically become the one that has to subsidize
+
+552
+01:01:07,880 --> 01:01:13,080
+the rest of the world in terms of medical research. I mean, that's the only way I can sort of make
+
+553
+01:01:13,080 --> 01:01:18,040
+sense of how outrageous these costs are. By the way, that's not a justification. So I could
+
+554
+01:01:18,600 --> 01:01:24,600
+go on for days as to how frustrating it is, but it has basically become a form of subsidy. And I've
+
+555
+01:01:24,600 --> 01:01:31,320
+been trying to get my head around what are the biggest drivers of spending in the United States,
+
+556
+01:01:31,320 --> 01:01:38,600
+because overall as a country, we don't get a lot in exchange for what we give. That's going to be
+
+557
+01:01:38,600 --> 01:01:44,520
+a very polarizing comment I just made. So let me clarify it. If you take someone in the top income
+
+558
+01:01:44,520 --> 01:01:51,320
+tax bracket in Canada, by all estimates, a socialized country, you compare them to someone
+
+559
+01:01:51,320 --> 01:01:55,880
+in the top income tax bracket in the United States, especially in a high tax state, they're paying
+
+560
+01:01:55,880 --> 01:02:01,320
+about the same amount. The difference, however, in what they get is fundamentally quite different. In
+
+561
+01:02:01,320 --> 01:02:06,120
+Canada, everybody gets health insurance, no ifs, ands, or buts. Everybody basically gets
+
+562
+01:02:06,120 --> 01:02:11,720
+exceptional education at a fraction of the cost, homelessness, mental health. A lot of these issues
+
+563
+01:02:11,720 --> 01:02:16,680
+are just so much better. I still think, I would still make the case, by the way, that the extremes
+
+564
+01:02:16,680 --> 01:02:21,240
+of health care are better in the United States. I would much rather receive my medical care in the
+
+565
+01:02:21,240 --> 01:02:26,440
+United States than in Canada. But ultimately it points to a gross inefficiency in terms of how
+
+566
+01:02:26,440 --> 01:02:31,240
+those dollars that are collected are then turned around and spent. And I could probably point to
+
+567
+01:02:31,240 --> 01:02:35,640
+three things that the United States is disproportionately spending money on,
+
+568
+01:02:35,640 --> 01:02:40,520
+that other countries are not spending money on. And it's those three things that are creating the
+
+569
+01:02:40,520 --> 01:02:46,040
+biggest gap, and one of them is health care. There's simply no way to avoid it. And within
+
+570
+01:02:46,040 --> 01:02:53,000
+the morass of health care, drugs might be one of the most egregious examples. There are others that
+
+571
+01:02:53,000 --> 01:02:58,120
+are less sexy to point your finger at. But as you note, I mean, Marty makes a very good point that
+
+572
+01:02:58,120 --> 01:03:04,360
+the drug story is a revolting one, actually. After Harvey died with a five-year-long battle
+
+573
+01:03:05,320 --> 01:03:11,320
+with leukemia. You were in your early 40s at this point in time, basically, when you're widowed?
+
+574
+01:03:11,320 --> 01:03:18,520
+When he was diagnosed, yes. And we had a four-year-old daughter when he was diagnosed. So after he died,
+
+575
+01:03:18,520 --> 01:03:23,680
+my younger sister, who's now the head of women's radiology at the Brigham, she said,
+
+576
+01:03:23,680 --> 01:03:29,600
+well, I have to get you out of Chicago because this five years of thinking of nothing,
+
+577
+01:03:30,000 --> 01:03:37,680
+concentrating continuously on this one thought only, which was Harvey and his illness.
+
+578
+01:03:38,400 --> 01:03:46,640
+So we went to England because, well, London is one of my favorite cities. And I wanted to take my
+
+579
+01:03:46,640 --> 01:03:54,640
+daughter to see Reading jail because I'm a big Oscar Wilde fan. And we went to Reading. And
+
+580
+01:03:55,600 --> 01:04:00,480
+the reason I'm telling you this is one of the most gorgeous ballads ever written,
+
+581
+01:04:00,480 --> 01:04:08,160
+the ballad of Reading jail, the refrain is very beautiful. Yet all men kill the things they love
+
+582
+01:04:09,040 --> 01:04:17,520
+by each let this be heard. Some do it with a bitter look and some with a flattering word.
+
+583
+01:04:18,240 --> 01:04:26,000
+The coward does it with a kiss, the brave man with the sword, but each man kills the thing they love.
+
+584
+01:04:27,200 --> 01:04:34,160
+Let my each let this be heard. So Wilde wrote this poem when he was in this ballad, when he was
+
+585
+01:04:34,160 --> 01:04:40,160
+incarcerated in jail. And when he came out, his boyfriend, Lord Alfred Douglas asked him,
+
+586
+01:04:40,160 --> 01:04:45,200
+what do you mean by this refrain? All men kill the things they love. What does that even mean?
+
+587
+01:04:45,600 --> 01:04:50,800
+All men kill the things they love. And while tried to just diss him and said, well, nothing,
+
+588
+01:04:50,800 --> 01:04:56,880
+you know, it's just whatever. But Bozy, Alfred Douglas kept insisting, no, you have to tell me
+
+589
+01:04:56,880 --> 01:05:03,600
+what this means. So you know what Wilde said? He said, look, it's like this. When we meet someone
+
+590
+01:05:04,240 --> 01:05:11,040
+or we have an idea, we make immediately an impression in our mind. We meet them the next
+
+591
+01:05:11,040 --> 01:05:18,400
+time and they don't correspond with the impression we had. So instead of correcting
+
+592
+01:05:18,400 --> 01:05:25,120
+our impression, we start trying to change the person. And this is how we enter this cycle of
+
+593
+01:05:25,120 --> 01:05:32,000
+self-delusion and kill the thing that we love. Why am I telling you all this is because
+
+594
+01:05:33,200 --> 01:05:39,600
+we started with good intentions, Peter. But somehow, remember in the beginning, I said,
+
+595
+01:05:39,600 --> 01:05:46,960
+I'm looking for an adult. Why aren't we taking stock of the situation? Why is it that scientists
+
+596
+01:05:47,840 --> 01:05:55,200
+who are going to now, let's say, attack the metabolic pathway of cancer cells to improve
+
+597
+01:05:55,200 --> 01:06:05,200
+the efficiency of chemotherapy by simultaneously changing the dietary patterns for the patient?
+
+598
+01:06:05,360 --> 01:06:14,320
+For the patient, a very good target to think about. But before even a phase one trial has started,
+
+599
+01:06:14,320 --> 01:06:20,320
+they are monetizing it, making companies out of it. I mean, yes, this is a capitalist system.
+
+600
+01:06:20,320 --> 01:06:27,360
+Everything is legal. Everything is allowed. But then it somehow leaves such a bad taste in my
+
+601
+01:06:27,440 --> 01:06:35,440
+mouth all the time. All the time, it's all about think about it. You are never going to be able to
+
+602
+01:06:35,440 --> 01:06:44,320
+cure an advanced cancer of the kind that Andrew had by a diet of any sort, or even by supplementing
+
+603
+01:06:44,320 --> 01:06:50,960
+chemotherapy he's getting with a diet of any sort. All you are aiming for is improving their survival
+
+604
+01:06:50,960 --> 01:06:59,200
+by a few months. But more important is to make companies. Why? Why have we come to this?
+
+605
+01:06:59,200 --> 01:07:04,080
+I mean, I think in defense of that type of idea, which I don't really know about specifically,
+
+606
+01:07:04,720 --> 01:07:11,440
+they would probably argue changing nutrition, if a change in nutrition could have a comparable
+
+607
+01:07:11,440 --> 01:07:17,360
+benefit to a change to the use of a drug, it's a fraction of the cost and presumably without the
+
+608
+01:07:17,360 --> 01:07:20,720
+destruction of the quality of life. I mean, one of the things I'd like you to come back to,
+
+609
+01:07:20,720 --> 01:07:26,000
+Asra, is- Can you try and question the idea, Peter? Sorry, I'm not questioning the idea at all.
+
+610
+01:07:26,560 --> 01:07:31,280
+I'm questioning why do you have to monetize everything, is what I'm questioning.
+
+611
+01:07:31,840 --> 01:07:41,040
+Yeah. I mean, I was going to ask you the same question, which is, how do we think about the
+
+612
+01:07:41,040 --> 01:07:49,360
+role of pharma in this entire landscape? I mean, it can't be denied, which is progress has to be
+
+613
+01:07:49,360 --> 01:07:55,440
+funded by somebody. You have different animals, so you have public funding, which has been the
+
+614
+01:07:55,440 --> 01:08:02,560
+majority of it through NIH via NCI, which is by far the largest of the institutes within NIH,
+
+615
+01:08:02,560 --> 01:08:07,680
+and has done the lion's share of the cancer funding. So I actually did the analysis five
+
+616
+01:08:07,760 --> 01:08:13,760
+years ago, which means it's probably dated, but directionally correct. But if you went back to
+
+617
+01:08:13,760 --> 01:08:22,320
+the declaration by Richard Nixon of the war on cancer, so circa 7172, more than half of the
+
+618
+01:08:22,320 --> 01:08:29,600
+total research dollars in the world into oncology funneled through NCI, slightly over half was my
+
+619
+01:08:29,600 --> 01:08:34,480
+recollection. Again, I could be a little wrong on that, but that's a big piece of it. Of course,
+
+620
+01:08:34,480 --> 01:08:41,520
+pharma, as you know, has really outsourced R&D. They just don't do R&D anymore the way they used
+
+621
+01:08:41,520 --> 01:08:50,080
+to. So they basically now acquire R&D products. And so smaller and smaller companies, which means
+
+622
+01:08:50,080 --> 01:08:56,480
+it's shifting more to venture type investing and biotech investing, is taking that early stage one,
+
+623
+01:08:56,480 --> 01:09:03,840
+early stage two risk, at which point pharma brings in for the huge capital allocation required for
+
+624
+01:09:03,920 --> 01:09:10,240
+late stage two and stage three approval that gets the drug approval, which then gets to the point
+
+625
+01:09:10,240 --> 01:09:15,840
+you raised, which is you've got these two drugs that have been off patent for since Moses was
+
+626
+01:09:15,840 --> 01:09:20,000
+throwing tablets at people. What are you going to do with it? Well, you could keep selling them for
+
+627
+01:09:20,000 --> 01:09:28,960
+$5,000 or you could repurpose them and increase by nearly 10 X. And I know that it sounds egregious.
+
+628
+01:09:28,960 --> 01:09:33,680
+I don't have an answer, though, because I don't really like this is almost to me a question of
+
+629
+01:09:33,680 --> 01:09:40,160
+economics is the answer that all of this stuff has to be done publicly so that shareholder value is no
+
+630
+01:09:40,160 --> 01:09:46,000
+longer the thing that's being optimized for, because as long as these companies have to answer
+
+631
+01:09:46,000 --> 01:09:52,400
+to shareholders, I don't think they'll ever figure out a way to put the woman with breast cancer
+
+632
+01:09:52,400 --> 01:09:57,200
+who's going to go bankrupt ahead of their shareholder as awful as that sounds. I think
+
+633
+01:09:58,000 --> 01:10:01,840
+they're always going to say I have a fiduciary responsibility to my shareholder and that is to
+
+634
+01:10:01,840 --> 01:10:07,280
+maximize the price. And I do think the government is doing a better job at catching the most
+
+635
+01:10:07,280 --> 01:10:14,400
+egregious examples of company that are grossly exploiting this. But in the end, is Kaitruta
+
+636
+01:10:14,400 --> 01:10:20,080
+really worth what it's being charged today? I don't know how to answer that question. I really
+
+637
+01:10:20,080 --> 01:10:26,080
+have no clue how to answer that question. And you've more eloquently than me said, every life
+
+638
+01:10:26,080 --> 01:10:31,200
+is valuable. And that includes the lives that remain, which I think is a very important point.
+
+639
+01:10:31,200 --> 01:10:36,160
+That's the counterpoint that's never made. It's not just the life of the individual that we're
+
+640
+01:10:36,160 --> 01:10:42,800
+debating extending by 3.1 months at some unbelievable sum. It's the lives of everybody that
+
+641
+01:10:42,800 --> 01:10:47,840
+remains and what it says about their social security check and what it says about their
+
+642
+01:10:47,840 --> 01:10:54,240
+schools and what it says about their health care. Wait, I want to answer this. If you take a
+
+643
+01:10:54,240 --> 01:11:01,280
+living frog and you throw it in boiling water, it will jump out. But if you put it in cold water
+
+644
+01:11:01,280 --> 01:11:08,960
+and start heating it slowly, it will die in that because it has been desensitized so slowly.
+
+645
+01:11:08,960 --> 01:11:14,800
+We began all these things with good intention. That's what I keep saying to you over and over.
+
+646
+01:11:15,440 --> 01:11:22,880
+Some of the saddest things to me are this. 95% drugs we bring to the website fail. Why? Because
+
+647
+01:11:22,880 --> 01:11:31,040
+the pre-testing platform we are using are so artificial. We are taking a very complex disease
+
+648
+01:11:31,040 --> 01:11:38,880
+like cancer and we are trying to reduce it by reductionist approaches into trying to replicate
+
+649
+01:11:38,880 --> 01:11:46,480
+this complexity in mouse models, in tissue culture cell lines. And if those don't work, we add layers
+
+650
+01:11:46,480 --> 01:11:53,840
+upon layers of complexity to it by genetic engineering, immune compromising of the animal.
+
+651
+01:11:54,480 --> 01:12:01,840
+You know, after reading my book, the first cell, a young woman wrote to me saying, Dr. Raza, I'm a
+
+652
+01:12:01,840 --> 01:12:11,040
+PhD student. I'm working on this cell line model of breast cancer, testing drugs against it, but
+
+653
+01:12:11,040 --> 01:12:21,200
+using a two and three dimensional in vitro system. And once this is successful, that the drugs work
+
+654
+01:12:21,200 --> 01:12:26,480
+against the cell lines, then I will go to the mouse model. And if that works, then I have to go to
+
+655
+01:12:26,480 --> 01:12:32,800
+humans. But reading your book, I realize that it's all a waste of time. What should I do? Is this even
+
+656
+01:12:32,800 --> 01:12:41,520
+something I should spend the next 10 years of my life doing? But 90% of research is still funding
+
+657
+01:12:41,520 --> 01:12:46,880
+things, research dollars. You are talking about NCI dollars. What are the funding for God's sake?
+
+658
+01:12:46,880 --> 01:12:55,120
+The same old, same old ancient platforms which have shown a 95% failure rate and the 5% success
+
+659
+01:12:55,120 --> 01:13:01,440
+is ludicrous. Secondly. Before you go, can you say more about that? Actually, I'm glad you brought
+
+660
+01:13:01,440 --> 01:13:06,240
+this up because I sometimes forget that I know a lot of the things you're talking about and I take
+
+661
+01:13:06,240 --> 01:13:11,360
+them for granted. But I think this is worth a bit of a detour if you don't mind. Explain to people
+
+662
+01:13:12,080 --> 01:13:17,920
+what that PhD student was doing. What is a day in the life for her or what is she going to spend
+
+663
+01:13:17,920 --> 01:13:25,760
+years doing and how does that sort of model fall short? I think you can explain it better than me
+
+664
+01:13:25,840 --> 01:13:31,600
+because you have spent so much time in Dr. Rosenberg's lab but very simply stated when we
+
+665
+01:13:31,600 --> 01:13:38,400
+want to try and find new drugs for cancer, we can't give drugs directly to humans. So we try to first
+
+666
+01:13:38,400 --> 01:13:44,800
+give them to something in our lab. What should that something be? Well, it started by taking
+
+667
+01:13:44,800 --> 01:13:51,680
+patients tumor cells but they don't last very long in our cultures in the lab. So then that becomes a
+
+668
+01:13:51,680 --> 01:14:00,240
+problem. How should we perpetuate these cells in culture? By serendipity, some cancer cells began
+
+669
+01:14:00,240 --> 01:14:07,680
+to grow in the labs and one of the first was the famous hala cells from a patient with cervical
+
+670
+01:14:07,680 --> 01:14:14,640
+cancer and these cells grew so well that they became immortalized. They self-perpetuated. They
+
+671
+01:14:14,640 --> 01:14:21,760
+can be grown from flask to flask, transferred from lab to lab. They can be put into mice and grow.
+
+672
+01:14:21,760 --> 01:14:29,040
+And so all this reproducible system that became available is called a tissue culture cell line
+
+673
+01:14:29,040 --> 01:14:35,520
+and we learned with time to make more and more of these. So you make a pancreatic cancer now just
+
+674
+01:14:35,520 --> 01:14:41,840
+like the hala cell with cervical cancer. You take a ovarian cancer, a pancreatic cancer, you grow them
+
+675
+01:14:41,840 --> 01:14:48,000
+and one of them will by chance mutate enough to become immortalized and then become the tissue
+
+676
+01:14:48,000 --> 01:14:54,320
+culture line. Now you can test drugs against it. But one of the first things that I have written
+
+677
+01:14:54,320 --> 01:15:02,640
+in my book in the first chapter is that by using these cell lines, when it was tested to see what
+
+678
+01:15:02,640 --> 01:15:10,720
+kind of genes are they expressing, it turns out that instead of expressing genes that were faithful
+
+679
+01:15:10,800 --> 01:15:17,040
+to the tissue of origin from which they came, for example, an ovarian cancer cell line should be
+
+680
+01:15:17,040 --> 01:15:22,720
+expressing genes that are expressed in ovarian cancer. Pancreatic cancer cell lines should be
+
+681
+01:15:22,720 --> 01:15:30,240
+expressing pancreatic genes. Instead, it turned out that there has been a transcriptomic drift
+
+682
+01:15:30,960 --> 01:15:39,200
+that basically all the cell lines, irrespective of their tissue of origin, express similar genes
+
+683
+01:15:39,200 --> 01:15:46,880
+that make them survivable under adverse in vitro conditions. So let me explain one other thing
+
+684
+01:15:46,880 --> 01:15:52,240
+for the listener here, which kind of ties in another theme of yours, which is because when you
+
+685
+01:15:52,240 --> 01:15:58,240
+go back to what we learned in the Great War, killing cancer cells is easy. I've had guests
+
+686
+01:15:58,240 --> 01:16:03,040
+on this podcast before who have eloquently stated there's no one sitting in a home right now that
+
+687
+01:16:03,040 --> 01:16:09,680
+doesn't already have 30 chemicals under their sink that will kill every cancer, including the
+
+688
+01:16:09,680 --> 01:16:16,000
+most devastating cancer like the one that killed Andrew. The challenge is killing cancer and not
+
+689
+01:16:16,000 --> 01:16:23,280
+killing everything else. And so now when you fast forward to what you just said, when you have
+
+690
+01:16:23,280 --> 01:16:32,160
+immortalized in vitro cultures that have become so genetically skewed that they no longer actually
+
+691
+01:16:32,160 --> 01:16:39,920
+represent a human cancer, you will learn a lot about what it takes to kill them and not kill them.
+
+692
+01:16:39,920 --> 01:16:46,480
+It just won't be relevant to the species of interest, which is a human being. This is why I
+
+693
+01:16:46,480 --> 01:16:52,240
+read the Oscar Wilde thing to you that all men kill the things they love. We started with a good thing
+
+694
+01:16:52,800 --> 01:16:58,800
+when it didn't correspond to what we were hypothesizing. Instead of changing our concept,
+
+695
+01:16:58,880 --> 01:17:06,000
+we keep tinkering with trying to change the other thing. This is exactly how you kill whatever you
+
+696
+01:17:06,000 --> 01:17:15,280
+started out with. And you know what's worse, Peter, is that 90 percent, nine zero, I want the audience
+
+697
+01:17:15,280 --> 01:17:23,120
+to hear this clearly, 90 percent of the papers published in the highest profile journals of
+
+698
+01:17:23,120 --> 01:17:31,760
+science are irreducible. I didn't know it was that high. It's still that high. Up to 90 percent.
+
+699
+01:17:31,760 --> 01:17:38,640
+Different studies, some show 30 percent, some 80 percent, some 90 percent. It is unconscionable
+
+700
+01:17:39,280 --> 01:17:46,160
+what we are doing. Why are they not reproducible? Because for the same reason, one set of mice don't
+
+701
+01:17:46,160 --> 01:17:53,280
+correspond to another set of mice in another lab. So the point I'm making is 95 percent of your drugs
+
+702
+01:17:53,280 --> 01:17:59,760
+are failing until now, after a quarter of a trillion dollars in research, like you said,
+
+703
+01:18:00,320 --> 01:18:07,280
+that is between six billion dollars a year right now and NCI funding and another six billion from
+
+704
+01:18:07,280 --> 01:18:13,600
+philanthropic funding. Where is all this 12 billion dollars going? And then breast cancer alone raises
+
+705
+01:18:13,600 --> 01:18:20,480
+six billion dollars in funding. And what are they doing? Studying breast cancer cell lines against
+
+706
+01:18:20,480 --> 01:18:27,280
+drugs. Yes, it will get that young lady a PhD eventually, and then she will try to get grants.
+
+707
+01:18:27,280 --> 01:18:33,920
+Eventually she'll get fed up and go to industry. And I must take exception with you condemning the
+
+708
+01:18:33,920 --> 01:18:41,360
+industry. They are the easy target, pharma companies. They are the easiest target. But the system of
+
+709
+01:18:41,360 --> 01:18:48,320
+research and development in America is that somebody like me, who is an academic researcher,
+
+710
+01:18:48,320 --> 01:18:55,920
+will write a grant to NCI. They will fund me for 250,000 dollars a year for three to five years,
+
+711
+01:18:55,920 --> 01:19:03,040
+if I'm lucky. Let's put that in perspective, by the way. By NCI standards, that's a lot. An RO1
+
+712
+01:19:03,040 --> 01:19:09,440
+at this point. What is an RO1 down to now? Is it down to 450,000 a year for four to five years?
+
+713
+01:19:09,440 --> 01:19:15,760
+Yeah. That's almost as big a grant as someone's going to get. Yes. And with that, all you can do
+
+714
+01:19:15,760 --> 01:19:22,480
+is study one gene, one signaling pathway. But let's say I luck out and I find something which I think
+
+715
+01:19:22,480 --> 01:19:29,120
+is looking very encouraging and is a potential target. The next step is obviously to take it to
+
+716
+01:19:29,120 --> 01:19:35,440
+the bedside. But to do that, I have to now test this in mouse models first, in two mammals, in fact,
+
+717
+01:19:35,520 --> 01:19:41,440
+and then to take it to the bedside for a phase one trial, a loan will cost 30 million dollars. And by
+
+718
+01:19:41,440 --> 01:19:47,840
+the time this drug will get approved, will be two and a half billion dollars. Nobody can fund that
+
+719
+01:19:47,840 --> 01:19:54,160
+kind of work except industry. It's a very strange kind of thing where we are strange bedfellows,
+
+720
+01:19:54,160 --> 01:20:00,800
+academics and industry. Academics will develop the biologic insights which are needed to identify
+
+721
+01:20:00,800 --> 01:20:06,640
+targets, but we don't have the bandwidth to take it to the patient. So industry comes in, takes that,
+
+722
+01:20:06,640 --> 01:20:11,680
+but then they have to bring it back to academics because that's where the universities will help
+
+723
+01:20:11,680 --> 01:20:21,120
+accrue patients. So do you today the criterion for recruiting young faculty, the young faculty is
+
+724
+01:20:21,120 --> 01:20:28,160
+complaining to me that Dr. Raza, all the universities where we are applying ask us for is how many
+
+725
+01:20:28,240 --> 01:20:34,080
+clinical trials are you going to open when you can? Yeah, look, it's a symptom of a broader issue,
+
+726
+01:20:34,080 --> 01:20:40,400
+which is the incentives have come out of line. I don't know how to fix that, by the way,
+
+727
+01:20:40,400 --> 01:20:45,600
+but even taking it one step further, look, just the entire system of publishing in academics has
+
+728
+01:20:45,600 --> 01:20:53,120
+become so skewed because you took a good idea, which was wouldn't it be great if scientists would
+
+729
+01:20:53,120 --> 01:20:58,480
+do work, would publish them in journals, would have them peer reviewed, would share knowledge
+
+730
+01:20:58,480 --> 01:21:03,600
+broadly so that others might see it, learn from it and not make the same mistakes and build on
+
+731
+01:21:03,600 --> 01:21:08,880
+the work of others, right? A beautiful idea, you can't disagree with any of it. And by the way,
+
+732
+01:21:08,880 --> 01:21:12,880
+recheck things that have been done to make sure they were done correctly because under different
+
+733
+01:21:12,880 --> 01:21:18,320
+conditions we want to make sure they're reproducible. Okay, understandably then that idea gets extended
+
+734
+01:21:18,320 --> 01:21:25,200
+into this should be a criteria for promotion within the academic system, which invariably turns
+
+735
+01:21:25,200 --> 01:21:32,800
+into an entire cottage industry of garbage journals and garbage study and garbage publications,
+
+736
+01:21:32,800 --> 01:21:39,920
+which are driving up the fraction of studies which can't be reproduced and by the way, the fraction of
+
+737
+01:21:39,920 --> 01:21:46,560
+studies that can't even get cited, they're so insignificant. And so you sort of think, my god,
+
+738
+01:21:47,200 --> 01:21:55,120
+if something as pure and ideal as scientific research and publishing has become so difficult
+
+739
+01:21:55,120 --> 01:22:02,400
+to do, and I don't have a great solution for that, the process you're describing is a logarithmic
+
+740
+01:22:02,400 --> 01:22:09,280
+order in front of that, which is taking research from the so-called bench to the bedside.
+
+741
+01:22:10,240 --> 01:22:16,800
+That's the thing that I still don't, even after reading about this topic, and not just your book,
+
+742
+01:22:16,800 --> 01:22:22,880
+but other books, I still don't have a great sense of what the future looks like. I don't disagree
+
+743
+01:22:22,880 --> 01:22:28,560
+that the water is starting to get uncomfortably warm here as a little frog, and I don't disagree
+
+744
+01:22:28,560 --> 01:22:35,040
+that we need to get out of this bath of water and into a cooler bath of water. But boy, I have to be
+
+745
+01:22:35,040 --> 01:22:41,120
+honest with you. I'm discouraged. No, no, don't be. I have a solution for us and a very important
+
+746
+01:22:41,120 --> 01:22:50,080
+solution. Peter Derise is a writer who wrote a book in 1961. He wrote a novel because his own
+
+747
+01:22:50,080 --> 01:22:59,360
+daughter who was 10 or 11 died of leukemia in his arms and after a horrible battle. In 1961, Peter
+
+748
+01:23:00,320 --> 01:23:10,160
+Derise says, so the treatment for leukemia today is a local rather than an express train.
+
+749
+01:23:11,280 --> 01:23:19,680
+Same run, a few more stops. But that's how medicine functions, perfecting the art of
+
+750
+01:23:19,680 --> 01:23:29,360
+prolonging disease. This was in 1961. How is this different? The run for leukemia is still a local.
+
+751
+01:23:30,320 --> 01:23:37,520
+What I want to say is I feel like I'm living in a theater of the absurd. Why aren't other people
+
+752
+01:23:37,520 --> 01:23:45,520
+seeing the spectacular failures we are dealing with? And why do we keep mollycoddling the public?
+
+753
+01:23:45,520 --> 01:23:52,160
+Why do we keep promoting the two, three months or five months advantage in survival?
+
+754
+01:23:52,720 --> 01:24:00,960
+Why aren't we going for bigger goals and better things? We can do it. You know how we can do it is
+
+755
+01:24:00,960 --> 01:24:09,360
+very simple. What has worked in cancer until now? Early detection. How is it that we are living in
+
+756
+01:24:09,360 --> 01:24:17,840
+an era of the most sophisticated technological advances possible? And yet the treatment of cancer
+
+757
+01:24:17,840 --> 01:24:26,160
+is paleolithic. It belongs in the Stone Age in the caves. Giving the kind of disfiguring,
+
+758
+01:24:27,040 --> 01:24:34,400
+horrible treatments we give is like beating someone said this, beating the dog with a baseball bat to
+
+759
+01:24:34,400 --> 01:24:40,640
+get rid of its fleas. Have you ever seen somebody being treated with CAR T therapy? My God, there are
+
+760
+01:24:40,640 --> 01:24:48,080
+whole industries sprouting up to control the side effects. Why are we even developing such
+
+761
+01:24:48,080 --> 01:24:53,840
+terrible therapies? Yes, we should develop them, but they should be used when the tumor burden is
+
+762
+01:24:53,840 --> 01:24:59,120
+not that high. So once again, I want to be very clear about a couple of things before I give you
+
+763
+01:24:59,120 --> 01:25:08,400
+my solution. Number one, I'm not against animal research at all. For biology, it is very important
+
+764
+01:25:08,400 --> 01:25:16,800
+to use the animal model. All I'm against is drug development in animals because what you learn in
+
+765
+01:25:16,800 --> 01:25:25,600
+animals by using drugs is only correct for animals. It does not automatically extrapolate to humans.
+
+766
+01:25:25,600 --> 01:25:30,800
+So just to be clear, you're saying you would still use animals for safety, but you would
+
+767
+01:25:30,800 --> 01:25:37,120
+disregard them for efficacy? I would not use them for safety either. Why should it give me any level
+
+768
+01:25:37,120 --> 01:25:42,960
+of confidence that the drug didn't kill mouse, it wouldn't kill a human? It is very little to do with
+
+769
+01:25:42,960 --> 01:25:48,640
+each other. We don't have to go into it now, but I guess do you know from sort of even back of the
+
+770
+01:25:48,640 --> 01:25:55,120
+envelope how that would change the regulatory landscape if we now had to go to a much earlier
+
+771
+01:25:55,120 --> 01:26:01,520
+phase one in humans, obviously probably using a milder dose escalation or would you be talking
+
+772
+01:26:01,520 --> 01:26:09,280
+about doing primates instead? What is the actual model? None of those. In fact, the FDA has a system
+
+773
+01:26:09,280 --> 01:26:16,800
+which is called phase zero in which you don't just bypass any animals. You use one five hundredth of
+
+774
+01:26:16,800 --> 01:26:24,240
+the dose starting dose in humans and work your way up that. So basically it's homeopathic all the way
+
+775
+01:26:24,240 --> 01:26:30,400
+up. Yeah, so that's how you do it with a phase zero trial. What I'm saying is look, the only thing
+
+776
+01:26:30,400 --> 01:26:36,960
+that has worked is early detection. We have great technology available. We shouldn't be talking about
+
+777
+01:26:36,960 --> 01:26:42,240
+early detection doesn't work because mammograms have not been helpful or PSA have led to over
+
+778
+01:26:42,240 --> 01:26:49,840
+diagnosis and men undergoing very macabre surgeries and things. No, all I'm saying is that we should
+
+779
+01:26:49,840 --> 01:26:57,440
+definitely take advantage of the cutting edge genomics, transcriptomics, proteomics, metabolomics,
+
+780
+01:26:57,440 --> 01:27:03,680
+the scanning and imaging devices that have been developed and use artificial intelligence to put
+
+781
+01:27:03,680 --> 01:27:11,040
+all this together, develop 50 tests if we have to identify biomarkers which are based on all these
+
+782
+01:27:11,040 --> 01:27:19,920
+things and combine them with the latest technology to try and start monitoring the human body not
+
+783
+01:27:19,920 --> 01:27:26,800
+once a year but continuously like a machine. And how do you do that? Well, you see this chip, you can
+
+784
+01:27:26,800 --> 01:27:33,920
+see it. The audience cannot. It's a small chip, the M chip. You can look it up because it is FDA-approved.
+
+785
+01:27:33,920 --> 01:27:39,840
+It is based on microfluidics. You put one drop of blood here which goes through microfluidics and
+
+786
+01:27:39,840 --> 01:27:46,720
+interacts with the biomarker put here. The biomarker in M chip's case which is FDA-approved is PSA.
+
+787
+01:27:47,760 --> 01:27:54,960
+So, men who have been diagnosed with a high PSA can use this chip. It can slide into a small device
+
+788
+01:27:54,960 --> 01:28:00,640
+and very soon into your cell phone and give you your PSA four times a day if you want to see it.
+
+789
+01:28:00,640 --> 01:28:07,040
+And if you're diagnosed with having a high PSA, you do have to go in and have a complete abdominal
+
+790
+01:28:07,040 --> 01:28:14,960
+resection with the removal of every lymph node and be eviscerated. No, you follow this at home
+
+791
+01:28:15,600 --> 01:28:21,360
+if you have to as often as you want. I'm saying that if we develop a biomarker that is
+
+792
+01:28:21,360 --> 01:28:28,000
+identifying the earliest footprints of pancreatic cancer, we put that next in the next lane.
+
+793
+01:28:28,000 --> 01:28:33,600
+And for ovarian cancer in the next door, for each cancer, we develop like a bar code
+
+794
+01:28:33,600 --> 01:28:40,240
+and with one drop of blood. So, Koshiba, a company, just announced that they can detect
+
+795
+01:28:40,240 --> 01:28:45,600
+13 different cancers from one drop of blood in four hours for $180.
+
+796
+01:28:46,640 --> 01:28:51,680
+There's a company in the Bay Area that I follow very closely called Grail and they're doing
+
+797
+01:28:51,680 --> 01:28:58,720
+something very similar. At this point, they're in phase two with probably almost 30 different
+
+798
+01:28:59,280 --> 01:29:05,120
+cancers. I agree with you completely. I mean, my view of cancer is rule number one is don't get it.
+
+799
+01:29:05,760 --> 01:29:10,640
+I mean, that sounds glib, but I don't think enough attention is paid to the don't get it rule,
+
+800
+01:29:10,640 --> 01:29:16,160
+which is why aren't we trying to better understand what the environmental triggers of cancer are?
+
+801
+01:29:16,160 --> 01:29:20,800
+Because while, as you point out, it has always been with us, I think there is
+
+802
+01:29:21,600 --> 01:29:26,800
+reasonable enough evidence to suggest that its incidence is higher in a modern world than in a
+
+803
+01:29:26,800 --> 01:29:32,400
+non-modern world. And therefore, what is it about a modern world? For example, what is it about our
+
+804
+01:29:32,400 --> 01:29:39,200
+diet or about our stress or our lack of exercise that could be amplifying our risk? And if you
+
+805
+01:29:39,200 --> 01:29:45,600
+think about it, if changing factors of our lifestyle could reduce your risk of cancer by 30 to 50%,
+
+806
+01:29:46,320 --> 01:29:54,080
+which my reading of the literature says is absolutely the case, how could we not make that
+
+807
+01:29:54,080 --> 01:30:00,960
+a high priority to understand? And when you pair the rule number one, don't get cancer, with rule
+
+808
+01:30:00,960 --> 01:30:08,400
+number two, very smart screening for cancer, you then get into rule number three, which is if you
+
+809
+01:30:08,400 --> 01:30:16,080
+get cancer, treat it so early, treat it when it is basically in the millions rather than the billions
+
+810
+01:30:16,080 --> 01:30:22,080
+of cells. And for someone who might not have the familiarity with cells, a million cancer cells is
+
+811
+01:30:22,080 --> 01:30:27,680
+not even detectable to the naked eye, a billion is. And so there's a very big difference between
+
+812
+01:30:27,680 --> 01:30:32,720
+when you can catch a million cancer cells versus a billion. And I agree with you, by the way,
+
+813
+01:30:32,720 --> 01:30:39,680
+completely that most people who are critics of early screening are unfortunately lacking the
+
+814
+01:30:39,680 --> 01:30:46,960
+nuance to appreciate the accepted failures of things like PSA and mammography, which I won't
+
+815
+01:30:46,960 --> 01:30:52,640
+go into here, I've covered them in great detail in some other podcasts. Two in particular, I'll
+
+816
+01:30:52,640 --> 01:30:58,800
+just direct the listener to, I think the failures of PSA standalone as a failure has been covered
+
+817
+01:30:58,800 --> 01:31:04,720
+very well in the podcast with Ted Schafer. And Ted talks very eloquently about how if you are
+
+818
+01:31:04,720 --> 01:31:12,160
+wed to PSA using PSA volume, where you take PSA normalized to prostate volume and PSA velocity,
+
+819
+01:31:12,720 --> 01:31:18,880
+which Ezra you would get out of what you propose, which is the rate of change of PSA over time.
+
+820
+01:31:18,880 --> 01:31:25,600
+So PSA is a rate of change called PSA velocity. PSA volume become much better indicators of
+
+821
+01:31:25,600 --> 01:31:32,640
+prostate cancer risk than just PSA. But also you go far beyond PSA to things like 4K and other types
+
+822
+01:31:32,640 --> 01:31:38,720
+of tests that add more nuance to this. I think the story becomes much more clear that this type
+
+823
+01:31:38,800 --> 01:31:44,400
+of early detection matters. And I think as it pertains to the limitations of mammography,
+
+824
+01:31:44,400 --> 01:31:51,840
+I would direct people to the podcast I did with Raj Atarawala, where we talked about cancer
+
+825
+01:31:51,840 --> 01:31:57,520
+screening. And we actually very specifically address some of the limitations of the literature
+
+826
+01:31:57,520 --> 01:32:03,760
+on these isolated techniques like mammography. So you're not going to get any disagreement out of me
+
+827
+01:32:03,760 --> 01:32:12,240
+on both of those fronts. So I guess the question is, do we really believe that by taking those types
+
+828
+01:32:12,240 --> 01:32:20,800
+of steps, we will reduce the need for the cancers for which we have just not had the big breakthroughs,
+
+829
+01:32:20,800 --> 01:32:30,080
+which is basically lung, pancreas, prostate, breast, colon, and GBM. Those are basically the
+
+830
+01:32:30,080 --> 01:32:35,040
+most lethal cancers outside of GBM. It's the metastatic versions of the others. Obviously,
+
+831
+01:32:35,040 --> 01:32:40,640
+GBM doesn't leave the brain. It kills locally. That's got to be two thirds of cancer deaths.
+
+832
+01:32:41,200 --> 01:32:47,600
+And you're basically saying we have to catch these things long before they're ever in a position to
+
+833
+01:32:47,600 --> 01:32:55,600
+leave the primary organ and not try to reinvent the onc drug discovery wheel coming up with
+
+834
+01:32:56,240 --> 01:32:59,920
+another cocktail that's going to be as lucky as we were with Hodgkin's lymphoma.
+
+835
+01:32:59,920 --> 01:33:02,960
+I don't want to put words in your mouth, but is that your view?
+
+836
+01:33:04,240 --> 01:33:11,200
+Yeah, well, sort of. But let me restate what specifically I feel. First of all, about the
+
+837
+01:33:11,200 --> 01:33:16,800
+lifestyle you're talking about. Of course, lifestyle is it's only common sense that if you smoke,
+
+838
+01:33:18,320 --> 01:33:22,240
+it's not going to be good for you. Your likelihood of getting not just lung cancer,
+
+839
+01:33:22,240 --> 01:33:29,680
+but many diseases will be high. So yes, lifestyle changes have we have to continuously drill into
+
+840
+01:33:29,680 --> 01:33:35,040
+our consciousness. What is good for us and what is bad for us and try not to get it.
+
+841
+01:33:35,040 --> 01:33:42,160
+The problem is that with cancer, as I began by telling you, heredity and pathogens and
+
+842
+01:33:42,160 --> 01:33:48,160
+environmental exposure like smoking, etc., do account for a certain percentage. The vast
+
+843
+01:33:48,160 --> 01:33:54,720
+majority. There is no reason why they get cancer. We at least a reason that we can identify yet.
+
+844
+01:33:54,720 --> 01:34:01,200
+I think that's the challenge is that with smoking, the difference between the people who smoked and
+
+845
+01:34:01,200 --> 01:34:07,680
+the people who didn't smoked was so great that it was appreciable. But you're right with most other
+
+846
+01:34:08,320 --> 01:34:14,800
+environmental contributors, with maybe the only other exception being obesity, it's very difficult
+
+847
+01:34:14,800 --> 01:34:21,520
+to tease out what else could be contributing. For example, I don't know if you're running
+
+848
+01:34:22,160 --> 01:34:28,160
+or the trampoline is making enough of a difference because it's very difficult to study that
+
+849
+01:34:28,160 --> 01:34:33,520
+longitudinally and prospectively. And secondly, I don't know that enough people are doing it and
+
+850
+01:34:33,520 --> 01:34:38,880
+it would create a big enough signal that we can measure it. Well, that's what I was going to say.
+
+851
+01:34:38,880 --> 01:34:43,360
+We don't even know whether eggs are good or bad for you to this day. So those are the kinds of
+
+852
+01:34:43,360 --> 01:34:49,120
+issues with lifestyle, large studies. Now, the point I'm trying to make, though, is slightly
+
+853
+01:34:49,120 --> 01:34:55,520
+different. A lot of people smoke. Not all of them get cancer. So there are other co-factors that
+
+854
+01:34:55,520 --> 01:35:00,320
+exist. All these things have to be worked out. Haven't we been trying for a hundred years? For
+
+855
+01:35:00,320 --> 01:35:05,840
+God's sake, don't the investigators who act like this is something they have discovered today to
+
+856
+01:35:05,840 --> 01:35:11,520
+be looked at? No, this is what we have been trying to do forever. It's not that simple.
+
+857
+01:35:12,240 --> 01:35:18,560
+What we are finding is that for the vast majority of cancers, they're random mutations account for
+
+858
+01:35:18,560 --> 01:35:26,640
+it, which means that cancer is most common with age, increasing age. Why? Because with age, many
+
+859
+01:35:26,640 --> 01:35:31,440
+more of the cells in our body have undergone several divisions. And with each division,
+
+860
+01:35:32,000 --> 01:35:39,440
+we pick up some DNA copying errors, two to three on an average. So by the time I sell is now from
+
+861
+01:35:39,440 --> 01:35:46,080
+birth to like 60 years of age, every cell has undergone multiple cycles of proliferation.
+
+862
+01:35:46,080 --> 01:35:52,080
+Therefore, multiple gene generic mutations have collected. And these are making the cell
+
+863
+01:35:52,080 --> 01:35:59,120
+susceptible that now it's like dropping grains of sand and they will form a pile and at one
+
+864
+01:35:59,120 --> 01:36:04,320
+grain of sand, which is no different than millions before that had gone before it will suddenly
+
+865
+01:36:04,800 --> 01:36:10,800
+cause an avalanche and the pile will collapse. Not because the glass grain of sand was different,
+
+866
+01:36:10,800 --> 01:36:16,800
+but the pile had become unstable. So with age, the body becomes unstable because all the cells
+
+867
+01:36:16,800 --> 01:36:23,120
+have these kinds of mutations. So, and not only that metabolism can go wrong. And sometimes,
+
+868
+01:36:23,120 --> 01:36:29,120
+as shown by whole genome sequencing of over 2000 tumors, that there are a few cancers where no
+
+869
+01:36:29,120 --> 01:36:37,360
+mutations were found in advanced cancers. So how did that happen? Well, because sometimes it is the
+
+870
+01:36:37,360 --> 01:36:44,880
+disturbed metabolism that then leads to production of reduced oxygen species or free radicals,
+
+871
+01:36:44,880 --> 01:36:49,600
+for example, that go and chop up and cause mutations and that generic mutations are a
+
+872
+01:36:49,600 --> 01:36:55,840
+secondary event. The primary event is a metabolic disturbance. So, I mean, all this needs to be done,
+
+873
+01:36:55,920 --> 01:37:02,720
+all this needs to be studied and it isn't like it hasn't been studied since 1921. Poor Otto
+
+874
+01:37:02,720 --> 01:37:09,680
+Warburg made the first observation of anaerobic metabolism. And since I was doing ketogenic type
+
+875
+01:37:09,680 --> 01:37:17,760
+diets in the 1980s, so please don't think that any of these things are new. But the question that I
+
+876
+01:37:17,840 --> 01:37:25,440
+am asking as someone who's been in this field for 43 years now, is this, if I'm still using
+
+877
+01:37:25,440 --> 01:37:32,880
+seven and three to treat AML and for most common cancers, we are still using slash poison and burn.
+
+878
+01:37:32,880 --> 01:37:38,720
+It is not for lack of resources. It is not for lack of very, very smart people, hundreds of
+
+879
+01:37:38,720 --> 01:37:46,640
+thousands of them who are working 16 hours a day to try and find the answer. But the answer is very
+
+880
+01:37:46,640 --> 01:37:54,000
+complicated. It has too many aspects to it. So the only thing we should do is I am beseeching
+
+881
+01:37:54,000 --> 01:38:02,400
+everybody in cancer related fields. Let's just spend a little more effort, a little more resources
+
+882
+01:38:02,400 --> 01:38:08,320
+in earlier detection. Yes, keep trying to understand metabolic pathways and intracellular
+
+883
+01:38:08,320 --> 01:38:13,920
+signaling and checkpoints and CAR T's and everything else. But instead of spending
+
+884
+01:38:13,920 --> 01:38:20,320
+five percent in prevention, let's spend 50 percent in prevention and early detection. That is all
+
+885
+01:38:20,320 --> 01:38:28,160
+I'm asking for. So a lot of people have asked me, Peter, because I've been completely uncompromising
+
+886
+01:38:28,160 --> 01:38:34,320
+in my criticism, as you've heard now. I am completely merciless. You know why? Because I
+
+887
+01:38:34,320 --> 01:38:39,920
+have brought the patient back front and center and everything I look at is through patients,
+
+888
+01:38:39,920 --> 01:38:47,200
+human anguish. Our problem is that 90 percent of our researchers never see a cancer patient
+
+889
+01:38:47,200 --> 01:38:53,440
+because they are basic scientists and they study tumors that they grow in on their own in their
+
+890
+01:38:53,440 --> 01:38:59,520
+labs. So they don't see a disease they are trying to develop treatment for and they are using
+
+891
+01:39:00,080 --> 01:39:06,880
+animals who don't get these diseases spontaneously. How can you become, for God's sake?
+
+892
+01:39:06,880 --> 01:39:13,600
+So my thing is, while you're doing all that, at least let's employ all of this sophisticated
+
+893
+01:39:13,600 --> 01:39:20,320
+technology and a lot of the intellectual resources to developing biomarkers for early detection.
+
+894
+01:39:20,960 --> 01:39:26,880
+Why not look at every compartment, whether it's blood, sweat, tears, saliva, urine,
+
+895
+01:39:26,880 --> 01:39:33,840
+microbiome, study everything but human. Stop studying animals, for God's sake. Study human tissue.
+
+896
+01:39:34,480 --> 01:39:38,320
+You're making so much sense to me that I'm struggling to come up with a counter argument
+
+897
+01:39:38,320 --> 01:39:44,880
+to that point you're making. I mean, should 50 percent of our resources be put into prevention
+
+898
+01:39:44,880 --> 01:39:53,200
+and early detection rather than 4 percent, if that? Absolutly. Should we also shift this to
+
+899
+01:39:53,920 --> 01:39:58,080
+study disproportionately in the study of interest? I couldn't agree with you more.
+
+900
+01:39:59,040 --> 01:40:06,160
+You made a point a moment ago about the nature of contact. I wanted to use that as a point to
+
+901
+01:40:06,160 --> 01:40:12,880
+come back to Omar. Why did you include the story of Omar in your book? He's not unique, right? I
+
+902
+01:40:12,880 --> 01:40:19,200
+mean, you've treated a million Omars. What was it about him that spoke to you so much? It had to be
+
+903
+01:40:19,200 --> 01:40:25,040
+more than just his ethnicity, but I don't know. Maybe I shouldn't assume that. Well, first of all,
+
+904
+01:40:25,120 --> 01:40:33,600
+he's my best friend's son. Here is a 38-year-old young man, a graduate of Oxford and Columbia.
+
+905
+01:40:34,160 --> 01:40:40,800
+His teaching has finally fallen in love, calls his parents to come and get him engaged, and when
+
+906
+01:40:40,800 --> 01:40:48,800
+they arrive, the young couple, he has a little osteogenic sarcoma. So the thing that has forced,
+
+907
+01:40:48,800 --> 01:40:56,240
+that made me put Omar into the book, is the utter helplessness of oncologists, because from
+
+908
+01:40:56,960 --> 01:41:03,600
+day one, when you have not resected that solid tumor completely, you were a surgeon, you were a
+
+909
+01:41:03,600 --> 01:41:10,400
+surgical oncologist, you are a surgeon. You know this, Peter. If you leave behind 10 percent of
+
+910
+01:41:10,400 --> 01:41:17,600
+the tumor or even your microscopic pathology shows that cancer cells have entered blood vessels,
+
+911
+01:41:17,600 --> 01:41:24,560
+as was the case with Omar. Now you know that his chances of survival beyond a few couple of years
+
+912
+01:41:24,560 --> 01:41:32,160
+at most are 0.00. What are your choices you are going to give to Omar? Either you die of cancer or
+
+913
+01:41:32,160 --> 01:41:37,600
+you die of the treatment we are going to give you, because the problem is if we don't give treatment,
+
+914
+01:41:37,600 --> 01:41:45,200
+then death from cancer is horrendous in itself. It's one of the most painful deaths. So are we at
+
+915
+01:41:45,280 --> 01:41:52,480
+least doing some palliation? And Omar's case was really huge. It's a good question you asked.
+
+916
+01:41:53,040 --> 01:42:00,080
+It was emotionally soul destroying to see this young man who was already just embarking on his
+
+917
+01:42:00,080 --> 01:42:06,800
+career, finally after years and years of hard work, has met the woman. He gets married a couple of
+
+918
+01:42:06,800 --> 01:42:14,320
+months after the diagnosis actually, and knowing that he's going to die. And I had to live through
+
+919
+01:42:14,320 --> 01:42:20,400
+every single day, not just in the hospital, but also at home, because we are seeing him.
+
+920
+01:42:20,400 --> 01:42:25,680
+And by the way, if I recall, this was only about five years after your husband died, yes?
+
+921
+01:42:26,240 --> 01:42:30,480
+No longer. Harvey died in 2002. Omar dies in 2009.
+
+922
+01:42:30,480 --> 01:42:32,160
+Okay, okay, sorry. But yeah.
+
+923
+01:42:32,160 --> 01:42:38,880
+Yes, yeah, not that far. So I think also in the book, I tried to balance it out by presenting
+
+924
+01:42:38,880 --> 01:42:46,880
+some elderly people like Lady N, Kitty C, Harvey was older, whereas JC, Andrew and Omar,
+
+925
+01:42:46,880 --> 01:42:53,280
+the three are younger people. And different types of cancers I also wanted to show. So brain tumor,
+
+926
+01:42:53,280 --> 01:43:00,400
+osteogenic sarcoma, and a liquid tumor. Then Harvey had a lymphoma. Many people asked me because I
+
+927
+01:43:00,400 --> 01:43:07,520
+have been so brutal in my criticism of everybody. And that's why I began telling you that please,
+
+928
+01:43:07,520 --> 01:43:12,800
+let's not just blame pharma companies. The hospitals who are supposed to be non-profit
+
+929
+01:43:12,800 --> 01:43:18,000
+hospitals are making so many hundreds of millions of dollars in profits. What should they do? They
+
+930
+01:43:18,000 --> 01:43:24,800
+have no shareholders to distribute it to. So they give large raises to their bureaucracy,
+
+931
+01:43:24,800 --> 01:43:31,200
+the executive business people running the hospital, and then they start buying other hospitals and
+
+932
+01:43:31,200 --> 01:43:37,360
+start investing in brick and mortar. This is what's happening. I in fact think about health
+
+933
+01:43:37,360 --> 01:43:42,480
+care very much. I was talking to Perry Marshall the other day who was talking about a higher
+
+934
+01:43:42,480 --> 01:43:48,960
+education that in the post COVID world, one of the things that will be completely redone is higher
+
+935
+01:43:48,960 --> 01:43:55,760
+education because the two variables who have skin in the game in higher education are students and
+
+936
+01:43:55,760 --> 01:44:02,640
+teachers. And students are embroiled in horrible loans by the time they graduate. And teachers are
+
+937
+01:44:02,640 --> 01:44:07,920
+not even hired in permanent positions anymore. There are adjunct professors that are hired.
+
+938
+01:44:07,920 --> 01:44:12,960
+So you don't have to give them any kinds of benefits. And those two people who have skin in
+
+939
+01:44:12,960 --> 01:44:18,320
+the game suffer whereas universities are developing endowments in billions of dollars.
+
+940
+01:44:18,960 --> 01:44:24,080
+These are academic institutions. But I compare that same thing to health care. The two people
+
+941
+01:44:24,080 --> 01:44:29,840
+with skin in the game in health care are patients and doctors. Patients are fleeced for every last
+
+942
+01:44:29,840 --> 01:44:35,840
+penny. And doctors are overworked all the time. So we have no time to spend. And businessmen are
+
+943
+01:44:35,840 --> 01:44:42,000
+running the whole show. So I think the system is like that frog analogy over and over again.
+
+944
+01:44:42,640 --> 01:44:48,320
+No one is going to give up what they're doing willingly at all. I believe exactly what Thomas
+
+945
+01:44:48,320 --> 01:44:53,840
+Kuhn said. If you want to change the paradigm, you have to show a better one. That's it. So how do we
+
+946
+01:44:53,840 --> 01:45:00,640
+show a better paradigm? Well, at least I'm pointing to the only successful strategy in cancer is early
+
+947
+01:45:00,640 --> 01:45:08,400
+detection. Why not use the latest technology to go for early detection? We can financially incentivize
+
+948
+01:45:08,400 --> 01:45:14,320
+it. And with the one success, the whole field can turn around because they will see that that's where
+
+949
+01:45:14,880 --> 01:45:21,280
+it's a better thing to invest rather than in a venture that has a 95 percent rate of failure.
+
+950
+01:45:21,920 --> 01:45:29,680
+And mark my words, the coming decade of 2020 to 2030 will see this shift from treating the disease
+
+951
+01:45:29,680 --> 01:45:34,800
+to trying to detect early and prevent the disease from becoming established.
+
+952
+01:45:35,840 --> 01:45:41,200
+I agree with you. I really do agree with you. I don't know that I can speak convincingly to
+
+953
+01:45:41,200 --> 01:45:47,600
+the time frame, but I am actually very optimistic with the potential of liquid biopsies. And it's
+
+954
+01:45:47,600 --> 01:45:54,320
+something we have been very eager. It's been a big part of our practice, frankly, inside of our
+
+955
+01:45:54,320 --> 01:45:59,600
+practice. And I look forward to having a more rigorous discussion about this that's dedicated
+
+956
+01:45:59,600 --> 01:46:04,960
+on the podcast once some of the technologies get through certain stages of FDA. Ezra, I want to
+
+957
+01:46:04,960 --> 01:46:11,600
+close with a question about the loss of your husband. At any point during that ordeal, when he
+
+958
+01:46:11,600 --> 01:46:18,000
+was struggling and you were right there with him and you had this young daughter, was there any
+
+959
+01:46:18,000 --> 01:46:24,400
+point of view that was thinking, this is so unfair, the disease that you've devoted your life to,
+
+960
+01:46:24,400 --> 01:46:29,680
+the disease that he has devoted his life to is ultimately the disease that's going to take him,
+
+961
+01:46:29,680 --> 01:46:35,200
+and not just take him, but take him decades too soon. Or were you able to sort of come to this
+
+962
+01:46:35,200 --> 01:46:41,120
+place of what some might call radical acceptance of just saying, I accept what I can change,
+
+963
+01:46:41,120 --> 01:46:46,880
+I have the courage to fight the things that I can, and I have the courage to know the distinction,
+
+964
+01:46:46,880 --> 01:46:50,720
+you know, so-called serenity prayer. How did you go through that at such a young age?
+
+965
+01:46:51,760 --> 01:46:59,280
+It's very hard to describe what one goes through. Of course, I kick doors all the time, and I had
+
+966
+01:46:59,280 --> 01:47:05,760
+crying fits all the time. And I remember calling my mother so often on weekends we used to talk,
+
+967
+01:47:05,760 --> 01:47:10,320
+she was in Karachi, of course, and I would say so many of my friends hate their husbands.
+
+968
+01:47:10,960 --> 01:47:17,520
+And they're doing fine. And look at me, I'm one who's crazy about Harvey, and he's dying in front
+
+969
+01:47:17,520 --> 01:47:24,080
+of my eyes. I went through every human emotion that a wife would go through, especially because
+
+970
+01:47:24,080 --> 01:47:30,000
+our daughter was so little. And Harvey is the one who actually had reached the point of acceptance,
+
+971
+01:47:30,000 --> 01:47:35,200
+and when I would lose it every now and then in front of him, he would very calmly tell me not
+
+972
+01:47:35,200 --> 01:47:41,360
+to worry about it. It's just the luck of the drawers. Don't worry. And he would one time, he said,
+
+973
+01:47:41,360 --> 01:47:48,800
+look, when he was diagnosed, he was initially told his diagnosis, his reaction was so quintessential
+
+974
+01:47:48,800 --> 01:47:57,760
+Harvey. He said, well, I'm glad it's me and not you or Sheharzad. This I can handle, that I couldn't.
+
+975
+01:47:58,560 --> 01:48:06,240
+And so when you're going through something like caring for someone who you love, but who has made
+
+976
+01:48:06,240 --> 01:48:13,600
+you responsible for every decision as well, I'll also end by quoting my favorite Dickinson again,
+
+977
+01:48:13,600 --> 01:48:23,680
+which is what one has to do. I had no time to hate because the grave would hinder me.
+
+978
+01:48:23,920 --> 01:48:31,760
+And life was not so ample. I could finish and meti. Nor had I time to love.
+
+979
+01:48:33,360 --> 01:48:43,360
+But since some industry must be this little toil of love, I thought was large enough for me.
+
+980
+01:48:46,960 --> 01:48:51,520
+Oh, that's a treat. I don't get often. And the listeners, I think, will agree that it's not
+
+981
+01:48:52,240 --> 01:48:57,520
+every day you tune into a podcast where you get treated to both the sort of the literary
+
+982
+01:48:57,520 --> 01:49:03,680
+sprinklings of greatness, coupled with a, you know, a difficult, but a very important discussion
+
+983
+01:49:03,680 --> 01:49:09,280
+about a disease that is going to touch anybody listening to this, because if we're fortunate
+
+984
+01:49:09,280 --> 01:49:14,960
+enough to not be the ones who get it, we are going to know somebody who does it is tragically that
+
+985
+01:49:14,960 --> 01:49:21,120
+ubiquitous a disease. I want to thank you for your time today. And I want to thank you for
+
+986
+01:49:21,920 --> 01:49:27,920
+the work you've put into this. And finally, your patience. It has taken far too long to get this
+
+987
+01:49:28,560 --> 01:49:33,760
+interview on the books. And I hope that the listeners will at least agree it was worth the
+
+988
+01:49:33,760 --> 01:49:42,160
+wait. Well, before we end, Peter, I do want to say that since 1984, as a result of my experience
+
+989
+01:49:42,160 --> 01:49:50,080
+with the patient, I started saving samples on them. So blood and bone marrow biopsies and
+
+990
+01:49:50,080 --> 01:49:57,920
+aspirates and two germline controls, T cells and buccal smears, seven different types of cells like
+
+991
+01:49:57,920 --> 01:50:05,040
+CD34 separation, neutrophil separated, mononuclear cell separated, all kinds of elaborate things.
+
+992
+01:50:05,040 --> 01:50:12,080
+And today, this tissue repository has over 60,000 samples from thousands of patients who have
+
+993
+01:50:12,080 --> 01:50:21,440
+been serially followed for years, some of them. And not a single cell comes from a second oncologist.
+
+994
+01:50:21,440 --> 01:50:28,320
+To this day, I do all the bone marrow with my own hands. So this tissue repository, which contains
+
+995
+01:50:28,960 --> 01:50:36,000
+samples of all sorts, following the natural history of diseases in patients as they progress
+
+996
+01:50:36,000 --> 01:50:43,600
+from a pre-leukemia to acute leukemia, is a national treasure. It's a repository which can
+
+997
+01:50:43,600 --> 01:50:52,880
+really unravel so much and trace back to the cell of origin. Be first cell. Find the biomarkers
+
+998
+01:50:52,880 --> 01:50:59,760
+that are associated with a pre-leukemia that spiraled out of control into acute leukemia
+
+999
+01:50:59,760 --> 01:51:07,120
+within months compared to one that took 15 years to become one. I think that I want to end by
+
+1000
+01:51:07,120 --> 01:51:14,960
+saying in a very positive way that I am extremely optimistic about the future, even though we spent
+
+1001
+01:51:14,960 --> 01:51:22,560
+most of our time in talking about very negative and very depressing pessimistic review of what
+
+1002
+01:51:22,560 --> 01:51:30,160
+the field has been. The future looks extremely bright, and I am so happy that I have collected
+
+1003
+01:51:30,160 --> 01:51:36,240
+all this tissue, which can now be used in the service of our patients who went through severe
+
+1004
+01:51:36,240 --> 01:51:43,760
+pain and anguish while donating these samples. We have now the technology has developed, and
+
+1005
+01:51:43,760 --> 01:51:50,480
+hopefully the resources will be there to finally study the whole tissue repository properly and
+
+1006
+01:51:50,480 --> 01:51:55,840
+find that first cell. Thank you so much for the time you have given me to go through.
+
+1007
+01:51:55,840 --> 01:52:01,440
+I wish you the best as you remain in quarantine. I wish you a safe reentry in New York when the
+
+1008
+01:52:01,440 --> 01:52:07,680
+time comes. Thank you. Thank you for listening to this week's episode of The Drive. If you're
+
+1009
+01:52:07,680 --> 01:52:12,320
+interested in diving deeper into any topics we discuss, we've created a membership program that
+
+1010
+01:52:12,320 --> 01:52:17,440
+allows us to bring you more in-depth, exclusive content without relying on paid ads. It's our
+
+1011
+01:52:17,520 --> 01:52:22,560
+goal to ensure members get back much more than the price of this subscription. To that end,
+
+1012
+01:52:22,560 --> 01:52:27,440
+membership benefits include a bunch of things. One, totally kick-ass comprehensive podcast
+
+1013
+01:52:27,440 --> 01:52:32,480
+show notes that detail every topic, paper, person, thing we discuss on each episode.
+
+1014
+01:52:32,480 --> 01:52:37,920
+The word on the street is, nobody's show notes rival these. Monthly AMA episodes or
+
+1015
+01:52:37,920 --> 01:52:43,200
+Ask Me Anything episodes, hearing these episodes completely. Access to our private podcast feed
+
+1016
+01:52:43,200 --> 01:52:48,640
+that allows you to hear everything without having to listen to spiels like this. The Qwallys,
+
+1017
+01:52:48,640 --> 01:52:53,440
+which are a super short podcast, typically less than five minutes that we release every Tuesday
+
+1018
+01:52:53,440 --> 01:52:58,080
+through Friday, highlighting the best questions, topics, and tactics discussed on previous episodes
+
+1019
+01:52:58,080 --> 01:53:03,040
+of The Drive. This is a great way to catch up on previous episodes without having to go back and
+
+1020
+01:53:03,040 --> 01:53:08,800
+necessarily listen to everyone. Steep discounts on products that I believe in, but for which I'm not
+
+1021
+01:53:08,800 --> 01:53:13,520
+getting paid to endorse, and a whole bunch of other benefits that we continue to trickle in
+
+1022
+01:53:13,520 --> 01:53:17,600
+as time goes on. If you want to learn more and access these member-only benefits, you can head
+
+1023
+01:53:17,600 --> 01:53:25,040
+over to PeterAttiaMD.com forward slash subscribe. You can find me on Twitter, Instagram, and Facebook,
+
+1024
+01:53:25,040 --> 01:53:31,520
+all with the ID PeterAttiaMD. You can also leave us a review on Apple Podcasts or whatever podcast
+
+1025
+01:53:31,520 --> 01:53:37,120
+player you listen on. This podcast is for general informational purposes only and does not constitute
+
+1026
+01:53:37,120 --> 01:53:41,760
+the practice of medicine, nursing, or other professional healthcare services, including
+
+1027
+01:53:41,760 --> 01:53:47,920
+the giving of medical advice. No doctor-patient relationship is formed. The use of this information
+
+1028
+01:53:47,920 --> 01:53:53,840
+and the materials linked to this podcast is at the user's own risk. The content on this podcast is
+
+1029
+01:53:53,840 --> 01:54:00,000
+not intended to be a substitute for professional medical advice, diagnosis, or treatment. Users
+
+1030
+01:54:00,000 --> 01:54:06,320
+should not disregard or delay in obtaining medical advice from any medical condition they have, and
+
+1031
+01:54:06,320 --> 01:54:10,880
+they should seek the assistance of their healthcare professionals for any such conditions.
+
+1032
+01:54:11,520 --> 01:54:15,760
+Finally, I take conflicts of interest very seriously. For all of my disclosures and the
+
+1033
+01:54:15,760 --> 01:54:23,040
+companies I invest in or advise, please visit PeterAttiaMD.com forward slash about
+
+1034
+01:54:23,040 --> 01:54:26,880
+where I keep an up-to-date and active list of such companies.
+

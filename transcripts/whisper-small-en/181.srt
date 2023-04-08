@@ -1,0 +1,2744 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hey, Bob, thanks so much for making time to chat today. I've been looking forward to this one for for quite some time.
+
+2
+00:00:07,000 --> 00:00:09,000
+Thanks for having me.
+
+3
+00:00:09,000 --> 00:00:16,000
+So I'll tell you, I kind of stumbled across your work in preparing actually for another podcast.
+
+4
+00:00:16,000 --> 00:00:23,000
+I was doing another podcast some time ago and in the process of it actually came across the web.
+
+5
+00:00:23,000 --> 00:00:35,000
+I was doing another podcast some time ago and in the process of it actually came across an article in Wired about you, which will obviously link to in the show notes.
+
+6
+00:00:35,000 --> 00:00:49,000
+And that whole concept just quickly captivated me such that I kind of made a note to my team and said, hey, at some point, this is someone I'm going to want to interview and I'm going to want to talk about this entire approach to cancer.
+
+7
+00:00:49,000 --> 00:01:05,000
+And lo and behold, that led us to reach out to you. And that's how it came about. But it's interesting that it really started with this sort of rabbit hole you can easily find yourself on in Google where you're trying to find out about this treatment for this type of cancer and this treatment.
+
+8
+00:01:05,000 --> 00:01:13,000
+And then all of a sudden you see something and I don't know what led me to read that whole article, but I was very captivated by it.
+
+9
+00:01:13,000 --> 00:01:28,000
+And I guess part of it is my own bias, which is my background is very similar to yours. So tell folks a little bit about your background because your path to medicine was not, I guess, the standard path.
+
+10
+00:01:28,000 --> 00:01:41,000
+No, I guess when I went to college, I wanted to be a physicist and spent most of that time really thinking that I should do that.
+
+11
+00:01:41,000 --> 00:01:55,000
+And then I had some great physicists as mentors and kind of came to the conclusion, I'm not smart enough to do this. And I got to find something else to do.
+
+12
+00:01:55,000 --> 00:02:10,000
+And of course, that was a great humanist, the Vietnam War era. And going to medical school was considered something that was really for humanity and something that I decided I would do.
+
+13
+00:02:10,000 --> 00:02:14,000
+To my regret, by the way, but I did end up doing it.
+
+14
+00:02:14,000 --> 00:02:18,000
+So you were at Princeton as an undergrad in the late 60s?
+
+15
+00:02:18,000 --> 00:02:20,000
+Late 60s early 70s. Yes.
+
+16
+00:02:20,000 --> 00:02:29,000
+And, you know, Richard Feynman, of course, also did his undergrad at actually no, no, did he do his PhD at Princeton and his undergrad at MIT? Right.
+
+17
+00:02:29,000 --> 00:02:36,000
+Yes. So was there still the shadow of Feynman there in the late 60s because he had just won his Nobel Prize in about 66. Right.
+
+18
+00:02:36,000 --> 00:02:45,000
+Absolutely. And and Wheeler was still the department chair and he was, you know, one of the great physicists of his generation.
+
+19
+00:02:45,000 --> 00:03:06,000
+And actually, my my TA was turned out to won a field medal subsequently. And so, you know, I was surrounded by really smart people. And and it was a very enriching time.
+
+20
+00:03:06,000 --> 00:03:11,000
+I mean, it was just just very stimulating and intellectually exciting to be there at the time.
+
+21
+00:03:11,000 --> 00:03:20,000
+And for people who don't know, the Fields Medal is like the Nobel Prize for mathematics. Mathematics does not have a Nobel Prize. The Fields Medal is a substitute, although it comes with two caveats.
+
+22
+00:03:20,000 --> 00:03:29,000
+One, the recipient has to be, I believe, under 40. Correct. And the second caveat is it's only awarded, I believe, every four years instead of annually.
+
+23
+00:03:29,000 --> 00:03:37,000
+Yeah. So yeah, this is Witten, Dr. Witten, who has been very involved in string theory.
+
+24
+00:03:37,000 --> 00:03:49,000
+So you decide to to take this detour into medicine, aside from the altruism and the feeling that you weren't brilliant enough to win a Nobel Prize in physics.
+
+25
+00:03:49,000 --> 00:03:53,000
+What else drew you to medicine?
+
+26
+00:03:53,000 --> 00:04:09,000
+Well, that was pretty much it. You know, it seemed like kind of the right thing to do. It was again, that era was full of wanting to help the humanity and, you know, those kinds of exalted ideas about changing the world.
+
+27
+00:04:09,000 --> 00:04:23,000
+So it's it I guess I entered medical school with those things in mind, assuming that I would link the science there to to helping people.
+
+28
+00:04:23,000 --> 00:04:44,000
+But now, given that, you know, the space race of the 1960s probably attracted some of the best and brightest people into engineering, which you were already in, did you at some point consider, you know, staying in engineering but not pursuing physics?
+
+29
+00:04:45,000 --> 00:05:00,000
+No, and I don't know why I can't quite tell you that somehow medicine just kind of drew me. The idea of it was so compelling that I felt like it was something I wanted to do.
+
+30
+00:05:00,000 --> 00:05:17,000
+Now, I will tell you that I hated every minute of medical school and almost from the beginning began looking at graduate schools to do something else and ultimately decided to stay in it. But but but was disappointed by what I found there.
+
+31
+00:05:17,000 --> 00:05:29,000
+Yeah, I think that's another part of your story that I can kind of relate to, which is not that I hated medical school. I am actually really enjoyed medical school in part because I think the environment is very different.
+
+32
+00:05:29,000 --> 00:05:51,000
+I was in I went to a med school that was in a nice part of the world. I met really, really wonderful friends, and I was infinitely happier than any other point in my life. But I realized very quickly that in biology, you couldn't think your way out of every problem the way you could in math or physics or engineering.
+
+33
+00:05:51,000 --> 00:06:05,000
+And I was, I'll tell you a funny story about how much I got humbled in my first semester of medical school. So as you'll recall from engineering, if you understand things from a first principal standpoint, you don't really have to memorize anything.
+
+34
+00:06:05,000 --> 00:06:05,000
+
+
+35
+00:06:05,000 --> 00:06:29,000
+Right. And so it was always really funny when you had these engineering exams where they would allow you to take a cheat sheet in where you could write every formula under the sun on one piece of paper. And I was such an arrogant little schmuck in college that I took such great pleasure in writing only some stupid obvious formula like F equals ma because I knew you had to turn the form in with your exam.
+
+36
+00:06:29,000 --> 00:06:45,000
+And I wanted to demonstrate that all I needed to know was Newton's three laws and I could basically derive anything from them. Like you could come up with Coriolis acceleration if you understood calculus. So I get to medical school and first semester is histology among others.
+
+37
+00:06:45,000 --> 00:07:09,000
+And like an idiot, I really believed I could intuit my way through histology without actually having to memorize everything. And I barely passed the exam. And I was like, oh my God, it's a new, there's a new world here. I'm going to just have to commit to memorizing a whole bunch of things.
+
+38
+00:07:10,000 --> 00:07:22,000
+So that sort of foreshadowed some other issues I had with my own medical journey. Did you struggle with some of those things as well? Like what was absolutely almost identical experience.
+
+39
+00:07:23,000 --> 00:07:46,000
+The other thing is I had 12 years of Catholic school before I went to college and was very familiar with catechism. This kind of idea wrote memorization. And what I thought clinical medicine in particular was catechism like in the sense that there are scripted questions and answers and expected to memorize those.
+
+40
+00:07:46,000 --> 00:08:04,000
+And when asked the scripted question, you are required to make the scripted answer. And it's one of the things that I remember is the scripted question was why do cancers grow? And the scripted answer was because cancer cells grow faster than normal cells.
+
+41
+00:08:05,000 --> 00:08:18,000
+And that's totally wrong. I mean, that's so wrong at so many levels that it's sort of hard to believe. And yet you can ask a medical student these days and some of them will still say that.
+
+42
+00:08:19,000 --> 00:08:43,000
+And so it was less scientific than I expected and more almost like a trade school in the sense that you learn from the masters these great on high they would tell you that this is the way things are and you would memorize that and you go forth into the world with absolute certainty that you're right.
+
+43
+00:08:43,000 --> 00:08:58,000
+And so and it's very difficult to get physicians as a group to just stop talking dogma. You know, just just so just think about this for a minute. Does that does what you're saying makes sense?
+
+44
+00:08:58,000 --> 00:09:22,000
+And it's often you know, I think that we were just so familiar. So it just became the way to think, which is to memorize. I memorize more than you do kind of thing. And I bring from my memory these these little chunks of facts that that really represents the height of intellectual ability.
+
+45
+00:09:22,000 --> 00:09:36,000
+And and I think that, you know, one of the things I find I run into quite a bit is that is that if you say, you know, what you've been doing for the last five decades doesn't make any sense. It's hard. Of course, it's hard for everybody to accept that.
+
+46
+00:09:37,000 --> 00:09:50,000
+I mean, I get that just from a human point of view. None of us wants to think that we've been doing something wrong. But it's hard to even get people to think about it. And of course, you you probably are aware of books like the Doctor's Plague and the and the ghost map.
+
+47
+00:09:50,000 --> 00:10:06,000
+That really talked about and this was in the mid 19th century that the medical communities are very, very conservative one. And even moving the medical community toward washing hands or or using a septic technique did not occur overnight. In fact, it occurred over decades.
+
+48
+00:10:06,000 --> 00:10:19,000
+Yeah, and it doesn't it didn't even occur within the lifetime of the individual who proposed it. So the individual who first proposed it basically dies in an insane asylum, literally in an insane asylum for having been so much more than a single person.
+
+49
+00:10:19,000 --> 00:10:28,000
+For having been so rejected and cast out by the medical community. That's how long it took to make that the simple transition of washing hands. Yeah, it's a fascinating story.
+
+50
+00:10:28,000 --> 00:10:38,000
+You know, I think that well, I'll share with you just one last story before we leave this this point, which is by that by, you know, by the time I'm in my residency.
+
+51
+00:10:38,000 --> 00:10:56,000
+So now call it I'm six years, seven years into all of my medical training, really looking for any excuse to draw in some amount of mathematics to some problem solving and lo and behold, I meet one of the critical care fellows when I'm doing an ICU rotation.
+
+52
+00:10:56,000 --> 00:11:13,000
+And we really hit it off. He was an anesthesiologist, but he had a PhD in math and he was the first person who could really put all of the critical care equations into their their truest form of physiologic differential equations.
+
+53
+00:11:13,000 --> 00:11:25,000
+So he wasn't the one that just explained it through dogma, but he could really show you the theory. Yeah. So he and I would stay up really late on call and and, you know, forgo sleep to instead go really deep and he would pull out.
+
+54
+00:11:25,000 --> 00:11:46,000
+You know, math books and physics books and papers and we would go over this stuff. And that really inspired me. So a couple of months later, when I was doing another ICU rotation, I became sort of dumbfounded at how naively we would dose antibiotics just based on guessing decay times.
+
+55
+00:11:46,000 --> 00:11:58,000
+And I thought, well, surely there's a better way to do this. And lo and behold, there were equations that could really accurately describe how, you know, the the the plasma concentration of gentamicin would decay.
+
+56
+00:11:58,000 --> 00:12:13,000
+And you needed a few more data points, but you could sample these things. And so sure enough, over the course of a couple of weeks, I built a model that would predict the exact right time to be checking for nadir levels to redose.
+
+57
+00:12:13,000 --> 00:12:25,000
+To make a long story short, when I attempted to implement this, it was met with such resistance that I was actually threatened to be fired by one of the attendings at one point.
+
+58
+00:12:25,000 --> 00:12:41,000
+I was actually going to predict that that's what happened. So when you were in medical school, what drew you to radiology? Or at the time, did you go into radiology first and then radiation oncology? Or how did you?
+
+59
+00:12:42,000 --> 00:12:43,000
+How did you make up choice?
+
+60
+00:12:44,000 --> 00:12:54,000
+You know, I like that the radiology was a minimum game puzzle, you know, minimum information puzzle where you sort of get bits and pieces of things to try to put it together.
+
+61
+00:12:54,000 --> 00:13:09,000
+And and I really like that as an intellectual exercise. I know somehow it appealed to me. And to be honest, I mean, I you know, I was a very shy kind of retiring kid.
+
+62
+00:13:10,000 --> 00:13:26,000
+Dealing with patients was very difficult for me. It was a lot easier to work with films. And so it just it intellectually and psychologically met the kinds of things that I like to do.
+
+63
+00:13:26,000 --> 00:13:36,000
+So it just it just felt like the right thing. And I'm happy I did it because that that was really one of the few things medical school that I liked.
+
+64
+00:13:36,000 --> 00:13:53,000
+So which I think is very common for people with our background. I had decided early on that I was going to go into surgery. And one of the drawbacks, I guess, of deciding early on what you're going to do is it makes some of the other rotations you go through less enjoyable.
+
+65
+00:13:54,000 --> 00:14:04,000
+But that wasn't true for radiology, because once I got to my month of radiology, I was, I mean, categorically obsessed with this field.
+
+66
+00:14:04,000 --> 00:14:13,000
+Because first of all, all of the residents I met were basically engineers, mathematicians and physicists. So heavily selects for those people.
+
+67
+00:14:14,000 --> 00:14:29,000
+And understanding of math and physics gave you an understanding of how the MRI machine worked in a way that you simply couldn't understand that without the background. And I remember thinking, God, I wish there was a way to do both surgery and radiology.
+
+68
+00:14:29,000 --> 00:14:39,000
+Yeah. So, yeah, it was I found it very appealing and and and enjoyed the residency and did enjoy people that I began working with in that in that setting.
+
+69
+00:14:40,000 --> 00:14:49,000
+So where was it in your radiology career, if not sooner, that you began to start to think about cancer in a different way?
+
+70
+00:14:50,000 --> 00:15:06,000
+Well, my first job outside of training was at the Fox Chase Cancer Center in Philadelphia. And I hadn't really thought about cancer very much. And of course, you know, we kind of had these very dogmatic views of cancer and what training I did get.
+
+71
+00:15:07,000 --> 00:15:17,000
+But when you work in a cancer center, I mean, you just want to help. I mean, it just it felt like you want to make a contribution because this disease is just so awful.
+
+72
+00:15:18,000 --> 00:15:29,000
+And so so I decided I would I would spend more time learning about cancer and I would, you know, really just get textbooks and read it.
+
+73
+00:15:29,000 --> 00:15:43,000
+And one of the things I started reading was the the the journal Cancer Research, which is the flagship journal of the ACR. And one of these I found was that I would read an article and say, well, it's really a good article.
+
+74
+00:15:44,000 --> 00:15:53,000
+And that's really interesting and important. And then I would read another article and have the same response. But then I would try to think of, well, how do these fit together? How do these relate to one another?
+
+75
+00:15:53,000 --> 00:16:03,000
+And and I couldn't see that. And there there was no organizing principles that was involved. I mean, they the authors themselves were not trying to put these together.
+
+76
+00:16:04,000 --> 00:16:21,000
+They were simply making a sequence of observations. Each were really quite separate. And and as you know, in the physics world, these things had happened to planetary motions, for example, you know, Tiger Bra and others pretty much had the data.
+
+77
+00:16:21,000 --> 00:16:33,000
+But the data was overwhelming and complicated. You know, Kepler developed a kind of geometric interaction. And then ultimately, it was Newton who developed first principles that could put all this together.
+
+78
+00:16:34,000 --> 00:16:46,000
+And, you know, similar with the bomber lines in the early 20th century, the particle zoo in the in the mid 20th century, all of those required theoretical mastery of it.
+
+79
+00:16:46,000 --> 00:16:58,000
+You can even make the case with with Einstein's work around the photoelectric effect. I mean, most people think Einstein won the Nobel Prize for relativity, but it was actually for the photoelectric effect photoelectric effect.
+
+80
+00:16:59,000 --> 00:17:11,000
+And he was not the first person to make the observation. He was simply the first person to put it all together. And I've always found that to be a very illustrative case of what really what genius really is.
+
+81
+00:17:11,000 --> 00:17:20,000
+It's that ability to assimilate information and pattern from what others can't see. And that, you know, Einstein and others are the examples.
+
+82
+00:17:21,000 --> 00:17:34,000
+So so I decided that maybe where I could contribute is to focus on developing first principles, developing a kind of framework of understanding, but recognizing that it really had to be mathematical.
+
+83
+00:17:35,000 --> 00:17:48,000
+And so I actually spent about a year re-learning the mathematics. I forgot it all by then. And then worked on developing, you know, so what are the first principles?
+
+84
+00:17:49,000 --> 00:18:00,000
+And I decided it would have to be evolution and ecology, that all living systems essentially obey the laws of Darwin and therefore cancer must do the same.
+
+85
+00:18:00,000 --> 00:18:16,000
+And so I sat down and I started writing population dynamic equations, looking at a cancer, looking at the interaction of cancer with normal cells and then the cancers with each other, cancer cells with each other and competing them and that sort of thing.
+
+86
+00:18:17,000 --> 00:18:20,000
+And so that was how I started it.
+
+87
+00:18:21,000 --> 00:18:32,000
+Now, why were you so convinced, Bob, that this had to be done mathematically as opposed to theoretically, but without the quote unquote cumbersome mathematics that comes with it?
+
+88
+00:18:33,000 --> 00:18:49,000
+I think that I brought with it an appreciation of non-linearity, that human beings think linearly. And when complex systems have non-linear things like feedback loops that, you know, so the linear thinking is, if you do one, you know,
+
+89
+00:18:50,000 --> 00:19:00,000
+you get two, you do two, you get four, you get four, you do eight. You know, we're real good. The human brain is very good at that. But non-linear dynamics were really not good at all.
+
+90
+00:19:01,000 --> 00:19:14,000
+And a great example, which is also from Philadelphia, was Benjamin Franklin wanted to see a lunar eclipse one evening. But a nor'easter came in.
+
+91
+00:19:14,000 --> 00:19:29,000
+Now, a nor'easter, if you live in Philadelphia, you're familiar with these. The wind's coming from the northeast, hence the name. And these are often violent storms. And so it rolled in and he couldn't see the lunar eclipse.
+
+92
+00:19:30,000 --> 00:19:41,000
+Now, Franklin, like all scientists of his day, thought that the wind carried the storm. In effect, if you ask a child, how do you think storms move, they will say, well, it must be the wind blowing it because it makes sense.
+
+93
+00:19:41,000 --> 00:19:53,000
+It's intuitively obvious that that's the case. But when he talked to his brother in Boston about the eclipse, it turned out that the storm arrived in Boston after the eclipse was over.
+
+94
+00:19:54,000 --> 00:20:11,000
+So, in fact, the storm was going in the opposite direction of the wind. And he was really the first scientist to recognize that that obvious, that something that's intuitively clear must be happening is also wrong.
+
+95
+00:20:12,000 --> 00:20:28,000
+And so I think that in cancers, we see nonlinearities all the time. And again, the feedback, the evolution dynamics of resistance, for example, is a good example of that. And we can't intuitively predict those things.
+
+96
+00:20:29,000 --> 00:20:51,000
+We need to actually understand first principles and the underlying mathematics to capture that piece of it. And so I guess I was very involved in that kind of thing. And to me, it seemed obvious that we needed to do the math because the things that were being done in cancer treatment were often intuitively obvious, but were clearly not working.
+
+97
+00:20:52,000 --> 00:21:09,000
+So I don't know. I mean, I may be putting retrospective analysis on that, but at the time it seemed that it really had to be understood mathematically. And of course, from a physics background, that's just kind of a natural, you know, the theory has to be fundamentally about mathematics.
+
+98
+00:21:10,000 --> 00:21:27,000
+This is just sort of a fun aside question. Why do you think that evolution gave us as humans the ability to understand linear systems quite well and absolutely no capability to understand nonlinear systems?
+
+99
+00:21:28,000 --> 00:21:35,000
+So, for example, it's clear that we don't understand hyperbolic discounting. Like, we just can't do it.
+
+100
+00:21:36,000 --> 00:21:45,000
+Is it simply that evolution wasn't optimizing for that problem? And it really didn't? When it came down to reproduction and survival, linearity was sufficient?
+
+101
+00:21:46,000 --> 00:21:56,000
+That would be my guess, that what we need to know to survive and put freight is sufficiently linear that we can probably, that's probably all that was needed.
+
+102
+00:21:57,000 --> 00:22:22,000
+But I'd have to think more about that. I mean, what's linear in the world that is so important? But my sense is that relatively simple things that are related to eating and running away from predators and that sort of thing, running after mates, probably sufficiently linear that that was really all that was necessary.
+
+103
+00:22:23,000 --> 00:22:38,000
+So as you're getting deeper into the mathematics of the biology, you're probably struck by the fact that you don't have a lot of colleagues in this space, right? There's not a conference for theoretical biologists, right?
+
+104
+00:22:39,000 --> 00:22:53,000
+No, no. And similar to the response of your colleagues to your model, pretty much everybody, pretty much all of my colleagues hated it. I thought the whole thing was ridiculous.
+
+105
+00:22:54,000 --> 00:22:56,000
+Were they even qualified to understand it?
+
+106
+00:22:57,000 --> 00:23:17,000
+Probably not. But just on an intuitive level, they just couldn't understand why you would do this. And it's funny because if I had a dollar for every time someone said to me that cancer is too complicated to model, I wouldn't have to apply for grants anymore because that was kind of the prevailing wisdom.
+
+107
+00:23:18,000 --> 00:23:34,000
+And I mean, the irony of that is that the argument itself is self-defeating. If it's that complicated, then you have to have mathematics. I mean, there's no way that the human brain is going to understand complex systems without sufficient mathematics.
+
+108
+00:23:35,000 --> 00:23:51,000
+Unfortunately, I think in there was a certain arrogance that you're also taught as physicians, which is that, well, it's too complicated to model, but my superior intellect will be able to sort of master this and figure it out.
+
+109
+00:23:52,000 --> 00:24:09,000
+I mean, it always got the feeling that there was that second cause in that statement that went unsaid but was part of this kind of idea that this confidence that we can understand this and we can step back and we can take care of this without the mathematics.
+
+110
+00:24:10,000 --> 00:24:32,000
+And so I think it takes some humility to say, well, I really need to look at the math models and the computer simulations to understand how I think this is going to happen. I don't know that we physicians have been taught humility sufficiently well to accept that.
+
+111
+00:24:33,000 --> 00:24:56,000
+Yeah. And another great example of that is look at other incredibly complex systems like economics. And of course, I don't know what the stats would be, but certainly a sufficient number of the Nobel Prizes awarded in that field are fundamentally based on mathematics, whether it be game theory or otherwise.
+
+112
+00:24:56,000 --> 00:25:11,000
+Obviously, a lot of them are behavioral as well. But nevertheless, I don't think anybody is suggesting that the models are sufficient in economics. In other words, that you can take an economic model, you can plug in all of the initial conditions and it will tell you the answer.
+
+113
+00:25:11,000 --> 00:25:25,000
+If unemployment is this, if the rate of home price appreciation is this, if inflation is this, here are 50 starting variables, put them in the model and it will spit out GDP growth 10 years from now.
+
+114
+00:25:25,000 --> 00:25:32,000
+I don't think anybody is so delusional to believe that that's true, but it still doesn't minimize what the model can do for your understanding of the system.
+
+115
+00:25:33,000 --> 00:25:52,000
+Yeah, we like to talk about hurricane modeling and weather modeling in general, which is a classic example of how to master a complex dynamic system. And you can pretty much, you can be pretty sure that you can predict what's going to happen in the next 24 hours.
+
+116
+00:25:53,000 --> 00:26:11,000
+After that, the complexity as well as stochastic changes are going to degrade the accuracy. But that doesn't mean that at each day you get more data and you just keep predicting forward.
+
+117
+00:26:12,000 --> 00:26:29,000
+It's not necessary, at least again in cancer modeling, to say what's going to happen 10 years from now. You need to know what should I do, what therapy should I use today and for the next three months say.
+
+118
+00:26:29,000 --> 00:26:43,000
+After that, we'll get more data, we'll start again. But sometimes people expect more of it than that. And like you said, that's this idea that we should be able to predict the entire course is not realistic.
+
+119
+00:26:44,000 --> 00:27:10,000
+I'm glad you brought up hurricanes and weather because as you note, there are some of the most complicated models out there. And that has to do with the fact that they behave in many ways as these, like Lorenz curves, right? So they are chaotic systems. And because they are so, so, so sensitive to initial conditions, they don't really behave well outside of very, very narrow delta T windows.
+
+120
+00:27:10,000 --> 00:27:22,000
+And, you know, as we remember, still, I remember in college when we began studying chaos, you know, the first example you learn is about the butterfly that flaps its wings in Tokyo that leads to the storm two weeks later in New York.
+
+121
+00:27:22,000 --> 00:27:37,000
+Where would you put, and this is getting way ahead of ourselves because we're going to come back and go through it from an evolution perspective. But just at the outset, before I forget to ask this question, where would you put cancer models on the relative spectrum of,
+
+122
+00:27:37,000 --> 00:28:02,000
+here's a really well behaved model on one side, you know, some linear regression model that works perfectly because you have infinite past data and the future scenarios don't deviate. So that's like monkey model. And then at the other end of the spectrum, you have the weather predicting hurricane predicting model as the most chaotic. If that's a one in a 10, where does, where does cancer biology behave?
+
+123
+00:28:03,000 --> 00:28:26,000
+I think probably eight or nine. I mean, I think it's, I think it's on more on the chaotic. I think there's a lot of stochasticity. There's also a lot of heterogeneity. And I think those things make it difficult. And so it's, it's harder to predict, but not infinitely hard. I mean, I think we can, we can do this.
+
+124
+00:28:26,000 --> 00:28:55,000
+But we always have to have a level of humility and understanding that, first of all, evolution is very clever and likes to embarrass you so that, you know, it can easily, you can easily crash and burn. But it's not, it's not random either. I mean, there's, there's predictability to it. And, and finding that, that, that point between them where you can predict with reasonable,
+
+125
+00:28:56,000 --> 00:29:15,000
+certainly, and also sort of head your bets in ways that even if things don't go exactly as you plan, you can still benefit the patient from, you know, early recognition that it's not going the way you planned recalibrating models, rethinking the underlying dynamics and then going forward.
+
+126
+00:29:16,000 --> 00:29:26,000
+As opposed to, you know, here's your, your model, you know, just take one a day for the next 10 years and you'll be fine. I don't think we can, we can be at that point.
+
+127
+00:29:27,000 --> 00:29:50,000
+So let's go back to, you know, that first year where you're, you've relearned the mathematics. Presumably at some point you say I want to look in nature and see where mathematics has already come up with an elegant way to describe a similar problem. Is that what led you to the study of predator prey models?
+
+128
+00:29:51,000 --> 00:30:07,000
+Yeah, it just the equal evolutionary dynamics in general. And it's very appealing because of course there are living systems, you know, these, the ecology of, of, you know, swamps and that sort of thing is very complicated.
+
+129
+00:30:07,000 --> 00:30:16,000
+And yet they can more or less master these, these, these complex relationships. And so that was appealing to me.
+
+130
+00:30:17,000 --> 00:30:37,000
+It was also appealing to me because, you know, when you work in a cancer center, the, the, the cancer almost takes on a persona, like an evil entity kind of thing, almost magical in its ability to, to overcome anything that the physicians do.
+
+131
+00:30:38,000 --> 00:30:55,000
+And, and if you talk to oncologists, many of them will have that, they may not say it, but they have that kind of sense of it. And to me, just saying that cancers have to obey their winning loss, that they're not magic. They're not unfathomable.
+
+132
+00:30:56,000 --> 00:31:17,000
+They simply are really good evolutionary machines. And we can, we can, we can master this. We, we, we understand evolution and, and we can get on top of this. This is this, you know, it's not, it's not something that we cannot understand because before that it just felt like we have no basis to understand this.
+
+133
+00:31:17,000 --> 00:31:33,000
+It just happens and we do this and this happens. And so this to me gave it some deterministic quality, some, some cause effect relationships that, that at least to me were comforting. Like I, yeah, we could, we could deal with this.
+
+134
+00:31:33,000 --> 00:31:45,000
+So explain to folks how the standard, relatively simple predator prey models work. So the swamp is too complicated because you might have multiple predators and multiple prey.
+
+135
+00:31:46,000 --> 00:31:58,000
+But let's start with first order differential equations, second order differential equations where you've got one, you know, you've got an isolated ecosystem where you've got foxes and hares. How does that dynamic work?
+
+136
+00:31:59,000 --> 00:32:18,000
+Well, the, you know, the hairs essentially turn, convert local vegetation to babies, to baby hairs. And so they reproduce the foxes or whatever the predator is going to eat the, the, the rabbits.
+
+137
+00:32:19,000 --> 00:32:34,000
+And of course, so then you get these, these population rises and falls because if the, if the predator eats too many of the, of the prey, then its population will tend to decline.
+
+138
+00:32:34,000 --> 00:32:43,000
+It's its population declines, the predator population expands. And so you can see these, this cycling effect that goes on for prolonged periods of time.
+
+139
+00:32:44,000 --> 00:32:55,000
+And there at least are some data that have suggested that this is the case. But as with everything that's, that's living, it's, it's always more complicated than that. There's always various factors that, that's come into play.
+
+140
+00:32:56,000 --> 00:33:08,000
+But at least that was really, I think probably, if probably the first of really kind of recognized population models that began to be applied to nature.
+
+141
+00:33:09,000 --> 00:33:24,000
+And so it's kind of, it's interesting to see that and predator prey models are still, are things that we use a little bit like for the immune system, where the immune system is kind of a predator and the, and it's chasing after the cancer cells.
+
+142
+00:33:25,000 --> 00:33:35,000
+But of course there's, there's, there's important differences in that. The, the predator eats the prey and gains, you know, substrate from that.
+
+143
+00:33:35,000 --> 00:33:43,000
+Whereas in, in the, in the immune system, it kills the, the, the cancer cells, but it loses substrate, doesn't eat them up.
+
+144
+00:33:44,000 --> 00:33:56,000
+And in fact, if anything, if anybody's eating anything, it's probably the cancer cells are swooping up, you know, elements of their brethren that, you know, the macromolecules that they're getting spilled into the environment.
+
+145
+00:33:57,000 --> 00:34:04,000
+So, so there's, again, it's an, one of those things that's an appealing model, the predator prey model in immunotherapy.
+
+146
+00:34:05,000 --> 00:34:15,000
+And yet there are important distinctions that you have to recognize that that make the biology different and in some ways can give advantages to the prey that you don't really expect.
+
+147
+00:34:16,000 --> 00:34:29,000
+So when you move on to a more complicated system like the swamp, right? Where you've got, you know, you've got everything from algae to bacteria to, you know, small fish.
+
+148
+00:34:29,000 --> 00:34:55,000
+And then you have to deal with how much sunlight is coming in and what's the temperature. I mean, now it starts to look a little bit more like the human body where, why is there an algal, you know, bloom here that basically consumes all of the oxygen and rapidly kills all the fish versus a system that can be somewhat in a sustained setting where you never fully get rid of the algae, but the fish can live.
+
+149
+00:34:56,000 --> 00:35:15,000
+And there's kind of a beautiful chain of carbon fixation that goes from algae to fish. So to me, like, how did you get to the point where you could look at that and say, we can now model this for human cancer, given that this is far more likely how it behaves.
+
+150
+00:35:16,000 --> 00:35:36,000
+Again, it's, you know, simplifying. It's, you know, the best we can do is sort of a cartoon. And it's interesting to think about why. I mean, ecologists that are looking at a new ecosystem will begin by asking a very simple question. What's the birth rate and death rate of each species that's present?
+
+151
+00:35:36,000 --> 00:35:41,000
+We don't know that in the cancer. I mean, astonishingly enough, that's not data that we get. What's the carbon cycle? What's the iron cycle? What's the, you know, nitrogen? What are all these cycles? How can we can we watch these substrate pass through individuals and how does that work? We don't get that. So one of the problems that we call just kind of turned pale when they started asking these questions and realized that we have that cancer biologies have a lot of
+
+152
+00:36:06,000 --> 00:36:27,000
+never thought in those terms. I mean, something as simple as what is the birth rate and the death rate of the cancer population. You know, it's astonishing to me that we don't know that. And, you know, things like that. You know, what's the growth rate of the tumor? What are we kind of dealing with it, even in a first order kind of estimate.
+
+153
+00:36:28,000 --> 00:36:48,000
+We often don't do. And it's kind of astounding to me that we have we do things very crudely, in my opinion. We don't we, you know, the evolutionary biologist and ecologist are, you know, take a far more sophisticated view of these of these interactions than we do.
+
+154
+00:36:49,000 --> 00:37:12,000
+Even to the point, an interesting fact is that if you were a pesticide manufacturer, you are required by law to submit a resistance management plan. You have to identify how pests become resistant to your, you know, what are the mechanisms of resistance and how do I plan to prevent that from occurring.
+
+155
+00:37:13,000 --> 00:37:30,000
+You can you can introduce cancer drugs. I mean, what cancer drugs are routinely approved without any knowledge of what the resistance mechanism is, much less how you're going to manage that in a patient.
+
+156
+00:37:31,000 --> 00:37:50,000
+So, again, this this odd kind of disconnect that in some ways, I think the ecologist, evolution biologist have have pushed ahead of us and we're just trying to catch up with them in terms of understanding of taking their sophisticated models and applying them to cancer.
+
+157
+00:37:51,000 --> 00:38:01,000
+So let's talk about the ecological models of pests and pesticides, because that's something that I think gave you a big insight, correct?
+
+158
+00:38:02,000 --> 00:38:13,000
+Yes. So one of the things that I had run across was just a kind of a story on the on the Internet News somewhere about the Diamondback moth.
+
+159
+00:38:13,000 --> 00:38:23,000
+And it was the story was that it was that it was first recognized, I think it's in Indiana, somewhere in the Midwest in the mid 19th century.
+
+160
+00:38:24,000 --> 00:38:39,000
+And and this this the Diamondback has has the I guess the the the honor of having received and struck by every pesticide developed in the modern era.
+
+161
+00:38:39,000 --> 00:38:53,000
+And and what it has done is is absolutely nothing. In fact, it's spread all over the Diamondback, spread all over the country and to Europe and to Asia.
+
+162
+00:38:54,000 --> 00:39:04,000
+And it's just everywhere. And in the 1980s, it was they were uncovering Diamondback moths that were not susceptible to any known pesticide.
+
+163
+00:39:04,000 --> 00:39:15,000
+I mean, they had become resistant to all of them. And to me, this was it was interesting because so it begins to sort of look at this that this whole process.
+
+164
+00:39:16,000 --> 00:39:26,000
+And and of course, farmers for centuries used pesticides freely. And the idea is you dump as much of it on the the your fields as you can.
+
+165
+00:39:26,000 --> 00:39:34,000
+You want to get rid of as many of the pests as you can. But what people realize is that by doing that, you're selecting for resistance.
+
+166
+00:39:35,000 --> 00:39:52,000
+And so explain to people why that's true, because it is counterintuitive. I think most people would say, well, gosh, if I'm a farmer and I've got my acre of corn here and there are a million moths that have descended on this acre.
+
+167
+00:39:53,000 --> 00:40:04,000
+I want to get every one of them eradicated. And the best odds of doing that, wouldn't that just be using all of the pesticide I can just shy of killing my own crop?
+
+168
+00:40:05,000 --> 00:40:17,000
+Yes. And that that's one of those things that is intuitively appealing, but not necessarily true. And and the reason is that you're dealing with a very large population.
+
+169
+00:40:17,000 --> 00:40:31,000
+And this is not a uniform population. It's that this is biology, which means that there's there's heterogeneity within that population. And there are moths in that population that are extremely sensitive to the pesticide.
+
+170
+00:40:32,000 --> 00:40:35,000
+And there's going to be moths in that that population that are not very sensitive.
+
+171
+00:40:36,000 --> 00:41:03,000
+Okay, so let's put some numbers to it. So I just gave you a million moths, you dump the best pesticide imaginable on them. What if we assume that there's a spectrum and you know, 20% of them die at the first whiff of the pesticide. 60% of them eventually get club to death. But 20% of them, I don't know, they they seem somewhat immune. Is that?
+
+172
+00:41:03,000 --> 00:41:30,000
+Yeah, let's just use those numbers, right? Sure, sure. And then so short term, you did good. Because you got rid of 80% of them. Right, right. Now dump pesticide on them again. And now, you know, maybe one. So that population that's that's that's that 20% now has a whole field that's open to it. It has no competitors. So it can rapidly expand.
+
+173
+00:41:31,000 --> 00:41:56,000
+And it's taking its genome with it. And so it's, you know, the the it's offspring will also be somewhat heterogeneous, but they will definitely be shifted more toward the the resistant one. So you now you you dump your your massive amounts of pesticide, and maybe you have 5% of them that die, and maybe you get 20% of them that, you know, eventually die, but 80% of them don't. And and you just keep doing so.
+
+174
+00:41:57,000 --> 00:42:17,000
+Year one, or, you know, season one, looks good. And and again, intuitively, you know, like a really good idea. But the long term effect is that now you've got pests that you can't control anymore, you're you're you have a pesticide that doesn't work.
+
+175
+00:42:17,000 --> 00:42:46,000
+And so, in the longer term, what you've done is you've created a species you can no longer control. Now you have to find a new pesticide. And, you know, there's always some cross resistance. And in any large biological population, there's sufficient heterogeneity that it's most likely that you're going to have resistance. So if it worked, and it worked, and it worked, and it worked, and it worked.
+
+176
+00:42:47,000 --> 00:43:13,000
+Part of this is say, well, yeah, okay, that but how do you know that there's resistance and, and it's simple. If it worked, there wasn't resistance. But you know, from from experience, you know, for that and over and over and over again, what you found was that you use this large, you know, dose pesticides, you can you can get a short term gain. But in the long term, it doesn't work.
+
+177
+00:43:13,000 --> 00:43:30,000
+So believe, you know, your eyes. And so it and so this actually, you know, again, ecologist that was about, you know, we're way ahead of us here. They said, Well, okay, that doesn't this, this has got to, there's got to be something different to this.
+
+178
+00:43:30,000 --> 00:43:58,800
+And so, in the Nixon administration, this is a long time ago, same time that they started the one cancer, the this this, the using large doses of pesticide was essentially not allowed. And they started to do this thing they called integrated pest management. And the idea with this is that you recognize that you can't eradicate the past that there's simply no
+
+179
+00:43:59,800 --> 00:44:22,520
+just historically, there's nothing that's ever done that before. So let's assume that's not going to happen this time. Let's give enough pesticide that we're going to knock this population low enough that they're not going to do very much crop damage. But don't do more than that. And there's a number of ways you can do that. So for example,
+
+180
+00:44:23,520 --> 00:44:48,320
+they would take a field and they would they would put pesticide on three quarters of the field and leave one quarter alone. These, you know, you would knock this population down, but you would not you to this last quarter of the field, you're applying no selection for resistance. And so these guys would then move out to the rest of the field. And, you know, you eventually get this low population, but you're not selecting for resistance.
+
+181
+00:44:49,320 --> 00:45:11,320
+There's a there's a another bit of this and that is that the resistance cost something, you know, be able to deal with a toxic pesticide or toxic drug. You know, you have to have the molecular machinery necessary to deal with it. You have to be able to repair your your your DNA. If it's if it's damaged, you have to be able to pump it out, which is what a lot of them do.
+
+182
+00:45:11,320 --> 00:45:40,320
+And there's a number of different mechanisms, but all those mechanisms have a cost. It doesn't necessarily have to be a big cost. But but but and in the cost benefit ratio, when you've got a lot of this drug around, those guys are clearly, you know, the benefit greatly outweighs the cost. But when there's no drug present, the then the cost does not it does not outweigh the benefit.
+
+183
+00:45:41,320 --> 00:45:56,320
+And so now the guys that are not resistant don't have to carry that machinery around with them are more fit. And so there's this then subtle competition that goes on. So you'll be selecting for resistance and let's say the three quarters of the field.
+
+184
+00:45:56,320 --> 00:46:22,320
+But when the when the ones that are sensitive move into that area, they have a benefit. They have the benefit of not having this pesticide being applied to them anymore. There's no selection for resistance. And their fitness advantage will be such that the that when the when the pest population comes back to something close to what it was at the beginning, it's as sensitive as it was in the in the beginning.
+
+185
+00:46:22,320 --> 00:46:49,320
+And so will it actually get better? I mean, is there is there a scenario here under which if I'm understanding you correctly, yeah, the moths that will be able to best resist the pesticide, they that comes at a cost. And the cost is molecular machinery that is only there to allow them to survive the toxicity of the pesticide, but not reproduce better or acquire food better.
+
+186
+00:46:49,320 --> 00:47:08,320
+So the more quickly you can get non pesticide resistant moths back into their ecosystem, who presumably in the absence of pesticide now have a fitness advantage over them, because they don't have the extra baggage they don't need in a non pesticide world.
+
+187
+00:47:08,320 --> 00:47:27,320
+They'll actually out compete them. So is there a scenario where in year one, 20% of the moths are resistant to the pesticide, but if you manage it correctly in year five, that number is 10% because they have actually been out competed by the other moths.
+
+188
+00:47:28,320 --> 00:47:56,320
+Yeah, so where were you 20 years ago? Because when I only recently has this has has your scenario come up. And I guess we're getting a little ahead of ourselves. But but we've done a study now with with in men with prostate cancer, or we've used a drug. And what we did was that this we gave the drug until the tumor responded to 50% of its pretreatment value, pulled it away.
+
+189
+00:47:56,320 --> 00:48:14,320
+Let the let the tumor come back up. But again, similar to this tool, we talked about the there's no pesticide being applied to the drug being applied. There's no, there's no, there's no, there's no selection for resistance. And so the sensitive guys are supposed to come back up.
+
+190
+00:48:14,320 --> 00:48:40,320
+And there is an end. So grow at the expense of the resistance. Now, for a very long time, our model said that what would happen is that every time the sensitive population came down, the resistant population would go up a little bit. And when the sensitive population started going, we took the drug away, let the sensitive population grow, the the resistant population would plateau.
+
+191
+00:48:40,320 --> 00:48:59,320
+And what we then assumed is that at each cycle, you would you would have this plateau. So stepwise, it would just keep going up. And at some point, you would lose control inevitably. And all of our models said that if we did this somewhere between two and 20 cycles, the treatment would fail.
+
+192
+00:48:59,320 --> 00:49:08,320
+Wow, that's that's a that's a huge variance, though, two to 20 cycles, that could be the difference between a few months and a few years. Why such a why such a difference?
+
+193
+00:49:08,320 --> 00:49:37,320
+Well, we didn't know the at the time we we didn't know what the fraction of resistant population was at the at the beginning. So that was probably the biggest thing. So if it's 1%, you know, that takes longer than if it's if it's, let's say 20 to 30%. And there are some other things like the, the, we didn't, we weren't really entirely sure what the proliferation rate was. And again, even things like birth and death, we didn't, we didn't know.
+
+194
+00:49:37,320 --> 00:50:00,320
+We just estimated those. But so we've done so we did this trial on this, or just a pilot trial to see if this worked. And, and so what we did was we then so we gave this kind of intermittent therapy, and we compared it to patients that just got the standard maximum tolerated dose until progression.
+
+195
+00:50:00,320 --> 00:50:20,320
+The, the difference between the groups was 16 months. So it was made in time progression for standard of care was 14 months, which is pretty much what's what's in the literature for the for the adaptive therapy group, it was 30 months, which was which was great.
+
+196
+00:50:21,320 --> 00:50:29,320
+But then we said, but of the 24 patients are now out five years and they're still cycling.
+
+197
+00:50:30,320 --> 00:50:33,320
+And this is this is patients with metastatic prostate cancer.
+
+198
+00:50:33,320 --> 00:50:48,320
+That's that's correct. So what the models said, and this is this is now gets this gets very nerdy but but the perhaps the most important thing that came out of this trial was the number seven, because the ratio of the fitness.
+
+199
+00:50:49,320 --> 00:50:55,320
+Measure for the sensitive cells was seven fold that of the resistant cells.
+
+200
+00:50:55,320 --> 00:51:04,320
+And we had estimated at two or three. So it's a big difference. And the reason it's a big difference in favor of the healthy cell.
+
+201
+00:51:04,320 --> 00:51:16,320
+Exactly. And so what we see then is that when the sensitive cells, you have sensitive cells that go down, resistant cells go up, sensitive cells go up, we expected them to plateau.
+
+202
+00:51:17,320 --> 00:51:18,320
+But in fact, they're going down.
+
+203
+00:51:19,320 --> 00:51:32,320
+But seven, they go down. And what we found was that if you in fact had three cycles, where you hit that sweet spot exactly the the resistant cells progressively went toward extinction.
+
+204
+00:51:32,320 --> 00:51:42,320
+So three successive cycles is a critical enough mass that you can drive that resistant cell to a to a presumably to a place where and by the way, is it limited by substrate?
+
+205
+00:51:42,320 --> 00:51:47,320
+Is that the most important factor that is creating the fitness differential?
+
+206
+00:51:47,320 --> 00:51:52,320
+Yes, we think now it's going to be they're competing for space and substrate.
+
+207
+00:51:53,320 --> 00:52:02,320
+And of course, the tumor environment is one in which usually the substrate delivery is very poor because the the the blood flow isn't very good.
+
+208
+00:52:02,320 --> 00:52:13,320
+So substrate is probably the most limiting factor. But again, we don't know this. I mean, this is again one of those things that I wish we knew more about because we're in some ways we're just working in the dark.
+
+209
+00:52:14,320 --> 00:52:28,320
+But what's happened is that what we and so when we went back and looked at these these four patients that that that have just have gone far beyond anything that you would expect for this treatment.
+
+210
+00:52:28,320 --> 00:52:35,320
+I mean, it's just there's very rare that someone would go five years on this treatment using standard of care.
+
+211
+00:52:36,320 --> 00:52:49,320
+What we found was that each of them had these three sequences cycles where we where the model predicted that they drove the the resistant population to extinction or or something very close to.
+
+212
+00:52:49,320 --> 00:52:51,320
+And none of the others had the three cycles?
+
+213
+00:52:51,320 --> 00:53:00,320
+No, none. And and that was the key thing that we learned from this, which is one of the great advantages of having the math models because you can self-critique.
+
+214
+00:53:00,320 --> 00:53:07,320
+Now, now you don't just take the the results of the cohort and say, well, this is nice. We did 16 months better.
+
+215
+00:53:07,320 --> 00:53:12,320
+We can also look at what we did and say, what did we do right and what did we do wrong?
+
+216
+00:53:12,320 --> 00:53:26,320
+And what the model said was that we had built into the into the protocol some components that that that as a result, we did not hit those those three consecutive cycles perfectly.
+
+217
+00:53:27,320 --> 00:53:35,320
+And and we and universally we over treated if we had cut back on therapy, we would have done still better.
+
+218
+00:53:35,320 --> 00:53:46,320
+And the models predicted that every patient in both cohorts in this study could have had we could have gained control of the tumor indefinitely.
+
+219
+00:53:46,320 --> 00:53:48,320
+What were the two? What was the other cohort?
+
+220
+00:53:48,320 --> 00:53:53,320
+The other cohort received standard of care, which is maximum.
+
+221
+00:53:53,320 --> 00:53:58,320
+Oh, but this was this was not randomized. Those were that's correct. It was a contemporary.
+
+222
+00:53:58,320 --> 00:54:02,320
+And what were you following? Was your metric PSA or was PSA?
+
+223
+00:54:02,320 --> 00:54:08,320
+Well, that was probably where the biggest mistake we made is that we we were following the PSA.
+
+224
+00:54:08,320 --> 00:54:15,320
+But then we required that when the PSA went down, that it would be confirmed by radiographic studies.
+
+225
+00:54:15,320 --> 00:54:23,320
+And we were getting the PSA every month. But you're constrained by insurance to get radiographic studies every three months.
+
+226
+00:54:23,320 --> 00:54:31,320
+And so what happened is that the PSA would get to 50 percent. But we didn't do we didn't change therapy until we got the radiographic finding.
+
+227
+00:54:31,320 --> 00:54:35,320
+So you were which meant they were lagging for two months. They kept getting treatment.
+
+228
+00:54:35,320 --> 00:54:41,320
+And they kept driving down. So we were we were killing off too many of the resistance of the sensitive cells.
+
+229
+00:54:41,320 --> 00:54:45,320
+And therefore they were not able to. You were impeding their fitness.
+
+230
+00:54:45,320 --> 00:54:51,320
+Now, of course, this is what what this what the model said is you guys are idiots.
+
+231
+00:54:51,320 --> 00:54:56,320
+If you just stayed with the PSA, you know, you would have been you would have gotten far better results than you did.
+
+232
+00:54:56,320 --> 00:55:09,320
+And you got pretty good results anyway. So so your your your your question goes to something that we honestly never thought about before,
+
+233
+00:55:09,320 --> 00:55:19,320
+which is that we may be able to we thought we could use the sensitive cells to control the resistant cells.
+
+234
+00:55:19,320 --> 00:55:26,320
+This suggests you can actually use the sensitive cells to destroy the resistant cells to eradicate the critical.
+
+235
+00:55:26,320 --> 00:55:38,320
+Now, I never thought about that. But this is now opening up whole new avenues of of therapy, at least theoretically, meaning at least potentially.
+
+236
+00:55:38,320 --> 00:55:46,320
+Because there's a lot of cases where, you know, the initial therapy for for cancers gets great results.
+
+237
+00:55:46,320 --> 00:55:50,320
+I mean, you know, they talk about remission tumors going into remission.
+
+238
+00:55:50,320 --> 00:55:54,320
+And of course, what happens is the tumor eventually comes back.
+
+239
+00:55:54,320 --> 00:56:00,320
+What we know then is is that the resistant cells are there, but they're there in a very small number.
+
+240
+00:56:00,320 --> 00:56:09,320
+And you can then estimate that they must be way, way, way less fit than the sensitive cells in the absence of treatment.
+
+241
+00:56:09,320 --> 00:56:14,320
+And that so that fitness difference is it must be very large.
+
+242
+00:56:14,320 --> 00:56:20,320
+And so using a number like seven as the ratio is not unreasonable.
+
+243
+00:56:20,320 --> 00:56:29,320
+In fact, it's highly likely. And so now we've got this situation where maybe we can start to think about using the treatment.
+
+244
+00:56:29,320 --> 00:56:32,320
+About using these very effective therapies.
+
+245
+00:56:32,320 --> 00:56:39,320
+So right now, what we do is we we give the therapy, you know, tumor kind of disappears, can't see it.
+
+246
+00:56:39,320 --> 00:56:43,320
+And what do we do? We keep giving the same therapy. We give it until progression.
+
+247
+00:56:43,320 --> 00:56:51,320
+Well, as we're doing that, you know, we've knocked the tumor to the ground, but we just keep giving it the same treatment.
+
+248
+00:56:51,320 --> 00:56:53,320
+And of course, what we're doing. So we're just closing the gap.
+
+249
+00:56:54,320 --> 00:56:58,320
+We're reducing the fitness ratio from seven, six, five, four, three, two, one.
+
+250
+00:56:58,320 --> 00:57:00,320
+And it'll flip on you.
+
+251
+00:57:00,320 --> 00:57:03,320
+Yes. And now suddenly we've got all we've got is resistant cells.
+
+252
+00:57:03,320 --> 00:57:06,320
+I can keep treating that all I want. That's not going to work.
+
+253
+00:57:06,320 --> 00:57:09,320
+But these are highly vulnerable to additional perturbations.
+
+254
+00:57:09,320 --> 00:57:22,320
+So the thing is, instead of just giving this treatment, you know, putting the get, you know, getting the cancer populations to something that's very, very small.
+
+255
+00:57:22,320 --> 00:57:30,320
+And then just keep treating them at that point, hit them again, do the do something different, apply additional perturbations.
+
+256
+00:57:30,320 --> 00:57:36,320
+One of my colleagues likes to say this is we were like we're like boxing here.
+
+257
+00:57:36,320 --> 00:57:42,320
+You know, you knock your opponent down and you go to your you go to your corner and, you know, the referee counts.
+
+258
+00:57:42,320 --> 00:57:45,320
+And when the when the opponent's back up, then you start again.
+
+259
+00:57:45,320 --> 00:57:49,320
+And, you know, this is it's not a boxing match. It's a knife fight.
+
+260
+00:57:49,320 --> 00:57:56,320
+You know, this is to the death. And that means that when you knock your opponent down, you don't stand back and wait.
+
+261
+00:57:56,320 --> 00:58:00,320
+You go attack. And I think that we've that's an approach.
+
+262
+00:58:00,320 --> 00:58:06,320
+And we've called that an extinction approach that we think is something that has not been explored yet.
+
+263
+00:58:06,320 --> 00:58:15,320
+But it's interesting that if you look at anthropocene extinctions, if you look at how our species has killed off other species, this is the way it happens.
+
+264
+00:58:15,320 --> 00:58:25,320
+There's usually an initial perturbation. But then after that, when you get a small population, you get a sequence of smaller perturbations that drive it to extinction.
+
+265
+00:58:25,320 --> 00:58:36,320
+It's a two step kind of process. What's interesting is that you cause extinction through a sequence of perturbations, none of which by itself could cause extinction.
+
+266
+00:58:37,320 --> 00:58:45,320
+In cancer, we're always looking for the magic bullet, the one that will eradicate the cancer and not in not the normal cells.
+
+267
+00:58:45,320 --> 00:58:53,320
+And for a century, we've been looking for magic bullets, but maybe all we need is a series of pretty good bullets.
+
+268
+00:58:53,320 --> 00:59:03,320
+And so that's a different sort of thinking process. But it but it is hard to sell that,
+
+269
+00:59:03,320 --> 00:59:11,320
+especially to a medical community in which new drug development is what's most incentivized.
+
+270
+00:59:11,320 --> 00:59:21,320
+So using the same drug, so in the case of our protocol, it's using a drug called Abiraterone, which is off patent.
+
+271
+00:59:21,320 --> 00:59:31,320
+Nobody's making any money on this. So there's no pharma company that's going to support the clinical trials.
+
+272
+00:59:31,320 --> 00:59:37,320
+It's really it's kind of an orphan drug. So there's no there's no natural supporter for this.
+
+273
+00:59:37,320 --> 00:59:44,320
+And the same is true with a lot of these other things that we're really just talking about using drugs that already exist, about using them better.
+
+274
+00:59:44,320 --> 00:59:52,320
+You know, again, there's just not a there's not kind of a natural support for it within the medical community.
+
+275
+00:59:53,320 --> 01:00:02,320
+I want to detour for a second, Bob, and talk about how this logic fits into an area that frankly, I've never considered until now.
+
+276
+01:00:02,320 --> 01:00:05,320
+I've just taken it for granted, which is the use of antibiotics and bacteria.
+
+277
+01:00:05,320 --> 01:00:17,320
+So standard thinking is you have a bacterial infection, you give the antibiotic and you know, there's some magic number, which is you're going to give it for X number of days.
+
+278
+01:00:17,320 --> 01:00:25,320
+It's a 10 day course. Now, three days into that 10 day course, the patient has defra-vest, they feel completely better.
+
+279
+01:00:25,320 --> 01:00:38,320
+The tissue culture is negative. But we continue to give the antibiotic for seven more days because our fear is or what we were told was if you don't, you will generate resistance.
+
+280
+01:00:38,320 --> 01:00:41,320
+But based on what you're telling me now, that might not be true.
+
+281
+01:00:41,320 --> 01:00:50,320
+In fact, it might be that giving that seven additional days of antibiotics might be exactly the thing that is leading to resistance.
+
+282
+01:00:50,320 --> 01:00:54,320
+Is that am I misunderstanding? Yes, I think that's certainly true.
+
+283
+01:00:54,320 --> 01:01:02,320
+I mean, I don't work with infections and there are but there are people that are are looking at this exact issue.
+
+284
+01:01:03,320 --> 01:01:11,320
+How do we how do you prevent the development of resistance of bacteria and worldwide?
+
+285
+01:01:11,320 --> 01:01:15,320
+It's a big problem with malaria and tuberculosis and and things like that.
+
+286
+01:01:15,320 --> 01:01:24,320
+And so the World Health Organization actively uses evolution based mathematical models to plan how they deliver treatment.
+
+287
+01:01:24,320 --> 01:01:40,320
+And a lot of it is, as I understand it, and again, this isn't my area, is that they are trying to kind of do this kind of adaptive approach where you just keep the resistant population low.
+
+288
+01:01:40,320 --> 01:01:51,320
+Now, there are some exceptions where my understanding is some people have advocated regional attempts to eradicate a population.
+
+289
+01:01:51,320 --> 01:02:04,320
+So so and again, a little bit like the Anthropocene extinctions. So, Bob, is one difference, I guess, as the more I think about this between antibiotics and bacteria versus chemotherapy and cancer.
+
+290
+01:02:04,320 --> 01:02:14,320
+Technically, a person can live with a billion cancer cells in their body and not I mean, you could live with billions of cancer cells in your body and be totally fine.
+
+291
+01:02:14,320 --> 01:02:22,320
+Is that true with, you know, bacteria? Is that true? Could you have a billion MRSA floating around your bloodstream and still be fine?
+
+292
+01:02:22,320 --> 01:02:26,320
+Or do we need complete extinction there in a way that we don't with cancer?
+
+293
+01:02:26,320 --> 01:02:32,320
+I you know, I don't know. We have to we have to get a someone that's expert in this.
+
+294
+01:02:32,320 --> 01:02:40,320
+I think that the one thing to remember is that by the time you have a cancer, it's defeated your immune system.
+
+295
+01:02:40,320 --> 01:02:50,320
+Whereas the bacteria often, you know, are still very different from our normal cells and therefore, I think, more targetable by the immune system.
+
+296
+01:02:50,320 --> 01:02:56,320
+I think there's probably a slightly different dynamic in that that that may change things.
+
+297
+01:02:56,320 --> 01:03:00,320
+But but I would defer to the to the people that are doing this.
+
+298
+01:03:00,320 --> 01:03:06,320
+I could give you some names of people that are interested in this topic.
+
+299
+01:03:06,320 --> 01:03:13,320
+Well, I'm glad to hear that people are studying this because antibiotic resistant bacteria are a huge problem in the hospital. Right.
+
+300
+01:03:13,320 --> 01:03:30,320
+And we've heard it. You know, again, we've heard about these superbugs and you can't help but wonder based on what you're saying if a big part of the problem was we're creating them by over treating in situations when we don't need to, you know, using using a drug for a lot longer than we need to.
+
+301
+01:03:30,320 --> 01:03:40,320
+Let's give people a sense of some numbers because I, you know, I remember when I was in medical school, I spent a few months at the NIH and the NCI.
+
+302
+01:03:40,320 --> 01:03:52,320
+And I got all these amazing assignments to do. And what my favorite assignment to do as the medical student was to look up all of the literature on cancer growth rates.
+
+303
+01:03:52,320 --> 01:04:07,320
+And so and they gave me this assignment because of my background in math. And so it was sort of like I could go digging in all the literature on, you know, every, you know, starting with the most trivial sort of logistic models to the, you know, Gompertz model and all of these other models.
+
+304
+01:04:07,320 --> 01:04:16,320
+But one of the things that really is interesting is just how many cancer cells you need to actually even be detected. Right.
+
+305
+01:04:16,320 --> 01:04:21,320
+It's about a billion cells in a centimeter cubed. So usually the number that's used. Yeah.
+
+306
+01:04:21,320 --> 01:04:31,320
+Yeah. You couldn't even there's no clinical outside of what we now have as liquid biopsies. There's no clinical way to even detect cancer shy of about a billion cells.
+
+307
+01:04:31,320 --> 01:04:45,320
+And this speaks to the non-linearity right to go from a million to a billion versus a billion to a trillion. Like these are it's hard for people to wrap their head around what's involved in those things.
+
+308
+01:04:45,320 --> 01:04:58,320
+And both from a growth perspective, because that's not linear, and a size perspective because you're dealing with something that's growing with a cube power, not a square power.
+
+309
+01:04:58,320 --> 01:05:14,320
+Where do you see this being an issue? Because the numbers are so enormous, right? And this gets to your question of if we talked about the example I used earlier of there being like a million moths.
+
+310
+01:05:15,320 --> 01:05:27,320
+Well, the heterogeneity there is already significant. But once you're talking about tens of billions of cells, by definition, the heterogeneity is probably even more significant. Correct.
+
+311
+01:05:27,320 --> 01:05:41,320
+Absolutely. And it's really important. I think there's two factors to think about. One is that is stochasticity. If you have a small population, small changes in birth and death rates can be quite significant.
+
+312
+01:05:42,320 --> 01:06:04,320
+You know, small populations can go extinct based on very small changes. The other thing is what's called the Ali effect. And that is that in a classic evolutionary model, as a population grows, the fitness should be decreasing because you're getting toward the carrying capacity of the environment.
+
+313
+01:06:05,320 --> 01:06:23,320
+But Ali and others have found that it increases. And the reason is that there's an advantage in groups and in herds, for example. I mean, you can the obvious advantages that they can gather themselves to to defeat predators.
+
+314
+01:06:24,320 --> 01:06:44,320
+But they can also there's there's sort of leadership issues and other things in tumors. There's there's a couple of things. One is they have to make blood vessels. And that means that there's small groups of them have to get together and make the endogenic factors that they then send to the to the blood vessels to to bring a blast vessel in.
+
+315
+01:06:44,320 --> 01:07:03,320
+It's probably not a single cell that can do that. It's a loosely organized system. The development of X-Chalet matrix that, you know, the tumors, it's just not tumor cells. They make a collagen and other things that go in between the cells that provide a kind of a structure for them to to live on.
+
+316
+01:07:04,320 --> 01:07:19,320
+They have to make that and that it can't just be anything. They probably act together for that. And then they also probably act together to defeat the immune system. They can secrete things and they can.
+
+317
+01:07:20,320 --> 01:07:44,320
+There's a number of things that they can act together on so that the, you know, tumor cells, small populations may not grow as fast as large populations and they may be more vulnerable to treatment. They may not be as able to deal with immunotherapy or target therapy or even chemotherapy because they don't have the capacity to act together.
+
+318
+01:07:45,320 --> 01:08:07,320
+So those two things are, I think, important factors in understanding treatment. And this is a little bit why, you know, I was talking about when, you know, there are therapies now that can take large cancers and and drive them down so that they become not detectable by CT scans, which means that their population has to be very small.
+
+319
+01:08:08,320 --> 01:08:24,320
+Those guys are now vulnerable to dynamics related to stochasticity and alieffacts that the larger populations are not necessarily, you know, applicable, are not necessarily responsive to.
+
+320
+01:08:25,320 --> 01:08:35,320
+And if you and one of the things that's very interesting, if you take something like neoadjuvant therapy, where you take a big breast cancer, for example, you make it small and then take it out.
+
+321
+01:08:36,320 --> 01:08:51,320
+What you find is that the tumor isn't a ball that just shrinks. So you don't get served with a big ball. You get a smaller ball. In fact, it fragments. And so what you get are little islands of tumor cells surrounded by fibrosis or anachrosis or something like that.
+
+322
+01:08:51,320 --> 01:09:03,320
+So these guys are islands, you know, this these are highly vulnerable. And so I think that that this is when we, you know, we should crank it up and kill it.
+
+323
+01:09:04,320 --> 01:09:17,320
+I think that this I think tumors are vulnerable at this point. But I think that the way we've done things, which is this dogma in oncology, you know, continuous, maximum tolerated dose until progression.
+
+324
+01:09:17,320 --> 01:09:32,320
+And as you just said, you can't see it. If you're waiting for progression, you won't see that until you have billions of cells. I mean, it has to be big enough that you can image or feel. And that's at least a CC of tumor. And it's probably two or three CCs.
+
+325
+01:09:33,320 --> 01:09:46,320
+By that time now, if you when you change therapy, you're you're you're dealing with a really big population, whereas you could have been dealing with a small fraction of it, you know, a few months earlier when you couldn't see it.
+
+326
+01:09:46,320 --> 01:10:00,320
+Now that oncologists always get what I have to be able to see something to be able to understand whether it's effective or not. You know, my therapy is effective. Yeah. And that's I get that. But but you're not going to be able to do that in this setting.
+
+327
+01:10:01,320 --> 01:10:12,320
+What's interesting is that the pediatric oncologists learned this a long time ago. This is how they cure leukemia. They give an induction therapy and then they immediately change to a different therapy.
+
+328
+01:10:12,320 --> 01:10:29,320
+So what they learned was that even after induction therapy, when there was no apparent tumor in the bone marrow or the blood that if you didn't do anything, the kids were all relapse. And so they hit it immediately with another with another group of drugs.
+
+329
+01:10:29,320 --> 01:10:41,320
+And then another group of drugs. They and so this is, you know, first strike, second strike kind of approaches. But they're not, they can't measure their outcome. They can only measure their outcome in the long term by saying, well, we've cured this kid.
+
+330
+01:10:41,320 --> 01:10:58,320
+Right. They can't say which drug was more effective in that cocktail. Right. And you'll probably never know in in in there's this there's this thing called the extinction vortex that they talk about in in in extinctions, where when the when you've got a small population, you know,
+
+331
+01:10:58,320 --> 01:11:08,320
+when you've got a small population, there's there's typically a sequence of perturbations and and they they they tend to be self synergizing.
+
+332
+01:11:08,320 --> 01:11:21,320
+In other words, they the further down the population you push, the more sensitive it is to stochastic and and effects. And so now you can never really tease apart those dynamics.
+
+333
+01:11:21,320 --> 01:11:40,320
+It's just it just all goes into extinction eventually. And and the goal then is not to try to really put these things together in a in a really additive way, except to say that all these guys together will tend to push this to this population to extinction.
+
+334
+01:11:40,320 --> 01:12:02,320
+And it's a little less precise than I guess we would like. But but that that is the nature, I think, of the of the extinction process as we've learned it. I mean, we it's interesting because whenever you say extinction, everybody thinks about the dinosaurs.
+
+335
+01:12:03,320 --> 01:12:18,320
+And I would argue even that some of our therapy is is that that kind of single event, single cause extinction application of massive evolutionary force to the species and you wipe it out.
+
+336
+01:12:18,320 --> 01:12:41,320
+The problem is you also wipe out most of the land animals on Earth. So it's indiscriminate. Whereas what we've learned from anthropocene extinctions from our own species eradicating other species, you know, as unfortunate as it is, we've been able to study those in detail and have learned that, in fact, most extinctions are multi cause, multi event, not not.
+
+337
+01:12:41,320 --> 01:13:07,320
+It's not the dinosaurs. They are the exception, not the rule. And so when we want to think about an anthropocene extinction of cancer cells, which is which is arguably what therapy is, that we would probably we should probably be thinking more about these multi cause approaches rather than trying to find a magic bullet that can can cure the cancer by itself, because you always have these side effects.
+
+338
+01:13:08,320 --> 01:13:30,320
+And it's so far we've not found a magic bullet. Well, and to your point, it's the bigger issue with the dinosaur analogy is not even so much that it's the exception and not the rule. It's the collateral damage when it's when it's when there's a single strike success. The collateral damage, you know, changes the planet.
+
+339
+01:13:31,320 --> 01:13:38,320
+If what killed the dinosaurs when it killed them came on our planet today, it would probably kill a lot of other things as well.
+
+340
+01:13:39,320 --> 01:13:40,320
+Absolutely.
+
+341
+01:13:41,320 --> 01:13:42,320
+Let me ask you a question. Oh, go ahead.
+
+342
+01:13:43,320 --> 01:13:59,320
+No, I was just saying that sometimes I tell people that, you know, I said, you know, a tumor might have a hundred grams of tumor, which is a which is still a pretty small tumor is going to have 100 billion cells, let's say, which is far more than the human population on Earth.
+
+343
+01:14:00,320 --> 01:14:14,320
+You know, think about could you do one thing? Could you apply one event that would kill all the people on Earth and now nothing else? You know, and I think it would be I mean, it's probably something could be done.
+
+344
+01:14:14,320 --> 01:14:29,320
+But I think that'd be very difficult and it's a kind of a gruesome analogy, but at least it kind of makes the point that it's the idea of a magic bullet, I think, is may not be it may not be an achievable result.
+
+345
+01:14:30,320 --> 01:14:43,320
+What role does time play in the sequencing of this? So let's go back to the example of pediatric oncology where you could sequence, you know, you go induction therapy and then you go with a series of therapies to follow.
+
+346
+01:14:44,320 --> 01:14:57,320
+And you start with a series of clinical shots, right? So one, two, three, four, five, six versus all six at once. Let's put aside the toxicity for a moment because the big reason you wouldn't do that is the toxicity to the child.
+
+347
+01:14:58,320 --> 01:15:09,320
+And a lot of these, you know, you have synergistic side effects that are intolerable. But just thinking about this from a theoretical standpoint, would there be an advantage or disadvantage to one of those approaches?
+
+348
+01:15:09,320 --> 01:15:19,320
+I mean, it would certainly be reasonable to say, well, if we've got these three different therapies, why don't we put them together and give them all at once? And oncology has been doing this for a long time.
+
+349
+01:15:20,320 --> 01:15:35,320
+And the results have been pretty much uniform in that what we find is that they do better than one, you know, the results are they the tumor is controlled for a longer period of time.
+
+350
+01:15:36,320 --> 01:15:52,320
+But the result is still that they die the disease, that the tumor comes back and they die now. And you can add more, you know, four or five drugs. And what tends to happen is that you get this diminishing return so that you just start getting more toxicity and no real increased benefit.
+
+351
+01:15:53,320 --> 01:16:07,320
+So one of the things to think about is, suppose you have two drugs and you're applying it to a 10 billion population, you know, so what is the probability that there are going to be cells present that are resistant to both?
+
+352
+01:16:08,320 --> 01:16:09,320
+Still high.
+
+353
+01:16:09,320 --> 01:16:20,320
+You have a big denominator, you know, so but now let's say you have a million. So let's say you have one drug, you get it, you know, you really do a great job. You're down to a million cells.
+
+354
+01:16:20,320 --> 01:16:38,320
+Let's say 10 million cells. Now you add the second drug. And so now what's what's the probability that within this 10 million that you will have some resistance, knock it down again, give a third drug. Now what's the probability, let's say of 100,000 cells.
+
+355
+01:16:39,320 --> 01:16:53,320
+You see what I mean? So is that is that predicated on delivery? Because you would argue that if those are independent events, it shouldn't matter if they're done in sequence or all at once, right? What is it about sequencing those that would create treatment advantage?
+
+356
+01:16:54,320 --> 01:17:07,320
+There's two things. One is you get as you get smaller, there's going to be you're killing the tumor cells that are sensitive. But remember that the ones that are resistant are also have to deploy.
+
+357
+01:17:08,320 --> 01:17:30,320
+Mechanisms of resistance being aware right back to that discussion. And I guess to your point, they're going to be more fragmented and therefore have less of the group network effect. Right. And so now, you know, again, when you've got a small population, subtle changes in birth and death rates will be sufficient to drive it to extinction.
+
+358
+01:17:30,320 --> 01:17:51,320
+That makes sense. And so even and as I talked to people about potentially designing this, even though there may be resistance, that you can still use the resistance to your to your your benefit. And some people have talked about then adding things like environmental changes.
+
+359
+01:17:51,320 --> 01:18:07,320
+So let's take an anti anti-androgenic so that you're now you're delivering less blood and you're creating a more difficult substrate environment. And some people have, you know, there's there's people that have used acids. People have used a number of different.
+
+360
+01:18:07,320 --> 01:18:23,320
+And these are more these aren't typically common medical practice, but but what individuals are doing based on their own exploration through Google and other other websites is that and they use various metabolic things.
+
+361
+01:18:23,320 --> 01:18:30,320
+And I think there's, you know, is potentially advantage to that. Again, in combination with this in a way that makes sense.
+
+362
+01:18:30,320 --> 01:18:40,320
+So so far, most of what we've been speaking about is really more or less one class of drug with a slightly different take on another one, which we've been talking about chemotherapy.
+
+363
+01:18:40,320 --> 01:18:52,320
+These are chemicals that are aimed at disproportionately killing cells that in theory are dividing. Right. So let's go back to what you said earlier.
+
+364
+01:18:52,320 --> 01:19:03,320
+The thing we learned in medical school that was incorrect was cancer cells divide more quickly than regular cells. Those of us that pay attention today know that that's not actually true at all.
+
+365
+01:19:03,320 --> 01:19:14,320
+The fundamental difference between a cancer cell and a non cancer cell is the response to cell cycle signaling. It's that a normal cell doesn't divide slower. It just when it's told to stop dividing, it stops dividing.
+
+366
+01:19:14,320 --> 01:19:20,320
+Cancer cell doesn't. When it's told to stop dividing, it says piss off. I'm going to keep dividing.
+
+367
+01:19:20,320 --> 01:19:28,320
+That's a very good point. I mean, that really is. And evolutionarily, what this what this is is that it has a self defined fitness function.
+
+368
+01:19:28,320 --> 01:19:37,320
+Its proliferation is dependent on its own properties as they interact with the environment, not on instructions from the tissue.
+
+369
+01:19:37,320 --> 01:19:44,320
+Normal tissue cannot evolve because its birth and death is dependent on tissue controls. And so you're dealing with that.
+
+370
+01:19:44,320 --> 01:20:00,320
+That's right. So knowing that chemotherapy, which is the earliest form in the of drug in the modern arsenal against cancer, says how can we kill a cell that is not responding to cell cycle signaling?
+
+371
+01:20:00,320 --> 01:20:11,320
+And the first shot across the bow is, well, let's just kill anything that's dividing because we know that normal cells are less likely to be dividing and cancer cells are more likely to be dividing.
+
+372
+01:20:11,320 --> 01:20:23,320
+So let's target different cycles of the DNA proliferation phase. And that's why, of course, most people who are getting chemotherapy have side effects to the normal tissues that relate to that.
+
+373
+01:20:23,320 --> 01:20:38,320
+So the mucosal ulcers, the hair loss, the skin damage, nail thinning, all of that stuff is because those are tissues, even though they're normal, that are dividing more rapidly and they're being smacked as part of the collateral damage.
+
+374
+01:20:38,320 --> 01:20:58,320
+You mentioned another class of drugs courtesy of someone named Judah Folkman, who was really one of the first people to point out this idea that you've raised, which is, you know, cancer cells have another challenge that they face, which is they have to get the blood vessels to bring in the substrate, the glucose,
+
+375
+01:20:58,320 --> 01:21:10,320
+that they need to replicate, make energy and make building blocks to make more cells. And what if we target those things, these vascular endothelial growth factors?
+
+376
+01:21:10,320 --> 01:21:19,320
+And those drugs haven't turned out to be very successful, by the way. So they're billion dollar blockbuster drugs, you know, Avastin, probably the first, if I recall.
+
+377
+01:21:19,320 --> 01:21:26,320
+And they've extended median survival like a few months here and there, but they really haven't been blockbuster drugs.
+
+378
+01:21:27,320 --> 01:21:34,320
+We haven't talked about immunotherapy, right? So we haven't talked about the, you know, katrutas of the world, how they fit into that.
+
+379
+01:21:34,320 --> 01:21:48,320
+But it seems to me, and there's others, of course, right? We can talk about, you know, the few cancers where a single gene mutation exists and you can target it with like a GleeVAC or something like that.
+
+380
+01:21:48,320 --> 01:21:59,320
+But it seems that you could use selective chemotherapies and target on top of that anti-VEDJAF.
+
+381
+01:21:59,320 --> 01:22:11,320
+And the real question then becomes timing, right? How do you cycle those on and off to always be maximizing the gap in fitness?
+
+382
+01:22:11,320 --> 01:22:18,320
+So how do you maximize that fitness ratio? By the way, did your model predict that there's something specific about the number seven?
+
+383
+01:22:18,320 --> 01:22:24,320
+Because if I recall, you said your model thought you would end up between two and three. You actually ended up at seven.
+
+384
+01:22:24,320 --> 01:22:28,320
+In retrospect, does the model now tell you seven is the tipping point?
+
+385
+01:22:28,320 --> 01:22:37,320
+It's somewhere around there. We've looked at that at the transition as you go from, you know, zero to two to three to seven.
+
+386
+01:22:38,320 --> 01:22:42,320
+It's in that range. I don't know exactly where it is.
+
+387
+01:22:42,320 --> 01:22:53,320
+And it's certainly going to vary from tumor to tumor, but it's in that it's certainly, I would guess, at the five-ish range.
+
+388
+01:22:53,320 --> 01:23:03,320
+And so going back to my question, do you think, for example, the anti-VEDJAF drugs play a critical role in this when the tumor is scattered?
+
+389
+01:23:04,320 --> 01:23:09,320
+The way I'm thinking about it, right, I've anthropomorphized everything you've said into a society, right?
+
+390
+01:23:09,320 --> 01:23:14,320
+Which is the United States is 330 million people. It's a mighty nation.
+
+391
+01:23:14,320 --> 01:23:21,320
+And if anybody attacks us in theory, we can mount a response in a coordinated fashion, et cetera, et cetera, et cetera.
+
+392
+01:23:21,320 --> 01:23:26,320
+And this analogy may be too stupid by the time it comes out of my mouth.
+
+393
+01:23:26,320 --> 01:23:38,320
+Basically, if you decimated the population by 90 percent and there were only 33 million people left, presumably we would no longer continue to be the United States of America.
+
+394
+01:23:38,320 --> 01:23:42,320
+We would be a whole bunch of disparate tribes in total chaos.
+
+395
+01:23:42,320 --> 01:23:46,320
+Therefore, we'd be a heck of a lot more susceptible. Is that a fair assessment?
+
+396
+01:23:46,320 --> 01:23:55,320
+Yes. Yes. And that's the, you know, in the military, they talk about defeating your enemy in detail, meaning that if they are fragmented,
+
+397
+01:23:55,320 --> 01:24:00,320
+you don't have to deal with the whole population. You can just do it one at a time.
+
+398
+01:24:00,320 --> 01:24:15,320
+And yes, I think that's the case. And when you look at tumors after neoadjuvant therapy, these small little populations look like they're, you know, a hundred, maybe a thousand cells, not billions of cells.
+
+399
+01:24:15,320 --> 01:24:16,320
+Wow.
+
+400
+01:24:16,320 --> 01:24:22,320
+And they're widely separated. You know, they're not sending cells back and forth very much, if at all.
+
+401
+01:24:22,320 --> 01:24:33,320
+So it's a very different dynamic than these continuous tumors that, you know, where if you take if you chop out this corner of the tumor for some reason and all the cells die,
+
+402
+01:24:33,320 --> 01:24:41,320
+they everything just sort of moves in there and eventually it repopulates. You don't have that luxury in these fragmented populations.
+
+403
+01:24:41,320 --> 01:25:04,320
+And that's one of the major components of anthropocene extinctions. The heathen, for example, which was all up and down the northeast coast when the European settlers arrived, was finally just limited to Martha's Island.
+
+404
+01:25:04,320 --> 01:25:19,320
+And although it was protected by the humans there, a series of things happened. A couple of bad winters, there was a fire in one in part of their habitat and there was a disease developed.
+
+405
+01:25:19,320 --> 01:25:32,320
+And although the humans protected it so that its population grew considerably, it was still in only Martha's vineyard.
+
+406
+01:25:32,320 --> 01:25:41,320
+And these perturbations essentially wepted out. You know, it died. Again, it was that kind of that the extinction vortex, several things.
+
+407
+01:25:41,320 --> 01:25:54,320
+And I can't point to any one of them as the cause, but together they wepted out. And there was, you know, if they had had another colony, someone else, you know, they would still be alive.
+
+408
+01:25:54,320 --> 01:25:57,320
+But that just didn't happen.
+
+409
+01:25:57,320 --> 01:26:14,320
+So where do you think immunotherapy fits into the toolkit here, given that it tends to be more binary than chemotherapy, right? So immunotherapy, I'm making this up because it varies by histology.
+
+410
+01:26:14,320 --> 01:26:25,320
+But let's just say you take people in the best case scenario to people that have checkpoint mutations, right? So someone that has a PD-1 mutation.
+
+411
+01:26:25,320 --> 01:26:36,320
+The response rate to those people for an anti-PD-1 drug like Ktruda is very high and very durable. I mean, far more than anything you see with chemotherapy.
+
+412
+01:26:36,320 --> 01:26:47,320
+Conversely, if they don't have the PD-1 mutation, the drug is useless. So what does that tell us about the opportunity to use immune-based therapies?
+
+413
+01:26:47,320 --> 01:26:56,320
+And by the way, we borrow the term adaptive therapy again here, right? So you have adaptive therapies within immunotherapy, which are not to be confused with what you're describing as adaptive therapy.
+
+414
+01:26:56,320 --> 01:27:08,320
+Yeah, I think, you know, it's going to be a critical component of all this. And as you say, sometimes immunotherapy can stand on its own. It's the closest thing to a magic bullet that I think we have.
+
+415
+01:27:09,320 --> 01:27:24,320
+I think what we tend to view, the group I work with tends to view immunotherapy with the exception of those unusually responsive tumors as you're closer.
+
+416
+01:27:24,320 --> 01:27:36,320
+And this is our baseball analogy that when you get the population that's small, we think that allele effects are particularly important in immune response, in response to immune system.
+
+417
+01:27:37,320 --> 01:27:39,320
+Meaning evasion from the immune system.
+
+418
+01:27:39,320 --> 01:27:57,320
+Right. And so bringing the immune system in when you've got the tumor on the mat, you know, it's small, fragmented. I think that will be the most effective closer that we have to essentially wipe it out.
+
+419
+01:27:58,320 --> 01:28:07,320
+I could be wrong, but that in theory, that's that looks like a good, you know, this is the one you bring in to win the game.
+
+420
+01:28:07,320 --> 01:28:21,320
+And by the way, that could be going back to Gen 1 immunotherapy, which is Interleukin 2. Interleukin 2 had about maybe a 10 to 20 percent response rate in melanoma, particularly immune sensitive cancer.
+
+421
+01:28:22,320 --> 01:28:33,320
+But but that was treating patients with full blown metastatic melanoma. Maybe it would look very different in patients who were any day or who are visibly without disease.
+
+422
+01:28:34,320 --> 01:28:45,320
+And there are some I know that there have been some experiments that have suggested that cells that survive chemotherapy are more vulnerable to immunotherapy.
+
+423
+01:28:46,320 --> 01:29:00,320
+And ultimately, that would be the game that you'd want to play here is that you what you want to do is apply a therapy and you know that the resistance strategy might be the following thing.
+
+424
+01:29:00,320 --> 01:29:11,320
+You know, this is how it's going to evolve to become resistant and then attack the Achilles heel that's that's that's exposed by this immune response.
+
+425
+01:29:12,320 --> 01:29:18,320
+We had a person here do a this is kind of the reverse of this now.
+
+426
+01:29:19,320 --> 01:29:26,320
+They did a P53 vaccine in lung cancer patients that were had been treated with multiple different things.
+
+427
+01:29:27,320 --> 01:29:33,320
+And it didn't really get an effect. I mean, there was minimal efficacy. One patient got a partial response.
+
+428
+01:29:33,320 --> 01:29:39,320
+None of the others did, although they did generate immune cells to the to the vaccine.
+
+429
+01:29:40,320 --> 01:29:52,320
+They then went on and gave them chemotherapy. And the response rate to the chemotherapy was was 60 to 70 percent astonishing number for patients at that stage in their disease.
+
+430
+01:29:52,320 --> 01:30:08,320
+It should have been less than five percent. And the patients that had the best response to the best immune response to the to the vaccine were the ones that were most responsive to therapy, suggesting that those that
+
+431
+01:30:08,320 --> 01:30:19,320
+responded, you know, they had they they developed adaptive strategies and those adaptive strategies then made them more vulnerable to toxicity.
+
+432
+01:30:19,320 --> 01:30:27,320
+I mean, it's appealing to think that maybe they downregulated P53 so that they didn't have they were not expressing the target.
+
+433
+01:30:28,320 --> 01:30:34,320
+And of course, P53 is important in survival mechanisms and that sort of thing.
+
+434
+01:30:34,320 --> 01:30:39,320
+So perhaps that was a mechanism. I'm just speculating, of course.
+
+435
+01:30:39,320 --> 01:30:48,320
+But that's the kind of thinking that I would would like to apply here so that we're not isolating this.
+
+436
+01:30:48,320 --> 01:30:54,320
+You know, you do this therapy and then you do this therapy and you do this therapy, all of them in isolation.
+
+437
+01:30:55,320 --> 01:31:07,320
+But but start to put strategic strings of therapy together where the adaptive strategies that you're you're going to select for with one become vulnerable to the two and three.
+
+438
+01:31:07,320 --> 01:31:20,320
+And so that you're putting them together in a strategic kind of thoughtful way rather than just kind of putting them together, you know, in a kind of haphazard or intuitive way.
+
+439
+01:31:20,320 --> 01:31:23,320
+And again, that's where math models can I think can be very helpful.
+
+440
+01:31:23,320 --> 01:31:34,320
+No, that actually makes a ton of sense. I want to talk about another feature of cancer, which is what I call the source sync trade off.
+
+441
+01:31:34,320 --> 01:31:43,320
+Right. So I'm sure you've thought a lot about this. I endlessly thought about this and really never came up with a great insight.
+
+442
+01:31:44,320 --> 01:31:48,320
+There are some cancers. So let's start from first principles.
+
+443
+01:31:48,320 --> 01:31:54,320
+There aren't that many cancers that can kill you without spreading. Let's list the ones that can.
+
+444
+01:31:54,320 --> 01:32:02,320
+Brain cancer can kill you without spreading. Right. So glioblastomy multiforme can kill you and it doesn't leave the brain.
+
+445
+01:32:03,320 --> 01:32:09,320
+Primary hepatic cancer can kill you without spreading. Hepatocellular carcinoma can kill you.
+
+446
+01:32:10,320 --> 01:32:15,320
+I suppose lung cancer can kill you without spreading, though it's less common.
+
+447
+01:32:15,320 --> 01:32:21,320
+Am I missing an example? Is there some other cancer that can kill you shy of metastasizing?
+
+448
+01:32:23,320 --> 01:32:30,320
+I think you've for all for all intents and purposes. Yes. Okay. I think you're right. Okay. So that's principle number one.
+
+449
+01:32:30,320 --> 01:32:35,320
+Then let's go to observation number two or observation number one, I suppose.
+
+450
+01:32:36,320 --> 01:32:50,320
+There are certain cancers that always leave and there are certain cancers that are very deadly that leave tissues that other cancers never come to.
+
+451
+01:32:50,320 --> 01:32:58,320
+So breast cancer, prostate cancer, pancreatic cancer, colon cancer.
+
+452
+01:32:59,320 --> 01:33:10,320
+These are deadly cancers which come from an environment that are not especially hospitable to cancers because when a woman gets breast cancer,
+
+453
+01:33:10,320 --> 01:33:17,320
+the first thing that cancer wants to do is get out and kill her by going to her bones, her brain, her lungs, her liver.
+
+454
+01:33:18,320 --> 01:33:23,320
+Pancreatic cancer virtually always wants to go to the liver and that's where it kills. Right.
+
+455
+01:33:23,320 --> 01:33:29,320
+Colon cancer wants to go to the lungs, wants to go to the liver and wants to go to the brain sometimes and that's where it kills.
+
+456
+01:33:29,320 --> 01:33:39,320
+But rarely does a cancer go to the breast or go to the pancreas or go to the colon or go to the prostate.
+
+457
+01:33:39,320 --> 01:33:45,320
+Prostate virtually always wants to kill you by going to the bones. So do you see where I'm going with this?
+
+458
+01:33:45,320 --> 01:33:50,320
+Like you have this and I could go on for hours with all of my observations. I think the brain is another one. Right.
+
+459
+01:33:50,320 --> 01:33:58,320
+It's an enormously attractive place for cancers to go to but a primary cancer from the brain never seems to leave.
+
+460
+01:33:59,320 --> 01:34:07,320
+Now theoretically there's an exception to that. I suppose there are some vascular tumors of the brain that can leave but they're not really brain parenchymal tumors.
+
+461
+01:34:08,320 --> 01:34:19,320
+Do you have an insight into what explains this? And more importantly, does the answer to that question or the inference of an answer to that question offer an insight into
+
+462
+01:34:20,320 --> 01:34:26,320
+the environment in which tumors thrive and therefore what we might be able to do about it?
+
+463
+01:34:27,320 --> 01:34:30,320
+The short answer is I don't know.
+
+464
+01:34:31,320 --> 01:34:48,320
+Let me say what I'm certain of and that is this is not a planned event. We tend to give cancer cells this sort of anthropomorphic kind of, you know,
+
+465
+01:34:48,320 --> 01:34:57,320
+they are first they go out and prepare a metastatic site and then they send their cells out to it. That doesn't happen.
+
+466
+01:34:58,320 --> 01:35:18,320
+An evolving population can never adapt to conditions it has not seen before. It cannot plan to make metastases and it certainly can't plan to feather its nest in some distant site before sending out its scouts.
+
+467
+01:35:19,320 --> 01:35:45,320
+That's not happening. But we know in nature that we see introductions all the time and we know from nature that these species introductions are sometimes successful and sometimes not and it has to do with the way their phenotype interacts with the local adaptive landscape and can they adjust or not.
+
+468
+01:35:45,320 --> 01:35:54,320
+And we know that sometimes it takes several introductions before one occurs. Sometimes it never happens. Sometimes they can expand and then die out.
+
+469
+01:35:55,320 --> 01:36:14,320
+So I think that those are, that this is again, they're just basic rules that they have to live by. So for example, you can see species coming out of the Amazon.
+
+470
+01:36:15,320 --> 01:36:38,320
+They get onto, you know, just the Amazon collects trees and things that are floating down and the animals are on it. And so they go out and then anything that's in front of the Amazon is going to be receiving more of these and so more are more likely to see a metastatic monkey or something like that from the middle of the Amazon.
+
+471
+01:36:38,320 --> 01:36:57,320
+But and so the pancreas spills into the portal vein, which then goes into the liver. And so it's delivering a lot of its cells to the liver. So it makes sense then that it tends to metastasize there, if only because it's just sending a lot of cells there with others.
+
+472
+01:36:58,320 --> 01:37:06,320
+Right. The pancreas make sense. But how do you how do we make sense of the breast? How do we make sense of the prostate going to the bone disproportionately?
+
+473
+01:37:07,320 --> 01:37:25,320
+Yeah. And so I think that there's I mean, there's I think we just suggest general principles that there's something about, you know, some of the breast cancer cells seem to be able to set up shopping bones, some of them in the lung and some of them and for reasons that are not yet clear.
+
+474
+01:37:26,320 --> 01:37:45,320
+But you mentioned actually something that's that's I think important in source sync. And I think that's dynamic. And that's something that we've been talking about recently, source habitats, sink habitats, the idea that you've got habitats that are have very good blood supply that they produce a lot of cells.
+
+475
+01:37:46,320 --> 01:38:01,320
+But they and then now they're producing too many cells for the spatial environment. And those cells have to go out. And one can think of those within a cell so that you've got areas with poor blood flow and areas of good blood flow next to another.
+
+476
+01:38:02,320 --> 01:38:14,320
+And you can imagine cells migrating between them. And this can set up dynamics that are very interesting. But you could also think about a breast cancer cell that's got let's say is near a blood vessel because and
+
+477
+01:38:15,320 --> 01:38:29,320
+as it as you might expect it. So now it's getting big. There's too many cells. They crowd into the blood vessels. It sends them out. And so now you've got perhaps sink habitats somewhere else. And there may be some coupling that goes on in ways that honestly, I don't understand.
+
+478
+01:38:30,320 --> 01:38:49,320
+But but I think that we can sort of make up rules for that. But but for sure. I mean, I think what we know is that the limiting factor in this is the dynamics at the metastatic site that if you inject cancer cells into mice, the nearly all of them die at the metastatic sites.
+
+479
+01:38:50,320 --> 01:39:05,320
+And so the metastatic sites only is a very small percentage of them that will form even a few cells in a smaller percentage of those that ultimately form more cells that form a population. But I think this is again is that small population dynamics that we've talked about.
+
+480
+01:39:05,320 --> 01:39:28,320
+Stochastic effects, a Lee effects. You know, there's there's a lot of statistical problems with with going from a single cell to to a cancer that's significant. We are very lucky for that because we know that human cancers are frequently dumping millions of cells into the blood.
+
+481
+01:39:28,320 --> 01:39:46,320
+And metastatic sites, metastasis are are relatively rare when you think that people with early stage one cancer, you know, you can find cancer cells in their bone marrow and yet they don't get bone marrow metastasis. Breast cancer is the same kind of thing.
+
+482
+01:39:46,320 --> 01:40:01,320
+You can do bone marrow biopsies on women getting mastectomies for apparently localized disease and maybe 30 to 40 percent of them will have breast cancer cells in their bone marrow. And yet all of them do not develop metastatic disease in the bones.
+
+483
+01:40:01,320 --> 01:40:27,320
+Thank goodness, because it seems like for a variety of reasons. And how much of that do you attribute to the Lee effects and the stochastic variability that says, like, they're just not going to be fit enough to take up residence there versus some other inherent principle of like the genetic robustness of the tumor itself, because a lot of those women may go on to get adjuvant therapy.
+
+484
+01:40:27,320 --> 01:40:43,320
+And then it becomes a question of how successful was the adjuvant therapy. Yes, exactly. And I think that's where, you know, if you look at breast cancer, for example, what we know is that adjuvant therapy will reduce the probability of metastatic disease, but not eliminate it.
+
+485
+01:40:43,320 --> 01:40:57,320
+It's best a small effect. And we need to do better with that. And it's a great point because how do we treat, you know, adjuvant, how do we treat breast cancer with adjuvant therapy?
+
+486
+01:40:57,320 --> 01:41:11,320
+Well, we give them platinum or, you know, some drug for some period of time and that's it. Well, why don't we give, you know, a sequence of drugs? Why don't we take advantage of, because we know for sure we're dealing with small populations.
+
+487
+01:41:11,320 --> 01:41:28,320
+And we know for sure that we can cause them to go extinct at least some of the time. So why don't we optimize how we do this instead of simply pick up a drug from the shelf and administer it continuously, you know, for six months.
+
+488
+01:41:28,320 --> 01:41:38,320
+You know, this is another good example of where I think we've not thought through the equal evolutionary dynamics of what we're trying to treat. It seems to me...
+
+489
+01:41:39,320 --> 01:41:49,320
+Yeah, it's basically a paint by numbers approach, right? Which is paint by numbers is we're just going to do it this way versus I'm going to think through this strategically.
+
+490
+01:41:49,320 --> 01:41:57,320
+We have a pretty good sense that the more cancer cells a person has in their body, the more mutations they have, right?
+
+491
+01:41:58,320 --> 01:42:12,320
+So the difference between a billion cells, i.e. one cc of cancer versus a trillion cells, right, which is like an almost fatal load of cancer, is an enormous number of mutations.
+
+492
+01:42:12,320 --> 01:42:35,320
+And therefore it's not only bad from the mass effect, but also from now the fitness of it, right? You have so you just have such a genetically, a bad genetically diverse population. So you have enormous heterogeneity within the genetic, you know, badness, for lack of a smarter word.
+
+493
+01:42:36,320 --> 01:42:41,320
+Can I add that you also have diversity of their ecosystem?
+
+494
+01:42:42,320 --> 01:42:44,320
+Well, I wanted to now get into the eco...
+
+495
+01:42:44,320 --> 01:42:45,320
+Okay, sorry.
+
+496
+01:42:45,320 --> 01:42:57,320
+Yeah, yeah, yeah, no, no, but let's do that. Yeah, so let's talk about these two indices of eco and evo indices, which you've written about in a very recent paper. So explain for folks what these mean, because these are...
+
+497
+01:42:58,320 --> 01:43:01,320
+They're not the easiest concepts to get your head around sometimes.
+
+498
+01:43:01,320 --> 01:43:19,320
+Yeah, so when you talk to a cancer biologist about evolution, they say it's mutation selection. You know, you get a random mutation and that the cancer cells, you know, accumulate these mutations. Occasionally they provide a benefit and that's what causes the tumor to expand.
+
+499
+01:43:20,320 --> 01:43:27,320
+The problem with that approach is that it assumes the environment is stable. They're all dealing with the same environment.
+
+500
+01:43:27,320 --> 01:43:41,320
+Now, the alternative is to say that, and I think the more evolutionary appropriate thing to say is that there is tremendous variation in blood flow and other factors within the tumor.
+
+501
+01:43:42,320 --> 01:44:00,320
+And as the tumor goes into these areas of say low blood flow, the environment is entirely different. And so the environment is applying selection forces that are totally different from let's say down the road where the blood vessels are really good.
+
+502
+01:44:00,320 --> 01:44:10,320
+And the edge of the tumor, these cells are competing with the normal cells. Internally, they're competing with other tumor cells. So again, entirely different environments.
+
+503
+01:44:11,320 --> 01:44:25,320
+And so the more evolutionary model, in my opinion, is to say that the different environments within the tumor are the ones that give rise to different phenotypes, which in turn give rise to different genotypes.
+
+504
+01:44:25,320 --> 01:44:45,320
+So that in this case, the genes aren't causing the evolution. The genes are the consequences of evolution. One of the ways to think about this is to think about whether a modern day Darwin sitting on the beagle, you know, in the ship with his microwave machine.
+
+505
+01:44:45,320 --> 01:45:00,320
+He's got all these fancy molecular biology equipment. And SAWRs just brought random samples of finches to this modern Darwin. They ground them up, put them through the machine, got billions and billions and billions of data points.
+
+506
+01:45:01,320 --> 01:45:14,320
+Could they have written origin of the species from that data? And I think the answer is no. And I think that the reason is that what Darwin saw was that the beak of the bird and the seed,
+
+507
+01:45:15,320 --> 01:45:25,320
+the gene that's being matched, there's a morphologic matching that makes common sense. This isn't magic. It's just that beak's got to be bigger to pick up that seed.
+
+508
+01:45:26,320 --> 01:45:28,320
+He paired phenotype to environment.
+
+509
+01:45:29,320 --> 01:45:44,320
+To environment. To environmental section. Right. That's the logical way that evolution occurs. The genes are kind of downstream of that. The, you know, multiple genes, you know, the beak, you know, could be under the control of, you know, a few genes.
+
+510
+01:45:45,320 --> 01:45:56,320
+But how would you distinguish these genetic changes and say, well, there's the beak there and oh, there must be, that means there must be a big seed there.
+
+511
+01:45:57,320 --> 01:46:14,320
+Well, isn't it safe to say we might not even know? Like, isn't it safe to say that if you took the two closest finches, right? That the one that went from the beak like this to the beak like this, and you sequence them both, you might not be able to extract which genetic differences between those.
+
+512
+01:46:15,320 --> 01:46:18,320
+But I think that's what's accounted for the beak. In fact, I'd be surprised if you could.
+
+513
+01:46:19,320 --> 01:46:38,320
+Yeah, I agree. I mean, put a human in a chimpanzee. I don't actually, I don't know that. So I don't want to go there. But no, no, I completely agree. And I think that when we talk about cancer is a disease of the genes, what it's more complicated than that.
+
+514
+01:46:38,320 --> 01:47:02,320
+I think that the intense effort to characterize the genetics of tumors, you know, has had some benefit. But it also has some disadvantages because you lose that morphologic matching of the environment and the morphology of the cell, which is more common sense.
+
+515
+01:47:02,320 --> 01:47:16,320
+And I think in the long term, helps us understand it better. I mean, one of the questions one of my colleagues likes to ask is, who's an evolution biologist, you know, how many niches do you think are present in a cancer and how many species are present?
+
+516
+01:47:17,320 --> 01:47:23,320
+And, you know, you can, the answers are all, you know, it could be some people say, I mean, certainly not one, right?
+
+517
+01:47:23,320 --> 01:47:44,320
+And it's good. I mean, virtually never is it going to be one, but is it nine? Is it a hundred? Is it a million? And so we, when we think about, you know, tumors are clayed. It's starting from a single cell or small number, but it's speciating all over the place, you know, as it gets in different environments.
+
+518
+01:47:44,320 --> 01:48:00,320
+But the speciation isn't magic and it's not just due to a random mutation. It's because there are environmental variations and trying to understand that I think would help us a lot in terms of really getting a handle on, you know, what the cancer is doing.
+
+519
+01:48:00,320 --> 01:48:16,320
+And the reverse of that is, I mean, so, so take cancer cells out of a patient, put them in a dish, and now you start to grow in culture. Well, they're no longer being attacked by the immune system. They no longer have to worry about androgenesis.
+
+520
+01:48:16,320 --> 01:48:17,320
+I mean, it's an entire way.
+
+521
+01:48:17,320 --> 01:48:28,320
+They don't have the edge effects that you described earlier where some of them have a selective advantage vis-a-vis access to substrate, whereas others are more competing with the tumors at the inside.
+
+522
+01:48:29,320 --> 01:48:43,320
+Sure. So they may be, they're subjected to entirely different environmental selection forces. Now we say we take those tumors out, we do molecular biology studies, and we say, oh, well, this came from a lung cancer.
+
+523
+01:48:43,320 --> 01:48:57,320
+That means lung cancer must interact with this to do this. When in fact we're dealing with cells that have evolved far past, you know, they're far different from the cancer cells that were present.
+
+524
+01:48:58,320 --> 01:49:14,320
+Those, you know, that makes up an enormous amount of the cancer literature right now. And I don't know that that's useful. I don't know that you can extrapolate from those results to anything that goes on in vivo.
+
+525
+01:49:15,320 --> 01:49:28,320
+And it's also, I think, has led to very confusing literature, at least in my opinion. You take, you know, genes that are commonly, that have been extensively evaluated, and it's like they could do anything.
+
+526
+01:49:28,320 --> 01:49:40,320
+You know, according to the literature, they have any function you can name because they get found everywhere. So I think that's becoming non-useful.
+
+527
+01:49:41,320 --> 01:49:52,320
+I mean, if you can't really sort of pin down what its role is in vivo in a patient, you've got a lot of literature, but I don't know that you have a lot of knowledge.
+
+528
+01:49:52,320 --> 01:50:04,320
+So how does this fit into the EVO index? How do you, which basically looks at the diversity versus genetic change over time, how do you then use that to clinically make a decision?
+
+529
+01:50:05,320 --> 01:50:24,320
+I don't know. I mean, in dealing with a very heterogeneous population, and I think this is your question, does as you increase the heterogeneity, does that increase the, let's say, its resistance to therapy or the likelihood?
+
+530
+01:50:25,320 --> 01:50:34,320
+And I think that's probably true, but I don't know how that can be taken into account right now in a clinical setting.
+
+531
+01:50:34,320 --> 01:50:43,320
+And I'm sure that someone smarter than me is going to figure this out, but right now I don't have a good feeling about this.
+
+532
+01:50:44,320 --> 01:50:58,320
+So in other words, we can't do something as simple as biopsy patients to get a sense of drug resistance versus non-resistance because it immediately takes them out of the environment in which it matters.
+
+533
+01:50:58,320 --> 01:51:02,320
+And we get back to this problem of, well, we can't really do this in vitro.
+
+534
+01:51:02,320 --> 01:51:03,320
+Right.
+
+535
+01:51:03,320 --> 01:51:04,320
+Right.
+
+536
+01:51:04,320 --> 01:51:15,320
+So I mean, you know, the nice thing, I mean, you get you get information about the tumor, but those cells are dead.
+
+537
+01:51:15,320 --> 01:51:28,320
+You know, what's in the tumor is now going to rapidly diverge from there because the minute you touch it with therapy or, you know, some other perturbation, it's evolving and changing very rapidly.
+
+538
+01:51:29,320 --> 01:51:34,320
+So so that again, it's like the hurricane going on further and further.
+
+539
+01:51:34,320 --> 01:51:43,320
+You know, that that whatever the data you got on day one, you know, is important for day two, but becomes less important on day three and day four and day five.
+
+540
+01:51:43,320 --> 01:51:50,320
+And ultimately then having nothing to do with, you know, having no predictive capacity at all for the hurricane.
+
+541
+01:51:50,320 --> 01:51:56,320
+So so I think one of the things that I think we have to be careful about is how we use data.
+
+542
+01:51:56,320 --> 01:52:02,320
+I mean, there's a lot of interest in circulating DNA and circulating tumor cells and that sort of thing.
+
+543
+01:52:02,320 --> 01:52:05,320
+But there's very little information about where they come from exactly.
+
+544
+01:52:05,320 --> 01:52:11,320
+Are those so are those is the DNA coming from cells that have died because they're less fit.
+
+545
+01:52:11,320 --> 01:52:14,320
+And so those are the losers in the in the evolution game.
+
+546
+01:52:14,320 --> 01:52:17,320
+So they, you know, we care about those.
+
+547
+01:52:17,320 --> 01:52:19,320
+But where are they the winners?
+
+548
+01:52:19,320 --> 01:52:22,320
+You know, in that case, we do care about them.
+
+549
+01:52:22,320 --> 01:52:27,320
+And how do they how are they representative of all the different ranges of cells?
+
+550
+01:52:27,320 --> 01:52:36,320
+Is this is it a is the distribution of DNA representative of the distribution of populations or I think that's highly unlikely.
+
+551
+01:52:36,320 --> 01:52:45,320
+And so I think that we do have to be thinking about using imaging as a way to look at the intertumor evolution over time.
+
+552
+01:52:45,320 --> 01:52:48,320
+It's a non-destructive way to do it.
+
+553
+01:52:48,320 --> 01:53:05,320
+But we have to be able to take the macroscopic scale images that we can get from radiologic studies and bridge the scale to a microscopic level that can tell us about what's going on at that at the cellular and molecular level.
+
+554
+01:53:05,320 --> 01:53:08,320
+And what kind of tool could do that?
+
+555
+01:53:08,320 --> 01:53:25,320
+There is the landscape ecologists have developed technology where they take satellite images and they can they can look at them and say, and again, this is that's this is simplifying things quite a bit.
+
+556
+01:53:25,320 --> 01:53:32,320
+But they could say, well, can we get can we generate a species map from from these these high level images?
+
+557
+01:53:32,320 --> 01:53:37,320
+So and the way they tend to do it is that they look for habitats.
+
+558
+01:53:37,320 --> 01:53:44,320
+They identify distinctive areas within this within the image.
+
+559
+01:53:44,320 --> 01:53:47,320
+Usually there's this there's five types.
+
+560
+01:53:47,320 --> 01:53:50,320
+Every part of the image is one of these five, let's say.
+
+561
+01:53:50,320 --> 01:53:52,320
+And then you you can.
+
+562
+01:53:52,320 --> 01:54:01,320
+So instead of tramping through this entire state or however large area, you just tramp through one of the habitats and say, well, what are the species distribution?
+
+563
+01:54:01,320 --> 01:54:04,320
+What are the species distribution here? And then you extrapolate.
+
+564
+01:54:04,320 --> 01:54:07,320
+I think that those kinds of things.
+
+565
+01:54:07,320 --> 01:54:14,320
+And again, this is part of the reason is that in the images, we see areas of good blood flow, poor blood flow.
+
+566
+01:54:14,320 --> 01:54:18,320
+We might even see areas of temporal variations in blood flow.
+
+567
+01:54:18,320 --> 01:54:20,320
+We can see a dema. We can see a lot of different things.
+
+568
+01:54:20,320 --> 01:54:30,320
+We may be able to find habitats and again, not we won't see the cells, but we can see them indirectly in the sense that we know that, for example, in an area that.
+
+569
+01:54:30,320 --> 01:54:36,320
+Where the blood flow is varying frequently, that there are certain types of phenotypes.
+
+570
+01:54:36,320 --> 01:54:39,320
+They're going to be adapting to that environment.
+
+571
+01:54:39,320 --> 01:54:44,320
+And so we can at least make that much extrapolation and make those kinds of suggestions.
+
+572
+01:54:44,320 --> 01:54:55,320
+It may be we can do better than that and even start to think about molecular properties of the cells that are present, at least in a general way.
+
+573
+01:54:55,320 --> 01:55:06,320
+It's not perfect, but it's at least another mechanism, perhaps in combination with serum with blood circulating tumor cells and cell free DNA and things like that.
+
+574
+01:55:06,320 --> 01:55:09,320
+Cell free DNA, all those things, you know, combining with that.
+
+575
+01:55:09,320 --> 01:55:24,320
+I think probably neither alone is going to be sufficient, but together they may be sufficient that you can understand interferable evolution during therapy, which is really a key piece of clinical data that we currently cannot get.
+
+576
+01:55:25,320 --> 01:55:34,320
+What inference do you draw from your work with respect to the importance or lack thereof of early, early screening?
+
+577
+01:55:34,320 --> 01:55:46,320
+In other words, do you now have a point of view one way or the other from the mainstream view, which truthfully is that screening is kind of important, but probably not that important, right?
+
+578
+01:55:46,320 --> 01:56:04,320
+I mean, there's only five cancers for which, you know, the American College of, or sorry, the, is it, would it be probably the American Cancer Society would even offer, or certainly the US Task Force on Preventative Services would even offer a point of view on screening.
+
+579
+01:56:04,320 --> 01:56:17,320
+Prostate, we've basically thrown our hands up and said, eh, talk to your doctor, you know, so we have a point of view on lung cancer and smokers, mammography, cervical cancer, and colon cancer.
+
+580
+01:56:17,320 --> 01:56:33,320
+But, but given that we now have many more tools to go looking for cancer early, whether it be liquid biopsies and cell free DNA or far, far better imaging studies, does your work point to one way or the other towards having a better shot at treating cancer by getting it early?
+
+581
+01:56:35,320 --> 01:56:44,320
+You know, I think it would make sense that, again, the smaller the population, the more likely you could cause extinction.
+
+582
+01:56:44,320 --> 01:56:56,320
+But that said, I'm not, I don't think really qualified to, you know, comment on the screening program. I am very supportive of screening. It just intuitively makes sense.
+
+583
+01:56:56,320 --> 01:57:01,320
+But that's just from a personal point of view. I'm not based on any work that I've done.
+
+584
+01:57:01,320 --> 01:57:09,320
+Because when I hear, so when I hear what you were saying, it makes me think you should be doubling down on screening, right?
+
+585
+01:57:09,320 --> 01:57:29,320
+It makes me think that notwithstanding the challenges of screening, which are both economic and the psychological toll of false positives, which invariably happened the earlier and earlier you look for a cancer, the trade off is, is those effects that we've described, which is you are going after a colony.
+
+586
+01:57:30,320 --> 01:57:45,320
+You were going after, you know, a group of hunter-gatherer colonies rather than the United States of America, right? You have a much easier chance and they've had far less time to accumulate mutations and they are far less interconnected.
+
+587
+01:57:45,320 --> 01:57:46,320
+Far more vulnerable.
+
+588
+01:57:46,320 --> 01:57:57,320
+Exactly. Why did you select prostate cancer for your trial? Was it simply because you had a great biomarker in PSA or was there anything else about the biology of prostate cancer that attracted you?
+
+589
+01:57:58,320 --> 01:58:05,320
+The two things was that it had a great biomarker and it had a very brave oncologist willing to do it.
+
+590
+01:58:05,320 --> 01:58:25,320
+You should not minimize the courage of the latter because it does go against the grain and does take, you know, the oncologists have to swim against the stream to do this and many of them are really not willing to do it.
+
+591
+01:58:26,320 --> 01:58:36,320
+So it's just, you know, I salute Jin Song Zhang who was the very brave oncologist that ran the trial and did it very well.
+
+592
+01:58:36,320 --> 01:58:48,320
+Well, given the success of that trial now, has that increased the appetite of others to consider doing this either in a larger scale with randomization for prostate cancer and or for other histologists?
+
+593
+01:58:49,320 --> 01:59:05,320
+Minimally. There was a philanthropic fund in Europe that wants to fund a phase three trial in prostate cancer. So that's really good.
+
+594
+01:59:05,320 --> 01:59:17,320
+And I think that's really important. But I would say that at the same time, if anything, I get the feeling there's more resistance.
+
+595
+01:59:17,320 --> 01:59:28,320
+I think just everybody's got their back up. It's interesting that the article that I mentioned about showing how you can you can eliminate the resistant cells.
+
+596
+01:59:30,320 --> 01:59:40,320
+I just got I got this morning actually got the 10th rejection for that article. I mean, it just people just don't want to hear it.
+
+597
+01:59:40,320 --> 01:59:49,320
+So it's been I don't get the sense that there's any greater interest in that sense.
+
+598
+01:59:50,320 --> 02:00:02,320
+If funding were available, what what and more importantly than funding or at least equally important would be oncologist collaboration. What what other experiments would you want to do?
+
+599
+02:00:03,320 --> 02:00:14,320
+Well, I think there's some low hanging fruit. I think ovarian cancer is one that could be treated using this technique and very successfully again, they have a nice serum marker.
+
+600
+02:00:15,320 --> 02:00:25,320
+There is a I think that small cell lung cancer, almost universally fatal disease, but one that is responsive extremely well to initial therapy.
+
+601
+02:00:25,320 --> 02:00:43,320
+So, you know, any tumor that responds well to initial therapy to the point that you virtually cannot see any tumor is one that in theory could be I think we could eradicate and then initial prostate cancer therapy.
+
+602
+02:00:44,320 --> 02:00:45,320
+Pre-medistatic.
+
+603
+02:00:45,320 --> 02:01:01,320
+No, no metastatic. Men that present with metastatic prostate cancer, they get they're treated with androgen deprivation therapy and the PSA becomes normal or undetectable in 90 plus percent of the of these of these men.
+
+604
+02:01:02,320 --> 02:01:14,320
+And of course, what do we do? We just keep treating with hydrogen deprivation therapy. I think which by the way, says nothing about the metabolic damage and the total metabolic derangement it it brings on those men.
+
+605
+02:01:15,320 --> 02:01:21,320
+So if they don't die from prostate cancer, they're going to die from diabetes and the complications of fatty liver disease.
+
+606
+02:01:22,320 --> 02:01:37,320
+Yeah, I mean, they hate this disease that that the therapy. So I think we should when as soon as it normalizes, we should, you know, use additional therapies hit it again. You know, this is the knife fight again.
+
+607
+02:01:38,320 --> 02:01:53,320
+And and that's a very common disease and a very common scenario. And it's interesting that I cannot get anyone, any any oncologist to be interested in doing that.
+
+608
+02:01:54,320 --> 02:01:59,320
+To me, that's very low hanging fruit that we should certainly try.
+
+609
+02:02:01,320 --> 02:02:15,320
+What or we could try the this the cycling, but with the idea that we drive the the resistance cells to extinction also probably fairly easy to do, perhaps even easier to do.
+
+610
+02:02:16,320 --> 02:02:31,320
+But with the idea that we we we get to the point where these men don't have to keep taking this the end of deprivation therapy. I mean, it's funny because you're exactly right. I mean, I think there tends to be the sense of it's not really cancer therapy and it's certainly not like chemotherapy.
+
+611
+02:02:32,320 --> 02:02:35,320
+I find it to be worse, truthfully, for the patient.
+
+612
+02:02:36,320 --> 02:02:44,320
+And yes, I mean, it's we should not minimize the effect of this, which is very significant. And it's a pretty common problem.
+
+613
+02:02:45,320 --> 02:02:56,320
+So so I think that we there are some opportunities. I don't think to be asked. I don't think this will be something that I'll see in my lifetime.
+
+614
+02:02:57,320 --> 02:03:10,320
+But but I do hope that that, you know, the next generation of oncologists and cancer biologists will try to at least bring this another step forward.
+
+615
+02:03:11,320 --> 02:03:18,320
+Is there a cancer that you would stay away from at the early stage? In other words, you obviously want to start with the ones where you think you have the highest likelihood of success.
+
+616
+02:03:19,320 --> 02:03:24,320
+What would you put at the other end of that spectrum where you think, you know, that's that's going to be a really tough problem to solve?
+
+617
+02:03:25,320 --> 02:03:38,320
+I think the toughest problem I can think of is glioblastoma, one that you mentioned before. I just don't understand how I mean, every other tumor virtually is the problem is not local control.
+
+618
+02:03:39,320 --> 02:03:53,320
+If you if you control locally, you cure it. It's a mastoiditis. GBM is is you can't control it. I it bothers me that this this there's something we're missing in this that that
+
+619
+02:03:55,320 --> 02:04:10,320
+I don't understand. But but it feels like it's an intimidating cancer. And I would never try to get involved with it if if I I mean, I would I mean, I'd love to be able to make an impact to help people with the disease.
+
+620
+02:04:11,320 --> 02:04:18,320
+But it's such a difficult problem that I would be loath to do that unless someone came up with a really good idea.
+
+621
+02:04:19,320 --> 02:04:31,320
+I mean, I think part of the problem is there's the there's the quote unquote, the simple mass effect problem, right? Which is you're just you know, anything in the brain is problematic due to the inability of the organ to absorb growth.
+
+622
+02:04:32,320 --> 02:04:47,320
+I think a second problem with GBM is the ubiquity of radiation that is understandably used to treat it. But it introduces mutagenesis probably at an even greater rate. So now you have two layers. It's a very simple problem.
+
+623
+02:04:48,320 --> 02:05:04,320
+And it basically puts I think it puts a bit of an accelerator on its ability to out compete its environment. It just introduces a new genetic heterogeneity. I don't know if that's right. I mean, that's just a theoretical argument. I don't know that that's been documented.
+
+624
+02:05:05,320 --> 02:05:23,320
+It's it's interesting. Of course, the brain is inaccessible. And so it's hard to see what goes on. But but just even what we know is that, you know, you hammer this tumor with I mean, you you take take it out the bulk it most of it.
+
+625
+02:05:24,320 --> 02:05:49,320
+Give it radiation therapy, chemotherapy. I mean, very little can survive that. And yet it does. And the question is, is it because as some people think that that tumor cells on the periphery sort of grow back into it or is it because it's there's there's resistant cells that emerge that are so tough that you can virtually hit them with a hammer and they and they they just shrug it off.
+
+626
+02:05:50,320 --> 02:06:09,320
+One of the things I suggested at one point, maybe we could do radiation first and then take then do the surgery and see if you can learn about what how the cells change during radiation therapy that could give you some idea about whether they're evolving resistance, whether that's the major factor or not.
+
+627
+02:06:10,320 --> 02:06:19,320
+But it's it's very hard to convince anybody to do it. And the surgeons, of course, are loath to work on anything that's that's had radiation before it.
+
+628
+02:06:20,320 --> 02:06:32,320
+But it's interesting because the neurosurgeon said, well, you probably do it, but nobody wants to do it. You know, it's just kind of those, you know, everybody knows that, you know, that's not what you're supposed to do.
+
+629
+02:06:33,320 --> 02:06:40,320
+So it's never gone anywhere. And of course, I've not pushed it because I would be afraid of causing harm.
+
+630
+02:06:41,320 --> 02:06:56,320
+What about other bad actors? I mean, I always decide to put cancers in the category of there's the cancers that give cancer a bad name like G.B.M. is one of them. Pancreatic adenois another. What what would be your level of optimism or pessimism around pancreatic adenocarcinoma?
+
+631
+02:06:57,320 --> 02:07:15,320
+You know, again, I've sort of worked with some people on this. I think there's still there's opportunities. Again, I don't think we understand enough about the biology. So, for example, classically, pancreatic cancers have a lot of fibrosis associated with it.
+
+632
+02:07:16,320 --> 02:07:40,320
+One question is, is that fibrosis a host response or is it a tumor strategy? Now, nobody really seems to know that. And, you know, so little things like that. So should we promote fibroblasts? I mean, you know, classically, we try to reduce the fibroblasts because they there's this idea that you can't you can get more therapy.
+
+633
+02:07:40,320 --> 02:08:09,320
+And if you do that, but suppose it's a it's a host response. Maybe we should be giving fibroblast growth factor to them. And maybe they're competing against each other for space. And if you just promote the fibroblasts a little bit, they'll kill off the tumor cell for you. Again, I don't know that. I'm just you know, I'm just saying that it with every tumor, we could ask questions because we often don't know really basic things about them, about the underlying.
+
+634
+02:08:11,320 --> 02:08:36,320
+Equivalution dynamics and and by if we could learn more about them, I think we could, you know, have some some different solutions of different strategies. I will point out that another brave pediatric oncologist that I work with Damon Reed has started a trial for kids with metastatic sarcoma.
+
+635
+02:08:36,320 --> 02:08:57,320
+And, and if you know, as for giving cancer a bad name, you know, this is a this is one of those tumors that responds very well. This is a rhabdomyosarcoma that responds very well to chemotherapy, and then comes back and they and and they die. And of course, these are teenagers, young adults.
+
+636
+02:08:58,320 --> 02:09:20,320
+I can't think of anything more tragic short of a younger children dying. And so he is actually trying an extinction therapy protocol in a in a trial. So I just wanted to give him some recognition for for doing this. And I certainly hope it got. I would love to help these kids.
+
+637
+02:09:21,320 --> 02:09:34,320
+And there's no doubt, Bob, that there can be people listening to this who either themselves or their loved ones are progressing through therapy and basically looking down the barrel of no options.
+
+638
+02:09:35,320 --> 02:09:48,320
+And where so let's say someone's in that boat and they hear this and they say, well, look, I'm basically being told my by my oncologist. I've progressed through all my therapy or the term that oncologist use some of the some of the therapy.
+
+639
+02:09:50,320 --> 02:10:06,320
+Some oncologist use that I don't particularly find fond as you failed therapy. I hate that expression. And let's say they're listening to this and they say, I want to find a doctor who can help me try this therapy. What would what would their options be?
+
+640
+02:10:07,320 --> 02:10:21,320
+Well, you know, you have to find an oncologist willing to do this. And there are some, you know, who will will work with them. But there's a lot that will not.
+
+641
+02:10:22,320 --> 02:10:34,320
+And it's a very difficult problem. And I can't help because I mean, I'm not an oncologist. I and I'm not qualified to be, you know, prescribing anything for people.
+
+642
+02:10:35,320 --> 02:10:50,320
+Really always, you know, when people call me, I said, I'm happy to work with their oncologist. If your oncologist is willing to to try something different. I'm happy to at least give them my best sense for what the underlying equal evolution dynamics.
+
+643
+02:10:51,320 --> 02:10:53,320
+They're not in the right place. I think that's a big problem.
+
+644
+02:10:54,320 --> 02:11:00,320
+So I think that's a big problem. And I think that's a big problem as well.
+
+645
+02:11:01,320 --> 02:11:13,320
+Well, we're not going to have to have a lot of people who are understanding, of course, that a lot of times we don't really know for sure. But but this, again, in desperate situations, if they want to try this, that's between them and their doctor.
+
+646
+02:11:13,320 --> 02:11:27,320
+And I'm very afraid of doing anything that's nonstandard because it does open them up to lawsuits and that sort of thing. So it's and I understand that. And I'm not that's not a criticism. It's just a statement.
+
+647
+02:11:28,320 --> 02:11:40,320
+So unfortunately, it's a very difficult problem. And it's a lot easier to deal with patients that are just presenting with cancer than the ones who have been through many therapies, unfortunately.
+
+648
+02:11:40,320 --> 02:11:56,320
+And I've you know, my father died of a soft cancer. And I remember this vividly the desperation and the despair and everything that comes along with people at the end stage of the disease.
+
+649
+02:11:57,320 --> 02:12:07,320
+And I would love to help. I mean, I really wish I could. But unfortunately, most of the time, it's there's just nothing left to do.
+
+650
+02:12:08,320 --> 02:12:24,320
+Well, Bob, I have found your your story really interesting and really provocative. And I think the frustrating thing about what you say is that there is, in my opinion, very little downside to trying it.
+
+651
+02:12:25,320 --> 02:12:40,320
+It would be very easy to conduct clinical trials that would have a crossover arm where, you know, you could take this adoptive approach, pit it against a standard approach. And if the patients on the adoptive approach were progressing, you could cross them over.
+
+652
+02:12:41,320 --> 02:12:53,320
+And by the way, vice versa, when the patients who are progressing on the standard therapy too quickly, you would cross them over. In other words, you know, when you think about some of the risks that we talk about in medicine, this actually strikes me as a very, very important thing.
+
+653
+02:12:54,320 --> 02:13:10,320
+And I think that's a relatively low risk proposition. The greatest risk is to our egos and to the dogma as opposed to the patients. And that's to me a bit of the unfortunate part of medicine is is when we then we're all guilty of it.
+
+654
+02:13:10,320 --> 02:13:25,320
+I can probably count 100 examples of where my ego gets in the way. But but this is a particularly sad example of it when there is a disease that we've really had very limited success treating, right? You referenced Nixon earlier, right?
+
+655
+02:13:25,320 --> 02:13:36,320
+The war on cancer is now in its 50th year. And we don't have a whole heck of a lot to show for it.
+
+656
+02:13:37,320 --> 02:13:50,320
+Certainly not given the time and the resources that have gone into it. I don't I don't think anybody in that era, in the early 1970s, if they had a crystal ball and showed them what we have today would say, that's success.
+
+657
+02:13:51,320 --> 02:14:06,320
+Yeah, I mean, we certainly made some progress, but we have not made a lot of progress in the metastatic, you know, cancer population, which is still more or less as fatal as it was 50 years ago, and of course, well before then.
+
+658
+02:14:07,320 --> 02:14:20,320
+And, you know, I think we do. I think it's important to try to rethink some of the things we do that just just keep doing the doing the same thing over and over again and just keep looking for new drugs.
+
+659
+02:14:21,320 --> 02:14:38,320
+Is certainly, you know, new drugs. No, that is important. But I think we could do better with the old drugs. And I don't think that we've been really that incentivized. I'm not sure we've really taken a lot of time to think this.
+
+660
+02:14:39,320 --> 02:14:50,320
+And again, this is perhaps a bit of the what we started with that, you know, intuitively, it would seem like killing as many cancer cells as possible is the best approach for the patient.
+
+661
+02:14:51,320 --> 02:15:02,320
+And in fact, in a nonlinear system, intuition is often not wrong, but it's but nevertheless, it seems like it's it's right. I mean, we just you feel absolutely certain you're correct.
+
+662
+02:15:03,320 --> 02:15:10,320
+Even when, you know, your own eyes tell you that it's different. And that's hard. I mean, it's hard for all of us.
+
+663
+02:15:11,320 --> 02:15:28,320
+I mean, I think look, I think that statement is a great place to end this, which is in nonlinear systems, your intuition can be very misleading. And that's that's true in life of which biology, especially this corner of biology happens to be exceedingly nonlinear.
+
+664
+02:15:29,320 --> 02:15:44,320
+And with that, Bob, I want to I want to thank you for your generosity and time and more much more importantly, of course, the work you've done, which I think is helping a lot of people. And you're right. I mean, it might not put a dent in the world of cancer in the next decade.
+
+665
+02:15:45,320 --> 02:16:05,320
+But I as we alluded to earlier, sometimes some of the most interesting things in medicine take decades, plural, to take hold. So hopefully there are a number of people who are going to be able to pick up this baton and run with you and eventually even be able to carry it.
+
+666
+02:16:06,320 --> 02:16:08,320
+Thank you. Thank you. It's been a pleasure.
+
+667
+02:16:09,320 --> 02:16:21,320
+Thank you for listening to this week's episode of The Drive. If you're interested in diving deeper into any topics we discuss, we've created a membership program that allows us to bring you more in-depth, exclusive content without relying on paid ads.
+
+668
+02:16:22,320 --> 02:16:26,320
+It's our goal to ensure members get back much more than the price of the subscription.
+
+669
+02:16:27,320 --> 02:16:30,320
+Now to that end, membership benefits include a bunch of things.
+
+670
+02:16:30,320 --> 02:16:41,320
+One, totally kick-ass comprehensive podcast show notes that detail every topic, paper, person, thing we discuss on each episode. The word on the street is nobody's show notes rival these.
+
+671
+02:16:42,320 --> 02:16:46,320
+Monthly AMA episodes or Ask Me Anything episodes, hearing these episodes completely.
+
+672
+02:16:47,320 --> 02:16:52,320
+Access to our private podcast feed that allows you to hear everything without having to listen to spiels like this.
+
+673
+02:16:53,320 --> 02:17:02,320
+The Qualies, which are a super short podcast that we release every Tuesday through Friday, highlighting the best questions, topics, and tactics discussed on previous episodes of The Drive.
+
+674
+02:17:03,320 --> 02:17:08,320
+This is a great way to catch up on previous episodes without having to go back and necessarily listen to everyone.
+
+675
+02:17:09,320 --> 02:17:18,320
+Steep discounts on products that I believe in, but for which I'm not getting paid to endorse, and a whole bunch of other benefits that we continue to trickle in as time goes on.
+
+676
+02:17:19,320 --> 02:17:25,320
+If you want to learn more and access these member-only benefits, you can head over to PeterAttiaMD.com forward slash subscribe.
+
+677
+02:17:26,320 --> 02:17:31,320
+You can find me on Twitter, Instagram, and Facebook, all with the ID PeterAttiaMD.
+
+678
+02:17:32,320 --> 02:17:36,320
+You can also leave us a review on Apple Podcasts or whatever podcast player you listen on.
+
+679
+02:17:37,320 --> 02:17:47,320
+This podcast is for general informational purposes only, and does not constitute the practice of medicine, nursing, or other professional healthcare services, including the giving of medical advice.
+
+680
+02:17:48,320 --> 02:17:50,320
+No doctor-patient relationship is formed.
+
+681
+02:17:51,320 --> 02:17:55,320
+The use of this information and the materials linked to this podcast is at the user's own risk.
+
+682
+02:17:56,320 --> 02:18:02,320
+The content on this podcast is not intended to be a substitute for professional medical advice, diagnosis, or treatment.
+
+683
+02:18:03,320 --> 02:18:14,320
+Users should not disregard or delay in obtaining medical advice from any medical condition they have, and they should seek the assistance of their healthcare professionals for any such conditions.
+
+684
+02:18:15,320 --> 02:18:17,320
+Finally, I take conflicts of interest very seriously.
+
+685
+02:18:18,320 --> 02:18:30,320
+For all of my disclosures and the companies I invest in or advise, please visit PeterAttiaMD.com forward slash about, where I keep an up-to-date and active list of such companies.
+
+686
+02:18:32,320 --> 02:18:34,320
+Thank you.
+
